@@ -17,36 +17,36 @@
     <item>Qua</item>
     <item>Qui</item>
     <item>Sex</item>
-    <item>Sáb</item>
+    <item>Sab</item>
     <item>Hoje</item>
   </string-array>
   <string-array name="quick_settings_status_principleTerm">
-    <item>Grande frio</item>
-    <item>Chuvas</item>
+    <item>Bem frio</item>
+    <item>Chuva</item>
     <item>Equinócio de verão</item>
-    <item>Granizo</item>
-    <item>Chuva Intensa</item>
-    <item>Solstício de verão</item>
-    <item>Onda de calor</item>
-    <item>Descida de temperatura</item>
+    <item>Grain rain</item>
+    <item>Grain buds</item>
+    <item>Summer solstice</item>
+    <item>Calor</item>
+    <item>Parando o calor</item>
     <item>Equinócio de outono</item>
-    <item>Geada</item>
-    <item>Neve fraca</item>
-    <item>Solstício de Inverno</item>
+    <item>Queda de gelo</item>
+    <item>Pouca neve</item>
+    <item>Solstício de inverno</item>
   </string-array>
   <string-array name="quick_settings_status_sectionalTerm">
-    <item>Frio ligeiro</item>
-    <item>Começa Primavera</item>
-    <item>Insectos despertam</item>
-    <item>Limpo e brilhante</item>
-    <item>Verão começa</item>
+    <item>Um pouco frio</item>
+    <item>A primavera começa</item>
+    <item>Insects awaken</item>
+    <item>Claro e brilhante</item>
+    <item>O verão começa</item>
     <item>Grain in ear</item>
-    <item>Calor ligeiro</item>
-    <item>Outono começa</item>
+    <item>Pouco calor</item>
+    <item>O outono começa</item>
     <item>White dews</item>
     <item>Cold dews</item>
-    <item>Inverno começa</item>
-    <item>Neve intensa</item>
+    <item>O inverno começa</item>
+    <item>Neve pesada</item>
   </string-array>
   <string-array name="quick_settings_status_chineseTen">
     <item>Chu</item>
@@ -97,7 +97,7 @@
     <item>com.huami.watch.watchface.AnalogWatchFaceNine</item>
     <item>com.huami.watch.watchface.AnalogWatchFaceTen</item>
     <item>com.huami.watch.watchface.AnalogWatchFaceEleven</item>
-    <item>com.huami.watch.watchface.DigitalWatchFaceSportTwelve</item>
+    <item>com.huami.watch.watchface.DigitalWatchFaceSportTwelves</item>
     <item>com.huami.watch.watchface.AnalogWatchFaceThirteen</item>
     <item>com.huami.watch.watchface.AnalogWatchFaceFourteen</item>
     <item>wfzeacf94.wfz</item>
@@ -141,42 +141,42 @@
   <string-array name="weather_card_aqilevel">
     <item>Ar Excelente</item>
     <item>Ar Bom</item>
-    <item>Pouca Poluição</item>
+    <item>Poluição Luminosa</item>
     <item>Poluição Moderada</item>
-    <item>Muita Poluição</item>
-    <item>Poluição Grave</item>
+    <item>Poluição Pesada</item>
+    <item>Poluição grave</item>
     <item></item>
   </string-array>
   <string-array name="weather_card_quality">
-    <item>Adequado para desporto</item>
-    <item>Inadequado para desporto</item>
+    <item>Adequado para esportes</item>
+    <item>Não está para esportes</item>
     <item></item>
   </string-array>
   <string-array name="quick_settings_status_weather">
-    <item>Soalheiro</item>
-    <item>Nuvens</item>
+    <item>Ensolarado</item>
     <item>Nublado</item>
-    <item>Nevoeiro</item>
-    <item>Nevoeiro</item>
+    <item>Nublado</item>
+    <item>Névoa</item>
+    <item>Fumaça</item>
     <item>Chuva</item>
-    <item>Trovada</item>
-    <item>Chuva fraca</item>
+    <item>Chuva de trovão</item>
+    <item>Chuva leve</item>
     <item>Chuva moderada</item>
-    <item>Chuva forte</item>
+    <item>Chuva pesada</item>
     <item>Tempestade</item>
     <item>Chuva torrencial</item>
+    <item>Sleet</item>
+    <item>Chuva congelante</item>
     <item>Granizo</item>
-    <item>Chuva gelada</item>
-    <item>Granizo</item>
-    <item>Neve fraca</item>
+    <item>Pouca neve</item>
     <item>Neve moderada</item>
-    <item>Neve intensa</item>
+    <item>Neve pesada</item>
     <item>Tempestade de neve</item>
-    <item>Chuvisco de neve</item>
+    <item>Chuva de neve</item>
     <item>Poeira</item>
-    <item>Vento de areia</item>
+    <item>Soprando areia</item>
     <item>Tempestade de areia</item>
-    <item>Tempestade de areia forte</item>
+    <item>Forte tempestade de areia</item>
     <item>Sem dados</item>
   </string-array>
   <string-array name="sport_te_desc_array">
@@ -203,14 +203,14 @@
   </string-array>
   <string-array name="dally_performence_level_status">
     <item>Fatigado</item>
-    <item>Média</item>
+    <item>Médio</item>
     <item>Bom</item>
   </string-array>
   <string-array name="vo2_max_level_status">
-    <item>muito pobre</item>
-    <item>Justo</item>
-    <item>Pobre</item>
-    <item>Média</item>
+    <item>Bem Mal</item>
+    <item>Razoável</item>
+    <item>Mal</item>
+    <item>Médio</item>
     <item>Bom</item>
     <item>Muito Bom</item>
     <item>Excelente</item>
