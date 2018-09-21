@@ -468,11 +468,11 @@ Contactez votre opérateur pour obtenir une autre carte SIM."</string>
   <string name="keyguard_accessibility_pin_area">PIN area</string>
   <string name="keyguard_accessibility_sim_pin_area">SIM PIN area</string>
   <string name="keyguard_accessibility_sim_puk_area">SIM PUK area</string>
-  <string name="keyguard_accessibility_transport_prev_description">Previous track button</string>
-  <string name="keyguard_accessibility_transport_next_description">Next track button</string>
-  <string name="keyguard_accessibility_transport_pause_description">Pause button</string>
-  <string name="keyguard_accessibility_transport_play_description">Play button</string>
-  <string name="keyguard_accessibility_transport_stop_description">Stop button</string>
+  <string name="keyguard_accessibility_transport_prev_description">Bouton Précédent</string>
+  <string name="keyguard_accessibility_transport_next_description">Bouton Suivant</string>
+  <string name="keyguard_accessibility_transport_pause_description">Bouton Pause</string>
+  <string name="keyguard_accessibility_transport_play_description">Bouton Lire</string>
+  <string name="keyguard_accessibility_transport_stop_description">Bouton Stop</string>
   <string name="keyguard_accessibility_transport_thumbs_up_description">Thumbs up</string>
   <string name="keyguard_accessibility_transport_thumbs_down_description">Thumbs down</string>
   <string name="keyguard_accessibility_transport_heart_description">Coeur</string>
@@ -526,10 +526,10 @@ Contactez votre opérateur pour obtenir une autre carte SIM."</string>
   <string name="kg_login_invalid_input">Identifiant ou mot de passe invalide.</string>
   <string name="kg_login_account_recovery_hint">\"Identifiant ou mot de passe oublié?
 Allez sur \"<b>google.com/accounts/recovery</b>.</string>
-  <string name="kg_login_checking_password">Checking account…</string>
-  <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"You have incorrectly typed your PIN %d times. 
+  <string name="kg_login_checking_password">Vérification du compte…</string>
+  <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"Vous avez saisi un code PIN incorrect à %d reprises. 
 
-Try again in %d seconds."</string>
+Veuillez réessayer dans %d secondes."</string>
   <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"You have incorrectly typed your password %d times. 
 
 Try again in %d seconds."</string>
