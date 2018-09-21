@@ -7,34 +7,34 @@
     <item>com.huami.watch.deskclock/com.huami.watch.deskclock.countdown.CountdownWidget</item>
   </string-array>
   <string-array name="alarm_set">
-    <item>Alarm set for less than 1 minute from now.</item>
-    <item>Alarm set for %1$s from now.</item>
-    <item>Alarm set for %2$s from now.</item>
-    <item>Alarm set for %1$s and %2$s from now.</item>
-    <item>Alarm set for %3$s from now.</item>
-    <item>Alarm set for %1$s and %3$s from now.</item>
-    <item>Alarm set for %2$s and %3$s from now.</item>
-    <item>Alarm set for %1$s, %2$s, and %3$s from now.</item>
+    <item>Alarma minutu bat baino lehen izango da</item>
+    <item>Alarma %1$s-tan izango da</item>
+    <item>Alarma %2$s-tan izango da</item>
+    <item>Alarma %1$s eta %2$s-tan izango da</item>
+    <item>Alarma %3$s-tan izango da</item>
+    <item>Alarma %1$seta %3$s-tan izango da</item>
+    <item>Alarma %2$s eta %3$s-tan izango da</item>
+    <item>Aralma %1$s , %2$s eta %3$s-tan izango da.</item>
   </string-array>
   <string-array name="repeat_description">
-    <item>Once only</item>
-    <item>Mon</item>
-    <item>Tue</item>
-    <item>Wed</item>
-    <item>Thu</item>
-    <item>Fri</item>
-    <item>Sat</item>
-    <item>Sun</item>
+    <item>Behin bakarrik</item>
+    <item>Astelehena</item>
+    <item>Asteartea</item>
+    <item>Asteazkena</item>
+    <item>Osteguna</item>
+    <item>Ostirala</item>
+    <item>Larunbata</item>
+    <item>Igandea</item>
   </string-array>
   <string-array name="short_week_days">
     <item></item>
-    <item>Sun</item>
-    <item>Mon</item>
-    <item>Tue</item>
-    <item>Wed</item>
-    <item>Thu</item>
-    <item>Fri</item>
-    <item>Sat</item>
+    <item>Ig</item>
+    <item>Al</item>
+    <item>As</item>
+    <item>Az</item>
+    <item>Og</item>
+    <item>Or</item>
+    <item>Lr</item>
   </string-array>
   <string-array name="stopwatch_format_set">
     <item>%2$02d:%3$02d.%4$02d</item>

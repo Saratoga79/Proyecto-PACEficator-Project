@@ -11,42 +11,42 @@
     <item>com.android.mms</item>
   </string-array>
   <string-array name="quick_settings_status_week">
-    <item>Sun</item>
-    <item>Mon</item>
-    <item>Tue</item>
-    <item>Wed</item>
-    <item>Thu</item>
-    <item>Fri</item>
-    <item>Sat</item>
-    <item>Today</item>
+    <item>Vas</item>
+    <item>Hét</item>
+    <item>Ke</item>
+    <item>Sze</item>
+    <item>Csü</item>
+    <item>Pén</item>
+    <item>Szo</item>
+    <item>Ma</item>
   </string-array>
   <string-array name="quick_settings_status_principleTerm">
-    <item>Great cold</item>
-    <item>The rains</item>
-    <item>Vernal Equinox</item>
-    <item>Grain rain</item>
-    <item>Grain buds</item>
-    <item>Summer solstice</item>
-    <item>Great heat</item>
-    <item>Stopping the heat</item>
-    <item>Autumn Equinox</item>
-    <item>Hoar-frost falls</item>
-    <item>Light snow</item>
-    <item>Winter Solstice</item>
+    <item>Nagy hideg</item>
+    <item>Esőzések</item>
+    <item>Tavaszi napéjegyenlőség</item>
+    <item>Gabona öntöző</item>
+    <item>Gabona rügyek</item>
+    <item>Nyári napforduló</item>
+    <item>Nagy meleg</item>
+    <item>Kánikula vége</item>
+    <item>Őszi napéjegyenlőség</item>
+    <item>Dér-Zúzmara</item>
+    <item>Gyenge havazás</item>
+    <item>Téli napforduló</item>
   </string-array>
   <string-array name="quick_settings_status_sectionalTerm">
-    <item>Slight cold</item>
-    <item>Spring begins</item>
-    <item>Insects awaken</item>
-    <item>Clear and bright</item>
-    <item>Summer begins</item>
-    <item>Grain in ear</item>
-    <item>Slight heat</item>
-    <item>Autumn begins</item>
-    <item>White dews</item>
-    <item>Cold dews</item>
-    <item>Winter begins</item>
-    <item>Heavy snow</item>
+    <item>Enyhe hideg</item>
+    <item>Kezdődik a tavasz</item>
+    <item>Rovarok ébredése</item>
+    <item>Tiszta, napos</item>
+    <item>Kezdődik a nyár</item>
+    <item>A természet hangjai</item>
+    <item>Enyhe meleg</item>
+    <item>Kezdődik az ősz</item>
+    <item>Dér</item>
+    <item>Hideg harmat</item>
+    <item>Kezdődik a tél</item>
+    <item>Nagy havazás</item>
   </string-array>
   <string-array name="quick_settings_status_chineseTen">
     <item>Chu</item>
@@ -139,45 +139,45 @@
     <item>wfz3897e9.wfz</item>
   </string-array>
   <string-array name="weather_card_aqilevel">
-    <item>Air Excellent</item>
-    <item>Air Fine</item>
-    <item>Light Pollution</item>
-    <item>Moderate Pollution</item>
-    <item>Heavy Pollution</item>
-    <item>Serious Pollution</item>
+    <item>Kiváló levegő</item>
+    <item>Jó levegő</item>
+    <item>Gyengén szennyezett</item>
+    <item>Közepesen szennyezett</item>
+    <item>Szennyezett</item>
+    <item>Súlyosan szennyezett</item>
     <item></item>
   </string-array>
   <string-array name="weather_card_quality">
-    <item>Suitable for Sports</item>
-    <item>Unsuitable for sports</item>
+    <item>Sportra alkalmas</item>
+    <item>Sportolásra alkalmatlan</item>
     <item></item>
   </string-array>
   <string-array name="quick_settings_status_weather">
-    <item>Sunny</item>
-    <item>Cloudy</item>
-    <item>Overcast</item>
-    <item>Fog</item>
-    <item>Smog</item>
-    <item>Shower</item>
-    <item>Thunder shower</item>
-    <item>Light rain</item>
-    <item>Moderate rain</item>
-    <item>Heavy rain</item>
-    <item>Rainstorm</item>
-    <item>Torrential rain</item>
-    <item>Sleet</item>
-    <item>Freezing rain</item>
-    <item>Hail</item>
-    <item>Light snow</item>
-    <item>Moderate snow</item>
-    <item>Heavy snow</item>
-    <item>Snowstorm</item>
-    <item>Snow shower</item>
-    <item>Dust</item>
-    <item>Blowing sand</item>
-    <item>Sand storm</item>
-    <item>Strong sand storm</item>
-    <item>No Data</item>
+    <item>Napos</item>
+    <item>Felhős</item>
+    <item>Borult</item>
+    <item>Köd</item>
+    <item>Szmog</item>
+    <item>Zápor</item>
+    <item>Zivatar</item>
+    <item>Könnyű eső</item>
+    <item>Mérsékelt eső</item>
+    <item>Zápor</item>
+    <item>Felhőszakadás</item>
+    <item>Szakadó eső</item>
+    <item>Havas eső</item>
+    <item>Ónos eső</item>
+    <item>Jégeső</item>
+    <item>Gyenge havazás</item>
+    <item>Közepes havazás</item>
+    <item>Nagy havazás</item>
+    <item>Hóvihar</item>
+    <item>Hózápor</item>
+    <item>Por</item>
+    <item>Homokszórás</item>
+    <item>Homokvihar</item>
+    <item>Erős homokvihar</item>
+    <item>Nincs adat</item>
   </string-array>
   <string-array name="sport_te_desc_array">
     <item>sport_te_desc_level_01</item>
@@ -202,18 +202,18 @@
     <item>sport_target_remind_desc_01</item>
   </string-array>
   <string-array name="dally_performence_level_status">
-    <item>Fatigued</item>
-    <item>Average</item>
-    <item>Good</item>
+    <item>Fáradt</item>
+    <item>Átlagos</item>
+    <item>Jó</item>
   </string-array>
   <string-array name="vo2_max_level_status">
-    <item>Very Poor</item>
-    <item>Fair</item>
-    <item>Poor</item>
-    <item>Average</item>
-    <item>Good</item>
-    <item>Very Good</item>
-    <item>Excellent</item>
+    <item>Nagyon gyenge</item>
+    <item>Elég jó</item>
+    <item>Gyenge</item>
+    <item>Átlagos</item>
+    <item>Jó</item>
+    <item>Nagyon jó</item>
+    <item>Kiváló</item>
   </string-array>
   <string-array name="spring_depend">
     <item>com.huami.watch.newsport/com.huami.watch.newsport.widget.SportWidget</item>
