@@ -341,60 +341,61 @@ Quản trị viên của bạn có thể quản lý thiết bị và mạng, k�
   <string name="monitoring_description_legacy_vpn">"Bạn đã kết nối tới VPN (\"%1$s\").
 
 Dịch vụ VPN của bạn có thể giám sát thiết bị, mạng và các hoạt động kể cả email, ứng dụng và trang web mật."</string>
-  <string name="monitoring_description_vpn_device_owned">"This device is managed by:
+  <string name="monitoring_description_vpn_device_owned">"Thiết bị này được quản lý bởi:
 %1$s
 
-Your administrator is capable of monitoring your network activity including emails, apps, and secure websites. For more information, contact your administrator.
+Quản trị viên có khả năng giám sát mạng và hoạt động của bạn kể cả email, ứng dụng, và trang web mật. Cần thêm thông tin, liên hệ với quản trị viên.
 
-Also, you gave \"%2$s\" permission to set up a VPN connection. This app can monitor network activity too."</string>
-  <string name="monitoring_description_legacy_vpn_device_owned">"This device is managed by:
+Mặt khác, bạn cũng trao quyền cài đặt kết nối VPN cho \"%2$s\". Ứng dụng này cũng có thể quản lý hoạt động của bạn."</string>
+  <string name="monitoring_description_legacy_vpn_device_owned">"Thiết bị này được quản lý bởi:
 %1$s
 
-Your administrator is capable of monitoring your network activity including emails, apps, and secure websites. For more information, contact your administrator.
+Quản trị viên có khả năng giám sát mạng và hoạt động của bạn kể cả email, ứng dụng, và trang web mật. Cần thêm thông tin, liên hệ với quản trị viên.
 
-Also, you\'re connected to a VPN (\"%2$s\"). Your VPN service provider can monitor network activity too."</string>
-  <string name="monitoring_description_profile_owned">"This profile is managed by:
+Mặt khác, bạn cũng đang kết nối tới VPN (\"%2$s\"). Nhà cung cấp VPN cũng có thể quản lý hoạt động của bạn."</string>
+  <string name="monitoring_description_profile_owned">"Thiết bị này được quản lý bởi:
 %1$s
 
-Your administrator can monitor your device and network activity, including emails, apps and secure websites.
+Quản trị viên của bạn có thể quản lý thiết bị và mạng, kể cả email, ứng dụng và trang web mật.
 
-For more information, contact your administrator."</string>
-  <string name="monitoring_description_device_and_profile_owned">"This device is managed by:
+Để hiểu thêm, liên hệ quản trị viên."</string>
+  <string name="monitoring_description_device_and_profile_owned">"Thiết bị này được quản lý bởi:
 %1$s
-Your profile is managed by:
+
+Hồ sơ của bạn được quản lý bởi:
 %2$s
 
-Your administrator can monitor your device and network activity, including emails, apps and secure websites.
+Quản trị viên của bạn có thể quản lý thiết bị và mạng, kể cả email, ứng dụng và trang web mật.
 
-For more information, contact your administrator."</string>
-  <string name="monitoring_description_vpn_profile_owned">"This profile is managed by:
+Để biết thêm chi tiết, liên hệ quản trị viên."</string>
+  <string name="monitoring_description_vpn_profile_owned">"Thiết bị này được quản lý bởi:
 %1$s
 
-Your administrator is capable of monitoring your network activity including emails, apps, and secure websites. For more information, contact your administrator.
+Quản trị viên có khả năng giám sát mạng và hoạt động của bạn kể cả email, ứng dụng, và trang web mật. Cần thêm thông tin, liên hệ với quản trị viên.
 
-Also, you gave \"%2$s\" permission to set up a VPN connection. This app can monitor network activity too."</string>
-  <string name="monitoring_description_legacy_vpn_profile_owned">"This profile is managed by:
+Mặt khác, bạn cũng trao quyền cài đặt kết nối VPN cho \"%2$s\". Ứng dụng này cũng có thể quản lý hoạt động của bạn."</string>
+  <string name="monitoring_description_legacy_vpn_profile_owned">"Thiết bị này được quản lý bởi:
 %1$s
 
-Your administrator is capable of monitoring your network activity including emails, apps, and secure websites. For more information, contact your administrator.
+Quản trị viên có khả năng giám sát mạng và hoạt động của bạn kể cả email, ứng dụng, và trang web mật. Cần thêm thông tin, liên hệ với quản trị viên.
 
-Also, you\'re connected to a VPN (\"%2$s\"). Your VPN service provider can monitor network activity too."</string>
-  <string name="monitoring_description_vpn_device_and_profile_owned">"This device is managed by:
+Mặt khác, bạn cũng đang kết nối tới VPN (\"%2$s\"). Nhà cung cấp VPN cũng có thể quản lý hoạt động của bạn."</string>
+  <string name="monitoring_description_vpn_device_and_profile_owned">"Thiết bị này được quản lý bởi:
 %1$s
-Your profile is managed by:
+Hồ sơ của bạn được quản lý bởi:
 %2$s
 
-Your administrator is capable of monitoring your network activity including emails, apps, and secure websites. For more information, contact your administrator.
+Quản trị viên có khả năng giám sát mạng và hoạt động của bạn kể cả email, ứng dụng, và trang web mật. Cần thêm thông tin, liên hệ với quản trị viên.
 
-Also, you gave \"%3$s\" permission to set up a VPN connection. This app can monitor network activity too."</string>
-  <string name="monitoring_description_legacy_vpn_device_and_profile_owned">"This device is managed by:
+Mặt khác, bạn cũng trao quyền cài đặt kết nối VPN cho \"%3$s\". Ứng dụng này cũng có thể quản lý hoạt động của bạn."</string>
+  <string name="monitoring_description_legacy_vpn_device_and_profile_owned">"Thiết bị này được quản lý bởi:
 %1$s
-Your profile is managed by:
+Hồ sơ của bạn được quản lý bởi:
 %2$s
 
-Your administrator is capable of monitoring your network activity including emails, apps, and secure websites. For more information, contact your administrator.
+Quản trị viên có khả năng giám sát mạng và hoạt động của bạn kể cả email, ứng dụng, và trang web mật. Cần thêm thông tin, liên hệ với quản trị viên.
 
-Also, you\'re connected to a VPN (\"%3$s\"). Your VPN service provider can monitor network activity too."</string>
+Mặt khác, bạn cũng đang kết nối tới VPN (\"%3$s\"). Nhà cung cấp VPN cũng có thể quản lý hoạt động của bạn."</string>
   <string name="keyguard_indication_trust_disabled">Thiết bị sẽ vẫn bị khóa cho tới khi bạn mở khóa thủ công</string>
   <string name="hidden_notifications_title">Nhận thông báo nhanh hơn</string>
   <string name="hidden_notifications_text">Xem thông báo trước khi bạn mở khóa</string>
