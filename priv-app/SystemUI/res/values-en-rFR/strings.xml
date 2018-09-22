@@ -148,7 +148,7 @@ Utilisez uniquement le chargeur fourni."</string>
   <string name="accessibility_recents_item_dismissed">%s rejeté.</string>
   <string name="accessibility_recents_item_launched">Démarrage de %s.</string>
   <string name="accessibility_notification_dismissed">Notification rejetée.</string>
-  <string name="accessibility_desc_notification_shade">Notification shade.</string>
+  <string name="accessibility_desc_notification_shade">Volet de notification.</string>
   <string name="accessibility_desc_quick_settings">Paramètres rapides.</string>
   <string name="accessibility_desc_lock_screen">Écran verrouillé.</string>
   <string name="accessibility_desc_settings">Paramètres</string>
@@ -169,8 +169,8 @@ Utilisez uniquement le chargeur fourni."</string>
   <string name="accessibility_quick_settings_bluetooth_connected">Bluetooth connecté.</string>
   <string name="accessibility_quick_settings_bluetooth_changed_off">Bluetooth désactivé.</string>
   <string name="accessibility_quick_settings_bluetooth_changed_on">Bluetooth activé.</string>
-  <string name="accessibility_quick_settings_location_off">Location reporting off.</string>
-  <string name="accessibility_quick_settings_location_on">Location reporting on.</string>
+  <string name="accessibility_quick_settings_location_off">Mise à jour de la position désactivée.</string>
+  <string name="accessibility_quick_settings_location_on">Mise à jour de la position activée.</string>
   <string name="accessibility_quick_settings_location_changed_off">Location reporting turned off.</string>
   <string name="accessibility_quick_settings_location_changed_on">Location reporting turned on.</string>
   <string name="accessibility_quick_settings_alarm">Alarme réglée pour %s.</string>
@@ -238,10 +238,10 @@ La réactiver vous fait courir le risque de frais supplémentaires par votre op�
   <string name="quick_settings_wifi_no_network">Pas de réseau</string>
   <string name="quick_settings_wifi_off_label">Wi-Fi désactivé</string>
   <string name="quick_settings_wifi_detail_empty_text">Aucun réseau enregistré disponible</string>
-  <string name="quick_settings_cast_title">Cast screen</string>
-  <string name="quick_settings_casting">Casting</string>
+  <string name="quick_settings_cast_title">Partage d\'écran</string>
+  <string name="quick_settings_casting">Diffusion</string>
   <string name="quick_settings_cast_device_default_name">Périphérique sans nom</string>
-  <string name="quick_settings_cast_device_default_description">Ready to cast</string>
+  <string name="quick_settings_cast_device_default_description">Prêt à diffuser</string>
   <string name="quick_settings_cast_detail_empty_text">Aucun appareil disponible</string>
   <string name="quick_settings_brightness_dialog_title">Luminosité</string>
   <string name="quick_settings_brightness_dialog_auto_brightness_label">AUTO</string>
@@ -265,7 +265,7 @@ La réactiver vous fait courir le risque de frais supplémentaires par votre op�
   <string name="quick_settings_cellular_detail_data_warning">%s warning</string>
   <string name="recents_empty_message">Vos écrans récents apparaissent ici</string>
   <string name="recents_app_info_button_label">Info Application</string>
-  <string name="recents_lock_to_app_button_label">screen pinning</string>
+  <string name="recents_lock_to_app_button_label">épinglage d\'écran</string>
   <string name="recents_search_bar_label">chercher</string>
   <string name="recents_launch_error_message">Impossible de démarrer %s.</string>
   <string name="expanded_header_battery_charged">Chargé</string>
@@ -398,11 +398,11 @@ Votre administrateur est capable de surveiller votre activité réseau, y compri
 De plus, vous avez donné l\'autorisation \"%3$s\" pour configurer une connexion VPN. Votre fournisseur peut aussi surveiller l\'activité du réseau."</string>
   <string name="keyguard_indication_trust_disabled">L\'appareil restera verrouillé jusqu\'à ce que vous le déverrouilliez manuellement</string>
   <string name="hidden_notifications_title">Recevoir les notifications plus rapidement</string>
-  <string name="hidden_notifications_text">See them before you unlock</string>
+  <string name="hidden_notifications_text">Afficher les notifications avant de déverrouiller l\'appareil</string>
   <string name="hidden_notifications_cancel">Non merci</string>
   <string name="hidden_notifications_setup">Installer</string>
   <string name="zen_mode_and_condition">%1$s. %2$s</string>
-  <string name="screen_pinning_title">Screen is pinned</string>
+  <string name="screen_pinning_title">Écran épinglé</string>
   <string name="screen_pinning_description">This keeps it in view until you unpin. Touch and hold Back and Overview at the same time to unpin.</string>
   <string name="screen_pinning_description_accessible">This keeps it in view until you unpin. Touch and hold Overview to unpin.</string>
   <string name="screen_pinning_positive">Compris</string>
@@ -448,8 +448,8 @@ Contactez votre opérateur pour obtenir une autre carte SIM."</string>
   <string name="keyguard_accessibility_widget_changed">%1$s. Widget %2$d de %3$d.</string>
   <string name="keyguard_accessibility_add_widget">Ajouter un widget</string>
   <string name="keyguard_accessibility_widget_empty_slot">Vide</string>
-  <string name="keyguard_accessibility_unlock_area_expanded">Unlock area expanded.</string>
-  <string name="keyguard_accessibility_unlock_area_collapsed">Unlock area collapsed.</string>
+  <string name="keyguard_accessibility_unlock_area_expanded">Zone de déverrouillage étendue.</string>
+  <string name="keyguard_accessibility_unlock_area_collapsed">Zone de déverrouillage réduite.</string>
   <string name="keyguard_accessibility_widget">%1$s widget.</string>
   <string name="keyguard_accessibility_user_selector">Sélecteur d\'utilisateur</string>
   <string name="keyguard_accessibility_camera">Camera</string>
@@ -460,21 +460,21 @@ Contactez votre opérateur pour obtenir une autre carte SIM."</string>
   <string name="keyguard_accessibility_expand_lock_area">Agrandir zone de déblocage.</string>
   <string name="keyguard_accessibility_slide_unlock">Glissez pour déverrouiller.</string>
   <string name="keyguard_accessibility_pattern_unlock">Schéma de déverrouillage.</string>
-  <string name="keyguard_accessibility_face_unlock">Face unlock.</string>
-  <string name="keyguard_accessibility_pin_unlock">Pin unlock.</string>
-  <string name="keyguard_accessibility_password_unlock">Password unlock.</string>
-  <string name="keyguard_accessibility_pattern_area">Pattern area.</string>
+  <string name="keyguard_accessibility_face_unlock">Déverrouillage par reconnaissance faciale.</string>
+  <string name="keyguard_accessibility_pin_unlock">Déverrouillage par code PIN.</string>
+  <string name="keyguard_accessibility_password_unlock">Déverrouillage par mot de passe.</string>
+  <string name="keyguard_accessibility_pattern_area">Zone du schéma.</string>
   <string name="keyguard_accessibility_slide_area">Slide area.</string>
   <string name="keyguard_accessibility_pin_area">PIN area</string>
   <string name="keyguard_accessibility_sim_pin_area">SIM PIN area</string>
   <string name="keyguard_accessibility_sim_puk_area">SIM PUK area</string>
-  <string name="keyguard_accessibility_transport_prev_description">Previous track button</string>
-  <string name="keyguard_accessibility_transport_next_description">Next track button</string>
-  <string name="keyguard_accessibility_transport_pause_description">Pause button</string>
-  <string name="keyguard_accessibility_transport_play_description">Play button</string>
-  <string name="keyguard_accessibility_transport_stop_description">Stop button</string>
-  <string name="keyguard_accessibility_transport_thumbs_up_description">Thumbs up</string>
-  <string name="keyguard_accessibility_transport_thumbs_down_description">Thumbs down</string>
+  <string name="keyguard_accessibility_transport_prev_description">Bouton Précédent</string>
+  <string name="keyguard_accessibility_transport_next_description">Bouton Suivant</string>
+  <string name="keyguard_accessibility_transport_pause_description">Bouton Pause</string>
+  <string name="keyguard_accessibility_transport_play_description">Bouton Lire</string>
+  <string name="keyguard_accessibility_transport_stop_description">Bouton Stop</string>
+  <string name="keyguard_accessibility_transport_thumbs_up_description">Pouce levé</string>
+  <string name="keyguard_accessibility_transport_thumbs_down_description">Pouce baissé</string>
   <string name="keyguard_accessibility_transport_heart_description">Coeur</string>
   <string name="keyguard_accessibility_show_bouncer">Dévérouillez pour continuer</string>
   <string name="keyguard_accessibility_hide_bouncer">Lancement annulé</string>
@@ -518,7 +518,7 @@ Contactez votre opérateur pour obtenir une autre carte SIM."</string>
   <string name="kg_invalid_sim_puk_hint">Le code PUK doit comporter 8 chiffres ou plus.</string>
   <string name="kg_invalid_puk">Entrez à nouveau le bon code PUK. Les tentatives répétées désactiveront définitivement la carte SIM.</string>
   <string name="kg_invalid_confirm_pin_hint">Les codes PIN ne correspondent pas</string>
-  <string name="kg_login_too_many_attempts">Too many pattern attempts</string>
+  <string name="kg_login_too_many_attempts">Trop de tentatives</string>
   <string name="kg_login_instructions">Pour déverrouiller, connectez-vous avec votre compte Google.</string>
   <string name="kg_login_username_hint">Identifiant (email)</string>
   <string name="kg_login_password_hint">Mot de passe</string>
@@ -526,16 +526,16 @@ Contactez votre opérateur pour obtenir une autre carte SIM."</string>
   <string name="kg_login_invalid_input">Identifiant ou mot de passe invalide.</string>
   <string name="kg_login_account_recovery_hint">\"Identifiant ou mot de passe oublié?
 Allez sur \"<b>google.com/accounts/recovery</b>.</string>
-  <string name="kg_login_checking_password">Checking account…</string>
-  <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"You have incorrectly typed your PIN %d times. 
+  <string name="kg_login_checking_password">Vérification du compte…</string>
+  <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"Vous avez saisi un code PIN incorrect à %d reprises. 
 
-Try again in %d seconds."</string>
-  <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"You have incorrectly typed your password %d times. 
+Veuillez réessayer dans %d secondes."</string>
+  <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Vous avez saisi un mot de passe incorrect à %d reprises. 
 
-Try again in %d seconds."</string>
-  <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"You have incorrectly drawn your unlock pattern %d times. 
+Veuillez réessayer dans %d secondes."</string>
+  <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Vous avez reproduit un schéma de déverrouillage incorrect à %d reprises.
 
-Try again in %d seconds."</string>
+Veuillez réessayer dans %d secondes."</string>
   <string name="kg_failed_attempts_almost_at_wipe" formatted="false">You have incorrectly attempted to unlock the tablet %d times. After %d more unsuccessful attempts, this tablet will be reset, which will delete all its data.</string>
   <string name="kg_failed_attempts_now_wiping">You have incorrectly attempted to unlock the tablet %d times. This tablet will be reset, which will delete all its data.</string>
   <string name="kg_failed_attempts_almost_at_erase_user" formatted="false">You have incorrectly attempted to unlock the tablet %d times. After %d more unsuccessful attempts, this user will be removed, which will delete all user data.</string>
