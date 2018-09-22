@@ -524,15 +524,15 @@ Liên hệ với nhà cung cấp dịch vụ của bạn để nhận thẻ SIM 
   <string name="kg_login_password_hint">Mật khẩu</string>
   <string name="kg_login_submit_button">Đăng nhập</string>
   <string name="kg_login_invalid_input">Sai tên người hoặc mật khẩu.</string>
-  <string name="kg_login_account_recovery_hint">\"Forgot your username or password?
-Visit \"<b>google.com/accounts/recovery</b>.</string>
-  <string name="kg_login_checking_password">Checking account…</string>
-  <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"You have incorrectly typed your PIN %d times. 
+  <string name="kg_login_account_recovery_hint">\"Quên tên người dùng hoặc mật khẩu?
+Vào \"<b>google.com/accounts/recovery</b>.</string>
+  <string name="kg_login_checking_password">Kiểm tra tài khoản...</string>
+  <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"Bạn đã gõ sai %d lần mã PIN. 
 
-Try again in %d seconds."</string>
-  <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"You have incorrectly typed your password %d times. 
+Thử lại sau %d giây. "</string>
+  <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Bạn đã nhập sai %d lần mật khẩu. 
 
-Try again in %d seconds."</string>
+Thử lại sau khi chờ %d giây. "</string>
   <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"You have incorrectly drawn your unlock pattern %d times. 
 
 Try again in %d seconds."</string>
