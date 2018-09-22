@@ -533,15 +533,14 @@ Thử lại sau %d giây. "</string>
   <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Bạn đã nhập sai %d lần mật khẩu. 
 
 Thử lại sau khi chờ %d giây. "</string>
-  <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"You have incorrectly drawn your unlock pattern %d times. 
-
-Try again in %d seconds."</string>
-  <string name="kg_failed_attempts_almost_at_wipe" formatted="false">You have incorrectly attempted to unlock the tablet %d times. After %d more unsuccessful attempts, this tablet will be reset, which will delete all its data.</string>
-  <string name="kg_failed_attempts_now_wiping">You have incorrectly attempted to unlock the tablet %d times. This tablet will be reset, which will delete all its data.</string>
-  <string name="kg_failed_attempts_almost_at_erase_user" formatted="false">You have incorrectly attempted to unlock the tablet %d times. After %d more unsuccessful attempts, this user will be removed, which will delete all user data.</string>
-  <string name="kg_failed_attempts_now_erasing_user">You have incorrectly attempted to unlock the tablet %d times. This user will be removed, which will delete all user data.</string>
-  <string name="kg_failed_attempts_almost_at_erase_profile" formatted="false">You have incorrectly attempted to unlock the tablet %d times. After %d more unsuccessful attempts, the work profile will be removed, which will delete all profile data.</string>
-  <string name="kg_failed_attempts_now_erasing_profile">You have incorrectly attempted to unlock the tablet %d times. The work profile will be removed, which will delete all profile data.</string>
+  <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Bạn đã vẽ sai mã mở khóa %d lần.
+Thử lại sau %d giây."</string>
+  <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Bạn đã có %d lần cố gắng mở khóa máy tính bảng thất bại. Sau %d lần không thành công, máy tính bảng này sẽ được đặt lại, và nó sẽ xóa tất cả dữ liệu bên trong.</string>
+  <string name="kg_failed_attempts_now_wiping">Bạn đã có %d lần cố gắng mở khóa máy tính bảng thất bại. Máy tính bảng sẽ được đặt lại và xóa tất cả dữ liệu bên trong.</string>
+  <string name="kg_failed_attempts_almost_at_erase_user" formatted="false">Bạn đã có %d lần cố gắng mở khóa máy tính bảng thất bại. Sau %d lần không thành công, người dùng này sẽ bị gỡ bỏ, và tất cả dữ liệu đi kèm người dùng cũng bị xóa.</string>
+  <string name="kg_failed_attempts_now_erasing_user">Bạn đã có %d lần cố gắng mở khóa máy tính bảng thất bại. Người dùng này sẽ bị xóa cùng tất cả dữ liệu đi kèm.</string>
+  <string name="kg_failed_attempts_almost_at_erase_profile" formatted="false">Bạn đã có %d lần cố gắng mở khóa máy tính bảng thất bại. Sau %d lần không thành công, hồ sơ và tất cả dữ liệu đi kèm sẽ bị xóa.</string>
+  <string name="kg_failed_attempts_now_erasing_profile">Bạn đã có %d lần cố gắng mở khóa máy tính bảng thất bại. Hồ sơ và tất cả dữ liệu đi kèm sẽ bị xóa.</string>
   <string name="kg_failed_attempts_almost_at_login" formatted="false">"You have incorrectly drawn your unlock pattern %d times. After %d more unsuccessful attempts, you will be asked to unlock your tablet using an email account.
 
  Try again in %d seconds."</string>
