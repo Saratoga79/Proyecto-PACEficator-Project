@@ -9,7 +9,7 @@
   <string name="music_download_not_complete_title">Skladby nebyly úplně staženy</string>
   <string name="music_no_wifi_content">Wi-Fi není připojena, skladby nelze stáhnout. Připojte hodinky k Wi-Fi.</string>
   <string name="music_download_fail_content">Chyba připojení k síti. Písně nebylo možno stáhnout. Prosím připojte hodinky k síti a zkuste to znovu.</string>
-  <string name="music_download_not_complete_content">Chyba připojení k síti, nebylo možno dokončit stahování. Přehrávat lze pouze aktuálně stažené skladby. (Všechny skladby budou automaticky staženy s Wi-Fi připojením)</string>
+  <string name="music_download_not_complete_content">Chyba připojení k síti, nebylo možno dokončit stahování. Přehrávat lze pouze aktuálně stažené skladby. (Všechny skladby budou automaticky staženy na Wi-Fi připojení)</string>
   <string name="music_download_success">Aktualizace skladeb proběhla úspěšně.</string>
   <string name="music_downloading">Stahování skladeb...</string>
   <string name="music_fetch_list">Stahování seznamu skladeb...</string>
@@ -31,9 +31,9 @@
   <string name="music_title">Hudba</string>
   <string name="music_init_not_done">Hudba se inicializuje...</string>
   <string name="music_no_resource">K dispozici nejsou žádné skladby</string>
-  <string name="music_down_not_complete_title">Seznam skladeb nebyl plně stažen, ukončit?</string>
+  <string name="music_down_not_complete_title">Seznam skladeb nebyl úplně stažen, ukončit?</string>
   <string name="music_no_douban_resource">K přehrání nejsou k dispozici žádné místní písně, stáhnout nyní?</string>
-  <string name="music_no_local_resource">K přehrání nejsou k dispozici žádné místní písně. Pro import připojte Bluetooth.</string>
+  <string name="music_no_local_resource">K přehrání nejsou k dispozici žádné písně. Pro import připojte hodinky k USB.</string>
   <string name="music_start_tips">K poslechu hudby je potřeba připojit Bluetooth sluchátka. Připojit nyní?</string>
   <string name="music_down_not_complete_content">Po odhlášení můžou být písně aktualizovány v nastavení Hudba - Watercress FM offline.</string>
   <string name="cancel">Zavřít</string>
