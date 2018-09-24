@@ -476,7 +476,7 @@
   <string name="first_beat_help_title_sport_target_or_real_time_guide">Bài tập đề nghị tiếp theo&amp;huấn luyện thời gian thực</string>
   <string name="first_beat_help_title_daily_perpormence">Điều kiện hiệu suất</string>
   <string name="first_beat_help_title_recovery_time">T.gian phục hồi</string>
-  <string name="first_beat_help_vo2_max">"&lt;font color=#00FF00&gt;What is this？&lt;/font&gt;&lt;br/&gt; VO2Max represents the maximum volume of oxygen the body can consume in one minute as measured in ml/kg/min. It evaluates the state of users ' cardiorespiratory fitness which is important for overall health, well-being and sports performace. &lt;br/&gt;The watch will automatically evaluate your VO2Max based on heartrate, speed etc. during a moderate intensity running workout and compare that to a reference group of same age and gender to determine your fitness level. &lt;br/&gt;&lt;font color=#00FF00&gt;How to evaluate？&lt;/font&gt;&lt;br/&gt; 1. Provide accurate profile information like age and gender in Amazfit Watch app during setup； &lt;br/&gt; 2. Take a brisk 15 minutes or more outdoor run with the watch on and make sure heartrate is at or above 75% of your maxHR for at least 10 minutes. &lt;br/&gt; 3. After completing the run, you can check current VO2Max in the sports activities app on the watch or personal status page in Amazift Watch app. &lt;br/&gt;&lt;small&gt;For more details, please see Help in Amazfit Watch app.&lt;/small&gt;"</string>
+  <string name="first_beat_help_vo2_max">"&lt;font color=#00FF00&gt;Đây là gì？&lt;/font&gt;&lt;br/&gt; VO2Max đại diện cho lượng ô xi tối đa cơ thể bạn có thể hấp thụ 1 phút và tính bằng ml/kg/phút. Nó đánh giá trạng thái sức khỏe tim mạch, rất quan trọng trong đánh giá sức khỏe tổng quan, tâm lý và sức khỏe thể thao. &lt;br/&gt; Đồng hồ sẽ tự tính toán chỉ số VO2Max dựa trên nhịp tim, tốc độ... trong một số quá trình luyện tập gần nhất và so sánh nó với một nhóm người dùng cùng độ tuổi, giới tính để xác định mức độ thể trạng của bạn. &lt;br/&gt;&lt;font color=#00FF00&gt;Cách đánh giá？&lt;/font&gt;&lt;br/&gt; 1. Cung cấp thông tin hồ sơ chính xác như tuổi, giới tính khi cài đặt ban đầu； &lt;br/&gt; 2. Thực hiện một bài tập chạy nhanh trong vòng 15' có đeo đồng hồ và đảm bảo nhịp tim của bạn bằng hoặc trên mức 75% nhịp tim tối đa trong ít nhất 10 phút. &lt;br/&gt; 3. Sau khi chạy xong, bạn có thể kiểm tra giá trị VO2Max trong ứng dụng sports activities trên đồng hồ hoặc trang thông tin cá nhân trong phần mềm Amazift Watch. &lt;br/&gt;&lt;small&gt; Xem thêm chi tiết, vui lòng đọc trợ giúp trong ứng dụng Amazfit Watch.&lt;/small&gt;"</string>
   <string name="first_beat_help_te">&lt;font color=#00FF00&gt;What is this？&lt;/font&gt;&lt;br/&gt; Training Effect (TE) measures the accumulated load during a workout and interprets its impact on your aerobic fitness. TE starts from level 0.0. As the workout progresses successfully, TE value increases (from 0 towards 5), telling you how the workout effects your fitness. &lt;br/&gt;&lt;font color=#00FF00&gt;How is it calculated? &lt;/font&gt;&lt;br/&gt; TE is calculated based on your user profile, heart beat data and difficulty of the workout.&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; The watch will show realtime TE measurement during a workout as well as final TE result at the end of the workout. A&amp;lt;2.0 TE simply indicates that the workout has little effect on cardiorespiratory fitness and is useful only for building an endurance base and recovery. &lt;br/&gt;&lt;small&gt;For more details, please see Help in Amazfit Watch app.&lt;/small&gt;</string>
   <string name="first_beat_help_train_load">The watch wil calculate Training Load based on EPOC (Excess Post-exercise Oxygen Consumption) values accumulated from heartrate data recorded during workouts in a 7-day rolling window. The user can adjust the training schedule accordingly to reach optimal load. &lt;br/&gt;&lt;small&gt;For more details, please see Help in Amazfit Watch app.&lt;/small&gt;</string>
   <string name="first_beat_help_run_target_and_real_time_guide">The watch will provide workout recommendation based on a your VO2Max fitness level, recent Training Load and recovery status from previous workout. &lt;br/&gt; If you enable realtime coaching feature in settings and set a TE target or choose one of the recommended workouts, the watch will guide you through the workout and prompt to adjust pace and heart rate in order to achieve set goals. &lt;br/&gt; &lt;small&gt;For more details, please see Help in Amazfit Watch app.&lt;/small&gt;</string>
@@ -496,21 +496,21 @@
   <string name="please_become_smaller">Thu nhỏ</string>
   <string name="current_altitude">Độ cao hiện tại</string>
   <string name="cumulative_climb">Cumulative Climb</string>
-  <string name="sport_route_out_of">Deviated Trajectory</string>
-  <string name="sport_back_to_route">Has returned to the track</string>
+  <string name="sport_route_out_of">Quỹ đạo đã bị lệch</string>
+  <string name="sport_back_to_route">Đã quay về đúng đường</string>
   <string name="gpx_currnet_is_selected">Đã chọn</string>
   <string name="gpx_select_closed">Đóng</string>
   <string name="gpx_select_empty"></string>
   <string name="gpx_details_view">Đã chọn</string>
   <string name="gpx_details_use">Đã dùng</string>
-  <string name="gpx_route_loading">Please wait patiently while the tracks are loaded</string>
-  <string name="dialog_remind_to_look_route">Watch Track</string>
-  <string name="gpx_offset_route">Deviated Trajectory</string>
-  <string name="gpx_back_route">Has returned to the track</string>
+  <string name="gpx_route_loading">Vui lòng đợi trong khi đường đi được nạp lên</string>
+  <string name="dialog_remind_to_look_route">Đường đi</string>
+  <string name="gpx_offset_route">Quỹ đạo đã bị lệch</string>
+  <string name="gpx_back_route">Đã quay về đúng đường</string>
   <string name="gpx_alreay_offset">Đi chệch</string>
-  <string name="gpx_no_find_route">No trace available</string>
-  <string name="gpx_no_route_guide">"Please connect your watch to the computer and copy the GPX file to the 'gpxdata' folder and try again"</string>
-  <string name="bpm_to">bpm To</string>
+  <string name="gpx_no_find_route">Không có đường đi</string>
+  <string name="gpx_no_route_guide">"Xin vui lòng kết nối Đồng hồ với máy tính và sao chép tập tin GPX vào thư mục 'gpxdata' và thử lại"</string>
+  <string name="bpm_to">bmp Tới</string>
   <string name="indoor_run_progressing">Chạy bộ</string>
   <string name="run_train_title">Chạy luyện tập</string>
   <string name="run_train_recommend">Khuyến nghị</string>
@@ -555,7 +555,7 @@
   <string name="outdoor_climb_down_altitude">Cumulative Elevation Loss</string>
   <string name="outdoor_climb_down_distance">Khoảng cách leo lên</string>
   <string name="outdoor_climb_down_distance_time">Thời gian leo lên</string>
-  <string name="outdoor_climb_distance_time">Uphill Slope Time</string>
+  <string name="outdoor_climb_distance_time">Thời gian sườn dốc</string>
   <string name="real_time_keep_speed">Giữ nguyên pace</string>
   <string name="real_time_run_faster">Tăng tốc</string>
   <string name="real_time_every_good">Rất tốt</string>
@@ -563,14 +563,14 @@
   <string name="real_time_target_finish">Đạt mục tiêu</string>
   <string name="real_time_guide_title_1">Pace tốt!</string>
   <string name="real_time_guide_title_2">Giữ nguyên pace!</string>
-  <string name="real_time_guide_title_3">"Increase the pace 
- for effective exercise!"</string>
+  <string name="real_time_guide_title_3">"Tăng tốc độ 
+ để tập thể dục đạt hiệu quả!"</string>
   <string name="real_time_guide_title_6">Pace tốt!</string>
-  <string name="real_time_guide_title_7">"Increase the pace 
- for more effective exercise!"</string>
+  <string name="real_time_guide_title_7">"Tăng tốc độ để 
+tập thể dục đạt hiệu quả cao!"</string>
   <string name="real_time_guide_title_10">Pace tốt!</string>
-  <string name="real_time_guide_title_11">"Increase the pace
- for more effective exercise!"</string>
+  <string name="real_time_guide_title_11">"Tăng tốc độ để 
+tập thể dục đạt hiệu quả cao!"</string>
   <string name="real_time_guide_title_14">Làm tốt lắm!</string>
   <string name="real_time_guide_title_22">Pace tốt!</string>
   <string name="real_time_guide_title_25">Tăng tốc độ pace.</string>
@@ -580,9 +580,9 @@
   <string name="real_time_guide_title_30">Làm tốt!</string>
   <string name="real_time_guide_title_31">Làm tốt lắm!</string>
   <string name="real_time_guide_title_32">Làm tốt lắm!</string>
-  <string name="real_time_guide_title_33">Take it easy!</string>
-  <string name="real_time_guide_title_34">Slow down!</string>
-  <string name="real_time_guide_title_35">Take it easy!</string>
+  <string name="real_time_guide_title_33">Thoải mái đi!</string>
+  <string name="real_time_guide_title_34">Chậm lại!</string>
+  <string name="real_time_guide_title_35">Đừng lo lắng</string>
   <string name="real_time_guide_desc_1"></string>
   <string name="real_time_guide_desc_2">%1$s more minutes to keep you fit</string>
   <string name="real_time_guide_desc_3"></string>
