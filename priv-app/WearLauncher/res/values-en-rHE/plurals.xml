@@ -3,20 +3,20 @@
 <resources>
   <plurals name="notification_time_day">
     <item quantity="one">לפני %s ימים</item>
-    <item quantity="two">%s days ago</item>
-    <item quantity="many">%s days ago</item>
+    <item quantity="two">לפני %s ימים</item>
+    <item quantity="many">לפני %s ימים</item>
     <item quantity="other">לפני %s ימים</item>
   </plurals>
   <plurals name="notification_time_hour">
-    <item quantity="one">%s hours ago</item>
-    <item quantity="two">%s hours ago</item>
-    <item quantity="many">%s hours ago</item>
-    <item quantity="other">%s hours ago</item>
+    <item quantity="one">לפני %s שעות</item>
+    <item quantity="two">לפני %s שעות</item>
+    <item quantity="many">לפני %s שעות</item>
+    <item quantity="other">לפני %s שעות</item>
   </plurals>
   <plurals name="notification_time_minute">
-    <item quantity="one">%s min ago</item>
-    <item quantity="two">%s mins ago</item>
-    <item quantity="many">%s mins ago</item>
-    <item quantity="other">%s mins ago</item>
+    <item quantity="one">לפני %s דקות</item>
+    <item quantity="two">לפני %s דקות</item>
+    <item quantity="many">לפני %s דקות</item>
+    <item quantity="other">לפני %s דקות</item>
   </plurals>
 </resources>
