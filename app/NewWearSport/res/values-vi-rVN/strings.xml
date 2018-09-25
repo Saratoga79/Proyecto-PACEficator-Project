@@ -477,10 +477,10 @@
   <string name="first_beat_help_title_daily_perpormence">Điều kiện hiệu suất</string>
   <string name="first_beat_help_title_recovery_time">T.gian phục hồi</string>
   <string name="first_beat_help_vo2_max">"&lt;font color=#00FF00&gt;Đây là gì？&lt;/font&gt;&lt;br/&gt; VO2Max đại diện cho lượng ô xi tối đa cơ thể bạn có thể hấp thụ 1 phút và tính bằng ml/kg/phút. Nó đánh giá trạng thái sức khỏe tim mạch, rất quan trọng trong đánh giá sức khỏe tổng quan, tâm lý và sức khỏe thể thao. &lt;br/&gt; Đồng hồ sẽ tự tính toán chỉ số VO2Max dựa trên nhịp tim, tốc độ... trong một số quá trình luyện tập gần nhất và so sánh nó với một nhóm người dùng cùng độ tuổi, giới tính để xác định mức độ thể trạng của bạn. &lt;br/&gt;&lt;font color=#00FF00&gt;Cách đánh giá？&lt;/font&gt;&lt;br/&gt; 1. Cung cấp thông tin hồ sơ chính xác như tuổi, giới tính khi cài đặt ban đầu； &lt;br/&gt; 2. Thực hiện một bài tập chạy nhanh trong vòng 15' có đeo đồng hồ và đảm bảo nhịp tim của bạn bằng hoặc trên mức 75% nhịp tim tối đa trong ít nhất 10 phút. &lt;br/&gt; 3. Sau khi chạy xong, bạn có thể kiểm tra giá trị VO2Max trong ứng dụng sports activities trên đồng hồ hoặc trang thông tin cá nhân trong phần mềm Amazift Watch. &lt;br/&gt;&lt;small&gt; Xem thêm chi tiết, vui lòng đọc trợ giúp trong ứng dụng Amazfit Watch.&lt;/small&gt;"</string>
-  <string name="first_beat_help_te">&lt;font color=#00FF00&gt;What is this？&lt;/font&gt;&lt;br/&gt; Training Effect (TE) measures the accumulated load during a workout and interprets its impact on your aerobic fitness. TE starts from level 0.0. As the workout progresses successfully, TE value increases (from 0 towards 5), telling you how the workout effects your fitness. &lt;br/&gt;&lt;font color=#00FF00&gt;How is it calculated? &lt;/font&gt;&lt;br/&gt; TE is calculated based on your user profile, heart beat data and difficulty of the workout.&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; The watch will show realtime TE measurement during a workout as well as final TE result at the end of the workout. A&amp;lt;2.0 TE simply indicates that the workout has little effect on cardiorespiratory fitness and is useful only for building an endurance base and recovery. &lt;br/&gt;&lt;small&gt;For more details, please see Help in Amazfit Watch app.&lt;/small&gt;</string>
-  <string name="first_beat_help_train_load">The watch wil calculate Training Load based on EPOC (Excess Post-exercise Oxygen Consumption) values accumulated from heartrate data recorded during workouts in a 7-day rolling window. The user can adjust the training schedule accordingly to reach optimal load. &lt;br/&gt;&lt;small&gt;For more details, please see Help in Amazfit Watch app.&lt;/small&gt;</string>
-  <string name="first_beat_help_run_target_and_real_time_guide">The watch will provide workout recommendation based on a your VO2Max fitness level, recent Training Load and recovery status from previous workout. &lt;br/&gt; If you enable realtime coaching feature in settings and set a TE target or choose one of the recommended workouts, the watch will guide you through the workout and prompt to adjust pace and heart rate in order to achieve set goals. &lt;br/&gt; &lt;small&gt;For more details, please see Help in Amazfit Watch app.&lt;/small&gt;</string>
-  <string name="first_beat_help_daily_perpormence">"&lt;font color=#00FF00&gt;What is this？&lt;/font&gt;&lt;br/&gt;Realtime Performance Condition indicates if you are above or below your average performance level, and how accumulating fatigue affects your performance during a workout. &lt;br/&gt;&lt;font color=#00FF00&gt;How is it used？&lt;/font&gt;&lt;br/&gt;The watch will evaluate your performance condition automatically after ~6 minutes of running. A higher-than-avarage value indicates that you can make a harder workout than you'd normally do. A lower value suggests that you should take a easier workout. &lt;br/&gt;After completing a workout, you can analyze the performance by looking at the result at each km/mile on the graph. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;For more details, please see Help in Amazfit Watch app.&lt;/small&gt;"</string>
+  <string name="first_beat_help_te">&lt;font color=#00FF00&gt;Đây là gì？&lt;/font&gt;&lt;br/&gt; Hiệu quả tập luyện (TE) đo tải tích lũy trong quá trình tập luyện và diễn giải tác động của nó đối với mức Aerobic của bạn. TE bắt đầu từ mức 0.0. Khi tiến trình tập luyện thành công, giá trị TE sẽ tăng lên (Từ 0 đến 5), cho bạn biết hiệu quả tập luyện của bạn. &lt;br/&gt;&lt;font color=#00FF00&gt; Nó được tính như thế nào? &lt;/font&gt;&lt;br/&gt; TE được tính dựa trên hồ sơ người dùng, dữ liệu nhịp tim và độ khó bài tập.&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Đồng hồ sẽ hiển thị số đo TE thời gian thực trong quá trình tập luyện cũng như kết quả TE cuối cùng ở cuối bài tập. A&amp;lt;2.0 TE chỉ đơn giản chỉ ra rằng tập luyện có ít ảnh hưởng đến sức khỏe tim mạch và chỉ hữu ích cho việc xây dựng một cơ sở độ bền và phục hồi. &lt;br/&gt;&lt;small&gt;Xem thêm chi tiết, mở trợ giúp trong ứng dụng Amazfit Watch.&lt;/small&gt;</string>
+  <string name="first_beat_help_train_load">Đồng hồ tính toán khối lượng luyện tập dựa trên giá trị EPOC (dư thừa oxy sau khi tập luyện) được tích lũy từ dữ liệu nhịp tim được ghi lại trong quá trình luyện tập 7 ngày gần nhất. Người dùng có thể điều chỉnh lịch tập luyện phù hợp để đạt kết quả tối ưu. &lt;br/&gt;&lt;small&gt;Để biết thêm chi tiết, Vui lòng xem trợ giúp trong Amazfit Watch.&lt;/small&gt;</string>
+  <string name="first_beat_help_run_target_and_real_time_guide">Đồng hồ sẽ cung cấp lời khuyên tập luyện dựa trên mức độ VO2Max của bạn, lượng luyện tập và khả năng phục hồi từ những lần luyện tập trước. &lt;br/&gt; Nếu bạn bật tính năng huấn luyện thời gian thực trong cài đặt và đặt mục tiêu TE hoặc chọn một trong các bài tập được đề xuất, Đồng hồ sẽ hướng dẫn bạn thông qua việc tập luyện và nhắc nhở điều chỉnh tốc độ và nhịp tim để đạt được mục tiêu đặt ra. &lt;br/&gt; &lt;small&gt;Để biết thêm chi tiết, xem hướng dẫn trong phần mềm Amazfit Watch.&lt;/small&gt;</string>
+  <string name="first_beat_help_daily_perpormence">"&lt;font color=#00FF00&gt;Đây là gì？&lt;/font&gt;&lt;br/&gt;Điều kiện hiệu suất thời gian thực cho biết liệu bạn có ở trên hoặc dưới mức hiệu suất trung bình và mức độ mệt mỏi tích lũy ảnh hưởng đến hiệu suất của bạn trong quá trình tập luyện như thế nào. &lt;br/&gt;&lt;font color=#00FF00&gt;Sử dụng nó thế nào？&lt;/font&gt;&lt;br/&gt;Đồng hồ sẽ tự động đánh giá tình trạng hiệu suất của bạn sau ~ 6 phút chạy. Giá trị cao hơn cho thấy bạn có thể tập luyện chăm chỉ hơn bình thường. Giá trị thấp hơn cho thấy bạn nên tập luyện dễ dàng hơn. &lt;br/&gt;Sau khi hoàn thành bài tập, bạn có thể phân tích hiệu suất bằng cách xem kết quả ở mỗi km/dặm trên biểu đồ. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;Để biết thêm chi tiết, xem trợ giúp trong ứng dụng Amazfit Watch.&lt;/small&gt;"</string>
   <string name="first_beat_help_recovery_time">Sau khi hoàn thành bài tập, bạn sẽ được cung cấp thời gian để phục hồi hoàn toàn. Trong thời gian hồi phục tập luyện giảm dần về 0 nếu không có kế hoạch tập luyện mới. Người sử dụng được khuyến khích để có một số tập luyện cường độ thấp để giúp phục hồi tốt hơn. &lt;br/&gt;&lt;small&gt;Để biết thêm chi tiết, đọc hướng dẫn trong Amazfit Watch.&lt;/small&gt;</string>
   <string name="vo2max_unit">ml / kg / min</string>
   <string name="run_vo2max_unit">ml / kg / min</string>
@@ -522,11 +522,11 @@
   <string name="music_no_local_resource">Không có bài hát để mở, kết nối USB để chép nhạc</string>
   <string name="music_open_fm">Bật chức năng âm nhạc để nghe nhạc khi tập luyện。</string>
   <string name="music_explain_title">Mô tả</string>
-  <string name="music_explain_content">It is necessary to download songs locally and connect to the Bluetooth headset for listening。</string>
+  <string name="music_explain_content">Cần phải tải các bài hát về bộ nhớ trong và kết nối tai nghe Bluetooth để nghe nhạc。</string>
   <string name="music_start_tips">Cần phải kết nối tai nghe Bluetooth, kết nối ngay?</string>
   <string name="music_not_known">Không rõ</string>
   <string name="music_update_content">C.nhật bài hát</string>
-  <string name="music_update_tips_content">Watercress FM updates songs regularly. Updating songs will replace the music library. Update now?</string>
+  <string name="music_update_tips_content">Kênh FM Watercress cập nhật bài hát thường xuyên. Cập nhật bài hát sẽ ghi đè thư viện nhạc. Cập nhật?</string>
   <string name="music_pause">Tạm dừng</string>
   <string name="music_fm_title">Watercress FM</string>
   <string name="music_fm_notification_content">Kênh FM thể thao có một vài list mới, mở và tải!</string>
@@ -548,11 +548,11 @@
   <string name="outdoor_graph_unit">K.cách(dặm)</string>
   <string name="outdoor_speed_graph_title">T.độ(dặm/h)</string>
   <string name="not_testing_speed_data">Lỗi đọc dữ liệu độ cao</string>
-  <string name="con_leqi_table_title">Watch has support LEQI cycling table, is Connected now?</string>
+  <string name="con_leqi_table_title">Đồng hồ hỗ trợ bảng đạp xe LEQI, có kết nối bây giờ không?</string>
   <string name="con_leqi_table_subtitle">(Bind in System settings-Bluetooth device)</string>
   <string name="remind_target_riding_km_title_format">Hoàn thành %1$d dặm</string>
-  <string name="indoor_riding_time_too_short">Exercise time is too short to save. Are you sure to stop?</string>
-  <string name="outdoor_climb_down_altitude">Cumulative Elevation Loss</string>
+  <string name="indoor_riding_time_too_short">Thời gian tập quá ngắn để lưu. Bạn có muốn dừng lại?</string>
+  <string name="outdoor_climb_down_altitude">Độ cao tích lũy bị mất</string>
   <string name="outdoor_climb_down_distance">Khoảng cách leo lên</string>
   <string name="outdoor_climb_down_distance_time">Thời gian leo lên</string>
   <string name="outdoor_climb_distance_time">Thời gian sườn dốc</string>
@@ -584,26 +584,26 @@ tập thể dục đạt hiệu quả cao!"</string>
   <string name="real_time_guide_title_34">Chậm lại!</string>
   <string name="real_time_guide_title_35">Đừng lo lắng</string>
   <string name="real_time_guide_desc_1"></string>
-  <string name="real_time_guide_desc_2">%1$s more minutes to keep you fit</string>
+  <string name="real_time_guide_desc_2">thêm %1$s phút nữa để giữ bạn cân đối</string>
   <string name="real_time_guide_desc_3"></string>
-  <string name="real_time_guide_desc_6">%1$s more minutes will improve your fitness.</string>
+  <string name="real_time_guide_desc_6">%1$s phút nữa sẽ cải thiện thể lực của bạn.</string>
   <string name="real_time_guide_desc_7"></string>
-  <string name="real_time_guide_desc_10">%1$s more minutes for a very good effect on your fitness.</string>
+  <string name="real_time_guide_desc_10">%1$s phút nữa để đạt tác dụng tốt hơn với sức khỏe của bạn.</string>
   <string name="real_time_guide_desc_11"></string>
-  <string name="real_time_guide_desc_14">You have already completed a very good workout!</string>
-  <string name="real_time_guide_desc_22">%1$s minutes to reach your goal!</string>
-  <string name="real_time_guide_desc_25">Target heart rate range is %1$s-%2$sbpm。</string>
+  <string name="real_time_guide_desc_14">Bạn đã hoàn thành một bài tập luyện rất tốt!</string>
+  <string name="real_time_guide_desc_22">%1$s phút để đạt được mục tiêu của bạn!</string>
+  <string name="real_time_guide_desc_25">Phạm vi nhịp tim mục tiêu là %1$s-%2$sbpm。</string>
   <string name="real_time_guide_desc_26"></string>
   <string name="real_time_guide_desc_27">Bạn đã đạt mục tiêu!</string>
   <string name="real_time_guide_desc_28">Bạn đã đạt %1$s của mục tiêu!</string>
   <string name="real_time_guide_desc_30">Loại bài tập này sẽ giúp bạn khỏe.</string>
-  <string name="real_time_guide_desc_31">This exercise is intensive enough to improve your fitness.</string>
-  <string name="real_time_guide_desc_32">Cardiopulmonary ability to improve!</string>
-  <string name="real_time_guide_desc_33">This exercise may have been too hard for your body.</string>
-  <string name="real_time_guide_desc_34">Target heart rate range is %1$s-%2$s bpm!</string>
+  <string name="real_time_guide_desc_31">Bài tập này đủ chuyên sâu để cải thiện thể lực của bạn.</string>
+  <string name="real_time_guide_desc_32">Khả năng tim phổi được cải thiện!</string>
+  <string name="real_time_guide_desc_33">Bài tập này có thể là quá sức đối với cơ thể bạn.</string>
+  <string name="real_time_guide_desc_34">Phạm vi nhịp tim mục tiêu là %1$s-%2$sbpm!</string>
   <string name="real_time_guide_desc_35"></string>
   <string name="rope_arrive_goal_unit">times/seg</string>
-  <string name="aleary_finish_group">Completed group %1$s</string>
+  <string name="aleary_finish_group">Hoàn thành nhóm %1$s</string>
   <string name="this_group_count">Nhóm số</string>
   <string name="group_cost_time">Tgian nhóm</string>
   <string name="group_frequency">Tần số nhóm</string>
@@ -615,7 +615,7 @@ tập thể dục đạt hiệu quả cao!"</string>
   <string name="rope_skip_max_frequency">Tần suất cao nhất</string>
   <string name="rope_skip_total_count">Tổng số Đếm</string>
   <string name="rope_skip_average_frequency">Tần suất T.bình</string>
-  <string name="rope_skip_current_group_count">Group current count</string>
+  <string name="rope_skip_current_group_count">Số đếm nhóm hiện tại</string>
   <string name="rope_skip_this_group_count">Nhóm số</string>
   <string name="rope_skip_this_group_cost_time">Tgian nhóm</string>
   <string name="rope_skip_this_group_average_frequency">Tần số nhóm Tb</string>
@@ -638,7 +638,7 @@ tập thể dục đạt hiệu quả cao!"</string>
   <string name="rope_skip_aleary_group_after">Nhóm</string>
   <string name="sport_remind_total_times">Tổng số lần: %1$s</string>
   <string name="sport_main_graph_title_rope_skip">Gần đây</string>
-  <string name="swim_total_trips_times">Total trips: %1$s</string>
+  <string name="swim_total_trips_times">Tổng chuyến: %1$s</string>
   <string name="route_glevation_gain">Độ cao tăng</string>
   <string name="route_scale_enlarge">Phóng to</string>
   <string name="route_scale_narrow">Thu hẹp</string>
@@ -654,8 +654,8 @@ tập thể dục đạt hiệu quả cao!"</string>
   <string name="keeps_fit_cardio">Giữ tim khỏe</string>
   <string name="improving_cardio">Tăng cường tim mạch</string>
   <string name="endurance_cardio">Độ bền tim mạch</string>
-  <string name="hard_cardio">Hard cardio</string>
-  <string name="very_hard_cardio">Very hard cardio</string>
+  <string name="hard_cardio">Nh.tim Cao</string>
+  <string name="very_hard_cardio">Nhịp tim rất cao</string>
   <string name="running_cost_time_desc">Giờ</string>
   <string name="running_distance_desc">Dặm</string>
   <string name="running_pace_desc">Pace</string>
@@ -817,15 +817,15 @@ tập thể dục đạt hiệu quả cao!"</string>
   <string name="sport_medal_desc_total_300_km">Tổng khoảng cách tập luyện 300 km</string>
   <string name="sport_medal_desc_total_1000_km">Tổng khoảng cách tập luyện 1000 km</string>
   <string name="sport_medal_desc_one_5_mi">Khoảng cách tập luyện 3.1 km</string>
-  <string name="sport_medal_desc_one_10_mi">Single workout distance of 6.2 mi</string>
-  <string name="sport_medal_desc_total_50_mi">Total workout distance of 31 mi</string>
-  <string name="sport_medal_desc_total_300_mi">Total workout distance of 186 mi</string>
-  <string name="sport_medal_desc_total_1000_mi">Total workout distance of 621 mi</string>
-  <string name="sport_medal_desc_half_marathon">Complete a half marathon</string>
-  <string name="sport_medal_desc_marathon">Complete a marathon</string>
-  <string name="sport_medal_desc_continuous_7_days_sport">7 day running streak</string>
-  <string name="sport_medal_desc_continuous_30_days_sport">30 day running streak</string>
-  <string name="sport_saving_record">Saving record...</string>
+  <string name="sport_medal_desc_one_10_mi">Khoảng cách tập luyện 6.2 dặm</string>
+  <string name="sport_medal_desc_total_50_mi">Tổng kh.cách tập luyện 31 dặm</string>
+  <string name="sport_medal_desc_total_300_mi">Tổng kh.cách tập luyện 186 dặm</string>
+  <string name="sport_medal_desc_total_1000_mi">Tổng kh.cách tập luyện 621 dặm</string>
+  <string name="sport_medal_desc_half_marathon">Hoàn thành Half Marathon</string>
+  <string name="sport_medal_desc_marathon">Hoàn thành Marathon</string>
+  <string name="sport_medal_desc_continuous_7_days_sport">7 ngày chạy liên tục</string>
+  <string name="sport_medal_desc_continuous_30_days_sport">30 ngày chạy liên tục</string>
+  <string name="sport_saving_record">Đang lưu kỷ lục...</string>
   <string name="running_button_stop">Dừng</string>
   <string name="running_button_save">Lưu</string>
   <string name="running_button_pause">T.dừng</string>
@@ -864,7 +864,7 @@ tập thể dục đạt hiệu quả cao!"</string>
   <string name="remind_current_heart">Hiện tại</string>
   <string name="remind_last_dis_pace">Pace dặm vừa rồi</string>
   <string name="remind_last_dis_speed">Pace dặm vừa rồi</string>
-  <string name="count_down_tint">Please wear the watch snuggly for accurate heart rate results</string>
+  <string name="count_down_tint">Vui lòng đeo đồng hồ cẩn thận để có kết quả nhịp tim chính xác</string>
   <string name="history_detail_running_cost_time">Thời gian chạy</string>
   <string name="history_detail_walking_cost_time">Thời gian chạy</string>
   <string name="settings_sport_slpt_second_brush">Làm mới trạng thái trên giây</string>
@@ -904,10 +904,10 @@ tập thể dục đạt hiệu quả cao!"</string>
   <string name="remind_target_distance_training_title_format">Chạy%1sKm</string>
   <string name="remind_target_time_training_title_format">Đạp xe%1$dPhút</string>
   <string name="remind_target_time_training_title_swim_format">Bơi%1$dPhút</string>
-  <string name="complete_training_target_tips">"Save this running to today's training program?"</string>
-  <string name="complete_training_outdoor_riding_target_tips">"Save this cycling to today's training program?"</string>
-  <string name="complete_training_swim_target_tips">"Save this swim to today's training program?"</string>
-  <string name="not_complete_train_task">The train is not completed. Are you sure to stop?</string>
+  <string name="complete_training_target_tips">"Lưu lần chạy này vào chương trình luyện tập?"</string>
+  <string name="complete_training_outdoor_riding_target_tips">"Lưu lần đạp xe này vào chương trình luyện tập?"</string>
+  <string name="complete_training_swim_target_tips">"Lưu lần bơi này vào chương trình luyện tập?"</string>
+  <string name="not_complete_train_task">Bài tập chưa hoàn thành. Bạn có muốn dừng?</string>
   <string name="km_metric">km</string>
   <string name="metre_metric">mét</string>
   <string name="km_metric_pace_unit">/km</string>
@@ -917,7 +917,7 @@ tập thể dục đạt hiệu quả cao!"</string>
   <string name="km_metric_remind_target_km_title_format">Hoàn thành %1$d km</string>
   <string name="km_metric_remind_target_km_walking_title_format">Hoàn thành %1$d km</string>
   <string name="km_metric_remind_target_distance_training_title_format">Hoàn thành %1s km</string>
-  <string name="km_metric_remind_target_riding_km_title_format">Completed %1$d km</string>
+  <string name="km_metric_remind_target_riding_km_title_format">Hoàn thành %1$d km</string>
   <string name="meter_metric_crossing_vertical_velocity_unit">mét/phút</string>
   <string name="meter_metric_crossing_history_detail_altituede_graph_desc">Độ cao (m)</string>
   <string name="km_metric_outdoor_speed_graph_title">Tốc độ(km/h)</string>
@@ -939,33 +939,33 @@ tập thể dục đạt hiệu quả cao!"</string>
   <string name="km_imperial_settings_item_value_target_distance">%1$sdặm</string>
   <string name="meter_imperial_settings_item_value_target_distance">%1$sfeet</string>
   <string name="vo2_max_title">VO2Max</string>
-  <string name="vo2_max_level_very_good">Very Good</string>
-  <string name="vo2_max_level_middle">Average</string>
+  <string name="vo2_max_level_very_good">Rất tốt</string>
+  <string name="vo2_max_level_middle">Trung bình</string>
   <string name="vo2_max_text_nunber">50</string>
-  <string name="vo2_max_sport_unit">ml/kg/min</string>
-  <string name="export_gpx">Export GPX file</string>
-  <string name="btn_cancel">Cancel</string>
-  <string name="btn_confirm">Confirm</string>
+  <string name="vo2_max_sport_unit">ml/kg/phút</string>
+  <string name="export_gpx">Xuất tập tin GPX</string>
+  <string name="btn_cancel">Hủy bỏ</string>
+  <string name="btn_confirm">Xác nhận</string>
   <string name="hint_rolling">Đang xuất, hãy chờ một chút...</string>
   <string name="dlg_msg_hint_cancel">Bạn có muốn huỷ việc xuất?</string>
   <string name="dlg_btn_l_msg">Ko</string>
   <string name="dlg_btn_r_msg">Có</string>
-  <string name="hint_cancelling">Cancelling...</string>
-  <string name="hint_success_exported_title">"Exported to GPX file 
- successfully"</string>
-  <string name="hint_failed_exported_title">Failed to Export</string>
-  <string name="hint_where">"The gpx file has been placed in 
- folder \'/sdcard/gpxdata\'.
- You can copy it to a computer through USB."</string>
-  <string name="hint_failed">Failed to export, please try again.</string>
-  <string name="app_name">gpx-recorder</string>
-  <string name="average_text">Avg</string>
+  <string name="hint_cancelling">Hủy bỏ...</string>
+  <string name="hint_success_exported_title">"Đã xuất file GPX 
+ thành công"</string>
+  <string name="hint_failed_exported_title">Không thế xuất</string>
+  <string name="hint_where">"Tệp gpx đã được đặt trong
+  thư mục \'/sdcard/gpxdata\'.
+  Bạn có thể sao chép nó vào máy tính qua USB. "</string>
+  <string name="hint_failed">Không thể xuất file, vui lòng thử lại.</string>
+  <string name="app_name">Bộ ghi GPX</string>
+  <string name="average_text">Trb</string>
   <string name="menu_item_high_light_scale_factor">0.5</string>
-  <string name="picker_default_positive_text">Confirm</string>
-  <string name="picker_default_nagetive_text">Off</string>
+  <string name="picker_default_positive_text">Xác nhận</string>
+  <string name="picker_default_nagetive_text">Tắt</string>
   <string name="ui_lib_name">Hm_UILib</string>
-  <string name="title_settings">Settings</string>
-  <string name="sport_music_settings">Sports music</string>
+  <string name="title_settings">Cài đặt</string>
+  <string name="sport_music_settings">Âm nhạc</string>
   <string name="widget_currentstep_title">Tổng hợp ngày</string>
   <string name="widget_currentstep_activities">Hoạt động</string>
   <string name="widget_currentstep_sleep_hour">g</string>
