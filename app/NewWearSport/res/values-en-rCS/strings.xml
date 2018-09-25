@@ -488,11 +488,11 @@
   <string name="run_vo2max_unit">ml / kg / min</string>
   <string name="vo2_max_has_no_data">Žádná data</string>
   <string name="sport_setting_gpx_route_selected">Trasa vybrána</string>
-  <string name="sport_setting_gpx_route_selectd_remind">Venkovní sporty budou používat tuto trasu k navigaci. Pokud nechcete navigovat, vyberte Zavřít pro zrušení navigace.</string>
+  <string name="sport_setting_gpx_route_selectd_remind">Venkovní sporty budou používat tuto trasu k navigaci. Pokud to není potřeba, zvolte možnost \"Zavřít\"</string>
   <string name="confirm">OK</string>
   <string name="decision_yes">Ano</string>
   <string name="decision_no">Ne</string>
-  <string name="use_sport_route_remind">Použít tuto trasu %1$s?</string>
+  <string name="use_sport_route_remind">Použít tuto trasu %1$s? pro navigování?</string>
   <string name="please_start_sport_from_route_start">Aby byla zajištěna přesnost navigace, začněte aktivitu v reálné geografické poloze výchozího bodu trasy.</string>
   <string name="please_become_bigger">Přiblížení</string>
   <string name="please_become_smaller">Oddálení</string>
@@ -504,9 +504,9 @@
   <string name="gpx_select_closed">Zavřít</string>
   <string name="gpx_select_empty"></string>
   <string name="gpx_details_view">Vybráno</string>
-  <string name="gpx_details_use">Použitý</string>
+  <string name="gpx_details_use">Použito</string>
   <string name="gpx_route_loading">Prosím, vyčkejte na nahrání trasy</string>
-  <string name="dialog_remind_to_look_route">Sledujte tarsu</string>
+  <string name="dialog_remind_to_look_route">Sledujte trasu</string>
   <string name="gpx_offset_route">Odchýlení od trasy</string>
   <string name="gpx_back_route">Zpátky na trase</string>
   <string name="gpx_alreay_offset">Odchýlení</string>
