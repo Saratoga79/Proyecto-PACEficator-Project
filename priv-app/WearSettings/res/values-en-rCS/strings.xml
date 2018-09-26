@@ -135,7 +135,7 @@
   <string name="device_name_everest_oversea">Amazfit Stratos</string>
   <string name="device_name_everest_2s">Amazfit Sports Watch 2S</string>
   <string name="device_name_everest_2s_oversea">Amazfit Stratos +</string>
-  <string name="lab">Lab</string>
+  <string name="lab">Laboratoř</string>
   <string name="opened">Zap</string>
   <string name="closed">Vyp</string>
   <string name="air_plane">Mód letadlo</string>
@@ -145,8 +145,8 @@
   <string name="settings_long_sit_reminder">Upoz. na pohyb</string>
   <string name="settings_off">Vyp</string>
   <string name="settings_on">Zap</string>
-  <string name="settings_step_target">Cíl kroků</string>
-  <string name="settings_step_unit">Kroků</string>
+  <string name="settings_step_target">Cílový počet kroků</string>
+  <string name="settings_step_unit">Kroky</string>
   <string name="settings_target_reach_reminder">Upoz. na cíl</string>
   <string name="nodisturb_open_string">Zap</string>
   <string name="nodisturb_close_string">Vyp</string>
@@ -158,7 +158,7 @@
   <string name="auto_wifi_trans_on_string">Zap</string>
   <string name="auto_wifi_trans_off_string">Vyp</string>
   <string name="blue_tooth_dev_in_sub_list">Bluetooth</string>
-  <string name="scanning_blt_devices">Vyhledávám...</string>
+  <string name="scanning_blt_devices">Vyhledávání...</string>
   <string name="blt_bound_stat_bonded">Spárováno</string>
   <string name="blt_bound_stat_connected">Připojeno</string>
   <string name="blt_bound_stat_disconnect">Odpojeno</string>
@@ -183,12 +183,12 @@ Připojit?"</string>
   <string name="bluetooth_connecting">Připojuji...</string>
   <string name="bluetooth_disconnecting">Odpojuji...</string>
   <string name="blt_hint_paring">"%1s 
-spárovat?"</string>
+ spárovat?"</string>
   <string name="blt_paring_fail_hint">"Ujistěte se, že je zařízení zapnuté 
 a v dosahu"</string>
   <string name="blt_hint_disconnect_device">Odpojit</string>
   <string name="blt_hint_ignore_device">Ignorovat</string>
-  <string name="blt_hint_connect_device">Pripojit</string>
+  <string name="blt_hint_connect_device">Připojit</string>
   <string name="bluetooth_connected">Připojeno</string>
   <string name="bluetooth_disconnected">Odpojeno</string>
   <string name="bluetooth_connecting_error_message">"Nelze se připojit k %1$s."</string>
@@ -212,12 +212,12 @@ a v dosahu"</string>
   <string name="lab_wifi_test_tip_testing">Testování…</string>
   <string name="lab_wifi_test_tip_pass">V pořádku!!</string>
   <string name="lab_wifi_test_tip_fail">Chyba!!</string>
-  <string name="lab_wifi_test_tip_open_wifi">Otevření WIFI</string>
+  <string name="lab_wifi_test_tip_open_wifi">Otevřená WIFI</string>
   <string name="light_off">Vyp</string>
   <string name="light_auto">Auto</string>
   <string name="light_on">Vždy zapnuto</string>
   <string name="rise_no_bl_under_slpt">Pouze odemčeno</string>
-  <string name="subtitle_of_raise_hand_no_bl">Aut. při odemknutí</string>
+  <string name="subtitle_of_raise_hand_no_bl">Auto. při odemknutí</string>
   <string name="rise_with_bl_under_slpt">Zap</string>
   <string name="rise_without_bl_under_slpt">Vyp</string>
   <string name="locale_title">Jazyk</string>
@@ -249,10 +249,10 @@ cm"</string>
   <string name="weight_unit">"Váha 
 kg"</string>
   <string name="reset_factory_hint">"Obnovit tovární nastavení?"</string>
-  <string name="time_zone">Časová zóna</string>
+  <string name="time_zone">Časové pásmo</string>
   <string name="date">Datum</string>
   <string name="time">Čas</string>
-  <string name="date_ymd">Datum(R/M/D)</string>
+  <string name="date_ymd">Datum(D/M/Y)</string>
   <string name="time_hms">Čas(H/M/S)</string>
   <string name="time_format">Formát času</string>
   <string name="hour_system">%s-hodinový systém</string>
@@ -276,7 +276,7 @@ kg"</string>
   <string name="bind_tips_title">"Chraňte prosím
 svá data bezpečněji"</string>
   <string name="upgrade_checking">Vyhledávám aktualizace...</string>
-  <string name="left_hand">Levá</string>
-  <string name="right_hand">Pravá</string>
+  <string name="left_hand">Levá ruka</string>
+  <string name="right_hand">Pravá ruka</string>
   <string name="device_name_huanhe">Amazfit Sports Watch</string>
 </resources>
