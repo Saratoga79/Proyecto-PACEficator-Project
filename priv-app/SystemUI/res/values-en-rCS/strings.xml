@@ -173,7 +173,7 @@ Používejte pouze dodávanou nabíječku."</string>
   <string name="accessibility_quick_settings_location_on">Hlášení o poloze zapnuto.</string>
   <string name="accessibility_quick_settings_location_changed_off">Hlášení o poloze vypnuto.</string>
   <string name="accessibility_quick_settings_location_changed_on">Hlášení o poloze zapnuto.</string>
-  <string name="accessibility_quick_settings_alarm">Alarm nastaven na %s.</string>
+  <string name="accessibility_quick_settings_alarm">Budík nastaven na %s.</string>
   <string name="accessibility_quick_settings_close">Zavřít panel.</string>
   <string name="accessibility_quick_settings_more_time">Více času.</string>
   <string name="accessibility_quick_settings_less_time">Méně času.</string>
@@ -184,7 +184,7 @@ Používejte pouze dodávanou nabíječku."</string>
   <string name="accessibility_quick_settings_color_inversion_changed_off">Převrácení barev vypnuto.</string>
   <string name="accessibility_quick_settings_color_inversion_changed_on">Převrácení barev zapnuto.</string>
   <string name="accessibility_quick_settings_hotspot_changed_off">Mobilní hotspot vypnutý.</string>
-  <string name="accessibility_quick_settings_hotspot_changed_on">Mobilní hospot zapnutý.</string>
+  <string name="accessibility_quick_settings_hotspot_changed_on">Mobilní hotspot zapnutý.</string>
   <string name="accessibility_casting_turned_off">Nahrávání obrazovky bylo zastaveno.</string>
   <string name="accessibility_brightness">Jas displeje</string>
   <string name="data_usage_disabled_dialog_3g_title">2G-3G data jsou vypnuta</string>
@@ -195,7 +195,7 @@ Používejte pouze dodávanou nabíječku."</string>
 
 Jeho opětovné zapnutí může vést k poplatkům od vašeho operátora."</string>
   <string name="data_usage_disabled_dialog_enable">Zapnout data</string>
-  <string name="status_bar_settings_signal_meter_disconnected">Žadné internetové připojení</string>
+  <string name="status_bar_settings_signal_meter_disconnected">Žádné internetové připojení</string>
   <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi připojeno</string>
   <string name="gps_notification_searching_text">Hledání GPS</string>
   <string name="gps_notification_found_text">Lokalizace polohy přes GPS</string>
@@ -208,7 +208,7 @@ Jeho opětovné zapnutí může vést k poplatkům od vašeho operátora."</stri
   <string name="accessibility_rotation_lock_on_portrait">Obrazovka je uzamčena na výšku.</string>
   <string name="accessibility_rotation_lock_off_changed">Obrazovka se nyní bude automaticky otáčet.</string>
   <string name="accessibility_rotation_lock_on_landscape_changed">Obrazovka je uzamčena v orientaci na šířku.</string>
-  <string name="accessibility_rotation_lock_on_portrait_changed">Obrazovka je uzamčena v orentaci na výšku.</string>
+  <string name="accessibility_rotation_lock_on_portrait_changed">Obrazovka je uzamčena v orientaci na výšku.</string>
   <string name="dessert_case">Pouzdro</string>
   <string name="start_dreams">Snít</string>
   <string name="ethernet_label">Ethernet</string>
@@ -216,26 +216,26 @@ Jeho opětovné zapnutí může vést k poplatkům od vašeho operátora."</stri
   <string name="quick_settings_bluetooth_label">Bluetooth</string>
   <string name="quick_settings_bluetooth_multiple_devices_label">Bluetooth (%d zařízení)</string>
   <string name="quick_settings_bluetooth_off_label">Bluetooth vypnuto</string>
-  <string name="quick_settings_bluetooth_detail_empty_text">Žádné spárované přístroje nejsou k dispozici</string>
+  <string name="quick_settings_bluetooth_detail_empty_text">Žádná spárovaná zařízení nejsou k dispozici</string>
   <string name="quick_settings_brightness_label">Jas</string>
-  <string name="quick_settings_rotation_unlocked_label">Automatická rotace</string>
-  <string name="quick_settings_rotation_locked_label">Rotace zamknuta</string>
-  <string name="quick_settings_rotation_locked_portrait_label">Portrait</string>
-  <string name="quick_settings_rotation_locked_landscape_label">Landscape</string>
+  <string name="quick_settings_rotation_unlocked_label">Automatické otáčení</string>
+  <string name="quick_settings_rotation_locked_label">Otáčení zamknuto</string>
+  <string name="quick_settings_rotation_locked_portrait_label">Na výšku</string>
+  <string name="quick_settings_rotation_locked_landscape_label">Na šířku</string>
   <string name="quick_settings_ime_label">Vstupní metoda</string>
   <string name="quick_settings_location_label">Poloha</string>
   <string name="quick_settings_location_off_label">Poloha vypnuta</string>
   <string name="quick_settings_media_device_label">Mediální zařízení</string>
   <string name="quick_settings_rssi_label">RSSI</string>
-  <string name="quick_settings_rssi_emergency_only">Pouze tísňové volání</string>
+  <string name="quick_settings_rssi_emergency_only">Pouze tísňová volání</string>
   <string name="quick_settings_settings_label">Nastavení</string>
   <string name="quick_settings_time_label">Čas</string>
-  <string name="quick_settings_user_label">Moje</string>
+  <string name="quick_settings_user_label">Já</string>
   <string name="quick_settings_user_title">Uživatel</string>
   <string name="quick_settings_user_new_user">Nový uživatel</string>
   <string name="quick_settings_wifi_label">Wi-Fi</string>
-  <string name="quick_settings_wifi_not_connected">Není připojeno</string>
-  <string name="quick_settings_wifi_no_network">Žadné připojení</string>
+  <string name="quick_settings_wifi_not_connected">Nepřipojeno</string>
+  <string name="quick_settings_wifi_no_network">Žádná síť</string>
   <string name="quick_settings_wifi_off_label">Wi-Fi vypnuto</string>
   <string name="quick_settings_wifi_detail_empty_text">Žádné uložené internetové připojení</string>
   <string name="quick_settings_cast_title">Nahrávání obrazovky</string>
@@ -258,7 +258,7 @@ Jeho opětovné zapnutí může vést k poplatkům od vašeho operátora."</stri
   <string name="quick_settings_flashlight_label">Svítilna</string>
   <string name="quick_settings_cellular_detail_title">Mobilní data</string>
   <string name="quick_settings_cellular_detail_data_usage">Využití dat</string>
-  <string name="quick_settings_cellular_detail_remaining_data">Zbývajíci data</string>
+  <string name="quick_settings_cellular_detail_remaining_data">Zbývající data</string>
   <string name="quick_settings_cellular_detail_over_limit">Přes limit</string>
   <string name="quick_settings_cellular_detail_data_used">%s použito</string>
   <string name="quick_settings_cellular_detail_data_limit">%s limit</string>
