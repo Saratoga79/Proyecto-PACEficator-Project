@@ -269,7 +269,7 @@ Jeho opětovné zapnutí může vést k poplatkům od vašeho operátora."</stri
   <string name="recents_search_bar_label">Hledat</string>
   <string name="recents_launch_error_message">Nelze spustit %s.</string>
   <string name="expanded_header_battery_charged">Nabitá</string>
-  <string name="expanded_header_battery_charging">Nabijení</string>
+  <string name="expanded_header_battery_charging">Nabíjení</string>
   <string name="expanded_header_battery_charging_with_time">%s plná</string>
   <string name="expanded_header_battery_not_charging">Nenabijí se</string>
   <string name="battery_meter_very_low_overlay_symbol">!</string>
@@ -295,7 +295,7 @@ monitorována"</string>
   <string name="interruption_level_all">Vše</string>
   <string name="keyguard_indication_charging_time">Nabito (%s plně nabito)</string>
   <string name="accessibility_multi_user_switch_switcher">Přepnout uživatele</string>
-  <string name="accessibility_multi_user_switch_switcher_with_current">Přepnutí uživatele, aktuální uživatel %s</string>
+  <string name="accessibility_multi_user_switch_switcher_with_current">Přepnout uživatele, aktuální uživatel %s</string>
   <string name="accessibility_multi_user_switch_quick_contact">Zobrazit profil</string>
   <string name="user_add_user">Přidat uživatele</string>
   <string name="user_new_user_name">Nový uživatel</string>
@@ -316,7 +316,7 @@ Každý uživatel může aktualizovat aplikace pro všechny ostatní uživatele.
   <string name="battery_saver_notification_title">Spořič baterie je zapnutý</string>
   <string name="battery_saver_notification_text">Snižuje výkon a data na pozadí</string>
   <string name="battery_saver_notification_action_text">Vypnout spořič baterie</string>
-  <string name="notification_hidden_text">Obsah skrytý</string>
+  <string name="notification_hidden_text">Skrytý obsah</string>
   <string name="media_projection_dialog_text">"%s bude zachycovat vše, co se zobrazuje na obrazovce."</string>
   <string name="media_projection_remember_text">"Znovu neukazovat"</string>
   <string name="clear_all_notifications_text">Vymazat vše</string>
@@ -399,15 +399,14 @@ Také jste připojeni k síti VPN (\"%3$s\"). Poskytovatel služby VPN může ta
   <string name="keyguard_indication_trust_disabled">Přístroj zůstane uzamčen, dokud ho ručně neodemknete</string>
   <string name="hidden_notifications_title">Získat oznámení rychleji</string>
   <string name="hidden_notifications_text">Podívejte se na ně dříve, než odemknete</string>
-  <string name="hidden_notifications_cancel">Ne děkuji</string>
+  <string name="hidden_notifications_cancel">Ne, děkuji</string>
   <string name="hidden_notifications_setup">Nastavit</string>
   <string name="zen_mode_and_condition">%1$s. %2$s</string>
   <string name="screen_pinning_title">Obrazovka je připnuta</string>
   <string name="screen_pinning_description">To vede k tomu, dokud nepřipnete. Dotkněte se a podržte současně klávesu Zpět a přehled a uvolněte jej.</string>
-  <string name="screen_pinning_description_accessible">\"To vede k tomu, dokud nepřipnete. Dotkněte se a podržte Přehled, chcete-li uvolnit.
-\"</string>
+  <string name="screen_pinning_description_accessible">To vede k tomu, dokud nepřipnete. Dotkněte se a podržte Přehled, chcete-li uvolnit.</string>
   <string name="screen_pinning_positive">Mám to</string>
-  <string name="screen_pinning_negative">Ne děkuji</string>
+  <string name="screen_pinning_negative">Ne, děkuji</string>
   <string name="quick_settings_reset_confirmation_title">Skrýt %1$s?</string>
   <string name="quick_settings_reset_confirmation_message">To se znovu objeví při příštím zapnutí v nastavení.</string>
   <string name="quick_settings_reset_confirmation_button">Skrýt</string>
@@ -425,22 +424,22 @@ Také jste připojeni k síti VPN (\"%3$s\"). Poskytovatel služby VPN může ta
   <string name="keyguard_password_enter_pin_prompt">Nový PIN kód SIM karty</string>
   <string name="keyguard_password_entry_touch_hint"><font size="17">Dotykem zadejte heslo</font></string>
   <string name="keyguard_password_enter_password_code">Zadejte heslo pro odemknutí</string>
-  <string name="keyguard_password_enter_pin_password_code">Zadejte PIN k odemknutí</string>
+  <string name="keyguard_password_enter_pin_password_code">Zadejte PIN pro odemknutí</string>
   <string name="keyguard_password_wrong_pin_code">Nesprávný PIN kód.</string>
   <string name="keyguard_label_text">Chcete-li odemknout, stiskněte tlačítko Menu a pak 0.</string>
   <string name="faceunlock_multiple_failures">Překročení maximálního počtu pokusů odemknutí obličejem</string>
-  <string name="keyguard_charged">Nabitá</string>
+  <string name="keyguard_charged">Nabito</string>
   <string name="keyguard_plugged_in">Nabíjení</string>
   <string name="keyguard_low_battery">Připojte nabíječku.</string>
   <string name="keyguard_instructions_when_pattern_disabled">Stiskněte tlačítko Menu pro odemknutí.</string>
-  <string name="keyguard_network_locked_message">Síť je zamčená</string>
-  <string name="keyguard_missing_sim_message_short">Není SIM karta</string>
+  <string name="keyguard_network_locked_message">Síť je blokována</string>
+  <string name="keyguard_missing_sim_message_short">Chybí SIM karta</string>
   <string name="keyguard_missing_sim_message">V tabletu není SIM karta.</string>
   <string name="keyguard_missing_sim_instructions">Vložte SIM kartu.</string>
   <string name="keyguard_missing_sim_instructions_long">Karta SIM chybí nebo je nečitelná. Vložte SIM kartu.</string>
   <string name="keyguard_permanent_disabled_sim_message_short">Nepoužitelná SIM karta.</string>
   <string name="keyguard_permanent_disabled_sim_instructions">"Vaše SIM karta byla natrvalo zablokována.
-Obraťte se na svého operátora pro jinou SIM kartu."</string>
+ Obraťte se na svého operátora pro jinou SIM kartu."</string>
   <string name="keyguard_sim_locked_message">SIM karta je zablokována.</string>
   <string name="keyguard_sim_puk_locked_message">SIM karta je zablokována pomocí kódu PUK.</string>
   <string name="keyguard_sim_unlock_progress_dialog_message">Odblokování karty SIM...</string>
@@ -449,7 +448,7 @@ Obraťte se na svého operátora pro jinou SIM kartu."</string>
   <string name="keyguard_accessibility_widget_changed">%1$s. Widget %2$d z %3$d.</string>
   <string name="keyguard_accessibility_add_widget">Přidat widget.</string>
   <string name="keyguard_accessibility_widget_empty_slot">Prázdný</string>
-  <string name="keyguard_accessibility_unlock_area_expanded">Odemknutá oblast byla rozšířena.</string>
+  <string name="keyguard_accessibility_unlock_area_expanded">Odemčená oblast byla rozšířena.</string>
   <string name="keyguard_accessibility_unlock_area_collapsed">Odemčená oblast se sblížila.</string>
   <string name="keyguard_accessibility_widget">%1$s widget.</string>
   <string name="keyguard_accessibility_user_selector">Volič uživatele</string>
