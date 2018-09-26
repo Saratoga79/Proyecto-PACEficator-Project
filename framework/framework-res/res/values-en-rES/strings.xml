@@ -4,6 +4,8 @@
   <string name="hm_back">Atrás</string>
   <string name="hm_reboot">Reiniciar</string>
   <string name="turn_off_radio">Desactivar función inalámbrica</string>
+  <string name="power_off">Apagar</string>
+  <string name="global_action_power_off">Apagar</string>
   <string name="permlab_shutdown">cierre parcial</string>
   <string name="granularity_label_word">palabra</string>
   <string name="factorytest_reboot">Reiniciar</string>
@@ -14,9 +16,7 @@
 
 ¿Quieres cerrarla?\"</string>
   <string name="anr_application_process">"La aplicación %1$s no responde. ¿Quieres cerrarla?"</string>
-  <string name="anr_process">\"El proceso %1$s no responde.
-
-¿Quieres cerrarlo?\"</string>
+  <string name="anr_process">"El proceso %1$s no responde."</string>
   <string name="android_start_title">Android se está iniciando…</string>
   <string name="android_upgrading_apk">" Optimizando Apps %1$d de %2$d"</string>
   <string name="android_upgrading_starting_apps">Iniciando aplicaciones</string>
