@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<trainplans>
+        <trainplan id="1">
+            <title>Beginner</title>
+            <type>1</type>
+            <orderId>1</orderId>
+            <copyWrite>Suitable for the first run from walking to jogging. This training can help you step by step to adapt to running.</copyWrite>
+            <totalLength>85.6</totalLength>
+            <totalDays>56</totalDays>
+        </trainplan>
+        <trainplan id="2">
+            <title>5 km</title>
+            <type>2</type>
+            <orderId>2</orderId>
+            <totalLength>148</totalLength>
+            <totalDays>56</totalDays>
+            <copyWrite>Suitable for entry runners. This training can help you get better movement.</copyWrite>
+        </trainplan>
+        <trainplan id="3">
+            <title>10 km</title>
+            <type>3</type>
+            <orderId>3</orderId>
+            <totalLength>212</totalLength>
+            <totalDays>56</totalDays>
+            <copyWrite>Suitable for advanced runners. This training helps to improve your aerobic fitness and muscle strength.</copyWrite>
+        </trainplan>
+        <trainplan id="4">
+            <title>HalfMarathon</title>
+            <type>4</type>
+            <orderId>4</orderId>
+            <totalLength>307.4</totalLength>
+            <totalDays>56</totalDays>
+            <copyWrite>Suitable for half racing.Helps to improve your ability to run a long.</copyWrite>
+        </trainplan>
+        <trainplan id="5">
+            <title>Marathon</title>
+            <type>5</type>
+            <orderId>5</orderId>
+            <totalLength>436.0</totalLength>
+            <totalDays>56</totalDays>
+            <copyWrite>Suitable for all races.Help you predict performance and plan your pace and match strategy.</copyWrite>
+        </trainplan>
+</trainplans>
