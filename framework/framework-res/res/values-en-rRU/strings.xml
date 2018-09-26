@@ -4,6 +4,8 @@
   <string name="hm_back">Назад</string>
   <string name="hm_reboot">Перезагрузка</string>
   <string name="turn_off_radio">Отключить беспроводное соединение</string>
+  <string name="power_off">Power off</string>
+  <string name="global_action_power_off">Power off</string>
   <string name="permlab_shutdown">Частичное завершение работы</string>
   <string name="granularity_label_word">слово</string>
   <string name="factorytest_reboot">Перезагрузка</string>
@@ -14,9 +16,9 @@
 
 Закрыть его?\"</string>
   <string name="anr_application_process">"Приложение \"%1$s\" не отвечает. Закрыть его?"</string>
-  <string name="anr_process">\"Приложение \"%1$s\" не отвечает.
+  <string name="anr_process">"\"Приложение \"%1$s\" не отвечает.
 
-Закрыть его?\"</string>
+Закрыть его?\""</string>
   <string name="android_start_title">Запуск Android…</string>
   <string name="android_upgrading_apk">" Optimizing App %1$d Total %2$d"</string>
   <string name="android_upgrading_starting_apps">Запуск приложений.</string>
