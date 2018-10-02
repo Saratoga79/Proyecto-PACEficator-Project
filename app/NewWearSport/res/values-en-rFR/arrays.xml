@@ -30,11 +30,11 @@
   <string-array name="support_sport">
     <item>COURSE</item>
     <item>MARCHE</item>
-    <item>CROSSING</item>
-    <item>INDOOR_RUN</item>
-    <item>OUTDOOR_RIDING</item>
-    <item>INDOOR_RIDING</item>
-    <item>ELLIPTICAL_MACHINE</item>
+    <item>TRAVERSÉE</item>
+    <item>COURSE_EN_SALLE</item>
+    <item>EQUITATION_EN_PLEIN_AIR</item>
+    <item>EQUITATION_EN_INTÉRIEUR</item>
+    <item>MACHINE_ELLIPTIQUE</item>
   </string-array>
   <string-array name="dally_performence_level_status">
     <item>Fatigué</item>
@@ -51,8 +51,8 @@
     <item>Excellent</item>
   </string-array>
   <string-array name="spring_depend">
-    <item>com.huami.watch.newsport/com.huami.watch.newsport.widget.SportWidget</item>
-    <item>com.huami.watch.newsport/com.huami.watch.newsport.widget.SportHistoryWidget</item>
+    <item>https://crowdin.com/translate/paceficator-proyect/1648/en-fr#115889</item>
+    <item>https://crowdin.com/translate/paceficator-proyect/1648/en-fr#115890</item>
     <item>com.huami.watch.newsport/com.huami.watch.newsport.widget.SportLauncherWidget</item>
   </string-array>
 </resources>
