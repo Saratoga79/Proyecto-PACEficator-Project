@@ -538,10 +538,10 @@ Veuillez réessayer dans %d secondes."</string>
 Veuillez réessayer dans %d secondes."</string>
   <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Vous avez tenté de déverrouiller le téléphone de façon incorrecte à %d reprises. Si vous échouez encore %d fois, sa configuration d\'usine sera rétablie, et toutes les données utilisateur seront perdues.</string>
   <string name="kg_failed_attempts_now_wiping">Vous avez tenté de déverrouiller le téléphone de façon incorrecte à %d reprises. Sa configuration d\'usine va être rétablie, et toutes les données utilisateur seront perdues.</string>
-  <string name="kg_failed_attempts_almost_at_erase_user" formatted="false">You have incorrectly attempted to unlock the tablet %d times. After %d more unsuccessful attempts, this user will be removed, which will delete all user data.</string>
-  <string name="kg_failed_attempts_now_erasing_user">You have incorrectly attempted to unlock the tablet %d times. This user will be removed, which will delete all user data.</string>
-  <string name="kg_failed_attempts_almost_at_erase_profile" formatted="false">You have incorrectly attempted to unlock the tablet %d times. After %d more unsuccessful attempts, the work profile will be removed, which will delete all profile data.</string>
-  <string name="kg_failed_attempts_now_erasing_profile">You have incorrectly attempted to unlock the tablet %d times. The work profile will be removed, which will delete all profile data.</string>
+  <string name="kg_failed_attempts_almost_at_erase_user" formatted="false">Vous avez tenté de déverrouiller le téléphone de façon incorrecte à %d reprises. Si vous échouez encore %d fois, cet utilisateur sera supprimé, et toutes ses données seront perdues.</string>
+  <string name="kg_failed_attempts_now_erasing_user">Vous avez tenté de déverrouiller le téléphone de façon incorrecte à %d reprises. Cet utilisateur va être supprimé, et toutes ses données seront perdues.</string>
+  <string name="kg_failed_attempts_almost_at_erase_profile" formatted="false">Vous avez tenté de déverrouiller le téléphone de façon incorrecte à %d reprises. Si vous échouez encore %d fois, ce profil sera supprimé, et toutes ses données seront perdues.</string>
+  <string name="kg_failed_attempts_now_erasing_profile">Vous avez tenté de déverrouiller le téléphone de façon incorrecte à %d reprises. Cet profil va être supprimé, et toutes ses données seront perdues.</string>
   <string name="kg_failed_attempts_almost_at_login" formatted="false">"Vous avez essayé de déverrouiller avec votre schéma %d fois. Après %d nouveaux accès échoués, on vous demandera de débloquer en utilisant un compte email. 
 
 Réessayez dans %d secondes."</string>
@@ -549,12 +549,12 @@ Réessayez dans %d secondes."</string>
   <string name="kg_password_wrong_pin_code_pukked">Mauvais code PIN, vous devez contacter votre opérateur pour débloquer votre appareil.</string>
   <string name="kg_password_wrong_puk_code_dead">La SIM est inutilisable. Contactez votre opérateur.</string>
   <string name="kg_password_pin_failed">Opération de PIN SIM échouée !</string>
-  <string name="kg_password_puk_failed">SIM PUK operation failed!</string>
+  <string name="kg_password_puk_failed">Échec du déverrouillage à l\'aide du code PUK de la carte SIM!</string>
   <string name="kg_pin_accepted">Code Accepté!</string>
-  <string name="keyguard_transport_prev_description">Previous track button</string>
-  <string name="keyguard_transport_next_description">Next track button</string>
-  <string name="keyguard_transport_pause_description">Pause button</string>
-  <string name="keyguard_transport_play_description">Play button</string>
-  <string name="keyguard_transport_stop_description">Stop button</string>
-  <string name="keyguard_carrier_default">No service.</string>
+  <string name="keyguard_transport_prev_description">Piste précédente</string>
+  <string name="keyguard_transport_next_description">Piste suivante</string>
+  <string name="keyguard_transport_pause_description">Bouton de pause</string>
+  <string name="keyguard_transport_play_description">Bouton de lecture</string>
+  <string name="keyguard_transport_stop_description">Bouton d\'arrêt</string>
+  <string name="keyguard_carrier_default">Aucun service.</string>
 </resources>
