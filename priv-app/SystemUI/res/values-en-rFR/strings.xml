@@ -478,7 +478,7 @@ Contactez votre opérateur pour obtenir une autre carte SIM."</string>
   <string name="keyguard_accessibility_transport_heart_description">Coeur</string>
   <string name="keyguard_accessibility_show_bouncer">Dévérouillez pour continuer</string>
   <string name="keyguard_accessibility_hide_bouncer">Lancement annulé</string>
-  <string name="keyguard_accessibility_delete_widget_start">Drop %1$s to delete.</string>
+  <string name="keyguard_accessibility_delete_widget_start">Déposer %1$s pour supprimer.</string>
   <string name="keyguard_accessibility_delete_widget_end">%1$s ne sera pas supprimé.</string>
   <string name="keyguard_accessibility_next_alarm">Prochaine alarme pour %1$s</string>
   <string name="password_keyboard_label_symbol_key">\?123</string>
@@ -536,8 +536,8 @@ Veuillez réessayer dans %d secondes."</string>
   <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Vous avez reproduit un schéma de déverrouillage incorrect à %d reprises.
 
 Veuillez réessayer dans %d secondes."</string>
-  <string name="kg_failed_attempts_almost_at_wipe" formatted="false">You have incorrectly attempted to unlock the tablet %d times. After %d more unsuccessful attempts, this tablet will be reset, which will delete all its data.</string>
-  <string name="kg_failed_attempts_now_wiping">You have incorrectly attempted to unlock the tablet %d times. This tablet will be reset, which will delete all its data.</string>
+  <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Vous avez tenté de déverrouiller le téléphone de façon incorrecte à %d reprises. Si vous échouez encore %d fois, sa configuration d\'usine sera rétablie, et toutes les données utilisateur seront perdues.</string>
+  <string name="kg_failed_attempts_now_wiping">Vous avez tenté de déverrouiller le téléphone de façon incorrecte à %d reprises. Sa configuration d\'usine va être rétablie, et toutes les données utilisateur seront perdues.</string>
   <string name="kg_failed_attempts_almost_at_erase_user" formatted="false">You have incorrectly attempted to unlock the tablet %d times. After %d more unsuccessful attempts, this user will be removed, which will delete all user data.</string>
   <string name="kg_failed_attempts_now_erasing_user">You have incorrectly attempted to unlock the tablet %d times. This user will be removed, which will delete all user data.</string>
   <string name="kg_failed_attempts_almost_at_erase_profile" formatted="false">You have incorrectly attempted to unlock the tablet %d times. After %d more unsuccessful attempts, the work profile will be removed, which will delete all profile data.</string>
