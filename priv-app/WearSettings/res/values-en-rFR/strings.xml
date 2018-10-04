@@ -192,7 +192,7 @@ Et à proximité"</string>
   <string name="bluetooth_connected">Connecté</string>
   <string name="bluetooth_disconnected">Déconnecté</string>
   <string name="bluetooth_connecting_error_message">"Impossible de se connecter à %1$s."</string>
-  <string name="bluetooth_pairing_pin_error_message">"Impossible d'appairer avec %1$s , code PIN incorrect."</string>
+  <string name="bluetooth_pairing_pin_error_message">"Impossible d'appairer avec %1$s , code PIN ou M de P incorrect."</string>
   <string name="bluetooth_pairing_device_down_error_message">"Ne peut pas communiquer avec %1$s."</string>
   <string name="bluetooth_pairing_rejected_error_message">Appairage rejeté par %1$s.</string>
   <string name="bluetooth_turning_on">Activation du Bluetooth…</string>
@@ -226,13 +226,13 @@ Et à proximité"</string>
   <string name="en">Anglais(U.S.)</string>
   <string name="zh_hk">Chinois Traditionnel (Hong Kong)</string>
   <string name="zh_tw">Chinois traditionnel (Taiwan)</string>
-  <string name="ru_ru">Anglais</string>
+  <string name="ru_ru">Russe</string>
   <string name="es_es">Espagnole</string>
   <string name="de_de">Deutsch</string>
   <string name="it_it">Italiano</string>
   <string name="fr_fr">Français</string>
   <string name="pl_pl">Polski</string>
-  <string name="ko_kr">한국의</string>
+  <string name="ko_kr">Coréen</string>
   <string name="confirm_change_locale">"Changer de langue vers 
 %1$s?"</string>
   <string name="gender">Sexe</string>
@@ -264,7 +264,7 @@ kg"</string>
   <string name="mid">Moyen</string>
   <string name="weak">Faible</string>
   <string name="replace_watchface">Cadran</string>
-  <string name="screen_refresh">Occasion</string>
+  <string name="screen_refresh">Aiguille des secondes</string>
   <string name="screen_refresh_on_string">On</string>
   <string name="screen_refresh_off_string">Off</string>
   <string name="confirm_shutdown">Eteindre?</string>
