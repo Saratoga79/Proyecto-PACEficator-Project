@@ -17,13 +17,13 @@
   <string name="check_network">Comprova la xarxa</string>
   <string name="music_continue_downloading">Es continuaran baixant les cançons</string>
   <string name="music_service_unavalible">El servei de DouBan no està disponible</string>
-  <string name="mode_singles">Loop</string>
-  <string name="mode_loop">Play all</string>
-  <string name="mode_random">Shuffle</string>
+  <string name="mode_singles">Bucle</string>
+  <string name="mode_loop">Reprodueix-ho tot</string>
+  <string name="mode_random">Aleatori</string>
   <string name="music_list_title">Configuració de reproducció</string>
   <string name="music_volumn_control">Volum</string>
-  <string name="music_douban_offline">Douban FM offline</string>
-  <string name="music_play_mode">Playback modes</string>
+  <string name="music_douban_offline">Douban FM fora de línia</string>
+  <string name="music_play_mode">Mode de reproducció</string>
   <string name="music_play_source">Canvia la biblioteca de música</string>
   <string name="music_source_douban">Watercress FM</string>
   <string name="music_source_local">Cançons locals</string>
@@ -36,8 +36,8 @@
   <string name="music_no_local_resource">No hi ha cançons per reproduir, connecteu l\'USB per importar.</string>
   <string name="music_start_tips">Necessiteu connectar-vos a un auricular Bluetooth per escoltar música, connectar ara?</string>
   <string name="music_down_not_complete_content">Després de tancar la sessió, les cançons es poden actualitzar a la configuració de Música - Watercress FM fora de línia.</string>
-  <string name="cancel">cancel</string>
-  <string name="enter">Enter</string>
+  <string name="cancel">cancel·la</string>
+  <string name="enter">Entrar</string>
   <string name="app_name">HM Media Player</string>
   <string name="favorite">Preferit</string>
   <string name="error_no_metadata">No es poden recuperar les metadades.</string>
@@ -85,12 +85,12 @@
   <string name="ui_lib_name">Hm_UILib</string>
   <string name="title_settings">Configuració</string>
   <string name="sport_music_settings">Música d\'esports</string>
-  <string name="widget_currentstep_title">Daily Overview</string>
-  <string name="widget_currentstep_activities">Activities</string>
+  <string name="widget_currentstep_title">Resum diari</string>
+  <string name="widget_currentstep_activities">Activitats</string>
   <string name="widget_currentstep_sleep_hour">h</string>
   <string name="widget_currentstep_sleep_min">min</string>
-  <string name="widget_currentstep_sleep_title">Sleep</string>
-  <string name="widget_currentstep_sleep_no">No sleep data</string>
-  <string name="widget_currentstep_activity_no">No activity today?</string>
+  <string name="widget_currentstep_sleep_title">Son</string>
+  <string name="widget_currentstep_sleep_no">No hi ha dades de son</string>
+  <string name="widget_currentstep_activity_no">Avui no hi ha activitat?</string>
   <string name="locale_title">Selecciona l\'idioma</string>
 </resources>
