@@ -66,9 +66,9 @@
   <string name="cancel">đóng</string>
   <string name="data_check_log">+------------------------+▂▃▄▅▆▇█▉ 天 气 数 据 校 验 出 错 ！ %1$s▉█▇▆▅▄▃▂+------------------------+</string>
   <string name="data_checkfail_type">Lỗi nhận dạng thời tiết</string>
-  <string name="data_checkfail_temp">天气类型无法识别</string>
-  <string name="data_checkfail_match">天气类型字段不匹配</string>
-  <string name="data_checkfail_json">JSON格式错误</string>
+  <string name="data_checkfail_temp">Nhiệt độ ngoài phạm vi</string>
+  <string name="data_checkfail_match">Thông tin thời tiết không đúng</string>
+  <string name="data_checkfail_json">Sai định dạng JSON</string>
   <string name="wind_breeze">Gió nhẹ</string>
   <string name="wind_rotating">Đang xoay</string>
   <string name="wind_N">B</string>
