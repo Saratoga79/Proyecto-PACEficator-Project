@@ -10,9 +10,10 @@
   <string name="custom_exit">Выход</string>
   <string name="custom_none_selected">Пожалуйста, выберите</string>
   <string name="custom_selected_confirm">Подтвердить</string>
-  <string name="custom_exit_delete">Exit delete</string>
+  <string name="custom_exit_delete">Удалить</string>
   <string name="custom_none_custom_background_title">Нет изображения</string>
-  <string name="custom_none_custom_background_content">Please add background images from the Amazfit Watch app.</string>
+  <string name="custom_none_custom_background_content">Пожалуйста добавьте фоновые изображения из
+приложение Amazfit Watch.</string>
   <string name="custom_widget_preview_date">\@assets/datawidget/en/preview_6_%d.png</string>
   <string name="custom_title_bg">Фон</string>
   <string name="custom_title_graduation">Индикаторы</string>
@@ -25,7 +26,7 @@
   <string name="custom_data_widget_title_today_dis">Пробег</string>
   <string name="custom_data_widget_title_total_dis">Всего</string>
   <string name="custom_data_widget_title_calorie">Калории</string>
-  <string name="custom_data_widget_title_heart_rate">HR</string>
+  <string name="custom_data_widget_title_heart_rate">Пульс</string>
   <string name="custom_data_widget_title_weather">Погода</string>
   <string name="custom_data_widget_title_aq">AQ</string>
   <string name="custom_data_widget_title_battery">Батарея</string>
@@ -54,10 +55,10 @@
   <string name="waking">Прогулка</string>
   <string name="indoor_running">Бег в помещении</string>
   <string name="outdoor_riding">Велосипед</string>
-  <string name="indoor_riding">Indoor Cycling</string>
-  <string name="cross_contry">Trail Run</string>
-  <string name="eppitical">Elliptical Trainer</string>
-  <string name="indoor_swimming">Pool Swim</string>
+  <string name="indoor_riding">Велотренажер</string>
+  <string name="cross_contry">Длительность тренировки</string>
+  <string name="eppitical">Эллиптический тренажер</string>
+  <string name="indoor_swimming">Плавательный бассейн</string>
   <string name="outdoor_swimming">Открытая вода</string>
   <string name="triathlon">Триатлон</string>
   <string name="mountain">Восхождение</string>
@@ -67,8 +68,8 @@
   <string name="tennis">Теннис</string>
   <string name="soccer">Футбол</string>
   <string name="golf">Гольф</string>
-  <string name="complex_sport">Complex sport</string>
-  <string name="rope_skipping">Rope skipping</string>
+  <string name="complex_sport">Комплексный спорт</string>
+  <string name="rope_skipping">Скакалка</string>
   <string name="sport_total_time">Общее время</string>
   <string name="current_altitude">Высота</string>
   <string name="speed">Скорость</string>
@@ -77,13 +78,13 @@
   <string name="mileage">Расстояние</string>
   <string name="rope_skip_freq">Частота</string>
   <string name="sport_has_paused">Пауза</string>
-  <string name="sport_paused_time">Pause Time</string>
+  <string name="sport_paused_time">Время паузы</string>
   <string name="sport_distance">Расстояние</string>
   <string name="sport_mileage">Пробег</string>
   <string name="sport_downhill_total_distance">Общее расстояние</string>
   <string name="sport_tennis_strokes">Взмахи</string>
   <string name="sport_rope_skip_count">Количество</string>
-  <string name="sport_change">Switch activity</string>
+  <string name="sport_change">Сменить тренировку</string>
   <string name="sport_change_time">Transition time</string>
   <string name="please_get_ready_for_runnning">Следующий: пробежка</string>
   <string name="please_get_ready_for_riding">Следующий: Велоспорт</string>
