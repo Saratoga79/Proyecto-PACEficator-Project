@@ -41,11 +41,11 @@
   <string name="app_name">HM Media Player</string>
   <string name="favorite">Избранное</string>
   <string name="error_no_metadata">Unable to retrieve metadata.</string>
-  <string name="browse_genres">Genres</string>
+  <string name="browse_genres">Жанры</string>
   <string name="browse_genre_subtitle">Songs by genre</string>
   <string name="browse_musics_by_genre_subtitle">%1$s songs</string>
   <string name="random_queue_title">Random music</string>
-  <string name="error_no_connection">Cannot connect to server. Please, check your Internet connectivity.</string>
+  <string name="error_no_connection">Не удалось подключиться к серверу. Пожалуйста, проверьте подключение к Интернету!</string>
   <string name="error_loading_media">Ошибка загрузки данных</string>
   <string name="casting_to_device">Casting to %1$s</string>
   <string name="currently_playing_song">Song currently playing</string>
@@ -67,7 +67,7 @@
   <string name="background_image_str">Background image for album art</string>
   <string name="search_queue_title">Search results</string>
   <string name="no_search_results">No search results.</string>
-  <string name="loading">Loading…</string>
+  <string name="loading">Загрузка...</string>
   <string name="media_route_menu_title">Play on…</string>
   <string name="confirm_exit">The playlist is downloading, stop it?</string>
   <string name="music_download_cancel">Song downloading has been stopped</string>
@@ -87,7 +87,7 @@
   <string name="sport_music_settings">Sports music</string>
   <string name="widget_currentstep_title">Daily Overview</string>
   <string name="widget_currentstep_activities">Activities</string>
-  <string name="widget_currentstep_sleep_hour">h</string>
+  <string name="widget_currentstep_sleep_hour">час</string>
   <string name="widget_currentstep_sleep_min">мин</string>
   <string name="widget_currentstep_sleep_title">Сон</string>
   <string name="widget_currentstep_sleep_no">Нет данных о сне</string>
