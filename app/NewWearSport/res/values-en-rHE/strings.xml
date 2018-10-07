@@ -39,7 +39,7 @@
   <string name="settings_safe_heart_rate_hint">(קצב לב בטוח)</string>
   <string name="settings_safe_heart_rate_unit">bpm</string>
   <string name="elliptical">אליפטיקל</string>
-  <string name="elliptical_in_progress">אליפטי בהתקדמות</string>
+  <string name="elliptical_in_progress">אליפטיקל</string>
   <string name="person_achive">שיא אישי</string>
   <string name="achive_share_sport">שתף פעילות</string>
   <string name="achive_get_record_time">17-05-25获得</string>
@@ -53,13 +53,13 @@
   <string name="no_altitude_hint">נתוני גובה לא אותרו</string>
   <string name="no_heartrate_data_hint">נתוני קצב הלב לא זוהו</string>
   <string name="no_chart_data_hint">לא זמין</string>
-  <string name="not_speed_data">אין זמני מהירות</string>
+  <string name="not_speed_data">מהירות לא זמינה</string>
   <string name="not_pace_data">אין צעדים</string>
   <string name="not_step_freq_data">אין מקצב</string>
-  <string name="not_stroke_speed_data">דופק</string>
+  <string name="not_stroke_speed_data">אין נתוני חתירה</string>
   <string name="not_cadence_data">אין מקצב</string>
   <string name="stroke_speed_curve_title">דופק (SPM)</string>
-  <string name="stroke_unit">דופק</string>
+  <string name="stroke_unit">חתירות</string>
   <string name="cadence_curve_title">מקצב (פעמים/דקות)</string>
   <string name="swim_trips_complete">%1$d אורך שחיה</string>
   <string name="gps_search_tips">תרגיל חימום של 15 דקות לפני הריצה מסייע במניעת פציעות.</string>
@@ -67,7 +67,7 @@
   <string name="gps_searching">מחפש</string>
   <string name="gps_search_success">GPS זמין</string>
   <string name="gps_search_failed_title">GPS אינו זמין</string>
-  <string name="gps_search_failed_content">לא ניתן לרשום מרחק באופן מדויק, גש להליכה מרחב פתוח.</string>
+  <string name="gps_search_failed_content">לא ניתן לקבל אות GPS. נסו שוב במרחב פתוח</string>
   <string name="gps_search_success_title">GPS זמין כעת</string>
   <string name="gps_search_success_content">"קדימה, נתחיל את הפעילות!"</string>
   <string name="gps_search_timeout_title">פג תוקפו של ה-GPS</string>
@@ -75,7 +75,7 @@
   <string name="gps_notify_success">GPS זמין</string>
   <string name="gps_notify_loss">אות GPS אבד</string>
   <string name="gps_search_time_out_content">ה-GPS נכבה עקב חוסר פעילות</string>
-  <string name="detail_route_title">בזמן אמת</string>
+  <string name="detail_route_title">מסלול</string>
   <string name="detail_route_total_dis">סה\"כ מרחק</string>
   <string name="detail_route_detail_lap_title">פרטי הקפה</string>
   <string name="detail_route_detail_manual_lap_title">מפתח הקפות</string>
@@ -121,7 +121,7 @@
   <string name="settings_sport_route">ייבוא מסלול</string>
   <string name="settings_sport_items">מסך נתונים</string>
   <string name="settings_sport_3d_data">נתוני 3D</string>
-  <string name="settings_sport_real_graph">סטטיסטיקה בזמן אמת</string>
+  <string name="settings_sport_real_graph">נתונים בזמן אמת</string>
   <string name="settings_sport_auto_section">הקפה אוטו\'</string>
   <string name="settings_sport_lap">הקפה</string>
   <string name="settings_sport_lap_auto">הקפה אוטו\'</string>
@@ -184,7 +184,7 @@
   <string name="history_month_dis_imperial">%1$s/%2$dמייל</string>
   <string name="history_month_cost">%1$s/%2$s</string>
   <string name="history_sport">היסטוריית ספורט</string>
-  <string name="history_no_sport_tips">אין פעילות עדיין, התחל לרוץ עכשיו!</string>
+  <string name="history_no_sport_tips">אין פעילות עדיין, התחלו לרוץ עכשיו!</string>
   <string name="history_start_sport_tips">התחל פעילות עכשיו!</string>
   <string name="sport_main_percent">%</string>
   <string name="unit_cadence">rpm</string>
@@ -218,7 +218,7 @@
   <string name="sport_main_graph_title">אחרון (דק\')</string>
   <string name="exchange_time_cost">זמן מעבר</string>
   <string name="exchange_in_progress">במעבר</string>
-  <string name="exchange_anim_title">החלף פעילות</string>
+  <string name="exchange_anim_title">החלפת פעילות</string>
   <string name="sport_pause_swim_type">מרחק שחיה </string>
   <string name="sport_pause_swim_dis_unit">מרחק</string>
   <string name="sport_pause_normal_dis_type">מרחק כולל </string>
@@ -237,7 +237,7 @@
   <string name="adjust_swim_tips">הקפת מרחק אוטו\' של שחיה היא על פי גודל הבריכה. התאם אותו בהגדרות השחייה במידת הצורך.</string>
   <string name="hill_title">שינוי גרדיאנט</string>
   <string name="hill_even">שטוח</string>
-  <string name="hill_up">במעלה ההר</string>
+  <string name="hill_up">במעלה גבעה</string>
   <string name="hill_down">בירידה</string>
   <string name="hill_default_time">00:00:00</string>
   <string name="hill_default_percent">%1$d%%</string>
@@ -249,7 +249,7 @@
   <string name="sport_lap_manual_current">דופק לב נוכחי</string>
   <string name="sport_lap_swim_length_time">זמן/%1$s מטרים</string>
   <string name="sport_lap_swim_length_time_imperial">זמן/%1$s רגל</string>
-  <string name="sport_swim_style">סוג שחיה</string>
+  <string name="sport_swim_style">סוג חתירה</string>
   <string name="sport_swim_style_main">סגנון ראשי</string>
   <string name="swim_free_style">פריסטייל</string>
   <string name="swim_medlyrelay">מעורב</string>
@@ -264,8 +264,8 @@
   <string name="earphone_conn_title">אוזניות</string>
   <string name="device_in">התקן מחובר</string>
   <string name="device_out">התקן מנותק</string>
-  <string name="history_swim_exchange_title">זמן בשחייה</string>
-  <string name="history_riding_exchange_title">זמן באופניים</string>
+  <string name="history_swim_exchange_title">מעבר לאופניים</string>
+  <string name="history_riding_exchange_title">מעבר לריצה</string>
   <string name="sport_pause_time_tips">זמן הפסקה</string>
   <string name="sport_stride_unit">ס\"מ</string>
   <string name="sport_stride_unit_imperial">ב</string>
