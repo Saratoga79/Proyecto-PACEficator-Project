@@ -34,11 +34,11 @@
   <string name="tv_power_title">Выключить</string>
   <string name="tv_change_title">Выбрать устройство</string>
   <string name="error_bluetooth_title">Bluetooth отключен</string>
-  <string name="error_bluetooth_content">Please check the Bluetooth connection of the watch with the phone。</string>
-  <string name="error_wifi_title">Wi-Fi connection is broken</string>
-  <string name="error_wifi_content">"Please check your phone's Wi-Fi connection."</string>
+  <string name="error_bluetooth_content">Проверьте соединение Bluetooth с телефоном.</string>
+  <string name="error_wifi_title">Соединение Wi-Fi нарушено</string>
+  <string name="error_wifi_content">"Проверьте подключение к Интернету."</string>
   <string name="error_connect_title">ошибка соединения</string>
-  <string name="error_connect_content">Wi-Fi can not be connected. Please try again later.</string>
-  <string name="error_device_title">Can not find device</string>
+  <string name="error_connect_content">Wi-Fi нельзя подключить. Пожалуйста, повторите попытку позже.</string>
+  <string name="error_device_title">Не удается найти устройство</string>
   <string name="error_device_content">Check that the device is powered on and connected to the same Wi-Fi.</string>
 </resources>
