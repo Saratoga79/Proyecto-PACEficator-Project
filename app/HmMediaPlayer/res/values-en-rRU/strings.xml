@@ -4,12 +4,12 @@
   <string name="music_name">Watercress FM</string>
   <string name="music_download" formatted="false">%1d/%2d</string>
   <string name="music_download_in_progress">Песня загружается...</string>
-  <string name="music_no_wifi_title">Unable to download</string>
-  <string name="music_download_fail_title">Song downloading failed</string>
-  <string name="music_download_not_complete_title">Songs not completely downloaded</string>
-  <string name="music_no_wifi_content">Wi-Fi is not connected, songs cannot be downloaded. Please connect to Wi-Fi by System settings - Wi-Fi on the watch.</string>
-  <string name="music_download_fail_content">Network connection error. Songs unable to be downloaded. Please connect to the network and try again.</string>
-  <string name="music_download_not_complete_content">Network connecting error, songs unable to finish downloading. Only play currently downloaded songs. (All songs will be downloaded automatically with Wi-Fi connection)</string>
+  <string name="music_no_wifi_title">Не удалось загрузить</string>
+  <string name="music_download_fail_title">Ошибка загрузки песни</string>
+  <string name="music_download_not_complete_title">Песни загружены не полностью</string>
+  <string name="music_no_wifi_content">Wi-Fi не подключен, песни не могут быть загружены. Пожалуйста, подключиться к Wi-Fi через настройки системы - Wi-Fi на часы.</string>
+  <string name="music_download_fail_content">Ошибка сетевого соединения. Песни не могут быть загружены. Пожалуйста, подключитесь к сети и повторите попытку.</string>
+  <string name="music_download_not_complete_content">Сетевая ошибка подключения, не удается завершить загрузку песен. Играть только скачанные песен. (Все песни будут автоматически загружены при подключеном Wi-Fi)</string>
   <string name="music_download_success">Song update successful</string>
   <string name="music_downloading">Song downloading...</string>
   <string name="music_fetch_list">Obtaining song list...</string>
