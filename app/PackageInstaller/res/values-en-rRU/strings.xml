@@ -58,15 +58,15 @@
   <string name="uninstall_blocked_profile_owner">"Это приложение необходимо для вашего %1$s профиля и не может быть удалено.
  
 "</string>
-  <string name="uninstall_blocked_device_owner">"This app is required by your device administrator and can't be uninstalled."</string>
-  <string name="manage_device_administrators">Manage device administrators</string>
-  <string name="uninstall_failed_msg">"%1$s couldn't be uninstalled."</string>
+  <string name="uninstall_blocked_device_owner">"Это приложение указано администратором как обязательное. Его нельзя удалить."</string>
+  <string name="manage_device_administrators">Настройки администрирования</string>
+  <string name="uninstall_failed_msg">"%1$s не мможет быть удалено."</string>
   <string name="Parse_error_dlg_title">Ошибка анализа</string>
-  <string name="Parse_error_dlg_text">There was a problem parsing the package.</string>
+  <string name="Parse_error_dlg_text">Возникла проблема с анализом пакета.</string>
   <string name="newPerms">Новый</string>
   <string name="allPerms">Все</string>
   <string name="privacyPerms">Безопасность</string>
   <string name="devicePerms">Доступ к устройству</string>
-  <string name="no_new_perms">This update requires no new permissions.</string>
-  <string name="grant_confirm_question">Do you want to grant the following permissions? It will get access to:</string>
+  <string name="no_new_perms">Это обновление не требует новых разрешений.</string>
+  <string name="grant_confirm_question">Вы хотите предоставить следующие разрешения? Будет получен доступ к:</string>
 </resources>
