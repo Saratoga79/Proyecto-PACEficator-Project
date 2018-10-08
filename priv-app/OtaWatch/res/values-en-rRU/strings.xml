@@ -32,31 +32,31 @@
   <string name="progressbar_tips">Проверка на наличие новой версии...</string>
   <string name="progressbar_percent">%1$d%%</string>
   <string name="low_mem">Недостаточно места, освободите %1$sM памяти, сначала очистите память</string>
-  <string name="update_network_error">"Update check failed, please 
-retry later"</string>
-  <string name="cancel_download">"Update pack downloading, 
- cancel?"</string>
-  <string name="new_rom_please_install">"System update is available, 
-please upgrade"</string>
-  <string name="btn_install_later">Remind next time</string>
+  <string name="update_network_error">"Поиск обновлений не удался, пожалуйста
+повторите попытку позже"</string>
+  <string name="cancel_download">"Загрузка пакета обновлений,
+ отменить?"</string>
+  <string name="new_rom_please_install">\"Доступно системное обновление, 
+пожалуйста обновитесь\"
+ </string>
+  <string name="btn_install_later">Напомнить в другой раз</string>
   <string name="btn_install_now">Установить сейчас</string>
-  <string name="btn_upgrade_now">Update now</string>
-  <string name="wifi_no_password">Unencrypted</string>
-  <string name="wifi_has_password">Encrypted</string>
-  <string name="wifi_password_error">Password incorrect</string>
-  <string name="wifi_connecting">Connecting...</string>
-  <string name="wifi_auth">Verifying password...</string>
-  <string name="wifi_get_ip">Obtaining IP address...</string>
-  <string name="wifi_link_fail">Connecting failed...</string>
-  <string name="wifi_connected">Connected</string>
-  <string name="wifi_title">Connect to Wi-Fi</string>
-  <string name="wifi_wait_password">Waiting for password input...</string>
-  <string name="toast_please_update_first">Please update first</string>
-  <string name="wifi_turnon_going">Turning on Wi-Fi...</string>
-  <string name="system_update_title">Update successful</string>
-  <string name="system_update_content">The system has been upgraded to version %1$s</string>
-  <string name="password_error">"Incorrect Wi-Fi password,
-please re-enter"</string>
+  <string name="btn_upgrade_now">Обновить сейчас</string>
+  <string name="wifi_no_password">Не зашифровано</string>
+  <string name="wifi_has_password">Зашифровано</string>
+  <string name="wifi_password_error">Неверный пароль</string>
+  <string name="wifi_connecting">Подключение...</string>
+  <string name="wifi_auth">Проверка пароля...</string>
+  <string name="wifi_get_ip">Получение IP-адреса...</string>
+  <string name="wifi_link_fail">Подключение не удалось...</string>
+  <string name="wifi_connected">Подключен</string>
+  <string name="wifi_title">Подключение к Wi-Fi</string>
+  <string name="wifi_wait_password">Ожидание ввода пароля...</string>
+  <string name="toast_please_update_first">Пожалуйста сначала обновитесь</string>
+  <string name="wifi_turnon_going">Включение Wi-Fi...</string>
+  <string name="system_update_title">Успешное обновление</string>
+  <string name="system_update_content">Система обновлен до версии %1$s</string>
+  <string name="password_error">"Некорректный Wi-Fi паспорт, пожалуйста повторите"</string>
   <string name="wifi_connect_fail">"Cannot connect to this
 WiFi network. Please try 
 another Wi-Fi hotspot"</string>
