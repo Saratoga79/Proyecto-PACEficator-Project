@@ -19,13 +19,13 @@
   <string name="status_bar_latest_events_title">Извещения</string>
   <string name="battery_low_title">Низкий заряд батареи</string>
   <string name="battery_low_percent_format">%s осталось</string>
-  <string name="battery_low_percent_format_saver_started">%s remaining. Battery saver is on.</string>
-  <string name="invalid_charger">"USB charging not supported.
-Use only the supplied charger."</string>
-  <string name="invalid_charger_title">USB charging not supported.</string>
-  <string name="invalid_charger_text">Use only the supplied charger.</string>
-  <string name="battery_low_why">Settings</string>
-  <string name="battery_saver_confirmation_title">Turn on battery saver?</string>
+  <string name="battery_low_percent_format_saver_started">%s осталось. Экономия батареи включена.</string>
+  <string name="invalid_charger">"USB зарядка не поддерживается.
+используйте только комплектное устройство"</string>
+  <string name="invalid_charger_title">USB зарядка не поддерживается.</string>
+  <string name="invalid_charger_text">Используйте только зарядное устройство из комплекта поставки.</string>
+  <string name="battery_low_why">Настройки</string>
+  <string name="battery_saver_confirmation_title">Включить режим энергосбережения?</string>
   <string name="battery_saver_confirmation_ok">Включить</string>
   <string name="battery_saver_start_action">Включить режим энергосбережения</string>
   <string name="status_bar_settings_settings_button">Настройки</string>
@@ -39,20 +39,20 @@ Use only the supplied charger."</string>
   <string name="bluetooth_tethered">Привязка Bluetooth</string>
   <string name="status_bar_input_method_settings_configure_input_methods">Настройка способов ввода</string>
   <string name="status_bar_use_physical_keyboard">Физическая клавиатура</string>
-  <string name="usb_device_permission_prompt">Allow the app %1$s to access the USB device?</string>
-  <string name="usb_accessory_permission_prompt">Allow the app %1$s to access the USB accessory?</string>
-  <string name="usb_device_confirm_prompt">Open %1$s when this USB device is connected?</string>
+  <string name="usb_device_permission_prompt">Разрешить app %1$s доступ к устройству USB?</string>
+  <string name="usb_accessory_permission_prompt">Разрешить app %1$s для доступа к USB аксессуару?</string>
+  <string name="usb_device_confirm_prompt">Открыть %1$s, когда это устройство USB подключено?</string>
   <string name="usb_accessory_confirm_prompt">Open %1$s when this USB accessory is connected?</string>
   <string name="usb_accessory_uri_prompt">No installed apps work with this USB accessory. Learn more about this accessory at %1$s</string>
-  <string name="title_usb_accessory">USB accessory</string>
-  <string name="label_view">View</string>
-  <string name="always_use_device">Use by default for this USB device</string>
-  <string name="always_use_accessory">Use by default for this USB accessory</string>
-  <string name="usb_debugging_title">Allow USB debugging?</string>
-  <string name="usb_debugging_message">"The computer\'s RSA key fingerprint is:
-%1$s"</string>
+  <string name="title_usb_accessory">USB Аксессуары</string>
+  <string name="label_view">Просмотр</string>
+  <string name="always_use_device">Использовать по умолчанию для этого устройства USB</string>
+  <string name="always_use_accessory">По умолчанию использовать для этого аксессуара USB</string>
+  <string name="usb_debugging_title">Разрешить отладку USB?</string>
+  <string name="usb_debugging_message">"Компьютер RSA ключ по отпечатку пальцев:
+-%1$s"</string>
   <string name="usb_debugging_always">Always allow from this computer</string>
-  <string name="compat_mode_on">Zoom to fill screen</string>
+  <string name="compat_mode_on">Масштабировать по размеру экрана</string>
   <string name="compat_mode_off">Stretch to fill screen</string>
   <string name="screenshot_saving_ticker">Saving screenshot…</string>
   <string name="screenshot_saving_title">Saving screenshot…</string>
