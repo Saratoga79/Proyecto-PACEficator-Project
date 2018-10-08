@@ -483,10 +483,10 @@
  </string>
   <string name="first_beat_help_train_load">Часы будут вычислять нагрузку во время тренировки, основsdfzcm на значениях расхода EPOC (Excess Post-exercise Oxygen Consumption), накопленных из данных сердечного ритма, записанных во время тренировок в 7-дневном скользящем окне. Пользователь может скорректировать график тренировки, чтобы достичь оптимальной нагрузки. &lt;br/&gt;&lt;small&gt;Более подробная информация приведена в справке приложения Amazfit Watch.&lt;/small&gt; </string>
   <string name="first_beat_help_run_target_and_real_time_guide">Часы будет предоставлять рекомендации тренировки на основе вашего VO2Max фитнес-уровня, последней тренировочной нагрузки и состояния восстановления из предыдущей тренировки. &lt;br/&gt; если вы включитe в реальном времени коучинг функцию в настройках и установите целевой TE или выберите одну из рекомендуемых тренировок, часы проведет вас через тренировку и предложат регулировку темпа и ритма сердца для достижения поставленных целей. &lt;br/&gt; &lt;small&gt;для более подробной информации, смотрите раздел помощи в приложении Amazfit Watch.&lt;/small&gt;</string>
-  <string name="first_beat_help_daily_perpormence">"&lt;font color=#00FF00&gt;What is this？&lt;/font&gt;&lt;br/&gt;Realtime Performance Condition indicates if you are above or below your average performance level, and how accumulating fatigue affects your performance during a workout. &lt;br/&gt;&lt;font color=#00FF00&gt;How is it used？&lt;/font&gt;&lt;br/&gt;The watch will evaluate your performance condition automatically after ~6 minutes of running. A higher-than-avarage value indicates that you can make a harder workout than you'd normally do. A lower value suggests that you should take a easier workout. &lt;br/&gt;After completing a workout, you can analyze the performance by looking at the result at each km/mile on the graph. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;For more details, please see Help in Amazfit Watch app.&lt;/small&gt;"</string>
-  <string name="first_beat_help_recovery_time">After completing a workout, you will be provided with time in minutes to full recovery. Between workouts recovery time is linearly decreased towards zero if there is no new workout data available. The user is encouraged to have some low intensiy workouts to help with recovery. &lt;br/&gt;&lt;small&gt;For more details, please see Help in Amazfit Watch app.&lt;/small&gt;</string>
-  <string name="vo2max_unit">ml / kg / min</string>
-  <string name="run_vo2max_unit">ml / kg / min</string>
+  <string name="first_beat_help_daily_perpormence">"&lt;font color=#00FF00&gt;, что это такое?&lt;/font&gt;&lt;br/&gt;условие производительности в реальном времени указывает, если вы выше или ниже уровня средней производительности, и как накапливающаяся усталость влияет на вашу производительность во время тренировки. &lt;br/&gt;&lt;font color=#00FF00&gt;Как это используется?&lt;/font&gt;&lt;br/&gt;часы будет оценивать ваше состояние производительности автоматически после ~ 6 минут бега. Выше, чем среднее значение указывает, что вы можете сделать разминку сложнее, чем вы обычно делаете. Более низкое значение свидетельствует о том, что вы должны выбрать более легкую тренировку. &lt;br/&gt;после завершения тренировки, вы можете проанализировать производительность, глядя на результат на каждом км/миле на графике. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;для более подробной информации, пожалуйста обратитесь к справке приложения Amazfit Watch.&lt;/small&gt;"</string>
+  <string name="first_beat_help_recovery_time">После завершения тренировки вам будет предоставлено время в минутах до полного восстановления. Между тренировками время восстановления линейно уменьшается до нуля, если нет новых данных тренировки. Пользователю рекомендуется выполнять небольшие тренировки с интенсивным усилением, чтобы помочь в восстановлении. &lt;br/&gt;&lt;small&gt;Для получения дополнительной информации см. Справку в приложении Amazfit Watch.&lt;/small&gt;</string>
+  <string name="vo2max_unit">мл / кг / мин</string>
+  <string name="run_vo2max_unit">мл / кг / мин</string>
   <string name="vo2_max_has_no_data">Нет данных</string>
   <string name="sport_setting_gpx_route_selected">Трек выбран</string>
   <string name="sport_setting_gpx_route_selectd_remind">Двигайтесь используя эту траекторию. Если нет необходимости, закройте.</string>
@@ -539,11 +539,11 @@
   <string name="music_source_local">Локальные композиции</string>
   <string name="music_source_all">Все</string>
   <string name="music_init_not_done">Инициализация музыки...</string>
-  <string name="music_no_douban_resource">No songs to play, download now?</string>
-  <string name="sport_widget_title_outdoor_riding">Cycling</string>
-  <string name="sport_widget_title_indoor_riding">Indoor Cycling</string>
-  <string name="outdoor_riding_progressing">Cycling</string>
-  <string name="indoor_riding_progressing">Cycling</string>
+  <string name="music_no_douban_resource">Нет песен для воспроизведения, скачать сейчас?</string>
+  <string name="sport_widget_title_outdoor_riding">Велоспорт</string>
+  <string name="sport_widget_title_indoor_riding">Велотренажер</string>
+  <string name="outdoor_riding_progressing">Велоспорт</string>
+  <string name="indoor_riding_progressing">Велоспорт</string>
   <string name="outdoor_climb_distance">Ground Speed Distance</string>
   <string name="outdoor_climb_altitude">Elevation Gain</string>
   <string name="outdoor_max_cadence">Max Cadence</string>
@@ -750,11 +750,11 @@
   <string name="history_info_cost_time_desc">Elapsed Time</string>
   <string name="history_detail_running_title">Run</string>
   <string name="history_detail_walking_title">Walking</string>
-  <string name="history_detail_indoor_running_title">Run Indoor</string>
-  <string name="history_detail_cost_time">Total Time</string>
-  <string name="history_detail_paused_time">Pause Time</string>
-  <string name="default_pace_value">"00'00\""</string>
-  <string name="history_detail_pace_desc">Pace (min/mi)</string>
+  <string name="history_detail_indoor_running_title">Бег в помещении</string>
+  <string name="history_detail_cost_time">Общее время</string>
+  <string name="history_detail_paused_time">Время паузы</string>
+  <string name="default_pace_value">"00'00 \""</string>
+  <string name="history_detail_pace_desc">Темп (мин/mi)</string>
   <string name="history_detail_calorie_desc">Калории (ккал)</string>
   <string name="history_detail_step_freq">Каденция (шаги/мин)</string>
   <string name="history_detail_speed">Скорость в час (миль/ч)</string>
@@ -766,15 +766,15 @@
   <string name="title_activity_gpswaiting">GPSWaitingActivity</string>
   <string name="hello_world">Привет мир!</string>
   <string name="no_gps_title">GPS недоступен</string>
-  <string name="no_gps_content">Mileage cannot be recorded accurately, please go to an open space outdoor。</string>
+  <string name="no_gps_content">Пробег не может быть записан точно, пожалуйста, перейдите на открытое пространство на улице。</string>
   <string name="no_gps_button_text">Подтвердить</string>
-  <string name="settings_item_title_km_remind">Lap Alert</string>
-  <string name="settings_item_title_mi_remind">Lap Alert</string>
+  <string name="settings_item_title_km_remind">Оповещение о круге</string>
+  <string name="settings_item_title_mi_remind">Оповещение о круге</string>
   <string name="settings_item_title_km_voice_remind">Голосовые подсказки</string>
-  <string name="settings_item_title_cal_burn_heartrate_remind">Aerobic HR Alert</string>
-  <string name="settings_item_title_safe_heartrate_remind">HR Alert</string>
+  <string name="settings_item_title_cal_burn_heartrate_remind">Аэробное HR оповещение</string>
+  <string name="settings_item_title_safe_heartrate_remind">HR оповещение</string>
   <string name="settings_item_title_auto_pause">Автопауза</string>
-  <string name="settings_item_title_target_use_time_remind">Target Time</string>
+  <string name="settings_item_title_target_use_time_remind">Целевое время</string>
   <string name="settings_item_title_target_distance_remind">Target Distance</string>
   <string name="settings_item_title_pace_remind">Pace Alert</string>
   <string name="settings_item_title_Leqi_remind">Cadence Alert</string>
