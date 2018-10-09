@@ -525,18 +525,18 @@ Also, you\'re connected to a VPN (\"%3$s\"). Your VPN service provider can monit
   <string name="kg_login_invalid_input">Неверное имя пользователя или пароль.</string>
   <string name="kg_login_account_recovery_hint">Забыли имя пользователя или пароль?\nПерейдите на страницу \"<b>"google.com/accounts/recovery"</b>\".</string>
   <string name="kg_login_checking_password">Проверка аккаунта…</string>
-  <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"You have incorrectly typed your PIN %d times. 
+  <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"Вы неправильно ввели ваш PIN-код %d раз. 
 
-Try again in %d seconds."</string>
-  <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"You have incorrectly typed your password %d times. 
+попытаться снова через %d секунд(ы)."</string>
+  <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Вы неправильно ввели ваш Pin-код %d раз. 
 
-Try again in %d seconds."</string>
-  <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"You have incorrectly drawn your unlock pattern %d times. 
+Попытаться снова через %d секунд(ы)."</string>
+  <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Вы неправильно ввели ваш графический ключ %d раз. 
 
-Try again in %d seconds."</string>
-  <string name="kg_failed_attempts_almost_at_wipe" formatted="false">You have incorrectly attempted to unlock the tablet %d times. After %d more unsuccessful attempts, this tablet will be reset, which will delete all its data.</string>
-  <string name="kg_failed_attempts_now_wiping">You have incorrectly attempted to unlock the tablet %d times. This tablet will be reset, which will delete all its data.</string>
-  <string name="kg_failed_attempts_almost_at_erase_user" formatted="false">You have incorrectly attempted to unlock the tablet %d times. After %d more unsuccessful attempts, this user will be removed, which will delete all user data.</string>
+Попытаться снова через %d секунд(ы)."</string>
+  <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Вы пытались некорректно разблокировать планшет %d раз. После более, чем %d неудачных попыток, планшет будет перезагружен, все данные будут удалены.</string>
+  <string name="kg_failed_attempts_now_wiping">Вы пытались некорректно разблокировать планшет %d раз. Планшет будет перезагружен, все данные будут удалены.</string>
+  <string name="kg_failed_attempts_almost_at_erase_user" formatted="false">Вы пытались некорректно разблокировать планшет %d раз. После более, чем %d неудачных попыток, планшет будет перезагружен, все данные будут удалены.</string>
   <string name="kg_failed_attempts_now_erasing_user">You have incorrectly attempted to unlock the tablet %d times. This user will be removed, which will delete all user data.</string>
   <string name="kg_failed_attempts_almost_at_erase_profile" formatted="false">You have incorrectly attempted to unlock the tablet %d times. After %d more unsuccessful attempts, the work profile will be removed, which will delete all profile data.</string>
   <string name="kg_failed_attempts_now_erasing_profile">You have incorrectly attempted to unlock the tablet %d times. The work profile will be removed, which will delete all profile data.</string>
