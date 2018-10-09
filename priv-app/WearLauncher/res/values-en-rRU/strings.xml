@@ -41,19 +41,19 @@
   <string name="quick_settings_connected">Подключен</string>
   <string name="quick_settings_disconnect">Отключен</string>
   <string name="quick_settings_unbound">Сначала пройдите авторизацию</string>
-  <string name="quick_settings_date_chinese">yyyy-MM-dd</string>
+  <string name="quick_settings_date_chinese">гггг-ММ-дд</string>
   <string name="quick_settings_date_format">1900-1-31</string>
-  <string name="quick_settings_date_yeareve">New Year Eve</string>
-  <string name="seconed_confirm_nodisturb">"Silent Mode On
-New notification will not show any more."</string>
-  <string name="quick_settings_battery_charging_full">Fully charged</string>
-  <string name="quick_settings_battery_is_charging">Charging...</string>
-  <string name="quick_settings_battery_hasnot_charged">Not been charged</string>
-  <string name="quick_settings_battery_charging_intervalDay">%1$d days %2$d hours since charge</string>
-  <string name="quick_settings_battery_charging_intervalDay_lessHour">%d days since charge</string>
-  <string name="quick_settings_battery_charging_intervalDayLess">%d hours since charge</string>
-  <string name="quick_settings_battery_charging_intervalLessHour">"Less than 1 hour 
-since charge"</string>
+  <string name="quick_settings_date_yeareve">Канун нового года</string>
+  <string name="seconed_confirm_nodisturb">"Беззвучный режим
+Новое уведомление большене будет показано."</string>
+  <string name="quick_settings_battery_charging_full">Полностью заряжен</string>
+  <string name="quick_settings_battery_is_charging">Зарядка...</string>
+  <string name="quick_settings_battery_hasnot_charged">Не было заряжено</string>
+  <string name="quick_settings_battery_charging_intervalDay">%1$d дней %2$d часов с момента заряда</string>
+  <string name="quick_settings_battery_charging_intervalDay_lessHour">%d дней с момента заряда</string>
+  <string name="quick_settings_battery_charging_intervalDayLess">%d часов с момента заряда</string>
+  <string name="quick_settings_battery_charging_intervalLessHour">"Меньше чем 
+1 час после зарядки"</string>
   <string name="quick_settings_battery_sportString">Battery life in Sports mode</string>
   <string name="quick_settings_battery_sporttime_hour_unit">hour</string>
   <string name="quick_settings_battery_sporttime_KM_unit">km</string>
@@ -107,12 +107,12 @@ since charge"</string>
   <string name="data_checkfail_temp">Weather temperature out of range</string>
   <string name="data_checkfail_type">Unable to recognize weather type</string>
   <string name="notification_block_message">No longer receive app notifications</string>
-  <string name="launcher_app_name">Launcher</string>
-  <string name="hm_watch_sports_notification_km">Kilometers</string>
-  <string name="hm_watch_sports_notification_sports">Sports</string>
-  <string name="hm_generic_notification_iconified_content_line">Hello, I am a fan of Huami</string>
-  <string name="notification_action_more">More</string>
-  <string name="notification_wechat_red_envelop_title">微信红包提醒</string>
+  <string name="launcher_app_name">Лаунчер</string>
+  <string name="hm_watch_sports_notification_km">Километры</string>
+  <string name="hm_watch_sports_notification_sports">Виды спорта</string>
+  <string name="hm_generic_notification_iconified_content_line">Здравствуйте я фанат Huami</string>
+  <string name="notification_action_more">Больше</string>
+  <string name="notification_wechat_red_envelop_title">WeChat красное напоминание о конверте</string>
   <string name="notification_alipay_red_envelop_title">支付宝红包提醒</string>
   <string name="notification_qq_red_envelop_title">QQ红包提醒</string>
   <string name="notification_red_envelop_content">%s的红包，快打开手机领取吧!</string>
