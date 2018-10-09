@@ -26,7 +26,7 @@
   <string name="processbar_downloading_default">0</string>
   <string name="download_rom_faild">"Ошибка загрузки пакета обновления,
  пожалуйста, попробуйте снова."</string>
-  <string name="download_rom_success">ROM downloading successful, please install</string>
+  <string name="download_rom_success">ROM загружен успешно, пожалуйста установите</string>
   <string name="low_battery_message">Пакет обновления загружен, не отключайте часы %1$s%% до окончания установки</string>
   <string name="low_battery_title">Пожалуйста, зарядите как можно скорее</string>
   <string name="progressbar_tips">Проверка на наличие новой версии...</string>
@@ -60,14 +60,14 @@
   <string name="wifi_connect_fail">«Не удается подключиться к этой сети WiFi. Пожалуйста, попробуйте 
 другой Wi-Fi hotspot»</string>
   <string name="searching">Идет поиск...</string>
-  <string name="hasNewUpdateTitle">System updates</string>
-  <string name="hasNewUpdateInstallContent">The %1$s version can be installed, install now?</string>
-  <string name="hasNewUpdateCheckContent">The %1$s version can be updated, update now?</string>
-  <string name="update_title">Please choose one of the following</string>
-  <string name="update_online">Over-the-Air update</string>
-  <string name="update_local">Update from local zip file</string>
-  <string name="local_update_confirm_1_title">Please read</string>
-  <string name="local_update_invalid_zip">Package system version is too low, it is recommended to use the latest version to upgrade</string>
+  <string name="hasNewUpdateTitle">Обновления системы</string>
+  <string name="hasNewUpdateInstallContent">Версия %1$s может быть установлена, установить сейчас?</string>
+  <string name="hasNewUpdateCheckContent">Версия %1$s может быть обновлена, обновить сейчас?</string>
+  <string name="update_title">Пожалуйста, выберите один из вариантов</string>
+  <string name="update_online">Обновления «по воздуху»</string>
+  <string name="update_local">Обновление из локального zip-архива</string>
+  <string name="local_update_confirm_1_title">Пожалуйста прочитайте</string>
+  <string name="local_update_invalid_zip">Версия пакета системы является слишком низкjq, рекомендуется использовать последнюю версию для обновления</string>
   <string name="local_update_confirm_1_msg">"To ensure the new version 
 works properly, we\'ll erase all 
 user data after update. Please connect 
