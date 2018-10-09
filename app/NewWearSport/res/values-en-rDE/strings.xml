@@ -92,7 +92,7 @@
   <string name="battery_continue_time_unit">Std.</string>
   <string name="battery_split">/</string>
   <string name="suggest_reset_time">%1$s Std bis zur vollständigen Erholung</string>
-  <string name="remain_time_recovery">&lt;Data&gt;Zeit bis zur vollständigen Erholung&amp;nbsp;&lt;font color=#00ff00&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;/font&gt;&amp;nbsp; h&lt;/Data&gt;</string>
+  <string name="remain_time_recovery"><Data>Time to full recovery&amp;nbsp;&lt;font color=#00ff00&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;/font&gt;&amp;nbsp; h</Data></string>
   <string name="more_sport_tint">Mehr</string>
   <string name="zh_space">　</string>
   <string name="en_space"> </string>
@@ -148,7 +148,7 @@
   <string name="setting_auto_pause_speed">&lt; %1$s km/h</string>
   <string name="setting_auto_pause_pace">wenn langsamer als %1$s</string>
   <string name="setting_no_set_target">Nicht eingestellt</string>
-  <string name="sport_settings_by_te">Taining-Effekt</string>
+  <string name="sport_settings_by_te">Training Effect</string>
   <string name="sport_settings_by_sport_data">Andere Metriken</string>
   <string name="sport_settings_no_set">Ziel nicht festlegen</string>
   <string name="sport_settings_te_title">Ziel setzen</string>
@@ -372,7 +372,7 @@
   <string name="skiing_remind_next_interval_train">Nächstes Intervall</string>
   <string name="skiing_remind_click_finsh_this_train_unit">Drücken Sie die Runden-Taste</string>
   <string name="skiing_interval_train_complete">Intervall abgeschlossen</string>
-  <string name="skiing_interval_train_complete_pause_tip">"Die Aktivität pausieren"</string>
+  <string name="skiing_interval_train_complete_pause_tip">Die Aktivität pausieren</string>
   <string name="skiing_above_skiing_spped">Alarm bei Geschw.&gt; %1$s</string>
   <string name="skiing_lap_downhill_dis_title">Entfernung</string>
   <string name="sport_history_total_stokes">Gesamt Schläge</string>
@@ -398,7 +398,7 @@
   <string name="select_compound_sport_three">Dritte</string>
   <string name="setting_max_heart_region">Max HF Region</string>
   <string name="setting_reserve_heart_region">HR-Intervall reservieren</string>
-  <string name="setting_not_remind">Mich nicht erinnern</string>
+  <string name="setting_not_remind">Do not remind</string>
   <string name="setting_reserve_heart_region_1">Intervall 1</string>
   <string name="setting_reserve_heart_region_2">Intervall 2</string>
   <string name="setting_reserve_heart_region_3">Intervall 3</string>
@@ -406,8 +406,8 @@
   <string name="setting_reserve_heart_region_5">Intervall 5</string>
   <string name="history_walk_exchange_title">Wechsel zum Schwimmen</string>
   <string name="virtual_rabbit_title">Virtuelles Kaninchen</string>
-  <string name="virtual_rabbit_backward_distance">Entfernung zurück</string>
-  <string name="virtual_rabbit_backward_time">Zeit zurück</string>
+  <string name="virtual_rabbit_backward_distance">Lag distance</string>
+  <string name="virtual_rabbit_backward_time">Lag time</string>
   <string name="virtual_rabbit_lead_distance">Führungsabstand</string>
   <string name="virtual_rabbit_lead_time">Vorlaufzeit</string>
   <string name="anti_navigation_pause_content">Gehe zu Startpunkt zurück</string>
@@ -416,7 +416,7 @@
   <string name="oritation_west">W</string>
   <string name="oritation_north">N</string>
   <string name="outdoor_riding_speed_alert">Geschwindigkeitsalarm</string>
-  <string name="speed_too_low_remind_title">Zu schnell</string>
+  <string name="speed_too_low_remind_title">Too Slow</string>
   <string name="swim_avg_stroke_speed">Durchschn.SPM</string>
   <string name="running_button_save_modify">Kalibrierung</string>
   <string name="save_cur_location">Speicher aktuellen Standort</string>
@@ -454,7 +454,7 @@
   <string name="sport_target_remind_status_maintaining">Aufrechterhaltung</string>
   <string name="sport_target_remind_status_improving">Verbesserung</string>
   <string name="sport_target_remind_status_count"></string>
-  <string name="sport_target_remind_title_01">3,5 TE | 30-25 Minuten | 5 km</string>
+  <string name="sport_target_remind_title_01">3.5 TE|30-25 min|5 km</string>
   <string name="sport_target_remind_title_01_normal">%1$s TE | %2$s Minute(n) | %3$s Kilometer</string>
   <string name="sport_target_remind_time_min">Minute</string>
   <string name="sport_run_train_title">Lauftraining</string>
@@ -478,7 +478,7 @@
   <string name="first_beat_help_title_recovery_time">Erholungszeit</string>
   <string name="first_beat_help_vo2_max">"&lt;font color=#00FF00&gt; Was ist das? &lt;/font&gt; &lt;br/&gt; VO2Max steht für die maximale Sauerstoffmenge, die der Körper in einer Minute aufnehmen kann, gemessen in ml/kg/min. Es bewertet den Zustand der Herz-Lungen-Fitness der Benutzer, der für die allgemeine Gesundheit, das Wohlbefinden und die sportliche Leistung wichtig ist. &lt; Die Uhr wird Ihren VO2Max automatisch anhand von Herzfrequenz, Geschwindigkeit usw. während eines Trainings mit mittlerer Intensität bewerten und diesen mit einer Referenzgruppe gleichen Alters und Geschlechts vergleichen, um Ihren Fitnesslevel zu bestimmen. &lt;br/&gt;&lt;font color=#00FF00&gt; Wie bewerten? &lt;/font&gt; &lt;br/&gt; 1. Geben Sie genaue Profilinformationen wie Alter und Geschlecht in der Amazfit Watch App während des Setups an; &lt;br/&gt; 2. Führen Sie einen lebhaften 15 Minuten oder mehr Outdoor-Lauf mit der Uhr aus und stellen Sie sicher, dass die Herzfrequenz für mindestens 10 Minuten bei oder über 75% Ihrer maxHR ist. &lt;br/&gt; 3. Nach Abschluss des Laufs können Sie den aktuellen VO2Max in der App für Sportaktivitäten auf der Uhr- oder persönlichen Statusseite in der Amazift Watch App überprüfen.&lt;br/&gt;&lt;small&gt; Weitere Informationen finden Sie in der Hilfe der Amazfit Watch App.&lt;/small&gt;"</string>
   <string name="first_beat_help_te">&lt;font color=#00FF00&gt;Was ist das?&lt;/font&gt;&lt;br/&gt; Trainingseffect (TE) misst die akkumulierte Belastung während eines Trainings und interpretiert deren Auswirkung auf Ihre aerobe Fitness. TE startet von Level 0,0. Während das Training erfolgreich fortschreitet, erhöht sich der TE-Wert (von 0 bis 5) und sagt Ihnen, wie das Training Ihre Fitness beeinflusst. &lt;br/&gt;&lt;font color=#00FF00&gt;Wie wird das berechnet? &lt;/font&gt;&lt;br/&gt; TE wird basierend auf Ihrem Benutzerprofil, den Herzschlagdaten und dem Schwierigkeitsgrad des Trainings berechnet.&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Die Uhr zeigt die Echtzeit-TE-Messung während des Trainings sowie das endgültige TE-Ergebnis am Ende des Trainings an. A&amp;lt;2.0 TE zeigt einfach an, dass das Training wenig Einfluss auf die Herz-Lungen-Fitness hat und nur für den Aufbau einer Ausdauerbasis und Erholung nützlich ist. &lt;br/&gt;&lt;small&gt;Weitere Informationen finden Sie in der Hilfe der Amazfit Watch App.&lt;/small&gt;</string>
-  <string name="first_beat_help_train_load">Die Uhr berechnet die Trainingsbelastung basierend auf den EPOC-Werten (Übermäßiger Sauerstoffverbrauch nach dem Training), die aus Herzfrequenzdaten gewonnen wurden, die während des Trainings in einem 7-tägigen rollenden Fenster aufgezeichnet wurden. Der Nutzer kann den Trainingsplan entsprechend anpassen, um eine optimale Belastung zu erreichen. &lt;br/&gt;&lt;small&gt;Weitere Informationen finden Sie in der Hilfe der Amazfit Watch App.&lt;/small&gt;</string>
+  <string name="first_beat_help_train_load">The watch will calculate Training Load based on EPOC (Excess Post-exercise Oxygen Consumption) values accumulated from heartrate data recorded during workouts in a 7-day rolling window. The user can adjust the training schedule accordingly to reach optimal load. &lt;br/&gt;&lt;small&gt;For more details, please see Help in Amazfit Watch app.&lt;/small&gt;</string>
   <string name="first_beat_help_run_target_and_real_time_guide">Die Uhr wird eine Trainingsempfehlung basierend auf Ihrem VO2Max-Fitnesslevel, dem letzten Trainingslast- und Erholungsstatus aus dem vorherigen Training geben.&lt;br/&gt; Wenn Sie die Echtzeit-Coaching-Funktion in den Einstellungen aktivieren und ein TE-Ziel einstellen oder eines der empfohlenen Trainings wählen, führt Sie die Uhr durch das Training und fordert Sie auf, Tempo und Herzfrequenz anzupassen, um die gesteckten Ziele zu erreichen.&lt; br/&gt; &lt;small&gt; Weitere Informationen finden Sie in der Hilfe der Amazfit Watch App. &lt;/small&gt;</string>
   <string name="first_beat_help_daily_perpormence">"&lt;font color=#00FF00&gt;Was ist das?&lt;/font&gt;&lt;br/&gt;Die Echtzeit-Leistungsbedingung zeigt an, ob Sie über oder unter Ihrem durchschnittlichen Leistungsniveau liegen und wie sich akkumulierende Müdigkeit auf Ihre Leistung während des Trainings auswirkt. &lt;br/&gt;&lt;font color=#00FF00&gt;Wie wird das genutzt?&lt;/font&gt;&lt;br/&gt;Die Uhr wird Ihren Leistungszustand automatisch nach ca. 6 Minuten Laufzeit bewerten. Ein überdurchschnittlicher Wert zeigt an, dass Sie ein härteres Training machen können, als Sie es normalerweise tun würden. Ein niedrigerer Wert deutet darauf hin, dass Sie ein einfacheres Training machen sollten. &lt;br/&gt;Nach Abschluss eines Trainings können Sie die Leistung analysieren, indem Sie das Ergebnis für jeden km / Meile in der Grafik betrachten. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;Weitere Informationen finden Sie in der Hilfe der Amazfit Watch App.&lt;/small&gt;"</string>
   <string name="first_beat_help_recovery_time">Nach Abschluss eines Trainings erhalten Sie innerhalb von Minuten bis zur vollständigen Erholung Zeit. Zwischen den Trainingseinheiten wird die Erholungszeit linear in Richtung Null verringert, wenn keine neuen Trainingsdaten verfügbar sind. Der Benutzer wird ermutigt, ein wenig intensives Training zu haben, um bei der Erholung zu helfen.&lt;br/&gt;&lt;small&gt; Weitere Informationen finden Sie in der Hilfe der Amazfit Watch App.&lt;/small&gt;</string>
@@ -848,7 +848,7 @@ für effektiveres Training!"</string>
   <string name="widget_sport_item_running_title">Ausgeführt</string>
   <string name="wait_gps_no_gps_signal">GPS nicht verfügbar, bitte im Freien wiederholen</string>
   <string name="wait_gps_hint">Im Freien ist GPS Signal besser zu empfangen</string>
-  <string name="wait_gps_success">"GPS verfügbar, Sie können mit dem Training beginnen"</string>
+  <string name="wait_gps_success">GPS verfügbar, Sie können mit dem Training beginnen</string>
   <string name="wait_gps_search_retry">Wiederholen</string>
   <string name="sport_pause_heart_shown">--</string>
   <string name="lock_screen">Bildschirm gesperrt</string>
@@ -899,7 +899,7 @@ für effektiveres Training!"</string>
   <string name="remind_heart_rate_region_less">Puls ist zu niedrig</string>
   <string name="remind_heart_rate_current_heart_rate">Aktuell %1$d spm</string>
   <string name="sport_time_seconds">Sekunden</string>
-  <string name="complete_training_project">"Das Trainingsprogramm wurde beendet."</string>
+  <string name="complete_training_project">Das Trainingsprogramm wurde beendet.</string>
   <string name="reminder_speed_unit">/h</string>
   <string name="remind_target_distance_training_title_format"> %1s Km gelaufen</string>
   <string name="remind_target_time_training_title_format">Riding%1$dMin</string>
