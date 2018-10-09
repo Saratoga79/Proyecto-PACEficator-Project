@@ -92,7 +92,7 @@
   <string name="battery_continue_time_unit"> hrs</string>
   <string name="battery_split"> / </string>
   <string name="suggest_reset_time">%1$s ordu guztiz errekuperatzeko</string>
-  <string name="remain_time_recovery">&lt;Data&gt;Guztiz osatzeko denbora&amp;nbsp;&lt;font color=#00ff00&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;/font&gt;&amp;nbsp; h&lt;/Data&gt;</string>
+  <string name="remain_time_recovery"><Data>Time to full recovery&amp;nbsp;&lt;font color=#00ff00&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;/font&gt;&amp;nbsp; h</Data></string>
   <string name="more_sport_tint">Gehiago</string>
   <string name="zh_space">　</string>
   <string name="en_space"> </string>
@@ -148,7 +148,7 @@
   <string name="setting_auto_pause_speed">&lt;%1$s km/h</string>
   <string name="setting_auto_pause_pace">%1$s baino motelago</string>
   <string name="setting_no_set_target">Ezarri gabe</string>
-  <string name="sport_settings_by_te">Entrenamendu Efectua</string>
+  <string name="sport_settings_by_te">Training Effect</string>
   <string name="sport_settings_by_sport_data">Beste neurri batzuk</string>
   <string name="sport_settings_no_set">Ez ezarri helbururik</string>
   <string name="sport_settings_te_title">Helburua ezarri</string>
@@ -372,7 +372,7 @@
   <string name="skiing_remind_next_interval_train">Hurrengo tartea</string>
   <string name="skiing_remind_click_finsh_this_train_unit">Sakatu Bira Botoia</string>
   <string name="skiing_interval_train_complete">Tarte osatua</string>
-  <string name="skiing_interval_train_complete_pause_tip">"Gelditzeko puntuan"</string>
+  <string name="skiing_interval_train_complete_pause_tip">Gelditzeko puntuan</string>
   <string name="skiing_above_skiing_spped">Abisua abiadura &gt; %1$s</string>
   <string name="skiing_lap_downhill_dis_title">Distancia</string>
   <string name="sport_history_total_stokes">Kolpe totalak</string>
@@ -398,7 +398,7 @@
   <string name="select_compound_sport_three">Hirugarren</string>
   <string name="setting_max_heart_region">BT erregio max</string>
   <string name="setting_reserve_heart_region">Ordezko BT tartea</string>
-  <string name="setting_not_remind">Ez oroitu</string>
+  <string name="setting_not_remind">Do not remind</string>
   <string name="setting_reserve_heart_region_1">1. tartea</string>
   <string name="setting_reserve_heart_region_2">2. tartea</string>
   <string name="setting_reserve_heart_region_3">3. tartea</string>
@@ -406,8 +406,8 @@
   <string name="setting_reserve_heart_region_5">5. tartea</string>
   <string name="history_walk_exchange_title">Igeri egitera aldatu</string>
   <string name="virtual_rabbit_title">Erbi Birtuala</string>
-  <string name="virtual_rabbit_backward_distance">Dist. Atzetik</string>
-  <string name="virtual_rabbit_backward_time">Den. Atzetik</string>
+  <string name="virtual_rabbit_backward_distance">Lag distance</string>
+  <string name="virtual_rabbit_backward_time">Lag time</string>
   <string name="virtual_rabbit_lead_distance">Dis. Aurretitk</string>
   <string name="virtual_rabbit_lead_time">Den. Aurretik</string>
   <string name="anti_navigation_pause_content">Hasierara itzuli</string>
@@ -416,7 +416,7 @@
   <string name="oritation_west">M</string>
   <string name="oritation_north">I</string>
   <string name="outdoor_riding_speed_alert">Abi abisua</string>
-  <string name="speed_too_low_remind_title">Azkarregi</string>
+  <string name="speed_too_low_remind_title">Too Slow</string>
   <string name="swim_avg_stroke_speed">AVG.SPM</string>
   <string name="running_button_save_modify">Kalibratu</string>
   <string name="save_cur_location">Oraingo kokapena gorde</string>
@@ -454,7 +454,7 @@
   <string name="sport_target_remind_status_maintaining">Mantentze</string>
   <string name="sport_target_remind_status_improving">Hobetzen</string>
   <string name="sport_target_remind_status_count"></string>
-  <string name="sport_target_remind_title_01">3.5TE|30-25min|5km</string>
+  <string name="sport_target_remind_title_01">3.5 TE|30-25 min|5 km</string>
   <string name="sport_target_remind_title_01_normal">%1$sTE|%2$sMinutu|%3$sKilometro</string>
   <string name="sport_target_remind_time_min">Minutu</string>
   <string name="sport_run_train_title">Korrika</string>
@@ -480,7 +480,7 @@
 3. Después de completar la ejecución, puede verificar el VO2Max actual en la aplicación de actividades deportivas en la página de reloj o estado personal en la aplicación Amazift Watch. &lt;br/&gt;&lt;small&gt;Para obtener más información, consulte Ayuda en la aplicación Amazfit Watch.&lt;/small&gt;\""</string>
   <string name="first_beat_help_te">&lt;font color=#00FF00&gt;¿Qué es esto？&lt;/font&gt;&lt;br/&gt; El Efecto de Entrenamiento (TE) mide la carga acumulada durante un entrenamiento e interpreta su impacto en su capacidad aeróbica. TE comienza en el nivel 0.0. A medida que la sesión de ejercicios progresa con éxito, el valor de TE aumenta (de 0 a 5) y le indica cómo el entrenamiento afecta su estado físico. &lt;br/&gt;&lt;font color=#00FF00&gt;¿Cómo se calcula? &lt;/font&gt;&lt;br/&gt; 
 TE se calcula en función de su perfil de usuario, los datos de latido del corazón y la dificultad del entrenamiento.&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; El reloj mostrará la medición de TE en tiempo real durante un entrenamiento, así como el resultado final de TE al final del entrenamiento.A&amp;lt;2.0 TE simplemente indica que el entrenamiento tiene poco efecto en la aptitud cardiorrespiratoria y es útil solo para construir una base de resistencia y recuperación.&lt;br/&gt;&lt;small&gt;Para obtener más información, consulte Ayuda en la aplicación Amazfit Watch.&lt;/small&gt;</string>
-  <string name="first_beat_help_train_load">El reloj calculará la carga de entrenamiento en función de los valores EPOC (Exceso de consumo de oxígeno posterior al ejercicio) acumulados a partir de los datos de frecuencia cardíaca registrados durante los entrenamientos en una ventana móvil de 7 días. El usuario puede ajustar el programa de entrenamiento en consecuencia para alcanzar una carga óptima. &lt;br/&gt;&lt;small&gt;Para obtener más información, consulte Ayuda en la aplicación Amazfit Watch.&lt;/small&gt;</string>
+  <string name="first_beat_help_train_load">The watch will calculate Training Load based on EPOC (Excess Post-exercise Oxygen Consumption) values accumulated from heartrate data recorded during workouts in a 7-day rolling window. The user can adjust the training schedule accordingly to reach optimal load. &lt;br/&gt;&lt;small&gt;For more details, please see Help in Amazfit Watch app.&lt;/small&gt;</string>
   <string name="first_beat_help_run_target_and_real_time_guide">El reloj proporcionará una recomendación de entrenamiento basada en su nivel de condición física VO2Max, la carga de entrenamiento reciente y el estado de recuperación del entrenamiento anterior.&lt;br/&gt; Si habilita la función de entrenamiento en tiempo real en la configuración y establece un objetivo TE o elige uno de los entrenamientos recomendados, el reloj lo guiará a lo largo del entrenamiento y le pedirá que ajuste el ritmo y la frecuencia cardíaca para lograr los objetivos establecidos.. &lt;br/&gt; &lt;small&gt;Para obtener más información, consulte Ayuda en la aplicación Amazfit Watch.&lt;/small&gt;</string>
   <string name="first_beat_help_daily_perpormence">"&lt;font color=#00FF00&gt;¿Qué es esto？&lt;/font&gt;&lt;br/&gt;La condición de rendimiento en tiempo real indica si está por encima o por debajo de su nivel de rendimiento promedio y cómo la acumulación de fatiga afecta su rendimiento durante un entrenamiento.&lt;br/&gt;&lt;font color=#00FF00&gt;¿Cómo se usa？&lt;/font&gt;&lt;br/&gt;El reloj evaluará automáticamente su condición de rendimiento después de ~ 6 minutos de funcionamiento. Un valor superior a la media indica que puede hacer un entrenamiento más difícil de lo que normalmente haría. Un valor inferior sugiere que debe realizar un entrenamiento más fácil.&lt;br/&gt;Después de completar un entrenamiento, puede analizar el rendimiento observando el resultado en cada km / milla en el gráfico.&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;Para obtener más información, consulte Ayuda en la aplicación Amazfit Watch.&lt;/small&gt;"</string>
   <string name="first_beat_help_recovery_time">Después de completar un entrenamiento, se le proporcionará tiempo en minutos para la recuperación completa. Entre los entrenamientos el tiempo de recuperación se reduce linealmente hacia cero si no hay nuevos datos de entrenamiento disponibles. Se anima al usuario a que tenga algunos entrenamientos de baja intensidad para ayudar con la recuperación. &lt;br /&gt;&lt;small&gt;Para obtener más información, consulte Ayuda en la aplicación Amazfit Watch.&lt;/small&gt;</string>
@@ -850,7 +850,7 @@ jarduera eraginkorragoa lortzeko"</string>
   <string name="widget_sport_item_running_title">Korrikan</string>
   <string name="wait_gps_no_gps_signal">GPS- bitartezko bilaketak huts egin du. Espazio zabal batean egin daiteke?</string>
   <string name="wait_gps_hint">Seinalea hobeago izango da espazio zabalduetan eraikinetatik urrun</string>
-  <string name="wait_gps_success">"GPS-a arrakastaz kokatu da, jarduera orain hasi dezakezu"</string>
+  <string name="wait_gps_success">GPS-a arrakastaz kokatu da, jarduera orain hasi dezakezu</string>
   <string name="wait_gps_search_retry">Saiatu berriro</string>
   <string name="sport_pause_heart_shown">--</string>
   <string name="lock_screen">Pantaila blokeatuta</string>
@@ -901,7 +901,7 @@ jarduera eraginkorragoa lortzeko"</string>
   <string name="remind_heart_rate_region_less">Bihotz maiztasuna baxuegia da</string>
   <string name="remind_heart_rate_current_heart_rate">Orain: %1$d tau/min</string>
   <string name="sport_time_seconds">segundu</string>
-  <string name="complete_training_project">"Formakuntza programa bukatu egin da"</string>
+  <string name="complete_training_project">Formakuntza programa bukatu egin da</string>
   <string name="reminder_speed_unit">/h</string>
   <string name="remind_target_distance_training_title_format">Korrika egin %1s Km</string>
   <string name="remind_target_time_training_title_format">Txirrindularitza %1$d Min</string>
