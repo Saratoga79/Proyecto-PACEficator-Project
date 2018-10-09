@@ -437,23 +437,23 @@ Also, you\'re connected to a VPN (\"%3$s\"). Your VPN service provider can monit
   <string name="keyguard_missing_sim_instructions">Вставьте SIM-карту.</string>
   <string name="keyguard_missing_sim_instructions_long">SIM-карта отсутствует или не читается. Вставьте SIM-карту.</string>
   <string name="keyguard_permanent_disabled_sim_message_short">SIM-карта непригодна к использованию.</string>
-  <string name="keyguard_permanent_disabled_sim_instructions">"Your SIM card has been permanently disabled.
- Contact your wireless service provider for another SIM card."</string>
-  <string name="keyguard_sim_locked_message">SIM card is locked.</string>
+  <string name="keyguard_permanent_disabled_sim_instructions">"Ваша SIM-карта постоянно отключена.
+ Обратитесь к вашему провайдеру для замены SIM-карты."</string>
+  <string name="keyguard_sim_locked_message">SIM-карта заблокирована.</string>
   <string name="keyguard_sim_puk_locked_message">SIM-карта заблокирована PUK.</string>
-  <string name="keyguard_sim_unlock_progress_dialog_message">Разблокировка SIM-карты…</string>
+  <string name="keyguard_sim_unlock_progress_dialog_message">Разблокирование SIM-карты…</string>
   <string name="keyguard_widget_12_hours_format">hmm</string>
   <string name="keyguard_widget_24_hours_format">kKmm</string>
   <string name="keyguard_accessibility_widget_changed">%1$s. Виджет %2$d из %3$d.</string>
   <string name="keyguard_accessibility_add_widget">Добавить виджет.</string>
   <string name="keyguard_accessibility_widget_empty_slot">Свободно</string>
-  <string name="keyguard_accessibility_unlock_area_expanded">Unlock area expanded.</string>
-  <string name="keyguard_accessibility_unlock_area_collapsed">Unlock area collapsed.</string>
-  <string name="keyguard_accessibility_widget">%1$s widget.</string>
+  <string name="keyguard_accessibility_unlock_area_expanded">Область разблокировки развернута.</string>
+  <string name="keyguard_accessibility_unlock_area_collapsed">Область разблокировки свернута.</string>
+  <string name="keyguard_accessibility_widget">%1$s виджет.</string>
   <string name="keyguard_accessibility_user_selector">Выбор пользователя</string>
   <string name="keyguard_accessibility_camera">Камера</string>
-  <string name="keygaurd_accessibility_media_controls">Media controls</string>
-  <string name="keyguard_accessibility_widget_reorder_start">Widget reordering started.</string>
+  <string name="keygaurd_accessibility_media_controls">Управление мультимедиа</string>
+  <string name="keyguard_accessibility_widget_reorder_start">Началось переупорядочение виджетов.</string>
   <string name="keyguard_accessibility_widget_reorder_end">Widget reordering ended.</string>
   <string name="keyguard_accessibility_widget_deleted">Widget %1$s deleted.</string>
   <string name="keyguard_accessibility_expand_lock_area">Expand unlock area.</string>
@@ -504,10 +504,10 @@ Also, you\'re connected to a VPN (\"%3$s\"). Your VPN service provider can monit
   <string name="kg_wrong_pin">Wrong PIN</string>
   <string name="kg_too_many_failed_attempts_countdown">Try again in %d seconds.</string>
   <string name="kg_pattern_instructions">Draw your pattern</string>
-  <string name="kg_sim_pin_instructions">Enter SIM PIN</string>
-  <string name="kg_sim_pin_instructions_multi">Enter SIM PIN for \"%1$s\"</string>
-  <string name="kg_pin_instructions">Enter PIN</string>
-  <string name="kg_password_instructions">Enter Password</string>
+  <string name="kg_sim_pin_instructions">Введите PIN-код SIM-карты</string>
+  <string name="kg_sim_pin_instructions_multi">Введите PIN-код SIM-карты для «%1$s»</string>
+  <string name="kg_pin_instructions">Введите PIN-код</string>
+  <string name="kg_password_instructions">Введите пароль</string>
   <string name="kg_puk_enter_puk_hint">SIM is now disabled. Enter PUK code to continue. Contact carrier for details.</string>
   <string name="kg_puk_enter_puk_hint_multi">SIM \"%1$s\" is now disabled. Enter PUK code to continue. Contact carrier for details.</string>
   <string name="kg_puk_enter_pin_hint">Enter desired PIN code</string>
