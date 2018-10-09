@@ -39,11 +39,11 @@
   <string name="wear_habit">Zvyk nošení</string>
   <string name="bugreport">Nahlásit chybu</string>
   <string name="applications">Aplikace</string>
-  <string name="long_sit">Upozornění na vstání</string>
+  <string name="long_sit">Upozornit na vstaní</string>
   <string name="datacenter">Denní přehled</string>
-  <string name="light_change">Podsvětlení</string>
-  <string name="wrist_up">Aktivovat při zvýšení</string>
-  <string name="auto_nodisturb">Čas nerušit</string>
+  <string name="light_change">Podsvícení</string>
+  <string name="wrist_up">Rozsvítit při otočení</string>
+  <string name="auto_nodisturb">Auto. tichý režim</string>
   <string name="double_click_wakeup">Probuzení dotykem</string>
   <string name="vibration_intensity">Vibrace</string>
   <string name="flight_mode">Mód letadlo</string>
@@ -53,13 +53,13 @@
   <string name="personal_info">Osobní informace</string>
   <string name="time_zone_clock">Nastavení času</string>
   <string name="setting_time_format">Formát času</string>
-  <string name="connect">Spojení</string>
-  <string name="common">Ostatní nastavení</string>
+  <string name="connect">Připojení</string>
+  <string name="common">Další nastavení</string>
   <string name="device">Zařízení</string>
-  <string name="nodisturb">Nerušit</string>
+  <string name="nodisturb">Tichý režim</string>
   <string name="units_set">Jednotky</string>
-  <string name="auto_airplane">Auto mód letadlo</string>
-  <string name="wifi_upload">Nahrát</string>
+  <string name="auto_airplane">Auto. mód letadlo</string>
+  <string name="wifi_upload">Nahrát data</string>
   <string name="watchface">Ciferník</string>
   <string name="wifi_auto_upload_switch">Aut. nahrát</string>
   <string name="auto_bg">Aut. podsvícení</string>
@@ -70,7 +70,7 @@
   <string name="remind_aleary_open">Upozornění je již zapnuté</string>
   <string name="phone_far_away_remind_to_you">"Hodinky vás upozorní, když jste daleko od telefonu."</string>
   <string name="dialog_confire">Potvrdit</string>
-  <string name="long_key_action">Dlouze stiskněte tlačítko Lap</string>
+  <string name="long_key_action">Dlouze stiskněte tlačítko Okruh</string>
   <string name="rebond">odskočit</string>
   <string name="paobu">Běh</string>
   <string name="jianzou">Chůze</string>
@@ -99,7 +99,7 @@
   <string name="report_bug_dialog_title">Zpětná vazba</string>
   <string name="report_bug_dialog_desc">Poté, co hodinky zaznamenají chyby, abnormální chování apod., můžete nahrát data na náš server pomocí funkce zpětné vazby pro jejich analýzu. Během tohoto procesu budou automaticky generovány a nahrané dříve vytvořené záznamy na hodinkách. Tyto protokoly se používají pouze pro analýzu problémů a nebudou se používat jako jiné prostředky a budou okamžitě po analýze smazány. Celý proces bude v souladu s našimi zásadami ochrany osobních údajů. Podrobnosti naleznete v zásadách ochrany osobních údajů v aplikaci Amazfit Watch.</string>
   <string name="dialog_agree">Přijmout</string>
-  <string name="dialog_quit">Odpadnout</string>
+  <string name="dialog_quit">Vypadnout</string>
   <string name="nothing">Prázdný</string>
   <string name="about_title">O hodinkách</string>
   <string name="model">Model</string>
@@ -135,7 +135,7 @@
   <string name="device_name_everest_oversea">Amazfit Stratos</string>
   <string name="device_name_everest_2s">Amazfit Sports Watch 2S</string>
   <string name="device_name_everest_2s_oversea">Amazfit Stratos +</string>
-  <string name="lab">Lab</string>
+  <string name="lab">Laboratoř</string>
   <string name="opened">Zap</string>
   <string name="closed">Vyp</string>
   <string name="air_plane">Mód letadlo</string>
@@ -145,8 +145,8 @@
   <string name="settings_long_sit_reminder">Upoz. na pohyb</string>
   <string name="settings_off">Vyp</string>
   <string name="settings_on">Zap</string>
-  <string name="settings_step_target">Cíl kroků</string>
-  <string name="settings_step_unit">Kroků</string>
+  <string name="settings_step_target">Cílový počet kroků</string>
+  <string name="settings_step_unit">Kroky</string>
   <string name="settings_target_reach_reminder">Upoz. na cíl</string>
   <string name="nodisturb_open_string">Zap</string>
   <string name="nodisturb_close_string">Vyp</string>
@@ -158,7 +158,7 @@
   <string name="auto_wifi_trans_on_string">Zap</string>
   <string name="auto_wifi_trans_off_string">Vyp</string>
   <string name="blue_tooth_dev_in_sub_list">Bluetooth</string>
-  <string name="scanning_blt_devices">Vyhledávám...</string>
+  <string name="scanning_blt_devices">Vyhledávání...</string>
   <string name="blt_bound_stat_bonded">Spárováno</string>
   <string name="blt_bound_stat_connected">Připojeno</string>
   <string name="blt_bound_stat_disconnect">Odpojeno</string>
@@ -183,12 +183,12 @@ Připojit?"</string>
   <string name="bluetooth_connecting">Připojuji...</string>
   <string name="bluetooth_disconnecting">Odpojuji...</string>
   <string name="blt_hint_paring">"%1s 
-spárovat?"</string>
+ spárovat?"</string>
   <string name="blt_paring_fail_hint">"Ujistěte se, že je zařízení zapnuté 
 a v dosahu"</string>
   <string name="blt_hint_disconnect_device">Odpojit</string>
   <string name="blt_hint_ignore_device">Ignorovat</string>
-  <string name="blt_hint_connect_device">Pripojit</string>
+  <string name="blt_hint_connect_device">Připojit</string>
   <string name="bluetooth_connected">Připojeno</string>
   <string name="bluetooth_disconnected">Odpojeno</string>
   <string name="bluetooth_connecting_error_message">"Nelze se připojit k %1$s."</string>
@@ -212,12 +212,12 @@ a v dosahu"</string>
   <string name="lab_wifi_test_tip_testing">Testování…</string>
   <string name="lab_wifi_test_tip_pass">V pořádku!!</string>
   <string name="lab_wifi_test_tip_fail">Chyba!!</string>
-  <string name="lab_wifi_test_tip_open_wifi">Otevření WIFI</string>
+  <string name="lab_wifi_test_tip_open_wifi">Otevřená WIFI</string>
   <string name="light_off">Vyp</string>
   <string name="light_auto">Auto</string>
   <string name="light_on">Vždy zapnuto</string>
   <string name="rise_no_bl_under_slpt">Pouze odemčeno</string>
-  <string name="subtitle_of_raise_hand_no_bl">Aut. při odemknutí</string>
+  <string name="subtitle_of_raise_hand_no_bl">Auto. při odemknutí</string>
   <string name="rise_with_bl_under_slpt">Zap</string>
   <string name="rise_without_bl_under_slpt">Vyp</string>
   <string name="locale_title">Jazyk</string>
@@ -249,10 +249,10 @@ cm"</string>
   <string name="weight_unit">"Váha 
 kg"</string>
   <string name="reset_factory_hint">"Obnovit tovární nastavení?"</string>
-  <string name="time_zone">Časová zóna</string>
+  <string name="time_zone">Časové pásmo</string>
   <string name="date">Datum</string>
   <string name="time">Čas</string>
-  <string name="date_ymd">Datum(R/M/D)</string>
+  <string name="date_ymd">Datum(D/M/Y)</string>
   <string name="time_hms">Čas(H/M/S)</string>
   <string name="time_format">Formát času</string>
   <string name="hour_system">%s-hodinový systém</string>
@@ -264,7 +264,7 @@ kg"</string>
   <string name="mid">Střední</string>
   <string name="weak">Slabý</string>
   <string name="replace_watchface">Ciferník</string>
-  <string name="screen_refresh">Druhá ruka</string>
+  <string name="screen_refresh">Vteřinová ručička</string>
   <string name="screen_refresh_on_string">Zap</string>
   <string name="screen_refresh_off_string">Vyp</string>
   <string name="confirm_shutdown">Vypnout?</string>
@@ -276,7 +276,7 @@ kg"</string>
   <string name="bind_tips_title">"Chraňte prosím
 svá data bezpečněji"</string>
   <string name="upgrade_checking">Vyhledávám aktualizace...</string>
-  <string name="left_hand">Levá</string>
-  <string name="right_hand">Pravá</string>
+  <string name="left_hand">Levá ruka</string>
+  <string name="right_hand">Pravá ruka</string>
   <string name="device_name_huanhe">Amazfit Sports Watch</string>
 </resources>

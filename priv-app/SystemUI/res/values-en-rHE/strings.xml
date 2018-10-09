@@ -11,9 +11,9 @@
   <string name="app_label">System UI</string>
   <string name="status_bar_clear_all_button">נקה</string>
   <string name="status_bar_recent_remove_item_title">הסר מהרשימה</string>
-  <string name="status_bar_recent_inspect_item_title">פרטי אפליקציה</string>
+  <string name="status_bar_recent_inspect_item_title">נתונים</string>
   <string name="status_bar_no_recent_apps">המסכים האחרונים מופיעים כאן</string>
-  <string name="status_bar_accessibility_dismiss_recents">סגור יישומים אחרונים</string>
+  <string name="status_bar_accessibility_dismiss_recents">סגור ישומים אחרונים</string>
   <string name="status_bar_no_notifications_title">אין התראות</string>
   <string name="status_bar_ongoing_events_title">בתהליך</string>
   <string name="status_bar_latest_events_title">התראות</string>
@@ -32,7 +32,7 @@
   <string name="status_bar_settings_airplane">מצב טיסה</string>
   <string name="status_bar_settings_auto_rotation">סיבוב מסך אוטומטי</string>
   <string name="status_bar_settings_mute_label">השתק</string>
-  <string name="status_bar_settings_auto_brightness_label">אוטומטי</string>
+  <string name="status_bar_settings_auto_brightness_label">אוטו</string>
   <string name="status_bar_settings_notifications">התראות</string>
   <string name="status_bar_network_name_separator">|</string>
   <string name="bluetooth_tethered">הצמדה Bluetooth</string>
@@ -47,7 +47,7 @@
   <string name="label_view">הצג</string>
   <string name="always_use_device">השתמש כברירת מחדל עבור התקן USB זה</string>
   <string name="always_use_accessory">השתמש כברירת מחדל עבור אביזר USB זה</string>
-  <string name="usb_debugging_title">אפשר ניקוי באגים ב-USB?</string>
+  <string name="usb_debugging_title">אפשר ניפוי ב-USB?</string>
   <string name="usb_debugging_message">טביעת האצבע של RSA של המחשב היא: %1$s</string>
   <string name="usb_debugging_always">אפשר תמיד מהמחשב הזה</string>
   <string name="compat_mode_on">זום למסך מלא</string>
@@ -63,7 +63,7 @@
   <string name="use_mtp_button_title">טען כנגן מדיה (MTP)</string>
   <string name="use_ptp_button_title">טען כמצלמה (PTP)</string>
   <string name="installer_cd_button_title">התקן אפליקציית העברת קבצים של אנדרואיד עבור Mac</string>
-  <string name="accessibility_back">חזור</string>
+  <string name="accessibility_back">חזרה</string>
   <string name="accessibility_home">בית</string>
   <string name="accessibility_menu">תפריט</string>
   <string name="accessibility_recent">סקירה כללית</string>
@@ -74,7 +74,7 @@
   <string name="unlock_label">בטל נעילה</string>
   <string name="phone_label">פתח טלפון</string>
   <string name="camera_label">פתח מצלמה</string>
-  <string name="accessibility_ime_switch_button">לחץ על לחצן שיטת קלט.</string>
+  <string name="accessibility_ime_switch_button">לחצן החלפת שיטת קלט.</string>
   <string name="accessibility_compatibility_zoom_button">לחצן התאמת זום.</string>
   <string name="accessibility_compatibility_zoom_example">הקטן זום למסך גדול יותר.</string>
   <string name="accessibility_bluetooth_connected">Bluetooth מחובר.</string>
@@ -135,7 +135,7 @@
   <string name="accessibility_battery_level">%d אחוזי סוללה.</string>
   <string name="accessibility_settings_button">הגדרות מערכת.</string>
   <string name="accessibility_notifications_button">התראות.</string>
-  <string name="accessibility_remove_notification">נקה התראה.</string>
+  <string name="accessibility_remove_notification">ניקוי התראות.</string>
   <string name="accessibility_gps_enabled">GPS מופעל.</string>
   <string name="accessibility_gps_acquiring">משיג אות GPS.</string>
   <string name="accessibility_tty_enabled">TeleTypewriter מופעל.</string>

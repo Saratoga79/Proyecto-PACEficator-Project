@@ -78,7 +78,7 @@ Utilisez uniquement le chargeur fourni."</string>
   <string name="camera_label">ouvrir la caméra</string>
   <string name="accessibility_ime_switch_button">Changement de mode de saisie</string>
   <string name="accessibility_compatibility_zoom_button">Bouton de zoom de compatibilité</string>
-  <string name="accessibility_compatibility_zoom_example">Zoom smaller to larger screen.</string>
+  <string name="accessibility_compatibility_zoom_example">Zoom plus petit sur grand écran.</string>
   <string name="accessibility_bluetooth_connected">Bluetooth connecté.</string>
   <string name="accessibility_bluetooth_disconnected">Bluetooth déconnecté.</string>
   <string name="accessibility_no_battery">Pas de batterie.</string>
@@ -171,8 +171,8 @@ Utilisez uniquement le chargeur fourni."</string>
   <string name="accessibility_quick_settings_bluetooth_changed_on">Bluetooth activé.</string>
   <string name="accessibility_quick_settings_location_off">Mise à jour de la position désactivée.</string>
   <string name="accessibility_quick_settings_location_on">Mise à jour de la position activée.</string>
-  <string name="accessibility_quick_settings_location_changed_off">Location reporting turned off.</string>
-  <string name="accessibility_quick_settings_location_changed_on">Location reporting turned on.</string>
+  <string name="accessibility_quick_settings_location_changed_off">Rapport de localisation désactivé.</string>
+  <string name="accessibility_quick_settings_location_changed_on">Rapport de localisation activé.</string>
   <string name="accessibility_quick_settings_alarm">Alarme réglée pour %s.</string>
   <string name="accessibility_quick_settings_close">Fermer fenêtre.</string>
   <string name="accessibility_quick_settings_more_time">Plus de temps.</string>
@@ -209,8 +209,8 @@ La réactiver vous fait courir le risque de frais supplémentaires par votre op�
   <string name="accessibility_rotation_lock_off_changed">L\'écran va maintenant pivoter automatiquement.</string>
   <string name="accessibility_rotation_lock_on_landscape_changed">L\'écran est maintenant verrouillé en orientation paysage.</string>
   <string name="accessibility_rotation_lock_on_portrait_changed">L\'écran est maintenant verrouillé en orientation portrait.</string>
-  <string name="dessert_case">Dessert Case</string>
-  <string name="start_dreams">Daydream</string>
+  <string name="dessert_case">Boîte à dessert</string>
+  <string name="start_dreams">Rêverie</string>
   <string name="ethernet_label">Ethernet</string>
   <string name="quick_settings_airplane_mode_label">Mode avion</string>
   <string name="quick_settings_bluetooth_label">Bluetooth</string>
@@ -259,10 +259,10 @@ La réactiver vous fait courir le risque de frais supplémentaires par votre op�
   <string name="quick_settings_cellular_detail_title">Données cellulaires</string>
   <string name="quick_settings_cellular_detail_data_usage">Utilisation des données</string>
   <string name="quick_settings_cellular_detail_remaining_data">Données restantes</string>
-  <string name="quick_settings_cellular_detail_over_limit">Over limit</string>
+  <string name="quick_settings_cellular_detail_over_limit">Limite supérieure</string>
   <string name="quick_settings_cellular_detail_data_used">%s utilisé</string>
   <string name="quick_settings_cellular_detail_data_limit">%s limite</string>
-  <string name="quick_settings_cellular_detail_data_warning">%s warning</string>
+  <string name="quick_settings_cellular_detail_data_warning">%s alerte</string>
   <string name="recents_empty_message">Vos écrans récents apparaissent ici</string>
   <string name="recents_app_info_button_label">Info Application</string>
   <string name="recents_lock_to_app_button_label">épinglage d\'écran</string>
@@ -403,12 +403,12 @@ De plus, vous avez donné l\'autorisation \"%3$s\" pour configurer une connexion
   <string name="hidden_notifications_setup">Installer</string>
   <string name="zen_mode_and_condition">%1$s. %2$s</string>
   <string name="screen_pinning_title">Écran épinglé</string>
-  <string name="screen_pinning_description">This keeps it in view until you unpin. Touch and hold Back and Overview at the same time to unpin.</string>
-  <string name="screen_pinning_description_accessible">This keeps it in view until you unpin. Touch and hold Overview to unpin.</string>
+  <string name="screen_pinning_description">Épingle cet écran jusqu\'à ce que vous le détachiez. Touchez et maintenez \"Retour\" et \"Aperçu\" simultanément pour le détacher.</string>
+  <string name="screen_pinning_description_accessible">Cet écran est épinglé jusqu\'à annulation de l\'opération. Pour annuler l\'épinglage, appuyez de manière prolongée sur \"Aperçu\".</string>
   <string name="screen_pinning_positive">Compris</string>
   <string name="screen_pinning_negative">Non merci</string>
   <string name="quick_settings_reset_confirmation_title">Cacher %1$s?</string>
-  <string name="quick_settings_reset_confirmation_message">It will reappear the next time you turn it on in settings.</string>
+  <string name="quick_settings_reset_confirmation_message">Cet élément réapparaîtra la prochaine fois que vous l\'activerez dans les paramètres.</string>
   <string name="quick_settings_reset_confirmation_button">Cacher</string>
   <string name="ok">\@android:string/ok</string>
   <string name="widget_default_package_name"></string>
@@ -417,7 +417,7 @@ De plus, vous avez donné l\'autorisation \"%3$s\" pour configurer une connexion
   <string name="abbrev_wday_month_day_no_year_alarm">EEEMMMd</string>
   <string name="clock_12hr_format">hm</string>
   <string name="clock_24hr_format">Hm</string>
-  <string name="app_name">Keyguard</string>
+  <string name="app_name">Verrouillage des touches</string>
   <string name="keyguard_password_enter_pin_code">Saisissez le code PIN</string>
   <string name="keyguard_password_enter_puk_code">Saisissez le code SIM, PUK et le nouveau code PIN</string>
   <string name="keyguard_password_enter_puk_prompt">code SIM PUK</string>
@@ -427,7 +427,7 @@ De plus, vous avez donné l\'autorisation \"%3$s\" pour configurer une connexion
   <string name="keyguard_password_enter_pin_password_code">Tapez le PIN pour débloquer</string>
   <string name="keyguard_password_wrong_pin_code">Code PIN incorrect.</string>
   <string name="keyguard_label_text">Pour déverrouiller, appuyez sur Menu puis sur 0.</string>
-  <string name="faceunlock_multiple_failures">Maximum Face Unlock attempts exceeded</string>
+  <string name="faceunlock_multiple_failures">Nombre maximal autorisé de tentatives Face Unlock atteint</string>
   <string name="keyguard_charged">Chargé</string>
   <string name="keyguard_plugged_in">Chargement en cours</string>
   <string name="keyguard_low_battery">Branchez votre chargeur.</string>
@@ -464,10 +464,10 @@ Contactez votre opérateur pour obtenir une autre carte SIM."</string>
   <string name="keyguard_accessibility_pin_unlock">Déverrouillage par code PIN.</string>
   <string name="keyguard_accessibility_password_unlock">Déverrouillage par mot de passe.</string>
   <string name="keyguard_accessibility_pattern_area">Zone du schéma.</string>
-  <string name="keyguard_accessibility_slide_area">Slide area.</string>
-  <string name="keyguard_accessibility_pin_area">PIN area</string>
-  <string name="keyguard_accessibility_sim_pin_area">SIM PIN area</string>
-  <string name="keyguard_accessibility_sim_puk_area">SIM PUK area</string>
+  <string name="keyguard_accessibility_slide_area">Zone où faire glisser votre doigt sur l\'écran.</string>
+  <string name="keyguard_accessibility_pin_area">Zone PIN</string>
+  <string name="keyguard_accessibility_sim_pin_area">Zone SIM PIN</string>
+  <string name="keyguard_accessibility_sim_puk_area">Zone SIM PUK</string>
   <string name="keyguard_accessibility_transport_prev_description">Bouton Précédent</string>
   <string name="keyguard_accessibility_transport_next_description">Bouton Suivant</string>
   <string name="keyguard_accessibility_transport_pause_description">Bouton Pause</string>
@@ -478,7 +478,7 @@ Contactez votre opérateur pour obtenir une autre carte SIM."</string>
   <string name="keyguard_accessibility_transport_heart_description">Coeur</string>
   <string name="keyguard_accessibility_show_bouncer">Dévérouillez pour continuer</string>
   <string name="keyguard_accessibility_hide_bouncer">Lancement annulé</string>
-  <string name="keyguard_accessibility_delete_widget_start">Drop %1$s to delete.</string>
+  <string name="keyguard_accessibility_delete_widget_start">Déposer %1$s pour supprimer.</string>
   <string name="keyguard_accessibility_delete_widget_end">%1$s ne sera pas supprimé.</string>
   <string name="keyguard_accessibility_next_alarm">Prochaine alarme pour %1$s</string>
   <string name="password_keyboard_label_symbol_key">\?123</string>
@@ -536,12 +536,12 @@ Veuillez réessayer dans %d secondes."</string>
   <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Vous avez reproduit un schéma de déverrouillage incorrect à %d reprises.
 
 Veuillez réessayer dans %d secondes."</string>
-  <string name="kg_failed_attempts_almost_at_wipe" formatted="false">You have incorrectly attempted to unlock the tablet %d times. After %d more unsuccessful attempts, this tablet will be reset, which will delete all its data.</string>
-  <string name="kg_failed_attempts_now_wiping">You have incorrectly attempted to unlock the tablet %d times. This tablet will be reset, which will delete all its data.</string>
-  <string name="kg_failed_attempts_almost_at_erase_user" formatted="false">You have incorrectly attempted to unlock the tablet %d times. After %d more unsuccessful attempts, this user will be removed, which will delete all user data.</string>
-  <string name="kg_failed_attempts_now_erasing_user">You have incorrectly attempted to unlock the tablet %d times. This user will be removed, which will delete all user data.</string>
-  <string name="kg_failed_attempts_almost_at_erase_profile" formatted="false">You have incorrectly attempted to unlock the tablet %d times. After %d more unsuccessful attempts, the work profile will be removed, which will delete all profile data.</string>
-  <string name="kg_failed_attempts_now_erasing_profile">You have incorrectly attempted to unlock the tablet %d times. The work profile will be removed, which will delete all profile data.</string>
+  <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Vous avez tenté de déverrouiller le téléphone de façon incorrecte à %d reprises. Si vous échouez encore %d fois, sa configuration d\'usine sera rétablie, et toutes les données utilisateur seront perdues.</string>
+  <string name="kg_failed_attempts_now_wiping">Vous avez tenté de déverrouiller le téléphone de façon incorrecte à %d reprises. Sa configuration d\'usine va être rétablie, et toutes les données utilisateur seront perdues.</string>
+  <string name="kg_failed_attempts_almost_at_erase_user" formatted="false">Vous avez tenté de déverrouiller le téléphone de façon incorrecte à %d reprises. Si vous échouez encore %d fois, cet utilisateur sera supprimé, et toutes ses données seront perdues.</string>
+  <string name="kg_failed_attempts_now_erasing_user">Vous avez tenté de déverrouiller le téléphone de façon incorrecte à %d reprises. Cet utilisateur va être supprimé, et toutes ses données seront perdues.</string>
+  <string name="kg_failed_attempts_almost_at_erase_profile" formatted="false">Vous avez tenté de déverrouiller le téléphone de façon incorrecte à %d reprises. Si vous échouez encore %d fois, ce profil sera supprimé, et toutes ses données seront perdues.</string>
+  <string name="kg_failed_attempts_now_erasing_profile">Vous avez tenté de déverrouiller le téléphone de façon incorrecte à %d reprises. Cet profil va être supprimé, et toutes ses données seront perdues.</string>
   <string name="kg_failed_attempts_almost_at_login" formatted="false">"Vous avez essayé de déverrouiller avec votre schéma %d fois. Après %d nouveaux accès échoués, on vous demandera de débloquer en utilisant un compte email. 
 
 Réessayez dans %d secondes."</string>
@@ -549,12 +549,12 @@ Réessayez dans %d secondes."</string>
   <string name="kg_password_wrong_pin_code_pukked">Mauvais code PIN, vous devez contacter votre opérateur pour débloquer votre appareil.</string>
   <string name="kg_password_wrong_puk_code_dead">La SIM est inutilisable. Contactez votre opérateur.</string>
   <string name="kg_password_pin_failed">Opération de PIN SIM échouée !</string>
-  <string name="kg_password_puk_failed">SIM PUK operation failed!</string>
+  <string name="kg_password_puk_failed">Échec du déverrouillage à l\'aide du code PUK de la carte SIM!</string>
   <string name="kg_pin_accepted">Code Accepté!</string>
-  <string name="keyguard_transport_prev_description">Previous track button</string>
-  <string name="keyguard_transport_next_description">Next track button</string>
-  <string name="keyguard_transport_pause_description">Pause button</string>
-  <string name="keyguard_transport_play_description">Play button</string>
-  <string name="keyguard_transport_stop_description">Stop button</string>
-  <string name="keyguard_carrier_default">No service.</string>
+  <string name="keyguard_transport_prev_description">Piste précédente</string>
+  <string name="keyguard_transport_next_description">Piste suivante</string>
+  <string name="keyguard_transport_pause_description">Bouton de pause</string>
+  <string name="keyguard_transport_play_description">Bouton de lecture</string>
+  <string name="keyguard_transport_stop_description">Bouton d\'arrêt</string>
+  <string name="keyguard_carrier_default">Aucun service.</string>
 </resources>
