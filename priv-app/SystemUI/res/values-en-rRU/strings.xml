@@ -348,32 +348,31 @@
 
 Кроме то, вы дали \"%2$s\" разрешение на создание VPN-соединения. Это приложение также может контролировать сетевую активность.\"
  </string>
-  <string name="monitoring_description_legacy_vpn_device_owned">"This device is managed by:
+  <string name="monitoring_description_legacy_vpn_device_owned">"Управление этим устройством осуществляется:
 %1$s
 
-Your administrator is capable of monitoring your network activity including emails, apps, and secure websites. For more information, contact your administrator.
+Ваш администратор способен отслеживать вашу сетевую активность, включая электронные письма, приложения и защищенные веб-сайты. Для получения дополнительной информации обратитесь к администратору.
 
-Also, you\'re connected to a VPN (\"%2$s\"). Your VPN service provider can monitor network activity too."</string>
+Кроме того, вы подключены к VPN («%2$s»). Ваш поставщик услуг VPN также может контролировать сетевую активность."</string>
   <string name="monitoring_description_profile_owned">"This profile is managed by:
 %1$s
 
 Your administrator can monitor your device and network activity, including emails, apps and secure websites.
 
 For more information, contact your administrator."</string>
-  <string name="monitoring_description_device_and_profile_owned">"This device is managed by:
-%1$s
-Your profile is managed by:
-%2$s
-
-Your administrator can monitor your device and network activity, including emails, apps and secure websites.
-
-For more information, contact your administrator."</string>
-  <string name="monitoring_description_vpn_profile_owned">"This profile is managed by:
+  <string name="monitoring_description_device_and_profile_owned">"Это устройство управляется:
 %1$s
 
-Your administrator is capable of monitoring your network activity including emails, apps, and secure websites. For more information, contact your administrator.
+Ваш администратор может следить за активностью вашей сети и устройства, включая сообщения электронной почты, приложения и безопасность вебсайтов.
 
-Also, you gave \"%2$s\" permission to set up a VPN connection. This app can monitor network activity too."</string>
+Для получения дополнительной информации, обратитесь к администратору."</string>
+  <string name="monitoring_description_vpn_profile_owned">"Этот профиль управляется:
+%1$s
+
+Ваш администратор способен отслеживать вашу сетевую активность, включая электронные письма, приложения и защищенные веб-сайты. Для получения дополнительной информации обратитесь к администратору.
+
+Кроме то, вы дали \"%2$s\" разрешение на создание VPN-соединения. Это приложение также может контролировать сетевую активность."
+</string>
   <string name="monitoring_description_legacy_vpn_profile_owned">"This profile is managed by:
 %1$s
 
@@ -495,8 +494,8 @@ Also, you\'re connected to a VPN (\"%3$s\"). Your VPN service provider can monit
   <string name="description_target_camera">Camera</string>
   <string name="description_target_silent">Silent</string>
   <string name="description_target_soundon">Sound on</string>
-  <string name="description_direction_down">Slide down for %s.</string>
-  <string name="description_direction_right">Slide right for %s.</string>
+  <string name="description_direction_down">Сдвиньте вниз на% s.</string>
+  <string name="description_direction_right">Слайд вправо для %s.</string>
   <string name="user_switched">Current user %1$s.</string>
   <string name="kg_emergency_call_label">Emergency call</string>
   <string name="kg_forgot_pattern_button_text">Forgot Pattern</string>
