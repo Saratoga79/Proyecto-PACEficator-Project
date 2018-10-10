@@ -65,9 +65,9 @@
   <string name="fetch_failed_help">Veuillez d\'abord synchroniser les informations météo</string>
   <string name="cancel">Annuler</string>
   <string name="data_check_log">+------------------------+▂▃▄▅▆▇█▉  Erreur de vérification des données météo!     %1$s▉█▇▆▅▄▃▂+------------------------+</string>
-  <string name="data_checkfail_type">Type d\'enregistrement inconnu</string>
+  <string name="data_checkfail_type">Impossible de trouver le type de météo</string>
   <string name="data_checkfail_temp">Température inconnue</string>
-  <string name="data_checkfail_match">Les champs d\'enregistrements ne correspondent pas</string>
+  <string name="data_checkfail_match">Champs de type météo ne correspondent pas</string>
   <string name="data_checkfail_json">Erreur de format JSON</string>
   <string name="wind_breeze">Brise</string>
   <string name="wind_rotating">En rotation</string>
