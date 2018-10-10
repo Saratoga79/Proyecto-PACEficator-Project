@@ -151,27 +151,27 @@
   <string name="nodisturb_open_string">Вкл</string>
   <string name="nodisturb_close_string">Выкл</string>
   <string name="nodisturb_timepicker_connect_symbol">:</string>
-  <string name="auto_nodisturb_title_string">Auto no disturb</string>
-  <string name="auto_nodisturb_start_time_string">Start time</string>
-  <string name="auto_nodisturb_end_time_string">End time</string>
-  <string name="time_to">" to "</string>
-  <string name="auto_wifi_trans_on_string">On</string>
-  <string name="auto_wifi_trans_off_string">Off</string>
+  <string name="auto_nodisturb_title_string">Авто Не беспокоить</string>
+  <string name="auto_nodisturb_start_time_string">Время начала</string>
+  <string name="auto_nodisturb_end_time_string">Время окончания</string>
+  <string name="time_to">" до  "</string>
+  <string name="auto_wifi_trans_on_string">Вкл</string>
+  <string name="auto_wifi_trans_off_string">Выкл</string>
   <string name="blue_tooth_dev_in_sub_list">Bluetooth</string>
-  <string name="scanning_blt_devices">Searching...</string>
-  <string name="blt_bound_stat_bonded">Paired</string>
-  <string name="blt_bound_stat_connected">Connected</string>
-  <string name="blt_bound_stat_disconnect">Disconnected</string>
-  <string name="blt_bound_stat_bonding">Pairing...</string>
-  <string name="blt_bound_stat_none">Available</string>
-  <string name="blt_default_name">Unnamed</string>
+  <string name="scanning_blt_devices">Идет поиск...</string>
+  <string name="blt_bound_stat_bonded">В паре</string>
+  <string name="blt_bound_stat_connected">Подключен</string>
+  <string name="blt_bound_stat_disconnect">Отключено</string>
+  <string name="blt_bound_stat_bonding">Сопряжение...</string>
+  <string name="blt_bound_stat_none">Доступно</string>
+  <string name="blt_default_name">Безымянный</string>
   <string name="blt_hint_disconnect">"%1s
-Disconnect?"</string>
+Отключиться?"</string>
   <string name="blt_hint_connect">"%1s
-Connect?"</string>
-  <string name="blt_hint_connect_fail">Connection failed, please re-connect</string>
-  <string name="blt_type_ear">Headset</string>
-  <string name="blt_speaker">Audio</string>
+Подключиться?"</string>
+  <string name="blt_hint_connect_fail">Соединение не установлено, пожалуйста, попробуйте еще раз</string>
+  <string name="blt_type_ear">Гарнитура</string>
+  <string name="blt_speaker">Аудио</string>
   <string name="blt_car_system">Vehicle-mounted</string>
   <string name="blt_type_mabiao">MW</string>
   <string name="blt_not_support">[Only test]</string>
@@ -224,15 +224,15 @@ and is nearby"</string>
   <string name="locale_applying">Language applying...</string>
   <string name="zh_cn">简体中文</string>
   <string name="en">English(U.S.)</string>
-  <string name="zh_hk">Traditional Chinese (Hong Kong)</string>
-  <string name="zh_tw">繁體中文(台灣)</string>
+  <string name="zh_hk">Традиционный китайский (Гонконг)</string>
+  <string name="zh_tw">Традиционный китайский (Тайвань)</string>
   <string name="ru_ru">Русский</string>
-  <string name="es_es">Español</string>
-  <string name="de_de">Deutsch</string>
-  <string name="it_it">Italiano</string>
-  <string name="fr_fr">Français</string>
-  <string name="pl_pl">Polski</string>
-  <string name="ko_kr">한국의</string>
+  <string name="es_es">Испанский</string>
+  <string name="de_de">Немецкий</string>
+  <string name="it_it">Итальянский</string>
+  <string name="fr_fr">Французский</string>
+  <string name="pl_pl">Польский</string>
+  <string name="ko_kr">Корейский</string>
   <string name="confirm_change_locale">"Change language to 
 %1$s?"</string>
   <string name="gender">Gender</string>
