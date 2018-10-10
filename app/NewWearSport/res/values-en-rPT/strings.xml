@@ -92,7 +92,7 @@
   <string name="battery_continue_time_unit"> hrs</string>
   <string name="battery_split"> / </string>
   <string name="suggest_reset_time">Tempo para recuperação total %1$s hrs</string>
-  <string name="remain_time_recovery"><Data>Time to full recovery&amp;nbsp;&lt;font color=#00ff00&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;/font&gt;&amp;nbsp; h</Data></string>
+  <string name="remain_time_recovery">&lt;Data&gt;Tempo para recuperação total&amp;nbsp;&lt;font color=#00ff00&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;/font&gt;&amp;nbsp; h&lt;/Data&gt;</string>
   <string name="more_sport_tint">Mais</string>
   <string name="zh_space">　</string>
   <string name="en_space"> </string>
@@ -148,7 +148,7 @@
   <string name="setting_auto_pause_speed">&lt;%1$s km/h</string>
   <string name="setting_auto_pause_pace">quando mais lento que %1$s</string>
   <string name="setting_no_set_target">Não configurado</string>
-  <string name="sport_settings_by_te">Training Effect</string>
+  <string name="sport_settings_by_te">Efeito de treino</string>
   <string name="sport_settings_by_sport_data">Outras métricas</string>
   <string name="sport_settings_no_set">Não definir meta</string>
   <string name="sport_settings_te_title">Definir metas</string>
@@ -399,7 +399,7 @@
   <string name="select_compound_sport_three">Terceiro</string>
   <string name="setting_max_heart_region">Máx Região BC</string>
   <string name="setting_reserve_heart_region">Intervalo de BC reserva</string>
-  <string name="setting_not_remind">Do not remind</string>
+  <string name="setting_not_remind">Não lembrar me</string>
   <string name="setting_reserve_heart_region_1">Zona 1</string>
   <string name="setting_reserve_heart_region_2">Zona 2</string>
   <string name="setting_reserve_heart_region_3">Zona 3</string>
@@ -407,8 +407,8 @@
   <string name="setting_reserve_heart_region_5">Zona 5</string>
   <string name="history_walk_exchange_title">Transição para natação</string>
   <string name="virtual_rabbit_title">Coelho virtual</string>
-  <string name="virtual_rabbit_backward_distance">Lag distance</string>
-  <string name="virtual_rabbit_backward_time">Lag time</string>
+  <string name="virtual_rabbit_backward_distance">Distância Secundária</string>
+  <string name="virtual_rabbit_backward_time">T. perdido</string>
   <string name="virtual_rabbit_lead_distance">Distância Principal</string>
   <string name="virtual_rabbit_lead_time">Tempo de espera</string>
   <string name="anti_navigation_pause_content">Retornar para o ponto de começo</string>
@@ -417,7 +417,7 @@
   <string name="oritation_west">W</string>
   <string name="oritation_north">N</string>
   <string name="outdoor_riding_speed_alert">Alerta Velocidade</string>
-  <string name="speed_too_low_remind_title">Too Slow</string>
+  <string name="speed_too_low_remind_title">Demasiado Rapido</string>
   <string name="swim_avg_stroke_speed">AVG.SPM</string>
   <string name="running_button_save_modify">Calibrar</string>
   <string name="save_cur_location">Guardar localização atual</string>
@@ -455,7 +455,7 @@
   <string name="sport_target_remind_status_maintaining">Manutenção</string>
   <string name="sport_target_remind_status_improving">Melhorando</string>
   <string name="sport_target_remind_status_count"></string>
-  <string name="sport_target_remind_title_01">3.5 TE|30-25 min|5 km</string>
+  <string name="sport_target_remind_title_01">3.5TE|30-25分钟|5公里</string>
   <string name="sport_target_remind_title_01_normal">%1$sTE|%2$sMinuto|%3$sKilometro</string>
   <string name="sport_target_remind_time_min">Minuto</string>
   <string name="sport_run_train_title">Treino de corrida</string>
@@ -479,7 +479,8 @@
   <string name="first_beat_help_title_recovery_time">Tempo de recuperação</string>
   <string name="first_beat_help_vo2_max">"&lt;font color=#00FF00&gt;O que é isto ?&lt;/font&gt;&lt;br/&gt; O VO2Max representa o volume máximo de oxigênio que o corpo pode consumir em um minuto, conforme medido em ml / kg / min. Avalia o estado de aptidão cardiorrespiratória dos usuários, que é importante para a saúde geral, bem-estar e desempenho esportivo. &lt;br/&gt;O relógio irá avaliar automaticamente o seu VO2Max com base na frequência cardíaca, velocidade, etc, durante um treino de intensidade moderada e compará-lo com um grupo de referência da mesma idade e sexo para determinar o seu nível de condicionamento físico.&lt;br/&gt;&lt;font color=#00FF00&gt;Como avaliar？&lt;/font&gt;&lt;br/&gt; 1. Forneça informações de perfil precisas, como idade e sexo, no aplicativo Amazfit Watch durante a configuração ； &lt;br/&gt;2. Faça uma caminhada de 15 minutos ou mais para correr ao ar livre com o relógio ligado e certifique-se de que a frequência cardíaca esteja em ou acima de 75% do seu maxHR por pelo menos 10 minutos. &lt;br/&gt; 3. Depois de concluir a corrida, você pode verificar o VO2Max atual no aplicativo de atividades esportivas na página de status do relógio ou pessoal no aplicativo Amazift Watch. &lt;br/&gt;&lt;small&gt;Para mais detalhes, consulte a Ajuda na app Amazfit Watch.&lt;/small&gt;"</string>
   <string name="first_beat_help_te">&lt;font color=#00FF00&gt;O que é isto ?&lt;/font&gt;&lt;br/&gt; Training Effect (TE) mede a carga acumulada durante um treino e interpreta seu impacto na sua aptidão aeróbica. TE começa no nível 0,0. À medida que o treino progride com sucesso, o valor TE aumenta (de 0 para 5), informando como o treino afeta sua forma física. &lt;br/&gt;&lt;font color=#00FF00&gt;Como é calculado ? &lt;/font&gt;&lt;br/&gt; TE é calculado com base no seu perfil de usuário, dados de batimento cardíaco e dificuldade do treino.&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; O relógio mostrará a medição TE em tempo real durante um treino, bem como o resultado TE final no final do treino. A&amp;lt;2.0 TE indica simplesmente que o treino tem pouco efeito na aptidão cardiorrespiratória e é útil apenas para construir uma base de resistência e recuperação. &lt;br/&gt;&lt;small&gt;Para mais detalhes, consulte a Ajuda na app Amazfit Watch.&lt;/small&gt;</string>
-  <string name="first_beat_help_train_load">The watch will calculate Training Load based on EPOC (Excess Post-exercise Oxygen Consumption) values accumulated from heartrate data recorded during workouts in a 7-day rolling window. The user can adjust the training schedule accordingly to reach optimal load. &lt;br/&gt;&lt;small&gt;For more details, please see Help in Amazfit Watch app.&lt;/small&gt;</string>
+  <string name="first_beat_help_train_load">O relógio calculará a Carga de Treinamento com base nos valores de EPOC (Consumo Excesso de Oxigênio Pós-exercício) acumulados a partir dos dados de frequência cardíaca registrados durante os treinos em uma janela contínua de 7 dias. O usuário pode ajustar o cronograma de treinamento de acordo para atingir a carga ideal.
+&lt;br/&gt;&lt;small&gt;Para mais detalhes, consulte a Ajuda na app Amazfit Watch.&lt;/small&gt;</string>
   <string name="first_beat_help_run_target_and_real_time_guide">O relógio fornecerá recomendações de exercícios com base em seu nível de condicionamento físico VO2Max, carga de treinamento recente e status de recuperação do treinamento anterior. &lt;br/&gt;Se você ativar o recurso de treinamento em tempo real nas configurações e definir um alvo TE ou escolher um dos treinos recomendados, o relógio guiará você pelo exercício e solicitará o ajuste do ritmo e da frequência cardíaca para atingir as metas estabelecidas. &lt;br/&gt; &lt;small&gt;Para mais detalhes, consulte a Ajuda na app Amazfit Watch&lt;/small&gt;</string>
   <string name="first_beat_help_daily_perpormence">"&lt;font color=#00FF00&gt;O que é isto ?&lt;/font&gt;&lt;br/&gt;A Condição de Desempenho em Tempo Real indica se você está acima ou abaixo do seu nível de desempenho médio e como o acúmulo de fadiga afeta seu desempenho durante um treinamento. &lt;br/&gt;&lt;font color=#00FF00&gt;Como é usado ?&lt;/font&gt;&lt;br/&gt;TO relógio avaliará sua condição de desempenho automaticamente após ~ 6 minutos de execução. Um valor maior do que o médio indica que você pode fazer um treino mais difícil do que o normal. Um valor menor sugere que você deve fazer um treino mais fácil. &lt;br/&gt;Depois de concluir um treino, você pode analisar o desempenho observando o resultado a cada km / milha no gráfico.&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;Para mais detalhes, consulte a Ajuda na app Amazfit Watch&lt;/small&gt;"</string>
   <string name="first_beat_help_recovery_time">Depois de completar um treino, você receberá tempo em minutos para a recuperação total. Entre os treinos, o tempo de recuperação é reduzido linearmente para zero se não houver novos dados de treino disponíveis. O usuário é incentivado a ter alguns exercícios de baixa intensidade para ajudar na recuperação.&lt;br/&gt;&lt;small&gt;Para mais detalhes, consulte a Ajuda na app Amazfit Watch&lt;/small&gt;</string>
