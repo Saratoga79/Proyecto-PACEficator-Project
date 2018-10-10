@@ -58,18 +58,18 @@
   <string name="forecast">Previsão do tempo</string>
   <string name="fetching">Carregando</string>
   <string name="fetch_failed">busca falhou</string>
-  <string name="unknown">Unknown</string>
+  <string name="unknown">Desconhecido</string>
   <string name="fetch_failed_title">Impossivel obter informação meterologica</string>
   <string name="fetch_failed_msg">Por favor assegure que o relógio está ligado á aplicação Amazfit Watch e que a localização é válida</string>
   <string name="date_time_format">dd-MM</string>
   <string name="fetch_failed_help">Por favor, sincronize as info. do tempo primeiro</string>
-  <string name="cancel">Cancel</string>
+  <string name="cancel">Cancelar</string>
   <string name="data_check_log">+------------------------+▂▃▄▅▆▇█▉ Dados meteorológicos
 Verifique erro ！ %1$s▉█▇▆▅▄▃▂+------------------------+</string>
-  <string name="data_checkfail_type">Unable to recognize weather type</string>
-  <string name="data_checkfail_temp">Weather temperature out of range</string>
-  <string name="data_checkfail_match">Weather type fields do not match</string>
-  <string name="data_checkfail_json">JSON format error</string>
+  <string name="data_checkfail_type">Tipo de clima não reconhecido</string>
+  <string name="data_checkfail_temp">Temperatura do registo fora do alcance</string>
+  <string name="data_checkfail_match">Campo tipo de Clima não coincide</string>
+  <string name="data_checkfail_json">Erro no formato JSON</string>
   <string name="wind_breeze">brisa</string>
   <string name="wind_rotating">Girando</string>
   <string name="wind_N">N</string>
