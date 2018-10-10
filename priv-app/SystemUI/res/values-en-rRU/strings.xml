@@ -354,12 +354,12 @@
 Ваш администратор способен отслеживать вашу сетевую активность, включая электронные письма, приложения и защищенные веб-сайты. Для получения дополнительной информации обратитесь к администратору.
 
 Кроме того, вы подключены к VPN («%2$s»). Ваш поставщик услуг VPN также может контролировать сетевую активность."</string>
-  <string name="monitoring_description_profile_owned">"This profile is managed by:
+  <string name="monitoring_description_profile_owned">"Это устройство управляется:
 %1$s
 
-Your administrator can monitor your device and network activity, including emails, apps and secure websites.
+Ваш администратор может следить за активностью вашей сети и устройства, включая сообщения электронной почты, приложения и безопасность вебсайтов.
 
-For more information, contact your administrator."</string>
+Для получения дополнительной информации, обратитесь к администратору."</string>
   <string name="monitoring_description_device_and_profile_owned">"Это устройство управляется:
 %1$s
 
@@ -373,34 +373,33 @@ For more information, contact your administrator."</string>
 
 Кроме то, вы дали \"%2$s\" разрешение на создание VPN-соединения. Это приложение также может контролировать сетевую активность."
 </string>
-  <string name="monitoring_description_legacy_vpn_profile_owned">"This profile is managed by:
+  <string name="monitoring_description_legacy_vpn_profile_owned">"Управление этим устройством осуществляется:
 %1$s
 
-Your administrator is capable of monitoring your network activity including emails, apps, and secure websites. For more information, contact your administrator.
+Ваш администратор способен отслеживать вашу сетевую активность, включая электронные письма, приложения и защищенные веб-сайты. Для получения дополнительной информации обратитесь к администратору.
 
-Also, you\'re connected to a VPN (\"%2$s\"). Your VPN service provider can monitor network activity too."</string>
-  <string name="monitoring_description_vpn_device_and_profile_owned">"This device is managed by:
+Кроме того, вы подключены к VPN («%2$s»). Ваш поставщик услуг VPN также может контролировать сетевую активность."</string>
+  <string name="monitoring_description_vpn_device_and_profile_owned">"Это устройство управляется:
 %1$s
-Your profile is managed by:
+
+Ваш администратор способен отслеживать вашу сетевую активность, включая электронные письма, приложения и защищенные веб-сайты. Для получения дополнительной информации обратитесь к администратору.
+
+Кроме то, вы дали \"%2$s\" разрешение на создание VPN-соединения. Это приложение также может контролировать сетевую активность."
+</string>
+  <string name="monitoring_description_legacy_vpn_device_and_profile_owned">"Управление этим устройством осуществляется:
+%1$s
+Ваш профиль управляется:
 %2$s
 
-Your administrator is capable of monitoring your network activity including emails, apps, and secure websites. For more information, contact your administrator.
+Ваш администратор способен отслеживать вашу сетевую активность, включая электронные письма, приложения и защищенные веб-сайты. Для получения дополнительной информации обратитесь к администратору.
 
-Also, you gave \"%3$s\" permission to set up a VPN connection. This app can monitor network activity too."</string>
-  <string name="monitoring_description_legacy_vpn_device_and_profile_owned">"This device is managed by:
-%1$s
-Your profile is managed by:
-%2$s
-
-Your administrator is capable of monitoring your network activity including emails, apps, and secure websites. For more information, contact your administrator.
-
-Also, you\'re connected to a VPN (\"%3$s\"). Your VPN service provider can monitor network activity too."</string>
-  <string name="keyguard_indication_trust_disabled">Device will stay locked until you manually unlock</string>
-  <string name="hidden_notifications_title">Get notifications faster</string>
-  <string name="hidden_notifications_text">See them before you unlock</string>
-  <string name="hidden_notifications_cancel">No thanks</string>
-  <string name="hidden_notifications_setup">Set up</string>
-  <string name="zen_mode_and_condition">%1$s. %2$s</string>
+Кроме того, вы подключены к VPN («%2$s»). Ваш поставщик услуг VPN также может контролировать сетевую активность."</string>
+  <string name="keyguard_indication_trust_disabled">Устройство будет оставаться заблокированным до тех пор, пока вы не разблокировать вручную</string>
+  <string name="hidden_notifications_title">Быстрый доступ к уведомлениям</string>
+  <string name="hidden_notifications_text">Просматривайте уведомления на заблокированном экране</string>
+  <string name="hidden_notifications_cancel">Нет, спасибо</string>
+  <string name="hidden_notifications_setup">Установить</string>
+  <string name="zen_mode_and_condition">%1$s.%2$s</string>
   <string name="screen_pinning_title">Блокировка в приложении включена</string>
   <string name="screen_pinning_description">Приложение останется активным, пока вы не отмените блокировку, одновременно нажав кнопки Назад и Обзор.</string>
   <string name="screen_pinning_description_accessible">Приложение останется активным, пока вы не отмените блокировку, нажмите и удерживайте кнопку Обзор.</string>
@@ -454,15 +453,15 @@ Also, you\'re connected to a VPN (\"%3$s\"). Your VPN service provider can monit
   <string name="keyguard_accessibility_camera">Камера</string>
   <string name="keygaurd_accessibility_media_controls">Управление мультимедиа</string>
   <string name="keyguard_accessibility_widget_reorder_start">Началось переупорядочение виджетов.</string>
-  <string name="keyguard_accessibility_widget_reorder_end">Widget reordering ended.</string>
-  <string name="keyguard_accessibility_widget_deleted">Widget %1$s deleted.</string>
-  <string name="keyguard_accessibility_expand_lock_area">Expand unlock area.</string>
-  <string name="keyguard_accessibility_slide_unlock">Slide unlock.</string>
-  <string name="keyguard_accessibility_pattern_unlock">Pattern unlock.</string>
-  <string name="keyguard_accessibility_face_unlock">Face unlock.</string>
-  <string name="keyguard_accessibility_pin_unlock">Pin unlock.</string>
-  <string name="keyguard_accessibility_password_unlock">Password unlock.</string>
-  <string name="keyguard_accessibility_pattern_area">Pattern area.</string>
+  <string name="keyguard_accessibility_widget_reorder_end">Закончилось переупорядочение виджетов.</string>
+  <string name="keyguard_accessibility_widget_deleted">Виджет %1$s удален.</string>
+  <string name="keyguard_accessibility_expand_lock_area">Развернуть область разблокировки.</string>
+  <string name="keyguard_accessibility_slide_unlock">Проведите для разблокировки.</string>
+  <string name="keyguard_accessibility_pattern_unlock">Графический ключ.</string>
+  <string name="keyguard_accessibility_face_unlock">Фейсконтроль.</string>
+  <string name="keyguard_accessibility_pin_unlock">PIN-код.</string>
+  <string name="keyguard_accessibility_password_unlock">Пароль.</string>
+  <string name="keyguard_accessibility_pattern_area">Область ввода графического ключа.</string>
   <string name="keyguard_accessibility_slide_area">Slide area.</string>
   <string name="keyguard_accessibility_pin_area">PIN area</string>
   <string name="keyguard_accessibility_sim_pin_area">SIM PIN area</string>
