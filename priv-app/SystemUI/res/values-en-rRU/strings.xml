@@ -119,7 +119,7 @@
   <string name="accessibility_desc_on">Вкл.</string>
   <string name="accessibility_desc_off">Выкл.</string>
   <string name="accessibility_desc_connected">Подключен.</string>
-  <string name="accessibility_desc_connecting">Connecting.</string>
+  <string name="accessibility_desc_connecting">Подключение.</string>
   <string name="accessibility_data_connection_gprs">GPRS</string>
   <string name="accessibility_data_connection_1x">1 X</string>
   <string name="accessibility_data_connection_hspa">HSPA</string>
@@ -191,16 +191,16 @@
   <string name="data_usage_disabled_dialog_4g_title">4G данные отключены</string>
   <string name="data_usage_disabled_dialog_mobile_title">Сотовые данные отключены</string>
   <string name="data_usage_disabled_dialog_title">Данные выключены</string>
-  <string name="data_usage_disabled_dialog">"Your device turned off data because it reached the limit you set.
+  <string name="data_usage_disabled_dialog">"Ваше устройство отключено от данных, поскольку оно достигло установленного вами предела.
 
-Turning it back on may lead to charges from your carrier."</string>
+Включение его обратно может привести потребовать дополнительной платы вашему оператору."</string>
   <string name="data_usage_disabled_dialog_enable">Включить данные</string>
-  <string name="status_bar_settings_signal_meter_disconnected">No Internet connection</string>
-  <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi connected</string>
-  <string name="gps_notification_searching_text">Searching for GPS</string>
-  <string name="gps_notification_found_text">Location set by GPS</string>
-  <string name="accessibility_location_active">Location requests active</string>
-  <string name="accessibility_clear_all">Clear all notifications.</string>
+  <string name="status_bar_settings_signal_meter_disconnected">Нет подключения к Интернету</string>
+  <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi подключен</string>
+  <string name="gps_notification_searching_text">Поиск GPS</string>
+  <string name="gps_notification_found_text">Координаты определяются по GPS</string>
+  <string name="accessibility_location_active">Активные запросы местоположения</string>
+  <string name="accessibility_clear_all">Удалить все уведомления.</string>
   <string name="status_bar_notification_inspect_item_title">Notification settings</string>
   <string name="status_bar_notification_app_settings_title">%s settings</string>
   <string name="accessibility_rotation_lock_off">Screen will rotate automatically.</string>
