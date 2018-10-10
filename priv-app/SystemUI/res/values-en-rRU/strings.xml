@@ -207,29 +207,29 @@
   <string name="accessibility_rotation_lock_on_landscape">Выбрана только ландшафтная ориентация экрана.</string>
   <string name="accessibility_rotation_lock_on_portrait">Выбрана только портретная ориентация экрана.</string>
   <string name="accessibility_rotation_lock_off_changed">Автоповорот экрана включен.</string>
-  <string name="accessibility_rotation_lock_on_landscape_changed">Screen is now locked in landscape orientation.</string>
-  <string name="accessibility_rotation_lock_on_portrait_changed">Screen is now locked in portrait orientation.</string>
-  <string name="dessert_case">Dessert Case</string>
-  <string name="start_dreams">Daydream</string>
+  <string name="accessibility_rotation_lock_on_landscape_changed">Выбрана только ландшафтная ориентация экрана.</string>
+  <string name="accessibility_rotation_lock_on_portrait_changed">Выбрана только портретная ориентация экрана.</string>
+  <string name="dessert_case">Время десерта</string>
+  <string name="start_dreams">Мечта</string>
   <string name="ethernet_label">Ethernet</string>
-  <string name="quick_settings_airplane_mode_label">Airplane mode</string>
+  <string name="quick_settings_airplane_mode_label">Режим самолета</string>
   <string name="quick_settings_bluetooth_label">Bluetooth</string>
-  <string name="quick_settings_bluetooth_multiple_devices_label">Bluetooth (%d Devices)</string>
-  <string name="quick_settings_bluetooth_off_label">Bluetooth Off</string>
-  <string name="quick_settings_bluetooth_detail_empty_text">No paired devices available</string>
-  <string name="quick_settings_brightness_label">Brightness</string>
-  <string name="quick_settings_rotation_unlocked_label">Auto-rotate</string>
-  <string name="quick_settings_rotation_locked_label">Rotation locked</string>
-  <string name="quick_settings_rotation_locked_portrait_label">Portrait</string>
-  <string name="quick_settings_rotation_locked_landscape_label">Landscape</string>
-  <string name="quick_settings_ime_label">Input Method</string>
-  <string name="quick_settings_location_label">Location</string>
-  <string name="quick_settings_location_off_label">Location Off</string>
-  <string name="quick_settings_media_device_label">Media device</string>
+  <string name="quick_settings_bluetooth_multiple_devices_label">Bluetooth (%d устройства)</string>
+  <string name="quick_settings_bluetooth_off_label">Bluetooth выключен</string>
+  <string name="quick_settings_bluetooth_detail_empty_text">Нет доступных устройств</string>
+  <string name="quick_settings_brightness_label">Яркость</string>
+  <string name="quick_settings_rotation_unlocked_label">Автоповорот</string>
+  <string name="quick_settings_rotation_locked_label">Автоповорот отключен</string>
+  <string name="quick_settings_rotation_locked_portrait_label">Портреная ориентация</string>
+  <string name="quick_settings_rotation_locked_landscape_label">Альбомная ориентация</string>
+  <string name="quick_settings_ime_label">Метод ввода</string>
+  <string name="quick_settings_location_label">Местоположение</string>
+  <string name="quick_settings_location_off_label">Геолокация отключена</string>
+  <string name="quick_settings_media_device_label">Устройства мультимедиа</string>
   <string name="quick_settings_rssi_label">RSSI</string>
-  <string name="quick_settings_rssi_emergency_only">Emergency Calls Only</string>
-  <string name="quick_settings_settings_label">Settings</string>
-  <string name="quick_settings_time_label">Time</string>
+  <string name="quick_settings_rssi_emergency_only">Только экстренные вызовы</string>
+  <string name="quick_settings_settings_label">Настройки</string>
+  <string name="quick_settings_time_label">Время</string>
   <string name="quick_settings_user_label">Меня</string>
   <string name="quick_settings_user_title">Пользователь</string>
   <string name="quick_settings_user_new_user">Новый пользователь</string>
@@ -341,12 +341,13 @@
   <string name="monitoring_description_legacy_vpn">"Вы подключены к сети VPN («%1$s»).
 
 Ваш VPN провайдер может контролировать ваши устройства и сети, включая сообщения электронной почты, приложения и безопасность веб-сайтов."</string>
-  <string name="monitoring_description_vpn_device_owned">"This device is managed by:
+  <string name="monitoring_description_vpn_device_owned">\"Это устройство управляется:
 %1$s
 
-Your administrator is capable of monitoring your network activity including emails, apps, and secure websites. For more information, contact your administrator.
+Ваш администратор способен отслеживать вашу сетевую активность, включая электронные письма, приложения и защищенные веб-сайты. Для получения дополнительной информации обратитесь к администратору.
 
-Also, you gave \"%2$s\" permission to set up a VPN connection. This app can monitor network activity too."</string>
+Кроме то, вы дали \"%2$s\" разрешение на создание VPN-соединения. Это приложение также может контролировать сетевую активность.\"
+ </string>
   <string name="monitoring_description_legacy_vpn_device_owned">"This device is managed by:
 %1$s
 
