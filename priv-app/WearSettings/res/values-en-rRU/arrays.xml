@@ -35,7 +35,7 @@
   </string-array>
   <string-array name="lab_item_wifi_signal_intensity">
     <item>[prim]Signal strength</item>
-    <item>[sum]Signal strength test</item>
+    <item>[sum] Тест силы сигнала</item>
     <item>[pkg]com.huami.mobile.watchsettings</item>
     <item>[clazz]com.huami.moblie.watchsettings.actions.lab.labUI.WifiTestActivity</item>
   </string-array>
@@ -45,50 +45,50 @@
     <item>[sid]pointer_location</item>
   </string-array>
   <string-array name="time_zone_ids">
-    <item>Pacific/Midway</item>
-    <item>Pacific/Honolulu</item>
-    <item>America/Anchorage</item>
-    <item>America/Los_Angeles</item>
-    <item>America/Tijuana</item>
-    <item>America/Phoenix</item>
-    <item>America/Chihuahua</item>
-    <item>America/Denver</item>
-    <item>America/Costa_Rica</item>
-    <item>America/Chicago</item>
-    <item>America/Mexico_City</item>
-    <item>America/Regina</item>
-    <item>America/Bogota</item>
-    <item>America/New_York</item>
-    <item>America/Caracas</item>
-    <item>America/Barbados</item>
-    <item>America/Manaus</item>
-    <item>America/St_Johns</item>
-    <item>America/Santiago</item>
-    <item>America/Argentina/Buenos_Aires</item>
-    <item>America/Godthab</item>
-    <item>America/Sao_Paulo</item>
-    <item>America/Montevideo</item>
-    <item>Atlantic/South_Georgia</item>
-    <item>Atlantic/Azores</item>
-    <item>Atlantic/Cape_Verde</item>
-    <item>Africa/Casablanca</item>
-    <item>Europe/London</item>
-    <item>Europe/Amsterdam</item>
-    <item>Europe/Belgrade</item>
-    <item>Europe/Brussels</item>
-    <item>Europe/Sarajevo</item>
-    <item>Africa/Brazzaville</item>
-    <item>Africa/Windhoek</item>
-    <item>Asia/Amman</item>
-    <item>Europe/Athens</item>
-    <item>Asia/Beirut</item>
-    <item>Africa/Cairo</item>
-    <item>Europe/Helsinki</item>
-    <item>Asia/Jerusalem</item>
-    <item>Africa/Harare</item>
-    <item>Europe/Minsk</item>
-    <item>Asia/Baghdad</item>
-    <item>Europe/Moscow</item>
+    <item>Тихий океан/Мидуэй</item>
+    <item>Тихий океан/Гонолулу</item>
+    <item>Америка/Анкоридж</item>
+    <item>Америка/Лос-Анджелес</item>
+    <item>Америка/Тихуана</item>
+    <item>Америка/Феникс</item>
+    <item>Америка/Тихуана</item>
+    <item>Америка/Денвер</item>
+    <item>Америка/Коста-Рика</item>
+    <item>Америка/Чикаго</item>
+    <item>Америка/Мехико</item>
+    <item>Америка/Регина</item>
+    <item>Америка/Богота</item>
+    <item>Америка/Нью-Йорк</item>
+    <item>Америка/Каракас</item>
+    <item>Америка/Барбадос</item>
+    <item>Америка/Манаус</item>
+    <item>Америка/Сент-Джонс</item>
+    <item>Америка/Сантьяго</item>
+    <item>Америка/Аргентина/Буэнос-Айрес</item>
+    <item>Америка/Готхаб</item>
+    <item>Америка/Сан-Паулу</item>
+    <item>Америка/Монтевидео</item>
+    <item>Атлантика/Южная Джорджия</item>
+    <item>Атлантика/Азорские острова</item>
+    <item>Атлантика/Кабо-Верде</item>
+    <item>Атлантика/Касабланка</item>
+    <item>Европа/Лондон</item>
+    <item>Европа/Амстердам</item>
+    <item>Европа/Белград</item>
+    <item>Европа/Брюссель</item>
+    <item>Европа/Сараево</item>
+    <item>Африка/Браззавиль</item>
+    <item>Африка/Виндхук</item>
+    <item>Азия/Амман</item>
+    <item>Европа/Афины</item>
+    <item>Азия/Бейрут</item>
+    <item>Африка/Каир</item>
+    <item>Европа/Хельсинки</item>
+    <item>Азия/Иерусалим</item>
+    <item>Африка/Хараре</item>
+    <item>Европа/Минск</item>
+    <item>Азия/Багдад</item>
+    <item>Европа/Москва</item>
     <item>Asia/Kuwait</item>
     <item>Africa/Nairobi</item>
     <item>Asia/Tehran</item>
@@ -141,7 +141,7 @@
     <item>-6 Costa_Rica</item>
     <item>-6 Chicago</item>
     <item>-6 Mexico_City</item>
-    <item>-6 Regina</item>
+    <item>-6 Регина</item>
     <item>-5 Bogota</item>
     <item>-5 New_York</item>
     <item>-4:30 Caracas</item>
