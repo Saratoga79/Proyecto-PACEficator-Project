@@ -175,35 +175,36 @@
   <string name="blt_car_system">Vehicle-mounted</string>
   <string name="blt_type_mabiao">MW</string>
   <string name="blt_not_support">[Only test]</string>
-  <string name="bluetooth_pair_tips">Pairing code</string>
+  <string name="bluetooth_pair_tips">Код сопряжения</string>
   <string name="button_enter">OK</string>
-  <string name="button_cancel">Cancel</string>
-  <string name="blt_cancel_paring">Paring canceled</string>
-  <string name="bluetooth_pairing_error_message">Pairing failed</string>
-  <string name="bluetooth_connecting">Connecting...</string>
-  <string name="bluetooth_disconnecting">Disconnecting...</string>
-  <string name="blt_hint_paring">"%1s
- to pair?"</string>
-  <string name="blt_paring_fail_hint">"Make sure device power on
-and is nearby"</string>
-  <string name="blt_hint_disconnect_device">Disconnect</string>
-  <string name="blt_hint_ignore_device">Ignore</string>
-  <string name="blt_hint_connect_device">Connect</string>
-  <string name="bluetooth_connected">Connected</string>
-  <string name="bluetooth_disconnected">Disconnected</string>
-  <string name="bluetooth_connecting_error_message">"Couldn't connect to %1$s."</string>
-  <string name="bluetooth_pairing_pin_error_message">"Couldn't pair with %1$s because of an incorrect PIN or passkey."</string>
-  <string name="bluetooth_pairing_device_down_error_message">"Can't communicate with %1$s."</string>
-  <string name="bluetooth_pairing_rejected_error_message">Pairing rejected by %1$s.</string>
-  <string name="bluetooth_turning_on">Turning Bluetooth on…</string>
-  <string name="bluetooth_turning_off">Turning Bluetooth off…</string>
-  <string name="bluetooth_enabled">Bluetooth is ON</string>
-  <string name="bluetooth_disabled">Bluetooth is OFF</string>
-  <string name="bluetooth_unknown">Unknown state</string>
-  <string name="bluetooth_disconnect_title">Disconnect?</string>
-  <string name="bluetooth_connect_title">Connect?</string>
-  <string name="blt_confirm_ignore">Are you sure you want to ignore this device?</string>
-  <string name="phone_finding">Locating phone...</string>
+  <string name="button_cancel">Отмена</string>
+  <string name="blt_cancel_paring">Отмена сопряжения</string>
+  <string name="bluetooth_pairing_error_message">Сбой сопряжения</string>
+  <string name="bluetooth_connecting">Подключение...</string>
+  <string name="bluetooth_disconnecting">Отключение...</string>
+  <string name="blt_hint_paring">\"%1s
+ сопрягать?\"
+ </string>
+  <string name="blt_paring_fail_hint">"Убедитесь, что устройство включено
+и находится поблизости "</string>
+  <string name="blt_hint_disconnect_device">Отключен</string>
+  <string name="blt_hint_ignore_device">Игнорировать</string>
+  <string name="blt_hint_connect_device">Подключение</string>
+  <string name="bluetooth_connected">Подключено</string>
+  <string name="bluetooth_disconnected">Отключено</string>
+  <string name="bluetooth_connecting_error_message">"Не удалось подключиться к %1$s."</string>
+  <string name="bluetooth_pairing_pin_error_message">"Невозможно сопряжение с %1$s из-за неправильного PIN-кода или пароля."</string>
+  <string name="bluetooth_pairing_device_down_error_message">"Не возможно установить связь с %1$s."</string>
+  <string name="bluetooth_pairing_rejected_error_message">Сопряжение отвергнуто %1$s.</string>
+  <string name="bluetooth_turning_on">Включение Bluetooth…</string>
+  <string name="bluetooth_turning_off">Отключение Bluetooth…</string>
+  <string name="bluetooth_enabled">Bluetooth Вкл</string>
+  <string name="bluetooth_disabled">Bluetooth выкл</string>
+  <string name="bluetooth_unknown">Неизвестное состояние</string>
+  <string name="bluetooth_disconnect_title">Разъединенен?</string>
+  <string name="bluetooth_connect_title">Подключен?</string>
+  <string name="blt_confirm_ignore">Вы уверены, что хотите проигнорировать это устройство?</string>
+  <string name="phone_finding">Поиск телефона...</string>
   <string name="phone_found">Phone found</string>
   <string name="phone_not_connected">Телефон не подключен</string>
   <string name="phone_not_found">Телефон не найден</string>
