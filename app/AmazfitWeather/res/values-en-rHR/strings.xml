@@ -65,9 +65,9 @@
   <string name="fetch_failed_help">Najprije sinkronizirajte informacije o vremenu</string>
   <string name="cancel">Odustani</string>
   <string name="data_check_log">+------------------------+▂▃▄▅▆▇█▉ 天 气 数 据 校 验 出 错 ！ %1$s▉█▇▆▅▄▃▂+------------------------+</string>
-  <string name="data_checkfail_type">Vrsta vremena nije prepoznata</string>
-  <string name="data_checkfail_temp">Temperatura izvan raspona</string>
-  <string name="data_checkfail_match">Polje vrste vremena ne odgovara</string>
+  <string name="data_checkfail_type">Nije moguće prepoznati vrstu vremena</string>
+  <string name="data_checkfail_temp">Vremenska temperatura izvan raspona</string>
+  <string name="data_checkfail_match">Polja vrste vremena ne odgovaraju</string>
   <string name="data_checkfail_json">Pogreška JSON formata</string>
   <string name="wind_breeze">Povjetarac</string>
   <string name="wind_rotating">Pijavica</string>

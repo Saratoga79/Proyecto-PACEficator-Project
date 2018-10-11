@@ -92,7 +92,7 @@
   <string name="battery_continue_time_unit"> godz.</string>
   <string name="battery_split"> / </string>
   <string name="suggest_reset_time">Czas na pełną regenerację %1$s godz.</string>
-  <string name="remain_time_recovery">&lt;Data&gt;Czas na pełną regener. &amp;nbsp;&lt;font color=#00ff00&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;/font&gt;&amp;nbsp; h&lt;/Data&gt;</string>
+  <string name="remain_time_recovery"><Data>Czas na pełną regener. &amp;nbsp;&lt;font color=#00ff00&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;/font&gt;&amp;nbsp; h</Data></string>
   <string name="more_sport_tint">Więcej</string>
   <string name="zh_space">　</string>
   <string name="en_space"> </string>
@@ -373,7 +373,7 @@
   <string name="skiing_remind_next_interval_train">Następna przerwa</string>
   <string name="skiing_remind_click_finsh_this_train_unit">Po klikn.przycisku</string>
   <string name="skiing_interval_train_complete">Interwał zakończony</string>
-  <string name="skiing_interval_train_complete_pause_tip">"Pauza w ruchu"</string>
+  <string name="skiing_interval_train_complete_pause_tip">Pauza w ruchu</string>
   <string name="skiing_above_skiing_spped">Powyżej %1$s przypomnienie</string>
   <string name="skiing_lap_downhill_dis_title">Przesuwanie przebiegu w dół</string>
   <string name="sport_history_total_stokes">Cał.li.uderzeń</string>
@@ -849,7 +849,7 @@
   <string name="widget_sport_item_running_title">Bieganie</string>
   <string name="wait_gps_no_gps_signal">GPS jest niedostępny, spróbuj w otwartym terenie</string>
   <string name="wait_gps_hint">Sygnał GPS jest lepszy w otwartej przestrzeni z dala od budynków</string>
-  <string name="wait_gps_success">"GPS dostępny, można rozpocząć trening"</string>
+  <string name="wait_gps_success">GPS dostępny, można rozpocząć trening</string>
   <string name="wait_gps_search_retry">Ponów</string>
   <string name="sport_pause_heart_shown">--</string>
   <string name="lock_screen">Ekran zabl.</string>
@@ -900,7 +900,7 @@
   <string name="remind_heart_rate_region_less">Tętno jest za niskie</string>
   <string name="remind_heart_rate_current_heart_rate">Aktualne　%1$d bpm</string>
   <string name="sport_time_seconds">sekundy</string>
-  <string name="complete_training_project">"Program trningu został zakoń."</string>
+  <string name="complete_training_project">Program trningu został zakoń.</string>
   <string name="reminder_speed_unit">/h</string>
   <string name="remind_target_distance_training_title_format">Bieg %1sKm</string>
   <string name="remind_target_time_training_title_format">Jazda %1$dMin</string>

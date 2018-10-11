@@ -92,7 +92,7 @@
   <string name="battery_continue_time_unit"> hrs</string>
   <string name="battery_split"> / </string>
   <string name="suggest_reset_time">Time to full recovery %1$s hrs</string>
-  <string name="remain_time_recovery">&lt;Data&gt;Time to full recovery&amp;nbsp;&lt;font color=#00ff00&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;/font&gt;&amp;nbsp; h&lt;/Data&gt;</string>
+  <string name="remain_time_recovery"><Data>Time to full recovery&amp;nbsp;&lt;font color=#00ff00&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;/font&gt;&amp;nbsp; h</Data></string>
   <string name="more_sport_tint">More</string>
   <string name="zh_space">　</string>
   <string name="en_space"> </string>
@@ -373,7 +373,7 @@
   <string name="skiing_remind_next_interval_train">Next Interval</string>
   <string name="skiing_remind_click_finsh_this_train_unit">Press Lap Key</string>
   <string name="skiing_interval_train_complete">Interval Complete</string>
-  <string name="skiing_interval_train_complete_pause_tip">"Pausing the Activity"</string>
+  <string name="skiing_interval_train_complete_pause_tip">Pausing the Activity</string>
   <string name="skiing_above_skiing_spped">Alert when speed &gt; %1$s</string>
   <string name="skiing_lap_downhill_dis_title">Mesafe</string>
   <string name="sport_history_total_stokes">Total Strokes</string>
@@ -455,7 +455,7 @@
   <string name="sport_target_remind_status_maintaining">Maintaining</string>
   <string name="sport_target_remind_status_improving">Improving</string>
   <string name="sport_target_remind_status_count"></string>
-  <string name="sport_target_remind_title_01">3.5TE|30-25分钟|5公里</string>
+  <string name="sport_target_remind_title_01">3.5 TE|30-25 min|5 km</string>
   <string name="sport_target_remind_title_01_normal">%1$sTE|%2$sMinute|%3$sKilometre</string>
   <string name="sport_target_remind_time_min">Minute</string>
   <string name="sport_run_train_title">Running Train</string>
@@ -849,7 +849,7 @@
   <string name="widget_sport_item_running_title">Koşuluyor</string>
   <string name="wait_gps_no_gps_signal">GPS bulunamıyor, lütfen açık bir alanda tekrar deneyin</string>
   <string name="wait_gps_hint">GPS sinyali binalardan uzakta açık alanda daha iyidir</string>
-  <string name="wait_gps_success">"GPS mevcut, şimdi egzersize başlayabilirsiniz"</string>
+  <string name="wait_gps_success">GPS mevcut, şimdi egzersize başlayabilirsiniz</string>
   <string name="wait_gps_search_retry">Yeniden dene</string>
   <string name="sport_pause_heart_shown">--</string>
   <string name="lock_screen">Ekran kilitlendi</string>
@@ -900,7 +900,7 @@
   <string name="remind_heart_rate_region_less">Kalp hızı çok düşük</string>
   <string name="remind_heart_rate_current_heart_rate">Current　%1$d bpm</string>
   <string name="sport_time_seconds">seconds</string>
-  <string name="complete_training_project">"Eğitim programı tamamlandı"</string>
+  <string name="complete_training_project">Eğitim programı tamamlandı</string>
   <string name="reminder_speed_unit">/h</string>
   <string name="remind_target_distance_training_title_format">Koşu %1s Km</string>
   <string name="remind_target_time_training_title_format">Binme%1$dDk</string>

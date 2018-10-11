@@ -119,7 +119,7 @@
   <string name="accessibility_desc_on">Вкл.</string>
   <string name="accessibility_desc_off">Выкл.</string>
   <string name="accessibility_desc_connected">Подключен.</string>
-  <string name="accessibility_desc_connecting">Connecting.</string>
+  <string name="accessibility_desc_connecting">Подключение.</string>
   <string name="accessibility_data_connection_gprs">GPRS</string>
   <string name="accessibility_data_connection_1x">1 X</string>
   <string name="accessibility_data_connection_hspa">HSPA</string>
@@ -191,59 +191,59 @@
   <string name="data_usage_disabled_dialog_4g_title">4G данные отключены</string>
   <string name="data_usage_disabled_dialog_mobile_title">Сотовые данные отключены</string>
   <string name="data_usage_disabled_dialog_title">Данные выключены</string>
-  <string name="data_usage_disabled_dialog">"Your device turned off data because it reached the limit you set.
+  <string name="data_usage_disabled_dialog">"Ваше устройство отключено от данных, поскольку оно достигло установленного вами предела.
 
-Turning it back on may lead to charges from your carrier."</string>
+Включение его обратно может привести потребовать дополнительной платы вашему оператору."</string>
   <string name="data_usage_disabled_dialog_enable">Включить данные</string>
-  <string name="status_bar_settings_signal_meter_disconnected">No Internet connection</string>
-  <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi connected</string>
-  <string name="gps_notification_searching_text">Searching for GPS</string>
-  <string name="gps_notification_found_text">Location set by GPS</string>
-  <string name="accessibility_location_active">Location requests active</string>
-  <string name="accessibility_clear_all">Clear all notifications.</string>
-  <string name="status_bar_notification_inspect_item_title">Notification settings</string>
-  <string name="status_bar_notification_app_settings_title">%s settings</string>
-  <string name="accessibility_rotation_lock_off">Screen will rotate automatically.</string>
-  <string name="accessibility_rotation_lock_on_landscape">Screen is locked in landscape orientation.</string>
-  <string name="accessibility_rotation_lock_on_portrait">Screen is locked in portrait orientation.</string>
-  <string name="accessibility_rotation_lock_off_changed">Screen will now rotate automatically.</string>
-  <string name="accessibility_rotation_lock_on_landscape_changed">Screen is now locked in landscape orientation.</string>
-  <string name="accessibility_rotation_lock_on_portrait_changed">Screen is now locked in portrait orientation.</string>
-  <string name="dessert_case">Dessert Case</string>
-  <string name="start_dreams">Daydream</string>
+  <string name="status_bar_settings_signal_meter_disconnected">Нет подключения к Интернету</string>
+  <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi подключен</string>
+  <string name="gps_notification_searching_text">Поиск GPS</string>
+  <string name="gps_notification_found_text">Координаты определяются по GPS</string>
+  <string name="accessibility_location_active">Активные запросы местоположения</string>
+  <string name="accessibility_clear_all">Удалить все уведомления.</string>
+  <string name="status_bar_notification_inspect_item_title">Настройки оповещений</string>
+  <string name="status_bar_notification_app_settings_title">%s настройки</string>
+  <string name="accessibility_rotation_lock_off">Экран будет вращаться автоматически.</string>
+  <string name="accessibility_rotation_lock_on_landscape">Выбрана только ландшафтная ориентация экрана.</string>
+  <string name="accessibility_rotation_lock_on_portrait">Выбрана только портретная ориентация экрана.</string>
+  <string name="accessibility_rotation_lock_off_changed">Автоповорот экрана включен.</string>
+  <string name="accessibility_rotation_lock_on_landscape_changed">Выбрана только ландшафтная ориентация экрана.</string>
+  <string name="accessibility_rotation_lock_on_portrait_changed">Выбрана только портретная ориентация экрана.</string>
+  <string name="dessert_case">Время десерта</string>
+  <string name="start_dreams">Мечта</string>
   <string name="ethernet_label">Ethernet</string>
-  <string name="quick_settings_airplane_mode_label">Airplane mode</string>
+  <string name="quick_settings_airplane_mode_label">Режим самолета</string>
   <string name="quick_settings_bluetooth_label">Bluetooth</string>
-  <string name="quick_settings_bluetooth_multiple_devices_label">Bluetooth (%d Devices)</string>
-  <string name="quick_settings_bluetooth_off_label">Bluetooth Off</string>
-  <string name="quick_settings_bluetooth_detail_empty_text">No paired devices available</string>
-  <string name="quick_settings_brightness_label">Brightness</string>
-  <string name="quick_settings_rotation_unlocked_label">Auto-rotate</string>
-  <string name="quick_settings_rotation_locked_label">Rotation locked</string>
-  <string name="quick_settings_rotation_locked_portrait_label">Portrait</string>
-  <string name="quick_settings_rotation_locked_landscape_label">Landscape</string>
-  <string name="quick_settings_ime_label">Input Method</string>
-  <string name="quick_settings_location_label">Location</string>
-  <string name="quick_settings_location_off_label">Location Off</string>
-  <string name="quick_settings_media_device_label">Media device</string>
+  <string name="quick_settings_bluetooth_multiple_devices_label">Bluetooth (%d устройства)</string>
+  <string name="quick_settings_bluetooth_off_label">Bluetooth выключен</string>
+  <string name="quick_settings_bluetooth_detail_empty_text">Нет доступных устройств</string>
+  <string name="quick_settings_brightness_label">Яркость</string>
+  <string name="quick_settings_rotation_unlocked_label">Автоповорот</string>
+  <string name="quick_settings_rotation_locked_label">Автоповорот отключен</string>
+  <string name="quick_settings_rotation_locked_portrait_label">Портреная ориентация</string>
+  <string name="quick_settings_rotation_locked_landscape_label">Альбомная ориентация</string>
+  <string name="quick_settings_ime_label">Метод ввода</string>
+  <string name="quick_settings_location_label">Местоположение</string>
+  <string name="quick_settings_location_off_label">Геолокация отключена</string>
+  <string name="quick_settings_media_device_label">Устройства мультимедиа</string>
   <string name="quick_settings_rssi_label">RSSI</string>
-  <string name="quick_settings_rssi_emergency_only">Emergency Calls Only</string>
-  <string name="quick_settings_settings_label">Settings</string>
-  <string name="quick_settings_time_label">Time</string>
-  <string name="quick_settings_user_label">Me</string>
-  <string name="quick_settings_user_title">User</string>
+  <string name="quick_settings_rssi_emergency_only">Только экстренные вызовы</string>
+  <string name="quick_settings_settings_label">Настройки</string>
+  <string name="quick_settings_time_label">Время</string>
+  <string name="quick_settings_user_label">Меня</string>
+  <string name="quick_settings_user_title">Пользователь</string>
   <string name="quick_settings_user_new_user">Новый пользователь</string>
-  <string name="quick_settings_wifi_label">Wi-Fi</string>
-  <string name="quick_settings_wifi_not_connected">Not Connected</string>
-  <string name="quick_settings_wifi_no_network">No Network</string>
-  <string name="quick_settings_wifi_off_label">Wi-Fi Off</string>
-  <string name="quick_settings_wifi_detail_empty_text">No saved networks available</string>
-  <string name="quick_settings_cast_title">Cast screen</string>
-  <string name="quick_settings_casting">Casting</string>
-  <string name="quick_settings_cast_device_default_name">Unnamed device</string>
-  <string name="quick_settings_cast_device_default_description">Ready to cast</string>
-  <string name="quick_settings_cast_detail_empty_text">No devices available</string>
-  <string name="quick_settings_brightness_dialog_title">Brightness</string>
+  <string name="quick_settings_wifi_label">WiFi</string>
+  <string name="quick_settings_wifi_not_connected">Не подключено</string>
+  <string name="quick_settings_wifi_no_network">Нет сети</string>
+  <string name="quick_settings_wifi_off_label">Wi-Fi выкл</string>
+  <string name="quick_settings_wifi_detail_empty_text">Нет сохраненных доступных сетей</string>
+  <string name="quick_settings_cast_title">Демонстрация экрана</string>
+  <string name="quick_settings_casting">Трансляция</string>
+  <string name="quick_settings_cast_device_default_name">Безымянные устройство</string>
+  <string name="quick_settings_cast_device_default_description">Готово к передаче</string>
+  <string name="quick_settings_cast_detail_empty_text">Нет доступных устройств</string>
+  <string name="quick_settings_brightness_dialog_title">Яркость</string>
   <string name="quick_settings_brightness_dialog_auto_brightness_label">Авто</string>
   <string name="quick_settings_inversion_label">Инвертировать цвета</string>
   <string name="quick_settings_color_space_label">Режим цветовой коррекции</string>
@@ -294,113 +294,112 @@ Turning it back on may lead to charges from your carrier."</string>
   <string name="interruption_level_all">Все</string>
   <string name="keyguard_indication_charging_time">Зарядка (%s до окончания)</string>
   <string name="accessibility_multi_user_switch_switcher">Сменить пользователя</string>
-  <string name="accessibility_multi_user_switch_switcher_with_current">Switch user, current user %s</string>
-  <string name="accessibility_multi_user_switch_quick_contact">Show profile</string>
-  <string name="user_add_user">Add user</string>
-  <string name="user_new_user_name">New user</string>
-  <string name="guest_nickname">Guest</string>
-  <string name="guest_new_guest">Add guest</string>
-  <string name="guest_exit_guest">Remove guest</string>
-  <string name="guest_exit_guest_dialog_title">Remove guest?</string>
-  <string name="guest_exit_guest_dialog_message">All apps and data in this session will be deleted.</string>
-  <string name="guest_exit_guest_dialog_remove">Remove</string>
-  <string name="guest_wipe_session_title">Welcome back, guest!</string>
-  <string name="guest_wipe_session_message">Do you want to continue your session?</string>
-  <string name="guest_wipe_session_wipe">Start over</string>
-  <string name="guest_wipe_session_dontwipe">Yes, continue</string>
-  <string name="user_add_user_title">Add new user?</string>
-  <string name="user_add_user_message_short">"When you add a new user, that person needs to set up their space.
+  <string name="accessibility_multi_user_switch_switcher_with_current">Смена пользователя, текущий пользователь %s</string>
+  <string name="accessibility_multi_user_switch_quick_contact">Показать профиль</string>
+  <string name="user_add_user">Добавить пользователя</string>
+  <string name="user_new_user_name">Новый пользователь</string>
+  <string name="guest_nickname">Гость</string>
+  <string name="guest_new_guest">Добавить гостя</string>
+  <string name="guest_exit_guest">Удалить аккаунт гостя</string>
+  <string name="guest_exit_guest_dialog_title">Удалить гостя?</string>
+  <string name="guest_exit_guest_dialog_message">Будут удалены все приложения и данные в этом сеансе.</string>
+  <string name="guest_exit_guest_dialog_remove">Удалить</string>
+  <string name="guest_wipe_session_title">Добро пожаловать, гость!</string>
+  <string name="guest_wipe_session_message">Вы хотите продолжить сеанс?</string>
+  <string name="guest_wipe_session_wipe">Начать заново</string>
+  <string name="guest_wipe_session_dontwipe">Да, продолжить</string>
+  <string name="user_add_user_title">Добавить нового пользователя?</string>
+  <string name="user_add_user_message_short">«При добавлении нового пользователя, нужно настроить его пространство.
 
-Any user can update apps for all other users."</string>
-  <string name="battery_saver_notification_title">Battery saver is on</string>
-  <string name="battery_saver_notification_text">Reduces performance and background data</string>
-  <string name="battery_saver_notification_action_text">Turn off battery saver</string>
-  <string name="notification_hidden_text">Contents hidden</string>
-  <string name="media_projection_dialog_text">"%s will start capturing everything that's displayed on your screen."</string>
-  <string name="media_projection_remember_text">"Don't show again"</string>
-  <string name="clear_all_notifications_text">Clear all</string>
-  <string name="media_projection_action_text">Start now</string>
-  <string name="empty_shade_text">No notifications</string>
-  <string name="device_owned_footer">Device may be monitored</string>
-  <string name="profile_owned_footer">Profile may be monitored</string>
-  <string name="vpn_footer">Network may be monitored</string>
-  <string name="monitoring_title_device_owned">Device monitoring</string>
-  <string name="monitoring_title_profile_owned">Profile monitoring</string>
-  <string name="monitoring_title">Network monitoring</string>
-  <string name="disable_vpn">Disable VPN</string>
-  <string name="disconnect_vpn">Disconnect VPN</string>
-  <string name="monitoring_description_device_owned">"This device is managed by:
+любой пользователь может обновить приложения для всех остальных пользователей.»</string>
+  <string name="battery_saver_notification_title">Режим энергосбережения включен</string>
+  <string name="battery_saver_notification_text">Снижает производительность и фоновые данные</string>
+  <string name="battery_saver_notification_action_text">Отключить режим энергосбережения</string>
+  <string name="notification_hidden_text">Содержимое скрыто</string>
+  <string name="media_projection_dialog_text">"%s будет начат захват всего, что отображается на экране."</string>
+  <string name="media_projection_remember_text">"Не показывать снова"</string>
+  <string name="clear_all_notifications_text">Очистить все</string>
+  <string name="media_projection_action_text">Начните прямо сейчас</string>
+  <string name="empty_shade_text">Нет уведомлений</string>
+  <string name="device_owned_footer">Устройство может отслеживаться</string>
+  <string name="profile_owned_footer">Профиль может контролироваться</string>
+  <string name="vpn_footer">Сеть может контролироваться</string>
+  <string name="monitoring_title_device_owned">Отслеживание устройств</string>
+  <string name="monitoring_title_profile_owned">Мониторинг профиля</string>
+  <string name="monitoring_title">Мониторинг сети</string>
+  <string name="disable_vpn">Отключить VPN</string>
+  <string name="disconnect_vpn">Отсоединить VPN</string>
+  <string name="monitoring_description_device_owned">"Это устройство управляется:
 %1$s
 
-Your administrator can monitor your device and network activity, including emails, apps and secure websites.
+Ваш администратор может следить за активностью вашей сети и устройства, включая сообщения электронной почты, приложения и безопасность вебсайтов.
 
-For more information, contact your administrator."</string>
-  <string name="monitoring_description_vpn">"You gave \"%1$s\" permission to set up a VPN connection.
+Для получения дополнительной информации, обратитесь к администратору."</string>
+  <string name="monitoring_description_vpn">"Вы дали разрешение \"%1$s\", чтобы настроить VPN-подключение.
 
-This app can monitor your device and network activity, including emails, apps and secure websites."</string>
-  <string name="monitoring_description_legacy_vpn">"You\'re connected to a VPN (\"%1$s\").
+Это приложение может следить за активностью вашей сети и устройства, включая сообщения электронной почты, приложений и безопасных веб-сайтов."</string>
+  <string name="monitoring_description_legacy_vpn">"Вы подключены к сети VPN («%1$s»).
 
-Your VPN service provider can monitor your device and network activity including emails, apps, and secure websites."</string>
-  <string name="monitoring_description_vpn_device_owned">"This device is managed by:
+Ваш VPN провайдер может контролировать ваши устройства и сети, включая сообщения электронной почты, приложения и безопасность веб-сайтов."</string>
+  <string name="monitoring_description_vpn_device_owned">\"Это устройство управляется:
 %1$s
 
-Your administrator is capable of monitoring your network activity including emails, apps, and secure websites. For more information, contact your administrator.
+Ваш администратор способен отслеживать вашу сетевую активность, включая электронные письма, приложения и защищенные веб-сайты. Для получения дополнительной информации обратитесь к администратору.
 
-Also, you gave \"%2$s\" permission to set up a VPN connection. This app can monitor network activity too."</string>
-  <string name="monitoring_description_legacy_vpn_device_owned">"This device is managed by:
+Кроме то, вы дали \"%2$s\" разрешение на создание VPN-соединения. Это приложение также может контролировать сетевую активность.\"
+ </string>
+  <string name="monitoring_description_legacy_vpn_device_owned">"Управление этим устройством осуществляется:
 %1$s
 
-Your administrator is capable of monitoring your network activity including emails, apps, and secure websites. For more information, contact your administrator.
+Ваш администратор способен отслеживать вашу сетевую активность, включая электронные письма, приложения и защищенные веб-сайты. Для получения дополнительной информации обратитесь к администратору.
 
-Also, you\'re connected to a VPN (\"%2$s\"). Your VPN service provider can monitor network activity too."</string>
-  <string name="monitoring_description_profile_owned">"This profile is managed by:
+Кроме того, вы подключены к VPN («%2$s»). Ваш поставщик услуг VPN также может контролировать сетевую активность."</string>
+  <string name="monitoring_description_profile_owned">"Это устройство управляется:
 %1$s
 
-Your administrator can monitor your device and network activity, including emails, apps and secure websites.
+Ваш администратор может следить за активностью вашей сети и устройства, включая сообщения электронной почты, приложения и безопасность вебсайтов.
 
-For more information, contact your administrator."</string>
-  <string name="monitoring_description_device_and_profile_owned">"This device is managed by:
+Для получения дополнительной информации, обратитесь к администратору."</string>
+  <string name="monitoring_description_device_and_profile_owned">"Это устройство управляется:
 %1$s
-Your profile is managed by:
+
+Ваш администратор может следить за активностью вашей сети и устройства, включая сообщения электронной почты, приложения и безопасность вебсайтов.
+
+Для получения дополнительной информации, обратитесь к администратору."</string>
+  <string name="monitoring_description_vpn_profile_owned">"Этот профиль управляется:
+%1$s
+
+Ваш администратор способен отслеживать вашу сетевую активность, включая электронные письма, приложения и защищенные веб-сайты. Для получения дополнительной информации обратитесь к администратору.
+
+Кроме то, вы дали \"%2$s\" разрешение на создание VPN-соединения. Это приложение также может контролировать сетевую активность."
+</string>
+  <string name="monitoring_description_legacy_vpn_profile_owned">"Управление этим устройством осуществляется:
+%1$s
+
+Ваш администратор способен отслеживать вашу сетевую активность, включая электронные письма, приложения и защищенные веб-сайты. Для получения дополнительной информации обратитесь к администратору.
+
+Кроме того, вы подключены к VPN («%2$s»). Ваш поставщик услуг VPN также может контролировать сетевую активность."</string>
+  <string name="monitoring_description_vpn_device_and_profile_owned">"Это устройство управляется:
+%1$s
+
+Ваш администратор способен отслеживать вашу сетевую активность, включая электронные письма, приложения и защищенные веб-сайты. Для получения дополнительной информации обратитесь к администратору.
+
+Кроме то, вы дали \"%2$s\" разрешение на создание VPN-соединения. Это приложение также может контролировать сетевую активность."
+</string>
+  <string name="monitoring_description_legacy_vpn_device_and_profile_owned">"Управление этим устройством осуществляется:
+%1$s
+Ваш профиль управляется:
 %2$s
 
-Your administrator can monitor your device and network activity, including emails, apps and secure websites.
+Ваш администратор способен отслеживать вашу сетевую активность, включая электронные письма, приложения и защищенные веб-сайты. Для получения дополнительной информации обратитесь к администратору.
 
-For more information, contact your administrator."</string>
-  <string name="monitoring_description_vpn_profile_owned">"This profile is managed by:
-%1$s
-
-Your administrator is capable of monitoring your network activity including emails, apps, and secure websites. For more information, contact your administrator.
-
-Also, you gave \"%2$s\" permission to set up a VPN connection. This app can monitor network activity too."</string>
-  <string name="monitoring_description_legacy_vpn_profile_owned">"This profile is managed by:
-%1$s
-
-Your administrator is capable of monitoring your network activity including emails, apps, and secure websites. For more information, contact your administrator.
-
-Also, you\'re connected to a VPN (\"%2$s\"). Your VPN service provider can monitor network activity too."</string>
-  <string name="monitoring_description_vpn_device_and_profile_owned">"This device is managed by:
-%1$s
-Your profile is managed by:
-%2$s
-
-Your administrator is capable of monitoring your network activity including emails, apps, and secure websites. For more information, contact your administrator.
-
-Also, you gave \"%3$s\" permission to set up a VPN connection. This app can monitor network activity too."</string>
-  <string name="monitoring_description_legacy_vpn_device_and_profile_owned">"This device is managed by:
-%1$s
-Your profile is managed by:
-%2$s
-
-Your administrator is capable of monitoring your network activity including emails, apps, and secure websites. For more information, contact your administrator.
-
-Also, you\'re connected to a VPN (\"%3$s\"). Your VPN service provider can monitor network activity too."</string>
-  <string name="keyguard_indication_trust_disabled">Device will stay locked until you manually unlock</string>
-  <string name="hidden_notifications_title">Get notifications faster</string>
-  <string name="hidden_notifications_text">See them before you unlock</string>
-  <string name="hidden_notifications_cancel">No thanks</string>
-  <string name="hidden_notifications_setup">Set up</string>
-  <string name="zen_mode_and_condition">%1$s. %2$s</string>
+Кроме того, вы подключены к VPN («%2$s»). Ваш поставщик услуг VPN также может контролировать сетевую активность."</string>
+  <string name="keyguard_indication_trust_disabled">Устройство будет оставаться заблокированным до тех пор, пока вы не разблокировать вручную</string>
+  <string name="hidden_notifications_title">Быстрый доступ к уведомлениям</string>
+  <string name="hidden_notifications_text">Просматривайте уведомления на заблокированном экране</string>
+  <string name="hidden_notifications_cancel">Нет, спасибо</string>
+  <string name="hidden_notifications_setup">Установить</string>
+  <string name="zen_mode_and_condition">%1$s.%2$s</string>
   <string name="screen_pinning_title">Блокировка в приложении включена</string>
   <string name="screen_pinning_description">Приложение останется активным, пока вы не отмените блокировку, одновременно нажав кнопки Назад и Обзор.</string>
   <string name="screen_pinning_description_accessible">Приложение останется активным, пока вы не отмените блокировку, нажмите и удерживайте кнопку Обзор.</string>
@@ -454,56 +453,56 @@ Also, you\'re connected to a VPN (\"%3$s\"). Your VPN service provider can monit
   <string name="keyguard_accessibility_camera">Камера</string>
   <string name="keygaurd_accessibility_media_controls">Управление мультимедиа</string>
   <string name="keyguard_accessibility_widget_reorder_start">Началось переупорядочение виджетов.</string>
-  <string name="keyguard_accessibility_widget_reorder_end">Widget reordering ended.</string>
-  <string name="keyguard_accessibility_widget_deleted">Widget %1$s deleted.</string>
-  <string name="keyguard_accessibility_expand_lock_area">Expand unlock area.</string>
-  <string name="keyguard_accessibility_slide_unlock">Slide unlock.</string>
-  <string name="keyguard_accessibility_pattern_unlock">Pattern unlock.</string>
-  <string name="keyguard_accessibility_face_unlock">Face unlock.</string>
-  <string name="keyguard_accessibility_pin_unlock">Pin unlock.</string>
-  <string name="keyguard_accessibility_password_unlock">Password unlock.</string>
-  <string name="keyguard_accessibility_pattern_area">Pattern area.</string>
-  <string name="keyguard_accessibility_slide_area">Slide area.</string>
-  <string name="keyguard_accessibility_pin_area">PIN area</string>
-  <string name="keyguard_accessibility_sim_pin_area">SIM PIN area</string>
-  <string name="keyguard_accessibility_sim_puk_area">SIM PUK area</string>
-  <string name="keyguard_accessibility_transport_prev_description">Previous track button</string>
-  <string name="keyguard_accessibility_transport_next_description">Next track button</string>
-  <string name="keyguard_accessibility_transport_pause_description">Pause button</string>
-  <string name="keyguard_accessibility_transport_play_description">Play button</string>
-  <string name="keyguard_accessibility_transport_stop_description">Stop button</string>
-  <string name="keyguard_accessibility_transport_thumbs_up_description">Thumbs up</string>
-  <string name="keyguard_accessibility_transport_thumbs_down_description">Thumbs down</string>
-  <string name="keyguard_accessibility_transport_heart_description">Heart</string>
-  <string name="keyguard_accessibility_show_bouncer">Unlock to continue</string>
-  <string name="keyguard_accessibility_hide_bouncer">Launch canceled</string>
-  <string name="keyguard_accessibility_delete_widget_start">Drop %1$s to delete.</string>
-  <string name="keyguard_accessibility_delete_widget_end">%1$s will not be deleted.</string>
-  <string name="keyguard_accessibility_next_alarm">Next alarm set for %1$s</string>
+  <string name="keyguard_accessibility_widget_reorder_end">Закончилось переупорядочение виджетов.</string>
+  <string name="keyguard_accessibility_widget_deleted">Виджет %1$s удален.</string>
+  <string name="keyguard_accessibility_expand_lock_area">Развернуть область разблокировки.</string>
+  <string name="keyguard_accessibility_slide_unlock">Проведите для разблокировки.</string>
+  <string name="keyguard_accessibility_pattern_unlock">Графический ключ.</string>
+  <string name="keyguard_accessibility_face_unlock">Фейсконтроль.</string>
+  <string name="keyguard_accessibility_pin_unlock">PIN-код.</string>
+  <string name="keyguard_accessibility_password_unlock">Пароль.</string>
+  <string name="keyguard_accessibility_pattern_area">Область ввода графического ключа.</string>
+  <string name="keyguard_accessibility_slide_area">Область слайдера.</string>
+  <string name="keyguard_accessibility_pin_area">Область PIN</string>
+  <string name="keyguard_accessibility_sim_pin_area">Область SIM PIN</string>
+  <string name="keyguard_accessibility_sim_puk_area">Область SIM PUK</string>
+  <string name="keyguard_accessibility_transport_prev_description">Кнопка перехода к предыдущему треку</string>
+  <string name="keyguard_accessibility_transport_next_description">Кнопка перехода к следующему треку</string>
+  <string name="keyguard_accessibility_transport_pause_description">Кнопка паузы</string>
+  <string name="keyguard_accessibility_transport_play_description">Кнопка воспроизведения</string>
+  <string name="keyguard_accessibility_transport_stop_description">Кнопка Стоп</string>
+  <string name="keyguard_accessibility_transport_thumbs_up_description">Недурно</string>
+  <string name="keyguard_accessibility_transport_thumbs_down_description">Не годится</string>
+  <string name="keyguard_accessibility_transport_heart_description">Сердце</string>
+  <string name="keyguard_accessibility_show_bouncer">Разблокировать для продолжения</string>
+  <string name="keyguard_accessibility_hide_bouncer">Запуск отменен</string>
+  <string name="keyguard_accessibility_delete_widget_start">Капля %1$s для удаления.</string>
+  <string name="keyguard_accessibility_delete_widget_end">%1$s не будут удалены.</string>
+  <string name="keyguard_accessibility_next_alarm">Следующий будильник установлен на %1$s</string>
   <string name="password_keyboard_label_symbol_key">\?123</string>
-  <string name="password_keyboard_label_alpha_key">ABC</string>
-  <string name="password_keyboard_label_alt_key">ALT</string>
-  <string name="keyboardview_keycode_alt">Alt</string>
-  <string name="keyboardview_keycode_cancel">Cancel</string>
-  <string name="keyboardview_keycode_delete">Delete</string>
-  <string name="keyboardview_keycode_done">Done</string>
-  <string name="keyboardview_keycode_mode_change">Mode change</string>
+  <string name="password_keyboard_label_alpha_key">АБВ</string>
+  <string name="password_keyboard_label_alt_key">ВЫС</string>
+  <string name="keyboardview_keycode_alt">Выс</string>
+  <string name="keyboardview_keycode_cancel">Отмена</string>
+  <string name="keyboardview_keycode_delete">Удалить</string>
+  <string name="keyboardview_keycode_done">Готово</string>
+  <string name="keyboardview_keycode_mode_change">Режим изменения</string>
   <string name="keyboardview_keycode_shift">Shift</string>
-  <string name="keyboardview_keycode_enter">Enter</string>
-  <string name="description_target_unlock">Unlock</string>
-  <string name="description_target_camera">Camera</string>
-  <string name="description_target_silent">Silent</string>
-  <string name="description_target_soundon">Sound on</string>
-  <string name="description_direction_down">Slide down for %s.</string>
-  <string name="description_direction_right">Slide right for %s.</string>
-  <string name="user_switched">Current user %1$s.</string>
-  <string name="kg_emergency_call_label">Emergency call</string>
-  <string name="kg_forgot_pattern_button_text">Forgot Pattern</string>
-  <string name="kg_wrong_pattern">Wrong Pattern</string>
-  <string name="kg_wrong_password">Wrong Password</string>
-  <string name="kg_wrong_pin">Wrong PIN</string>
-  <string name="kg_too_many_failed_attempts_countdown">Try again in %d seconds.</string>
-  <string name="kg_pattern_instructions">Draw your pattern</string>
+  <string name="keyboardview_keycode_enter">Ввод</string>
+  <string name="description_target_unlock">Разблокировано</string>
+  <string name="description_target_camera">Камера</string>
+  <string name="description_target_silent">Без звука</string>
+  <string name="description_target_soundon">Включить звук</string>
+  <string name="description_direction_down">Сдвиньте вниз на% s.</string>
+  <string name="description_direction_right">Слайд вправо для %s.</string>
+  <string name="user_switched">Текущий пользователь %1$s.</string>
+  <string name="kg_emergency_call_label">Экстренный вызов</string>
+  <string name="kg_forgot_pattern_button_text">Забыли графический ключ</string>
+  <string name="kg_wrong_pattern">Неверный графический ключ</string>
+  <string name="kg_wrong_password">Неверный пароль</string>
+  <string name="kg_wrong_pin">Неверный PIN-код</string>
+  <string name="kg_too_many_failed_attempts_countdown">Повторите попытку через %d секунд.</string>
+  <string name="kg_pattern_instructions">Введите графический ключ</string>
   <string name="kg_sim_pin_instructions">Введите PIN-код SIM-карты</string>
   <string name="kg_sim_pin_instructions_multi">Введите PIN-код SIM-карты для «%1$s»</string>
   <string name="kg_pin_instructions">Введите PIN-код</string>

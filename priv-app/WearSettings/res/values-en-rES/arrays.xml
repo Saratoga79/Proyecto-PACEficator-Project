@@ -8,7 +8,7 @@
   </string-array>
   <string-array name="lab_item_logger">
     <item>[prim]WearLogger</item>
-    <item>[sum]A Key Press log ^_^</item>
+    <item>[sum]Informe en 1-click</item>
     <item>[pkg]com.huami.watch.wearlogger</item>
     <item>[clazz]com.huami.watch.wearlogger.AllLogActivityLab</item>
   </string-array>
@@ -19,7 +19,7 @@
   </string-array>
   <string-array name="lab_item_open_applist">
     <item>[prim]Applist del launcher</item>
-    <item>[sum]Activar applist</item>
+    <item>[sum]Des/Activar applist</item>
     <item>[sid]applist</item>
   </string-array>
   <string-array name="lab_item_bt_hci_snoop_log">
@@ -28,8 +28,8 @@
     <item>[sid]btsnoop</item>
   </string-array>
   <string-array name="lab_item_long_sitting_timer_plus">
-    <item>[prim]Recordatorio de sedentario</item>
-    <item>[sum]Ajusta el tiempo de recordatorio de sedentario</item>
+    <item>[prim]Tie. recordatorio sedentario</item>
+    <item>[sum]Establecer tie. recordatorio (min)</item>
     <item>[pkg]com.huami.mobile.watchsettings</item>
     <item>[clazz]com.huami.moblie.watchsettings.actions.lab.labUI.LongSittingTimeActivity</item>
   </string-array>
@@ -227,12 +227,12 @@
   <string-array name="sport_array">
     <item>Correr</item>
     <item>Caminar</item>
-    <item>Correr monte a través</item>
-    <item>Correr en interior</item>
-    <item>Ciclismo al aire libre</item>
+    <item>Carrera Trail</item>
+    <item>Spinning</item>
+    <item>Ciclismo</item>
     <item>Nat. en piscina</item>
-    <item>Nat. en abiertas</item>
-    <item>Ciclismo en interior</item>
+    <item>Nat. aguas abiertas</item>
+    <item>Spinning</item>
     <item>Elíptica</item>
     <item>Montañismo</item>
     <item>Triatlón</item>
@@ -240,12 +240,12 @@
   <string-array name="plugins_array">
     <item>Correr</item>
     <item>Caminar</item>
-    <item>Correr campo a través</item>
-    <item>Correr en interior</item>
-    <item>Ciclismo al aire libre</item>
+    <item>Carrera Trail</item>
+    <item>Spinning</item>
+    <item>Ciclismo</item>
     <item>Nat. en piscina</item>
-    <item>Nat. en abiertas</item>
-    <item>Ciclismo en interior</item>
+    <item>Nat. aguas abiertas</item>
+    <item>Spinning</item>
     <item>Elíptica</item>
     <item>Montañismo</item>
     <item>Triatlón</item>

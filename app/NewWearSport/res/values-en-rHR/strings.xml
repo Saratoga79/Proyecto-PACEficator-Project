@@ -92,7 +92,7 @@
   <string name="battery_continue_time_unit"> hrs</string>
   <string name="battery_split"> / </string>
   <string name="suggest_reset_time">Vrijeme do potpunog oporavka %1$s hr</string>
-  <string name="remain_time_recovery">&lt;Data&gt;Vrijeme do potpunog oporavka&amp;nbsp;&lt;font color=#00ff00&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;/font&gt;&amp;nbsp; h&lt;/Data&gt;</string>
+  <string name="remain_time_recovery"><Data>Vrijeme do potpunog oporavka&amp;nbsp;&lt;font color=#00ff00&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;/font&gt;&amp;nbsp; h</Data></string>
   <string name="more_sport_tint">Više</string>
   <string name="zh_space">　</string>
   <string name="en_space"> </string>
@@ -373,7 +373,7 @@
   <string name="skiing_remind_next_interval_train">Sljedeći Interval</string>
   <string name="skiing_remind_click_finsh_this_train_unit">Pritisnite tipku kruga</string>
   <string name="skiing_interval_train_complete">Interval dovršen</string>
-  <string name="skiing_interval_train_complete_pause_tip">"Pauziranje aktivnosti"</string>
+  <string name="skiing_interval_train_complete_pause_tip">Pauziranje aktivnosti</string>
   <string name="skiing_above_skiing_spped">Upozori kad je brzina &gt; %1$s</string>
   <string name="skiing_lap_downhill_dis_title">Udaljenost</string>
   <string name="sport_history_total_stokes">Udaraca</string>
@@ -407,7 +407,7 @@
   <string name="setting_reserve_heart_region_5">Zona 5</string>
   <string name="history_walk_exchange_title">Prijelaz u plivanje</string>
   <string name="virtual_rabbit_title">Virtualni zec</string>
-  <string name="virtual_rabbit_backward_distance">Udaljenost zaostatka</string>
+  <string name="virtual_rabbit_backward_distance">Udaljenost povratka</string>
   <string name="virtual_rabbit_backward_time">Vrijeme povratka</string>
   <string name="virtual_rabbit_lead_distance">Udaljenost vodstva</string>
   <string name="virtual_rabbit_lead_time">Vrijeme  vodstva</string>
@@ -417,7 +417,7 @@
   <string name="oritation_west">Z</string>
   <string name="oritation_north">S</string>
   <string name="outdoor_riding_speed_alert">Upozorenje brzine</string>
-  <string name="speed_too_low_remind_title">Prebrzo</string>
+  <string name="speed_too_low_remind_title">Presporo</string>
   <string name="swim_avg_stroke_speed">Prosj. SPM</string>
   <string name="running_button_save_modify">Kalibriraj</string>
   <string name="save_cur_location">Spremi trenutnu lokaciju</string>
@@ -455,7 +455,7 @@
   <string name="sport_target_remind_status_maintaining">Održavanje</string>
   <string name="sport_target_remind_status_improving">Poboljšanje</string>
   <string name="sport_target_remind_status_count"></string>
-  <string name="sport_target_remind_title_01">3.5TE|30-25min|5km</string>
+  <string name="sport_target_remind_title_01">3.5 TE|30-25 min|5 km</string>
   <string name="sport_target_remind_title_01_normal">%1$sTE|%2$smin|%3$skm</string>
   <string name="sport_target_remind_time_min">Minuta</string>
   <string name="sport_run_train_title">Traka za trčanje</string>
@@ -852,7 +852,7 @@ za učinkovitije vježbanje!"</string>
   <string name="widget_sport_item_running_title">Trčanje</string>
   <string name="wait_gps_no_gps_signal">GPS nije dostupan, pokušajte ponovo u otvorenom prostoru</string>
   <string name="wait_gps_hint">GPS signal je bolji na otvorenom prostoru daleko od zgrada</string>
-  <string name="wait_gps_success">"GPS je dostupan, sada možete početi vježbati"</string>
+  <string name="wait_gps_success">GPS je dostupan, sada možete početi vježbati</string>
   <string name="wait_gps_search_retry">Pokušaj ponovo</string>
   <string name="sport_pause_heart_shown">--</string>
   <string name="lock_screen">Zaslon je zaključan</string>
@@ -903,7 +903,7 @@ za učinkovitije vježbanje!"</string>
   <string name="remind_heart_rate_region_less">Broj otkucaja srca je prenizak</string>
   <string name="remind_heart_rate_current_heart_rate">Trenutno %1$d BPM</string>
   <string name="sport_time_seconds">sek</string>
-  <string name="complete_training_project">"Program treninga je završen"</string>
+  <string name="complete_training_project">Program treninga je završen</string>
   <string name="reminder_speed_unit">/h</string>
   <string name="remind_target_distance_training_title_format">Trčanje %1s km</string>
   <string name="remind_target_time_training_title_format">Jahanje %1$d min</string>

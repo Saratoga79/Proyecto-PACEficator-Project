@@ -58,17 +58,18 @@
   <string name="forecast">Прогноз погоды</string>
   <string name="fetching">Загрузка</string>
   <string name="fetch_failed">прием невозможен</string>
-  <string name="unknown">Неизвестно</string>
+  <string name="unknown">Неизвестный</string>
   <string name="fetch_failed_title">Невозможно загрузить данные о погоде</string>
   <string name="fetch_failed_msg">Убедитесь, что часы подключены к приложению на телефоне  и настроено местоположение.</string>
   <string name="date_time_format">MM-dd</string>
   <string name="fetch_failed_help">Пожалуйста, синхронизируйте данные о погоде</string>
   <string name="cancel">Отмена</string>
-  <string name="data_check_log">Проверка данных о погоде неверна </string>
-  <string name="data_checkfail_type">Неопознанный тип погоды</string>
-  <string name="data_checkfail_temp">Температура вне допустимого диапазона</string>
-  <string name="data_checkfail_match">Поле типа погоды не соответствует</string>
-  <string name="data_checkfail_json">Json неверный формат</string>
+  <string name="data_check_log">+------------------------+▂▃▄▅▆▇█▉ Проверка данных о погоде неверна%1$s▉█▇▆▅▄▃▂+------------------------+
+ </string>
+  <string name="data_checkfail_type">Не удается распознать тип Погоды</string>
+  <string name="data_checkfail_temp">Температура Погоды вне диапазона</string>
+  <string name="data_checkfail_match">Поля типа погоды не совпадают</string>
+  <string name="data_checkfail_json">Ошибка формата JSON</string>
   <string name="wind_breeze">Легкий ветер</string>
   <string name="wind_rotating">Вращение</string>
   <string name="wind_N">С</string>
@@ -86,7 +87,7 @@
   <string name="uv_power_litter_strong">Сильный</string>
   <string name="uv_power_strong">Сильный</string>
   <string name="uv_power_very_strong">Очень сильный</string>
-  <string name="average_text">В среднем</string>
+  <string name="average_text">Средний</string>
   <string name="menu_item_high_light_scale_factor">0.5</string>
   <string name="picker_default_positive_text">Подтвердите</string>
   <string name="picker_default_nagetive_text">Выключить</string>

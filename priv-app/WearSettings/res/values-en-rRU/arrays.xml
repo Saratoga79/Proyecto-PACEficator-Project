@@ -35,7 +35,7 @@
   </string-array>
   <string-array name="lab_item_wifi_signal_intensity">
     <item>[prim]Signal strength</item>
-    <item>[sum]Signal strength test</item>
+    <item>[sum] Тест силы сигнала</item>
     <item>[pkg]com.huami.mobile.watchsettings</item>
     <item>[clazz]com.huami.moblie.watchsettings.actions.lab.labUI.WifiTestActivity</item>
   </string-array>
@@ -45,85 +45,85 @@
     <item>[sid]pointer_location</item>
   </string-array>
   <string-array name="time_zone_ids">
-    <item>Pacific/Midway</item>
-    <item>Pacific/Honolulu</item>
-    <item>America/Anchorage</item>
-    <item>America/Los_Angeles</item>
-    <item>America/Tijuana</item>
-    <item>America/Phoenix</item>
-    <item>America/Chihuahua</item>
-    <item>America/Denver</item>
-    <item>America/Costa_Rica</item>
-    <item>America/Chicago</item>
-    <item>America/Mexico_City</item>
-    <item>America/Regina</item>
-    <item>America/Bogota</item>
-    <item>America/New_York</item>
-    <item>America/Caracas</item>
-    <item>America/Barbados</item>
-    <item>America/Manaus</item>
-    <item>America/St_Johns</item>
-    <item>America/Santiago</item>
-    <item>America/Argentina/Buenos_Aires</item>
-    <item>America/Godthab</item>
-    <item>America/Sao_Paulo</item>
-    <item>America/Montevideo</item>
-    <item>Atlantic/South_Georgia</item>
-    <item>Atlantic/Azores</item>
-    <item>Atlantic/Cape_Verde</item>
-    <item>Africa/Casablanca</item>
-    <item>Europe/London</item>
-    <item>Europe/Amsterdam</item>
-    <item>Europe/Belgrade</item>
-    <item>Europe/Brussels</item>
-    <item>Europe/Sarajevo</item>
-    <item>Africa/Brazzaville</item>
-    <item>Africa/Windhoek</item>
-    <item>Asia/Amman</item>
-    <item>Europe/Athens</item>
-    <item>Asia/Beirut</item>
-    <item>Africa/Cairo</item>
-    <item>Europe/Helsinki</item>
-    <item>Asia/Jerusalem</item>
-    <item>Africa/Harare</item>
-    <item>Europe/Minsk</item>
-    <item>Asia/Baghdad</item>
-    <item>Europe/Moscow</item>
-    <item>Asia/Kuwait</item>
-    <item>Africa/Nairobi</item>
-    <item>Asia/Tehran</item>
-    <item>Asia/Baku</item>
-    <item>Asia/Tbilisi</item>
-    <item>Asia/Yerevan</item>
-    <item>Asia/Dubai</item>
-    <item>Asia/Kabul</item>
-    <item>Asia/Karachi</item>
-    <item>Asia/Oral</item>
-    <item>Asia/Yekaterinburg</item>
-    <item>Asia/Calcutta</item>
-    <item>Asia/Colombo</item>
-    <item>Asia/Katmandu</item>
-    <item>Asia/Almaty</item>
-    <item>Asia/Rangoon</item>
-    <item>Asia/Krasnoyarsk</item>
-    <item>Asia/Bangkok</item>
-    <item>Asia/Shanghai</item>
-    <item>Asia/Hong_Kong</item>
-    <item>Asia/Irkutsk</item>
-    <item>Asia/Kuala_Lumpur</item>
-    <item>Australia/Perth</item>
-    <item>Asia/Taipei</item>
-    <item>Asia/Seoul</item>
-    <item>Asia/Tokyo</item>
-    <item>Asia/Yakutsk</item>
-    <item>Australia/Darwin</item>
-    <item>Australia/Brisbane</item>
-    <item>Asia/Vladivostok</item>
-    <item>Pacific/Guam</item>
-    <item>Asia/Magadan</item>
-    <item>Australia/Adelaide</item>
-    <item>Australia/Hobart</item>
-    <item>Australia/Sydney</item>
+    <item>Тихий океан/Мидуэй</item>
+    <item>Тихий океан/Гонолулу</item>
+    <item>Америка/Анкоридж</item>
+    <item>Америка/Лос-Анджелес</item>
+    <item>Америка/Тихуана</item>
+    <item>Америка/Феникс</item>
+    <item>Америка/Тихуана</item>
+    <item>Америка/Денвер</item>
+    <item>Америка/Коста-Рика</item>
+    <item>Америка/Чикаго</item>
+    <item>Америка/Мехико</item>
+    <item>Америка/Регина</item>
+    <item>Америка/Богота</item>
+    <item>Америка/Нью-Йорк</item>
+    <item>Америка/Каракас</item>
+    <item>Америка/Барбадос</item>
+    <item>Америка/Манаус</item>
+    <item>Америка/Сент-Джонс</item>
+    <item>Америка/Сантьяго</item>
+    <item>Америка/Аргентина/Буэнос-Айрес</item>
+    <item>Америка/Готхаб</item>
+    <item>Америка/Сан-Паулу</item>
+    <item>Америка/Монтевидео</item>
+    <item>Атлантика/Южная Джорджия</item>
+    <item>Атлантика/Азорские острова</item>
+    <item>Атлантика/Кабо-Верде</item>
+    <item>Атлантика/Касабланка</item>
+    <item>Европа/Лондон</item>
+    <item>Европа/Амстердам</item>
+    <item>Европа/Белград</item>
+    <item>Европа/Брюссель</item>
+    <item>Европа/Сараево</item>
+    <item>Африка/Браззавиль</item>
+    <item>Африка/Виндхук</item>
+    <item>Азия/Амман</item>
+    <item>Европа/Афины</item>
+    <item>Азия/Бейрут</item>
+    <item>Африка/Каир</item>
+    <item>Европа/Хельсинки</item>
+    <item>Азия/Иерусалим</item>
+    <item>Африка/Хараре</item>
+    <item>Европа/Минск</item>
+    <item>Азия/Багдад</item>
+    <item>Европа/Москва</item>
+    <item>Азия/Кувейт</item>
+    <item>Африка/Найроби</item>
+    <item>Азия/Тегеран</item>
+    <item>Азия/Баку</item>
+    <item>Азия/Тбилиси</item>
+    <item>Азия/Ереван</item>
+    <item>Азия/Дубай</item>
+    <item>Азия/Кабул</item>
+    <item>Азия/Карачи</item>
+    <item>Азия/Урал</item>
+    <item>Азия/Екатеринбург</item>
+    <item>Азия/Калькутта</item>
+    <item>Азия/Коломбо</item>
+    <item>Азия/Катманду</item>
+    <item>Азия/Алматы</item>
+    <item>Азия/Рангун</item>
+    <item>Азия/Красноярск</item>
+    <item>Азия/Бангкок</item>
+    <item>Азия/Шанхай</item>
+    <item>Азия/Гонконг</item>
+    <item>Азия/Иркутск</item>
+    <item>Азия/Куала-Лумпур</item>
+    <item>Австралия/Перт</item>
+    <item>Азия/Тайбэй</item>
+    <item>Азия/Сеул</item>
+    <item>Азия/Токио</item>
+    <item>Азия/Якутск</item>
+    <item>Австралия/Дарвин</item>
+    <item>Австралия/Брисбен</item>
+    <item>Азия/Владивосток</item>
+    <item>Тихий океан/Гуам</item>
+    <item>Азия/Магадан</item>
+    <item>Австралия/Аделаида</item>
+    <item>Австралия/Хобарт</item>
+    <item>Австралия/Сидней</item>
     <item>Pacific/Majuro</item>
     <item>Pacific/Auckland</item>
     <item>Pacific/Fiji</item>
@@ -141,56 +141,56 @@
     <item>-6 Costa_Rica</item>
     <item>-6 Chicago</item>
     <item>-6 Mexico_City</item>
-    <item>-6 Regina</item>
-    <item>-5 Bogota</item>
-    <item>-5 New_York</item>
-    <item>-4:30 Caracas</item>
-    <item>-4 Barbados</item>
-    <item>-4 Manaus</item>
-    <item>-3:30 St_Johns</item>
-    <item>-3 Santiago</item>
-    <item>-3 Buenos_Aires</item>
-    <item>-3 Godthab</item>
-    <item>-2 Sao_Paulo</item>
-    <item>-2 Montevideo</item>
-    <item>-2 South_Georgia</item>
+    <item>-6 Регина</item>
+    <item>-5 Богота</item>
+    <item>-5 Нью-Йорк</item>
+    <item>-4:30 Каракас</item>
+    <item>-4 Барбадос</item>
+    <item>-4 Манаус</item>
+    <item>-3:30 Сэйнт Джонс</item>
+    <item>-3 Сантьяго</item>
+    <item>-3 Буэнос-Айрес</item>
+    <item>-3 Годхаб</item>
+    <item>-2 Сан Пауло</item>
+    <item>-2 Монтевидео</item>
+    <item>-2 Южная Джорджия</item>
     <item>-1 Azores</item>
-    <item>-1 Cape_Verde</item>
-    <item>+0 Casablanca</item>
-    <item>+0 London</item>
-    <item>+1 Amsterdam</item>
-    <item>+1 Belgrade</item>
-    <item>+1 Brussels</item>
-    <item>+1 Sarajevo</item>
-    <item>+1 Brazzaville</item>
-    <item>+2 Windhoek</item>
-    <item>+2 Amman</item>
-    <item>+2 Athens</item>
-    <item>+2 Beirut</item>
-    <item>+2 Cairo</item>
-    <item>+2 Helsinki</item>
-    <item>+2 Jerusalem</item>
-    <item>+2 Harare</item>
-    <item>+3 Minsk</item>
-    <item>+3 Baghdad</item>
-    <item>+3 Moscow</item>
-    <item>+3 Kuwait</item>
-    <item>+3 Nairobi</item>
-    <item>+3:30 Tehran</item>
-    <item>+4 Baku</item>
-    <item>+4 Tbilisi</item>
-    <item>+4 Yerevan</item>
-    <item>+4 Dubai</item>
-    <item>+4:30 Kabul</item>
-    <item>+5 Karachi</item>
-    <item>+5 Oral</item>
-    <item>+5 Yekaterinburg</item>
-    <item>+5:30 Calcutta</item>
-    <item>+5:30 Colombo</item>
-    <item>+5:45 Katmandu</item>
-    <item>+6 Almaty</item>
-    <item>+6:30 Rangoon</item>
-    <item>+7 Krasnoyarsk</item>
+    <item>-1 Капе Верде</item>
+    <item>+0 Касабланка</item>
+    <item>+0 Лондон</item>
+    <item>+1 Амстердам</item>
+    <item>+1 Белград</item>
+    <item>+1 Брюссель</item>
+    <item>+1 Сараево</item>
+    <item>+1 Браззавиль</item>
+    <item>+2 Виндхок</item>
+    <item>+2 Амман</item>
+    <item>+2 Афины</item>
+    <item>+2 Бейрут</item>
+    <item>+2 Каир</item>
+    <item>+2 Хельсинки</item>
+    <item>+2 Иерусалим</item>
+    <item>+2 Хараре</item>
+    <item>+3 Минск</item>
+    <item>+3 Багдад</item>
+    <item>+3 Москва</item>
+    <item>+3 Кувейт</item>
+    <item>+3 Найроби</item>
+    <item>+3:30 Тегеран</item>
+    <item>+4 Баку</item>
+    <item>+4 Тбилиси</item>
+    <item>+4 Ереван</item>
+    <item>+4 Дубаи</item>
+    <item>+4:30 Кабул</item>
+    <item>+5 Карачи</item>
+    <item>+5 Уральск</item>
+    <item>+5 Екатеринбург</item>
+    <item>+5:30 Калькутта</item>
+    <item>+5:30 Коломбо</item>
+    <item>+5:45 Катманду</item>
+    <item>+6 Алматы</item>
+    <item>+6:30 Рангун</item>
+    <item>+7 Красноярск</item>
     <item>+7 Bangkok</item>
     <item>+8 Beijing</item>
     <item>+8 Hong_Kong</item>

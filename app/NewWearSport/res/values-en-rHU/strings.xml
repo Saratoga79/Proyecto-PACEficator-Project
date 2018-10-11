@@ -92,7 +92,7 @@
   <string name="battery_continue_time_unit"> óra</string>
   <string name="battery_split"> / </string>
   <string name="suggest_reset_time">Regenerálódásig %1$s óra</string>
-  <string name="remain_time_recovery">&lt;Data&gt;Regenerálódásig&amp;nbsp;&lt;font color=#00ff00&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;/font&gt;&amp;nbsp; ó&lt;/Data&gt;</string>
+  <string name="remain_time_recovery"><Data>Visszaállítás ideje&amp;nbsp;&lt;font color=#00ff00&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;/font&gt;&amp;nbsp; h</Data></string>
   <string name="more_sport_tint">Több</string>
   <string name="zh_space">　</string>
   <string name="en_space"> </string>
@@ -373,7 +373,7 @@
   <string name="skiing_remind_next_interval_train">Következő intervall.</string>
   <string name="skiing_remind_click_finsh_this_train_unit">Nyomd a kör gombot</string>
   <string name="skiing_interval_train_complete">Az időszak kész</string>
-  <string name="skiing_interval_train_complete_pause_tip">"A mozgás szünetel"</string>
+  <string name="skiing_interval_train_complete_pause_tip">A mozgás szünetel</string>
   <string name="skiing_above_skiing_spped">%1$s felett jelez</string>
   <string name="skiing_lap_downhill_dis_title">Távolság</string>
   <string name="sport_history_total_stokes">Összes csapás</string>
@@ -407,8 +407,8 @@
   <string name="setting_reserve_heart_region_5">5. intervallum</string>
   <string name="history_walk_exchange_title">Átmenet Úszásig</string>
   <string name="virtual_rabbit_title">Virtuális Nyúl</string>
-  <string name="virtual_rabbit_backward_distance">Maradt távolság</string>
-  <string name="virtual_rabbit_backward_time">Maradék idő</string>
+  <string name="virtual_rabbit_backward_distance">Távolság még</string>
+  <string name="virtual_rabbit_backward_time">Idő még</string>
   <string name="virtual_rabbit_lead_distance">Vezetett táv.</string>
   <string name="virtual_rabbit_lead_time">Emelk. idő</string>
   <string name="anti_navigation_pause_content">Vissza a kezdőpontra</string>
@@ -417,7 +417,7 @@
   <string name="oritation_west">Ny</string>
   <string name="oritation_north">É</string>
   <string name="outdoor_riding_speed_alert">Seb. riasztás</string>
-  <string name="speed_too_low_remind_title">Túl gyors</string>
+  <string name="speed_too_low_remind_title">Túl lassú</string>
   <string name="swim_avg_stroke_speed">ÁTL.SPM</string>
   <string name="running_button_save_modify">Kalibrálás</string>
   <string name="save_cur_location">Jelenlegi pozíció mentése</string>
@@ -455,7 +455,7 @@
   <string name="sport_target_remind_status_maintaining">Fenntartás</string>
   <string name="sport_target_remind_status_improving">Javuló</string>
   <string name="sport_target_remind_status_count"></string>
-  <string name="sport_target_remind_title_01">3.5TE|30-25perc|5Km</string>
+  <string name="sport_target_remind_title_01">3.5 TE|30-25 perc|5 km</string>
   <string name="sport_target_remind_title_01_normal">%1$sTE|%2$sperc|%3$sKm</string>
   <string name="sport_target_remind_time_min">Perc</string>
   <string name="sport_run_train_title">Futás Train</string>
@@ -479,7 +479,7 @@
   <string name="first_beat_help_title_recovery_time">Gyógyulási idő</string>
   <string name="first_beat_help_vo2_max">"&lt;font color=#00FF00&gt;Mi ez？&lt;/font&gt;&lt;br/&gt; A VO2Max a maximális oxigénmennyiséget jelenti, amelyet a szervezet egy perc alatt fogyaszt, amelynek mérése ml/kg/perc. Értékeli a felhasználók kardiorespiratorikus erőnléti állapotát, amely fontos az egészségi, jóléti és sportteljesítmény szempontjából. &lt;br/&gt;Az óra automatikusan értékeli a VO2Max-ot a szívverés, a sebesség stb. alapján, közepes intenzitású Futó edzés közben és összehasonlítja azt egy azonos korú és nemű referencia csoportéval, hogy meghatározza az erőnlét szintjét. &lt;br/&gt;&lt;font color=#00FF00&gt;Hogyan értékeljük？&lt;/font&gt;&lt;br/&gt; 1. Pontos profil információkat nyújts, mint életkor és nem az Amazfit Watch alkalmazásban a beállítás során； &lt;br/&gt; 2. Tegyél egy gyors, 15 perces vagy hosszabb szabadtéri futást az órával és győződj meg arról, hogy a pulzusod legalább 10 percen át magasabb, mint a max. pulzus 75%-a. &lt;br/&gt; 3. A futás befejezését követően ellenőrizd az aktuális VO2Max értékét az órán vagy az Amazift Watch app állapot lapján. &lt;br/&gt;&lt;small&gt;További információért nézd meg az Amazfit Watch app Súgóját (angol).&lt;/small&gt;"</string>
   <string name="first_beat_help_te">&lt;font color=#00FF00&gt;What is this？&lt;/font&gt;&lt;br/&gt; Edzés Effect (TE) measures the accumulated load during a workout and interprets its impact on your aerobic fitness. TE starts from level 0.0. As the workout progresses successfully, TE value increases (from 0 towards 5), telling you how the workout effects your fitness. &lt;br/&gt;&lt;font color=#00FF00&gt;How is it calculated? &lt;/font&gt;&lt;br/&gt; TE is calculated based on your user profile, heart beat data and difficulty of the workout.&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; The watch will show realtime TE measurement during a workout as well as final TE result at the end of the workout. A&amp;lt;2.0 TE simply indicates that the workout has little effect on cardiorespiratory fitness and is useful only for building an endurance base and Felépülés. &lt;br/&gt;&lt;small&gt;For more details, please see Help in Amazfit Watch app.&lt;/small&gt;</string>
-  <string name="first_beat_help_train_load">Az óra a terhelést az EPOC érték alapján számítja ki, a 7 napos gördülő ablakban végzett edzések során rögzített pulzus adatokból. A felhasználó ennek megfelelően beállíthatja a képzési ütemtervet, hogy elérje az optimális terhelést.&lt;br/&gt;&lt;small&gt;További részletekért tekintsd meg az Amazfit Watch-ban a Súgó-t.&lt;/small&gt;</string>
+  <string name="first_beat_help_train_load">Az óra az edzés terhelését az EPOC érték alapján számítja ki, a 7 napos gördülő ablakban végzett edzések során rögzített pulzus adatokból. A felhasználó ennek megfelelően beállíthatja a képzési ütemtervet, hogy elérje az optimális terhelést.&lt;br/&gt;&lt;small&gt;További részletekért tekintsd meg az Amazfit Watch-ban a Súgó-t.&lt;/small&gt;</string>
   <string name="first_beat_help_run_target_and_real_time_guide">The watch will provide workout recommendation based on a your VO2Max fitness level, recent Edzés Load and Felépülés status from previous workout. &lt;br/&gt; If you enable realtime coaching feature in settings and set a TE target or choose one of the recommended workouts, the watch will guide you through the workout and prompt to adjust pace and heart rate in order to achieve set goals. &lt;br/&gt; &lt;small&gt;For more details, please see Help in Amazfit Watch app.&lt;/small&gt;</string>
   <string name="first_beat_help_daily_perpormence">"&lt;font color=#00FF00&gt;What is this？&lt;/font&gt;&lt;br/&gt;Realtime Performance Condition indicates if you are above or below your average performance level, and how accumulating fatigue affects your performance during a workout. &lt;br/&gt;&lt;font color=#00FF00&gt;How is it used？&lt;/font&gt;&lt;br/&gt;The watch will evaluate your performance condition automatically after ~6 minutes of Futás. A higher-than-avarage value indicates that you can make a harder workout than you'd normally do. A lower value suggests that you should take a easier workout. &lt;br/&gt;After completing a workout, you can analyze the performance by looking at the result at each km/mile on the graph. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;For more details, please see Help in Amazfit Watch app.&lt;/small&gt;"</string>
   <string name="first_beat_help_recovery_time">After completing a workout, you will be provided with idő in minutes to full Felépülés. Between workouts Felépülés idő is linearly decreased towards zero if there is no new workout data elérhető. The user is encouraged to have some low intensiy workouts to help with Felépülés. &lt;br/&gt;&lt;small&gt;For more details, please see Help in Amazfit Watch app.&lt;/small&gt;</string>
@@ -849,7 +849,7 @@
   <string name="widget_sport_item_running_title">Futás</string>
   <string name="wait_gps_no_gps_signal">A GPS nem érhető el, próbáld nyílt területen</string>
   <string name="wait_gps_hint">A GPS jel jobb az épületektől távol eső nyílt területen</string>
-  <string name="wait_gps_success">"A GPS elérhető, most elkezdheted az edzést"</string>
+  <string name="wait_gps_success">A GPS elérhető, most elkezdheted az edzést</string>
   <string name="wait_gps_search_retry">Újra</string>
   <string name="sport_pause_heart_shown">--</string>
   <string name="lock_screen">Képernyő lezárva</string>
@@ -900,7 +900,7 @@
   <string name="remind_heart_rate_region_less">A pulzus túl alacsony</string>
   <string name="remind_heart_rate_current_heart_rate">Current　%1$d bpm</string>
   <string name="sport_time_seconds">mp</string>
-  <string name="complete_training_project">"Az edzésprogram befejeződött"</string>
+  <string name="complete_training_project">Az edzésprogram befejeződött</string>
   <string name="reminder_speed_unit">/ó</string>
   <string name="remind_target_distance_training_title_format">Run%1sKm</string>
   <string name="remind_target_time_training_title_format">Riding%1$dMin</string>

@@ -94,7 +94,7 @@
   <string name="battery_continue_time_unit">час</string>
   <string name="battery_split"> / </string>
   <string name="suggest_reset_time">Время до полного восстановления% 1 $ s час</string>
-  <string name="remain_time_recovery">&lt;Data&gt;Time to full recovery&amp;nbsp;&lt;font color=#00ff00&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;/font&gt;&amp;nbsp; h&lt;/Data&gt;</string>
+  <string name="remain_time_recovery"><Data>Time to full recovery&amp;nbsp;&lt;font color=#00ff00&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;/font&gt;&amp;nbsp; h</Data></string>
   <string name="more_sport_tint">Больше</string>
   <string name="zh_space">　</string>
   <string name="en_space"> </string>
@@ -374,7 +374,7 @@
   <string name="skiing_remind_next_interval_train">Следующий интервал</string>
   <string name="skiing_remind_click_finsh_this_train_unit">Нажмите клавишу</string>
   <string name="skiing_interval_train_complete">Интервал завершен</string>
-  <string name="skiing_interval_train_complete_pause_tip">"Сделать паузу"</string>
+  <string name="skiing_interval_train_complete_pause_tip">Сделать паузу</string>
   <string name="skiing_above_skiing_spped">Предупреждение если скорость &gt; %1$s</string>
   <string name="skiing_lap_downhill_dis_title">Расстояние</string>
   <string name="sport_history_total_stokes">Всего гребков</string>
@@ -418,7 +418,7 @@
   <string name="oritation_west">З</string>
   <string name="oritation_north">С</string>
   <string name="outdoor_riding_speed_alert">Предупреждения по скорости</string>
-  <string name="speed_too_low_remind_title">Очень быстро</string>
+  <string name="speed_too_low_remind_title">Слишком медленно</string>
   <string name="swim_avg_stroke_speed">Средн.SPM</string>
   <string name="running_button_save_modify">Калибровка</string>
   <string name="save_cur_location">Сохранение текущего местоположения</string>
@@ -456,7 +456,7 @@
   <string name="sport_target_remind_status_maintaining">Поддержка</string>
   <string name="sport_target_remind_status_improving">Улучшение</string>
   <string name="sport_target_remind_status_count"></string>
-  <string name="sport_target_remind_title_01">3.5TE|30-25Минут | 5 км</string>
+  <string name="sport_target_remind_title_01">3.5 TE|30-25 мин|5 км</string>
   <string name="sport_target_remind_title_01_normal">%1$sTE|%2$sминуты|%3$sкилометра</string>
   <string name="sport_target_remind_time_min">Минута</string>
   <string name="sport_run_train_title">Идущая тренировка</string>
@@ -481,7 +481,7 @@
   <string name="first_beat_help_vo2_max">"&lt;font color=#00FF00&gt;, что это такое?&lt;/font&gt;&lt;br/&gt; VO2Max представляет собой максимальный объем кислорода, тело может потреблять в течение одной минуты, как измеряется в мл/кг/мин. Она оценивает состояние кардиореспираторной пригодности пользователей, которая имеет важное значение для общего здоровья, благосостояния и спорта performace. &lt;br/&gt;часы автоматически будет оценивать ваши VO2Max основе heartrate, скорость и т.д. при умеренной интенсивности работы тренировки и сравните, что в группу ссылка же возраст и пол определить ваш фитнес-уровня. &lt;br/&gt;&lt;font color=#00FF00&gt;как оценить?&lt;/font&gt;&lt;br/&gt; 1. Обеспечивают точный профиль информацию, как возраст и пол в Amazfit часы приложения во время установки; &lt;br/&gt; 2. Оживленную 15 минут или более открытый бежать с смотреть на и убедитесь что heartrate на 75% вашего maxHR или выше для по крайней мере 10 минут. &lt;br/&gt; 3. После завершения запуска, вы можете проверить текущий показатель VO2Max в спортивных мероприятий app на странице личного статуса в приложении Amazift часы или часы. &lt;br/&gt;&lt;small&gt;для более подробной информации, смотрите помощь в Amazfit часы app.&lt;/small&gt;"</string>
   <string name="first_beat_help_te">&lt;font color=#00FF00&gt;What is this？&lt;/font&gt;&lt;br/&gt; Training Effect (TE) measures the accumulated load during a workout and interprets its impact on your aerobic fitness. TE starts from level 0.0. As the workout progresses successfully, TE value increases (from 0 towards 5), telling you how the workout effects your fitness. &lt;br/&gt;&lt;font color=#00FF00&gt;How is it calculated? &lt;/font&gt;&lt;br/&gt; TE is calculated based on your user profile, heart beat data and difficulty of the workout.&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; The watch will show realtime TE measurement during a workout as well as final TE result at the end of the workout. A&amp;lt;2.0 TE simply indicates that the workout has little effect on cardiorespiratory fitness and is useful only for building an endurance base and recovery. &lt;br/&gt;&lt;small&gt;For more details, please see Help in Amazfit Watch app.&lt;/small&gt;
  </string>
-  <string name="first_beat_help_train_load">Часы будут вычислять нагрузку во время тренировки, основsdfzcm на значениях расхода EPOC (Excess Post-exercise Oxygen Consumption), накопленных из данных сердечного ритма, записанных во время тренировок в 7-дневном скользящем окне. Пользователь может скорректировать график тренировки, чтобы достичь оптимальной нагрузки. &lt;br/&gt;&lt;small&gt;Более подробная информация приведена в справке приложения Amazfit Watch.&lt;/small&gt; </string>
+  <string name="first_beat_help_train_load">Часы будут вычислять тренировочные нагрузки, основанные на данных EPOC (избыточного потребления кислорода после упражнений), полученных от данных сердечного ритма, записанных во время тренировок в 7-дневный скользящем окне. Пользователь может корректировать график обучения для достижения оптимальной нагрузки. &lt;br/&gt;&lt;small&gt;для более подробной информации, смотрите помощь в Amazfit смотреть app.&lt;/small&gt;</string>
   <string name="first_beat_help_run_target_and_real_time_guide">Часы будет предоставлять рекомендации тренировки на основе вашего VO2Max фитнес-уровня, последней тренировочной нагрузки и состояния восстановления из предыдущей тренировки. &lt;br/&gt; если вы включитe в реальном времени коучинг функцию в настройках и установите целевой TE или выберите одну из рекомендуемых тренировок, часы проведет вас через тренировку и предложат регулировку темпа и ритма сердца для достижения поставленных целей. &lt;br/&gt; &lt;small&gt;для более подробной информации, смотрите раздел помощи в приложении Amazfit Watch.&lt;/small&gt;</string>
   <string name="first_beat_help_daily_perpormence">"&lt;font color=#00FF00&gt;, что это такое?&lt;/font&gt;&lt;br/&gt;условие производительности в реальном времени указывает, если вы выше или ниже уровня средней производительности, и как накапливающаяся усталость влияет на вашу производительность во время тренировки. &lt;br/&gt;&lt;font color=#00FF00&gt;Как это используется?&lt;/font&gt;&lt;br/&gt;часы будет оценивать ваше состояние производительности автоматически после ~ 6 минут бега. Выше, чем среднее значение указывает, что вы можете сделать разминку сложнее, чем вы обычно делаете. Более низкое значение свидетельствует о том, что вы должны выбрать более легкую тренировку. &lt;br/&gt;после завершения тренировки, вы можете проанализировать производительность, глядя на результат на каждом км/миле на графике. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;для более подробной информации, пожалуйста обратитесь к справке приложения Amazfit Watch.&lt;/small&gt;"</string>
   <string name="first_beat_help_recovery_time">После завершения тренировки вам будет предоставлено время в минутах до полного восстановления. Между тренировками время восстановления линейно уменьшается до нуля, если нет новых данных тренировки. Пользователю рекомендуется выполнять небольшие тренировки с интенсивным усилением, чтобы помочь в восстановлении. &lt;br/&gt;&lt;small&gt;Для получения дополнительной информации см. Справку в приложении Amazfit Watch.&lt;/small&gt;</string>
@@ -851,7 +851,7 @@
   <string name="widget_sport_item_running_title">Бег</string>
   <string name="wait_gps_no_gps_signal">GPS недоступен, повторите попытку на открытом пространстве</string>
   <string name="wait_gps_hint">GPS-сигнал лучше на открытом пространстве вдали от зданий</string>
-  <string name="wait_gps_success">"GPS доступен, вы можете начать тренировку сейчас"</string>
+  <string name="wait_gps_success">GPS доступен, вы можете начать тренировку сейчас</string>
   <string name="wait_gps_search_retry">Попробовать еще раз</string>
   <string name="sport_pause_heart_shown">--</string>
   <string name="lock_screen">Блокировка экрана</string>
@@ -903,7 +903,7 @@
   <string name="remind_heart_rate_region_less">Пульс слишком низкий</string>
   <string name="remind_heart_rate_current_heart_rate">Текущий　%1$d уд. в мин</string>
   <string name="sport_time_seconds">секунды</string>
-  <string name="complete_training_project">"Программа обучения была завершена"</string>
+  <string name="complete_training_project">Программа обучения была завершена</string>
   <string name="reminder_speed_unit">/час</string>
   <string name="remind_target_distance_training_title_format">Бег%1sкм</string>
   <string name="remind_target_time_training_title_format">Езда%1$dмин</string>
@@ -950,20 +950,19 @@
   <string name="export_gpx">Экспортировать файл в формате GPX</string>
   <string name="btn_cancel">Отменить</string>
   <string name="btn_confirm">Подтвердить</string>
-  <string name="hint_rolling">Exporting, please wait for a while ...</string>
+  <string name="hint_rolling">Экспорт, пожалуйста подождите...</string>
   <string name="dlg_msg_hint_cancel">Отменить синхронизацию?</string>
   <string name="dlg_btn_l_msg">Нет</string>
   <string name="dlg_btn_r_msg">Да</string>
   <string name="hint_cancelling">Отмена...</string>
-  <string name="hint_success_exported_title">"Exported to GPX file 
- successfully"</string>
-  <string name="hint_failed_exported_title">Failed to Export</string>
-  <string name="hint_where">"The gpx file has been placed in 
- folder \'/sdcard/gpxdata\'.
- You can copy it to a computer through USB."</string>
-  <string name="hint_failed">Failed to export, please try again.</string>
-  <string name="app_name">gpx-recorder</string>
-  <string name="average_text">Avg</string>
+  <string name="hint_success_exported_title">"Успешно экспортирован файл GPX 
+"</string>
+  <string name="hint_failed_exported_title">Не удалось экспортировать</string>
+  <string name="hint_where">"Gpx файл находится в папке «/ sdcard/gpxdata».
+ вы можете скопировать его на компьютер через USB."</string>
+  <string name="hint_failed">Не удалось экспортировать, пожалуйста, попробуйте еще раз.</string>
+  <string name="app_name">gpx-рекордер</string>
+  <string name="average_text">Сред.</string>
   <string name="menu_item_high_light_scale_factor">0.5</string>
   <string name="picker_default_positive_text">Подтвердить</string>
   <string name="picker_default_nagetive_text">Выкл</string>
