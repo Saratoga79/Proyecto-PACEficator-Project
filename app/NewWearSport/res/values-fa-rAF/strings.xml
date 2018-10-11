@@ -805,9 +805,9 @@
   <string name="remind_pace_target">Target</string>
   <string name="remind_pace_pace_unit">/mi</string>
   <string name="hello_blank_fragment">Hello blank fragment</string>
-  <string name="time_picker_hour">h</string>
-  <string name="time_picker_minute">min</string>
-  <string name="distance_picker_km">mi</string>
+  <string name="time_picker_hour">ساعت</string>
+  <string name="time_picker_minute">دقیقه</string>
+  <string name="distance_picker_km">مایل</string>
   <string name="title_activity_medal_list">MedalListActivity</string>
   <string name="title_activity_sport_medal_detail">SportMedalDetailActivity</string>
   <string name="notification_title_medal">Achievements</string>
@@ -924,7 +924,7 @@
   <string name="km_metric_outdoor_speed_graph_title">Speed(km/h)</string>
   <string name="km_metric_settings_item_value_target_distance">%1$skm</string>
   <string name="meter_metric_settings_item_value_target_distance">%1$smeter</string>
-  <string name="km_imperial">mi</string>
+  <string name="km_imperial">مایل</string>
   <string name="metre_imperial">feet</string>
   <string name="km_imperial_pace_unit">/mi</string>
   <string name="km_imperial_speed_unit">mi/h</string>
@@ -961,7 +961,7 @@
   <string name="hint_failed">Failed to export, please try again.</string>
   <string name="app_name">gpx-recorder</string>
   <string name="average_text">Avg</string>
-  <string name="menu_item_high_light_scale_factor">0.5</string>
+  <string name="menu_item_high_light_scale_factor">۰٫۵</string>
   <string name="picker_default_positive_text">Confirm</string>
   <string name="picker_default_nagetive_text">Off</string>
   <string name="ui_lib_name">Hm_UILib</string>
@@ -969,9 +969,9 @@
   <string name="sport_music_settings">Sports music</string>
   <string name="widget_currentstep_title">Daily Overview</string>
   <string name="widget_currentstep_activities">Activities</string>
-  <string name="widget_currentstep_sleep_hour">h</string>
-  <string name="widget_currentstep_sleep_min">min</string>
-  <string name="widget_currentstep_sleep_title">Sleep</string>
+  <string name="widget_currentstep_sleep_hour">ساعت</string>
+  <string name="widget_currentstep_sleep_min">دقیقه</string>
+  <string name="widget_currentstep_sleep_title">خواب</string>
   <string name="widget_currentstep_sleep_no">No sleep data</string>
   <string name="widget_currentstep_activity_no">No activity today?</string>
 </resources>
