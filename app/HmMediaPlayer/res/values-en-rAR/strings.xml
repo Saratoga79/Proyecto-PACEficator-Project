@@ -3,15 +3,15 @@
 <resources>
   <string name="music_name">Watercress FM</string>
   <string name="music_download" formatted="false">%1d/%2d</string>
-  <string name="music_download_in_progress">Song downloading...</string>
-  <string name="music_no_wifi_title">Unable to download</string>
-  <string name="music_download_fail_title">Song downloading failed</string>
-  <string name="music_download_not_complete_title">Songs not completely downloaded</string>
-  <string name="music_no_wifi_content">Wi-Fi is not connected, songs cannot be downloaded. Please connect to Wi-Fi by System settings - Wi-Fi on the watch.</string>
-  <string name="music_download_fail_content">Network connection error. Songs unable to be downloaded. Please connect to the network and try again.</string>
-  <string name="music_download_not_complete_content">Network connecting error, songs unable to finish downloading. Only play currently downloaded songs. (All songs will be downloaded automatically with Wi-Fi connection)</string>
-  <string name="music_download_success">Song update successful</string>
-  <string name="music_downloading">Song downloading...</string>
+  <string name="music_download_in_progress">تحميل أغنية...</string>
+  <string name="music_no_wifi_title">غير قادر على تحميل</string>
+  <string name="music_download_fail_title">فشل التحميل</string>
+  <string name="music_download_not_complete_title">لم يكتمل تحميل الأغنية</string>
+  <string name="music_no_wifi_content">وأي فأي غير متصل، لا يمكن تحميل الأغاني. الرجاء الاتصال لاسلكياً بإعدادات النظام--لاسلكي مراقبة.</string>
+  <string name="music_download_fail_content">خطأ في الاتصال بالشبكة. غير قادر على تحميل الأغاني. الرجاء الاتصال بالشبكة وحاول مرة أخرى.</string>
+  <string name="music_download_not_complete_content">خطأ شبكة الاتصال الاتصال، غير قادر على الانتهاء من تنزيل الأغاني. تلعب فقط حاليا تحميل الأغاني. (جميع الأغاني سيتم تحميلها تلقائياً مع اتصال لاسلكي)</string>
+  <string name="music_download_success">تم التحديث بنجاح</string>
+  <string name="music_downloading">تحميل أغنية...</string>
   <string name="music_fetch_list">Obtaining song list...</string>
   <string name="music_downloading_noting">-/-</string>
   <string name="check_network">Check the network</string>
