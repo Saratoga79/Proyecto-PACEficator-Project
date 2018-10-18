@@ -42,6 +42,10 @@
         <item>OUTDOOR_RIDING</item>
         <item>INDOOR_RIDING</item>
         <item>ELLIPTICAL_MACHINE</item>
+        <item>CLIMB</item>
+        <item>SKI</item>
+        <item>FOOTBALL</item>
+        <item>TENNIS</item>
     </string-array>
     <string-array name="dally_performence_level_status">
         <item>Fatigued</item>
@@ -60,6 +64,5 @@
     <string-array name="spring_depend">
         <item>com.huami.watch.newsport/com.huami.watch.newsport.widget.SportWidget</item>
         <item>com.huami.watch.newsport/com.huami.watch.newsport.widget.SportHistoryWidget</item>
-        <item>com.huami.watch.newsport/com.huami.watch.newsport.widget.SportLauncherWidget</item>
     </string-array>
 </resources>

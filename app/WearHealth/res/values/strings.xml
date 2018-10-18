@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
+    <item type="string" name="settings_item_high_light_scale_factor">0.71</item>
     <string name="locale_title">Select Language</string>
+    <string name="average_text">Avg</string>
+    <string name="menu_item_high_light_scale_factor">0.5</string>
+    <string name="picker_default_positive_text">Confirm</string>
+    <string name="picker_default_nagetive_text">Off</string>
+    <string name="no_heartrate_data_hint">Heart rate data not detected</string>
+    <string name="no_altitude_hint">Altitude data not detected</string>
+    <string name="ui_lib_name">Hm_UILib</string>
+    <string name="title_settings">Settings</string>
+    <string name="sport_music_settings">Sports music</string>
+    <string name="widget_currentstep_title">Health</string>
+    <string name="widget_currentstep_activities">Activities</string>
+    <string name="widget_currentstep_sleep_hour">h</string>
+    <string name="widget_currentstep_sleep_min">min</string>
+    <string name="widget_currentstep_sleep_title">Sleep</string>
+    <string name="widget_currentstep_sleep_no">No sleep data</string>
+    <string name="widget_currentstep_activity_no">No activity today?</string>
+    <string name="currentstep_detail_title">Details</string>
     <string name="action_badge_activated">com.huami.watch.health.BADGE_ACTIVATED</string>
     <string name="action_badge_dumped">com.huami.watch.health.BADGE_DUMPED</string>
     <string name="app_name">Health</string>
@@ -207,8 +224,8 @@
     <string name="weeklysports_triathlon_totaltime">Total time</string>
     <string name="weeklysports_triathlon_hour">hours</string>
     <string name="weeklysports_triathlon_min">minutes</string>
-    <string name="weeklysports_frequency"></string>
-    <string name="weeklysports_day"></string>
+    <string name="weeklysports_frequency" />
+    <string name="weeklysports_day" />
     <string name="weeklysports_activity">Move</string>
     <string name="weeklysports_running">Run</string>
     <string name="weeklysports_walking">Walk</string>
@@ -217,13 +234,6 @@
     <string name="weekly_sports_notification_content">Activity summary from last week is ready.</string>
     <string name="weekly_sports_notification_action">More</string>
     <string name="weeklysports_date_format">yyyy MM/dd</string>
-    <string name="widget_currentstep_title">Daily Overview</string>
-    <string name="widget_currentstep_activities">Activities</string>
-    <string name="widget_currentstep_sleep_hour">h</string>
-    <string name="widget_currentstep_sleep_min">min</string>
-    <string name="widget_currentstep_sleep_title">Sleep</string>
-    <string name="widget_currentstep_sleep_no">No sleep data</string>
-    <string name="widget_currentstep_activity_no">No activity today?</string>
     <string name="currentstep_detail_activity">Move</string>
     <string name="currentstep_detail_running">Run</string>
     <string name="currentstep_detail_walking">Walk</string>
@@ -235,9 +245,8 @@
     <string name="currentstep_detail_calories">Calories</string>
     <string name="currentstep_detail_sleep">Sleep</string>
     <string name="currentstep_detail_sleep_deep">Deep Sleep</string>
-    <string name="currentstep_detail_title">Details</string>
     <string name="currentstep_detail_activity_step_done">Goal achieved</string>
-    <string name="currentstep_detail_activity_step_notdo"></string>
+    <string name="currentstep_detail_activity_step_notdo" />
     <string name="currentstep_detail_activity_run_rate_av">AVG pace</string>
     <string name="currentstep_detail_activity_run_rate_ma">Best pace</string>
     <string name="currentstep_detail_activity_walk_ridding_rate_av">AVG speed</string>
@@ -291,42 +300,4 @@
     <string name="currentstep_detail_activities">Time in activities</string>
     <string name="currentstep_detail_activities_title">Legend</string>
     <string name="currentstep_detail_activities_others">Other</string>
-    <string name="average_text">Avg</string>
-    <string name="menu_item_high_light_scale_factor">0.5</string>
-    <string name="picker_default_positive_text">Confirm</string>
-    <string name="picker_default_nagetive_text">Off</string>
-    <string name="no_heartrate_data_hint">Heart rate data not detected</string>
-    <string name="no_altitude_hint">Altitude data not detected</string>
-    <string name="ui_lib_name">Hm_UILib</string>
-    <string name="title_settings">Settings</string>
-    <string name="sport_music_settings">Sports music</string>
-    <string name="action_settings">Settings</string>
-    <string name="north_latitude">North Lat</string>
-    <string name="south_latitude">South Lat</string>
-    <string name="east_longitude">East Long</string>
-    <string name="west_longitude">West Long</string>
-    <string name="altitude">Altitude(m)</string>
-    <string name="altitude_ft">Altitude(ft)</string>
-    <string name="atmospheric_pressure">Air Pressure</string>
-    <string name="ori_north">N</string>
-    <string name="ori_northeast">NE</string>
-    <string name="ori_east">E</string>
-    <string name="ori_southeast">SE</string>
-    <string name="ori_south">S</string>
-    <string name="ori_southwest">SW</string>
-    <string name="ori_west">W</string>
-    <string name="ori_northwest">NW</string>
-    <string name="correcting">Calibrating</string>
-    <string name="correcting_line1">Turn your wrist to</string>
-    <string name="correcting_line2">roll the ball</string>
-    <string name="value_default">-</string>
-    <string name="loading">Loading</string>
-    <string name="degree">°</string>
-    <string name="zero">0.00</string>
-    <string name="latitude_longitude_value_format_str">%1$s°%2$s′%3$s″</string>
-    <string name="gps_tip">"Can't get data, please try outdoor under an open sky."</string>
-    <string name="confirm">Confirm</string>
-    <string name="unknown">--</string>
-    <string name="compass_roll_tip">"Adjust the watch face-up
-to the horizontal orientation"</string>
 </resources>
