@@ -28,31 +28,31 @@
     <item>sport_target_remind_desc_01</item>
   </string-array>
   <string-array name="support_sport">
-    <item>RUNNING</item>
-    <item>WALKING</item>
-    <item>CROSSING</item>
-    <item>INDOOR_RUN</item>
-    <item>OUTDOOR_RIDING</item>
-    <item>INDOOR_RIDING</item>
-    <item>ELLIPTICAL_MACHINE</item>
+    <item>BĚH</item>
+    <item>CHŮZE</item>
+    <item>PŘECHOD</item>
+    <item>BĚH_UVNITŘ</item>
+    <item>JÍZDA_VENKU</item>
+    <item>JÍZDA_UVNITŘ</item>
+    <item>ELIPTICKÝ_TRENAŽÉR</item>
     <item>CLIMB</item>
     <item>SKI</item>
     <item>FOOTBALL</item>
     <item>TENNIS</item>
   </string-array>
   <string-array name="dally_performence_level_status">
-    <item>Fatigued</item>
-    <item>Average</item>
-    <item>Good</item>
+    <item>Unavený</item>
+    <item>Průměrný</item>
+    <item>Dobrý</item>
   </string-array>
   <string-array name="vo2_max_level_status">
-    <item>Very Poor</item>
-    <item>Fair</item>
-    <item>Poor</item>
-    <item>Average</item>
-    <item>Good</item>
-    <item>Very Good</item>
-    <item>Excellent</item>
+    <item>Velmi špatný</item>
+    <item>Poctivý</item>
+    <item>Špatný</item>
+    <item>Průměrný</item>
+    <item>Dobrý</item>
+    <item>Velmi dobrý</item>
+    <item>Vynikající</item>
   </string-array>
   <string-array name="spring_depend">
     <item>com.huami.watch.newsport/com.huami.watch.newsport.widget.SportWidget</item>
