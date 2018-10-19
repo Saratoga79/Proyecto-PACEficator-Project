@@ -14,12 +14,12 @@
   <string name="beam_complete">Beam complete</string>
   <string name="beam_failed">Beam did not complete</string>
   <string name="beam_canceled">Beam canceled</string>
-  <string name="cancel">Cancel</string>
+  <string name="cancel">Hủy bỏ</string>
   <string name="beam_touch_to_view">Touch to view</string>
   <string name="beam_handover_not_supported">"The receiver's device doesn't support large file transfer via beam."</string>
   <string name="beam_try_again">Bring devices together again</string>
   <string name="beam_busy">Beam is currently busy. Try again when the previous transfer completes.</string>
-  <string name="device">device</string>
+  <string name="device">thiết bị</string>
   <string name="connecting_peripheral">Connecting %1$s</string>
   <string name="connected_peripheral">Connected %1$s</string>
   <string name="connect_peripheral_failed">Could not connect %1$s</string>
@@ -30,7 +30,7 @@
   <string name="failed_to_enable_bt">Could not enable Bluetooth</string>
   <string name="confirm_pairing">Are you sure you want to pair the Bluetooth device %1$s?</string>
   <string name="pair_yes">Yes</string>
-  <string name="pair_no">No</string>
+  <string name="pair_no">Ko</string>
   <string name="tap_again_to_pay">Tap again to pay with %1$s</string>
   <string name="tap_again_to_complete">Tap again to complete with %1$s</string>
   <string name="transaction_failure">"This transaction couldn't be completed with %1$s."</string>
@@ -39,9 +39,9 @@
   <string name="complete_with">Complete with</string>
   <string name="default_pay_app_removed">Your preferred service for tap &amp; pay was removed. Choose another?</string>
   <string name="ask_nfc_tap">Tap another device to complete</string>
-  <string name="wifi_connect">Connect</string>
+  <string name="wifi_connect">Kết nối</string>
   <string name="status_unable_to_connect">Unable to connect to network</string>
-  <string name="status_wifi_connected">Connected</string>
+  <string name="status_wifi_connected">Đã kết nối</string>
   <string name="title_connect_to_network">Connect to network</string>
   <string name="prompt_connect_to_network">Connect to network %1$s?</string>
   <string name="beam_requires_nfc_enabled">Android Beam requires NFC to be enabled. Do you want to enable it?</string>
