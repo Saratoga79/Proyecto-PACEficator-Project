@@ -68,8 +68,7 @@ másik Wifi hotspotot"</string>
   <string name="update_online">Over-the-Air frissítés</string>
   <string name="update_local">frissítés helyi zip fájlból</string>
   <string name="local_update_confirm_1_title">Kérlek olvass</string>
-  <string name="local_update_invalid_zip">A kártyán lévő rendszer verziója túl alacsony,
-a frissítés legfrissebb verzióját ajánlott használni</string>
+  <string name="local_update_invalid_zip">A csomag rendszer verziója túl alacsony, ajánlott a legújabb verzió használata</string>
   <string name="local_update_confirm_1_msg">"Az új verzió biztosan
 megfelelően működik, mindent törölni fogunk a
 felhasználói adatok frissítése után. Csatlakozz
@@ -85,21 +84,21 @@ adatot az óráról. Folytatod?"</string>
   <string name="cancel">Mégse</string>
   <string name="update_tips_0">Frissítés</string>
   <string name="update_tips_1">Kérjük ne kapcsold ki az órát</string>
-  <string name="average_text">Átlag</string>
+  <string name="average_text">Átl.</string>
   <string name="menu_item_high_light_scale_factor">0.5</string>
   <string name="picker_default_positive_text">Megerősít</string>
   <string name="picker_default_nagetive_text">Ki</string>
-  <string name="no_heartrate_data_hint">Pulzusszám nem észlelhető</string>
-  <string name="no_altitude_hint">Magasság adat nem észlelhető</string>
+  <string name="no_heartrate_data_hint">Pulzus adat nem észlelt</string>
+  <string name="no_altitude_hint">Magasság adat nem észlelt</string>
   <string name="ui_lib_name">Hm_UILib</string>
   <string name="title_settings">Beállítások</string>
-  <string name="sport_music_settings">Zene sportoláshoz</string>
-  <string name="widget_currentstep_title">Adatközpont</string>
+  <string name="sport_music_settings">Zene sporthoz</string>
+  <string name="widget_currentstep_title">Napi áttekintő</string>
   <string name="widget_currentstep_activities">Aktivitások</string>
   <string name="widget_currentstep_sleep_hour">ó</string>
   <string name="widget_currentstep_sleep_min">perc</string>
   <string name="widget_currentstep_sleep_title">Alvás</string>
-  <string name="widget_currentstep_sleep_no">Nincs alvásadat</string>
-  <string name="widget_currentstep_activity_no">Ma nincs tevékenység?</string>
+  <string name="widget_currentstep_sleep_no">Nincs alvás adat</string>
+  <string name="widget_currentstep_activity_no">Ma nem edzünk?</string>
   <string name="locale_title">Nyelv választása</string>
 </resources>
