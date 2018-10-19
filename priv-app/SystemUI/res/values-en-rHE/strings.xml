@@ -6,7 +6,7 @@
   <string name="quick_settings_tiles">default</string>
   <string name="velocity_tracker_impl">platform</string>
   <string name="doze_pulse_schedule">1s,10s,30s,60s</string>
-  <string name="system_ui_date_pattern">@android:string/system_ui_date_pattern</string>
+  <string name="system_ui_date_pattern">\@android:string/system_ui_date_pattern</string>
   <string name="lland">L Land</string>
   <string name="app_label">System UI</string>
   <string name="status_bar_clear_all_button">נקה</string>
@@ -244,7 +244,7 @@
   <string name="quick_settings_inversion_label">הפוך צבעים</string>
   <string name="quick_settings_color_space_label">מצב תיקון צבע</string>
   <string name="quick_settings_more_settings">הגדרות נוספות</string>
-  <string name="quick_settings_done">סיום</string>
+  <string name="quick_settings_done">בוצע</string>
   <string name="quick_settings_connected">מחובר</string>
   <string name="quick_settings_connected_via_wfa">מחובר באמצעות עוזר Wi-Fi</string>
   <string name="quick_settings_connecting">מתחבר...</string>
@@ -372,7 +372,7 @@
   <string name="quick_settings_reset_confirmation_title">הסתר %1$s?</string>
   <string name="quick_settings_reset_confirmation_message">הוא יופיע שוב בפעם הבאה שתפעיל אותו בהגדרות.</string>
   <string name="quick_settings_reset_confirmation_button">הסתר</string>
-  <string name="ok">@android:string/ok</string>
+  <string name="ok">\@android:string/ok</string>
   <string name="widget_default_package_name"></string>
   <string name="widget_default_class_name"></string>
   <string name="abbrev_wday_month_day_no_year">EEEEMMMMd</string>
@@ -447,8 +447,8 @@
   <string name="password_keyboard_label_alpha_key">ABC</string>
   <string name="password_keyboard_label_alt_key">ALT</string>
   <string name="keyboardview_keycode_alt">Alt</string>
-  <string name="keyboardview_keycode_cancel">ביטול</string>
-  <string name="keyboardview_keycode_delete">מחיקה</string>
+  <string name="keyboardview_keycode_cancel">בטל</string>
+  <string name="keyboardview_keycode_delete">מחק</string>
   <string name="keyboardview_keycode_done">בוצע</string>
   <string name="keyboardview_keycode_mode_change">שינוי מצב</string>
   <string name="keyboardview_keycode_shift">Shift</string>
