@@ -11,42 +11,42 @@
     <item>com.android.mms</item>
   </string-array>
   <string-array name="quick_settings_status_week">
-    <item>Sun</item>
-    <item>Mon</item>
-    <item>Tue</item>
-    <item>Wed</item>
-    <item>Thu</item>
-    <item>Fri</item>
-    <item>Sat</item>
-    <item>Today</item>
+    <item>CN</item>
+    <item>T2</item>
+    <item>T3</item>
+    <item>T4</item>
+    <item>T5</item>
+    <item>T6</item>
+    <item>T7</item>
+    <item>Hôm nay</item>
   </string-array>
   <string-array name="quick_settings_status_principleTerm">
     <item>Great cold</item>
-    <item>The rains</item>
-    <item>Vernal Equinox</item>
-    <item>Grain rain</item>
+    <item>Cơn mưa</item>
+    <item>Xuân phân</item>
+    <item>Hạt mưa</item>
     <item>Grain buds</item>
-    <item>Summer solstice</item>
+    <item>Hạ chí</item>
     <item>Great heat</item>
-    <item>Stopping the heat</item>
-    <item>Autumn Equinox</item>
-    <item>Hoar-frost falls</item>
-    <item>Light snow</item>
-    <item>Winter Solstice</item>
+    <item>Dừng sức nóng</item>
+    <item>Mùa thu phân</item>
+    <item>Sương rơi</item>
+    <item>Tuyết nhỏ</item>
+    <item>Đông chí</item>
   </string-array>
   <string-array name="quick_settings_status_sectionalTerm">
-    <item>Slight cold</item>
-    <item>Spring begins</item>
-    <item>Insects awaken</item>
-    <item>Clear and bright</item>
-    <item>Summer begins</item>
+    <item>Chút lạnh</item>
+    <item>Mùa xuân đến</item>
+    <item>Tiếng côn trùng</item>
+    <item>Trong và xanh</item>
+    <item>Mùa hè đến</item>
     <item>Grain in ear</item>
-    <item>Slight heat</item>
-    <item>Autumn begins</item>
-    <item>White dews</item>
+    <item>Chút nhiệt</item>
+    <item>Mùa thu tới</item>
+    <item>Sương thu</item>
     <item>Cold dews</item>
-    <item>Winter begins</item>
-    <item>Heavy snow</item>
+    <item>Mùa đông đến</item>
+    <item>Tuyết nhiều</item>
   </string-array>
   <string-array name="quick_settings_status_chineseTen">
     <item>Chu</item>
@@ -61,7 +61,7 @@
     <item>Si</item>
     <item>Wu</item>
     <item>Liu</item>
-    <item>Qi</item>
+    <item>Tề</item>
     <item>Ba</item>
     <item>Jiu</item>
     <item>Shi</item>
@@ -155,44 +155,44 @@
     <item>wfz3897e9.wfz</item>
   </string-array>
   <string-array name="weather_card_aqilevel">
-    <item>Air Excellent</item>
-    <item>Air Fine</item>
-    <item>Light Pollution</item>
-    <item>Moderate Pollution</item>
-    <item>Heavy Pollution</item>
-    <item>Serious Pollution</item>
+    <item>K.Khí Tuyệt vời</item>
+    <item>K.khí Tốt</item>
+    <item>Ô nhiễm nhẹ</item>
+    <item>Ô nhiễm Tr.bình</item>
+    <item>Ô nhiễm nặng</item>
+    <item>Ô nhiễm Ng.trọng</item>
     <item></item>
   </string-array>
   <string-array name="weather_card_quality">
-    <item>Suitable for Sports</item>
-    <item>Unsuitable for sports</item>
+    <item>Tốt cho Thể thao</item>
+    <item>Không tốt cho thể thao</item>
     <item></item>
   </string-array>
   <string-array name="quick_settings_status_weather">
-    <item>Sunny</item>
-    <item>Cloudy</item>
-    <item>Overcast</item>
-    <item>Fog</item>
-    <item>Smog</item>
-    <item>Shower</item>
-    <item>Thunder shower</item>
-    <item>Light rain</item>
-    <item>Moderate rain</item>
-    <item>Heavy rain</item>
-    <item>Rainstorm</item>
-    <item>Torrential rain</item>
-    <item>Sleet</item>
-    <item>Freezing rain</item>
-    <item>Hail</item>
-    <item>Light snow</item>
-    <item>Moderate snow</item>
-    <item>Heavy snow</item>
-    <item>Snowstorm</item>
-    <item>Snow shower</item>
-    <item>Dust</item>
-    <item>Blowing sand</item>
-    <item>Sand storm</item>
-    <item>Strong sand storm</item>
-    <item>No Data</item>
+    <item>Nắng</item>
+    <item>Có mây</item>
+    <item>Âm u</item>
+    <item>Sương</item>
+    <item>Khói</item>
+    <item>Mưa</item>
+    <item>Mưa giông</item>
+    <item>Mưa nhỏ</item>
+    <item>Mưa vừa</item>
+    <item>Mưa to</item>
+    <item>Mưa bão</item>
+    <item>Mưa xối xả</item>
+    <item>Mưa đá</item>
+    <item>Mưa băng</item>
+    <item>Mưa đá</item>
+    <item>Tuyết nhỏ</item>
+    <item>Tuyết rơi vừa</item>
+    <item>Tuyết nhiều</item>
+    <item>Bão tuyết</item>
+    <item>Mưa tuyết</item>
+    <item>Bụi</item>
+    <item>Cát bụi</item>
+    <item>Bão cát</item>
+    <item>Bão cát lớn</item>
+    <item>Ko có d.liệu</item>
   </string-array>
 </resources>
