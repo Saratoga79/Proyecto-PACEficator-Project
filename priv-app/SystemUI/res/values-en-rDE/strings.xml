@@ -6,7 +6,7 @@
   <string name="quick_settings_tiles">Vorgabe</string>
   <string name="velocity_tracker_impl">Ebene</string>
   <string name="doze_pulse_schedule">1s,10s,30s,60s</string>
-  <string name="system_ui_date_pattern">@android:string/system_ui_date_pattern</string>
+  <string name="system_ui_date_pattern">\@android:string/system_ui_date_pattern</string>
   <string name="lland">L Land</string>
   <string name="app_label">System UI</string>
   <string name="status_bar_clear_all_button">Löschen</string>
@@ -27,9 +27,9 @@ Verwenden Sie nur geeignete Ladegeräte."</string>
   <string name="battery_low_why">Einstellungen</string>
   <string name="battery_saver_confirmation_title">Akkusparmodus aktivieren?</string>
   <string name="battery_saver_confirmation_ok">Aktivieren</string>
-  <string name="battery_saver_start_action">Schalten Sie den Akkusparmodus ein</string>
+  <string name="battery_saver_start_action">Akkusparmodus aktivieren</string>
   <string name="status_bar_settings_settings_button">Einstellungen</string>
-  <string name="status_bar_settings_wifi_button">WLan</string>
+  <string name="status_bar_settings_wifi_button">WLAN</string>
   <string name="status_bar_settings_airplane">Flugmodus</string>
   <string name="status_bar_settings_auto_rotation">Display automatisch drehen</string>
   <string name="status_bar_settings_mute_label">Lautlos</string>
@@ -67,7 +67,7 @@ Verwenden Sie nur geeignete Ladegeräte."</string>
   <string name="use_ptp_button_title">Als Kamera (PTP) bereitstellen</string>
   <string name="installer_cd_button_title">Installiere Android Dateiübertragungs App für Mac</string>
   <string name="accessibility_back">Zurück</string>
-  <string name="accessibility_home">Home</string>
+  <string name="accessibility_home">Zuhause</string>
   <string name="accessibility_menu">Menü</string>
   <string name="accessibility_recent">Übersicht</string>
   <string name="accessibility_search_light">Suche</string>
@@ -118,7 +118,7 @@ Verwenden Sie nur geeignete Ladegeräte."</string>
   <string name="accessibility_three_bars">Drei Balken.</string>
   <string name="accessibility_signal_full">Volles Signal.</string>
   <string name="accessibility_desc_on">Ein.</string>
-  <string name="accessibility_desc_off">aus.</string>
+  <string name="accessibility_desc_off">Aus.</string>
   <string name="accessibility_desc_connected">Verbunden.</string>
   <string name="accessibility_desc_connecting">Verbinde.</string>
   <string name="accessibility_data_connection_gprs">GPRS</string>
@@ -131,7 +131,7 @@ Verwenden Sie nur geeignete Ladegeräte."</string>
   <string name="accessibility_data_connection_cdma">CDMA</string>
   <string name="accessibility_data_connection_roaming">Roaming</string>
   <string name="accessibility_data_connection_edge">Edge</string>
-  <string name="accessibility_data_connection_wifi">WLan</string>
+  <string name="accessibility_data_connection_wifi">WLAN</string>
   <string name="accessibility_no_sim">Keine SIM.</string>
   <string name="accessibility_bluetooth_tether">Bluetooth-Anbindung.</string>
   <string name="accessibility_airplane_mode">Flugmodus</string>
@@ -293,7 +293,7 @@ Das erneute Einschalten kann zu Gebühren von Ihrem Mobilfunkanbieter führen."<
   <string name="camera_hint">Nach links wischen für Kamera</string>
   <string name="interruption_level_none">Keiner</string>
   <string name="interruption_level_priority">Priorität</string>
-  <string name="interruption_level_all">Alles</string>
+  <string name="interruption_level_all">Alle</string>
   <string name="keyguard_indication_charging_time">Aufladen (%s bis voll)</string>
   <string name="accessibility_multi_user_switch_switcher">Benutzer wechseln</string>
   <string name="accessibility_multi_user_switch_switcher_with_current">Benutzer wechseln, aktueller Benutzer %s</string>
@@ -411,7 +411,7 @@ Außerdem sind Sie mit einem VPN verbunden (\"%3$s\"). Ihr VPN-Dienstanbieter ka
   <string name="quick_settings_reset_confirmation_title">%1$s ausblenden?</string>
   <string name="quick_settings_reset_confirmation_message">Es wird wieder angezeigt, wenn Sie es das nächste Mal in den Einstellungen einschalten.</string>
   <string name="quick_settings_reset_confirmation_button">Verbergen</string>
-  <string name="ok">@android:string/ok</string>
+  <string name="ok">\@android:string/ok</string>
   <string name="widget_default_package_name"></string>
   <string name="widget_default_class_name"></string>
   <string name="abbrev_wday_month_day_no_year">EEEEMMMMd</string>
@@ -486,7 +486,7 @@ Wenden Sie sich an Ihren Mobilfunkanbieter, um eine andere SIM-Karte zu erhalten
   <string name="password_keyboard_label_alpha_key">ABC</string>
   <string name="password_keyboard_label_alt_key">ALT</string>
   <string name="keyboardview_keycode_alt">Alt</string>
-  <string name="keyboardview_keycode_cancel">Abbruch</string>
+  <string name="keyboardview_keycode_cancel">Abbrechen</string>
   <string name="keyboardview_keycode_delete">Löschen</string>
   <string name="keyboardview_keycode_done">Erledigt</string>
   <string name="keyboardview_keycode_mode_change">Modus ändern</string>
