@@ -8,7 +8,7 @@
   <string name="gps_searching">Ожидание сигнала GPS</string>
   <string name="gps_search_failed_title">GPS не найден</string>
   <string name="gps_search_failed_content">Повторите попытку на открытом воздухе.</string>
-  <string name="wait_gps_search_retry">Попробовать еще раз</string>
+  <string name="wait_gps_search_retry">Повторить</string>
   <string name="gps_info_reaching">Определение местоположения</string>
   <string name="date_am">"'AM'"</string>
   <string name="date_pm">"'PM'"</string>
@@ -30,10 +30,10 @@
   <string name="beyond_distance">Выбранный пункт назначения находится на расстоянии более 2000 км от текущего местоположения и не может отслеживаться.</string>
   <string name="exteed_max_num">Максимальное количество сохраненных локаций превышено, вы можете сохранить их до 500</string>
   <string name="gps_save">Сохранить</string>
-  <string name="altitude_unit">мин</string>
-  <string name="average_text">Сред</string>
+  <string name="altitude_unit">м</string>
+  <string name="average_text">Ср</string>
   <string name="menu_item_high_light_scale_factor">0.5</string>
-  <string name="picker_default_positive_text">Подтвердите</string>
+  <string name="picker_default_positive_text">Подтвердить</string>
   <string name="picker_default_nagetive_text">Выкл.</string>
   <string name="no_heartrate_data_hint">Данные сердечного ритма не обнаружены</string>
   <string name="no_altitude_hint">Данные высоты не обнаружены</string>
@@ -44,7 +44,7 @@
   <string name="widget_currentstep_activities">Тренировки</string>
   <string name="widget_currentstep_sleep_hour">час</string>
   <string name="widget_currentstep_sleep_min">мин</string>
-  <string name="widget_currentstep_sleep_title">Сон прошлой ночью</string>
+  <string name="widget_currentstep_sleep_title">Сон</string>
   <string name="widget_currentstep_sleep_no">Нет данных о сне</string>
   <string name="widget_currentstep_activity_no">Сегодня нет тренировок?</string>
 </resources>
