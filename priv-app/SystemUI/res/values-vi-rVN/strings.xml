@@ -6,7 +6,7 @@
   <string name="quick_settings_tiles">Mặc định</string>
   <string name="velocity_tracker_impl">nền tảng</string>
   <string name="doze_pulse_schedule">1s,10s,30s,60s</string>
-  <string name="system_ui_date_pattern">@android:string/system_ui_date_pattern</string>
+  <string name="system_ui_date_pattern">\@android:string/system_ui_date_pattern</string>
   <string name="lland">L Land</string>
   <string name="app_label">Hệ thống</string>
   <string name="status_bar_clear_all_button">Xóa</string>
@@ -410,7 +410,7 @@ Mặt khác, bạn cũng đang kết nối tới VPN (\"%3$s\"). Nhà cung cấp
   <string name="quick_settings_reset_confirmation_title">Ẩn %1$s?</string>
   <string name="quick_settings_reset_confirmation_message">Nó sẽ xuất hiện lại vào lần tiếp theo bạn bật trong cài đặt.</string>
   <string name="quick_settings_reset_confirmation_button">Ẩn</string>
-  <string name="ok">@android:string/ok</string>
+  <string name="ok">\@android:string/ok</string>
   <string name="widget_default_package_name"></string>
   <string name="widget_default_class_name"></string>
   <string name="abbrev_wday_month_day_no_year">dMMMMEEEE</string>
