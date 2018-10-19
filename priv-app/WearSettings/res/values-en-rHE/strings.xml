@@ -6,14 +6,14 @@
   <string name="picker_default_positive_text">אשר</string>
   <string name="picker_default_nagetive_text">כבוי</string>
   <string name="no_heartrate_data_hint">נתוני קצב הלב לא זוהו</string>
-  <string name="no_altitude_hint">נתוני גובה לא זוהו</string>
+  <string name="no_altitude_hint">לא אותרו נתוני גובה</string>
   <string name="ui_lib_name">Hm_UILib</string>
   <string name="title_settings">הגדרות</string>
   <string name="sport_music_settings">מוזיקה</string>
-  <string name="widget_currentstep_title">מרכז מידע</string>
+  <string name="widget_currentstep_title">סקירה יומית</string>
   <string name="widget_currentstep_activities">פעילויות</string>
   <string name="widget_currentstep_sleep_hour">ש</string>
-  <string name="widget_currentstep_sleep_min">ד</string>
+  <string name="widget_currentstep_sleep_min">דק\'</string>
   <string name="widget_currentstep_sleep_title">שינה</string>
   <string name="widget_currentstep_sleep_no">אין נתוני שינה</string>
   <string name="widget_currentstep_activity_no">לא התאמנת היום?</string>
@@ -21,7 +21,7 @@
   <string name="locale_title">שפה</string>
   <string name="double_click_wakeup_open">מופעל</string>
   <string name="double_click_wakeup_close">כבוי</string>
-  <string name="dlg_confirm">אישור</string>
+  <string name="dlg_confirm">אשר</string>
   <string name="dlg_cancel">ביטול</string>
   <string name="sport">ספורט</string>
   <string name="small_plugins">תוספים</string>
@@ -35,7 +35,7 @@
   <string name="change_language">שפה</string>
   <string name="reset_factory">איפוס המכשיר</string>
   <string name="shut_down">כיבוי</string>
-  <string name="reboot">אתחול מחדש</string>
+  <string name="reboot">אתחול</string>
   <string name="about">אודות</string>
   <string name="wear_habit">השעון על יד</string>
   <string name="bugreport">דווח שגיאות</string>
@@ -45,7 +45,7 @@
   <string name="security">Security</string>
   <string name="preference">Preferences</string>
   <string name="preference_title">使用偏好</string>
-  <string name="light_change">亮度调节</string>
+  <string name="light_change">תאורת מסך</string>
   <string name="wrist_up">הפעל בסיבוב</string>
   <string name="auto_nodisturb">השתקה אוטומטית</string>
   <string name="double_click_wakeup">הקש להדליק</string>
@@ -110,7 +110,7 @@
   <string name="zhinanzhen">מצפן</string>
   <string name="yinyue">מוסיקה</string>
   <string name="report_bug_dialog_title">משוב</string>
-  <string name="report_bug_dialog_desc">If there is a data error or the watch works abnormally, you can upload the data through the feedback feature to our server for analysis. During this process, the previously generated logs on the watch will be automatically collected and uploaded. These logs are used only for problem analysis, and will be destroyed immediately after that. During the entire process we will comply with our Privacy Policy, view details of the policy on the Amazfit Watch app.</string>
+  <string name="report_bug_dialog_desc">After a watch has data errors, abnormal conditions, etc., you can upload data to our server through the question feedback function for analysis by our after-sales personnel. During this process, the previously generated logs on the watch will be automatically collected and uploaded. These logs are used only for problem analysis and will not be used as other means and will be destroyed immediately after the analysis. The entire process will comply with our privacy policy. For details, please see the privacy policy on the Amazfit Watch App</string>
   <string name="dialog_agree">אישור</string>
   <string name="dialog_quit">יציאה</string>
   <string name="nothing">ריק</string>
@@ -157,7 +157,7 @@
   <string name="no">לא</string>
   <string name="settings_long_sit_reminder">התראת תזוזה</string>
   <string name="settings_off">כבוי</string>
-  <string name="settings_on">פועל</string>
+  <string name="settings_on">מופעל</string>
   <string name="settings_step_target">יעד צעדים</string>
   <string name="settings_step_unit">צעדים</string>
   <string name="settings_target_reach_reminder">התראת יעד</string>
@@ -188,7 +188,7 @@
   <string name="blt_not_support">[בדיקה]</string>
   <string name="bluetooth_pair_tips">קוד התאמה</string>
   <string name="button_enter">אישור</string>
-  <string name="button_cancel">בטל</string>
+  <string name="button_cancel">ביטול</string>
   <string name="blt_cancel_paring">הצמדה בוטלה</string>
   <string name="bluetooth_pairing_error_message">הצמדה נכשלה</string>
   <string name="bluetooth_connecting">מתחבר...</string>
@@ -232,7 +232,7 @@
   <string name="locale_applying">החל שפה</string>
   <string name="zh_cn">סינית (פשוטה)</string>
   <string name="en">אנגלית (ארה\"ב)</string>
-  <string name="zh_hk">סינית מסורתית (הונג קונג)</string>
+  <string name="zh_hk">סינית (מסורתית)</string>
   <string name="zh_tw">סינית (מסורתית)</string>
   <string name="ru_ru">Русский</string>
   <string name="es_es">Español</string>
@@ -247,7 +247,7 @@
   <string name="birth_year_unit">שנת לידה</string>
   <string name="height_unit">גובה ס\"מ</string>
   <string name="weight_unit">משקל ק\"ג</string>
-  <string name="reset_factory_hint">恢复出厂后与你的手机断开连接并删除手表上的所有数据。下次绑定该手表后当前开通的交通卡可以继续使用。</string>
+  <string name="reset_factory_hint">לאפס להגדרות היצרן?</string>
   <string name="reset_factory_title">恢复出厂</string>
   <string name="reset_factory_noconnect_msg">"如需解绑手表请在Amazfit手表App进行。
  手表单方面恢复出厂后会移除银联卡和交通卡。
@@ -329,12 +329,12 @@
   <string name="watch_mode_positive">确认开启</string>
   <string name="watch_mode_negative">בטל חיבור</string>
   <string name="replace_watchface">מעטפת</string>
-  <string name="screen_refresh">Secondhand</string>
+  <string name="screen_refresh">מחוג שניות</string>
   <string name="screen_refresh_on_string">מופעל</string>
   <string name="screen_refresh_off_string">כבוי</string>
   <string name="confirm_shutdown">לכבות?</string>
   <string name="confirm_reboot">אתחל מחדש?</string>
-  <string name="app_name">הגדרות</string>
+  <string name="app_name">הגדרות שעון</string>
   <string name="title_activity_long_sitting_time">LongSittingTimeActivity</string>
   <string name="lab_desc">אסוף חלקים של כלי איתור הבאגים</string>
   <string name="unknown">מכשיר לא ידוע</string>
