@@ -6,7 +6,7 @@
   <string name="quick_settings_tiles">alapért.</string>
   <string name="velocity_tracker_impl">platform</string>
   <string name="doze_pulse_schedule">1mp,10mp,30mp,60mp</string>
-  <string name="system_ui_date_pattern">@android:string/system_ui_date_pattern</string>
+  <string name="system_ui_date_pattern">\@android:string/system_ui_date_pattern</string>
   <string name="lland">L Land</string>
   <string name="app_label">System UI</string>
   <string name="status_bar_clear_all_button">Törlés</string>
@@ -130,7 +130,7 @@ Csak a mellékelt töltőt használd."</string>
   <string name="accessibility_data_connection_cdma">CDMA</string>
   <string name="accessibility_data_connection_roaming">Roaming</string>
   <string name="accessibility_data_connection_edge">Edge</string>
-  <string name="accessibility_data_connection_wifi">Wi-Fi</string>
+  <string name="accessibility_data_connection_wifi">Wifi</string>
   <string name="accessibility_no_sim">Nincs SIM.</string>
   <string name="accessibility_bluetooth_tether">Bluetooth összekötés.</string>
   <string name="accessibility_airplane_mode">Repülőgép mód.</string>
@@ -410,7 +410,7 @@ Csatlakozva vagy egy VPN szolgáltatóhoz (\"%3$s\"). A VPN szolgáltató képes
   <string name="quick_settings_reset_confirmation_title">%1$s elrejtése?</string>
   <string name="quick_settings_reset_confirmation_message">Akkor jelenik meg újra, amikor bekapcsolod a beállításokban.</string>
   <string name="quick_settings_reset_confirmation_button">Elrejt</string>
-  <string name="ok">@android:string/ok</string>
+  <string name="ok">\@android:string/ok</string>
   <string name="widget_default_package_name"></string>
   <string name="widget_default_class_name"></string>
   <string name="abbrev_wday_month_day_no_year">EEEEMMMMd</string>
@@ -487,7 +487,7 @@ Csatlakozva vagy egy VPN szolgáltatóhoz (\"%3$s\"). A VPN szolgáltató képes
   <string name="keyboardview_keycode_alt">Alt</string>
   <string name="keyboardview_keycode_cancel">Mégse</string>
   <string name="keyboardview_keycode_delete">Törlés</string>
-  <string name="keyboardview_keycode_done">Elvégezve</string>
+  <string name="keyboardview_keycode_done">Kész</string>
   <string name="keyboardview_keycode_mode_change">Mód váltás</string>
   <string name="keyboardview_keycode_shift">Shift</string>
   <string name="keyboardview_keycode_enter">Enter</string>
