@@ -9,7 +9,7 @@
   <string name="report_sensor_capture_dialog_desc">"Sau khi thu thập dữ liệu chuyển động đã được bật, chúng tôi sẽ thu thập thông tin ban đầu của cảm biến sau khi bắt đầu tập thể dục, và ngăn chặn việc xóa sau khi tập thể dục. Những dữ liệu này sẽ được gửi đến máy chủ khi bạn gửi thông tin phản hồi về vấn đề xem phân tích bởi đội ngũ nhân viên sau bán hàng. Trong quá trình này, các bản ghi được tạo ra trước đó trên chiếc đồng hồ sẽ được tự động thu thập và tải lên. Các dữ liệu chỉ dùng để phân tích và không bị lộ lọt ra ngoài. Toàn bộ quá trình sẽ tuân thủ chính sách bảo mật của chúng tôi. Để biết chi tiết, xin vui lòng xem chính sách bảo mật trên các ứng dụng Amazfit Watch."</string>
   <string name="dialog_agree">Đồng ý</string>
   <string name="dialog_quit">Thoát</string>
-  <string name="average_text">Trb</string>
+  <string name="average_text">Tb</string>
   <string name="menu_item_high_light_scale_factor">0.5</string>
   <string name="picker_default_positive_text">Xác nhận</string>
   <string name="picker_default_nagetive_text">Tắt</string>
@@ -22,7 +22,7 @@
   <string name="widget_currentstep_activities">Hoạt động</string>
   <string name="widget_currentstep_sleep_hour">g</string>
   <string name="widget_currentstep_sleep_min">phút</string>
-  <string name="widget_currentstep_sleep_title">Giấc ngủ</string>
+  <string name="widget_currentstep_sleep_title">Ngủ</string>
   <string name="widget_currentstep_sleep_no">Ko có dữ liệu giấc ngủ</string>
   <string name="widget_currentstep_activity_no">Không hoạt động?</string>
   <string name="locale_title">Chọn Ngôn ngữ</string>
@@ -35,9 +35,9 @@ Dữ liệu sẽ chỉ được sử dụng cho mục đích nghiên cứu.
 Tính năng này sẽ ảnh hưởng đến tuổi thọ pin."</string>
   <string name="allow">Cho phép</string>
   <string name="exit">Thoát</string>
-  <string name="message_everest">"Chúng tôi sẽ thu thập dữ liệu thô khi bạn đeo đồng hồ.
+  <string name="message_everest">"\"Chúng tôi sẽ thu thập dữ liệu thô khi bạn đeo đồng hồ.
 Dữ liệu sẽ chỉ được sử dụng cho mục đích nghiên cứu.
-Tính năng này sẽ ảnh hưởng đến tuổi thọ pin."</string>
+Tính năng này sẽ ảnh hưởng đến tuổi thọ pin.\""</string>
   <string name="heart_rate_collection_on">Bật</string>
   <string name="heart_rate_collection_off">Tắt</string>
   <string name="saving_data">Đang lưu...</string>
