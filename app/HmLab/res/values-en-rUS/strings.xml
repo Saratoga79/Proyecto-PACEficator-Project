@@ -3,8 +3,8 @@
 <resources>
   <string name="hbeacon_on">On</string>
   <string name="hbeacon_off">Off</string>
-  <string name="hbeacon_on_confirm_message">点击确认启用HBeacon功能将略微降低手表续航时长，手表自动重启后您的手机可能需要重新配对手表。</string>
-  <string name="hbeacon_off_confirm_message">点击确认将关闭Hbeacon功能，手表自动重启后您的手机可能需要重新配对手表。</string>
+  <string name="hbeacon_on_confirm_message">Clicking OK to enable the HBeacon feature will slightly reduce battery duration of the watch, and your phone may need to be re-paired after the watch automatically restarts</string>
+  <string name="hbeacon_off_confirm_message">Clicking OK will turn off the Hbeacon function, and your phone may need to be re-paired after the watch automatically restarts</string>
   <string name="report_sensor_capture_dialog_title">Sports data collection</string>
   <string name="report_sensor_capture_dialog_desc">"After the motion data acquisition is turned on, we will collect the sensor's original information after the start of the exercise, and stop the acquisition immediately after the exercise. These data will be submitted to the server when you submit feedback on the watch issue for analysis by our after-sales staff. During this process, the previously generated logs on the watch will be automatically collected and uploaded. These logs are used only for problem analysis and will not be used as other means and will be destroyed immediately after the analysis. The entire process will comply with our privacy policy. For details, please see the privacy policy on the Amazfit Watch App."</string>
   <string name="dialog_agree">Agree</string>
