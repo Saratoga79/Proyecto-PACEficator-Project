@@ -6,7 +6,7 @@
   <string name="quick_settings_tiles">default</string>
   <string name="velocity_tracker_impl">platform</string>
   <string name="doze_pulse_schedule">1s,10s,30s,60s</string>
-  <string name="system_ui_date_pattern">@android:string/system_ui_date_pattern</string>
+  <string name="system_ui_date_pattern">\@android:string/system_ui_date_pattern</string>
   <string name="lland">L Land</string>
   <string name="app_label">System UI</string>
   <string name="status_bar_clear_all_button">Neteja</string>
@@ -16,7 +16,7 @@
   <string name="status_bar_accessibility_dismiss_recents">Descarta les aplicacions recents</string>
   <string name="status_bar_no_notifications_title">No notifications</string>
   <string name="status_bar_ongoing_events_title">En curs</string>
-  <string name="status_bar_latest_events_title">Notificacions</string>
+  <string name="status_bar_latest_events_title">Notifications</string>
   <string name="battery_low_title">Queda poca bateria</string>
   <string name="battery_low_percent_format">%s restant</string>
   <string name="battery_low_percent_format_saver_started">%s restant. L\'estalvi de bateria està activat.</string>
@@ -24,17 +24,17 @@
 Utilitzeu només el carregador subministrat."</string>
   <string name="invalid_charger_title">La càrrega per USB no és compatible.</string>
   <string name="invalid_charger_text">Utilitzeu només el carregador subministrat.</string>
-  <string name="battery_low_why">Configuració</string>
+  <string name="battery_low_why">Settings</string>
   <string name="battery_saver_confirmation_title">Vols activar l\'estalvi de bateria?</string>
   <string name="battery_saver_confirmation_ok">Activa</string>
   <string name="battery_saver_start_action">Activa l\'estalvi de bateria</string>
-  <string name="status_bar_settings_settings_button">Configuració</string>
+  <string name="status_bar_settings_settings_button">Settings</string>
   <string name="status_bar_settings_wifi_button">Wi-Fi</string>
-  <string name="status_bar_settings_airplane">Mode d\'avió</string>
+  <string name="status_bar_settings_airplane">Airplane mode</string>
   <string name="status_bar_settings_auto_rotation">Auto-rota la pantalla</string>
   <string name="status_bar_settings_mute_label">Silen.</string>
   <string name="status_bar_settings_auto_brightness_label">AUTO</string>
-  <string name="status_bar_settings_notifications">Notificacions</string>
+  <string name="status_bar_settings_notifications">Notifications</string>
   <string name="status_bar_network_name_separator">|</string>
   <string name="bluetooth_tethered">Connexió compartida per Bluetooth</string>
   <string name="status_bar_input_method_settings_configure_input_methods">Configura els mètodes d\'entrada</string>
@@ -116,7 +116,7 @@ Utilitzeu només el carregador subministrat."</string>
   <string name="accessibility_two_bars">Dues barres.</string>
   <string name="accessibility_three_bars">Tres barres.</string>
   <string name="accessibility_signal_full">Senyal al màxim.</string>
-  <string name="accessibility_desc_on">Activada.</string>
+  <string name="accessibility_desc_on">Activat.</string>
   <string name="accessibility_desc_off">Desactivat.</string>
   <string name="accessibility_desc_connected">Connectat.</string>
   <string name="accessibility_desc_connecting">S\'està connectant.</string>
@@ -151,7 +151,7 @@ Utilitzeu només el carregador subministrat."</string>
   <string name="accessibility_desc_notification_shade">Àrea de notificacions.</string>
   <string name="accessibility_desc_quick_settings">Configuració ràpida.</string>
   <string name="accessibility_desc_lock_screen">Bloqueja la pantalla.</string>
-  <string name="accessibility_desc_settings">Configuració</string>
+  <string name="accessibility_desc_settings">Settings</string>
   <string name="accessibility_desc_recent_apps">Visió general.</string>
   <string name="accessibility_quick_settings_user">User %s.</string>
   <string name="accessibility_quick_settings_wifi">%1$s.</string>
@@ -200,7 +200,7 @@ Turning it back on may lead to charges from your carrier."</string>
   <string name="gps_notification_searching_text">Searching for GPS</string>
   <string name="gps_notification_found_text">Location set by GPS</string>
   <string name="accessibility_location_active">Location requests active</string>
-  <string name="accessibility_clear_all">Esborrar totes les notificacions.</string>
+  <string name="accessibility_clear_all">Clear all notifications.</string>
   <string name="status_bar_notification_inspect_item_title">Notification settings</string>
   <string name="status_bar_notification_app_settings_title">%s settings</string>
   <string name="accessibility_rotation_lock_off">Screen will rotate automatically.</string>
@@ -212,7 +212,7 @@ Turning it back on may lead to charges from your carrier."</string>
   <string name="dessert_case">Dessert Case</string>
   <string name="start_dreams">Daydream</string>
   <string name="ethernet_label">Ethernet</string>
-  <string name="quick_settings_airplane_mode_label">Mode d\'avió</string>
+  <string name="quick_settings_airplane_mode_label">Airplane mode</string>
   <string name="quick_settings_bluetooth_label">Bluetooth</string>
   <string name="quick_settings_bluetooth_multiple_devices_label">Bluetooth (%d Devices)</string>
   <string name="quick_settings_bluetooth_off_label">Bluetooth Off</string>
@@ -228,10 +228,10 @@ Turning it back on may lead to charges from your carrier."</string>
   <string name="quick_settings_media_device_label">Media device</string>
   <string name="quick_settings_rssi_label">RSSI</string>
   <string name="quick_settings_rssi_emergency_only">Emergency Calls Only</string>
-  <string name="quick_settings_settings_label">Configuració</string>
-  <string name="quick_settings_time_label">RC</string>
+  <string name="quick_settings_settings_label">Settings</string>
+  <string name="quick_settings_time_label">Time</string>
   <string name="quick_settings_user_label">Me</string>
-  <string name="quick_settings_user_title">Usuari</string>
+  <string name="quick_settings_user_title">User</string>
   <string name="quick_settings_user_new_user">New user</string>
   <string name="quick_settings_wifi_label">Wi-Fi</string>
   <string name="quick_settings_wifi_not_connected">Not Connected</string>
@@ -247,15 +247,15 @@ Turning it back on may lead to charges from your carrier."</string>
   <string name="quick_settings_brightness_dialog_auto_brightness_label">AUTO</string>
   <string name="quick_settings_inversion_label">Invert colors</string>
   <string name="quick_settings_color_space_label">Color correction mode</string>
-  <string name="quick_settings_more_settings">Més opcions</string>
-  <string name="quick_settings_done">Fet</string>
-  <string name="quick_settings_connected">Connectat</string>
+  <string name="quick_settings_more_settings">More settings</string>
+  <string name="quick_settings_done">Done</string>
+  <string name="quick_settings_connected">Connected</string>
   <string name="quick_settings_connected_via_wfa">Connected via Wi‑Fi assistant</string>
-  <string name="quick_settings_connecting">S\'està connectant...</string>
+  <string name="quick_settings_connecting">Connecting...</string>
   <string name="quick_settings_tethering_label">Tethering</string>
   <string name="quick_settings_hotspot_label">Hotspot</string>
-  <string name="quick_settings_notifications_label">Notificacions</string>
-  <string name="quick_settings_flashlight_label">Llanterna</string>
+  <string name="quick_settings_notifications_label">Notifications</string>
+  <string name="quick_settings_flashlight_label">Flashlight</string>
   <string name="quick_settings_cellular_detail_title">Cellular data</string>
   <string name="quick_settings_cellular_detail_data_usage">Data usage</string>
   <string name="quick_settings_cellular_detail_remaining_data">Remaining data</string>
@@ -269,9 +269,9 @@ Turning it back on may lead to charges from your carrier."</string>
   <string name="recents_search_bar_label">search</string>
   <string name="recents_launch_error_message">Could not start %s.</string>
   <string name="expanded_header_battery_charged">Charged</string>
-  <string name="expanded_header_battery_charging">Carregant</string>
+  <string name="expanded_header_battery_charging">Charging</string>
   <string name="expanded_header_battery_charging_with_time">%s until full</string>
-  <string name="expanded_header_battery_not_charging">No s\'està carregant</string>
+  <string name="expanded_header_battery_not_charging">Not charging</string>
   <string name="battery_meter_very_low_overlay_symbol">!</string>
   <string name="ssl_ca_cert_warning">"Network may
 be monitored"</string>
@@ -290,7 +290,7 @@ be monitored"</string>
   <string name="keyguard_unlock">Swipe up to unlock</string>
   <string name="phone_hint">Swipe right for phone</string>
   <string name="camera_hint">Swipe left for camera</string>
-  <string name="interruption_level_none">Cap</string>
+  <string name="interruption_level_none">None</string>
   <string name="interruption_level_priority">Priority</string>
   <string name="interruption_level_all">All</string>
   <string name="keyguard_indication_charging_time">Charging (%s until full)</string>
@@ -319,7 +319,7 @@ Any user can update apps for all other users."</string>
   <string name="notification_hidden_text">Contents hidden</string>
   <string name="media_projection_dialog_text">"%s will start capturing everything that's displayed on your screen."</string>
   <string name="media_projection_remember_text">"Don't show again"</string>
-  <string name="clear_all_notifications_text">Esborrar tot</string>
+  <string name="clear_all_notifications_text">Clear all</string>
   <string name="media_projection_action_text">Start now</string>
   <string name="empty_shade_text">No notifications</string>
   <string name="device_owned_footer">Device may be monitored</string>
@@ -410,7 +410,7 @@ Also, you\'re connected to a VPN (\"%3$s\"). Your VPN service provider can monit
   <string name="quick_settings_reset_confirmation_title">Hide %1$s?</string>
   <string name="quick_settings_reset_confirmation_message">It will reappear the next time you turn it on in settings.</string>
   <string name="quick_settings_reset_confirmation_button">Hide</string>
-  <string name="ok">@android:string/ok</string>
+  <string name="ok">\@android:string/ok</string>
   <string name="widget_default_package_name"></string>
   <string name="widget_default_class_name"></string>
   <string name="abbrev_wday_month_day_no_year">EEEEMMMMd</string>
@@ -429,7 +429,7 @@ Also, you\'re connected to a VPN (\"%3$s\"). Your VPN service provider can monit
   <string name="keyguard_label_text">To unlock, press Menu then 0.</string>
   <string name="faceunlock_multiple_failures">Maximum Face Unlock attempts exceeded</string>
   <string name="keyguard_charged">Charged</string>
-  <string name="keyguard_plugged_in">Carregant</string>
+  <string name="keyguard_plugged_in">Charging</string>
   <string name="keyguard_low_battery">Connect your charger.</string>
   <string name="keyguard_instructions_when_pattern_disabled">Press Menu to unlock.</string>
   <string name="keyguard_network_locked_message">Network locked</string>
@@ -485,15 +485,15 @@ Also, you\'re connected to a VPN (\"%3$s\"). Your VPN service provider can monit
   <string name="password_keyboard_label_alpha_key">ABC</string>
   <string name="password_keyboard_label_alt_key">ALT</string>
   <string name="keyboardview_keycode_alt">Alt</string>
-  <string name="keyboardview_keycode_cancel">Cancel·la</string>
-  <string name="keyboardview_keycode_delete">Suprimeix</string>
-  <string name="keyboardview_keycode_done">Fet</string>
+  <string name="keyboardview_keycode_cancel">Cancel</string>
+  <string name="keyboardview_keycode_delete">Delete</string>
+  <string name="keyboardview_keycode_done">Done</string>
   <string name="keyboardview_keycode_mode_change">Mode change</string>
   <string name="keyboardview_keycode_shift">Shift</string>
-  <string name="keyboardview_keycode_enter">Entrar</string>
+  <string name="keyboardview_keycode_enter">Enter</string>
   <string name="description_target_unlock">Unlock</string>
   <string name="description_target_camera">Camera</string>
-  <string name="description_target_silent">Silenci</string>
+  <string name="description_target_silent">Silent</string>
   <string name="description_target_soundon">Sound on</string>
   <string name="description_direction_down">Slide down for %s.</string>
   <string name="description_direction_right">Slide right for %s.</string>
@@ -522,7 +522,7 @@ Also, you\'re connected to a VPN (\"%3$s\"). Your VPN service provider can monit
   <string name="kg_login_instructions">To unlock, sign in with your Google account.</string>
   <string name="kg_login_username_hint">Username (email)</string>
   <string name="kg_login_password_hint">Password</string>
-  <string name="kg_login_submit_button">Inicia sessió</string>
+  <string name="kg_login_submit_button">Sign in</string>
   <string name="kg_login_invalid_input">Invalid username or password.</string>
   <string name="kg_login_account_recovery_hint">\"Forgot your username or password?
 Visit \"<b>google.com/accounts/recovery</b>.</string>
