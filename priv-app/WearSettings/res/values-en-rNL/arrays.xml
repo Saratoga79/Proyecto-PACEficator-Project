@@ -13,7 +13,7 @@
     <item>[clazz]com.huami.watch.wearlogger.AllLogActivityLab</item>
   </string-array>
   <string-array name="lab_item_selftest">
-    <item>[prim]selftest</item>
+    <item>[action]com.huami.watch.selftest.START</item>
     <item>[sum]start selftest by yourself</item>
     <item>[action]com.huami.watch.selftest.START</item>
   </string-array>
@@ -69,18 +69,18 @@
     <item>America/Sao_Paulo</item>
     <item>America/Montevideo</item>
     <item>Atlantic/South_Georgia</item>
-    <item>Atlantic/Azores</item>
-    <item>Atlantic/Cape_Verde</item>
+    <item>Atlantic/Azoren</item>
+    <item>Atlantic/Kaap_Verdie</item>
     <item>Africa/Casablanca</item>
-    <item>Europe/London</item>
+    <item>Europe/Londen</item>
     <item>Europe/Amsterdam</item>
-    <item>Europe/Belgrade</item>
-    <item>Europe/Brussels</item>
+    <item>Europe/Belgrado</item>
+    <item>Europe/Brussel</item>
     <item>Europe/Sarajevo</item>
-    <item>Africa/Brazzaville</item>
+    <item>Afrika/Brazzaville</item>
     <item>Africa/Windhoek</item>
     <item>Asia/Amman</item>
-    <item>Europe/Athens</item>
+    <item>Europe/Athene</item>
     <item>Asia/Beirut</item>
     <item>Africa/Cairo</item>
     <item>Europe/Helsinki</item>
@@ -88,7 +88,7 @@
     <item>Africa/Harare</item>
     <item>Europe/Minsk</item>
     <item>Asia/Baghdad</item>
-    <item>Europe/Moscow</item>
+    <item>Europe/Moskou</item>
     <item>Asia/Kuwait</item>
     <item>Africa/Nairobi</item>
     <item>Asia/Tehran</item>
@@ -154,18 +154,18 @@
     <item>-2 Sao_Paulo</item>
     <item>-2 Montevideo</item>
     <item>-2 South_Georgia</item>
-    <item>-1 Azores</item>
-    <item>-1 Cape_Verde</item>
+    <item>-1 Azoren</item>
+    <item>-1 Kaap_Verdie</item>
     <item>+0 Casablanca</item>
-    <item>+0 London</item>
+    <item>+0 Londen</item>
     <item>+1 Amsterdam</item>
-    <item>+1 Belgrade</item>
-    <item>+1 Brussels</item>
+    <item>+1 Belgrado</item>
+    <item>+1 Brussel</item>
     <item>+1 Sarajevo</item>
     <item>+1 Brazzaville</item>
     <item>+2 Windhoek</item>
     <item>+2 Amman</item>
-    <item>+2 Athens</item>
+    <item>+2 Athene</item>
     <item>+2 Beirut</item>
     <item>+2 Cairo</item>
     <item>+2 Helsinki</item>
@@ -173,7 +173,7 @@
     <item>+2 Harare</item>
     <item>+3 Minsk</item>
     <item>+3 Baghdad</item>
-    <item>+3 Moscow</item>
+    <item>+3 Moskou</item>
     <item>+3 Kuwait</item>
     <item>+3 Nairobi</item>
     <item>+3:30 Tehran</item>
@@ -215,13 +215,13 @@
     <item>+13 Tongatapu</item>
   </string-array>
   <string-array name="light_mode_subtitle">
-    <item>Brightness: close</item>
-    <item>Brightness: auto</item>
-    <item>Brightness: 2</item>
-    <item>Brightness: 2</item>
-    <item>Brightness: 1</item>
-    <item>Brightness: 3</item>
-    <item>Brightness: 4</item>
-    <item>Brightness: 5</item>
+    <item>Helderheid: uit</item>
+    <item>Helderheid: auto</item>
+    <item>Helderheid: 2</item>
+    <item>Helderheid: 2</item>
+    <item>Helderheid: 1</item>
+    <item>Helderheid: 3</item>
+    <item>Helderheid: 4</item>
+    <item>Helderheid: 5</item>
   </string-array>
 </resources>
