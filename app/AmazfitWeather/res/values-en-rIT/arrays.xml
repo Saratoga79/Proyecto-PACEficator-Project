@@ -6,7 +6,7 @@
   </string-array>
   <string-array name="quick_settings_status_week">
     <item>Dom</item>
-    <item>lun</item>
+    <item>Lun</item>
     <item>Mar</item>
     <item>Mer</item>
     <item>Gio</item>
@@ -19,8 +19,8 @@
     <item>Aria buona</item>
     <item>Inquinamento lieve</item>
     <item>Inquinamento moderato</item>
-    <item>Inquinamento pesante</item>
-    <item>Inquinamento grave</item>
+    <item>Inquinamento elevato</item>
+    <item>Inquinamento elevatissimo</item>
     <item></item>
   </string-array>
   <string-array name="weather_card_quality">
@@ -29,18 +29,18 @@
     <item></item>
   </string-array>
   <string-array name="quick_settings_status_weather">
-    <item>Soleggiato</item>
+    <item>Sereno</item>
     <item>Nuvoloso</item>
     <item>Coperto</item>
     <item>Nebbia</item>
     <item>Foschia</item>
-    <item>Acquazzone</item>
-    <item>Pioggia e fulmini</item>
-    <item>Pioggia debole</item>
+    <item>Pioggia</item>
+    <item>Rovesci temporaleschi</item>
     <item>Pioggia leggera</item>
-    <item>Pioggia forte</item>
+    <item>Rovesci</item>
+    <item>Forte pioggia</item>
     <item>Temporale</item>
-    <item>Pioggia torrenziale</item>
+    <item>Piogge torrenziali</item>
     <item>Nevischio</item>
     <item>Grandine</item>
     <item>Grandine</item>
@@ -48,11 +48,11 @@
     <item>Neve moderata</item>
     <item>Forte nevicata</item>
     <item>Tempesta di neve</item>
-    <item>Neve</item>
+    <item>Nevicata</item>
     <item>Polvere</item>
     <item>Leggera sabbia</item>
     <item>Tempesta di sabbia</item>
     <item>Forte tempesta di sabbia</item>
-    <item>Nessun dato</item>
+    <item>Info N/D</item>
   </string-array>
 </resources>
