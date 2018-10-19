@@ -67,7 +67,7 @@ dostopno točko"</string>
   <string name="update_online">Posodobitev OTA</string>
   <string name="update_local">Posodobi preko lokalne zip datoteke</string>
   <string name="local_update_confirm_1_title">Prosimo preberite</string>
-  <string name="local_update_invalid_zip">该卡刷包系统版本过低,建议使用最新版本升级</string>
+  <string name="local_update_invalid_zip">Package system version is too low, it is recommended to use the latest version to upgrade</string>
   <string name="local_update_confirm_1_msg">"To ensure the new version 
 works properly, we\'ll erase all 
 user data after update. Please connect 
@@ -76,28 +76,28 @@ to the Amazfit Watch APP and back up all data before update."</string>
 podatki varnostno kopirani. Namestitev
 posodobitve bo izbrisala podatke
 na uri. Nadaljujem?"</string>
-  <string name="OK">V redu</string>
-  <string name="yes">Da</string>
-  <string name="no">Ne</string>
-  <string name="enter">V redu</string>
-  <string name="cancel">Prekliči</string>
+  <string name="OK">OK</string>
+  <string name="yes">Yes</string>
+  <string name="no">No</string>
+  <string name="enter">OK</string>
+  <string name="cancel">Cancel</string>
   <string name="update_tips_0">Updating</string>
   <string name="update_tips_1">Please do not power off the watch</string>
-  <string name="average_text">Povp.</string>
+  <string name="average_text">Avg</string>
   <string name="menu_item_high_light_scale_factor">0.5</string>
-  <string name="picker_default_positive_text">Potrdi</string>
-  <string name="picker_default_nagetive_text">Izključeno</string>
-  <string name="no_heartrate_data_hint">Podatki o srčnem utripu niso bili zaznani</string>
-  <string name="no_altitude_hint">Podatki o višini niso bili zaznani</string>
+  <string name="picker_default_positive_text">Confirm</string>
+  <string name="picker_default_nagetive_text">Off</string>
+  <string name="no_heartrate_data_hint">Heart rate data not detected</string>
+  <string name="no_altitude_hint">Altitude data not detected</string>
   <string name="ui_lib_name">Hm_UILib</string>
   <string name="title_settings">Nastavitve</string>
-  <string name="sport_music_settings">Športna glasba</string>
-  <string name="widget_currentstep_title">Dnevni pregled</string>
-  <string name="widget_currentstep_activities">Aktivnosti</string>
+  <string name="sport_music_settings">Sports music</string>
+  <string name="widget_currentstep_title">Daily Overview</string>
+  <string name="widget_currentstep_activities">Activities</string>
   <string name="widget_currentstep_sleep_hour">h</string>
   <string name="widget_currentstep_sleep_min">min</string>
-  <string name="widget_currentstep_sleep_title">Spanec</string>
-  <string name="widget_currentstep_sleep_no">Ni podatkov o spancu</string>
-  <string name="widget_currentstep_activity_no">Danes brez aktivnosti?</string>
+  <string name="widget_currentstep_sleep_title">Sleep</string>
+  <string name="widget_currentstep_sleep_no">No sleep data</string>
+  <string name="widget_currentstep_activity_no">No activity today?</string>
   <string name="locale_title">Izberi jezik</string>
 </resources>
