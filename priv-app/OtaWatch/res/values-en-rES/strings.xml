@@ -16,8 +16,8 @@ Contraseña Wi-Fi para el reloj</string>
   <string name="wifi_add_item">Por favor, conecte el
 Amazfit ver la aplicación para agregar
 Nuevo hotspot Wi-Fi para el reloj</string>
-  <string name="input_passwor_on_mobile">\"Por favor ingrese la contraseña de Wi-Fi
-En la aplicación Amazfit watch\"</string>
+  <string name="input_passwor_on_mobile">\"\"Por favor ingrese la contraseña de Wi-Fi
+En la aplicación Amazfit watch\"\"</string>
   <string name="add_wifi">Añadir Wi-Fi</string>
   <string name="please_update_rom">Se ha encontrado una nueva versión del sistema, actualiza</string>
   <string name="checking_rom">Comprobación de nuevas versiones</string>
@@ -77,7 +77,7 @@ Otro hotspot Wi-Fi"</string>
   <string name="update_online">Actualización Por-el-Aire (OTA)</string>
   <string name="update_local">Actualizar desde archivo zip local</string>
   <string name="local_update_confirm_1_title">Por favor leer</string>
-  <string name="local_update_invalid_zip">La versión del SO es muy antigua,  se recomienda actualizar a la última versión.</string>
+  <string name="local_update_invalid_zip">La versión del paquete de sistema es demasiado baja, se recomiendo actualizar a la última versión</string>
   <string name="local_update_confirm_1_msg">"Para asegurarse que la nueva versión
 funcione correctamente, vamos a borrar
 todos los datos de usuario después de la actualización.
@@ -93,21 +93,21 @@ datos de usuario en el reloj, ¿Continuar?"</string>
   <string name="cancel">Cancelar</string>
   <string name="update_tips_0">Actualizando</string>
   <string name="update_tips_1">No apagues el reloj</string>
-  <string name="average_text">Media</string>
+  <string name="average_text">Med</string>
   <string name="menu_item_high_light_scale_factor">0.5</string>
   <string name="picker_default_positive_text">Confirmar</string>
-  <string name="picker_default_nagetive_text">Desactivado</string>
-  <string name="no_heartrate_data_hint">Frecuencia Cardiaca no detectada</string>
-  <string name="no_altitude_hint">Altitud no detectada</string>
+  <string name="picker_default_nagetive_text">Off</string>
+  <string name="no_heartrate_data_hint">Sin datos de FC</string>
+  <string name="no_altitude_hint">Sin datos de altitud</string>
   <string name="ui_lib_name">Hm_UILib</string>
-  <string name="title_settings">Configuración</string>
-  <string name="sport_music_settings">Musica Deportiva</string>
+  <string name="title_settings">Ajustes</string>
+  <string name="sport_music_settings">Música deportiva</string>
   <string name="widget_currentstep_title">Centro de datos</string>
-  <string name="widget_currentstep_activities">Pasos de hoy</string>
+  <string name="widget_currentstep_activities">Actividades</string>
   <string name="widget_currentstep_sleep_hour">h</string>
   <string name="widget_currentstep_sleep_min">min</string>
-  <string name="widget_currentstep_sleep_title">Has dormido</string>
-  <string name="widget_currentstep_sleep_no">No hay datos de sueño</string>
+  <string name="widget_currentstep_sleep_title">Sueño</string>
+  <string name="widget_currentstep_sleep_no">Sin datos de sueño</string>
   <string name="widget_currentstep_activity_no">¿No te ejercitas hoy?</string>
   <string name="locale_title">Seleccione idioma</string>
 </resources>
