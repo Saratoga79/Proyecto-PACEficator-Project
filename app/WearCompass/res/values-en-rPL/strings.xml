@@ -5,8 +5,8 @@
   <string name="action_settings">Ustawienia</string>
   <string name="latitude">Szer.</string>
   <string name="longitude">Długość</string>
-  <string name="north_latitude">Szr.geog.Pł.</string>
-  <string name="south_latitude">Szr.geog.Pn.</string>
+  <string name="north_latitude">Szr.geog.Pn.</string>
+  <string name="south_latitude">Szr.geog.Pd.</string>
   <string name="east_longitude">Dł.geog.Ws.</string>
   <string name="west_longitude">Dł.geog.Zc.</string>
   <string name="altitude">Wysok.(m)</string>
@@ -15,9 +15,9 @@
   <string name="ori_north">Pn.</string>
   <string name="ori_northeast">Pn.Ws.</string>
   <string name="ori_east">Ws.</string>
-  <string name="ori_southeast">Pł.Ws.</string>
-  <string name="ori_south">Pł.</string>
-  <string name="ori_southwest">Pł.Zc.</string>
+  <string name="ori_southeast">Pd.Ws.</string>
+  <string name="ori_south">Pd.</string>
+  <string name="ori_southwest">Pd.Zc.</string>
   <string name="ori_west">Zc.</string>
   <string name="ori_northwest">Pn.Zc.</string>
   <string name="correcting">Kalibracja</string>
@@ -29,8 +29,8 @@
   <string name="zero">0.00</string>
   <string name="latitude_longitude_value_format_str">%1$s°%2$s′%3$s″</string>
   <string name="gps_tip">"Nie można pobrać danych, spróbuj na zewnątrz pod gołym niebem."</string>
-  <string name="confirm">Zarwierdź</string>
+  <string name="confirm">Zatwierdź</string>
   <string name="unknown">--</string>
-  <string name="compass_roll_tip">"Ustaw tarczę 
-zegarka w poziomie."</string>
+  <string name="compass_roll_tip">"Ustaw tarczę zagarka
+w poziomie."</string>
 </resources>
