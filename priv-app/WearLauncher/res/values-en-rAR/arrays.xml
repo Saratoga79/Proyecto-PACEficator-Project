@@ -11,14 +11,14 @@
     <item>com.android.mms</item>
   </string-array>
   <string-array name="quick_settings_status_week">
-    <item>Sun</item>
-    <item>Mon</item>
-    <item>Tue</item>
-    <item>Wed</item>
-    <item>Thu</item>
-    <item>Fri</item>
-    <item>Sat</item>
-    <item>Today</item>
+    <item>الأحد</item>
+    <item>الإثنين</item>
+    <item>الثلاثاء</item>
+    <item>الأربعاء</item>
+    <item>الخميس</item>
+    <item>الجمعة</item>
+    <item>السبت</item>
+    <item>اليوم</item>
   </string-array>
   <string-array name="quick_settings_status_principleTerm">
     <item>Great cold</item>
@@ -31,7 +31,7 @@
     <item>Stopping the heat</item>
     <item>Autumn Equinox</item>
     <item>Hoar-frost falls</item>
-    <item>Light snow</item>
+    <item>ثلوج خفيفة</item>
     <item>Winter Solstice</item>
   </string-array>
   <string-array name="quick_settings_status_sectionalTerm">
@@ -46,7 +46,7 @@
     <item>White dews</item>
     <item>Cold dews</item>
     <item>Winter begins</item>
-    <item>Heavy snow</item>
+    <item>ثلج كثيف</item>
   </string-array>
   <string-array name="quick_settings_status_chineseTen">
     <item>Chu</item>
@@ -155,44 +155,44 @@
     <item>wfz3897e9.wfz</item>
   </string-array>
   <string-array name="weather_card_aqilevel">
-    <item>Air Excellent</item>
-    <item>Air Fine</item>
-    <item>Light Pollution</item>
-    <item>Moderate Pollution</item>
-    <item>Heavy Pollution</item>
-    <item>Serious Pollution</item>
+    <item>الجوية ممتازة</item>
+    <item>الجو جيد</item>
+    <item>تلوث خفيف</item>
+    <item>تلوث باعتدال</item>
+    <item>تلوث بشكل كبير</item>
+    <item>تلوث خطير</item>
     <item></item>
   </string-array>
   <string-array name="weather_card_quality">
-    <item>Suitable for Sports</item>
-    <item>Unsuitable for sports</item>
+    <item>مناسب للرياضة</item>
+    <item>غير مناسب للرياضة</item>
     <item></item>
   </string-array>
   <string-array name="quick_settings_status_weather">
-    <item>Sunny</item>
-    <item>Cloudy</item>
-    <item>Overcast</item>
-    <item>Fog</item>
-    <item>Smog</item>
-    <item>Shower</item>
-    <item>Thunder shower</item>
-    <item>Light rain</item>
-    <item>Moderate rain</item>
-    <item>Heavy rain</item>
-    <item>Rainstorm</item>
-    <item>Torrential rain</item>
-    <item>Sleet</item>
-    <item>Freezing rain</item>
-    <item>Hail</item>
-    <item>Light snow</item>
-    <item>Moderate snow</item>
-    <item>Heavy snow</item>
-    <item>Snowstorm</item>
-    <item>Snow shower</item>
-    <item>Dust</item>
-    <item>Blowing sand</item>
-    <item>Sand storm</item>
-    <item>Strong sand storm</item>
-    <item>No Data</item>
+    <item>مُشمِس</item>
+    <item>غائم</item>
+    <item>ملبد بالغيوم</item>
+    <item>ضباب</item>
+    <item>ضباب دخاني</item>
+    <item>أمطار خفيفة</item>
+    <item>أمطر رعدية</item>
+    <item>أمطار خفيفة</item>
+    <item>أمطار متوسطة</item>
+    <item>أمطار غزيرة</item>
+    <item>عاصفة ممطرة</item>
+    <item>هطول أمطار غزيرة</item>
+    <item>مطر متجمد</item>
+    <item>امطار متجمدة</item>
+    <item>برد</item>
+    <item>ثلوج خفيفة</item>
+    <item>ثلوج متوسطة</item>
+    <item>ثلج كثيف</item>
+    <item>عاصفة ثلجية</item>
+    <item>زخات الثلج</item>
+    <item>غبار</item>
+    <item>تهب الرمال</item>
+    <item>عاصفة رملية</item>
+    <item>عاصفة رملية قوية</item>
+    <item>لا توجد بيانات</item>
   </string-array>
 </resources>
