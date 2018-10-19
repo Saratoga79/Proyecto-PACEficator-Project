@@ -14,7 +14,7 @@
   </string-array>
   <string-array name="lab_item_selftest">
     <item>[prim]selftest</item>
-    <item>[sum]start selftest by yourself</item>
+    <item>[sum]bạn bắt đầu tự kiểm tra</item>
     <item>[action]com.huami.watch.selftest.START</item>
   </string-array>
   <string-array name="lab_item_open_applist">
@@ -34,8 +34,8 @@
     <item>[clazz]com.huami.moblie.watchsettings.actions.lab.labUI.LongSittingTimeActivity</item>
   </string-array>
   <string-array name="lab_item_wifi_signal_intensity">
-    <item>[prim]Signal strength</item>
-    <item>[sum]Signal strength test</item>
+    <item>[prim]Cường độ t.hiệu</item>
+    <item>[sum]Kiểm tra cường độ t.hiệu</item>
     <item>[pkg]com.huami.mobile.watchsettings</item>
     <item>[clazz]com.huami.moblie.watchsettings.actions.lab.labUI.WifiTestActivity</item>
   </string-array>
@@ -215,13 +215,13 @@
     <item>+13 Tongatapu</item>
   </string-array>
   <string-array name="light_mode_subtitle">
-    <item>Brightness: close</item>
-    <item>Brightness: auto</item>
-    <item>Brightness: 2</item>
-    <item>Brightness: 2</item>
-    <item>Brightness: 1</item>
-    <item>Brightness: 3</item>
-    <item>Brightness: 4</item>
-    <item>Brightness: 5</item>
+    <item>Độ sáng: tắt</item>
+    <item>Độ sáng: tự động</item>
+    <item>Độ sáng: 2</item>
+    <item>Độ sáng: 2</item>
+    <item>Độ sáng: 1</item>
+    <item>Độ sáng: 3</item>
+    <item>Độ sáng: 4</item>
+    <item>Độ sáng: 5</item>
   </string-array>
 </resources>
