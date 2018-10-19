@@ -10,14 +10,14 @@
   <string name="ui_lib_name">Hm_UILib</string>
   <string name="title_settings">Cài đặt</string>
   <string name="sport_music_settings">Âm nhạc</string>
-  <string name="widget_currentstep_title">T.tâm D.liệu</string>
+  <string name="widget_currentstep_title">Tổng hợp ngày</string>
   <string name="widget_currentstep_activities">Hoạt động</string>
   <string name="widget_currentstep_sleep_hour">g</string>
   <string name="widget_currentstep_sleep_min">phút</string>
-  <string name="widget_currentstep_sleep_title">Giấc ngủ</string>
-  <string name="widget_currentstep_sleep_no">Ko có dữ liệu giấc ngủ</string>
+  <string name="widget_currentstep_sleep_title">Ngủ</string>
+  <string name="widget_currentstep_sleep_no">Ko có dữ liệu</string>
   <string name="widget_currentstep_activity_no">Không hoạt động?</string>
-  <string name="settings_item_high_light_scale_factor">0,5</string>
+  <string name="settings_item_high_light_scale_factor">0.5</string>
   <string name="locale_title">Ngôn ngữ</string>
   <string name="double_click_wakeup_open">Bật</string>
   <string name="double_click_wakeup_close">Tắt</string>
@@ -45,7 +45,7 @@
   <string name="security">Security</string>
   <string name="preference">Preferences</string>
   <string name="preference_title">使用偏好</string>
-  <string name="light_change">亮度调节</string>
+  <string name="light_change">Đèn nền</string>
   <string name="wrist_up">Bật khi nâng lên</string>
   <string name="auto_nodisturb">T.gian im lặng</string>
   <string name="double_click_wakeup">Chạm để bật</string>
@@ -110,9 +110,9 @@
   <string name="zhinanzhen">La bàn</string>
   <string name="yinyue">Nhạc</string>
   <string name="report_bug_dialog_title">Phản hồi</string>
-  <string name="report_bug_dialog_desc">If there is a data error or the watch works abnormally, you can upload the data through the feedback feature to our server for analysis. During this process, the previously generated logs on the watch will be automatically collected and uploaded. These logs are used only for problem analysis, and will be destroyed immediately after that. During the entire process we will comply with our Privacy Policy, view details of the policy on the Amazfit Watch app.</string>
+  <string name="report_bug_dialog_desc">Sau khi đồng hồ có lỗi dữ liệu, điều kiện bất thường, v.v., bạn có thể tải dữ liệu lên máy chủ thông qua chức năng phản hồi câu hỏi để phân tích bởi nhân viên sau bán hàng. Trong quá trình này, các nhật ký được tạo trước đây trên đồng hồ sẽ tự động được thu thập và tải lên. Các bản ghi này chỉ được sử dụng để phân tích vấn đề và sẽ được bảo mật nó sẽ bị hủy ngay lập tức sau khi phân tích. Toàn bộ quá trình sẽ tuân thủ chính sách bảo mật của chúng tôi. Để biết chi tiết, vui lòng xem chính sách bảo mật trên Ứng dụng đồng hồ Amazfit.</string>
   <string name="dialog_agree">Đồng ý</string>
-  <string name="dialog_quit">Thoát</string>
+  <string name="dialog_quit">Thoát ra</string>
   <string name="nothing">Trống</string>
   <string name="about_title">Giới thiệu</string>
   <string name="model">Kiểu</string>
@@ -153,8 +153,8 @@
   <string name="closed">Tắt</string>
   <string name="air_plane">Chế độ Máy bay</string>
   <string name="air_plane_mode_note">Chế độ máy bay sẽ tắt Bluetooth và Wi-Fi trên đồng hồ để tiết kiệm năng lượng. Nếu bạn cần sử dụng tính năng yêu cầu BT/WiFi, hãy tắt chế độ máy bay trong cài đặt hệ thống.</string>
-  <string name="yes">Yes</string>
-  <string name="no">No</string>
+  <string name="yes">Có</string>
+  <string name="no">Ko</string>
   <string name="settings_long_sit_reminder">C.báo d.chuyển</string>
   <string name="settings_off">Tắt</string>
   <string name="settings_on">Bật</string>
@@ -236,7 +236,7 @@ và nằm ở gần"</string>
   <string name="locale_applying">Đang áp dụng...</string>
   <string name="zh_cn">简体中文</string>
   <string name="en">English(U.S.)</string>
-  <string name="zh_hk">Tiếng Trung</string>
+  <string name="zh_hk">Traditional Chinese (Hong Kong)</string>
   <string name="zh_tw">繁體中文(台灣)</string>
   <string name="ru_ru">Русский</string>
   <string name="es_es">Español</string>
@@ -249,12 +249,12 @@ và nằm ở gần"</string>
   <string name="male">Nam</string>
   <string name="female">Nữ</string>
   <string name="centimeter">cm</string>
-  <string name="birth_year_unit">"Năm sinh"</string>
+  <string name="birth_year_unit">Năm sinh</string>
   <string name="height_unit">"Cao 
 cm"</string>
   <string name="weight_unit">"Nặng 
 kg"</string>
-  <string name="reset_factory_hint">恢复出厂后与你的手机断开连接并删除手表上的所有数据。下次绑定该手表后当前开通的交通卡可以继续使用。</string>
+  <string name="reset_factory_hint">Đặt về trạng thái xuất xưởng?</string>
   <string name="reset_factory_title">恢复出厂</string>
   <string name="reset_factory_noconnect_msg">"如需解绑手表请在Amazfit手表App进行。
  手表单方面恢复出厂后会移除银联卡和交通卡。
@@ -336,12 +336,12 @@ kg"</string>
   <string name="watch_mode_positive">确认开启</string>
   <string name="watch_mode_negative">Huỷ</string>
   <string name="replace_watchface">Giao diện</string>
-  <string name="screen_refresh">Secondhand</string>
+  <string name="screen_refresh">Kim giây</string>
   <string name="screen_refresh_on_string">Bật</string>
   <string name="screen_refresh_off_string">Tắt</string>
   <string name="confirm_shutdown">Tắt máy?</string>
   <string name="confirm_reboot">K.động lại?</string>
-  <string name="app_name">Cài đặt</string>
+  <string name="app_name">Cài đặt Đ.hồ</string>
   <string name="title_activity_long_sitting_time">LongSittingTimeActivity</string>
   <string name="lab_desc">Thu thập một phần của công cụ gỡ lỗi</string>
   <string name="unknown">T.bị ko xác định</string>
