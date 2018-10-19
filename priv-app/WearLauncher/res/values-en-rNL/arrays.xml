@@ -11,14 +11,14 @@
     <item>com.android.mms</item>
   </string-array>
   <string-array name="quick_settings_status_week">
-    <item>Zo</item>
-    <item>Ma</item>
-    <item>Di</item>
-    <item>Wo</item>
-    <item>Do</item>
-    <item>Vr</item>
-    <item>Za</item>
-    <item>Vandaag</item>
+    <item>Sun</item>
+    <item>Mon</item>
+    <item>Tue</item>
+    <item>Wed</item>
+    <item>Thu</item>
+    <item>Fri</item>
+    <item>Sat</item>
+    <item>Today</item>
   </string-array>
   <string-array name="quick_settings_status_principleTerm">
     <item>Great cold</item>
@@ -31,7 +31,7 @@
     <item>Stopping the heat</item>
     <item>Autumn Equinox</item>
     <item>Hoar-frost falls</item>
-    <item>Lichte sneeuw</item>
+    <item>Light snow</item>
     <item>Winter Solstice</item>
   </string-array>
   <string-array name="quick_settings_status_sectionalTerm">
@@ -46,7 +46,7 @@
     <item>White dews</item>
     <item>Cold dews</item>
     <item>Winter begins</item>
-    <item>Hevige sneeuw</item>
+    <item>Heavy snow</item>
   </string-array>
   <string-array name="quick_settings_status_chineseTen">
     <item>Chu</item>
@@ -123,20 +123,20 @@
     <item>wfzeacf94_us.wfz</item>
   </string-array>
   <string-array name="sort_a1609">
-    <item>com.huami.watch.watchface.AnalogWatchFaceSixteen</item>
-    <item>com.huami.watch.watchface.DigitalWatchFaceSportSeventeen</item>
-    <item>wfzd0b8cb.wfz</item>
-    <item>com.huami.watch.watchface.DigitalWatchFaceSportTwo</item>
-    <item>wfz03c6c7_us.wfz</item>
-    <item>wfzeacf94_us.wfz</item>
-    <item>wfzb33179.wfz</item>
-    <item>com.huami.watch.watchface.DigitalWatchFaceSportTwenty</item>
-    <item>com.huami.watch.watchface.DigitalWatchFaceSportNineteen</item>
-    <item>com.huami.watch.watchface.DigitalWatchFaceSportEighteen</item>
-    <item>wfz58ac65.wfz</item>
-    <item>wfz95a54c.wfz</item>
     <item>com.huami.watch.watchface.DigitalWatchFaceSportOne</item>
-    <item>wfz3897e9.wfz</item>
+    <item>com.huami.watch.watchface.DigitalWatchFaceSportTwo</item>
+    <item>com.huami.watch.watchface.DigitalWatchFaceSportFive</item>
+    <item>com.huami.watch.watchface.DigitalWatchFaceSportEight</item>
+    <item>com.huami.watch.watchface.DigitalWatchFaceSportSeven</item>
+    <item>com.huami.watch.watchface.DigitalWatchFaceSportThree</item>
+    <item>com.huami.watch.watchface.DigitalSport4WatchFace</item>
+    <item>com.huami.watch.watchface.DigitalWatchFaceSportSix</item>
+    <item>com.huami.watch.watchface.SunriseDigitalWatchFace</item>
+    <item>com.huami.watch.watchface.CubeDigitalWatchFace</item>
+    <item>com.huami.watch.watchface.GreenAnalogWatchFace</item>
+    <item>com.huami.watch.watchface.AnalogWatchFaceNine</item>
+    <item>com.huami.watch.watchface.AnalogWatchFaceTen</item>
+    <item>com.huami.watch.watchface.AnalogWatchFaceEleven</item>
   </string-array>
   <string-array name="sort_a1619">
     <item>com.huami.watch.watchface.AnalogWatchFaceSixteen</item>
@@ -155,44 +155,44 @@
     <item>wfz3897e9.wfz</item>
   </string-array>
   <string-array name="weather_card_aqilevel">
-    <item>Uitstekende lucht</item>
-    <item>Fijne lucht</item>
-    <item>Lichte vervuiling</item>
-    <item>Gemiddelde vervuiling</item>
-    <item>Zware vervuiling</item>
-    <item>Ernstige vervuiling</item>
+    <item>Air Excellent</item>
+    <item>Air Fine</item>
+    <item>Light Pollution</item>
+    <item>Moderate Pollution</item>
+    <item>Heavy Pollution</item>
+    <item>Serious Pollution</item>
     <item></item>
   </string-array>
   <string-array name="weather_card_quality">
-    <item>Geschikt voor Sport</item>
-    <item>Ongeschikt voor sporten</item>
+    <item>Suitable for Sports</item>
+    <item>Unsuitable for sports</item>
     <item></item>
   </string-array>
   <string-array name="quick_settings_status_weather">
-    <item>Zonnig</item>
-    <item>Bewolkt</item>
-    <item>Bewolking</item>
-    <item>Mist</item>
+    <item>Sunny</item>
+    <item>Cloudy</item>
+    <item>Overcast</item>
+    <item>Fog</item>
     <item>Smog</item>
-    <item>Bui</item>
-    <item>Stortbui</item>
-    <item>Lichte regen</item>
-    <item>Matige regen</item>
-    <item>Hevige regen</item>
-    <item>Regenstorm</item>
-    <item>Hevige regen</item>
-    <item>IJzel</item>
-    <item>IJsregen</item>
-    <item>Hagel</item>
-    <item>Lichte sneeuw</item>
-    <item>Matige sneeuw</item>
-    <item>Hevige sneeuw</item>
-    <item>Sneeuwstorm</item>
-    <item>Sneeuwbuien</item>
-    <item>Stof</item>
-    <item>Zandwind</item>
-    <item>Zandstorm</item>
-    <item>Zware zandstorm</item>
-    <item>Geen data</item>
+    <item>Shower</item>
+    <item>Thunder shower</item>
+    <item>Light rain</item>
+    <item>Moderate rain</item>
+    <item>Heavy rain</item>
+    <item>Rainstorm</item>
+    <item>Torrential rain</item>
+    <item>Sleet</item>
+    <item>Freezing rain</item>
+    <item>Hail</item>
+    <item>Light snow</item>
+    <item>Moderate snow</item>
+    <item>Heavy snow</item>
+    <item>Snowstorm</item>
+    <item>Snow shower</item>
+    <item>Dust</item>
+    <item>Blowing sand</item>
+    <item>Sand storm</item>
+    <item>Strong sand storm</item>
+    <item>No Data</item>
   </string-array>
 </resources>
