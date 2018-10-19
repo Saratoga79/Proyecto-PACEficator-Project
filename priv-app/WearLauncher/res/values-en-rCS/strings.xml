@@ -78,12 +78,12 @@ hodina od nabití"</string>
   <string name="call_phone_off">Zavěsit</string>
   <string name="call_sound_off">Ztišit</string>
   <string name="call_phone_ignore">Ignorovat</string>
-  <string name="world_cup_begin_to_start">比赛即将开始</string>
-  <string name="dialog_close">关闭</string>
+  <string name="world_cup_begin_to_start">Zápas brzy začne</string>
+  <string name="dialog_close">Vypnout</string>
   <string name="wathc_disconnection_title">Odpojeno</string>
   <string name="wathc_disconnection_content">Odpojeno od telefonu</string>
   <string name="notification_block">Blokovat</string>
-  <string name="notification_block_cancel">Zavřít</string>
+  <string name="notification_block_cancel">Zrušit</string>
   <string name="notification_block_ok">Potvrdit</string>
   <string name="notification_more_settings">Další nastavení</string>
   <string name="notification_time_just">Nyní</string>
@@ -106,7 +106,7 @@ hodina od nabití"</string>
   <string name="activity_not_found">Při provádění požadované akce došlo k problému.</string>
   <string name="data_checkfail_match">Počasí se neshoduje s daty v telefonu</string>
   <string name="data_checkfail_temp">Teplota je mimo rozsah</string>
-  <string name="data_checkfail_type">Neznámý typ počasí</string>
+  <string name="data_checkfail_type">Nelze rozpoznat typ počasí</string>
   <string name="notification_block_message">Od aplikace už nebudou přijímána oznámení</string>
   <string name="launcher_app_name">Launcher</string>
   <string name="hm_watch_sports_notification_km">Kilometry</string>
@@ -234,7 +234,7 @@ den"</string>
 dní"</string>
   <string name="cal_mail_all">E-mail všem hostům</string>
   <string name="cal_navigate_to">Navigovat do %s</string>
-  <string name="cal_navigate">Navigovat</string>
+  <string name="cal_navigate">Navigace</string>
   <string name="cal_where">Kde</string>
   <string name="cal_when">Když</string>
   <string name="cal_notes">Poznámky</string>
@@ -344,7 +344,7 @@ dní"</string>
   <string name="voice_action_setting">Nastavování…</string>
   <string name="voice_action_set">Nastaveno</string>
   <string name="voice_action_email_title">E-mail</string>
-  <string name="voice_action_navigate_title_mode_unknown">Navigovat</string>
+  <string name="voice_action_navigate_title_mode_unknown">Navigace</string>
   <string name="voice_action_navigate_title_mode_bike">Navigace (kolo)</string>
   <string name="voice_action_navigate_title_mode_drive">Navigace (auto)</string>
   <string name="voice_action_navigate_title_mode_public_transportation">Navigace (veřejná doprava)</string>
@@ -478,8 +478,8 @@ Je nám líto, Google vám s tím nemůže pomoci"</string>
   <string name="unknown_caller">Neznámý volající</string>
   <string name="incoming_call">Příchozí hovor</string>
   <string name="incoming_call_sending">Odesílání...</string>
-  <string name="av_next">Následující</string>
-  <string name="av_previous">Předcházející</string>
+  <string name="av_next">Další</string>
+  <string name="av_previous">Předchozí</string>
   <string name="av_thumbs_up">Palec nahoru</string>
   <string name="av_thumbs_down">Palec dolu</string>
   <string name="av_volume_up">Zesílit</string>
@@ -593,7 +593,7 @@ Zap."</string>
   <string name="battery_info_status_charging_usb">Nabíjení přes USB</string>
   <string name="battery_info_status_charging_wireless">Bezdrátové nabíjení</string>
   <string name="battery_info_status_discharging">Nenabíjí se</string>
-  <string name="battery_info_status_not_charging">Nenabijí se</string>
+  <string name="battery_info_status_not_charging">Nenabíjí se</string>
   <string name="battery_info_status_full">Nabito</string>
   <string name="battery_info_status_percentage">%</string>
   <string name="quick_settings_notification_title">Přerušení</string>
@@ -610,7 +610,7 @@ Zap."</string>
   <string name="more_on_weather_domain">Více na %s</string>
   <string name="batteryLevelUnit">%</string>
   <string name="watchface_custom_btn_title">Nastavení</string>
-  <string name="temp_unit_centigrade">℃</string>
+  <string name="temp_unit_centigrade">°C</string>
   <string name="temp_unit_fahrenheit">°F</string>
   <string name="temp_unit_degree">°</string>
   <string name="temp_to">~</string>
@@ -618,7 +618,7 @@ Zap."</string>
   <string name="type_to"> až </string>
   <string name="not_avalible_type">Žádná data</string>
   <string name="not_avalible_temp">--</string>
-  <string name="air_quality">Kvalita ovzduší </string>
+  <string name="air_quality">Kvalita ovzduší</string>
   <string name="weather_title">Počasí dnes</string>
   <string name="dot"> </string>
   <string name="air_good">Dobrá kvalita vzduchu</string>
@@ -644,7 +644,7 @@ Zap."</string>
   <string name="weather">Počasí</string>
   <string name="weather_warning">Předběžná varování</string>
   <string name="wind_strength">Síla větru</string>
-  <string name="date_time_format">dd-MM</string>
+  <string name="date_time_format">dd.MM.</string>
   <string name="weather_warning_level_blue">Modrá</string>
   <string name="weather_warning_level_orange">Oranžová</string>
   <string name="weather_warning_level_red">Červená</string>
@@ -668,7 +668,7 @@ Zap."</string>
   <string name="weather_warning_snowstorm">Sněhová vánice</string>
   <string name="data_check_log">"+------------------------+▂▃▄▅▆▇█▉ Chyba ověření meteorologických dat! %1$s▉█▇▆▅▄▃▂+------------------------+"</string>
   <string name="data_checkfail_json">Chyba formátu JSON</string>
-  <string name="average_text">Prum</string>
+  <string name="average_text">Prm</string>
   <string name="menu_item_high_light_scale_factor">0.5</string>
   <string name="picker_default_positive_text">Potvrdit</string>
   <string name="picker_default_nagetive_text">Vyp</string>
@@ -681,7 +681,7 @@ Zap."</string>
   <string name="widget_currentstep_activities">Aktivity</string>
   <string name="widget_currentstep_sleep_hour">h</string>
   <string name="widget_currentstep_sleep_min">min</string>
-  <string name="widget_currentstep_sleep_title">Spánek minulou noc</string>
+  <string name="widget_currentstep_sleep_title">Spánek</string>
   <string name="widget_currentstep_sleep_no">Žádná spánková data</string>
-  <string name="widget_currentstep_activity_no">Dnes žádné cvičení?</string>
+  <string name="widget_currentstep_activity_no">Dnes žádná aktivita?</string>
 </resources>
