@@ -67,7 +67,7 @@ với mạng Wifi khác"</string>
   <string name="update_online">Cập nhật qua OTA</string>
   <string name="update_local">Cập nhật từ file zip</string>
   <string name="local_update_confirm_1_title">Xin mời đọc</string>
-  <string name="local_update_invalid_zip">Phiên bản quá thấp, tải bản mới nhất</string>
+  <string name="local_update_invalid_zip">Phiên bản gói hệ thống quá cũ, bạn nên sử dụng phiên bản mới nhất để nâng cấp</string>
   <string name="local_update_confirm_1_msg">"Để đảm bảo phiên bản mới hoạt động tốt, 
 chúng tôi sẽ xóa tất cả dữ liệu người dùng sau khi cập nhật. 
 Vui lòng kết nối ứng dụng Amazfit Watch và sao lưu tất cả dữ liệu."</string>
@@ -76,13 +76,13 @@ Vui lòng kết nối ứng dụng Amazfit Watch và sao lưu tất cả dữ li
 xóa toàn bộ dữ liệu trên đồng hồ, Tiếp tục?"</string>
   <string name="OK">OK</string>
   <string name="yes">Yes</string>
-  <string name="no">Ko</string>
+  <string name="no">No</string>
   <string name="enter">OK</string>
   <string name="cancel">Hủy bỏ</string>
   <string name="update_tips_0">Đang c.nhật</string>
   <string name="update_tips_1">Vui lòng không tắt đồng hồ</string>
   <string name="average_text">Trb</string>
-  <string name="menu_item_high_light_scale_factor">0,5</string>
+  <string name="menu_item_high_light_scale_factor">0.5</string>
   <string name="picker_default_positive_text">Xác nhận</string>
   <string name="picker_default_nagetive_text">Tắt</string>
   <string name="no_heartrate_data_hint">Lỗi đọc dữ liệu nhịp tim</string>
@@ -90,12 +90,12 @@ xóa toàn bộ dữ liệu trên đồng hồ, Tiếp tục?"</string>
   <string name="ui_lib_name">Hm_UILib</string>
   <string name="title_settings">Cài đặt</string>
   <string name="sport_music_settings">Âm nhạc</string>
-  <string name="widget_currentstep_title">T.tâm D.liệu</string>
-  <string name="widget_currentstep_activities">Bước H.nay</string>
+  <string name="widget_currentstep_title">Tổng hợp ngày</string>
+  <string name="widget_currentstep_activities">Hoạt động</string>
   <string name="widget_currentstep_sleep_hour">g</string>
   <string name="widget_currentstep_sleep_min">phút</string>
-  <string name="widget_currentstep_sleep_title">Giấc ngủ</string>
-  <string name="widget_currentstep_sleep_no">Ko có dữ liệu giấc ngủ</string>
+  <string name="widget_currentstep_sleep_title">Ngủ</string>
+  <string name="widget_currentstep_sleep_no">Ko có dữ liệu</string>
   <string name="widget_currentstep_activity_no">Không hoạt động?</string>
   <string name="locale_title">Chọn Ngôn ngữ</string>
 </resources>
