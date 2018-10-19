@@ -40,9 +40,9 @@
     <item>[clazz]com.huami.moblie.watchsettings.actions.lab.labUI.WifiTestActivity</item>
   </string-array>
   <string-array name="lab_item_pointer_location">
-    <item>[prim]pointer location</item>
-    <item>[sum]open/close pointer</item>
-    <item>[sid]pointer_location</item>
+    <item>[prim] Zeigerposition</item>
+    <item>[Summe] Zeiger öffnen / schließen</item>
+    <item>[sid] Zeiger_Position</item>
   </string-array>
   <string-array name="time_zone_ids">
     <item>Pacific/Midway</item>
@@ -215,13 +215,13 @@
     <item>+13 Tongatapu</item>
   </string-array>
   <string-array name="light_mode_subtitle">
-    <item>Brightness: close</item>
-    <item>Brightness: auto</item>
-    <item>Brightness: 2</item>
-    <item>Brightness: 2</item>
-    <item>Brightness: 1</item>
-    <item>Brightness: 3</item>
-    <item>Brightness: 4</item>
-    <item>Brightness: 5</item>
+    <item>Helligkeit: Aus</item>
+    <item>Helligkeit: Auto</item>
+    <item>Helligkeit:2</item>
+    <item>Helligkeit:2</item>
+    <item>Helligkeit: 1</item>
+    <item>Helligkeit: 3</item>
+    <item>Helligkeit: 4</item>
+    <item>Helligkeit: 5</item>
   </string-array>
 </resources>
