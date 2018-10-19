@@ -11,60 +11,60 @@
     <item>com.android.mms</item>
   </string-array>
   <string-array name="quick_settings_status_week">
-    <item>Sun</item>
-    <item>Mon</item>
-    <item>Tue</item>
-    <item>Wed</item>
-    <item>Thu</item>
-    <item>Fri</item>
-    <item>Sat</item>
-    <item>Today</item>
+    <item>Вс</item>
+    <item>Пн</item>
+    <item>Вт</item>
+    <item>Ср</item>
+    <item>Чт</item>
+    <item>Пт</item>
+    <item>Сб</item>
+    <item>Сегодня</item>
   </string-array>
   <string-array name="quick_settings_status_principleTerm">
-    <item>Great cold</item>
-    <item>The rains</item>
-    <item>Vernal Equinox</item>
-    <item>Grain rain</item>
-    <item>Grain buds</item>
-    <item>Summer solstice</item>
-    <item>Great heat</item>
-    <item>Stopping the heat</item>
-    <item>Autumn Equinox</item>
-    <item>Hoar-frost falls</item>
-    <item>Light snow</item>
-    <item>Winter Solstice</item>
+    <item>Сильный холод</item>
+    <item>Осадки</item>
+    <item>День весеннего равноденствия</item>
+    <item>Дождь со снегом</item>
+    <item>Град</item>
+    <item>Летнее солнцестояние</item>
+    <item>Сильная жара</item>
+    <item>Спад жары</item>
+    <item>День осеннего равноденствия</item>
+    <item>Иней</item>
+    <item>Слабый снег</item>
+    <item>Зимнее солнцестояние</item>
   </string-array>
   <string-array name="quick_settings_status_sectionalTerm">
-    <item>Slight cold</item>
-    <item>Spring begins</item>
-    <item>Insects awaken</item>
-    <item>Clear and bright</item>
-    <item>Summer begins</item>
-    <item>Grain in ear</item>
-    <item>Slight heat</item>
-    <item>Autumn begins</item>
-    <item>White dews</item>
-    <item>Cold dews</item>
-    <item>Winter begins</item>
-    <item>Heavy snow</item>
+    <item>Слабый холод</item>
+    <item>Начало весны</item>
+    <item>Пробуждение насекомых</item>
+    <item>Ясно и ярко</item>
+    <item>Начало лета</item>
+    <item>Зерна в ухе</item>
+    <item>Легкая жара</item>
+    <item>Начало осени</item>
+    <item>Изморозь</item>
+    <item>Холодные росы</item>
+    <item>Начало зимы</item>
+    <item>Сильный снег</item>
   </string-array>
   <string-array name="quick_settings_status_chineseTen">
-    <item>Chu</item>
-    <item>Shi</item>
+    <item>Чу</item>
+    <item>Ши</item>
     <item>Er</item>
-    <item>San</item>
+    <item>Сан</item>
   </string-array>
   <string-array name="quick_settings_status_chineseNumber">
     <item>Yi</item>
     <item>Er</item>
-    <item>San</item>
+    <item>Сан</item>
     <item>Si</item>
-    <item>Wu</item>
-    <item>Liu</item>
-    <item>Qi</item>
-    <item>Ba</item>
+    <item>Ву</item>
+    <item>Лю</item>
+    <item>Ци</item>
+    <item>Ба</item>
     <item>Jiu</item>
-    <item>Shi</item>
+    <item>Ши</item>
     <item>ShiYi</item>
     <item>ShiEr</item>
   </string-array>
@@ -89,41 +89,55 @@
     <item>com.huami.watch.watchface.DigitalWatchFaceSportEight</item>
     <item>com.huami.watch.watchface.DigitalWatchFaceSportSeven</item>
     <item>com.huami.watch.watchface.DigitalWatchFaceSportThree</item>
-    <item>com.huami.watch.watchface.DigitalSport4WatchFace</item>
-    <item>com.huami.watch.watchface.DigitalWatchFaceSportSix</item>
+    <item>com.huami.watch.watchface.DigitalSport4WatchFace
+ </item>
+    <item>com.huami.watch.watchface.DigitalWatchFaceSportSix
+ </item>
     <item>com.huami.watch.watchface.SunriseDigitalWatchFace</item>
     <item>com.huami.watch.watchface.CubeDigitalWatchFace</item>
-    <item>com.huami.watch.watchface.GreenAnalogWatchFace</item>
-    <item>com.huami.watch.watchface.AnalogWatchFaceNine</item>
-    <item>com.huami.watch.watchface.AnalogWatchFaceTen</item>
+    <item>com.huami.watch.watchface.GreenAnalogWatchFace
+ </item>
+    <item>com.huami.watch.watchface.AnalogWatchFaceNine
+ </item>
+    <item>com.huami.watch.watchface.AnalogWatchFaceTen
+ </item>
     <item>com.huami.watch.watchface.AnalogWatchFaceEleven</item>
-    <item>com.huami.watch.watchface.DigitalWatchFaceSportTwelve</item>
+    <item>com.huami.watch.watchface.DigitalWatchFaceSportTwelve
+ </item>
     <item>com.huami.watch.watchface.AnalogWatchFaceThirteen</item>
     <item>com.huami.watch.watchface.AnalogWatchFaceFourteen</item>
     <item>wfzeacf94.wfz</item>
   </string-array>
   <string-array name="sort_a1612">
     <item>com.huami.watch.watchface.DigitalWatchFaceSportOne</item>
-    <item>com.huami.watch.watchface.DigitalWatchFaceSportTwo</item>
+    <item>com.huami.watch.watchface.DigitalWatchFaceSportTwo
+ </item>
     <item>com.huami.watch.watchface.DigitalWatchFaceSportFive</item>
     <item>com.huami.watch.watchface.DigitalWatchFaceSportEight</item>
     <item>com.huami.watch.watchface.DigitalWatchFaceSportSeven</item>
     <item>com.huami.watch.watchface.DigitalWatchFaceSportThree</item>
-    <item>com.huami.watch.watchface.DigitalSport4WatchFace</item>
-    <item>com.huami.watch.watchface.DigitalWatchFaceSportSix</item>
+    <item>com.huami.watch.watchface.DigitalSport4WatchFace
+</item>
+    <item>com.huami.watch.watchface.DigitalWatchFaceSportSix
+ </item>
     <item>com.huami.watch.watchface.SunriseDigitalWatchFace</item>
     <item>com.huami.watch.watchface.CubeDigitalWatchFace</item>
-    <item>com.huami.watch.watchface.GreenAnalogWatchFace</item>
-    <item>com.huami.watch.watchface.AnalogWatchFaceNine</item>
-    <item>com.huami.watch.watchface.AnalogWatchFaceTen</item>
+    <item>com.huami.watch.watchface.GreenAnalogWatchFace
+</item>
+    <item>com.huami.watch.watchface.AnalogWatchFaceNine
+ </item>
+    <item>com.huami.watch.watchface.AnalogWatchFaceTen
+ </item>
     <item>com.huami.watch.watchface.AnalogWatchFaceEleven</item>
-    <item>com.huami.watch.watchface.DigitalWatchFaceSportTwelve</item>
+    <item>com.huami.watch.watchface.DigitalWatchFaceSportTwelve
+ </item>
     <item>com.huami.watch.watchface.AnalogWatchFaceThirteen</item>
     <item>com.huami.watch.watchface.AnalogWatchFaceFourteen</item>
     <item>wfzeacf94_us.wfz</item>
   </string-array>
   <string-array name="sort_a1609">
-    <item>com.huami.watch.watchface.AnalogWatchFaceSixteen</item>
+    <item>com.huami.watch.watchface.AnalogWatchFaceSixteen
+</item>
     <item>com.huami.watch.watchface.DigitalWatchFaceSportSeventeen</item>
     <item>wfzd0b8cb.wfz</item>
     <item>com.huami.watch.watchface.DigitalWatchFaceSportTwo</item>
@@ -132,14 +146,16 @@
     <item>wfzb33179.wfz</item>
     <item>com.huami.watch.watchface.DigitalWatchFaceSportTwenty</item>
     <item>com.huami.watch.watchface.DigitalWatchFaceSportNineteen</item>
-    <item>com.huami.watch.watchface.DigitalWatchFaceSportEighteen</item>
+    <item>com.huami.watch.watchface.DigitalWatchFaceSportEighteen
+</item>
     <item>wfz58ac65.wfz</item>
     <item>wfz95a54c.wfz</item>
     <item>com.huami.watch.watchface.DigitalWatchFaceSportOne</item>
-    <item>wfz3897e9.wfz</item>
+    <item>wfz3897ac9.wfz</item>
   </string-array>
   <string-array name="sort_a1619">
-    <item>com.huami.watch.watchface.AnalogWatchFaceSixteen</item>
+    <item>com.huami.watch.watchface.AnalogWatchFaceSixteen
+ </item>
     <item>com.huami.watch.watchface.DigitalWatchFaceSportSeventeen</item>
     <item>wfzd0b8cb.wfz</item>
     <item>com.huami.watch.watchface.DigitalWatchFaceSportTwo</item>
@@ -148,51 +164,52 @@
     <item>wfzb33179.wfz</item>
     <item>com.huami.watch.watchface.DigitalWatchFaceSportTwenty</item>
     <item>com.huami.watch.watchface.DigitalWatchFaceSportNineteen</item>
-    <item>com.huami.watch.watchface.DigitalWatchFaceSportEighteen</item>
+    <item>com.huami.watch.watchface.DigitalWatchFaceSportEighteen
+ </item>
     <item>wfz58ac65.wfz</item>
     <item>wfz95a54c.wfz</item>
     <item>com.huami.watch.watchface.DigitalWatchFaceSportOne</item>
-    <item>wfz3897e9.wfz</item>
+    <item>wfz3897ac9.wfz</item>
   </string-array>
   <string-array name="weather_card_aqilevel">
-    <item>Air Excellent</item>
-    <item>Air Fine</item>
-    <item>Light Pollution</item>
-    <item>Moderate Pollution</item>
-    <item>Heavy Pollution</item>
-    <item>Serious Pollution</item>
+    <item>Отличный воздух</item>
+    <item>Чистый воздух</item>
+    <item>Легкое загрязнение</item>
+    <item>Умеренное загрязнение</item>
+    <item>Сильное загрязнение</item>
+    <item>Серьезное загрязнение</item>
     <item></item>
   </string-array>
   <string-array name="weather_card_quality">
-    <item>Suitable for Sports</item>
-    <item>Unsuitable for sports</item>
+    <item>Подходит для спорта</item>
+    <item>Не подходит для спорта</item>
     <item></item>
   </string-array>
   <string-array name="quick_settings_status_weather">
-    <item>Sunny</item>
-    <item>Cloudy</item>
-    <item>Overcast</item>
-    <item>Fog</item>
-    <item>Smog</item>
-    <item>Shower</item>
-    <item>Thunder shower</item>
-    <item>Light rain</item>
-    <item>Moderate rain</item>
-    <item>Heavy rain</item>
-    <item>Rainstorm</item>
-    <item>Torrential rain</item>
-    <item>Sleet</item>
-    <item>Freezing rain</item>
-    <item>Hail</item>
-    <item>Light snow</item>
-    <item>Moderate snow</item>
-    <item>Heavy snow</item>
-    <item>Snowstorm</item>
-    <item>Snow shower</item>
-    <item>Dust</item>
-    <item>Blowing sand</item>
-    <item>Sand storm</item>
-    <item>Strong sand storm</item>
-    <item>No Data</item>
+    <item>Солнечно</item>
+    <item>Облачно</item>
+    <item>Пасмурно</item>
+    <item>Туман</item>
+    <item>Смог</item>
+    <item>Ливень</item>
+    <item>Гроза</item>
+    <item>Небольшой дождь</item>
+    <item>Умеренный дождь</item>
+    <item>Сильный дождь</item>
+    <item>Ливень</item>
+    <item>Проливной дождь</item>
+    <item>Мокрый снег</item>
+    <item>Ледяной дождь</item>
+    <item>Град</item>
+    <item>Слабый снег</item>
+    <item>Умеренный снег</item>
+    <item>Сильный снег</item>
+    <item>Метель</item>
+    <item>Снегопад</item>
+    <item>Пыль</item>
+    <item>Ветер с песком</item>
+    <item>Песчаная буря</item>
+    <item>Сильная песчаная буря</item>
+    <item>Нет данных</item>
   </string-array>
 </resources>
