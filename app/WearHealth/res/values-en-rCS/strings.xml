@@ -11,7 +11,7 @@
   <string name="ui_lib_name">Hm_UILib</string>
   <string name="title_settings">Nastavení</string>
   <string name="sport_music_settings">Sportovní hudba</string>
-  <string name="widget_currentstep_title">Zdraví</string>
+  <string name="widget_currentstep_title">Denní přehled</string>
   <string name="widget_currentstep_activities">Aktivity</string>
   <string name="widget_currentstep_sleep_hour">h</string>
   <string name="widget_currentstep_sleep_min">min</string>
@@ -92,11 +92,11 @@
   <string name="settings_off">Vyp</string>
   <string name="settings_on">Zap</string>
   <string name="settings_step_target">Cílový počet kroků</string>
-  <string name="settings_step_unit">Kroky</string>
+  <string name="settings_step_unit">Kroků</string>
   <string name="settings_target_reach_reminder">Upoz. na cíl</string>
   <string name="no_sleep_info">Spánek nezjištěn</string>
   <string name="today_sleep_info">Spánek</string>
-  <string name="loading_sleep_info">Načítám</string>
+  <string name="loading_sleep_info">Načítání</string>
   <string name="start_sleep">%1$s</string>
   <string name="wake_up">%1$s</string>
   <string name="total_deep_sleep">Čas v hlubokém spánku</string>
@@ -115,7 +115,7 @@
   <string name="date_today">Dnes</string>
   <string name="sleep_detail_title">Historie</string>
   <string name="dlg_confirm">Potvrdit</string>
-  <string name="dlg_cancel">Zavřít</string>
+  <string name="dlg_cancel">Zrušit</string>
   <string name="am">Dop.</string>
   <string name="pm">Odp.</string>
   <string name="all_day_hearte_rate_button_open">Zapnout kontinuální měření TF</string>
@@ -131,7 +131,7 @@
   <string name="label_all_day_heartrate">Kontinuální TF</string>
   <string name="label_all_day_heartrate_open">Povolit</string>
   <string name="label_all_day_heartrate_close">Zakázat</string>
-  <string name="label_all_day_heartrate_cancle">Zavřít</string>
+  <string name="label_all_day_heartrate_cancle">Zrušit</string>
   <string name="label_all_day_recently">Poslední</string>
   <string name="label_all_day_quite">Odpočinek</string>
   <string name="label_heart_rate_bmps">bpm</string>
@@ -153,9 +153,9 @@
   <string name="stretch_dialog_title">Čas se protáhnout</string>
   <string name="stretch_dialog_subtitle">Dnes sedíte příliš dlouho</string>
   <string name="stretch_dialog_content">Přiměřené činnosti můžou pomoci zmírnit sedavou ztuhlost zad, sleduj video, dělej několik sad protažení v kanceláři!</string>
-  <string name="stretch_dialog_cancel">Zavřít</string>
+  <string name="stretch_dialog_cancel">Zrušit</string>
   <string name="stretch_dialog_start">Start</string>
-  <string name="stretch_dialog_button">"Zahájit strečing"</string>
+  <string name="stretch_dialog_button">Zahájit strečing</string>
   <string name="stretch_connection_failed_title">"Nelze se připojit k telefonu
 "</string>
   <string name="stretch_connection_failed_content">"Ujistěte se, že hodinky jsou připojeny k vašemu telefonu a je spuštěna aplikace Amazfit Watch
@@ -182,7 +182,7 @@
   <string name="widget_step_target_day_tips"><liff>%d</liff> před několika dny</string>
   <string name="widget_step_target_month_tips"><liff>%d</liff> před několika měsíci</string>
   <string name="widget_step_target_year_tips"><liff>%d</liff> před několika lety</string>
-  <string name="widget_label_step_unit">Kroky</string>
+  <string name="widget_label_step_unit">Kroků</string>
   <string name="widget_label_heartrate">Tepová frekvence</string>
   <string name="widget_label_heartrate_unit">tepů/min</string>
   <string name="widget_heartrate_gauging">Měřím...</string>
