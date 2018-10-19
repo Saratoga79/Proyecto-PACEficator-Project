@@ -28,8 +28,8 @@
     <item>sport_target_remind_desc_01</item>
   </string-array>
   <string-array name="support_sport">
-    <item>RUNNING</item>
-    <item>WALKING</item>
+    <item>TRČANJE</item>
+    <item>HODANJE</item>
     <item>CROSSING</item>
     <item>INDOOR_RUN</item>
     <item>OUTDOOR_RIDING</item>
@@ -41,18 +41,18 @@
     <item>TENNIS</item>
   </string-array>
   <string-array name="dally_performence_level_status">
-    <item>Fatigued</item>
-    <item>Average</item>
-    <item>Good</item>
+    <item>Umoran</item>
+    <item>Prosječno</item>
+    <item>Dobro</item>
   </string-array>
   <string-array name="vo2_max_level_status">
-    <item>Very Poor</item>
-    <item>Fair</item>
-    <item>Poor</item>
-    <item>Average</item>
-    <item>Good</item>
-    <item>Very Good</item>
-    <item>Excellent</item>
+    <item>Jako loše</item>
+    <item>Loše</item>
+    <item>Slabo</item>
+    <item>Prosj.</item>
+    <item>Dobro</item>
+    <item>Jako dobro</item>
+    <item>Izvrsno</item>
   </string-array>
   <string-array name="spring_depend">
     <item>com.huami.watch.newsport/com.huami.watch.newsport.widget.SportWidget</item>
