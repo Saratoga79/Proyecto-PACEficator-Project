@@ -13,8 +13,8 @@ ažuriranja</string>
 Amazfit Watch aplikaciju za unos
 Wi-Fi zaporke za sat</string>
   <string name="wifi_add_item">Povežite Amazfit Watch aplikaciju da dodate novi Wi-Fi hotspot za sat</string>
-  <string name="input_passwor_on_mobile">\"Unesite Wi-Fi zaporku 
-u Amazfit Watch aplikaciju\"</string>
+  <string name="input_passwor_on_mobile">\"\"Unesite Wi-Fi zaporku 
+u Amazfit Watch aplikaciju\"\"</string>
   <string name="add_wifi">Dodaj Wi-Fi</string>
   <string name="please_update_rom">Pronađena je nova verzija sustava, ažurirajte ga</string>
   <string name="checking_rom">Provjera za novom verzijom</string>
@@ -74,8 +74,7 @@ drugi Wi-Fi hotspot"</string>
   <string name="update_online">Over-the-Air ažuriranje</string>
   <string name="update_local">Ažuriraj iz lokalne zip datoteke</string>
   <string name="local_update_confirm_1_title">Pročitajte</string>
-  <string name="local_update_invalid_zip">Recovery verzija je prestara,
-Preporuča se nadogradnja na najnoviju verziju</string>
+  <string name="local_update_invalid_zip">Verzija sustava paketa preniska je, preporučuje se nadogradnja najnovije verzije</string>
   <string name="local_update_confirm_1_msg">"Da biste osigurali da nova verzija
 ispravno funkcionira, izbrisat ćemo sve
 korisničke podatke nakon ažuriranja. Povežite se
@@ -94,7 +93,7 @@ korisničke podatke na satu. Nastaviti?"</string>
   <string name="average_text">Prosj.</string>
   <string name="menu_item_high_light_scale_factor">0.5</string>
   <string name="picker_default_positive_text">Potvrdi</string>
-  <string name="picker_default_nagetive_text">Isključi</string>
+  <string name="picker_default_nagetive_text">Isklj.</string>
   <string name="no_heartrate_data_hint">Podaci otkucaj srca nisu otkriveni</string>
   <string name="no_altitude_hint">Podaci o nadmorskoj visini nisu otkriveni</string>
   <string name="ui_lib_name">Hm_UILib</string>
@@ -106,6 +105,6 @@ korisničke podatke na satu. Nastaviti?"</string>
   <string name="widget_currentstep_sleep_min">min</string>
   <string name="widget_currentstep_sleep_title">Spavanje</string>
   <string name="widget_currentstep_sleep_no">Nema podataka spavanja</string>
-  <string name="widget_currentstep_activity_no">Nema aktivnosti danas?</string>
+  <string name="widget_currentstep_activity_no">Nećete vježbati danas?</string>
   <string name="locale_title">Odaberite jezik</string>
 </resources>
