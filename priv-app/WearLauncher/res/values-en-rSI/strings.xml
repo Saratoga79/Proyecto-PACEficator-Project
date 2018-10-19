@@ -42,7 +42,7 @@
   <string name="quick_settings_disconnect">Brez povezave</string>
   <string name="quick_settings_unbound">Najprej seznanite</string>
   <string name="quick_settings_date_chinese">dd-MM-yyyy</string>
-  <string name="quick_settings_date_format">1900-1-31</string>
+  <string name="quick_settings_date_format">31-1-1900</string>
   <string name="quick_settings_date_yeareve">Novo leto</string>
   <string name="seconed_confirm_nodisturb">"Tihi način aktiviran
 Nova obvestila se ne bodo prikazovala."</string>
@@ -55,7 +55,7 @@ Nova obvestila se ne bodo prikazovala."</string>
   <string name="quick_settings_battery_charging_intervalLessHour">"Manj kot 1 ura
 od zadnjega polnjenja"</string>
   <string name="quick_settings_battery_sportString">Trajanje baterije v športnem načinu</string>
-  <string name="quick_settings_battery_sporttime_hour_unit">ur</string>
+  <string name="quick_settings_battery_sporttime_hour_unit">ura</string>
   <string name="quick_settings_battery_sporttime_KM_unit">km</string>
   <string name="quick_settings_battery_level_unit">%</string>
   <string name="quick_settings_battery_sporttime_MI_unit">mi</string>
@@ -77,9 +77,9 @@ od zadnjega polnjenja"</string>
   <string name="header_incomming_call_unknowncall">Neznana številka</string>
   <string name="call_phone_off">Ring off</string>
   <string name="call_sound_off">Silence</string>
-  <string name="call_phone_ignore">Prezri</string>
-  <string name="world_cup_begin_to_start">比赛即将开始</string>
-  <string name="dialog_close">关闭</string>
+  <string name="call_phone_ignore">Ignore</string>
+  <string name="world_cup_begin_to_start">The match is about to begin</string>
+  <string name="dialog_close">Shut down</string>
   <string name="wathc_disconnection_title">Brez povezave</string>
   <string name="wathc_disconnection_content">Prekinjena povezava s telefonom</string>
   <string name="notification_block">Blokiraj</string>
@@ -105,8 +105,8 @@ od zadnjega polnjenja"</string>
   <string name="action_working">Na poti...</string>
   <string name="activity_not_found">Prišlo je do težave pri dokončanju zahtevanega ukrepa.</string>
   <string name="data_checkfail_match">Polja z vremenskimi tipi se ne ujemajo</string>
-  <string name="data_checkfail_temp">Temperatura je izven območja</string>
-  <string name="data_checkfail_type">Neprepoznana vremenska vrsta</string>
+  <string name="data_checkfail_temp">Vremenske temperature izven dosega</string>
+  <string name="data_checkfail_type">Ni mogoče prepoznati vrste vremena</string>
   <string name="notification_block_message">Ne prejemam več obvestil aplikacij</string>
   <string name="launcher_app_name">Zaganjalnik</string>
   <string name="hm_watch_sports_notification_km">Kilometri</string>
@@ -133,7 +133,7 @@ od zadnjega polnjenja"</string>
   <string name="notification_red_envelop">[红包]</string>
   <string name="notitification_ios_wechat_red_content_pattern">: \\[红包\\]</string>
   <string name="notification_ios_qq_red_content_pattern">:\\[QQ红包\\]</string>
-  <string name="notification_alipay_nunber_pattern">\\[\\d{1,3}.*?člen\\]</string>
+  <string name="notification_alipay_nunber_pattern">\\[\\d{1,3}.*?条\\]</string>
   <string name="notification_ios_alipay_group_red_pattern">^\\[群消息\\]</string>
   <string name="notification_fireworks_title">新春快乐！</string>
   <string name="notification_fireworks_content">祝大家万事如意！</string>
@@ -587,7 +587,7 @@ Vključen"</string>
   <string name="power_charging_duration_ac">%1$d%% - %2$s do polnega na AC</string>
   <string name="power_charging_duration_usb">%1$d%% - %2$s do polnega na USB</string>
   <string name="power_charging_duration_wireless">%1$d%% - %2$s do polnega na brezžičnem</string>
-  <string name="battery_info_status_unknown">--</string>
+  <string name="battery_info_status_unknown">Neznano</string>
   <string name="battery_info_status_charging">Polnjenje</string>
   <string name="battery_info_status_charging_ac">Polnjenje na AC</string>
   <string name="battery_info_status_charging_usb">Polnjenje preko USB</string>
@@ -602,7 +602,7 @@ Vključen"</string>
   <string name="quick_settings_notifications_priority">Samo prioritetni</string>
   <string name="quick_settings_notifications_all">Pokaži vse</string>
   <string name="state_on">Vklopljeno</string>
-  <string name="state_off">Izključeno</string>
+  <string name="state_off">Izklopljeno</string>
   <string name="quick_settings_sunlight_title">Sončni način</string>
   <string name="theater_mode">Tihi način</string>
   <string name="theater_mode_toast_button">Če želite znova vključiti zaslon, pritisnite stransko tipko</string>
@@ -641,7 +641,7 @@ Vključen"</string>
   <string name="outdoor_info_notsuit">Neprimerno za zunanje aktivnosti</string>
   <string name="outdoor_info_suit">Primerno za zunanje aktivnosti</string>
   <string name="uv">UV žarki</string>
-  <string name="weather">WearAirPlaneModeDialog</string>
+  <string name="weather">Vreme</string>
   <string name="weather_warning">Predopozorilo</string>
   <string name="wind_strength">Jakost vetra</string>
   <string name="date_time_format">dd-MM</string>
@@ -671,17 +671,17 @@ Vključen"</string>
   <string name="average_text">Povp.</string>
   <string name="menu_item_high_light_scale_factor">0.5</string>
   <string name="picker_default_positive_text">Potrdi</string>
-  <string name="picker_default_nagetive_text">Izključeno</string>
+  <string name="picker_default_nagetive_text">Izklopljeno</string>
   <string name="no_heartrate_data_hint">Podatki o srčnem utripu niso bili zaznani</string>
   <string name="no_altitude_hint">Podatki o višini niso bili zaznani</string>
   <string name="ui_lib_name">Hm_UILib</string>
   <string name="title_settings">Nastavitve</string>
   <string name="sport_music_settings">Športna glasba</string>
-  <string name="widget_currentstep_title">Dnevni pregled</string>
-  <string name="widget_currentstep_activities">Aktivnosti</string>
+  <string name="widget_currentstep_title">Daily Overview</string>
+  <string name="widget_currentstep_activities">Activities</string>
   <string name="widget_currentstep_sleep_hour">h</string>
   <string name="widget_currentstep_sleep_min">min</string>
-  <string name="widget_currentstep_sleep_title">Sleep last night</string>
-  <string name="widget_currentstep_sleep_no">Ni podatkov o spancu</string>
-  <string name="widget_currentstep_activity_no">Danes brez aktivnosti?</string>
+  <string name="widget_currentstep_sleep_title">Sleep</string>
+  <string name="widget_currentstep_sleep_no">No sleep data</string>
+  <string name="widget_currentstep_activity_no">No activity today?</string>
 </resources>
