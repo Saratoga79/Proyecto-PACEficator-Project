@@ -6,7 +6,7 @@
   <string name="quick_settings_tiles">default</string>
   <string name="velocity_tracker_impl">platform</string>
   <string name="doze_pulse_schedule">1s,10s,30s,60s</string>
-  <string name="system_ui_date_pattern">@android:string/system_ui_date_pattern</string>
+  <string name="system_ui_date_pattern">\@android:string/system_ui_date_pattern</string>
   <string name="lland">L Land</string>
   <string name="app_label">System UI</string>
   <string name="status_bar_clear_all_button">Kendu</string>
@@ -24,17 +24,17 @@
 Erabili kargagailu egokia soilik"</string>
   <string name="invalid_charger_title">USB kargatzea ez da onartzen.</string>
   <string name="invalid_charger_text">Erabili kargagailu egokia soilik</string>
-  <string name="battery_low_why">Esleipen gehiago</string>
+  <string name="battery_low_why">Ezarpenak</string>
   <string name="battery_saver_confirmation_title">Bateria aurrezpena aktibatu?</string>
   <string name="battery_saver_confirmation_ok">Aktibatu</string>
-  <string name="battery_saver_start_action">Bateria aurrezlea aktibatu</string>
-  <string name="status_bar_settings_settings_button">Konigurazioa</string>
+  <string name="battery_saver_start_action">Bateria aurrezpena aktibatu</string>
+  <string name="status_bar_settings_settings_button">Ezarpenak</string>
   <string name="status_bar_settings_wifi_button">Wi-Fi</string>
   <string name="status_bar_settings_airplane">Egazkin modua</string>
   <string name="status_bar_settings_auto_rotation">Pantaila biratze automatikoa</string>
   <string name="status_bar_settings_mute_label">MUTE</string>
   <string name="status_bar_settings_auto_brightness_label">AUTO</string>
-  <string name="status_bar_settings_notifications">Notificações</string>
+  <string name="status_bar_settings_notifications">Jakinarazpenak</string>
   <string name="status_bar_network_name_separator">|</string>
   <string name="bluetooth_tethered">Bluetooth dautak gaituta</string>
   <string name="status_bar_input_method_settings_configure_input_methods">Sarrera metodoak definitu</string>
@@ -151,7 +151,7 @@ Erabili kargagailu egokia soilik"</string>
   <string name="accessibility_desc_notification_shade">Jakinarazpenik gabe.</string>
   <string name="accessibility_desc_quick_settings">Ezarpen azkarrak.</string>
   <string name="accessibility_desc_lock_screen">Pantaila blokeatuta.</string>
-  <string name="accessibility_desc_settings">Konigurazioa</string>
+  <string name="accessibility_desc_settings">Ezarpenak</string>
   <string name="accessibility_desc_recent_apps">Ikuspen orokorrak.</string>
   <string name="accessibility_quick_settings_user">%s erabiltzailea.</string>
   <string name="accessibility_quick_settings_wifi">%1$s.</string>
@@ -266,7 +266,7 @@ Ligar novamente pode levar à cobranças por parte de sua operadora."</string>
   <string name="recents_empty_message">Suas telas recentes aparecem aqui</string>
   <string name="recents_app_info_button_label">Informações do App</string>
   <string name="recents_lock_to_app_button_label">fixação de tela</string>
-  <string name="recents_search_bar_label">bilatu</string>
+  <string name="recents_search_bar_label">buscar</string>
   <string name="recents_launch_error_message">Não pode iniciar %s.</string>
   <string name="expanded_header_battery_charged">Carregado</string>
   <string name="expanded_header_battery_charging">Carregando</string>
@@ -410,7 +410,7 @@ Além disso, você está conectado à uma VPN (\"%3$s\"). Seu provedor VPN pode 
   <string name="quick_settings_reset_confirmation_title">Esconder %1$s?</string>
   <string name="quick_settings_reset_confirmation_message">Irá reaparecer na próxima vez que você ligá-lo nas configurações.</string>
   <string name="quick_settings_reset_confirmation_button">Esconder</string>
-  <string name="ok">@android:string/ok</string>
+  <string name="ok">\@android:string/ok</string>
   <string name="widget_default_package_name"></string>
   <string name="widget_default_class_name"></string>
   <string name="abbrev_wday_month_day_no_year">EEEEMMMMd</string>
@@ -492,7 +492,7 @@ Além disso, você está conectado à uma VPN (\"%3$s\"). Seu provedor VPN pode 
   <string name="keyboardview_keycode_shift">Shift</string>
   <string name="keyboardview_keycode_enter">Enter</string>
   <string name="description_target_unlock">Desbloquear</string>
-  <string name="description_target_camera">Kamera</string>
+  <string name="description_target_camera">Câmera</string>
   <string name="description_target_silent">Silencioso</string>
   <string name="description_target_soundon">Som ligado</string>
   <string name="description_direction_down">Deslize para baixo para %s.</string>
