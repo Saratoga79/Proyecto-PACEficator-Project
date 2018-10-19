@@ -3,7 +3,7 @@
 <resources>
   <string name="locale_title">Chọn Ngôn ngữ</string>
   <string name="average_text">Trb</string>
-  <string name="menu_item_high_light_scale_factor">0,5</string>
+  <string name="menu_item_high_light_scale_factor">0.5</string>
   <string name="picker_default_positive_text">Xác nhận</string>
   <string name="picker_default_nagetive_text">Tắt</string>
   <string name="no_heartrate_data_hint">Lỗi đọc dữ liệu nhịp tim</string>
@@ -11,14 +11,14 @@
   <string name="ui_lib_name">Hm_UILib</string>
   <string name="title_settings">Cài đặt</string>
   <string name="sport_music_settings">Âm nhạc</string>
-  <string name="widget_currentstep_title">Sức khỏe</string>
+  <string name="widget_currentstep_title">Tổng hợp ngày</string>
   <string name="widget_currentstep_activities">Hoạt động</string>
   <string name="widget_currentstep_sleep_hour">g</string>
   <string name="widget_currentstep_sleep_min">phút</string>
-  <string name="widget_currentstep_sleep_title">Ngủ tối qua</string>
-  <string name="widget_currentstep_sleep_no">Ko có dữ liệu giấc ngủ</string>
+  <string name="widget_currentstep_sleep_title">Ngủ</string>
+  <string name="widget_currentstep_sleep_no">Ko có dữ liệu</string>
   <string name="widget_currentstep_activity_no">Không hoạt động?</string>
-  <string name="currentstep_detail_title">Chi tiêt</string>
+  <string name="currentstep_detail_title">Chi tiết</string>
   <string name="action_badge_activated">com.huami.watch.health.BADGE_ACTIVATED</string>
   <string name="action_badge_dumped">com.huami.watch.health.BADGE_DUMPED</string>
   <string name="app_name">Sức khỏe</string>
@@ -122,7 +122,7 @@
   <string name="all_day_hearte_rate_button_close">Tắt nhịp tim liên tục</string>
   <string name="heart_rate_no_data">N/A</string>
   <string name="label_heart_rate_text">Nhịp tim</string>
-  <string name="today_heart_rate_title_text">Chi tiêt</string>
+  <string name="today_heart_rate_title_text">Chi tiết</string>
   <string name="today_heart_rate_ave_text">Trung bình</string>
   <string name="today_heart_rate_max_text">Max(bpm)</string>
   <string name="today_heart_rate_min_text">Min(bpm)</string>
@@ -192,7 +192,7 @@
   <string name="widget_err_step_shown">ERR:(-1)</string>
   <string name="widget_heart_gauged_err">Lỗi đọc kết quả</string>
   <string name="widget_heart_gauged_err_tips">Đeo đồng hồ trên cổ tay.</string>
-  <string name="widget_weeklysports_heartrate_unit">bPM</string>
+  <string name="widget_weeklysports_heartrate_unit">bpm</string>
   <string name="widget_sleep_conment">Ngủ rất tốt tuần này, cố gắng nhé!</string>
   <string name="weeklysports_title">H.động hàng tuần</string>
   <string name="weeklysports_totalnumber_front">Tổng lần tập</string>
@@ -243,7 +243,7 @@
   <string name="currentstep_detail_triathlon_short">3 Môn</string>
   <string name="currentstep_detail_mountain">Leo núi</string>
   <string name="currentstep_detail_calories">Calo</string>
-  <string name="currentstep_detail_sleep">Giấc ngủ</string>
+  <string name="currentstep_detail_sleep">Ngủ</string>
   <string name="currentstep_detail_sleep_deep">Ngủ sâu</string>
   <string name="currentstep_detail_activity_step_done">Đạt mục tiêu</string>
   <string name="currentstep_detail_activity_step_notdo"></string>
@@ -256,7 +256,7 @@
   <string name="currentstep_detail_heart_rate_max_text">Max</string>
   <string name="currentstep_detail_heart_rate_min_text">Min</string>
   <string name="currentstep_detail_heart_rate_quiet_text">Nghỉ ngơi</string>
-  <string name="currentstep_detail_calories_unit">kCal</string>
+  <string name="currentstep_detail_calories_unit">kcal</string>
   <string name="currentstep_detail_sleep_hour">g</string>
   <string name="currentstep_detail_sleep_min">phút</string>
   <string name="currentstep_detail_heart_unit">bpm</string>
@@ -264,7 +264,7 @@
   <string name="currentstep_detail_walk_ridding_rate_unit_en">dặm/h</string>
   <string name="currentstep_detail_distance_unit_zh">km</string>
   <string name="currentstep_detail_distance_unit_en">dặm</string>
-  <string name="currentstep_detail_swim_distance_unit_zh">p</string>
+  <string name="currentstep_detail_swim_distance_unit_zh">m</string>
   <string name="currentstep_detail_swim_distance_unit_en">yard</string>
   <string name="currentstep_detail_swim_rate_unit_zh">/100m</string>
   <string name="currentstep_detail_swim_rate_unit_en">/100yards</string>
@@ -278,11 +278,11 @@
   <string name="widget_weeklyreports_heart_rate_title">Nhịp tim</string>
   <string name="widget_weeklyreports_average_title">Trung bình</string>
   <string name="widget_weeklyreports_totalcalory_front">Tổng Calo</string>
-  <string name="widget_weeklyreports_totalcalory_title">"Calo"</string>
+  <string name="widget_weeklyreports_totalcalory_title">Calo</string>
   <string name="widget_weeklyreports_sports_title">T.thao</string>
   <string name="widget_weeklyreports_reports_title">Báo cáo tuần</string>
   <string name="widget_weeklyreports_reports_review">Nhận xét tuần</string>
-  <string name="widget_sleep_title">Giấc ngủ</string>
+  <string name="widget_sleep_title">Ngủ</string>
   <string name="widget_sleep_late">Đi ngủ quá muộn</string>
   <string name="widget_sleep_deep_leak">Ngủ sâu quá ít</string>
   <string name="widget_sleep_leak">Ngủ thiếu thời gian</string>
