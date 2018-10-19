@@ -67,7 +67,7 @@ outro ponto Wi-Fi"</string>
   <string name="update_online">Atualização OTA</string>
   <string name="update_local">Atualizar de um arquivo zip local</string>
   <string name="local_update_confirm_1_title">Leia</string>
-  <string name="local_update_invalid_zip">A versão do sistema do pacote de escova de cartões é muito baixa, é recomendável usar a atualização de versão mais recente</string>
+  <string name="local_update_invalid_zip">O pacote do sistema é muito antigo, é recomendado usar a última versão para atualizar</string>
   <string name="local_update_confirm_1_msg">"Para garantir que a nova versão
 funcione corretamente, vamos apagar todos
 dados do usuário após a atualização. Por favor conecte
@@ -83,22 +83,21 @@ os dados do usuário no relógio, Continuar?"</string>
   <string name="cancel">Cancelar</string>
   <string name="update_tips_0">Atualizando</string>
   <string name="update_tips_1">Não desligue o relógio</string>
-  <string name="average_text">Média</string>
+  <string name="average_text">Méd</string>
   <string name="menu_item_high_light_scale_factor">0.5</string>
   <string name="picker_default_positive_text">Confirmar</string>
-  <string name="picker_default_nagetive_text">Desligar</string>
-  <string name="no_heartrate_data_hint">Batimento cardiaco não detetado</string>
-  <string name="no_altitude_hint">Dados de altitude não encontrados</string>
+  <string name="picker_default_nagetive_text">Desligado</string>
+  <string name="no_heartrate_data_hint">Dados de pulso não detectados</string>
+  <string name="no_altitude_hint">Dados de altitude não detectados</string>
   <string name="ui_lib_name">Hm_UILib</string>
-  <string name="title_settings">Definições</string>
-  <string name="sport_music_settings">Musica para desporto</string>
-  <string name="widget_currentstep_title">Visão Geral
-    Diária</string>
+  <string name="title_settings">Configurações</string>
+  <string name="sport_music_settings">Música esportiva</string>
+  <string name="widget_currentstep_title">Visão Geral Diária</string>
   <string name="widget_currentstep_activities">Atividades</string>
   <string name="widget_currentstep_sleep_hour">h</string>
   <string name="widget_currentstep_sleep_min">min</string>
-  <string name="widget_currentstep_sleep_title">Sono noite passada</string>
+  <string name="widget_currentstep_sleep_title">Sono</string>
   <string name="widget_currentstep_sleep_no">Sem dados de sono</string>
-  <string name="widget_currentstep_activity_no">Sem exercício hoje?</string>
+  <string name="widget_currentstep_activity_no">Sem exercícios hoje?</string>
   <string name="locale_title">Selecionar Lingua</string>
 </resources>
