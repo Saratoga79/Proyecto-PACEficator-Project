@@ -4,20 +4,20 @@
   <string name="locale_title">Vyberte jazyk</string>
   <string name="average_text">Priemer</string>
   <string name="menu_item_high_light_scale_factor">0.5</string>
-  <string name="picker_default_positive_text">Potvrď</string>
-  <string name="picker_default_nagetive_text">Vypnúť</string>
+  <string name="picker_default_positive_text">Potvrdiť</string>
+  <string name="picker_default_nagetive_text">Vypnuté</string>
   <string name="no_heartrate_data_hint">Tepová frekvencia nedostupná</string>
-  <string name="no_altitude_hint">Nadmorská výška nezistená</string>
+  <string name="no_altitude_hint">Údaj o výške nedostupný</string>
   <string name="ui_lib_name">Hm_UILib</string>
-  <string name="title_settings">Ajustes</string>
+  <string name="title_settings">Nastavenia</string>
   <string name="sport_music_settings">Športová hudba</string>
-  <string name="widget_currentstep_title">Zdravie</string>
-  <string name="widget_currentstep_activities">Actividades</string>
-  <string name="widget_currentstep_sleep_hour">hod</string>
-  <string name="widget_currentstep_sleep_min">Min.</string>
-  <string name="widget_currentstep_sleep_title">Sueño</string>
-  <string name="widget_currentstep_sleep_no">Bez údajov o spánku</string>
-  <string name="widget_currentstep_activity_no">Žiadna činnosť dnes?</string>
+  <string name="widget_currentstep_title">Denný prehľad</string>
+  <string name="widget_currentstep_activities">Profil pohybu</string>
+  <string name="widget_currentstep_sleep_hour">h</string>
+  <string name="widget_currentstep_sleep_min">min</string>
+  <string name="widget_currentstep_sleep_title">Spánok</string>
+  <string name="widget_currentstep_sleep_no">Nie sú dáta o spánku</string>
+  <string name="widget_currentstep_activity_no">Dnes žiadne cvičenie?</string>
   <string name="currentstep_detail_title">Detaily</string>
   <string name="action_badge_activated">com.huami.watch.health.BADGE_ACTIVATED</string>
   <string name="action_badge_dumped">com.huami.watch.health.BADGE_DUMPED</string>
@@ -89,10 +89,10 @@
   <string name="notif_target_reach_title">Denný cieľ dosiahnutý</string>
   <string name="notif_target_set">Upraviť cieľ</string>
   <string name="settings_long_sit_reminder">Upoz.na pohyb</string>
-  <string name="settings_off">Vypnúť</string>
-  <string name="settings_on">Zap</string>
+  <string name="settings_off">Vypnuté</string>
+  <string name="settings_on">Zapnuté</string>
   <string name="settings_step_target">Cieľ počtu krokov</string>
-  <string name="settings_step_unit">Kroky</string>
+  <string name="settings_step_unit">krokov</string>
   <string name="settings_target_reach_reminder">Upoz. na Cieľ</string>
   <string name="no_sleep_info">Nebol zistený žiadny spánok</string>
   <string name="today_sleep_info">Spánok</string>
@@ -107,14 +107,14 @@
   <string name="all_day_deep_sleep">Čas v hlbokom spánku</string>
   <string name="all_day_light_sleep">Čas v ľahkom spánku</string>
   <string name="awake_duration">Trvanie prebudenia</string>
-  <string name="sleep_unit_minute">Min.</string>
+  <string name="sleep_unit_minute">min</string>
   <string name="sleep_uniti_hour">hod.</string>
   <string name="sleep_duration">%1$s h %2$s min</string>
   <string name="sleep_duration_diff">%1$s &lt;font size=\"12\"&gt;Hod&lt;/font&gt; %2$s Min</string>
   <string name="date_m_d">%1$s.%2$s.</string>
   <string name="date_today">Dnes</string>
   <string name="sleep_detail_title">História</string>
-  <string name="dlg_confirm">Potvrď</string>
+  <string name="dlg_confirm">Potvrdiť</string>
   <string name="dlg_cancel">Zrušiť</string>
   <string name="am">Dop.</string>
   <string name="pm">Odp.</string>
@@ -131,7 +131,7 @@
   <string name="label_all_day_heartrate">Stále mer.tepu</string>
   <string name="label_all_day_heartrate_open">Zapnúť</string>
   <string name="label_all_day_heartrate_close">Vypnúť</string>
-  <string name="label_all_day_heartrate_cancle">zrušiť</string>
+  <string name="label_all_day_heartrate_cancle">Zrušiť</string>
   <string name="label_all_day_recently">Posledné</string>
   <string name="label_all_day_quite">Odpočinok</string>
   <string name="label_heart_rate_bmps">bpm</string>
@@ -143,7 +143,7 @@
   <string name="aerobic_heart_rate">Aerobik</string>
   <string name="high_strength_heart_rate">Anaerobik</string>
   <string name="non_movement_heart_rate">Bez cvičenia</string>
-  <string name="sleep_heart_rate">Sueño</string>
+  <string name="sleep_heart_rate">Spánok</string>
   <string name="anaerobic_limit_heart_rate">Maximum</string>
   <string name="power_strength_heart_rate">Anaerobik</string>
   <string name="cardiopulmonary_enhancement">Cardio Training</string>
@@ -153,7 +153,7 @@
   <string name="stretch_dialog_title">Strečing</string>
   <string name="stretch_dialog_subtitle">Príliš dlhý pre dnešok</string>
   <string name="stretch_dialog_content">Rozumné aktivity môžu pomôcť na stuhnutý chrbát, urobte niekoľko sérií strečingových cvikov!</string>
-  <string name="stretch_dialog_cancel">zrušiť</string>
+  <string name="stretch_dialog_cancel">Zrušiť</string>
   <string name="stretch_dialog_start">Štart</string>
   <string name="stretch_dialog_button">Začať stretčing</string>
   <string name="stretch_connection_failed_title">Nedá sa spojiť s telefónom</string>
@@ -166,7 +166,7 @@
   <string name="stretch_notification_content">Rozumné aktivity môžu odstrániť sedavé zatuhnutie chrbta</string>
   <string name="heart_name">Tep srdca</string>
   <string name="step_name">Krok</string>
-  <string name="sleep_name">Sueño</string>
+  <string name="sleep_name">Spánok</string>
   <string name="floor_description">Poznámka: 1 poschodie = 3 metre</string>
   <string name="climbed_floors">Výjdených: </string>
   <string name="widget_label_step">Dnes</string>
@@ -179,7 +179,7 @@
   <string name="widget_step_target_day_tips"><liff>%d</liff> days ago</string>
   <string name="widget_step_target_month_tips"><liff>%d</liff> months ago</string>
   <string name="widget_step_target_year_tips"><liff>%d</liff> years ago</string>
-  <string name="widget_label_step_unit">Kroky</string>
+  <string name="widget_label_step_unit">krokov</string>
   <string name="widget_label_heartrate">Tep srdca</string>
   <string name="widget_label_heartrate_unit">Úderov/min</string>
   <string name="widget_heartrate_gauging">Meriam...</string>
@@ -223,7 +223,7 @@
   <string name="weeklysports_frequency"></string>
   <string name="weeklysports_day"></string>
   <string name="weeklysports_activity">Pohyb</string>
-  <string name="weeklysports_running">Behanie</string>
+  <string name="weeklysports_running">Beh</string>
   <string name="weeklysports_walking">Chôdza</string>
   <string name="weeklysports_riding">Bicykel</string>
   <string name="weekly_step_attained_rate">Dní na dosiahnutie cieľa počtu krokov</string>
@@ -231,7 +231,7 @@
   <string name="weekly_sports_notification_action">Viac</string>
   <string name="weeklysports_date_format">dd.MM.yyyy</string>
   <string name="currentstep_detail_activity">Pohyb</string>
-  <string name="currentstep_detail_running">Behanie</string>
+  <string name="currentstep_detail_running">Beh</string>
   <string name="currentstep_detail_walking">Chôdza</string>
   <string name="currentstep_detail_riding">Bicykel</string>
   <string name="currentstep_detail_swimming">Plávanie</string>
@@ -239,7 +239,7 @@
   <string name="currentstep_detail_triathlon_short">Tri</string>
   <string name="currentstep_detail_mountain">Turistika</string>
   <string name="currentstep_detail_calories">Kalórií</string>
-  <string name="currentstep_detail_sleep">Sueño</string>
+  <string name="currentstep_detail_sleep">Spánok</string>
   <string name="currentstep_detail_sleep_deep">Hlboký spánok</string>
   <string name="currentstep_detail_activity_step_done">Splnené</string>
   <string name="currentstep_detail_activity_step_notdo"></string>
@@ -253,8 +253,8 @@
   <string name="currentstep_detail_heart_rate_min_text">Min</string>
   <string name="currentstep_detail_heart_rate_quiet_text">Odpočinok</string>
   <string name="currentstep_detail_calories_unit">kCal</string>
-  <string name="currentstep_detail_sleep_hour">hod</string>
-  <string name="currentstep_detail_sleep_min">Min.</string>
+  <string name="currentstep_detail_sleep_hour">h</string>
+  <string name="currentstep_detail_sleep_min">min</string>
   <string name="currentstep_detail_heart_unit">bpm</string>
   <string name="currentstep_detail_walk_ridding_rate_unit_zh">km/h</string>
   <string name="currentstep_detail_walk_ridding_rate_unit_en">mi/h</string>
@@ -278,7 +278,7 @@
   <string name="widget_weeklyreports_sports_title">Šport</string>
   <string name="widget_weeklyreports_reports_title">Týždenná správa</string>
   <string name="widget_weeklyreports_reports_review">Vyb.týždeň</string>
-  <string name="widget_sleep_title">Sueño</string>
+  <string name="widget_sleep_title">Spánok</string>
   <string name="widget_sleep_late">Neskorý spánok</string>
   <string name="widget_sleep_deep_leak">Krátký hlboký sp.</string>
   <string name="widget_sleep_leak">Nedostatočný sp.</string>
