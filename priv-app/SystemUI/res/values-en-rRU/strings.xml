@@ -6,7 +6,7 @@
   <string name="quick_settings_tiles">по умолчанию</string>
   <string name="velocity_tracker_impl">платформа</string>
   <string name="doze_pulse_schedule">1s,10s,30s,60s</string>
-  <string name="system_ui_date_pattern">@android:string/system_ui_date_pattern</string>
+  <string name="system_ui_date_pattern">\@android:string/system_ui_date_pattern</string>
   <string name="lland">L Land</string>
   <string name="app_label">System UI</string>
   <string name="status_bar_clear_all_button">Ясно</string>
@@ -117,7 +117,7 @@
   <string name="accessibility_three_bars">Три деления.</string>
   <string name="accessibility_signal_full">Полный сигнал.</string>
   <string name="accessibility_desc_on">Вкл.</string>
-  <string name="accessibility_desc_off">Отключено.</string>
+  <string name="accessibility_desc_off">Выкл.</string>
   <string name="accessibility_desc_connected">Подключен.</string>
   <string name="accessibility_desc_connecting">Подключение.</string>
   <string name="accessibility_data_connection_gprs">GPRS</string>
@@ -130,7 +130,7 @@
   <string name="accessibility_data_connection_cdma">CDMA</string>
   <string name="accessibility_data_connection_roaming">Роуминг</string>
   <string name="accessibility_data_connection_edge">Edge</string>
-  <string name="accessibility_data_connection_wifi">WiFi</string>
+  <string name="accessibility_data_connection_wifi">Wi-Fi</string>
   <string name="accessibility_no_sim">Нет SIM-карты.</string>
   <string name="accessibility_bluetooth_tether">Привязка Bluetooth.</string>
   <string name="accessibility_airplane_mode">Режим самолета.</string>
