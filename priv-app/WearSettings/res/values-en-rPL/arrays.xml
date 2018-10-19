@@ -13,8 +13,8 @@
     <item>[clazz]com.huami.watch.wearlogger.AllLogActivityLab</item>
   </string-array>
   <string-array name="lab_item_selftest">
-    <item>[prim]selftest</item>
-    <item>[sum]start selftest by yourself</item>
+    <item>[prim]自检</item>
+    <item>[sum]开始自己检查自己</item>
     <item>[action]com.huami.watch.selftest.START</item>
   </string-array>
   <string-array name="lab_item_open_applist">
@@ -215,13 +215,13 @@
     <item>+13 Tongatapu</item>
   </string-array>
   <string-array name="light_mode_subtitle">
-    <item>Brightness: close</item>
-    <item>Brightness: auto</item>
-    <item>Brightness: 2</item>
-    <item>Brightness: 2</item>
-    <item>Brightness: 1</item>
-    <item>Brightness: 3</item>
-    <item>Brightness: 4</item>
-    <item>Brightness: 5</item>
+    <item>Jasność: wył.</item>
+    <item>Jasność: auto</item>
+    <item>Jasność: 2</item>
+    <item>Jasność: 2</item>
+    <item>Jasność: 1</item>
+    <item>Jasność: 3</item>
+    <item>Jasność: 4</item>
+    <item>Jasność: 5</item>
   </string-array>
 </resources>
