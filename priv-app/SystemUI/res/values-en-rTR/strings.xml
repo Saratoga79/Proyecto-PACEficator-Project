@@ -6,7 +6,7 @@
   <string name="quick_settings_tiles">default</string>
   <string name="velocity_tracker_impl">platform</string>
   <string name="doze_pulse_schedule">1s,10s,30s,60s</string>
-  <string name="system_ui_date_pattern">@android:string/system_ui_date_pattern</string>
+  <string name="system_ui_date_pattern">\@android:string/system_ui_date_pattern</string>
   <string name="lland">L Land</string>
   <string name="app_label">System UI</string>
   <string name="status_bar_clear_all_button">Temizle</string>
@@ -23,11 +23,11 @@
   <string name="invalid_charger">USB şarjı desteklenmiyor. Sadece desteklenen şarj aletlerini kullanın.</string>
   <string name="invalid_charger_title">USB şarjı desteklenmiyor.</string>
   <string name="invalid_charger_text">Sadece desteklenen şarj aletlerini kullanın</string>
-  <string name="battery_low_why">Ayarlar</string>
+  <string name="battery_low_why">ayarlar</string>
   <string name="battery_saver_confirmation_title">Güç tasarrufu açılsın mı?</string>
   <string name="battery_saver_confirmation_ok">Aç</string>
   <string name="battery_saver_start_action">Güç tasarrufunu aç</string>
-  <string name="status_bar_settings_settings_button">Ayarlar</string>
+  <string name="status_bar_settings_settings_button">ayarlar</string>
   <string name="status_bar_settings_wifi_button">Wi-Fi</string>
   <string name="status_bar_settings_airplane">uçak modu</string>
   <string name="status_bar_settings_auto_rotation">Otomatik Ekran döndür</string>
@@ -150,7 +150,7 @@
   <string name="accessibility_desc_notification_shade">bildirim gölgesi</string>
   <string name="accessibility_desc_quick_settings">hızlı ayarlar</string>
   <string name="accessibility_desc_lock_screen">ekran kilidi</string>
-  <string name="accessibility_desc_settings">Ayarlar</string>
+  <string name="accessibility_desc_settings">ayarlar</string>
   <string name="accessibility_desc_recent_apps">genel bakış</string>
   <string name="accessibility_quick_settings_user">kullanıcı %s.</string>
   <string name="accessibility_quick_settings_wifi">%1$s.</string>
@@ -248,7 +248,7 @@ Turning it back on may lead to charges from your carrier."</string>
   <string name="quick_settings_color_space_label">renk düzeltme modu</string>
   <string name="quick_settings_more_settings">daha fazla ayar</string>
   <string name="quick_settings_done">Done</string>
-  <string name="quick_settings_connected">Bağlandı</string>
+  <string name="quick_settings_connected">bağlanıldı</string>
   <string name="quick_settings_connected_via_wfa">wifi asistanı tarafından bağlandı</string>
   <string name="quick_settings_connecting">bağlanıyor</string>
   <string name="quick_settings_tethering_label">Tethering</string>
@@ -408,7 +408,7 @@ Also, you\'re connected to a VPN (\"%3$s\"). Your VPN service provider can monit
   <string name="quick_settings_reset_confirmation_title">%1$s gizlenilsin mi?</string>
   <string name="quick_settings_reset_confirmation_message">Siz ayarlardan açana kadar gelecek sefere gözükecek</string>
   <string name="quick_settings_reset_confirmation_button">gizle</string>
-  <string name="ok">@android:string/ok</string>
+  <string name="ok">\@android:string/ok</string>
   <string name="widget_default_package_name"></string>
   <string name="widget_default_class_name"></string>
   <string name="abbrev_wday_month_day_no_year">EEEEMMMMd</string>
@@ -485,7 +485,7 @@ Also, you\'re connected to a VPN (\"%3$s\"). Your VPN service provider can monit
   <string name="keyboardview_keycode_alt">Alt</string>
   <string name="keyboardview_keycode_cancel">Cancel</string>
   <string name="keyboardview_keycode_delete">Delete</string>
-  <string name="keyboardview_keycode_done">Tamamlandı</string>
+  <string name="keyboardview_keycode_done">Done</string>
   <string name="keyboardview_keycode_mode_change">Mode change</string>
   <string name="keyboardview_keycode_shift">Shift</string>
   <string name="keyboardview_keycode_enter">Enter</string>
