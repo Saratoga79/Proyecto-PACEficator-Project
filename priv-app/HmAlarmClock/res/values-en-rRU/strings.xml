@@ -3,10 +3,10 @@
 <resources>
   <string name="settings_item_high_light_scale_factor">0.5</string>
   <string name="locale_title">Выбрать язык</string>
-  <string name="average_text">Сред</string>
+  <string name="average_text">Средний</string>
   <string name="menu_item_high_light_scale_factor">0.5</string>
-  <string name="picker_default_positive_text">Подтверждение</string>
-  <string name="picker_default_nagetive_text">Выкл.</string>
+  <string name="picker_default_positive_text">Подтвердить</string>
+  <string name="picker_default_nagetive_text">Выкл</string>
   <string name="no_heartrate_data_hint">Данные сердечного ритма не обнаружены</string>
   <string name="no_altitude_hint">Данные высоты не обнаружены</string>
   <string name="ui_lib_name">Hm_UILib</string>
@@ -16,7 +16,7 @@
   <string name="widget_currentstep_activities">Тренировки</string>
   <string name="widget_currentstep_sleep_hour">час</string>
   <string name="widget_currentstep_sleep_min">мин</string>
-  <string name="widget_currentstep_sleep_title">Сон прошлой ночью</string>
+  <string name="widget_currentstep_sleep_title">Сон</string>
   <string name="widget_currentstep_sleep_no">Нет данных о сне</string>
   <string name="widget_currentstep_activity_no">Сегодня нет тренировок?</string>
   <string name="day_concat">/</string>
@@ -38,8 +38,8 @@
   <string name="alarm_list">Список будильников</string>
   <string name="edit_alarm">Изменить будильник</string>
   <string name="alarm_repeat">Повтор</string>
-  <string name="alarm_off">Выкл.</string>
-  <string name="alarm_open">Вкл.</string>
+  <string name="alarm_off">Выкл</string>
+  <string name="alarm_open">Вкл</string>
   <string name="alarm_delete">Удалить</string>
   <string name="alarm_repeat_setting">Повторить настройки</string>
   <string name="once_time">Один раз</string>
@@ -47,7 +47,7 @@
   <string name="hour_unit">Час</string>
   <string name="minute_unit">Минуты</string>
   <string name="snooze_button">Отложить</string>
-  <string name="dimiss_button">Выкл.</string>
+  <string name="dimiss_button">Выкл</string>
   <string name="stop_watch_left_button_positive">Круг</string>
   <string name="stop_watch_left_button_negative">Сброс</string>
   <string name="stop_watch_right_button_positive">Старт</string>
