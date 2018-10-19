@@ -28,31 +28,31 @@
     <item>sport_target_remind_desc_01</item>
   </string-array>
   <string-array name="support_sport">
-    <item>RUNNING</item>
-    <item>WALKING</item>
-    <item>CROSSING</item>
-    <item>INDOOR_RUN</item>
-    <item>OUTDOOR_RIDING</item>
-    <item>INDOOR_RIDING</item>
-    <item>ELLIPTICAL_MACHINE</item>
+    <item>LAUFEN</item>
+    <item>GEHEN</item>
+    <item>CARDIO</item>
+    <item>LAUFBAND</item>
+    <item>REITEN</item>
+    <item>REITEN</item>
+    <item>ELLIPTICAL</item>
     <item>CLIMB</item>
     <item>SKI</item>
     <item>FOOTBALL</item>
     <item>TENNIS</item>
   </string-array>
   <string-array name="dally_performence_level_status">
-    <item>Fatigued</item>
-    <item>Average</item>
-    <item>Good</item>
+    <item>Ermüdet</item>
+    <item>Durchschnittlich</item>
+    <item>Gut</item>
   </string-array>
   <string-array name="vo2_max_level_status">
-    <item>Very Poor</item>
-    <item>Fair</item>
-    <item>Poor</item>
-    <item>Average</item>
-    <item>Good</item>
-    <item>Very Good</item>
-    <item>Excellent</item>
+    <item>Sehr schlecht</item>
+    <item>Angemessen</item>
+    <item>Schlecht</item>
+    <item>Durchschn.</item>
+    <item>Gut</item>
+    <item>Sehr gut</item>
+    <item>Ausgezeichnet</item>
   </string-array>
   <string-array name="spring_depend">
     <item>com.huami.watch.newsport/com.huami.watch.newsport.widget.SportWidget</item>
