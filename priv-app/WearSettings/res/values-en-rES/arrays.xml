@@ -8,7 +8,7 @@
   </string-array>
   <string-array name="lab_item_logger">
     <item>[prim]WearLogger</item>
-    <item>[sum]A Key Press log ^_^</item>
+    <item>[sum]Informe en 1-click</item>
     <item>[pkg]com.huami.watch.wearlogger</item>
     <item>[clazz]com.huami.watch.wearlogger.AllLogActivityLab</item>
   </string-array>
@@ -19,7 +19,7 @@
   </string-array>
   <string-array name="lab_item_open_applist">
     <item>[prim]Applist del launcher</item>
-    <item>[sum]Activar applist</item>
+    <item>[sum]Des/Activar applist</item>
     <item>[sid]applist</item>
   </string-array>
   <string-array name="lab_item_bt_hci_snoop_log">
@@ -28,8 +28,8 @@
     <item>[sid]btsnoop</item>
   </string-array>
   <string-array name="lab_item_long_sitting_timer_plus">
-    <item>[prim]Recordatorio de sedentario</item>
-    <item>[sum]Ajusta el tiempo de recordatorio de sedentario</item>
+    <item>[prim]Tie. recordatorio sedentario</item>
+    <item>[sum]Establecer tie. recordatorio (min)</item>
     <item>[pkg]com.huami.mobile.watchsettings</item>
     <item>[clazz]com.huami.moblie.watchsettings.actions.lab.labUI.LongSittingTimeActivity</item>
   </string-array>
