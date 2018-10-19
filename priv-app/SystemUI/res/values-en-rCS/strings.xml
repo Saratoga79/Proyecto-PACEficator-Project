@@ -6,7 +6,7 @@
   <string name="quick_settings_tiles">výchozí</string>
   <string name="velocity_tracker_impl">platforma</string>
   <string name="doze_pulse_schedule">1s,10s,30s,60s</string>
-  <string name="system_ui_date_pattern">@android:string/system_ui_date_pattern</string>
+  <string name="system_ui_date_pattern">\@android:string/system_ui_date_pattern</string>
   <string name="lland">L Land</string>
   <string name="app_label">System UI</string>
   <string name="status_bar_clear_all_button">Vyčistit</string>
@@ -410,7 +410,7 @@ Také jste připojeni k síti VPN (\"%3$s\"). Poskytovatel služby VPN může ta
   <string name="quick_settings_reset_confirmation_title">Skrýt %1$s?</string>
   <string name="quick_settings_reset_confirmation_message">To se znovu objeví při příštím zapnutí v nastavení.</string>
   <string name="quick_settings_reset_confirmation_button">Skrýt</string>
-  <string name="ok">@android:string/ok</string>
+  <string name="ok">\@android:string/ok</string>
   <string name="widget_default_package_name"></string>
   <string name="widget_default_class_name"></string>
   <string name="abbrev_wday_month_day_no_year">EEEEMMMMd</string>
@@ -485,8 +485,8 @@ Také jste připojeni k síti VPN (\"%3$s\"). Poskytovatel služby VPN může ta
   <string name="password_keyboard_label_alpha_key">ABC</string>
   <string name="password_keyboard_label_alt_key">ALT</string>
   <string name="keyboardview_keycode_alt">Alt</string>
-  <string name="keyboardview_keycode_cancel">Zavřít</string>
-  <string name="keyboardview_keycode_delete">Vymazat</string>
+  <string name="keyboardview_keycode_cancel">Zrušit</string>
+  <string name="keyboardview_keycode_delete">Odstranit</string>
   <string name="keyboardview_keycode_done">Hotovo</string>
   <string name="keyboardview_keycode_mode_change">Změna režimu</string>
   <string name="keyboardview_keycode_shift">Shift</string>
