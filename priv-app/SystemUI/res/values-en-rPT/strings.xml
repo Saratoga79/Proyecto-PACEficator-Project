@@ -6,7 +6,7 @@
   <string name="quick_settings_tiles">padrão</string>
   <string name="velocity_tracker_impl">plataforma</string>
   <string name="doze_pulse_schedule">1s,10s,30s,60s</string>
-  <string name="system_ui_date_pattern">@android:string/system_ui_date_pattern</string>
+  <string name="system_ui_date_pattern">\@android:string/system_ui_date_pattern</string>
   <string name="lland">L Land</string>
   <string name="app_label">UI sistema</string>
   <string name="status_bar_clear_all_button">Limpar</string>
@@ -30,7 +30,7 @@ Use apenas o carregador fornecido."</string>
   <string name="battery_saver_start_action">Ligar economia de bateria</string>
   <string name="status_bar_settings_settings_button">Configurações</string>
   <string name="status_bar_settings_wifi_button">Wi-Fi</string>
-  <string name="status_bar_settings_airplane">Modo Avião</string>
+  <string name="status_bar_settings_airplane">Modo avião</string>
   <string name="status_bar_settings_auto_rotation">Rotação de ecrã automática</string>
   <string name="status_bar_settings_mute_label">SEM SOM</string>
   <string name="status_bar_settings_auto_brightness_label">AUTO</string>
@@ -151,7 +151,7 @@ Use apenas o carregador fornecido."</string>
   <string name="accessibility_desc_notification_shade">Sombra de notificação</string>
   <string name="accessibility_desc_quick_settings">Definições rápidas</string>
   <string name="accessibility_desc_lock_screen">Ecrã de bloqueio.</string>
-  <string name="accessibility_desc_settings">Configurações</string>
+  <string name="accessibility_desc_settings">Definições</string>
   <string name="accessibility_desc_recent_apps">Visão geral.</string>
   <string name="accessibility_quick_settings_user">Utilizador %s.</string>
   <string name="accessibility_quick_settings_wifi">%1$s.</string>
@@ -228,7 +228,7 @@ Ligar-los novamente poderá resultar em cobranças da sua operadora."</string>
   <string name="quick_settings_media_device_label">Dispositivo de mídia</string>
   <string name="quick_settings_rssi_label">RSSI</string>
   <string name="quick_settings_rssi_emergency_only">Só chamadas de emergência</string>
-  <string name="quick_settings_settings_label">Definições</string>
+  <string name="quick_settings_settings_label">Ajustes</string>
   <string name="quick_settings_time_label">Hora</string>
   <string name="quick_settings_user_label">Eu</string>
   <string name="quick_settings_user_title">Utilizador</string>
@@ -249,7 +249,7 @@ Ligar-los novamente poderá resultar em cobranças da sua operadora."</string>
   <string name="quick_settings_color_space_label">Modo de correcção de cor</string>
   <string name="quick_settings_more_settings">Mais definições</string>
   <string name="quick_settings_done">Finalizado</string>
-  <string name="quick_settings_connected">Ligado</string>
+  <string name="quick_settings_connected">Conectado</string>
   <string name="quick_settings_connected_via_wfa">Conectado via assistente de Wi-Fi</string>
   <string name="quick_settings_connecting">A conectar...</string>
   <string name="quick_settings_tethering_label">Tethering</string>
@@ -409,7 +409,7 @@ Também, está ligado á VPN \"%3$s\" O operador VPN pode monitorizar atividade 
   <string name="quick_settings_reset_confirmation_title">Esconder %1$s?</string>
   <string name="quick_settings_reset_confirmation_message">Irá reaparecer na próxima vez que ligar nas definições</string>
   <string name="quick_settings_reset_confirmation_button">Esconder</string>
-  <string name="ok">@android:string/ok</string>
+  <string name="ok">\@android:string/ok</string>
   <string name="widget_default_package_name"></string>
   <string name="widget_default_class_name"></string>
   <string name="abbrev_wday_month_day_no_year">EEEEMMMMd</string>
