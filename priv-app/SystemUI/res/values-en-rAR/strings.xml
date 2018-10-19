@@ -6,7 +6,7 @@
   <string name="quick_settings_tiles">default</string>
   <string name="velocity_tracker_impl">platform</string>
   <string name="doze_pulse_schedule">1s,10s,30s,60s</string>
-  <string name="system_ui_date_pattern">@android:string/system_ui_date_pattern</string>
+  <string name="system_ui_date_pattern">\@android:string/system_ui_date_pattern</string>
   <string name="lland">L Land</string>
   <string name="app_label">System UI</string>
   <string name="status_bar_clear_all_button">Clear</string>
@@ -24,11 +24,11 @@
 Use only the supplied charger."</string>
   <string name="invalid_charger_title">USB charging not supported.</string>
   <string name="invalid_charger_text">Use only the supplied charger.</string>
-  <string name="battery_low_why">الاعدادات</string>
+  <string name="battery_low_why">Settings</string>
   <string name="battery_saver_confirmation_title">Turn on battery saver?</string>
   <string name="battery_saver_confirmation_ok">Turn on</string>
   <string name="battery_saver_start_action">Turn on battery saver</string>
-  <string name="status_bar_settings_settings_button">الاعدادات</string>
+  <string name="status_bar_settings_settings_button">Settings</string>
   <string name="status_bar_settings_wifi_button">Wi-Fi</string>
   <string name="status_bar_settings_airplane">Airplane mode</string>
   <string name="status_bar_settings_auto_rotation">Auto-rotate screen</string>
@@ -65,7 +65,7 @@ Use only the supplied charger."</string>
   <string name="use_mtp_button_title">Mount as a media player (MTP)</string>
   <string name="use_ptp_button_title">Mount as a camera (PTP)</string>
   <string name="installer_cd_button_title">Install Android File Transfer app for Mac</string>
-  <string name="accessibility_back">رجوع</string>
+  <string name="accessibility_back">Back</string>
   <string name="accessibility_home">Home</string>
   <string name="accessibility_menu">Menu</string>
   <string name="accessibility_recent">Overview</string>
@@ -116,8 +116,8 @@ Use only the supplied charger."</string>
   <string name="accessibility_two_bars">Two bars.</string>
   <string name="accessibility_three_bars">Three bars.</string>
   <string name="accessibility_signal_full">Signal full.</string>
-  <string name="accessibility_desc_on">تشغيل.</string>
-  <string name="accessibility_desc_off">إغلاق.</string>
+  <string name="accessibility_desc_on">On.</string>
+  <string name="accessibility_desc_off">Off.</string>
   <string name="accessibility_desc_connected">Connected.</string>
   <string name="accessibility_desc_connecting">Connecting.</string>
   <string name="accessibility_data_connection_gprs">GPRS</string>
@@ -151,7 +151,7 @@ Use only the supplied charger."</string>
   <string name="accessibility_desc_notification_shade">Notification shade.</string>
   <string name="accessibility_desc_quick_settings">Quick settings.</string>
   <string name="accessibility_desc_lock_screen">Lock screen.</string>
-  <string name="accessibility_desc_settings">الاعدادات</string>
+  <string name="accessibility_desc_settings">Settings</string>
   <string name="accessibility_desc_recent_apps">Overview.</string>
   <string name="accessibility_quick_settings_user">User %s.</string>
   <string name="accessibility_quick_settings_wifi">%1$s.</string>
@@ -228,8 +228,8 @@ Turning it back on may lead to charges from your carrier."</string>
   <string name="quick_settings_media_device_label">Media device</string>
   <string name="quick_settings_rssi_label">RSSI</string>
   <string name="quick_settings_rssi_emergency_only">Emergency Calls Only</string>
-  <string name="quick_settings_settings_label">الاعدادات</string>
-  <string name="quick_settings_time_label">Times</string>
+  <string name="quick_settings_settings_label">Settings</string>
+  <string name="quick_settings_time_label">Time</string>
   <string name="quick_settings_user_label">Me</string>
   <string name="quick_settings_user_title">User</string>
   <string name="quick_settings_user_new_user">New user</string>
@@ -248,7 +248,7 @@ Turning it back on may lead to charges from your carrier."</string>
   <string name="quick_settings_inversion_label">Invert colors</string>
   <string name="quick_settings_color_space_label">Color correction mode</string>
   <string name="quick_settings_more_settings">More settings</string>
-  <string name="quick_settings_done">تم</string>
+  <string name="quick_settings_done">Done</string>
   <string name="quick_settings_connected">Connected</string>
   <string name="quick_settings_connected_via_wfa">Connected via Wi‑Fi assistant</string>
   <string name="quick_settings_connecting">Connecting...</string>
@@ -410,7 +410,7 @@ Also, you\'re connected to a VPN (\"%3$s\"). Your VPN service provider can monit
   <string name="quick_settings_reset_confirmation_title">Hide %1$s?</string>
   <string name="quick_settings_reset_confirmation_message">It will reappear the next time you turn it on in settings.</string>
   <string name="quick_settings_reset_confirmation_button">Hide</string>
-  <string name="ok">@android:string/ok</string>
+  <string name="ok">\@android:string/ok</string>
   <string name="widget_default_package_name"></string>
   <string name="widget_default_class_name"></string>
   <string name="abbrev_wday_month_day_no_year">EEEEMMMMd</string>
@@ -485,9 +485,9 @@ Also, you\'re connected to a VPN (\"%3$s\"). Your VPN service provider can monit
   <string name="password_keyboard_label_alpha_key">ABC</string>
   <string name="password_keyboard_label_alt_key">ALT</string>
   <string name="keyboardview_keycode_alt">Alt</string>
-  <string name="keyboardview_keycode_cancel">إلغاء</string>
-  <string name="keyboardview_keycode_delete">حذف</string>
-  <string name="keyboardview_keycode_done">تم</string>
+  <string name="keyboardview_keycode_cancel">Cancel</string>
+  <string name="keyboardview_keycode_delete">Delete</string>
+  <string name="keyboardview_keycode_done">Done</string>
   <string name="keyboardview_keycode_mode_change">Mode change</string>
   <string name="keyboardview_keycode_shift">Shift</string>
   <string name="keyboardview_keycode_enter">Enter</string>
