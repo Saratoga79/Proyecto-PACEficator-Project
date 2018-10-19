@@ -11,42 +11,42 @@
     <item>com.android.mms</item>
   </string-array>
   <string-array name="quick_settings_status_week">
-    <item>Sun</item>
-    <item>Mon</item>
-    <item>Tue</item>
-    <item>Wed</item>
-    <item>Thu</item>
-    <item>Fri</item>
-    <item>Sat</item>
-    <item>Today</item>
+    <item>Dom</item>
+    <item>Seg</item>
+    <item>Ter</item>
+    <item>Qua</item>
+    <item>Qui</item>
+    <item>Sex</item>
+    <item>Sab</item>
+    <item>Hoje</item>
   </string-array>
   <string-array name="quick_settings_status_principleTerm">
-    <item>Great cold</item>
-    <item>The rains</item>
-    <item>Vernal Equinox</item>
+    <item>Bem frio</item>
+    <item>Chuva</item>
+    <item>Equinócio de verão</item>
     <item>Grain rain</item>
     <item>Grain buds</item>
     <item>Summer solstice</item>
-    <item>Great heat</item>
-    <item>Stopping the heat</item>
-    <item>Autumn Equinox</item>
-    <item>Hoar-frost falls</item>
-    <item>Light snow</item>
-    <item>Winter Solstice</item>
+    <item>Calor</item>
+    <item>Parando o calor</item>
+    <item>Equinócio de outono</item>
+    <item>Queda de gelo</item>
+    <item>Pouca neve</item>
+    <item>Solstício de inverno</item>
   </string-array>
   <string-array name="quick_settings_status_sectionalTerm">
-    <item>Slight cold</item>
-    <item>Spring begins</item>
+    <item>Um pouco frio</item>
+    <item>A primavera começa</item>
     <item>Insects awaken</item>
-    <item>Clear and bright</item>
-    <item>Summer begins</item>
+    <item>Claro e brilhante</item>
+    <item>O verão começa</item>
     <item>Grain in ear</item>
-    <item>Slight heat</item>
-    <item>Autumn begins</item>
+    <item>Pouco calor</item>
+    <item>O outono começa</item>
     <item>White dews</item>
     <item>Cold dews</item>
-    <item>Winter begins</item>
-    <item>Heavy snow</item>
+    <item>O inverno começa</item>
+    <item>Neve pesada</item>
   </string-array>
   <string-array name="quick_settings_status_chineseTen">
     <item>Chu</item>
@@ -97,7 +97,7 @@
     <item>com.huami.watch.watchface.AnalogWatchFaceNine</item>
     <item>com.huami.watch.watchface.AnalogWatchFaceTen</item>
     <item>com.huami.watch.watchface.AnalogWatchFaceEleven</item>
-    <item>com.huami.watch.watchface.DigitalWatchFaceSportTwelve</item>
+    <item>com.huami.watch.watchface.DigitalWatchFaceSportTwelves</item>
     <item>com.huami.watch.watchface.AnalogWatchFaceThirteen</item>
     <item>com.huami.watch.watchface.AnalogWatchFaceFourteen</item>
     <item>wfzeacf94.wfz</item>
@@ -155,44 +155,44 @@
     <item>wfz3897e9.wfz</item>
   </string-array>
   <string-array name="weather_card_aqilevel">
-    <item>Air Excellent</item>
-    <item>Air Fine</item>
-    <item>Light Pollution</item>
-    <item>Moderate Pollution</item>
-    <item>Heavy Pollution</item>
-    <item>Serious Pollution</item>
+    <item>Ar Excelente</item>
+    <item>Ar Bom</item>
+    <item>Poluição Leve</item>
+    <item>Poluição Moderada</item>
+    <item>Poluição Pesada</item>
+    <item>Poluição grave</item>
     <item></item>
   </string-array>
   <string-array name="weather_card_quality">
-    <item>Suitable for Sports</item>
-    <item>Unsuitable for sports</item>
+    <item>Adequado para esportes</item>
+    <item>Não está para esportes</item>
     <item></item>
   </string-array>
   <string-array name="quick_settings_status_weather">
-    <item>Sunny</item>
-    <item>Cloudy</item>
-    <item>Overcast</item>
-    <item>Fog</item>
-    <item>Smog</item>
-    <item>Shower</item>
-    <item>Thunder shower</item>
-    <item>Light rain</item>
-    <item>Moderate rain</item>
-    <item>Heavy rain</item>
-    <item>Rainstorm</item>
-    <item>Torrential rain</item>
+    <item>Ensolarado</item>
+    <item>Nublado</item>
+    <item>Nublado</item>
+    <item>Névoa</item>
+    <item>Fumaça</item>
+    <item>Chuva</item>
+    <item>Chuva de trovão</item>
+    <item>Chuva leve</item>
+    <item>Chuva moderada</item>
+    <item>Chuva pesada</item>
+    <item>Tempestade</item>
+    <item>Chuva torrencial</item>
     <item>Sleet</item>
-    <item>Freezing rain</item>
-    <item>Hail</item>
-    <item>Light snow</item>
-    <item>Moderate snow</item>
-    <item>Heavy snow</item>
-    <item>Snowstorm</item>
-    <item>Snow shower</item>
-    <item>Dust</item>
-    <item>Blowing sand</item>
-    <item>Sand storm</item>
-    <item>Strong sand storm</item>
-    <item>No Data</item>
+    <item>Chuva congelante</item>
+    <item>Granizo</item>
+    <item>Pouca neve</item>
+    <item>Neve moderada</item>
+    <item>Neve pesada</item>
+    <item>Tempestade de neve</item>
+    <item>Chuva de neve</item>
+    <item>Poeira</item>
+    <item>Soprando areia</item>
+    <item>Tempestade de areia</item>
+    <item>Forte tempestade de areia</item>
+    <item>Sem dados</item>
   </string-array>
 </resources>
