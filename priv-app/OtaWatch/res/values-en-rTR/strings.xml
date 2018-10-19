@@ -59,7 +59,7 @@ lütfen şifreyi tekrar girin"</string>
   <string name="wifi_connect_fail">"Bu Wi-Fi ağına bağlanılamıyor.
 Lütfen başka bir Wi-Fi ağına 
 bağlanmayı deneyin"</string>
-  <string name="searching">Arıyor...</string>
+  <string name="searching">Aranıyor...</string>
   <string name="hasNewUpdateTitle">Sistem güncellemeleri</string>
   <string name="hasNewUpdateInstallContent">%1$s versiyonu yüklenebilir, yüklensin mi?</string>
   <string name="hasNewUpdateCheckContent">%1$s versiyonuna güncellenebilir, güncellensin mi?</string>
@@ -67,7 +67,7 @@ bağlanmayı deneyin"</string>
   <string name="update_online">Kablosuz güncelleme</string>
   <string name="update_local">Yerel zip dosyasından güncelleme</string>
   <string name="local_update_confirm_1_title">Lütfen okuyun</string>
-  <string name="local_update_invalid_zip">该卡刷包系统版本过低,建议使用最新版本升级</string>
+  <string name="local_update_invalid_zip">Package system version is too low, it is recommended to use the latest version to upgrade</string>
   <string name="local_update_confirm_1_msg">"To ensure the new version 
 works properly, we\'ll erase all 
 user data after update. Please connect 
@@ -76,28 +76,28 @@ to the Amazfit Watch APP and back up all data before update."</string>
 verilerinizi yedeklediğinizden emin olun. 
 güncelleme yüklemesi saatteki tüm 
 verileri silecek, Devam edilsin mi?"</string>
-  <string name="OK">Tamam</string>
-  <string name="yes">Evet</string>
-  <string name="no">Hayır</string>
-  <string name="enter">Tamam</string>
-  <string name="cancel">Vazgeç</string>
+  <string name="OK">OK</string>
+  <string name="yes">Yes</string>
+  <string name="no">No</string>
+  <string name="enter">OK</string>
+  <string name="cancel">Cancel</string>
   <string name="update_tips_0">Updating</string>
   <string name="update_tips_1">Please do not power off the watch</string>
-  <string name="average_text">Ort.</string>
+  <string name="average_text">Avg</string>
   <string name="menu_item_high_light_scale_factor">0.5</string>
-  <string name="picker_default_positive_text">Tamam</string>
-  <string name="picker_default_nagetive_text">Kapalı</string>
-  <string name="no_heartrate_data_hint">Nabız algılanamadı</string>
-  <string name="no_altitude_hint">Rakım algılanamadı</string>
+  <string name="picker_default_positive_text">Confirm</string>
+  <string name="picker_default_nagetive_text">Off</string>
+  <string name="no_heartrate_data_hint">Heart rate data not detected</string>
+  <string name="no_altitude_hint">Altitude data not detected</string>
   <string name="ui_lib_name">Hm_UILib</string>
   <string name="title_settings">Ayarlar</string>
-  <string name="sport_music_settings">Spor müzik</string>
-  <string name="widget_currentstep_title">Günlük Bakış</string>
-  <string name="widget_currentstep_activities">Adım</string>
+  <string name="sport_music_settings">Sports music</string>
+  <string name="widget_currentstep_title">Daily Overview</string>
+  <string name="widget_currentstep_activities">Activities</string>
   <string name="widget_currentstep_sleep_hour">h</string>
-  <string name="widget_currentstep_sleep_min">dk</string>
-  <string name="widget_currentstep_sleep_title">Dün geceki uyku</string>
-  <string name="widget_currentstep_sleep_no">Uyku verisi yok</string>
-  <string name="widget_currentstep_activity_no">Aktiviten yok mu?</string>
+  <string name="widget_currentstep_sleep_min">min</string>
+  <string name="widget_currentstep_sleep_title">Sleep</string>
+  <string name="widget_currentstep_sleep_no">No sleep data</string>
+  <string name="widget_currentstep_activity_no">No activity today?</string>
   <string name="locale_title">Dili seçin</string>
 </resources>
