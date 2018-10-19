@@ -3,7 +3,7 @@
 <resources>
   <string name="app_name">电话</string>
   <string name="dialpad_number_hint">Click <small><sup>Re</sup></small>Dial to redial</string>
-  <string name="dialpad_del">Delete</string>
+  <string name="dialpad_del">Suprimeix</string>
   <string name="dialpad_dial"><small><sup>Re</sup></small>Dial</string>
   <string name="dialpad_memdial">Mem dial</string>
   <string name="dialpad_dtmf">DTMF</string>
@@ -17,7 +17,7 @@
   <string name="hfptest_result_delayed_text">Error: delayed</string>
   <string name="hfptest_result_blacklisted_text">Error: blacklisted</string>
   <string name="hfptest_result_cme_text">Error: CME</string>
-  <string name="hfptest_call_state_unknown_text">unknown</string>
+  <string name="hfptest_call_state_unknown_text">desconegut</string>
   <string name="pbap_session_key_dialog_header">OBEX session key required</string>
   <string name="pbap_session_key_dialog_title">Type session key for %1$s</string>
   <string name="pbap_authentication_timeout_message">There was time out to input session key with %1$s</string>
@@ -26,7 +26,7 @@
   <string name="call_ui">dial</string>
   <string name="getpbap">Pull Contacts</string>
   <string name="getcallhis">Pull call record</string>
-  <string name="s_accept">Accept</string>
+  <string name="s_accept">Acceptar</string>
   <string name="s_reject">Reject</string>
   <string name="s_dail">dial</string>
   <string name="s_contacts">联系人</string>
@@ -61,19 +61,19 @@
   <string name="s_ring_title">来电铃声</string>
   <string name="average_text">Avg</string>
   <string name="menu_item_high_light_scale_factor">0.5</string>
-  <string name="picker_default_positive_text">Confirm</string>
-  <string name="picker_default_nagetive_text">Off</string>
-  <string name="no_heartrate_data_hint">Heart rate data not detected</string>
-  <string name="no_altitude_hint">Altitude data not detected</string>
+  <string name="picker_default_positive_text">Confirmar</string>
+  <string name="picker_default_nagetive_text">Apagar</string>
+  <string name="no_heartrate_data_hint">Ritme cardíac no detectat</string>
+  <string name="no_altitude_hint">Dades d\'alçada no trobades</string>
   <string name="ui_lib_name">Hm_UILib</string>
-  <string name="title_settings">Settings</string>
-  <string name="sport_music_settings">Sports music</string>
-  <string name="widget_currentstep_title">Daily Overview</string>
-  <string name="widget_currentstep_activities">Activities</string>
+  <string name="title_settings">Configuració</string>
+  <string name="sport_music_settings">Música d\'esports</string>
+  <string name="widget_currentstep_title">Centre de dades</string>
+  <string name="widget_currentstep_activities">Activitats</string>
   <string name="widget_currentstep_sleep_hour">h</string>
   <string name="widget_currentstep_sleep_min">min</string>
-  <string name="widget_currentstep_sleep_title">Sleep</string>
-  <string name="widget_currentstep_sleep_no">No sleep data</string>
-  <string name="widget_currentstep_activity_no">No activity today?</string>
-  <string name="locale_title">Select Language</string>
+  <string name="widget_currentstep_sleep_title">Son</string>
+  <string name="widget_currentstep_sleep_no">No hi ha dades de son</string>
+  <string name="widget_currentstep_activity_no">Avui no hi ha activitat?</string>
+  <string name="locale_title">Seleccioni Idioma</string>
 </resources>
