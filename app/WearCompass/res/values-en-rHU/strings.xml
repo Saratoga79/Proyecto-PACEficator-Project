@@ -5,10 +5,10 @@
   <string name="action_settings">Beállítások</string>
   <string name="latitude">Szélesség</string>
   <string name="longitude">Hosszúság</string>
-  <string name="north_latitude">É-i széles.</string>
-  <string name="south_latitude">D-i széles.</string>
-  <string name="east_longitude">K-i hossz.</string>
-  <string name="west_longitude">Ny-i hossz.</string>
+  <string name="north_latitude">É. szél.</string>
+  <string name="south_latitude">D. szél.</string>
+  <string name="east_longitude">K. hossz.</string>
+  <string name="west_longitude">Ny. hossz.</string>
   <string name="altitude">Magasság(m)</string>
   <string name="altitude_ft">Magasság(láb)</string>
   <string name="atmospheric_pressure">Légnyomás</string>
@@ -22,15 +22,15 @@
   <string name="ori_northwest">ÉNy</string>
   <string name="correcting">Kalibrálás</string>
   <string name="correcting_line1">Forgasd a csuklód</string>
-  <string name="correcting_line2">forgasd a labdát</string>
+  <string name="correcting_line2">a pont mozgatásához</string>
   <string name="value_default">-</string>
   <string name="loading">Betöltés</string>
   <string name="degree">°</string>
   <string name="zero">0.00</string>
   <string name="latitude_longitude_value_format_str">%1$s°%2$s′%3$s″</string>
-  <string name="gps_tip">"Nem lehet adatot fogadni, próbáld a szabadban"</string>
+  <string name="gps_tip">"Nem lehet adatokat fogadni, próbálkozz kültéren."</string>
   <string name="confirm">Megerősít</string>
   <string name="unknown">--</string>
-  <string name="compass_roll_tip">"Állítsd az órát számlappal
-felfelé vízszintesen"</string>
+  <string name="compass_roll_tip">"Fordítsd az órát számlappal felfelé
+a vízszintes tájoláshoz"</string>
 </resources>
