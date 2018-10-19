@@ -55,7 +55,7 @@
   <string name="wifi_turnon_going">Включение Wi-Fi...</string>
   <string name="system_update_title">Успешное обновление</string>
   <string name="system_update_content">Система обновлен до версии %1$s</string>
-  <string name="password_error">"Некорректный Wi-Fi паспорт, пожалуйста повторите"</string>
+  <string name="password_error">Некорректный Wi-Fi паспорт, пожалуйста повторите</string>
   <string name="wifi_connect_fail">«Не удается подключиться к этой сети WiFi. Пожалуйста, попробуйте 
 другой Wi-Fi hotspot»</string>
   <string name="searching">Идет поиск...</string>
@@ -66,7 +66,7 @@
   <string name="update_online">Обновления «по воздуху»</string>
   <string name="update_local">Обновление из локального zip-архива</string>
   <string name="local_update_confirm_1_title">Пожалуйста прочитайте</string>
-  <string name="local_update_invalid_zip">该卡刷包系统版本过低,建议使用最新版本升级</string>
+  <string name="local_update_invalid_zip">Версия пакета системы является слишком низкjq, рекомендуется использовать последнюю версию для обновления</string>
   <string name="local_update_confirm_1_msg">"Чтобы убедиться, что новая версия 
 работает должным образом, мы сотрем все данные пользователя 
 после обновления. Пожалуйста подключитеcm 
@@ -82,20 +82,20 @@
   <string name="cancel">Отмена</string>
   <string name="update_tips_0">Обновление</string>
   <string name="update_tips_1">Пожалуйста не выключайте питание часов</string>
-  <string name="average_text">Сред</string>
+  <string name="average_text">Сред.</string>
   <string name="menu_item_high_light_scale_factor">0.5</string>
   <string name="picker_default_positive_text">Подтверждение</string>
-  <string name="picker_default_nagetive_text">Выключить</string>
+  <string name="picker_default_nagetive_text">Выкл</string>
   <string name="no_heartrate_data_hint">Данные сердечного ритма не обнаружены</string>
   <string name="no_altitude_hint">Данные высоты не обнаружены</string>
   <string name="ui_lib_name">Hm_UILib</string>
   <string name="title_settings">Настройки</string>
   <string name="sport_music_settings">Музыка для спортивных занятий</string>
   <string name="widget_currentstep_title">Ежедневный обзор</string>
-  <string name="widget_currentstep_activities">Шаги сегодня </string>
-  <string name="widget_currentstep_sleep_hour">час</string>
+  <string name="widget_currentstep_activities">Тренировки</string>
+  <string name="widget_currentstep_sleep_hour">ч</string>
   <string name="widget_currentstep_sleep_min">мин</string>
-  <string name="widget_currentstep_sleep_title">Сон прошлой ночью</string>
+  <string name="widget_currentstep_sleep_title">Сон</string>
   <string name="widget_currentstep_sleep_no">Нет данных о сне</string>
   <string name="widget_currentstep_activity_no">Сегодня нет тренировок?</string>
   <string name="locale_title">Выбрать язык</string>
