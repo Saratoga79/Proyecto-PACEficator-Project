@@ -6,7 +6,7 @@
   <string name="quick_settings_tiles">default</string>
   <string name="velocity_tracker_impl">platform</string>
   <string name="doze_pulse_schedule">1s,10s,30s,60s</string>
-  <string name="system_ui_date_pattern">@android:string/system_ui_date_pattern</string>
+  <string name="system_ui_date_pattern">\@android:string/system_ui_date_pattern</string>
   <string name="lland">L Land</string>
   <string name="app_label">UI Sustava</string>
   <string name="status_bar_clear_all_button">Očisti</string>
@@ -410,7 +410,7 @@ Također, povezani ste na VPN (\"%3$s\"). Vaš VPN davatelj usluga može pratiti
   <string name="quick_settings_reset_confirmation_title">Želite li sakriti pločicu %1$s?</string>
   <string name="quick_settings_reset_confirmation_message">Ponovo će se pojaviti kada je sljedeći put uključite u postavkama.</string>
   <string name="quick_settings_reset_confirmation_button">Sakrij</string>
-  <string name="ok">@android:string/ok</string>
+  <string name="ok">\@android:string/ok</string>
   <string name="widget_default_package_name"></string>
   <string name="widget_default_class_name"></string>
   <string name="abbrev_wday_month_day_no_year">EEEEMMMMd</string>
