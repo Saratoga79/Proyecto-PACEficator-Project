@@ -4,7 +4,7 @@
   <string name="average_text">Сред</string>
   <string name="menu_item_high_light_scale_factor">0.5</string>
   <string name="picker_default_positive_text">Подтверждение</string>
-  <string name="picker_default_nagetive_text">Выкл.</string>
+  <string name="picker_default_nagetive_text">Выкл</string>
   <string name="no_heartrate_data_hint">Данные сердечного ритма не обнаружены</string>
   <string name="no_altitude_hint">Данные высоты не обнаружены</string>
   <string name="ui_lib_name">Hm_UILib</string>
@@ -12,7 +12,7 @@
   <string name="sport_music_settings">Музыка для спортивных занятий</string>
   <string name="widget_currentstep_title">Ежедневный обзор</string>
   <string name="widget_currentstep_activities">Тренировки</string>
-  <string name="widget_currentstep_sleep_hour">час</string>
+  <string name="widget_currentstep_sleep_hour">ч</string>
   <string name="widget_currentstep_sleep_min">мин</string>
   <string name="widget_currentstep_sleep_title">Сон</string>
   <string name="widget_currentstep_sleep_no">Нет данных о сне</string>
@@ -20,7 +20,7 @@
   <string name="settings_item_high_light_scale_factor">0.5</string>
   <string name="locale_title">Язык</string>
   <string name="double_click_wakeup_open">Вкл</string>
-  <string name="double_click_wakeup_close">Выкл.</string>
+  <string name="double_click_wakeup_close">Выкл</string>
   <string name="dlg_confirm">Подтверждение</string>
   <string name="dlg_cancel">Отмена</string>
   <string name="sport">Спорт</string>
@@ -30,7 +30,7 @@
   <string name="more">Настройки</string>
   <string name="find_phone">Найти мой телефон</string>
   <string name="bluetooth_dev">Bluetooth</string>
-  <string name="wifi_dev">WiFi</string>
+  <string name="wifi_dev">Wi-Fi</string>
   <string name="check_for_update">Обновление</string>
   <string name="change_language">Язык</string>
   <string name="reset_factory">Возврат к заводским настройкам</string>
@@ -45,7 +45,7 @@
   <string name="security">Security</string>
   <string name="preference">Preferences</string>
   <string name="preference_title">使用偏好</string>
-  <string name="light_change">亮度调节</string>
+  <string name="light_change">Подсветка</string>
   <string name="wrist_up">Активировать при поднятии</string>
   <string name="auto_nodisturb">Режим без звука</string>
   <string name="double_click_wakeup">Включение нажатием</string>
@@ -74,7 +74,7 @@
   <string name="app_item_far_away_remind">Предупреждение о путешествии</string>
   <string name="remind_aleary_open">Alert is on already</string>
   <string name="phone_far_away_remind_to_you">"Часы будут предупреждать вас, когда они находятся далеко от вашего телефона."</string>
-  <string name="dialog_confire">Подтвердить</string>
+  <string name="dialog_confire">Подтверждение</string>
   <string name="long_key_action">Долгое нажатие на клавишу круга</string>
   <string name="voice">Voice Set</string>
   <string name="watch_mode">手表模式</string>
@@ -110,9 +110,9 @@
   <string name="zhinanzhen">Компас</string>
   <string name="yinyue">Музыка</string>
   <string name="report_bug_dialog_title">Отзыв</string>
-  <string name="report_bug_dialog_desc">If there is a data error or the watch works abnormally, you can upload the data through the feedback feature to our server for analysis. During this process, the previously generated logs on the watch will be automatically collected and uploaded. These logs are used only for problem analysis, and will be destroyed immediately after that. During the entire process we will comply with our Privacy Policy, view details of the policy on the Amazfit Watch app.</string>
+  <string name="report_bug_dialog_desc">После включения сбора данных движения мы собираем исходную информацию датчика после начала упражнения и прекращаем сбор сразу после окончания упражнения. Эти данные будут отправлены на сервер, когда вы отправите отзыв о проблеме с часами для анализа нашей послепродажной поддержкой. Во время этого процесса ранее созданные журналы на часах будут автоматически собираться и загружаться. Эти журналы используются только для анализа проблем и не будут использоваться в качестве других средств и будут уничтожены сразу после анализа. Весь процесс будет соответствовать нашей политике конфиденциальности. Подробнее см. В политике конфиденциальности в приложении Amazfit Watch.</string>
   <string name="dialog_agree">Принять</string>
-  <string name="dialog_quit">Выход</string>
+  <string name="dialog_quit">Бросать</string>
   <string name="nothing">Пусто</string>
   <string name="about_title">Об устройстве</string>
   <string name="model">Модель</string>
@@ -156,20 +156,20 @@
   <string name="yes">Да</string>
   <string name="no">Нет</string>
   <string name="settings_long_sit_reminder">Переместить предупреждение</string>
-  <string name="settings_off">Выкл.</string>
+  <string name="settings_off">Выкл</string>
   <string name="settings_on">Вкл</string>
   <string name="settings_step_target">Установить цель по шагам</string>
   <string name="settings_step_unit">Шаги</string>
   <string name="settings_target_reach_reminder">Цель выполнена</string>
   <string name="nodisturb_open_string">Вкл</string>
-  <string name="nodisturb_close_string">Выкл.</string>
+  <string name="nodisturb_close_string">Выкл</string>
   <string name="nodisturb_timepicker_connect_symbol">:</string>
   <string name="auto_nodisturb_title_string">Авто Не беспокоить</string>
   <string name="auto_nodisturb_start_time_string">Время начала</string>
   <string name="auto_nodisturb_end_time_string">Время окончания</string>
   <string name="time_to">" до  "</string>
-  <string name="auto_wifi_trans_on_string">Вкл.</string>
-  <string name="auto_wifi_trans_off_string">Выкл.</string>
+  <string name="auto_wifi_trans_on_string">Вкл</string>
+  <string name="auto_wifi_trans_off_string">Выкл</string>
   <string name="blue_tooth_dev_in_sub_list">Bluetooth</string>
   <string name="scanning_blt_devices">Идет поиск...</string>
   <string name="blt_bound_stat_bonded">В паре</string>
@@ -227,13 +227,13 @@
   <string name="lab_wifi_test_tip_pass">Пройдено!!</string>
   <string name="lab_wifi_test_tip_fail">Ошибка!!</string>
   <string name="lab_wifi_test_tip_open_wifi">Открытие WIFI</string>
-  <string name="light_off">Выкл.</string>
+  <string name="light_off">Выкл</string>
   <string name="light_auto">Авто</string>
   <string name="light_on">Всегда включен</string>
   <string name="rise_no_bl_under_slpt">Только разблокировать</string>
   <string name="subtitle_of_raise_hand_no_bl">Авто, когда разблокирован</string>
-  <string name="rise_with_bl_under_slpt">Вкл.</string>
-  <string name="rise_without_bl_under_slpt">Выкл.</string>
+  <string name="rise_with_bl_under_slpt">Вкл</string>
+  <string name="rise_without_bl_under_slpt">Выкл</string>
   <string name="locale_applying">Применение языка...</string>
   <string name="zh_cn">Китайский (упрощённый)</string>
   <string name="en">Английский (США)</string>
@@ -250,12 +250,12 @@
   <string name="male">Мужчина</string>
   <string name="female">Женщина</string>
   <string name="centimeter">см</string>
-  <string name="birth_year_unit">"Год рождения"</string>
+  <string name="birth_year_unit">Год рождения</string>
   <string name="height_unit">"Рост 
 см"</string>
   <string name="weight_unit">"Вес
 кг"</string>
-  <string name="reset_factory_hint">恢复出厂后与你的手机断开连接并删除手表上的所有数据。下次绑定该手表后当前开通的交通卡可以继续使用。</string>
+  <string name="reset_factory_hint">Сброс к заводским настройкам?</string>
   <string name="reset_factory_title">恢复出厂</string>
   <string name="reset_factory_noconnect_msg">"如需解绑手表请在Amazfit手表App进行。
  手表单方面恢复出厂后会移除银联卡和交通卡。
@@ -337,18 +337,18 @@
   <string name="watch_mode_positive">确认开启</string>
   <string name="watch_mode_negative">отменен</string>
   <string name="replace_watchface">Циферблат</string>
-  <string name="screen_refresh">Secondhand</string>
+  <string name="screen_refresh">Секундная стрелка</string>
   <string name="screen_refresh_on_string">Вкл</string>
-  <string name="screen_refresh_off_string">Выкл.</string>
+  <string name="screen_refresh_off_string">Выкл</string>
   <string name="confirm_shutdown">Закрыть?</string>
   <string name="confirm_reboot">Перезагрузка?</string>
-  <string name="app_name">Настройки</string>
+  <string name="app_name">Настройки часов</string>
   <string name="title_activity_long_sitting_time">LongSittingTimeActivity</string>
   <string name="lab_desc">Соберите часть средств отладки</string>
   <string name="unknown">Неизвестное устройство</string>
   <string name="bind_tips_title">"Пожалуйста привяжите 
  для более надежной защиты ваших данных"</string>
   <string name="upgrade_checking">Проверка обновлений...</string>
-  <string name="left_hand">Слева</string>
+  <string name="left_hand">Левая</string>
   <string name="right_hand">Правильно</string>
 </resources>
