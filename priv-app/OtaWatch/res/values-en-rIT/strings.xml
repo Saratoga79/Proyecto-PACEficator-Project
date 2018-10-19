@@ -12,8 +12,8 @@
   <string name="wifi_add_item">Utilizza l\'app
     Amazfit per aggiungere
     un nuovo hotspot WiFi</string>
-  <string name="input_passwor_on_mobile">\"Inserisci la password 
- del WiFi dall\'app Amazfit\"</string>
+  <string name="input_passwor_on_mobile">\"\"Inserisci la password 
+ del WiFi dall\'app Amazfit\"\"</string>
   <string name="add_wifi">Aggiungi WiFi</string>
   <string name="please_update_rom">Nuova versione disponibile, aggiorna per favore</string>
   <string name="checking_rom">Controllo nuove versioni</string>
@@ -51,7 +51,7 @@ aggiornare!"</string>
   <string name="wifi_auth">Verfica password...</string>
   <string name="wifi_get_ip">Acquisizione indirizzo IP...</string>
   <string name="wifi_link_fail">Connessione fallita...</string>
-  <string name="wifi_connected">Collegato</string>
+  <string name="wifi_connected">Connesso</string>
   <string name="wifi_title">Connetti al WiFi</string>
   <string name="wifi_wait_password">In attesa della password...</string>
   <string name="toast_please_update_first">Per favore completa prima l\'aggiornamento</string>
@@ -79,7 +79,7 @@ i dati utente hanno il backup. Installando
 l\'aggiornamento tutti i dati utente sull\'orologio
 saranno eliminati, Continuare?"</string>
   <string name="OK">OK</string>
-  <string name="yes">Si</string>
+  <string name="yes">Sì</string>
   <string name="no">No</string>
   <string name="enter">OK</string>
   <string name="cancel">Annulla</string>
@@ -88,18 +88,18 @@ saranno eliminati, Continuare?"</string>
   <string name="average_text">Media</string>
   <string name="menu_item_high_light_scale_factor">0.5</string>
   <string name="picker_default_positive_text">Conferma</string>
-  <string name="picker_default_nagetive_text">Disattivato</string>
-  <string name="no_heartrate_data_hint">Dati FC non rilevati</string>
-  <string name="no_altitude_hint">Altitudine non disponibile</string>
+  <string name="picker_default_nagetive_text">Spegni</string>
+  <string name="no_heartrate_data_hint">Frequenza cardiaca non rilevata</string>
+  <string name="no_altitude_hint">Altitudine non rilevata</string>
   <string name="ui_lib_name">Hm_UILib</string>
   <string name="title_settings">Impostazioni</string>
-  <string name="sport_music_settings">Sports e Musica</string>
-  <string name="widget_currentstep_title">Centro dati</string>
-  <string name="widget_currentstep_activities">Passi odierni</string>
-  <string name="widget_currentstep_sleep_hour">Ore</string>
-  <string name="widget_currentstep_sleep_min">Min</string>
-  <string name="widget_currentstep_sleep_title">Sonno notte scorsa</string>
-  <string name="widget_currentstep_sleep_no">Dati sonno non disp.</string>
+  <string name="sport_music_settings">Sport Music</string>
+  <string name="widget_currentstep_title">Riepilogo giornal.</string>
+  <string name="widget_currentstep_activities">Attività</string>
+  <string name="widget_currentstep_sleep_hour">h</string>
+  <string name="widget_currentstep_sleep_min">min</string>
+  <string name="widget_currentstep_sleep_title">Sonno</string>
+  <string name="widget_currentstep_sleep_no">Nessun dato sul sonno</string>
   <string name="widget_currentstep_activity_no">Nessuna attività oggi?</string>
   <string name="locale_title">Seleziona Lingua</string>
 </resources>
