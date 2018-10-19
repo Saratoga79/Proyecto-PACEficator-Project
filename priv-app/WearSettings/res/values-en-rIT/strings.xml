@@ -4,23 +4,23 @@
   <string name="average_text">Media</string>
   <string name="menu_item_high_light_scale_factor">0.5</string>
   <string name="picker_default_positive_text">Conferma</string>
-  <string name="picker_default_nagetive_text">Spegni</string>
-  <string name="no_heartrate_data_hint">Dati FC non rilevati</string>
+  <string name="picker_default_nagetive_text">Off</string>
+  <string name="no_heartrate_data_hint">Freq.card. non disponibile</string>
   <string name="no_altitude_hint">Altitudine non disponibile</string>
   <string name="ui_lib_name">Hm_UILib</string>
   <string name="title_settings">Impostazioni</string>
-  <string name="sport_music_settings">Sports e Musica</string>
-  <string name="widget_currentstep_title">Centro dati</string>
-  <string name="widget_currentstep_activities">Passi odierni</string>
-  <string name="widget_currentstep_sleep_hour">Ore</string>
-  <string name="widget_currentstep_sleep_min">Min</string>
-  <string name="widget_currentstep_sleep_title">Sonno notte scorsa</string>
-  <string name="widget_currentstep_sleep_no">Dati sonno non disp.</string>
-  <string name="widget_currentstep_activity_no">Nessuna attività oggi?</string>
+  <string name="sport_music_settings">Sport Music</string>
+  <string name="widget_currentstep_title">Obiettivi</string>
+  <string name="widget_currentstep_activities">Attività</string>
+  <string name="widget_currentstep_sleep_hour">h</string>
+  <string name="widget_currentstep_sleep_min">min</string>
+  <string name="widget_currentstep_sleep_title">Sonno</string>
+  <string name="widget_currentstep_sleep_no">Nessun dato sul sonno</string>
+  <string name="widget_currentstep_activity_no">Nessun esercizio oggi?</string>
   <string name="settings_item_high_light_scale_factor">0.5</string>
   <string name="locale_title">Lingua</string>
   <string name="double_click_wakeup_open">On</string>
-  <string name="double_click_wakeup_close">Disattivato</string>
+  <string name="double_click_wakeup_close">Off</string>
   <string name="dlg_confirm">Conferma</string>
   <string name="dlg_cancel">Annulla</string>
   <string name="sport">Sport</string>
@@ -41,11 +41,11 @@
   <string name="bugreport">Segnala Errore</string>
   <string name="applications">Applicazioni</string>
   <string name="long_sit">Sedentarietà</string>
-  <string name="datacenter">Centro dati</string>
+  <string name="datacenter">Obiettivi</string>
   <string name="security">Security</string>
   <string name="preference">Preferences</string>
   <string name="preference_title">使用偏好</string>
-  <string name="light_change">亮度调节</string>
+  <string name="light_change">Luminosità</string>
   <string name="wrist_up">Attiva con polso</string>
   <string name="auto_nodisturb">Silenz. auto</string>
   <string name="double_click_wakeup">Sblocco 2 tap</string>
@@ -89,7 +89,7 @@
   <string name="jianzou">Camminata</string>
   <string name="yueye">Corsa trail</string>
   <string name="shineipao">Tapis roulant</string>
-  <string name="huwaiqi">Ciclismo</string>
+  <string name="huwaiqi">Bici</string>
   <string name="yongchiyou">Nuoto in vasca</string>
   <string name="gongkaiyou">Nuoto all\'aperto</string>
   <string name="tuoyuanji">Ellittica</string>
@@ -100,9 +100,9 @@
   <string name="skiing">Sci</string>
   <string name="tennis">Tennis</string>
   <string name="soccer">Calcio</string>
-  <string name="yundongjilu">Passi odierni</string>
+  <string name="yundongjilu">Attività</string>
   <string name="celiangxinlv">Freq. Card.</string>
-  <string name="shujuzhongxin">Centro dati</string>
+  <string name="shujuzhongxin">Obiettivi</string>
   <string name="xiaoxizhongxin">Notifiche</string>
   <string name="zhifubao">Alipay</string>
   <string name="jishiqi">Cronometro</string>
@@ -110,9 +110,9 @@
   <string name="zhinanzhen">Bussola</string>
   <string name="yinyue">Musica</string>
   <string name="report_bug_dialog_title">Feedback</string>
-  <string name="report_bug_dialog_desc">If there is a data error or the watch works abnormally, you can upload the data through the feedback feature to our server for analysis. During this process, the previously generated logs on the watch will be automatically collected and uploaded. These logs are used only for problem analysis, and will be destroyed immediately after that. During the entire process we will comply with our Privacy Policy, view details of the policy on the Amazfit Watch app.</string>
+  <string name="report_bug_dialog_desc">Se l\'orologio presenta errori o anormalità, è possibile caricare i dati sul nostro server tramite la funzione di feedback, per l\'analisi da parte del nostro staff post-vendita. Durante questo processo, i log generati in precedenza sull\'orologio verranno automaticamente raccolti e inviati. Questi registri vengono utilizzati solo per l\'analisi dei problemi e non saranno utilizzati per altro, e verranno eliminati dopo l\'analisi. L\'intero processo rispetterà la nostra politica sulla privacy. Per i dettagli, consultare l\'informativa sulla privacy dall\'app AmazfitWatch.</string>
   <string name="dialog_agree">Accetto</string>
-  <string name="dialog_quit">Annulla</string>
+  <string name="dialog_quit">Abbandonare</string>
   <string name="nothing">Vuoto</string>
   <string name="about_title">Info</string>
   <string name="model">Modello</string>
@@ -150,7 +150,7 @@
   <string name="device_name_everest_2s_oversea">Amazfit Stratos +</string>
   <string name="lab">Lab</string>
   <string name="opened">On</string>
-  <string name="closed">Disattivato</string>
+  <string name="closed">Off</string>
   <string name="air_plane">Modo aereo</string>
   <string name="air_plane_mode_note">La modalità aereo disattiva Bluetooth e WiFi sull\'orologio per risparmiare energia. Se è necessario utilizzare le funzionalità che richiedono BT / WiFi, disattivare la modalità aereo dalle Impostazioni.</string>
   <string name="yes">Si</string>
@@ -162,7 +162,7 @@
   <string name="settings_step_unit">Passi</string>
   <string name="settings_target_reach_reminder">Obiettivo</string>
   <string name="nodisturb_open_string">On</string>
-  <string name="nodisturb_close_string">Disattivato</string>
+  <string name="nodisturb_close_string">Off</string>
   <string name="nodisturb_timepicker_connect_symbol">:</string>
   <string name="auto_nodisturb_title_string">Silenzioso auto</string>
   <string name="auto_nodisturb_start_time_string">Ora inizio</string>
@@ -203,7 +203,7 @@ sia acceso e nelle vicinanze"</string>
   <string name="blt_hint_ignore_device">Ignora</string>
   <string name="blt_hint_connect_device">Collega</string>
   <string name="bluetooth_connected">Collegato</string>
-  <string name="bluetooth_disconnected">Disconnesso</string>
+  <string name="bluetooth_disconnected">Scollegato</string>
   <string name="bluetooth_connecting_error_message">"Non posso collegarmi a %1$s."</string>
   <string name="bluetooth_pairing_pin_error_message">"Non posso accoppiare con %1$s: PIN errato"</string>
   <string name="bluetooth_pairing_device_down_error_message">"Non posso comunicare con %1$s."</string>
@@ -226,7 +226,7 @@ sia acceso e nelle vicinanze"</string>
   <string name="lab_wifi_test_tip_pass">Superato!!</string>
   <string name="lab_wifi_test_tip_fail">Fallito!!</string>
   <string name="lab_wifi_test_tip_open_wifi">Attivo WiFi</string>
-  <string name="light_off">Disattivato</string>
+  <string name="light_off">Off</string>
   <string name="light_auto">Auto</string>
   <string name="light_on">Sempre attiva</string>
   <string name="rise_no_bl_under_slpt">Solo sbloccato</string>
@@ -255,7 +255,7 @@ nascita"</string>
 cm"</string>
   <string name="weight_unit">"Peso 
 kg"</string>
-  <string name="reset_factory_hint">恢复出厂后与你的手机断开连接并删除手表上的所有数据。下次绑定该手表后当前开通的交通卡可以继续使用。</string>
+  <string name="reset_factory_hint">Ripristino impostazioni di fabbrica?</string>
   <string name="reset_factory_title">恢复出厂</string>
   <string name="reset_factory_noconnect_msg">"如需解绑手表请在Amazfit手表App进行。
  手表单方面恢复出厂后会移除银联卡和交通卡。
@@ -337,12 +337,12 @@ kg"</string>
   <string name="watch_mode_positive">确认开启</string>
   <string name="watch_mode_negative">Annullato</string>
   <string name="replace_watchface">WatchFaces</string>
-  <string name="screen_refresh">Secondhand</string>
+  <string name="screen_refresh">Secondi visibili</string>
   <string name="screen_refresh_on_string">On</string>
   <string name="screen_refresh_off_string">Off</string>
   <string name="confirm_shutdown">Spegnere?</string>
   <string name="confirm_reboot">Riavviare?</string>
-  <string name="app_name">Impostazioni</string>
+  <string name="app_name">Impostazioni orologio</string>
   <string name="title_activity_long_sitting_time">LongSittingTimeActivity</string>
   <string name="lab_desc">Contiene strumenti utili per il debug</string>
   <string name="unknown">Dispositivo sconosciuto</string>
