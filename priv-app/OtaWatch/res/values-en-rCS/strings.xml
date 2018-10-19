@@ -67,7 +67,7 @@ vyzkoušejte jinou"</string>
   <string name="update_online">OTA aktualizace</string>
   <string name="update_local">Aktualizace z místního úložiště</string>
   <string name="local_update_confirm_1_title">Prosím čtěte</string>
-  <string name="local_update_invalid_zip">Verze systému je příliš nízká, doporučuje se aktualizovat na nejnovější verzi</string>
+  <string name="local_update_invalid_zip">Verze systému je příliš zastaralá, doporučuje se aktualizovat na nejnovější verzi</string>
   <string name="local_update_confirm_1_msg">"Chcete-li zajistit, aby nová verze 
 fungovala správně, vymažeme po aktualizaci všechny 
 uživatelská data. Spojte se prosím 
@@ -80,10 +80,10 @@ data na hodinkách. Chcete pokračovat?"</string>
   <string name="yes">Ano</string>
   <string name="no">Ne</string>
   <string name="enter">OK</string>
-  <string name="cancel">Zavřít</string>
+  <string name="cancel">Zrušit</string>
   <string name="update_tips_0">Aktualizace</string>
   <string name="update_tips_1">Prosím, nevypínejte hodinky</string>
-  <string name="average_text">Prum</string>
+  <string name="average_text">Prm</string>
   <string name="menu_item_high_light_scale_factor">0.5</string>
   <string name="picker_default_positive_text">Potvrdit</string>
   <string name="picker_default_nagetive_text">Vyp</string>
@@ -96,8 +96,8 @@ data na hodinkách. Chcete pokračovat?"</string>
   <string name="widget_currentstep_activities">Aktivity</string>
   <string name="widget_currentstep_sleep_hour">h</string>
   <string name="widget_currentstep_sleep_min">min</string>
-  <string name="widget_currentstep_sleep_title">Spánek minulou noc</string>
+  <string name="widget_currentstep_sleep_title">Spánek</string>
   <string name="widget_currentstep_sleep_no">Žádná spánková data</string>
-  <string name="widget_currentstep_activity_no">Dnes žádné cvičení?</string>
+  <string name="widget_currentstep_activity_no">Dnes žádná aktivita?</string>
   <string name="locale_title">Zvolte jazyk</string>
 </resources>
