@@ -7,7 +7,7 @@
   <string name="crossing_in_progress">Běhání v terénu...</string>
   <string name="crossing_max_step_freq_desc">Maximální kadence</string>
   <string name="crossing_climb_up">Nabytá vzdálenost</string>
-  <string name="crossing_climb_down">Naklesáno</string>
+  <string name="crossing_climb_down">Sestoupáno</string>
   <string name="crossing_individual_pen_dis">Délka jednoho okruhu</string>
   <string name="crossing_individual_pen_cost_time">Čas jednoho okruhu</string>
   <string name="crossing_individual_pen_pace">Tempo jednoho okruhu</string>
@@ -21,7 +21,7 @@
   <string name="crossing_history_detail_ave_move_speed">Průměrná rychlost</string>
   <string name="crossing_history_detail_max_speed">Maximální rychlost</string>
   <string name="crossing_history_detail_climb_up">Nastoupáno</string>
-  <string name="crossing_history_detail_climb_down">Naklesáno</string>
+  <string name="crossing_history_detail_climb_down">Sestoupáno</string>
   <string name="crossing_history_detail_absolute_altitude">Nadmořská výška</string>
   <string name="crossing_history_detail_high_altitude">Maximální nadmořská výška</string>
   <string name="crossing_history_detail_low_altitude">Minimální nadmořská výška</string>
@@ -364,7 +364,7 @@
   <string name="sport_widget_title_in_skiing">Lyžování</string>
   <string name="skiing_history_downhill_title">Běh</string>
   <string name="skiing_downhill_max_elev_loss">Maximální klesání</string>
-  <string name="skiing_downhill_total_elev_loss">Celkové klesání</string>
+  <string name="skiing_downhill_total_elev_loss">Celkový sestup</string>
   <string name="skiing_downhill_desecnd">Celková vzdálenost</string>
   <string name="skiing_cur_lat_lng_title">Dlouho</string>
   <string name="speed_remind_title">Upozornění na rychlost</string>
@@ -665,8 +665,8 @@
   <string name="running_heartrate_desc">TF</string>
   <string name="running_calorie_desc">Kalorie</string>
   <string name="route_cur_altitude">Nadmořská výška</string>
-  <string name="sport_main_climb_al">Získaná nadmořská výška</string>
-  <string name="sport_main_descend_al">Naklesáno</string>
+  <string name="sport_main_climb_al">Nastoupáno</string>
+  <string name="sport_main_descend_al">Sestoupáno</string>
   <string name="running_speed_desc">Rychlost</string>
   <string name="running_avg_speed_desc">Prm. rychlost</string>
   <string name="running_step_freq_desc">Kadence</string>
@@ -682,7 +682,7 @@
   <string name="skiing_downhill_num">Běh</string>
   <string name="skiing_downhill_single_descend">Vzdálenost</string>
   <string name="skiing_rt_downhill_desecnd">Celková vzdálenost</string>
-  <string name="skiing_downhill_elev_loss">Klesání</string>
+  <string name="skiing_downhill_elev_loss">Sestup</string>
   <string name="sport_tennis_strokes">Údery</string>
   <string name="last_lap_duration">Čas posledního okruhu</string>
   <string name="last_lap_pace">Tempo posledního okruhu</string>
