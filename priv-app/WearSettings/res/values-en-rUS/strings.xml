@@ -257,48 +257,48 @@ cm"</string>
 kg"</string>
   <string name="reset_factory_hint">Reset to factory settings?</string>
   <string name="reset_factory_title">恢复出厂</string>
-  <string name="reset_factory_noconnect_msg">"如需解绑手表请在Amazfit手表App进行。
- 手表单方面恢复出厂后会移除银联卡和交通卡。
- －移除的银联卡:不能再被手表绑定。如需再绑定请咨询银行客服。
- －移除的交通卡:将永久销毁，无法再进行支付。"</string>
-  <string name="reset_factory_conncet_msg">手表和Amazfit手表App将移除已绑定的银联卡。手表将继续保留交通卡的支付功能。</string>
-  <string name="reset_factory_positive">恢复出厂</string>
+  <string name="reset_factory_noconnect_msg">"If you need to unbind the watch, please do it in the Amazfit Watch App.
+  The UnionPay card and the transportation card will be removed after the factory form is restored.
+  - UnionPay card removed: can no longer be bound by the watch. If you need to bind again, please consult the bank customer service.
+  - Removed traffic card: will be permanently destroyed and no longer payable."</string>
+  <string name="reset_factory_conncet_msg">Watches and Amazfit Watch App will remove the bound UnionPay card. The watch will continue to retain the payment function of the transportation card</string>
+  <string name="reset_factory_positive">Restore Factory</string>
   <string name="reset_factory_negative">取消</string>
-  <string name="reset_factory_fail_title">恢复出厂失败</string>
-  <string name="reset_factory_fail_msg">未成功移除银联卡，请重试。</string>
-  <string name="reset_factory_fail_positive">确定</string>
-  <string name="reset_factory_doing1">正在恢复出厂</string>
-  <string name="reset_factory_doing2">正在移除银联卡</string>
-  <string name="lockpassword_confirm_your_pattern_header">确认您的图案</string>
-  <string name="lockpattern_need_to_unlock">绘制解锁图案</string>
+  <string name="reset_factory_fail_title">Factory reset failure</string>
+  <string name="reset_factory_fail_msg">UnionPay card was not successfully removed. Please try again</string>
+  <string name="reset_factory_fail_positive">Accept</string>
+  <string name="reset_factory_doing1">Doing factory reset</string>
+  <string name="reset_factory_doing2">Removing UnionPay card</string>
+  <string name="lockpassword_confirm_your_pattern_header">Confirm your pattern</string>
+  <string name="lockpattern_need_to_unlock">Drawing unlock pattern</string>
   <string name="lockpattern_need_to_unlock_footer"></string>
   <string name="lockpattern_need_to_unlock_wrong"></string>
   <string name="lockpattern_need_to_unlock_wrong_footer"></string>
-  <string name="lockpattern_too_many_failed_confirmation_attempts_header">错误次数过多！</string>
-  <string name="lockpattern_too_many_failed_confirmation_attempts_footer">%d 秒后重试</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts_header">Too many errors!</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Retry after %d seconds</string>
   <string name="lockpattern_tutorial_cancel_label">取消</string>
-  <string name="lockpattern_tutorial_continue_label">下一步</string>
-  <string name="lockpassword_choose_your_pattern_header">选择您的图案</string>
+  <string name="lockpattern_tutorial_continue_label">Next step</string>
+  <string name="lockpassword_choose_your_pattern_header">Choose your pattern</string>
   <string name="lockpattern_recording_inprogress"></string>
   <string name="cancel">取消</string>
-  <string name="lockpattern_retry_button_text">重试</string>
-  <string name="lockpattern_continue_button_text">继续</string>
-  <string name="lockpattern_confirm_button_text">确认</string>
-  <string name="lockpattern_recording_intro_header">绘制解锁图案</string>
-  <string name="lockpattern_settings_help_how_to_record">如何绘制解锁图案</string>
+  <string name="lockpattern_retry_button_text">Retry</string>
+  <string name="lockpattern_continue_button_text">Continue</string>
+  <string name="lockpattern_confirm_button_text">Confirm</string>
+  <string name="lockpattern_recording_intro_header">Draw unlock pattern</string>
+  <string name="lockpattern_settings_help_how_to_record">How to draw unlock pattern</string>
   <string name="lockpattern_recording_incorrect_too_short"></string>
-  <string name="lockpattern_pattern_entered_header">图案已记录</string>
-  <string name="lockpattern_need_to_confirm">确认解锁图案</string>
-  <string name="lockpattern_pattern_confirmed_header">确认解锁图案</string>
-  <string name="app_notifications_dialog_done">完成</string>
-  <string name="lockpattern_cancel">手势密码</string>
-  <string name="lockpattern_change">修改密码</string>
-  <string name="lockpattern_change_state">更改手表状态</string>
-  <string name="lockpattern_exist">已开启</string>
-  <string name="lockpattern_exist_no">已关闭</string>
-  <string name="unlock_disable_lock_pattern_summary">删除解锁图案</string>
-  <string name="unlock_disable_frp_warning_content">设备保护功能将无法再发挥作用。</string>
-  <string name="okay">确定</string>
+  <string name="lockpattern_pattern_entered_header">Pattern has been recorded</string>
+  <string name="lockpattern_need_to_confirm">Confirm unlock pattern</string>
+  <string name="lockpattern_pattern_confirmed_header">Confirm unlock pattern</string>
+  <string name="app_notifications_dialog_done">Done</string>
+  <string name="lockpattern_cancel">Cancel</string>
+  <string name="lockpattern_change">Change</string>
+  <string name="lockpattern_change_state">Change watch status</string>
+  <string name="lockpattern_exist">Enabled</string>
+  <string name="lockpattern_exist_no">Disabled</string>
+  <string name="unlock_disable_lock_pattern_summary">Delete unlock pattern</string>
+  <string name="unlock_disable_frp_warning_content">Device protection will no longer work</string>
+  <string name="okay">Ok</string>
   <string name="exit">退出</string>
   <string name="pattern_set_title">安全</string>
   <string name="watch_state">屏保设置</string>
