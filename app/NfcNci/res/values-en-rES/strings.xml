@@ -47,11 +47,11 @@
   <string name="beam_requires_nfc_enabled">Android Beam requiere habilitar el NFC ¿Deseas activarlo?</string>
   <string name="android_beam">Android Beam</string>
   <string name="permlab_nfcReceiveEvent">Permiso para Transacción NFC</string>
-  <string name="permdesc_nfcReceiveEvent">Allows application to receive information about NFC transaction performed</string>
-  <string name="nfc_enabled_dialog">"Nfc is Currently Disabled. 
-Do you want to Enable it for your NFC Service"</string>
+  <string name="permdesc_nfcReceiveEvent">Permite a la aplicación recibir información sobre transacciones de las transacciones NFC realizadas</string>
+  <string name="nfc_enabled_dialog">"NFC desactivado 
+¿deseas habilitar el servicio NFC?"</string>
   <string name="permgrouplab_NFC">NFC-Near Field communication</string>
-  <string name="permgroupdesc_NFC">Access various NFC features</string>
+  <string name="permgroupdesc_NFC">Acceso a diversas funciones NFC</string>
   <string name="ok">Aceptar</string>
-  <string name="no">NO</string>
+  <string name="no">No</string>
 </resources>
