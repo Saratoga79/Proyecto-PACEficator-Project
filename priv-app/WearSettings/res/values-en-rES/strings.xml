@@ -81,10 +81,10 @@
   <string name="recombind">Reemparejando</string>
   <string name="hand_upload">Sincr. manual de datos</string>
   <string name="auto_upload">Sincr. Auto</string>
-  <string name="lock_screen">Modo Salvapantallas</string>
-  <string name="lock_screen_open">微光</string>
-  <string name="lock_screen_close">灭屏</string>
-  <string name="lock_screen_open_guide">将锁屏模式设置为微光后将减少续航时间。</string>
+  <string name="lock_screen">Modo Bloque de Pantalla</string>
+  <string name="lock_screen_open">Desbloqueado</string>
+  <string name="lock_screen_close">Bloqueado</string>
+  <string name="lock_screen_open_guide">Estableciendo el modo de bloqueo de pantalla a Brillo Bajo gastará más batería</string>
   <string name="paobu">Correr</string>
   <string name="jianzou">Caminar</string>
   <string name="yueye">Carrera Trail</string>
@@ -254,19 +254,19 @@ Nacim."</string>
   <string name="weight_unit">"Peso 
 kg"</string>
   <string name="reset_factory_hint">Restab. Ajustes Fábr.?</string>
-  <string name="reset_factory_title">恢复出厂</string>
-  <string name="reset_factory_noconnect_msg">"如需解绑手表请在Amazfit手表App进行。
- 手表单方面恢复出厂后会移除银联卡和交通卡。
- －移除的银联卡:不能再被手表绑定。如需再绑定请咨询银行客服。
- －移除的交通卡:将永久销毁，无法再进行支付。"</string>
-  <string name="reset_factory_conncet_msg">手表和Amazfit手表App将移除已绑定的银联卡。手表将继续保留交通卡的支付功能。</string>
-  <string name="reset_factory_positive">恢复出厂</string>
+  <string name="reset_factory_title">Restablecer de Fábrica</string>
+  <string name="reset_factory_noconnect_msg">"Para desemparejar el reloj, hazlo en la app de Amazfit Watch.
+  La tarjeta UnionPay y la de transporte serán eliminadas después de Restablecer de Fábrica.
+  - Tarjeta UnionPay eliminada: No se podrá añadir más al reloj. Contacta con tu banco si necesitas volver a añadirla.
+  - Tarjeta de tráfico eliminada: Se destruirá y no podrás pagar nunca más"</string>
+  <string name="reset_factory_conncet_msg">El reloj y la app Amazfit Watch eliminarán la tarjeta UnionPay. El reloj aún podrá realizar pagos con la tarjeta de transporte</string>
+  <string name="reset_factory_positive">Restablecer de Fábrica</string>
   <string name="reset_factory_negative">Cancelar</string>
-  <string name="reset_factory_fail_title">恢复出厂失败</string>
-  <string name="reset_factory_fail_msg">未成功移除银联卡，请重试。</string>
-  <string name="reset_factory_fail_positive">确定</string>
-  <string name="reset_factory_doing1">正在恢复出厂</string>
-  <string name="reset_factory_doing2">正在移除银联卡</string>
+  <string name="reset_factory_fail_title">Fall al restablecer de fábrica</string>
+  <string name="reset_factory_fail_msg">La tarjeta UnionPay no pudo ser eliminada correctamente. Inténtalo otra vez.</string>
+  <string name="reset_factory_fail_positive">OK</string>
+  <string name="reset_factory_doing1">Restableciendo de fábrica</string>
+  <string name="reset_factory_doing2">Eliminando tarjeta UnionPay</string>
   <string name="lockpassword_confirm_your_pattern_header">确认您的图案</string>
   <string name="lockpattern_need_to_unlock">绘制解锁图案</string>
   <string name="lockpattern_need_to_unlock_footer"></string>
