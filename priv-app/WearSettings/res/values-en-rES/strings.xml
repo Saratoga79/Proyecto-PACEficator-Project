@@ -42,9 +42,9 @@
   <string name="applications">Apps</string>
   <string name="long_sit">Aviso sedentario</string>
   <string name="datacenter">Ajuste objetivos</string>
-  <string name="security">Security</string>
-  <string name="preference">Preferences</string>
-  <string name="preference_title">使用偏好</string>
+  <string name="security">Seguridad</string>
+  <string name="preference">Preferencias</string>
+  <string name="preference_title">Preferencias</string>
   <string name="light_change">Retroiluminación</string>
   <string name="wrist_up">Giro de muñeca</string>
   <string name="auto_nodisturb">No molestar</string>
@@ -64,7 +64,7 @@
   <string name="units_set">Unidades</string>
   <string name="auto_airplane">A. Modo Avión</string>
   <string name="wifi_upload">Cargar WiFi</string>
-  <string name="wifi_upload_title">数据同步</string>
+  <string name="wifi_upload_title">Sincr. de datos Auto</string>
   <string name="watchface">WatchFace</string>
   <string name="wifi_auto_upload_switch">Sincro. Auto.</string>
   <string name="auto_bg">Retroilum. Auto</string>
@@ -76,12 +76,12 @@
   <string name="phone_far_away_remind_to_you">"El reloj avisará cuando el teléfono esté lejos"</string>
   <string name="dialog_confire">OK</string>
   <string name="long_key_action">Botón Inf Pulsación</string>
-  <string name="voice">Voice Set</string>
-  <string name="watch_mode">手表模式</string>
-  <string name="recombind">重新绑定</string>
-  <string name="hand_upload">手动同步</string>
-  <string name="auto_upload">自动同步</string>
-  <string name="lock_screen">锁屏模式</string>
+  <string name="voice">Voz</string>
+  <string name="watch_mode">Modo Reloj</string>
+  <string name="recombind">Reemparejando</string>
+  <string name="hand_upload">Sincr. manual de datos</string>
+  <string name="auto_upload">Sincr. Auto</string>
+  <string name="lock_screen">Modo Salvapantallas</string>
   <string name="lock_screen_open">微光</string>
   <string name="lock_screen_close">灭屏</string>
   <string name="lock_screen_open_guide">将锁屏模式设置为微光后将减少续航时间。</string>
@@ -327,12 +327,12 @@ kg"</string>
   <string name="light_value">Ajustes de brillo</string>
   <string name="light_auto_set">Brillo automático</string>
   <string name="light_auto_guide_title">Ajustes automáticos</string>
-  <string name="light_auto_guide_content">亮度自动调节开启后，移动滑动条微调亮度系数。调整后屏幕亮度仍会随着环境亮度变化。</string>
-  <string name="light_auto_guide_ok">我知道了</string>
-  <string name="watch_mode_title">开启手表模式</string>
-  <string name="watch_mode_message">"开启后手表将仅支持时间显示、计步及交通卡支付。
- (开启后长按物理键可退出该模式)"</string>
-  <string name="watch_mode_positive">确认开启</string>
+  <string name="light_auto_guide_content">Cuando se active el ajuste automático de brillo, mueve para ajustar el coeficiente de brillo adecuado. Después del ajuste, el brillo de la pantalla aún cambiará en función del brillo ambiente</string>
+  <string name="light_auto_guide_ok">OK</string>
+  <string name="watch_mode_title">Activar modo Reloj</string>
+  <string name="watch_mode_message">"Cuando se active, el reloj sólo podrá mostrar la hora, contar pasos y realizar pagos con tarjetas de transporte.
+  (Después de activarlo, pulsa el botón físico para salir de este modo)"</string>
+  <string name="watch_mode_positive">Confirmar</string>
   <string name="watch_mode_negative">Cancelar</string>
   <string name="replace_watchface">Camb. Esfera</string>
   <string name="screen_refresh">Segundero en reposo</string>
