@@ -9,9 +9,9 @@
   <string name="notification_click_open">Больше</string>
   <string name="delete_all_notifications">Удалить все уведомления</string>
   <string name="delete_all_notifications_confrim_content">Удаленные уведомления не могут быть получены позднее на часы, продолжить?</string>
-  <string name="notification_time_day">Чч: мм</string>
-  <string name="notification_time_month">ММ/дд чч: мм</string>
-  <string name="notification_time_year">гггг/ММ/дд ЧЧ:мм</string>
+  <string name="notification_time_day">HH:mm</string>
+  <string name="notification_time_month">MM/dd HH:mm</string>
+  <string name="notification_time_year">yyyy/MM/dd HH:mm</string>
   <string name="action_delete">Удалить</string>
   <string name="action_shield">Блокировать</string>
   <string name="notification_none">Все догнал</string>
@@ -41,7 +41,7 @@
   <string name="quick_settings_connected">Подключен</string>
   <string name="quick_settings_disconnect">Отключен</string>
   <string name="quick_settings_unbound">Сначала пройдите авторизацию</string>
-  <string name="quick_settings_date_chinese">гггг-ММ-дд</string>
+  <string name="quick_settings_date_chinese">yyyy-MM-dd</string>
   <string name="quick_settings_date_format">1900-1-31</string>
   <string name="quick_settings_date_yeareve">Канун нового года</string>
   <string name="seconed_confirm_nodisturb">"Беззвучный режим
@@ -641,7 +641,7 @@
   <string name="weather">Погода</string>
   <string name="weather_warning">Предварительное предупреждение</string>
   <string name="wind_strength">Сила ветра</string>
-  <string name="date_time_format">ММ-дд</string>
+  <string name="date_time_format">MM-dd</string>
   <string name="weather_warning_level_blue">Синий</string>
   <string name="weather_warning_level_orange">Оранжевый</string>
   <string name="weather_warning_level_red">Красный</string>
