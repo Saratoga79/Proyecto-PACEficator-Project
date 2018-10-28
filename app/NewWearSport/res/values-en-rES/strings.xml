@@ -103,7 +103,7 @@
   <string name="picker_title_target_calorie">Calorías (kCal)</string>
   <string name="picker_title_target_te">Objetivo TE</string>
   <string name="picker_title_target_heart_rate">RC (ppm)</string>
-  <string name="picker_title_auto_lap">Vuelta automática (%1$s)</string>
+  <string name="picker_title_auto_lap">Vuelta auto. (%1$s)</string>
   <string name="picker_title_swim_length">Tamaño de piscina (%1$s)</string>
   <string name="picker_title_target_trips">Objetivo de largos</string>
   <string name="picker_title_fix_dis">Calibrar (%1$s)</string>
@@ -350,7 +350,7 @@
   <string name="data_item_surplus_time">Tiempo restante</string>
   <string name="start_change_item">Empezando siguiente intervalo</string>
   <string name="near_to_finish_item">Casi Completado</string>
-  <string name="click_finsh_this_train_unit">Pulsar Botón Vuelta</string>
+  <string name="click_finsh_this_train_unit">Pulsa Vuelta Manual</string>
   <string name="has_no_train_unit_remind">Añade rutinas de ejercicio por intervalo en la app de Amazfir y sincroniza con el reloj</string>
   <string name="interval_segment_details">Detalles de intervalo</string>
   <string name="interval_train_tips_title">Durante los intervalos los avisos de desactivarán</string>
@@ -369,7 +369,7 @@
   <string name="speed_too_fast_remind_title">Demasiado rápido</string>
   <string name="skiing_lap_title">Vueltas</string>
   <string name="skiing_remind_next_interval_train">Próx intervalo</string>
-  <string name="skiing_remind_click_finsh_this_train_unit">Pulsa Botón Vuelta</string>
+  <string name="skiing_remind_click_finsh_this_train_unit">Pulsa Vuelta Manual</string>
   <string name="skiing_interval_train_complete">Intervalo completado</string>
   <string name="skiing_interval_train_complete_pause_tip">A punto de pararse</string>
   <string name="skiing_above_skiing_spped">Aviso cuando Vel &gt; %1$s</string>
@@ -683,11 +683,11 @@ para un ejercicio más efectivo"</string>
   <string name="skiing_rt_downhill_desecnd">Distancia Total</string>
   <string name="skiing_downhill_elev_loss">Descenso</string>
   <string name="sport_tennis_strokes">Golpes</string>
-  <string name="last_lap_duration">Tiempo</string>
-  <string name="last_lap_pace">Ritmo</string>
-  <string name="last_lap_speed"> Velocidad</string>
-  <string name="last_lap_hr">RC</string>
-  <string name="last_lap_stepfreq">Cadencia pasos</string>
+  <string name="last_lap_duration">Tiempo V.</string>
+  <string name="last_lap_pace">Ritmo V.</string>
+  <string name="last_lap_speed"> Vel. V.</string>
+  <string name="last_lap_hr">RC V.</string>
+  <string name="last_lap_stepfreq">Cad. pasos  V.</string>
   <string name="sport_widget_title">Deportes</string>
   <string name="sport_widget_title_run">Correr</string>
   <string name="sport_widget_title_walk">Caminar</string>
