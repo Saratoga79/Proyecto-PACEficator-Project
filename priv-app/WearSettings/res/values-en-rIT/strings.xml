@@ -17,6 +17,8 @@
   <string name="widget_currentstep_sleep_title">Sonno</string>
   <string name="widget_currentstep_sleep_no">Nessun dato sul sonno</string>
   <string name="widget_currentstep_activity_no">Nessun esercizio oggi?</string>
+  <string name="settings_item_high_light_scale_factor">0.5</string>
+  <string name="locale_title">Lingua</string>
   <string name="double_click_wakeup_open">On</string>
   <string name="double_click_wakeup_close">Off</string>
   <string name="dlg_confirm">Conferma</string>
@@ -25,7 +27,6 @@
   <string name="small_plugins">Widget</string>
   <string name="long_key_sport_title">Seleziona</string>
   <string name="long_key_plugins_title">Widget</string>
-  <string name="settings_item_high_light_scale_factor">0.5</string>
   <string name="more">Impostazioni</string>
   <string name="find_phone">Trova telefono</string>
   <string name="bluetooth_dev">Bluetooth</string>
@@ -220,7 +221,6 @@ sia acceso e nelle vicinanze"</string>
   <string name="subtitle_of_raise_hand_no_bl">Auto se sbloccato</string>
   <string name="rise_with_bl_under_slpt">On</string>
   <string name="rise_without_bl_under_slpt">Off</string>
-  <string name="locale_title">Lingua</string>
   <string name="locale_applying">Cambio Lingua</string>
   <string name="zh_cn">Cinese (Semplificato)</string>
   <string name="en">Inglese (US)</string>
@@ -248,7 +248,7 @@ nascita"</string>
 cm"</string>
   <string name="weight_unit">"Peso 
 kg"</string>
-  <string name="reset_factory_hint">"Ripristino impostazioni di fabbrica?"</string>
+  <string name="reset_factory_hint">Ripristino impostazioni di fabbrica?</string>
   <string name="time_zone">Fuso orario</string>
   <string name="date">Data</string>
   <string name="time">Ora</string>
@@ -278,5 +278,4 @@ per proteggere i tuoi dati"</string>
   <string name="upgrade_checking">Cerco aggiornamento...</string>
   <string name="left_hand">Sinistro</string>
   <string name="right_hand">Destro</string>
-  <string name="device_name_huanhe">Amazfit Sports Watch</string>
 </resources>
