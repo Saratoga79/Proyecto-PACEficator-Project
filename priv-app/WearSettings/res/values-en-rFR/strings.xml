@@ -17,6 +17,8 @@
   <string name="widget_currentstep_sleep_title">Sommeil</string>
   <string name="widget_currentstep_sleep_no">Aucune donnée de sommeil</string>
   <string name="widget_currentstep_activity_no">Pas d\'activité aujourd\'hui?</string>
+  <string name="settings_item_high_light_scale_factor">0.5</string>
+  <string name="locale_title">Langue</string>
   <string name="double_click_wakeup_open">On</string>
   <string name="double_click_wakeup_close">Off</string>
   <string name="dlg_confirm">Confirmer</string>
@@ -25,7 +27,6 @@
   <string name="small_plugins">Widget</string>
   <string name="long_key_sport_title">Sélectionner</string>
   <string name="long_key_plugins_title">Widget</string>
-  <string name="settings_item_high_light_scale_factor">0.5</string>
   <string name="more">Paramètres</string>
   <string name="find_phone">Trouver Mon Téléphone</string>
   <string name="bluetooth_dev">Bluetooth</string>
@@ -220,7 +221,6 @@ Et à proximité"</string>
   <string name="subtitle_of_raise_hand_no_bl">Auto quand débloqué</string>
   <string name="rise_with_bl_under_slpt">On</string>
   <string name="rise_without_bl_under_slpt">Off</string>
-  <string name="locale_title">Langue</string>
   <string name="locale_applying">Changement de langue...</string>
   <string name="zh_cn">Chinois simplifié</string>
   <string name="en">Anglais(U.S.)</string>
@@ -248,7 +248,7 @@ Naissance"</string>
 cm"</string>
   <string name="weight_unit">"Poids 
 kg"</string>
-  <string name="reset_factory_hint">"Rétablir les paramètres d'usine?"</string>
+  <string name="reset_factory_hint">Rétablir les paramètres d\'usine?</string>
   <string name="time_zone">Fuseau horaire</string>
   <string name="date">Date</string>
   <string name="time">Heure</string>
@@ -278,5 +278,4 @@ pour protéger vos données de manière plus sécurisée"</string>
   <string name="upgrade_checking">Vérification de la mise à jour...</string>
   <string name="left_hand">Gauche</string>
   <string name="right_hand">Droit</string>
-  <string name="device_name_huanhe">Amazfit Sports Watch</string>
 </resources>
