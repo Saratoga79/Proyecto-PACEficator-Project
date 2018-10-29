@@ -17,6 +17,8 @@
   <string name="widget_currentstep_sleep_title">Sueño</string>
   <string name="widget_currentstep_sleep_no">Sin datos de sueño</string>
   <string name="widget_currentstep_activity_no">¿No te ejercitas hoy?</string>
+  <string name="settings_item_high_light_scale_factor">0.5</string>
+  <string name="locale_title">Idioma</string>
   <string name="double_click_wakeup_open">On</string>
   <string name="double_click_wakeup_close">Off</string>
   <string name="dlg_confirm">Confirmar</string>
@@ -25,7 +27,6 @@
   <string name="small_plugins">Widget</string>
   <string name="long_key_sport_title">Selecciona</string>
   <string name="long_key_plugins_title">Widget</string>
-  <string name="settings_item_high_light_scale_factor">0.5</string>
   <string name="more">Más ajustes</string>
   <string name="find_phone">Busca Mi Móvil</string>
   <string name="bluetooth_dev">Bluetooth</string>
@@ -218,7 +219,6 @@ encendido y esté cerca"</string>
   <string name="subtitle_of_raise_hand_no_bl">Auto en desbloqueo</string>
   <string name="rise_with_bl_under_slpt">On</string>
   <string name="rise_without_bl_under_slpt">Off</string>
-  <string name="locale_title">Idioma</string>
   <string name="locale_applying">Aplicando idioma...</string>
   <string name="zh_cn">Chino (Simplificado)</string>
   <string name="en">Inglés (US)</string>
@@ -246,7 +246,7 @@ Nacim."</string>
  cm"</string>
   <string name="weight_unit">"Peso 
 kg"</string>
-  <string name="reset_factory_hint">"Restab. Ajustes Fábr.?"</string>
+  <string name="reset_factory_hint">Restab. Ajustes Fábr.?</string>
   <string name="time_zone">Zona Horaria</string>
   <string name="date">Fecha</string>
   <string name="time">Hora</string>
@@ -276,5 +276,4 @@ sus datos de forma más segura"</string>
   <string name="upgrade_checking">Comprobando actualización...</string>
   <string name="left_hand">Izquierda</string>
   <string name="right_hand">Derecha</string>
-  <string name="device_name_huanhe">Amazfit Sports Watch</string>
 </resources>
