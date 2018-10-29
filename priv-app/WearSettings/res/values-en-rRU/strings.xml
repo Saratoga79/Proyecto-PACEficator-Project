@@ -17,6 +17,8 @@
   <string name="widget_currentstep_sleep_title">Сон</string>
   <string name="widget_currentstep_sleep_no">Нет данных о сне</string>
   <string name="widget_currentstep_activity_no">Сегодня нет тренировок?</string>
+  <string name="settings_item_high_light_scale_factor">0.5</string>
+  <string name="locale_title">Язык</string>
   <string name="double_click_wakeup_open">Вкл</string>
   <string name="double_click_wakeup_close">Выкл</string>
   <string name="dlg_confirm">Подтверждение</string>
@@ -25,7 +27,6 @@
   <string name="small_plugins">Виджет</string>
   <string name="long_key_sport_title">Выбрать</string>
   <string name="long_key_plugins_title">Виджет</string>
-  <string name="settings_item_high_light_scale_factor">0.5</string>
   <string name="more">Настройки</string>
   <string name="find_phone">Найти мой телефон</string>
   <string name="bluetooth_dev">Bluetooth</string>
@@ -221,7 +222,6 @@
   <string name="subtitle_of_raise_hand_no_bl">Авто, когда разблокирован</string>
   <string name="rise_with_bl_under_slpt">Вкл</string>
   <string name="rise_without_bl_under_slpt">Выкл</string>
-  <string name="locale_title">Язык</string>
   <string name="locale_applying">Применение языка...</string>
   <string name="zh_cn">Китайский (упрощённый)</string>
   <string name="en">Английский (США)</string>
@@ -248,7 +248,7 @@
 см"</string>
   <string name="weight_unit">"Вес
 кг"</string>
-  <string name="reset_factory_hint">"Сброс к заводским настройкам?"</string>
+  <string name="reset_factory_hint">Сброс к заводским настройкам?</string>
   <string name="time_zone">Часовой пояс</string>
   <string name="date">Дата</string>
   <string name="time">Время</string>
@@ -278,5 +278,4 @@
   <string name="upgrade_checking">Проверка обновлений...</string>
   <string name="left_hand">Левая</string>
   <string name="right_hand">Правильно</string>
-  <string name="device_name_huanhe">Amazfit Sports Watch</string>
 </resources>
