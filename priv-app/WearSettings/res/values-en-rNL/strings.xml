@@ -17,6 +17,8 @@
   <string name="widget_currentstep_sleep_title">Sleep</string>
   <string name="widget_currentstep_sleep_no">No sleep data</string>
   <string name="widget_currentstep_activity_no">No activity today?</string>
+  <string name="settings_item_high_light_scale_factor">0.5</string>
+  <string name="locale_title">Taal</string>
   <string name="double_click_wakeup_open">Aan</string>
   <string name="double_click_wakeup_close">Uit</string>
   <string name="dlg_confirm">Bevestig</string>
@@ -25,7 +27,6 @@
   <string name="small_plugins">Widget</string>
   <string name="long_key_sport_title">Select</string>
   <string name="long_key_plugins_title">Widget</string>
-  <string name="settings_item_high_light_scale_factor">0.5</string>
   <string name="more">Instellingen</string>
   <string name="find_phone">Zoek mijn telefoon</string>
   <string name="bluetooth_dev">Bluetooth</string>
@@ -220,7 +221,6 @@ en is in de buurt"</string>
   <string name="subtitle_of_raise_hand_no_bl">Auto indien ontgrendeld</string>
   <string name="rise_with_bl_under_slpt">Aan</string>
   <string name="rise_without_bl_under_slpt">Uit</string>
-  <string name="locale_title">Taal</string>
   <string name="locale_applying">Language applying...</string>
   <string name="zh_cn">简体中文</string>
   <string name="en">English(U.S.)</string>
@@ -248,7 +248,7 @@ Jaar"</string>
 cm"</string>
   <string name="weight_unit">"Gewicht
 kg"</string>
-  <string name="reset_factory_hint">"Resetten naar fabrieksinstellingen?"</string>
+  <string name="reset_factory_hint">Resetten naar fabrieksinstellingen?</string>
   <string name="time_zone">Tijdzone</string>
   <string name="date">Datum</string>
   <string name="time">Tijd</string>
@@ -278,5 +278,4 @@ kg"</string>
   <string name="upgrade_checking">Controleren op update...</string>
   <string name="left_hand">Links</string>
   <string name="right_hand">Rechts</string>
-  <string name="device_name_huanhe">Amazfit Sports Watch</string>
 </resources>
