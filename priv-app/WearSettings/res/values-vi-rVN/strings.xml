@@ -17,6 +17,8 @@
   <string name="widget_currentstep_sleep_title">Ngủ</string>
   <string name="widget_currentstep_sleep_no">Ko có dữ liệu</string>
   <string name="widget_currentstep_activity_no">Không hoạt động?</string>
+  <string name="settings_item_high_light_scale_factor">0.5</string>
+  <string name="locale_title">Ngôn ngữ</string>
   <string name="double_click_wakeup_open">Bật</string>
   <string name="double_click_wakeup_close">Tắt</string>
   <string name="dlg_confirm">Xác nhận</string>
@@ -25,7 +27,6 @@
   <string name="small_plugins">Widget</string>
   <string name="long_key_sport_title">Chọn</string>
   <string name="long_key_plugins_title">Tiện ích</string>
-  <string name="settings_item_high_light_scale_factor">0.5</string>
   <string name="more">Cài đặt</string>
   <string name="find_phone">Tìm điện thoại</string>
   <string name="bluetooth_dev">Bluetooth</string>
@@ -220,7 +221,6 @@ và nằm ở gần"</string>
   <string name="subtitle_of_raise_hand_no_bl">Tự động khi mở khóa</string>
   <string name="rise_with_bl_under_slpt">Bật</string>
   <string name="rise_without_bl_under_slpt">Tắt</string>
-  <string name="locale_title">Ngôn ngữ</string>
   <string name="locale_applying">Đang áp dụng...</string>
   <string name="zh_cn">简体中文</string>
   <string name="en">English(U.S.)</string>
@@ -247,7 +247,7 @@ và nằm ở gần"</string>
 cm"</string>
   <string name="weight_unit">"Nặng 
 kg"</string>
-  <string name="reset_factory_hint">"Đặt về trạng thái xuất xưởng?"</string>
+  <string name="reset_factory_hint">Đặt về trạng thái xuất xưởng?</string>
   <string name="time_zone">Múi giờ</string>
   <string name="date">Ngày</string>
   <string name="time">Giờ</string>
@@ -277,5 +277,4 @@ kg"</string>
   <string name="upgrade_checking">Kiểm tra cập nhật...</string>
   <string name="left_hand">Trái</string>
   <string name="right_hand">Phải</string>
-  <string name="device_name_huanhe">Đhồ thể thao Amazfit</string>
 </resources>
