@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
+    <item type="string" name="settings_item_high_light_scale_factor">0.71</item>
     <string name="locale_title">Select Language</string>
     <string name="action_badge_activated">com.huami.watch.health.BADGE_ACTIVATED</string>
     <string name="action_badge_dumped">com.huami.watch.health.BADGE_DUMPED</string>
@@ -207,8 +207,8 @@
     <string name="weeklysports_triathlon_totaltime">Total time</string>
     <string name="weeklysports_triathlon_hour">hours</string>
     <string name="weeklysports_triathlon_min">minutes</string>
-    <string name="weeklysports_frequency"></string>
-    <string name="weeklysports_day"></string>
+    <string name="weeklysports_frequency" />
+    <string name="weeklysports_day" />
     <string name="weeklysports_activity">Move</string>
     <string name="weeklysports_running">Run</string>
     <string name="weeklysports_walking">Walk</string>
@@ -237,7 +237,7 @@
     <string name="currentstep_detail_sleep_deep">Deep Sleep</string>
     <string name="currentstep_detail_title">Details</string>
     <string name="currentstep_detail_activity_step_done">Goal achieved</string>
-    <string name="currentstep_detail_activity_step_notdo"></string>
+    <string name="currentstep_detail_activity_step_notdo" />
     <string name="currentstep_detail_activity_run_rate_av">AVG pace</string>
     <string name="currentstep_detail_activity_run_rate_ma">Best pace</string>
     <string name="currentstep_detail_activity_walk_ridding_rate_av">AVG speed</string>

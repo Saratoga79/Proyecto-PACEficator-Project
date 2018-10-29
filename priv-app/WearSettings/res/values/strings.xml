@@ -16,6 +16,8 @@
     <string name="widget_currentstep_sleep_title">Sleep</string>
     <string name="widget_currentstep_sleep_no">No sleep data</string>
     <string name="widget_currentstep_activity_no">No activity today?</string>
+    <string name="settings_item_high_light_scale_factor">0.5</string>
+    <string name="locale_title">Language</string>
     <string name="double_click_wakeup_open">On</string>
     <string name="double_click_wakeup_close">Off</string>
     <string name="dlg_confirm">Confirm</string>
@@ -24,7 +26,6 @@
     <string name="small_plugins">Widget</string>
     <string name="long_key_sport_title">Select</string>
     <string name="long_key_plugins_title">Widget</string>
-    <string name="settings_item_high_light_scale_factor">0.5</string>
     <string name="more">Settings</string>
     <string name="find_phone">Find My Phone</string>
     <string name="bluetooth_dev">Bluetooth</string>
@@ -96,9 +97,9 @@
     <string name="zhinanzhen">Compass</string>
     <string name="yinyue">Music</string>
     <string name="report_bug_dialog_title">Feedback</string>
-    <string name="report_bug_dialog_desc">After a watch has data errors, abnormal conditions, etc., you can upload data to our server through the question feedback function for analysis by our after-sales personnel. During this process, the previously generated logs on the watch will be automatically collected and uploaded. These logs are used only for problem analysis and will not be used as other means and will be destroyed immediately after the analysis. The entire process will comply with our privacy policy. For details, please see the privacy policy on the Amazfit Watch App.</string>
+    <string name="report_bug_dialog_desc">If there is a data error or the watch works abnormally, you can upload the data through the feedback feature to our server for analysis. During this process, the previously generated logs on the watch will be automatically collected and uploaded. These logs are used only for problem analysis, and will be destroyed immediately after that. During the entire process we will comply with our Privacy Policy, view details of the policy on the Amazfit Watch app.</string>
     <string name="dialog_agree">Agree</string>
-    <string name="dialog_quit">Drop out</string>
+    <string name="dialog_quit">Exit</string>
     <string name="nothing">Empty</string>
     <string name="about_title">About</string>
     <string name="model">Model</string>
@@ -219,11 +220,10 @@ and is nearby"</string>
     <string name="subtitle_of_raise_hand_no_bl">Auto when unlocked</string>
     <string name="rise_with_bl_under_slpt">On</string>
     <string name="rise_without_bl_under_slpt">Off</string>
-    <string name="locale_title">Language</string>
     <string name="locale_applying">Language applying...</string>
     <string name="zh_cn">简体中文</string>
     <string name="en">English(U.S.)</string>
-    <string name="zh_hk">Traditional Chinese (Hong Kong)</string>
+    <string name="zh_hk">繁體中文(香港)</string>
     <string name="zh_tw">繁體中文(台灣)</string>
     <string name="ru_ru">Русский</string>
     <string name="es_es">Español</string>
@@ -247,7 +247,7 @@ Year"</string>
 cm"</string>
     <string name="weight_unit">"Weight 
 kg"</string>
-    <string name="reset_factory_hint">"Reset to factory settings?"</string>
+    <string name="reset_factory_hint">Reset to factory settings?</string>
     <string name="time_zone">Time Zone</string>
     <string name="date">Date</string>
     <string name="time">Time</string>
@@ -277,5 +277,4 @@ kg"</string>
     <string name="upgrade_checking">Checking for update...</string>
     <string name="left_hand">Left</string>
     <string name="right_hand">Right</string>
-    <string name="device_name_huanhe">Amazfit Sports Watch</string>
 </resources>

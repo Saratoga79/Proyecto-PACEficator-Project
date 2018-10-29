@@ -36,7 +36,7 @@
     <string name="custom_change_bg_tips">Preview different images by swiping up or down</string>
     <string name="custom_choose_custom_bg_tips">Choose uploaded image</string>
     <string name="cube_month">-</string>
-    <string name="cube_day"></string>
+    <string name="cube_day" />
     <string name="digital_sport_eight_distance_km_unit_path">guard/shiguanglicheng/watchface_slpt_number_km.png</string>
     <string name="digital_sport_eight_distance_mi_unit_path">guard/shiguanglicheng/en/watchface_slpt_number_km.png</string>
     <string name="digital_sport_eight_week_path">guard/shiguanglicheng/en/watchface_slpt_number_week_%d.png</string>
@@ -64,8 +64,8 @@
     <string name="tennis">Tennis</string>
     <string name="soccer">Soccer</string>
     <string name="golf">Golf</string>
-    <string name="complex_sport">Complex sport</string>
-    <string name="rope_skipping">Rope skipping</string>
+    <string name="complex_sport">complex sport</string>
+    <string name="rope_skipping">Jump rope</string>
     <string name="sport_total_time">Total Time</string>
     <string name="current_altitude">Altitude</string>
     <string name="speed">Speed</string>
@@ -132,7 +132,7 @@
     <string name="low_battery_protect">Low battery</string>
     <string name="low_battery_tips">Low battery</string>
     <string name="low_battery_please_charging">Battery is low. Please charge.</string>
-    <string name="virtual_rabbit">Virtual Rabbit</string>
+    <string name="virtual_rabbit">Virtual rabbit</string>
     <string name="virtual_rabbit_lead_time">Lead time</string>
     <string name="virtual_rabbit_back_time">Lag time</string>
     <string name="virtual_rabbit_lead_distance">Lead distance</string>
@@ -141,10 +141,11 @@
     <string name="oritation_sourth">S</string>
     <string name="oritation_west">W</string>
     <string name="oritation_north">N</string>
-    <string name="rope_skip_group_time">Group time</string>
-    <string name="rope_skip_group_count">Group count</string>
-    <string name="rope_skip_group_freq">Group frequency</string>
-    <string name="rope_skip_reset_tips">Rested</string>
+    <string name="rope_skip_group_time">Time</string>
+    <string name="rope_skip_group_count">Count</string>
+    <string name="rope_skip_group_freq">Frequency</string>
+    <string name="rope_skip_reset_tips">Has rested</string>
+    <string name="rope_skip_tips">Completed groups:%1$s</string>
     <string name="rope_skip_tips1">Completed</string>
     <string name="rope_skip_tips2">Group</string>
     <string name="app_name">HuamiWatchFaces</string>
@@ -175,7 +176,7 @@
     <string name="watch_today_step">Today Steps</string>
     <string name="sport_step">step</string>
     <string name="everyminute_times">beat/min</string>
-    <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
+    <item type="string" name="settings_item_high_light_scale_factor">0.71</item>
     <string name="locale_title">Select Language</string>
     <string name="average_text">Avg</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>

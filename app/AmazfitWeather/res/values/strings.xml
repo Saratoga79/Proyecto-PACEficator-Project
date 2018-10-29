@@ -57,17 +57,17 @@
     <string name="forecast">Weather Forecast</string>
     <string name="fetching">Loading</string>
     <string name="fetch_failed">fetch failed</string>
-  <string name="unknown">Unknown</string>
+    <string name="unknown">unknown</string>
     <string name="fetch_failed_title">Can not get weather info</string>
     <string name="fetch_failed_msg">Please make sure the watch is connected to the Amazfit Watch app and a valid location is selected in the app.</string>
     <string name="date_time_format">MM-dd</string>
     <string name="fetch_failed_help">Please synchronize weather information first</string>
-  <string name="cancel">Cancel</string>
+    <string name="cancel">close</string>
     <string name="data_check_log">+------------------------+▂▃▄▅▆▇█▉ 天 气 数 据 校 验 出 错 ！ %1$s▉█▇▆▅▄▃▂+------------------------+</string>
-  <string name="data_checkfail_type">Unable to recognize weather type</string>
-  <string name="data_checkfail_temp">Weather temperature out of range</string>
-  <string name="data_checkfail_match">Weather type fields do not match</string>
-  <string name="data_checkfail_json">JSON format error</string>
+    <string name="data_checkfail_type">天气类型无法识别</string>
+    <string name="data_checkfail_temp">天气温度超出范围</string>
+    <string name="data_checkfail_match">天气类型字段不匹配</string>
+    <string name="data_checkfail_json">JSON格式错误</string>
     <string name="wind_breeze">Breeze</string>
     <string name="wind_rotating">Rotating</string>
     <string name="wind_N">N</string>
@@ -101,4 +101,6 @@
     <string name="widget_currentstep_sleep_title">Sleep</string>
     <string name="widget_currentstep_sleep_no">No sleep data</string>
     <string name="widget_currentstep_activity_no">No activity today?</string>
+    <item type="string" name="settings_item_high_light_scale_factor">0.71</item>
+    <string name="locale_title">Select Language</string>
 </resources>
