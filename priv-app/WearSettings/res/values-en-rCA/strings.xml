@@ -17,6 +17,8 @@
   <string name="widget_currentstep_sleep_title">Son</string>
   <string name="widget_currentstep_sleep_no">No hi ha dades de son</string>
   <string name="widget_currentstep_activity_no">Avui no hi ha activitat?</string>
+  <string name="settings_item_high_light_scale_factor">0.5</string>
+  <string name="locale_title">Language</string>
   <string name="double_click_wakeup_open">Activada</string>
   <string name="double_click_wakeup_close">Apagar</string>
   <string name="dlg_confirm">Confirma</string>
@@ -25,7 +27,6 @@
   <string name="small_plugins">Giny</string>
   <string name="long_key_sport_title">Seleccionar</string>
   <string name="long_key_plugins_title">Giny</string>
-  <string name="settings_item_high_light_scale_factor">0.5</string>
   <string name="more">Configuració</string>
   <string name="find_phone">Trobar el meu telèfon</string>
   <string name="bluetooth_dev">Bluetooth</string>
@@ -220,7 +221,6 @@ and is nearby"</string>
   <string name="subtitle_of_raise_hand_no_bl">Auto when unlocked</string>
   <string name="rise_with_bl_under_slpt">On</string>
   <string name="rise_without_bl_under_slpt">Off</string>
-  <string name="locale_title">Language</string>
   <string name="locale_applying">Language applying...</string>
   <string name="zh_cn">简体中文</string>
   <string name="en">English(U.S.)</string>
@@ -248,7 +248,7 @@ Year"</string>
 cm"</string>
   <string name="weight_unit">"Weight 
 kg"</string>
-  <string name="reset_factory_hint">"Reset to factory settings?"</string>
+  <string name="reset_factory_hint">Reset to factory settings?</string>
   <string name="time_zone">Time Zone</string>
   <string name="date">Date</string>
   <string name="time">Time</string>
@@ -278,5 +278,4 @@ kg"</string>
   <string name="upgrade_checking">Checking for update...</string>
   <string name="left_hand">Left</string>
   <string name="right_hand">Right</string>
-  <string name="device_name_huanhe">Amazfit Sports Watch</string>
 </resources>

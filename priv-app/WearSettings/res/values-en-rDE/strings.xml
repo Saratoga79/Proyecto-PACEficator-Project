@@ -17,6 +17,8 @@
   <string name="widget_currentstep_sleep_title">Schlaf</string>
   <string name="widget_currentstep_sleep_no">Keine Schlafdaten</string>
   <string name="widget_currentstep_activity_no">Heute kein Training?</string>
+  <string name="settings_item_high_light_scale_factor">0.5</string>
+  <string name="locale_title">Sprache</string>
   <string name="double_click_wakeup_open">An</string>
   <string name="double_click_wakeup_close">Aus</string>
   <string name="dlg_confirm">Bestätige</string>
@@ -25,7 +27,6 @@
   <string name="small_plugins">Widget</string>
   <string name="long_key_sport_title">Wählen</string>
   <string name="long_key_plugins_title">Widget</string>
-  <string name="settings_item_high_light_scale_factor">0.5</string>
   <string name="more">Einstellungen</string>
   <string name="find_phone">Telefon suchen</string>
   <string name="bluetooth_dev">Bluetooth</string>
@@ -219,7 +220,6 @@ Verbinden?"</string>
   <string name="subtitle_of_raise_hand_no_bl">Autom. wenn entsperrt</string>
   <string name="rise_with_bl_under_slpt">An</string>
   <string name="rise_without_bl_under_slpt">Aus</string>
-  <string name="locale_title">Sprache</string>
   <string name="locale_applying">Sprache angewendet</string>
   <string name="zh_cn">简体中文</string>
   <string name="en">English(U.S.)</string>
@@ -243,7 +243,7 @@ Verbinden?"</string>
   <string name="birth_year_unit">Geburtsjahr</string>
   <string name="height_unit">Größe cm</string>
   <string name="weight_unit">Gewicht kg</string>
-  <string name="reset_factory_hint">"Auf Werkseinstellungen zurüksetzen?"</string>
+  <string name="reset_factory_hint">Auf Werkseinstellungen zurüksetzen?</string>
   <string name="time_zone">Zeitzone</string>
   <string name="date">Datum</string>
   <string name="time">Zeit</string>
@@ -272,5 +272,4 @@ Verbinden?"</string>
   <string name="upgrade_checking">Auf Update überprüfen...</string>
   <string name="left_hand">Links</string>
   <string name="right_hand">Recht</string>
-  <string name="device_name_huanhe">Amazfit Sports Watch</string>
 </resources>

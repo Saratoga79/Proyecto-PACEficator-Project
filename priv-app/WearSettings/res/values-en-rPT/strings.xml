@@ -17,6 +17,8 @@
   <string name="widget_currentstep_sleep_title">Sono</string>
   <string name="widget_currentstep_sleep_no">Sem dados de sono</string>
   <string name="widget_currentstep_activity_no">Sem exercício hoje?</string>
+  <string name="settings_item_high_light_scale_factor">0.5</string>
+  <string name="locale_title">Idioma</string>
   <string name="double_click_wakeup_open">Ligado</string>
   <string name="double_click_wakeup_close">Desligar</string>
   <string name="dlg_confirm">Confirmar</string>
@@ -25,7 +27,6 @@
   <string name="small_plugins">Widget</string>
   <string name="long_key_sport_title">Escolher</string>
   <string name="long_key_plugins_title">Widget</string>
-  <string name="settings_item_high_light_scale_factor">0.5</string>
   <string name="more">Definições</string>
   <string name="find_phone">Encontrar o meu telefone</string>
   <string name="bluetooth_dev">Bluetooth</string>
@@ -220,7 +221,6 @@ e está por perto"</string>
   <string name="subtitle_of_raise_hand_no_bl">Auto quando desbloqueado</string>
   <string name="rise_with_bl_under_slpt">Ligar</string>
   <string name="rise_without_bl_under_slpt">Desligar</string>
-  <string name="locale_title">Idioma</string>
   <string name="locale_applying">A aplicar idioma...</string>
   <string name="zh_cn">Chinês Mandarim</string>
   <string name="en">Inglês (US)</string>
@@ -248,7 +248,7 @@ Nascimento"</string>
 cm"</string>
   <string name="weight_unit">"Peso
 kg"</string>
-  <string name="reset_factory_hint">"Repor de fabrica?"</string>
+  <string name="reset_factory_hint">Repor de fabrica?</string>
   <string name="time_zone">Zona de tempo</string>
   <string name="date">Data</string>
   <string name="time">Hora</string>
@@ -278,5 +278,4 @@ kg"</string>
   <string name="upgrade_checking">Procurando update...</string>
   <string name="left_hand">Esquerda</string>
   <string name="right_hand">Direita</string>
-  <string name="device_name_huanhe">Amazfit Sports Watch</string>
 </resources>

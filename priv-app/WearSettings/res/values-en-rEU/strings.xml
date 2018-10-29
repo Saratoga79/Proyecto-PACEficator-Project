@@ -17,6 +17,8 @@
   <string name="widget_currentstep_sleep_title">Loa</string>
   <string name="widget_currentstep_sleep_no">Ez dago loaren daturik</string>
   <string name="widget_currentstep_activity_no">Gaur ez duzu ariketarik egingo?</string>
+  <string name="settings_item_high_light_scale_factor">0.5</string>
+  <string name="locale_title">Hizkuntza</string>
   <string name="double_click_wakeup_open">Aktibatuta</string>
   <string name="double_click_wakeup_close">Desaktibatuta</string>
   <string name="dlg_confirm">Baieztatu</string>
@@ -25,7 +27,6 @@
   <string name="small_plugins">Widget</string>
   <string name="long_key_sport_title">Aukeratu</string>
   <string name="long_key_plugins_title">Widget</string>
-  <string name="settings_item_high_light_scale_factor">0.5</string>
   <string name="more">Esleipen gehiago</string>
   <string name="find_phone">Bilatu nire telefono mugikorra</string>
   <string name="bluetooth_dev">Bluetooth</string>
@@ -216,7 +217,6 @@
   <string name="subtitle_of_raise_hand_no_bl">Auto desblokeoan</string>
   <string name="rise_with_bl_under_slpt">Piztuta</string>
   <string name="rise_without_bl_under_slpt">Itzalita</string>
-  <string name="locale_title">Hizkuntza</string>
   <string name="locale_applying">Hizkuntza aldatzen...</string>
   <string name="zh_cn">Txinatarra (Sinplifikatua)</string>
   <string name="en">Ingelesa(US)</string>
@@ -240,7 +240,7 @@
   <string name="birth_year_unit">Jaiotze data</string>
   <string name="height_unit">Altuera zm</string>
   <string name="weight_unit">Pisua kg</string>
-  <string name="reset_factory_hint">"Fabrikako balioak ezarri?"</string>
+  <string name="reset_factory_hint">Fabrikako balioak ezarri?</string>
   <string name="time_zone">Ordu gunea</string>
   <string name="date">Data</string>
   <string name="time">Ordua</string>
@@ -269,5 +269,4 @@
   <string name="upgrade_checking">Eguneraketaren konprobazioa...</string>
   <string name="left_hand">Ezkerra</string>
   <string name="right_hand">Eskuma</string>
-  <string name="device_name_huanhe">Amazfit Sports Watch</string>
 </resources>

@@ -17,6 +17,8 @@
   <string name="widget_currentstep_sleep_title">Sleep</string>
   <string name="widget_currentstep_sleep_no">No sleep data</string>
   <string name="widget_currentstep_activity_no">No activity today?</string>
+  <string name="settings_item_high_light_scale_factor">0.5</string>
+  <string name="locale_title">Jezik</string>
   <string name="double_click_wakeup_open">Vklopljeno</string>
   <string name="double_click_wakeup_close">Izklopljeno</string>
   <string name="dlg_confirm">Potrdi</string>
@@ -25,7 +27,6 @@
   <string name="small_plugins">Widget</string>
   <string name="long_key_sport_title">Select</string>
   <string name="long_key_plugins_title">Widget</string>
-  <string name="settings_item_high_light_scale_factor">0.5</string>
   <string name="more">Nastavitve</string>
   <string name="find_phone">Najdi telefon</string>
   <string name="bluetooth_dev">Bluetooth</string>
@@ -220,7 +221,6 @@ in je v bližini"</string>
   <string name="subtitle_of_raise_hand_no_bl">Avto ko je odklenjeno</string>
   <string name="rise_with_bl_under_slpt">Vklopljeno</string>
   <string name="rise_without_bl_under_slpt">Izklopljeno</string>
-  <string name="locale_title">Jezik</string>
   <string name="locale_applying">Language applying...</string>
   <string name="zh_cn">简体中文</string>
   <string name="en">English(U.S.)</string>
@@ -248,7 +248,7 @@ rojstva"</string>
 cm"</string>
   <string name="weight_unit">"Teža
 kg"</string>
-  <string name="reset_factory_hint">"Ponastavim na tovarniške nastavitve?"</string>
+  <string name="reset_factory_hint">Ponastavim na tovarniške nastavitve?</string>
   <string name="time_zone">Časovni pas</string>
   <string name="date">Datum</string>
   <string name="time">Čas</string>
@@ -278,5 +278,4 @@ varneje zaščititi vaše podatke"</string>
   <string name="upgrade_checking">Preverjanje novih različic</string>
   <string name="left_hand">Leva</string>
   <string name="right_hand">Desna</string>
-  <string name="device_name_huanhe">Amazfit Sports ura</string>
 </resources>

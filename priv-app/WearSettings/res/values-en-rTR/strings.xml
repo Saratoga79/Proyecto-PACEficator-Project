@@ -17,6 +17,8 @@
   <string name="widget_currentstep_sleep_title">Uyku</string>
   <string name="widget_currentstep_sleep_no">Uyku verisi yok</string>
   <string name="widget_currentstep_activity_no">Aktiviten yok mu?</string>
+  <string name="settings_item_high_light_scale_factor">0.5</string>
+  <string name="locale_title">Dil</string>
   <string name="double_click_wakeup_open">Açık</string>
   <string name="double_click_wakeup_close">Kapalı</string>
   <string name="dlg_confirm">Tamam</string>
@@ -25,7 +27,6 @@
   <string name="small_plugins">Widget</string>
   <string name="long_key_sport_title">Seç</string>
   <string name="long_key_plugins_title">Widget</string>
-  <string name="settings_item_high_light_scale_factor">0.5</string>
   <string name="more">Ayarlar</string>
   <string name="find_phone">Telefonumu bul</string>
   <string name="bluetooth_dev">Bluetooth</string>
@@ -219,7 +220,6 @@ Bağlan?"</string>
   <string name="subtitle_of_raise_hand_no_bl">Kilit açıldığında otomatik</string>
   <string name="rise_with_bl_under_slpt">Açık</string>
   <string name="rise_without_bl_under_slpt">Kapalı</string>
-  <string name="locale_title">Dil</string>
   <string name="locale_applying">Dil Seçiliyor...</string>
   <string name="zh_cn">简体中文</string>
   <string name="en">İngilizce(ABD)</string>
@@ -247,7 +247,7 @@ Yılı"</string>
 cm"</string>
   <string name="weight_unit">"Ağırlık 
 kg"</string>
-  <string name="reset_factory_hint">"Fabrika ayarlarına geri dönülsün mü?"</string>
+  <string name="reset_factory_hint">Fabrika ayarlarına geri dönülsün mü?</string>
   <string name="time_zone">Saat Dilimi</string>
   <string name="date">Tarih</string>
   <string name="time">Zaman</string>
@@ -276,5 +276,4 @@ kg"</string>
   <string name="upgrade_checking">Güncelleme kontrol ediliyor...</string>
   <string name="left_hand">Sol</string>
   <string name="right_hand">Sağ</string>
-  <string name="device_name_huanhe">Amazfit Sports Watch</string>
 </resources>

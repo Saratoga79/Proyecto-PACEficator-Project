@@ -17,6 +17,8 @@
   <string name="widget_currentstep_sleep_title">Alvás</string>
   <string name="widget_currentstep_sleep_no">Nincs alvás adat</string>
   <string name="widget_currentstep_activity_no">Ma nem edzünk?</string>
+  <string name="settings_item_high_light_scale_factor">0.5</string>
+  <string name="locale_title">Nyelv</string>
   <string name="double_click_wakeup_open">Be</string>
   <string name="double_click_wakeup_close">Ki</string>
   <string name="dlg_confirm">Megerősít</string>
@@ -25,7 +27,6 @@
   <string name="small_plugins">Widget</string>
   <string name="long_key_sport_title">Választ</string>
   <string name="long_key_plugins_title">Widget</string>
-  <string name="settings_item_high_light_scale_factor">0.5</string>
   <string name="more">Beállítások</string>
   <string name="find_phone">Telefon keresés</string>
   <string name="bluetooth_dev">Bluetooth</string>
@@ -220,7 +221,6 @@ Csatlakozol?"</string>
   <string name="subtitle_of_raise_hand_no_bl">Aut., mikor feloldva</string>
   <string name="rise_with_bl_under_slpt">Be</string>
   <string name="rise_without_bl_under_slpt">Ki</string>
-  <string name="locale_title">Nyelv</string>
   <string name="locale_applying">Nyelv alkalmazása...</string>
   <string name="zh_cn">Kínai (egyszerű)</string>
   <string name="en">Angol(US)</string>
@@ -248,7 +248,7 @@ Csatlakozol?"</string>
 cm"</string>
   <string name="weight_unit">"Súly 
 kg"</string>
-  <string name="reset_factory_hint">"Gyári beállítások visszaállítása?"</string>
+  <string name="reset_factory_hint">Gyári beállítások visszaállítása?</string>
   <string name="time_zone">Időzóna</string>
   <string name="date">Dátum</string>
   <string name="time">Idő</string>
@@ -278,5 +278,4 @@ adataid biztosabb védelme érdekében"</string>
   <string name="upgrade_checking">Frissítés ellenőrzése...</string>
   <string name="left_hand">Bal kéz</string>
   <string name="right_hand">Jobb kéz</string>
-  <string name="device_name_huanhe">Amazfit Sports Watch</string>
 </resources>

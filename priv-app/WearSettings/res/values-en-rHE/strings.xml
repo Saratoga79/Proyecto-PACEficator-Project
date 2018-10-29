@@ -17,6 +17,8 @@
   <string name="widget_currentstep_sleep_title">שינה</string>
   <string name="widget_currentstep_sleep_no">אין נתוני שינה</string>
   <string name="widget_currentstep_activity_no">לא התאמנת היום?</string>
+  <string name="settings_item_high_light_scale_factor">0.5</string>
+  <string name="locale_title">שפה</string>
   <string name="double_click_wakeup_open">מופעל</string>
   <string name="double_click_wakeup_close">כבוי</string>
   <string name="dlg_confirm">אשר</string>
@@ -25,7 +27,6 @@
   <string name="small_plugins">תוספים</string>
   <string name="long_key_sport_title">בחר ספורט</string>
   <string name="long_key_plugins_title">יישומון</string>
-  <string name="settings_item_high_light_scale_factor">0.5</string>
   <string name="more">הגדרות</string>
   <string name="find_phone">מציאת הטלפון</string>
   <string name="bluetooth_dev">Bluetooth</string>
@@ -216,7 +217,6 @@
   <string name="subtitle_of_raise_hand_no_bl">אוטומטי לאחר פתיחה</string>
   <string name="rise_with_bl_under_slpt">מופעל</string>
   <string name="rise_without_bl_under_slpt">כבוי</string>
-  <string name="locale_title">שפה</string>
   <string name="locale_applying">החל שפה</string>
   <string name="zh_cn">סינית (פשוטה)</string>
   <string name="en">אנגלית (ארה\"ב)</string>
@@ -240,7 +240,7 @@
   <string name="birth_year_unit">שנת לידה</string>
   <string name="height_unit">גובה ס\"מ</string>
   <string name="weight_unit">משקל ק\"ג</string>
-  <string name="reset_factory_hint">"לאפס להגדרות היצרן?"</string>
+  <string name="reset_factory_hint">לאפס להגדרות היצרן?</string>
   <string name="time_zone">אזור זמן</string>
   <string name="date">תאריך</string>
   <string name="time">זמן</string>
@@ -270,5 +270,4 @@
   <string name="upgrade_checking">מחפש עדכון...</string>
   <string name="left_hand">יד שמאל</string>
   <string name="right_hand">יד ימין</string>
-  <string name="device_name_huanhe">שעון ספורט Amazfit</string>
 </resources>

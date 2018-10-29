@@ -17,6 +17,8 @@
   <string name="widget_currentstep_sleep_title">Spavanje</string>
   <string name="widget_currentstep_sleep_no">Nema podataka spavanja</string>
   <string name="widget_currentstep_activity_no">Nećete vježbati danas?</string>
+  <string name="settings_item_high_light_scale_factor">0.5</string>
+  <string name="locale_title">Jezik</string>
   <string name="double_click_wakeup_open">Uključeno</string>
   <string name="double_click_wakeup_close">Isključeno</string>
   <string name="dlg_confirm">Potvrdi</string>
@@ -25,7 +27,6 @@
   <string name="small_plugins">Widget</string>
   <string name="long_key_sport_title">Odaberi</string>
   <string name="long_key_plugins_title">Widget</string>
-  <string name="settings_item_high_light_scale_factor">0.5</string>
   <string name="more">Postavke</string>
   <string name="find_phone">Pronađi moj telefon</string>
   <string name="bluetooth_dev">Bluetooth</string>
@@ -221,7 +222,6 @@ i nalazi se u blizini"</string>
   <string name="subtitle_of_raise_hand_no_bl">Autom. kada je otključano</string>
   <string name="rise_with_bl_under_slpt">Uključeno</string>
   <string name="rise_without_bl_under_slpt">Isključeno</string>
-  <string name="locale_title">Jezik</string>
   <string name="locale_applying">Postavljanje jezika</string>
   <string name="zh_cn">Chinese (Simplified)</string>
   <string name="en">English(US)</string>
@@ -249,7 +249,7 @@ rođenja"</string>
 cm"</string>
   <string name="weight_unit">"Težina 
 kg"</string>
-  <string name="reset_factory_hint">"Vratiti na tvorničke postavke?"</string>
+  <string name="reset_factory_hint">Vratiti na tvorničke postavke?</string>
   <string name="time_zone">Vremenska zona</string>
   <string name="date">Datum</string>
   <string name="time">Vrijeme</string>
@@ -279,5 +279,4 @@ zaštitili svoje podatke na sigurniji način"</string>
   <string name="upgrade_checking">Provjera ažuriranja…</string>
   <string name="left_hand">Lijeva</string>
   <string name="right_hand">Desna</string>
-  <string name="device_name_huanhe">Amazfit Sports Watch</string>
 </resources>

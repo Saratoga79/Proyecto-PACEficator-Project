@@ -58,12 +58,12 @@
   <string name="forecast">Vremenska prognoza</string>
   <string name="fetching">Učitavanje</string>
   <string name="fetch_failed">Nije uspjelo</string>
-  <string name="unknown">Nepoznato</string>
+  <string name="unknown">nepoznato</string>
   <string name="fetch_failed_title">Ne mogu dobiti informacije o vremenu</string>
   <string name="fetch_failed_msg">Provjerite je li sat povezan na Amazfit Watch aplikaciju i da je valjana lokacija odabrana u aplikaciji.</string>
   <string name="date_time_format">dd-MM</string>
   <string name="fetch_failed_help">Najprije sinkronizirajte informacije o vremenu</string>
-  <string name="cancel">Odustani</string>
+  <string name="cancel">zatvori</string>
   <string name="data_check_log">+------------------------+▂▃▄▅▆▇█▉ 天 气 数 据 校 验 出 错 ！ %1$s▉█▇▆▅▄▃▂+------------------------+</string>
   <string name="data_checkfail_type">Nije moguće prepoznati vrstu vremena</string>
   <string name="data_checkfail_temp">Vremenska temperatura izvan raspona</string>
@@ -102,4 +102,5 @@
   <string name="widget_currentstep_sleep_title">Spavanje</string>
   <string name="widget_currentstep_sleep_no">Nema podataka o spavanju</string>
   <string name="widget_currentstep_activity_no">Nećete vježbati danas?</string>
+  <string name="locale_title">Odaberite jezik</string>
 </resources>

@@ -58,16 +58,16 @@
   <string name="forecast">Időjárás előrejelzés</string>
   <string name="fetching">Betöltés</string>
   <string name="fetch_failed">lekérés sikertelen</string>
-  <string name="unknown">Ismeretlen</string>
+  <string name="unknown">ismeretlen</string>
   <string name="fetch_failed_title">Nem lehet időjárási információkat kapni</string>
   <string name="fetch_failed_msg">Győződj meg róla, hogy az óra csatlakozik az Amazfit Watch-hoz és az alkalmazásban érvényes hely van kiválasztva.</string>
   <string name="date_time_format">MM-dd</string>
   <string name="fetch_failed_help">Előbb szinkron. az időjárás infót</string>
-  <string name="cancel">Mégse</string>
+  <string name="cancel">bezár</string>
   <string name="data_check_log">+------------------------+▂▃▄▅▆▇█▉ Időjárás 校 adat ell. hiba ！ %1$s▉█▇▆▅▄▃▂+------------------------+</string>
-  <string name="data_checkfail_type">Nem ismerhető az időjárás</string>
+  <string name="data_checkfail_type">Az időjárás típusa nem ismert</string>
   <string name="data_checkfail_temp">A hőmérséklet nem áll rendelkezésre</string>
-  <string name="data_checkfail_match">Az időjárás típus mezők nem egyeznek</string>
+  <string name="data_checkfail_match">Az időjárás típus mező nem egyezik</string>
   <string name="data_checkfail_json">JSON formátum hiba</string>
   <string name="wind_breeze">Könnyű</string>
   <string name="wind_rotating">Forgatás</string>
@@ -102,4 +102,5 @@
   <string name="widget_currentstep_sleep_title">Alvás múlt éjjel</string>
   <string name="widget_currentstep_sleep_no">Nincs alvás adat</string>
   <string name="widget_currentstep_activity_no">Ma nincs edzés?</string>
+  <string name="locale_title">Nyelv választása</string>
 </resources>
