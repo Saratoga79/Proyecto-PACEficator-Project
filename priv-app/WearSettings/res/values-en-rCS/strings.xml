@@ -17,6 +17,8 @@
   <string name="widget_currentstep_sleep_title">Spánek</string>
   <string name="widget_currentstep_sleep_no">Žádná spánková data</string>
   <string name="widget_currentstep_activity_no">Dnes žádná aktivita?</string>
+  <string name="settings_item_high_light_scale_factor">0.5</string>
+  <string name="locale_title">Jazyk</string>
   <string name="double_click_wakeup_open">Zap</string>
   <string name="double_click_wakeup_close">Vyp</string>
   <string name="dlg_confirm">Potvrdit</string>
@@ -25,7 +27,6 @@
   <string name="small_plugins">Widget</string>
   <string name="long_key_sport_title">Vybrat</string>
   <string name="long_key_plugins_title">Widget</string>
-  <string name="settings_item_high_light_scale_factor">0.5</string>
   <string name="more">Nastavení</string>
   <string name="find_phone">Najít můj telefon</string>
   <string name="bluetooth_dev">Bluetooth</string>
@@ -220,7 +221,6 @@ a v dosahu"</string>
   <string name="subtitle_of_raise_hand_no_bl">Auto. při odemknutí</string>
   <string name="rise_with_bl_under_slpt">Zap</string>
   <string name="rise_without_bl_under_slpt">Vyp</string>
-  <string name="locale_title">Jazyk</string>
   <string name="locale_applying">Nastavuji jazyk...</string>
   <string name="zh_cn">简体中文</string>
   <string name="en">English(U.S.)</string>
@@ -248,7 +248,7 @@ narození"</string>
 cm"</string>
   <string name="weight_unit">"Váha 
 kg"</string>
-  <string name="reset_factory_hint">"Obnovit tovární nastavení?"</string>
+  <string name="reset_factory_hint">Obnovit tovární nastavení?</string>
   <string name="time_zone">Časové pásmo</string>
   <string name="date">Datum</string>
   <string name="time">Čas</string>
@@ -278,5 +278,4 @@ svá data bezpečněji"</string>
   <string name="upgrade_checking">Vyhledávám aktualizace...</string>
   <string name="left_hand">Levá ruka</string>
   <string name="right_hand">Pravá ruka</string>
-  <string name="device_name_huanhe">Amazfit Sports Watch</string>
 </resources>
