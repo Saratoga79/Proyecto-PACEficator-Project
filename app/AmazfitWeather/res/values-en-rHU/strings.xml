@@ -27,7 +27,7 @@
   <string name="weather_warning_level_def">Riasztás</string>
   <string name="weather_warning_level_white">Fehér</string>
   <string name="weather_warning_level_black">Fekete</string>
-  <string name="weather_warning_typhoon">Tájfun</string>
+  <string name="weather_warning_typhoon">Hurrikán</string>
   <string name="weather_warning_rainstorm">Felhőszakadás</string>
   <string name="weather_warning_cold">Hideg</string>
   <string name="weather_warning_gale">Szélvihar</string>
@@ -64,7 +64,7 @@
   <string name="date_time_format">MM-dd</string>
   <string name="fetch_failed_help">Előbb szinkron. az időjárás infót</string>
   <string name="cancel">bezár</string>
-  <string name="data_check_log">+------------------------+▂▃▄▅▆▇█▉ Időjárás 校 adat ell. hiba ！ %1$s▉█▇▆▅▄▃▂+------------------------+</string>
+  <string name="data_check_log">+------------------------+▂▃▄▅▆▇█▉ Az időjárás adat-teszt hibás! %1$s▉█▇▆▅▄▃▂+------------------------+</string>
   <string name="data_checkfail_type">Az időjárás típusa nem ismert</string>
   <string name="data_checkfail_temp">A hőmérséklet nem áll rendelkezésre</string>
   <string name="data_checkfail_match">Az időjárás típus mező nem egyezik</string>
@@ -81,7 +81,7 @@
   <string name="wind_NW">ÉNy</string>
   <string name="wind_power">%1$d. szint</string>
   <string name="wind_power_12">12-es szint és felette</string>
-  <string name="uv_power_weakest">Leggyengébb</string>
+  <string name="uv_power_weakest">Gyengébb</string>
   <string name="uv_power_weak">Gyenge</string>
   <string name="uv_power_litter_strong">Erős</string>
   <string name="uv_power_strong">Erős</string>
@@ -96,7 +96,7 @@
   <string name="title_settings">Beállítások</string>
   <string name="sport_music_settings">Zene sporthoz</string>
   <string name="widget_currentstep_title">Adatközpont</string>
-  <string name="widget_currentstep_activities">Mai lépés</string>
+  <string name="widget_currentstep_activities">Tevékenység</string>
   <string name="widget_currentstep_sleep_hour">ó</string>
   <string name="widget_currentstep_sleep_min">perc</string>
   <string name="widget_currentstep_sleep_title">Alvás múlt éjjel</string>
