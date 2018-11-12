@@ -117,11 +117,11 @@
     <string name="mijia">Mi Home</string>
     <string name="zhinanzhen">Iránytű</string>
     <string name="yinyue">Zene</string>
-    <string name="rebond_title">Pairing reminder</string>
-    <string name="rebond_desc_air_plane">Airplane mode of the watch is on, turn it off and try to pair again</string>
-    <string name="rebong_unbond_desc">Attention: You can only use this feature when the watch is unpaired from Amazfit Watch app, otherwise, the previously paired watch will be unpaired.</string>
-    <string name="rebond_go_on">Continue</string>
-    <string name="rebond_quit">Exit</string>
+    <string name="rebond_title">Párosítás emlékeztető</string>
+    <string name="rebond_desc_air_plane">Óra Repülőgép mód Be. Kapcsold ki majd újra próbáld párosítani</string>
+    <string name="rebong_unbond_desc">Figyelem: Ezt a funkciót csak akkor használd, ha az óra az Amazfit Watch appról le van választva, különben a korábban párosított óra nem párosul.</string>
+    <string name="rebond_go_on">Tovább</string>
+    <string name="rebond_quit">Kilép</string>
     <string name="report_bug_dialog_title">Visszajelzés</string>
     <string name="report_bug_dialog_desc">Óra adathiba, rendellenes körülmények, stb. után feltölthetsz adatokat a szerverünkre a visszajelzési funkción keresztül az értékesítés utáni elemzéshez. E folyamat során az óra előzetesen létrehozott naplói automatikusan összegyűjtésre és feltöltésre kerülnek. Ezeket a naplókat csak a probléma elemzéséhez használjuk, nem használjuk másra. Az elemzés után azonnal megsemmisülnek. Az egész folyamat megfelel az adatvédelmi irányelveinknek. A részleteket lásd az Amazfit Watch App adatvédelmi szabályzatában.</string>
     <string name="dialog_agree">Elfogad</string>
@@ -282,10 +282,10 @@ adataid biztosabb védelme érdekében"</string>
     <string name="upgrade_checking">Frissítés ellenőrzése...</string>
     <string name="left_hand">Bal kéz</string>
     <string name="right_hand">Jobb kéz</string>
-    <string name="sport_remind_title">Motion detection</string>
-    <string name="sport_remind_open_title">Enable motion detection start</string>
-    <string name="sport_remind_end_title">Enable motion detection end</string>
-    <string name="sport_remind_open_tips">开启后，将在检测到你跑步或健走时，提醒您快捷开启运动模式</string>
-    <string name="sport_remind_end_tips">开启后，将在检测到你运动完成后，提醒您结束并保存</string>
+    <string name="sport_remind_title">Mozgásérzékelés</string>
+    <string name="sport_remind_open_title">Mozgásérzékelés indítás eng.</string>
+    <string name="sport_remind_end_title">Mozgásérzékelés leáll. eng.</string>
+    <string name="sport_remind_open_tips">Bekapcsolva emlékeztetni fog arra, hogy gyorsan bekapcsold a sport módot amikor észleli, hogy futsz vagy jársz</string>
+    <string name="sport_remind_end_tips">Bekapcsolva emlékeztetni fog arra, hogy végeztél és mentsd el, miután a feladat befejeztét észlelte</string>
     <string name="sport_remind_open">Start</string>
 </resources>
