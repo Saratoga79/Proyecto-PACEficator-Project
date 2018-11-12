@@ -5,6 +5,15 @@
         <item>CODZIENNY</item>
         <item>COTYGODN.</item>
     </string-array>
+    <string-array name="chart_x_titles2">
+        <item>0</item>
+        <item>4</item>
+        <item>8</item>
+        <item>12</item>
+        <item>16</item>
+        <item>20</item>
+        <item>24</item>
+    </string-array>
     <string-array name="spring_depend">
         <item>com.huami.watch.health/com.huami.watch.health.widget.HeartLauncherView</item>
         <item>com.huami.watch.health/com.huami.watch.health.widget.StepLauncherView</item>
@@ -40,14 +49,5 @@
         <item>P</item>
         <item>S</item>
         <item>N</item>
-    </string-array>
-    <string-array name="chart_x_titles2">
-        <item>0</item>
-        <item>4</item>
-        <item>8</item>
-        <item>12</item>
-        <item>16</item>
-        <item>20</item>
-        <item>24</item>
     </string-array>
 </resources>
