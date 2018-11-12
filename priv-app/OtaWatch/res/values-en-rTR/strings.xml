@@ -5,22 +5,22 @@
     <string name="action_settings">Ayarlar</string>
     <string name="watch_ota">Saat Güncellemesi</string>
     <string name="wifi_disconnect">Please connect the Amazfit Watch APP to help the watch check for update</string>
-    <string name="connect_phone_wifi">Please check the phone network to help the watch check for update</string>
+    <string name="connect_phone_wifi">"Please check the phone network to help the watch check for update"</string>
     <string name="connect_phone_input_wifi">Please connect the Amazfit Watch APP to input Wi-Fi password for the watch</string>
     <string name="wifi_add_item">Please connect the Amazfit Watch App to add new Wi-Fi hotspot for the watch</string>
-    <string name="input_passwor_on_mobile">Please input Wi-Fi password in the Amazfit Watch APP</string>
     <string name="add_wifi">Wi-Fi Ekle</string>
     <string name="please_update_rom">Yeni bir sistem güncellemesi bulundu, lütfen güncelleyin</string>
     <string name="checking_rom">Güncelleme kontrol ediliyor</string>
     <string name="checking_rom_failed">"Ağ bağlantısı zaman aşımına uğradı, 
 lütfen tekrar deneyin"</string>
     <string name="current_is_new">Son versiyon zaten yüklü</string>
-    <string name="has_new_rom_all">An update is available. Firmware on this watch is out of date and upgrading to the latest may take a while, continue?</string>
     <string name="has_new_rom">"Yeni versiyon bulundu,
 %1$s versiyonuna yükseltilsin mi?"</string>
+    <string name="has_new_rom_all">An update is available. Firmware on this watch is out of date and upgrading to the latest may take a while, continue?</string>
+    <string name="input_passwor_on_mobile">Please input Wi-Fi password in the Amazfit Watch APP</string>
     <string name="processbar_downloading_rom">İndiriliyor...</string>
-    <string name="please_keep_wifi_connect">"Lütfen saati 
-WiFi\'ye bağlı tutun"</string>
+    <string name="please_keep_wifi_connect">"\"Lütfen saati 
+WiFi'ye bağlı tutun\""</string>
     <string name="processbar_downloading_tips">%</string>
     <string name="processbar_downloading_default">0</string>
     <string name="download_rom_faild">"Güncelleme paketi indirilemedi,
@@ -46,7 +46,7 @@ lütfen yükseltin"</string>
     <string name="wifi_connecting">Bağlanıyor...</string>
     <string name="wifi_auth">Şifre doğrulanıyor...</string>
     <string name="wifi_get_ip">IP adresi alınıyor...</string>
-    <string name="wifi_link_fail">Bağlantı başarısız...</string>
+    <string name="wifi_link_fail">"Bağlantı başarısız..."</string>
     <string name="wifi_connected">Bağlantı sağlandı</string>
     <string name="wifi_title">Wi-Fi\'ye bağlan</string>
     <string name="wifi_wait_password">Şifre girilmesi için bekleniyor...</string>
@@ -82,18 +82,17 @@ verileri silecek, Devam edilsin mi?"</string>
     <string name="enter">OK</string>
     <string name="cancel">Cancel</string>
     <string name="update_tips_0">Updating</string>
-    <string name="update_tips_1">Please do not power off the watch</string>
+    <string name="update_tips_1">"Please do not power off the watch"</string>
     <string name="average_text">Avg</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Confirm</string>
     <string name="picker_default_nagetive_text">Off</string>
-    <string name="no_heartrate_data_hint">Heart rate data not detected</string>
-    <string name="no_altitude_hint">Altitude data not detected</string>
-    <string name="ui_lib_name">Hm_UILib</string>
+    <string name="no_heartrate_data_hint">"Heart rate data not detected"</string>
+    <string name="no_altitude_hint">"Altitude data not detected"</string>
     <string name="title_settings">Ayarlar</string>
     <string name="sport_music_settings">Sports music</string>
     <string name="widget_currentstep_title">Daily Overview</string>
-    <string name="widget_currentstep_activities">Activities</string>
+    <string name="widget_currentstep_activities">"Activities"</string>
     <string name="widget_currentstep_sleep_hour">h</string>
     <string name="widget_currentstep_sleep_min">min</string>
     <string name="widget_currentstep_sleep_title">Sleep</string>
