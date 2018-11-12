@@ -9,23 +9,34 @@
         <item>6</item>
         <item>7</item>
     </integer-array>
+    <string-array name="stopwatch_format_set">
+        <item>%2$02d:%3$02d.%4$02d</item>
+        <item>%2$02d:%3$02d.%4$02d</item>
+        <item>%1$02d:%2$02d:%3$02d.%4$02d</item>
+        <item>%1$02d:%2$02d:%3$02d.%4$02d</item>
+        <item>%1$03d:%2$02d:%3$02d.%4$02d</item>
+    </string-array>
+    <string-array name="sw_lap_number_set">
+        <item>\# %d</item>
+        <item>\# %02d</item>
+    </string-array>
     <string-array name="spring_depend">
         <item>com.huami.watch.deskclock/com.huami.watch.deskclock.AlarmClockWidget</item>
         <item>com.huami.watch.deskclock/com.huami.watch.deskclock.stopwatch.StopWatchWidget</item>
         <item>com.huami.watch.deskclock/com.huami.watch.deskclock.countdown.CountdownWidget</item>
     </string-array>
     <string-array name="alarm_set">
-        <item>Alarm set for less than 1 minute from now.</item>
-        <item>Alarm set for %1$s from now.</item>
-        <item>Alarm set for %2$s from now.</item>
-        <item>Alarm set for %1$s and %2$s from now.</item>
-        <item>Alarm set for %3$s from now.</item>
-        <item>Alarm set for %1$s and %3$s from now.</item>
-        <item>Alarm set for %2$s and %3$s from now.</item>
-        <item>Alarm set for %1$s, %2$s, and %3$s from now.</item>
+        <item>Alarm will go off in less than 1 minute.</item>
+        <item>Alarm will go off in %1$s.</item>
+        <item>Alarm will go off in %2$s.</item>
+        <item>Alarm will go off in %1$s and %2$s.</item>
+        <item>Alarm will go off in %3$s.</item>
+        <item>Alarm will go off in %1$s and %3$s.</item>
+        <item>Alarm will go off in %2$s and %3$s.</item>
+        <item>Alarm will go off in %1$s, %2$s, and %3$s.</item>
     </string-array>
     <string-array name="repeat_description">
-        <item>Once only</item>
+        <item>Once</item>
         <item>Mon</item>
         <item>Tue</item>
         <item>Wed</item>
@@ -43,17 +54,6 @@
         <item>Thu</item>
         <item>Fri</item>
         <item>Sat</item>
-    </string-array>
-    <string-array name="stopwatch_format_set">
-        <item>%2$02d:%3$02d.%4$02d</item>
-        <item>%2$02d:%3$02d.%4$02d</item>
-        <item>%1$02d:%2$02d:%3$02d.%4$02d</item>
-        <item>%1$02d:%2$02d:%3$02d.%4$02d</item>
-        <item>%1$03d:%2$02d:%3$02d.%4$02d</item>
-    </string-array>
-    <string-array name="sw_lap_number_set">
-        <item>\# %d</item>
-        <item>\# %02d</item>
     </string-array>
     <string-array name="am_pm">
         <item>AM</item>
