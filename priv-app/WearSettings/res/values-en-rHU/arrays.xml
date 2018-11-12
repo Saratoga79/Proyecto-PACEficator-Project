@@ -87,8 +87,8 @@
         <item>Pacific/Tongatapu</item>
     </string-array>
     <string-array name="lab_item_android_settings">
-        <item>[prim]Eredeti rendszer beállítások</item>
-        <item>[sum]Android beállítások</item>
+        <item>[prim] Eredeti rendszer beállítások</item>
+        <item>[sum] Android beállítások</item>
         <item>[pkg]com.android.settings</item>
     </string-array>
     <string-array name="lab_item_logger">
@@ -98,13 +98,13 @@
         <item>[clazz]com.huami.watch.wearlogger.AllLogActivityLab</item>
     </string-array>
     <string-array name="lab_item_selftest">
-        <item>[prim]selftest</item>
-        <item>[sum]start selftest by yourself</item>
+        <item>[prim] Önteszt</item>
+        <item>[sum] Önteszt indítása</item>
         <item>[action]com.huami.watch.selftest.START</item>
     </string-array>
     <string-array name="lab_item_open_applist">
         <item>[prim]Launcher applista</item>
-        <item>[sum]Applistát nyit/bezár</item>
+        <item>[sum] Alkalmazás lista be/kikapcsolása</item>
         <item>[sid]applist</item>
     </string-array>
     <string-array name="lab_item_bt_hci_snoop_log">
@@ -118,37 +118,37 @@
         <item>[sid]power_test</item>
     </string-array>
     <string-array name="lab_item_long_sitting_timer_plus">
-        <item>[prim]Túl sokat ültél ideje</item>
-        <item>[sum]Túl sokat ültél ideje (perc)</item>
+        <item>[prim] üresjárati riasztási időzítő</item>
+        <item>[sum] üresjárati riasztási időzítő beállítása</item>
         <item>[pkg]com.huami.mobile.watchsettings</item>
         <item>[clazz]com.huami.moblie.watchsettings.actions.lab.labUI.LongSittingTimeActivity</item>
     </string-array>
     <string-array name="lab_item_wifi_signal_intensity">
-        <item>[prim]Jelerősség</item>
-        <item>[sum]Jelerősség teszt</item>
+        <item>[prim] Jelerősség</item>
+        <item>[sum] Jelerősség teszt</item>
         <item>[pkg]com.huami.mobile.watchsettings</item>
         <item>[clazz]com.huami.moblie.watchsettings.actions.lab.labUI.WifiTestActivity</item>
     </string-array>
     <string-array name="lab_item_pointer_location">
-        <item>"[prim]mutató helye"</item>
-        <item>[sum]mutatót megnyit/bezár</item>
+        <item>"[prim] Mutató helye"</item>
+        <item>[sum] Mutatót be/kikapcsolása</item>
         <item>[sid]pointer_location</item>
     </string-array>
     <string-array name="time_zone_item">
-        <item>-11 Midway</item>
-        <item>-10 Honolulu</item>
-        <item>-9 Anchorage</item>
-        <item>-8 Los_Angeles</item>
-        <item>-8 Tijuana</item>
-        <item>-7 Phoenix</item>
-        <item>-7 Chihuahua</item>
-        <item>-7 Denver</item>
-        <item>-6 Costa_Rica</item>
-        <item>-6 Chicago</item>
-        <item>-6 Mexico_City</item>
-        <item>-6 Regina</item>
-        <item>-5 Bogota</item>
-        <item>-5 New_York</item>
+        <item>UTC-11:00 Midway-szigetek</item>
+        <item>UTC−10:00 Honolulu</item>
+        <item>UTC−9:00 Anchorage</item>
+        <item>UTC−8:00 Los Angeles</item>
+        <item>UTC−8:00 Tijuana</item>
+        <item>UTC−7:00 Phoenix</item>
+        <item>UTC−7:00 Chihuahua</item>
+        <item>UTC−7:00 Denver</item>
+        <item>UTC−6:00 Costa Rica</item>
+        <item>UTC−6:00 Chicago</item>
+        <item>UTC−6:00 Mexico város</item>
+        <item>UTC−6:00 Regina</item>
+        <item>UTC−5:00 Bogota</item>
+        <item>UTC−5:00 New York</item>
         <item>-4:30 Caracas</item>
         <item>-4 Barbados</item>
         <item>-4 Manaus</item>
