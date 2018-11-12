@@ -119,9 +119,9 @@
     <string name="yinyue">Nhạc</string>
     <string name="rebond_title">Nhắc nhở ghép nối</string>
     <string name="rebond_desc_air_plane">Máy bay đang bật, tắt nó đi và thử ghép nối lại đh</string>
-    <string name="rebong_unbond_desc">Attention: You can only use this feature when the watch is unpaired from Amazfit Watch app, otherwise, the previously paired watch will be unpaired.</string>
-    <string name="rebond_go_on">Continue</string>
-    <string name="rebond_quit">Exit</string>
+    <string name="rebong_unbond_desc">Chú ý: Bạn chỉ có thể sử dụng tính năng này khi đh unpaired khỏi Amazfit App, nếu không, xem trước kết hợp sẽ kết.</string>
+    <string name="rebond_go_on">Tiếp tục</string>
+    <string name="rebond_quit">Thoát</string>
     <string name="report_bug_dialog_title">Phản hồi</string>
     <string name="report_bug_dialog_desc">Sau khi đồng hồ có lỗi dữ liệu, điều kiện bất thường, v.v., bạn có thể tải dữ liệu lên máy chủ thông qua chức năng phản hồi câu hỏi để phân tích bởi nhân viên sau bán hàng. Trong quá trình này, các nhật ký được tạo trước đây trên đồng hồ sẽ tự động được thu thập và tải lên. Các bản ghi này chỉ được sử dụng để phân tích vấn đề và sẽ được bảo mật nó sẽ bị hủy ngay lập tức sau khi phân tích. Toàn bộ quá trình sẽ tuân thủ chính sách bảo mật của chúng tôi. Để biết chi tiết, vui lòng xem chính sách bảo mật trên Ứng dụng đồng hồ Amazfit.</string>
     <string name="dialog_agree">Đồng ý</string>
@@ -281,10 +281,10 @@ kg"</string>
     <string name="upgrade_checking">Kiểm tra cập nhật...</string>
     <string name="left_hand">Trái</string>
     <string name="right_hand">Phải</string>
-    <string name="sport_remind_title">Motion detection</string>
-    <string name="sport_remind_open_title">Enable motion detection start</string>
-    <string name="sport_remind_end_title">Enable motion detection end</string>
-    <string name="sport_remind_open_tips">开启后，将在检测到你跑步或健走时，提醒您快捷开启运动模式</string>
-    <string name="sport_remind_end_tips">开启后，将在检测到你运动完成后，提醒您结束并保存</string>
-    <string name="sport_remind_open">Start</string>
+    <string name="sport_remind_title">Phát hiện chuyển động</string>
+    <string name="sport_remind_open_title">Bật phát hiện chuyển động</string>
+    <string name="sport_remind_end_title">Tắt phát hiện chuyển động</string>
+    <string name="sport_remind_open_tips">开启后, 将在检测到你跑步或健走时, 提醒您快捷开启运动模式</string>
+    <string name="sport_remind_end_tips">开启后, 将在检测到你运动完成后, 提醒您结束并保存</string>
+    <string name="sport_remind_open">Bắt đầu</string>
 </resources>
