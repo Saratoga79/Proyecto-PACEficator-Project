@@ -5,23 +5,23 @@
     <string name="action_settings">Beállítások</string>
     <string name="watch_ota">Watch frissítés</string>
     <string name="wifi_disconnect">Csatlakozz az Amazfit watch apphoz, segít a frissítések ellenőrzésében</string>
-    <string name="connect_phone_wifi">Ellenőrizd a telefon hálózatát, hogy az óra ellenőrizhesse a frissítést</string>
+    <string name="connect_phone_wifi">"Ellenőrizd a telefon hálózatát, hogy az óra ellenőrizhesse a frissítést"</string>
     <string name="connect_phone_input_wifi">Az Amazfit watch alkalmazásban add meg az óra Wifi jelszavát</string>
     <string name="wifi_add_item">Csatlakozz az Amazfit watch apphoz új Wifi hotspot beállításáért</string>
-    <string name="input_passwor_on_mobile">Add meg a Wi-Fi jelszót az Amazfit watch appban</string>
     <string name="add_wifi">Wifi hozzáadás</string>
     <string name="please_update_rom">Új rendszerverzió található, kérjük frissíts</string>
     <string name="checking_rom">Új verziók ellenőrzése</string>
     <string name="checking_rom_failed">"Hálózati kapcsolat időtúllépés,
 próbáld újra"</string>
     <string name="current_is_new">A legújabb verzió fut</string>
-    <string name="has_new_rom_all">Fedezd fel az új verziót.
-A verziód régebbi, így a frissítési idő hosszabb lehet, lesz türelmed hozzá?</string>
     <string name="has_new_rom">"Új verzió található,
 frissítesz %1$s verzióra?"</string>
+    <string name="has_new_rom_all">Fedezd fel az új verziót.
+A verziód régebbi, így a frissítési idő hosszabb lehet, lesz türelmed hozzá?</string>
+    <string name="input_passwor_on_mobile">Add meg a Wi-Fi jelszót az Amazfit watch appban</string>
     <string name="processbar_downloading_rom">Letöltés...</string>
-    <string name="please_keep_wifi_connect">"Tartsd az órát 
-Wifi-re csatlakoztatva"</string>
+    <string name="please_keep_wifi_connect">"\"Tartsd az órát 
+Wifi-re csatlakoztatva\""</string>
     <string name="processbar_downloading_tips">%</string>
     <string name="processbar_downloading_default">0</string>
     <string name="download_rom_faild">"a frissítőcsomag letöltése nem sikerült,
@@ -47,7 +47,7 @@ kérjük frissíts"</string>
     <string name="wifi_connecting">Csatlakozás...</string>
     <string name="wifi_auth">Jelszó ellenőrzés...</string>
     <string name="wifi_get_ip">IP cím megszerzése...</string>
-    <string name="wifi_link_fail">Csatlakozás nem sikerült...</string>
+    <string name="wifi_link_fail">"Csatlakozás nem sikerült..."</string>
     <string name="wifi_connected">Csatlakozva</string>
     <string name="wifi_title">Csatlakozás Wifi-hez</string>
     <string name="wifi_wait_password">Várakozás a jelszóra...</string>
@@ -83,18 +83,17 @@ adatot az óráról. Folytatod?"</string>
     <string name="enter">Enter</string>
     <string name="cancel">Mégse</string>
     <string name="update_tips_0">Frissítés</string>
-    <string name="update_tips_1">Kérjük ne kapcsold ki az órát</string>
+    <string name="update_tips_1">"Kérjük ne kapcsold ki az órát"</string>
     <string name="average_text">Átl.</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Megerősít</string>
     <string name="picker_default_nagetive_text">Ki</string>
-    <string name="no_heartrate_data_hint">Pulzus adat nem észlelt</string>
-    <string name="no_altitude_hint">Magasság adat nem észlelt</string>
-    <string name="ui_lib_name">Hm_UILib</string>
+    <string name="no_heartrate_data_hint">"Pulzus adat nem észlelt"</string>
+    <string name="no_altitude_hint">"Magasság adat nem észlelt"</string>
     <string name="title_settings">Beállítások</string>
     <string name="sport_music_settings">Zene sporthoz</string>
     <string name="widget_currentstep_title">Napi áttekintő</string>
-    <string name="widget_currentstep_activities">Aktivitások</string>
+    <string name="widget_currentstep_activities">"Aktivitások"</string>
     <string name="widget_currentstep_sleep_hour">ó</string>
     <string name="widget_currentstep_sleep_min">perc</string>
     <string name="widget_currentstep_sleep_title">Alvás</string>
