@@ -496,7 +496,7 @@ TE se calcula en función de su perfil de usuario, los datos de latido del coraz
     <string name="vo2_max_has_no_data">Sin datos</string>
     <string name="sport_setting_gpx_route_selected">Ruta seleccionada</string>
     <string name="sport_setting_gpx_route_selectd_remind">"Deportes al aire libre utilizarán esta ruta, si no deseas utilizarla escoge Sin Ruta"</string>
-    <string name="confirm">Aceptar</string>
+    <string name="confirm">OK</string>
     <string name="decision_yes">Sí</string>
     <string name="decision_no">No</string>
     <string name="use_sport_route_remind">¿Usar la ruta %1$s?</string>
@@ -508,7 +508,7 @@ TE se calcula en función de su perfil de usuario, los datos de latido del coraz
     <string name="sport_route_out_of">Desviado de la ruta</string>
     <string name="sport_back_to_route">Volver sobre la ruta</string>
     <string name="gpx_currnet_is_selected">seleccionado</string>
-    <string name="gpx_select_closed">Sin ruta</string>
+    <string name="gpx_select_closed">Cancelar</string>
     <string name="gpx_select_empty"></string>
     <string name="gpx_details_view">Escoger</string>
     <string name="gpx_details_use">Usar</string>
@@ -764,11 +764,11 @@ para un ejercicio más efectivo\"</string>
     <string name="history_detail_speed">Velocidad por hora (km/h)</string>
     <string name="waiting_gps_gps_unavailable">A la espera de la señal GPS</string>
     <string name="waiting_gps_gps_available">GPS disponible</string>
-    <string name="waiting_gps_gps_available_button_text">Confirmar</string>
+    <string name="waiting_gps_gps_available_button_text">OK</string>
     <string name="waiting_gps_gps_unavailable_button_text">Continuar</string>
     <string name="no_gps_title">GPS no disponible</string>
     <string name="no_gps_content">"La distancia no se puede medir con precisión, por favor vaya a un espacio abierto, al aire libre."</string>
-    <string name="no_gps_button_text">Confirmar</string>
+    <string name="no_gps_button_text">OK</string>
     <string name="settings_item_title_km_remind">Alerta de vuelta</string>
     <string name="settings_item_title_mi_remind">Alerta de vuelta</string>
     <string name="settings_item_title_km_voice_remind">Aviso por voz</string>
@@ -780,7 +780,7 @@ para un ejercicio más efectivo\"</string>
     <string name="settings_item_title_pace_remind">Alerta de ritmo</string>
     <string name="settings_item_title_Leqi_remind">Alerta de cadencia</string>
     <string name="settings_item_value_open">Activo</string>
-    <string name="settings_item_value_closed">Apagado</string>
+    <string name="settings_item_value_closed">Off</string>
     <string name="settings_item_value_target_use_time">%1$d h %2$d min</string>
     <string name="settings_item_value_target_distance">%.2f mi</string>
     <string name="settings_item_value_pace">Inferior a %s</string>
@@ -841,7 +841,7 @@ para un ejercicio más efectivo\"</string>
     <string name="remind_target_time_distance_unit">mi</string>
     <string name="remind_target_time_pace">Ritmo</string>
     <string name="remind_target_time_pace_unit">/mi</string>
-    <string name="sport_in_progress_confirm">Confirmar</string>
+    <string name="sport_in_progress_confirm">OK</string>
     <string name="sport_modify">Editar</string>
     <string name="sport_history_detail_heart_unit">Unidades (h:m:s)</string>
     <string name="widget_sport_item_running_title">Correr</string>
@@ -944,7 +944,7 @@ para un ejercicio más efectivo\"</string>
     <string name="vo2_max_sport_unit">ml/kg/min</string>
     <string name="export_gpx">Guardar rutas</string>
     <string name="btn_cancel">Cancelar</string>
-    <string name="btn_confirm">Confirmar</string>
+    <string name="btn_confirm">OK</string>
     <string name="hint_rolling">Guardando ruta ...</string>
     <string name="dlg_msg_hint_cancel">¿Desea cancelar guardado de ruta?</string>
     <string name="dlg_btn_l_msg">No</string>
@@ -957,7 +957,7 @@ para un ejercicio más efectivo\"</string>
     <string name="app_name">gpx-recorder</string>
     <string name="average_text">Med</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
-    <string name="picker_default_positive_text">Confirmar</string>
+    <string name="picker_default_positive_text">OK</string>
     <string name="picker_default_nagetive_text">Apagado</string>
     <string name="title_settings">Ajustes</string>
     <string name="sport_music_settings">Música deportiva</string>
