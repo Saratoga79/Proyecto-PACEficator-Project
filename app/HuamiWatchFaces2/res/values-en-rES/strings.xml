@@ -9,7 +9,7 @@
     <string name="custom_select">Seleccionar</string>
     <string name="custom_exit">Salir</string>
     <string name="custom_none_selected">Seleccionar</string>
-    <string name="custom_selected_confirm">Confirmar</string>
+    <string name="custom_selected_confirm">OK</string>
     <string name="custom_exit_delete">Salir y borrar</string>
     <string name="custom_none_custom_background_title">Sin Imagenes</string>
     <string name="custom_none_custom_background_content">Por favor añade un fondo en la apk de Amazfit Watch.</string>
@@ -91,8 +91,8 @@
     <string name="gps_wait">Buscando...</string>
     <string name="gps_fail">"Tiempo búsqueda GPS agotado"</string>
     <string name="gps_singal_lost">"GPS no disponible"</string>
-    <string name="gps_close_1">Se ha apagado el GPS</string>
-    <string name="gps_close_2">por inactividad</string>
+    <string name="gps_close_1">Mucho tiempo sin movimiento</string>
+    <string name="gps_close_2">GPS apagado</string>
     <string name="heartrate">Ritmo cardíaco</string>
     <string name="warmup">Calentamiento</string>
     <string name="fatburn">Quema de grasa</string>
@@ -190,7 +190,7 @@
     <string name="locale_title">Seleccionar idioma</string>
     <string name="average_text">Med</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
-    <string name="picker_default_positive_text">Confirmar</string>
+    <string name="picker_default_positive_text">OK</string>
     <string name="picker_default_nagetive_text">Off</string>
     <string name="no_heartrate_data_hint">"Sin datos de RC"</string>
     <string name="no_altitude_hint">"Sin datos de altitud"</string>
