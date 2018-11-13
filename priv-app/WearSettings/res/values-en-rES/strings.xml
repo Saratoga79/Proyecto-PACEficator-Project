@@ -119,9 +119,9 @@
     <string name="yinyue">Música</string>
     <string name="rebond_title">Aviso de emparejamiento</string>
     <string name="rebond_desc_air_plane">El Modo Avión está activado, desactívalo e intenta emparejar otra vez</string>
-    <string name="rebong_unbond_desc">Attention: You can only use this feature when the watch is unpaired from Amazfit Watch app, otherwise, the previously paired watch will be unpaired.</string>
-    <string name="rebond_go_on">Continue</string>
-    <string name="rebond_quit">Exit</string>
+    <string name="rebong_unbond_desc">Atención: Sólo puedes usar esta característica mientras el reloj esté desvinculado de la app de Amazfit, de lo contrario, se desvinculará el anterior reloj vinculado.</string>
+    <string name="rebond_go_on">Continuar</string>
+    <string name="rebond_quit">Salir</string>
     <string name="report_bug_dialog_title">Comentarios</string>
     <string name="report_bug_dialog_desc">Después de un reloj tiene errores de datos, condiciones anormales, etc., puede cargar datos en nuestro servidor a través de la función de retroalimentación de preguntas para su análisis por parte de nuestro personal de postventa. Durante este proceso, los registros generados previamente en el reloj se recopilarán y cargarán automáticamente. Estos registros se usan solo para el análisis de problemas y no se usarán como otros medios y se destruirán inmediatamente después del análisis. Todo el proceso cumplirá con nuestra política de privacidad. Para más detalles, consulte la política de privacidad en la aplicación Amazfit Watch.</string>
     <string name="dialog_agree">Acepto</string>
@@ -280,10 +280,10 @@ sus datos de forma más segura"</string>
     <string name="upgrade_checking">Comprobando actualización...</string>
     <string name="left_hand">Izquierda</string>
     <string name="right_hand">Derecha</string>
-    <string name="sport_remind_title">Motion detection</string>
-    <string name="sport_remind_open_title">Enable motion detection start</string>
-    <string name="sport_remind_end_title">Enable motion detection end</string>
-    <string name="sport_remind_open_tips">开启后，将在检测到你跑步或健走时，提醒您快捷开启运动模式</string>
-    <string name="sport_remind_end_tips">开启后，将在检测到你运动完成后，提醒您结束并保存</string>
-    <string name="sport_remind_open">Start</string>
+    <string name="sport_remind_title">Detección de actividad</string>
+    <string name="sport_remind_open_title">Activar inicio de detección de actividad </string>
+    <string name="sport_remind_end_title">Activar fin de detección de actividad </string>
+    <string name="sport_remind_open_tips">Se te avisará que actives la modalidad deportiva detectada cuando se detecte que estás corriendo o caminando</string>
+    <string name="sport_remind_end_tips">Se te avisará que guardes la actividad cuando se detecte que se ha terminado la actividad</string>
+    <string name="sport_remind_open">Comenzar</string>
 </resources>
