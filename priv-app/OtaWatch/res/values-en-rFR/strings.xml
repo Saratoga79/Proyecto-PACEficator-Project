@@ -5,22 +5,22 @@
     <string name="action_settings">Paramètres</string>
     <string name="watch_ota">Montre mise à jour</string>
     <string name="wifi_disconnect">Veuillez connecter la montre à l\'app Amazfit pour aider la montre à vérifier la mise à jour</string>
-    <string name="connect_phone_wifi">Veuillez vérifier la connectivité du téléphone pour aider la montre à vérifier la mise à jour</string>
+    <string name="connect_phone_wifi">"Veuillez vérifier la connectivité du téléphone pour aider la montre à vérifier la mise à jour"</string>
     <string name="connect_phone_input_wifi">Veuillez connecter l\'application AmazFit Watch pour la saisie du mot de passe Wi-Fi pour la montre</string>
     <string name="wifi_add_item">Veuillez lancer l\'App Amazfit pour ajouter un nouveau réseau Wi-Fi pour la montre</string>
-    <string name="input_passwor_on_mobile">Veuillez entrer le mot de passe Wi-Fi dans Amazfit App</string>
     <string name="add_wifi">Ajouter Wi-Fi</string>
     <string name="please_update_rom">Nouvelle version du système trouvée, veuillez mettre à jour</string>
     <string name="checking_rom">Vérification des nouvelles versions</string>
     <string name="checking_rom_failed">"La connexion réseau a expiré,
 veuillez réessayer"</string>
     <string name="current_is_new">Dernière version en cours</string>
-    <string name="has_new_rom_all">Une mise a jour est disponible, Le firmware sur la montre est trop ancien et la mise a jour pourra prendre du temps, continuer?</string>
     <string name="has_new_rom">"Nouvelle version trouvée,
 mettre à jour vers la version %1$s ?"</string>
+    <string name="has_new_rom_all">Une mise a jour est disponible, Le firmware sur la montre est trop ancien et la mise a jour pourra prendre du temps, continuer?</string>
+    <string name="input_passwor_on_mobile">Veuillez entrer le mot de passe Wi-Fi dans Amazfit App</string>
     <string name="processbar_downloading_rom">Téléchargement...</string>
-    <string name="please_keep_wifi_connect">"S\'il vous plaît garder la montre
-connectée au WiFi"</string>
+    <string name="please_keep_wifi_connect">"\"S'il vous plaît garder la montre
+connectée au WiFi\""</string>
     <string name="processbar_downloading_tips">%</string>
     <string name="processbar_downloading_default">0</string>
     <string name="download_rom_faild">"Echec du téléchargement du pack de mise à jour
@@ -46,7 +46,7 @@ merci de mettre à jour"</string>
     <string name="wifi_connecting">Connexion...</string>
     <string name="wifi_auth">Vérification du mot de passe...</string>
     <string name="wifi_get_ip">Obtention de l\'adresse IP...</string>
-    <string name="wifi_link_fail">Erreur de connexion...</string>
+    <string name="wifi_link_fail">"Erreur de connexion..."</string>
     <string name="wifi_connected">Connecté</string>
     <string name="wifi_title">Connexion au Wi-Fi</string>
     <string name="wifi_wait_password">En attente de la saisie du mot de passe...</string>
@@ -75,18 +75,17 @@ de la mise à jour effacera toutes les données, Continuer?"</string>
     <string name="enter">OK</string>
     <string name="cancel">Annuler</string>
     <string name="update_tips_0">Mise à jour</string>
-    <string name="update_tips_1">N’éteignez pas la montre SVP</string>
+    <string name="update_tips_1">"N’éteignez pas la montre SVP"</string>
     <string name="average_text">Avg</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Confirmer</string>
     <string name="picker_default_nagetive_text">Off</string>
-    <string name="no_heartrate_data_hint">Données cardio non détectées</string>
-    <string name="no_altitude_hint">Données d\'altitude non détectées</string>
-    <string name="ui_lib_name">Hm_UILib</string>
+    <string name="no_heartrate_data_hint">"Données cardio non détectées"</string>
+    <string name="no_altitude_hint">"Données d'altitude non détectées"</string>
     <string name="title_settings">Paramètres</string>
     <string name="sport_music_settings">Musique Sports</string>
     <string name="widget_currentstep_title">Synthèse Journalière</string>
-    <string name="widget_currentstep_activities">Activités</string>
+    <string name="widget_currentstep_activities">"Activités"</string>
     <string name="widget_currentstep_sleep_hour">h</string>
     <string name="widget_currentstep_sleep_min">min</string>
     <string name="widget_currentstep_sleep_title">Sommeil</string>

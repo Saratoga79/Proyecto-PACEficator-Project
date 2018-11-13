@@ -5,22 +5,22 @@
     <string name="action_settings">Configurações</string>
     <string name="watch_ota">Atualizar Relógio</string>
     <string name="wifi_disconnect">Conecte ao app Amazfit Watch para procurar por atualizações</string>
-    <string name="connect_phone_wifi">Verifique a rede do telefone para procurar por atualizações</string>
+    <string name="connect_phone_wifi">"Verifique a rede do telefone para procurar por atualizações"</string>
     <string name="connect_phone_input_wifi">Conecte ao app Amazfit Watch para inserir a senha do Wifi para o relógio</string>
     <string name="wifi_add_item">Conecte ao app Amazfit Watch para adicionar nova rede no relógio</string>
-    <string name="input_passwor_on_mobile">Insira a senha do Wifi no app Amazfit Watch</string>
     <string name="add_wifi">Adicionar Wi-Fi</string>
     <string name="please_update_rom">Nova versão do sistema encontrada, atualize</string>
     <string name="checking_rom">Verificando por versões mais novas</string>
     <string name="checking_rom_failed">"A conexão de rede expirou,
 tente novamente"</string>
     <string name="current_is_new">Última versão rodando</string>
-    <string name="has_new_rom_all">Uma atualização está disponível. O firmware desse relógio está ultrapassado e atualizá-lo pode levar um tempo, continuar?</string>
     <string name="has_new_rom">"Nova versão encontrada,
 atualizar para a versão %1$s?"</string>
+    <string name="has_new_rom_all">Uma atualização está disponível. O firmware desse relógio está ultrapassado e atualizá-lo pode levar um tempo, continuar?</string>
+    <string name="input_passwor_on_mobile">Insira a senha do Wifi no app Amazfit Watch</string>
     <string name="processbar_downloading_rom">Baixando...</string>
-    <string name="please_keep_wifi_connect">"Mantenha o relógio
-conectado ao WiFi"</string>
+    <string name="please_keep_wifi_connect">"\"Mantenha o relógio
+conectado ao WiFi\""</string>
     <string name="processbar_downloading_tips">%</string>
     <string name="processbar_downloading_default">0</string>
     <string name="download_rom_faild">"Falha ao baixar pacote de atualização,
@@ -46,7 +46,7 @@ atualize"</string>
     <string name="wifi_connecting">Conectando...</string>
     <string name="wifi_auth">Verificando senha...</string>
     <string name="wifi_get_ip">Obtendo endereço IP...</string>
-    <string name="wifi_link_fail">Conexão falhou...</string>
+    <string name="wifi_link_fail">"Conexão falhou..."</string>
     <string name="wifi_connected">Conectado</string>
     <string name="wifi_title">Conectar no Wi-Fi</string>
     <string name="wifi_wait_password">Aguardando pela senha...</string>
@@ -82,18 +82,17 @@ os dados do usuário no relógio, Continuar?"</string>
     <string name="enter">OK</string>
     <string name="cancel">Cancelar</string>
     <string name="update_tips_0">Atualizando</string>
-    <string name="update_tips_1">Não desligue o relógio</string>
+    <string name="update_tips_1">"Não desligue o relógio"</string>
     <string name="average_text">Méd</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Confirmar</string>
     <string name="picker_default_nagetive_text">Desligado</string>
-    <string name="no_heartrate_data_hint">Dados de pulso não detectados</string>
-    <string name="no_altitude_hint">Dados de altitude não detectados</string>
-    <string name="ui_lib_name">Hm_UILib</string>
+    <string name="no_heartrate_data_hint">"Dados de pulso não detectados"</string>
+    <string name="no_altitude_hint">"Dados de altitude não detectados"</string>
     <string name="title_settings">Configurações</string>
     <string name="sport_music_settings">Música esportiva</string>
     <string name="widget_currentstep_title">Visão Geral Diária</string>
-    <string name="widget_currentstep_activities">Atividades</string>
+    <string name="widget_currentstep_activities">"Atividades"</string>
     <string name="widget_currentstep_sleep_hour">h</string>
     <string name="widget_currentstep_sleep_min">min</string>
     <string name="widget_currentstep_sleep_title">Sono</string>
