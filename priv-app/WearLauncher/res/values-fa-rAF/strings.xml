@@ -350,20 +350,20 @@ day"</string>
     <string name="voice_action_navigate_title_mode_drive">Navigate (driving)</string>
     <string name="voice_action_navigate_title_mode_public_transportation">Navigate (public transportation)</string>
     <string name="voice_action_navigate_title_mode_walk">Navigate (walking)</string>
-    <string name="voice_action_navigate_mode_bike">Bicycling</string>
-    <string name="voice_action_navigate_mode_drive">Driving</string>
-    <string name="voice_action_navigate_mode_walk">Walking</string>
-    <string name="voice_action_note_title">Note</string>
-    <string name="voice_action_call_title">Call</string>
+    <string name="voice_action_navigate_mode_bike">دوچرخه سواری</string>
+    <string name="voice_action_navigate_mode_drive">رانندگی</string>
+    <string name="voice_action_navigate_mode_walk">پیاده روی</string>
+    <string name="voice_action_note_title">یادداشت</string>
+    <string name="voice_action_call_title">تماس</string>
     <string name="voice_action_set_reminder_title">Set reminder</string>
-    <string name="voice_action_alarm_title">Alarm</string>
-    <string name="voice_action_timer_title">Timer</string>
-    <string name="voice_action_sms_title">SMS</string>
+    <string name="voice_action_alarm_title">هشدار</string>
+    <string name="voice_action_timer_title">تایمر</string>
+    <string name="voice_action_sms_title">اس ام اس</string>
     <string name="voice_action_remote_app_title">Open app</string>
     <string name="voice_action_play_music_title">Play music on phone</string>
     <string name="voice_action_field_destination_description">Destination</string>
-    <string name="voice_action_field_destination_address">Address</string>
-    <string name="voice_action_field_message">Message</string>
+    <string name="voice_action_field_destination_address">آدرس</string>
+    <string name="voice_action_field_message">پیام</string>
     <string name="voice_action_field_to">به</string>
     <string name="voice_action_field_when">چه زمانی</string>
     <string name="voice_action_field_label">برچسب</string>
@@ -376,7 +376,7 @@ day"</string>
     <string name="voice_action_field_ask_message">پیام؟</string>
     <string name="voice_action_field_no_match">"Didn't catch that"</string>
     <string name="voice_action_field_ask_note">یادداشت ها?</string>
-    <string name="note_creation_success">Note created</string>
+    <string name="note_creation_success">یادداشت ایجاد شد</string>
     <string name="voice_action_done">انجام شد</string>
     <string name="voice_action_go_to_phone">Go to phone</string>
     <string name="voice_action_remote_error">"Sorry, that didn't work. Try again."</string>
@@ -387,7 +387,7 @@ day"</string>
     <string name="voice_action_error_completing_text">Open your phone and try again</string>
     <string name="contact_confirmation_format">%1$s (%2$s)</string>
     <string name="reminder_creation_success">Reminder added</string>
-    <string name="voice_action_cancel">Cancel</string>
+    <string name="voice_action_cancel">لغو</string>
     <string name="navigation_success">Navigation started</string>
     <string name="sms_success">Text sent</string>
     <string name="email_success">Email sent</string>
@@ -395,7 +395,7 @@ day"</string>
     <string name="open_remote_app_success">Opened on phone</string>
     <string name="voice_action_reminder_field">Reminder?</string>
     <string name="alarm_setting_success">Alarm created</string>
-    <string name="timer_setting_success">Timer started</string>
+    <string name="timer_setting_success">شروع تایمر</string>
     <string name="reminder_at_home">At home</string>
     <string name="reminder_at_work">At work</string>
     <string name="disambiguation_app_to_complete">Complete action using</string>
@@ -439,7 +439,7 @@ Sorry, Google can\'t help you with that"</string>
     <string name="search_when_is_end">and ends</string>
     <string name="search_when_is_start_evening">%s begins in the evening of</string>
     <string name="search_when_is_end_evening">and ends in the evening of</string>
-    <string name="search_call">Call</string>
+    <string name="search_call">تماس</string>
     <string name="stock_last_update" formatted="false">Updated: %s - %s</string>
     <string name="local_closed">Closed</string>
     <string name="monday">Monday</string>
