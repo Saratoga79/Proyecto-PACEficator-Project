@@ -3,7 +3,7 @@
 <resources>
     <string name="locale_title">یک زبان را انتخاب کنید</string>
     <string name="app_name">HmLocation</string>
-    <string name="new_location">Add location</string>
+    <string name="new_location">افزودن مکان</string>
     <string name="saved_location">Saved location</string>
     <string name="gps_searching">Searching for GPS signal</string>
     <string name="gps_search_failed_title">GPS یافت نشد</string>
@@ -17,10 +17,10 @@
     <string name="delete">حذف</string>
     <string name="location_title">مختصات</string>
     <string name="altitude_title">ارتفاع</string>
-    <string name="east_lng">East Long</string>
-    <string name="west_lng">West Long</string>
+    <string name="east_lng">طول شرقی</string>
+    <string name="west_lng">طول غربی</string>
     <string name="north_lat">North Lat</string>
-    <string name="south_lat">South Lat</string>
+    <string name="south_lat">عرض جنوبی</string>
     <string name="location_list_no_data">بدون اطلاعات مکانی</string>
     <string name="icon_list_select_confirm">انتخاب</string>
     <string name="delete_loaction_tips">Delete this location?</string>
@@ -40,7 +40,7 @@
     <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">تنظیمات</string>
     <string name="sport_music_settings">موسیقی ورزشی</string>
-    <string name="widget_currentstep_title">Daily Overview</string>
+    <string name="widget_currentstep_title">بررسی روزانه</string>
     <string name="widget_currentstep_activities">فعالیت ها</string>
     <string name="widget_currentstep_sleep_hour">ساعت</string>
     <string name="widget_currentstep_sleep_min">دقیقه</string>
