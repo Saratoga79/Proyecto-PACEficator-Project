@@ -229,8 +229,8 @@
     <string name="exchange_anim_title">Switch Activity</string>
     <string name="sport_pause_swim_type">Swim Distance </string>
     <string name="sport_pause_swim_dis_unit">Distance</string>
-    <string name="sport_pause_normal_dis_type">Total Distance </string>
-    <string name="sport_pause_normal_dis_unit">Mileage</string>
+    <string name="sport_pause_normal_dis_type">Distance </string>
+    <string name="sport_pause_normal_dis_unit">Distance</string>
     <string name="sport_pause_normal_stroke_unit">Strokes</string>
     <string name="sport_auto_lap_dis">%1$s km in</string>
     <string name="sport_auto_lap_dis_imperial">%1$s mi in</string>
@@ -337,7 +337,7 @@
     <string name="sport_te_desc">This workout maintains cardiorespiratory fitness.</string>
     <string name="last_kilo_meters_times">last km.</string>
     <string name="last_mi_times">last mi.</string>
-    <string name="running_total_distance_desc">Total Distance</string>
+    <string name="running_total_distance_desc">Distance</string>
     <string name="setting_sport_title_exteed_region_tips">Out of %1$s zone alert</string>
     <string name="sport_history_bottom_remind">More records, please go to the Amazfit watch app</string>
     <string name="swim_unit">yard</string>
@@ -357,9 +357,9 @@
     <string name="this_time_need_run_mileage">Interval distance: %1$s km</string>
     <string name="this_time_need_run_mileage_mile">Interval distance: %1$s mi</string>
     <string name="this_time_need_run_total_time">Interval time: %1$s</string>
-    <string name="data_item_train_total_mileage">Total distance</string>
+    <string name="data_item_train_total_mileage">Distance</string>
     <string name="data_item_train_total_times">Elapsed time</string>
-    <string name="data_item_surplus_distance">Remaining mileage</string>
+    <string name="data_item_surplus_distance">Remaining Distance</string>
     <string name="data_item_surplus_time">Remaining Time</string>
     <string name="start_change_item">Starting next interval</string>
     <string name="near_to_finish_item">Almost Complete</string>
@@ -372,7 +372,7 @@
     <string name="skiing_history_downhill_title">Run</string>
     <string name="skiing_downhill_max_elev_loss">Max Descent</string>
     <string name="skiing_downhill_total_elev_loss">Total Descent</string>
-    <string name="skiing_downhill_desecnd">Total Mileage</string>
+    <string name="skiing_downhill_desecnd">Distance</string>
     <string name="skiing_cur_lat_lng_title">Lat Long</string>
     <string name="speed_remind_title">Speed Alert</string>
     <string name="speed_too_fast_remind_title">Too Fast</string>
@@ -688,7 +688,7 @@
     <string name="skiing_downhill_single_descend">Distance</string>
     <string name="skiing_downhill_max_speed">MAX Speed</string>
     <string name="skiing_downhill_elev_loss">Descent</string>
-    <string name="skiing_rt_downhill_desecnd">Total Mileage</string>
+    <string name="skiing_rt_downhill_desecnd">Distance</string>
     <string name="sport_tennis_strokes">Strokes</string>
     <string name="last_lap_pace">Last lap Pace</string>
     <string name="last_lap_stepfreq">Last lap Step frecuency</string>
@@ -700,7 +700,7 @@
     <string name="running_calorie_desc">Calories</string>
     <string name="running_step_freq_desc">Cadence</string>
     <string name="running_speed_desc">Speed</string>
-    <string name="running_distance_desc">Mileage</string>
+    <string name="running_distance_desc">Distance</string>
     <string name="running_heartrate_desc">HR</string>
     <string name="running_avg_pace_desc">AVG. Pace</string>
     <string name="running_avg_speed_desc">AVG. Speed</string>
@@ -747,7 +747,7 @@
     <string name="running_stop_dialog_msg_not_reach_minimum_distance">The distance is too short to save. Are you sure to stop?</string>
     <string name="running_stop_dialog_positive_text">Stop</string>
     <string name="running_stop_dialog_negative_text">Cancel</string>
-    <string name="sport_history_total_distance_desc">Total Distance</string>
+    <string name="sport_history_total_distance_desc">Distance</string>
     <string name="sport_history_header_total_count_desc">Total Times</string>
     <string name="sport_history_header_calorie_desc">Calories</string>
     <string name="history_heart_rate_desc">Heart Rate:</string>
@@ -767,7 +767,7 @@
     <string name="waiting_gps_gps_available_button_text">Confirm</string>
     <string name="waiting_gps_gps_unavailable_button_text">Continue</string>
     <string name="no_gps_title">GPS unavailable</string>
-    <string name="no_gps_content">"Mileage cannot be recorded accurately, please go to an open space outdoor。"</string>
+    <string name="no_gps_content">"Couldn't record mileage accurately. Try again outdoors."</string>
     <string name="no_gps_button_text">Confirm</string>
     <string name="settings_item_title_km_remind">Lap Alert</string>
     <string name="settings_item_title_mi_remind">Lap Alert</string>
