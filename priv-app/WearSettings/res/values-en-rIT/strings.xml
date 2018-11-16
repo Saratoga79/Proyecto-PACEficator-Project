@@ -117,11 +117,11 @@
     <string name="mijia">Mi Home</string>
     <string name="zhinanzhen">Bussola</string>
     <string name="yinyue">Musica</string>
-    <string name="rebond_title">Pairing reminder</string>
-    <string name="rebond_desc_air_plane">Airplane mode of the watch is on, turn it off and try to pair again</string>
-    <string name="rebong_unbond_desc">Attention: You can only use this feature when the watch is unpaired from Amazfit Watch app, otherwise, the previously paired watch will be unpaired.</string>
-    <string name="rebond_go_on">Continue</string>
-    <string name="rebond_quit">Exit</string>
+    <string name="rebond_title">Promemoria di associazione</string>
+    <string name="rebond_desc_air_plane">La modalità aereo dell\'orologio è attiva, spegnila e prova ad accoppiare nuovamente</string>
+    <string name="rebong_unbond_desc">Attenzione: puoi usare questa funzione solo quando l\'orologio non è accoppiato all\'app Amazfit Watch, altrimenti, l\'orologio precedentemente accoppiato verrà disaccoppiato.</string>
+    <string name="rebond_go_on">Continua</string>
+    <string name="rebond_quit">Esci</string>
     <string name="report_bug_dialog_title">Feedback</string>
     <string name="report_bug_dialog_desc">Se l\'orologio presenta errori o anormalità, è possibile caricare i dati sul nostro server tramite la funzione di feedback, per l\'analisi da parte del nostro staff post-vendita. Durante questo processo, i log generati in precedenza sull\'orologio verranno automaticamente raccolti e inviati. Questi registri vengono utilizzati solo per l\'analisi dei problemi e non saranno utilizzati per altro, e verranno eliminati dopo l\'analisi. L\'intero processo rispetterà la nostra politica sulla privacy. Per i dettagli, consultare l\'informativa sulla privacy dall\'app AmazfitWatch.</string>
     <string name="dialog_agree">Accetto</string>
@@ -282,10 +282,10 @@ per proteggere i tuoi dati"</string>
     <string name="upgrade_checking">Cerco aggiornamento...</string>
     <string name="left_hand">Sinistro</string>
     <string name="right_hand">Destro</string>
-    <string name="sport_remind_title">Motion detection</string>
+    <string name="sport_remind_title">Rilevazione movimento</string>
     <string name="sport_remind_open_title">Enable motion detection start</string>
     <string name="sport_remind_end_title">Enable motion detection end</string>
     <string name="sport_remind_open_tips">开启后，将在检测到你跑步或健走时，提醒您快捷开启运动模式</string>
     <string name="sport_remind_end_tips">开启后，将在检测到你运动完成后，提醒您结束并保存</string>
-    <string name="sport_remind_open">Start</string>
+    <string name="sport_remind_open">Inizia</string>
 </resources>

@@ -148,7 +148,7 @@
     <string name="settings_sport_bg_type">BG Color</string>
     <string name="settings_sport_bg_type_normal">Black</string>
     <string name="settings_sport_bg_type_white">White</string>
-    <string name="setting_on">On</string>
+    <string name="setting_on">روشن</string>
     <string name="setting_off">Off</string>
     <string name="settings_item_title_target_calorie_remind">Calorie Goal</string>
     <string name="settings_item_value_target_calorie">%1$dkCal</string>
@@ -388,8 +388,8 @@
     <string name="sport_tennis_backhand">Backhand</string>
     <string name="sport_tennis_serve">Serve</string>
     <string name="sport_setting_clap_the_hands">Racket hand</string>
-    <string name="sport_setting_left_hand">Left</string>
-    <string name="sport_setting_right_hand">Right</string>
+    <string name="sport_setting_left_hand">چپ</string>
+    <string name="sport_setting_right_hand">راست</string>
     <string name="sport_please_select_clap_hand">Please choose racket hand</string>
     <string name="skiing_stop_dialog_msg_not_reach_minimum_distance">Activity with too few runs cannot be saved. Continue?</string>
     <string name="sport_soccer_sec_half">Start Second-half</string>
@@ -429,7 +429,7 @@
     <string name="other_destination">Enter address</string>
     <string name="navigation_remain_distance">Remaining distance</string>
     <string name="lap_dis_title">Lap distance</string>
-    <string name="oritation_east">E</string>
+    <string name="oritation_east">شرق</string>
     <string name="oritation_sourth">S</string>
     <string name="oritation_west">W</string>
     <string name="oritation_north">N</string>
@@ -496,9 +496,9 @@
     <string name="vo2_max_has_no_data">No Data</string>
     <string name="sport_setting_gpx_route_selected">Track Selected</string>
     <string name="sport_setting_gpx_route_selectd_remind">"Outdoor features are navigated using this trajectory. If no need, select close"</string>
-    <string name="confirm">OK</string>
+    <string name="confirm">تأیید</string>
     <string name="decision_yes">Yes</string>
-    <string name="decision_no">No</string>
+    <string name="decision_no">نه</string>
     <string name="use_sport_route_remind">Does this movement use the%1$s trajectory for navigation?</string>
     <string name="please_start_sport_from_route_start">In order to ensure the accuracy of trajectory guidance, start the motion at the true geographic location of the track origin</string>
     <string name="please_become_bigger">Zoom in</string>
@@ -555,7 +555,7 @@
     <string name="count_down_one">1</string>
     <string name="count_down_two">2</string>
     <string name="count_down_three">3</string>
-    <string name="sport_pause_heart_shown">--</string>
+    <string name="sport_pause_heart_shown">—</string>
     <string name="sport_widget_title_outdoor_riding">Cycling</string>
     <string name="sport_widget_title_indoor_riding">Indoor Cycling</string>
     <string name="outdoor_riding_progressing">Cycling</string>
@@ -728,7 +728,7 @@
     <string name="sport_pause">Pause</string>
     <string name="sport_continue">Resume</string>
     <string name="sport_stop">Stop</string>
-    <string name="running_kilometers">km</string>
+    <string name="running_kilometers">کیلومتر</string>
     <string name="running_avg_pace_desc_simple">AVG. pace</string>
     <string name="running_avg_speed_desc_simple">AVG. speed</string>
     <string name="running_pace_unit">/mi</string>
@@ -779,7 +779,7 @@
     <string name="settings_item_title_target_distance_remind">Target Distance</string>
     <string name="settings_item_title_pace_remind">Pace Alert</string>
     <string name="settings_item_title_Leqi_remind">Cadence Alert</string>
-    <string name="settings_item_value_open">On</string>
+    <string name="settings_item_value_open">روشن</string>
     <string name="settings_item_value_closed">Off</string>
     <string name="settings_item_value_target_use_time">%1$d h %2$d min</string>
     <string name="settings_item_value_target_distance">%.2fmi</string>
@@ -907,7 +907,7 @@
     <string name="complete_training_outdoor_riding_target_tips">"Save this cycling to today's training program?"</string>
     <string name="complete_training_swim_target_tips">"Save this swim to today's training program?"</string>
     <string name="not_complete_train_task">"The train is not completed. Are you sure to stop?"</string>
-    <string name="km_metric">km</string>
+    <string name="km_metric">کیلومتر</string>
     <string name="metre_metric">meter</string>
     <string name="km_metric_pace_unit">/km</string>
     <string name="km_metric_speed_unit">km/h</string>
@@ -947,7 +947,7 @@
     <string name="btn_confirm">Confirm</string>
     <string name="hint_rolling">Exporting, please wait for a while ...</string>
     <string name="dlg_msg_hint_cancel">Do you want to cancel the export?</string>
-    <string name="dlg_btn_l_msg">No</string>
+    <string name="dlg_btn_l_msg">نه</string>
     <string name="dlg_btn_r_msg">Yes</string>
     <string name="hint_cancelling">Cancelling...</string>
     <string name="hint_success_exported_title">"Exported to GPX file 
