@@ -5,7 +5,10 @@ files:
       android_code:
         eu: en-rEU
         es-ES: en-rES
-        ar: en-rAR
+<<<<<<< HEAD
+        ar: ar-rAE
+=======
+>>>>>>> c9de880f2fa299afcf5d3618253bd33d536dbaaa
         ca: en-rCA
         en: en-rUS
         hr: en-rHR
@@ -26,6 +29,7 @@ files:
         tr: en-rTR
         vi: vi-rVN
         fa: fa-rAF
+        ar: ar-rSA
     translate_content: 0
     translate_attributes: 0
     content_segmentation: 0

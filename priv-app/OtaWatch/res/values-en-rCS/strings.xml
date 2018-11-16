@@ -5,22 +5,22 @@
     <string name="action_settings">Nastavení</string>
     <string name="watch_ota">Aktualizovat</string>
     <string name="wifi_disconnect">Připojte se prosím k aplikaci Amazfit Watch, která vám pomůže vyhledat aktualizace</string>
-    <string name="connect_phone_wifi">Zkontrolujte prosím připojení k internetu, aby bylo možné vyhledat aktualizace</string>
+    <string name="connect_phone_wifi">"Zkontrolujte prosím připojení k internetu, aby bylo možné vyhledat aktualizace"</string>
     <string name="connect_phone_input_wifi">Připojte se prosím k aplikaci Amazfit Watch a zadejte v ní heslo k Wi-Fi</string>
     <string name="wifi_add_item">Připojte se prosím k aplikaci Amazfit Watch, a přidejte v ní nový Wi-Fi hotspot</string>
-    <string name="input_passwor_on_mobile">Zadejte prosím heslo k Wi-Fi v aplikaci Amazfit Watch</string>
     <string name="add_wifi">Přidat Wi-Fi</string>
     <string name="please_update_rom">Je dostupná nová verze systému, prosím aktualizujte</string>
     <string name="checking_rom">Kontroluji dostupnost novější verze</string>
     <string name="checking_rom_failed">"Připojení k síti selhalo,
 připojte se prosím znovu"</string>
     <string name="current_is_new">Používáte nejnovější verzi</string>
-    <string name="has_new_rom_all">K dispozici je aktualizace. Firmware na těchto hodinkách je zastaralý a upgrade na nejnovější může chvíli trvat, chcete pokračovat?</string>
     <string name="has_new_rom">"Nalezena nová verze,
 aktualizovat na verzi %1$s?"</string>
+    <string name="has_new_rom_all">K dispozici je aktualizace. Firmware na těchto hodinkách je zastaralý a upgrade na nejnovější může chvíli trvat, chcete pokračovat?</string>
+    <string name="input_passwor_on_mobile">Zadejte prosím heslo k Wi-Fi v aplikaci Amazfit Watch</string>
     <string name="processbar_downloading_rom">Stahuji...</string>
-    <string name="please_keep_wifi_connect">"Prosím, mějte hodinky 
-připojené k WiFi"</string>
+    <string name="please_keep_wifi_connect">"\"Prosím, mějte hodinky 
+připojené k WiFi\""</string>
     <string name="processbar_downloading_tips">%</string>
     <string name="processbar_downloading_default">0</string>
     <string name="download_rom_faild">"Stahování aktualizace se nezdařilo,
@@ -46,7 +46,7 @@ prosím, aktualizujte"</string>
     <string name="wifi_connecting">Připojuji...</string>
     <string name="wifi_auth">Ověřování hesla...</string>
     <string name="wifi_get_ip">Získávám IP adresu...</string>
-    <string name="wifi_link_fail">Připojení selhalo ...</string>
+    <string name="wifi_link_fail">"Připojení selhalo ..."</string>
     <string name="wifi_connected">Připojeno</string>
     <string name="wifi_title">Připojit se k Wi-Fi</string>
     <string name="wifi_wait_password">Čekám na zadání hesla...</string>
@@ -82,18 +82,17 @@ data na hodinkách. Chcete pokračovat?"</string>
     <string name="enter">OK</string>
     <string name="cancel">Zrušit</string>
     <string name="update_tips_0">Aktualizace</string>
-    <string name="update_tips_1">Prosím, nevypínejte hodinky</string>
+    <string name="update_tips_1">"Prosím, nevypínejte hodinky"</string>
     <string name="average_text">Prm</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Potvrdit</string>
     <string name="picker_default_nagetive_text">Vyp</string>
-    <string name="no_heartrate_data_hint">Údaje o srdečním tepu nebyly zjištěny</string>
-    <string name="no_altitude_hint">Údaje o nadmořské výšce nebyly zjištěny</string>
-    <string name="ui_lib_name">Hm_UILib</string>
+    <string name="no_heartrate_data_hint">"Údaje o srdečním tepu nebyly zjištěny"</string>
+    <string name="no_altitude_hint">"Údaje o nadmořské výšce nebyly zjištěny"</string>
     <string name="title_settings">Nastavení</string>
     <string name="sport_music_settings">Sportovní hudba</string>
     <string name="widget_currentstep_title">Denní přehled</string>
-    <string name="widget_currentstep_activities">Aktivity</string>
+    <string name="widget_currentstep_activities">"Aktivity"</string>
     <string name="widget_currentstep_sleep_hour">h</string>
     <string name="widget_currentstep_sleep_min">min</string>
     <string name="widget_currentstep_sleep_title">Spánek</string>

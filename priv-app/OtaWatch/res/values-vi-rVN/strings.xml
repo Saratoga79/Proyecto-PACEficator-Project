@@ -5,22 +5,22 @@
     <string name="action_settings">Cài đặt</string>
     <string name="watch_ota">Cập nhật ĐH</string>
     <string name="wifi_disconnect">Hãy kết nối ứng dụng Amazfit Watch để giúp đồng hồ kiểm tra cập nhật.</string>
-    <string name="connect_phone_wifi">Hãy kiểm tra mạng của điện thoại để giúp đồng hồ kiểm tra cập nhật.</string>
+    <string name="connect_phone_wifi">"Hãy kiểm tra mạng của điện thoại để giúp đồng hồ kiểm tra cập nhật."</string>
     <string name="connect_phone_input_wifi">Hãy kết nối ứng dụng Amazfit Watch để nhập mật khẩu Wifi cho đồng hồ</string>
     <string name="wifi_add_item">Hãy kết nối ứng dụng Amazfit Watch để nhận mạng Wifi mới cho đồng hồ</string>
-    <string name="input_passwor_on_mobile">Hãy nhập mật khẩu Wifi trong ứng dụng Amazfit Watch</string>
     <string name="add_wifi">Thêm mạng</string>
     <string name="please_update_rom">Có phiên bản rom mới, hãy cập nhật</string>
     <string name="checking_rom">Kiểm tra phiên bản mới...</string>
     <string name="checking_rom_failed">"Hết thời gian kết nối mạng,
 hãy thử lại"</string>
     <string name="current_is_new">Phiên bản mới nhất</string>
-    <string name="has_new_rom_all">Bản cập nhật khả dụng. ROM trên đồng hồ đã lỗi thời và nâng cấp lên phiên bản mới nhất có thể mất một lúc, tiếp tục?</string>
     <string name="has_new_rom">"Có phiên bản mới,
 cập nhật lên bản %1$s ?"</string>
+    <string name="has_new_rom_all">Bản cập nhật khả dụng. ROM trên đồng hồ đã lỗi thời và nâng cấp lên phiên bản mới nhất có thể mất một lúc, tiếp tục?</string>
+    <string name="input_passwor_on_mobile">Hãy nhập mật khẩu Wifi trong ứng dụng Amazfit Watch</string>
     <string name="processbar_downloading_rom">Đang tải…</string>
-    <string name="please_keep_wifi_connect">"Hãy giữ cho đồng hồ
-kết nối với Wifi"</string>
+    <string name="please_keep_wifi_connect">"\"Hãy giữ cho đồng hồ
+kết nối với Wifi\""</string>
     <string name="processbar_downloading_tips">%</string>
     <string name="processbar_downloading_default">0</string>
     <string name="download_rom_faild">"Lỗi tải gói cập nhật,
@@ -46,7 +46,7 @@ hãy cập nhật"</string>
     <string name="wifi_connecting">Kết nối ...</string>
     <string name="wifi_auth">Xác nhận mật khẩu</string>
     <string name="wifi_get_ip">Đang lấy địa chỉ IP…</string>
-    <string name="wifi_link_fail">Kết nối thất bại.</string>
+    <string name="wifi_link_fail">"Kết nối thất bại."</string>
     <string name="wifi_connected">Đã kết nối</string>
     <string name="wifi_title">Kết nối Wi-Fi</string>
     <string name="wifi_wait_password">Chờ nhập mật khẩu...</string>
@@ -80,18 +80,17 @@ xóa toàn bộ dữ liệu trên đồng hồ, Tiếp tục?"</string>
     <string name="enter">OK</string>
     <string name="cancel">Hủy bỏ</string>
     <string name="update_tips_0">Đang c.nhật</string>
-    <string name="update_tips_1">Vui lòng không tắt đồng hồ</string>
+    <string name="update_tips_1">"Vui lòng không tắt đồng hồ"</string>
     <string name="average_text">Trb</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Xác nhận</string>
     <string name="picker_default_nagetive_text">Tắt</string>
-    <string name="no_heartrate_data_hint">Lỗi đọc dữ liệu nhịp tim</string>
-    <string name="no_altitude_hint">Lỗi đọc dữ liệu độ cao</string>
-    <string name="ui_lib_name">Hm_UILib</string>
+    <string name="no_heartrate_data_hint">"Lỗi đọc dữ liệu nhịp tim"</string>
+    <string name="no_altitude_hint">"Lỗi đọc dữ liệu độ cao"</string>
     <string name="title_settings">Cài đặt</string>
     <string name="sport_music_settings">Âm nhạc</string>
     <string name="widget_currentstep_title">Tổng hợp ngày</string>
-    <string name="widget_currentstep_activities">Hoạt động</string>
+    <string name="widget_currentstep_activities">"Hoạt động"</string>
     <string name="widget_currentstep_sleep_hour">g</string>
     <string name="widget_currentstep_sleep_min">phút</string>
     <string name="widget_currentstep_sleep_title">Ngủ</string>

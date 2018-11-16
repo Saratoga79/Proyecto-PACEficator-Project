@@ -7,30 +7,30 @@
     <string name="wifi_disconnect">Por favor, conecte el
 Reloj Amazfit app para ayudar
 La comprobación del reloj para la actualización</string>
-    <string name="connect_phone_wifi">Por favor, compruebe el teléfono
+    <string name="connect_phone_wifi">"Por favor, compruebe el teléfono
 Red para ayudar al
-Ver la actualización</string>
+Ver la actualización"</string>
     <string name="connect_phone_input_wifi">Por favor, conecte el
 Amazfit reloj App para la entrada
 Contraseña Wi-Fi para el reloj</string>
     <string name="wifi_add_item">Por favor, conecte el
 Amazfit ver la aplicación para agregar
 Nuevo hotspot Wi-Fi para el reloj</string>
-    <string name="input_passwor_on_mobile">\"Por favor ingrese la contraseña de Wi-Fi
-En la aplicación Amazfit watch\"</string>
     <string name="add_wifi">Añadir Wi-Fi</string>
     <string name="please_update_rom">Se ha encontrado una nueva versión del sistema, actualiza</string>
     <string name="checking_rom">Comprobación de nuevas versiones</string>
     <string name="checking_rom_failed">"La conexión de red se agotó,
 Vuelva a intentarlo"</string>
     <string name="current_is_new">Última versión en ejecución</string>
-    <string name="has_new_rom_all">Actualización encontrada, debido a la antigüedad
-de su versión, la actualización podrá tomar más tiempo, sea paciente.</string>
     <string name="has_new_rom">"Se ha encontrado una nueva versión,
 Actualizar a %1$s versión?"</string>
+    <string name="has_new_rom_all">Actualización encontrada, debido a la antigüedad
+de su versión, la actualización podrá tomar más tiempo, sea paciente.</string>
+    <string name="input_passwor_on_mobile">"Por favor ingrese la contraseña de Wi-Fi
+En la aplicación Amazfit watch"</string>
     <string name="processbar_downloading_rom">Descargando ...</string>
-    <string name="please_keep_wifi_connect">"Por favor, guarde el reloj
-Conectado a WiFi"</string>
+    <string name="please_keep_wifi_connect">"\"Por favor, guarde el reloj
+Conectado a WiFi\""</string>
     <string name="processbar_downloading_tips">%</string>
     <string name="processbar_downloading_default">0</string>
     <string name="download_rom_faild">"La descarga del paquete de actualización falló,
@@ -56,7 +56,7 @@ Actualiza por favor"</string>
     <string name="wifi_connecting">Conectando ...</string>
     <string name="wifi_auth">Comprobando la contraseña ...</string>
     <string name="wifi_get_ip">Obtención de la dirección IP ...</string>
-    <string name="wifi_link_fail">Conexión fallada ...</string>
+    <string name="wifi_link_fail">"Conexión fallada ..."</string>
     <string name="wifi_connected">Conectado</string>
     <string name="wifi_title">Conectarse a Wi-Fi</string>
     <string name="wifi_wait_password">Esperando la entrada de contraseña ...</string>
@@ -92,18 +92,17 @@ datos de usuario en el reloj, ¿Continuar?"</string>
     <string name="enter">OK</string>
     <string name="cancel">Cancelar</string>
     <string name="update_tips_0">Actualizando</string>
-    <string name="update_tips_1">No apagues el reloj</string>
+    <string name="update_tips_1">"No apagues el reloj"</string>
     <string name="average_text">Med</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
-    <string name="picker_default_positive_text">Confirmar</string>
+    <string name="picker_default_positive_text">OK</string>
     <string name="picker_default_nagetive_text">Off</string>
-    <string name="no_heartrate_data_hint">Sin datos de FC</string>
-    <string name="no_altitude_hint">Sin datos de altitud</string>
-    <string name="ui_lib_name">Hm_UILib</string>
+    <string name="no_heartrate_data_hint">"Sin datos de FC"</string>
+    <string name="no_altitude_hint">"Sin datos de altitud"</string>
     <string name="title_settings">Ajustes</string>
     <string name="sport_music_settings">Música deportiva</string>
     <string name="widget_currentstep_title">Centro de datos</string>
-    <string name="widget_currentstep_activities">Actividades</string>
+    <string name="widget_currentstep_activities">"Actividades"</string>
     <string name="widget_currentstep_sleep_hour">h</string>
     <string name="widget_currentstep_sleep_min">min</string>
     <string name="widget_currentstep_sleep_title">Sueño</string>

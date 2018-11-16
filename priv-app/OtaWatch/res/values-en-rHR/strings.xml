@@ -5,29 +5,29 @@
     <string name="action_settings">Postavke</string>
     <string name="watch_ota">Ažuriranje</string>
     <string name="wifi_disconnect">Povežite Amazfit Watch aplikaciju da pomogne satu provjeriti ažuriranja</string>
-    <string name="connect_phone_wifi">Provjerite
+    <string name="connect_phone_wifi">"Provjerite
 mrežnu vezu telefona da 
 pomogne satu provjeriti 
-ažuriranja</string>
+ažuriranja"</string>
     <string name="connect_phone_input_wifi">Povežite
 Amazfit Watch aplikaciju za unos
 Wi-Fi zaporke za sat</string>
     <string name="wifi_add_item">Povežite Amazfit Watch aplikaciju da dodate novi Wi-Fi hotspot za sat</string>
-    <string name="input_passwor_on_mobile">\"Unesite Wi-Fi zaporku 
-u Amazfit Watch aplikaciju\"</string>
     <string name="add_wifi">Dodaj Wi-Fi</string>
     <string name="please_update_rom">Pronađena je nova verzija sustava, ažurirajte ga</string>
     <string name="checking_rom">Provjera za novom verzijom</string>
     <string name="checking_rom_failed">"Isteklo je vrijeme radnje,
 pokušajte ponovno"</string>
     <string name="current_is_new">Imate najnoviju verziju</string>
-    <string name="has_new_rom_all">Instaliranje nove verzije može biti duža zbog vaše starije verzije.
-Budite strpljivi</string>
     <string name="has_new_rom">"Pronađena je nova verzija,
 Ažurirati na %1$s verziju?"</string>
+    <string name="has_new_rom_all">Instaliranje nove verzije može biti duža zbog vaše starije verzije.
+Budite strpljivi</string>
+    <string name="input_passwor_on_mobile">"Unesite Wi-Fi zaporku 
+u Amazfit Watch aplikaciju"</string>
     <string name="processbar_downloading_rom">Preuzimanje…</string>
-    <string name="please_keep_wifi_connect">"Držite sat
-povezan s Wi-Fi mrežom"</string>
+    <string name="please_keep_wifi_connect">"\"Držite sat
+povezan s Wi-Fi mrežom\""</string>
     <string name="processbar_downloading_tips">%</string>
     <string name="processbar_downloading_default">0</string>
     <string name="download_rom_faild">"Preuzimanje paketa ažuriranja nije uspjelo,
@@ -53,7 +53,7 @@ nadogradite ga"</string>
     <string name="wifi_connecting">Povezivanje…</string>
     <string name="wifi_auth">Provjera zaporke…</string>
     <string name="wifi_get_ip">Dohvaćanje IP adrese…</string>
-    <string name="wifi_link_fail">Povezivanje nije uspjelo…</string>
+    <string name="wifi_link_fail">"Povezivanje nije uspjelo…"</string>
     <string name="wifi_connected">Povezano</string>
     <string name="wifi_title">Poveži se na Wi-Fi</string>
     <string name="wifi_wait_password">Čekanje unosa zaporke…</string>
@@ -89,18 +89,17 @@ korisničke podatke na satu. Nastaviti?"</string>
     <string name="enter">U redu</string>
     <string name="cancel">Odustani</string>
     <string name="update_tips_0">Ažuriranje</string>
-    <string name="update_tips_1">Nemojte isključiti sat</string>
+    <string name="update_tips_1">"Nemojte isključiti sat"</string>
     <string name="average_text">Prosj.</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Potvrdi</string>
     <string name="picker_default_nagetive_text">Isklj.</string>
-    <string name="no_heartrate_data_hint">Podaci otkucaj srca nisu otkriveni</string>
-    <string name="no_altitude_hint">Podaci o nadmorskoj visini nisu otkriveni</string>
-    <string name="ui_lib_name">Hm_UILib</string>
+    <string name="no_heartrate_data_hint">"Podaci otkucaj srca nisu otkriveni"</string>
+    <string name="no_altitude_hint">"Podaci o nadmorskoj visini nisu otkriveni"</string>
     <string name="title_settings">Postavke</string>
     <string name="sport_music_settings">Sportska glazba</string>
     <string name="widget_currentstep_title">Dnevni pregled</string>
-    <string name="widget_currentstep_activities">Aktivnosti</string>
+    <string name="widget_currentstep_activities">"Aktivnosti"</string>
     <string name="widget_currentstep_sleep_hour">h</string>
     <string name="widget_currentstep_sleep_min">min</string>
     <string name="widget_currentstep_sleep_title">Spavanje</string>
