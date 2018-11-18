@@ -21,7 +21,7 @@
     <string name="crossing_individual_pen_cost_time">Single Lap Time</string>
     <string name="crossing_individual_pen_pace">Single Lap Pace</string>
     <string name="crossing_climb_unit">Feet</string>
-    <string name="crossing_vertical_velocity_unit">فوت/ساعت</string>
+    <string name="crossing_vertical_velocity_unit">ft/h</string>
     <string name="crossing_history_detail_total_time">Total Time</string>
     <string name="crossing_history_detail_move_time">Moving Time</string>
     <string name="crossing_history_detail_ave_move_pace">Average Pace</string>
@@ -56,7 +56,7 @@
     <string name="remind_target_calorie_title">Reached set calorie goal</string>
     <string name="remind_target_time_title">Reached set time goal</string>
     <string name="remind_target_calorie_title_format">کیلوکالری</string>
-    <string name="remind_target_time_h_unit">ساعت</string>
+    <string name="remind_target_time_h_unit">h</string>
     <string name="remind_target_time_m_unit">متر</string>
     <string name="remind_target_time_default_value">۰۰</string>
     <string name="no_altitude_hint">"Altitude data not detected"</string>
@@ -785,8 +785,8 @@
     <string name="settings_item_value_target_distance">%.2fmi</string>
     <string name="settings_item_value_pace">When below %s</string>
     <string name="title_medal_list_header">Achievements</string>
-    <string name="time_picker_hour">ساعت</string>
-    <string name="time_picker_minute">دقیقه</string>
+    <string name="time_picker_hour">h</string>
+    <string name="time_picker_minute"> m</string>
     <string name="distance_picker_km">مایل</string>
     <string name="sport_notification_view_detail">Open Sports</string>
     <string name="sport_notification_stop">End the exercise</string>
@@ -966,8 +966,8 @@
     <string name="sport_music_settings">Sports music</string>
     <string name="widget_currentstep_title">Daily Overview</string>
     <string name="widget_currentstep_activities">"Activities"</string>
-    <string name="widget_currentstep_sleep_hour">ساعت</string>
-    <string name="widget_currentstep_sleep_min">دقیقه</string>
+    <string name="widget_currentstep_sleep_hour">h</string>
+    <string name="widget_currentstep_sleep_min">m</string>
     <string name="widget_currentstep_sleep_title">خواب</string>
     <string name="widget_currentstep_sleep_no">No sleep data</string>
     <string name="widget_currentstep_activity_no">No activity today?</string>
