@@ -117,11 +117,11 @@
     <string name="mijia">Mi Home</string>
     <string name="zhinanzhen">Компас</string>
     <string name="yinyue">Музыка</string>
-    <string name="rebond_title">Pairing reminder</string>
-    <string name="rebond_desc_air_plane">Airplane mode of the watch is on, turn it off and try to pair again</string>
-    <string name="rebong_unbond_desc">Attention: You can only use this feature when the watch is unpaired from Amazfit Watch app, otherwise, the previously paired watch will be unpaired.</string>
-    <string name="rebond_go_on">Continue</string>
-    <string name="rebond_quit">Exit</string>
+    <string name="rebond_title">Напоминание о сопряжении</string>
+    <string name="rebond_desc_air_plane">Включен режим полета, выключите его и попробуйте снова установить сопряжение</string>
+    <string name="rebong_unbond_desc">Внимание: Вы можете использовать эту функцию только в том случае, если часы не сопряжены с приложением Amazfit Watch, в противном случае предыдущие сопряженные часы будут отсоединены.</string>
+    <string name="rebond_go_on">Продолжить</string>
+    <string name="rebond_quit">Выйти</string>
     <string name="report_bug_dialog_title">Отзыв</string>
     <string name="report_bug_dialog_desc">После включения сбора данных движения мы собираем исходную информацию датчика после начала упражнения и прекращаем сбор сразу после окончания упражнения. Эти данные будут отправлены на сервер, когда вы отправите отзыв о проблеме с часами для анализа нашей послепродажной поддержкой. Во время этого процесса ранее созданные журналы на часах будут автоматически собираться и загружаться. Эти журналы используются только для анализа проблем и не будут использоваться в качестве других средств и будут уничтожены сразу после анализа. Весь процесс будет соответствовать нашей политике конфиденциальности. Подробнее см. В политике конфиденциальности в приложении Amazfit Watch.</string>
     <string name="dialog_agree">Принять</string>
@@ -282,10 +282,10 @@
     <string name="upgrade_checking">Проверка обновлений...</string>
     <string name="left_hand">Левая</string>
     <string name="right_hand">Правильно</string>
-    <string name="sport_remind_title">Motion detection</string>
-    <string name="sport_remind_open_title">Enable motion detection start</string>
-    <string name="sport_remind_end_title">Enable motion detection end</string>
-    <string name="sport_remind_open_tips">开启后，将在检测到你跑步或健走时，提醒您快捷开启运动模式</string>
-    <string name="sport_remind_end_tips">开启后，将在检测到你运动完成后，提醒您结束并保存</string>
-    <string name="sport_remind_open">Start</string>
+    <string name="sport_remind_title">Детектор движения</string>
+    <string name="sport_remind_open_title">Запустить детектор движения</string>
+    <string name="sport_remind_end_title">Отключить детектор движения</string>
+    <string name="sport_remind_open_tips">При включении, вам будет предложено быстро включить спортивный режим, когда устройство обнаружит, что вы бежите или гуляете</string>
+    <string name="sport_remind_end_tips">Напоминание при включении, что что ваше завершенное упражнение нужно закончить и сохранить</string>
+    <string name="sport_remind_open">Пуск</string>
 </resources>

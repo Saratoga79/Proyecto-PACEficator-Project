@@ -117,11 +117,11 @@
     <string name="mijia">Mi Home</string>
     <string name="zhinanzhen">Boussole</string>
     <string name="yinyue">Musique</string>
-    <string name="rebond_title">Pairing reminder</string>
-    <string name="rebond_desc_air_plane">Airplane mode of the watch is on, turn it off and try to pair again</string>
-    <string name="rebong_unbond_desc">Attention: You can only use this feature when the watch is unpaired from Amazfit Watch app, otherwise, the previously paired watch will be unpaired.</string>
-    <string name="rebond_go_on">Continue</string>
-    <string name="rebond_quit">Exit</string>
+    <string name="rebond_title">Rappel d\'appariement</string>
+    <string name="rebond_desc_air_plane">Le mode avion de la montre est activé, éteignez-le et essayez à nouveau d\'apparier</string>
+    <string name="rebong_unbond_desc">Attention: Vous ne pouvez utiliser cette fonction que lorsque la montre n\'est pas appariée à partir de l\'application Amazfit Watch. Dans le cas contraire, la montre précédemment couplée ne sera pas appariée.</string>
+    <string name="rebond_go_on">Continuer</string>
+    <string name="rebond_quit">Quitter</string>
     <string name="report_bug_dialog_title">Retour</string>
     <string name="report_bug_dialog_desc">En cas d\'erreurs de données, de conditions anormales, etc., vous pouvez télécharger des données sur notre serveur grâce à la fonction de rétroaction des questions pour l\'analyse par notre personnel. Au cours de ce processus, les journaux précédemment générés sur la montre seront automatiquement collectés et téléchargés. Ces journaux sont utilisés uniquement pour l\'analyse des problèmes et ne seront pas utilisés comme autres moyens et seront détruits immédiatement après l\'analyse. L\'ensemble du processus sera conforme à notre politique de confidentialité. Pour plus de détails, veuillez consulter la politique de confidentialité sur l\'application Amazfit Watch.</string>
     <string name="dialog_agree">Accepter</string>
@@ -282,10 +282,10 @@ pour protéger vos données de manière plus sécurisée"</string>
     <string name="upgrade_checking">Vérification de la mise à jour...</string>
     <string name="left_hand">Gauche</string>
     <string name="right_hand">Droit</string>
-    <string name="sport_remind_title">Motion detection</string>
-    <string name="sport_remind_open_title">Enable motion detection start</string>
-    <string name="sport_remind_end_title">Enable motion detection end</string>
-    <string name="sport_remind_open_tips">开启后，将在检测到你跑步或健走时，提醒您快捷开启运动模式</string>
-    <string name="sport_remind_end_tips">开启后，将在检测到你运动完成后，提醒您结束并保存</string>
-    <string name="sport_remind_open">Start</string>
+    <string name="sport_remind_title">Détection de mouvements</string>
+    <string name="sport_remind_open_title">Activer la détection de mouvements</string>
+    <string name="sport_remind_end_title">Désactiver la détection de mouvements</string>
+    <string name="sport_remind_open_tips">Lorsque cette fonction est activée, il vous est rappelé d\'activer rapidement le mode sport lorsqu\'il détecte que vous courez ou marchez</string>
+    <string name="sport_remind_end_tips">Lorsque cette fonction est activée, il vous sera rappelé de terminer et de sauvegarder après avoir détecté que votre exercice est terminé</string>
+    <string name="sport_remind_open">Démarrer</string>
 </resources>

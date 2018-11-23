@@ -9,7 +9,7 @@
     <string name="settings_step_target">Step Goal</string>
     <string name="settings_target_reach_reminder">Goal Alert</string>
     <string name="settings_long_sit_reminder">Move Alert</string>
-    <string name="settings_on">On</string>
+    <string name="settings_on">روشن</string>
     <string name="settings_off">Off</string>
     <string name="notif_long_sit_title">Time to stand up</string>
     <string name="notif_long_sit_desc">"You've been sitting for too long. Let's stand up and move around for a minute."</string>
@@ -75,7 +75,7 @@
     <string name="label_active_fast_tired_any">Moderate exercise helps to relieve mental fatigue. For physical fatigue, wait until fully recovered to do exercise.</string>
     <string name="label_active_fast_sick_any">Exercise intensity should be lower than usual when ill, and if any serious symptoms such as a fever occur, exercise should be stopped.</string>
     <string name="no_sleep_info">No sleep detected</string>
-    <string name="today_sleep_info">Sleep</string>
+    <string name="today_sleep_info">خواب</string>
     <string name="loading_sleep_info">Loading</string>
     <string name="start_sleep">%1$s</string>
     <string name="wake_up">%1$s</string>
@@ -95,8 +95,8 @@
     <string name="date_today">Today</string>
     <string name="sleep_detail_title">History</string>
     <string name="ratio_notworn"></string>
-    <string name="am">AM</string>
-    <string name="pm">PM</string>
+    <string name="am">قبل از ظهر</string>
+    <string name="pm">بعد از ظهر</string>
     <string name="heart_rate_no_data">N/A</string>
     <string name="label_heart_rate_text">Heart Rate</string>
     <string name="today_heart_rate_title_text">Details</string>
@@ -180,8 +180,8 @@
     <string name="weeklysports_totalcalories">Total calories</string>
     <string name="weeklysports_totalcalories_unit">kCal</string>
     <string name="weeklysports_totalmileage">Total distance</string>
-    <string name="weeklysports_totalmileage_unit_zh">km</string>
-    <string name="weeklysports_totalmileage_unit_en">mi</string>
+    <string name="weeklysports_totalmileage_unit_zh">کیلومتر</string>
+    <string name="weeklysports_totalmileage_unit_en">مایل</string>
     <string name="weeklysports_averageheart">Avg. heart rate</string>
     <string name="weeklysports_averageheart_unit">bpm</string>
     <string name="weeklysports_runerrate">Running pace</string>
@@ -203,7 +203,7 @@
     <string name="weeklysports_triathlon_hour">hours</string>
     <string name="weeklysports_triathlon_min">minutes</string>
     <string name="weeklysports_frequency"></string>
-    <string name="weeklysports_day">d</string>
+    <string name="weeklysports_day">روز</string>
     <string name="weeklysports_activity">Move</string>
     <string name="weeklysports_running">Run</string>
     <string name="weeklysports_walking">Walk</string>
@@ -251,9 +251,9 @@
     <string name="currentstep_detail_heart_unit">bpm</string>
     <string name="currentstep_detail_walk_ridding_rate_unit_zh">km/h</string>
     <string name="currentstep_detail_walk_ridding_rate_unit_en">mi/h</string>
-    <string name="currentstep_detail_distance_unit_zh">km</string>
-    <string name="currentstep_detail_distance_unit_en">mi</string>
-    <string name="currentstep_detail_swim_distance_unit_zh">m</string>
+    <string name="currentstep_detail_distance_unit_zh">کیلومتر</string>
+    <string name="currentstep_detail_distance_unit_en">مایل</string>
+    <string name="currentstep_detail_swim_distance_unit_zh">متر</string>
     <string name="currentstep_detail_swim_distance_unit_en">yard</string>
     <string name="currentstep_detail_swim_rate_unit_zh">/100m</string>
     <string name="currentstep_detail_swim_rate_unit_en">/100yard</string>

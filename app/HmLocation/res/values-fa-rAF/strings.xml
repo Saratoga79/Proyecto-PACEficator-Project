@@ -5,7 +5,7 @@
     <string name="app_name">HmLocation</string>
     <string name="new_location">افزودن مکان</string>
     <string name="saved_location">Saved location</string>
-    <string name="gps_searching">Searching for GPS signal</string>
+    <string name="gps_searching">جستجو برای سیگنال های جی پی اس</string>
     <string name="gps_search_failed_title">GPS یافت نشد</string>
     <string name="gps_search_failed_content">درمحیط خارجی امتحان کنید.</string>
     <string name="wait_gps_search_retry">سعی مجدد</string>
@@ -23,14 +23,14 @@
     <string name="south_lat">عرض جنوبی</string>
     <string name="location_list_no_data">بدون اطلاعات مکانی</string>
     <string name="icon_list_select_confirm">انتخاب</string>
-    <string name="delete_loaction_tips">Delete this location?</string>
+    <string name="delete_loaction_tips">این مکان را حذف کنید؟</string>
     <string name="yes">بله</string>
     <string name="no">نه</string>
     <string name="location_navigation">پیمایش</string>
     <string name="beyond_distance">The selected destination is more than 2000km away from the current location and cannot be navigated.</string>
     <string name="exteed_max_num">Max number of saved locations exceeded, you can save up to 500</string>
     <string name="gps_save">ذخیره</string>
-    <string name="altitude_unit">متر</string>
+    <string name="altitude_unit">m</string>
     <string name="average_text">میانگین</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">تایید</string>
@@ -42,7 +42,7 @@
     <string name="sport_music_settings">موسیقی ورزشی</string>
     <string name="widget_currentstep_title">بررسی روزانه</string>
     <string name="widget_currentstep_activities">فعالیت ها</string>
-    <string name="widget_currentstep_sleep_hour">ساعت</string>
+    <string name="widget_currentstep_sleep_hour">h</string>
     <string name="widget_currentstep_sleep_min">دقیقه</string>
     <string name="widget_currentstep_sleep_title">خواب</string>
     <string name="widget_currentstep_sleep_no">بدون اطلاعات خواب</string>
