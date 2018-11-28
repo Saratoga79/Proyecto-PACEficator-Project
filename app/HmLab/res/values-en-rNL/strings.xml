@@ -5,27 +5,29 @@
     <string name="main_title">Huami lab</string>
     <string name="agreement_title">PPG-opname</string>
     <string name="orig_data_collect">Data collection</string>
-    <string name="message">"We\'ll collect raw PPG data when you wear the watch.
-The data will only be used for research purposes.
-This feature will adversely impact the battery life."</string>
+    <string name="message">"We zullen ruwe PPG gegevens verzamelen wanneer je het horloge draagt.
+De gegevens worden uitsluitend gebruikt voor onderzoeksdoeleinden.
+Deze functie kan een negatieve invloed hebben op de levensduur van de batterij. "</string>
     <string name="allow">Toestaan</string>
-    <string name="exit">Exit</string>
-    <string name="message_everest">"We'll collect raw PPG data when you wear the watch. The data will only be used for research purposes. This feature will adversely impact the battery life."</string>
+    <string name="exit">Sluiten</string>
+    <string name="message_everest">"\"We zullen ruwe PPG gegevens verzamelen wanneer je het horloge draagt.
+De gegevens worden uitsluitend gebruikt voor onderzoeksdoeleinden.
+Deze functie kan een negatieve invloed hebben op de levensduur van de batterij."</string>
     <string name="heart_rate_collection_on">Aan</string>
     <string name="heart_rate_collection_off">Uit</string>
-    <string name="hbeacon_on">On</string>
-    <string name="hbeacon_off">Off</string>
-    <string name="hbeacon_on_confirm_message">Tap to turn the HBeacon feature on, so the watch battery may be slightly reduced, and you may need to pair your phone with the watch again after it reboots.</string>
-    <string name="hbeacon_off_confirm_message">Tap to turn off the HBeacon feature, and you may need to pair your phone with the watch again after it reboots.</string>
+    <string name="hbeacon_on">Aan</string>
+    <string name="hbeacon_off">Uit</string>
+    <string name="hbeacon_on_confirm_message">Tik op om de HBeacon functie inte schakelen, zodat de batterij van je horloge enigszins verlaagd kan worden, en je koppelt je telefoon met het horloge opnieuw wellicht na het opnieuw wordt opgestart.</string>
+    <string name="hbeacon_off_confirm_message">Tik om te HBeacon functie uit te schakelen, en wellicht moet je je telefoon met het horloge opnieuw verbinden na opnieuw opstarten.</string>
     <string name="saving_data">Opslaan data</string>
     <string name="upload_data">Upload data</string>
-    <string name="upload_success">Done</string>
-    <string name="upload_failed">"Couldn't upload. Try again."</string>
-    <string name="air_mode_alert_title">"Couldn't connect"</string>
-    <string name="air_mode_alert_message">Turn off Airplane mode then try again.</string>
+    <string name="upload_success">Klaar</string>
+    <string name="upload_failed">"Kon niet uploaden. Opnieuw."</string>
+    <string name="air_mode_alert_title">"Verbinden mislukt"</string>
+    <string name="air_mode_alert_message">Vliegtuigmodus uitzetten en probeer het opnieuw.</string>
     <string name="report_sensor_capture_dialog_title">Sports data collection</string>
     <string name="report_sensor_capture_dialog_desc">After the motion data acquisition is turned on, we will collect the sensor\'s original information after the start of the exercise, and stop the acquisition immediately after the exercise. These data will be submitted to the server when you submit feedback on the watch issue for analysis by our after-sales staff. During this process, the previously generated logs on the watch will be automatically collected and uploaded. These logs are used only for problem analysis and will not be used as other means and will be destroyed immediately after the analysis. The entire process will comply with our privacy policy. For details, please see the privacy policy on the Amazfit Watch App.</string>
-    <string name="dialog_agree">Agree</string>
+    <string name="dialog_agree">Akkoord</string>
     <string name="dialog_quit">Quit</string>
     <string name="average_text">Gem</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
@@ -37,10 +39,10 @@ This feature will adversely impact the battery life."</string>
     <string name="sport_music_settings">Sport muziek</string>
     <string name="widget_currentstep_title">Daily Overview</string>
     <string name="widget_currentstep_activities">"Activities"</string>
-    <string name="widget_currentstep_sleep_hour">h</string>
+    <string name="widget_currentstep_sleep_hour">uur</string>
     <string name="widget_currentstep_sleep_min">min</string>
     <string name="widget_currentstep_sleep_title">Sleep</string>
-    <string name="widget_currentstep_sleep_no">No sleep data</string>
-    <string name="widget_currentstep_activity_no">No activity today?</string>
+    <string name="widget_currentstep_sleep_no">Geen slaapgegevens</string>
+    <string name="widget_currentstep_activity_no">Geen activiteit vandaag?</string>
     <string name="locale_title">Selecteer Taal</string>
 </resources>
