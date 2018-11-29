@@ -25,7 +25,7 @@
     <string name="custom_data_widget_title_today_dis">"Quilometragem"</string>
     <string name="custom_data_widget_title_total_dis">Total</string>
     <string name="custom_data_widget_title_calorie">"Calorias"</string>
-    <string name="custom_data_widget_title_heart_rate">Pulso</string>
+    <string name="custom_data_widget_title_heart_rate">Freq. Card.</string>
     <string name="custom_data_widget_title_weather">Tempo</string>
     <string name="custom_data_widget_title_aq">AQ</string>
     <string name="custom_data_widget_title_battery">Bateria</string>
@@ -76,7 +76,7 @@
     <string name="mileage">Distância</string>
     <string name="rope_skip_freq">Frequência</string>
     <string name="sport_has_paused">Parado</string>
-    <string name="sport_paused_time">Tempo Parado</string>
+    <string name="sport_paused_time">Tempo em pausa</string>
     <string name="sport_distance">Distância</string>
     <string name="sport_mileage">Quilometragem</string>
     <string name="sport_downhill_total_distance">Distância Total</string>
@@ -93,7 +93,7 @@
     <string name="gps_singal_lost">"GPS indisponível"</string>
     <string name="gps_close_1">GPS foi desligado</string>
     <string name="gps_close_2">devido a inatividade</string>
-    <string name="heartrate">Pulso</string>
+    <string name="heartrate">Freq. Card.</string>
     <string name="warmup">Aquecimento</string>
     <string name="fatburn">Queima de Gordura</string>
     <string name="heartlung">Treino Cardio</string>
@@ -104,7 +104,7 @@
     <string name="zone_three">Zona 3</string>
     <string name="zone_four">Zona 4</string>
     <string name="zone_five">Zona 5</string>
-    <string name="zone_risk">Zona segura de pulso excedida!</string>
+    <string name="zone_risk">Freq. Card. Alta</string>
     <string name="enter_sport_lock_status">Entrando nas telas de dados</string>
     <string name="press_any_key_wakeup">Aperte qualquer botão</string>
     <string name="press_power_key_wakeup">Aperte o botão</string>
@@ -150,7 +150,7 @@
     <string name="rope_skip_tips1">Completado</string>
     <string name="rope_skip_tips2">Grupo</string>
     <string name="rope_skip_tips">Grupos completados:%1$s</string>
-    <string name="music">音乐</string>
+    <string name="music">Música</string>
     <string name="press_any_key_wakeup1"></string>
     <string name="press_any_key_wakeup2"></string>
     <string name="press_power_key_wakeup1"></string>
@@ -159,8 +159,8 @@
     <string name="press_up_key_wake_up2"></string>
     <string name="press_key_finish_train1"></string>
     <string name="press_key_finish_train2"></string>
-    <string name="zone_risk1">Beyond the heart</string>
-    <string name="zone_risk2">rate limit</string>
+    <string name="zone_risk1">Acima do limite de</string>
+    <string name="zone_risk2">taxa limite</string>
     <string name="app_name">HuamiWatchFaces</string>
     <string name="watch_label_sport_one">Marathon life</string>
     <string name="watch_label_sport_two">"I’m Runner"</string>
@@ -192,7 +192,7 @@
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Confirmar</string>
     <string name="picker_default_nagetive_text">Desligado</string>
-    <string name="no_heartrate_data_hint">"Dados de pulso não detectados"</string>
+    <string name="no_heartrate_data_hint">"Dados de FC não detectados"</string>
     <string name="no_altitude_hint">"Dados de altitude não detectados"</string>
     <string name="title_settings">Configurações</string>
     <string name="sport_music_settings">Música esportiva</string>

@@ -94,7 +94,7 @@ Gordura</string>
     <string name="sleep_duration_diff">%1$s &lt;font size=\"12\"&gt;Hour&lt;/font&gt; %2$s Min</string>
     <string name="date_m_d">%1$s/%2$s</string>
     <string name="date_today">Hoje</string>
-    <string name="sleep_detail_title">Antecedente</string>
+    <string name="sleep_detail_title">Histórico</string>
     <string name="ratio_notworn"></string>
     <string name="am">AM</string>
     <string name="pm">PM</string>
@@ -106,7 +106,7 @@ Gordura</string>
     <string name="today_heart_rate_min_text">Mín(bpm)</string>
     <string name="today_heart_rate_quite_text">Descansando(bpm)</string>
     <string name="today_heart_rate_value_def">--</string>
-    <string name="label_all_day_heartrate">Pulso contínuo</string>
+    <string name="label_all_day_heartrate">FC Contínua</string>
     <string name="label_all_day_heartrate_open">Habilitar</string>
     <string name="label_all_day_heartrate_close">Desabilitar</string>
     <string name="label_all_day_heartrate_cancle">Cancelar</string>
@@ -128,8 +128,8 @@ Gordura</string>
     <string name="burning_fat__heart_rate">Queima de Gordura</string>
     <string name="warm_up_relax_heart_rate">Aquecer</string>
     <string name="heart_rate_zone">zona%s</string>
-    <string name="all_day_hearte_rate_button_close">Desabilitar pulso contínuo</string>
-    <string name="all_day_hearte_rate_button_open">Habilitar pulso contínuo</string>
+    <string name="all_day_hearte_rate_button_close">Desligar FC contínua</string>
+    <string name="all_day_hearte_rate_button_open">Ligar FC contínua</string>
     <string name="dlg_confirm">Confirmar</string>
     <string name="dlg_cancel">Cancelar</string>
     <string name="heart_name">Pulso</string>
@@ -165,7 +165,7 @@ Gordura</string>
     <string name="widget_weeklyreports_sports_title">Esporte</string>
     <string name="widget_weeklyreports_reports_title">Relatório Semanal</string>
     <string name="widget_sleep_title">Sono</string>
-    <string name="widget_sleep_late">Vai dormir muito tarde</string>
+    <string name="widget_sleep_late">Dorme tarde</string>
     <string name="widget_sleep_deep_leak">Pouco sono profundo</string>
     <string name="widget_sleep_leak">"Precisa dormir mais"</string>
     <string name="widget_sleep_easyawake">Acorda fácil</string>
@@ -209,7 +209,7 @@ Gordura</string>
     <string name="weeklysports_running">Corrida</string>
     <string name="weeklysports_walking">Caminhada</string>
     <string name="weeklysports_riding">Pedalada</string>
-    <string name="weekly_step_attained_rate">Dias para atingir a meta</string>
+    <string name="weekly_step_attained_rate">Atingiu a meta</string>
     <string name="weekly_sports_notification_content">O sumário de atividades da semana passada está pronto.</string>
     <string name="weekly_sports_notification_action">Mais</string>
     <string name="weeklysports_date_format">dd/MM yyyy</string>
@@ -237,7 +237,7 @@ Gordura</string>
     <string name="currentstep_detail_activity_chart">Atividades</string>
     <string name="currentstep_detail_activity_chart_unit">Unidade: hora</string>
     <string name="currentstep_detail_activity_step_done">Meta atingida</string>
-    <string name="currentstep_detail_activity_step_notdo">"Didn't reach goal"</string>
+    <string name="currentstep_detail_activity_step_notdo">"Não atingiu a meta"</string>
     <string name="currentstep_detail_activity_run_rate_av">Ritmo médio</string>
     <string name="currentstep_detail_activity_run_rate_ma">Melhor ritmo</string>
     <string name="currentstep_detail_activity_walk_ridding_rate_av">Vel. média</string>
@@ -261,7 +261,7 @@ Gordura</string>
     <string name="currentstep_detail_swim_rate_unit_en">/100jardas</string>
     <string name="currentstep_distance">Distância</string>
     <string name="currentstep_time">Tempo gasto</string>
-    <string name="currentstep_history_title">Antecedente</string>
+    <string name="currentstep_history_title">Histórico</string>
     <string name="step_value">%1$s / %2$s</string>
     <string name="detail_date">%1$s Atividades</string>
     <string name="widget_weeklyreports_reports_review">Rever Semana</string>
