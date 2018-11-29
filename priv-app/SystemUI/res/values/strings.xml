@@ -5,7 +5,7 @@
     <string name="quick_settings_tiles">default</string>
     <string name="velocity_tracker_impl">platform</string>
     <string name="doze_pulse_schedule">1s,10s,30s,60s</string>
-    <string name="system_ui_date_pattern">\@android:string/system_ui_date_pattern</string>
+    <string name="system_ui_date_pattern">@android:string/system_ui_date_pattern</string>
     <string name="lland">L Land</string>
     <string name="app_label">System UI</string>
     <string name="status_bar_clear_all_button">Clear</string>
@@ -48,7 +48,7 @@ Use only the supplied charger."</string>
     <string name="always_use_device">Use by default for this USB device</string>
     <string name="always_use_accessory">Use by default for this USB accessory</string>
     <string name="usb_debugging_title">Allow USB debugging?</string>
-    <string name="usb_debugging_message">"The computer\'s RSA key fingerprint is:
+    <string name="usb_debugging_message">"The computer's RSA key fingerprint is:
 %1$s"</string>
     <string name="usb_debugging_always">Always allow from this computer</string>
     <string name="compat_mode_on">Zoom to fill screen</string>
@@ -338,7 +338,7 @@ For more information, contact your administrator."</string>
     <string name="monitoring_description_vpn">"You gave \"%1$s\" permission to set up a VPN connection.
 
 This app can monitor your device and network activity, including emails, apps and secure websites."</string>
-    <string name="monitoring_description_legacy_vpn">"You\'re connected to a VPN (\"%1$s\").
+    <string name="monitoring_description_legacy_vpn">"You're connected to a VPN (\"%1$s\").
 
 Your VPN service provider can monitor your device and network activity including emails, apps, and secure websites."</string>
     <string name="monitoring_description_vpn_device_owned">"This device is managed by:
@@ -352,7 +352,7 @@ Also, you gave \"%2$s\" permission to set up a VPN connection. This app can moni
 
 Your administrator is capable of monitoring your network activity including emails, apps, and secure websites. For more information, contact your administrator.
 
-Also, you\'re connected to a VPN (\"%2$s\"). Your VPN service provider can monitor network activity too."</string>
+Also, you're connected to a VPN (\"%2$s\"). Your VPN service provider can monitor network activity too."</string>
     <string name="monitoring_description_profile_owned">"This profile is managed by:
 %1$s
 
@@ -378,7 +378,7 @@ Also, you gave \"%2$s\" permission to set up a VPN connection. This app can moni
 
 Your administrator is capable of monitoring your network activity including emails, apps, and secure websites. For more information, contact your administrator.
 
-Also, you\'re connected to a VPN (\"%2$s\"). Your VPN service provider can monitor network activity too."</string>
+Also, you're connected to a VPN (\"%2$s\"). Your VPN service provider can monitor network activity too."</string>
     <string name="monitoring_description_vpn_device_and_profile_owned">"This device is managed by:
 %1$s
 Your profile is managed by:
@@ -394,7 +394,7 @@ Your profile is managed by:
 
 Your administrator is capable of monitoring your network activity including emails, apps, and secure websites. For more information, contact your administrator.
 
-Also, you\'re connected to a VPN (\"%3$s\"). Your VPN service provider can monitor network activity too."</string>
+Also, you're connected to a VPN (\"%3$s\"). Your VPN service provider can monitor network activity too."</string>
     <string name="keyguard_indication_trust_disabled">Device will stay locked until you manually unlock</string>
     <string name="hidden_notifications_title">Get notifications faster</string>
     <string name="hidden_notifications_text">See them before you unlock</string>
@@ -409,9 +409,9 @@ Also, you\'re connected to a VPN (\"%3$s\"). Your VPN service provider can monit
     <string name="quick_settings_reset_confirmation_title">Hide %1$s?</string>
     <string name="quick_settings_reset_confirmation_message">It will reappear the next time you turn it on in settings.</string>
     <string name="quick_settings_reset_confirmation_button">Hide</string>
-    <string name="ok">\@android:string/ok</string>
-    <string name="widget_default_package_name"></string>
-    <string name="widget_default_class_name"></string>
+    <string name="ok">@android:string/ok</string>
+    <string name="widget_default_package_name" />
+    <string name="widget_default_class_name" />
     <string name="abbrev_wday_month_day_no_year">EEEEMMMMd</string>
     <string name="abbrev_wday_month_day_no_year_alarm">EEEMMMd</string>
     <string name="clock_12hr_format">hm</string>
@@ -523,8 +523,8 @@ Also, you\'re connected to a VPN (\"%3$s\"). Your VPN service provider can monit
     <string name="kg_login_password_hint">Password</string>
     <string name="kg_login_submit_button">Sign in</string>
     <string name="kg_login_invalid_input">Invalid username or password.</string>
-    <string name="kg_login_account_recovery_hint">\"Forgot your username or password?
-Visit \"<b>google.com/accounts/recovery</b>.</string>
+    <string name="kg_login_account_recovery_hint">"Forgot your username or password?
+Visit "<b>google.com/accounts/recovery</b>.</string>
     <string name="kg_login_checking_password">Checking account…</string>
     <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"You have incorrectly typed your PIN %d times. 
 
