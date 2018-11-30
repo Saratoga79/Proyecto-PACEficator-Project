@@ -45,7 +45,7 @@
     <string name="crossing_remind_target_individual_pace">Ritmo</string>
     <string name="agps_time_out">O AGPS expirou. A pesquisa por GPS será lenta. Por favor, conecte o aplicativo Amazfit Watch para atualizá-lo。</string>
     <string name="safe_hearate_remind_content">Quando acima %1d</string>
-    <string name="settings_safe_heart_rate_hint">(limite da Freq. Card.)</string>
+    <string name="settings_safe_heart_rate_hint">(limite da FC)</string>
     <string name="settings_safe_heart_rate_unit">bpm</string>
     <string name="elliptical">Elíptico</string>
     <string name="elliptical_in_progress">Elíptico em andamento</string>
@@ -112,7 +112,7 @@
     <string name="picker_title_target_time">Tempo decorrido(h/m)</string>
     <string name="picker_title_target_calorie">Calorias (kCal)</string>
     <string name="picker_title_target_te">Meta TE</string>
-    <string name="picker_title_target_heart_rate">Freq. Card. (bpm)</string>
+    <string name="picker_title_target_heart_rate">FC (bpm)</string>
     <string name="picker_title_auto_lap">Volta automática(%1$s)</string>
     <string name="picker_title_swim_length">Tamanho da Piscina(%1$s)</string>
     <string name="picker_title_target_trips">Voltas alvo</string>
@@ -197,8 +197,8 @@
     <string name="history_start_sport_tips">Iniciar uma atividade agora!</string>
     <string name="sport_main_percent">%</string>
     <string name="unit_cadence">rpm</string>
-    <string name="sport_main_heart_info_title">Frequência Cardíaca</string>
-    <string name="sport_main_beyond_heart_info_title">Freq. Card. Alta</string>
+    <string name="sport_main_heart_info_title">FC</string>
+    <string name="sport_main_beyond_heart_info_title">FC Alta</string>
     <string name="sport_main_pace_info_title">Ritmo</string>
     <string name="heartrate_x_axis_time_format">HH:mm:ss</string>
     <string name="lap_title">Volta %1$d</string>
@@ -219,9 +219,9 @@
     <string name="sport_main_stride">Comprimento do passo</string>
     <string name="sport_main_total_kcal">Calorias</string>
     <string name="sport_main_avg_stride_unit">cm/passo</string>
-    <string name="sport_main_avg_heart_rate">Freq. Card. Média</string>
-    <string name="sport_main_max_heart_rate">Freq. Card. Máx</string>
-    <string name="sport_main_min_heart_rate">Freq. Card. Mín</string>
+    <string name="sport_main_avg_heart_rate">FC Média</string>
+    <string name="sport_main_max_heart_rate">FC Máxima</string>
+    <string name="sport_main_min_heart_rate">FC Mínima</string>
     <string name="sport_main_graph_title">Última (min)</string>
     <string name="exchange_time_cost">Tempo de transição</string>
     <string name="exchange_in_progress">Em transição</string>
@@ -411,7 +411,7 @@
     <string name="virtual_rabbit_backward_time">Tempo atrás</string>
     <string name="anti_navigation_pause_content">Retorne para o ponto de início</string>
     <string name="virtual_rabbit_lead_time">Tempo de espera</string>
-    <string name="sport_main_beyond_heart_info_remind">Além do limite de Freq. Card.</string>
+    <string name="sport_main_beyond_heart_info_remind">Além do limite de FC</string>
     <string name="setting_not_remind">Não lembrar</string>
     <string name="setting_max_heart_region">Zona de FC Máx</string>
     <string name="virtual_rabbit_title">Coelho virtual</string>
@@ -433,7 +433,7 @@
     <string name="oritation_west">O</string>
     <string name="oritation_north">N</string>
     <string name="huanghe_pause_continue_title">Operação de esporte</string>
-    <string name="history_heart_rate_graph_desc">Freq. Card. (bpm)</string>
+    <string name="history_heart_rate_graph_desc">FC (BPM)</string>
     <string name="settting_sport_gpx_route">Curso GPX</string>
     <string name="experience_title">Defina as informações pessoais, ou os dados terão um desvio grande</string>
     <string name="recovery_time_hour">Horas</string>
@@ -700,7 +700,7 @@ para um exercício mais eficaz!\"</string>
     <string name="running_step_freq_desc">Cadência</string>
     <string name="running_speed_desc">Velocidade</string>
     <string name="running_distance_desc">Quilometragem</string>
-    <string name="running_heartrate_desc">Frequência Cardíaca</string>
+    <string name="running_heartrate_desc">FC</string>
     <string name="running_avg_pace_desc">Ritmo MÉD.</string>
     <string name="running_avg_speed_desc">Velocidade MÉD.</string>
     <string name="walking_step_count">Passos</string>
@@ -771,7 +771,7 @@ para um exercício mais eficaz!\"</string>
     <string name="settings_item_title_km_remind">Alerta Volta</string>
     <string name="settings_item_title_mi_remind">Alerta Volta</string>
     <string name="settings_item_title_km_voice_remind">Comando de Voz</string>
-    <string name="settings_item_title_cal_burn_heartrate_remind">Alerta Freq. Card.</string>
+    <string name="settings_item_title_cal_burn_heartrate_remind">Alerta FC</string>
     <string name="settings_item_title_safe_heartrate_remind">Alerta de FC</string>
     <string name="settings_item_title_auto_pause">Auto Pausar</string>
     <string name="settings_item_title_target_use_time_remind">Meta de Tempo</string>
@@ -883,7 +883,7 @@ para um exercício mais eficaz!\"</string>
     <string name="date_am">"'AM'"</string>
     <string name="date_pm">"'PM'"</string>
     <string name="setting_sport_remind_region">Alerta Região</string>
-    <string name="setting_sport_heart_region_remind">Zona do Pulso</string>
+    <string name="setting_sport_heart_region_remind">Alerta de zona de FC</string>
     <string name="setting_sport_heart_region_fat_burning">Região de Queima de Gordura</string>
     <string name="setting_sport_heart_region_aerobic">Região Zona Aeróbica</string>
     <string name="setting_sport_heart_region_high＿intensity_exercise">Região de Alta Intensidade</string>
@@ -892,8 +892,8 @@ para um exercício mais eficaz!\"</string>
     <string name="setting_sport_heart_region_text_aerobic">Aeróbico</string>
     <string name="setting_sport_heart_region_text_high＿intensity_exercise">Exercício de Alta Intensidade</string>
     <string name="setting_sport_heart_region_text_custom">Personalizado</string>
-    <string name="remind_heart_rate_region_over">Pulso muito alto</string>
-    <string name="remind_heart_rate_region_less">Pulso muito baixo</string>
+    <string name="remind_heart_rate_region_over">FC muito alta</string>
+    <string name="remind_heart_rate_region_less">FC muito baixa</string>
     <string name="remind_heart_rate_current_heart_rate">Atual　%1$d bpm</string>
     <string name="tennic_wear_hand_guide">Por favor, use o relógio no pulso da mão da raquete</string>
     <string name="sport_time_seconds">segundos</string>
