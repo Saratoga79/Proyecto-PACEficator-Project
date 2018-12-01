@@ -234,7 +234,7 @@
     <string name="sport_auto_lap_dis">%1$s km pol</string>
     <string name="sport_auto_lap_dis_imperial">%1$s mi pol</string>
     <string name="sport_graph_title_ave">Média</string>
-    <string name="sport_graph_title_max">Máx</string>
+    <string name="sport_graph_title_max">Máxima</string>
     <string name="sport_graph_title_min">min</string>
     <string name="sport_graph_title_fast">Mais rápido</string>
     <string name="sport_graph_title_high">Mais alto</string>
@@ -242,10 +242,10 @@
     <string name="adjust_content">%1$dm</string>
     <string name="adjust_tips_title">Configuração de distância automática renomeada</string>
     <string name="adjust_swim_tips">A distância automática de voltas é agora o tamanho da piscina. Por favor, ajuste-o nas configurações de natação, se necessário.</string>
-    <string name="hill_title">Mudanças gradientes</string>
+    <string name="hill_title">Mudanças de gradiente</string>
     <string name="hill_even">Plano</string>
     <string name="hill_up">Subida</string>
-    <string name="hill_down">Downhill</string>
+    <string name="hill_down">Descida</string>
     <string name="hill_default_time">00:00:00</string>
     <string name="hill_default_percent">%1$d%%</string>
     <string name="sport_result_in_progress">Salvando a atividade…</string>
@@ -571,8 +571,8 @@
     <string name="remind_target_riding_km_title_format">Completou %1$d mi</string>
     <string name="indoor_riding_time_too_short">Tempo de exercício é muito curto para salvar. Tem certeza que quer parar?</string>
     <string name="outdoor_climb_down_altitude">Perda de elevação acumulada</string>
-    <string name="outdoor_climb_down_distance">Distância Downhill</string>
-    <string name="outdoor_climb_down_distance_time">Tempo Downhill</string>
+    <string name="outdoor_climb_down_distance">Perda de Distância</string>
+    <string name="outdoor_climb_down_distance_time">Tempo em Descida</string>
     <string name="outdoor_climb_distance_time">Tempo de subida Uphill</string>
     <string name="real_time_keep_speed">Mantenha o ritmo atual</string>
     <string name="real_time_run_faster">Aumente a velocidade</string>
