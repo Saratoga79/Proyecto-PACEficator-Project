@@ -4,8 +4,8 @@
     <string name="locale_title">Escolher Idioma</string>
     <string name="app_name">TrainCenter</string>
     <string name="app_train_center">Centro de Treinamento</string>
-    <string name="my_train">Meu plano</string>
-    <string name="please_select_train_plan">Escolha um plano</string>
+    <string name="my_train">Meus treinos</string>
+    <string name="please_select_train_plan">Escolha um treino</string>
     <string name="start_new_train">Começar treino</string>
     <string name="train_center">Centro de Treinamento</string>
     <string name="train_detail">Detalhes</string>
@@ -24,7 +24,7 @@ de corrida, Vamos começar!"</string>
     <string name="day_train_record_statis_un_finish">Incompleto</string>
     <string name="dialog_day_train_plan_is_complete">"Marcar o progresso de hoje como completo?"</string>
     <string name="dialog_delete_history_record">Excluindo este registro, ele não poderá ser restaurado.</string>
-    <string name="dialog_train_plan_is_complete">Terminando seu plano, continuar?</string>
+    <string name="dialog_train_plan_is_complete">Terminando seu treino, continuar?</string>
     <string name="last_day_rest_remind">O treino está perto do fim e descanse por um dia|Ajuda na recuperação do último exercício</string>
     <string name="cancel">Cancelar</string>
     <string name="enter">Entrar</string>
@@ -34,15 +34,15 @@ de corrida, Vamos começar!"</string>
     <string name="train_mileage">Distância Total(km)</string>
     <string name="train_mileage_mils">Distância Total(milhas)</string>
     <string name="train_days">Dias de treino</string>
-    <string name="train_finish">Finalizar meu plano</string>
-    <string name="train_finished">O plano atual acabou</string>
+    <string name="train_finish">Finalizar treino</string>
+    <string name="train_finished">Acabou o treino</string>
     <string name="today">Hoje</string>
     <string name="train_complete_rate">Taxa</string>
     <string name="assing_train_plan">%1$s</string>
     <string name="train_plan_already_assgn">Inscrito</string>
     <string name="notification_title">Centro de Treinamento</string>
     <string name="notificaiton_train_content">"O treino de hoje não está completo ainda. Continue!"</string>
-    <string name="this_train_record_finish">Este plano já acabou</string>
+    <string name="this_train_record_finish">Este treino já acabou.</string>
     <string name="train_finish_reason">Motivo para terminar</string>
     <string name="length_unit_km">km</string>
     <string name="length_unit_miles">milhas</string>
@@ -52,7 +52,7 @@ de corrida, Vamos começar!"</string>
     <string name="categorytitlenewroad">Iniciante</string>
     <string name="categorytitle5km">5 km</string>
     <string name="categorytitle10km">10 km</string>
-    <string name="categorytitlebanma">MeiaMaratona</string>
+    <string name="categorytitlebanma">Meia Maratona</string>
     <string name="categorytitlequanma">Maratona</string>
     <string name="categorycopywritenewroad">Adequado para a primeira corrida de caminhar para correr. Este treinamento pode ajudá-lo passo a passo para se adaptar à corrida.</string>
     <string name="categorycopywrite5km">Adequado para corredores de entrada. Este treinamento pode ajudá-lo a melhorar o movimento.</string>
@@ -146,7 +146,7 @@ de corrida, Vamos começar!"</string>
     <string name="no_altitude_hint">"Dados de altitude não detectados"</string>
     <string name="title_settings">Configurações</string>
     <string name="sport_music_settings">Música esportiva</string>
-    <string name="widget_currentstep_title">Visão Geral Diária</string>
+    <string name="widget_currentstep_title">Dados</string>
     <string name="widget_currentstep_activities">"Atividades"</string>
     <string name="widget_currentstep_sleep_hour">h</string>
     <string name="widget_currentstep_sleep_min">min</string>
