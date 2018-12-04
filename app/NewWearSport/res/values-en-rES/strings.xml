@@ -16,7 +16,7 @@
     <string name="crossing_in_progress">Carrera Trail...</string>
     <string name="crossing_max_step_freq_desc">Cadencia Max</string>
     <string name="crossing_climb_up">Desnivel</string>
-    <string name="crossing_climb_down">Elevación Per.</string>
+    <string name="crossing_climb_down">Desn Per</string>
     <string name="crossing_individual_pen_dis">Distancia vuelta única</string>
     <string name="crossing_individual_pen_cost_time">Tiempo vuelta única</string>
     <string name="crossing_individual_pen_pace">Ritmo vuelta única</string>
@@ -30,7 +30,7 @@
     <string name="crossing_history_detail_ave_move_speed">Velocidad media</string>
     <string name="crossing_history_detail_max_speed">Vel. Máx.</string>
     <string name="crossing_history_detail_climb_up">Desn Acum</string>
-    <string name="crossing_history_detail_climb_down">Alt. perdida</string>
+    <string name="crossing_history_detail_climb_down">Desn Per</string>
     <string name="crossing_history_detail_absolute_altitude">Altitud</string>
     <string name="crossing_history_detail_high_altitude">Alt. Max</string>
     <string name="crossing_history_detail_low_altitude">Alt. Mín.</string>
@@ -504,7 +504,7 @@ TE se calcula en función de su perfil de usuario, los datos de latido del coraz
     <string name="please_become_bigger">Ampliar</string>
     <string name="please_become_smaller">Reducir</string>
     <string name="current_altitude">Alt act</string>
-    <string name="cumulative_climb">Subida acum.</string>
+    <string name="cumulative_climb">Desn Acum</string>
     <string name="sport_route_out_of">Desviado de la ruta</string>
     <string name="sport_back_to_route">Volver sobre la ruta</string>
     <string name="gpx_currnet_is_selected">seleccionado</string>
@@ -561,7 +561,7 @@ TE se calcula en función de su perfil de usuario, los datos de latido del coraz
     <string name="outdoor_riding_progressing">Ciclismo</string>
     <string name="indoor_riding_progressing">Spinning...</string>
     <string name="outdoor_climb_distance">Aumento de la distancia total</string>
-    <string name="outdoor_climb_altitude">Desnivel acumulado</string>
+    <string name="outdoor_climb_altitude">Desn Acum</string>
     <string name="outdoor_max_cadence">Cadencia Max</string>
     <string name="outdoor_ave_cadence">Cadencia media</string>
     <string name="outdoor_graph_unit">Distancia (millas)</string>
@@ -571,7 +571,7 @@ TE se calcula en función de su perfil de usuario, los datos de latido del coraz
     <string name="con_leqi_table_subtitle">(Vincular en Ajustes-Dispositivo Bluetooth)</string>
     <string name="remind_target_riding_km_title_format">Completado %1$d km</string>
     <string name="indoor_riding_time_too_short">El tiempo del ejercicio es demasiado corto, no se guardará.¿Desea finalizar?</string>
-    <string name="outdoor_climb_down_altitude">Altitud de descenso</string>
+    <string name="outdoor_climb_down_altitude">Desn Per</string>
     <string name="outdoor_climb_down_distance">Distancia de descenso</string>
     <string name="outdoor_climb_down_distance_time">Tie Descenso</string>
     <string name="outdoor_climb_distance_time">Tiempo cuesta arriba</string>
@@ -678,7 +678,7 @@ para un ejercicio más efectivo\"</string>
     <string name="route_cur_altitude">Altitud</string>
     <string name="outdoor_cadence">Cadencia</string>
     <string name="sport_main_climb_al">Desn Acum</string>
-    <string name="sport_main_descend_al">Desnivel Perdido</string>
+    <string name="sport_main_descend_al">Desn Per</string>
     <string name="sport_main_climb_dis">Dist Gan</string>
     <string name="sport_data_info_te_unit">TE</string>
     <string name="swim_stroke_speed">Frec. brazada</string>
