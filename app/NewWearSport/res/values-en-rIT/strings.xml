@@ -940,33 +940,33 @@ rendere l\'esercizio ancora più efficace!\"</string>
     <string name="vo2_max_level_middle">Media</string>
     <string name="vo2_max_text_nunber">50</string>
     <string name="vo2_max_sport_unit">ml/kg/min</string>
-    <string name="export_gpx">Esporta GPX file</string>
+    <string name="export_gpx">Esporta file GPX</string>
     <string name="btn_cancel">Annulla</string>
-    <string name="btn_confirm">Conferma</string>
-    <string name="hint_rolling">Sto esportando, si prega di attendere...</string>
-    <string name="dlg_msg_hint_cancel">Vuoi annullare l\'esportazione?</string>
+    <string name="btn_confirm">OK</string>
+    <string name="hint_rolling">Sto esportando...</string>
+    <string name="dlg_msg_hint_cancel">Annullare l\'esportazione?</string>
     <string name="dlg_btn_l_msg">No</string>
     <string name="dlg_btn_r_msg">Sì</string>
     <string name="hint_cancelling">Annullamento...</string>
-    <string name="hint_success_exported_title">"Esportato nel file GPX 
+    <string name="hint_success_exported_title">"File GPX esportato
 con successo"</string>
     <string name="hint_failed_exported_title">"Esportazione non riuscita"</string>
-    <string name="hint_where">"Il file gpx è stato inserito nella
+    <string name="hint_where">"Il file gpx è stato salvato nella
 cartella \'/sdcard/gpxdata\'.
-È possibile copiarlo sul PC tramite USB."</string>
-    <string name="hint_failed">"Impossibile esportare, riprova per favore."</string>
-    <string name="app_name">Sport</string>
+Copiarlo sul PC tramite USB."</string>
+    <string name="hint_failed">"Impossibile esportare, riprovare."</string>
+    <string name="app_name">Registratore GPX</string>
     <string name="average_text">Media</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
-    <string name="picker_default_positive_text">Conferma</string>
+    <string name="picker_default_positive_text">OK</string>
     <string name="picker_default_nagetive_text">Off</string>
     <string name="title_settings">Impostazioni</string>
-    <string name="sport_music_settings">Sport Music</string>
+    <string name="sport_music_settings">Musica</string>
     <string name="widget_currentstep_title">Riepilogo giornal.</string>
     <string name="widget_currentstep_activities">"Attività"</string>
-    <string name="widget_currentstep_sleep_hour">Ore</string>
+    <string name="widget_currentstep_sleep_hour">h</string>
     <string name="widget_currentstep_sleep_min">Min</string>
-    <string name="widget_currentstep_sleep_title">Sonno</string>
+    <string name="widget_currentstep_sleep_title">Sonno notte scorsa</string>
     <string name="widget_currentstep_sleep_no">Nessun dato sul sonno</string>
     <string name="widget_currentstep_activity_no">Nessuna attività oggi?</string>
 </resources>
