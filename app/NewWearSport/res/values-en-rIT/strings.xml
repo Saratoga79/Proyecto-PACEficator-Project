@@ -416,7 +416,7 @@
     <string name="virtual_rabbit_title">Coniglio virtuale</string>
     <string name="virtual_rabbit_backward_distance">Distanza ritorno</string>
     <string name="virtual_rabbit_lead_distance">Termine distanza</string>
-    <string name="setting_reserve_heart_region">Riserva intervallo freq. card.</string>
+    <string name="setting_reserve_heart_region">Riserva zona battito</string>
     <string name="outdoor_riding_speed_alert">Avviso Velocità</string>
     <string name="speed_too_low_remind_title">Troppo veloce</string>
     <string name="running_button_save_modify">Calibrazione</string>
@@ -432,7 +432,7 @@
     <string name="oritation_west">W</string>
     <string name="oritation_north">N</string>
     <string name="huanghe_pause_continue_title">Operazione sportiva</string>
-    <string name="history_heart_rate_graph_desc">Frequ. card.(bpm)</string>
+    <string name="history_heart_rate_graph_desc">Battito (bpm)</string>
     <string name="settting_sport_gpx_route">Percorso GPX</string>
     <string name="experience_title">Inserire le info personali oppure i dati saranno imprecisi</string>
     <string name="recovery_time_hour">Ore</string>
@@ -629,13 +629,13 @@ rendere l\'esercizio ancora più efficace!\"</string>
     <string name="rope_skip_times">%1$s Volte</string>
     <string name="rope_skip_frequency">Frequenza</string>
     <string name="rope_skip_currnet_frequency">Frequenza attuale</string>
-    <string name="rope_skip_max_frequency">Frequenza più alta</string>
+    <string name="rope_skip_max_frequency">Frequenza max</string>
     <string name="rope_skip_total_count">Conteggio totale</string>
     <string name="rope_skip_average_frequency">Frequenza media</string>
     <string name="rope_skip_current_group_count">Conteggio corrente di gruppo</string>
     <string name="rope_skip_this_group_count">Conteggio di gruppo</string>
     <string name="rope_skip_this_group_cost_time">Tempo di gruppo</string>
-    <string name="rope_skip_this_group_average_frequency">Media Frequenza di Gruppo</string>
+    <string name="rope_skip_this_group_average_frequency">Frequenza media giro</string>
     <string name="rope_skip_group_total_rest_time">Tempo di riposo per il prossimo gruppo</string>
     <string name="total_counting">Conteggio</string>
     <string name="skiing_lap_rope_skip_title">Salta i dettagli del gruppo</string>
@@ -650,11 +650,11 @@ rendere l\'esercizio ancora più efficace!\"</string>
     <string name="setting_rope_skip_total_count">Conteggio totale (volte)</string>
     <string name="sport_pause_normal_rope_skip_unit">Conteggi saltati</string>
     <string name="sport_pause_last_min_times_reminder">Il conteggio totale è troppo piccolo per salvare, va bene finire?</string>
-    <string name="rope_skip_this_frequency">Frequenza di gruppo</string>
+    <string name="rope_skip_this_frequency">Freq. giro</string>
     <string name="rope_skip_aleary_group"><Data>Gruppi completati: &lt;colore carattere=#00ff00&gt;%1$s&lt;/carattere&gt;</Data></string>
     <string name="sport_remind_total_times">Numero totale di volte: %1$s</string>
     <string name="sport_main_graph_title_rope_skip">Recentemente</string>
-    <string name="sport_rope_skip_requency">Frequency (times/min)</string>
+    <string name="sport_rope_skip_requency">Frequenza (colpi/min)</string>
     <string name="swim_total_trips_times">Viaggi totali: %1$s</string>
     <string name="route_glevation_gain">Elev. Guadagnata</string>
     <string name="route_scale_enlarge">Zoom +</string>
@@ -679,7 +679,7 @@ rendere l\'esercizio ancora più efficace!\"</string>
     <string name="sport_main_descend_al">Elevazione (-)</string>
     <string name="sport_main_climb_dis">Distanza (+)</string>
     <string name="sport_data_info_te_unit">TE</string>
-    <string name="swim_stroke_speed">Frequenza cardiaca</string>
+    <string name="swim_stroke_speed">Bracciate</string>
     <string name="rt_swim_trips">Lunghezza</string>
     <string name="swim_dps">DPS</string>
     <string name="skiing_downhill_num">Numero discese</string>
@@ -689,7 +689,7 @@ rendere l\'esercizio ancora più efficace!\"</string>
     <string name="skiing_rt_downhill_desecnd">Somma discese</string>
     <string name="sport_tennis_strokes">Colpi</string>
     <string name="last_lap_pace">Ritmo ultimo giro</string>
-    <string name="last_lap_stepfreq">Frequenza passo ultimo giro</string>
+    <string name="last_lap_stepfreq">Cadenza giro</string>
     <string name="last_lap_duration">Ultimo tempo sul giro</string>
     <string name="last_lap_hr">Freq. card. ultimo giro</string>
     <string name="last_lap_speed">Velocità ultimo giro</string>
