@@ -51,10 +51,10 @@
     <string name="label_quiet_fast_well_medium">Si raccomanda di mantenere il battito tra: 60-100 bpm. Un moderato esercizio fisico, stile di vita e stato mentale sani favoriscono un battito normale.</string>
     <string name="label_quiet_fast_well_good">Cambiamenti di umore quali agitazione ed eccitazione possono causare un battito elevato. Rimanere tranquilli aiuta a mantenere un battito normale.</string>
     <string name="label_quiet_fast_well_bad">Le emozioni negative come ansia e paura possono causare un\'alto battito. Rimanere tranquilli aiuta a mantenere un battito normale.</string>
-    <string name="label_quiet_fast_sick_any">Condizioni come febbre alta, anemia o infezioni possono causare un\'alta freq. card. Presta attenzione alle abitudini che favoriscono la salute e una vita sana.</string>
-    <string name="label_quiet_fast_tired_any">L\'eccessiva stanchezza può aumentare la freq. card. Mantenere un buon equilibrio lavoro/riposo e brevi pause aiutano a mantenere una freq. card. normale.</string>
-    <string name="label_quiet_slow_any">Si raccomanda di mantenere la freq. card. tra: 60-100 bpm. Un moderato esercizio fisico, stile di vita e stato mentale sani favoriscono una freq. card. normale.</string>
-    <string name="label_active_xslow_well_medium">Per risultati migliori, aumenta intensità e durata dell\'esercizio fino a che la freq.card. è al 50-85% del suo massimo.</string>
+    <string name="label_quiet_fast_sick_any">Condizioni come febbre alta, anemia o infezioni possono causare un battito elevato. Presta attenzione alle abitudini che favoriscono la salute e una vita sana.</string>
+    <string name="label_quiet_fast_tired_any">L\'eccessiva stanchezza può aumentare il battito. Mantenere un buon equilibrio lavoro/riposo e brevi pause aiutano a mantenere un battito normale.</string>
+    <string name="label_quiet_slow_any">Si raccomanda di mantenere il battito tra: 60-100 bpm. Un moderato esercizio fisico, stile di vita e stato mentale sani favoriscono un battito normale.</string>
+    <string name="label_active_xslow_well_medium">Per risultati migliori, aumenta intensità e durata dell\'esercizio fino a che il battito è al 50-85% del suo massimo.</string>
     <string name="label_active_xslow_well_good">Le funzioni neurologiche e muscolari saranno in sintonia se sei di buon umore, questo influenzerà in modo positivo l\'esercizio.</string>
     <string name="label_active_xslow_well_bad">L\'esercizio moderato può aiutare a ridurre i sintomi dello stress.</string>
     <string name="label_active_xslow_tired_any">L\'esercizio moderato aiuta la ripresa mentale. Attendere la completa ripresa fisica prima di fare esercizio.</string>
@@ -98,7 +98,7 @@
     <string name="am">AM</string>
     <string name="pm">PM</string>
     <string name="heart_rate_no_data">N/D</string>
-    <string name="label_heart_rate_text">Freq. Card.</string>
+    <string name="label_heart_rate_text">Battito</string>
     <string name="today_heart_rate_title_text">Dettagli</string>
     <string name="today_heart_rate_ave_text">Media</string>
     <string name="today_heart_rate_max_text">Max(bpm)</string>
@@ -112,7 +112,7 @@
     <string name="label_all_day_recently">Ultimo</string>
     <string name="label_all_day_quite">Riposo</string>
     <string name="label_heart_rate_bmps">bpm</string>
-    <string name="heart_rate_distribution">Zona Freq.Card.</string>
+    <string name="heart_rate_distribution">Zona battito</string>
     <string name="heart_rate_history">Battito media passato</string>
     <string name="label_all_day_heartrate_waring">Il battito continuo consuma più batteria, continuare?</string>
     <string name="measure_heartrate_button_text">Controlla ora</string>
@@ -131,7 +131,7 @@
     <string name="all_day_hearte_rate_button_open">Attiva battito continuo</string>
     <string name="dlg_confirm">OK</string>
     <string name="dlg_cancel">Annulla</string>
-    <string name="heart_name">Freq. Card.</string>
+    <string name="heart_name">Battito</string>
     <string name="step_name">Passi</string>
     <string name="sleep_name">Sonno</string>
     <string name="climbed_floors">Piani saliti</string>
@@ -146,7 +146,7 @@
     <string name="widget_step_target_month_tips"><liff>%d</liff> mesi fa</string>
     <string name="widget_step_target_year_tips"><liff>%d</liff> anni fa</string>
     <string name="widget_label_step_unit">Passi</string>
-    <string name="widget_label_heartrate">Freq. Card.</string>
+    <string name="widget_label_heartrate">Battito</string>
     <string name="widget_label_heartrate_unit">battiti/min</string>
     <string name="widget_heartrate_gauging">Controllo…</string>
     <string name="widget_heartrate_gauge_failure">Indossa in modo corretto l\'orologio al polso per risultati accurati.</string>
@@ -156,7 +156,7 @@
     <string name="widget_heart_gauged_err_tips">Indossa l\'orologio al polso.</string>
     <string name="widget_weeklyreports_heart_rate_min_text">Min(bpm)</string>
     <string name="widget_weeklyreports_heart_rate_max_text">Max(bpm)</string>
-    <string name="widget_weeklyreports_heart_rate_title">Freq. Card.</string>
+    <string name="widget_weeklyreports_heart_rate_title">Battito</string>
     <string name="widget_weeklyreports_average_title">Media</string>
     <string name="widget_weeklyreports_totalcalory_front">Calorie bruciate</string>
     <string name="widget_weeklyreports_totalcalory_title">Calorie</string>
@@ -229,7 +229,7 @@
     <string name="currentstep_detail_calories">Calorie</string>
     <string name="currentstep_detail_sleep">Sonno</string>
     <string name="currentstep_detail_sleep_deep">Sonno profondo</string>
-    <string name="currentstep_detail_heart">Freq. Card.</string>
+    <string name="currentstep_detail_heart">Battito</string>
     <string name="currentstep_detail_title">Dettagli</string>
     <string name="currentstep_detail_activity_chart">Attività</string>
     <string name="currentstep_detail_activity_chart_unit">(Unità: ore)</string>
@@ -288,7 +288,7 @@
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Conferma</string>
     <string name="picker_default_nagetive_text">Off</string>
-    <string name="no_heartrate_data_hint">"Freq.card. non rilevata"</string>
+    <string name="no_heartrate_data_hint">"Battito non rilevato"</string>
     <string name="no_altitude_hint">"Altitudine non rilevata"</string>
     <string name="title_settings">Impostazioni</string>
     <string name="sport_music_settings">Sports music</string>
