@@ -689,9 +689,9 @@ rendere l\'esercizio ancora più efficace!\"</string>
     <string name="skiing_rt_downhill_desecnd">Somma discese</string>
     <string name="sport_tennis_strokes">Colpi</string>
     <string name="last_lap_pace">Ritmo ultimo giro</string>
-    <string name="last_lap_stepfreq">Cadenza giro</string>
+    <string name="last_lap_stepfreq">Cadenza ultimo giro</string>
     <string name="last_lap_duration">Ultimo tempo sul giro</string>
-    <string name="last_lap_hr">Freq. card. ultimo giro</string>
+    <string name="last_lap_hr">Battito ultimo giro</string>
     <string name="last_lap_speed">Velocità ultimo giro</string>
     <string name="running_cost_time_desc">Tempo</string>
     <string name="running_pace_desc">Ritmo</string>
@@ -748,7 +748,7 @@ rendere l\'esercizio ancora più efficace!\"</string>
     <string name="sport_history_total_distance_desc">Distanza totale</string>
     <string name="sport_history_header_total_count_desc">Tempo Totale</string>
     <string name="sport_history_header_calorie_desc">Calorie</string>
-    <string name="history_heart_rate_desc">Freq. Card.:</string>
+    <string name="history_heart_rate_desc">Battito:</string>
     <string name="history_heart_rate_unit">Bpm</string>
     <string name="history_info_cost_time_desc">Tempo Trascorso</string>
     <string name="history_detail_paused_time">Tempo di pausa</string>
@@ -825,7 +825,7 @@ rendere l\'esercizio ancora più efficace!\"</string>
     <string name="remind_target_cost_time_desc">Tempo trascorso</string>
     <string name="remind_target_pace_desc">Ritmo</string>
     <string name="remind_target_distance_pace_unit">/mi</string>
-    <string name="remind_heart_rate_too_high">Freq. card. troppo alta</string>
+    <string name="remind_heart_rate_too_high">Battito troppo alto</string>
     <string name="remind_heart_rate_value_before">bpm</string>
     <string name="remind_heart_rate_value_after">Bpm</string>
     <string name="remind_heart_rate_suggestion">Rallenta per rientrare nel limite</string>
@@ -860,7 +860,7 @@ rendere l\'esercizio ancora più efficace!\"</string>
     <string name="remind_current_heart">bpm</string>
     <string name="remind_last_dis_pace">Ritmo ultimo km</string>
     <string name="remind_last_dis_speed">Velocità ultimo km</string>
-    <string name="count_down_tint">Indossa l\'orologio saldamente per una rilevazione accurata della frequenza cardiaca.</string>
+    <string name="count_down_tint">Indossa l\'orologio saldamente per una rilevazione accurata del battito.</string>
     <string name="history_detail_running_cost_time">Tempo in movimento</string>
     <string name="history_detail_walking_cost_time">Tempo in movimento</string>
     <string name="settings_sport_slpt_second_brush">Aggiorna stats /s</string>
@@ -891,8 +891,8 @@ rendere l\'esercizio ancora più efficace!\"</string>
     <string name="setting_sport_heart_region_text_aerobic">Aerobica</string>
     <string name="setting_sport_heart_region_text_high＿intensity_exercise">Esercizio ad alta intensità</string>
     <string name="setting_sport_heart_region_text_custom">Personalizzata</string>
-    <string name="remind_heart_rate_region_over">Freq. card. troppo alta</string>
-    <string name="remind_heart_rate_region_less">Freq. card. troppo bassa</string>
+    <string name="remind_heart_rate_region_over">Battito troppo alto</string>
+    <string name="remind_heart_rate_region_less">Battito troppo basso</string>
     <string name="remind_heart_rate_current_heart_rate">Ritmo corrente　%1$d bpm</string>
     <string name="tennic_wear_hand_guide">Perfavore, indossa l\'orologio dalla parte dove tieni la racchetta</string>
     <string name="sport_time_seconds">secondi</string>
