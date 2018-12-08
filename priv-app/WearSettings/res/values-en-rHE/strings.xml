@@ -85,6 +85,9 @@
     <string name="lock_screen_open">微光</string>
     <string name="lock_screen_close">灭屏</string>
     <string name="lock_screen_open_guide">将锁屏模式设置为微光后将减少续航时间。</string>
+    <string name="lock_auto_screen_wristup_guide">灭屏时间设置成功后，在这个时间内手表发生抬腕、锁屏后均不会亮屏。</string>
+    <string name="wrist_up_hand">抬腕亮屏</string>
+    <string name="lock_screen_hand">灭屏模式</string>
     <string name="paobu">ריצה</string>
     <string name="jianzou">הליכה</string>
     <string name="yueye">ריצת שטח</string>
@@ -166,6 +169,8 @@
     <string name="nodisturb_timepicker_connect_symbol">:</string>
     <string name="auto_nodisturb_title_string">מצב לא להפריע אוטומטי</string>
     <string name="auto_nodisturb_start_time_string">שעת התחלה</string>
+    <string name="auto_screen_wristup_start_time_string">Start time</string>
+    <string name="auto_screen_wristup_end_time_string">End time</string>
     <string name="auto_nodisturb_end_time_string">שעת סיום</string>
     <string name="time_to">" עד "</string>
     <string name="auto_wifi_trans_on_string">מופעל</string>
@@ -343,4 +348,5 @@
     <string name="upgrade_checking">מחפש עדכון...</string>
     <string name="left_hand">יד שמאל</string>
     <string name="right_hand">יד ימין</string>
+    <string name="lock_screen_title">Lock screen</string>
 </resources>
