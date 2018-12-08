@@ -85,6 +85,9 @@
     <string name="lock_screen_open">Desbloqueado</string>
     <string name="lock_screen_close">Bloqueado</string>
     <string name="lock_screen_open_guide">Estableciendo el modo de bloqueo de pantalla a Brillo Bajo gastará más batería</string>
+    <string name="lock_auto_screen_wristup_guide">Cuando se active, la pantalla no se encenderá hasta que gires la muñeca para mirar la hora</string>
+    <string name="wrist_up_hand">Giro de muñeca para encender</string>
+    <string name="lock_screen_hand">Modo Pantalla Apagada</string>
     <string name="paobu">Correr</string>
     <string name="jianzou">Caminar</string>
     <string name="yueye">Carrera Trail</string>
@@ -166,6 +169,8 @@
     <string name="nodisturb_timepicker_connect_symbol">:</string>
     <string name="auto_nodisturb_title_string">No molestar Aut.</string>
     <string name="auto_nodisturb_start_time_string">Hora inicio</string>
+    <string name="auto_screen_wristup_start_time_string">Hora inicio</string>
+    <string name="auto_screen_wristup_end_time_string">Hora fin</string>
     <string name="auto_nodisturb_end_time_string">Hora fin</string>
     <string name="time_to">" a "</string>
     <string name="auto_wifi_trans_on_string">On</string>
@@ -349,4 +354,9 @@ sus datos de forma más segura"</string>
     <string name="upgrade_checking">Comprobando actualización...</string>
     <string name="left_hand">Izquierda</string>
     <string name="right_hand">Derecha</string>
+    <string name="lock_screen_title">Bloqueo de pantalla</string>
+    <string name="lock_screen_auto">Tiempo de espera</string>
+    <string name="device_name_huanghe">Amazfit Sportwatch</string>
+    <string name="reset_factory_yes">Reset de Fábrica</string>
+    <string name="reset_factory_no">Cancelar</string>
 </resources>
