@@ -17,7 +17,6 @@
     <string name="guiming">桂民卡</string>
     <string name="jiangsu_suzhou">江苏交通一卡通·苏州</string>
     <string name="wallet_widget_name">卡包</string>
-    <string name="wallet_widget_setting">卡片设置</string>
     <string name="wallet_cards_bus_title">交通卡</string>
     <string name="wallet_cards_door_title">门禁卡</string>
     <string name="wallet_no_bank_card">您绑定的银行卡会出现在这里，以便快捷的支付</string>
@@ -40,8 +39,11 @@
     <string name="wallet_bus_card_switch_success">切换成功</string>
     <string name="wallet_widget_loading">正在加载中...</string>
     <string name="wallet_widget_reminder">靠近刷卡机进行刷卡</string>
+    <string name="wallet_default_card_confirm_content">设置此卡为默认卡后，刷卡时默认使用该卡。</string>
     <string name="average_text">Media</string>
+    <string name="wallet_changing_card">请等待，卡片加载中</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
+    <string name="wallet_active_failed_retry">卡片加载失败，请重试</string>
     <string name="picker_default_positive_text">Conferma</string>
     <string name="picker_default_nagetive_text">Spegni</string>
     <string name="no_heartrate_data_hint">Dati FC non rilevati</string>
@@ -56,4 +58,6 @@
     <string name="widget_currentstep_sleep_title">Sonno notte scorsa</string>
     <string name="widget_currentstep_sleep_no">Dati sonno non disp.</string>
     <string name="widget_currentstep_activity_no">Nessuna attività oggi?</string>
+    <string name="wallet_widget_setting">卡片设置</string>
+    <string name="wallet_cards_setting">Settings</string>
 </resources>
