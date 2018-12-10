@@ -117,11 +117,11 @@
     <string name="mijia">MiHome</string>
     <string name="zhinanzhen">מצפן</string>
     <string name="yinyue">מוסיקה</string>
-    <string name="rebond_title">Pairing reminder</string>
-    <string name="rebond_desc_air_plane">Airplane mode of the watch is on, turn it off and try to pair again</string>
-    <string name="rebong_unbond_desc">Attention: You can only use this feature when the watch is unpaired from Amazfit Watch app, otherwise, the previously paired watch will be unpaired.</string>
-    <string name="rebond_go_on">Continue</string>
-    <string name="rebond_quit">Exit</string>
+    <string name="rebond_title">תזכורת לצימוד</string>
+    <string name="rebond_desc_air_plane">השעון במצב טיסה, כבו את מצב הטיסה ונסו שוב</string>
+    <string name="rebong_unbond_desc">שימו לב, ניתן להשתמש בפונקציה זו רק כשהשעון לא מחובר לאפליקציה בסלולרי, אחרת השעון שמחובר כרגע ינותק מהאפליקציה.</string>
+    <string name="rebond_go_on">המשך</string>
+    <string name="rebond_quit">יציאה</string>
     <string name="report_bug_dialog_title">משוב</string>
     <string name="report_bug_dialog_desc">After a watch has data errors, abnormal conditions, etc., you can upload data to our server through the question feedback function for analysis by our after-sales personnel. During this process, the previously generated logs on the watch will be automatically collected and uploaded. These logs are used only for problem analysis and will not be used as other means and will be destroyed immediately after the analysis. The entire process will comply with our privacy policy. For details, please see the privacy policy on the Amazfit Watch App</string>
     <string name="dialog_agree">אישור</string>
@@ -274,10 +274,10 @@
     <string name="upgrade_checking">מחפש עדכון...</string>
     <string name="left_hand">יד שמאל</string>
     <string name="right_hand">יד ימין</string>
-    <string name="sport_remind_title">Motion detection</string>
-    <string name="sport_remind_open_title">Enable motion detection start</string>
-    <string name="sport_remind_end_title">Enable motion detection end</string>
+    <string name="sport_remind_title">זיהוי תנועה</string>
+    <string name="sport_remind_open_title">הפעלת זיהוי תחילת תנועה אוטומטי</string>
+    <string name="sport_remind_end_title">הפעלת זיהוי סיום תנועה אוטומטי</string>
     <string name="sport_remind_open_tips">开启后，将在检测到你跑步或健走时，提醒您快捷开启运动模式</string>
     <string name="sport_remind_end_tips">开启后，将在检测到你运动完成后，提醒您结束并保存</string>
-    <string name="sport_remind_open">Start</string>
+    <string name="sport_remind_open">התחל</string>
 </resources>
