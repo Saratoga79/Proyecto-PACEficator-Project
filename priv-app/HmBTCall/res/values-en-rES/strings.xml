@@ -53,12 +53,17 @@
     <string name="s_pair_tip_subtitle">¿Cómo se empareja?</string>
     <string name="s_pair_tip_content">Empareja el teléfono en la [Página de Dispositivos del Reloj] &gt; [Ajustes de la Aplicación] &gt; [Teléfono] of the Amazfit Watch App</string>
     <string name="s_dial_not_available_title">No se pudo llamar</string>
-    <string name="s_dail_not_avaliable_content">Confirma que el reloj está conectado al teléfono por Bluetooth</string>
+    <string name="s_dail_not_avaliable_content">Comprueba lo siguiente y vuelve a probar:
+ 1. ¿Está activado el Bluetooth del teléfono? Si no es así, actívalo antes.
+ 2. Si el teléfono está conectado por Bluetooth a otro dispositivo, desconéctalo.
+ 3. El teléfono necesita estar más cerca del teléfono.</string>
     <string name="s_dail_not_available_air_plane">No se puede usar el Bluetooth, desactiva antes el modo avión en el reloj</string>
     <string name="s_got_it">Acepto</string>
     <string name="s_phone_call">Teléfono</string>
     <string name="s_max_volume_toast">Al máximo volumen</string>
     <string name="s_ring_title">Melodía</string>
+    <string name="s_contact_syncing">Sincronizando contactos...</string>
+    <string name="s_clear_call_log_content">¿Borrar historial de llamadas?</string>
     <string name="average_text">Media</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Confirmar</string>
@@ -76,4 +81,8 @@
     <string name="widget_currentstep_sleep_no">No hay datos de sueño</string>
     <string name="widget_currentstep_activity_no">¿No te ejercitas hoy?</string>
     <string name="locale_title">Seleccione idioma</string>
+    <string name="s_clear_call_log_confirm">OK</string>
+    <string name="s_clear_call_log_cancel">Cancelar</string>
+    <string name="s_deleting">Deleting...</string>
+    <string name="s_other_device_accept">Answer on another device</string>
 </resources>
