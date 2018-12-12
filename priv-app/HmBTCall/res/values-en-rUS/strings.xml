@@ -53,17 +53,17 @@
     <string name="s_pair_tip_subtitle">How to pair?</string>
     <string name="s_pair_tip_content">Please pair the Bluetooth phone in the [Watch Device Page] &gt; [Application Settings] &gt; [Phone] of the Amazfit Watch App</string>
     <string name="s_dial_not_available_title">Unable to make a call</string>
-    <string name="s_dail_not_avaliable_content">"请检查以下问题后重试拨打：
- 1、手机蓝牙是否开启。如未开启请先打开手机蓝牙。
- 2、手机是否已经连接了其他蓝牙耳机、车载音箱等设备。如连接了其他设备，请将设备关闭。
- 3、手表需在手机附近。"</string>
+    <string name="s_dail_not_avaliable_content">Please check the following and try again:
+ 1. Is the mobile phone Bluetooth enabled? If it is not turned on, please turn on the phone Bluetooth first.
+ 2. Whether the mobile phone has been connected to another Bluetooth headsets, car speakers or any other device. If any other device is connected, turn off the device.
+ 3. The watch needs to be near the phone. </string>
     <string name="s_dail_not_available_air_plane">Unable to use Bluetooth, please exit airplane mode on watch</string>
     <string name="s_got_it">I know</string>
     <string name="s_phone_call">Phone</string>
     <string name="s_max_volume_toast">Already at maximum volume</string>
     <string name="s_ring_title">Ring</string>
-    <string name="s_contact_syncing">联系人同步中...</string>
-    <string name="s_clear_call_log_content">将清空手表来往的通话记录，是否继续？</string>
+    <string name="s_contact_syncing">Syncing contacts...</string>
+    <string name="s_clear_call_log_content">Clear call history?</string>
     <string name="average_text">Avg</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Confirm</string>
@@ -81,8 +81,8 @@
     <string name="widget_currentstep_sleep_no">No sleep data</string>
     <string name="widget_currentstep_activity_no">No activity today?</string>
     <string name="locale_title">Select Language</string>
-    <string name="s_clear_call_log_confirm">清空</string>
-    <string name="s_clear_call_log_cancel">否</string>
-    <string name="s_deleting">正在删除...</string>
-    <string name="s_other_device_accept">其他设备接听</string>
+    <string name="s_clear_call_log_confirm">OK</string>
+    <string name="s_clear_call_log_cancel">No</string>
+    <string name="s_deleting">Deleting...</string>
+    <string name="s_other_device_accept">Answer on another device</string>
 </resources>
