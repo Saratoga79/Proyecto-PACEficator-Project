@@ -53,12 +53,17 @@
     <string name="s_pair_tip_subtitle">如何配对？</string>
     <string name="s_pair_tip_content">请在Amazfit手表App的【手表设备页】 &gt; 【应用设置】 &gt; 【电话】中进行蓝牙电话功能的配对</string>
     <string name="s_dial_not_available_title">无法拨打电话</string>
-    <string name="s_dail_not_avaliable_content">请确认手表与手机的蓝牙已连接</string>
+    <string name="s_dail_not_avaliable_content">"请检查以下问题后重试拨打：
+ 1、手机蓝牙是否开启。如未开启请先打开手机蓝牙。
+ 2、手机是否已经连接了其他蓝牙耳机、车载音箱等设备。如连接了其他设备，请将设备关闭。
+ 3、手表需在手机附近。"</string>
     <string name="s_dail_not_available_air_plane">无法使用蓝牙电话，请先退出手表飞行模式</string>
     <string name="s_got_it">我知道了</string>
     <string name="s_phone_call">电话</string>
     <string name="s_max_volume_toast">已是最大音量</string>
     <string name="s_ring_title">来电铃声</string>
+    <string name="s_contact_syncing">联系人同步中...</string>
+    <string name="s_clear_call_log_content">将清空手表来往的通话记录，是否继续？</string>
     <string name="average_text">Povp.</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Potrdi</string>
@@ -76,4 +81,8 @@
     <string name="widget_currentstep_sleep_no">Ni podatkov o spancu</string>
     <string name="widget_currentstep_activity_no">Danes brez aktivnosti?</string>
     <string name="locale_title">Izberi jezik</string>
+    <string name="s_clear_call_log_confirm">清空</string>
+    <string name="s_clear_call_log_cancel">否</string>
+    <string name="s_deleting">正在删除...</string>
+    <string name="s_other_device_accept">其他设备接听</string>
 </resources>
