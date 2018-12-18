@@ -66,7 +66,7 @@
     <string-array name="sport_data_item_array">
         <item></item>
         <item>RC</item>
-        <item>Calories</item>
+        <item>Distance</item>
         <item>Passos</item>
         <item>RC</item>
         <item>Calories</item>
@@ -79,7 +79,7 @@
         <item>Cadència</item>
         <item>Dist. Guanyada</item>
         <item>Passos</item>
-        <item>Ciclisme</item>
+        <item>Cadence</item>
         <item>Viatge</item>
         <item>DPS</item>
         <item>Taxa d\'Ictus</item>
@@ -93,7 +93,7 @@
         <item>Velocitat màxima</item>
         <item>Cursa(es)</item>
         <item>Distància</item>
-        <item>Quilometratge total</item>
+        <item>Total distance</item>
         <item>Descens</item>
         <item>Braçades</item>
         <item>Temps per volta</item>
@@ -102,6 +102,13 @@
         <item>Ritme cardíac volta</item>
         <item>Cadència volta</item>
         <item>Ritme volta</item>
+        <item>Current freq</item>
+        <item>Total count</item>
+        <item>Avg freq</item>
+        <item>Groups</item>
+        <item>Lap count</item>
+        <item>Lap time</item>
+        <item>Lap freq</item>
     </string-array>
     <string-array name="sport_train_item">
         <item>Quilometratge</item>
