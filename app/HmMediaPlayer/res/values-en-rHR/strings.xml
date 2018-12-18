@@ -13,6 +13,7 @@
     <string name="music_download_success">Pjesme su uspješno ažurirane</string>
     <string name="music_downloading">Preuzimanje pjesama...</string>
     <string name="music_fetch_list">Dobivanje informacija...</string>
+    <string name="music_downloading_noting">-/-</string>
     <string name="check_network">Provjerite mrežnu vezu</string>
     <string name="music_continue_downloading">Preuzimanje će se nastaviti</string>
     <string name="music_service_unavalible">Ova značajka nije više dostupna</string>
@@ -37,7 +38,6 @@
     <string name="music_down_not_complete_content">Nakon odjavljivanja pjesme se mogu ažurirati u postavkama glazbe - Watercress FM izvanmrežno.</string>
     <string name="cancel">Odustani</string>
     <string name="enter">Ulaz</string>
-    <string name="music_downloading_noting">-/-</string>
     <string name="app_name">HM Media Player</string>
     <string name="favorite">Favoriti</string>
     <string name="error_no_metadata">Nije moguće dohvatiti metapodatke.</string>
@@ -69,13 +69,9 @@
     <string name="no_search_results">Nema rezultata pretraživanja.</string>
     <string name="loading">Učitavanje...</string>
     <string name="media_route_menu_title">Reproduciraj...</string>
-    <string name="confirm_exit">"The listed songs have not completely downloaded. 
-Are you sure to exist?"</string>
+    <string name="confirm_exit">\"The listed songs have not completely downloaded. 
+Are you sure to exist?\"</string>
     <string name="music_download_cancel">The songs downloading process has been stopped</string>
-    <string name="play_mode_single_loop">Single loop</string>
-    <string name="play_mode_ordered">Order play</string>
-    <string name="play_mode_random">Random play</string>
-    <string name="play_mode_album_loop">Album loop</string>
     <string name="stop_casting">Zaustavi emitiranje</string>
     <string name="label_pause">Pauza</string>
     <string name="label_play">Reproduciraj</string>
@@ -98,4 +94,8 @@ Are you sure to exist?"</string>
     <string name="widget_currentstep_sleep_no">Nema podataka spavanja</string>
     <string name="widget_currentstep_activity_no">Nećete vježbati danas?</string>
     <string name="locale_title">Odaberi jezik</string>
+    <string name="play_mode_single_loop">Single loop</string>
+    <string name="play_mode_ordered">Order play</string>
+    <string name="play_mode_random">Random play</string>
+    <string name="play_mode_album_loop">Album loop</string>
 </resources>
