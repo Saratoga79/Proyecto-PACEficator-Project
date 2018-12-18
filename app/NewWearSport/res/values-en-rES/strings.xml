@@ -3,7 +3,7 @@
 <resources>
     <string name="locale_title">Seleccione el idioma</string>
     <string name="auto_recoginition_title_running">Actividad de Correr detectada</string>
-    <string name="auto_recoginition_title_walking">检测到你已经在健走</string>
+    <string name="auto_recoginition_title_walking">Actividad de Caminar detectada</string>
     <string name="auto_recoginition_sub_title">¿Quieres continuar con la actividad?</string>
     <string name="auto_recoginition_continue_run">Continuar corriendo</string>
     <string name="auto_recoginition_continue_walk">Continuar caminando</string>
@@ -387,11 +387,11 @@
     <string name="back_from_coming">Regresar</string>
     <string name="straight_back">Atajo</string>
     <string name="other_destination">Dirección de destino</string>
-    <string name="low_mem_tips_title">Hint of Storage</string>
-    <string name="low_mem_tips_content">Available space of the watch is too small, which may affect saving of the movement. Delete some imported files ASAP.</string>
-    <string name="no_mem_tips_title">Unable to start</string>
-    <string name="no_mem_tips_content">Current available space for the watch is less than the minimum required for motion (2MB). Delete some of the imported files and start moving.</string>
-    <string name="no_mem_exit">Exit</string>
+    <string name="low_mem_tips_title">¡No hay suficiente espacio!</string>
+    <string name="low_mem_tips_content">Poco espacio de almacenamiento en el reloj, lo cual afectará al guardado de las actividades. Borra algunos archivos importados.</string>
+    <string name="no_mem_tips_title">No se pudo iniciar</string>
+    <string name="no_mem_tips_content">El espacio disponible en el reloj es inferior al mínimo requerido (2MB). Borra algunos archivos</string>
+    <string name="no_mem_exit">Salir</string>
     <string name="lap_dis_title">Distancia V.</string>
     <string name="swim_total_trips">Largos totales</string>
     <string name="huanghe_pause_continue_title">Pausar/continuar</string>
