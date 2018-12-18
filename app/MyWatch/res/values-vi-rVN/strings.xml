@@ -24,14 +24,6 @@
     <string name="confirm">Xác nhận</string>
     <string name="cancel">Hủy bỏ</string>
     <string name="unable_to_send">Không thể Gửi</string>
-    <string name="install_companion_tip">Cài đặt ứng dụng Amazfit Watch trên điện thoại của bạn</string>
-    <string name="simplified_chinese">TQ</string>
-    <string name="english_usa">English(US)</string>
-    <string name="low_battery">Pin thấp hơn 5%. Kết nối bộ sạc để tiếp tục</string>
-    <string name="scan_to_bind">Quét mã ghép nối</string>
-    <string name="function_unavailable_tip">Một số tính năng sẽ không có sẵn, bỏ qua?</string>
-    <string name="cancel_bind">Hủy bỏ</string>
-    <string name="skip_bind">Bỏ qua</string>
     <string name="initial">Khởi tạo</string>
     <string name="qr_code">Mã QR</string>
     <string name="rec_test">rec_test</string>
@@ -67,7 +59,15 @@
     <string name="schedule_birthday_party">Đến với tiệc sinh nhật của tôi đêm nay.</string>
     <string name="daily_weather">"Test: Thời tiết hôm nay"</string>
     <string name="daily_weather_cloudy_to_sunny">Nhiều mây 25/28°</string>
-    <string name="calendar">日程</string>
-    <string name="wait_get_uid">等待读卡</string>
-    <string name="get_uid_tips">请将要模拟的门禁卡紧贴手表的表面</string>
+    <string name="install_companion_tip">Please install Amazfit Watch Assistant on your phone first</string>
+    <string name="simplified_chinese">TQ</string>
+    <string name="english_usa">English(US)</string>
+    <string name="low_battery">The battery is lower than 5%. Please connect your phone to the power to continue.</string>
+    <string name="scan_to_bind">Scan QR code to bind</string>
+    <string name="function_unavailable_tip">Some features may not be available. Skip it?</string>
+    <string name="cancel_bind">Cancel</string>
+    <string name="skip_bind">Skip</string>
+    <string name="calendar">Schedule</string>
+    <string name="wait_get_uid">Waiting for the card reading</string>
+    <string name="get_uid_tips">Please get the access card to be simulated closed to the face of the watch</string>
 </resources>
