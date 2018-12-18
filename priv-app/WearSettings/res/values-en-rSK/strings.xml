@@ -245,7 +245,7 @@ v dosahu"</string>
     <string name="zh_tw">繁體中文(台灣)</string>
     <string name="ru_ru">Русский</string>
     <string name="es_es">Español</string>
-    <string name="confirm_change_locale">"Zmeniť jazyk na 
+    <string name="confirm_change_locale">"Change language to
 %1$s?"</string>
     <string name="gender">Pohlavie</string>
     <string name="birth_year">Rok narodenia</string>
@@ -254,11 +254,11 @@ v dosahu"</string>
     <string name="male">Muž</string>
     <string name="female">Žena</string>
     <string name="centimeter">cm</string>
-    <string name="birth_year_unit">"Rok 
-narození"</string>
-    <string name="height_unit">"Výška 
+    <string name="birth_year_unit">"Birth
+Year"</string>
+    <string name="height_unit">"Height
 cm"</string>
-    <string name="weight_unit">"Váha 
+    <string name="weight_unit">"Weight
 kg"</string>
     <string name="reset_factory_hint">Are you sure of restoring to factory settings?</string>
     <string name="reset_factory_title">Restore to factory settings</string>
@@ -351,12 +351,18 @@ kg"</string>
     <string name="title_activity_long_sitting_time">ČasovéAktivityDlhéhoSedenia</string>
     <string name="lab_desc">Zbierať časti pre ladiace nástroje</string>
     <string name="unknown">Neznáme zariadenie</string>
-    <string name="bind_tips_title">Please bind n to protect your data more securely</string>
+    <string name="bind_tips_title">"Please bind
+ to protect your data more securely"</string>
     <string name="upgrade_checking">Vyhľadávám Aktualizácie..</string>
     <string name="left_hand">Ľavej ruke</string>
     <string name="right_hand">Pravej ruke</string>
     <string name="lock_screen_title">Lock screen</string>
-    <string name="lock_screen_auto">Off screen mode timing</string>
+    <string name="sport_remind_open_title">运动模式开启提醒</string>
+    <string name="sport_remind_end_title">运动模式结束提醒</string>
+    <string name="sport_remind_open_tips">开启后，将在检测到你跑步或健走时，提醒你快捷开启运动模式</string>
+    <string name="sport_remind_end_tips">开启后，将在检测到你运动完成后，提醒你结束并保存</string>
+    <string name="sport_remind_open">开启</string>
+    <string name="sport_remind_title">运动提醒</string>
     <string name="device_name_huanghe">Amazfit智能运动手表</string>
     <string name="reset_factory_yes">Restore to factory settings</string>
     <string name="reset_factory_no">Cancel</string>
