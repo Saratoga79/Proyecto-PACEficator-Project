@@ -107,7 +107,7 @@
         <item>com.huami.watch.watchface.DigitalWatchFaceSportTwo</item>
         <item>com.huami.watch.watchface.DigitalWatchFaceSportFive</item>
         <item>com.huami.watch.watchface.DigitalWatchFaceSportEight</item>
-        <item>wfz03c6c7.wfz</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportSeven</item>
         <item>wfzeacf94.wfz</item>
         <item>com.huami.watch.watchface.DigitalSport4WatchFace</item>
         <item>com.huami.watch.watchface.DigitalWatchFaceSportSix</item>
@@ -119,44 +119,44 @@
         <item>com.huami.watch.watchface.AnalogWatchFaceEleven</item>
     </string-array>
     <string-array name="weather_card_aqilevel">
-        <item>Air quality: good</item>
-        <item>Air quality: fine</item>
-        <item>Mild pollution</item>
+        <item>Aire Optimoa</item>
+        <item>Aire ona</item>
+        <item>Argi kontaminazioa</item>
         <item>Kutsadura ertaina</item>
         <item>Airearen kutsadura gogorra.</item>
-        <item>Severe Pollution</item>
+        <item>Airearen kutsadura larria.</item>
         <item></item>
     </string-array>
     <string-array name="weather_card_quality">
-        <item>Suitable for exercise</item>
-        <item>Not suitable for exercise</item>
+        <item>Kirolerako egokia</item>
+        <item>Ezegokia kirola egiteko</item>
         <item></item>
     </string-array>
     <string-array name="quick_settings_status_weather">
         <item>Eguzkitsua</item>
         <item>Lainotsua</item>
         <item>Lainotsua</item>
-        <item>Foggy</item>
-        <item>Hazy</item>
-        <item>Showery rain</item>
-        <item>Thundershowers</item>
+        <item>Lanbroa</item>
+        <item>Lanbro toxikoa</item>
+        <item>Euria</item>
+        <item>Ekaitza</item>
         <item>Xirimiria</item>
         <item>Euri gutxi</item>
         <item>Euritea</item>
         <item>Ekaitz elektrikoa</item>
-        <item>Extraordinary rainstorm</item>
+        <item>Eurite larria</item>
         <item>Elur bustia</item>
         <item>Txingorra</item>
-        <item>Thundershower with hail</item>
+        <item>Txingorra</item>
         <item>Elur gutxi</item>
         <item>Elurra</item>
         <item>Elurte gogorra</item>
         <item>Elurtea</item>
-        <item>Showery snow</item>
-        <item>Floating dust</item>
+        <item>Elur bustia</item>
+        <item>Hodei toxikoa</item>
         <item>Are haize bolada</item>
         <item>Are ekaitza</item>
-        <item>Heavy sandstorm</item>
+        <item>Are ekaitz gogorra</item>
         <item>Daturik gabe</item>
     </string-array>
 </resources>
