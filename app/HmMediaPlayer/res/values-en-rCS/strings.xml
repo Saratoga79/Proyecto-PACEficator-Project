@@ -13,6 +13,7 @@
     <string name="music_download_success">Aktualizace skladeb proběhla úspěšně.</string>
     <string name="music_downloading">Stahování skladeb...</string>
     <string name="music_fetch_list">Stahování seznamu skladeb...</string>
+    <string name="music_downloading_noting">-/-</string>
     <string name="check_network">Zkontroluj síť</string>
     <string name="music_continue_downloading">Stahování skladeb bude pokračovat</string>
     <string name="music_service_unavalible">Služba DouBan není dostupná</string>
@@ -37,7 +38,6 @@
     <string name="music_down_not_complete_content">Po odhlášení můžou být písně aktualizovány v nastavení Hudba - Watercress FM offline.</string>
     <string name="cancel">Zavřít</string>
     <string name="enter">Enter</string>
-    <string name="music_downloading_noting">-/-</string>
     <string name="app_name">HM Media Player</string>
     <string name="favorite">Oblíbené</string>
     <string name="error_no_metadata">Nelze načíst metadata.</string>
@@ -69,13 +69,9 @@
     <string name="no_search_results">Žádné výsledky vyhledávání.</string>
     <string name="loading">Načítání…</string>
     <string name="media_route_menu_title">Pokračuj v přehrávání…</string>
-    <string name="confirm_exit">"The listed songs have not completely downloaded. 
-Are you sure to exist?"</string>
+    <string name="confirm_exit">\"The listed songs have not completely downloaded. 
+Are you sure to exist?\"</string>
     <string name="music_download_cancel">The songs downloading process has been stopped</string>
-    <string name="play_mode_single_loop">Single loop</string>
-    <string name="play_mode_ordered">Order play</string>
-    <string name="play_mode_random">Random play</string>
-    <string name="play_mode_album_loop">Album loop</string>
     <string name="stop_casting">Zastavit vysílání</string>
     <string name="label_pause">Pauza</string>
     <string name="label_play">Přehrát</string>
@@ -98,4 +94,8 @@ Are you sure to exist?"</string>
     <string name="widget_currentstep_sleep_no">Žádná spánková data</string>
     <string name="widget_currentstep_activity_no">Dnes žádná aktivita?</string>
     <string name="locale_title">Zvolte jazyk</string>
+    <string name="play_mode_single_loop">Single loop</string>
+    <string name="play_mode_ordered">Order play</string>
+    <string name="play_mode_random">Random play</string>
+    <string name="play_mode_album_loop">Album loop</string>
 </resources>
