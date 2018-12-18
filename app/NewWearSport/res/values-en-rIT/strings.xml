@@ -15,7 +15,7 @@
     <string name="crossing_end_sport">Prima interrompi la sessione</string>
     <string name="crossing_in_progress">Corsa trail...</string>
     <string name="crossing_max_step_freq_desc">Cadenza max</string>
-    <string name="crossing_climb_up">Distanza</string>
+    <string name="crossing_climb_up">Dist. +</string>
     <string name="crossing_climb_down">Dislivello (-)</string>
     <string name="crossing_individual_pen_dis">Distanza singolo giro</string>
     <string name="crossing_individual_pen_cost_time">Durata singolo giro</string>
@@ -26,7 +26,7 @@
     <string name="crossing_history_detail_move_time">Tempo in moto</string>
     <string name="crossing_history_detail_ave_move_pace">Ritmo medio</string>
     <string name="crossing_history_detail_ave_move_pace_unit">/mi</string>
-    <string name="crossing_history_detail_best_pace">Miglior ritmo</string>
+    <string name="crossing_history_detail_best_pace">Ritmo max</string>
     <string name="crossing_history_detail_ave_move_speed">Velocità media</string>
     <string name="crossing_history_detail_max_speed">Velocità max</string>
     <string name="crossing_history_detail_climb_up">Dislivello (+)</string>
@@ -41,7 +41,7 @@
     <string name="crossing_settings_item_title_individual_remind">Distanza singolo giro</string>
     <string name="crossing_settings_item_value_individual">%1s km</string>
     <string name="crossing_remind_target_individual_title">Giro %1d</string>
-    <string name="crossing_remind_target_individual_cost_time">Tempo trascorso</string>
+    <string name="crossing_remind_target_individual_cost_time">Tempo</string>
     <string name="crossing_remind_target_individual_pace">Ritmo</string>
     <string name="agps_time_out">I dati AGPS sono scaduti. Connetti l\'Amazfit al telefono per aggiornarli altrimenti la ricerca GPS sarà lenta.</string>
     <string name="safe_hearate_remind_content">Se superiore a %1d</string>
@@ -84,14 +84,14 @@
     <string name="gps_notify_success">GPS disponibile</string>
     <string name="gps_notify_loss">Segnale GPS perso</string>
     <string name="gps_search_time_out_content">GPS disattivato per inattività</string>
-    <string name="detail_route_title">Tracciato</string>
+    <string name="detail_route_title">Traccia</string>
     <string name="detail_route_total_dis">Distanza totale</string>
     <string name="detail_route_detail_lap_title">Dettagli giro</string>
     <string name="detail_route_detail_manual_lap_title">Giri</string>
     <string name="detail_route_detail_auto_lap_title">Giri Auto</string>
     <string name="detail_lap_num">Giro</string>
     <string name="detail_lap_serial_number">Serie</string>
-    <string name="detail_lap_time">Tempo trascorso</string>
+    <string name="detail_lap_time">Tempo</string>
     <string name="detail_total_distance_desc">Distanza totale</string>
     <string name="detail_lap_dis">Distanza</string>
     <string name="detail_lap_avg_pace">Ritmo medio</string>
@@ -109,7 +109,7 @@
     <string name="picker_title_auto_pause">Ritmo(m:s/%1$s)</string>
     <string name="picker_title_auto_pause_speed">Velocità(%1$s/h)</string>
     <string name="picker_title_target_dis">Distanza(%1$s)</string>
-    <string name="picker_title_target_time">Tempo trascorso(h/m)</string>
+    <string name="picker_title_target_time">Tempo (h/m)</string>
     <string name="picker_title_target_calorie">Calorie(kCal)</string>
     <string name="picker_title_target_te">Target TE</string>
     <string name="picker_title_target_heart_rate">Battito(bpm)</string>
@@ -128,7 +128,7 @@
     <string name="settings_sport_auto_pause">Pausa Auto</string>
     <string name="settings_sport_auto_pause_triathlon">Pausa Auto</string>
     <string name="settings_sport_cadence_link">Accessori</string>
-    <string name="settings_sport_route">Importa tracciato</string>
+    <string name="settings_sport_route">Importa traccia</string>
     <string name="settings_sport_items">Dati a schermo</string>
     <string name="settings_sport_3d_data">Dati 3D</string>
     <string name="settings_sport_real_graph">Stats in tempo reale</string>
@@ -169,7 +169,7 @@
     <string name="sport_cur_tar_dis_meter">Distanza: %1$sm</string>
     <string name="sport_cur_tar_dis_ft">Distanza: %1$sft</string>
     <string name="sport_cur_tar_dis_yd">Distanza: %1$syd</string>
-    <string name="sport_cur_tar_time">Tempo trascorso: %1$dh%2$dm</string>
+    <string name="sport_cur_tar_time">Tempo: %1$dh%2$dm</string>
     <string name="sport_cur_tar_cal">Calorie: %1$skCal</string>
     <string name="sport_cur_tar_trips">Vasche: %1$s vasche</string>
     <string name="sport_setting_select_te_stage_title">Seleziona TE</string>
@@ -207,7 +207,7 @@
     <string name="lap_total_time">Tempo totale</string>
     <string name="lap_add_failed">"Giro troppo corto, impossibile registrare"</string>
     <string name="sport_main_stop_this_sport">Interrompere attività?</string>
-    <string name="sport_history_delete_dialog_title">"Eliminare questa attività? Non potrai recuperarla se eliminata."</string>
+    <string name="sport_history_delete_dialog_title">"Eliminare questa attività? Non potrai più recuperarla."</string>
     <string name="sport_main_give_up_this_sport">Eliminare questa attività?</string>
     <string name="sport_confirm_stop_sport">Sì</string>
     <string name="sport_confirm_not_stop_sport">No</string>
@@ -236,9 +236,9 @@
     <string name="sport_graph_title_ave">Media</string>
     <string name="sport_graph_title_max">Max</string>
     <string name="sport_graph_title_min">Min</string>
-    <string name="sport_graph_title_fast">Più veloce</string>
-    <string name="sport_graph_title_high">Maggiore</string>
-    <string name="sport_graph_title_low">Più lenta</string>
+    <string name="sport_graph_title_fast">Max</string>
+    <string name="sport_graph_title_high">Max</string>
+    <string name="sport_graph_title_low">Min</string>
     <string name="adjust_content">%1$dm</string>
     <string name="adjust_tips_title">Impostazione automatica della distanza rinominata</string>
     <string name="adjust_swim_tips">La distanza automatica è uguale alla dimensione della vasca. Puoi cambiarla nelle impostazioni del nuoto.</string>
@@ -267,7 +267,7 @@
     <string name="settings_item_title_km_remind_triathlon">Auto-pausa</string>
     <string name="setting_sport_heart_region_remind_triathlon">Avviso battito</string>
     <string name="device_conn_title">MW</string>
-    <string name="heart_conn_title">Fascia cardio</string>
+    <string name="heart_conn_title">Fascia</string>
     <string name="earphone_conn_title">Cuffie</string>
     <string name="device_in">Dispositivo connesso</string>
     <string name="device_out">Dispositivo disconnesso</string>
@@ -287,7 +287,7 @@
     <string name="sport_widget_title_indoor_swim">Nuoto in vasca</string>
     <string name="sport_widget_title_open_water_swim">Nuoto all\'aperto</string>
     <string name="sport_widget_title_triathlon">Triathlon</string>
-    <string name="sport_widget_title_mountaineer">Scalata</string>
+    <string name="sport_widget_title_mountaineer">Arrampicata</string>
     <string name="sport_widget_title_mountaineering">In scalata</string>
     <string name="sport_widget_title_tennis">Tennis</string>
     <string name="sport_widget_title_tennising">Tennis</string>
@@ -330,7 +330,7 @@
     <string name="heart_region_endurance_enhancement">Anaerobico</string>
     <string name="heart_region_heart_and_lung_enhancement">Aerobico</string>
     <string name="heart_region_fat_burning">Bruciagrassi</string>
-    <string name="heart_region_warm_up_and_relax">Riscaldamento</string>
+    <string name="heart_region_warm_up_and_relax">Leggero</string>
     <string name="sport_te_title">Training Effect (TE)</string>
     <string name="sport_te_desc">Questo allenamento mantiene la tua forma cadiorespiratoria.</string>
     <string name="last_kilo_meters_times">ultimo km</string>
@@ -356,7 +356,7 @@
     <string name="this_time_need_run_mileage_mile">Distanza ripetuta: %1$s mi</string>
     <string name="this_time_need_run_total_time">Tempo ripetuta: %1$s</string>
     <string name="data_item_train_total_mileage">Distanza totale</string>
-    <string name="data_item_train_total_times">Tempo trascorso</string>
+    <string name="data_item_train_total_times">Tempo totale</string>
     <string name="data_item_surplus_distance">Distanza residua</string>
     <string name="data_item_surplus_time">Tempo residuo</string>
     <string name="start_change_item">Inizia ripetuta successiva</string>
@@ -433,7 +433,7 @@
     <string name="oritation_north">N</string>
     <string name="huanghe_pause_continue_title">Operazione sportiva</string>
     <string name="history_heart_rate_graph_desc">Battito (bpm)</string>
-    <string name="settting_sport_gpx_route">Tracciato GPX</string>
+    <string name="settting_sport_gpx_route">Traccia GPX</string>
     <string name="experience_title">Inserire le info personali oppure i dati saranno imprecisi</string>
     <string name="recovery_time_hour">Ore</string>
     <string name="sport_vo2_max">VO2Max</string>
@@ -492,13 +492,13 @@
     <string name="vo2max_unit">ml / kg / min</string>
     <string name="run_vo2max_unit">ml / kg / min</string>
     <string name="vo2_max_has_no_data">Nessun Dato</string>
-    <string name="sport_setting_gpx_route_selected">Tracciato selezionato</string>
+    <string name="sport_setting_gpx_route_selected">Traccia selezionata</string>
     <string name="sport_setting_gpx_route_selectd_remind">"La funzione sport all'aperto utilizzerà questa traccia per la navigazione. Se non serve, chiudi per uscire"</string>
     <string name="confirm">OK</string>
     <string name="decision_yes">Sì</string>
     <string name="decision_no">No</string>
     <string name="use_sport_route_remind">Usare la traccia %1$s?</string>
-    <string name="please_start_sport_from_route_start">Per assicurare la miglior precisione, iniziare l\'esercizio esattamente dal punto di partenza della traccia</string>
+    <string name="please_start_sport_from_route_start">Per seguire con precisione la traccia, iniziare l\'esercizio esattamente dal punto di partenza previsto</string>
     <string name="please_become_bigger">Zoom +</string>
     <string name="please_become_smaller">Zoom -</string>
     <string name="current_altitude">Altitudine</string>
@@ -511,7 +511,7 @@
     <string name="gpx_details_view">Selezionato</string>
     <string name="gpx_details_use">Utilizzato</string>
     <string name="gpx_route_loading">Caricamento traccia...</string>
-    <string name="dialog_remind_to_look_route">Guarda la traccia</string>
+    <string name="dialog_remind_to_look_route">Segui la traccia</string>
     <string name="gpx_offset_route">Traiettoria Deviata</string>
     <string name="gpx_back_route">Tornato sulla traccia</string>
     <string name="gpx_alreay_offset">Devia</string>
@@ -558,7 +558,7 @@
     <string name="sport_widget_title_indoor_riding">Cyclette</string>
     <string name="outdoor_riding_progressing">Ciclismo</string>
     <string name="indoor_riding_progressing">Cyclette</string>
-    <string name="outdoor_climb_distance">Distanza al suolo</string>
+    <string name="outdoor_climb_distance">Dist. al suolo</string>
     <string name="outdoor_climb_altitude">Dislivello (+)</string>
     <string name="outdoor_max_cadence">Cadenza max</string>
     <string name="outdoor_ave_cadence">Cadenza media</string>
@@ -677,7 +677,7 @@ rendere l\'esercizio ancora più efficace!\"</string>
     <string name="outdoor_cadence">Cadenza</string>
     <string name="sport_main_climb_al">Dislivello (+)</string>
     <string name="sport_main_descend_al">Dislivello (-)</string>
-    <string name="sport_main_climb_dis">Distanza</string>
+    <string name="sport_main_climb_dis">Dist. +</string>
     <string name="sport_data_info_te_unit">TE</string>
     <string name="swim_stroke_speed">Ritmo bracciate</string>
     <string name="rt_swim_trips">Vasche</string>
@@ -735,7 +735,7 @@ rendere l\'esercizio ancora più efficace!\"</string>
     <string name="running_speed_unit">mi/h</string>
     <string name="running_distance_unit">mi</string>
     <string name="running_heartrate_unit">bpm</string>
-    <string name="running_realtime_trail_desc">Tracciato GPS</string>
+    <string name="running_realtime_trail_desc">Traccia GPS</string>
     <string name="running_control_title">Corsa</string>
     <string name="running_control_paused_des">In pausa</string>
     <string name="sport_history_item_distance_desc">Distanza (km)</string>
@@ -750,7 +750,7 @@ rendere l\'esercizio ancora più efficace!\"</string>
     <string name="sport_history_header_calorie_desc">Calorie</string>
     <string name="history_heart_rate_desc">Battito:</string>
     <string name="history_heart_rate_unit">bpm</string>
-    <string name="history_info_cost_time_desc">Tempo Trascorso</string>
+    <string name="history_info_cost_time_desc">Tempo</string>
     <string name="history_detail_paused_time">Tempo in pausa</string>
     <string name="history_detail_running_title">Corsa</string>
     <string name="history_detail_walking_title">Camminata</string>
@@ -822,7 +822,7 @@ rendere l\'esercizio ancora più efficace!\"</string>
     <string name="remind_target_km_title_format">Completato %1$d mi</string>
     <string name="remind_target_km_walking_title_format">Completato %1$d mi</string>
     <string name="remind_target_distance_finished">Completato</string>
-    <string name="remind_target_cost_time_desc">Tempo trascorso</string>
+    <string name="remind_target_cost_time_desc">Tempo</string>
     <string name="remind_target_pace_desc">Ritmo</string>
     <string name="remind_target_distance_pace_unit">/mi</string>
     <string name="remind_heart_rate_too_high">Battito troppo alto</string>
