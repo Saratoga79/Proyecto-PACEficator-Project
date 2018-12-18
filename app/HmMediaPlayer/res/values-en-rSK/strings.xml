@@ -13,6 +13,7 @@
     <string name="music_download_success">Aktualizácia skladby úspešná</string>
     <string name="music_downloading">Skladba sa sťahuje...</string>
     <string name="music_fetch_list">Sťahujem zoznam skladieb...</string>
+    <string name="music_downloading_noting">-/-</string>
     <string name="check_network">Skontrolujte sieť</string>
     <string name="music_continue_downloading">Skladby sa budú naďalej sťahovať</string>
     <string name="music_service_unavalible">Služba DouBan je nedostupná</string>
@@ -37,7 +38,6 @@
     <string name="music_down_not_complete_content">Po odhlásení môžete skladby aktualizovať v Nastaveniach Hudby - Watercress FM offline.</string>
     <string name="cancel">zrušiť</string>
     <string name="enter">Enter</string>
-    <string name="music_downloading_noting">-/-</string>
     <string name="app_name">HM Media Player</string>
     <string name="favorite">Obľúbené</string>
     <string name="error_no_metadata">Metadáta sa nedajú načítať.</string>
@@ -69,13 +69,9 @@
     <string name="no_search_results">Žiadne výsledky.</string>
     <string name="loading">Načítavam…</string>
     <string name="media_route_menu_title">Prehráva sa…</string>
-    <string name="confirm_exit">"The listed songs have not completely downloaded. 
-Are you sure to exist?"</string>
+    <string name="confirm_exit">\"The listed songs have not completely downloaded. 
+Are you sure to exist?\"</string>
     <string name="music_download_cancel">The songs downloading process has been stopped</string>
-    <string name="play_mode_single_loop">Single loop</string>
-    <string name="play_mode_ordered">Order play</string>
-    <string name="play_mode_random">Random play</string>
-    <string name="play_mode_album_loop">Album loop</string>
     <string name="stop_casting">Zastaviť Casting</string>
     <string name="label_pause">Pauza</string>
     <string name="label_play">Prehrať</string>
@@ -98,4 +94,8 @@ Are you sure to exist?"</string>
     <string name="widget_currentstep_sleep_no">Nie sú dáta o spánku</string>
     <string name="widget_currentstep_activity_no">Dnes žiadne cvičenie?</string>
     <string name="locale_title">Výber jazyka</string>
+    <string name="play_mode_single_loop">Single loop</string>
+    <string name="play_mode_ordered">Order play</string>
+    <string name="play_mode_random">Random play</string>
+    <string name="play_mode_album_loop">Album loop</string>
 </resources>
