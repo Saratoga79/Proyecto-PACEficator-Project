@@ -17,7 +17,7 @@
     <string name="guiming">Guimin Card</string>
     <string name="jiangsu_suzhou">Jiangsu Traffic Card·Suzhou</string>
     <string name="wallet_widget_name">Tarjeta de transporte</string>
-    <string name="wallet_cards_setting">Ajustes de la Tarjeta</string>
+    <string name="wallet_widget_setting">卡片设置</string>
     <string name="wallet_cards_bus_title">Tarjeta de transporte</string>
     <string name="wallet_cards_door_title">Tarjeta de acceso</string>
     <string name="wallet_no_bank_card">La tarjeta de crédito que emparejes aparecerá aquí para pago rápido</string>
@@ -40,12 +40,6 @@
     <string name="wallet_bus_card_switch_success">Cambio conseguido</string>
     <string name="wallet_widget_loading">Cargando...</string>
     <string name="wallet_widget_reminder">Acerca el lector de tarjetas para pagar</string>
-    <string name="wallet_default_card_confirm_content">Esta tarjeta será usada como tarjeta por defecto</string>
-    <string name="wallet_cancel">Cancelar</string>
-    <string name="wallet_changing_card">Cargando la tarjeta</string>
-    <string name="wallet_active_failed">Fallo de activación</string>
-    <string name="wallet_active_failed_retry">Fallo al cargar la tarjeta, inténtalo otra vez</string>
-    <string name="wallet_retry">Reintentar</string>
     <string name="average_text">Promedio</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Confirmar</string>
@@ -62,4 +56,5 @@
     <string name="widget_currentstep_sleep_title">Has dormido</string>
     <string name="widget_currentstep_sleep_no">No hay datos de sueño</string>
     <string name="widget_currentstep_activity_no">¿No te ejercitas hoy?</string>
+    <string name="wallet_cards_setting">Ajustes de la Tarjeta</string>
 </resources>
