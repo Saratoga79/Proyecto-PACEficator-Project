@@ -241,7 +241,8 @@
     <string name="zh_tw">Txinatarra (Tradizionala)</string>
     <string name="ru_ru">Русский</string>
     <string name="es_es">Gaztelania</string>
-    <string name="confirm_change_locale">Aldatu hizkuntza %1$s-ra?</string>
+    <string name="confirm_change_locale">"Change language to
+%1$s?"</string>
     <string name="gender">Generoa</string>
     <string name="birth_year">Jaiotze data</string>
     <string name="height">Altuera</string>
@@ -249,9 +250,12 @@
     <string name="male">Gizona</string>
     <string name="female">Emakumea</string>
     <string name="centimeter">zm</string>
-    <string name="birth_year_unit">Jaiotze data</string>
-    <string name="height_unit">Altuera zm</string>
-    <string name="weight_unit">Pisua kg</string>
+    <string name="birth_year_unit">"Birth
+Year"</string>
+    <string name="height_unit">"Height
+cm"</string>
+    <string name="weight_unit">"Weight
+kg"</string>
     <string name="reset_factory_hint">Fabrikako balioak ezarri?</string>
     <string name="reset_factory_title">Restore to factory settings</string>
     <string name="reset_factory_noconnect_msg">"If you want to unbind from the watch, please do so in the Amazfit watch App. 
@@ -343,12 +347,18 @@
     <string name="title_activity_long_sitting_time">Denbora gehiegi eserita</string>
     <string name="lab_desc">Depurazio tresnen parte batu</string>
     <string name="unknown">Gailu ezezaguna</string>
-    <string name="bind_tips_title">Mesedez, lotarazi zure datuak modu seguroago batean babesteko</string>
+    <string name="bind_tips_title">"Please bind
+ to protect your data more securely"</string>
     <string name="upgrade_checking">Eguneraketaren konprobazioa...</string>
     <string name="left_hand">Ezkerra</string>
     <string name="right_hand">Eskuma</string>
     <string name="lock_screen_title">Pantaila blokeoa</string>
-    <string name="lock_screen_auto">Off screen mode timing</string>
+    <string name="sport_remind_open_title">运动模式开启提醒</string>
+    <string name="sport_remind_end_title">运动模式结束提醒</string>
+    <string name="sport_remind_open_tips">开启后，将在检测到你跑步或健走时，提醒你快捷开启运动模式</string>
+    <string name="sport_remind_end_tips">开启后，将在检测到你运动完成后，提醒你结束并保存</string>
+    <string name="sport_remind_open">开启</string>
+    <string name="sport_remind_title">运动提醒</string>
     <string name="device_name_huanghe">Amazfit智能运动手表</string>
     <string name="reset_factory_yes">Restore to factory settings</string>
     <string name="reset_factory_no">Cancel</string>
