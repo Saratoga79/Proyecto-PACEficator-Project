@@ -13,6 +13,7 @@
     <string name="music_download_success">Песня обновлена успешно</string>
     <string name="music_downloading">Песня загружается...</string>
     <string name="music_fetch_list">Получение списка песен ...</string>
+    <string name="music_downloading_noting">-/-</string>
     <string name="check_network">Поиск сети</string>
     <string name="music_continue_downloading">Будет продолжена загрузка песен</string>
     <string name="music_service_unavalible">DouBan service недоступен</string>
@@ -37,7 +38,6 @@
     <string name="music_down_not_complete_content">После выхода, композиции можно обновлять в настройках музыки - Watercress FM offline.</string>
     <string name="cancel">Отмена</string>
     <string name="enter">Ввод</string>
-    <string name="music_downloading_noting">-/-</string>
     <string name="app_name">HM Media Player</string>
     <string name="favorite">Избранное</string>
     <string name="error_no_metadata">Не удалось получить метаданные.</string>
@@ -69,13 +69,9 @@
     <string name="no_search_results">Нет результатов поиска.</string>
     <string name="loading">Загрузка...</string>
     <string name="media_route_menu_title">Проиграть на…</string>
-    <string name="confirm_exit">"The listed songs have not completely downloaded. 
-Are you sure to exist?"</string>
+    <string name="confirm_exit">\"The listed songs have not completely downloaded. 
+Are you sure to exist?\"</string>
     <string name="music_download_cancel">The songs downloading process has been stopped</string>
-    <string name="play_mode_single_loop">Single loop</string>
-    <string name="play_mode_ordered">Order play</string>
-    <string name="play_mode_random">Random play</string>
-    <string name="play_mode_album_loop">Album loop</string>
     <string name="stop_casting">Остановить распределение</string>
     <string name="label_pause">Пауза</string>
     <string name="label_play">Воспроизвести</string>
@@ -98,4 +94,8 @@ Are you sure to exist?"</string>
     <string name="widget_currentstep_sleep_no">Нет данных о сне</string>
     <string name="widget_currentstep_activity_no">Сегодня нет тренировок?</string>
     <string name="locale_title">Выбрать язык</string>
+    <string name="play_mode_single_loop">Single loop</string>
+    <string name="play_mode_ordered">Order play</string>
+    <string name="play_mode_random">Random play</string>
+    <string name="play_mode_album_loop">Album loop</string>
 </resources>
