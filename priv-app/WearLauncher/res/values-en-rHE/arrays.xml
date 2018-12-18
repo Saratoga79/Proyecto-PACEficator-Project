@@ -102,33 +102,13 @@
         <item>com.huami.watch.watchface.AnalogWatchFaceFourteen</item>
         <item>wfzeacf94.wfz</item>
     </string-array>
-    <string-array name="sort_a1612">
-        <item>com.huami.watch.watchface.DigitalWatchFaceSportOne</item>
-        <item>com.huami.watch.watchface.DigitalWatchFaceSportTwo</item>
-        <item>com.huami.watch.watchface.DigitalWatchFaceSportFive</item>
-        <item>com.huami.watch.watchface.DigitalWatchFaceSportEight</item>
-        <item>com.huami.watch.watchface.DigitalWatchFaceSportSeven</item>
-        <item>com.huami.watch.watchface.DigitalWatchFaceSportThree</item>
-        <item>com.huami.watch.watchface.DigitalSport4WatchFace</item>
-        <item>com.huami.watch.watchface.DigitalWatchFaceSportSix</item>
-        <item>com.huami.watch.watchface.SunriseDigitalWatchFace</item>
-        <item>com.huami.watch.watchface.CubeDigitalWatchFace</item>
-        <item>com.huami.watch.watchface.GreenAnalogWatchFace</item>
-        <item>com.huami.watch.watchface.AnalogWatchFaceNine</item>
-        <item>com.huami.watch.watchface.AnalogWatchFaceTen</item>
-        <item>com.huami.watch.watchface.AnalogWatchFaceEleven</item>
-        <item>com.huami.watch.watchface.DigitalWatchFaceSportTwelve</item>
-        <item>com.huami.watch.watchface.AnalogWatchFaceThirteen</item>
-        <item>com.huami.watch.watchface.AnalogWatchFaceFourteen</item>
-        <item>wfzeacf94_us.wfz</item>
-    </string-array>
     <string-array name="sort_a1609">
         <item>com.huami.watch.watchface.DigitalWatchFaceSportOne</item>
         <item>com.huami.watch.watchface.DigitalWatchFaceSportTwo</item>
         <item>com.huami.watch.watchface.DigitalWatchFaceSportFive</item>
         <item>com.huami.watch.watchface.DigitalWatchFaceSportEight</item>
-        <item>com.huami.watch.watchface.DigitalWatchFaceSportSeven</item>
-        <item>com.huami.watch.watchface.DigitalWatchFaceSportThree</item>
+        <item>wfz03c6c7.wfz</item>
+        <item>wfzeacf94.wfz</item>
         <item>com.huami.watch.watchface.DigitalSport4WatchFace</item>
         <item>com.huami.watch.watchface.DigitalWatchFaceSportSix</item>
         <item>com.huami.watch.watchface.SunriseDigitalWatchFace</item>
@@ -138,61 +118,45 @@
         <item>com.huami.watch.watchface.AnalogWatchFaceTen</item>
         <item>com.huami.watch.watchface.AnalogWatchFaceEleven</item>
     </string-array>
-    <string-array name="sort_a1619">
-        <item>com.huami.watch.watchface.AnalogWatchFaceSixteen</item>
-        <item>com.huami.watch.watchface.DigitalWatchFaceSportSeventeen</item>
-        <item>wfzd0b8cb.wfz</item>
-        <item>com.huami.watch.watchface.DigitalWatchFaceSportTwo</item>
-        <item>wfz03c6c7_us.wfz</item>
-        <item>wfzeacf94_us.wfz</item>
-        <item>wfzb33179.wfz</item>
-        <item>com.huami.watch.watchface.DigitalWatchFaceSportTwenty</item>
-        <item>com.huami.watch.watchface.DigitalWatchFaceSportNineteen</item>
-        <item>com.huami.watch.watchface.DigitalWatchFaceSportEighteen</item>
-        <item>wfz58ac65.wfz</item>
-        <item>wfz95a54c.wfz</item>
-        <item>com.huami.watch.watchface.DigitalWatchFaceSportOne</item>
-        <item>wfz3897e9.wfz</item>
-    </string-array>
     <string-array name="weather_card_aqilevel">
-        <item>אוויר מצוין</item>
-        <item>אוויר טוב</item>
-        <item>זיהום קל</item>
-        <item>זיהום מתון</item>
+        <item>Air quality: good</item>
+        <item>Air quality: fine</item>
+        <item>Mild pollution</item>
+        <item>Moderate pollution</item>
         <item>זיהום כבד</item>
-        <item>זיהום חמור</item>
+        <item>Severe Pollution</item>
         <item></item>
     </string-array>
     <string-array name="weather_card_quality">
-        <item>מתאים לספורט</item>
-        <item>לא מתאים לספורט</item>
+        <item>Suitable for exercise</item>
+        <item>Not suitable for exercise</item>
         <item></item>
     </string-array>
     <string-array name="quick_settings_status_weather">
         <item>בהיר</item>
         <item>מעונן</item>
         <item>מעונן</item>
-        <item>ערפל</item>
-        <item>ערפיח</item>
-        <item>ממטרים</item>
-        <item>רעמים</item>
+        <item>Foggy</item>
+        <item>Hazy</item>
+        <item>Showery rain</item>
+        <item>Thundershowers</item>
         <item>גשם קל</item>
         <item>גשם מתון</item>
         <item>גשם כבד</item>
         <item>סופות גשם</item>
-        <item>גשם זלעפות</item>
+        <item>Extraordinary rainstorm</item>
         <item>גשם-שלג</item>
         <item>גשם קפוא</item>
-        <item>ברד</item>
+        <item>Thundershower with hail</item>
         <item>שלג קל</item>
         <item>שלג מתון</item>
         <item>שלג כבד</item>
-        <item>סופת שלגים</item>
-        <item>ממטרי שלג</item>
-        <item>אבק</item>
+        <item>Blizzard</item>
+        <item>Showery snow</item>
+        <item>Floating dust</item>
         <item>רוח חולית</item>
-        <item>סופת חול</item>
-        <item>סופת חול חזקה</item>
-        <item>אין מידע</item>
+        <item>Sandstorm</item>
+        <item>Heavy sandstorm</item>
+        <item>No data</item>
     </string-array>
 </resources>
