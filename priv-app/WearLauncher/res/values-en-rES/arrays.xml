@@ -107,8 +107,8 @@
         <item>com.huami.watch.watchface.DigitalWatchFaceSportTwo</item>
         <item>com.huami.watch.watchface.DigitalWatchFaceSportFive</item>
         <item>com.huami.watch.watchface.DigitalWatchFaceSportEight</item>
-        <item>wfz03c6c7.wfz</item>
-        <item>wfzeacf94.wfz</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportSeven</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportThree</item>
         <item>com.huami.watch.watchface.DigitalSport4WatchFace</item>
         <item>com.huami.watch.watchface.DigitalWatchFaceSportSix</item>
         <item>com.huami.watch.watchface.SunriseDigitalWatchFace</item>
@@ -119,44 +119,44 @@
         <item>com.huami.watch.watchface.AnalogWatchFaceEleven</item>
     </string-array>
     <string-array name="weather_card_aqilevel">
-        <item>Air quality: good</item>
-        <item>Air quality: fine</item>
-        <item>Mild pollution</item>
-        <item>Moderate pollution</item>
+        <item>Aire Óptimo</item>
+        <item>Aire Bueno</item>
+        <item>Leve contaminación del aire</item>
+        <item>Contaminación Moderada</item>
         <item>Fuerte contaminación del aire.</item>
-        <item>Severe Pollution</item>
+        <item>Gran contaminación en el aire.</item>
         <item></item>
     </string-array>
     <string-array name="weather_card_quality">
-        <item>Suitable for exercise</item>
-        <item>Not suitable for exercise</item>
+        <item>Adecuado para el Deporte</item>
+        <item>No apto para los deportes</item>
         <item></item>
     </string-array>
     <string-array name="quick_settings_status_weather">
         <item>Soleado</item>
         <item>Nublado</item>
         <item>Nublado</item>
-        <item>Foggy</item>
-        <item>Hazy</item>
-        <item>Showery rain</item>
-        <item>Thundershowers</item>
+        <item>Niebla</item>
+        <item>Niebla tóxica</item>
+        <item>Lluvia</item>
+        <item>Tormenta</item>
         <item>Llovizna</item>
         <item>Lluvia moderada</item>
         <item>Lluvia fuerte</item>
         <item>Tormenta Eléctrica</item>
-        <item>Extraordinary rainstorm</item>
+        <item>Lluvia torrencial</item>
         <item>Aguanieve</item>
         <item>Granizo</item>
-        <item>Thundershower with hail</item>
+        <item>Granizo</item>
         <item>Nevadas ligeras</item>
         <item>Nieve moderada</item>
         <item>Nevadas fuertes</item>
-        <item>Blizzard</item>
-        <item>Showery snow</item>
-        <item>Floating dust</item>
+        <item>Nevada</item>
+        <item>Agua nieve</item>
+        <item>Nube tóxica</item>
         <item>Ventisca de arena</item>
-        <item>Sandstorm</item>
-        <item>Heavy sandstorm</item>
-        <item>No data</item>
+        <item>Tormenta de arena</item>
+        <item>Fuerte tormenta de arena</item>
+        <item>Sin datos</item>
     </string-array>
 </resources>
