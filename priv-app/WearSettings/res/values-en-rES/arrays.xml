@@ -13,14 +13,14 @@
         <item>[clazz]com.huami.watch.wearlogger.AllLogActivityLab</item>
     </string-array>
     <string-array name="lab_item_selftest">
-        <item>[prim]selftest</item>
-        <item>[sum]start selftest by yourself</item>
+        <item>[prim]Test propio</item>
+        <item>[sum]Inicia un test</item>
         <item>[action]com.huami.watch.selftest.START</item>
     </string-array>
     <string-array name="lab_item_open_applist">
         <item>[prim]Applist del launcher</item>
         <item>[sum]Des/Activar la Applist</item>
-        <item>[sid]applist</item>
+        <item>[sid]Applist</item>
     </string-array>
     <string-array name="lab_item_bt_hci_snoop_log">
         <item>[prim]Captura registro BT HCI snoop</item>
