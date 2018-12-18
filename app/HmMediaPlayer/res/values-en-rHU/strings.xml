@@ -13,7 +13,6 @@
     <string name="music_download_success">A dal frissítés sikeres</string>
     <string name="music_downloading">Dal letöltés...</string>
     <string name="music_fetch_list">Dal lista beszerzése...</string>
-    <string name="music_downloading_noting">-/-</string>
     <string name="check_network">Ellenőrizd a hálózatot</string>
     <string name="music_continue_downloading">A dalok letöltése folytatódik</string>
     <string name="music_service_unavalible">DouBan szolgáltatás nem érhető el</string>
@@ -21,7 +20,7 @@
     <string name="mode_loop">ismétlés</string>
     <string name="mode_random">véletlen</string>
     <string name="music_list_title">Lejátszás beállításai</string>
-    <string name="music_volumn_control">Hangerő</string>
+    <string name="music_volumn_control">Volume control</string>
     <string name="music_douban_offline">Douban FM offline</string>
     <string name="music_play_mode">Mód választás</string>
     <string name="music_play_source">Zene könyvtár váltás</string>
@@ -38,6 +37,7 @@
     <string name="music_down_not_complete_content">A kijelentkezés után a dalok frissíthetők a Zene beállításaiban - Watercress FM offline.</string>
     <string name="cancel">mégse</string>
     <string name="enter">Enter</string>
+    <string name="music_downloading_noting">-/-</string>
     <string name="app_name">Zenelejátszó</string>
     <string name="favorite">Kedvenc</string>
     <string name="error_no_metadata">Nem sikerült lekérni a metaadatokat.</string>
@@ -69,8 +69,13 @@
     <string name="no_search_results">Nincs eredmény.</string>
     <string name="loading">Betöltés…</string>
     <string name="media_route_menu_title">Lejátszás…</string>
-    <string name="confirm_exit">A lejátszólista letöltése, leállítod?</string>
-    <string name="music_download_cancel">A dal letöltés leállítva</string>
+    <string name="confirm_exit">"The listed songs have not completely downloaded. 
+Are you sure to exist?"</string>
+    <string name="music_download_cancel">The songs downloading process has been stopped</string>
+    <string name="play_mode_single_loop">Single loop</string>
+    <string name="play_mode_ordered">Order play</string>
+    <string name="play_mode_random">Random play</string>
+    <string name="play_mode_album_loop">Album loop</string>
     <string name="stop_casting">Sugárzás vége</string>
     <string name="label_pause">Szünet</string>
     <string name="label_play">Lejátszás</string>
@@ -93,8 +98,4 @@
     <string name="widget_currentstep_sleep_no">Nincs alvás adat</string>
     <string name="widget_currentstep_activity_no">Ma nem edzünk?</string>
     <string name="locale_title">Nyelv kiválasztás</string>
-    <string name="play_mode_single_loop">单曲循环</string>
-    <string name="play_mode_ordered">顺序播放</string>
-    <string name="play_mode_random">随机播放</string>
-    <string name="play_mode_album_loop">专辑内循环</string>
 </resources>
