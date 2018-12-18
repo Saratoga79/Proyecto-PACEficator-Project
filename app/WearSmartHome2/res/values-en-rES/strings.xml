@@ -20,7 +20,15 @@
     <string name="widget_currentstep_activity_no">¿No te ejercitas hoy?</string>
     <string name="locale_title">Seleccione idioma</string>
     <string name="mihome_widget_title">Mi Casa</string>
-    <string name="mihome_widget_info_unbind">Añade tu reloj Amazfit en la app Mi Home de tu móvil para controlar tus dispositivos. No abandones esta página hasta añadir el reloj</string>
+    <string name="mihome_voice_list_title">Control inteligente de la voz</string>
+    <string name="mihome_voice_manage_title">Gestión de control de accesos directos</string>
+    <string name="mihome_voice_list_sub_title">Control de acceso directo</string>
+    <string name="mihome_voice_list_noitem_tip">Sin añadir todavía</string>
+    <string name="mihome_voice_list_howtoadd_tip">¿Cómo se añade?</string>
+    <string name="mihome_voice_list_howtoadd_dialog_title">Añadir controles de acceso directo comunes</string>
+    <string name="mihome_voice_list_howtoadd_dialog_msg">Puedes añadir palabras de control comunes como controles de acceso directos mientras controlas tus dispositivos MiHome por comandos de voz.</string>
+    <string name="mihome_voice_list_howtoadd_dialog_btn">Entendido</string>
+    <string name="mihome_widget_info_unbind">"Añade tu reloj Amazfit en la app Mi Home de tu móvil para controlar tus dispositivos. No abandones esta página hasta añadir el reloj"</string>
     <string name="mihome_widget_info_no_devices">Añade los dispositivos que quieres controlar con el reloj en la app Mi Home</string>
     <string name="mihome_activity_title_disconnected">No conectado</string>
     <string name="mihome_activity_info_disconnected">Conecta con la app MI Home del móvil</string>
@@ -31,13 +39,6 @@
     <string name="mihome_start_bind_title">Empareja el reloj</string>
     <string name="mihome_start_bind_tips">No salgas de aquí y abre la app MiHome en el teléfono para buscar el dispositivo</string>
     <string name="mihome_name_in_ios_app">Amazfit smartwatch (%s)</string>
-    <string name="mihome_voice_list_title">Control inteligente de la voz</string>
-    <string name="mihome_voice_list_sub_title">Control de acceso directo</string>
-    <string name="mihome_voice_list_noitem_tip">Sin añadir todavía</string>
-    <string name="mihome_voice_list_howtoadd_tip">¿Cómo se añade?</string>
-    <string name="mihome_voice_list_howtoadd_dialog_title">Añadir controles de acceso directo comunes</string>
-    <string name="mihome_voice_list_howtoadd_dialog_msg">Puedes añadir palabras de control comunes como controles de acceso directos mientras controlas tus dispositivos MiHome por comandos de voz.</string>
-    <string name="mihome_voice_list_howtoadd_dialog_btn">Entendido</string>
     <string name="mihome_widget_info_unbind_tip">Después de emparejar el reloj con la app MiHome, el reloj se puede utilizar para realizar los controles correspondientes de MiHome.</string>
     <string name="manual_title">Control de MiHome</string>
     <string name="mihome_manual_noitem_tips_title">No se encontró ninguna operación disponible</string>
@@ -61,10 +62,10 @@
     <string name="work_days">Días laborables</string>
     <string name="hour_unit">Hora</string>
     <string name="minute_unit">Minutos</string>
-    <string name="every_day">" Diario "</string>
+    <string name="every_day"> Diario </string>
     <string name="day_concat">/</string>
     <string name="none_settings">Sin establecer</string>
-    <string name="alarm_repeat_setting">"Repetir ajustes "</string>
+    <string name="alarm_repeat_setting">Repetir ajustes </string>
     <string name="dimiss_button">Cancelar</string>
     <string name="count_down_title">Temporizador</string>
     <string name="count_down_default_new">Nuevo Temporizador</string>
@@ -84,5 +85,4 @@
     <string name="count_down_summary_running">En ejecución</string>
     <string name="count_down_summary_pause">En pausa</string>
     <string name="count_down_summary_over">Completado</string>
-    <string name="mihome_voice_manage_title">Gestión de control de accesos directos</string>
 </resources>
