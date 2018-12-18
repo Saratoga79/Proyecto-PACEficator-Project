@@ -66,7 +66,7 @@
     <string-array name="sport_data_item_array">
         <item></item>
         <item>Vrijeme</item>
-        <item>Kilometraža</item>
+        <item>Distance</item>
         <item>Tempo</item>
         <item>Prosj. tempo</item>
         <item>HR</item>
@@ -79,7 +79,7 @@
         <item>Ritam</item>
         <item>Razlika</item>
         <item>Koraka</item>
-        <item>Ritam</item>
+        <item>Cadence</item>
         <item>Put</item>
         <item>DPS</item>
         <item>Omjer udaraca</item>
@@ -93,7 +93,7 @@
         <item>MAX brzina</item>
         <item>Trčanje(a)</item>
         <item>Udaljenost</item>
-        <item>Ukupna kilometraža</item>
+        <item>Total distance</item>
         <item>Silazak</item>
         <item>Udarci</item>
         <item>Vrijeme kruga</item>
@@ -102,6 +102,13 @@
         <item>Brz. otkucaja po krugu</item>
         <item>Ritam kruga</item>
         <item>Tempo kruga</item>
+        <item>Current freq</item>
+        <item>Total count</item>
+        <item>Avg freq</item>
+        <item>Groups</item>
+        <item>Lap count</item>
+        <item>Lap time</item>
+        <item>Lap freq</item>
     </string-array>
     <string-array name="sport_train_item">
         <item>Preostala kilometraža</item>
