@@ -13,7 +13,6 @@
     <string name="music_download_success">Aktual. utw.zakończona</string>
     <string name="music_downloading">Pobieranie utworu...</string>
     <string name="music_fetch_list">Pozyskiwanie listy utw...</string>
-    <string name="music_downloading_noting">-/-</string>
     <string name="check_network">Sprawdź sieć</string>
     <string name="music_continue_downloading">Pobieranie utw. bedzie kontynuowane</string>
     <string name="music_service_unavalible">Usługa DouBan jest niedostępna</string>
@@ -21,7 +20,7 @@
     <string name="mode_loop">pętla</string>
     <string name="mode_random">losowy</string>
     <string name="music_list_title">Ust.odtwarz.</string>
-    <string name="music_volumn_control">Głośność</string>
+    <string name="music_volumn_control">Volume control</string>
     <string name="music_douban_offline">Radio FM offline</string>
     <string name="music_play_mode">Zmień tryb</string>
     <string name="music_play_source">Zmień bibl.z muzyką</string>
@@ -38,6 +37,7 @@
     <string name="music_down_not_complete_content">Po zalogowaniu się utw. mogą być aktual. w ustaw. Music - Radio FM offline.</string>
     <string name="cancel">Anuluj</string>
     <string name="enter">Podłącz</string>
+    <string name="music_downloading_noting">-/-</string>
     <string name="app_name">HM Media Player</string>
     <string name="favorite">Ulubione</string>
     <string name="error_no_metadata">Nie można pobrać metadanych.</string>
@@ -69,8 +69,13 @@
     <string name="no_search_results">Brak wyników wyszukiwania.</string>
     <string name="loading">Ładowanie…</string>
     <string name="media_route_menu_title">Play on…</string>
-    <string name="confirm_exit">Playlista jest pobierana, zatrzymać?</string>
-    <string name="music_download_cancel">Pobieranie utwóru zostało zatrzymane</string>
+    <string name="confirm_exit">"The listed songs have not completely downloaded. 
+Are you sure to exist?"</string>
+    <string name="music_download_cancel">The songs downloading process has been stopped</string>
+    <string name="play_mode_single_loop">Single loop</string>
+    <string name="play_mode_ordered">Order play</string>
+    <string name="play_mode_random">Random play</string>
+    <string name="play_mode_album_loop">Album loop</string>
     <string name="stop_casting">Zatrzymaj Casting</string>
     <string name="label_pause">Pauza</string>
     <string name="label_play">Graj</string>
@@ -93,8 +98,4 @@
     <string name="widget_currentstep_sleep_no">Brak danych snu</string>
     <string name="widget_currentstep_activity_no">Dziś nie ma ćwiczeń?</string>
     <string name="locale_title">Wybierz język</string>
-    <string name="play_mode_single_loop">单曲循环</string>
-    <string name="play_mode_ordered">顺序播放</string>
-    <string name="play_mode_random">随机播放</string>
-    <string name="play_mode_album_loop">专辑内循环</string>
 </resources>

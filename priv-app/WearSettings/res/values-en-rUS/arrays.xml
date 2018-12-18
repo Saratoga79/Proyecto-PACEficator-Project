@@ -3,12 +3,12 @@
 <resources>
     <string-array name="lab_item_android_settings">
         <item>[prim]Original system settings</item>
-        <item>[sum]Android settings</item>
+        <item>[sum]Settings of Android</item>
         <item>[pkg]com.android.settings</item>
     </string-array>
     <string-array name="lab_item_logger">
         <item>[prim]WearLogger</item>
-        <item>[sum]One-click log</item>
+        <item>[sum]One-click crawling log ^_^</item>
         <item>[pkg]com.huami.watch.wearlogger</item>
         <item>[clazz]com.huami.watch.wearlogger.AllLogActivityLab</item>
     </string-array>
@@ -19,7 +19,7 @@
     </string-array>
     <string-array name="lab_item_open_applist">
         <item>[prim]Launcher Applist</item>
-        <item>[sum]Open/Close applist</item>
+        <item>[sum]Open or close applist</item>
         <item>[sid]applist</item>
     </string-array>
     <string-array name="lab_item_bt_hci_snoop_log">
@@ -27,9 +27,14 @@
         <item>[sum]Capture Bluetooth HCI log</item>
         <item>[sid]btsnoop</item>
     </string-array>
+    <string-array name="lab_item_power_test">
+        <item>[prim]Power consumption test in flight mode</item>
+        <item>[sum]Detect power consumption in flight mode</item>
+        <item>[sid]power_test</item>
+    </string-array>
     <string-array name="lab_item_long_sitting_timer_plus">
-        <item>[prim]Sedentary reminder time</item>
-        <item>[sum]Set sedentary reminder time (min)</item>
+        <item>[prim]Time of sedentary reminder</item>
+        <item>[sum]Set the time of sedentary reminder (in min)</item>
         <item>[pkg]com.huami.mobile.watchsettings</item>
         <item>[clazz]com.huami.moblie.watchsettings.actions.lab.labUI.LongSittingTimeActivity</item>
     </string-array>
@@ -223,10 +228,5 @@
         <item>Brightness: 3</item>
         <item>Brightness: 4</item>
         <item>Brightness: 5</item>
-    </string-array>
-    <string-array name="lab_item_power_test">
-        <item>[prim]Flight mode power test</item>
-        <item>[sum]Detect flight mode power consumption</item>
-        <item>[sid]power_test</item>
     </string-array>
 </resources>

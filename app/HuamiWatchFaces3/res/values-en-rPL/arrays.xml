@@ -66,7 +66,7 @@
     <string-array name="sport_data_item_array">
         <item></item>
         <item>Czas</item>
-        <item>Odleglosc</item>
+        <item>Distance</item>
         <item>Tempo</item>
         <item>Sr.tempo</item>
         <item>Tetno</item>
@@ -79,7 +79,7 @@
         <item>Rytm</item>
         <item>Osiag.odleg.</item>
         <item>Kroki</item>
-        <item>Rytm</item>
+        <item>Cadence</item>
         <item>Dlugosci</item>
         <item>DPS</item>
         <item>Wsk.uderz.</item>
@@ -93,7 +93,7 @@
         <item>Max.predk.</item>
         <item>Czas slizgu</item>
         <item>Podst.zjazd</item>
-        <item>Zbior.zjazd</item>
+        <item>Total distance</item>
         <item>Rozn.zjazdow</item>
         <item>Czasy zmian</item>
         <item>Czas</item>
@@ -102,6 +102,13 @@
         <item>Tętno4</item>
         <item>Tętno3</item>
         <item>Tempo</item>
+        <item>Current freq</item>
+        <item>Total count</item>
+        <item>Avg freq</item>
+        <item>Groups</item>
+        <item>Lap count</item>
+        <item>Lap time</item>
+        <item>Lap freq</item>
     </string-array>
     <string-array name="sport_train_item">
         <item>Pozost.dystans</item>

@@ -66,35 +66,38 @@
     <string name="wifi_upload">Sincronizar Datos</string>
     <string name="wifi_upload_title">Sincronizar Datos</string>
     <string name="watchface">WatchFace</string>
-    <string name="wifi_auto_upload_switch">Sincronización Automática</string>
-    <string name="auto_bg">Retroilum. Auto</string>
-    <string name="auto_hint_title">Act. giro muñeca</string>
+    <string name="hand_upload">Sincronización Manual</string>
+    <string name="auto_upload">Sincr. Auto</string>
     <string name="app_item_phone_anti_lost">Anti pérdida</string>
     <string name="app_item_anti_lost_remind">Aviso Anti pérdida</string>
     <string name="app_item_far_away_remind">Aviso teléfono lejos</string>
     <string name="remind_aleary_open">Aviso ya iniciado</string>
-    <string name="phone_far_away_remind_to_you">"El reloj avisará cuando el teléfono esté lejos"</string>
+    <string name="phone_far_away_remind_to_you">El reloj avisará cuando el teléfono esté lejos</string>
     <string name="dialog_confire">OK</string>
+    <string name="auto_bg">Retroilum. Auto</string>
+    <string name="auto_hint_title">Act. giro muñeca</string>
     <string name="long_key_action">Botón Inf Pulsación</string>
     <string name="voice">Voz</string>
-    <string name="watch_mode">Modo Reloj</string>
     <string name="recombind">Reemparejando</string>
-    <string name="hand_upload">Sincronización Manual</string>
-    <string name="auto_upload">Sincr. Auto</string>
+    <string name="watch_mode">Modo Reloj</string>
+    <string name="lock_screen_title">Bloqueo de pantalla</string>
     <string name="lock_screen">Modo de Bloqueo de Pantalla</string>
+    <string name="lock_screen_hand">Modo de Bloqueo de Pantalla</string>
+    <string name="lock_screen_auto">Programar Bloqueo de Pantalla</string>
     <string name="lock_screen_open">Mostrar la hora (AOD)</string>
     <string name="lock_screen_close">Pantalla bloqueada</string>
     <string name="lock_screen_open_guide">Estableciendo el modo de Bloqueo de Pantalla en Mostrar la Hora (AOD) gastará algo más de batería</string>
     <string name="lock_auto_screen_wristup_guide">Cuando se active, la pantalla no se encenderá hasta que gires la muñeca para mirar la hora</string>
     <string name="wrist_up_hand">Giro de muñeca para encender</string>
-    <string name="lock_screen_hand">Modo de Bloqueo de Pantalla</string>
+    <string name="product_model_qogir_oversea">Amazfit Verge</string>
+    <string name="device_name_qogir_oversea">Amazfit Verge</string>
+    <string name="yongchiyou">Nat. en piscina</string>
+    <string name="gongkaiyou">Nat. en abiertas</string>
     <string name="paobu">Correr</string>
     <string name="jianzou">Caminar</string>
     <string name="yueye">Carrera Trail</string>
     <string name="shineipao">Correr en interior</string>
     <string name="huwaiqi">Ciclismo</string>
-    <string name="yongchiyou">Nat. en piscina</string>
-    <string name="gongkaiyou">Nat. en abiertas</string>
     <string name="tuoyuanji">Elíptica</string>
     <string name="dengshan">Montañismo</string>
     <string name="tierensan">Triathlon</string>
@@ -170,9 +173,9 @@
     <string name="auto_nodisturb_title_string">No molestar Aut.</string>
     <string name="auto_nodisturb_start_time_string">Hora inicio</string>
     <string name="auto_screen_wristup_start_time_string">Hora inicio</string>
-    <string name="auto_screen_wristup_end_time_string">Hora fin</string>
     <string name="auto_nodisturb_end_time_string">Hora fin</string>
-    <string name="time_to">" a "</string>
+    <string name="auto_screen_wristup_end_time_string">Hora fin</string>
+    <string name="time_to"> a </string>
     <string name="auto_wifi_trans_on_string">On</string>
     <string name="auto_wifi_trans_off_string">Off</string>
     <string name="blue_tooth_dev_in_sub_list">Bluetooth</string>
@@ -259,6 +262,8 @@ Nacim."</string>
     <string name="weight_unit">"Peso 
 kg"</string>
     <string name="reset_factory_hint">Restab. Ajustes Fábr.?</string>
+    <string name="reset_factory_yes">Reset de Fábrica</string>
+    <string name="reset_factory_no">Cancelar</string>
     <string name="reset_factory_title">Restablecer de Fábrica</string>
     <string name="reset_factory_noconnect_msg">"Para desemparejar el reloj, hazlo en la app de Amazfit Watch.
   La tarjeta UnionPay y la de transporte serán eliminadas después de Restablecer de Fábrica.
@@ -343,6 +348,15 @@ kg"</string>
     <string name="screen_refresh">Segundero en reposo</string>
     <string name="screen_refresh_on_string">On</string>
     <string name="screen_refresh_off_string">Off</string>
+    <string name="setting_regulatory_europe">Europa</string>
+    <string name="setting_regulatory_us">U.S.</string>
+    <string name="setting_regulatory_canda">Canadá</string>
+    <string name="setting_regulatory_russia">Rusia</string>
+    <string name="setting_regulatory_japan">Japón</string>
+    <string name="setting_regulation_desc_us">FCC ID:2AC8UA1811</string>
+    <string name="setting_regulation_desc_canda">"IC:21806-A1811 
+ ICAN ICE-3(B)/NMB-3(B)"</string>
+    <string name="setting_regulation_model_name">Modelo: %1$s</string>
     <string name="confirm_shutdown">¿Apagar?</string>
     <string name="confirm_reboot">¿Reiniciar?</string>
     <string name="app_name">Ajustes</string>
@@ -354,9 +368,4 @@ sus datos de forma más segura"</string>
     <string name="upgrade_checking">Comprobando actualización...</string>
     <string name="left_hand">Izquierda</string>
     <string name="right_hand">Derecha</string>
-    <string name="lock_screen_title">Bloqueo de pantalla</string>
-    <string name="lock_screen_auto">Programar Bloqueo de Pantalla</string>
-    <string name="device_name_huanghe">Amazfit Sportwatch</string>
-    <string name="reset_factory_yes">Reset de Fábrica</string>
-    <string name="reset_factory_no">Cancelar</string>
 </resources>

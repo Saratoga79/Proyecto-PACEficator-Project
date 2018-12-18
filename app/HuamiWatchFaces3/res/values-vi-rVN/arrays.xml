@@ -66,7 +66,7 @@
     <string-array name="sport_data_item_array">
         <item></item>
         <item>Thời gian</item>
-        <item>Mileage</item>
+        <item>Distance</item>
         <item>Tốc độ</item>
         <item>T.độ Tb</item>
         <item>NT</item>
@@ -79,7 +79,7 @@
         <item>Cadence</item>
         <item>Khoảng cách</item>
         <item>Bước</item>
-        <item>Đạp xe</item>
+        <item>Cadence</item>
         <item>Ch.Đi</item>
         <item>DPS</item>
         <item>Stroke rate</item>
@@ -93,7 +93,7 @@
         <item>T.độ Max</item>
         <item>Chạy</item>
         <item>Khoảng cách</item>
-        <item>Tổng số dặm</item>
+        <item>Total distance</item>
         <item>Giảm</item>
         <item>Strokes</item>
         <item>Tgian vòng</item>
@@ -102,6 +102,13 @@
         <item>Nhịp tim vòng</item>
         <item>Nhịp bước</item>
         <item>T.độ vòng</item>
+        <item>Current freq</item>
+        <item>Total count</item>
+        <item>Avg freq</item>
+        <item>Groups</item>
+        <item>Lap count</item>
+        <item>Lap time</item>
+        <item>Lap freq</item>
     </string-array>
     <string-array name="sport_train_item">
         <item>Dặm còn lại</item>

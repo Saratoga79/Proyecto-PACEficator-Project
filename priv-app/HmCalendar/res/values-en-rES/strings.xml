@@ -18,21 +18,21 @@
     <string name="widget_currentstep_sleep_no">No hay datos de sueño</string>
     <string name="widget_currentstep_activity_no">¿No te ejercitas hoy?</string>
     <string name="locale_title">Seleccione idioma</string>
-    <string name="app_name">Calendario</string>
     <string name="date_format_month">dd/MM/yyyy</string>
     <string name="date_format_hour">HH:mm</string>
     <string name="date_format_all">dd/MM/yyyy HH:mm</string>
+    <string name="app_name">Calendario</string>
     <string name="event_title_time">Hora</string>
     <string name="event_title_des">Descripción</string>
     <string name="event_title_delete">Borrar</string>
-    <string name="confirm_delete">Confirmar</string>
+    <string name="confirm_delete">¿Borrar este evento?</string>
     <string name="yes">Sí</string>
     <string name="no">No</string>
     <string name="loading">Cargando</string>
     <string name="no_data_title">Sin eventos</string>
-    <string name="no_data_content_voice">Programa un evento con el asistente de voz. \"Recuérdame que acuda a la cita a las 8:00 pm el próximo martes\"</string>
-    <string name="no_data_content_assistant">Los eventos también pueden programar en la página inteligente en la app de Amazfit Watch</string>
-    <string name="title">Calendario</string>
-    <string name="title_button">Mis eventos</string>
+    <string name="no_data_content_voice">Añade un evento por comandos de voz. Por ejemplo: Recuerdame que quede con Antonio a las 20:00 el martes.</string>
+    <string name="no_data_content_assistant">Los eventos también pueden ser añadidos desde la página correspondiente en la app de Amazfit</string>
+    <string name="title">Evento</string>
+    <string name="title_button">Mi evento</string>
     <string name="hmcalendar">Calendario</string>
 </resources>

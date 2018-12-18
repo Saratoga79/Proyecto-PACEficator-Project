@@ -24,14 +24,6 @@
     <string name="confirm">Confirmar</string>
     <string name="cancel">Cancelar</string>
     <string name="unable_to_send">Imposible enviar</string>
-    <string name="install_companion_tip">Instala la app Amazfit en el teléfono</string>
-    <string name="simplified_chinese">Chino (Simplificado)</string>
-    <string name="english_usa">Ingles (US)</string>
-    <string name="low_battery">Menos de 5% de batería, conecte el cargador</string>
-    <string name="scan_to_bind">Escanea el QR para emparejar</string>
-    <string name="function_unavailable_tip">Algunas opciones no disponibles ¿Omitir?</string>
-    <string name="cancel_bind">Cancelar</string>
-    <string name="skip_bind">Omitir</string>
     <string name="initial">Inicial</string>
     <string name="qr_code">Codigo qr</string>
     <string name="rec_test">rec_test</string>
@@ -67,7 +59,15 @@
     <string name="schedule_birthday_party">Ven a mi fiesta de cumpleaños esta noche.</string>
     <string name="daily_weather">"Prueba: El clima de hoy"</string>
     <string name="daily_weather_cloudy_to_sunny">Parcialmente nublado 25/28°</string>
-    <string name="calendar">Programar evento</string>
-    <string name="wait_get_uid">Esperando lectura de tarjeta</string>
-    <string name="get_uid_tips">Toca la superficie del reloj con la tarjeta de acceso para simularla</string>
+    <string name="install_companion_tip">Instala la app Amazfit en el teléfono</string>
+    <string name="simplified_chinese">Chino (Simplificado)</string>
+    <string name="english_usa">Ingles (US)</string>
+    <string name="low_battery">Menos de 5% de batería, conecte el cargador</string>
+    <string name="scan_to_bind">Escanea el QR para emparejar</string>
+    <string name="function_unavailable_tip">Algunas opciones no disponibles ¿Omitir?</string>
+    <string name="cancel_bind">Cancelar</string>
+    <string name="skip_bind">Omitir</string>
+    <string name="calendar">Calendario</string>
+    <string name="wait_get_uid">A la espera de la lectura de la tarjeta</string>
+    <string name="get_uid_tips">Acerca la tarjeta de acceso lo máximo posible al reloj</string>
 </resources>

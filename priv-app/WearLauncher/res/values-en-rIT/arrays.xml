@@ -102,26 +102,6 @@
         <item>com.huami.watch.watchface.AnalogWatchFaceFourteen</item>
         <item>wfzeacf94.wfz</item>
     </string-array>
-    <string-array name="sort_a1612">
-        <item>com.huami.watch.watchface.DigitalWatchFaceSportOne</item>
-        <item>com.huami.watch.watchface.DigitalWatchFaceSportTwo</item>
-        <item>com.huami.watch.watchface.DigitalWatchFaceSportFive</item>
-        <item>com.huami.watch.watchface.DigitalWatchFaceSportEight</item>
-        <item>com.huami.watch.watchface.DigitalWatchFaceSportSeven</item>
-        <item>com.huami.watch.watchface.DigitalWatchFaceSportThree</item>
-        <item>com.huami.watch.watchface.DigitalSport4WatchFace</item>
-        <item>com.huami.watch.watchface.DigitalWatchFaceSportSix</item>
-        <item>com.huami.watch.watchface.SunriseDigitalWatchFace</item>
-        <item>com.huami.watch.watchface.CubeDigitalWatchFace</item>
-        <item>com.huami.watch.watchface.GreenAnalogWatchFace</item>
-        <item>com.huami.watch.watchface.AnalogWatchFaceNine</item>
-        <item>com.huami.watch.watchface.AnalogWatchFaceTen</item>
-        <item>com.huami.watch.watchface.AnalogWatchFaceEleven</item>
-        <item>com.huami.watch.watchface.DigitalWatchFaceSportTwelve</item>
-        <item>com.huami.watch.watchface.AnalogWatchFaceThirteen</item>
-        <item>com.huami.watch.watchface.AnalogWatchFaceFourteen</item>
-        <item>wfzeacf94_us.wfz</item>
-    </string-array>
     <string-array name="sort_a1609">
         <item>com.huami.watch.watchface.AnalogWatchFaceSixteen</item>
         <item>com.huami.watch.watchface.DigitalWatchFaceSportSeventeen</item>
@@ -138,61 +118,45 @@
         <item>com.huami.watch.watchface.DigitalWatchFaceSportOne</item>
         <item>wfz3897e9.wfz</item>
     </string-array>
-    <string-array name="sort_a1619">
-        <item>com.huami.watch.watchface.AnalogWatchFaceSixteen</item>
-        <item>com.huami.watch.watchface.DigitalWatchFaceSportSeventeen</item>
-        <item>wfzd0b8cb.wfz</item>
-        <item>com.huami.watch.watchface.DigitalWatchFaceSportTwo</item>
-        <item>wfz03c6c7_us.wfz</item>
-        <item>wfzeacf94_us.wfz</item>
-        <item>wfzb33179.wfz</item>
-        <item>com.huami.watch.watchface.DigitalWatchFaceSportTwenty</item>
-        <item>com.huami.watch.watchface.DigitalWatchFaceSportNineteen</item>
-        <item>com.huami.watch.watchface.DigitalWatchFaceSportEighteen</item>
-        <item>wfz58ac65.wfz</item>
-        <item>wfz95a54c.wfz</item>
-        <item>com.huami.watch.watchface.DigitalWatchFaceSportOne</item>
-        <item>wfz3897e9.wfz</item>
-    </string-array>
     <string-array name="weather_card_aqilevel">
-        <item>Aria eccellente</item>
-        <item>Aria buona</item>
-        <item>Inquinamento lieve</item>
-        <item>Inquinamento moderato</item>
+        <item>Air quality: good</item>
+        <item>Air quality: fine</item>
+        <item>Mild pollution</item>
+        <item>Moderate pollution</item>
         <item>Inquinamento pesante</item>
-        <item>Inquinamento grave</item>
+        <item>Severe Pollution</item>
         <item></item>
     </string-array>
     <string-array name="weather_card_quality">
-        <item>Adatto per lo sport</item>
-        <item>Non adatto per lo sport</item>
+        <item>Suitable for exercise</item>
+        <item>Not suitable for exercise</item>
         <item></item>
     </string-array>
     <string-array name="quick_settings_status_weather">
         <item>Soleggiato</item>
         <item>Nuvoloso</item>
         <item>Coperto</item>
-        <item>Nebbia</item>
-        <item>Smog</item>
-        <item>Acquazzone</item>
-        <item>Pioggia e fulmini</item>
+        <item>Foggy</item>
+        <item>Hazy</item>
+        <item>Showery rain</item>
+        <item>Thundershowers</item>
         <item>Pioggia debole</item>
         <item>Pioggia leggera</item>
         <item>Pioggia forte</item>
         <item>Temporale</item>
-        <item>Pioggia torrenziale</item>
+        <item>Extraordinary rainstorm</item>
         <item>Nevischio</item>
         <item>Grandine</item>
-        <item>Grandine</item>
+        <item>Thundershower with hail</item>
         <item>Neve leggera</item>
         <item>Neve moderata</item>
         <item>Forte nevicata</item>
-        <item>Tempesta di neve</item>
-        <item>Neve</item>
-        <item>Polvere</item>
+        <item>Blizzard</item>
+        <item>Showery snow</item>
+        <item>Floating dust</item>
         <item>Leggera sabbia</item>
-        <item>Tempesta di sabbia</item>
-        <item>Forte tempesta di sabbia</item>
-        <item>Nessun dato</item>
+        <item>Sandstorm</item>
+        <item>Heavy sandstorm</item>
+        <item>No data</item>
     </string-array>
 </resources>
