@@ -13,6 +13,7 @@
     <string name="music_download_success">עדכון השירים בוצע בהצלחה</string>
     <string name="music_downloading">הורדת שירים...</string>
     <string name="music_fetch_list">מקבל רשימת שירים...</string>
+    <string name="music_downloading_noting">-/-</string>
     <string name="check_network">בדוק חיבור לרשת</string>
     <string name="music_continue_downloading">הורדת השירים תימשך</string>
     <string name="music_service_unavalible">שירות DouBan אינו זמין</string>
@@ -37,7 +38,6 @@
     <string name="music_down_not_complete_content">לאחר יציאה מהמערכת, ניתן לעדכן שירים בהגדרות מוסיקה - כבוי Watercress FM.</string>
     <string name="cancel">ביטול</string>
     <string name="enter">אישור</string>
-    <string name="music_downloading_noting">-/-</string>
     <string name="app_name">נגן מדיה HM</string>
     <string name="favorite">מועדפים</string>
     <string name="error_no_metadata">אין אפשרות לאחזר נתונים.</string>
@@ -69,13 +69,9 @@
     <string name="no_search_results">אין תוצאות חיפוש.</string>
     <string name="loading">טעינה…</string>
     <string name="media_route_menu_title">הפעל ב...</string>
-    <string name="confirm_exit">"The listed songs have not completely downloaded. 
-Are you sure to exist?"</string>
+    <string name="confirm_exit">\"The listed songs have not completely downloaded. 
+Are you sure to exist?\"</string>
     <string name="music_download_cancel">The songs downloading process has been stopped</string>
-    <string name="play_mode_single_loop">Single loop</string>
-    <string name="play_mode_ordered">Order play</string>
-    <string name="play_mode_random">Random play</string>
-    <string name="play_mode_album_loop">Album loop</string>
     <string name="stop_casting">הפסקת הזרמה</string>
     <string name="label_pause">השהה</string>
     <string name="label_play">נגן</string>
@@ -98,4 +94,8 @@ Are you sure to exist?"</string>
     <string name="widget_currentstep_sleep_no">אין נתוני שינה</string>
     <string name="widget_currentstep_activity_no">לא התאמנת היום?</string>
     <string name="locale_title">בחר שפה</string>
+    <string name="play_mode_single_loop">Single loop</string>
+    <string name="play_mode_ordered">Order play</string>
+    <string name="play_mode_random">Random play</string>
+    <string name="play_mode_album_loop">Album loop</string>
 </resources>

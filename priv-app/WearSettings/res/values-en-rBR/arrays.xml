@@ -27,11 +27,6 @@
         <item>[sum]Capture Bluetooth HCI log</item>
         <item>[sid]btsnoop</item>
     </string-array>
-    <string-array name="lab_item_power_test">
-        <item>[prim]Power consumption test in flight mode</item>
-        <item>[sum]Detect power consumption in flight mode</item>
-        <item>[sid]power_test</item>
-    </string-array>
     <string-array name="lab_item_long_sitting_timer_plus">
         <item>[prim]Time of sedentary reminder</item>
         <item>[sum]Set the time of sedentary reminder (in min)</item>
@@ -228,5 +223,10 @@
         <item>Brilho: 3</item>
         <item>Brilho: 4</item>
         <item>Brilho: 5</item>
+    </string-array>
+    <string-array name="lab_item_power_test">
+        <item>[prim]Power consumption test in flight mode</item>
+        <item>[sum]Detect power consumption in flight mode</item>
+        <item>[sid]power_test</item>
     </string-array>
 </resources>

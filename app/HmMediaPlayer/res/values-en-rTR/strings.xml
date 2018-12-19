@@ -13,6 +13,7 @@
     <string name="music_download_success">Şarkı güncellemesi başarılı</string>
     <string name="music_downloading">Şarkı indiriliyor...</string>
     <string name="music_fetch_list">Şarkı listesi oluşturun...</string>
+    <string name="music_downloading_noting">-/-</string>
     <string name="check_network">Ağ bağlantısını kontrol edin</string>
     <string name="music_continue_downloading">Şarkılar indirilmeye devam edilecek</string>
     <string name="music_service_unavalible">DouBan hizmeti kullanılamıyor</string>
@@ -37,7 +38,6 @@
     <string name="music_down_not_complete_content">Çıkış yaptıktan sonra, müzik ayarları - Watercress FM çevrimdışı olarak şarkılar güncellenebilir.</string>
     <string name="cancel">iptal</string>
     <string name="enter">Giriş</string>
-    <string name="music_downloading_noting">-/-</string>
     <string name="app_name">HM Media Player</string>
     <string name="favorite">Favori</string>
     <string name="error_no_metadata">Meta verisi alınamadı.</string>
@@ -69,13 +69,9 @@
     <string name="no_search_results">Arama sonucu bulunamadı.</string>
     <string name="loading">Yükleniyor...</string>
     <string name="media_route_menu_title">Oynatma açık...</string>
-    <string name="confirm_exit">"The listed songs have not completely downloaded. 
-Are you sure to exist?"</string>
+    <string name="confirm_exit">\"The listed songs have not completely downloaded. 
+Are you sure to exist?\"</string>
     <string name="music_download_cancel">The songs downloading process has been stopped</string>
-    <string name="play_mode_single_loop">Single loop</string>
-    <string name="play_mode_ordered">Order play</string>
-    <string name="play_mode_random">Random play</string>
-    <string name="play_mode_album_loop">Album loop</string>
     <string name="stop_casting">Yürütmeyi Durdur</string>
     <string name="label_pause">Duraklat</string>
     <string name="label_play">Oynat</string>
@@ -98,4 +94,8 @@ Are you sure to exist?"</string>
     <string name="widget_currentstep_sleep_no">Uyku verisi yok</string>
     <string name="widget_currentstep_activity_no">Aktiviten yok mu?</string>
     <string name="locale_title">Dil Seçin</string>
+    <string name="play_mode_single_loop">Single loop</string>
+    <string name="play_mode_ordered">Order play</string>
+    <string name="play_mode_random">Random play</string>
+    <string name="play_mode_album_loop">Album loop</string>
 </resources>

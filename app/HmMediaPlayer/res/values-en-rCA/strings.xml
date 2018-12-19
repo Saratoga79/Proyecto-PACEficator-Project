@@ -13,6 +13,7 @@
     <string name="music_download_success">Actualització correcta de la cançó</string>
     <string name="music_downloading">S\'està baixant la cançó...</string>
     <string name="music_fetch_list">S\'està obtenint la llista de cançons...</string>
+    <string name="music_downloading_noting">-/-</string>
     <string name="check_network">Comprova la xarxa</string>
     <string name="music_continue_downloading">Es continuaran baixant les cançons</string>
     <string name="music_service_unavalible">El servei de DouBan no està disponible</string>
@@ -37,7 +38,6 @@
     <string name="music_down_not_complete_content">Després de tancar la sessió, les cançons es poden actualitzar a la configuració de Música - Watercress FM fora de línia.</string>
     <string name="cancel">cancel·la</string>
     <string name="enter">Entrar</string>
-    <string name="music_downloading_noting">-/-</string>
     <string name="app_name">HM Media Player</string>
     <string name="favorite">Preferit</string>
     <string name="error_no_metadata">No es poden recuperar les metadades.</string>
@@ -69,13 +69,9 @@
     <string name="no_search_results">No hi ha resultats de cerca.</string>
     <string name="loading">S\'està carregant…</string>
     <string name="media_route_menu_title">Reprodueix a…</string>
-    <string name="confirm_exit">"The listed songs have not completely downloaded. 
-Are you sure to exist?"</string>
+    <string name="confirm_exit">\"The listed songs have not completely downloaded. 
+Are you sure to exist?\"</string>
     <string name="music_download_cancel">The songs downloading process has been stopped</string>
-    <string name="play_mode_single_loop">Single loop</string>
-    <string name="play_mode_ordered">Order play</string>
-    <string name="play_mode_random">Random play</string>
-    <string name="play_mode_album_loop">Album loop</string>
     <string name="stop_casting">Atura l\'enviament</string>
     <string name="label_pause">Pausa</string>
     <string name="label_play">Reprodueix</string>
@@ -98,4 +94,8 @@ Are you sure to exist?"</string>
     <string name="widget_currentstep_sleep_no">No hi ha dades de son</string>
     <string name="widget_currentstep_activity_no">Avui no hi ha activitat?</string>
     <string name="locale_title">Selecciona l\'idioma</string>
+    <string name="play_mode_single_loop">Single loop</string>
+    <string name="play_mode_ordered">Order play</string>
+    <string name="play_mode_random">Random play</string>
+    <string name="play_mode_album_loop">Album loop</string>
 </resources>

@@ -13,6 +13,7 @@
     <string name="music_download_success">Actualización correcta de la canción</string>
     <string name="music_downloading">Descargando canción...</string>
     <string name="music_fetch_list">Obtención de la lista de canciones ...</string>
+    <string name="music_downloading_noting">-/-</string>
     <string name="check_network">Comprueba la conexión a internet</string>
     <string name="music_continue_downloading">Seguirán descargándose canciones</string>
     <string name="music_service_unavalible">Servicio DouBan no disponible</string>
@@ -37,7 +38,6 @@
     <string name="music_down_not_complete_content">Después de salir de la sesión, las canciones pueden ser actualizados en los ajustes de Música - sin conexión Watercress FM.</string>
     <string name="cancel">cancelar</string>
     <string name="enter">Entrar</string>
-    <string name="music_downloading_noting">-/-</string>
     <string name="app_name">HM Media Player</string>
     <string name="favorite">Favorito</string>
     <string name="error_no_metadata">No se puede recuperar metadatos.</string>
@@ -71,10 +71,6 @@
     <string name="media_route_menu_title">Reproductor encendido...</string>
     <string name="confirm_exit">La lista de reproducción se está descargando, ¿detenerla?</string>
     <string name="music_download_cancel">La descarga de la canción se ha detenido</string>
-    <string name="play_mode_single_loop">Sin repetir</string>
-    <string name="play_mode_ordered">En orden</string>
-    <string name="play_mode_random">Aleatorio</string>
-    <string name="play_mode_album_loop">Repetir album</string>
     <string name="stop_casting">Dejar de enviar</string>
     <string name="label_pause">Pausa</string>
     <string name="label_play">Reproducir</string>
@@ -97,4 +93,8 @@
     <string name="widget_currentstep_sleep_no">Sin datos de sueño</string>
     <string name="widget_currentstep_activity_no">¿No te ejercitas hoy?</string>
     <string name="locale_title">Seleccione el idioma</string>
+    <string name="play_mode_single_loop">Sin repetir</string>
+    <string name="play_mode_ordered">En orden</string>
+    <string name="play_mode_random">Aleatorio</string>
+    <string name="play_mode_album_loop">Repetir album</string>
 </resources>
