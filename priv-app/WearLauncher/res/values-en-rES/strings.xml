@@ -94,7 +94,7 @@
     <string name="music_play_status">Reproduciendo</string>
     <string name="music_bulethooth_disconnect">Conectando a Bluetooth…</string>
     <string name="music_peek_content">Tu teléfono usa la app %s para reproducir música. Puedes controlar la música desde la notificación del reloj.</string>
-    <string name="alone_before_open">最近打开</string>
+    <string name="alone_before_open">Recientes</string>
     <string name="amazing_dialog_btn_confirm_text">Confirmar</string>
     <string name="amazing_dialog_btn_cancel_text">Cancelar</string>
     <string name="accept">Aceptar</string>
@@ -657,8 +657,8 @@
     <string name="weather_warning_smog">Niebla tóxica</string>
     <string name="weather_warning_ice">Carreteras heladas</string>
     <string name="weather_warning_snowstorm">Nevada</string>
-    <string name="data_check_log">" +------------------------+▂▃▄▅▆▇█▉  Weather data verification error!     %1$s▉█▇▆▅▄▃▂+------------------------+"</string>
-    <string name="data_checkfail_json">JSON format error</string>
+    <string name="data_check_log">" + + ------------------------ ▂▃▄▅▆▇█▉ Error en verificación de datos del tiempo %1$s ▉█▇▆▅▄▃▂ + + ------------------------"</string>
+    <string name="data_checkfail_json">Error de formato JSON</string>
     <string name="average_text">Promedio</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Confirmar</string>
