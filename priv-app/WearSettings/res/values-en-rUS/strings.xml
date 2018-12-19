@@ -357,13 +357,14 @@ kg"</string>
     <string name="left_hand">Left</string>
     <string name="right_hand">Right</string>
     <string name="lock_screen_title">Lock screen</string>
-    <string name="sport_remind_open_title">运动模式开启提醒</string>
-    <string name="sport_remind_end_title">运动模式结束提醒</string>
-    <string name="sport_remind_open_tips">开启后，将在检测到你跑步或健走时，提醒你快捷开启运动模式</string>
-    <string name="sport_remind_end_tips">开启后，将在检测到你运动完成后，提醒你结束并保存</string>
-    <string name="sport_remind_open">开启</string>
-    <string name="sport_remind_title">运动提醒</string>
+    <string name="sport_remind_open_title">Motion start detection</string>
+    <string name="sport_remind_end_title">Motion end detection</string>
+    <string name="sport_remind_open_tips">When turned on, it will remind you to quickly turn on the sport mode when it detects that you are running or walking.</string>
+    <string name="sport_remind_end_tips">When turned on, you will be reminded to end and save after detecting that your exercise is complete.</string>
+    <string name="sport_remind_open">Open</string>
+    <string name="sport_remind_title">Motion Detection</string>
     <string name="device_name_huanghe">Amazfit Sportwatch</string>
     <string name="reset_factory_yes">Restore to factory settings</string>
     <string name="reset_factory_no">Cancel</string>
+    <string name="lock_screen_auto">定时关闭微光</string>
 </resources>
