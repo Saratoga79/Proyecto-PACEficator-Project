@@ -169,7 +169,7 @@
     <string name="history_pace_graph_desc_imperial">Erritmoa (min/mi)</string>
     <string name="history_swim_pace_graph_desc">Pace(min/100m)</string>
     <string name="history_swim_pace_graph_desc_imperial">Pace(min/100ft)</string>
-    <string name="history_swim_pace_graph_desc_yd">Pace(min/100yards)</string>
+    <string name="history_swim_pace_graph_desc_yd">Erritmoa(min/100yards)</string>
     <string name="history_speed_graph_desc">Abiadura(km/h)</string>
     <string name="history_speed_graph_desc_imperial">Abiadura(mph)</string>
     <string name="history_altitude_graph_desc">Altitudea (m)</string>
@@ -246,15 +246,15 @@
     <string name="sport_history_recovery">Errekuperazioa</string>
     <string name="sport_remind_pace_unit">/km</string>
     <string name="sport_lap_manual_current">Oraingoa</string>
-    <string name="sport_lap_swim_length_time">time/%1$s meters</string>
-    <string name="sport_lap_swim_length_time_imperial">time/%1$s yards</string>
-    <string name="sport_swim_style">Stroke Type</string>
-    <string name="sport_swim_style_main">Main Style</string>
-    <string name="swim_free_style">Freestyle</string>
-    <string name="swim_medlyrelay">Mixed</string>
-    <string name="swim_breaststroke">Breaststroke</string>
-    <string name="swim_backstroke">Backstroke</string>
-    <string name="swim_butterfly">Butterfly</string>
+    <string name="sport_lap_swim_length_time">aldi/%1$s metro</string>
+    <string name="sport_lap_swim_length_time_imperial">aldi/%1$s yarda</string>
+    <string name="sport_swim_style">Besakada mota</string>
+    <string name="sport_swim_style_main">Estilo nagusia</string>
+    <string name="swim_free_style">Estilo librea</string>
+    <string name="swim_medlyrelay">Mistoa</string>
+    <string name="swim_breaststroke">Bular</string>
+    <string name="swim_backstroke">Bizkar</string>
+    <string name="swim_butterfly">Tximeleta</string>
     <string name="swim_stroke_unit">SPM</string>
     <string name="settings_item_title_km_remind_triathlon">Pausa automatikoa</string>
     <string name="setting_sport_heart_region_remind_triathlon">Bihotz Tasa abisua</string>
@@ -263,7 +263,7 @@
     <string name="earphone_conn_title">Entzungailuak</string>
     <string name="device_in">Konektatuta</string>
     <string name="device_out">Deskonektatua</string>
-    <string name="history_swim_exchange_title">Transition to Cycling</string>
+    <string name="history_swim_exchange_title">Txirrindularitzara aldatu</string>
     <string name="history_riding_exchange_title">Korrika egitera aldatu</string>
     <string name="sport_pause_time_tips">Denbora gelditu</string>
     <string name="sport_stride_unit">cm</string>
@@ -274,18 +274,18 @@
 "</string>
     <string name="exchange_prepare_riding">Hurrengoa: Txirrindularitza</string>
     <string name="exchange_prepare_running">Hurrengoa: Korrika</string>
-    <string name="count_down_swim_tint">Touch screen will be locked</string>
+    <string name="count_down_swim_tint">Ukipen-pantaila blokeatu egingo da</string>
     <string name="sport_widget_title_history_record">Jarduerak</string>
     <string name="sport_widget_title_elliptical">Eliptika</string>
-    <string name="sport_widget_title_indoor_swim">Pool Swim</string>
-    <string name="sport_widget_title_open_water_swim">Open Water</string>
+    <string name="sport_widget_title_indoor_swim">Igerilekuan igeri</string>
+    <string name="sport_widget_title_open_water_swim">Ur irekitan igeri</string>
     <string name="sport_widget_title_triathlon">Triathlon</string>
     <string name="sport_widget_title_mountaineer">Mendi igoera</string>
     <string name="sport_widget_title_mountaineering">Mendi igoera</string>
-    <string name="sport_widget_title_indoor_swim_in_progress">In Pool Swim</string>
-    <string name="sport_widget_title_open_water_swim_in_progress">In Open Water</string>
+    <string name="sport_widget_title_indoor_swim_in_progress">Igerilekuan igeri</string>
+    <string name="sport_widget_title_open_water_swim_in_progress">Ur irekitan igeri</string>
     <string name="sport_widget_title_triathlon_in_progress">Triathlon</string>
-    <string name="sport_child_swim">Swim</string>
+    <string name="sport_child_swim">Igeri</string>
     <string name="sport_child_riding">Txirrindularitza</string>
     <string name="sport_child_running">Korrika</string>
     <string name="sport_month_settings">Ezarpen</string>
@@ -303,17 +303,17 @@
     <string name="settting_sport_gpx_route">Ibilbideak</string>
     <string name="swim_max_stroke_speed">Besaa0ada maximoa</string>
     <string name="swim_trips">Luze</string>
-    <string name="target_swim_trips">Target Trip</string>
+    <string name="target_swim_trips">Luze helburua</string>
     <string name="swim_total_trips">Egindako luzeak</string>
-    <string name="swim_stroke">stroke</string>
-    <string name="swim_stroke_times">Strokes</string>
-    <string name="swim_avg_dps">Avg. DPS</string>
+    <string name="swim_stroke">besakada</string>
+    <string name="swim_stroke_times">Besakadak</string>
+    <string name="swim_avg_dps">B. DPS</string>
     <string name="swim_swolf">Swolf</string>
     <string name="swim_swolf_unit">(%1$s m)</string>
     <string name="swim_swolf_unit_default">(%1$s 100m)</string>
     <string name="swim_swolf_unit_yd">(%1$syards)</string>
     <string name="swim_swolf_unit_default_yd">(100yards)</string>
-    <string name="swim_pace">Pace</string>
+    <string name="swim_pace">Erritmoa</string>
     <string name="swim_pace_unit">/100m</string>
     <string name="swim_pace_unit_imperial">/100ft</string>
     <string name="swim_trips_unit">(%1$d m/trip)</string>
@@ -329,8 +329,8 @@
     <string name="swim_unit">yard</string>
     <string name="pace_swim_unit_yd">/100yards</string>
     <string name="settings_item_value_swim_length_yd">%1$s yards</string>
-    <string name="title_custom_swim_length">Customize Pool Size</string>
-    <string name="swim_unit_title">Distance Unit</string>
+    <string name="title_custom_swim_length">Igerileku luzera ezarri</string>
+    <string name="swim_unit_title">Distantzi unitatea</string>
     <string name="gps_close_notification_content">Minutu bat pasa eta gero GPS-a itzalduko da</string>
     <string name="sport_te_desc">Jarduera honek arnasketa egora mantentzen du</string>
     <string name="last_kilo_meters_times">Azken km</string>
@@ -479,8 +479,8 @@
     <string name="first_beat_help_title_sport_target_or_real_time_guide">Ariketa errutina eta denbora-erreal entrenamendu gomendioak</string>
     <string name="first_beat_help_title_daily_perpormence">Errendimendu egoera</string>
     <string name="first_beat_help_title_recovery_time">Errekuperazio denbora</string>
-    <string name="first_beat_help_vo2_max">"\"\"\"&lt;font color=#00FF00&gt;¿Qué es esto？&lt;/font&gt;&lt;br/&gt; VO2Max representa el volumen máximo de oxígeno que el cuerpo puede consumir en un minuto, medido en ml / kg / min. Evalúa el estado de la capacidad cardiorrespiratoria de los usuarios que es importante para la salud general, el bienestar y el rendimiento deportivo. &lt;br/&gt;El reloj evaluará automáticamente su VO2Max en función de la frecuencia cardíaca, la velocidad, etc. durante un entrenamiento de carrera de intensidad moderada y lo comparará con un grupo de referencia de la misma edad y sexo para determinar su nivel de condición física.. &lt;br/&gt;&lt;font color=#00FF00&gt;¿Cómo evaluarlo？&lt;/font&gt;&lt;br/&gt; 1. Proporcione información de perfil precisa como la edad y el género en la aplicación Amazfit Watch durante la instalación； &lt;br/&gt; 2. Realice una actividad vigorosa de 15 minutos o más al aire libre con el reloj encendido y asegúrese de que la frecuencia cardíaca sea igual o superior al 75% de su maxHR durante al menos 10 minutos. &lt;br/&gt; 
-3. Después de completar la ejecución, puede verificar el VO2Max actual en la aplicación de actividades deportivas en la página de reloj o estado personal en la aplicación Amazift Watch. &lt;br/&gt;&lt;small&gt;Para obtener más información, consulte Ayuda en la aplicación Amazfit Watch.&lt;/small&gt;\"\"\""</string>
+    <string name="first_beat_help_vo2_max">"\"\"\"\"&lt;font color=#00FF00&gt;¿Qué es esto？&lt;/font&gt;&lt;br/&gt; VO2Max representa el volumen máximo de oxígeno que el cuerpo puede consumir en un minuto, medido en ml / kg / min. Evalúa el estado de la capacidad cardiorrespiratoria de los usuarios que es importante para la salud general, el bienestar y el rendimiento deportivo. &lt;br/&gt;El reloj evaluará automáticamente su VO2Max en función de la frecuencia cardíaca, la velocidad, etc. durante un entrenamiento de carrera de intensidad moderada y lo comparará con un grupo de referencia de la misma edad y sexo para determinar su nivel de condición física.. &lt;br/&gt;&lt;font color=#00FF00&gt;¿Cómo evaluarlo？&lt;/font&gt;&lt;br/&gt; 1. Proporcione información de perfil precisa como la edad y el género en la aplicación Amazfit Watch durante la instalación； &lt;br/&gt; 2. Realice una actividad vigorosa de 15 minutos o más al aire libre con el reloj encendido y asegúrese de que la frecuencia cardíaca sea igual o superior al 75% de su maxHR durante al menos 10 minutos. &lt;br/&gt; 
+3. Después de completar la ejecución, puede verificar el VO2Max actual en la aplicación de actividades deportivas en la página de reloj o estado personal en la aplicación Amazift Watch. &lt;br/&gt;&lt;small&gt;Para obtener más información, consulte Ayuda en la aplicación Amazfit Watch.&lt;/small&gt;\"\"\"\""</string>
     <string name="first_beat_help_te">&lt;font color=#00FF00&gt;¿Qué es esto？&lt;/font&gt;&lt;br/&gt; El Efecto de Entrenamiento (TE) mide la carga acumulada durante un entrenamiento e interpreta su impacto en su capacidad aeróbica. TE comienza en el nivel 0.0. A medida que la sesión de ejercicios progresa con éxito, el valor de TE aumenta (de 0 a 5) y le indica cómo el entrenamiento afecta su estado físico. &lt;br/&gt;&lt;font color=#00FF00&gt;¿Cómo se calcula? &lt;/font&gt;&lt;br/&gt; 
 TE se calcula en función de su perfil de usuario, los datos de latido del corazón y la dificultad del entrenamiento.&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; El reloj mostrará la medición de TE en tiempo real durante un entrenamiento, así como el resultado final de TE al final del entrenamiento.A&amp;lt;2.0 TE simplemente indica que el entrenamiento tiene poco efecto en la aptitud cardiorrespiratoria y es útil solo para construir una base de resistencia y recuperación.&lt;br/&gt;&lt;small&gt;Para obtener más información, consulte Ayuda en la aplicación Amazfit Watch.&lt;/small&gt;</string>
     <string name="first_beat_help_train_load">El reloj calculará la carga de entrenamiento en función de los valores EPOC (Exceso de consumo de oxígeno posterior al ejercicio) acumulados a partir de los datos de frecuencia cardíaca registrados durante los entrenamientos en una ventana móvil de 7 días. El usuario puede ajustar el programa de entrenamiento en consecuencia para alcanzar una carga óptima. &lt;br/&gt;&lt;small&gt;Para obtener más información, consulte Ayuda en la aplicación Amazfit Watch.&lt;/small&gt;</string>
