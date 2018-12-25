@@ -38,7 +38,7 @@
     <string name="reboot">Перезагрузка</string>
     <string name="about">О программе</string>
     <string name="wear_habit">Wear Habit</string>
-    <string name="bugreport">Сообщить об ошибке</string>
+    <string name="bugreport">Feedback</string>
     <string name="applications">Applications</string>
     <string name="long_sit">Long sitting</string>
     <string name="datacenter">Data center</string>
@@ -66,35 +66,38 @@
     <string name="wifi_upload">Data</string>
     <string name="wifi_upload_title">Data sychronization</string>
     <string name="watchface">Циферблаты</string>
-    <string name="wifi_auto_upload_switch">Auto Upload</string>
-    <string name="auto_bg">Screen brightened timing for lifting the wrist</string>
-    <string name="auto_hint_title">Off screen time</string>
+    <string name="hand_upload">Manual sychronization</string>
+    <string name="auto_upload">Auto sychronization</string>
     <string name="app_item_phone_anti_lost">Phone anti-lost</string>
     <string name="app_item_anti_lost_remind">Anti-lost reminder</string>
     <string name="app_item_far_away_remind">Being far away from phone reminder</string>
     <string name="remind_aleary_open">The reminder has been enabled.</string>
-    <string name="phone_far_away_remind_to_you">"The watch will alert you when you are far away from your phone."</string>
-    <string name="dialog_confire">Подтверждение</string>
+    <string name="phone_far_away_remind_to_you">The watch will alert you when you are far away from your phone.</string>
+    <string name="dialog_confire">OK</string>
+    <string name="auto_bg">Screen brightened timing for lifting the wrist</string>
+    <string name="auto_hint_title">Off screen time</string>
     <string name="long_key_action">Long press the key to open</string>
     <string name="voice">Volume adjustment</string>
-    <string name="watch_mode">Watch mode</string>
     <string name="recombind">Bind again</string>
-    <string name="hand_upload">Manual sychronization</string>
-    <string name="auto_upload">Auto sychronization</string>
+    <string name="watch_mode">Watch mode</string>
+    <string name="lock_screen_title">Lock screen</string>
     <string name="lock_screen">Lock screen</string>
+    <string name="lock_screen_hand">Off screen mode</string>
+    <string name="lock_screen_auto">Low-light mode timing</string>
     <string name="lock_screen_open">Off</string>
     <string name="lock_screen_close">On</string>
     <string name="lock_screen_open_guide">The battery life will be reduced if you set the screen lock mode to low light.</string>
     <string name="lock_auto_screen_wristup_guide">Once the off-screen time is set successfully, the watch screen will not light up even if it is lifted or locked.</string>
     <string name="wrist_up_hand">Lift wrist and screen is on</string>
-    <string name="lock_screen_hand">Off screen mode</string>
+    <string name="product_model_qogir_oversea">Amazfit Verge</string>
+    <string name="device_name_qogir_oversea">Amazfit Verge</string>
+    <string name="yongchiyou">Плавательный бассейн</string>
+    <string name="gongkaiyou">Открытая вода</string>
     <string name="paobu">Бег</string>
     <string name="jianzou">Ходьба</string>
     <string name="yueye">Горный бег</string>
     <string name="shineipao">Беговая дорожка</string>
     <string name="huwaiqi">Велоспорт</string>
-    <string name="yongchiyou">Плавательный бассейн</string>
-    <string name="gongkaiyou">Открытая вода</string>
     <string name="tuoyuanji">Эллиптический тренажер</string>
     <string name="dengshan">Восхождение</string>
     <string name="tierensan">Триатлон</string>
@@ -170,9 +173,9 @@
     <string name="auto_nodisturb_title_string">Авто Не беспокоить</string>
     <string name="auto_nodisturb_start_time_string">Turn-on time</string>
     <string name="auto_screen_wristup_start_time_string">Start time</string>
-    <string name="auto_screen_wristup_end_time_string">End time</string>
     <string name="auto_nodisturb_end_time_string">Turn-off time</string>
-    <string name="time_to">"To"</string>
+    <string name="auto_screen_wristup_end_time_string">End time</string>
+    <string name="time_to">To</string>
     <string name="auto_wifi_trans_on_string">Вкл</string>
     <string name="auto_wifi_trans_off_string">Выкл</string>
     <string name="blue_tooth_dev_in_sub_list">Bluetooth</string>
@@ -246,7 +249,7 @@
     <string name="zh_tw">Традиционный китайский (Тайвань)</string>
     <string name="ru_ru">Русский</string>
     <string name="es_es">Испанский</string>
-    <string name="confirm_change_locale">"Change language to
+    <string name="confirm_change_locale">"Change language to 
 %1$s?"</string>
     <string name="gender">Пол</string>
     <string name="birth_year">Год рождения</string>
@@ -255,13 +258,15 @@
     <string name="male">Мужчина</string>
     <string name="female">Женщина</string>
     <string name="centimeter">см</string>
-    <string name="birth_year_unit">"Birth
+    <string name="birth_year_unit">"Birth 
 Year"</string>
-    <string name="height_unit">"Height
+    <string name="height_unit">"Height 
 cm"</string>
-    <string name="weight_unit">"Weight
+    <string name="weight_unit">"Weight 
 kg"</string>
     <string name="reset_factory_hint">Are you sure of restoring to factory settings?</string>
+    <string name="reset_factory_yes">Restore to factory settings</string>
+    <string name="reset_factory_no">Cancel</string>
     <string name="reset_factory_title">Restore to factory settings</string>
     <string name="reset_factory_noconnect_msg">"If you want to unbind from the watch, please do so in the Amazfit watch App. 
  The UnionPay cards and the transportation cards will be removed from the watch once it is unilaterally restored to factory settings. 
@@ -286,7 +291,7 @@ kg"</string>
     <string name="lockpattern_tutorial_continue_label">Next</string>
     <string name="lockpassword_choose_your_pattern_header">Select pattern</string>
     <string name="lockpattern_recording_inprogress"></string>
-    <string name="cancel">Отмена</string>
+    <string name="cancel">Cancel</string>
     <string name="lockpattern_retry_button_text">Retry</string>
     <string name="lockpattern_continue_button_text">Continue</string>
     <string name="lockpattern_confirm_button_text">Confirm</string>
@@ -305,7 +310,7 @@ kg"</string>
     <string name="unlock_disable_lock_pattern_summary">Delete unlock pattern</string>
     <string name="unlock_disable_frp_warning_content">Device protection will no longer work.</string>
     <string name="okay">OK</string>
-    <string name="exit">Выход</string>
+    <string name="exit">Exit</string>
     <string name="pattern_set_title">Safety</string>
     <string name="watch_state">Screen saver settings</string>
     <string name="unwear">Watch away from the wrist</string>
@@ -346,18 +351,26 @@ kg"</string>
     <string name="screen_refresh">Секундная стрелка</string>
     <string name="screen_refresh_on_string">Вкл</string>
     <string name="screen_refresh_off_string">Выкл</string>
+    <string name="setting_regulatory_europe">Europe</string>
+    <string name="setting_regulatory_us">U.S.</string>
+    <string name="setting_regulatory_canda">Canada</string>
+    <string name="setting_regulatory_russia">Russia</string>
+    <string name="setting_regulatory_japan">Japan</string>
+    <string name="setting_regulation_desc_us">FCC ID:2AC8UA1811</string>
+    <string name="setting_regulation_desc_canda">"IC:21806-A1811 
+ ICAN ICE-3(B)/NMB-3(B)"</string>
+    <string name="setting_regulation_model_name">Model : %1$s</string>
     <string name="confirm_shutdown">Закрыть?</string>
     <string name="confirm_reboot">Перезагрузка?</string>
     <string name="app_name">Настройки часов</string>
     <string name="title_activity_long_sitting_time">LongSittingTimeActivity</string>
     <string name="lab_desc">Соберите часть средств отладки</string>
     <string name="unknown">Неизвестное устройство</string>
-    <string name="bind_tips_title">"Please bind
+    <string name="bind_tips_title">"Please bind 
  to protect your data more securely"</string>
     <string name="upgrade_checking">Проверка обновлений...</string>
     <string name="left_hand">Левая</string>
     <string name="right_hand">Правильно</string>
-    <string name="lock_screen_title">Lock screen</string>
     <string name="sport_remind_open_title">运动模式开启提醒</string>
     <string name="sport_remind_end_title">运动模式结束提醒</string>
     <string name="sport_remind_open_tips">开启后，将在检测到你跑步或健走时，提醒你快捷开启运动模式</string>
@@ -365,18 +378,4 @@ kg"</string>
     <string name="sport_remind_open">开启</string>
     <string name="sport_remind_title">运动提醒</string>
     <string name="device_name_huanghe">Amazfit智能运动手表</string>
-    <string name="reset_factory_yes">Restore to factory settings</string>
-    <string name="reset_factory_no">Cancel</string>
-    <string name="lock_screen_auto">定时关闭微光</string>
-    <string name="product_model_qogir_oversea">Amazfit Verge</string>
-    <string name="device_name_qogir_oversea">Amazfit Verge</string>
-    <string name="setting_regulation_desc_canda">Info</string>
-    <string name="setting_regulation_model_name">Info</string>
-    <string name="setting_regulatory_us">Info</string>
-    <string name="setting_regulatory_europe">Info</string>
-    <string name="setting_regulatory_canda">Info</string>
-    <string name="setting_regulatory_name">Info</string>
-    <string name="setting_regulatory_japan">Info</string>
-    <string name="setting_regulatory_russia">Info</string>
-    <string name="setting_regulation_desc_us">Info</string>
 </resources>
