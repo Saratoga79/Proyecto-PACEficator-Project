@@ -21,7 +21,7 @@
     <string name="mode_loop">Denak</string>
     <string name="mode_random">Aleatorio</string>
     <string name="music_list_title">Musika ezarpenak</string>
-    <string name="music_volumn_control">Bolumen kontrola</string>
+    <string name="music_volumn_control">Volume control</string>
     <string name="music_douban_offline">Douban FM offline</string>
     <string name="music_play_mode">Moduak</string>
     <string name="music_play_source">Iturburua aukeratu</string>
@@ -38,6 +38,7 @@
     <string name="music_down_not_complete_content">Sesiotik atera ondoren, abestiak eguneratuak izan daitezke Musikaren ezarpenetan - Watercress FM konexiorik izan gabe.</string>
     <string name="cancel">Ezeztatu</string>
     <string name="enter">Enter</string>
+    <string name="music_downloading_noting">-/-</string>
     <string name="app_name">HM Media Player</string>
     <string name="favorite">Gogokoena</string>
     <string name="error_no_metadata">Ezin dira metadatuak berreskuratu.</string>
@@ -69,9 +70,13 @@
     <string name="no_search_results">Bilaketa emaitzarik gabe.</string>
     <string name="loading">Kargatzen…</string>
     <string name="media_route_menu_title">Erreproduktorea piztuta...</string>
-    <string name="confirm_exit">\"The listed songs have not completely downloaded. 
-Are you sure to exist?\"</string>
+    <string name="confirm_exit">"The listed songs have not completely downloaded. 
+Are you sure to exist?"</string>
     <string name="music_download_cancel">The songs downloading process has been stopped</string>
+    <string name="play_mode_single_loop">Single loop</string>
+    <string name="play_mode_ordered">Order play</string>
+    <string name="play_mode_random">Random play</string>
+    <string name="play_mode_album_loop">Album loop</string>
     <string name="stop_casting">Bidalketa gelditu</string>
     <string name="label_pause">Pausa</string>
     <string name="label_play">Erreproduzitu</string>
@@ -94,8 +99,4 @@ Are you sure to exist?\"</string>
     <string name="widget_currentstep_sleep_no">Ez dago loaren daturik</string>
     <string name="widget_currentstep_activity_no">Gaur ez duzu ariketarik egingo?</string>
     <string name="locale_title">Aukeratu hizkuntza</string>
-    <string name="play_mode_single_loop">Single loop</string>
-    <string name="play_mode_ordered">Order play</string>
-    <string name="play_mode_random">Random play</string>
-    <string name="play_mode_album_loop">Album loop</string>
 </resources>
