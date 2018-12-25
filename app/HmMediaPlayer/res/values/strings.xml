@@ -21,7 +21,7 @@
     <string name="mode_random">Shuffle</string>
     <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
     <string name="music_list_title">Playback settings</string>
-    <string name="music_volumn_control">Volume</string>
+    <string name="music_volumn_control">Volume control</string>
     <string name="music_douban_offline">Douban FM offline</string>
     <string name="music_play_mode">Playback modes</string>
     <string name="music_play_source">Change music library</string>
@@ -38,6 +38,7 @@
     <string name="music_down_not_complete_content">After logging out, songs can be updated in the Music settings - Watercress FM offline.</string>
     <string name="cancel">cancel</string>
     <string name="enter">Enter</string>
+    <string name="music_downloading_noting">-/-</string>
     <string name="app_name">HM Media Player</string>
     <string name="favorite">Favorite</string>
     <string name="error_no_metadata">Unable to retrieve metadata.</string>
@@ -69,8 +70,13 @@
     <string name="no_search_results">No search results.</string>
     <string name="loading">Loading…</string>
     <string name="media_route_menu_title">Play on…</string>
-    <string name="confirm_exit">The playlist is downloading, stop it?</string>
-    <string name="music_download_cancel">Song downloading has been stopped</string>
+    <string name="confirm_exit">"The listed songs have not completely downloaded. 
+Are you sure to exist?"</string>
+    <string name="music_download_cancel">The songs downloading process has been stopped</string>
+    <string name="play_mode_single_loop">Single loop</string>
+    <string name="play_mode_ordered">Order play</string>
+    <string name="play_mode_random">Random play</string>
+    <string name="play_mode_album_loop">Album loop</string>
     <string name="stop_casting">Stop Casting</string>
     <string name="label_pause">Pause</string>
     <string name="label_play">Play</string>
@@ -93,8 +99,4 @@
     <string name="widget_currentstep_sleep_no">No sleep data</string>
     <string name="widget_currentstep_activity_no">No activity today?</string>
     <string name="locale_title">Select Language</string>
-    <string name="play_mode_single_loop">单曲循环</string>
-    <string name="play_mode_ordered">顺序播放</string>
-    <string name="play_mode_random">随机播放</string>
-    <string name="play_mode_album_loop">专辑内循环</string>
 </resources>

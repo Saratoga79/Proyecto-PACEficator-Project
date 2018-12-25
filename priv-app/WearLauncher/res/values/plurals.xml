@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="notification_time_day">
-        <item quantity="other">%s days ago</item>
-        <item quantity="one">%s day ago</item>
+        <item quantity="other">%s day(s) earlier</item>
+        <item quantity="one">%s day(s) earlier</item>
     </plurals>
     <plurals name="notification_time_hour">
-        <item quantity="other">%s hours ago</item>
-        <item quantity="one">%s hours ago</item>
+        <item quantity="other">%s hour(s) earlier</item>
+        <item quantity="one">%s hour(s) earlier</item>
     </plurals>
     <plurals name="notification_time_minute">
-        <item quantity="other">%s mins ago</item>
-        <item quantity="one">%s min ago</item>
+        <item quantity="other">%s minute(s) earlier</item>
+        <item quantity="one">%s minute(s) earlier</item>
     </plurals>
 </resources>
