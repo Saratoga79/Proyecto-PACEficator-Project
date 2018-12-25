@@ -38,6 +38,7 @@
     <string name="music_down_not_complete_content">Po zalogowaniu się utw. mogą być aktual. w ustaw. Music - Radio FM offline.</string>
     <string name="cancel">Anuluj</string>
     <string name="enter">Podłącz</string>
+    <string name="music_downloading_noting">-/-</string>
     <string name="app_name">HM Media Player</string>
     <string name="favorite">Ulubione</string>
     <string name="error_no_metadata">Nie można pobrać metadanych.</string>
@@ -69,9 +70,13 @@
     <string name="no_search_results">Brak wyników wyszukiwania.</string>
     <string name="loading">Ładowanie…</string>
     <string name="media_route_menu_title">Play on…</string>
-    <string name="confirm_exit">\"The listed songs have not completely downloaded. 
-Are you sure to exist?\"</string>
+    <string name="confirm_exit">"The listed songs have not completely downloaded. 
+Are you sure to exist?"</string>
     <string name="music_download_cancel">The songs downloading process has been stopped</string>
+    <string name="play_mode_single_loop">Single loop</string>
+    <string name="play_mode_ordered">Order play</string>
+    <string name="play_mode_random">Random play</string>
+    <string name="play_mode_album_loop">Album loop</string>
     <string name="stop_casting">Zatrzymaj Casting</string>
     <string name="label_pause">Pauza</string>
     <string name="label_play">Graj</string>
@@ -94,8 +99,4 @@ Are you sure to exist?\"</string>
     <string name="widget_currentstep_sleep_no">Brak danych snu</string>
     <string name="widget_currentstep_activity_no">Dziś nie ma ćwiczeń?</string>
     <string name="locale_title">Wybierz język</string>
-    <string name="play_mode_single_loop">Single loop</string>
-    <string name="play_mode_ordered">Order play</string>
-    <string name="play_mode_random">Random play</string>
-    <string name="play_mode_album_loop">Album loop</string>
 </resources>
