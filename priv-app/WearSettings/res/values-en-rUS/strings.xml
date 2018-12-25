@@ -66,35 +66,38 @@
     <string name="wifi_upload">Data</string>
     <string name="wifi_upload_title">Data sychronization</string>
     <string name="watchface">WatchFace</string>
-    <string name="wifi_auto_upload_switch">Auto Upload</string>
-    <string name="auto_bg">Screen brightened timing for lifting the wrist</string>
-    <string name="auto_hint_title">Off screen time</string>
+    <string name="hand_upload">Manual sychronization</string>
+    <string name="auto_upload">Auto sychronization</string>
     <string name="app_item_phone_anti_lost">Phone anti-lost</string>
     <string name="app_item_anti_lost_remind">Anti-lost reminder</string>
     <string name="app_item_far_away_remind">Being far away from phone reminder</string>
     <string name="remind_aleary_open">The reminder has been enabled.</string>
-    <string name="phone_far_away_remind_to_you">"The watch will alert you when you are far away from your phone."</string>
+    <string name="phone_far_away_remind_to_you">The watch will alert you when you are far away from your phone.</string>
     <string name="dialog_confire">OK</string>
+    <string name="auto_bg">Screen brightened timing for lifting the wrist</string>
+    <string name="auto_hint_title">Off screen time</string>
     <string name="long_key_action">Long press the key to open</string>
     <string name="voice">Volume adjustment</string>
-    <string name="watch_mode">Watch mode</string>
     <string name="recombind">Bind again</string>
-    <string name="hand_upload">Manual sychronization</string>
-    <string name="auto_upload">Auto sychronization</string>
+    <string name="watch_mode">Watch mode</string>
+    <string name="lock_screen_title">Lock screen</string>
     <string name="lock_screen">Lock screen</string>
+    <string name="lock_screen_hand">Off screen mode</string>
+    <string name="lock_screen_auto">Low-light mode timing</string>
     <string name="lock_screen_open">Off</string>
     <string name="lock_screen_close">On</string>
     <string name="lock_screen_open_guide">The battery life will be reduced if you set the screen lock mode to low light.</string>
-    <string name="lock_auto_screen_wristup_guide">The battery life will be reduced if you set the screen lock mode to low light.</string>
+    <string name="lock_auto_screen_wristup_guide">Once the off-screen time is set successfully, the watch screen will not light up even if it is lifted or locked.</string>
     <string name="wrist_up_hand">Lift wrist and screen is on</string>
-    <string name="lock_screen_hand">Off screen mode</string>
+    <string name="product_model_qogir_oversea">Amazfit Verge</string>
+    <string name="device_name_qogir_oversea">Amazfit Verge</string>
+    <string name="yongchiyou">Pool Swim</string>
+    <string name="gongkaiyou">Open Water</string>
     <string name="paobu">Running</string>
     <string name="jianzou">Walking</string>
     <string name="yueye">Trail Run</string>
     <string name="shineipao">Run Indoor</string>
     <string name="huwaiqi">Cycling</string>
-    <string name="yongchiyou">Pool Swim</string>
-    <string name="gongkaiyou">Open Water</string>
     <string name="tuoyuanji">Elliptical Trainer</string>
     <string name="dengshan">Climb</string>
     <string name="tierensan">Triathlon</string>
@@ -170,9 +173,9 @@
     <string name="auto_nodisturb_title_string">Auto no disturb</string>
     <string name="auto_nodisturb_start_time_string">Turn-on time</string>
     <string name="auto_screen_wristup_start_time_string">Start time</string>
-    <string name="auto_screen_wristup_end_time_string">End time</string>
     <string name="auto_nodisturb_end_time_string">Turn-off time</string>
-    <string name="time_to">"To"</string>
+    <string name="auto_screen_wristup_end_time_string">End time</string>
+    <string name="time_to">To</string>
     <string name="auto_wifi_trans_on_string">On</string>
     <string name="auto_wifi_trans_off_string">Off</string>
     <string name="blue_tooth_dev_in_sub_list">Bluetooth</string>
@@ -245,7 +248,7 @@ and is nearby"</string>
     <string name="zh_tw">繁體中文(台灣)</string>
     <string name="ru_ru">Русский</string>
     <string name="es_es">Español</string>
-    <string name="confirm_change_locale">"Change language to
+    <string name="confirm_change_locale">"Change language to 
 %1$s?"</string>
     <string name="gender">Gender</string>
     <string name="birth_year">Birth Year</string>
@@ -254,13 +257,15 @@ and is nearby"</string>
     <string name="male">Male</string>
     <string name="female">Female</string>
     <string name="centimeter">cm</string>
-    <string name="birth_year_unit">"Birth
+    <string name="birth_year_unit">"Birth 
 Year"</string>
-    <string name="height_unit">"Height
+    <string name="height_unit">"Height 
 cm"</string>
-    <string name="weight_unit">"Weight
+    <string name="weight_unit">"Weight 
 kg"</string>
     <string name="reset_factory_hint">Are you sure of restoring to factory settings?</string>
+    <string name="reset_factory_yes">Restore to factory settings</string>
+    <string name="reset_factory_no">Cancel</string>
     <string name="reset_factory_title">Restore to factory settings</string>
     <string name="reset_factory_noconnect_msg">"If you want to unbind from the watch, please do so in the Amazfit watch App. 
  The UnionPay cards and the transportation cards will be removed from the watch once it is unilaterally restored to factory settings. 
@@ -332,7 +337,7 @@ kg"</string>
     <string name="slient">Off</string>
     <string name="volume_value">Volume adjustment</string>
     <string name="light_value">Brightness</string>
-    <string name="light_auto_set">Brightness</string>
+    <string name="light_auto_set">Auto</string>
     <string name="light_auto_guide_title">Auto adjustment</string>
     <string name="light_auto_guide_content">After Auto adjustment is on, move slider to fine tune the brightness coefficient, then the screen brightness will still change with the ambient brightness.</string>
     <string name="light_auto_guide_ok">I know it</string>
@@ -345,18 +350,26 @@ kg"</string>
     <string name="screen_refresh">Cancel</string>
     <string name="screen_refresh_on_string">On</string>
     <string name="screen_refresh_off_string">Off</string>
+    <string name="setting_regulatory_europe">Europe</string>
+    <string name="setting_regulatory_us">U.S.</string>
+    <string name="setting_regulatory_canda">Canada</string>
+    <string name="setting_regulatory_russia">Russia</string>
+    <string name="setting_regulatory_japan">Japan</string>
+    <string name="setting_regulation_desc_us">FCC ID:2AC8UA1811</string>
+    <string name="setting_regulation_desc_canda">"IC:21806-A1811 
+ ICAN ICE-3(B)/NMB-3(B)"</string>
+    <string name="setting_regulation_model_name">Model : %1$s</string>
     <string name="confirm_shutdown">Shutdown?</string>
     <string name="confirm_reboot">Reboot?</string>
     <string name="app_name">Watch Settings</string>
     <string name="title_activity_long_sitting_time">LongSittingTimeActivity</string>
     <string name="lab_desc">Collect part of the debugging tools</string>
     <string name="unknown">Unknown device</string>
-    <string name="bind_tips_title">"Please bind
+    <string name="bind_tips_title">"Please bind 
  to protect your data more securely"</string>
     <string name="upgrade_checking">Checking for update...</string>
     <string name="left_hand">Left</string>
     <string name="right_hand">Right</string>
-    <string name="lock_screen_title">Lock screen</string>
     <string name="sport_remind_open_title">Motion start detection</string>
     <string name="sport_remind_end_title">Motion end detection</string>
     <string name="sport_remind_open_tips">When turned on, it will remind you to quickly turn on the sport mode when it detects that you are running or walking.</string>
@@ -364,18 +377,4 @@ kg"</string>
     <string name="sport_remind_open">Enable</string>
     <string name="sport_remind_title">Motion Detection</string>
     <string name="device_name_huanghe">Amazfit Sportwatch</string>
-    <string name="reset_factory_yes">Restore to factory settings</string>
-    <string name="reset_factory_no">Cancel</string>
-    <string name="lock_screen_auto">Auto. Screen Lock</string>
-    <string name="product_model_qogir_oversea">Amazfit Verge</string>
-    <string name="device_name_qogir_oversea">Amazfit Verge</string>
-    <string name="setting_regulation_desc_canda">Info1</string>
-    <string name="setting_regulation_model_name">Info2</string>
-    <string name="setting_regulatory_us">Info3</string>
-    <string name="setting_regulatory_europe">Info4</string>
-    <string name="setting_regulatory_canda">Info5</string>
-    <string name="setting_regulatory_name">Info6</string>
-    <string name="setting_regulatory_japan">Info7</string>
-    <string name="setting_regulatory_russia">Info8</string>
-    <string name="setting_regulation_desc_us">Info9</string>
 </resources>
