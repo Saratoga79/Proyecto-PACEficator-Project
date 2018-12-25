@@ -38,6 +38,7 @@
     <string name="music_down_not_complete_content">Nach dem Ausloggen können keine Songs mehr in den Musikeinstellungen aktualisiert werden - Watercress FM offline.</string>
     <string name="cancel">abbrechen</string>
     <string name="enter">Eingabe</string>
+    <string name="music_downloading_noting">-/-</string>
     <string name="app_name">HM Media Player</string>
     <string name="favorite">Favoriten</string>
     <string name="error_no_metadata">Metadaten nicht Wiederherstellbar.</string>
@@ -69,9 +70,13 @@
     <string name="no_search_results">Keine Suchergebnisse.</string>
     <string name="loading">Wird geladen…</string>
     <string name="media_route_menu_title">Weiterspielen…</string>
-    <string name="confirm_exit">\"The listed songs have not completely downloaded. 
-Are you sure to exist?\"</string>
+    <string name="confirm_exit">"The listed songs have not completely downloaded. 
+Are you sure to exist?"</string>
     <string name="music_download_cancel">The songs downloading process has been stopped</string>
+    <string name="play_mode_single_loop">Single loop</string>
+    <string name="play_mode_ordered">Order play</string>
+    <string name="play_mode_random">Random play</string>
+    <string name="play_mode_album_loop">Album loop</string>
     <string name="stop_casting">Auswahl beenden</string>
     <string name="label_pause">Pause</string>
     <string name="label_play">Play</string>
@@ -94,8 +99,4 @@ Are you sure to exist?\"</string>
     <string name="widget_currentstep_sleep_no">Keine Schlafdaten</string>
     <string name="widget_currentstep_activity_no">Heute kein Training?</string>
     <string name="locale_title">Sprache wählen</string>
-    <string name="play_mode_single_loop">Single loop</string>
-    <string name="play_mode_ordered">Order play</string>
-    <string name="play_mode_random">Random play</string>
-    <string name="play_mode_album_loop">Album loop</string>
 </resources>
