@@ -21,7 +21,7 @@
     <string name="mode_loop">Play all</string>
     <string name="mode_random">Shuffle</string>
     <string name="music_list_title">Playback settings</string>
-    <string name="music_volumn_control">Volume control</string>
+    <string name="music_volumn_control">Volume</string>
     <string name="music_douban_offline">Douban FM offline</string>
     <string name="music_play_mode">Playback modes</string>
     <string name="music_play_source">Change music library</string>
@@ -38,7 +38,6 @@
     <string name="music_down_not_complete_content">After logging out, songs can be updated in the Music settings - Watercress FM offline.</string>
     <string name="cancel">cancel</string>
     <string name="enter">Enter</string>
-    <string name="music_downloading_noting">-/-</string>
     <string name="app_name">HM Media Player</string>
     <string name="favorite">Favorite</string>
     <string name="error_no_metadata">Unable to retrieve metadata.</string>
@@ -70,9 +69,8 @@
     <string name="no_search_results">No search results.</string>
     <string name="loading">Loading…</string>
     <string name="media_route_menu_title">Play on…</string>
-    <string name="confirm_exit">"The listed songs have not completely downloaded. 
-Are you sure to exist?"</string>
-    <string name="music_download_cancel">The songs downloading process has been stopped</string>
+    <string name="confirm_exit">The playlist is downloading, stop it?</string>
+    <string name="music_download_cancel">Song downloading has been stopped</string>
     <string name="play_mode_single_loop">Single loop</string>
     <string name="play_mode_ordered">Order play</string>
     <string name="play_mode_random">Random play</string>

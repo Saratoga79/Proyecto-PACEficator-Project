@@ -120,15 +120,15 @@
         <item>com.huami.watch.watchface.DigitalWatchFaceSportTwelve</item>
         <item>com.huami.watch.watchface.AnalogWatchFaceThirteen</item>
         <item>com.huami.watch.watchface.AnalogWatchFaceFourteen</item>
-        <item>com.huami.watch.watchface.AnalogWatchFaceFourteen</item>
+        <item>wfzeacf94_us.wfz</item>
     </string-array>
     <string-array name="sort_a1609">
         <item>com.huami.watch.watchface.DigitalWatchFaceSportOne</item>
         <item>com.huami.watch.watchface.DigitalWatchFaceSportTwo</item>
         <item>com.huami.watch.watchface.DigitalWatchFaceSportFive</item>
         <item>com.huami.watch.watchface.DigitalWatchFaceSportEight</item>
-        <item>wfz03c6c7.wfz</item>
-        <item>wfzeacf94.wfz</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportSeven</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportThree</item>
         <item>com.huami.watch.watchface.DigitalSport4WatchFace</item>
         <item>com.huami.watch.watchface.DigitalWatchFaceSportSix</item>
         <item>com.huami.watch.watchface.SunriseDigitalWatchFace</item>
@@ -140,7 +140,7 @@
     </string-array>
     <string-array name="sort_a1619">
         <item>com.huami.watch.watchface.AnalogWatchFaceSixteen</item>
-        <item>com.huami.watch.watchface.AnalogWatchFaceSixteen</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportSeventeen</item>
         <item>wfzd0b8cb.wfz</item>
         <item>com.huami.watch.watchface.DigitalWatchFaceSportTwo</item>
         <item>wfz03c6c7_us.wfz</item>
@@ -151,48 +151,48 @@
         <item>com.huami.watch.watchface.DigitalWatchFaceSportEighteen</item>
         <item>wfz58ac65.wfz</item>
         <item>wfz95a54c.wfz</item>
-        <item>wfz95a54c.wfz</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportOne</item>
         <item>wfz3897e9.wfz</item>
     </string-array>
     <string-array name="weather_card_aqilevel">
-        <item>Air quality: good</item>
-        <item>Air quality: fine</item>
-        <item>Mild pollution</item>
-        <item>Moderate pollution</item>
+        <item>Air Excellent</item>
+        <item>Air Fine</item>
+        <item>Light Pollution</item>
+        <item>Moderate Pollution</item>
         <item>Heavy Pollution</item>
-        <item>Severe Pollution</item>
+        <item>Serious Pollution</item>
         <item></item>
     </string-array>
     <string-array name="weather_card_quality">
-        <item>Suitable for exercise</item>
-        <item>Not suitable for exercise</item>
+        <item>Suitable for Sports</item>
+        <item>Unsuitable for sports</item>
         <item></item>
     </string-array>
     <string-array name="quick_settings_status_weather">
         <item>Sunny</item>
         <item>Cloudy</item>
         <item>Overcast</item>
-        <item>Foggy</item>
-        <item>Hazy</item>
-        <item>Showery rain</item>
-        <item>Thundershowers</item>
+        <item>Fog</item>
+        <item>Smog</item>
+        <item>Shower</item>
+        <item>Thunder shower</item>
         <item>Light rain</item>
         <item>Moderate rain</item>
         <item>Heavy rain</item>
         <item>Rainstorm</item>
-        <item>Extraordinary rainstorm</item>
+        <item>Torrential rain</item>
         <item>Sleet</item>
         <item>Freezing rain</item>
-        <item>Thundershower with hail</item>
+        <item>Hail</item>
         <item>Light snow</item>
         <item>Moderate snow</item>
         <item>Heavy snow</item>
-        <item>Blizzard</item>
-        <item>Showery snow</item>
-        <item>Floating dust</item>
+        <item>Snowstorm</item>
+        <item>Snow shower</item>
+        <item>Dust</item>
         <item>Blowing sand</item>
-        <item>Sandstorm</item>
-        <item>Heavy sandstorm</item>
-        <item>No data</item>
+        <item>Sand storm</item>
+        <item>Strong sand storm</item>
+        <item>No Data</item>
     </string-array>
 </resources>
