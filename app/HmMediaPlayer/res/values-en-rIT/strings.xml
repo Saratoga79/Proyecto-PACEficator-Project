@@ -38,6 +38,7 @@
     <string name="music_down_not_complete_content">La lista brani verrà aggiornata all\'uscita - WatercressFM offline.</string>
     <string name="cancel">Annulla</string>
     <string name="enter">Attiva</string>
+    <string name="music_downloading_noting">-/-</string>
     <string name="app_name">HM Media Player</string>
     <string name="favorite">Preferiti</string>
     <string name="error_no_metadata">Impossibile accedere ai TAG mp3.</string>
@@ -69,9 +70,13 @@
     <string name="no_search_results">Nessun risultato trovato.</string>
     <string name="loading">Caricamento…</string>
     <string name="media_route_menu_title">In ascolto…</string>
-    <string name="confirm_exit">\"The listed songs have not completely downloaded. 
-Are you sure to exist?\"</string>
+    <string name="confirm_exit">"The listed songs have not completely downloaded. 
+Are you sure to exist?"</string>
     <string name="music_download_cancel">The songs downloading process has been stopped</string>
+    <string name="play_mode_single_loop">Single loop</string>
+    <string name="play_mode_ordered">Order play</string>
+    <string name="play_mode_random">Random play</string>
+    <string name="play_mode_album_loop">Album loop</string>
     <string name="stop_casting">Stop</string>
     <string name="label_pause">Pausa</string>
     <string name="label_play">Play</string>
@@ -94,8 +99,4 @@ Are you sure to exist?\"</string>
     <string name="widget_currentstep_sleep_no">Nessun dato sul sonno</string>
     <string name="widget_currentstep_activity_no">Inattivo</string>
     <string name="locale_title">Imposta lingua</string>
-    <string name="play_mode_single_loop">Single loop</string>
-    <string name="play_mode_ordered">Order play</string>
-    <string name="play_mode_random">Random play</string>
-    <string name="play_mode_album_loop">Album loop</string>
 </resources>

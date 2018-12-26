@@ -38,6 +38,7 @@
     <string name="music_down_not_complete_content">Sau khi thoát, bài hát được cập nhật trong cài đặt - Watercress FM ngắt kết nối.</string>
     <string name="cancel">Huỷ</string>
     <string name="enter">Mở</string>
+    <string name="music_downloading_noting">-/-</string>
     <string name="app_name">Trình chơi nhạc</string>
     <string name="favorite">Yêu thích</string>
     <string name="error_no_metadata">Không thể nạp thông tin</string>
@@ -69,9 +70,13 @@
     <string name="no_search_results">Không có kết quả</string>
     <string name="loading">Đang tải…</string>
     <string name="media_route_menu_title">Phát trên…</string>
-    <string name="confirm_exit">\"The listed songs have not completely downloaded. 
-Are you sure to exist?\"</string>
+    <string name="confirm_exit">"The listed songs have not completely downloaded. 
+Are you sure to exist?"</string>
     <string name="music_download_cancel">The songs downloading process has been stopped</string>
+    <string name="play_mode_single_loop">Single loop</string>
+    <string name="play_mode_ordered">Order play</string>
+    <string name="play_mode_random">Random play</string>
+    <string name="play_mode_album_loop">Album loop</string>
     <string name="stop_casting">Dừng phát</string>
     <string name="label_pause">Tạm dừng</string>
     <string name="label_play">Phát</string>
@@ -94,8 +99,4 @@ Are you sure to exist?\"</string>
     <string name="widget_currentstep_sleep_no">Ko có dữ liệu giấc ngủ</string>
     <string name="widget_currentstep_activity_no">Không hoạt động?</string>
     <string name="locale_title">Chọn Ngôn ngữ</string>
-    <string name="play_mode_single_loop">Single loop</string>
-    <string name="play_mode_ordered">Order play</string>
-    <string name="play_mode_random">Random play</string>
-    <string name="play_mode_album_loop">Album loop</string>
 </resources>
