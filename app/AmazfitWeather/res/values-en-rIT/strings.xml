@@ -5,8 +5,6 @@
     <string name="action_settings">Impostazioni</string>
     <string name="celsius">℃</string>
     <string name="fahrenheit">℉</string>
-    <string name="forecast_today">Oggi</string>
-    <string name="forecast_tomorrow">Domani</string>
     <string name="widget_title">Meteo</string>
     <string name="temp_unit_centigrade">℃</string>
     <string name="temp_unit_fahrenheit">°F</string>
@@ -64,6 +62,8 @@
     <string name="fetch_failed_title">"Couldn't get weather info"</string>
     <string name="fetch_failed_msg">Make sure your watch is connected to the Amazfit Watch app and a valid location is selected in the app.</string>
     <string name="date_time_format">MM/dd</string>
+    <string name="forecast_today">Oggi</string>
+    <string name="forecast_tomorrow">Tomorrow</string>
     <string name="fetch_failed_help">Sync weather info first</string>
     <string name="cancel">Annulla</string>
     <string name="data_check_log">+ ------------------------ + ▂▃▄▅▆▇█▉Errore convalida dati meteo! % %1$s ▉█▇ ▆▅▄▃▂ + ------------------------ +</string>

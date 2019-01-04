@@ -5,8 +5,6 @@
     <string name="action_settings">Nastavení</string>
     <string name="celsius">°C</string>
     <string name="fahrenheit">°F</string>
-    <string name="forecast_today">Dnes</string>
-    <string name="forecast_tomorrow">Zítra</string>
     <string name="widget_title">Počasí</string>
     <string name="temp_unit_centigrade">°C</string>
     <string name="temp_unit_fahrenheit">°F</string>
@@ -63,6 +61,8 @@
     <string name="fetch_failed_title">"Couldn't get weather info"</string>
     <string name="fetch_failed_msg">Make sure your watch is connected to the Amazfit Watch app and a valid location is selected in the app.</string>
     <string name="date_time_format">MM/dd</string>
+    <string name="forecast_today">Dnes</string>
+    <string name="forecast_tomorrow">Tomorrow</string>
     <string name="fetch_failed_help">Sync weather info first</string>
     <string name="cancel">Zavřít</string>
     <string name="data_check_log">+------------------------+▂▃▄▅▆▇█▉ Chyba údajů předpovědi！ %1$s▉█▇▆▅▄▃▂+------------------------+</string>

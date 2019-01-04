@@ -5,8 +5,6 @@
     <string name="action_settings">Postavke</string>
     <string name="celsius">℃</string>
     <string name="fahrenheit">℉</string>
-    <string name="forecast_today">Danas</string>
-    <string name="forecast_tomorrow">Sutra</string>
     <string name="widget_title">Vrijeme</string>
     <string name="temp_unit_centigrade">℃</string>
     <string name="temp_unit_fahrenheit">°F</string>
@@ -63,6 +61,8 @@
     <string name="fetch_failed_title">"Couldn't get weather info"</string>
     <string name="fetch_failed_msg">Make sure your watch is connected to the Amazfit Watch app and a valid location is selected in the app.</string>
     <string name="date_time_format">MM/dd</string>
+    <string name="forecast_today">Danas</string>
+    <string name="forecast_tomorrow">Tomorrow</string>
     <string name="fetch_failed_help">Sync weather info first</string>
     <string name="cancel">zatvori</string>
     <string name="data_check_log">+------------------------+▂▃▄▅▆▇█▉ 天 气 数 据 校 验 出 错 ！ %1$s▉█▇▆▅▄▃▂+------------------------+</string>
