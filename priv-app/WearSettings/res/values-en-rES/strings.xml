@@ -72,12 +72,12 @@
     <string name="auto_hint_title">Retroiluminación Automática</string>
     <string name="long_key_action">Pulsación prolongada botón inferior</string>
     <string name="rebond">Emparejar otra vez</string>
-    <string name="sport_remind_title">Activity reminders</string>
-    <string name="sport_remind_open_title">Reminders to start an activity</string>
-    <string name="sport_remind_end_title">Reminders to end an activity</string>
-    <string name="sport_remind_open_tips">Turn on to receive the reminders of starting an activity on the device when you are running, walking, etc.</string>
-    <string name="sport_remind_end_tips">Turn on to receive the reminders of ending an activity and saving the data on the device after your workout.</string>
-    <string name="sport_remind_open">Turn on</string>
+    <string name="sport_remind_title">Recordatorios de actividad</string>
+    <string name="sport_remind_open_title">Alerta de inicio de actividad</string>
+    <string name="sport_remind_end_title">Alerta de fin de actividad</string>
+    <string name="sport_remind_open_tips">Se te avisará para que inicies una actividad cuando ésta sea detectada</string>
+    <string name="sport_remind_end_tips">Se te avisará cuando se detecte el fin de una actividad para que la guardes</string>
+    <string name="sport_remind_open">Activar</string>
     <string name="product_model_huanghe">Amazfit Sports Watch</string>
     <string name="product_model_huanghe_oversea">Amazfit Pace</string>
     <string name="product_model_everest">Amazfit Sports Watch 2</string>
@@ -100,11 +100,11 @@
     <string name="ko_kr">Coreano</string>
     <string name="title_activity_long_sitting_time">Demasiado tiempo sentado</string>
     <string name="paobu">Correr</string>
-    <string name="jianzou">Walking</string>
+    <string name="jianzou">Caminar</string>
     <string name="yueye">Carrera Trail</string>
     <string name="shineipao">Correr en interior</string>
     <string name="huwaiqi">Ciclismo</string>
-    <string name="yongchiyou">Pool swimming</string>
+    <string name="yongchiyou">Nat. en piscina</string>
     <string name="gongkaiyou">Nat. en abiertas</string>
     <string name="tuoyuanji">Elíptica</string>
     <string name="dengshan">Montañismo</string>
@@ -153,7 +153,7 @@
     <string name="build_desc">[DEBUG]Descripción Estructura</string>
     <string name="lab">Lab</string>
     <string name="nothing">Vacío</string>
-    <string name="legal">"View the info in the "</string>
+    <string name="legal">"Ver la información en "</string>
     <string name="legal2">App del Reloj</string>
     <string name="device_name_default">Amazfit Watch</string>
     <string name="device_name_huanghe">Amazfit Sports Watch</string>
@@ -177,7 +177,7 @@
     <string name="auto_nodisturb_title_string">No molestar Aut.</string>
     <string name="auto_nodisturb_start_time_string">Hora inicio</string>
     <string name="auto_nodisturb_end_time_string">Hora fin</string>
-    <string name="time_to">" to "</string>
+    <string name="time_to">" a "</string>
     <string name="auto_wifi_trans_on_string">On</string>
     <string name="auto_wifi_trans_off_string">Off</string>
     <string name="blue_tooth_dev_in_sub_list">Bluetooth</string>
@@ -254,7 +254,7 @@ Nacim."</string>
  cm"</string>
     <string name="weight_unit">"Peso 
 kg"</string>
-    <string name="reset_factory_hint">Reset device?</string>
+    <string name="reset_factory_hint">¿Resetear dispositivo?</string>
     <string name="time_zone">Zona Horaria</string>
     <string name="date">Fecha</string>
     <string name="time">Hora</string>
