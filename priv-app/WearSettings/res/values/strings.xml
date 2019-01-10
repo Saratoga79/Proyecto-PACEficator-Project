@@ -71,6 +71,12 @@
     <string name="auto_hint_title">Auto backlight</string>
     <string name="long_key_action">Press and hold the button to turn on</string>
     <string name="rebond">Pair again</string>
+    <string name="sport_remind_title">Activity reminders</string>
+    <string name="sport_remind_open_title">Reminders to start an activity</string>
+    <string name="sport_remind_end_title">Reminders to end an activity</string>
+    <string name="sport_remind_open_tips">Turn on to receive the reminders of starting an activity on the device when you are running, walking, etc.</string>
+    <string name="sport_remind_end_tips">Turn on to receive the reminders of ending an activity and saving the data on the device after your workout.</string>
+    <string name="sport_remind_open">Turn on</string>
     <string name="product_model_huanghe">Amazfit Sports Watch</string>
     <string name="product_model_huanghe_oversea">Amazfit Pace</string>
     <string name="product_model_everest">Amazfit Sports Watch 2</string>
@@ -93,11 +99,11 @@
     <string name="ko_kr">한국의</string>
     <string name="title_activity_long_sitting_time">LongSittingTimeActivity</string>
     <string name="paobu">Running</string>
-    <string name="jianzou">Walk</string>
+    <string name="jianzou">Walking</string>
     <string name="yueye">Trail run</string>
     <string name="shineipao">Treadmill</string>
     <string name="huwaiqi">Outdoor cycling</string>
-    <string name="yongchiyou">Swimming pool</string>
+    <string name="yongchiyou">Pool swimming</string>
     <string name="gongkaiyou">Open water</string>
     <string name="tuoyuanji">Elliptical</string>
     <string name="dengshan">Climbing</string>
@@ -146,7 +152,7 @@
     <string name="build_desc">[DEBUG] Build description</string>
     <string name="lab">Lab</string>
     <string name="nothing">Empty</string>
-    <string name="legal">View the info in the</string>
+    <string name="legal">"View the info in the "</string>
     <string name="legal2">Amazfit Watch app</string>
     <string name="device_name_default">Amazfit Pace</string>
     <string name="device_name_huanghe">Amazfit Pace</string>
@@ -170,7 +176,7 @@
     <string name="auto_nodisturb_title_string">Auto DND</string>
     <string name="auto_nodisturb_start_time_string">Start</string>
     <string name="auto_nodisturb_end_time_string">End</string>
-    <string name="time_to">to</string>
+    <string name="time_to">" to "</string>
     <string name="auto_wifi_trans_on_string">On</string>
     <string name="auto_wifi_trans_off_string">Off</string>
     <string name="blue_tooth_dev_in_sub_list">Bluetooth</string>
@@ -249,7 +255,7 @@ year"</string>
 cm"</string>
     <string name="weight_unit">"Weight
 kg"</string>
-    <string name="reset_factory_hint">Restore factory settings?</string>
+    <string name="reset_factory_hint">Reset device?</string>
     <string name="time_zone">Time zone</string>
     <string name="date">Date</string>
     <string name="time">Time</string>
