@@ -22,8 +22,8 @@
     <string name="custom_data_widget_title_default">Datos</string>
     <string name="custom_data_widget_title_nothing">"Nada"</string>
     <string name="custom_data_widget_title_step">Pasos</string>
-    <string name="custom_data_widget_title_today_dis">"Distancia"</string>
-    <string name="custom_data_widget_title_total_dis">Total</string>
+    <string name="custom_data_widget_title_today_dis">"Distancia de hoy"</string>
+    <string name="custom_data_widget_title_total_dis">Distancia Total</string>
     <string name="custom_data_widget_title_calorie">"Calorías"</string>
     <string name="custom_data_widget_title_heart_rate">RC</string>
     <string name="custom_data_widget_title_weather">Clima</string>
@@ -115,7 +115,7 @@
     <string name="times_per_minute">SPM</string>
     <string name="per_km">/km</string>
     <string name="per_100m">/100m</string>
-    <string name="per_100Yard">/100yards</string>
+    <string name="per_100Yard">/100 yd</string>
     <string name="mile">mi</string>
     <string name="mile_per_hour">mi/h</string>
     <string name="per_mile">/mi</string>
@@ -130,7 +130,7 @@
     <string name="press_key_finish_train">Pulsar Vuelta Manual</string>
     <string name="press_up_key_wake_up">Pulsa botón de encendido</string>
     <string name="need_run_kilometer">Distancia del intervalo:</string>
-    <string name="need_run_time">Tiempo de intervalo:</string>
+    <string name="need_run_time">Tiempo del intervalo:</string>
     <string name="low_battery_protect">Batería baja</string>
     <string name="low_battery_tips">Batería baja</string>
     <string name="low_battery_please_charging">Batería baja. Carga.</string>
@@ -151,6 +151,8 @@
     <string name="rope_skip_tips2">Grupo</string>
     <string name="rope_skip_tips">Grupos completados: %1$s </string>
     <string name="music">Música</string>
+    <string name="press_long_power_key_wake_up">Pulsa Power</string>
+    <string name="sport_auto_pause_end">Sesión finalizada</string>
     <string name="press_any_key_wakeup1"></string>
     <string name="press_any_key_wakeup2"></string>
     <string name="press_power_key_wakeup1"></string>
@@ -161,6 +163,8 @@
     <string name="press_key_finish_train2"></string>
     <string name="zone_risk1">Más allá del corazón</string>
     <string name="zone_risk2">Valor límite</string>
+    <string name="sport_auto_pause_end2">¿Guardar datos?</string>
+    <string name="sport_auto_pause_end3"></string>
     <string name="app_name">HuamiWatchFaces</string>
     <string name="watch_label_sport_one">Vida de maratón</string>
     <string name="watch_label_sport_two">"Soy corredor"</string>
@@ -185,8 +189,8 @@
     <string name="watch_label_twenty">Power Armor</string>
     <string name="watch_label_twentyone">Interstellar</string>
     <string name="watch_today_step">Pasos de Hoy</string>
-    <string name="sport_step">Paso</string>
-    <string name="everyminute_times">ppm</string>
+    <string name="sport_step">" pasos"</string>
+    <string name="everyminute_times">" PPM"</string>
     <string name="locale_title">Seleccionar idioma</string>
     <string name="average_text">Med</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>

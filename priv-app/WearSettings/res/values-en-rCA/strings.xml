@@ -72,6 +72,12 @@
     <string name="auto_hint_title">Auto Backlight</string>
     <string name="long_key_action">Long press lap key</string>
     <string name="rebond">rebond</string>
+    <string name="sport_remind_title">Activity reminders</string>
+    <string name="sport_remind_open_title">Reminders to start an activity</string>
+    <string name="sport_remind_end_title">Reminders to end an activity</string>
+    <string name="sport_remind_open_tips">Turn on to receive the reminders of starting an activity on the device when you are running, walking, etc.</string>
+    <string name="sport_remind_end_tips">Turn on to receive the reminders of ending an activity and saving the data on the device after your workout.</string>
+    <string name="sport_remind_open">Turn on</string>
     <string name="product_model_huanghe">Amazfit Sports Watch</string>
     <string name="product_model_huanghe_oversea">Amazfit Pace</string>
     <string name="product_model_everest">Amazfit Sports Watch 2</string>
@@ -98,7 +104,7 @@
     <string name="yueye">Trail Run</string>
     <string name="shineipao">Run Indoor</string>
     <string name="huwaiqi">Cycling</string>
-    <string name="yongchiyou">Pool Swim</string>
+    <string name="yongchiyou">Pool swimming</string>
     <string name="gongkaiyou">Open Water</string>
     <string name="tuoyuanji">Elliptical Trainer</string>
     <string name="dengshan">Climb</string>
@@ -147,7 +153,7 @@
     <string name="build_desc">Descripció de complexió [DEBUG]</string>
     <string name="lab">Laboratori</string>
     <string name="nothing">Empty</string>
-    <string name="legal">Si usted plau comprovi a</string>
+    <string name="legal">"View the info in the "</string>
     <string name="legal2">Amazfit Watch App</string>
     <string name="device_name_default">Amazfit Watch</string>
     <string name="device_name_huanghe">Amazfit Sports Watch</string>
@@ -171,7 +177,7 @@
     <string name="auto_nodisturb_title_string">Auto no disturb</string>
     <string name="auto_nodisturb_start_time_string">Start time</string>
     <string name="auto_nodisturb_end_time_string">End time</string>
-    <string name="time_to"> to </string>
+    <string name="time_to">" to "</string>
     <string name="auto_wifi_trans_on_string">On</string>
     <string name="auto_wifi_trans_off_string">Off</string>
     <string name="blue_tooth_dev_in_sub_list">Bluetooth</string>
@@ -250,7 +256,7 @@ Year"</string>
 cm"</string>
     <string name="weight_unit">"Weight 
 kg"</string>
-    <string name="reset_factory_hint">Reset to factory settings?</string>
+    <string name="reset_factory_hint">Reset device?</string>
     <string name="time_zone">Time Zone</string>
     <string name="date">Date</string>
     <string name="time">Time</string>

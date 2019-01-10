@@ -72,6 +72,12 @@
     <string name="auto_hint_title">Automatické podsvietenie</string>
     <string name="long_key_action">Long press lap key</string>
     <string name="rebond">rebond</string>
+    <string name="sport_remind_title">Activity reminders</string>
+    <string name="sport_remind_open_title">Reminders to start an activity</string>
+    <string name="sport_remind_end_title">Reminders to end an activity</string>
+    <string name="sport_remind_open_tips">Turn on to receive the reminders of starting an activity on the device when you are running, walking, etc.</string>
+    <string name="sport_remind_end_tips">Turn on to receive the reminders of ending an activity and saving the data on the device after your workout.</string>
+    <string name="sport_remind_open">Turn on</string>
     <string name="product_model_huanghe">Amazfit Sports Watch</string>
     <string name="product_model_huanghe_oversea">Amazfit Pace</string>
     <string name="product_model_everest">Amazfit Sports Watch 2</string>
@@ -94,11 +100,11 @@
     <string name="ko_kr">한국의</string>
     <string name="title_activity_long_sitting_time">ČasovéAktivityDlhéhoSedenia</string>
     <string name="paobu">Beh</string>
-    <string name="jianzou">Chôdza</string>
+    <string name="jianzou">Walking</string>
     <string name="yueye">Trail Run</string>
     <string name="shineipao">Bežecký pás</string>
     <string name="huwaiqi">Bicyklovanie</string>
-    <string name="yongchiyou">Pool Swim</string>
+    <string name="yongchiyou">Pool swimming</string>
     <string name="gongkaiyou">Plávanie vonku</string>
     <string name="tuoyuanji">Eliptický trenažér</string>
     <string name="dengshan">Lezenie</string>
@@ -147,7 +153,7 @@
     <string name="build_desc">[DEBUG]Popis vytvorenia</string>
     <string name="lab">Lab</string>
     <string name="nothing">Prázdne</string>
-    <string name="legal">Please check in the</string>
+    <string name="legal">"View the info in the "</string>
     <string name="legal2">Amazfit Watch App</string>
     <string name="device_name_default">Amazfit Watch</string>
     <string name="device_name_huanghe">Amazfit Sports Watch</string>
@@ -171,7 +177,7 @@
     <string name="auto_nodisturb_title_string">Nerušiť</string>
     <string name="auto_nodisturb_start_time_string">Čas začiatku</string>
     <string name="auto_nodisturb_end_time_string">Čas ukončenia</string>
-    <string name="time_to"> do </string>
+    <string name="time_to">" to "</string>
     <string name="auto_wifi_trans_on_string">Zapnuté</string>
     <string name="auto_wifi_trans_off_string">Vypnuté</string>
     <string name="blue_tooth_dev_in_sub_list">Bluetooth</string>
@@ -250,7 +256,7 @@ narození"</string>
 cm"</string>
     <string name="weight_unit">"Váha 
 kg"</string>
-    <string name="reset_factory_hint">Obnoviť továrne nastavenia?</string>
+    <string name="reset_factory_hint">Reset device?</string>
     <string name="time_zone">Časová zóna</string>
     <string name="date">Dátum</string>
     <string name="time">Čas</string>

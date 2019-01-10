@@ -22,8 +22,8 @@
     <string name="custom_data_widget_title_default">Daten</string>
     <string name="custom_data_widget_title_nothing">"Keine"</string>
     <string name="custom_data_widget_title_step">Schritte</string>
-    <string name="custom_data_widget_title_today_dis">"Kilometerstand"</string>
-    <string name="custom_data_widget_title_total_dis">Gesamt</string>
+    <string name="custom_data_widget_title_today_dis">"Today's distance"</string>
+    <string name="custom_data_widget_title_total_dis">Total distance</string>
     <string name="custom_data_widget_title_calorie">"Kalorien"</string>
     <string name="custom_data_widget_title_heart_rate">Puls</string>
     <string name="custom_data_widget_title_weather">Wetter</string>
@@ -50,13 +50,13 @@
     <string name="custom_data_widget_date_3">datawidget/date_3/en/week_%d.png</string>
     <string name="watch_label_nineteen">Super vorwärts</string>
     <string name="running">Laufen</string>
-    <string name="waking">Gehen</string>
+    <string name="waking">Walking</string>
     <string name="indoor_running">Laufband</string>
     <string name="outdoor_riding">Radfahren</string>
     <string name="indoor_riding">Trimmrad</string>
     <string name="cross_contry">Traillauf</string>
     <string name="eppitical">Ellipsentrainer</string>
-    <string name="indoor_swimming">Schwimmen (Pool)</string>
+    <string name="indoor_swimming">Pool swimming</string>
     <string name="outdoor_swimming">Schwimmen</string>
     <string name="triathlon">Triathlon</string>
     <string name="mountain">Bergsteigen</string>
@@ -73,7 +73,7 @@
     <string name="speed">Geschwindigkeit</string>
     <string name="stroke_speed">Schlagzahl</string>
     <string name="pace">Tempo</string>
-    <string name="mileage">Strecke</string>
+    <string name="mileage">Distance</string>
     <string name="rope_skip_freq">Häufigkeit</string>
     <string name="sport_has_paused">Pausiert</string>
     <string name="sport_paused_time">Pausenzeit</string>
@@ -115,7 +115,7 @@
     <string name="times_per_minute">SPM</string>
     <string name="per_km">/km</string>
     <string name="per_100m">/100 m</string>
-    <string name="per_100Yard">/100 Yards</string>
+    <string name="per_100Yard">/100 yd</string>
     <string name="mile">mi</string>
     <string name="mile_per_hour">mi/h</string>
     <string name="per_mile">/mi</string>
@@ -129,8 +129,8 @@
     <string name="longitude_and_latitude">Breite Länge</string>
     <string name="press_key_finish_train">Lap-Taste drücken intern</string>
     <string name="press_up_key_wake_up">An/Aus-Taste drücken</string>
-    <string name="need_run_kilometer">Intervall-Strecke:</string>
-    <string name="need_run_time">Intervall-Zeit:</string>
+    <string name="need_run_kilometer">Interval distance:</string>
+    <string name="need_run_time">Interval time:</string>
     <string name="low_battery_protect">Akkustand niedrig</string>
     <string name="low_battery_tips">Akkustand niedrig</string>
     <string name="low_battery_please_charging">Akkustand niedrig. Bitte aufladen.</string>
@@ -150,7 +150,9 @@
     <string name="rope_skip_tips1">Abgeschlossen</string>
     <string name="rope_skip_tips2">Gruppe</string>
     <string name="rope_skip_tips">Completed groups:%1$s</string>
-    <string name="music">音乐</string>
+    <string name="music">Music</string>
+    <string name="press_long_power_key_wake_up">Press a physical button to exit</string>
+    <string name="sport_auto_pause_end">Session ended</string>
     <string name="press_any_key_wakeup1"></string>
     <string name="press_any_key_wakeup2"></string>
     <string name="press_power_key_wakeup1"></string>
@@ -161,6 +163,8 @@
     <string name="press_key_finish_train2"></string>
     <string name="zone_risk1">Beyond the heart</string>
     <string name="zone_risk2">rate limit</string>
+    <string name="sport_auto_pause_end2">save the data?</string>
+    <string name="sport_auto_pause_end3"></string>
     <string name="app_name">HuamiWatchFaces</string>
     <string name="watch_label_sport_one">Marathon Leben</string>
     <string name="watch_label_sport_two">"Ich bin Läufer"</string>
@@ -185,8 +189,8 @@
     <string name="watch_label_twenty">Kraft Rüstung</string>
     <string name="watch_label_twentyone">Interstellar</string>
     <string name="watch_today_step">Heutige Schritte</string>
-    <string name="sport_step">Schritt</string>
-    <string name="everyminute_times">Schläge/min</string>
+    <string name="sport_step">" steps"</string>
+    <string name="everyminute_times">" BPM"</string>
     <string name="locale_title">Sprache wählen</string>
     <string name="average_text">Durchschnitt</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>

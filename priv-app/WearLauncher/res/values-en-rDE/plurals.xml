@@ -6,11 +6,11 @@
         <item quantity="one">vor %s Tag</item>
     </plurals>
     <plurals name="notification_time_hour">
-        <item quantity="other">vor %s Std.</item>
-        <item quantity="one">vor %s Std.</item>
+        <item quantity="other">%s hours ago</item>
+        <item quantity="one">%s hour ago</item>
     </plurals>
     <plurals name="notification_time_minute">
-        <item quantity="other">vor %s min.</item>
-        <item quantity="one">vor %s min.</item>
+        <item quantity="other">%s minutes ago</item>
+        <item quantity="one">%s minute ago</item>
     </plurals>
 </resources>
