@@ -6,11 +6,11 @@
         <item quantity="one">Hace %s día</item>
     </plurals>
     <plurals name="notification_time_hour">
-        <item quantity="other">Hace %s horas</item>
-        <item quantity="one">Hace %s horas</item>
+        <item quantity="other">%s hours ago</item>
+        <item quantity="one">%s hour ago</item>
     </plurals>
     <plurals name="notification_time_minute">
-        <item quantity="other">Hace %s minutos</item>
-        <item quantity="one">Hace %s minuto</item>
+        <item quantity="other">%s minutes ago</item>
+        <item quantity="one">%s minute ago</item>
     </plurals>
 </resources>
