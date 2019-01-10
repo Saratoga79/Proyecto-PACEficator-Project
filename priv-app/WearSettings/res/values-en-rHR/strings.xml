@@ -72,12 +72,12 @@
     <string name="auto_hint_title">Autom. osvjetljenje</string>
     <string name="long_key_action">Dugo pritisnite tipku kruga</string>
     <string name="rebond">ponovno poveži</string>
-    <string name="sport_remind_title">Activity reminders</string>
-    <string name="sport_remind_open_title">Reminders to start an activity</string>
-    <string name="sport_remind_end_title">Reminders to end an activity</string>
-    <string name="sport_remind_open_tips">Turn on to receive the reminders of starting an activity on the device when you are running, walking, etc.</string>
-    <string name="sport_remind_end_tips">Turn on to receive the reminders of ending an activity and saving the data on the device after your workout.</string>
-    <string name="sport_remind_open">Turn on</string>
+    <string name="sport_remind_title">Podsjetnici aktivnosti</string>
+    <string name="sport_remind_open_title">Podsjetnici za pokretanje aktivnosti</string>
+    <string name="sport_remind_end_title">Podsjetnici za završetak aktivnosti</string>
+    <string name="sport_remind_open_tips">Uključite primanje podsjetnika o pokretanju aktivnosti na uređaju kada trčite, hodate, itd.</string>
+    <string name="sport_remind_end_tips">Uključite primanje podsjetnika za okončanje aktivnosti i spremanje podataka na uređaju nakon vježbanja.</string>
+    <string name="sport_remind_open">Uklj.</string>
     <string name="product_model_huanghe">Amazfit Sports Watch</string>
     <string name="product_model_huanghe_oversea">Amazfit Pace</string>
     <string name="product_model_everest">Amazfit Sports Watch 2</string>
@@ -100,11 +100,11 @@
     <string name="ko_kr">한국의</string>
     <string name="title_activity_long_sitting_time">LongSittingTimeActivity</string>
     <string name="paobu">Trčanje</string>
-    <string name="jianzou">Walking</string>
+    <string name="jianzou">Hodanje</string>
     <string name="yueye">Staza za trčanje</string>
     <string name="shineipao">Trčanje u zatvorenom</string>
     <string name="huwaiqi">Biciklizam</string>
-    <string name="yongchiyou">Pool swimming</string>
+    <string name="yongchiyou">Plivanje u bazenu</string>
     <string name="gongkaiyou">Otvorena voda</string>
     <string name="tuoyuanji">Orbitrek</string>
     <string name="dengshan">Penjanje</string>
@@ -153,7 +153,7 @@
     <string name="build_desc">[DEBUG]Opis verzije</string>
     <string name="lab">Lab</string>
     <string name="nothing">Prazno</string>
-    <string name="legal">"View the info in the "</string>
+    <string name="legal">"Pogledaj informacije u "</string>
     <string name="legal2">aplikaciji Amazfit Watch</string>
     <string name="device_name_default">Amazfit Watch</string>
     <string name="device_name_huanghe">Amazfit Sports Watch</string>
@@ -178,7 +178,7 @@ Zrakoplovni način isključit će Bluetooth i Wi-Fi na satu radi uštede energij
     <string name="auto_nodisturb_title_string">Auto ne ometaj</string>
     <string name="auto_nodisturb_start_time_string">Vrijeme početka</string>
     <string name="auto_nodisturb_end_time_string">Vrijeme završetka</string>
-    <string name="time_to">" to "</string>
+    <string name="time_to">" do "</string>
     <string name="auto_wifi_trans_on_string">Uključi</string>
     <string name="auto_wifi_trans_off_string">Isključi</string>
     <string name="blue_tooth_dev_in_sub_list">Bluetooth</string>
@@ -257,7 +257,7 @@ rođenja"</string>
 cm"</string>
     <string name="weight_unit">"Težina 
 kg"</string>
-    <string name="reset_factory_hint">Reset device?</string>
+    <string name="reset_factory_hint">Resetirati uređaj?</string>
     <string name="time_zone">Vremenska zona</string>
     <string name="date">Datum</string>
     <string name="time">Vrijeme</string>
