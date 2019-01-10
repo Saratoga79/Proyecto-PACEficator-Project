@@ -72,6 +72,12 @@
     <string name="auto_hint_title">Eskumutur bira akt.</string>
     <string name="long_key_action">Mantendu Bira Botoia</string>
     <string name="rebond">errebote</string>
+    <string name="sport_remind_title">Activity reminders</string>
+    <string name="sport_remind_open_title">Reminders to start an activity</string>
+    <string name="sport_remind_end_title">Reminders to end an activity</string>
+    <string name="sport_remind_open_tips">Turn on to receive the reminders of starting an activity on the device when you are running, walking, etc.</string>
+    <string name="sport_remind_end_tips">Turn on to receive the reminders of ending an activity and saving the data on the device after your workout.</string>
+    <string name="sport_remind_open">Turn on</string>
     <string name="product_model_huanghe">Amazfit Sports Watch</string>
     <string name="product_model_huanghe_oversea">Amazfit Pace</string>
     <string name="product_model_everest">Amazfit Sports Watch 2</string>
@@ -94,11 +100,11 @@
     <string name="ko_kr">Koreera</string>
     <string name="title_activity_long_sitting_time">Denbora gehiegi eserita</string>
     <string name="paobu">Korrika</string>
-    <string name="jianzou">Ibili</string>
+    <string name="jianzou">Walking</string>
     <string name="yueye">Trail lasterketa</string>
     <string name="shineipao">Zinta estatikoa</string>
     <string name="huwaiqi">Txirrindularitza</string>
-    <string name="yongchiyou">igerilekuan igeri</string>
+    <string name="yongchiyou">Pool swimming</string>
     <string name="gongkaiyou">Ur irekitan igeri</string>
     <string name="tuoyuanji">Eliptika</string>
     <string name="dengshan">Alpinismoa</string>
@@ -147,7 +153,7 @@
     <string name="build_desc">[DEBUG]Egitura deskribapena</string>
     <string name="lab">Lab</string>
     <string name="nothing">Hutsik</string>
-    <string name="legal">Mesedez, konprobatu Amazfiten</string>
+    <string name="legal">"View the info in the "</string>
     <string name="legal2">Erlojuaren App-a</string>
     <string name="device_name_default">Amazfit Watch</string>
     <string name="device_name_huanghe">Amazfit Sports Watch</string>
@@ -171,7 +177,7 @@
     <string name="auto_nodisturb_title_string">No molestatu</string>
     <string name="auto_nodisturb_start_time_string">Hasiera ordua</string>
     <string name="auto_nodisturb_end_time_string">Bukaera ordua</string>
-    <string name="time_to"> rarte </string>
+    <string name="time_to">" to "</string>
     <string name="auto_wifi_trans_on_string">Piztu</string>
     <string name="auto_wifi_trans_off_string">Amatatu</string>
     <string name="blue_tooth_dev_in_sub_list">Bluetooth</string>
@@ -242,7 +248,7 @@
     <string name="birth_year_unit">Jaiotze data</string>
     <string name="height_unit">Altuera zm</string>
     <string name="weight_unit">Pisua kg</string>
-    <string name="reset_factory_hint">Fabrikako balioak ezarri?</string>
+    <string name="reset_factory_hint">Reset device?</string>
     <string name="time_zone">Ordu gunea</string>
     <string name="date">Data</string>
     <string name="time">Ordua</string>
