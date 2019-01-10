@@ -14,7 +14,7 @@
     <string name="crossing_title">Běh v terénu</string>
     <string name="crossing_end_sport">Nejdříve ukončete stávající běh</string>
     <string name="crossing_in_progress">Běhání v terénu...</string>
-    <string name="crossing_max_step_freq_desc">Maximální kadence</string>
+    <string name="crossing_max_step_freq_desc">Max. kadence</string>
     <string name="crossing_climb_up">Nabytá vzdálenost</string>
     <string name="crossing_climb_down">Sestoupáno</string>
     <string name="crossing_individual_pen_dis">Délka jednoho okruhu</string>
@@ -28,11 +28,11 @@
     <string name="crossing_history_detail_ave_move_pace_unit">/mi</string>
     <string name="crossing_history_detail_best_pace">Nejlepší tempo</string>
     <string name="crossing_history_detail_ave_move_speed">Průměrná rychlost</string>
-    <string name="crossing_history_detail_max_speed">Maximální rychlost</string>
+    <string name="crossing_history_detail_max_speed">Max. rychlost</string>
     <string name="crossing_history_detail_climb_up">Nastoupáno</string>
     <string name="crossing_history_detail_climb_down">Sestoupáno</string>
     <string name="crossing_history_detail_absolute_altitude">Nadmořská výška</string>
-    <string name="crossing_history_detail_high_altitude">Maximální nadmořská výška</string>
+    <string name="crossing_history_detail_high_altitude">Max. nadm. výška</string>
     <string name="crossing_history_detail_low_altitude">Minimální nadmořská výška</string>
     <string name="crossing_history_detail_ave_altitude">Průměrná nadmořská výška</string>
     <string name="crossing_history_detail_altituede_graph_desc">Nadmořská výška (feet)</string>
@@ -48,7 +48,7 @@
     <string name="settings_safe_heart_rate_hint">(Bezpečná tepová frekvence)</string>
     <string name="settings_safe_heart_rate_unit">bpm</string>
     <string name="elliptical">Eliptický</string>
-    <string name="elliptical_in_progress">Eliptický průběh</string>
+    <string name="elliptical_in_progress">Eliptický…</string>
     <string name="person_achive">Osobní rekord</string>
     <string name="achive_share_sport">Sdílet aktivitu</string>
     <string name="achive_get_record_time">17-05-25</string>
@@ -328,7 +328,7 @@
     <string name="swim_trips_unit">(%1$d m/výlet)</string>
     <string name="swim_trips_unit_yd">(%1$d yards/výlet)</string>
     <string name="heart_region_title">Zóna tepové frekvence</string>
-    <string name="heart_region_anaerobic＿limit">Maximum</string>
+    <string name="heart_region_anaerobic＿limit">VO₂ max</string>
     <string name="heart_region_endurance_enhancement">Anaerobní</string>
     <string name="heart_region_heart_and_lung_enhancement">Kardio trénink</string>
     <string name="heart_region_fat_burning">Spalování tuků</string>
@@ -369,9 +369,9 @@
     <string name="test_html_txt" formatted="false">%1sminc%2ssecc/%3smin</string>
     <string name="sport_widget_title_skiing">Lyžování</string>
     <string name="sport_widget_title_in_skiing">Lyžování</string>
-    <string name="skiing_history_downhill_title">Běh</string>
-    <string name="skiing_downhill_max_elev_loss">Maximální klesání</string>
-    <string name="skiing_downhill_total_elev_loss">Celkový sestup</string>
+    <string name="skiing_history_downhill_title">Sjezd</string>
+    <string name="skiing_downhill_max_elev_loss">Max. klesání</string>
+    <string name="skiing_downhill_total_elev_loss">Naklesáno</string>
     <string name="skiing_downhill_desecnd">Celková vzdálenost</string>
     <string name="skiing_cur_lat_lng_title">Dlouho</string>
     <string name="speed_remind_title">Upozornění na rychlost</string>
@@ -563,7 +563,7 @@
     <string name="indoor_riding_progressing">Cyklistika</string>
     <string name="outdoor_climb_distance">Ujetá pozemní vzdálenost</string>
     <string name="outdoor_climb_altitude">Převýšení</string>
-    <string name="outdoor_max_cadence">Maximální kadence</string>
+    <string name="outdoor_max_cadence">Max. kadence</string>
     <string name="outdoor_ave_cadence">Průměrná kadence</string>
     <string name="outdoor_graph_unit">Vzdálenost(mile)</string>
     <string name="outdoor_speed_graph_title">Rychlost(mi/h)</string>
@@ -685,10 +685,10 @@
     <string name="swim_stroke_speed">Rychlost úderu</string>
     <string name="rt_swim_trips">Výlet</string>
     <string name="swim_dps">DPS</string>
-    <string name="skiing_downhill_num">Běh</string>
+    <string name="skiing_downhill_num">Sjezdy</string>
     <string name="skiing_downhill_single_descend">Vzdálenost</string>
-    <string name="skiing_downhill_max_speed">Maximální rychlost</string>
-    <string name="skiing_downhill_elev_loss">Sestup</string>
+    <string name="skiing_downhill_max_speed">Max. rychlost</string>
+    <string name="skiing_downhill_elev_loss">Klesání</string>
     <string name="skiing_rt_downhill_desecnd">Celková vzdálenost</string>
     <string name="sport_tennis_strokes">Údery</string>
     <string name="last_lap_pace">Tempo posledního okruhu</string>
