@@ -37,4 +37,10 @@
         <item quantity="few">%d m</item>
         <item quantity="many">%d m</item>
     </plurals>
+    <plurals name="plurals_seconds">
+        <item quantity="other">%ds</item>
+        <item quantity="one">%ds</item>
+        <item quantity="few">%ds</item>
+        <item quantity="many">%ds</item>
+    </plurals>
 </resources>
