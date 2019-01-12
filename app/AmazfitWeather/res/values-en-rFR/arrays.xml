@@ -17,14 +17,14 @@
     <string-array name="weather_card_aqilevel">
         <item>Excellent</item>
         <item>Fine</item>
-        <item>Pollution légère</item>
-        <item>Pollution modérée</item>
-        <item>Forte pollution</item>
+        <item>Light pollution</item>
+        <item>Moderate pollution</item>
+        <item>Heavy pollution</item>
         <item>Severe pollution</item>
         <item></item>
     </string-array>
     <string-array name="weather_card_quality">
-        <item>Convient pour le sport</item>
+        <item>Suitable for sports</item>
         <item>Not suitable for sports</item>
         <item></item>
     </string-array>
@@ -51,8 +51,8 @@
         <item>Snow</item>
         <item>Poussièreux</item>
         <item>Sandstorm</item>
-        <item>Tempête de sable</item>
-        <item>Forte tempête de sable</item>
-        <item>Pas de donnée</item>
+        <item>Sandstorm</item>
+        <item>Strong sandstorm</item>
+        <item>No data</item>
     </string-array>
 </resources>
