@@ -441,11 +441,11 @@
     <string name="modify_big_dis_regain">Uredi</string>
     <string name="modify_big_dis_confirm">Nastavi s kalibriranjem</string>
     <string name="re_modify_dis">Kalibriraj ponovno</string>
-    <string name="re_modify_dis_tips">"1. To calibrate the distance result of a running session (must be longer than 0.5 km) helps the watch to generate a more accurate result.
-2. If you still aren\'t satisfied with the result after several calibration attempts, try to calibrate again.
-3. If you calibrate the result again, all previous calibration records will be deleted."</string>
-    <string name="give_up_re_modify_dis">Discard</string>
-    <string name="confirm_re_modify_dis">OK</string>
+    <string name="re_modify_dis_tips">"1. Da biste kalibrirali rezultat udaljenosti sesije trčanja (mora biti dulja od 0,5 km), sat će dobiti točniji rezultat.
+2. Ako nakon nekoliko pokušaja kalibracije i dalje niste zadovoljni rezultatom, pokušajte ponovno kalibrirati.
+3. Ako ponovno kalibrirate rezultat, svi prethodni zapisi kalibracije bit će izbrisani. "</string>
+    <string name="give_up_re_modify_dis">Odbaci</string>
+    <string name="confirm_re_modify_dis">U redu</string>
     <string name="huanghe_pause_continue_title">Sportski rad</string>
     <string name="experience_title">Postavite osobne podatke ili će podaci imati veliko odstupanje</string>
     <string name="recovery_time_hour">Sati</string>
@@ -561,7 +561,7 @@
     <string name="music_init_not_done">Pokretanje glazbe...</string>
     <string name="music_no_douban_resource">Nema pjesama za reprodukciju. Želite li sada preuzeti neke?</string>
     <string name="ximalaya_music_title">Ximalaya</string>
-    <string name="first_music_tips">Added a music control feature on watch</string>
+    <string name="first_music_tips">Na satu je dodana značajka kontrole glazbe</string>
     <string name="title_activity_running">RunningActivity</string>
     <string name="default_time_value">00:00:00</string>
     <string name="default_int_value">0</string>
@@ -886,8 +886,8 @@ za učinkovitije vježbanje!\"</string>
     <string name="settings_sport_music_Watercress">Sports FM</string>
     <string name="settings_sport_music_play_settings">Postavke glazbe</string>
     <string name="settings_sport_lock_screen">Zaslon podataka</string>
-    <string name="settings_sport_three_data">3 items</string>
-    <string name="settings_sport_three_big_data">3 items (large)</string>
+    <string name="settings_sport_three_data">3 stavke</string>
+    <string name="settings_sport_three_big_data">3 stavke (veliko)</string>
     <string name="settings_sport_four_data">Podaci 4 polja</string>
     <string name="settings_sport_six_data">Podaci 6 polja</string>
     <string name="settting_sport_gpx_route">GPX smjer</string>
