@@ -17,14 +17,14 @@
     <string-array name="weather_card_aqilevel">
         <item>Excellent</item>
         <item>Fine</item>
-        <item>Lagano zagađen</item>
-        <item>Umjereno zagađen</item>
-        <item>Jako zagađen</item>
+        <item>Light pollution</item>
+        <item>Moderate pollution</item>
+        <item>Heavy pollution</item>
         <item>Severe pollution</item>
         <item></item>
     </string-array>
     <string-array name="weather_card_quality">
-        <item>Pogodno za sport</item>
+        <item>Suitable for sports</item>
         <item>Not suitable for sports</item>
         <item></item>
     </string-array>
@@ -51,8 +51,8 @@
         <item>Snow</item>
         <item>Prašina</item>
         <item>Sandstorm</item>
-        <item>Pješčana oluja</item>
-        <item>Jaka pješčana oluja</item>
-        <item>Nema podataka</item>
+        <item>Sandstorm</item>
+        <item>Strong sandstorm</item>
+        <item>No data</item>
     </string-array>
 </resources>

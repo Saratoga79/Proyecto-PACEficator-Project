@@ -17,14 +17,14 @@
     <string-array name="weather_card_aqilevel">
         <item>Excellent</item>
         <item>Fine</item>
-        <item>Kutsadura txikia</item>
-        <item>Kutsadura ertaina</item>
-        <item>Kutsadura haundia</item>
+        <item>Light pollution</item>
+        <item>Moderate pollution</item>
+        <item>Heavy pollution</item>
         <item>Severe pollution</item>
         <item></item>
     </string-array>
     <string-array name="weather_card_quality">
-        <item>Kirolerako egokia</item>
+        <item>Suitable for sports</item>
         <item>Not suitable for sports</item>
         <item></item>
     </string-array>
@@ -51,8 +51,8 @@
         <item>Snow</item>
         <item>Hautsaldia</item>
         <item>Sandstorm</item>
-        <item>Are ekaitza</item>
-        <item>Are ekaiz gogorra</item>
-        <item>Daturik gabe</item>
+        <item>Sandstorm</item>
+        <item>Strong sandstorm</item>
+        <item>No data</item>
     </string-array>
 </resources>

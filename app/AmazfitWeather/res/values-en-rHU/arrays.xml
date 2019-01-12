@@ -17,14 +17,14 @@
     <string-array name="weather_card_aqilevel">
         <item>Excellent</item>
         <item>Fine</item>
-        <item>Gyengén szennyezett</item>
-        <item>Közepesen szennyezett</item>
-        <item>Szennyezett</item>
+        <item>Light pollution</item>
+        <item>Moderate pollution</item>
+        <item>Heavy pollution</item>
         <item>Severe pollution</item>
         <item></item>
     </string-array>
     <string-array name="weather_card_quality">
-        <item>Sportra alkalmas</item>
+        <item>Suitable for sports</item>
         <item>Not suitable for sports</item>
         <item></item>
     </string-array>
@@ -51,8 +51,8 @@
         <item>Snow</item>
         <item>Por</item>
         <item>Sandstorm</item>
-        <item>Homokvihar</item>
-        <item>Erős homokvihar</item>
-        <item>Nincs adat</item>
+        <item>Sandstorm</item>
+        <item>Strong sandstorm</item>
+        <item>No data</item>
     </string-array>
 </resources>
