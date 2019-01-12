@@ -435,14 +435,14 @@
     <string name="back_to_continue_sport">Atrás</string>
     <string name="lap_swim_stroke_speed_title">Freq brazada</string>
     <string name="first_modify_tips">Calibrar la distancia de una carrera (debe de ser mayor a 0.5 km) ayudará al reloj a generar un resultado más ajustado de la distancia.</string>
-    <string name="modify_big_dis_tips">The calibrated value %1$s is significantly different from the measured value %2$s, calibrate anyway?</string>
-    <string name="modify_big_dis_regain">Edit</string>
-    <string name="modify_big_dis_confirm">Continue calibration</string>
-    <string name="re_modify_dis">Calibrate again</string>
-    <string name="re_modify_dis_tips">"1. To calibrate the distance result of a running session (must be longer than 0.5 km) helps the watch to generate a more accurate result.
-2. If you still aren\'t satisfied with the result after several calibration attempts, try to calibrate again.
-3. If you calibrate the result again, all previous calibration records will be deleted."</string>
-    <string name="give_up_re_modify_dis">Discard</string>
+    <string name="modify_big_dis_tips">El valor calibrado %1$s es bastante diferente al valor medido %2$s ¿calibrar de todas formas?</string>
+    <string name="modify_big_dis_regain">Editar</string>
+    <string name="modify_big_dis_confirm">Calibrar</string>
+    <string name="re_modify_dis">Calibrar de nuevo</string>
+    <string name="re_modify_dis_tips">"1. para calibrar el resultado de la distancia de una sesión corriente (debe ser más de 0,5 km) ayuda al reloj para generar un resultado más exacto.
+2. Si todavía no estás satisfechos con el resultado después de calibración de varios intentos, intente calibrar de nuevo.
+3. Si calibra el resultado otra vez, todos los registros de calibración anterior se eliminará."</string>
+    <string name="give_up_re_modify_dis">Descartar</string>
     <string name="confirm_re_modify_dis">OK</string>
     <string name="huanghe_pause_continue_title">Pausar/continuar</string>
     <string name="experience_title">Por favor, configure la información personal, o los datos tendrán una gran desviación</string>
@@ -558,7 +558,7 @@ TE se calcula en función de su perfil de usuario, los datos de latido del coraz
     <string name="music_init_not_done">La música está comenzando ...</string>
     <string name="music_no_douban_resource">No hay canciones locales disponibles para reproducir, ¿descargarlas ahora?</string>
     <string name="ximalaya_music_title">Ximalaya</string>
-    <string name="first_music_tips">Added a music control feature on watch</string>
+    <string name="first_music_tips">Se ha añadido la función de control de música</string>
     <string name="title_activity_running">Actividad de carrera</string>
     <string name="default_time_value">00:00:00</string>
     <string name="default_int_value">0</string>
@@ -883,8 +883,8 @@ para un ejercicio más efectivo\"</string>
     <string name="settings_sport_music_Watercress">Sports FM</string>
     <string name="settings_sport_music_play_settings">Ajustes de música</string>
     <string name="settings_sport_lock_screen">Pantallas de datos</string>
-    <string name="settings_sport_three_data">3 items</string>
-    <string name="settings_sport_three_big_data">3 items (large)</string>
+    <string name="settings_sport_three_data">3 Campos de datos</string>
+    <string name="settings_sport_three_big_data">3 campos (grande)</string>
     <string name="settings_sport_four_data">4 Campos de datos</string>
     <string name="settings_sport_six_data">6 Campos de datos</string>
     <string name="settting_sport_gpx_route">Rutas GPX</string>
