@@ -436,14 +436,14 @@
     <string name="back_to_continue_sport">Atzera</string>
     <string name="lap_swim_stroke_speed_title">Besakada tasa</string>
     <string name="first_modify_tips">Distantzia kalibratzan (0.5 km baino gehiago egin behar dira) erlojuak distantzi zehatzagoak neurtuko ditu</string>
-    <string name="modify_big_dis_tips">The calibrated value %1$s is significantly different from the measured value %2$s, calibrate anyway?</string>
-    <string name="modify_big_dis_regain">Edit</string>
-    <string name="modify_big_dis_confirm">Continue calibration</string>
-    <string name="re_modify_dis">Calibrate again</string>
-    <string name="re_modify_dis_tips">"1. To calibrate the distance result of a running session (must be longer than 0.5 km) helps the watch to generate a more accurate result.
-2. If you still aren\'t satisfied with the result after several calibration attempts, try to calibrate again.
-3. If you calibrate the result again, all previous calibration records will be deleted."</string>
-    <string name="give_up_re_modify_dis">Discard</string>
+    <string name="modify_big_dis_tips">%1$s balio kalibratua, %2$s balio neurtuarekin konparatuz oso ezberdina da, kalibratu dena den?</string>
+    <string name="modify_big_dis_regain">Editatu</string>
+    <string name="modify_big_dis_confirm">Kalibratu</string>
+    <string name="re_modify_dis">Berriro kalibratu</string>
+    <string name="re_modify_dis_tips">"1. Distantzia kalibratzan (0.5 km baino gehiago egin behar dira) erlojuak distantzi zehatzagoak neurtuko ditu.
+2. Kalibratu ondoren balioarekin ados ez bazaude, berriro kalibratu.
+3. Berriro kalibratzean, aurreko datuak galduko dira."</string>
+    <string name="give_up_re_modify_dis">Baztertu</string>
     <string name="confirm_re_modify_dis">OK</string>
     <string name="huanghe_pause_continue_title">Pusatu/Jarraitu</string>
     <string name="experience_title">Mesedez, informazio pertsonala prestatu, edo datuek desbideratze haundia izango dute</string>
@@ -559,7 +559,7 @@ TE se calcula en función de su perfil de usuario, los datos de latido del coraz
     <string name="music_init_not_done">Musika hasten ari da...</string>
     <string name="music_no_douban_resource">Ez dago abesti lokalik eskuragarri erreproduzitzeko, orain deskargatu?</string>
     <string name="ximalaya_music_title">Ximalaya</string>
-    <string name="first_music_tips">Added a music control feature on watch</string>
+    <string name="first_music_tips">Musika kontrol funtzioa ezarri da erlojuan</string>
     <string name="title_activity_running">Lasterketa jarduera</string>
     <string name="default_time_value">00:00:00</string>
     <string name="default_int_value">0</string>
@@ -884,8 +884,8 @@ jarduera eraginkorragoa lortzeko\"</string>
     <string name="settings_sport_music_Watercress">China FM Irratia</string>
     <string name="settings_sport_music_play_settings">Musika esleipenak</string>
     <string name="settings_sport_lock_screen">Datu pantaila</string>
-    <string name="settings_sport_three_data">3 items</string>
-    <string name="settings_sport_three_big_data">3 items (large)</string>
+    <string name="settings_sport_three_data">3 Datu eremu</string>
+    <string name="settings_sport_three_big_data">3 Datu eremu (handia)</string>
     <string name="settings_sport_four_data">4 Datu eremu</string>
     <string name="settings_sport_six_data">6 Datu eremu</string>
     <string name="settting_sport_gpx_route">Ibilbideak</string>
