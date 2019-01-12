@@ -6,7 +6,7 @@
     <string name="new_location">New location</string>
     <string name="saved_location">Ubicació desada</string>
     <string name="gps_searching">Searching for GPS signal…</string>
-    <string name="gps_search_failed_title">"GPS isn't available"</string>
+    <string name="gps_search_failed_title">"GPS no disponible"</string>
     <string name="gps_search_failed_content">Try again outdoors.</string>
     <string name="wait_gps_search_retry">Try again</string>
     <string name="gps_info_reaching">Getting location…</string>
@@ -31,19 +31,19 @@
     <string name="exteed_max_num">"Can't add more than 500 locations"</string>
     <string name="gps_save">Desa</string>
     <string name="altitude_unit">m</string>
-    <string name="average_text">Average</string>
+    <string name="average_text">Mitjana</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
-    <string name="picker_default_positive_text">OK</string>
+    <string name="picker_default_positive_text">Confirmar</string>
     <string name="picker_default_nagetive_text">Apagar</string>
-    <string name="no_heartrate_data_hint">"Couldn't find heart rate data"</string>
-    <string name="no_altitude_hint">"Couldn't find altitude data"</string>
+    <string name="no_heartrate_data_hint">"Heart rate data not detected"</string>
+    <string name="no_altitude_hint">"Altitude data not detected"</string>
     <string name="title_settings">Configuració</string>
-    <string name="sport_music_settings">Music</string>
-    <string name="widget_currentstep_title">Data</string>
-    <string name="widget_currentstep_activities">"Today's activity"</string>
+    <string name="sport_music_settings">Sports music</string>
+    <string name="widget_currentstep_title">Daily Overview</string>
+    <string name="widget_currentstep_activities">"Activities"</string>
     <string name="widget_currentstep_sleep_hour">h</string>
-    <string name="widget_currentstep_sleep_min">m</string>
-    <string name="widget_currentstep_sleep_title">Slept last night</string>
+    <string name="widget_currentstep_sleep_min">min</string>
+    <string name="widget_currentstep_sleep_title">Sleep</string>
     <string name="widget_currentstep_sleep_no">No hi ha dades de son</string>
     <string name="widget_currentstep_activity_no">Avui no hi ha activitat?</string>
 </resources>
