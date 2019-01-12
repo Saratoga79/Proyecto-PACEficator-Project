@@ -22,8 +22,8 @@
     <string name="custom_data_widget_title_default">Dado</string>
     <string name="custom_data_widget_title_nothing">"Nenhum"</string>
     <string name="custom_data_widget_title_step">Passos</string>
-    <string name="custom_data_widget_title_today_dis">"Today's distance"</string>
-    <string name="custom_data_widget_title_total_dis">Total distance</string>
+    <string name="custom_data_widget_title_today_dis">"Distância hoje"</string>
+    <string name="custom_data_widget_title_total_dis">Distância total</string>
     <string name="custom_data_widget_title_calorie">"Calorias"</string>
     <string name="custom_data_widget_title_heart_rate">FC</string>
     <string name="custom_data_widget_title_weather">Tempo</string>
@@ -50,13 +50,13 @@
     <string name="custom_data_widget_date_3">datawidget/date_3/en/week_%d.png</string>
     <string name="watch_label_nineteen">Super Avante</string>
     <string name="running">Corrida</string>
-    <string name="waking">Walking</string>
+    <string name="waking">Caminhando</string>
     <string name="indoor_running">Esteira</string>
     <string name="outdoor_riding">Ciclismo</string>
     <string name="indoor_riding">Bic. Ergomét.</string>
     <string name="cross_contry">Trilha</string>
     <string name="eppitical">Elíptico</string>
-    <string name="indoor_swimming">Pool swimming</string>
+    <string name="indoor_swimming">Natação em Piscina</string>
     <string name="outdoor_swimming">Natação em Águas Abertas</string>
     <string name="triathlon">Triatlo</string>
     <string name="mountain">Escalar</string>
@@ -73,7 +73,7 @@
     <string name="speed">Velocidade</string>
     <string name="stroke_speed">Taxa de Golpes</string>
     <string name="pace">Ritmo</string>
-    <string name="mileage">Distance</string>
+    <string name="mileage">Distância</string>
     <string name="rope_skip_freq">Frequência</string>
     <string name="sport_has_paused">Parado</string>
     <string name="sport_paused_time">Tempo em pausa</string>
@@ -115,7 +115,7 @@
     <string name="times_per_minute">GPM</string>
     <string name="per_km">/km</string>
     <string name="per_100m">/100m</string>
-    <string name="per_100Yard">/100 yd</string>
+    <string name="per_100Yard">/100 m</string>
     <string name="mile">mi</string>
     <string name="mile_per_hour">mi/h</string>
     <string name="per_mile">/mi</string>
@@ -129,8 +129,8 @@
     <string name="longitude_and_latitude">Lat Long</string>
     <string name="press_key_finish_train">Pressione o botão da volta</string>
     <string name="press_up_key_wake_up">Aperte o botão</string>
-    <string name="need_run_kilometer">Interval distance:</string>
-    <string name="need_run_time">Interval time:</string>
+    <string name="need_run_kilometer">Distância do Intervalo:</string>
+    <string name="need_run_time">Tempo do Intervalo:</string>
     <string name="low_battery_protect">Bateria baixa</string>
     <string name="low_battery_tips">Bateria baixa</string>
     <string name="low_battery_please_charging">Bateria está baixa. Recarregue.</string>
@@ -150,9 +150,9 @@
     <string name="rope_skip_tips1">Completado</string>
     <string name="rope_skip_tips2">Grupo</string>
     <string name="rope_skip_tips">Grupos completados:%1$s</string>
-    <string name="music">Music</string>
-    <string name="press_long_power_key_wake_up">Press a physical button to exit</string>
-    <string name="sport_auto_pause_end">Session ended</string>
+    <string name="music">Música</string>
+    <string name="press_long_power_key_wake_up">Pressione um botão físico para sair</string>
+    <string name="sport_auto_pause_end">Sessão encerrada</string>
     <string name="press_any_key_wakeup1"></string>
     <string name="press_any_key_wakeup2"></string>
     <string name="press_power_key_wakeup1"></string>
@@ -163,7 +163,7 @@
     <string name="press_key_finish_train2"></string>
     <string name="zone_risk1">Acima do limite de</string>
     <string name="zone_risk2">taxa limite</string>
-    <string name="sport_auto_pause_end2">save the data?</string>
+    <string name="sport_auto_pause_end2">salvar os dados?</string>
     <string name="sport_auto_pause_end3"></string>
     <string name="app_name">HuamiWatchFaces</string>
     <string name="watch_label_sport_one">Marathon life</string>
@@ -189,7 +189,7 @@
     <string name="watch_label_twenty">Power Armor</string>
     <string name="watch_label_twentyone">Interestelar</string>
     <string name="watch_today_step">Passos Hoje</string>
-    <string name="sport_step">" steps"</string>
+    <string name="sport_step">" passos"</string>
     <string name="everyminute_times">" BPM"</string>
     <string name="locale_title">Selecionar Idioma</string>
     <string name="average_text">Méd</string>
