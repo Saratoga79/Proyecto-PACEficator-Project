@@ -24,7 +24,7 @@
     <string name="label_subject_ratio_today">Activity ratio</string>
     <string name="label_burning_ratio_today">Burned calories ratio</string>
     <string name="label_step_unit">steps</string>
-    <string name="label_calory_unit">Cal</string>
+    <string name="label_calory_unit">kcal</string>
     <string name="label_subject_active">Active</string>
     <string name="label_subject_sit">Still</string>
     <string name="label_burning_active">Calories</string>
@@ -119,7 +119,7 @@
     <string name="high_strength_heart_rate">Anaerobic</string>
     <string name="aerobic_heart_rate">Aerobic</string>
     <string name="burning_fat_heart_rate">Fat burning</string>
-    <string name="non_movement_heart_rate">Not a workout</string>
+    <string name="non_movement_heart_rate">Non-workout</string>
     <string name="sleep_heart_rate">Sleep</string>
     <string name="anaerobic_limit_heart_rate">VO₂ max</string>
     <string name="power_strength_heart_rate">Anaerobic</string>
@@ -134,7 +134,7 @@
     <string name="heart_name">Heart rate</string>
     <string name="step_name">Activity</string>
     <string name="sleep_name">Sleep</string>
-    <string name="climbed_floors">Floors climbed</string>
+    <string name="climbed_floors">Climbed</string>
     <string name="widget_label_step">Activity today</string>
     <string name="widget_heart_analysis">Analyze heart rate</string>
     <string name="widget_step_target_txt">Goal:  <liff>%d</liff> steps</string>
@@ -177,7 +177,7 @@
     <string name="weeklysports_totaltime">Total elapsed time</string>
     <string name="weeklysports_totaltime_unit">/</string>
     <string name="weeklysports_totalcalories">Total calories</string>
-    <string name="weeklysports_totalcalories_unit">Cal</string>
+    <string name="weeklysports_totalcalories_unit">kcal</string>
     <string name="weeklysports_totalmileage">Total distance</string>
     <string name="weeklysports_totalmileage_unit_zh">km</string>
     <string name="weeklysports_totalmileage_unit_en">mi</string>
@@ -205,7 +205,7 @@
     <string name="weeklysports_day">d</string>
     <string name="weeklysports_activity">Activity</string>
     <string name="weeklysports_running">Running</string>
-    <string name="weeklysports_walking">Walk</string>
+    <string name="weeklysports_walking">Walking</string>
     <string name="weeklysports_riding">Cycling</string>
     <string name="weekly_step_attained_rate">Reached goal</string>
     <string name="weekly_sports_notification_content">Activity summary from last week is ready.</string>
@@ -220,7 +220,7 @@
     <string name="widget_currentstep_activity_no">No activity today?</string>
     <string name="currentstep_detail_activity">Activity</string>
     <string name="currentstep_detail_running">Running</string>
-    <string name="currentstep_detail_walking">Walk</string>
+    <string name="currentstep_detail_walking">Walking</string>
     <string name="currentstep_detail_riding">Cycling</string>
     <string name="currentstep_detail_swimming">Swimming</string>
     <string name="currentstep_detail_mountain">Climbing</string>
@@ -244,7 +244,7 @@
     <string name="currentstep_detail_heart_rate_max_text">Max</string>
     <string name="currentstep_detail_heart_rate_min_text">Min</string>
     <string name="currentstep_detail_heart_rate_quiet_text">Resting</string>
-    <string name="currentstep_detail_calories_unit">Cal</string>
+    <string name="currentstep_detail_calories_unit">kcal</string>
     <string name="currentstep_detail_sleep_hour">h</string>
     <string name="currentstep_detail_sleep_min">m</string>
     <string name="currentstep_detail_heart_unit">BPM</string>
@@ -266,7 +266,7 @@
     <string name="stretch_dialog_cancel">Cancel</string>
     <string name="floor_description">Note: \"One floor\" is roughly 10 feet</string>
     <string name="open_xiaom_app_failed_content">Try again after you install Mi Fit app.</string>
-    <string name="open_xiaomi_app_failed_title">"Cann't open Mi Fit app"</string>
+    <string name="open_xiaomi_app_failed_title">"Can't open Mi Fit app"</string>
     <string name="stretch_connection_failed_button">Try again</string>
     <string name="stretch_connection_failed_content">Make sure the watch is connected to your phone and the Amazfit Watch app is launched.</string>
     <string name="stretch_connection_failed_title">"Can't connect to your phone"</string>
@@ -280,7 +280,7 @@
     <string name="stretch_dialog_button_retry">Try again</string>
     <string name="date_format">MM/dd</string>
     <string name="app_list_title">Overview</string>
-    <string name="currentstep_detail_activities">Activity time</string>
+    <string name="currentstep_detail_activities">Active time</string>
     <string name="currentstep_detail_activities_title">Activities</string>
     <string name="currentstep_detail_activities_others">Other</string>
     <string name="label_heartrate_unit">BPM</string>

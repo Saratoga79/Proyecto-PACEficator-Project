@@ -1,64 +1,64 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <runreminds>
         <runremind id="0">
-            <runType>Run</runType>
-            <trainContent>Jog</trainContent>
-            <copyWrite>800m easy jogging + 200m walking. Recommended Heartrate:%1$d-%2$dbpm</copyWrite>
+            <runType>wirtecopyrun</runType>
+            <trainContent>joggingrun</trainContent>
+            <copyWrite>runcopywrite1</copyWrite>
         </runremind>
         <runremind id="1">
-            <runType>Run</runType>
-            <trainContent>Recovery Run</trainContent>
-            <copyWrite>Easy jogging. Recommended Heartrate:%1$d-%2$dbpm</copyWrite>
+            <runType>wirtecopyrun</runType>
+            <trainContent>recoveryrun</trainContent>
+            <copyWrite>runcopywrite2</copyWrite>
         </runremind>
         <runremind id="2">
-            <runType>Run</runType>
-            <trainContent>Base Run</trainContent>
-            <copyWrite>Run at conversational pace. Recommended Heartrate:%1$d-%2$dbpm</copyWrite>
+            <runType>wirtecopyrun</runType>
+            <trainContent>baserun</trainContent>
+            <copyWrite>runcopywrite3</copyWrite>
         </runremind>
         <runremind id="3">
-            <runType>Run</runType>
-            <trainContent>Progression Run</trainContent>
-            <copyWrite>Start slowly and gradually increase pace. Recommended Heartrate:%1$d-%2$dbpm</copyWrite>
+            <runType>wirtecopyrun</runType>
+            <trainContent>advancedrun</trainContent>
+            <copyWrite>runcopywrite4</copyWrite>
         </runremind>
         <runremind id="4">
-            <runType>Run</runType>
-            <trainContent>Fartlek</trainContent>
-            <copyWrite>Freely switching training strength. Recommended Heartrate: %1$d-%2$dbpm</copyWrite>
+            <runType>wirtecopyrun</runType>
+            <trainContent>fartlek</trainContent>
+            <copyWrite>runcopywrite5</copyWrite>
         </runremind>
         <runremind id="5">
-            <runType>Run</runType>
-            <trainContent>Hill Repeats</trainContent>
-            <copyWrite>Run on a uphill at a steady.Recommended Heartrate:%1$d-%2$dbpm</copyWrite>
+            <runType>wirtecopyrun</runType>
+            <trainContent>hillrun</trainContent>
+            <copyWrite>runcopywrite6</copyWrite>
         </runremind>
         <runremind id="6">
-            <runType>Run</runType>
-            <trainContent>Tempo Run</trainContent>
-            <copyWrite>Run at a normal and steady pace. Recommended Heartrate:%1$d-%2$dbpm</copyWrite>
+            <runType>wirtecopyrun</runType>
+            <trainContent>temporun</trainContent>
+            <copyWrite>runcopywrite7</copyWrite>
         </runremind>
         <runremind id="7">
-            <runType>Run</runType>
-            <trainContent>Short intervals</trainContent>
-            <copyWrite>800m fast run + 800m walking then repeat. Recommended Heartrate: %1$d-%2$dbpm</copyWrite>
+            <runType>wirtecopyrun</runType>
+            <trainContent>intermittentrunshort</trainContent>
+            <copyWrite>runcopywrite8</copyWrite>
         </runremind>
         <runremind id="8">
-            <runType>Run</runType>
-            <trainContent>Long intervals</trainContent>
-            <copyWrite>2.4km jogging + 800m walking then repeat. Recommended Heartrate: %1$d-%2$dbpm</copyWrite>
+            <runType>wirtecopyrun</runType>
+            <trainContent>intermittentrunlong</trainContent>
+            <copyWrite>runcopywrite9</copyWrite>
         </runremind>
         <runremind id="9">
-            <runType>Rest</runType>
+            <runType>rest</runType>
             <trainContent></trainContent>
-            <copyWrite>Rest today.%1$d day(s) to next workout</copyWrite>
+            <copyWrite>runcopywrite10</copyWrite>
         </runremind>
         <runremind id="10">
-            <runType>Swim</runType>
+            <runType>swim</runType>
             <trainContent></trainContent>
-            <copyWrite>Swimming to recovery speedwork. Remember to mark today as complete after swim.</copyWrite>
+            <copyWrite>runcopywrite11</copyWrite>
         </runremind>
         <runremind id="11">
-            <runType>Bike</runType>
+            <runType>ride</runType>
             <trainContent></trainContent>
-            <copyWrite>Recovery speedwrok. Recommended Heartrate:%1$d-%2$dbpm</copyWrite>
+            <copyWrite>runcopywrite12</copyWrite>
         </runremind>
 </runreminds>
 
