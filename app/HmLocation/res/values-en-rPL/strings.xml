@@ -6,7 +6,7 @@
     <string name="new_location">New location</string>
     <string name="saved_location">Zapisane lokacje</string>
     <string name="gps_searching">Searching for GPS signal…</string>
-    <string name="gps_search_failed_title">"GPS isn't available"</string>
+    <string name="gps_search_failed_title">"GPS niedostępny"</string>
     <string name="gps_search_failed_content">Try again outdoors.</string>
     <string name="wait_gps_search_retry">Try again</string>
     <string name="gps_info_reaching">Getting location…</string>
@@ -31,19 +31,19 @@
     <string name="exteed_max_num">"Can't add more than 500 locations"</string>
     <string name="gps_save">Zapisz</string>
     <string name="altitude_unit">m</string>
-    <string name="average_text">Average</string>
+    <string name="average_text">Średnia</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
-    <string name="picker_default_positive_text">OK</string>
+    <string name="picker_default_positive_text">Zatwierdż</string>
     <string name="picker_default_nagetive_text">Wył.</string>
-    <string name="no_heartrate_data_hint">"Couldn't find heart rate data"</string>
-    <string name="no_altitude_hint">"Couldn't find altitude data"</string>
+    <string name="no_heartrate_data_hint">"Brak danych tętna"</string>
+    <string name="no_altitude_hint">"Brak danych o wysokości"</string>
     <string name="title_settings">Ustawienia</string>
-    <string name="sport_music_settings">Music</string>
-    <string name="widget_currentstep_title">Data</string>
-    <string name="widget_currentstep_activities">"Today's activity"</string>
+    <string name="sport_music_settings">Sports Musics</string>
+    <string name="widget_currentstep_title">Aktywność</string>
+    <string name="widget_currentstep_activities">"Aktywności"</string>
     <string name="widget_currentstep_sleep_hour">h</string>
-    <string name="widget_currentstep_sleep_min">m</string>
-    <string name="widget_currentstep_sleep_title">Slept last night</string>
+    <string name="widget_currentstep_sleep_min">min</string>
+    <string name="widget_currentstep_sleep_title">Sen ostat.nocy</string>
     <string name="widget_currentstep_sleep_no">Brak danych snu</string>
     <string name="widget_currentstep_activity_no">Brak ćwiczeń dziś?</string>
 </resources>
