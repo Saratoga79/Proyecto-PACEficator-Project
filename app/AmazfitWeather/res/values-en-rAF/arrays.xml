@@ -17,14 +17,14 @@
     <string-array name="weather_card_aqilevel">
         <item>Excellent</item>
         <item>Fine</item>
-        <item>کمی آلوده</item>
-        <item>آلودگی متوسط</item>
-        <item>آلودگی زیاد</item>
+        <item>Light pollution</item>
+        <item>Moderate pollution</item>
+        <item>Heavy pollution</item>
         <item>Severe pollution</item>
         <item></item>
     </string-array>
     <string-array name="weather_card_quality">
-        <item>مناسب برای ورزش</item>
+        <item>Suitable for sports</item>
         <item>Not suitable for sports</item>
         <item></item>
     </string-array>
@@ -51,8 +51,8 @@
         <item>Snow</item>
         <item>گرد و غبار</item>
         <item>Sandstorm</item>
-        <item>طوفان شن</item>
-        <item>طوفان شن شدید</item>
-        <item>اطلاعاتی موجود نیست</item>
+        <item>Sandstorm</item>
+        <item>Strong sandstorm</item>
+        <item>No data</item>
     </string-array>
 </resources>
