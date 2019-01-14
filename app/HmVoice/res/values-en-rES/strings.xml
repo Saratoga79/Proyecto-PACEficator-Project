@@ -40,7 +40,7 @@
     <string name="weather_multipe_outofindex">Sólo puedo mostrar la prevision meteorológica de %1$s para los próximos 4 días.</string>
     <string name="weather_quality">Calidad del Aire:</string>
     <string name="error_disconnect">Desconectado</string>
-    <string name="error_disconnect_content">Make sure Verge is connected to your phone and Internet.</string>
+    <string name="error_disconnect_content">Asegúrate de que el reloj está conectado al teléfono y a internet</string>
     <string name="error_weather_outofbound">Sólo te puedo dar la previsión para los próximos 4 días.</string>
     <string name="alarm_timer_outofbound">"No puedo poner un temporizador de más de 24h."</string>
     <string name="alarm_timer_alreadyhas">"Ya hay un temporizado en marcha. Apágalo para iniciar uno nuevo."</string>
@@ -131,8 +131,8 @@
     <string name="calendar">Calendario</string>
     <string name="data_year">Año</string>
     <string name="date_item_month">Mes</string>
-    <string name="time">time</string>
-    <string name="weather">weather</string>
+    <string name="time">Hora</string>
+    <string name="weather">Clima</string>
     <string name="date_item_day">Día</string>
     <string name="date_hour">Hora</string>
     <string name="date_minute">Minutos</string>
@@ -140,19 +140,19 @@
     <string name="help_your_make_calendar">OK, he reservado tu evento para %1$s.</string>
     <string name="add_item_to_miot_controle">+ Agregar a los controles de acceso directo</string>
     <string name="mijia_device_bind_guide">Empareja primero el reloj con la app MiHome del teléfono.</string>
-    <string name="huami_ice_not_connected">Unable to use Alexa</string>
-    <string name="alexa_listening">Listening</string>
-    <string name="alexa_thinking">Thinking</string>
-    <string name="alexa_login_amazon">"Please update Amazfit Watch App to the latest version.
-And complete account authorization in [Profile] -[Third-party accounts]."</string>
-    <string name="alexa_token_refresh_failed">Sorry,Could you try again?</string>
-    <string name="alexa_voice_default">"I didn't hear you clearly.Please say it again."</string>
-    <string name="alexa_weather">Weather</string>
-    <string name="alexa_time">Timer</string>
-    <string name="alexa_alarm">Alarm</string>
-    <string name="alexa_calendar">Calendar</string>
-    <string name="alexa_help">What can I do for you?</string>
-    <string name="alexa_network_disconnect">Please make sure your watch is connected to Amazfit Watch App. And the App is connected to the internet.</string>
+    <string name="huami_ice_not_connected">No se puede usar Alexa</string>
+    <string name="alexa_listening">Escuchando</string>
+    <string name="alexa_thinking">Pensando</string>
+    <string name="alexa_login_amazon">"Actualiza la app de Amazfit a la última versión
+y completa la autorización de cuenta en [Profile] -[Añadir cuentas]."</string>
+    <string name="alexa_token_refresh_failed">Lo siento ¿puedes intentarlo de nuevo?</string>
+    <string name="alexa_voice_default">"No te he escuchado bien. Por favor, repítelo."</string>
+    <string name="alexa_weather">Clima</string>
+    <string name="alexa_time">Temporizador</string>
+    <string name="alexa_alarm">Alarma</string>
+    <string name="alexa_calendar">Calendario</string>
+    <string name="alexa_help">¿Qué puedo hacer por ti?</string>
+    <string name="alexa_network_disconnect">Asegúrate de que el reloj está conectado a la app de Amazfit y que la app tiene conexión a internet.</string>
     <string name="average_text">Media</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Confirmar</string>
