@@ -983,11 +983,11 @@
     <string name="widget_currentstep_sleep_title">Sleep</string>
     <string name="widget_currentstep_sleep_no">No sleep data</string>
     <string name="widget_currentstep_activity_no">No activity today?</string>
-    <string name="settings_item_value_swim_length_imperial">%1$s英尺</string>
-    <string name="swim_swolf_unit_default">(按百米计算)</string>
-    <string name="swim_swolf_unit_default_yd">(按百码计算)</string>
-    <string name="swim_pace_unit_imperial">/百英尺</string>
-    <string name="first_modify_tips">里程大于0.5公里的校准可让手表学习你的跑步习惯，让跑步里程越来越准。</string>
+    <string name="settings_item_value_swim_length_imperial">%1$sft</string>
+    <string name="swim_swolf_unit_default">(/100 m)</string>
+    <string name="swim_swolf_unit_default_yd">(/100 yards)</string>
+    <string name="swim_pace_unit_imperial">/100 feet</string>
+    <string name="first_modify_tips">Calibration with a distance greater than 0.5 km allows the watch to learn your running habits and make the running mileage more accurate.</string>
     <string name="modify_big_dis_tips">校准值%1$s与测量值%2$s相差较大，是否确认校准？</string>
     <string name="modify_big_dis_regain">修改</string>
     <string name="modify_big_dis_confirm">确认校准</string>
