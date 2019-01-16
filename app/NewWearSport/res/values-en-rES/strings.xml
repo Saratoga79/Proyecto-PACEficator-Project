@@ -982,19 +982,19 @@ para un ejercicio más efectivo"</string>
     <string name="widget_currentstep_sleep_title">Sueño</string>
     <string name="widget_currentstep_sleep_no">Sin datos de sueño</string>
     <string name="widget_currentstep_activity_no">¿No te ejercitas hoy?</string>
-    <string name="settings_item_value_swim_length_imperial">%1$s英尺</string>
-    <string name="swim_swolf_unit_default">(按百米计算)</string>
-    <string name="swim_swolf_unit_default_yd">(按百码计算)</string>
-    <string name="swim_pace_unit_imperial">/百英尺</string>
-    <string name="first_modify_tips">里程大于0.5公里的校准可让手表学习你的跑步习惯，让跑步里程越来越准。</string>
-    <string name="modify_big_dis_tips">校准值%1$s与测量值%2$s相差较大，是否确认校准？</string>
-    <string name="modify_big_dis_regain">修改</string>
-    <string name="modify_big_dis_confirm">确认校准</string>
-    <string name="re_modify_dis">重新校准</string>
-    <string name="re_modify_dis_tips">"1.里程大于0.5公里的校准可让手表学习你的跑步习惯，让跑步里程越来越准。
-2.如果你已进行过多次校准，但仍对里程结果不满意，可进行重新校准。
-3.重新校准将删除此前所有校准记录。"</string>
-    <string name="give_up_re_modify_dis">放弃</string>
-    <string name="confirm_re_modify_dis">确认</string>
-    <string name="re_modify_dis_successful">重新校准成功</string>
+    <string name="settings_item_value_swim_length_imperial">%1$s ft</string>
+    <string name="swim_swolf_unit_default">(/100 m)</string>
+    <string name="swim_swolf_unit_default_yd">(/100 yards)</string>
+    <string name="swim_pace_unit_imperial">/100 feet</string>
+    <string name="first_modify_tips">Calibrar una distancia superior a 0.5km ayudará al reloj a hacer mediciones más precisas</string>
+    <string name="modify_big_dis_tips">El valor calibrado a %1$s es muy diferente del medido de %2$s ¿Continuar de todas formas?</string>
+    <string name="modify_big_dis_regain">Modificar</string>
+    <string name="modify_big_dis_confirm">Confirmar calibración</string>
+    <string name="re_modify_dis">Recalibración</string>
+    <string name="re_modify_dis_tips">"1. La calibración con una distancia superior a 0,5km permite al reloj aprender sus hábitos de carrera y hacer que la distancia sea más precisa.
+2. Si ha realizado calibraciones múltiples pero aún no está satisfecho con los resultados de distancia, puede recalibrarlo.
+3. La recalibración eliminará todos los registros de calibración anteriores. "</string>
+    <string name="give_up_re_modify_dis">Salir</string>
+    <string name="confirm_re_modify_dis">Confirmar</string>
+    <string name="re_modify_dis_successful">Recalibración satisfactoria</string>
 </resources>
