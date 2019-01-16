@@ -984,4 +984,19 @@ Vous pouvez le copier sur un ordinateur via USB."</string>
     <string name="widget_currentstep_sleep_title">Sommeil</string>
     <string name="widget_currentstep_sleep_no">Pas de donnée de sommeil</string>
     <string name="widget_currentstep_activity_no">Pas d\'activité aujourd\'hui?</string>
+    <string name="settings_item_value_swim_length_imperial">%1$s英尺</string>
+    <string name="swim_swolf_unit_default">(按百米计算)</string>
+    <string name="swim_swolf_unit_default_yd">(按百码计算)</string>
+    <string name="swim_pace_unit_imperial">/百英尺</string>
+    <string name="first_modify_tips">里程大于0.5公里的校准可让手表学习你的跑步习惯，让跑步里程越来越准。</string>
+    <string name="modify_big_dis_tips">校准值%1$s与测量值%2$s相差较大，是否确认校准？</string>
+    <string name="modify_big_dis_regain">修改</string>
+    <string name="modify_big_dis_confirm">确认校准</string>
+    <string name="re_modify_dis">重新校准</string>
+    <string name="re_modify_dis_tips">"1.里程大于0.5公里的校准可让手表学习你的跑步习惯，让跑步里程越来越准。
+2.如果你已进行过多次校准，但仍对里程结果不满意，可进行重新校准。
+3.重新校准将删除此前所有校准记录。"</string>
+    <string name="give_up_re_modify_dis">放弃</string>
+    <string name="confirm_re_modify_dis">确认</string>
+    <string name="re_modify_dis_successful">重新校准成功</string>
 </resources>
