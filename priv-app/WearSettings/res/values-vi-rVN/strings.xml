@@ -72,12 +72,12 @@
     <string name="auto_hint_title">Độ sáng tự động</string>
     <string name="long_key_action">Nhấn giữ nút Lap</string>
     <string name="rebond">rebond</string>
-    <string name="sport_remind_title">Activity reminders</string>
-    <string name="sport_remind_open_title">Reminders to start an activity</string>
-    <string name="sport_remind_end_title">Reminders to end an activity</string>
-    <string name="sport_remind_open_tips">Turn on to receive the reminders of starting an activity on the device when you are running, walking, etc.</string>
-    <string name="sport_remind_end_tips">Turn on to receive the reminders of ending an activity and saving the data on the device after your workout.</string>
-    <string name="sport_remind_open">Turn on</string>
+    <string name="sport_remind_title">Nhắc nhở hoạt động</string>
+    <string name="sport_remind_open_title">Nhắc nhở để bắt đầu hoạt động</string>
+    <string name="sport_remind_end_title">Nhắc nhở để kết thúc hoạt động</string>
+    <string name="sport_remind_open_tips">Bật để nhận lời nhắc bắt đầu một hoạt động trên điện thoại khi bạn đang chạy, đi bộ, vv.</string>
+    <string name="sport_remind_end_tips">Bật để nhận lời nhắc kết thúc một hoạt động và lưu các dữ liệu trên các thiết bị sau khi tập luyện của bạn.</string>
+    <string name="sport_remind_open">Bật</string>
     <string name="product_model_huanghe">Amazfit Sports Watch</string>
     <string name="product_model_huanghe_oversea">Amazfit Pace</string>
     <string name="product_model_everest">Amazfit Sports Watch 2</string>
@@ -100,11 +100,11 @@
     <string name="ko_kr">한국의</string>
     <string name="title_activity_long_sitting_time">LongSittingTimeActivity</string>
     <string name="paobu">Chạy bộ</string>
-    <string name="jianzou">Walking</string>
+    <string name="jianzou">Đi bộ</string>
     <string name="yueye">Chạy đường mòn</string>
     <string name="shineipao">Chạy máy</string>
     <string name="huwaiqi">Đạp xe</string>
-    <string name="yongchiyou">Pool swimming</string>
+    <string name="yongchiyou">Bể bơi</string>
     <string name="gongkaiyou">Bơi ngoài trời</string>
     <string name="tuoyuanji">Máy tập chạy</string>
     <string name="dengshan">Leo núi</string>
@@ -153,7 +153,7 @@
     <string name="build_desc">[DEBUG]Build description</string>
     <string name="lab">Lab</string>
     <string name="nothing">Trống</string>
-    <string name="legal">"View the info in the "</string>
+    <string name="legal">"Xem thông tin trong "</string>
     <string name="legal2">Amazfit Watch App</string>
     <string name="device_name_default">Amazfit Watch</string>
     <string name="device_name_huanghe">Amazfit Sports Watch</string>
@@ -177,7 +177,7 @@
     <string name="auto_nodisturb_title_string">Tự động ko làm phiền</string>
     <string name="auto_nodisturb_start_time_string">T.gian b.đầu</string>
     <string name="auto_nodisturb_end_time_string">T.gian K.thúc</string>
-    <string name="time_to">" to "</string>
+    <string name="time_to">" tới "</string>
     <string name="auto_wifi_trans_on_string">Bật</string>
     <string name="auto_wifi_trans_off_string">Tắt</string>
     <string name="blue_tooth_dev_in_sub_list">Bluetooth</string>
@@ -255,7 +255,7 @@ Kết nối?"</string>
 cm"</string>
     <string name="weight_unit">"Nặng 
 kg"</string>
-    <string name="reset_factory_hint">Reset device?</string>
+    <string name="reset_factory_hint">Đặt lại thiết bị?</string>
     <string name="time_zone">Múi giờ</string>
     <string name="date">Ngày</string>
     <string name="time">Giờ</string>
