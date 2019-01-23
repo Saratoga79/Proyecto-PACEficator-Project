@@ -5,17 +5,17 @@
         <item>com.huami.watch.weather/com.huami.watch.weather.WeatherWidgetView</item>
     </string-array>
     <string-array name="quick_settings_status_week">
-        <item>Sun</item>
-        <item>Mon</item>
-        <item>Tue</item>
-        <item>Wed</item>
-        <item>Thu</item>
-        <item>Fri</item>
-        <item>Sat</item>
-        <item>Today</item>
+        <item>อา.</item>
+        <item>จ.</item>
+        <item>อ.</item>
+        <item>พ.</item>
+        <item>พฤ.</item>
+        <item>ศ.</item>
+        <item>ส.</item>
+        <item>วันนี้</item>
     </string-array>
     <string-array name="weather_card_aqilevel">
-        <item>Excellent</item>
+        <item>ยอดเยี่ยม</item>
         <item>Fine</item>
         <item>Light pollution</item>
         <item>Moderate pollution</item>
@@ -30,15 +30,15 @@
     </string-array>
     <string-array name="quick_settings_status_weather">
         <item>Clear</item>
-        <item>Cloudy</item>
-        <item>Overcast</item>
+        <item>มีเมฆมาก</item>
+        <item>มืดครึ้ม</item>
         <item>Fog</item>
-        <item>Haze</item>
+        <item>หมอก</item>
         <item>Showers</item>
-        <item>Thunderstorm</item>
-        <item>Light rain</item>
-        <item>Moderate rain</item>
-        <item>Heavy rain</item>
+        <item>ฝนฟ้าคะนอง</item>
+        <item>ฝนตกเล็กน้อย</item>
+        <item>ฝนตกปานกลาง</item>
+        <item>ฝนตกหนัก</item>
         <item>Rainstorm</item>
         <item>Heavy rainstorm</item>
         <item>Rain and snow mixed</item>
