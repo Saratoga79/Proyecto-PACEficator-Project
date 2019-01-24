@@ -7,34 +7,34 @@
         <item>com.huami.watch.deskclock/com.huami.watch.deskclock.countdown.CountdownWidget</item>
     </string-array>
     <string-array name="alarm_set">
-        <item>Alarm set for less than 1 minute from now.</item>
-        <item>Alarm set for %1$s from now.</item>
-        <item>Alarm set for %2$s from now.</item>
-        <item>Alarm set for %1$s and %2$s from now.</item>
-        <item>Alarm set for %3$s from now.</item>
-        <item>Alarm set for %1$s and %3$s from now.</item>
-        <item>Alarm set for %2$s and %3$s from now.</item>
-        <item>Alarm set for %1$s, %2$s, and %3$s from now.</item>
+        <item>ตั้งเวลาปลุกน้อยกว่า 1 นาทีจากนี้</item>
+        <item>ตั้งปลุกตอน %1$s นับจากนี้</item>
+        <item>ตั้งปลุกตอน %2$s นับจากนี้</item>
+        <item>ตั้งปลุกตอน %1$s และ %2$s นับจากนี้</item>
+        <item>ตั้งปลุกตอน %3$s นับจากนี้</item>
+        <item>ตั้งปลุกตอน %1$s และ %3$s นับจากนี้</item>
+        <item>ตั้งปลุกตอน %2$s และ %3$s นับจากนี้</item>
+        <item>ปลุกตั้ง %1$s, %2$sและ %3$s ตั้งแต่บัดนี้</item>
     </string-array>
     <string-array name="repeat_description">
-        <item>Once only</item>
-        <item>Mon</item>
-        <item>Tue</item>
-        <item>Wed</item>
-        <item>Thu</item>
-        <item>Fri</item>
-        <item>Sat</item>
-        <item>Sun</item>
+        <item>เพียงครั้งเดียว</item>
+        <item>จ.</item>
+        <item>อ.</item>
+        <item>พ.</item>
+        <item>พฤ.</item>
+        <item>ศ.</item>
+        <item>ส.</item>
+        <item>อา.</item>
     </string-array>
     <string-array name="short_week_days">
         <item></item>
-        <item>Sun</item>
-        <item>Mon</item>
-        <item>Tue</item>
-        <item>Wed</item>
-        <item>Thu</item>
-        <item>Fri</item>
-        <item>Sat</item>
+        <item>อา.</item>
+        <item>จ.</item>
+        <item>อ.</item>
+        <item>พ.</item>
+        <item>พฤ.</item>
+        <item>ศ.</item>
+        <item>ส.</item>
     </string-array>
     <string-array name="stopwatch_format_set">
         <item>%2$02d:%3$02d.%4$02d</item>
