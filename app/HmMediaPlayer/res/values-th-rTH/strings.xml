@@ -69,9 +69,9 @@
     <string name="no_search_results">ไม่มีผลลัพธ์การค้นหา</string>
     <string name="loading">กำลังโหลด…</string>
     <string name="media_route_menu_title">เล่น...</string>
-    <string name="confirm_exit">"The listed songs have not completely downloaded. 
-Are you sure to exist?"</string>
-    <string name="music_download_cancel">The songs downloading process has been stopped</string>
+    <string name="confirm_exit">"เพลงที่แสดงไม่สามารถดาวน์โหลดอย่างสมบูรณ์
+คุณแน่ใจหรือว่ามีอยู่?"</string>
+    <string name="music_download_cancel">กระบวนการดาวน์โหลดเพลงหยุดลง</string>
     <string name="play_mode_single_loop">Single loop</string>
     <string name="play_mode_ordered">Order play</string>
     <string name="play_mode_random">Random play</string>
@@ -86,15 +86,15 @@ Are you sure to exist?"</string>
     <string name="picker_default_positive_text">ยืนยัน</string>
     <string name="picker_default_nagetive_text">ปิด</string>
     <string name="no_heartrate_data_hint">ไม่พบข้อมูลอัตราการเต้นหัวใจ</string>
-    <string name="no_altitude_hint">Altitude data not detected</string>
+    <string name="no_altitude_hint">ไม่พบข้อมูลระดับความสูง</string>
     <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">การตั้งค่า</string>
-    <string name="sport_music_settings">Sports music</string>
+    <string name="sport_music_settings">สปอร์ตมิวสิค</string>
     <string name="widget_currentstep_title">ภาพรวมรายวัน</string>
-    <string name="widget_currentstep_activities">Activities</string>
-    <string name="widget_currentstep_sleep_hour">h</string>
-    <string name="widget_currentstep_sleep_min">min</string>
-    <string name="widget_currentstep_sleep_title">Sleep</string>
+    <string name="widget_currentstep_activities">กิจกรรม</string>
+    <string name="widget_currentstep_sleep_hour">ชม.</string>
+    <string name="widget_currentstep_sleep_min">นาที</string>
+    <string name="widget_currentstep_sleep_title">การนอนหลับ</string>
     <string name="widget_currentstep_sleep_no">ไม่มีข้อมูลการนอนหลับ</string>
     <string name="widget_currentstep_activity_no">ไม่มีกิจกรรมวันนี้?</string>
     <string name="locale_title">เลือกภาษา</string>
