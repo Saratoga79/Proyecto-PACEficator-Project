@@ -436,15 +436,15 @@
     <string name="oritation_north">N</string>
     <string name="back_to_continue_sport">Wstecz</string>
     <string name="lap_swim_stroke_speed_title">Częstość uderzeń</string>
-    <string name="first_modify_tips">To calibrate the distance result of a running session (must be longer than 0.5 km) helps the watch to generate a more accurate distance result.</string>
-    <string name="modify_big_dis_tips">The calibrated value %1$s is significantly different from the measured value %2$s, calibrate anyway?</string>
-    <string name="modify_big_dis_regain">Edit</string>
-    <string name="modify_big_dis_confirm">Continue calibration</string>
-    <string name="re_modify_dis">Calibrate again</string>
+    <string name="first_modify_tips">Aby skalibrować przebytą odległość (musi być dłuższa niż 0,5 km) zegarka musisz wygenerować bardziej precyzyjne odległości.</string>
+    <string name="modify_big_dis_tips">Skalibrowana wartość %1$s znacznie się różni od zmierzonej wartości %2$s, zatwierdzić kalibrację?</string>
+    <string name="modify_big_dis_regain">Edycja</string>
+    <string name="modify_big_dis_confirm">Kontynuacja kalibracji</string>
+    <string name="re_modify_dis">Ponowna kalibracja</string>
     <string name="re_modify_dis_tips">"1. To calibrate the distance result of a running session (must be longer than 0.5 km) helps the watch to generate a more accurate result.
 2. If you still aren\'t satisfied with the result after several calibration attempts, try to calibrate again.
 3. If you calibrate the result again, all previous calibration records will be deleted."</string>
-    <string name="give_up_re_modify_dis">Discard</string>
+    <string name="give_up_re_modify_dis">Odrzuć</string>
     <string name="confirm_re_modify_dis">OK</string>
     <string name="huanghe_pause_continue_title">Operacje sportowe</string>
     <string name="experience_title">Proszę ustawić dane osobowe lub dane będą miały duże odchylenie</string>
@@ -558,7 +558,7 @@
     <string name="music_init_not_done">Inicjowanie Muzyki...</string>
     <string name="music_no_douban_resource">Brak utw.do odtw, pobrać?</string>
     <string name="ximalaya_music_title">Ximalaya</string>
-    <string name="first_music_tips">Added a music control feature on watch</string>
+    <string name="first_music_tips">Dodanie obsługi muzyki na zegarku</string>
     <string name="title_activity_running">Aktyw.Biegowa</string>
     <string name="default_time_value">00:00:00</string>
     <string name="default_int_value">0</string>
@@ -615,17 +615,17 @@
     <string name="real_time_guide_title_33">Spokojnie!</string>
     <string name="real_time_guide_title_34">Zwolnij!</string>
     <string name="real_time_guide_title_35">Spokojnie!</string>
-    <string name="real_time_guide_desc_1">Good job</string>
+    <string name="real_time_guide_desc_1">Dobra robota</string>
     <string name="real_time_guide_desc_2">%1$s więcej minut, abyś mógł się zmieścić</string>
-    <string name="real_time_guide_desc_3">Speed up, try your best</string>
+    <string name="real_time_guide_desc_3">Przyśpiesz, pobij swój rekord</string>
     <string name="real_time_guide_desc_6">%1$s więcej minut poprawi Twoją kondycję.</string>
-    <string name="real_time_guide_desc_7">Speed up, try your best</string>
+    <string name="real_time_guide_desc_7">Przyśpiesz, pobij swój rekord</string>
     <string name="real_time_guide_desc_10">%1$s więcej minut ma bardzo dobry wpływ na kondycję.</string>
-    <string name="real_time_guide_desc_11">Speed up again</string>
+    <string name="real_time_guide_desc_11">Przyśpiesz</string>
     <string name="real_time_guide_desc_14">Zakończyłeś już bardzo dobry trening!</string>
     <string name="real_time_guide_desc_22">%1$s minut, aby osiągnąć swój cel!</string>
     <string name="real_time_guide_desc_25">Docelowy zakres tętna to %1$s-%2$s bpm。</string>
-    <string name="real_time_guide_desc_26">Run faster</string>
+    <string name="real_time_guide_desc_26">Biegnij szybciej</string>
     <string name="real_time_guide_desc_27">Osiągnąłeś swój cel!</string>
     <string name="real_time_guide_desc_28">Osiągnąłeś %1$s swojego celu!</string>
     <string name="real_time_guide_desc_30">Ten rodzaj ćwiczeń zapewni Ci odpowiednią kondycję.</string>
@@ -633,7 +633,7 @@
     <string name="real_time_guide_desc_32">Zdolność krążeniowo-oddechowa poprawia się!</string>
     <string name="real_time_guide_desc_33">Ćwiczenie to mogło być zbyt trudne dla Twojego ciała.</string>
     <string name="real_time_guide_desc_34">Docelowy zakres tętna wynosi %1$s-%2$s bpm!</string>
-    <string name="real_time_guide_desc_35">"It's time to relax"</string>
+    <string name="real_time_guide_desc_35">"Czas na odpoczynek"</string>
     <string name="rope_arrive_goal_unit">razy / seg</string>
     <string name="aleary_finish_group">Ukończone grupy %1$s</string>
     <string name="this_group_count">Liczba grup</string>
@@ -883,8 +883,8 @@
     <string name="settings_sport_music_Watercress">Sports FM</string>
     <string name="settings_sport_music_play_settings">Ustawienia Muzyki</string>
     <string name="settings_sport_lock_screen">Ekran blokady</string>
-    <string name="settings_sport_three_data">3 items</string>
-    <string name="settings_sport_three_big_data">3 items (large)</string>
+    <string name="settings_sport_three_data">3 elementy</string>
+    <string name="settings_sport_three_big_data">3 elementy (duże)</string>
     <string name="settings_sport_four_data">4 Pola danych</string>
     <string name="settings_sport_six_data">6 Pól danych</string>
     <string name="settting_sport_gpx_route">GPX Kurs</string>
