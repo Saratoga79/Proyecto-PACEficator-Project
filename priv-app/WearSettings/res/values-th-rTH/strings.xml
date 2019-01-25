@@ -180,17 +180,17 @@
     <string name="auto_wifi_trans_off_string">ปิด</string>
     <string name="blue_tooth_dev_in_sub_list">Bluetooth</string>
     <string name="scanning_blt_devices">กำลัง​ค้น​หา...</string>
-    <string name="blt_bound_stat_bonded">จับคู่</string>
-    <string name="blt_bound_stat_connected">Connected</string>
-    <string name="blt_bound_stat_disconnect">Disconnected</string>
-    <string name="blt_bound_stat_bonding">Pairing...</string>
-    <string name="blt_bound_stat_none">Available</string>
-    <string name="blt_default_name">Unnamed</string>
+    <string name="blt_bound_stat_bonded">จับคู่แล้ว</string>
+    <string name="blt_bound_stat_connected">เชื่อมต่อแล้ว</string>
+    <string name="blt_bound_stat_disconnect">ตัดการเชื่อมต่อแล้ว</string>
+    <string name="blt_bound_stat_bonding">กำลังจับคู่...</string>
+    <string name="blt_bound_stat_none">พร้อมใช้งาน</string>
+    <string name="blt_default_name">ไม่มีชื่อ</string>
     <string name="blt_hint_disconnect">"%1s
-Disconnect?"</string>
+ตัดการเชื่อมต่อ?"</string>
     <string name="blt_hint_connect">"%1s
-Connect?"</string>
-    <string name="blt_hint_connect_fail">Connection failed, please re-connect</string>
+เชื่อมต่อ?"</string>
+    <string name="blt_hint_connect_fail">การเชื่อมต่อล้มเหลวโปรดเชื่อมต่ออีกครั้ง</string>
     <string name="blt_type_ear">ชุดหูฟัง</string>
     <string name="blt_speaker">เสียง</string>
     <string name="blt_car_system">ติดตั้งบนยานพาหนะ</string>
@@ -250,34 +250,33 @@ Connect?"</string>
     <string name="es_es">Español</string>
     <string name="confirm_change_locale">"Change language to 
 %1$s?"</string>
-    <string name="gender">Gender</string>
-    <string name="birth_year">Birth Year</string>
-    <string name="height">Height</string>
-    <string name="weight">Weight</string>
-    <string name="male">Male</string>
-    <string name="female">Female</string>
-    <string name="centimeter">cm</string>
-    <string name="birth_year_unit">"Birth 
-Year"</string>
-    <string name="height_unit">"Height 
-cm"</string>
-    <string name="weight_unit">"Weight 
-kg"</string>
-    <string name="reset_factory_hint">Are you sure of restoring to factory settings?</string>
-    <string name="reset_factory_yes">Restore to factory settings</string>
-    <string name="reset_factory_no">Cancel</string>
-    <string name="reset_factory_title">Restore to factory settings</string>
-    <string name="reset_factory_noconnect_msg">"If you want to unbind from the watch, please do so in the Amazfit watch App. 
- The UnionPay cards and the transportation cards will be removed from the watch once it is unilaterally restored to factory settings. 
- - Removed UnionPay cards: They cannot be bound to the watch anymore. If you want to bind again, please consult your bank customer service. 
- - Removed traffic cards: They will be permanently closed and no longer payable."</string>
-    <string name="reset_factory_conncet_msg">Your watch and the Amazfit watch App will remove the bound UnionPay card. The watch will still retain the payment function of your transportation card.</string>
-    <string name="reset_factory_positive">Restore to factory settings</string>
-    <string name="reset_factory_negative">Cancel</string>
-    <string name="reset_factory_fail_title">Failed to restore to factory settings</string>
-    <string name="reset_factory_fail_msg">Failed to remove the UnionPay card. Please try again.</string>
-    <string name="reset_factory_fail_positive">OK</string>
-    <string name="reset_factory_doing1">Restoring to factory settings</string>
+    <string name="gender">เพศ</string>
+    <string name="birth_year">ปีเกิด</string>
+    <string name="height">ความสูง</string>
+    <string name="weight">น้ำหนัก</string>
+    <string name="male">ผู้ชาย</string>
+    <string name="female">เพศหญิง</string>
+    <string name="centimeter">ซม.</string>
+    <string name="birth_year_unit">"ปีเกิด"</string>
+    <string name="height_unit">"ความสูง 
+ซม."</string>
+    <string name="weight_unit">"น้ำหนัก 
+กิโลกรัม"</string>
+    <string name="reset_factory_hint">คุณแน่ใจในการคืนค่าจากโรงงาน หรือไม่?</string>
+    <string name="reset_factory_yes">คืนการตั้งค่าจากโรงงาน</string>
+    <string name="reset_factory_no">ยกเลิก</string>
+    <string name="reset_factory_title">คืนการตั้งค่าจากโรงงาน</string>
+    <string name="reset_factory_noconnect_msg">"ถ้าคุณต้องการยกเลิกการจับคู่ออกจากนาฬิกาโปรดทำในแอป Amazfit watch
+  บัตร UnionPay และบัตรขนส่งจะถูกลบออกจากนาฬิกาเมื่อมีการคืนค่าการตั้งค่าจากโรงงาน
+  - ลบบัตร UnionPay: ไม่สามารถผูกกับนาฬิกาได้อีกต่อไป หากคุณต้องการผูกอีกครั้งโปรดปรึกษาฝ่ายบริการลูกค้าจากธนาคารของคุณ
+  - เอาบัตรจราจรออก: บัตรเหล่านั้นจะถูกปิดอย่างถาวรและไม่สามารถจ่ายได้อีกต่อไป "</string>
+    <string name="reset_factory_conncet_msg">นาฬิกาและแอป Amazfit watch ของคุณจะลบบัตร UnionPay ที่ถูกผูกไว้ออก นาฬิกาจะยังคงฟังก์ชั่นการชำระเงินของบัตรการขนส่งของคุณ</string>
+    <string name="reset_factory_positive">คืนการตั้งค่าจากโรงงาน</string>
+    <string name="reset_factory_negative">ยกเลิก</string>
+    <string name="reset_factory_fail_title">ไม่สามารถกู้คืนการตั้งค่าจากโรงงาน</string>
+    <string name="reset_factory_fail_msg">ไม่สามารถลบบัตร UnionPay กรุณาลองอีกครั้ง.</string>
+    <string name="reset_factory_fail_positive">ตกลง</string>
+    <string name="reset_factory_doing1">คืนการตั้งค่าจากโรงงาน</string>
     <string name="reset_factory_doing2">Removing the UnionPay card</string>
     <string name="lockpassword_confirm_your_pattern_header">Confirm Your Pattern</string>
     <string name="lockpattern_need_to_unlock">Draw Unlocking Pattern</string>
@@ -358,15 +357,15 @@ kg"</string>
     <string name="setting_regulation_desc_us">FCC ID:2AC8UA1811</string>
     <string name="setting_regulation_desc_canda">"IC:21806-A1811 
  ICAN ICE-3(B)/NMB-3(B)"</string>
-    <string name="setting_regulation_model_name">Model : %1$s</string>
+    <string name="setting_regulation_model_name">รุ่น : %1$s</string>
     <string name="confirm_shutdown">ปิดเครื่อง?</string>
     <string name="confirm_reboot">เริ่มระบบใหม่?</string>
     <string name="app_name">การตั้งค่า</string>
-    <string name="title_activity_long_sitting_time">LongSittingTimeActivity</string>
-    <string name="lab_desc">Collect part of the debugging tools</string>
+    <string name="title_activity_long_sitting_time">การตั้งค่านั่งเวลานาน</string>
+    <string name="lab_desc">รวบรวมส่วนหนึ่งของ debugging tools</string>
     <string name="unknown">อุปกรณ์ที่ไม่รู้จัก</string>
-    <string name="bind_tips_title">"Please bind 
- to protect your data more securely"</string>
+    <string name="bind_tips_title">"กรุณาผูกมัด 
+ เพื่อปกป้องข้อมูลของคุณให้ปลอดภัยยิ่งขึ้น"</string>
     <string name="upgrade_checking">ตรวจหาการอัพเดท...</string>
     <string name="left_hand">ซ้าย</string>
     <string name="right_hand">ขวา</string>
