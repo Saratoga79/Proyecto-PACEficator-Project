@@ -441,9 +441,9 @@
     <string name="modify_big_dis_regain">Edycja</string>
     <string name="modify_big_dis_confirm">Kontynuacja kalibracji</string>
     <string name="re_modify_dis">Ponowna kalibracja</string>
-    <string name="re_modify_dis_tips">"1. To calibrate the distance result of a running session (must be longer than 0.5 km) helps the watch to generate a more accurate result.
-2. If you still aren\'t satisfied with the result after several calibration attempts, try to calibrate again.
-3. If you calibrate the result again, all previous calibration records will be deleted."</string>
+    <string name="re_modify_dis_tips">"1. do kalibracji odległość uruchomionej sesji (musi być dłuższa niż 0,5 km) w zegarku do wygenerowania bardziej precyzyjnych wyników.
+2. Jeśli nadal jesteś nie zadowolony z wyniku, po próbach kilku kalibracji, spróbuj ponownie skalibrować.
+3. Po ponownej kalibracji, wszystkie poprzednie kalibracjie zostaną usunięte."</string>
     <string name="give_up_re_modify_dis">Odrzuć</string>
     <string name="confirm_re_modify_dis">OK</string>
     <string name="huanghe_pause_continue_title">Operacje sportowe</string>
@@ -666,7 +666,7 @@
     <string name="sport_pause_normal_rope_skip_unit">Skipped count</string>
     <string name="sport_pause_last_min_times_reminder">Całkowita ilość zbyt mała, aby zapisać. Czy zakończyć?</string>
     <string name="rope_skip_this_frequency">Częst. grupy</string>
-    <string name="rope_skip_aleary_group"><Data>Completed groups: &lt;font color=#00ff00&gt;%1$s&lt;/font&gt;</Data></string>
+    <string name="rope_skip_aleary_group"><Data>Calkowite grupy:&lt;font color=#00ff00&gt;&lt;font color=#00ff00&gt;%1$s&lt;/font&gt;</Data></string>
     <string name="sport_remind_total_times">Całkowita ilość: %1$s</string>
     <string name="sport_main_graph_title_rope_skip">Ostatnio</string>
     <string name="sport_rope_skip_requency">Frequency (times/min)</string>
