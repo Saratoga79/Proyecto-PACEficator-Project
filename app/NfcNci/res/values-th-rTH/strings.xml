@@ -9,16 +9,16 @@
     <string name="outbound_me_profile_text">แตะเพื่อให้ข้อมูลติดต่อของคุณ</string>
     <string name="accessibility_nfc_enabled">เปิดใช้งาน NFC</string>
     <string name="touch">แตะเพื่อ Android Beam</string>
-    <string name="beam_progress">Incoming beam...</string>
+    <string name="beam_progress">Beam กำลังเข้ามา....</string>
     <string name="beam_outgoing">กำลัง Beam...</string>
     <string name="beam_complete">Beam เสร็จสมบูรณ์</string>
-    <string name="beam_failed">Beam did not complete</string>
-    <string name="beam_canceled">Beam canceled</string>
+    <string name="beam_failed">Beam ไม่สมบูรณ์</string>
+    <string name="beam_canceled">Beam ถูกยกเลิก</string>
     <string name="cancel">ยกเลิก</string>
     <string name="beam_touch_to_view">แตะเพื่อดู</string>
-    <string name="beam_handover_not_supported">"The receiver's device doesn't support large file transfer via beam."</string>
-    <string name="beam_try_again">Bring devices together again</string>
-    <string name="beam_busy">Beam is currently busy. Try again when the previous transfer completes.</string>
+    <string name="beam_handover_not_supported">"อุปกรณ์ของผู้รับไม่รองรับการถ่ายโอนไฟล์ขนาดใหญ่ผ่านทาง Beam"</string>
+    <string name="beam_try_again">นำอุปกรณ์มารวมกันอีกครั้ง</string>
+    <string name="beam_busy">Beam กำลังทำงานอยู่ ลองอีกครั้งเมื่อการถ่ายโอนก่อนหน้านี้เสร็จสมบูรณ์</string>
     <string name="device">อุปกรณ์</string>
     <string name="connecting_peripheral">กำลังเชื่อมต่อกับ %1$s</string>
     <string name="connected_peripheral">เชื่อมต่อกับ %1$s แล้ว</string>
@@ -50,7 +50,7 @@
     <string name="permdesc_nfcReceiveEvent">อนุญาตให้แอปพลิเคชันรับข้อมูลเกี่ยวกับการทำธุรกรรม NFC</string>
     <string name="nfc_enabled_dialog">"ขณะนี้ Nfc ถูกปิดใช้งาน
 คุณต้องการเปิดใช้งานสำหรับบริการ NFC ของคุณหรือไม่ "</string>
-    <string name="permgrouplab_NFC">NFC-Near Field communication</string>
+    <string name="permgrouplab_NFC">NFC ใกล้การสื่อสาร</string>
     <string name="permgroupdesc_NFC">การเข้าถึงคุณสมบัติ NFC ต่างๆ</string>
     <string name="ok">ตกลง</string>
     <string name="no">ไม่</string>
