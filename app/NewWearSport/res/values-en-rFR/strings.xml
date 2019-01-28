@@ -436,14 +436,14 @@
     <string name="oritation_north">N</string>
     <string name="back_to_continue_sport">Retour</string>
     <string name="lap_swim_stroke_speed_title">Rythme de foulée</string>
-    <string name="first_modify_tips">Pour étalonner le résultat de la distance d\'une cession de course (doit avoir une longueur de plus de 0,5 km) aide la montre à générer des résultats de distance plus précis.</string>
+    <string name="first_modify_tips">Pour étalonner le résultat de la distance d\'une cession de course (doit avoir une longueur de plus de 0,5 km), la montre génère des résultats de distance plus précis.</string>
     <string name="modify_big_dis_tips">La valeur étalonnée %1$s est significativement différente de la valeur mesurée %2$s, calibrer quand même ?</string>
     <string name="modify_big_dis_regain">Editer</string>
     <string name="modify_big_dis_confirm">Continuer l’étalonnage</string>
     <string name="re_modify_dis">Étalonner à nouveau</string>
-    <string name="re_modify_dis_tips">"1. To calibrate the distance result of a running session (must be longer than 0.5 km) helps the watch to generate a more accurate result.
-2. If you still aren\'t satisfied with the result after several calibration attempts, try to calibrate again.
-3. If you calibrate the result again, all previous calibration records will be deleted."</string>
+    <string name="re_modify_dis_tips">« 1. Pour étalonner le résultat de la distance d’une session en cours d’exécution (doit être supérieur à 0,5 km), la montre génère un résultat plus précis.
+2. Si vous n’êtes toujours pas satisfait du résultat après plusieurs tentatives d\'étalonnages, essayez d’étalonner à nouveau.
+3. Si vous étalonnez le résultat encore une fois, tous les précédents étalonnages seront supprimés. »</string>
     <string name="give_up_re_modify_dis">Ignorer</string>
     <string name="confirm_re_modify_dis">OK</string>
     <string name="huanghe_pause_continue_title">Sport operation</string>
@@ -887,7 +887,7 @@ pour un exercice efficace!\"</string>
     <string name="settings_sport_music_play_settings">Paramètres musique</string>
     <string name="settings_sport_lock_screen">Écrans de données</string>
     <string name="settings_sport_three_data">3 éléments</string>
-    <string name="settings_sport_three_big_data">3 items (large)</string>
+    <string name="settings_sport_three_big_data">3 éléments (données volumineuses)</string>
     <string name="settings_sport_four_data">4 champs de données</string>
     <string name="settings_sport_six_data">6 champs de données</string>
     <string name="settting_sport_gpx_route">GPX du Terrain</string>
