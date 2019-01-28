@@ -61,21 +61,21 @@
 ฮอตสปอต Wi-Fi อื่น "</string>
     <string name="searching">กำลัง​ค้น​หา...</string>
     <string name="hasNewUpdateTitle">อัพเดทระบบ</string>
-    <string name="hasNewUpdateInstallContent">The %1$s version can be installed, install now?</string>
-    <string name="hasNewUpdateCheckContent">The %1$s version can be updated, update now?</string>
+    <string name="hasNewUpdateInstallContent">%1$s สามารถติดตั้งรุ่นได้ ทำการติดตั้งหรือไม่?</string>
+    <string name="hasNewUpdateCheckContent">%1$s สามารถอัปเดตได้ ทำการอัปเดตหรือไม่?</string>
     <string name="update_title">โปรดเลือกหนึ่งในตัวเลือกต่อไปนี้:</string>
     <string name="update_online">การอัปเดตแบบ Over-the-air</string>
     <string name="update_local">อัปเดตจากไฟล์ zip ในเครื่อง</string>
     <string name="local_update_confirm_1_title">กรุณาอ่าน</string>
-    <string name="local_update_invalid_zip">The card package system version is too low, it is recommended to use the latest version to upgrade</string>
-    <string name="local_update_confirm_1_msg">"To ensure the new version 
-works properly, we\'ll erase all 
-user data after update. Please connect 
-to the Amazfit Watch APP and back up all data before update."</string>
-    <string name="local_update_confirm_2_msg">"Please make sure all user
-data are backed up. Installing 
-the update will erase all user 
-data on the watch, Continue?"</string>
+    <string name="local_update_invalid_zip">เวอร์ชั่นของระบบแพ็กเกจการ์ดต่ำเกินไปแนะนำให้ใช้เวอร์ชั่นล่าสุดในการอัพเกรด</string>
+    <string name="local_update_confirm_1_msg">"เพื่อให้แน่ใจว่าเวอร์ชั่นใหม่
+ทำงานอย่างถูกต้องเราจะลบทั้งหมด
+ข้อมูลผู้ใช้หลังการอัพเดต กรุณาเชื่อมต่อ
+ไปยังแอป Amazfit Watch และสำรองข้อมูลทั้งหมดก่อนอัปเดต "</string>
+    <string name="local_update_confirm_2_msg">"โปรดตรวจสอบให้แน่ใจว่าผู้ใช้ทั้งหมด
+สำรองข้อมูลแล้ว การติดตั้ง
+การอัปเดตจะลบผู้ใช้ทั้งหมด
+ข้อมูลบนนาฬิกาทำต่อหรือไม่ "</string>
     <string name="OK">ตกลง</string>
     <string name="yes">ใช่</string>
     <string name="no">ไม่</string>
