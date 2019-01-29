@@ -72,12 +72,12 @@
     <string name="auto_hint_title">Konf.wyb.nadg.</string>
     <string name="long_key_action">Dł.naciś.przyc.okrąż.</string>
     <string name="rebond">rebond</string>
-    <string name="sport_remind_title">Activity reminders</string>
-    <string name="sport_remind_open_title">Reminders to start an activity</string>
-    <string name="sport_remind_end_title">Reminders to end an activity</string>
-    <string name="sport_remind_open_tips">Turn on to receive the reminders of starting an activity on the device when you are running, walking, etc.</string>
-    <string name="sport_remind_end_tips">Turn on to receive the reminders of ending an activity and saving the data on the device after your workout.</string>
-    <string name="sport_remind_open">Turn on</string>
+    <string name="sport_remind_title">Aktywność przypomnienie</string>
+    <string name="sport_remind_open_title">Aktywność przypomnienie</string>
+    <string name="sport_remind_end_title">Aktywność przypomnienie aby zakończyć</string>
+    <string name="sport_remind_open_tips">Włącz aby otrzymać powiadomienia i przypomnienia, kiedy zaczniesz aktywność np. bieganie, chód itp.</string>
+    <string name="sport_remind_end_tips">Włącz, by otrzymać przypomnienie kiedy kończysz trening aby zapisać dane.</string>
+    <string name="sport_remind_open">Włącz</string>
     <string name="product_model_huanghe">Amazfit Sports Watch</string>
     <string name="product_model_huanghe_oversea">Amazfit Pace</string>
     <string name="product_model_everest">Amazfit Sports Watch 2</string>
@@ -100,11 +100,11 @@
     <string name="ko_kr">한국의</string>
     <string name="title_activity_long_sitting_time">LongSittingTimeActivity</string>
     <string name="paobu">Bieganie</string>
-    <string name="jianzou">Walking</string>
+    <string name="jianzou">Spacer</string>
     <string name="yueye">Bieg w teren.</string>
     <string name="shineipao">Bieg bieżn.</string>
     <string name="huwaiqi">Jazda w ter.</string>
-    <string name="yongchiyou">Pool swimming</string>
+    <string name="yongchiyou">Pływanie </string>
     <string name="gongkaiyou">Otwarta woda</string>
     <string name="tuoyuanji">Orbitrek</string>
     <string name="dengshan">Wspinaczka</string>
@@ -123,11 +123,11 @@
     <string name="mijia">Mi Home</string>
     <string name="zhinanzhen">Kompas</string>
     <string name="yinyue">Muzyka</string>
-    <string name="rebond_title">Pairing reminder</string>
-    <string name="rebond_desc_air_plane">Airplane mode of the watch is on, turn it off and try to pair again</string>
-    <string name="rebong_unbond_desc">Attention: You can only use this feature when the watch is unpaired from Amazfit Watch app, otherwise, the previously paired watch will be unpaired.</string>
-    <string name="rebond_go_on">Continue</string>
-    <string name="rebond_quit">Exit</string>
+    <string name="rebond_title">Parowanie przypomnienie</string>
+    <string name="rebond_desc_air_plane">Tryb samolotowy zegarka jest włączony, wyłącz go i spróbuj ponownie sparować</string>
+    <string name="rebong_unbond_desc">Uwagi: Możesz użyć tej funkcji gdy zegarek jest nie sparowany z aplikacją Amazfit, w przeciwnym razie wcześniej sparowany zegarek będzie nie sparowany.</string>
+    <string name="rebond_go_on">Kontyntynuj</string>
+    <string name="rebond_quit">Wyjdź</string>
     <string name="report_bug_dialog_title">Informacje zwrotne</string>
     <string name="report_bug_dialog_desc">Po tym, jak zegarek ma błędy danych, nieprawidłowe warunki itp., Możesz przesłać dane na nasz serwer za pośrednictwem funkcji pytań zwrotnych do analizy przez nasz personel posprzedażny. Podczas tego procesu wcześniej wygenerowane dzienniki na zegarku będą automatycznie zbierane i przesyłane, które są wykorzystywane wyłącznie do analizy problemu i nie będą wykorzystywane jako inne środki i zostaną zniszczone natychmiast po analizie. Cały proces będzie zgodny z naszą polityką prywatności. Szczegółowe informacje można znaleźć w polityce prywatności aplikacji Amazfit Watch.</string>
     <string name="dialog_agree">Zgoda</string>
@@ -153,7 +153,7 @@
     <string name="build_desc">[DEBUG]Build description</string>
     <string name="lab">Laboratorium</string>
     <string name="nothing">Pusty</string>
-    <string name="legal">"View the info in the "</string>
+    <string name="legal">"Zobacz informację w "</string>
     <string name="legal2">Widok aplikacji</string>
     <string name="device_name_default">Amazfit Watch</string>
     <string name="device_name_huanghe">Amazfit Sports Watch</string>
@@ -178,7 +178,7 @@ Jeśli musisz korzystać z funkcji, które wymagają BT / WiFi, należy wył.try
     <string name="auto_nodisturb_title_string">Nie przeszkadzać</string>
     <string name="auto_nodisturb_start_time_string">Czas rozpocz.</string>
     <string name="auto_nodisturb_end_time_string">Czas końca</string>
-    <string name="time_to">" to "</string>
+    <string name="time_to">" do "</string>
     <string name="auto_wifi_trans_on_string">Wł.</string>
     <string name="auto_wifi_trans_off_string">Wył.</string>
     <string name="blue_tooth_dev_in_sub_list">Bluetooth</string>
@@ -257,7 +257,7 @@ Urodz."</string>
 cm"</string>
     <string name="weight_unit">"Waga 
 kg"</string>
-    <string name="reset_factory_hint">Reset device?</string>
+    <string name="reset_factory_hint">Zresetować urządzenie?</string>
     <string name="time_zone">Strefa czas.</string>
     <string name="date">Data</string>
     <string name="time">Czas</string>
