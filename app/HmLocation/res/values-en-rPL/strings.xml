@@ -3,13 +3,13 @@
 <resources>
     <string name="locale_title">Wybierz język</string>
     <string name="app_name">Location</string>
-    <string name="new_location">New location</string>
+    <string name="new_location">Nowa lokalizacja</string>
     <string name="saved_location">Zapisane lokacje</string>
-    <string name="gps_searching">Searching for GPS signal…</string>
+    <string name="gps_searching">Czekanie na sygnał GPS…</string>
     <string name="gps_search_failed_title">"GPS niedostępny"</string>
-    <string name="gps_search_failed_content">Try again outdoors.</string>
-    <string name="wait_gps_search_retry">Try again</string>
-    <string name="gps_info_reaching">Getting location…</string>
+    <string name="gps_search_failed_content">Spróbuj na zewnątrz.</string>
+    <string name="wait_gps_search_retry">Spróbuj ponownie</string>
+    <string name="gps_info_reaching">Lokalizowanie…</string>
     <string name="date_am">AM</string>
     <string name="date_pm">PM</string>
     <string name="back">Wstecz</string>
@@ -21,14 +21,14 @@
     <string name="west_lng">WL</string>
     <string name="north_lat">NL</string>
     <string name="south_lat">SL</string>
-    <string name="location_list_no_data">No locations</string>
+    <string name="location_list_no_data">Brak położenia</string>
     <string name="icon_list_select_confirm">Wybierz</string>
-    <string name="delete_loaction_tips">Remove this location?</string>
+    <string name="delete_loaction_tips">Usunąć tą lokację?</string>
     <string name="yes">Tak</string>
     <string name="no">Nie</string>
     <string name="location_navigation">Nawiguj</string>
-    <string name="beyond_distance">"Can't navigate, because the destination you selected is 2000 km away from current location"</string>
-    <string name="exteed_max_num">"Can't add more than 500 locations"</string>
+    <string name="beyond_distance">"Nie można wyruszyć, ponieważ do wybranego miejsca docelowego jest 2000 km"</string>
+    <string name="exteed_max_num">"Ograniczenie do 500 miejsc"</string>
     <string name="gps_save">Zapisz</string>
     <string name="altitude_unit">m</string>
     <string name="average_text">Średnia</string>

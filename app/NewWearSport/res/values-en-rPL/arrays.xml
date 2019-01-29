@@ -35,10 +35,10 @@
         <item>OUTDOOR_RIDING</item>
         <item>INDOOR_RIDING</item>
         <item>ELLIPTICAL_MACHINE</item>
-        <item>CLIMB</item>
-        <item>SKI</item>
-        <item>FOOTBALL</item>
-        <item>TENNIS</item>
+        <item>WSPINACZKA</item>
+        <item>NARCIARSTWO</item>
+        <item>PIŁKA NOŻNA</item>
+        <item>TENIS</item>
     </string-array>
     <string-array name="dally_performence_level_status">
         <item>Zmęczony</item>
@@ -46,13 +46,13 @@
         <item>Dobry</item>
     </string-array>
     <string-array name="vo2_max_level_status">
-        <item>New</item>
-        <item>General</item>
-        <item>Introduction</item>
-        <item>Medium</item>
+        <item>Nowy</item>
+        <item>Główne</item>
+        <item>Wprowadzenie</item>
+        <item>Średni</item>
         <item>Dobry</item>
-        <item>Excellent</item>
-        <item>Preeminent</item>
+        <item>Znakomity</item>
+        <item>Wyśmienicie</item>
     </string-array>
     <string-array name="spring_depend">
         <item>com.huami.watch.newsport/com.huami.watch.newsport.widget.SportWidget</item>
