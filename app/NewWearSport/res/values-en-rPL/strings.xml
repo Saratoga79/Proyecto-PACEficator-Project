@@ -490,7 +490,7 @@
     <string name="first_beat_help_title_train_load">Obciążenie treningowe</string>
     <string name="first_beat_help_title_sport_target_or_real_time_guide">Zalecane instrukcje dostarczane&amp; w czasie rzeczywistym</string>
     <string name="first_beat_help_title_daily_perpormence">Status wydajności</string>
-    <string name="first_beat_help_title_recovery_time">Time for full recovery</string>
+    <string name="first_beat_help_title_recovery_time">Czas na pełną regenerację</string>
     <string name="first_beat_help_vo2_max">"&lt;font color=#00FF00&gt;What is this？&lt;/font&gt;&lt;br/&gt; VO2Max represents the maximum volume of oxygen the body can consume in one minute as measured in ml/kg/min. It evaluates the state of users ' cardiorespiratory fitness which is important for overall health, well-being and sports performace. &lt;br/&gt;The watch will automatically evaluate your VO2Max based on heartrate, speed etc. during a moderate intensity running workout and compare that to a reference group of same age and gender to determine your fitness level. &lt;br/&gt;&lt;font color=#00FF00&gt;How to evaluate？&lt;/font&gt;&lt;br/&gt; 1. Provide accurate profile information like age and gender in Amazfit Watch app during setup； &lt;br/&gt; 2. Take a brisk 15 minutes or more outdoor run with the watch on and make sure heartrate is at or above 75% of your maxHR for at least 10 minutes. &lt;br/&gt; 3. After completing the run, you can check current VO2Max in the sports activities app on the watch or personal status page in Amazift Watch app. &lt;br/&gt;&lt;small&gt;For more details, please see Help in Amazfit Watch app.&lt;/small&gt;"</string>
     <string name="first_beat_help_te">&lt;font color=#00FF00&gt;What is this？&lt;/font&gt;&lt;br/&gt; Training Effect (TE) measures the accumulated load during a workout and interprets its impact on your aerobic fitness. TE starts from level 0.0. As the workout progresses successfully, TE value increases (from 0 towards 5), telling you how the workout effects your fitness. &lt;br/&gt;&lt;font color=#00FF00&gt;How is it calculated? &lt;/font&gt;&lt;br/&gt; TE is calculated based on your user profile, heart beat data and difficulty of the workout.&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; The watch will show realtime TE measurement during a workout as well as final TE result at the end of the workout. A&amp;lt;2.0 TE simply indicates that the workout has little effect on cardiorespiratory fitness and is useful only for building an endurance base and recovery. &lt;br/&gt;&lt;small&gt;For more details, please see Help in Amazfit Watch app.&lt;/small&gt;</string>
     <string name="first_beat_help_train_load">The watch will calculate Training Load based on EPOC (Excess Post-exercise Oxygen Consumption) values accumulated from heartrate data recorded during workouts in a 7-day rolling window. The user can adjust the training schedule accordingly to reach optimal load. &lt;br/&gt;&lt;small&gt;For more details, please see Help in Amazfit Watch app.&lt;/small&gt;</string>
@@ -499,7 +499,7 @@
     <string name="first_beat_help_recovery_time">After completing a workout, you will be provided with time in minutes to full recovery. Between workouts recovery time is linearly decreased towards zero if there is no new workout data available. The user is encouraged to have some low intensiy workouts to help with recovery. &lt;br/&gt;&lt;small&gt;For more details, please see Help in Amazfit Watch app.&lt;/small&gt;</string>
     <string name="vo2max_unit">mg/kg/min</string>
     <string name="run_vo2max_unit">ml / kg / min</string>
-    <string name="vo2_max_has_no_data">No data</string>
+    <string name="vo2_max_has_no_data">Brak danych</string>
     <string name="sport_setting_gpx_route_selected">Wybrana ścieżka</string>
     <string name="sport_setting_gpx_route_selectd_remind">Funkcje zew.są nawigowane za pomocą tej trajektorii. Jeśli nie potrzebujesz, wybierz zamknij</string>
     <string name="confirm">OK</string>
@@ -617,9 +617,9 @@
     <string name="real_time_guide_desc_33">Ćwiczenie to mogło być zbyt trudne dla Twojego ciała.</string>
     <string name="real_time_guide_desc_34">Docelowy zakres tętna wynosi %1$s-%2$s bpm!</string>
     <string name="real_time_guide_desc_35"></string>
-    <string name="aleary_finish_group">Completed group %1$s</string>
-    <string name="this_group_count">Count</string>
-    <string name="group_cost_time">Time</string>
+    <string name="aleary_finish_group">Ukończone grupy %1$s</string>
+    <string name="this_group_count">Ilość</string>
+    <string name="group_cost_time">Czas</string>
     <string name="group_frequency">Frequency</string>
     <string name="aleary_rest">Has rested</string>
     <string name="next_group">Next group</string>
@@ -993,10 +993,10 @@ Skopiuj do komputera za pomocą USB"</string>
     <string name="modify_big_dis_regain">Zmodyfikuj</string>
     <string name="modify_big_dis_confirm">Potwierdź kalibrację</string>
     <string name="re_modify_dis">Rekalibracja</string>
-    <string name="re_modify_dis_tips">"1.里程大于0.5公里的校准可让手表学习你的跑步习惯，让跑步里程越来越准。
-2.如果你已进行过多次校准，但仍对里程结果不满意，可进行重新校准。
-3.重新校准将删除此前所有校准记录。"</string>
+    <string name="re_modify_dis_tips">"1.Kalibracja z przebiegiem większym niż 0,5 km pozwala zegarkowi na poznanie Twoich nawyków i wygenerowanie dokładniejszych wyników
+2. Jeśli wykonałeś wiele kalibracji i nadal nie jesteś zadowolony z wyników przebiegu, możesz dokonać ponownej kalibracji. 
+3. Ponowna kalibracja usunie wszystkie poprzednie zapisy kalibracji. "</string>
     <string name="give_up_re_modify_dis">Porzuć</string>
     <string name="confirm_re_modify_dis">Potwierdź</string>
-    <string name="re_modify_dis_successful">重新校准成功</string>
+    <string name="re_modify_dis_successful">Ponowne przeliczenie powiodło się</string>
 </resources>
