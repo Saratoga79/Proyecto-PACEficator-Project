@@ -478,18 +478,18 @@
     <string name="sport_te_desc_level_01">To szkolenie nie wpływa na poprawę wydolności tlenowej.</string>
     <string name="sport_te_desc_level_02">Efekt szkolenia jest niski. Ta intensywność jest pomocna do poprawy tolerancji szkolenia i nadaje się również do odzyskania sił po treningu.</string>
     <string name="sport_te_desc_level_03">Efekt treningu umiarkowany, jest pomocny do utrzymania wydolności tlenowej.</string>
-    <string name="sport_te_desc_level_04">The training effect is good, which is helpful to improve aerobic capacity.</string>
-    <string name="sport_te_desc_level_05">The training effect is excellent, which can effectively improve cardiorespiratory capacity and aerobic capacity.</string>
-    <string name="sport_te_desc_level_06">The training intensity has exceeded the body load. Non-professional personnel shall do well in recovery after training.</string>
+    <string name="sport_te_desc_level_04">Efekt treningu jest dobry, to powinno poprawić wydolność tlenową.</string>
+    <string name="sport_te_desc_level_05">Efekt treningu jest fantastyczny, skutecznie poprawia wydajność krążeniowo - tlenową.</string>
+    <string name="sport_te_desc_level_06">Zbyt intensywny treningu przeciążył możliwości organizmu. Nieprofesjonalny personel dobrze sobie poradzi z odzyskaniem sił po treningu.</string>
     <string name="first_beat_remind_txt_01">To jest dobre tempo.</string>
     <string name="first_beat_remind_txt_02">To jest dobre tempo. Więcej minut, abyś był w dobrej kondycji.。</string>
-    <string name="sport_history_recovery_remind">Recovery exercises can be performed to ease the damage to the body before it is fully recovered</string>
-    <string name="daily_propermance_has_no_data">No data detected</string>
-    <string name="first_beat_help_title_vo2_max">Maximum oxygen uptake</string>
-    <string name="first_beat_help_title_train_efffect">Training effect TE</string>
-    <string name="first_beat_help_title_train_load">Training load</string>
-    <string name="first_beat_help_title_sport_target_or_real_time_guide">Recommended running target&amp; real-time instruction</string>
-    <string name="first_beat_help_title_daily_perpormence">Performance status</string>
+    <string name="sport_history_recovery_remind">Ćwiczenia mogą mieć na uszkodzenie organizmu jeżeli nie jest w pełni sprawny</string>
+    <string name="daily_propermance_has_no_data">Nie znaleziono danych</string>
+    <string name="first_beat_help_title_vo2_max">Maksymalny pobór tlenu</string>
+    <string name="first_beat_help_title_train_efffect">Efekt Treningu TE</string>
+    <string name="first_beat_help_title_train_load">Obciążenie treningowe</string>
+    <string name="first_beat_help_title_sport_target_or_real_time_guide">Zalecane instrukcje dostarczane&amp; w czasie rzeczywistym</string>
+    <string name="first_beat_help_title_daily_perpormence">Status wydajności</string>
     <string name="first_beat_help_title_recovery_time">Time for full recovery</string>
     <string name="first_beat_help_vo2_max">"&lt;font color=#00FF00&gt;What is this？&lt;/font&gt;&lt;br/&gt; VO2Max represents the maximum volume of oxygen the body can consume in one minute as measured in ml/kg/min. It evaluates the state of users ' cardiorespiratory fitness which is important for overall health, well-being and sports performace. &lt;br/&gt;The watch will automatically evaluate your VO2Max based on heartrate, speed etc. during a moderate intensity running workout and compare that to a reference group of same age and gender to determine your fitness level. &lt;br/&gt;&lt;font color=#00FF00&gt;How to evaluate？&lt;/font&gt;&lt;br/&gt; 1. Provide accurate profile information like age and gender in Amazfit Watch app during setup； &lt;br/&gt; 2. Take a brisk 15 minutes or more outdoor run with the watch on and make sure heartrate is at or above 75% of your maxHR for at least 10 minutes. &lt;br/&gt; 3. After completing the run, you can check current VO2Max in the sports activities app on the watch or personal status page in Amazift Watch app. &lt;br/&gt;&lt;small&gt;For more details, please see Help in Amazfit Watch app.&lt;/small&gt;"</string>
     <string name="first_beat_help_te">&lt;font color=#00FF00&gt;What is this？&lt;/font&gt;&lt;br/&gt; Training Effect (TE) measures the accumulated load during a workout and interprets its impact on your aerobic fitness. TE starts from level 0.0. As the workout progresses successfully, TE value increases (from 0 towards 5), telling you how the workout effects your fitness. &lt;br/&gt;&lt;font color=#00FF00&gt;How is it calculated? &lt;/font&gt;&lt;br/&gt; TE is calculated based on your user profile, heart beat data and difficulty of the workout.&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; The watch will show realtime TE measurement during a workout as well as final TE result at the end of the workout. A&amp;lt;2.0 TE simply indicates that the workout has little effect on cardiorespiratory fitness and is useful only for building an endurance base and recovery. &lt;br/&gt;&lt;small&gt;For more details, please see Help in Amazfit Watch app.&lt;/small&gt;</string>
@@ -987,7 +987,7 @@ Skopiuj do komputera za pomocą USB"</string>
     <string name="settings_item_value_swim_length_imperial">%1$s英尺</string>
     <string name="swim_swolf_unit_default">(按百米计算)</string>
     <string name="swim_swolf_unit_default_yd">(按百码计算)</string>
-    <string name="swim_pace_unit_imperial">/百英尺</string>
+    <string name="swim_pace_unit_imperial">/100 stóp</string>
     <string name="first_modify_tips">里程大于0.5公里的校准可让手表学习你的跑步习惯，让跑步里程越来越准。</string>
     <string name="modify_big_dis_tips">校准值%1$s与测量值%2$s相差较大，是否确认校准？</string>
     <string name="modify_big_dis_regain">修改</string>
