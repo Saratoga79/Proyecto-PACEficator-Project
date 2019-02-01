@@ -647,12 +647,13 @@
     <string name="setting_rope_skip_total_count">Całkowita ilość (skoków)</string>
     <string name="sport_pause_normal_rope_skip_unit">Ilość</string>
     <string name="sport_pause_last_min_times_reminder">Potrzeba więcej aktywności aby zapisać, zakończyć?</string>
-    <string name="rope_skip_this_frequency">Lap freq</string>
-    <string name="rope_skip_aleary_group"><Data>Completed groups: &lt;font color=#00ff00&gt;%1$s&lt;/font&gt;</Data></string>
-    <string name="sport_remind_total_times">Total jumps: %1$s</string>
-    <string name="sport_main_graph_title_rope_skip">Latest (s)</string>
-    <string name="sport_rope_skip_requency">Frequency (jumps/min)</string>
-    <string name="swim_total_trips_times">Total laps: %1$s</string>
+    <string name="rope_skip_this_frequency">Częst. grupy</string>
+    <string name="rope_skip_aleary_group"><Data>Całość grupy: &lt;font
+color=#00ff00&gt;%1$s&lt;/font&gt;</Data></string>
+    <string name="sport_remind_total_times">Łącznie skoków: %1$s</string>
+    <string name="sport_main_graph_title_rope_skip">Ostatnio (s)</string>
+    <string name="sport_rope_skip_requency">Częstotliwość (skoków/min)</string>
+    <string name="swim_total_trips_times">Całkowita ilość: %1$s</string>
     <string name="route_glevation_gain">Poziom max.</string>
     <string name="route_scale_enlarge">Powiększ</string>
     <string name="route_scale_narrow">Wąska</string>
@@ -669,7 +670,7 @@
     <string name="hard_cardio">Hard cardio</string>
     <string name="very_hard_cardio">Very hard cardio</string>
     <string name="running_cost_time_desc">Upływ.czas</string>
-    <string name="running_distance_desc">Distance</string>
+    <string name="running_distance_desc">Dystans</string>
     <string name="running_pace_desc">Tempo</string>
     <string name="running_avg_pace_desc">Śr.tempo</string>
     <string name="running_heartrate_desc">Tętno</string>
@@ -751,7 +752,7 @@
     <string name="sport_history_item_cost_time_desc">Czas</string>
     <string name="sport_history_total_distance_desc">Cał.dystans</string>
     <string name="sport_history_header_total_count_desc">Łączny czas</string>
-    <string name="sport_history_header_calorie_desc">Total burned</string>
+    <string name="sport_history_header_calorie_desc">Łącznie spalono</string>
     <string name="running_realtime_trail_desc">Trasa</string>
     <string name="title_activity_sport_history">SportHistAktywn.</string>
     <string name="history_heart_rate_desc">Tętno:</string>
@@ -984,9 +985,9 @@ Skopiuj do komputera za pomocą USB"</string>
     <string name="widget_currentstep_sleep_title">Sen ostat.nocy</string>
     <string name="widget_currentstep_sleep_no">Brak danych snu</string>
     <string name="widget_currentstep_activity_no">Brak ćw. dzisiaj?</string>
-    <string name="settings_item_value_swim_length_imperial">%1$s英尺</string>
-    <string name="swim_swolf_unit_default">(按百米计算)</string>
-    <string name="swim_swolf_unit_default_yd">(按百码计算)</string>
+    <string name="settings_item_value_swim_length_imperial">%1$sStóp</string>
+    <string name="swim_swolf_unit_default">(obliczane na 100 metrów)</string>
+    <string name="swim_swolf_unit_default_yd">(liczone na sto metrów)</string>
     <string name="swim_pace_unit_imperial">/100 stóp</string>
     <string name="first_modify_tips">Kalibracja z przebiegiem większym niż 0,5 km pozwala zegarkowi na poznanie Twoich nawyków i wygenerowanie dokładniejszych wyników</string>
     <string name="modify_big_dis_tips">Wartość z kalibracji%1$s różni się od wartości zmierzonej%2$s, czy potwierdzasz nową kalibrację?</string>
