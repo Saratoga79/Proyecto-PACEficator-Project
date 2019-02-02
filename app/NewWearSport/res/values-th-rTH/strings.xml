@@ -43,7 +43,7 @@
     <string name="crossing_settings_item_value_individual">%1s kms</string>
     <string name="crossing_remind_target_individual_title">Lap %1d</string>
     <string name="crossing_remind_target_individual_cost_time">Elapsed Time</string>
-    <string name="crossing_remind_target_individual_pace">Pace</string>
+    <string name="crossing_remind_target_individual_pace">อัตราการวิ่ง</string>
     <string name="agps_time_out">AGPS has expired. GPS searching will be slow. Please connect the Amazfit Watch App to update it。</string>
     <string name="safe_hearate_remind_content">When above %1d</string>
     <string name="settings_safe_heart_rate_hint">(safe heart rate)</string>
@@ -56,13 +56,13 @@
     <string name="achive_person_record">Personal Record</string>
     <string name="remind_target_calorie_title">Reached set calorie goal</string>
     <string name="remind_target_time_title">Reached set time goal</string>
-    <string name="remind_target_calorie_title_format">kCal</string>
-    <string name="remind_target_time_h_unit">h</string>
-    <string name="remind_target_time_m_unit">m</string>
+    <string name="remind_target_calorie_title_format">กิโลแคลอรี</string>
+    <string name="remind_target_time_h_unit">ชั่วโมง</string>
+    <string name="remind_target_time_m_unit">นาที</string>
     <string name="remind_target_time_default_value">00</string>
     <string name="no_altitude_hint">Altitude data not detected</string>
-    <string name="no_heartrate_data_hint">Heart rate data not detected</string>
-    <string name="no_chart_data_hint">Not Available</string>
+    <string name="no_heartrate_data_hint">ไม่พบข้อมูลอัตราการเต้นหัวใจ</string>
+    <string name="no_chart_data_hint">ไม่พร้อมใช้งาน</string>
     <string name="not_speed_data">Speed is n/a</string>
     <string name="not_pace_data">Pace is n/a</string>
     <string name="not_step_freq_data">Cadence is n/a</string>
