@@ -62,7 +62,7 @@
     <string name="device">อุปกรณ์</string>
     <string name="nodisturb">เงียบ</string>
     <string name="units_set">การตั้งค่าหน่วย</string>
-    <string name="auto_airplane">Auto Airplane</string>
+    <string name="auto_airplane">โหมดการบินอัตโนมัติ</string>
     <string name="wifi_upload">ข้อมูล</string>
     <string name="wifi_upload_title">การซิงโครไนซ์ข้อมูล</string>
     <string name="watchface">หน้าปัดนาฬิกา</string>
@@ -70,12 +70,12 @@
     <string name="auto_upload">การซิงค์อัตโนมัติ</string>
     <string name="app_item_phone_anti_lost">ป้องกันโทรศัพท์สูญหาย</string>
     <string name="app_item_anti_lost_remind">การแจ้งเตือนป้องกันการสูญหาย</string>
-    <string name="app_item_far_away_remind">Being far away from phone reminder</string>
+    <string name="app_item_far_away_remind">อยู่ไกลจากการแจ้งเตือนของโทรศัพท์</string>
     <string name="remind_aleary_open">The reminder has been enabled.</string>
     <string name="phone_far_away_remind_to_you">The watch will alert you when you are far away from your phone.</string>
     <string name="dialog_confire">ตกลง</string>
     <string name="auto_bg">Screen brightened timing for lifting the wrist</string>
-    <string name="auto_hint_title">Off screen time</string>
+    <string name="auto_hint_title">ปิดหน้าจอแสดงเวลา</string>
     <string name="long_key_action">Long press the key to open</string>
     <string name="voice">การปรับเสียง</string>
     <string name="recombind">Bind again</string>
@@ -311,8 +311,8 @@
     <string name="exit">ออก</string>
     <string name="pattern_set_title">ความปลอดภัย</string>
     <string name="watch_state">การตั้งค่าพักหน้าจอ</string>
-    <string name="unwear">Watch off the Wrist</string>
-    <string name="wear">Watch on the Wrist</string>
+    <string name="unwear">นาฬิกาถูกถอดออก</string>
+    <string name="wear">นาฬิกาถูกสวมใส่</string>
     <string name="lockpattern_need_confirm">กรุณาลองอีกครั้ง</string>
     <string name="lockpattern_pattern_short">Please connect at least 4 points</string>
     <string name="lockpattern_confirm_wrong">Pattern Inconformity</string>
@@ -332,7 +332,7 @@
     <string name="unit_english">Imperial</string>
     <string name="strong">แข็งแรง</string>
     <string name="mid">Mid</string>
-    <string name="weak">Weak</string>
+    <string name="weak">อ่อนแอ</string>
     <string name="slient">ปิด</string>
     <string name="volume_value">ปรับระดับเสียง</string>
     <string name="light_value">ความสว่าง</string>
