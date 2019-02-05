@@ -47,7 +47,7 @@
     <string name="preference_title">กำหนดลักษณะ</string>
     <string name="light_change">ปรับความสว่าง</string>
     <string name="wrist_up">เปิดใช้งานเมื่อยกข้อมือ</string>
-    <string name="auto_nodisturb">เงียย</string>
+    <string name="auto_nodisturb">เงียบ</string>
     <string name="double_click_wakeup">แตะสองครั้งเพื่อเปิดหน้าจอ</string>
     <string name="vibration_intensity">ความแรงของการสั่น</string>
     <string name="flight_mode">โหมดเครื่องบิน</string>
@@ -346,7 +346,7 @@
     <string name="watch_mode_positive">ยืนยันการเปิด</string>
     <string name="watch_mode_negative">ยกเลิก</string>
     <string name="replace_watchface">หน้าปัดนาฬิกา</string>
-    <string name="screen_refresh">Secondhand</string>
+    <string name="screen_refresh">มือสอง</string>
     <string name="screen_refresh_on_string">เปิด</string>
     <string name="screen_refresh_off_string">ปิด</string>
     <string name="setting_regulatory_europe">ยุโรป</string>
@@ -369,11 +369,11 @@
     <string name="upgrade_checking">ตรวจหาการอัพเดท...</string>
     <string name="left_hand">ซ้าย</string>
     <string name="right_hand">ขวา</string>
-    <string name="sport_remind_open_title">运动模式开启提醒</string>
-    <string name="sport_remind_end_title">运动模式结束提醒</string>
-    <string name="sport_remind_open_tips">开启后，将在检测到你跑步或健走时，提醒你快捷开启运动模式</string>
-    <string name="sport_remind_end_tips">开启后，将在检测到你运动完成后，提醒你结束并保存</string>
-    <string name="sport_remind_open">开启</string>
-    <string name="sport_remind_title">运动提醒</string>
-    <string name="device_name_huanghe">Amazfit智能运动手表</string>
+    <string name="sport_remind_open_title">การเตือนโหมดกีฬา</string>
+    <string name="sport_remind_end_title">การเตือนปิดโหมดกีฬา</string>
+    <string name="sport_remind_open_tips">เมื่อเปิดเครื่องมันจะเตือนให้คุณเปิดโหมด sport อย่างรวดเร็วเมื่อตรวจพบว่าคุณกำลังวิ่งหรือเดินอยู่</string>
+    <string name="sport_remind_end_tips">เมื่อเปิดใช้งานคุณจะได้รับการเตือนให้หยุดและบันทึกหลังจากตรวจพบว่าการออกกำลังกายของคุณเสร็จสมบูรณ์</string>
+    <string name="sport_remind_open">เปิด</string>
+    <string name="sport_remind_title">เตือนความจำกีฬา</string>
+    <string name="device_name_huanghe">นาฬิกาสปอร์ตอัจฉริยะ Amazfit</string>
 </resources>
