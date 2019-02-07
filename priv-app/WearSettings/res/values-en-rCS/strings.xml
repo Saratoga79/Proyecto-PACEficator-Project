@@ -74,7 +74,7 @@
     <string name="remind_aleary_open">Připomenutí bylo povoleno.</string>
     <string name="phone_far_away_remind_to_you">Hodinky vás upozorní, když budete daleko od telefonu.</string>
     <string name="dialog_confire">OK</string>
-    <string name="auto_bg">Rozsvícení obrazovky po otočení zápěstí</string>
+    <string name="auto_bg">Rozsvícení obrazovky po zvednutí zápěstí</string>
     <string name="auto_hint_title">Čas vypnutí obrazovky</string>
     <string name="long_key_action">Dlouhým stisknutím tlačítka otevřete</string>
     <string name="voice">Nastavení hlasitosti</string>
@@ -86,9 +86,9 @@
     <string name="lock_screen_auto">Vypnout časování režimu obrazovky</string>
     <string name="lock_screen_open">Vyp</string>
     <string name="lock_screen_close">Zap</string>
-    <string name="lock_screen_open_guide">The battery life will be reduced if you set the screen lock mode to low light.</string>
-    <string name="lock_auto_screen_wristup_guide">Once the off-screen time is set successfully, the watch screen will not light up even if it is lifted or locked.</string>
-    <string name="wrist_up_hand">Lift wrist and screen is on</string>
+    <string name="lock_screen_open_guide">Životnost baterie se sníží, pokud nastavíte režim zámku obrazovky na slabé světlo.</string>
+    <string name="lock_auto_screen_wristup_guide">Jakmile je čas vypnutí obrazovky nastaven úspěšně, obrazovka hodinek se nerozsvítí, ani když jsou hodinky zvednuté nebo uzamčené.</string>
+    <string name="wrist_up_hand">Zvedněte zápěstí pro zapnutí obrazovky</string>
     <string name="product_model_qogir_oversea">Amazfit Verge</string>
     <string name="device_name_qogir_oversea">Amazfit Verge</string>
     <string name="yongchiyou">Plavání v bazénu</string>
@@ -171,11 +171,11 @@
     <string name="nodisturb_close_string">Vyp</string>
     <string name="nodisturb_timepicker_connect_symbol">:</string>
     <string name="auto_nodisturb_title_string">Aut. nerušit</string>
-    <string name="auto_nodisturb_start_time_string">Turn-on time</string>
-    <string name="auto_screen_wristup_start_time_string">Start time</string>
-    <string name="auto_nodisturb_end_time_string">Turn-off time</string>
-    <string name="auto_screen_wristup_end_time_string">End time</string>
-    <string name="time_to">To</string>
+    <string name="auto_nodisturb_start_time_string">Čas zapnutí</string>
+    <string name="auto_screen_wristup_start_time_string">Čas začátku</string>
+    <string name="auto_nodisturb_end_time_string">Čas vypnutí</string>
+    <string name="auto_screen_wristup_end_time_string">Čas konce</string>
+    <string name="time_to">Do</string>
     <string name="auto_wifi_trans_on_string">Zap</string>
     <string name="auto_wifi_trans_off_string">Vyp</string>
     <string name="blue_tooth_dev_in_sub_list">Bluetooth</string>
@@ -248,7 +248,7 @@ a v dosahu"</string>
     <string name="zh_tw">繁體中文(台灣)</string>
     <string name="ru_ru">Русский</string>
     <string name="es_es">Español</string>
-    <string name="confirm_change_locale">"Change language to 
+    <string name="confirm_change_locale">"Změnit jazyk na 
 %1$s?"</string>
     <string name="gender">Pohlaví</string>
     <string name="birth_year">Rok narození</string>
@@ -257,11 +257,11 @@ a v dosahu"</string>
     <string name="male">Muž</string>
     <string name="female">Žena</string>
     <string name="centimeter">cm</string>
-    <string name="birth_year_unit">"Birth 
-Year"</string>
-    <string name="height_unit">"Height 
+    <string name="birth_year_unit">"Rok 
+narození"</string>
+    <string name="height_unit">"Výška 
 cm"</string>
-    <string name="weight_unit">"Weight 
+    <string name="weight_unit">"Váha 
 kg"</string>
     <string name="reset_factory_hint">Are you sure of restoring to factory settings?</string>
     <string name="reset_factory_yes">Restore to factory settings</string>
