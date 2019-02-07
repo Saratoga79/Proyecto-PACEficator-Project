@@ -649,10 +649,10 @@
     <string name="sport_pause_last_min_times_reminder">Need more activities to save data, end anyway?</string>
     <string name="rope_skip_this_frequency">Lap freq</string>
     <string name="rope_skip_aleary_group"><Data>Completed groups: &lt;font color=#00ff00&gt;%1$s&lt;/font&gt;</Data></string>
-    <string name="sport_remind_total_times">Total jumps: %1$s</string>
-    <string name="sport_main_graph_title_rope_skip">Latest (s)</string>
-    <string name="sport_rope_skip_requency">Frequency (jumps/min)</string>
-    <string name="swim_total_trips_times">Total laps: %1$s</string>
+    <string name="sport_remind_total_times">Celkem skoků: %1$s</string>
+    <string name="sport_main_graph_title_rope_skip">Poslední (s)</string>
+    <string name="sport_rope_skip_requency">Frekvence (skoky/min)</string>
+    <string name="swim_total_trips_times">Celkem kol: %1$s</string>
     <string name="route_glevation_gain">Nastoupáno</string>
     <string name="route_scale_enlarge">Zvětšit</string>
     <string name="route_scale_narrow">Zmenšit</string>
@@ -669,7 +669,7 @@
     <string name="hard_cardio">Náročné kardio</string>
     <string name="very_hard_cardio">Velmi náročné kardio</string>
     <string name="running_cost_time_desc">Čas</string>
-    <string name="running_distance_desc">Distance</string>
+    <string name="running_distance_desc">Vzdálenost</string>
     <string name="running_pace_desc">Tempo</string>
     <string name="running_avg_pace_desc">Prm. tempo</string>
     <string name="running_heartrate_desc">TF</string>
@@ -751,7 +751,7 @@
     <string name="sport_history_item_cost_time_desc">Čas</string>
     <string name="sport_history_total_distance_desc">Celková vzdálenost</string>
     <string name="sport_history_header_total_count_desc">Celkový počet</string>
-    <string name="sport_history_header_calorie_desc">Total burned</string>
+    <string name="sport_history_header_calorie_desc">Celkem spáleno</string>
     <string name="running_realtime_trail_desc">Trasa GPS</string>
     <string name="title_activity_sport_history">Historie sportovních aktivit</string>
     <string name="history_heart_rate_desc">Tepová frekvence:</string>
@@ -985,19 +985,19 @@
     <string name="widget_currentstep_sleep_title">Spánek</string>
     <string name="widget_currentstep_sleep_no">Žádná spánková data</string>
     <string name="widget_currentstep_activity_no">Dnes žádná aktivita?</string>
-    <string name="settings_item_value_swim_length_imperial">%1$s英尺</string>
-    <string name="swim_swolf_unit_default">(按百米计算)</string>
-    <string name="swim_swolf_unit_default_yd">(按百码计算)</string>
-    <string name="swim_pace_unit_imperial">/百英尺</string>
+    <string name="settings_item_value_swim_length_imperial">%1$s stop</string>
+    <string name="swim_swolf_unit_default">(/100 m)</string>
+    <string name="swim_swolf_unit_default_yd">(/100 yardů)</string>
+    <string name="swim_pace_unit_imperial">/100 stop</string>
     <string name="first_modify_tips">里程大于0.5公里的校准可让手表学习你的跑步习惯，让跑步里程越来越准。</string>
     <string name="modify_big_dis_tips">校准值%1$s与测量值%2$s相差较大，是否确认校准？</string>
-    <string name="modify_big_dis_regain">修改</string>
-    <string name="modify_big_dis_confirm">确认校准</string>
-    <string name="re_modify_dis">重新校准</string>
+    <string name="modify_big_dis_regain">Modifikovat</string>
+    <string name="modify_big_dis_confirm">Potvrdit kalibraci</string>
+    <string name="re_modify_dis">Rekalibrace</string>
     <string name="re_modify_dis_tips">"1.里程大于0.5公里的校准可让手表学习你的跑步习惯，让跑步里程越来越准。
 2.如果你已进行过多次校准，但仍对里程结果不满意，可进行重新校准。
 3.重新校准将删除此前所有校准记录。"</string>
-    <string name="give_up_re_modify_dis">放弃</string>
-    <string name="confirm_re_modify_dis">确认</string>
-    <string name="re_modify_dis_successful">重新校准成功</string>
+    <string name="give_up_re_modify_dis">Zavřít</string>
+    <string name="confirm_re_modify_dis">Potvrdit</string>
+    <string name="re_modify_dis_successful">Rekalibrace byla úspěšná</string>
 </resources>
