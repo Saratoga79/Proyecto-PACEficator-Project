@@ -265,30 +265,30 @@ cm"</string>
 kg"</string>
     <string name="reset_factory_hint">Opravdu chcete obnovit tovární nastavení?</string>
     <string name="reset_factory_yes">Obnovit tovární nastavení</string>
-    <string name="reset_factory_no">Cancel</string>
-    <string name="reset_factory_title">Restore to factory settings</string>
+    <string name="reset_factory_no">Zrušit</string>
+    <string name="reset_factory_title">Obnovit tovární nastavení</string>
     <string name="reset_factory_noconnect_msg">"If you want to unbind from the watch, please do so in the Amazfit watch App. 
  The UnionPay cards and the transportation cards will be removed from the watch once it is unilaterally restored to factory settings. 
  - Removed UnionPay cards: They cannot be bound to the watch anymore. If you want to bind again, please consult your bank customer service. 
  - Removed traffic cards: They will be permanently closed and no longer payable."</string>
     <string name="reset_factory_conncet_msg">Your watch and the Amazfit watch App will remove the bound UnionPay card. The watch will still retain the payment function of your transportation card.</string>
-    <string name="reset_factory_positive">Restore to factory settings</string>
-    <string name="reset_factory_negative">Cancel</string>
-    <string name="reset_factory_fail_title">Failed to restore to factory settings</string>
-    <string name="reset_factory_fail_msg">Failed to remove the UnionPay card. Please try again.</string>
+    <string name="reset_factory_positive">Obnovit tovární nastavení</string>
+    <string name="reset_factory_negative">Zrušit</string>
+    <string name="reset_factory_fail_title">Obnova do továrního nastavení se nezdařila</string>
+    <string name="reset_factory_fail_msg">Nepodařilo se odstranit kartu UnionPay. Prosím, zkuste to znovu.</string>
     <string name="reset_factory_fail_positive">OK</string>
-    <string name="reset_factory_doing1">Restoring to factory settings</string>
-    <string name="reset_factory_doing2">Removing the UnionPay card</string>
-    <string name="lockpassword_confirm_your_pattern_header">Confirm Your Pattern</string>
-    <string name="lockpattern_need_to_unlock">Draw Unlocking Pattern</string>
+    <string name="reset_factory_doing1">Obnovení továrního nastavení</string>
+    <string name="reset_factory_doing2">Odstranění karty UnionPay</string>
+    <string name="lockpassword_confirm_your_pattern_header">Potvrďte své gesto</string>
+    <string name="lockpattern_need_to_unlock">Nakreslete odemykací gesto</string>
     <string name="lockpattern_need_to_unlock_footer"></string>
     <string name="lockpattern_need_to_unlock_wrong"></string>
     <string name="lockpattern_need_to_unlock_wrong_footer"></string>
-    <string name="lockpattern_too_many_failed_confirmation_attempts_header">Too Many Errors！</string>
-    <string name="lockpattern_too_many_failed_confirmation_attempts_footer">%d Retry after Several Seconds</string>
-    <string name="lockpattern_tutorial_cancel_label">Cancel</string>
-    <string name="lockpattern_tutorial_continue_label">Next</string>
-    <string name="lockpassword_choose_your_pattern_header">Select Your Pattern</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_header">Příliš mnoho chyb!</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_footer">%d opakovat po několika sekundách</string>
+    <string name="lockpattern_tutorial_cancel_label">Zrušit</string>
+    <string name="lockpattern_tutorial_continue_label">Další</string>
+    <string name="lockpassword_choose_your_pattern_header">Vyberte vaše gesto</string>
     <string name="lockpattern_recording_inprogress"></string>
     <string name="cancel">Cancel</string>
     <string name="lockpattern_retry_button_text">Retry</string>
@@ -339,11 +339,11 @@ kg"</string>
     <string name="light_value">Brightness</string>
     <string name="light_auto_set">Auto</string>
     <string name="light_auto_guide_title">Automatická úprava</string>
-    <string name="light_auto_guide_content">After Auto adjustment is on, move slider to fine tune the brightness coefficient, then the screen brightness will still change with the ambient brightness.</string>
+    <string name="light_auto_guide_content">Po zapnutí automatické úpravy jasu posuňte jezdec do jemného vyladění koeficientu jasu a jas se bude stále měnit s jasem okolí.</string>
     <string name="light_auto_guide_ok">Vím to</string>
     <string name="watch_mode_title">Zapnout režim hodinek</string>
-    <string name="watch_mode_message">"When turned on, the watch will only support time display, step counting and transportation card payment. 
- (When you turn it on, press and hold the physical key to exit this mode)"</string>
+    <string name="watch_mode_message">"Když je zapnuto, hodinky budou podporovat pouze zobrazení času, počítání kroků a platby kartou. 
+ (Když jej zapnete, stisknutím a podržením fyzického tlačítka ukončíte tento režim)"</string>
     <string name="watch_mode_positive">Potvrdit zapnutí</string>
     <string name="watch_mode_negative">Zrušit</string>
     <string name="replace_watchface">Ciferník</string>
