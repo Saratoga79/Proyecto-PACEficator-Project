@@ -263,8 +263,8 @@ narození"</string>
 cm"</string>
     <string name="weight_unit">"Váha 
 kg"</string>
-    <string name="reset_factory_hint">Are you sure of restoring to factory settings?</string>
-    <string name="reset_factory_yes">Restore to factory settings</string>
+    <string name="reset_factory_hint">Opravdu chcete obnovit tovární nastavení?</string>
+    <string name="reset_factory_yes">Obnovit tovární nastavení</string>
     <string name="reset_factory_no">Cancel</string>
     <string name="reset_factory_title">Restore to factory settings</string>
     <string name="reset_factory_noconnect_msg">"If you want to unbind from the watch, please do so in the Amazfit watch App. 
@@ -338,23 +338,23 @@ kg"</string>
     <string name="volume_value">Volume adjustment</string>
     <string name="light_value">Brightness</string>
     <string name="light_auto_set">Auto</string>
-    <string name="light_auto_guide_title">Auto adjustment</string>
+    <string name="light_auto_guide_title">Automatická úprava</string>
     <string name="light_auto_guide_content">After Auto adjustment is on, move slider to fine tune the brightness coefficient, then the screen brightness will still change with the ambient brightness.</string>
-    <string name="light_auto_guide_ok">I know it</string>
-    <string name="watch_mode_title">Turn on watch mode</string>
+    <string name="light_auto_guide_ok">Vím to</string>
+    <string name="watch_mode_title">Zapnout režim hodinek</string>
     <string name="watch_mode_message">"When turned on, the watch will only support time display, step counting and transportation card payment. 
  (When you turn it on, press and hold the physical key to exit this mode)"</string>
-    <string name="watch_mode_positive">Confirm turned on</string>
-    <string name="watch_mode_negative">Cancel</string>
+    <string name="watch_mode_positive">Potvrdit zapnutí</string>
+    <string name="watch_mode_negative">Zrušit</string>
     <string name="replace_watchface">Ciferník</string>
     <string name="screen_refresh">Vteřinová ručička</string>
     <string name="screen_refresh_on_string">Zap</string>
     <string name="screen_refresh_off_string">Vyp</string>
-    <string name="setting_regulatory_europe">Europe</string>
-    <string name="setting_regulatory_us">U.S.</string>
-    <string name="setting_regulatory_canda">Canada</string>
-    <string name="setting_regulatory_russia">Russia</string>
-    <string name="setting_regulatory_japan">Japan</string>
+    <string name="setting_regulatory_europe">Evropa</string>
+    <string name="setting_regulatory_us">USA</string>
+    <string name="setting_regulatory_canda">Kanada</string>
+    <string name="setting_regulatory_russia">Rusko</string>
+    <string name="setting_regulatory_japan">Japonsko</string>
     <string name="setting_regulation_desc_us">FCC ID:2AC8UA1811</string>
     <string name="setting_regulation_desc_canda">"IC:21806-A1811 
  ICAN ICE-3(B)/NMB-3(B)"</string>
@@ -365,16 +365,16 @@ kg"</string>
     <string name="title_activity_long_sitting_time">LongSittingTimeActivity</string>
     <string name="lab_desc">Sbírat části nástrojů pro ladění</string>
     <string name="unknown">Neznámé zařízení</string>
-    <string name="bind_tips_title">"Please bind 
- to protect your data more securely"</string>
+    <string name="bind_tips_title">"Spárujte prosím, 
+ aby byla vaše data bezpečnější"</string>
     <string name="upgrade_checking">Vyhledávám aktualizace...</string>
     <string name="left_hand">Levá ruka</string>
     <string name="right_hand">Pravá ruka</string>
-    <string name="sport_remind_open_title">运动模式开启提醒</string>
-    <string name="sport_remind_end_title">运动模式结束提醒</string>
-    <string name="sport_remind_open_tips">开启后，将在检测到你跑步或健走时，提醒你快捷开启运动模式</string>
-    <string name="sport_remind_end_tips">开启后，将在检测到你运动完成后，提醒你结束并保存</string>
-    <string name="sport_remind_open">开启</string>
-    <string name="sport_remind_title">运动提醒</string>
-    <string name="device_name_huanghe">Amazfit智能运动手表</string>
+    <string name="sport_remind_open_title">Povolit start detekce pohybu</string>
+    <string name="sport_remind_end_title">Povolit ukončení detekce pohybu</string>
+    <string name="sport_remind_open_tips">Bude vám připomenuto, abyste rychle zapnuli sportovní režim, když hodinky zjistí, že běžíte nebo jdete pěšky.</string>
+    <string name="sport_remind_end_tips">Bude vám připomenuto, ukončení a uložení po zjištění, že vaše činnost je dokončena.</string>
+    <string name="sport_remind_open">Start</string>
+    <string name="sport_remind_title">Detekce pohybu</string>
+    <string name="device_name_huanghe">Amazfit Sportwatch</string>
 </resources>
