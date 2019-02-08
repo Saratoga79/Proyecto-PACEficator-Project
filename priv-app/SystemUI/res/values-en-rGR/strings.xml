@@ -279,8 +279,8 @@
     <string name="description_direction_up">Κύλιση προς τα επάνω για %s.</string>
     <string name="description_direction_left">Κύλιση προς τα αριστερά για %s.</string>
     <string name="zen_no_interruptions_with_warning">Δεν υπάρχουν διακοπές. Ούτε καν ειδοποιήσεις.</string>
-    <string name="zen_no_interruptions">No interruptions</string>
-    <string name="zen_important_interruptions">Priority interruptions only</string>
+    <string name="zen_no_interruptions">Αναδυόμενες ειδοποιήσεις ανενεργές</string>
+    <string name="zen_important_interruptions">Ειδοποιήσεις προτεραιότητας μόνο</string>
     <string name="zen_alarm_information_time">Your next alarm is at %s</string>
     <string name="zen_alarm_information_day_time">Your next alarm is %s</string>
     <string name="zen_alarm_warning">"You won't hear your alarm at %s"</string>
@@ -545,10 +545,10 @@ For more information, contact your administrator."</string>
     <string name="kg_failed_attempts_almost_at_login" formatted="false">"Σχεδιάσατε το μοτίβο ξεκλειδώματος εσφαλμένα %d φορές. Μετά από %d ανεπιτυχείς προσπάθειες ακόμη, θα σας ζητηθεί να ξεκλειδώσετε το τηλέφωνό σας με τη χρήση ενός λογαριασμού ηλεκτρονικού ταχυδρομείου.
 
  Δοκιμάστε ξανά σε %d δευτερόλεπτα."</string>
-    <string name="kg_reordering_delete_drop_target_text">Remove</string>
-    <string name="kg_password_wrong_pin_code_pukked">Incorrect SIM PIN code you must now contact your carrier to unlock your device.</string>
-    <string name="kg_password_wrong_puk_code_dead">SIM is unusable. Contact your carrier.</string>
-    <string name="kg_password_pin_failed">SIM PIN operation failed!</string>
+    <string name="kg_reordering_delete_drop_target_text">Αφαίρεση</string>
+    <string name="kg_password_wrong_pin_code_pukked">Λανθασμένος κωδικός PIN κάρτας SIM. Θα πρέπει να επικοινωνήσετε με τον πάροχο κινητής τηλεφωνίας σας για να ξεκλειδώσετε τη συσκευή σας.</string>
+    <string name="kg_password_wrong_puk_code_dead">Η κάρτα SIM δεν μπορεί να χρησιμοποιηθεί. Επικοινωνήστε με τον πάροχο σας.</string>
+    <string name="kg_password_pin_failed">Η Λειτουργία PIN απέτυχε!</string>
     <string name="kg_password_puk_failed">SIM PUK operation failed!</string>
     <string name="kg_pin_accepted">Code Accepted!</string>
     <string name="keyguard_transport_prev_description">Previous track button</string>
