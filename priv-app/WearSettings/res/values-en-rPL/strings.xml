@@ -272,11 +272,11 @@ kg"</string>
  The UnionPay cards and the transportation cards will be removed from the watch once it is unilaterally restored to factory settings. 
  - Removed UnionPay cards: They cannot be bound to the watch anymore. If you want to bind again, please consult your bank customer service. 
  - Removed traffic cards: They will be permanently closed and no longer payable."</string>
-    <string name="reset_factory_conncet_msg">Your watch and the Amazfit watch App will remove the bound UnionPay card. The watch will still retain the payment function of your transportation card.</string>
+    <string name="reset_factory_conncet_msg">Zegarek i Amazfit zegarek aplikacji usuną powiązaną kartę UnionPay. Zegarek nadal zachowa funkcje płatnicze wybranej karty.</string>
     <string name="reset_factory_positive">Reset do ustawień fabrycznych</string>
     <string name="reset_factory_negative">Anuluj</string>
     <string name="reset_factory_fail_title">Nie można przywrócić do ustawień fabrycznych</string>
-    <string name="reset_factory_fail_msg">Failed to remove the UnionPay card. Please try again.</string>
+    <string name="reset_factory_fail_msg">Usuwanie UnionPay card nieudane. Spróbuj ponownie.</string>
     <string name="reset_factory_fail_positive">OK</string>
     <string name="reset_factory_doing1">Reset do ustawień fabrycznych</string>
     <string name="reset_factory_doing2">Usunięcie karty UnionPay</string>
@@ -308,7 +308,7 @@ kg"</string>
     <string name="lockpattern_exist">Włącz</string>
     <string name="lockpattern_exist_no">Wyłącz</string>
     <string name="unlock_disable_lock_pattern_summary">Usuń wzór odblokowania</string>
-    <string name="unlock_disable_frp_warning_content">The Device Protection Function Will No Longer Function.</string>
+    <string name="unlock_disable_frp_warning_content">Funkcja Ochrony Urządzenia Przestaną Działać.</string>
     <string name="okay">Zatwierdż</string>
     <string name="exit">Wyjdź</string>
     <string name="pattern_set_title">Ochrona</string>
@@ -340,7 +340,7 @@ kg"</string>
     <string name="light_value">Jasność</string>
     <string name="light_auto_set">Auto</string>
     <string name="light_auto_guide_title">Automatyczna regulacja</string>
-    <string name="light_auto_guide_content">After Auto adjustment is on, move slider to fine tune the brightness coefficient, then the screen brightness will still change with the ambient brightness.</string>
+    <string name="light_auto_guide_content">Po włączeniu automatycznej regulacji, przesuń suwak, aby dostosować współczynnik jasności, a jasność ekranu będzie nadal pobierać dane z otoczenia.</string>
     <string name="light_auto_guide_ok">Wiem, to</string>
     <string name="watch_mode_title">Włącz tryb zegarka</string>
     <string name="watch_mode_message">"Gdy włączono, zegarek wyświetli tylko czas, licznik kroków i włączy płatności kartą. 
