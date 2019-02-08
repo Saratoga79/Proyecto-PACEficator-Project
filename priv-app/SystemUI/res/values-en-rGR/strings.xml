@@ -517,34 +517,34 @@ For more information, contact your administrator."</string>
     <string name="kg_invalid_sim_pin_hint">Πληκτρολογήστε έναν αριθμό PIN που να αποτελείται από 4 έως 8 αριθμούς.</string>
     <string name="kg_invalid_sim_puk_hint">Κωδικός PUK πρέπει να είναι 8 αριθμούς ή και περισσότερους.</string>
     <string name="kg_invalid_puk">Εισαγάγετε ξανά τον κωδικό PUK. Οι επαναλαμβανόμενες προσπάθειες θα απενεργοποιήσουν οριστικά την κάρτα SIM.</string>
-    <string name="kg_invalid_confirm_pin_hint">PIN codes does not match</string>
-    <string name="kg_login_too_many_attempts">Too many pattern attempts</string>
-    <string name="kg_login_instructions">To unlock, sign in with your Google account.</string>
-    <string name="kg_login_username_hint">Username (email)</string>
-    <string name="kg_login_password_hint">Password</string>
-    <string name="kg_login_submit_button">Sign in</string>
-    <string name="kg_login_invalid_input">Invalid username or password.</string>
-    <string name="kg_login_account_recovery_hint">\"Forgot your username or password?
-Visit \"<b>google.com/accounts/recovery</b>.</string>
-    <string name="kg_login_checking_password">Checking account…</string>
-    <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"You have incorrectly typed your PIN %d times. 
+    <string name="kg_invalid_confirm_pin_hint">Οι κωδικοί πρόσβασης δεν ταιριάζουν</string>
+    <string name="kg_login_too_many_attempts">Πάρα πολλές προσπάθειες μοτίβου</string>
+    <string name="kg_login_instructions">Για ξεκλείδωμα, συνδεθείτε με τον λογαριασμό σας Google.</string>
+    <string name="kg_login_username_hint">Όνομα χρήστη (email)</string>
+    <string name="kg_login_password_hint">Κωδικός πρόσβασης</string>
+    <string name="kg_login_submit_button">Σύνδεση</string>
+    <string name="kg_login_invalid_input">Μη έγκυρο όνομα χρήστη ή κωδικός πρόσβασης.</string>
+    <string name="kg_login_account_recovery_hint">\"Ξεχάσατε το όνομα χρήστη ή τον κωδικό πρόσβασις σας;
+Επισκεφτείτε τη διεύθυνση \"<b>google.com/accounts/recovery</b>.</string>
+    <string name="kg_login_checking_password">Έλεγχος λογαριασμού…</string>
+    <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"Έχετε πληκτρολογήσει εσφαλμένα το σας PIN %d φορές. 
 
-Try again in %d seconds."</string>
-    <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"You have incorrectly typed your password %d times. 
+Δοκιμάστε ξανά σε %d δευτερόλεπτα."</string>
+    <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Έχετε πληκτρολογήσει εσφαλμένα το σας Pin %d φορές. 
 
-Try again in %d seconds."</string>
-    <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"You have incorrectly drawn your unlock pattern %d times. 
+Δοκιμάστε ξανά σε %d δευτερόλεπτα."</string>
+    <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Σχεδιάσατε εσφαλμένα το μοτίβο ξεκλειδώματος%d φορές. 
 
-Try again in %d seconds."</string>
-    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">You have incorrectly attempted to unlock the tablet %d times. After %d more unsuccessful attempts, this tablet will be reset, which will delete all its data.</string>
-    <string name="kg_failed_attempts_now_wiping">You have incorrectly attempted to unlock the tablet %d times. This tablet will be reset, which will delete all its data.</string>
-    <string name="kg_failed_attempts_almost_at_erase_user" formatted="false">You have incorrectly attempted to unlock the tablet %d times. After %d more unsuccessful attempts, this user will be removed, which will delete all user data.</string>
-    <string name="kg_failed_attempts_now_erasing_user">You have incorrectly attempted to unlock the tablet %d times. This user will be removed, which will delete all user data.</string>
-    <string name="kg_failed_attempts_almost_at_erase_profile" formatted="false">You have incorrectly attempted to unlock the tablet %d times. After %d more unsuccessful attempts, the work profile will be removed, which will delete all profile data.</string>
+Προσπαθήστε ξανά σε %d δευτερόλεπτα."</string>
+    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Προσπαθήσατε να ξεκλειδώσετε εσφαλμένα το τηλέφωνο %d φορές. Μετά από %d προσπάθειες, το τηλέφωνο θα επανέρθει στις εργοστασιακές ρυθμίσεις και όλα τα δεδομένα χρήστη θα χαθούν.</string>
+    <string name="kg_failed_attempts_now_wiping">Έχετε επιχειρήσει εσφαλμένα να ξεκλειδώσετε το tablet %d φορές. Αυτό το tablet θα κάνει επαναφορά, το οποίο θα διαγράψει όλα τα δεδομένα του.</string>
+    <string name="kg_failed_attempts_almost_at_erase_user" formatted="false">Προσπαθήσατε να ξεκλειδώσετε εσφαλμένα το τηλέφωνο %d φορές. Μετά από %d προσπάθειες, το τηλέφωνο θα επανέρθει στις εργοστασιακές ρυθμίσεις και όλα τα δεδομένα χρήστη θα χαθούν.</string>
+    <string name="kg_failed_attempts_now_erasing_user">Έχετε επιχειρήσει εσφαλμένα να ξεκλειδώσετε το tablet %d φορές. Αυτός ο χρήστης θα καταργηθεί και θα διαγραφούν όλα του τα δεδομένα.</string>
+    <string name="kg_failed_attempts_almost_at_erase_profile" formatted="false">Έχετε επιχειρήσει εσφαλμένα να ξεκλειδώσετε το tablet %d φορές. Μετά από %d περισσότερες αποτυχημένες προσπάθειες, θα καταργηθεί το προφίλ εργασίας, το οποίο θα διαγράψει όλα τα δεδομένα προφίλ.</string>
     <string name="kg_failed_attempts_now_erasing_profile">You have incorrectly attempted to unlock the tablet %d times. The work profile will be removed, which will delete all profile data.</string>
-    <string name="kg_failed_attempts_almost_at_login" formatted="false">"You have incorrectly drawn your unlock pattern %d times. After %d more unsuccessful attempts, you will be asked to unlock your tablet using an email account.
+    <string name="kg_failed_attempts_almost_at_login" formatted="false">"Σχεδιάσατε το μοτίβο ξεκλειδώματος εσφαλμένα %d φορές. Μετά από %d ανεπιτυχείς προσπάθειες ακόμη, θα σας ζητηθεί να ξεκλειδώσετε το τηλέφωνό σας με τη χρήση ενός λογαριασμού ηλεκτρονικού ταχυδρομείου.
 
- Try again in %d seconds."</string>
+ Δοκιμάστε ξανά σε %d δευτερόλεπτα."</string>
     <string name="kg_reordering_delete_drop_target_text">Remove</string>
     <string name="kg_password_wrong_pin_code_pukked">Incorrect SIM PIN code you must now contact your carrier to unlock your device.</string>
     <string name="kg_password_wrong_puk_code_dead">SIM is unusable. Contact your carrier.</string>
