@@ -4,7 +4,7 @@
     <string name="config_statusBarComponent">com.android.systemui.statusbar.phone.PhoneStatusBar</string>
     <string name="quick_settings_tiles_default">wifi,bt,inversion,cell,airplane,rotation,flashlight,location,cast,hotspot</string>
     <string name="quick_settings_tiles">προεπιλογή</string>
-    <string name="velocity_tracker_impl">platform</string>
+    <string name="velocity_tracker_impl">πλατφόρμα</string>
     <string name="doze_pulse_schedule">1s,10s,30s,60s</string>
     <string name="system_ui_date_pattern">\@android:string/system_ui_date_pattern</string>
     <string name="lland">L Land</string>
@@ -97,9 +97,9 @@
     <string name="accessibility_data_three_bars">Τρεις γραμμές δεδομένων.</string>
     <string name="accessibility_data_signal_full">Πλήρες σήμα δεδομένων.</string>
     <string name="accessibility_wifi_off">Wi-Fi ανενεργό.</string>
-    <string name="accessibility_no_wifi">Wifi disconnected.</string>
-    <string name="accessibility_wifi_one_bar">Wifi one bar.</string>
-    <string name="accessibility_wifi_two_bars">Wifi two bars.</string>
+    <string name="accessibility_no_wifi">Το Wi-Fi έχει αποσυνδεθεί.</string>
+    <string name="accessibility_wifi_one_bar">Μία γραμμή Wi-Fi.</string>
+    <string name="accessibility_wifi_two_bars">Δύο γραμμές Wi-Fi.</string>
     <string name="accessibility_wifi_three_bars">Wifi three bars.</string>
     <string name="accessibility_wifi_signal_full">Wifi signal full.</string>
     <string name="accessibility_wifi_name">Connected to %s.</string>
