@@ -46,24 +46,24 @@
     <string name="s_set_top_contact">Wybierz ulubione kontakty</string>
     <string name="s_cancel_top_contact">Usuń z kontaktów</string>
     <string name="s_no_contact_data_android">Brak kontaktów</string>
-    <string name="s_no_contact_data_ios_tip">Please enable the Contacts access authorization in the phone [System Settings] &gt; [Amazfit Watch]</string>
+    <string name="s_no_contact_data_ios_tip">Proszę autoryzować dostępu do kontaktów w telefonie [Ustawienia systemu] &gt; [Amazfit zegarek]</string>
     <string name="s_no_top_contact_data">Nie dodano jeszcze</string>
     <string name="s_no_recent_call_data">Brak historii połączeń z zegarka do wysłania</string>
     <string name="s_pair_tip_title">Proszę najpierw sparuj telefon</string>
     <string name="s_pair_tip_subtitle">Jak sparować?</string>
-    <string name="s_pair_tip_content">Please pair the Bluetooth phone function in the [Watch Device Page] &gt; [Application Settings] &gt; [Phone] of the Amazfit Watch App.</string>
+    <string name="s_pair_tip_content">Proszę sparuj przez Bluetooth w [Oglądaj strony urządzenia] &gt; [Ustawienia aplikacji] &gt; [Phone] aplikacji Watch Amazfit.</string>
     <string name="s_dial_not_available_title">Nie można nawiązać połączenia</string>
-    <string name="s_dail_not_avaliable_content">"Please check the following questions and try again：
- 1、Whether the mobile phone Bluetooth is turned on. If it is not turned on, please turn on the phone Bluetooth first.
- 2、Whether the mobile phone is connected to other Bluetooth headsets, car speakers and other devices. If other devices are connected, turn off the device.
- 3、The watch needs to be near the phone."</string>
+    <string name="s_dail_not_avaliable_content">"Proszę sprawdzić następujące odpowiedzi i spróbuj ponownie：
+ 1、Czy Bluetooth na telefonie jest włączony. Jeśli nie jest włączony, włącz najpierw Bluetooth. 
+ 2、Czy telefon jest podłączony do innych urządzeń Bluetooth jak np zestaw słuchawkowy, zestawu samochodowego bądź innych urządzeń. Jeśli są podłączone, należy wyłączyć urządzenie.
+ 3、The zegarek musi znajdować się w pobliżu telefonu."</string>
     <string name="s_dail_not_available_air_plane">Nie można użyć Bluetooth na telefonie, wyłącz tryb samolotowy</string>
     <string name="s_got_it">Wiem</string>
     <string name="s_phone_call">Telefon</string>
     <string name="s_max_volume_toast">Max. dźwięk jest ustawiony</string>
     <string name="s_ring_title">Dzwonek</string>
     <string name="s_contact_syncing">Synchronizacja kontaktów...</string>
-    <string name="s_clear_call_log_content">Will clear the call history of the watch, whether to continue?</string>
+    <string name="s_clear_call_log_content">Wyczyszczenie historii połączeń zegarka, czy kontynuować?</string>
     <string name="s_clear_call_log_confirm">Pusty</string>
     <string name="s_clear_call_log_cancel">Nie</string>
     <string name="s_deleting">Usuwanie...</string>
@@ -73,18 +73,18 @@
     <string name="s_call_miss">Połączenia nieodebrane</string>
     <string name="s_call_in_warn_shake">Alarm połącz</string>
     <string name="s_call_in_warn_ring">Dzwonek przypomnienie o połączeniach</string>
-    <string name="s_bt_call_func">Bluetooth phone function</string>
-    <string name="s_call_in_ring">Ring</string>
-    <string name="s_clear_call_record">Clear call history</string>
-    <string name="already_open">On</string>
-    <string name="already_close">Off</string>
-    <string name="nokia_tune">Classic ring %1$d</string>
-    <string name="electronic_ring_sound">Electronic ring %1$d</string>
-    <string name="phonetic_sound">Electronic Music ring %1$d</string>
-    <string name="time_hour">Hour</string>
+    <string name="s_bt_call_func">Funkcja Bluetooth na tel.</string>
+    <string name="s_call_in_ring">Dzwonek</string>
+    <string name="s_clear_call_record">Wyczyść historię połączeń</string>
+    <string name="already_open">Wł.</string>
+    <string name="already_close">Wył.</string>
+    <string name="nokia_tune">Klasyczny dzwonek %1$d</string>
+    <string name="electronic_ring_sound">Elektroniczny  dzw. %1$d</string>
+    <string name="phonetic_sound">Elektroniczny muz. dzw. %1$d</string>
+    <string name="time_hour">Godzina</string>
     <string name="time_min">Min</string>
-    <string name="time_sec">Sec</string>
-    <string name="no_ble_toast">Turn on Bluetooth phone function</string>
+    <string name="time_sec">S.</string>
+    <string name="no_ble_toast">Włącz Bluetooth na tel.</string>
     <string name="average_text">Śr.</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Zatwierdż</string>
