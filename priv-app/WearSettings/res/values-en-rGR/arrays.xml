@@ -77,14 +77,14 @@
         <item>Αυστραλία/Μπρίσμπεϊν</item>
         <item>Ασία/Βλαδιβοστόκ</item>
         <item>Ειρηνικός/Γκουάμ</item>
-        <item>Asia/Magadan</item>
-        <item>Australia/Adelaide</item>
-        <item>Australia/Hobart</item>
-        <item>Australia/Sydney</item>
-        <item>Pacific/Majuro</item>
-        <item>Pacific/Auckland</item>
-        <item>Pacific/Fiji</item>
-        <item>Pacific/Tongatapu</item>
+        <item>Ασία/Μαγκαντάν</item>
+        <item>Αυστραλία/Αδελαΐδα</item>
+        <item>Αυστραλία/Χόμπαρτ</item>
+        <item>Αυστραλία/Σίδνεϊ</item>
+        <item>Ειρηνικός/Ματζούρο</item>
+        <item>Ειρηνικός/Ώκλαντ</item>
+        <item>Ειρηνικός/Φίτζι</item>
+        <item>Ειρηνικός/Τονγκατάπου</item>
     </string-array>
     <string-array name="lab_item_android_settings">
         <item>αρχικές ρυθμίσεις συστήματος [prim]</item>
@@ -113,8 +113,8 @@
         <item>[sid]btsnoop</item>
     </string-array>
     <string-array name="lab_item_power_test">
-        <item>[prim] Test power consumption when Airplane mode is on</item>
-        <item>[sum] Test power consumption when Airplane mode is on</item>
+        <item>[prim] Ελέγξτε την κατανάλωση ενέργειας όταν είναι ενεργοποιημένη η λειτουργία του αεροπλάνου</item>
+        <item>[sum] Ελέγξτε την κατανάλωση ενέργειας όταν είναι ενεργοποιημένη η λειτουργία του αεροπλάνου</item>
         <item>[sid]power_test</item>
     </string-array>
     <string-array name="lab_item_long_sitting_timer_plus">
@@ -163,7 +163,7 @@
         <item>-1 Cape_Verde</item>
         <item>+0 Casablanca</item>
         <item>+0 London</item>
-        <item>+1 Amsterdam</item>
+        <item>+ 1 Άμστερνταμ</item>
         <item>+ 1 Βελιγράδι</item>
         <item>+ 1 Βρυξέλλες</item>
         <item>+ 1 Σαράγεβο</item>
@@ -216,17 +216,17 @@
         <item>+ 11 Σίδνεϊ</item>
         <item>+ 12 Ματζούρο</item>
         <item>+ 13 Ώκλαντ</item>
-        <item>+13 Fiji</item>
-        <item>+13 Tongatapu</item>
+        <item>+ 13 Φίτζι</item>
+        <item>+ 13 Τονγκατάπου</item>
     </string-array>
     <string-array name="light_mode_subtitle">
         <item>Brightness: close</item>
         <item>Brightness: auto</item>
-        <item>Brightness: 2</item>
-        <item>Brightness: 2</item>
-        <item>Brightness: 1</item>
-        <item>Brightness: 3</item>
-        <item>Brightness: 4</item>
-        <item>Brightness: 5</item>
+        <item>Φωτεινότητα: 2</item>
+        <item>Φωτεινότητα: 2</item>
+        <item>Φωτεινότητα: 1</item>
+        <item>Φωτεινότητα: 3</item>
+        <item>Φωτεινότητα: 4</item>
+        <item>Φωτεινότητα: 5</item>
     </string-array>
 </resources>
