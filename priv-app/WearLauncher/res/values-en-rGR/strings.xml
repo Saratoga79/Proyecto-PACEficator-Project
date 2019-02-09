@@ -3,8 +3,8 @@
 <resources>
     <string name="locale_title">Επιλογή γλώσσας</string>
     <string name="data_check_log">" +---+ Σφάλμα επαλήθευσης δεδομένων καιρού ▂▃▄▅▆▇█▉!     %1$s▉█▇▆▅▄▃▂ +---+"</string>
-    <string name="data_checkfail_type">"Unable to recognize weather type"</string>
-    <string name="data_checkfail_temp">Weather temperature out of range</string>
+    <string name="data_checkfail_type">"Δεν είναι δυνατή η ανίχνευση καιρού."</string>
+    <string name="data_checkfail_temp">Η θερμοκρασία είναι εκτός ορίων.</string>
     <string name="data_checkfail_match">"Weather type fields do not match"</string>
     <string name="data_checkfail_json">Σφάλμα μορφής JSON</string>
     <string name="generic_notification_more">Περισσότερα (%s)</string>
@@ -540,7 +540,7 @@
     <string name="example_query_note_3">Πάρτε μια σημείωση, στάθμευσα το αυτοκίνητό μου στο επίπεδο 4</string>
     <string name="example_query_reminder_1">Θύμισε μου να πάμε για ένα τρέξιμο στις 7 π. μ</string>
     <string name="example_query_reminder_2">Θύμισε μου να καλέσω μητέρα μου, όταν φτάσω σπίτι</string>
-    <string name="example_query_reminder_3">Θύμισέ μου να αγοράσω γάλα όταν είμαι στο σούπερ μάρκετ</string>
+    <string name="example_query_reminder_3">Θύμισε μου να αγοράσω γάλα όταν είμαι στο σούπερ μάρκετ</string>
     <string name="example_query_sms_1">Στείλε ένα μήνυμα στον Jim, είσαι τριγύρω;</string>
     <string name="example_query_sms_2">Στείλε ένα μήνυμα στον Jim, φεύγω τώρα, θα τα πούμε αργότερα</string>
     <string name="example_query_sms_3">Στείλε ένα μήνυμα στην Εύα, είσαι τριγύρω;</string>
