@@ -268,15 +268,15 @@ kg"</string>
     <string name="reset_factory_yes">Reset do ustawień fabrycznych</string>
     <string name="reset_factory_no">Anuluj</string>
     <string name="reset_factory_title">Przywrócenie ustawienia fabryczne</string>
-    <string name="reset_factory_noconnect_msg">"If you want to unbind from the watch, please do so in the Amazfit watch App. 
- The UnionPay cards and the transportation cards will be removed from the watch once it is unilaterally restored to factory settings. 
- - Removed UnionPay cards: They cannot be bound to the watch anymore. If you want to bind again, please consult your bank customer service. 
- - Removed traffic cards: They will be permanently closed and no longer payable."</string>
-    <string name="reset_factory_conncet_msg">Your watch and the Amazfit watch App will remove the bound UnionPay card. The watch will still retain the payment function of your transportation card.</string>
-    <string name="reset_factory_positive">Restore to factory settings</string>
+    <string name="reset_factory_noconnect_msg">"Jeśli chcesz się odłączyć od zegarka, zrób to w aplikacji Amazfit. 
+ Karty UnionPay i karty transportowe zostaną usunięte z zegarka po przywróceniu go do ustawień fabrycznych 
+ - Usunięte karty UnionPay: Nie można ich ponownie powiązać. Jeśli chcesz je ponownie powiązać, skonsultuj się z obsługą klienta w banku. 
+ - Usunięte karty drogowe: Będą trwale zamknięte i nie będzie można nimi płacić."</string>
+    <string name="reset_factory_conncet_msg">Zegarek i Amazfit zegarek aplikacji usuną powiązaną kartę UnionPay. Zegarek nadal zachowa funkcje płatnicze wybranej karty.</string>
+    <string name="reset_factory_positive">Reset do ustawień fabrycznych</string>
     <string name="reset_factory_negative">Anuluj</string>
-    <string name="reset_factory_fail_title">Failed to restore to factory settings</string>
-    <string name="reset_factory_fail_msg">Failed to remove the UnionPay card. Please try again.</string>
+    <string name="reset_factory_fail_title">Nie można przywrócić do ustawień fabrycznych</string>
+    <string name="reset_factory_fail_msg">Usuwanie UnionPay card nieudane. Spróbuj ponownie.</string>
     <string name="reset_factory_fail_positive">OK</string>
     <string name="reset_factory_doing1">Reset do ustawień fabrycznych</string>
     <string name="reset_factory_doing2">Usunięcie karty UnionPay</string>
@@ -308,19 +308,19 @@ kg"</string>
     <string name="lockpattern_exist">Włącz</string>
     <string name="lockpattern_exist_no">Wyłącz</string>
     <string name="unlock_disable_lock_pattern_summary">Usuń wzór odblokowania</string>
-    <string name="unlock_disable_frp_warning_content">The Device Protection Function Will No Longer Function.</string>
+    <string name="unlock_disable_frp_warning_content">Funkcja Ochrony Urządzenia Przestaną Działać.</string>
     <string name="okay">Zatwierdż</string>
     <string name="exit">Wyjdź</string>
     <string name="pattern_set_title">Ochrona</string>
     <string name="watch_state">Ustawienia Wygaszacza</string>
     <string name="unwear">Wyłącz zegarek nadgarstkiem</string>
     <string name="wear">Włącz zegarek nadgarstkiem</string>
-    <string name="lockpattern_need_confirm">Please draw again</string>
-    <string name="lockpattern_pattern_short">Please connect at least 4 points</string>
-    <string name="lockpattern_confirm_wrong">Pattern Inconformity</string>
-    <string name="lockpattern_change_none">There Is No Unlocking Pattern Currently</string>
-    <string name="security_lockpattern">Gesture Password</string>
-    <string name="lockpattern_need_confirm_guide">Please draw the current pattern</string>
+    <string name="lockpattern_need_confirm">Spróbuj narysować ponownie</string>
+    <string name="lockpattern_pattern_short">Proszę połącz co najmniej 4 punkty</string>
+    <string name="lockpattern_confirm_wrong">Wzór zgodny</string>
+    <string name="lockpattern_change_none">Ten Wzór Odblokowania nie istnieje</string>
+    <string name="security_lockpattern">Narysuj hasło</string>
+    <string name="lockpattern_need_confirm_guide">Proszę potwierdź ten wzór</string>
     <string name="time_zone">Strefa czas.</string>
     <string name="date">Data</string>
     <string name="time">Czas</string>
@@ -336,11 +336,11 @@ kg"</string>
     <string name="mid">średnie</string>
     <string name="weak">słabe</string>
     <string name="slient">Wył.</string>
-    <string name="volume_value">Volume adjustment</string>
-    <string name="light_value">Brightness</string>
+    <string name="volume_value">Regulacja głośności</string>
+    <string name="light_value">Jasność</string>
     <string name="light_auto_set">Auto</string>
-    <string name="light_auto_guide_title">Auto adjustment</string>
-    <string name="light_auto_guide_content">After Auto adjustment is on, move slider to fine tune the brightness coefficient, then the screen brightness will still change with the ambient brightness.</string>
+    <string name="light_auto_guide_title">Automatyczna regulacja</string>
+    <string name="light_auto_guide_content">Po włączeniu automatycznej regulacji, przesuń suwak, aby dostosować współczynnik jasności, a jasność ekranu będzie nadal pobierać dane z otoczenia.</string>
     <string name="light_auto_guide_ok">Wiem, to</string>
     <string name="watch_mode_title">Włącz tryb zegarka</string>
     <string name="watch_mode_message">"Gdy włączono, zegarek wyświetli tylko czas, licznik kroków i włączy płatności kartą. 
