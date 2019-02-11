@@ -53,17 +53,17 @@
 %1$s"</string>
     <string name="usb_debugging_always">อนุญาตจากคอมพิวเตอร์เครื่องนี้ทุกครั้ง</string>
     <string name="compat_mode_on">Zoom to fill screen</string>
-    <string name="compat_mode_off">Stretch to fill screen</string>
+    <string name="compat_mode_off">ยืดให้เต็มหน้าจอ</string>
     <string name="screenshot_saving_ticker">กำลังบันทึกภาพหน้าจอ...</string>
     <string name="screenshot_saving_title">กำลังบันทึกภาพหน้าจอ...</string>
-    <string name="screenshot_saving_text">Screenshot is being saved.</string>
+    <string name="screenshot_saving_text">กำลังบันทึกภาพหน้าจอ</string>
     <string name="screenshot_saved_title">จับภาพหน้าจอแล้ว</string>
-    <string name="screenshot_saved_text">Touch to view your screenshot.</string>
-    <string name="screenshot_failed_title">"Couldn't capture screenshot."</string>
-    <string name="screenshot_failed_text">"Can't take screenshot due to limited storage space, or it isn't allowed by the app or your organization."</string>
-    <string name="usb_preference_title">USB file transfer options</string>
-    <string name="use_mtp_button_title">Mount as a media player (MTP)</string>
-    <string name="use_ptp_button_title">Mount as a camera (PTP)</string>
+    <string name="screenshot_saved_text">แตะเพื่อดูภาพหน้าจอของคุณ</string>
+    <string name="screenshot_failed_title">"ไม่สามารถจับภาพหน้าจอ"</string>
+    <string name="screenshot_failed_text">"ไม่สามารถจับภาพหน้าจอเนื่องจากพื้นที่เก็บข้อมูลที่ จำกัด หรือไม่ได้รับอนุญาตจากแอปของคุณ"</string>
+    <string name="usb_preference_title">ตัวเลือกการถ่ายโอนไฟล์ USB</string>
+    <string name="use_mtp_button_title">ต่อเชื่อมเป็นเครื่องเล่นสื่อ (MTP)</string>
+    <string name="use_ptp_button_title">ต่อเชื่อมเป็นภาพจากกล้อง (PTP)</string>
     <string name="installer_cd_button_title">ติด​ตั้ง​แอ​พพลิ​เค​ชั่น​การ​ถ่าย​โอน​ไฟล์ Android ​สำหรับ Mac</string>
     <string name="accessibility_back">กลับ</string>
     <string name="accessibility_home">หน้าหลัก</string>
@@ -76,47 +76,47 @@
     <string name="unlock_label">ปลดล็อค</string>
     <string name="phone_label">เปิดโทรศัพท์</string>
     <string name="camera_label">เปิดกล้อง</string>
-    <string name="accessibility_ime_switch_button">Switch input method button.</string>
-    <string name="accessibility_compatibility_zoom_button">Compatibility zoom button.</string>
-    <string name="accessibility_compatibility_zoom_example">Zoom smaller to larger screen.</string>
+    <string name="accessibility_ime_switch_button">เปลี่ยนวิธีการป้อนข้อมูล</string>
+    <string name="accessibility_compatibility_zoom_button">เข้ากันได้กับปุ่มซูม</string>
+    <string name="accessibility_compatibility_zoom_example">ซูมที่เล็กลงไปยังหน้าจอที่ใหญ่ขึ้น</string>
     <string name="accessibility_bluetooth_connected">เชื่อม​ต่อ​กับ Bluetooth ​แล้ว</string>
     <string name="accessibility_bluetooth_disconnected">หยุด​เชื่อม​ต่อ​กับบลูทูธ​แล้ว</string>
     <string name="accessibility_no_battery">\"ไม่​มี
 ​แบตเตอรี่\"</string>
-    <string name="accessibility_battery_one_bar">Battery one bar.</string>
-    <string name="accessibility_battery_two_bars">Battery two bars.</string>
-    <string name="accessibility_battery_three_bars">Battery three bars.</string>
+    <string name="accessibility_battery_one_bar">แบตเตอรีหนึ่งขีด</string>
+    <string name="accessibility_battery_two_bars">แบตเตอรี่สองขีด</string>
+    <string name="accessibility_battery_three_bars">แบตเตอรี่สามขีด</string>
     <string name="accessibility_battery_full">แบตเตอรี่​เต็ม</string>
     <string name="accessibility_no_phone">ไม่​มี​สัญญาณ​โทรศัพท์</string>
-    <string name="accessibility_phone_one_bar">Phone one bar.</string>
-    <string name="accessibility_phone_two_bars">Phone two bars.</string>
-    <string name="accessibility_phone_three_bars">Phone three bars.</string>
-    <string name="accessibility_phone_signal_full">Phone signal full.</string>
+    <string name="accessibility_phone_one_bar">สัญญาณโทรศัพท์หนึ่งขีด</string>
+    <string name="accessibility_phone_two_bars">สัญญาณโทรศัพท์สองขีด</string>
+    <string name="accessibility_phone_three_bars">สัญญาณโทรศัพท์สามขีด</string>
+    <string name="accessibility_phone_signal_full">สัญญาณโทรศัพท์เต็ม</string>
     <string name="accessibility_no_data">ไม่มีข้อมูล.</string>
-    <string name="accessibility_data_one_bar">Data one bar.</string>
-    <string name="accessibility_data_two_bars">Data two bars.</string>
-    <string name="accessibility_data_three_bars">Data three bars.</string>
-    <string name="accessibility_data_signal_full">Data signal full.</string>
-    <string name="accessibility_wifi_off">Wifi off.</string>
-    <string name="accessibility_no_wifi">Wifi disconnected.</string>
-    <string name="accessibility_wifi_one_bar">Wifi one bar.</string>
-    <string name="accessibility_wifi_two_bars">Wifi two bars.</string>
-    <string name="accessibility_wifi_three_bars">Wifi three bars.</string>
-    <string name="accessibility_wifi_signal_full">Wifi signal full.</string>
-    <string name="accessibility_wifi_name">Connected to %s.</string>
+    <string name="accessibility_data_one_bar">ดาต้าหนึ่งขีด</string>
+    <string name="accessibility_data_two_bars">ดาต้าสองขีด</string>
+    <string name="accessibility_data_three_bars">ดาต้าสามขีด</string>
+    <string name="accessibility_data_signal_full">ดาต้าสัญญาณเต็ม</string>
+    <string name="accessibility_wifi_off">Wifi ปิด</string>
+    <string name="accessibility_no_wifi">ตัดการเชื่อมต่อ Wifi แล้ว</string>
+    <string name="accessibility_wifi_one_bar">สัญญาณ Wifi หนึ่งขีด</string>
+    <string name="accessibility_wifi_two_bars">สัญญาณ Wifi สองขีด</string>
+    <string name="accessibility_wifi_three_bars">สัญญาณ Wifi สามขีด</string>
+    <string name="accessibility_wifi_signal_full">สัญญาณ Wi-Fi ​เต็ม</string>
+    <string name="accessibility_wifi_name">เชื่อมต่อกับ %s แล้ว</string>
     <string name="accessibility_bluetooth_name">เชื่อมต่อกับ %s แล้ว</string>
-    <string name="accessibility_no_wimax">No WiMAX.</string>
-    <string name="accessibility_wimax_one_bar">WiMAX one bar.</string>
-    <string name="accessibility_wimax_two_bars">WiMAX two bars.</string>
-    <string name="accessibility_wimax_three_bars">WiMAX three bars.</string>
-    <string name="accessibility_wimax_signal_full">WiMAX signal full.</string>
-    <string name="accessibility_no_signal">No signal.</string>
-    <string name="accessibility_not_connected">Not connected.</string>
-    <string name="accessibility_zero_bars">Zero bars.</string>
-    <string name="accessibility_one_bar">One bar.</string>
-    <string name="accessibility_two_bars">Two bars.</string>
-    <string name="accessibility_three_bars">Three bars.</string>
-    <string name="accessibility_signal_full">Signal full.</string>
+    <string name="accessibility_no_wimax">ไม่มี WiMAX</string>
+    <string name="accessibility_wimax_one_bar">WiMAX หนึ่งขีด</string>
+    <string name="accessibility_wimax_two_bars">WiMAX สองขีด</string>
+    <string name="accessibility_wimax_three_bars">WiMAX สามขีด</string>
+    <string name="accessibility_wimax_signal_full">สัญญาณ WiMAX เต็ม</string>
+    <string name="accessibility_no_signal">ไม่​มี​สัญญาณ</string>
+    <string name="accessibility_not_connected">ไม่มีการเชื่อมต่อ</string>
+    <string name="accessibility_zero_bars">0 ขีด</string>
+    <string name="accessibility_one_bar">1 ขีด</string>
+    <string name="accessibility_two_bars">2 ขีด</string>
+    <string name="accessibility_three_bars">3 ขีด</string>
+    <string name="accessibility_signal_full">สัญญาณเต็ม</string>
     <string name="accessibility_desc_on">เปิด.</string>
     <string name="accessibility_desc_off">ปิด.</string>
     <string name="accessibility_desc_connected">เชื่อมต่อแล้ว.</string>
@@ -145,272 +145,273 @@
     <string name="accessibility_ringer_vibrate">การ​สั่น​ของ​เสียง​เรียก​เข้า</string>
     <string name="accessibility_ringer_silent">ปิด​เสียง​เรียก​เข้า</string>
     <string name="accessibility_casting">@string/quick_settings_casting</string>
-    <string name="accessibility_recents_item_will_be_dismissed">Dismiss %s.</string>
-    <string name="accessibility_recents_item_dismissed">%s dismissed.</string>
-    <string name="accessibility_recents_item_launched">Starting %s.</string>
-    <string name="accessibility_notification_dismissed">Notification dismissed.</string>
+    <string name="accessibility_recents_item_will_be_dismissed">ยกเลิก %s</string>
+    <string name="accessibility_recents_item_dismissed">%s ถูกนำออกไปแล้ว</string>
+    <string name="accessibility_recents_item_launched">กำลังเริ่ม %s</string>
+    <string name="accessibility_notification_dismissed">การแจ้งเตือนถูกยกเลิก</string>
     <string name="accessibility_desc_notification_shade">Notification shade.</string>
     <string name="accessibility_desc_quick_settings">การตั้งค่าอย่างรวดเร็ว</string>
     <string name="accessibility_desc_lock_screen">หน้าจอล็อค</string>
     <string name="accessibility_desc_settings">การตั้งค่า</string>
     <string name="accessibility_desc_recent_apps">ภาพรวม</string>
-    <string name="accessibility_quick_settings_user">User %s.</string>
+    <string name="accessibility_quick_settings_user">ผู้ใช้ %s</string>
     <string name="accessibility_quick_settings_wifi">%1$s.</string>
-    <string name="accessibility_quick_settings_wifi_changed_off">Wifi turned off.</string>
-    <string name="accessibility_quick_settings_wifi_changed_on">Wifi turned on.</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">Wifi ถูกปิดแล้ว</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">Wifi ถูกเปิดแล้ว</string>
     <string name="accessibility_quick_settings_mobile">Mobile %1$s. %2$s. %3$s.</string>
-    <string name="accessibility_quick_settings_battery">Battery %s.</string>
+    <string name="accessibility_quick_settings_battery">แบตเตอรี่ %s.</string>
     <string name="accessibility_quick_settings_airplane_off">ปิดโหมดเครื่องบิน</string>
     <string name="accessibility_quick_settings_airplane_on">เปิดโหมดเครื่องบิน</string>
-    <string name="accessibility_quick_settings_airplane_changed_off">Airplane mode turned off.</string>
-    <string name="accessibility_quick_settings_airplane_changed_on">Airplane mode turned on.</string>
-    <string name="accessibility_quick_settings_bluetooth_off">Bluetooth off.</string>
-    <string name="accessibility_quick_settings_bluetooth_on">Bluetooth on.</string>
-    <string name="accessibility_quick_settings_bluetooth_connecting">Bluetooth connecting.</string>
-    <string name="accessibility_quick_settings_bluetooth_connected">Bluetooth connected.</string>
-    <string name="accessibility_quick_settings_bluetooth_changed_off">Bluetooth turned off.</string>
-    <string name="accessibility_quick_settings_bluetooth_changed_on">Bluetooth turned on.</string>
-    <string name="accessibility_quick_settings_location_off">Location reporting off.</string>
-    <string name="accessibility_quick_settings_location_on">Location reporting on.</string>
-    <string name="accessibility_quick_settings_location_changed_off">Location reporting turned off.</string>
-    <string name="accessibility_quick_settings_location_changed_on">Location reporting turned on.</string>
-    <string name="accessibility_quick_settings_alarm">Alarm set for %s.</string>
-    <string name="accessibility_quick_settings_close">Close panel.</string>
-    <string name="accessibility_quick_settings_more_time">More time.</string>
-    <string name="accessibility_quick_settings_less_time">Less time.</string>
-    <string name="accessibility_quick_settings_flashlight_off">Flashlight off.</string>
-    <string name="accessibility_quick_settings_flashlight_on">Flashlight on.</string>
-    <string name="accessibility_quick_settings_flashlight_changed_off">Flashlight turned off.</string>
-    <string name="accessibility_quick_settings_flashlight_changed_on">Flashlight turned on.</string>
-    <string name="accessibility_quick_settings_color_inversion_changed_off">Color inversion turned off.</string>
-    <string name="accessibility_quick_settings_color_inversion_changed_on">Color inversion turned on.</string>
-    <string name="accessibility_quick_settings_hotspot_changed_off">Mobile hotspot turned off.</string>
-    <string name="accessibility_quick_settings_hotspot_changed_on">Mobile hotspot turned on.</string>
-    <string name="accessibility_casting_turned_off">Screen casting stopped.</string>
-    <string name="accessibility_brightness">Display brightness</string>
-    <string name="data_usage_disabled_dialog_3g_title">2G-3G data is off</string>
-    <string name="data_usage_disabled_dialog_4g_title">4G data is off</string>
-    <string name="data_usage_disabled_dialog_mobile_title">Cellular data is off</string>
-    <string name="data_usage_disabled_dialog_title">Data is off</string>
-    <string name="data_usage_disabled_dialog">"Your device turned off data because it reached the limit you set.
+    <string name="accessibility_quick_settings_airplane_changed_off">ปิดโหมดเครื่องบินแล้ว</string>
+    <string name="accessibility_quick_settings_airplane_changed_on">เปิดโหมดเครื่องบินแล้ว</string>
+    <string name="accessibility_quick_settings_bluetooth_off">ปิด บลูทูธ</string>
+    <string name="accessibility_quick_settings_bluetooth_on">เปิด บลูทูธ</string>
+    <string name="accessibility_quick_settings_bluetooth_connecting">กำลังเชื่อม​ต่อ​กับ Bluetooth</string>
+    <string name="accessibility_quick_settings_bluetooth_connected">เชื่อม​ต่อ​กับ Bluetooth ​แล้ว</string>
+    <string name="accessibility_quick_settings_bluetooth_changed_off">ปิดบลูทูธถูกแล้ว</string>
+    <string name="accessibility_quick_settings_bluetooth_changed_on">เปิดบลูทูธถูกแล้ว</string>
+    <string name="accessibility_quick_settings_location_off">การรายงานตำแหน่งปิดอยู่</string>
+    <string name="accessibility_quick_settings_location_on">การรายงานตำแหน่งเปิดอยู่</string>
+    <string name="accessibility_quick_settings_location_changed_off">การรายงานตำแหน่งถูกปิดแล้ว</string>
+    <string name="accessibility_quick_settings_location_changed_on">การรายงานตำแหน่งถูกเปิดแล้ว</string>
+    <string name="accessibility_quick_settings_alarm">นาฬิกาปลุกตั้งค่าสำหรับ %s</string>
+    <string name="accessibility_quick_settings_close">ปิดแผงควบคุม</string>
+    <string name="accessibility_quick_settings_more_time">เวลามากขึ้น</string>
+    <string name="accessibility_quick_settings_less_time">เวลาน้อย</string>
+    <string name="accessibility_quick_settings_flashlight_off">ปิดไฟฉาย</string>
+    <string name="accessibility_quick_settings_flashlight_on">เปิดไฟฉาย</string>
+    <string name="accessibility_quick_settings_flashlight_changed_off">ไฟฉายถูกปิดแล้ว</string>
+    <string name="accessibility_quick_settings_flashlight_changed_on">ไฟฉายถูกเปิดแล้ว</string>
+    <string name="accessibility_quick_settings_color_inversion_changed_off">การผกผันของสีถูกปิดแล้ว</string>
+    <string name="accessibility_quick_settings_color_inversion_changed_on">การผกผันของสีถูกเปิดแล้ว</string>
+    <string name="accessibility_quick_settings_hotspot_changed_off">ฮอตสปอตมือถือปิดใช้งานแล้ว</string>
+    <string name="accessibility_quick_settings_hotspot_changed_on">ฮอตสปอตมือถือเปิดใช้งาน</string>
+    <string name="accessibility_casting_turned_off">การส่งหน้าจอหยุดลงแล้ว</string>
+    <string name="accessibility_brightness">ความสว่างหน้าจอ</string>
+    <string name="data_usage_disabled_dialog_3g_title">ข้อมูล 2G - 3G ถูกปิด</string>
+    <string name="data_usage_disabled_dialog_4g_title">ข้อมูล 4G ถูกปิด</string>
+    <string name="data_usage_disabled_dialog_mobile_title">ข้อมูลมือถือถูกปิด</string>
+    <string name="data_usage_disabled_dialog_title">ข้อมูลถูกปิด</string>
+    <string name="data_usage_disabled_dialog">"อุปกรณ์ของคุณปิดข้อมูลเนื่องจากถึงขีดจำกัด ที่คุณตั้งไว้
 
-Turning it back on may lead to charges from your carrier."</string>
-    <string name="data_usage_disabled_dialog_enable">Turn on data</string>
-    <string name="status_bar_settings_signal_meter_disconnected">No Internet connection</string>
-    <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi connected</string>
-    <string name="gps_notification_searching_text">Searching for GPS</string>
-    <string name="gps_notification_found_text">Location set by GPS</string>
-    <string name="accessibility_location_active">Location requests active</string>
-    <string name="accessibility_clear_all">Clear all notifications.</string>
-    <string name="status_bar_notification_inspect_item_title">Notification settings</string>
-    <string name="status_bar_notification_app_settings_title">%s settings</string>
-    <string name="accessibility_rotation_lock_off">Screen will rotate automatically.</string>
-    <string name="accessibility_rotation_lock_on_landscape">Screen is locked in landscape orientation.</string>
-    <string name="accessibility_rotation_lock_on_portrait">Screen is locked in portrait orientation.</string>
-    <string name="accessibility_rotation_lock_off_changed">Screen will now rotate automatically.</string>
-    <string name="accessibility_rotation_lock_on_landscape_changed">Screen is now locked in landscape orientation.</string>
-    <string name="accessibility_rotation_lock_on_portrait_changed">Screen is now locked in portrait orientation.</string>
+การเปิดใช้งานอีกครั้งอาจนำไปสู่ค่าใช้จ่ายจากผู้ให้บริการของคุณ "</string>
+    <string name="data_usage_disabled_dialog_enable">เปิดข้อมูล</string>
+    <string name="status_bar_settings_signal_meter_disconnected">ไม่​มี​การเชื่อม​ต่อ​อินเตอร์​เน็ต</string>
+    <string name="status_bar_settings_signal_meter_wifi_nossid">เชื่อม​ต่อ Wi-Fi ​แล้ว</string>
+    <string name="gps_notification_searching_text">กำลัง​ค้น​หา​ GPS...</string>
+    <string name="gps_notification_found_text">ตั้ง​ค่า​ตำแหน่ง​โดย GPS</string>
+    <string name="accessibility_location_active">คำขอตำแหน่งใช้งานอยู่</string>
+    <string name="accessibility_clear_all">ล้าง​การ​แจ้ง​เตือน​ทั้ง​หมด.</string>
+    <string name="status_bar_notification_inspect_item_title">การตั้งค่าการแจ้งเตือน</string>
+    <string name="status_bar_notification_app_settings_title">%s การตั้งค่า</string>
+    <string name="accessibility_rotation_lock_off">หน้าจอจะหมุนอัตโนมัติ</string>
+    <string name="accessibility_rotation_lock_on_landscape">หน้าจอถูกล็อคในแนวนอน</string>
+    <string name="accessibility_rotation_lock_on_portrait">หน้าจอถูกล็อคในแนวตั้ง</string>
+    <string name="accessibility_rotation_lock_off_changed">หน้าจอจะหมุนอัตโนมัติ</string>
+    <string name="accessibility_rotation_lock_on_landscape_changed">ขณะนี้หน้าจอถูกล็อคในแนวนอน</string>
+    <string name="accessibility_rotation_lock_on_portrait_changed">ขณะนี้หน้าจอถูกล็อคในแนวตั้ง</string>
     <string name="dessert_case">Dessert Case</string>
-    <string name="start_dreams">Daydream</string>
-    <string name="ethernet_label">Ethernet</string>
-    <string name="quick_settings_airplane_mode_label">Airplane mode</string>
+    <string name="start_dreams">เดย์ดรีม</string>
+    <string name="ethernet_label">อีเทอร์เน็ต</string>
+    <string name="quick_settings_airplane_mode_label">โหมดเครื่องบิน</string>
     <string name="quick_settings_bluetooth_label">Bluetooth</string>
-    <string name="quick_settings_bluetooth_multiple_devices_label">Bluetooth (%d Devices)</string>
-    <string name="quick_settings_bluetooth_off_label">Bluetooth Off</string>
-    <string name="quick_settings_bluetooth_detail_empty_text">No paired devices available</string>
-    <string name="quick_settings_brightness_label">Brightness</string>
-    <string name="quick_settings_rotation_unlocked_label">Auto-rotate</string>
-    <string name="quick_settings_rotation_locked_label">Rotation locked</string>
-    <string name="quick_settings_rotation_locked_portrait_label">Portrait</string>
-    <string name="quick_settings_rotation_locked_landscape_label">Landscape</string>
-    <string name="quick_settings_ime_label">Input Method</string>
-    <string name="quick_settings_location_label">Location</string>
-    <string name="quick_settings_location_off_label">Location Off</string>
-    <string name="quick_settings_media_device_label">Media device</string>
-    <string name="quick_settings_rssi_label">RSSI</string>
-    <string name="quick_settings_rssi_emergency_only">Emergency Calls Only</string>
-    <string name="quick_settings_settings_label">Settings</string>
-    <string name="quick_settings_time_label">Time</string>
-    <string name="quick_settings_user_label">Me</string>
-    <string name="quick_settings_user_title">User</string>
-    <string name="quick_settings_user_new_user">New user</string>
+    <string name="quick_settings_bluetooth_multiple_devices_label">บลูทูธ (%d อุปกรณ์)</string>
+    <string name="quick_settings_bluetooth_off_label">ปิด บลูทูธ</string>
+    <string name="quick_settings_bluetooth_detail_empty_text">ไม่มีอุปกรณ์ที่จับคู่ไว้</string>
+    <string name="quick_settings_brightness_label">ความสว่าง</string>
+    <string name="quick_settings_rotation_unlocked_label">หมุนจออัตโนมัติ</string>
+    <string name="quick_settings_rotation_locked_label">ล็อกการหมุนหน้าจอ</string>
+    <string name="quick_settings_rotation_locked_portrait_label">แนวตั้ง</string>
+    <string name="quick_settings_rotation_locked_landscape_label">แนวนอน</string>
+    <string name="quick_settings_ime_label">วิธีการป้อนข้อมูล</string>
+    <string name="quick_settings_location_label">ตำแหน่ง</string>
+    <string name="quick_settings_location_off_label">ปิดใช้งานตำแหน่ง</string>
+    <string name="quick_settings_media_device_label">อุปกรณ์สื่อ</string>
+    <string name="quick_settings_rssi_label">RSSI:</string>
+    <string name="quick_settings_rssi_emergency_only">โทรฉุกเฉินเท่านั้น</string>
+    <string name="quick_settings_settings_label">การตั้งค่า</string>
+    <string name="quick_settings_time_label">เวลา</string>
+    <string name="quick_settings_user_label">ฉัน</string>
+    <string name="quick_settings_user_title">ผู้ใช้</string>
+    <string name="quick_settings_user_new_user">ผู้ใช้ใหม่</string>
     <string name="quick_settings_wifi_label">Wi-Fi</string>
-    <string name="quick_settings_wifi_not_connected">Not Connected</string>
-    <string name="quick_settings_wifi_no_network">No Network</string>
-    <string name="quick_settings_wifi_off_label">Wi-Fi Off</string>
+    <string name="quick_settings_wifi_not_connected">ไม่มีการเชื่อมต่อ</string>
+    <string name="quick_settings_wifi_no_network">ไม่มีเครือข่าย</string>
+    <string name="quick_settings_wifi_off_label">ปิด Wi-Fi</string>
     <string name="quick_settings_wifi_detail_empty_text">ไม่มีเครือข่ายที่ใช้งานได้</string>
-    <string name="quick_settings_cast_title">Cast screen</string>
-    <string name="quick_settings_casting">Casting</string>
-    <string name="quick_settings_cast_device_default_name">Unnamed device</string>
-    <string name="quick_settings_cast_device_default_description">Ready to cast</string>
-    <string name="quick_settings_cast_detail_empty_text">No devices available</string>
-    <string name="quick_settings_brightness_dialog_title">Brightness</string>
-    <string name="quick_settings_brightness_dialog_auto_brightness_label">AUTO</string>
-    <string name="quick_settings_inversion_label">Invert colors</string>
-    <string name="quick_settings_color_space_label">Color correction mode</string>
-    <string name="quick_settings_more_settings">More settings</string>
-    <string name="quick_settings_done">Done</string>
-    <string name="quick_settings_connected">Connected</string>
-    <string name="quick_settings_connected_via_wfa">Connected via Wi‑Fi assistant</string>
-    <string name="quick_settings_connecting">Connecting...</string>
-    <string name="quick_settings_tethering_label">Tethering</string>
-    <string name="quick_settings_hotspot_label">Hotspot</string>
-    <string name="quick_settings_notifications_label">Notifications</string>
-    <string name="quick_settings_flashlight_label">Flashlight</string>
-    <string name="quick_settings_cellular_detail_title">Cellular data</string>
-    <string name="quick_settings_cellular_detail_data_usage">Data usage</string>
-    <string name="quick_settings_cellular_detail_remaining_data">Remaining data</string>
-    <string name="quick_settings_cellular_detail_over_limit">Over limit</string>
-    <string name="quick_settings_cellular_detail_data_used">%s used</string>
-    <string name="quick_settings_cellular_detail_data_limit">%s limit</string>
-    <string name="quick_settings_cellular_detail_data_warning">%s warning</string>
-    <string name="recents_empty_message">Your recent screens appear here</string>
-    <string name="recents_app_info_button_label">Application Info</string>
+    <string name="quick_settings_cast_title">ส่งหน้าจอ</string>
+    <string name="quick_settings_casting">การแคสต์</string>
+    <string name="quick_settings_cast_device_default_name">อุปกรณ์ที่ไม่มีชื่อ</string>
+    <string name="quick_settings_cast_device_default_description">พร้อมที่จะแคสต์หน้าจอ</string>
+    <string name="quick_settings_cast_detail_empty_text">อุปกรณ์ไม่พร้อมใช้งาน</string>
+    <string name="quick_settings_brightness_dialog_title">ความสว่าง</string>
+    <string name="quick_settings_brightness_dialog_auto_brightness_label">อัตโนมัติ</string>
+    <string name="quick_settings_inversion_label">สลับสี</string>
+    <string name="quick_settings_color_space_label">โหมดการแก้ไขสี</string>
+    <string name="quick_settings_more_settings">ตั้งค่าเพิ่มเติม</string>
+    <string name="quick_settings_done">เสร็จสิ้น</string>
+    <string name="quick_settings_connected">เชื่อมต่อแล้ว</string>
+    <string name="quick_settings_connected_via_wfa">เชื่อมต่อผ่านผู้ช่วย Wifi</string>
+    <string name="quick_settings_connecting">กำลังเชื่อมต่อ...</string>
+    <string name="quick_settings_tethering_label">การปล่อยสัญญาณและฮอตสปอตแบบพกพา</string>
+    <string name="quick_settings_hotspot_label">ฮอตสปอต</string>
+    <string name="quick_settings_notifications_label">การแจ้งเตือน</string>
+    <string name="quick_settings_flashlight_label">ไฟฉาย</string>
+    <string name="quick_settings_cellular_detail_title">ข้อมูลมือถือ</string>
+    <string name="quick_settings_cellular_detail_data_usage">การ​ใช้​ข้อมูล</string>
+    <string name="quick_settings_cellular_detail_remaining_data">ข้อมูลที่เหลืออยู่</string>
+    <string name="quick_settings_cellular_detail_over_limit">เกินขีดจำกัด</string>
+    <string name="quick_settings_cellular_detail_data_used">%s ที่ใช้ไป</string>
+    <string name="quick_settings_cellular_detail_data_limit">%s ขีดจำกัด</string>
+    <string name="quick_settings_cellular_detail_data_warning">%s การเตือน</string>
+    <string name="recents_empty_message">หน้าจอล่าสุดของคุณปรากฏที่นี่</string>
+    <string name="recents_app_info_button_label">ข้อมูลแอปพลิเคชั่น</string>
     <string name="recents_lock_to_app_button_label">screen pinning</string>
-    <string name="recents_search_bar_label">search</string>
-    <string name="recents_launch_error_message">Could not start %s.</string>
-    <string name="expanded_header_battery_charged">Charged</string>
-    <string name="expanded_header_battery_charging">Charging</string>
-    <string name="expanded_header_battery_charging_with_time">%s until full</string>
-    <string name="expanded_header_battery_not_charging">Not charging</string>
+    <string name="recents_search_bar_label">ค้นหา</string>
+    <string name="recents_launch_error_message">ไม่สามารถเริ่ม %s</string>
+    <string name="expanded_header_battery_charged">ชาร์จ</string>
+    <string name="expanded_header_battery_charging">กำลังชาร์จ</string>
+    <string name="expanded_header_battery_charging_with_time">%s จะเต็ม</string>
+    <string name="expanded_header_battery_not_charging">ไม่ได้ชาร์จ</string>
     <string name="battery_meter_very_low_overlay_symbol">!</string>
-    <string name="ssl_ca_cert_warning">"Network may
-be monitored"</string>
-    <string name="description_target_search">Search</string>
-    <string name="description_direction_up">Slide up for %s.</string>
-    <string name="description_direction_left">Slide left for %s.</string>
-    <string name="zen_no_interruptions_with_warning">No interruptions. Not even alarms.</string>
-    <string name="zen_no_interruptions">No interruptions</string>
-    <string name="zen_important_interruptions">Priority interruptions only</string>
-    <string name="zen_alarm_information_time">Your next alarm is at %s</string>
-    <string name="zen_alarm_information_day_time">Your next alarm is %s</string>
-    <string name="zen_alarm_warning">"You won't hear your alarm at %s"</string>
+    <string name="ssl_ca_cert_warning">"เครือข่ายอาจ
+ได้รับการตรวจสอบ "</string>
+    <string name="description_target_search">ค้นหา</string>
+    <string name="description_direction_up">เลื่อนขึ้นสำหรับ %s.</string>
+    <string name="description_direction_left">เลื่อนไปทางซ้ายสำหรับ %s</string>
+    <string name="zen_no_interruptions_with_warning">ไม่มีการหยุดชะงัก ไม่มีแม้แต่สัญญาณเตือน</string>
+    <string name="zen_no_interruptions">ไม่มีการหยุดชะงัก</string>
+    <string name="zen_important_interruptions">การขัดจังหวะโดยลำดับความสำคัญเท่านั้น</string>
+    <string name="zen_alarm_information_time">การเตือนครั้งต่อไปของคุณอยู่ที่ %s</string>
+    <string name="zen_alarm_information_day_time">การเตือนครั้งต่อไปของคุณคือ %s</string>
+    <string name="zen_alarm_warning">"คุณจะไม่ได้ยินเสียงเตือนของคุณที่ %s"</string>
     <string name="keyguard_more_overflow_text">+%d</string>
-    <string name="speed_bump_explanation">Less urgent notifications below</string>
-    <string name="notification_tap_again">Touch again to open</string>
-    <string name="keyguard_unlock">Swipe up to unlock</string>
-    <string name="phone_hint">Swipe right for phone</string>
-    <string name="camera_hint">Swipe left for camera</string>
-    <string name="interruption_level_none">None</string>
-    <string name="interruption_level_priority">Priority</string>
-    <string name="interruption_level_all">All</string>
-    <string name="keyguard_indication_charging_time">Charging (%s until full)</string>
-    <string name="accessibility_multi_user_switch_switcher">Switch user</string>
-    <string name="accessibility_multi_user_switch_switcher_with_current">Switch user, current user %s</string>
-    <string name="accessibility_multi_user_switch_quick_contact">Show profile</string>
-    <string name="user_add_user">Add user</string>
-    <string name="user_new_user_name">New user</string>
-    <string name="guest_nickname">Guest</string>
-    <string name="guest_new_guest">Add guest</string>
-    <string name="guest_exit_guest">Remove guest</string>
-    <string name="guest_exit_guest_dialog_title">Remove guest?</string>
-    <string name="guest_exit_guest_dialog_message">All apps and data in this session will be deleted.</string>
-    <string name="guest_exit_guest_dialog_remove">Remove</string>
-    <string name="guest_wipe_session_title">Welcome back, guest!</string>
-    <string name="guest_wipe_session_message">Do you want to continue your session?</string>
-    <string name="guest_wipe_session_wipe">Start over</string>
-    <string name="guest_wipe_session_dontwipe">Yes, continue</string>
-    <string name="user_add_user_title">Add new user?</string>
-    <string name="user_add_user_message_short">"When you add a new user, that person needs to set up their space.
+    <string name="speed_bump_explanation">การแจ้งเตือนเร่งด่วนน้อยลงด้านล่าง</string>
+    <string name="notification_tap_again">แตะเพื่อเปิดอีกครั้ง</string>
+    <string name="keyguard_unlock">เลื่อนขึ้นเพื่อปลดล็อค</string>
+    <string name="phone_hint">เลื่อนไปทางขวาสำหรับโทรศัพท์ %1$s</string>
+    <string name="camera_hint">เลื่อนไปทางซ้ายเพื่อเปิดกล้อง</string>
+    <string name="interruption_level_none">ไม่มี</string>
+    <string name="interruption_level_priority">ความสำคัญ</string>
+    <string name="interruption_level_all">ทั้งหมด</string>
+    <string name="keyguard_indication_charging_time">กำลังชาร์จ (%s จะเต็ม)</string>
+    <string name="accessibility_multi_user_switch_switcher">สลับผู้ใช้งาน</string>
+    <string name="accessibility_multi_user_switch_switcher_with_current">สลับผู้ใช้งาน ผู้ใช้ปัจจุบัน %s</string>
+    <string name="accessibility_multi_user_switch_quick_contact">แสดงโปรไฟล์</string>
+    <string name="user_add_user">เพิ่มผู้ใช้</string>
+    <string name="user_new_user_name">ผู้ใช้ใหม่</string>
+    <string name="guest_nickname">ผู้เยี่ยมชม</string>
+    <string name="guest_new_guest">เพิ่มผู้เยี่ยมชม</string>
+    <string name="guest_exit_guest">ลบผู้เยี่ยมชม</string>
+    <string name="guest_exit_guest_dialog_title">ลบผู้เยี่ยมชม?</string>
+    <string name="guest_exit_guest_dialog_message">แอพและข้อมูลทั้งหมดในเซสชั่นนี้จะถูกลบ</string>
+    <string name="guest_exit_guest_dialog_remove">เอาออก</string>
+    <string name="guest_wipe_session_title">ยินดีต้อนรับกลับมา ผู้เยี่ยมชม!</string>
+    <string name="guest_wipe_session_message">คุณต้องการที่จะดำเนินการเซสชันของคุณต่อ?</string>
+    <string name="guest_wipe_session_wipe">เริ่มต้นใหม่</string>
+    <string name="guest_wipe_session_dontwipe">ใช่ ทำต่อไป</string>
+    <string name="user_add_user_title">เพิ่มผู้ใช้ใหม่</string>
+    <string name="user_add_user_message_short">เมื่อคุณเพิ่มผู้ใช้ใหม่บุคคลนั้นจำเป็นต้องตั้งค่าพื้นที่ของพวกเขา
 
-Any user can update apps for all other users."</string>
-    <string name="battery_saver_notification_title">Battery saver is on</string>
-    <string name="battery_saver_notification_text">Reduces performance and background data</string>
-    <string name="battery_saver_notification_action_text">Turn off battery saver</string>
-    <string name="notification_hidden_text">Contents hidden</string>
-    <string name="media_projection_dialog_text">"%s will start capturing everything that's displayed on your screen."</string>
-    <string name="media_projection_remember_text">"Don't show again"</string>
-    <string name="clear_all_notifications_text">Clear all</string>
-    <string name="media_projection_action_text">Start now</string>
-    <string name="empty_shade_text">No notifications</string>
-    <string name="device_owned_footer">Device may be monitored</string>
-    <string name="profile_owned_footer">Profile may be monitored</string>
-    <string name="vpn_footer">Network may be monitored</string>
-    <string name="monitoring_title_device_owned">Device monitoring</string>
-    <string name="monitoring_title_profile_owned">Profile monitoring</string>
-    <string name="monitoring_title">Network monitoring</string>
-    <string name="disable_vpn">Disable VPN</string>
-    <string name="disconnect_vpn">Disconnect VPN</string>
-    <string name="monitoring_description_device_owned">"This device is managed by:
+ผู้ใช้ทุกคนสามารถอัปเดตแอปสำหรับผู้ใช้อื่น ๆ ทั้งหมด \"</string>
+    <string name="battery_saver_notification_title">ประหยัดแบตเตอรี่เปิดอยู่</string>
+    <string name="battery_saver_notification_text">ลดประสิทธิภาพและข้อมูลพื้นหลัง</string>
+    <string name="battery_saver_notification_action_text">ปิดตัวประหยัดแบตเตอรี่</string>
+    <string name="notification_hidden_text">เนื้อหาที่ซ่อนอยู่</string>
+    <string name="media_projection_dialog_text">"%s จะเริ่มจับภาพทุกอย่างที่ปรากฏบนหน้าจอของคุณ"</string>
+    <string name="media_projection_remember_text">"ไม่ต้องแสดงอีกครั้ง"</string>
+    <string name="clear_all_notifications_text">ล้างทั้งหมด</string>
+    <string name="media_projection_action_text">เริ่มตอนนี้</string>
+    <string name="empty_shade_text">ไม่​มี​การ​แจ้ง​เตือน</string>
+    <string name="device_owned_footer">อุปกรณ์อาจถูกตรวจสอบ</string>
+    <string name="profile_owned_footer">โปรไฟล์อาจถูกตรวจสอบ</string>
+    <string name="vpn_footer">เครือข่ายอาจถูกตรวจสอบ</string>
+    <string name="monitoring_title_device_owned">การตรวจสอบอุปกรณ์</string>
+    <string name="monitoring_title_profile_owned">การตรวจสอบโพรไฟล์</string>
+    <string name="monitoring_title">ตั้งค่าการตรวจสอบเครือข่าย</string>
+    <string name="disable_vpn">ปิดการใช้งาน VPN</string>
+    <string name="disconnect_vpn">ตัดการเชื่อมต่อ VPN</string>
+    <string name="monitoring_description_device_owned">"อุปกรณ์นี้จัดการโดย:
 %1$s
 
-Your administrator can monitor your device and network activity, including emails, apps and secure websites.
+ผู้ดูแลระบบของคุณสามารถตรวจสอบอุปกรณ์และกิจกรรมเครือข่ายของคุณรวมถึงอีเมลแอพและเว็บไซต์ที่ปลอดภัย
 
-For more information, contact your administrator."</string>
-    <string name="monitoring_description_vpn">"You gave \"%1$s\" permission to set up a VPN connection.
+สำหรับข้อมูลเพิ่มเติมติดต่อผู้ดูแลระบบของคุณ "</string>
+    <string name="monitoring_description_vpn">"คุณให้สิทธิ์\"%1$s \"เพื่อตั้งค่าการเชื่อมต่อ VPN
 
-This app can monitor your device and network activity, including emails, apps and secure websites."</string>
-    <string name="monitoring_description_legacy_vpn">"You\'re connected to a VPN (\"%1$s\").
+แอพนี้สามารถตรวจสอบอุปกรณ์และกิจกรรมเครือข่ายของคุณรวมถึงอีเมลแอพและเว็บไซต์ที่ปลอดภัย "</string>
+    <string name="monitoring_description_legacy_vpn">"คุณเชื่อมต่อกับ VPN (\"%1$s\")
 
-Your VPN service provider can monitor your device and network activity including emails, apps, and secure websites."</string>
-    <string name="monitoring_description_vpn_device_owned">"This device is managed by:
+ผู้ให้บริการ VPN ของคุณสามารถตรวจสอบอุปกรณ์และกิจกรรมเครือข่ายของคุณรวมถึงอีเมลแอพและเว็บไซต์ที่ปลอดภัย "</string>
+    <string name="monitoring_description_vpn_device_owned">"อุปกรณ์นี้จัดการโดย:
 %1$s
 
-Your administrator is capable of monitoring your network activity including emails, apps, and secure websites. For more information, contact your administrator.
+ผู้ดูแลระบบของคุณสามารถติดตามกิจกรรมเครือข่ายของคุณรวมถึงอีเมลแอพและเว็บไซต์ที่ปลอดภัย สำหรับข้อมูลเพิ่มเติมติดต่อผู้ดูแลระบบของคุณ
 
-Also, you gave \"%2$s\" permission to set up a VPN connection. This app can monitor network activity too."</string>
-    <string name="monitoring_description_legacy_vpn_device_owned">"This device is managed by:
+นอกจากนี้คุณยังได้รับอนุญาต \"%2$s\" เพื่อตั้งค่าการเชื่อมต่อ VPN แอพนี้สามารถตรวจสอบกิจกรรมเครือข่ายได้เช่นกัน "</string>
+    <string name="monitoring_description_legacy_vpn_device_owned">"อุปกรณ์นี้จัดการโดย:
 %1$s
 
-Your administrator is capable of monitoring your network activity including emails, apps, and secure websites. For more information, contact your administrator.
+ผู้ดูแลระบบของคุณสามารถติดตามกิจกรรมเครือข่ายของคุณรวมถึงอีเมลแอพและเว็บไซต์ที่ปลอดภัย สำหรับข้อมูลเพิ่มเติมติดต่อผู้ดูแลระบบของคุณ
 
-Also, you\'re connected to a VPN (\"%2$s\"). Your VPN service provider can monitor network activity too."</string>
-    <string name="monitoring_description_profile_owned">"This profile is managed by:
+นอกจากนี้คุณกำลังเชื่อมต่อกับ VPN (\"%2$s\") ผู้ให้บริการ VPN ของคุณสามารถตรวจสอบกิจกรรมเครือข่ายได้เช่นกัน "</string>
+    <string name="monitoring_description_profile_owned">"โปรไฟล์นี้จัดการโดย:
 %1$s
 
-Your administrator can monitor your device and network activity, including emails, apps and secure websites.
+ผู้ดูแลระบบของคุณสามารถตรวจสอบอุปกรณ์และกิจกรรมเครือข่ายของคุณรวมถึงอีเมลแอพและเว็บไซต์ที่ปลอดภัย
 
-For more information, contact your administrator."</string>
-    <string name="monitoring_description_device_and_profile_owned">"This device is managed by:
+สำหรับข้อมูลเพิ่มเติมติดต่อผู้ดูแลระบบของคุณ "</string>
+    <string name="monitoring_description_device_and_profile_owned">"อุปกรณ์นี้จัดการโดย:
 %1$s
-Your profile is managed by:
+โปรไฟล์ของคุณได้รับการจัดการโดย:
 %2$s
 
-Your administrator can monitor your device and network activity, including emails, apps and secure websites.
+ผู้ดูแลระบบของคุณสามารถตรวจสอบอุปกรณ์และกิจกรรมเครือข่ายของคุณรวมถึงอีเมลแอพและเว็บไซต์ที่ปลอดภัย
 
-For more information, contact your administrator."</string>
-    <string name="monitoring_description_vpn_profile_owned">"This profile is managed by:
+สำหรับข้อมูลเพิ่มเติมติดต่อผู้ดูแลระบบของคุณ "</string>
+    <string name="monitoring_description_vpn_profile_owned">\"โปรไฟล์นี้จัดการโดย:
 %1$s
 
-Your administrator is capable of monitoring your network activity including emails, apps, and secure websites. For more information, contact your administrator.
+ผู้ดูแลระบบของคุณสามารถติดตามกิจกรรมเครือข่ายของคุณรวมถึงอีเมลแอพและเว็บไซต์ที่ปลอดภัย สำหรับข้อมูลเพิ่มเติมติดต่อผู้ดูแลระบบของคุณ
 
-Also, you gave \"%2$s\" permission to set up a VPN connection. This app can monitor network activity too."</string>
-    <string name="monitoring_description_legacy_vpn_profile_owned">"This profile is managed by:
+นอกจากนี้คุณยังได้รับอนุญาต \"%2$s\" เพื่อตั้งค่าการเชื่อมต่อ VPN แอพนี้สามารถตรวจสอบกิจกรรมเครือข่ายได้เช่นกัน \"
+\"Porfịl̒ nī̂ cạdkār doy:</string>
+    <string name="monitoring_description_legacy_vpn_profile_owned">"โปรไฟล์นี้จัดการโดย:
 %1$s
 
-Your administrator is capable of monitoring your network activity including emails, apps, and secure websites. For more information, contact your administrator.
+ผู้ดูแลระบบของคุณสามารถติดตามกิจกรรมเครือข่ายของคุณรวมถึงอีเมลแอพและเว็บไซต์ที่ปลอดภัย สำหรับข้อมูลเพิ่มเติมติดต่อผู้ดูแลระบบของคุณ
 
-Also, you\'re connected to a VPN (\"%2$s\"). Your VPN service provider can monitor network activity too."</string>
-    <string name="monitoring_description_vpn_device_and_profile_owned">"This device is managed by:
+นอกจากนี้คุณกำลังเชื่อมต่อกับ VPN (\"%2$s\") ผู้ให้บริการ VPN ของคุณสามารถตรวจสอบกิจกรรมเครือข่ายได้เช่นกัน "</string>
+    <string name="monitoring_description_vpn_device_and_profile_owned">"อุปกรณ์นี้จัดการโดย:
 %1$s
-Your profile is managed by:
+โปรไฟล์ของคุณได้รับการจัดการโดย:
 %2$s
 
-Your administrator is capable of monitoring your network activity including emails, apps, and secure websites. For more information, contact your administrator.
+ผู้ดูแลระบบของคุณสามารถติดตามกิจกรรมเครือข่ายของคุณรวมถึงอีเมลแอพและเว็บไซต์ที่ปลอดภัย สำหรับข้อมูลเพิ่มเติมติดต่อผู้ดูแลระบบของคุณ
 
-Also, you gave \"%3$s\" permission to set up a VPN connection. This app can monitor network activity too."</string>
-    <string name="monitoring_description_legacy_vpn_device_and_profile_owned">"This device is managed by:
+นอกจากนี้คุณยังได้รับอนุญาต \"%3$s\" เพื่อตั้งค่าการเชื่อมต่อ VPN แอพนี้สามารถตรวจสอบกิจกรรมเครือข่ายได้เช่นกัน "</string>
+    <string name="monitoring_description_legacy_vpn_device_and_profile_owned">"อุปกรณ์นี้จัดการโดย:
 %1$s
-Your profile is managed by:
+โปรไฟล์ของคุณได้รับการจัดการโดย:
 %2$s
 
-Your administrator is capable of monitoring your network activity including emails, apps, and secure websites. For more information, contact your administrator.
+ผู้ดูแลระบบของคุณสามารถติดตามกิจกรรมเครือข่ายของคุณรวมถึงอีเมลแอพและเว็บไซต์ที่ปลอดภัย สำหรับข้อมูลเพิ่มเติมติดต่อผู้ดูแลระบบของคุณ
 
-Also, you\'re connected to a VPN (\"%3$s\"). Your VPN service provider can monitor network activity too."</string>
-    <string name="keyguard_indication_trust_disabled">Device will stay locked until you manually unlock</string>
-    <string name="hidden_notifications_title">Get notifications faster</string>
-    <string name="hidden_notifications_text">See them before you unlock</string>
-    <string name="hidden_notifications_cancel">No thanks</string>
-    <string name="hidden_notifications_setup">Set up</string>
+นอกจากนี้คุณกำลังเชื่อมต่อกับ VPN (\"%3$s\") ผู้ให้บริการ VPN ของคุณสามารถตรวจสอบกิจกรรมเครือข่ายได้เช่นกัน "</string>
+    <string name="keyguard_indication_trust_disabled">อุปกรณ์จะยังคงล็อคอยู่จนกว่าคุณจะปลดล็อคด้วยตนเอง</string>
+    <string name="hidden_notifications_title">รับการแจ้งเตือนเร็วขึ้น</string>
+    <string name="hidden_notifications_text">ดูก่อนที่คุณจะปลดล็อค</string>
+    <string name="hidden_notifications_cancel">ไม่เป็นไร ขอบคุณ</string>
+    <string name="hidden_notifications_setup">ตั้งค่า</string>
     <string name="zen_mode_and_condition">%1$s. %2$s</string>
     <string name="screen_pinning_title">Screen is pinned</string>
-    <string name="screen_pinning_description">This keeps it in view until you unpin. Touch and hold Back and Overview at the same time to unpin.</string>
-    <string name="screen_pinning_description_accessible">This keeps it in view until you unpin. Touch and hold Overview to unpin.</string>
-    <string name="screen_pinning_positive">Got it</string>
-    <string name="screen_pinning_negative">No thanks</string>
-    <string name="quick_settings_reset_confirmation_title">Hide %1$s?</string>
-    <string name="quick_settings_reset_confirmation_message">It will reappear the next time you turn it on in settings.</string>
-    <string name="quick_settings_reset_confirmation_button">Hide</string>
+    <string name="screen_pinning_description">สิ่งนี้จะเก็บไว้ในมุมมองจนกว่าคุณจะเลิกปักหมุด แตะย้อนกลับค้างไว้และภาพรวมในเวลาเดียวกันเพื่อเลิกปักหมุด</string>
+    <string name="screen_pinning_description_accessible">จะแสดงหน้านี้จนกว่าคุณจะยกเลิกปักหมุด กดปุ่ม power ค้างเพื่อยกเลิกปักหมุด</string>
+    <string name="screen_pinning_positive">เข้าใจแล้ว</string>
+    <string name="screen_pinning_negative">ไม่เป็นไร ขอบคุณ</string>
+    <string name="quick_settings_reset_confirmation_title">ซ่อน %1$s?</string>
+    <string name="quick_settings_reset_confirmation_message">มันจะปรากฏขึ้นอีกครั้งในครั้งต่อไปที่คุณเปิดในการตั้งค่า</string>
+    <string name="quick_settings_reset_confirmation_button">ซ่อน</string>
     <string name="ok">@android:string/ok</string>
     <string name="widget_default_package_name"></string>
     <string name="widget_default_class_name"></string>
@@ -427,78 +428,78 @@ Also, you\'re connected to a VPN (\"%3$s\"). Your VPN service provider can monit
     <string name="keyguard_password_enter_password_code">Type password to unlock</string>
     <string name="keyguard_password_enter_pin_password_code">Type PIN to unlock</string>
     <string name="keyguard_password_wrong_pin_code">Incorrect PIN code.</string>
-    <string name="keyguard_label_text">To unlock, press Menu then 0.</string>
-    <string name="faceunlock_multiple_failures">Maximum Face Unlock attempts exceeded</string>
-    <string name="keyguard_charged">Charged</string>
-    <string name="keyguard_plugged_in">Charging</string>
-    <string name="keyguard_low_battery">Connect your charger.</string>
-    <string name="keyguard_instructions_when_pattern_disabled">Press Menu to unlock.</string>
-    <string name="keyguard_network_locked_message">Network locked</string>
-    <string name="keyguard_missing_sim_message_short">No SIM card</string>
-    <string name="keyguard_missing_sim_message">No SIM card in tablet.</string>
-    <string name="keyguard_missing_sim_instructions">Insert a SIM card.</string>
-    <string name="keyguard_missing_sim_instructions_long">The SIM card is missing or not readable. Insert a SIM card.</string>
-    <string name="keyguard_permanent_disabled_sim_message_short">Unusable SIM card.</string>
-    <string name="keyguard_permanent_disabled_sim_instructions">"Your SIM card has been permanently disabled.
- Contact your wireless service provider for another SIM card."</string>
-    <string name="keyguard_sim_locked_message">SIM card is locked.</string>
-    <string name="keyguard_sim_puk_locked_message">SIM card is PUK-locked.</string>
-    <string name="keyguard_sim_unlock_progress_dialog_message">Unlocking SIM card…</string>
+    <string name="keyguard_label_text">หากต้องการปลดล็อกให้กดเมนูแล้วตามด้วย 0</string>
+    <string name="faceunlock_multiple_failures">ความพยายามปลดล็อคใบหน้าเกินจำนวนสูงสุด</string>
+    <string name="keyguard_charged">ชาร์จ</string>
+    <string name="keyguard_plugged_in">กำลังชาร์จ</string>
+    <string name="keyguard_low_battery">เชื่อมต่อที่ชาร์จของคุณ</string>
+    <string name="keyguard_instructions_when_pattern_disabled">กดเมนูเพื่อปลดล็อค</string>
+    <string name="keyguard_network_locked_message">เครือข่ายถูกล็อค</string>
+    <string name="keyguard_missing_sim_message_short">ไม่มีซิมการ์ด</string>
+    <string name="keyguard_missing_sim_message">ไม่มีซิมการ์ดในแท็บเล็ต</string>
+    <string name="keyguard_missing_sim_instructions">กรุณาใส่ซิมการ์ด</string>
+    <string name="keyguard_missing_sim_instructions_long">ซิมการ์ดหายไปหรือไม่ ไม่สามารถอ่านได้ กรุณาใส่ซิมการ์ด</string>
+    <string name="keyguard_permanent_disabled_sim_message_short">ซิมการ์ดที่ใช้ไม่ได้</string>
+    <string name="keyguard_permanent_disabled_sim_instructions">"ซิมการ์ดของคุณถูกปิดใช้งานอย่างถาวร
+  ติดต่อผู้ให้บริการอุปกรณ์ไร้สายของคุณเพื่อรับซิมการ์ดใหม่ "</string>
+    <string name="keyguard_sim_locked_message">ซิมการ์ดถูกล็อก</string>
+    <string name="keyguard_sim_puk_locked_message">PUK ซิมการ์ดถูกล็อก</string>
+    <string name="keyguard_sim_unlock_progress_dialog_message">กำลังปลดล็อกซิมการ์ด...</string>
     <string name="keyguard_widget_12_hours_format">hmm</string>
     <string name="keyguard_widget_24_hours_format">kkmm</string>
     <string name="keyguard_accessibility_widget_changed">%1$s. Widget %2$d of %3$d.</string>
-    <string name="keyguard_accessibility_add_widget">Add widget.</string>
-    <string name="keyguard_accessibility_widget_empty_slot">Empty</string>
-    <string name="keyguard_accessibility_unlock_area_expanded">Unlock area expanded.</string>
+    <string name="keyguard_accessibility_add_widget">เพิ่มวิดเจ็ท</string>
+    <string name="keyguard_accessibility_widget_empty_slot">ว่างเปล่า</string>
+    <string name="keyguard_accessibility_unlock_area_expanded">ขยายพื้นที่ปลดล็อค</string>
     <string name="keyguard_accessibility_unlock_area_collapsed">Unlock area collapsed.</string>
-    <string name="keyguard_accessibility_widget">%1$s widget.</string>
-    <string name="keyguard_accessibility_user_selector">User selector</string>
-    <string name="keyguard_accessibility_camera">Camera</string>
-    <string name="keygaurd_accessibility_media_controls">Media controls</string>
-    <string name="keyguard_accessibility_widget_reorder_start">Widget reordering started.</string>
+    <string name="keyguard_accessibility_widget">%1$s วิดเจ็ต</string>
+    <string name="keyguard_accessibility_user_selector">ผู้เลือกผู้ใช้</string>
+    <string name="keyguard_accessibility_camera">กล้องถ่ายรูป</string>
+    <string name="keygaurd_accessibility_media_controls">การควบคุมสื่อ</string>
+    <string name="keyguard_accessibility_widget_reorder_start">เริ่มการจัดเรียงวิดเจ็ดใหม่</string>
     <string name="keyguard_accessibility_widget_reorder_end">Widget reordering ended.</string>
     <string name="keyguard_accessibility_widget_deleted">Widget %1$s deleted.</string>
     <string name="keyguard_accessibility_expand_lock_area">Expand unlock area.</string>
-    <string name="keyguard_accessibility_slide_unlock">Slide unlock.</string>
-    <string name="keyguard_accessibility_pattern_unlock">Pattern unlock.</string>
-    <string name="keyguard_accessibility_face_unlock">Face unlock.</string>
-    <string name="keyguard_accessibility_pin_unlock">Pin unlock.</string>
-    <string name="keyguard_accessibility_password_unlock">Password unlock.</string>
-    <string name="keyguard_accessibility_pattern_area">Pattern area.</string>
-    <string name="keyguard_accessibility_slide_area">Slide area.</string>
-    <string name="keyguard_accessibility_pin_area">PIN area</string>
+    <string name="keyguard_accessibility_slide_unlock">เลื่อนเพื่อปลดล็อค</string>
+    <string name="keyguard_accessibility_pattern_unlock">ปลดล็อครูปแบบ</string>
+    <string name="keyguard_accessibility_face_unlock">ปลดล็อคใบหน้า</string>
+    <string name="keyguard_accessibility_pin_unlock">ปลดล็อคพิน</string>
+    <string name="keyguard_accessibility_password_unlock">ปลดล็อครหัสผ่าน</string>
+    <string name="keyguard_accessibility_pattern_area">พื้นที่รูปแบบ</string>
+    <string name="keyguard_accessibility_slide_area">พื้นที่การเลื่อน</string>
+    <string name="keyguard_accessibility_pin_area">พื้นที่พิน</string>
     <string name="keyguard_accessibility_sim_pin_area">SIM PIN area</string>
     <string name="keyguard_accessibility_sim_puk_area">SIM PUK area</string>
-    <string name="keyguard_accessibility_transport_prev_description">Previous track button</string>
-    <string name="keyguard_accessibility_transport_next_description">Next track button</string>
-    <string name="keyguard_accessibility_transport_pause_description">Pause button</string>
-    <string name="keyguard_accessibility_transport_play_description">Play button</string>
-    <string name="keyguard_accessibility_transport_stop_description">Stop button</string>
-    <string name="keyguard_accessibility_transport_thumbs_up_description">Thumbs up</string>
-    <string name="keyguard_accessibility_transport_thumbs_down_description">Thumbs down</string>
-    <string name="keyguard_accessibility_transport_heart_description">Heart</string>
-    <string name="keyguard_accessibility_show_bouncer">Unlock to continue</string>
-    <string name="keyguard_accessibility_hide_bouncer">Launch canceled</string>
+    <string name="keyguard_accessibility_transport_prev_description">ปุ่มแทร็กก่อนหน้า</string>
+    <string name="keyguard_accessibility_transport_next_description">ปุ่มแทร็กถัดไป</string>
+    <string name="keyguard_accessibility_transport_pause_description">ปุ่มหยุดชั่วคราว</string>
+    <string name="keyguard_accessibility_transport_play_description">ปุ่มเล่น</string>
+    <string name="keyguard_accessibility_transport_stop_description">ปุ่มหยุด</string>
+    <string name="keyguard_accessibility_transport_thumbs_up_description">ยอดเยี่ยม</string>
+    <string name="keyguard_accessibility_transport_thumbs_down_description">แย่ๆ</string>
+    <string name="keyguard_accessibility_transport_heart_description">หัวใจ</string>
+    <string name="keyguard_accessibility_show_bouncer">ปลดล็อคเพื่อดำเนินการต่อ</string>
+    <string name="keyguard_accessibility_hide_bouncer">ยกเลิกการเรียกใช้</string>
     <string name="keyguard_accessibility_delete_widget_start">Drop %1$s to delete.</string>
     <string name="keyguard_accessibility_delete_widget_end">%1$s will not be deleted.</string>
-    <string name="keyguard_accessibility_next_alarm">Next alarm set for %1$s</string>
+    <string name="keyguard_accessibility_next_alarm">ตั้งค่าการเตือนครั้งต่อไปสำหรับ %1$s</string>
     <string name="password_keyboard_label_symbol_key">\?123</string>
     <string name="password_keyboard_label_alpha_key">ABC</string>
     <string name="password_keyboard_label_alt_key">ALT</string>
     <string name="keyboardview_keycode_alt">Alt</string>
-    <string name="keyboardview_keycode_cancel">Cancel</string>
-    <string name="keyboardview_keycode_delete">Delete</string>
-    <string name="keyboardview_keycode_done">Done</string>
-    <string name="keyboardview_keycode_mode_change">Mode change</string>
+    <string name="keyboardview_keycode_cancel">ยกเลิก</string>
+    <string name="keyboardview_keycode_delete">ลบ</string>
+    <string name="keyboardview_keycode_done">เสร็จสิ้น</string>
+    <string name="keyboardview_keycode_mode_change">การเปลี่ยนโหมด</string>
     <string name="keyboardview_keycode_shift">Shift</string>
     <string name="keyboardview_keycode_enter">Enter</string>
-    <string name="description_target_unlock">Unlock</string>
-    <string name="description_target_camera">Camera</string>
-    <string name="description_target_silent">Silent</string>
-    <string name="description_target_soundon">Sound on</string>
-    <string name="description_direction_down">Slide down for %s.</string>
-    <string name="description_direction_right">Slide right for %s.</string>
-    <string name="user_switched">Current user %1$s.</string>
+    <string name="description_target_unlock">ปลดล็อค</string>
+    <string name="description_target_camera">กล้องถ่ายรูป</string>
+    <string name="description_target_silent">เงียบ</string>
+    <string name="description_target_soundon">เปิดเสียง</string>
+    <string name="description_direction_down">เลื่อนลงสำหรับ %s</string>
+    <string name="description_direction_right">เลื่อนไปทางขวาสำหรับ %s.</string>
+    <string name="user_switched">ผู้ใช้ปัจจุบัน %1$s</string>
     <string name="kg_emergency_call_label">Emergency call</string>
     <string name="kg_forgot_pattern_button_text">Forgot Pattern</string>
     <string name="kg_wrong_pattern">Wrong Pattern</string>
@@ -528,34 +529,34 @@ Also, you\'re connected to a VPN (\"%3$s\"). Your VPN service provider can monit
     <string name="kg_login_account_recovery_hint">\"Forgot your username or password?
 Visit \"<b>google.com/accounts/recovery</b>.</string>
     <string name="kg_login_checking_password">Checking account…</string>
-    <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"You have incorrectly typed your PIN %d times. 
+    <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"คุณพิมพ์ PIN %d ครั้งไม่ถูกต้อง
 
-Try again in %d seconds."</string>
-    <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"You have incorrectly typed your password %d times. 
+ลองอีกครั้งใน %d วินาที "</string>
+    <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">คุณพิมพ์รหัสผ่าน %d ครั้งไม่ถูกต้อง
 
-Try again in %d seconds."</string>
-    <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"You have incorrectly drawn your unlock pattern %d times. 
+ลองอีกครั้งใน %d วินาที \"</string>
+    <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"คุณวาดรูปแบบการปลดล็อคผิดพลาด %d ครั้ง
 
-Try again in %d seconds."</string>
-    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">You have incorrectly attempted to unlock the tablet %d times. After %d more unsuccessful attempts, this tablet will be reset, which will delete all its data.</string>
-    <string name="kg_failed_attempts_now_wiping">You have incorrectly attempted to unlock the tablet %d times. This tablet will be reset, which will delete all its data.</string>
-    <string name="kg_failed_attempts_almost_at_erase_user" formatted="false">You have incorrectly attempted to unlock the tablet %d times. After %d more unsuccessful attempts, this user will be removed, which will delete all user data.</string>
-    <string name="kg_failed_attempts_now_erasing_user">You have incorrectly attempted to unlock the tablet %d times. This user will be removed, which will delete all user data.</string>
-    <string name="kg_failed_attempts_almost_at_erase_profile" formatted="false">You have incorrectly attempted to unlock the tablet %d times. After %d more unsuccessful attempts, the work profile will be removed, which will delete all profile data.</string>
-    <string name="kg_failed_attempts_now_erasing_profile">You have incorrectly attempted to unlock the tablet %d times. The work profile will be removed, which will delete all profile data.</string>
-    <string name="kg_failed_attempts_almost_at_login" formatted="false">"You have incorrectly drawn your unlock pattern %d times. After %d more unsuccessful attempts, you will be asked to unlock your tablet using an email account.
+ลองอีกครั้งใน %d วินาที "</string>
+    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">คุณพยายามปลดล็อกแท็บเล็ต %d ครั้งไม่ถูกต้อง หลังจาก %d พยายามไม่สำเร็จมากขึ้นแท็บเล็ตนี้จะถูกรีเซ็ตซึ่งจะลบข้อมูลทั้งหมด</string>
+    <string name="kg_failed_attempts_now_wiping">คุณพยายามปลดล็อกแท็บเล็ต %d ครั้งไม่ถูกต้อง แท็บเล็ตนี้จะถูกรีเซ็ตซึ่งจะลบข้อมูลทั้งหมด</string>
+    <string name="kg_failed_attempts_almost_at_erase_user" formatted="false">คุณพยายามปลดล็อกแท็บเล็ต %d ครั้งไม่ถูกต้อง หลังจาก %d พยายามไม่สำเร็จอีกครั้งผู้ใช้รายนี้จะถูกลบซึ่งจะลบข้อมูลผู้ใช้ทั้งหมด</string>
+    <string name="kg_failed_attempts_now_erasing_user">คุณพยายามปลดล็อกแท็บเล็ต %d ครั้งไม่ถูกต้อง ผู้ใช้นี้จะถูกลบซึ่งจะลบข้อมูลผู้ใช้ทั้งหมด</string>
+    <string name="kg_failed_attempts_almost_at_erase_profile" formatted="false">คุณพยายามปลดล็อกแท็บเล็ต %d ครั้งไม่ถูกต้อง หลังจาก %d พยายามไม่สำเร็จอีกครั้งโปรไฟล์งานจะถูกลบซึ่งจะลบข้อมูลโปรไฟล์ทั้งหมด</string>
+    <string name="kg_failed_attempts_now_erasing_profile">คุณพยายามปลดล็อกแท็บเล็ต %d ครั้งไม่ถูกต้อง โปรไฟล์งานจะถูกลบซึ่งจะลบข้อมูลโปรไฟล์ทั้งหมด</string>
+    <string name="kg_failed_attempts_almost_at_login" formatted="false">"คุณวาดรูปแบบการปลดล็อกผิดพลาด %d ครั้งหลังจากที่ %d พยายามไม่สำเร็จคุณจะถูกขอให้ปลดล็อคแท็บเล็ตโดยใช้บัญชีอีเมล
 
- Try again in %d seconds."</string>
-    <string name="kg_reordering_delete_drop_target_text">Remove</string>
-    <string name="kg_password_wrong_pin_code_pukked">Incorrect SIM PIN code you must now contact your carrier to unlock your device.</string>
-    <string name="kg_password_wrong_puk_code_dead">SIM is unusable. Contact your carrier.</string>
-    <string name="kg_password_pin_failed">SIM PIN operation failed!</string>
-    <string name="kg_password_puk_failed">SIM PUK operation failed!</string>
-    <string name="kg_pin_accepted">Code Accepted!</string>
-    <string name="keyguard_transport_prev_description">Previous track button</string>
-    <string name="keyguard_transport_next_description">Next track button</string>
-    <string name="keyguard_transport_pause_description">Pause button</string>
-    <string name="keyguard_transport_play_description">Play button</string>
-    <string name="keyguard_transport_stop_description">Stop button</string>
-    <string name="keyguard_carrier_default">No service.</string>
+  ลองอีกครั้งใน %d วินาที "</string>
+    <string name="kg_reordering_delete_drop_target_text">เอาออก</string>
+    <string name="kg_password_wrong_pin_code_pukked">รหัส PIN ของซิมไม่ถูกต้องคุณต้องติดต่อผู้ให้บริการของคุณเพื่อปลดล็อคอุปกรณ์ของคุณ</string>
+    <string name="kg_password_wrong_puk_code_dead">SIM ใช้ไม่ได้ ติดต่อผู้ให้บริการของคุณ</string>
+    <string name="kg_password_pin_failed">การดำเนินการล้มเหลว SIM PIN</string>
+    <string name="kg_password_puk_failed">การดำเนินการล้มเหลว SIM PUK</string>
+    <string name="kg_pin_accepted">ยอมรับรหัสแล้ว!</string>
+    <string name="keyguard_transport_prev_description">ปุ่มแทร็กก่อนหน้า</string>
+    <string name="keyguard_transport_next_description">ปุ่มแทร็กถัดไป</string>
+    <string name="keyguard_transport_pause_description">ปุ่มหยุดชั่วคราว</string>
+    <string name="keyguard_transport_play_description">ปุ่มเล่น</string>
+    <string name="keyguard_transport_stop_description">ปุ่มหยุด</string>
+    <string name="keyguard_carrier_default">ไม่มีบริการ</string>
 </resources>
