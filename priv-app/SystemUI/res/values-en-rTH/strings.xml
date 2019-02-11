@@ -241,8 +241,8 @@
     <string name="quick_settings_wifi_detail_empty_text">ไม่มีเครือข่ายที่ใช้งานได้</string>
     <string name="quick_settings_cast_title">ส่งหน้าจอ</string>
     <string name="quick_settings_casting">การแคสต์</string>
-    <string name="quick_settings_cast_device_default_name">Unnamed device</string>
-    <string name="quick_settings_cast_device_default_description">Ready to cast</string>
+    <string name="quick_settings_cast_device_default_name">อุปกรณ์ที่ไม่มีชื่อ</string>
+    <string name="quick_settings_cast_device_default_description">พร้อมที่จะแคสต์หน้าจอ</string>
     <string name="quick_settings_cast_detail_empty_text">อุปกรณ์ไม่พร้อมใช้งาน</string>
     <string name="quick_settings_brightness_dialog_title">ความสว่าง</string>
     <string name="quick_settings_brightness_dialog_auto_brightness_label">อัตโนมัติ</string>
@@ -251,24 +251,24 @@
     <string name="quick_settings_more_settings">ตั้งค่าเพิ่มเติม</string>
     <string name="quick_settings_done">เสร็จสิ้น</string>
     <string name="quick_settings_connected">เชื่อมต่อแล้ว</string>
-    <string name="quick_settings_connected_via_wfa">Connected via Wi‑Fi assistant</string>
-    <string name="quick_settings_connecting">Connecting...</string>
-    <string name="quick_settings_tethering_label">Tethering</string>
-    <string name="quick_settings_hotspot_label">Hotspot</string>
-    <string name="quick_settings_notifications_label">Notifications</string>
-    <string name="quick_settings_flashlight_label">Flashlight</string>
-    <string name="quick_settings_cellular_detail_title">Cellular data</string>
-    <string name="quick_settings_cellular_detail_data_usage">Data usage</string>
-    <string name="quick_settings_cellular_detail_remaining_data">Remaining data</string>
-    <string name="quick_settings_cellular_detail_over_limit">Over limit</string>
-    <string name="quick_settings_cellular_detail_data_used">%s used</string>
-    <string name="quick_settings_cellular_detail_data_limit">%s limit</string>
-    <string name="quick_settings_cellular_detail_data_warning">%s warning</string>
-    <string name="recents_empty_message">Your recent screens appear here</string>
-    <string name="recents_app_info_button_label">Application Info</string>
+    <string name="quick_settings_connected_via_wfa">เชื่อมต่อผ่านผู้ช่วย Wifi</string>
+    <string name="quick_settings_connecting">กำลังเชื่อมต่อ...</string>
+    <string name="quick_settings_tethering_label">การปล่อยสัญญาณและฮอตสปอตแบบพกพา</string>
+    <string name="quick_settings_hotspot_label">ฮอตสปอต</string>
+    <string name="quick_settings_notifications_label">การแจ้งเตือน</string>
+    <string name="quick_settings_flashlight_label">ไฟฉาย</string>
+    <string name="quick_settings_cellular_detail_title">ข้อมูลมือถือ</string>
+    <string name="quick_settings_cellular_detail_data_usage">การ​ใช้​ข้อมูล</string>
+    <string name="quick_settings_cellular_detail_remaining_data">ข้อมูลที่เหลืออยู่</string>
+    <string name="quick_settings_cellular_detail_over_limit">เกินขีดจำกัด</string>
+    <string name="quick_settings_cellular_detail_data_used">%s ที่ใช้ไป</string>
+    <string name="quick_settings_cellular_detail_data_limit">%s ขีดจำกัด</string>
+    <string name="quick_settings_cellular_detail_data_warning">%s การเตือน</string>
+    <string name="recents_empty_message">หน้าจอล่าสุดของคุณปรากฏที่นี่</string>
+    <string name="recents_app_info_button_label">ข้อมูลแอปพลิเคชั่น</string>
     <string name="recents_lock_to_app_button_label">screen pinning</string>
-    <string name="recents_search_bar_label">search</string>
-    <string name="recents_launch_error_message">Could not start %s.</string>
+    <string name="recents_search_bar_label">ค้นหา</string>
+    <string name="recents_launch_error_message">ไม่สามารถเริ่ม %s</string>
     <string name="expanded_header_battery_charged">Charged</string>
     <string name="expanded_header_battery_charging">Charging</string>
     <string name="expanded_header_battery_charging_with_time">%s until full</string>
@@ -343,65 +343,66 @@ be monitored"</string>
     <string name="monitoring_description_legacy_vpn">"คุณเชื่อมต่อกับ VPN (\"%1$s\")
 
 ผู้ให้บริการ VPN ของคุณสามารถตรวจสอบอุปกรณ์และกิจกรรมเครือข่ายของคุณรวมถึงอีเมลแอพและเว็บไซต์ที่ปลอดภัย "</string>
-    <string name="monitoring_description_vpn_device_owned">"This device is managed by:
+    <string name="monitoring_description_vpn_device_owned">"อุปกรณ์นี้จัดการโดย:
 %1$s
 
-Your administrator is capable of monitoring your network activity including emails, apps, and secure websites. For more information, contact your administrator.
+ผู้ดูแลระบบของคุณสามารถติดตามกิจกรรมเครือข่ายของคุณรวมถึงอีเมลแอพและเว็บไซต์ที่ปลอดภัย สำหรับข้อมูลเพิ่มเติมติดต่อผู้ดูแลระบบของคุณ
 
-Also, you gave \"%2$s\" permission to set up a VPN connection. This app can monitor network activity too."</string>
-    <string name="monitoring_description_legacy_vpn_device_owned">"This device is managed by:
+นอกจากนี้คุณยังได้รับอนุญาต \"%2$s\" เพื่อตั้งค่าการเชื่อมต่อ VPN แอพนี้สามารถตรวจสอบกิจกรรมเครือข่ายได้เช่นกัน "</string>
+    <string name="monitoring_description_legacy_vpn_device_owned">"อุปกรณ์นี้จัดการโดย:
 %1$s
 
-Your administrator is capable of monitoring your network activity including emails, apps, and secure websites. For more information, contact your administrator.
+ผู้ดูแลระบบของคุณสามารถติดตามกิจกรรมเครือข่ายของคุณรวมถึงอีเมลแอพและเว็บไซต์ที่ปลอดภัย สำหรับข้อมูลเพิ่มเติมติดต่อผู้ดูแลระบบของคุณ
 
-Also, you\'re connected to a VPN (\"%2$s\"). Your VPN service provider can monitor network activity too."</string>
-    <string name="monitoring_description_profile_owned">"This profile is managed by:
+นอกจากนี้คุณกำลังเชื่อมต่อกับ VPN (\"%2$s\") ผู้ให้บริการ VPN ของคุณสามารถตรวจสอบกิจกรรมเครือข่ายได้เช่นกัน "</string>
+    <string name="monitoring_description_profile_owned">"โปรไฟล์นี้จัดการโดย:
 %1$s
 
-Your administrator can monitor your device and network activity, including emails, apps and secure websites.
+ผู้ดูแลระบบของคุณสามารถตรวจสอบอุปกรณ์และกิจกรรมเครือข่ายของคุณรวมถึงอีเมลแอพและเว็บไซต์ที่ปลอดภัย
 
-For more information, contact your administrator."</string>
-    <string name="monitoring_description_device_and_profile_owned">"This device is managed by:
+สำหรับข้อมูลเพิ่มเติมติดต่อผู้ดูแลระบบของคุณ "</string>
+    <string name="monitoring_description_device_and_profile_owned">"อุปกรณ์นี้จัดการโดย:
 %1$s
-Your profile is managed by:
+โปรไฟล์ของคุณได้รับการจัดการโดย:
 %2$s
 
-Your administrator can monitor your device and network activity, including emails, apps and secure websites.
+ผู้ดูแลระบบของคุณสามารถตรวจสอบอุปกรณ์และกิจกรรมเครือข่ายของคุณรวมถึงอีเมลแอพและเว็บไซต์ที่ปลอดภัย
 
-For more information, contact your administrator."</string>
-    <string name="monitoring_description_vpn_profile_owned">"This profile is managed by:
+สำหรับข้อมูลเพิ่มเติมติดต่อผู้ดูแลระบบของคุณ "</string>
+    <string name="monitoring_description_vpn_profile_owned">\"โปรไฟล์นี้จัดการโดย:
 %1$s
 
-Your administrator is capable of monitoring your network activity including emails, apps, and secure websites. For more information, contact your administrator.
+ผู้ดูแลระบบของคุณสามารถติดตามกิจกรรมเครือข่ายของคุณรวมถึงอีเมลแอพและเว็บไซต์ที่ปลอดภัย สำหรับข้อมูลเพิ่มเติมติดต่อผู้ดูแลระบบของคุณ
 
-Also, you gave \"%2$s\" permission to set up a VPN connection. This app can monitor network activity too."</string>
-    <string name="monitoring_description_legacy_vpn_profile_owned">"This profile is managed by:
+นอกจากนี้คุณยังได้รับอนุญาต \"%2$s\" เพื่อตั้งค่าการเชื่อมต่อ VPN แอพนี้สามารถตรวจสอบกิจกรรมเครือข่ายได้เช่นกัน \"
+\"Porfịl̒ nī̂ cạdkār doy:</string>
+    <string name="monitoring_description_legacy_vpn_profile_owned">"โปรไฟล์นี้จัดการโดย:
 %1$s
 
-Your administrator is capable of monitoring your network activity including emails, apps, and secure websites. For more information, contact your administrator.
+ผู้ดูแลระบบของคุณสามารถติดตามกิจกรรมเครือข่ายของคุณรวมถึงอีเมลแอพและเว็บไซต์ที่ปลอดภัย สำหรับข้อมูลเพิ่มเติมติดต่อผู้ดูแลระบบของคุณ
 
-Also, you\'re connected to a VPN (\"%2$s\"). Your VPN service provider can monitor network activity too."</string>
-    <string name="monitoring_description_vpn_device_and_profile_owned">"This device is managed by:
+นอกจากนี้คุณกำลังเชื่อมต่อกับ VPN (\"%2$s\") ผู้ให้บริการ VPN ของคุณสามารถตรวจสอบกิจกรรมเครือข่ายได้เช่นกัน "</string>
+    <string name="monitoring_description_vpn_device_and_profile_owned">"อุปกรณ์นี้จัดการโดย:
 %1$s
-Your profile is managed by:
+โปรไฟล์ของคุณได้รับการจัดการโดย:
 %2$s
 
-Your administrator is capable of monitoring your network activity including emails, apps, and secure websites. For more information, contact your administrator.
+ผู้ดูแลระบบของคุณสามารถติดตามกิจกรรมเครือข่ายของคุณรวมถึงอีเมลแอพและเว็บไซต์ที่ปลอดภัย สำหรับข้อมูลเพิ่มเติมติดต่อผู้ดูแลระบบของคุณ
 
-Also, you gave \"%3$s\" permission to set up a VPN connection. This app can monitor network activity too."</string>
-    <string name="monitoring_description_legacy_vpn_device_and_profile_owned">"This device is managed by:
+นอกจากนี้คุณยังได้รับอนุญาต \"%3$s\" เพื่อตั้งค่าการเชื่อมต่อ VPN แอพนี้สามารถตรวจสอบกิจกรรมเครือข่ายได้เช่นกัน "</string>
+    <string name="monitoring_description_legacy_vpn_device_and_profile_owned">"อุปกรณ์นี้จัดการโดย:
 %1$s
-Your profile is managed by:
+โปรไฟล์ของคุณได้รับการจัดการโดย:
 %2$s
 
-Your administrator is capable of monitoring your network activity including emails, apps, and secure websites. For more information, contact your administrator.
+ผู้ดูแลระบบของคุณสามารถติดตามกิจกรรมเครือข่ายของคุณรวมถึงอีเมลแอพและเว็บไซต์ที่ปลอดภัย สำหรับข้อมูลเพิ่มเติมติดต่อผู้ดูแลระบบของคุณ
 
-Also, you\'re connected to a VPN (\"%3$s\"). Your VPN service provider can monitor network activity too."</string>
-    <string name="keyguard_indication_trust_disabled">Device will stay locked until you manually unlock</string>
-    <string name="hidden_notifications_title">Get notifications faster</string>
+นอกจากนี้คุณกำลังเชื่อมต่อกับ VPN (\"%3$s\") ผู้ให้บริการ VPN ของคุณสามารถตรวจสอบกิจกรรมเครือข่ายได้เช่นกัน "</string>
+    <string name="keyguard_indication_trust_disabled">อุปกรณ์จะยังคงล็อคอยู่จนกว่าคุณจะปลดล็อคด้วยตนเอง</string>
+    <string name="hidden_notifications_title">รับการแจ้งเตือนเร็วขึ้น</string>
     <string name="hidden_notifications_text">See them before you unlock</string>
-    <string name="hidden_notifications_cancel">No thanks</string>
-    <string name="hidden_notifications_setup">Set up</string>
+    <string name="hidden_notifications_cancel">ไม่เป็นไร ขอบคุณ</string>
+    <string name="hidden_notifications_setup">ตั้งค่า</string>
     <string name="zen_mode_and_condition">%1$s. %2$s</string>
     <string name="screen_pinning_title">Screen is pinned</string>
     <string name="screen_pinning_description">This keeps it in view until you unpin. Touch and hold Back and Overview at the same time to unpin.</string>
