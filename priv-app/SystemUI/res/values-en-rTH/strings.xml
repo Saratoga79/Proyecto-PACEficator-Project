@@ -438,25 +438,25 @@
     <string name="keyguard_missing_sim_message_short">ไม่มีซิมการ์ด</string>
     <string name="keyguard_missing_sim_message">ไม่มีซิมการ์ดในแท็บเล็ต</string>
     <string name="keyguard_missing_sim_instructions">กรุณาใส่ซิมการ์ด</string>
-    <string name="keyguard_missing_sim_instructions_long">The SIM card is missing or not readable. Insert a SIM card.</string>
-    <string name="keyguard_permanent_disabled_sim_message_short">Unusable SIM card.</string>
-    <string name="keyguard_permanent_disabled_sim_instructions">"Your SIM card has been permanently disabled.
- Contact your wireless service provider for another SIM card."</string>
-    <string name="keyguard_sim_locked_message">SIM card is locked.</string>
-    <string name="keyguard_sim_puk_locked_message">SIM card is PUK-locked.</string>
-    <string name="keyguard_sim_unlock_progress_dialog_message">Unlocking SIM card…</string>
+    <string name="keyguard_missing_sim_instructions_long">ซิมการ์ดหายไปหรือไม่ ไม่สามารถอ่านได้ กรุณาใส่ซิมการ์ด</string>
+    <string name="keyguard_permanent_disabled_sim_message_short">ซิมการ์ดที่ใช้ไม่ได้</string>
+    <string name="keyguard_permanent_disabled_sim_instructions">"ซิมการ์ดของคุณถูกปิดใช้งานอย่างถาวร
+  ติดต่อผู้ให้บริการอุปกรณ์ไร้สายของคุณเพื่อรับซิมการ์ดใหม่ "</string>
+    <string name="keyguard_sim_locked_message">ซิมการ์ดถูกล็อก</string>
+    <string name="keyguard_sim_puk_locked_message">PUK ซิมการ์ดถูกล็อก</string>
+    <string name="keyguard_sim_unlock_progress_dialog_message">กำลังปลดล็อกซิมการ์ด...</string>
     <string name="keyguard_widget_12_hours_format">hmm</string>
     <string name="keyguard_widget_24_hours_format">kkmm</string>
     <string name="keyguard_accessibility_widget_changed">%1$s. Widget %2$d of %3$d.</string>
-    <string name="keyguard_accessibility_add_widget">Add widget.</string>
-    <string name="keyguard_accessibility_widget_empty_slot">Empty</string>
+    <string name="keyguard_accessibility_add_widget">เพิ่มวิดเจ็ท</string>
+    <string name="keyguard_accessibility_widget_empty_slot">ว่างเปล่า</string>
     <string name="keyguard_accessibility_unlock_area_expanded">ขยายพื้นที่ปลดล็อค</string>
     <string name="keyguard_accessibility_unlock_area_collapsed">Unlock area collapsed.</string>
     <string name="keyguard_accessibility_widget">%1$s วิดเจ็ต</string>
     <string name="keyguard_accessibility_user_selector">ผู้เลือกผู้ใช้</string>
     <string name="keyguard_accessibility_camera">กล้องถ่ายรูป</string>
     <string name="keygaurd_accessibility_media_controls">การควบคุมสื่อ</string>
-    <string name="keyguard_accessibility_widget_reorder_start">Widget reordering started.</string>
+    <string name="keyguard_accessibility_widget_reorder_start">เริ่มการจัดเรียงวิดเจ็ดใหม่</string>
     <string name="keyguard_accessibility_widget_reorder_end">Widget reordering ended.</string>
     <string name="keyguard_accessibility_widget_deleted">Widget %1$s deleted.</string>
     <string name="keyguard_accessibility_expand_lock_area">Expand unlock area.</string>
@@ -529,27 +529,27 @@
     <string name="kg_login_account_recovery_hint">\"Forgot your username or password?
 Visit \"<b>google.com/accounts/recovery</b>.</string>
     <string name="kg_login_checking_password">Checking account…</string>
-    <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"You have incorrectly typed your PIN %d times. 
+    <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"คุณพิมพ์ PIN %d ครั้งไม่ถูกต้อง
 
-Try again in %d seconds."</string>
-    <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"You have incorrectly typed your password %d times. 
+ลองอีกครั้งใน %d วินาที "</string>
+    <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">คุณพิมพ์รหัสผ่าน %d ครั้งไม่ถูกต้อง
 
-Try again in %d seconds."</string>
-    <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"You have incorrectly drawn your unlock pattern %d times. 
+ลองอีกครั้งใน %d วินาที \"</string>
+    <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"คุณวาดรูปแบบการปลดล็อคผิดพลาด %d ครั้ง
 
-Try again in %d seconds."</string>
-    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">You have incorrectly attempted to unlock the tablet %d times. After %d more unsuccessful attempts, this tablet will be reset, which will delete all its data.</string>
-    <string name="kg_failed_attempts_now_wiping">You have incorrectly attempted to unlock the tablet %d times. This tablet will be reset, which will delete all its data.</string>
-    <string name="kg_failed_attempts_almost_at_erase_user" formatted="false">You have incorrectly attempted to unlock the tablet %d times. After %d more unsuccessful attempts, this user will be removed, which will delete all user data.</string>
-    <string name="kg_failed_attempts_now_erasing_user">You have incorrectly attempted to unlock the tablet %d times. This user will be removed, which will delete all user data.</string>
-    <string name="kg_failed_attempts_almost_at_erase_profile" formatted="false">You have incorrectly attempted to unlock the tablet %d times. After %d more unsuccessful attempts, the work profile will be removed, which will delete all profile data.</string>
-    <string name="kg_failed_attempts_now_erasing_profile">You have incorrectly attempted to unlock the tablet %d times. The work profile will be removed, which will delete all profile data.</string>
-    <string name="kg_failed_attempts_almost_at_login" formatted="false">"You have incorrectly drawn your unlock pattern %d times. After %d more unsuccessful attempts, you will be asked to unlock your tablet using an email account.
+ลองอีกครั้งใน %d วินาที "</string>
+    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">คุณพยายามปลดล็อกแท็บเล็ต %d ครั้งไม่ถูกต้อง หลังจาก %d พยายามไม่สำเร็จมากขึ้นแท็บเล็ตนี้จะถูกรีเซ็ตซึ่งจะลบข้อมูลทั้งหมด</string>
+    <string name="kg_failed_attempts_now_wiping">คุณพยายามปลดล็อกแท็บเล็ต %d ครั้งไม่ถูกต้อง แท็บเล็ตนี้จะถูกรีเซ็ตซึ่งจะลบข้อมูลทั้งหมด</string>
+    <string name="kg_failed_attempts_almost_at_erase_user" formatted="false">คุณพยายามปลดล็อกแท็บเล็ต %d ครั้งไม่ถูกต้อง หลังจาก %d พยายามไม่สำเร็จอีกครั้งผู้ใช้รายนี้จะถูกลบซึ่งจะลบข้อมูลผู้ใช้ทั้งหมด</string>
+    <string name="kg_failed_attempts_now_erasing_user">คุณพยายามปลดล็อกแท็บเล็ต %d ครั้งไม่ถูกต้อง ผู้ใช้นี้จะถูกลบซึ่งจะลบข้อมูลผู้ใช้ทั้งหมด</string>
+    <string name="kg_failed_attempts_almost_at_erase_profile" formatted="false">คุณพยายามปลดล็อกแท็บเล็ต %d ครั้งไม่ถูกต้อง หลังจาก %d พยายามไม่สำเร็จอีกครั้งโปรไฟล์งานจะถูกลบซึ่งจะลบข้อมูลโปรไฟล์ทั้งหมด</string>
+    <string name="kg_failed_attempts_now_erasing_profile">คุณพยายามปลดล็อกแท็บเล็ต %d ครั้งไม่ถูกต้อง โปรไฟล์งานจะถูกลบซึ่งจะลบข้อมูลโปรไฟล์ทั้งหมด</string>
+    <string name="kg_failed_attempts_almost_at_login" formatted="false">"คุณวาดรูปแบบการปลดล็อกผิดพลาด %d ครั้งหลังจากที่ %d พยายามไม่สำเร็จคุณจะถูกขอให้ปลดล็อคแท็บเล็ตโดยใช้บัญชีอีเมล
 
- Try again in %d seconds."</string>
-    <string name="kg_reordering_delete_drop_target_text">Remove</string>
-    <string name="kg_password_wrong_pin_code_pukked">Incorrect SIM PIN code you must now contact your carrier to unlock your device.</string>
-    <string name="kg_password_wrong_puk_code_dead">SIM is unusable. Contact your carrier.</string>
+  ลองอีกครั้งใน %d วินาที "</string>
+    <string name="kg_reordering_delete_drop_target_text">เอาออก</string>
+    <string name="kg_password_wrong_pin_code_pukked">รหัส PIN ของซิมไม่ถูกต้องคุณต้องติดต่อผู้ให้บริการของคุณเพื่อปลดล็อคอุปกรณ์ของคุณ</string>
+    <string name="kg_password_wrong_puk_code_dead">SIM ใช้ไม่ได้ ติดต่อผู้ให้บริการของคุณ</string>
     <string name="kg_password_pin_failed">การดำเนินการล้มเหลว SIM PIN</string>
     <string name="kg_password_puk_failed">การดำเนินการล้มเหลว SIM PUK</string>
     <string name="kg_pin_accepted">ยอมรับรหัสแล้ว!</string>
