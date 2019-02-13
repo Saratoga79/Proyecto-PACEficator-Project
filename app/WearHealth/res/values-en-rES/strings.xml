@@ -24,7 +24,7 @@
     <string name="label_subject_ratio_today">Relación de actividad</string>
     <string name="label_burning_ratio_today">Relación de consumo</string>
     <string name="label_step_unit">Pasos</string>
-    <string name="label_calory_unit">kcal</string>
+    <string name="label_calory_unit">kCal</string>
     <string name="label_subject_active">Activo</string>
     <string name="label_subject_sit">Inactivo</string>
     <string name="label_burning_active">Calorías</string>
@@ -119,7 +119,7 @@
     <string name="high_strength_heart_rate">Anaeróbico</string>
     <string name="aerobic_heart_rate">Aeróbico</string>
     <string name="burning_fat_heart_rate">Quema de grasas</string>
-    <string name="non_movement_heart_rate">Non-workout</string>
+    <string name="non_movement_heart_rate">Ningún Entrenamiento</string>
     <string name="sleep_heart_rate">Sueño</string>
     <string name="anaerobic_limit_heart_rate">Máximo</string>
     <string name="power_strength_heart_rate">Anaeróbico</string>
@@ -134,7 +134,7 @@
     <string name="heart_name">Corazón</string>
     <string name="step_name">Paso</string>
     <string name="sleep_name">Sueño</string>
-    <string name="climbed_floors">Climbed</string>
+    <string name="climbed_floors">Pisos</string>
     <string name="widget_label_step">Hoy</string>
     <string name="widget_heart_analysis">Analizar</string>
     <string name="widget_step_target_txt">Objetivo: <liff>%d</liff></string>
@@ -177,7 +177,7 @@
     <string name="weeklysports_totaltime">Tiempo total</string>
     <string name="weeklysports_totaltime_unit">/</string>
     <string name="weeklysports_totalcalories">Calorías Tot.</string>
-    <string name="weeklysports_totalcalories_unit">kcal</string>
+    <string name="weeklysports_totalcalories_unit">kCal</string>
     <string name="weeklysports_totalmileage">Distancia Tot.</string>
     <string name="weeklysports_totalmileage_unit_zh">km</string>
     <string name="weeklysports_totalmileage_unit_en">millas</string>
@@ -205,7 +205,7 @@
     <string name="weeklysports_day">d</string>
     <string name="weeklysports_activity">Activo</string>
     <string name="weeklysports_running">Correr</string>
-    <string name="weeklysports_walking">Walking</string>
+    <string name="weeklysports_walking">Caminar</string>
     <string name="weeklysports_riding">Ciclismo</string>
     <string name="weekly_step_attained_rate">Días para conseguir el Objetivo de Pasos</string>
     <string name="weekly_sports_notification_content">Las estadísticas de las Actividades de la semana pasada estás disponibles.</string>
@@ -220,7 +220,7 @@
     <string name="widget_currentstep_activity_no">¿No te ejercitas hoy?</string>
     <string name="currentstep_detail_activity">Actividad</string>
     <string name="currentstep_detail_running">Correr</string>
-    <string name="currentstep_detail_walking">Walking</string>
+    <string name="currentstep_detail_walking">Caminar</string>
     <string name="currentstep_detail_riding">Ciclismo</string>
     <string name="currentstep_detail_swimming">Natación</string>
     <string name="currentstep_detail_mountain">Montañismo</string>
@@ -244,7 +244,7 @@
     <string name="currentstep_detail_heart_rate_max_text">Máx</string>
     <string name="currentstep_detail_heart_rate_min_text">Mín</string>
     <string name="currentstep_detail_heart_rate_quiet_text">Inact</string>
-    <string name="currentstep_detail_calories_unit">kcal</string>
+    <string name="currentstep_detail_calories_unit">kCal</string>
     <string name="currentstep_detail_sleep_hour">h</string>
     <string name="currentstep_detail_sleep_min">min</string>
     <string name="currentstep_detail_heart_unit">ppm</string>
@@ -266,7 +266,7 @@
     <string name="stretch_dialog_cancel">Cancelar</string>
     <string name="floor_description">Nota: un piso son 3 metros</string>
     <string name="open_xiaom_app_failed_content">Por favor, intente instalar la app Millet sports.</string>
-    <string name="open_xiaomi_app_failed_title">"Can't open Mi Fit app"</string>
+    <string name="open_xiaomi_app_failed_title">"No se puede abrir la aplicación Mi Fit"</string>
     <string name="stretch_connection_failed_button">Reintentar</string>
     <string name="stretch_connection_failed_content">Por favor, abra la conexión Bluetooth del teléfono, mantenga la aplicación abierta y vuelve a intentarlo.</string>
     <string name="stretch_connection_failed_title">"No se puede vincular al teléfono"</string>
@@ -280,7 +280,7 @@
     <string name="stretch_dialog_button_retry">Reintentar</string>
     <string name="date_format">dd/MM</string>
     <string name="app_list_title">Actividad</string>
-    <string name="currentstep_detail_activities">Active time</string>
+    <string name="currentstep_detail_activities">Tie. en movimiento</string>
     <string name="currentstep_detail_activities_title">Leyenda de distribución de actividad</string>
     <string name="currentstep_detail_activities_others">Otro</string>
     <string name="label_heartrate_unit">ppm</string>
