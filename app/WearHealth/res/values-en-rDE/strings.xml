@@ -24,7 +24,7 @@
     <string name="label_subject_ratio_today">Aktivitätsverhältnis</string>
     <string name="label_burning_ratio_today">Verbrennungsverhältnis</string>
     <string name="label_step_unit">Schritte</string>
-    <string name="label_calory_unit">kcal</string>
+    <string name="label_calory_unit">kCal</string>
     <string name="label_subject_active">Aktiv</string>
     <string name="label_subject_sit">Ohne Bewegung</string>
     <string name="label_burning_active">Kalorien</string>
@@ -119,7 +119,7 @@
     <string name="high_strength_heart_rate">Anaerobik</string>
     <string name="aerobic_heart_rate">Aerobik</string>
     <string name="burning_fat_heart_rate">Fettverbrennung</string>
-    <string name="non_movement_heart_rate">Non-workout</string>
+    <string name="non_movement_heart_rate">ohne Training</string>
     <string name="sleep_heart_rate">Schlaf</string>
     <string name="anaerobic_limit_heart_rate">Maximum</string>
     <string name="power_strength_heart_rate">Anaerobik</string>
@@ -134,7 +134,7 @@
     <string name="heart_name">Herzfrequenz</string>
     <string name="step_name">Schritt</string>
     <string name="sleep_name">Schlaf</string>
-    <string name="climbed_floors">Climbed</string>
+    <string name="climbed_floors">Etagen gestiegen</string>
     <string name="widget_label_step">Heute</string>
     <string name="widget_heart_analysis">Analyse</string>
     <string name="widget_step_target_txt">Ziel: <liff>%d</liff></string>
@@ -177,7 +177,7 @@
     <string name="weeklysports_totaltime">Benötigte Zeit insgesamt</string>
     <string name="weeklysports_totaltime_unit">/</string>
     <string name="weeklysports_totalcalories">Gesamte Kalorien</string>
-    <string name="weeklysports_totalcalories_unit">kcal</string>
+    <string name="weeklysports_totalcalories_unit">kCal</string>
     <string name="weeklysports_totalmileage">Gesamtentfernung</string>
     <string name="weeklysports_totalmileage_unit_zh">Km</string>
     <string name="weeklysports_totalmileage_unit_en">mi</string>
@@ -205,7 +205,7 @@
     <string name="weeklysports_day">d</string>
     <string name="weeklysports_activity">Aktivität</string>
     <string name="weeklysports_running">Laufen</string>
-    <string name="weeklysports_walking">Walking</string>
+    <string name="weeklysports_walking">Gehen</string>
     <string name="weeklysports_riding">Radfahren</string>
     <string name="weekly_step_attained_rate">Tage bis zum Erreichen des Abschnittziels</string>
     <string name="weekly_sports_notification_content">Die Aktivitätszusammenfassung der letzten Woche ist fertig.</string>
@@ -220,7 +220,7 @@
     <string name="widget_currentstep_activity_no">Heute kein Training?</string>
     <string name="currentstep_detail_activity">Aktivität</string>
     <string name="currentstep_detail_running">Laufen</string>
-    <string name="currentstep_detail_walking">Walking</string>
+    <string name="currentstep_detail_walking">Gehen</string>
     <string name="currentstep_detail_riding">Radfahren</string>
     <string name="currentstep_detail_swimming">Schwimmen</string>
     <string name="currentstep_detail_mountain">Bergsteigen</string>
@@ -244,7 +244,7 @@
     <string name="currentstep_detail_heart_rate_max_text">Max.</string>
     <string name="currentstep_detail_heart_rate_min_text">Min.</string>
     <string name="currentstep_detail_heart_rate_quiet_text">Ruhend</string>
-    <string name="currentstep_detail_calories_unit">kcal</string>
+    <string name="currentstep_detail_calories_unit">kCal</string>
     <string name="currentstep_detail_sleep_hour">Std.</string>
     <string name="currentstep_detail_sleep_min">Min.</string>
     <string name="currentstep_detail_heart_unit">(S/min)</string>
@@ -266,7 +266,7 @@
     <string name="stretch_dialog_cancel">Abbruch</string>
     <string name="floor_description">Info: \"Eine Etage\" sind rund 3m</string>
     <string name="open_xiaom_app_failed_content">Versuchen Sie es erneut, nachdem Sie die MiFit App installiert haben</string>
-    <string name="open_xiaomi_app_failed_title">"Can't open Mi Fit app"</string>
+    <string name="open_xiaomi_app_failed_title">"Kann MiFit App nicht öffnen"</string>
     <string name="stretch_connection_failed_button">Erneut versuchen</string>
     <string name="stretch_connection_failed_content">Bitte stellen Sie sicher, dass die Uhr mit Ihrem Telefon verbunden ist und die Amazfit Watch App gestartet ist</string>
     <string name="stretch_connection_failed_title">"Es kann keine Verbindung zu Ihrem Telefon hergestellt werden"</string>
@@ -280,7 +280,7 @@
     <string name="stretch_dialog_button_retry">Erneut versuchen</string>
     <string name="date_format">dd/MM</string>
     <string name="app_list_title">Aktivitäten</string>
-    <string name="currentstep_detail_activities">Active time</string>
+    <string name="currentstep_detail_activities">Zeitverteilung (Min)</string>
     <string name="currentstep_detail_activities_title">Legende</string>
     <string name="currentstep_detail_activities_others">Anderen</string>
     <string name="label_heartrate_unit">spm</string>
