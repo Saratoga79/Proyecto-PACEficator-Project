@@ -135,7 +135,7 @@ Gordura</string>
     <string name="heart_name">FC</string>
     <string name="step_name">Passo</string>
     <string name="sleep_name">Sono</string>
-    <string name="climbed_floors">Andares escalados:</string>
+    <string name="climbed_floors">Climbed</string>
     <string name="widget_label_step">Hoje</string>
     <string name="widget_heart_analysis">Analisar</string>
     <string name="widget_step_target_txt">Objetivo: <liff>%d</liff></string>
@@ -179,7 +179,7 @@ Gordura</string>
     <string name="weeklysports_totaltime">Tempo total decorrido</string>
     <string name="weeklysports_totaltime_unit">/</string>
     <string name="weeklysports_totalcalories">Total de calorias</string>
-    <string name="weeklysports_totalcalories_unit">kCal</string>
+    <string name="weeklysports_totalcalories_unit">kcal</string>
     <string name="weeklysports_totalmileage">Distância total</string>
     <string name="weeklysports_totalmileage_unit_zh">km</string>
     <string name="weeklysports_totalmileage_unit_en">mi</string>
@@ -207,7 +207,7 @@ Gordura</string>
     <string name="weeklysports_day">d</string>
     <string name="weeklysports_activity">Atividade</string>
     <string name="weeklysports_running">Corrida</string>
-    <string name="weeklysports_walking">Caminhada</string>
+    <string name="weeklysports_walking">Walking</string>
     <string name="weeklysports_riding">Pedalada</string>
     <string name="weekly_step_attained_rate">Atingiu a meta</string>
     <string name="weekly_sports_notification_content">O sumário de atividades da semana passada está pronto.</string>
@@ -222,7 +222,7 @@ Gordura</string>
     <string name="widget_currentstep_activity_no">Sem exercícios hoje?</string>
     <string name="currentstep_detail_activity">Atividade</string>
     <string name="currentstep_detail_running">Corrida</string>
-    <string name="currentstep_detail_walking">Caminhada</string>
+    <string name="currentstep_detail_walking">Walking</string>
     <string name="currentstep_detail_riding">Pedalada</string>
     <string name="currentstep_detail_swimming">Nado</string>
     <string name="currentstep_detail_mountain">Montanhismo</string>
@@ -246,7 +246,7 @@ Gordura</string>
     <string name="currentstep_detail_heart_rate_max_text">Máxima</string>
     <string name="currentstep_detail_heart_rate_min_text">Mín</string>
     <string name="currentstep_detail_heart_rate_quiet_text">Descansando</string>
-    <string name="currentstep_detail_calories_unit">kCal</string>
+    <string name="currentstep_detail_calories_unit">kcal</string>
     <string name="currentstep_detail_sleep_hour">h</string>
     <string name="currentstep_detail_sleep_min">min</string>
     <string name="currentstep_detail_heart_unit">bpm</string>
@@ -268,8 +268,7 @@ Gordura</string>
     <string name="stretch_dialog_cancel">Cancelar</string>
     <string name="floor_description">Nota: \"Um andar\" tem aproximadamente 3 metros</string>
     <string name="open_xiaom_app_failed_content">Tente novamente após instalar o app MiFit</string>
-    <string name="open_xiaomi_app_failed_title">"\"\"\"Impossível abrir o app MiFit
-\"\"\""</string>
+    <string name="open_xiaomi_app_failed_title">"Can't open Mi Fit app"</string>
     <string name="stretch_connection_failed_button">Tentar novamente</string>
     <string name="stretch_connection_failed_content">\"Certifique-se que o relógio está conectado ao seu telefone e o app Amazfit Watch está aberto
 \"</string>
@@ -286,7 +285,7 @@ Gordura</string>
     <string name="stretch_dialog_button_retry">Tentar novamente</string>
     <string name="date_format">dd/MM</string>
     <string name="app_list_title">Activity</string>
-    <string name="currentstep_detail_activities">Tempo em atividade</string>
+    <string name="currentstep_detail_activities">Active time</string>
     <string name="currentstep_detail_activities_title">Legenda</string>
     <string name="currentstep_detail_activities_others">Outro</string>
     <string name="label_heartrate_unit">bpm</string>
