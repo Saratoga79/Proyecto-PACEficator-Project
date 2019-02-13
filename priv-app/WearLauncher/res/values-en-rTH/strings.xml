@@ -86,15 +86,15 @@
     <string name="action_failure">"ขออภัย ไม่ได้"</string>
     <string name="action_success">สำเร็จ!</string>
     <string name="action_working">ระหว่างทาง...</string>
-    <string name="activity_not_found">ปัญหาการดำเนินการที่ร้องขอเสร็จสมบูรณ์ขึ้น</string>
+    <string name="activity_not_found">มีปัญหาในการดำเนินการตามที่ร้องขอ</string>
     <string name="data_checkfail_match">ไม่ตรงกับฟิลด์ชนิดของสภาพอากาศ</string>
     <string name="data_checkfail_temp">สภาพอากาศอุณหภูมิอยู่ในช่วง</string>
     <string name="data_checkfail_type">ไม่รู้จักชนิดของสภาพอากาศ</string>
     <string name="wathc_disconnection_content">ไม่มีการเชื่อมต่อโทรศัพท์</string>
     <string name="wathc_disconnection_title">ตัดการเชื่อมต่อแล้ว</string>
-    <string name="notification_block">โดยไม่ทราบ</string>
+    <string name="notification_block">โดยไม่ต้องแจ้งให้ทราบล่วงหน้า</string>
     <string name="notification_block_cancel">ยกเลิก</string>
-    <string name="notification_block_message">ไม่ได้รับการแจ้งเตือน</string>
+    <string name="notification_block_message">ไม่รับการแจ้งเตือนของแอพอีกต่อไป</string>
     <string name="notification_block_ok">ยืนยัน</string>
     <string name="notification_more_settings">ตั้งค่าเพิ่มเติม</string>
     <string name="notification_time_just">เดี๋ยวนี้</string>
@@ -106,7 +106,7 @@
     <string name="music_stop_status">หยุดชั่วคราว</string>
     <string name="music_play_status">กำลังเล่น</string>
     <string name="music_bulethooth_disconnect">ตรวจสอบการเชื่อมต่อบลูทูธ</string>
-    <string name="music_peek_content">โทรศัพท์ของคุณใช้เล่นเพลง %s พ สามารถทำการควบคุมรวดเร็วของเพลงในแถบแจ้งเตือนนาฬิกา</string>
+    <string name="music_peek_content">โทรศัพท์ของคุณใช้แอพ %s เพื่อเล่นเพลง สามารถควบคุมเพลงได้อย่างรวดเร็วในแถบการแจ้งเตือนของนาฬิกา</string>
     <string name="launcher_app_name">Launcher</string>
     <string name="hm_watch_sports_notification_km">กิโลเมตร</string>
     <string name="hm_watch_sports_notification_sports">กีฬา</string>
