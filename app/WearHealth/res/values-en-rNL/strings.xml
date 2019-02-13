@@ -24,7 +24,7 @@
     <string name="label_subject_ratio_today">Activiteitsratio</string>
     <string name="label_burning_ratio_today">Verbruiksratio</string>
     <string name="label_step_unit">Stappen</string>
-    <string name="label_calory_unit">kCal</string>
+    <string name="label_calory_unit">kcal</string>
     <string name="label_subject_active">Actief</string>
     <string name="label_subject_sit">Stil</string>
     <string name="label_burning_active">Calorieën</string>
@@ -119,7 +119,7 @@
     <string name="high_strength_heart_rate">Anaerobisch</string>
     <string name="aerobic_heart_rate">Aerobisch</string>
     <string name="burning_fat_heart_rate">Vet verbranden</string>
-    <string name="non_movement_heart_rate">Non-Workout</string>
+    <string name="non_movement_heart_rate">Non-workout</string>
     <string name="sleep_heart_rate">Slaap</string>
     <string name="anaerobic_limit_heart_rate">Maximum</string>
     <string name="power_strength_heart_rate">Anaerobisch</string>
@@ -134,7 +134,7 @@
     <string name="heart_name">Hartslag</string>
     <string name="step_name">Stap</string>
     <string name="sleep_name">Slaap</string>
-    <string name="climbed_floors">Verdiepingen gedaan:</string>
+    <string name="climbed_floors">Climbed</string>
     <string name="widget_label_step">Vandaag</string>
     <string name="widget_heart_analysis">Analiseer</string>
     <string name="widget_step_target_txt">Goal:  <liff>%d</liff></string>
@@ -177,7 +177,7 @@
     <string name="weeklysports_totaltime">Totale verstreken tijd</string>
     <string name="weeklysports_totaltime_unit">/</string>
     <string name="weeklysports_totalcalories">Totaal aantal calorieën</string>
-    <string name="weeklysports_totalcalories_unit">kCal</string>
+    <string name="weeklysports_totalcalories_unit">kcal</string>
     <string name="weeklysports_totalmileage">Totale afstand</string>
     <string name="weeklysports_totalmileage_unit_zh">km</string>
     <string name="weeklysports_totalmileage_unit_en">mi</string>
@@ -205,7 +205,7 @@
     <string name="weeklysports_day">d</string>
     <string name="weeklysports_activity">Bewegen</string>
     <string name="weeklysports_running">Lopen</string>
-    <string name="weeklysports_walking">Wandelen</string>
+    <string name="weeklysports_walking">Walking</string>
     <string name="weeklysports_riding">Fietsen</string>
     <string name="weekly_step_attained_rate">Dagen om stapdoel te bereiken</string>
     <string name="weekly_sports_notification_content">Activiteitenoverzicht van vorige week is gereed.</string>
@@ -220,7 +220,7 @@
     <string name="widget_currentstep_activity_no">Geen activiteit vandaag?</string>
     <string name="currentstep_detail_activity">Bewegen</string>
     <string name="currentstep_detail_running">Lopen</string>
-    <string name="currentstep_detail_walking">Wandelen</string>
+    <string name="currentstep_detail_walking">Walking</string>
     <string name="currentstep_detail_riding">Fietsen</string>
     <string name="currentstep_detail_swimming">Zwemmen</string>
     <string name="currentstep_detail_mountain">Klimmen</string>
@@ -244,7 +244,7 @@
     <string name="currentstep_detail_heart_rate_max_text">Max</string>
     <string name="currentstep_detail_heart_rate_min_text">Min</string>
     <string name="currentstep_detail_heart_rate_quiet_text">Rust hartslag</string>
-    <string name="currentstep_detail_calories_unit">kCal</string>
+    <string name="currentstep_detail_calories_unit">kcal</string>
     <string name="currentstep_detail_sleep_hour">uur</string>
     <string name="currentstep_detail_sleep_min">min</string>
     <string name="currentstep_detail_heart_unit">bpm</string>
@@ -266,7 +266,7 @@
     <string name="stretch_dialog_cancel">Annuleer</string>
     <string name="floor_description">Opmerking: \"Eén verdieping\" is ongeveer 3 meter hoog </string>
     <string name="open_xiaom_app_failed_content">Probeer opnieuw na het installeren van de MiFit-app</string>
-    <string name="open_xiaomi_app_failed_title">"Kan MiFit-app niet openen"</string>
+    <string name="open_xiaomi_app_failed_title">"Can't open Mi Fit app"</string>
     <string name="stretch_connection_failed_button">opnieuw proberen</string>
     <string name="stretch_connection_failed_content">Zorg ervoor dat het horloge is verbonden met je telefoon en dat de Amazfit Watch-app is gelanceerd</string>
     <string name="stretch_connection_failed_title">"Kan geen verbinding maken met je telefoon"</string>
@@ -280,7 +280,7 @@
     <string name="stretch_dialog_button_retry">opnieuw proberen</string>
     <string name="date_format">dd/MM</string>
     <string name="app_list_title">Activiteit</string>
-    <string name="currentstep_detail_activities">Huidige stappen</string>
+    <string name="currentstep_detail_activities">Active time</string>
     <string name="currentstep_detail_activities_title">Huidige stappen</string>
     <string name="currentstep_detail_activities_others">Overig</string>
     <string name="label_heartrate_unit">bpm</string>
