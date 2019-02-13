@@ -24,7 +24,7 @@
     <string name="label_subject_ratio_today">Соотношение активности</string>
     <string name="label_burning_ratio_today">Соотношение потребления</string>
     <string name="label_step_unit">Шаги</string>
-    <string name="label_calory_unit">kcal</string>
+    <string name="label_calory_unit">ккал</string>
     <string name="label_subject_active">Активный</string>
     <string name="label_subject_sit">До сих пор</string>
     <string name="label_burning_active">Калории</string>
@@ -119,7 +119,7 @@
     <string name="high_strength_heart_rate">Анаэробный</string>
     <string name="aerobic_heart_rate">Аэробный режим</string>
     <string name="burning_fat_heart_rate">Сжигание жира</string>
-    <string name="non_movement_heart_rate">Non-workout</string>
+    <string name="non_movement_heart_rate">Без тренировки</string>
     <string name="sleep_heart_rate">Сон</string>
     <string name="anaerobic_limit_heart_rate">Максимум</string>
     <string name="power_strength_heart_rate">Анаэробный</string>
@@ -134,7 +134,7 @@
     <string name="heart_name">Пульс</string>
     <string name="step_name">Шаг</string>
     <string name="sleep_name">Сон</string>
-    <string name="climbed_floors">Climbed</string>
+    <string name="climbed_floors">Подъем на этаж</string>
     <string name="widget_label_step">Сегодня</string>
     <string name="widget_heart_analysis">Анализ</string>
     <string name="widget_step_target_txt">Цель:  <liff>%d</liff></string>
@@ -177,7 +177,7 @@
     <string name="weeklysports_totaltime">Всего прошло времени</string>
     <string name="weeklysports_totaltime_unit">/</string>
     <string name="weeklysports_totalcalories">Всего калорий</string>
-    <string name="weeklysports_totalcalories_unit">kcal</string>
+    <string name="weeklysports_totalcalories_unit">ккал</string>
     <string name="weeklysports_totalmileage">Общее расстояние</string>
     <string name="weeklysports_totalmileage_unit_zh">км</string>
     <string name="weeklysports_totalmileage_unit_en">ми</string>
@@ -205,7 +205,7 @@
     <string name="weeklysports_day">д</string>
     <string name="weeklysports_activity">Перемещение</string>
     <string name="weeklysports_running">Бег</string>
-    <string name="weeklysports_walking">Walking</string>
+    <string name="weeklysports_walking">Прогулка</string>
     <string name="weeklysports_riding">Велосипед</string>
     <string name="weekly_step_attained_rate">Дней, чтобы достичь цели по шагам</string>
     <string name="weekly_sports_notification_content">Суммарная тренировка за прошлую неделю готова.</string>
@@ -220,7 +220,7 @@
     <string name="widget_currentstep_activity_no">Сегодня нет тренировок?</string>
     <string name="currentstep_detail_activity">Переместить</string>
     <string name="currentstep_detail_running">Бег</string>
-    <string name="currentstep_detail_walking">Walking</string>
+    <string name="currentstep_detail_walking">Прогулка</string>
     <string name="currentstep_detail_riding">Велосипед</string>
     <string name="currentstep_detail_swimming">Плаванье</string>
     <string name="currentstep_detail_mountain">Восхождение</string>
@@ -244,7 +244,7 @@
     <string name="currentstep_detail_heart_rate_max_text">Макс.</string>
     <string name="currentstep_detail_heart_rate_min_text">Мин.</string>
     <string name="currentstep_detail_heart_rate_quiet_text">Отдых</string>
-    <string name="currentstep_detail_calories_unit">kcal</string>
+    <string name="currentstep_detail_calories_unit">ккал</string>
     <string name="currentstep_detail_sleep_hour">час</string>
     <string name="currentstep_detail_sleep_min">мин</string>
     <string name="currentstep_detail_heart_unit">уд. в мин</string>
@@ -266,7 +266,7 @@
     <string name="stretch_dialog_cancel">Отменить</string>
     <string name="floor_description">Примечание: «Один этаж» равен 10 футам</string>
     <string name="open_xiaom_app_failed_content">Повторите попытку после установки приложения MiFit</string>
-    <string name="open_xiaomi_app_failed_title">"Can't open Mi Fit app"</string>
+    <string name="open_xiaomi_app_failed_title">"Не удается открыть приложение MiFit"</string>
     <string name="stretch_connection_failed_button">Повтор</string>
     <string name="stretch_connection_failed_content">Пожалуйста убедитесь, что часы подключены к телефону и приложение Amazfit Watch запущено</string>
     <string name="stretch_connection_failed_title">"Не удается подключиться к вашему телефону"</string>
@@ -281,7 +281,7 @@
     <string name="stretch_dialog_button_retry">Повтор</string>
     <string name="date_format">MM/dd</string>
     <string name="app_list_title">Тренировки</string>
-    <string name="currentstep_detail_activities">Active time</string>
+    <string name="currentstep_detail_activities">Время тренировок</string>
     <string name="currentstep_detail_activities_title">Легенда</string>
     <string name="currentstep_detail_activities_others">Другое</string>
     <string name="label_heartrate_unit">уд. в мин</string>
