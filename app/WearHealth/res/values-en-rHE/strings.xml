@@ -24,7 +24,7 @@
     <string name="label_subject_ratio_today">יחס פעילות</string>
     <string name="label_burning_ratio_today">יחס צריכה</string>
     <string name="label_step_unit">צעדים</string>
-    <string name="label_calory_unit">kCal</string>
+    <string name="label_calory_unit">kcal</string>
     <string name="label_subject_active">פעיל</string>
     <string name="label_subject_sit">יושב</string>
     <string name="label_burning_active">קלוריות</string>
@@ -119,7 +119,7 @@
     <string name="high_strength_heart_rate">אנאירובי</string>
     <string name="aerobic_heart_rate">אירובי</string>
     <string name="burning_fat_heart_rate">שריפת שומן</string>
-    <string name="non_movement_heart_rate">ללא אימון</string>
+    <string name="non_movement_heart_rate">Non-workout</string>
     <string name="sleep_heart_rate">שינה</string>
     <string name="anaerobic_limit_heart_rate">מקסימום</string>
     <string name="power_strength_heart_rate">אנאירובי</string>
@@ -134,7 +134,7 @@
     <string name="heart_name">קצב לב</string>
     <string name="step_name">צעד</string>
     <string name="sleep_name">שינה</string>
-    <string name="climbed_floors">טיפוס קומות:</string>
+    <string name="climbed_floors">Climbed</string>
     <string name="widget_label_step">היום</string>
     <string name="widget_heart_analysis">נתח</string>
     <string name="widget_step_target_txt">מטרה:  <liff>%d</liff></string>
@@ -177,7 +177,7 @@
     <string name="weeklysports_totaltime">סה\"כ זמן שחלף</string>
     <string name="weeklysports_totaltime_unit">/</string>
     <string name="weeklysports_totalcalories">סה\"כ קלוריות</string>
-    <string name="weeklysports_totalcalories_unit">kCal</string>
+    <string name="weeklysports_totalcalories_unit">kcal</string>
     <string name="weeklysports_totalmileage">סה\"כ מרחק</string>
     <string name="weeklysports_totalmileage_unit_zh">ק\"מ</string>
     <string name="weeklysports_totalmileage_unit_en">מייל</string>
@@ -205,7 +205,7 @@
     <string name="weeklysports_day">י</string>
     <string name="weeklysports_activity">פעילות</string>
     <string name="weeklysports_running">ריצה</string>
-    <string name="weeklysports_walking">הליכה</string>
+    <string name="weeklysports_walking">Walking</string>
     <string name="weeklysports_riding">אופניים</string>
     <string name="weekly_step_attained_rate">ימים להגעת המטרה</string>
     <string name="weekly_sports_notification_content">סיכום הפעילות מהשבוע שעבר מוכן.</string>
@@ -220,7 +220,7 @@
     <string name="widget_currentstep_activity_no">אין פעילות היום?</string>
     <string name="currentstep_detail_activity">פעילות</string>
     <string name="currentstep_detail_running">ריצה</string>
-    <string name="currentstep_detail_walking">הליכה</string>
+    <string name="currentstep_detail_walking">Walking</string>
     <string name="currentstep_detail_riding">אופניים</string>
     <string name="currentstep_detail_swimming">שחיה</string>
     <string name="currentstep_detail_mountain">טיפוס הרים</string>
@@ -244,7 +244,7 @@
     <string name="currentstep_detail_heart_rate_max_text">מקס</string>
     <string name="currentstep_detail_heart_rate_min_text">מינ</string>
     <string name="currentstep_detail_heart_rate_quiet_text">מנוחה</string>
-    <string name="currentstep_detail_calories_unit">kCal</string>
+    <string name="currentstep_detail_calories_unit">kcal</string>
     <string name="currentstep_detail_sleep_hour">ש</string>
     <string name="currentstep_detail_sleep_min">דק\'</string>
     <string name="currentstep_detail_heart_unit">bpm</string>
@@ -266,7 +266,7 @@
     <string name="stretch_dialog_cancel">ביטול</string>
     <string name="floor_description">הערה: \"קומה אחת\" היא בערך 3 וחצי מטר</string>
     <string name="open_xiaom_app_failed_content">נסו שוב לאחר התקנת אפליקציית MiFit</string>
-    <string name="open_xiaomi_app_failed_title">"לא ניתן לפתוח את אפליקציית MiFit"</string>
+    <string name="open_xiaomi_app_failed_title">"Can't open Mi Fit app"</string>
     <string name="stretch_connection_failed_button">נסה שוב</string>
     <string name="stretch_connection_failed_content">ודאו שהשעון מחובר לטלפון ואפליקציית Amazfit Watch פועלת</string>
     <string name="stretch_connection_failed_title">"לא ניתן להתחבר לטלפון שלך"</string>
@@ -280,7 +280,7 @@
     <string name="stretch_dialog_button_retry">נסה שוב</string>
     <string name="date_format">dd/MM</string>
     <string name="app_list_title">פעילות</string>
-    <string name="currentstep_detail_activities">זמן בפעילות (דקות)</string>
+    <string name="currentstep_detail_activities">Active time</string>
     <string name="currentstep_detail_activities_title">מקרא</string>
     <string name="currentstep_detail_activities_others">אחר</string>
     <string name="label_heartrate_unit">bpm</string>
