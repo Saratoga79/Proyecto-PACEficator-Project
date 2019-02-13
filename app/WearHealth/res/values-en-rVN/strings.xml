@@ -119,7 +119,7 @@
     <string name="high_strength_heart_rate">Kỵ khí</string>
     <string name="aerobic_heart_rate">Aerobic</string>
     <string name="burning_fat_heart_rate">Đốt chất béo</string>
-    <string name="non_movement_heart_rate">Non-workout</string>
+    <string name="non_movement_heart_rate">Ko thể dục</string>
     <string name="sleep_heart_rate">Ngủ</string>
     <string name="anaerobic_limit_heart_rate">Tối đa</string>
     <string name="power_strength_heart_rate">Kỵ khí</string>
@@ -134,7 +134,7 @@
     <string name="heart_name">Nhịp tim</string>
     <string name="step_name">Bước</string>
     <string name="sleep_name">Ngủ</string>
-    <string name="climbed_floors">Climbed</string>
+    <string name="climbed_floors">Leo tầng</string>
     <string name="widget_label_step">Hôm nay</string>
     <string name="widget_heart_analysis">Phân tích</string>
     <string name="widget_step_target_txt">Goal:  <liff>%d</liff></string>
@@ -205,7 +205,7 @@
     <string name="weeklysports_day">d</string>
     <string name="weeklysports_activity">Chuyển</string>
     <string name="weeklysports_running">Chạy</string>
-    <string name="weeklysports_walking">Walking</string>
+    <string name="weeklysports_walking">Đi bộ</string>
     <string name="weeklysports_riding">Đạp xe</string>
     <string name="weekly_step_attained_rate">Số ngày đạt mục tiêu bước</string>
     <string name="weekly_sports_notification_content">Hoạt động tóm lược từ tuần này đã sẵn sàng.</string>
@@ -220,7 +220,7 @@
     <string name="widget_currentstep_activity_no">Không hoạt động?</string>
     <string name="currentstep_detail_activity">D.chuyển</string>
     <string name="currentstep_detail_running">Chạy</string>
-    <string name="currentstep_detail_walking">Walking</string>
+    <string name="currentstep_detail_walking">Đi bộ</string>
     <string name="currentstep_detail_riding">Đạp xe</string>
     <string name="currentstep_detail_swimming">Bơi</string>
     <string name="currentstep_detail_mountain">Leo núi</string>
@@ -266,7 +266,8 @@
     <string name="stretch_dialog_cancel">Hủy bỏ</string>
     <string name="floor_description">Lưu ý: \"Một tầng\" bằng khoảng 3 mét</string>
     <string name="open_xiaom_app_failed_content">Thử lại sau khi cài đặt ứng dụng MiFit</string>
-    <string name="open_xiaomi_app_failed_title">"Can't open Mi Fit app"</string>
+    <string name="open_xiaomi_app_failed_title">"\"\"\"Không thể mở Mifit
+\"\"\""</string>
     <string name="stretch_connection_failed_button">Thử lại</string>
     <string name="stretch_connection_failed_content">\"Chắc chắn rằng đồng hồ đã kết nối với điện thoại và phần mềm Amazfit Watch đang chạy
 \"</string>
@@ -283,7 +284,7 @@
     <string name="stretch_dialog_button_retry">Thử lại</string>
     <string name="date_format">dd/MM</string>
     <string name="app_list_title">Hoạt động</string>
-    <string name="currentstep_detail_activities">Active time</string>
+    <string name="currentstep_detail_activities">Thời gian hoạt động</string>
     <string name="currentstep_detail_activities_title">Chú thích</string>
     <string name="currentstep_detail_activities_others">Khác</string>
     <string name="label_heartrate_unit">bpm</string>
