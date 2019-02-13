@@ -141,14 +141,14 @@
     <string-array name="weather_card_aqilevel">
         <item>Excellent</item>
         <item>Beau</item>
-        <item>Light pollution</item>
-        <item>Moderate pollution</item>
-        <item>Heavy pollution</item>
+        <item>Pollution Légère</item>
+        <item>Pollution Modérée</item>
+        <item>Pollution Importante</item>
         <item>Importante pollution</item>
         <item></item>
     </string-array>
     <string-array name="weather_card_quality">
-        <item>Suitable for sports</item>
+        <item>Favorable pour le sport</item>
         <item>Ne convient pas pour le sport</item>
         <item></item>
     </string-array>
@@ -175,9 +175,9 @@
         <item>Neige</item>
         <item>Poussière</item>
         <item>Tempête de sable</item>
-        <item>Sandstorm</item>
-        <item>Strong sandstorm</item>
-        <item>No data</item>
+        <item>Tempête de sable</item>
+        <item>Forte tempête de sable</item>
+        <item>Pas de données</item>
     </string-array>
     <string-array name="sport_te_desc_array">
         <item>sport_te_desc_level_01</item>
