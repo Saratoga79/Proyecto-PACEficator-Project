@@ -24,7 +24,7 @@
     <string name="label_subject_ratio_today">Akvite oranı</string>
     <string name="label_burning_ratio_today">Tüketim oranı</string>
     <string name="label_step_unit">Adımlar</string>
-    <string name="label_calory_unit">kCal</string>
+    <string name="label_calory_unit">kcal</string>
     <string name="label_subject_active">Aktif</string>
     <string name="label_subject_sit">Oturun</string>
     <string name="label_burning_active">Kalori</string>
@@ -119,7 +119,7 @@
     <string name="high_strength_heart_rate">Anayrobik</string>
     <string name="aerobic_heart_rate">Ayrobik</string>
     <string name="burning_fat_heart_rate">Yağ yakımı</string>
-    <string name="non_movement_heart_rate">Çalışma-dışı</string>
+    <string name="non_movement_heart_rate">Non-workout</string>
     <string name="sleep_heart_rate">Uyku</string>
     <string name="anaerobic_limit_heart_rate">Maximum</string>
     <string name="power_strength_heart_rate">Anayrobik</string>
@@ -134,7 +134,7 @@
     <string name="heart_name">Kalp Hızı</string>
     <string name="step_name">Adım</string>
     <string name="sleep_name">Uyku</string>
-    <string name="climbed_floors">Tırmanılan kat:</string>
+    <string name="climbed_floors">Climbed</string>
     <string name="widget_label_step">Bugün</string>
     <string name="widget_heart_analysis">Analiz</string>
     <string name="widget_step_target_txt">Goal:  <liff>%d</liff></string>
@@ -178,7 +178,7 @@
     <string name="weeklysports_totaltime">Toplam kaydedilen zaman</string>
     <string name="weeklysports_totaltime_unit">/</string>
     <string name="weeklysports_totalcalories">Toplam kalori</string>
-    <string name="weeklysports_totalcalories_unit">kCal</string>
+    <string name="weeklysports_totalcalories_unit">kcal</string>
     <string name="weeklysports_totalmileage">Toplam mesafe</string>
     <string name="weeklysports_totalmileage_unit_zh">km</string>
     <string name="weeklysports_totalmileage_unit_en">mil</string>
@@ -206,7 +206,7 @@
     <string name="weeklysports_day">d</string>
     <string name="weeklysports_activity">Hareket</string>
     <string name="weeklysports_running">Koşu</string>
-    <string name="weeklysports_walking">Yürüyüş</string>
+    <string name="weeklysports_walking">Walking</string>
     <string name="weeklysports_riding">Bisiklet</string>
     <string name="weekly_step_attained_rate">Adım hedefine ulaşmak için kalan gün</string>
     <string name="weekly_sports_notification_content">Geçen haftadan etkinlik özeti hazır.</string>
@@ -221,7 +221,7 @@
     <string name="widget_currentstep_activity_no">Bugün etkinlik yok mu?</string>
     <string name="currentstep_detail_activity">Hareket</string>
     <string name="currentstep_detail_running">Koşu</string>
-    <string name="currentstep_detail_walking">Yürüyüş</string>
+    <string name="currentstep_detail_walking">Walking</string>
     <string name="currentstep_detail_riding">Bisiklet</string>
     <string name="currentstep_detail_swimming">Yüzme</string>
     <string name="currentstep_detail_mountain">Tırmanış</string>
@@ -245,7 +245,7 @@
     <string name="currentstep_detail_heart_rate_max_text">Max</string>
     <string name="currentstep_detail_heart_rate_min_text">Min</string>
     <string name="currentstep_detail_heart_rate_quiet_text">Dayanma</string>
-    <string name="currentstep_detail_calories_unit">kCal</string>
+    <string name="currentstep_detail_calories_unit">kcal</string>
     <string name="currentstep_detail_sleep_hour">s</string>
     <string name="currentstep_detail_sleep_min">dk</string>
     <string name="currentstep_detail_heart_unit">bpm</string>
@@ -267,8 +267,7 @@
     <string name="stretch_dialog_cancel">İptal</string>
     <string name="floor_description">Not: \"Bir kat \" kabaca 3 mt dir</string>
     <string name="open_xiaom_app_failed_content">MiFit uygulamasını yükledikten sonra tekrar deneyin</string>
-    <string name="open_xiaomi_app_failed_title">"\"\"MiFit uygulaması açılamadı
-\"\""</string>
+    <string name="open_xiaomi_app_failed_title">"Can't open Mi Fit app"</string>
     <string name="stretch_connection_failed_button">Tekrar deneyin</string>
     <string name="stretch_connection_failed_content">\"Lütfen saatinizin telefonunuza bağlandığından ve amazfit uygulamasının açık olduğundan emin olun.
 \"</string>
@@ -285,7 +284,7 @@
     <string name="stretch_dialog_button_retry">Tekrar deneyin</string>
     <string name="date_format">MM/dd</string>
     <string name="app_list_title">Etkinlik</string>
-    <string name="currentstep_detail_activities">Etkinlik zamanı</string>
+    <string name="currentstep_detail_activities">Active time</string>
     <string name="currentstep_detail_activities_title">Efsane</string>
     <string name="currentstep_detail_activities_others">Diğer</string>
     <string name="label_heartrate_unit">bpm</string>
