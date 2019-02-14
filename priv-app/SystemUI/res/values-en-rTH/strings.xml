@@ -149,7 +149,7 @@
     <string name="accessibility_recents_item_dismissed">%s ถูกนำออกไปแล้ว</string>
     <string name="accessibility_recents_item_launched">กำลังเริ่ม %s</string>
     <string name="accessibility_notification_dismissed">การแจ้งเตือนถูกยกเลิก</string>
-    <string name="accessibility_desc_notification_shade">Notification shade.</string>
+    <string name="accessibility_desc_notification_shade">สีการแจ้งเตือน</string>
     <string name="accessibility_desc_quick_settings">การตั้งค่าอย่างรวดเร็ว</string>
     <string name="accessibility_desc_lock_screen">หน้าจอล็อค</string>
     <string name="accessibility_desc_settings">การตั้งค่า</string>
@@ -158,7 +158,7 @@
     <string name="accessibility_quick_settings_wifi">%1$s.</string>
     <string name="accessibility_quick_settings_wifi_changed_off">Wifi ถูกปิดแล้ว</string>
     <string name="accessibility_quick_settings_wifi_changed_on">Wifi ถูกเปิดแล้ว</string>
-    <string name="accessibility_quick_settings_mobile">Mobile %1$s. %2$s. %3$s.</string>
+    <string name="accessibility_quick_settings_mobile">โทรศัพท์ %1$s. %2$s. %3$s.</string>
     <string name="accessibility_quick_settings_battery">แบตเตอรี่ %s.</string>
     <string name="accessibility_quick_settings_airplane_off">ปิดโหมดเครื่องบิน</string>
     <string name="accessibility_quick_settings_airplane_on">เปิดโหมดเครื่องบิน</string>
@@ -420,14 +420,14 @@
     <string name="clock_12hr_format">hm</string>
     <string name="clock_24hr_format">Hm</string>
     <string name="app_name">Keyguard</string>
-    <string name="keyguard_password_enter_pin_code">Type PIN code</string>
-    <string name="keyguard_password_enter_puk_code">Type SIM PUK and new PIN code</string>
-    <string name="keyguard_password_enter_puk_prompt">SIM PUK code</string>
-    <string name="keyguard_password_enter_pin_prompt">New SIM PIN code</string>
-    <string name="keyguard_password_entry_touch_hint"><font size="17">Touch to type password</font></string>
-    <string name="keyguard_password_enter_password_code">Type password to unlock</string>
-    <string name="keyguard_password_enter_pin_password_code">Type PIN to unlock</string>
-    <string name="keyguard_password_wrong_pin_code">Incorrect PIN code.</string>
+    <string name="keyguard_password_enter_pin_code">พิมพ์รหัส PIN</string>
+    <string name="keyguard_password_enter_puk_code">พิมพ์ซิม PUK และรหัส PIN ใหม่</string>
+    <string name="keyguard_password_enter_puk_prompt">รหัส SIM PUK</string>
+    <string name="keyguard_password_enter_pin_prompt">PIN ​ของ ซิมการ์ด​ใหม่</string>
+    <string name="keyguard_password_entry_touch_hint"><font size="17">แตะเพื่อพิมพ์รหัสผ่าน</font></string>
+    <string name="keyguard_password_enter_password_code">พิมพ์รหัสผ่านเพื่อปลดล็อก</string>
+    <string name="keyguard_password_enter_pin_password_code">พิมพ์ PIN เพื่อปลดล็อก</string>
+    <string name="keyguard_password_wrong_pin_code">รหัส PIN ไม่ถูกต้อง</string>
     <string name="keyguard_label_text">หากต้องการปลดล็อกให้กดเมนูแล้วตามด้วย 0</string>
     <string name="faceunlock_multiple_failures">ความพยายามปลดล็อคใบหน้าเกินจำนวนสูงสุด</string>
     <string name="keyguard_charged">ชาร์จ</string>
@@ -447,7 +447,7 @@
     <string name="keyguard_sim_unlock_progress_dialog_message">กำลังปลดล็อกซิมการ์ด...</string>
     <string name="keyguard_widget_12_hours_format">hmm</string>
     <string name="keyguard_widget_24_hours_format">kkmm</string>
-    <string name="keyguard_accessibility_widget_changed">%1$s. Widget %2$d of %3$d.</string>
+    <string name="keyguard_accessibility_widget_changed">%1$s. วิดเจ็ต %2$d of %3$d.</string>
     <string name="keyguard_accessibility_add_widget">เพิ่มวิดเจ็ท</string>
     <string name="keyguard_accessibility_widget_empty_slot">ว่างเปล่า</string>
     <string name="keyguard_accessibility_unlock_area_expanded">ขยายพื้นที่ปลดล็อค</string>
@@ -457,9 +457,9 @@
     <string name="keyguard_accessibility_camera">กล้องถ่ายรูป</string>
     <string name="keygaurd_accessibility_media_controls">การควบคุมสื่อ</string>
     <string name="keyguard_accessibility_widget_reorder_start">เริ่มการจัดเรียงวิดเจ็ดใหม่</string>
-    <string name="keyguard_accessibility_widget_reorder_end">Widget reordering ended.</string>
-    <string name="keyguard_accessibility_widget_deleted">Widget %1$s deleted.</string>
-    <string name="keyguard_accessibility_expand_lock_area">Expand unlock area.</string>
+    <string name="keyguard_accessibility_widget_reorder_end">การจัดเรียงวิดเจ็ตสิ้นสุดลง</string>
+    <string name="keyguard_accessibility_widget_deleted">วิดเจ็ต %1$s ลบแล้ว</string>
+    <string name="keyguard_accessibility_expand_lock_area">ขยายพื้นที่ปลดล็อค</string>
     <string name="keyguard_accessibility_slide_unlock">เลื่อนเพื่อปลดล็อค</string>
     <string name="keyguard_accessibility_pattern_unlock">ปลดล็อครูปแบบ</string>
     <string name="keyguard_accessibility_face_unlock">ปลดล็อคใบหน้า</string>
@@ -468,8 +468,8 @@
     <string name="keyguard_accessibility_pattern_area">พื้นที่รูปแบบ</string>
     <string name="keyguard_accessibility_slide_area">พื้นที่การเลื่อน</string>
     <string name="keyguard_accessibility_pin_area">พื้นที่พิน</string>
-    <string name="keyguard_accessibility_sim_pin_area">SIM PIN area</string>
-    <string name="keyguard_accessibility_sim_puk_area">SIM PUK area</string>
+    <string name="keyguard_accessibility_sim_pin_area">พื้นที่ SIM PIN</string>
+    <string name="keyguard_accessibility_sim_puk_area">พื้นที่ SIM PUK</string>
     <string name="keyguard_accessibility_transport_prev_description">ปุ่มแทร็กก่อนหน้า</string>
     <string name="keyguard_accessibility_transport_next_description">ปุ่มแทร็กถัดไป</string>
     <string name="keyguard_accessibility_transport_pause_description">ปุ่มหยุดชั่วคราว</string>
@@ -500,14 +500,14 @@
     <string name="description_direction_down">เลื่อนลงสำหรับ %s</string>
     <string name="description_direction_right">เลื่อนไปทางขวาสำหรับ %s.</string>
     <string name="user_switched">ผู้ใช้ปัจจุบัน %1$s</string>
-    <string name="kg_emergency_call_label">Emergency call</string>
-    <string name="kg_forgot_pattern_button_text">Forgot Pattern</string>
-    <string name="kg_wrong_pattern">Wrong Pattern</string>
-    <string name="kg_wrong_password">Wrong Password</string>
-    <string name="kg_wrong_pin">Wrong PIN</string>
-    <string name="kg_too_many_failed_attempts_countdown">Try again in %d seconds.</string>
-    <string name="kg_pattern_instructions">Draw your pattern</string>
-    <string name="kg_sim_pin_instructions">Enter SIM PIN</string>
+    <string name="kg_emergency_call_label">หมายเลขฉุกเฉิน</string>
+    <string name="kg_forgot_pattern_button_text">ลืมรูปแบบ</string>
+    <string name="kg_wrong_pattern">รูปแบบไม่ถูกต้อง</string>
+    <string name="kg_wrong_password">รหัสผ่านไม่ถูกต้อง</string>
+    <string name="kg_wrong_pin">รหัส PIN ไม่ถูกต้อง</string>
+    <string name="kg_too_many_failed_attempts_countdown">ลองใหม่อีกครั้งใน %d วินาที</string>
+    <string name="kg_pattern_instructions">วาดรูปแบบของคุณ</string>
+    <string name="kg_sim_pin_instructions">ป้อนรหัส PIN ของซิม</string>
     <string name="kg_sim_pin_instructions_multi">Enter SIM PIN for \"%1$s\"</string>
     <string name="kg_pin_instructions">Enter PIN</string>
     <string name="kg_password_instructions">Enter Password</string>
