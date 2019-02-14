@@ -924,10 +924,10 @@
     <string name="km_metric_pace_unit">/กม.</string>
     <string name="km_metric_speed_unit">กม./ชม.</string>
     <string name="km_metric_distance">ระยะทาง (กม.)</string>
-    <string name="km_metric_remind_target_distance_title_format">Target %1$d km</string>
-    <string name="km_metric_remind_target_km_title_format">Completed %1$d km</string>
+    <string name="km_metric_remind_target_distance_title_format">เป้าหมาย %1$d กม.</string>
+    <string name="km_metric_remind_target_km_title_format">เสร็จแล้ว %1$d กม.</string>
     <string name="km_metric_remind_target_km_walking_title_format">เสร็จแล้ว %1$d กม.</string>
-    <string name="km_metric_remind_target_distance_training_title_format">Completed %1s km</string>
+    <string name="km_metric_remind_target_distance_training_title_format">เสร็จแล้ว %1s กม.</string>
     <string name="km_metric_remind_target_riding_km_title_format">Completed %1$d km</string>
     <string name="meter_metric_crossing_vertical_velocity_unit">meter/min</string>
     <string name="meter_metric_crossing_history_detail_altituede_graph_desc">ระดับความสูง(เมตร)</string>
@@ -957,46 +957,46 @@
     <string name="export_gpx">Export GPX file</string>
     <string name="btn_cancel">Cancel</string>
     <string name="btn_confirm">Confirm</string>
-    <string name="hint_rolling">Exporting, please wait for a while ...</string>
-    <string name="dlg_msg_hint_cancel">Do you want to cancel the export?</string>
-    <string name="dlg_btn_l_msg">No</string>
-    <string name="dlg_btn_r_msg">Yes</string>
-    <string name="hint_cancelling">Cancelling...</string>
-    <string name="hint_success_exported_title">"Exported to GPX file 
- successfully"</string>
-    <string name="hint_failed_exported_title">Failed to Export</string>
-    <string name="hint_where">"The gpx file has been placed in 
- folder \'/sdcard/gpxdata\'.
- You can copy it to a computer through USB."</string>
-    <string name="hint_failed">Failed to export, please try again.</string>
-    <string name="app_name">gpx-recorder</string>
-    <string name="average_text">Avg</string>
+    <string name="hint_rolling">กำลังส่งออกโปรดรอสักครู่ ...</string>
+    <string name="dlg_msg_hint_cancel">คุณต้องการยกเลิกการส่งออกหรือไม่</string>
+    <string name="dlg_btn_l_msg">ไม่</string>
+    <string name="dlg_btn_r_msg">ใช่</string>
+    <string name="hint_cancelling">กำลังยกเลิก...</string>
+    <string name="hint_success_exported_title">"ส่งออกไปยังไฟล์ GPX
+  ประสบความสำเร็จ"</string>
+    <string name="hint_failed_exported_title">การส่งออกล้มเหลว</string>
+    <string name="hint_where">"วางไฟล์ gpx แล้ว
+  โฟลเดอร์ \'/ sdcard / gpxdata\'
+  คุณสามารถคัดลอกไปยังคอมพิวเตอร์ผ่าน USB ได้ "</string>
+    <string name="hint_failed">การส่งออกล้มเหลวโปรดลองอีกครั้ง</string>
+    <string name="app_name">บันทึก Gpx</string>
+    <string name="average_text">ค่าเฉลี่ย</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
-    <string name="picker_default_positive_text">Confirm</string>
-    <string name="picker_default_nagetive_text">Off</string>
+    <string name="picker_default_positive_text">ยืนยัน</string>
+    <string name="picker_default_nagetive_text">ปิด</string>
     <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">การตั้งค่า</string>
     <string name="sport_music_settings">Sports music</string>
-    <string name="widget_currentstep_title">Daily Overview</string>
-    <string name="widget_currentstep_activities">Activities</string>
+    <string name="widget_currentstep_title">ภาพรวมรายวัน</string>
+    <string name="widget_currentstep_activities">กิจกรรม</string>
     <string name="widget_currentstep_sleep_hour">ชม.</string>
     <string name="widget_currentstep_sleep_min">นาที</string>
     <string name="widget_currentstep_sleep_title">การนอนหลับ</string>
     <string name="widget_currentstep_sleep_no">ไม่มีข้อมูลการนอนหลับ</string>
-    <string name="widget_currentstep_activity_no">No activity today?</string>
-    <string name="settings_item_value_swim_length_imperial">%1$s英尺</string>
-    <string name="swim_swolf_unit_default">(按百米计算)</string>
-    <string name="swim_swolf_unit_default_yd">(按百码计算)</string>
-    <string name="swim_pace_unit_imperial">/百英尺</string>
-    <string name="first_modify_tips">里程大于0.5公里的校准可让手表学习你的跑步习惯，让跑步里程越来越准。</string>
-    <string name="modify_big_dis_tips">校准值%1$s与测量值%2$s相差较大，是否确认校准？</string>
-    <string name="modify_big_dis_regain">修改</string>
-    <string name="modify_big_dis_confirm">确认校准</string>
-    <string name="re_modify_dis">重新校准</string>
-    <string name="re_modify_dis_tips">"1.里程大于0.5公里的校准可让手表学习你的跑步习惯，让跑步里程越来越准。
-2.如果你已进行过多次校准，但仍对里程结果不满意，可进行重新校准。
-3.重新校准将删除此前所有校准记录。"</string>
-    <string name="give_up_re_modify_dis">放弃</string>
-    <string name="confirm_re_modify_dis">确认</string>
-    <string name="re_modify_dis_successful">重新校准成功</string>
+    <string name="widget_currentstep_activity_no">ไม่มีกิจกรรมวันนี้?</string>
+    <string name="settings_item_value_swim_length_imperial">%1$sก้าว</string>
+    <string name="swim_swolf_unit_default">(คำนวณเป็น 100เมตร)</string>
+    <string name="swim_swolf_unit_default_yd">(คำนวณเป็น 100หลา)</string>
+    <string name="swim_pace_unit_imperial">/100ฟุต</string>
+    <string name="first_modify_tips">การปรับเทียบด้วยระยะทางที่มากกว่า 0.5 กม. ทำให้นาฬิกาสามารถเรียนรู้พฤติกรรมการวิ่งของคุณและทำให้ระยะทางในการวิ่งนั้นแม่นยำยิ่งขึ้น</string>
+    <string name="modify_big_dis_tips">ค่าการปรับเทียบ%1$sค่อนข้างแตกต่างจากค่าที่วัดได้%2$sการสอบเทียบยืนยันหรือไม่</string>
+    <string name="modify_big_dis_regain">การแก้ไข</string>
+    <string name="modify_big_dis_confirm">ยืนยันการปรับเทียบ</string>
+    <string name="re_modify_dis">สอบเทียบอีกครั้ง</string>
+    <string name="re_modify_dis_tips">"1. การสอบเทียบด้วยระยะทางที่มากกว่า 0.5 กม. ทำให้นาฬิกาสามารถเรียนรู้พฤติกรรมการวิ่งของคุณและทำให้ระยะทางในการวิ่งแม่นยำขึ้น
+2. หากคุณทำการปรับเทียบหลายครั้ง แต่ยังไม่พอใจกับผลลัพธ์ไมล์สะสมคุณสามารถทำการสอบเทียบใหม่ได้
+3. การปรับเทียบใหม่จะลบบันทึกการสอบเทียบก่อนหน้านี้ทั้งหมด "</string>
+    <string name="give_up_re_modify_dis">ยกเลิก</string>
+    <string name="confirm_re_modify_dis">ยืนยัน</string>
+    <string name="re_modify_dis_successful">การปรับเทียบใหม่สำเร็จ</string>
 </resources>
