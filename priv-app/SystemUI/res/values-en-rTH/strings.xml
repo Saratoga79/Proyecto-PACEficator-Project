@@ -522,13 +522,13 @@
     <string name="kg_invalid_confirm_pin_hint">PIN codes does not match</string>
     <string name="kg_login_too_many_attempts">Too many pattern attempts</string>
     <string name="kg_login_instructions">To unlock, sign in with your Google account.</string>
-    <string name="kg_login_username_hint">Username (email)</string>
-    <string name="kg_login_password_hint">Password</string>
-    <string name="kg_login_submit_button">Sign in</string>
-    <string name="kg_login_invalid_input">Invalid username or password.</string>
-    <string name="kg_login_account_recovery_hint">\"Forgot your username or password?
-Visit \"<b>google.com/accounts/recovery</b>.</string>
-    <string name="kg_login_checking_password">Checking account…</string>
+    <string name="kg_login_username_hint">ชื่อผู้ใช้ (อีเมล)</string>
+    <string name="kg_login_password_hint">รหัสผ่าน</string>
+    <string name="kg_login_submit_button">ลงชื่อเข้าใช้</string>
+    <string name="kg_login_invalid_input">ชื่อผู้ใช้หรือรหัสผ่านไม่ถูกต้อง</string>
+    <string name="kg_login_account_recovery_hint">\"ลืมชื่อผู้ใช้หรือรหัสผ่านของคุณ?
+ไปที่ \"<b>google.com/accounts/recovery</b>.</string>
+    <string name="kg_login_checking_password">ตรวจสอบบัญชี…</string>
     <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"คุณพิมพ์ PIN %d ครั้งไม่ถูกต้อง
 
 ลองอีกครั้งใน %d วินาที "</string>
