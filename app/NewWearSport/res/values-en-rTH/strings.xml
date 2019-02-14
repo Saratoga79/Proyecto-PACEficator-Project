@@ -493,7 +493,7 @@
     <string name="first_beat_help_vo2_max">"&lt;font color=#00FF00&gt;What is this？&lt;/font&gt;&lt;br/&gt; VO2Max represents the maximum volume of oxygen the body can consume in one minute as measured in ml/kg/min. It evaluates the state of users ' cardiorespiratory fitness which is important for overall health, well-being and sports performace. &lt;br/&gt;The watch will automatically evaluate your VO2Max based on heartrate, speed etc. during a moderate intensity running workout and compare that to a reference group of same age and gender to determine your fitness level. &lt;br/&gt;&lt;font color=#00FF00&gt;How to evaluate？&lt;/font&gt;&lt;br/&gt; 1. Provide accurate profile information like age and gender in Amazfit Watch app during setup； &lt;br/&gt; 2. Take a brisk 15 minutes or more outdoor run with the watch on and make sure heartrate is at or above 75% of your maxHR for at least 10 minutes. &lt;br/&gt; 3. After completing the run, you can check current VO2Max in the sports activities app on the watch or personal status page in Amazift Watch app. &lt;br/&gt;&lt;small&gt;For more details, please see Help in Amazfit Watch app.&lt;/small&gt;"</string>
     <string name="first_beat_help_te">&lt;font color=#00FF00&gt;What is this？&lt;/font&gt;&lt;br/&gt; Training Effect (TE) measures the accumulated load during a workout and interprets its impact on your aerobic fitness. TE starts from level 0.0. As the workout progresses successfully, TE value increases (from 0 towards 5), telling you how the workout effects your fitness. &lt;br/&gt;&lt;font color=#00FF00&gt;How is it calculated? &lt;/font&gt;&lt;br/&gt; TE is calculated based on your user profile, heart beat data and difficulty of the workout.&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; The watch will show realtime TE measurement during a workout as well as final TE result at the end of the workout. A&amp;lt;2.0 TE simply indicates that the workout has little effect on cardiorespiratory fitness and is useful only for building an endurance base and recovery. &lt;br/&gt;&lt;small&gt;For more details, please see Help in Amazfit Watch app.&lt;/small&gt;</string>
     <string name="first_beat_help_train_load">The watch will calculate Training Load based on EPOC (Excess Post-exercise Oxygen Consumption) values accumulated from heartrate data recorded during workouts in a 7-day rolling window. The user can adjust the training schedule accordingly to reach optimal load. &lt;br/&gt;&lt;small&gt;For more details, please see Help in Amazfit Watch app.&lt;/small&gt;</string>
-    <string name="first_beat_help_run_target_and_real_time_guide">The watch will provide workout recommendation based on a your VO2Max fitness level, recent Training Load and recovery status from previous workout. &lt;br/&gt; If you enable realtime coaching feature in settings and set a TE target or choose one of the recommended workouts, the watch will guide you through the workout and prompt to adjust pace and heart rate in order to achieve set goals. &lt;br/&gt; &lt;small&gt;For more details, please see Help in Amazfit Watch app.&lt;/small&gt;</string>
+    <string name="first_beat_help_run_target_and_real_time_guide">นาฬิกาจะให้คำแนะนำการออกกำลังกายตามระดับการออกกำลังกาย VO2Max ของคุณโหลดการฝึกซ้อมล่าสุดและสถานะการฟื้นฟูจากการออกกำลังกายก่อนหน้า &lt;br/&gt; หากคุณเปิดใช้งานคุณสมบัติการฝึกแบบเรียลไทม์ในการตั้งค่าและตั้งค่าเป้าหมาย TE หรือเลือกหนึ่งในการออกกำลังกายที่แนะนำนาฬิกาจะแนะนำคุณตลอดการออกกำลังกายและพร้อมที่จะปรับอัตราการเต้นของหัวใจเพื่อให้บรรลุเป้าหมายที่ตั้งไว้&lt;br/&gt; &lt;small&gt; หรือรายละเอียดเพิ่มเติมโปรดดูวิธีใช้ในแอพ Amazfit Watch&lt;/small&gt;</string>
     <string name="first_beat_help_daily_perpormence">"&lt;font color=#00FF00&gt;What is this？&lt;/font&gt;&lt;br/&gt;Realtime Performance Condition indicates if you are above or below your average performance level, and how accumulating fatigue affects your performance during a workout. &lt;br/&gt;&lt;font color=#00FF00&gt;How is it used？&lt;/font&gt;&lt;br/&gt;The watch will evaluate your performance condition automatically after ~6 minutes of running. A higher-than-avarage value indicates that you can make a harder workout than you'd normally do. A lower value suggests that you should take a easier workout. &lt;br/&gt;After completing a workout, you can analyze the performance by looking at the result at each km/mile on the graph. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;For more details, please see Help in Amazfit Watch app.&lt;/small&gt;"</string>
     <string name="first_beat_help_recovery_time">After completing a workout, you will be provided with time in minutes to full recovery. Between workouts recovery time is linearly decreased towards zero if there is no new workout data available. The user is encouraged to have some low intensiy workouts to help with recovery. &lt;br/&gt;&lt;small&gt;For more details, please see Help in Amazfit Watch app.&lt;/small&gt;</string>
     <string name="vo2max_unit">mg/kg/min</string>
@@ -543,7 +543,7 @@
     <string name="music_update_tips_content">Watercress FM updates songs regularly. Updating songs will replace the music library. Update now?</string>
     <string name="music_pause">Paused</string>
     <string name="music_fm_title">Watercress FM</string>
-    <string name="music_fm_notification_content">The Sports FM has some new playlists, go and download it!</string>
+    <string name="music_fm_notification_content">Sports FM มีเพลย์ลิสต์ใหม่ให้ไปและดาวน์โหลด!</string>
     <string name="music_down_not_complete_title">The song list has not been fully downloaded, exit?</string>
     <string name="music_down_not_complete_content">After logging out, songs can be updated in the Music settings - Watercress FM offline。</string>
     <string name="music_source_douban">Watercress FM</string>
@@ -698,7 +698,7 @@
     <string name="last_lap_speed">Lap speed</string>
     <string name="last_lap_hr">Lap heart rate</string>
     <string name="last_lap_stepfreq">Lap cadence</string>
-    <string name="sport_widget_title">Sports</string>
+    <string name="sport_widget_title">กีฬา</string>
     <string name="sport_widget_title_run">Run</string>
     <string name="sport_widget_title_walk">Walk</string>
     <string name="sport_widget_title_cross">Trail Run</string>
@@ -708,7 +708,7 @@
     <string name="sport_widget_title_setting">Settings</string>
     <string name="sport_widget_title_music">Music</string>
     <string name="sport_widget_title_interval_run">Interval</string>
-    <string name="sport_app_name">Sports</string>
+    <string name="sport_app_name">กีฬา</string>
     <string name="sport_item_running_title">Run</string>
     <string name="sport_item_walking_title">Walking</string>
     <string name="title_activity_main">MainActivity</string>
@@ -723,7 +723,7 @@
     <string name="sport_stop">Stop</string>
     <string name="sport_notification_view_detail">Open Sports</string>
     <string name="sport_notification_stop">End the exercise</string>
-    <string name="sport_notification_title">Sports</string>
+    <string name="sport_notification_title">กีฬา</string>
     <string name="sport_notification_content">%s mile</string>
     <string name="title_activity_running">RunningActivity</string>
     <string name="running_kilometers">km</string>
@@ -979,10 +979,10 @@
     <string name="sport_music_settings">Sports music</string>
     <string name="widget_currentstep_title">Daily Overview</string>
     <string name="widget_currentstep_activities">Activities</string>
-    <string name="widget_currentstep_sleep_hour">h</string>
-    <string name="widget_currentstep_sleep_min">min</string>
-    <string name="widget_currentstep_sleep_title">Sleep</string>
-    <string name="widget_currentstep_sleep_no">No sleep data</string>
+    <string name="widget_currentstep_sleep_hour">ชม.</string>
+    <string name="widget_currentstep_sleep_min">นาที</string>
+    <string name="widget_currentstep_sleep_title">การนอนหลับ</string>
+    <string name="widget_currentstep_sleep_no">ไม่มีข้อมูลการนอนหลับ</string>
     <string name="widget_currentstep_activity_no">No activity today?</string>
     <string name="settings_item_value_swim_length_imperial">%1$s英尺</string>
     <string name="swim_swolf_unit_default">(按百米计算)</string>
