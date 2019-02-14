@@ -63,9 +63,9 @@
     <string name="no_altitude_hint">Altitude data not detected</string>
     <string name="no_heartrate_data_hint">ไม่พบข้อมูลอัตราการเต้นหัวใจ</string>
     <string name="no_chart_data_hint">ไม่พร้อมใช้งาน</string>
-    <string name="not_speed_data">Speed is n/a</string>
-    <string name="not_pace_data">Pace is n/a</string>
-    <string name="not_step_freq_data">Cadence is n/a</string>
+    <string name="not_speed_data">ความเร็วคือ ไม่สามารถใช้ได้</string>
+    <string name="not_pace_data">ก้าวคือ ไม่สามารถใช้ได้</string>
+    <string name="not_step_freq_data">จังหวะคือ ไม่สามารถใช้ได้</string>
     <string name="not_stroke_speed_data">Stroke data is n/a</string>
     <string name="not_cadence_data">Cadence is n/a</string>
     <string name="stroke_speed_curve_title">Stroke Rate (SPM)</string>
@@ -230,7 +230,7 @@
     <string name="sport_graph_title_ave">Avg</string>
     <string name="sport_graph_title_max">สูงสุด</string>
     <string name="sport_graph_title_min">ต่ำสุด</string>
-    <string name="sport_graph_title_fast">Fastest</string>
+    <string name="sport_graph_title_fast">เร็วที่สุด</string>
     <string name="sport_graph_title_high">Highest</string>
     <string name="sport_graph_title_low">Lowest</string>
     <string name="adjust_content">%1$dm</string>
