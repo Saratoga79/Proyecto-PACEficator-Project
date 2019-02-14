@@ -12,9 +12,9 @@
     <string name="auto_recoginition_not_remind">ไม่เตือนอีกต่อไปในวันนี้</string>
     <string name="auto_recoginition_save">การเก็บรักษา</string>
     <string name="auto_recoginition_end_title">ตรวจพบว่าคุณหยุดออกกำลังกายหรือไม่?</string>
-    <string name="crossing_title">Trail Run</string>
-    <string name="crossing_end_sport">Please stop trail run first</string>
-    <string name="crossing_in_progress">Trail Running...</string>
+    <string name="crossing_title">วิ่งเทรล</string>
+    <string name="crossing_end_sport">กรุณาหยุดวิ่งเทรลก่อน</string>
+    <string name="crossing_in_progress">กำลังวิ่งเทรล...</string>
     <string name="crossing_max_step_freq_desc">Max Cadence</string>
     <string name="crossing_climb_up">Dist. Gain</string>
     <string name="crossing_climb_down">Elev. Loss</string>
@@ -48,8 +48,8 @@
     <string name="safe_hearate_remind_content">When above %1d</string>
     <string name="settings_safe_heart_rate_hint">(อัตราการเต้นหัวใจที่ปลอดภัย)</string>
     <string name="settings_safe_heart_rate_unit">bpm</string>
-    <string name="elliptical">Elliptical</string>
-    <string name="elliptical_in_progress">Elliptical in progress</string>
+    <string name="elliptical">เครื่องเดินวงรี</string>
+    <string name="elliptical_in_progress">ในขั้นตอนของเครื่องเดินวงรี</string>
     <string name="person_achive">Personal Best</string>
     <string name="achive_share_sport">Share Activity</string>
     <string name="achive_get_record_time">17-05-25获得</string>
@@ -266,10 +266,10 @@
     <string name="exchange_prepare_riding">ถัดไป: การปั่นจักรยาน</string>
     <string name="exchange_prepare_running">ถัดไป: การวื่ง</string>
     <string name="sport_widget_title_history_record">Activities</string>
-    <string name="sport_widget_title_elliptical">Elliptical Trainer</string>
+    <string name="sport_widget_title_elliptical">ผู้ฝึกสอนเครื่องเดินวงรี</string>
     <string name="sport_widget_title_triathlon">Triathlon</string>
-    <string name="sport_widget_title_mountaineer">ปีนป่าย</string>
-    <string name="sport_widget_title_mountaineering">อยู่ในการปีนป่าย</string>
+    <string name="sport_widget_title_mountaineer">ปีนเขา</string>
+    <string name="sport_widget_title_mountaineering">อยู่ในการปีนเขา</string>
     <string name="sport_widget_title_triathlon_in_progress">ในไตรกีฬา</string>
     <string name="sport_child_riding">การปั่นจักรยาน</string>
     <string name="sport_child_running">กำลังวิ่ง</string>
@@ -509,7 +509,7 @@
     <string name="please_become_bigger">ซูมเข้า</string>
     <string name="please_become_smaller">ซูมออก</string>
     <string name="current_altitude">Current Elevation</string>
-    <string name="cumulative_climb">Cumulative Climb</string>
+    <string name="cumulative_climb">การปีนสะสม</string>
     <string name="sport_route_out_of">Deviated Trajectory</string>
     <string name="sport_back_to_route">Has returned to the track</string>
     <string name="gpx_currnet_is_selected">Selected</string>
@@ -567,9 +567,9 @@
     <string name="remind_target_riding_km_title_format">Completed %1$d mi</string>
     <string name="indoor_riding_time_too_short">Exercise time is too short to save. Are you sure to stop?</string>
     <string name="outdoor_climb_down_altitude">Cumulative Elevation Loss</string>
-    <string name="outdoor_climb_down_distance">Downhill Distance</string>
-    <string name="outdoor_climb_down_distance_time">Downhill Time</string>
-    <string name="outdoor_climb_distance_time">Uphill Slope Time</string>
+    <string name="outdoor_climb_down_distance">ระยะทางลงเขา</string>
+    <string name="outdoor_climb_down_distance_time">เวลาลงเขา</string>
+    <string name="outdoor_climb_distance_time">เวลาขึ้นเขา</string>
     <string name="real_time_keep_speed">Keep current pace</string>
     <string name="real_time_run_faster">เพิ่มความเร็ว</string>
     <string name="real_time_every_good">ดีมาก</string>
@@ -701,7 +701,7 @@
     <string name="sport_widget_title">กีฬา</string>
     <string name="sport_widget_title_run">วิ่ง</string>
     <string name="sport_widget_title_walk">เดิน</string>
-    <string name="sport_widget_title_cross">Trail Run</string>
+    <string name="sport_widget_title_cross">วิ่งเทรล</string>
     <string name="sport_widget_title_indoor_run">วิ่งในร่ม</string>
     <string name="sport_widget_title_record">Activities</string>
     <string name="sport_widget_title_achieve">Badges</string>
@@ -751,7 +751,7 @@
     <string name="sport_history_total_distance_desc">Total Distance</string>
     <string name="sport_history_header_total_count_desc">Total Times</string>
     <string name="sport_history_header_calorie_desc">Total burned</string>
-    <string name="running_realtime_trail_desc">GPS Route</string>
+    <string name="running_realtime_trail_desc">เส้นทาง GPS</string>
     <string name="title_activity_sport_history">SportHistoryActivity</string>
     <string name="history_heart_rate_desc">Heart Rate:</string>
     <string name="history_heart_rate_unit">bpm</string>
