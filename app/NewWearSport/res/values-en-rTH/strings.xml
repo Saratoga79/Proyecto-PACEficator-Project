@@ -87,10 +87,10 @@
     <string name="gps_search_time_out_content">GPS ถูกปิดเนื่องจากไม่มีการใช้งาน</string>
     <string name="detail_route_title">เส้นทาง</string>
     <string name="detail_route_total_dis">ระยะทางรวม</string>
-    <string name="detail_route_detail_lap_title">รายละเอียดรอบ</string>
-    <string name="detail_route_detail_manual_lap_title">Key Laps</string>
+    <string name="detail_route_detail_lap_title">รายละเอียดรอบเวลา</string>
+    <string name="detail_route_detail_manual_lap_title">รอบเวลาสำคัญ</string>
     <string name="detail_route_detail_auto_lap_title">รอบเวลาอัตโนมัติ</string>
-    <string name="detail_lap_num">รอบ</string>
+    <string name="detail_lap_num">รอบเวลา</string>
     <string name="detail_lap_time">เวลาที่ผ่านไป</string>
     <string name="detail_total_distance_desc">ระยะทางรวม</string>
     <string name="detail_lap_dis">ระยะทาง</string>
@@ -115,7 +115,7 @@
     <string name="picker_title_target_heart_rate">อัตราการเต้นหัวใจ (ครั้งต่อนาที)</string>
     <string name="picker_title_auto_lap">รอบเวลาอัตโนมัติ (%1$s)</string>
     <string name="picker_title_swim_length">ขนาดสระว่ายน้ำ (%1$s)</string>
-    <string name="picker_title_target_trips">เป้าหมายการเดินทาง</string>
+    <string name="picker_title_target_trips">เป้าหมายทริป</string>
     <string name="picker_title_fix_dis">ปรับเทียบ(%1$s)</string>
     <string name="picker_sub_title_te_one">(ปรับปรุง)</string>
     <string name="picker_sub_title_te_two">(ปรับปรุง)</string>
@@ -135,7 +135,7 @@
     <string name="settings_sport_auto_section">รอบเวลาอัตโนมัติ</string>
     <string name="settings_sport_lap">รอบเวลา</string>
     <string name="settings_sport_lap_auto">รอบเวลาอัตโนมัติ</string>
-    <string name="settings_sport_lap_auto_remind">แจ้งเตือนรอบอัตโนมัติ</string>
+    <string name="settings_sport_lap_auto_remind">แจ้งเตือนรอบเวลาอัตโนมัติ</string>
     <string name="settings_sport_target_TE">เป้าหมาย TE</string>
     <string name="settings_sport_measure_heart">PPG เปิด/ปิด</string>
     <string name="settings_sport_rt_guide">คำแนะนำ</string>
@@ -166,7 +166,7 @@
     <string name="sport_cur_tar_dis_yd">ระยะทาง: %1$sหลา</string>
     <string name="sport_cur_tar_time">เวลาที่ผ่านไป: %1$dh%2$dm</string>
     <string name="sport_cur_tar_cal">แคลอรี่: %1$sกิโลแคลอรี่</string>
-    <string name="sport_cur_tar_trips">Trips: %1$strip</string>
+    <string name="sport_cur_tar_trips">ทริป: %1$sทริป</string>
     <string name="sport_setting_select_te_stage_title">เลือก TE</string>
     <string name="sport_setting_te_stage_content">TE%1$s %2$sm</string>
     <string name="history_heart_rate_graph_desc">อัตราการเต้นหัวใจ (ครั้งต่อนาที)</string>
@@ -196,8 +196,8 @@
     <string name="sport_main_pace_info_title">ก้าว</string>
     <string name="heartrate_x_axis_time_format">HH:mm:ss</string>
     <string name="lap_title">รอบเวลา %1$d</string>
-    <string name="manual_lap_title">Key Lap %1$d</string>
-    <string name="auto_lap_title">Auto Lap %1$d</string>
+    <string name="manual_lap_title">รอบเวลาสำคัญ %1$d</string>
+    <string name="auto_lap_title">รอบเวลาอัตโนมัติ %1$d</string>
     <string name="lap_total_time">เวลารวม</string>
     <string name="lap_add_failed">รอบเวลาสั้นเกินไปไม่สามารถบันทึกรอบนี้ได้</string>
     <string name="sport_main_stop_this_sport">หยุดกิจกรรมในปัจจุบัน</string>
@@ -235,7 +235,7 @@
     <string name="sport_graph_title_low">ต่ำที่สุด</string>
     <string name="adjust_content">%1$dm</string>
     <string name="adjust_tips_title">เปลี่ยนการตั้งค่าระยะทางอัตโนมัติ</string>
-    <string name="adjust_swim_tips">Auto lapping distance is now pool size. Please adjust it in Swim settings if needed.</string>
+    <string name="adjust_swim_tips">ระยะทางรอบอัตโนมัติในขณะนี้คือขนาดสระ โปรดปรับในการตั้งค่าว่ายน้ำหากจำเป็น</string>
     <string name="hill_title">การเปลี่ยนแปลงไล่ระดับสี</string>
     <string name="hill_even">เรียบ</string>
     <string name="hill_up">ขึ้นเขา</string>
@@ -287,7 +287,7 @@
     <string name="stop_sport">หยุดกิจกรรม</string>
     <string name="settting_sport_gpx_route">หลักสูตร GPX</string>
     <string name="swim_max_stroke_speed">SPM สูงสุด</string>
-    <string name="swim_trips">Trip</string>
+    <string name="swim_trips">ทริป</string>
     <string name="heart_region_title">โซนอัตราการเต้นของหัวใจ</string>
     <string name="heart_region_anaerobic＿limit">สูงสุด</string>
     <string name="heart_region_endurance_enhancement">Anaerobic</string>
@@ -306,7 +306,7 @@
     <string name="per_correspond_km">ทุก ๆ %1$d กม.</string>
     <string name="per_correspond_mi">ทุก ๆ %1$d ไมล์</string>
     <string name="more_operation">เพิ่ม​เติม</string>
-    <string name="detail_route_detail_train_lap_title">รอบ</string>
+    <string name="detail_route_detail_train_lap_title">รอบเวลา</string>
     <string name="this_time_need_run_mileage">ช่วงระยะทาง: %1$s กม.</string>
     <string name="this_time_need_run_mileage_mile">ช่วงระยะทาง: %1$s ไมล์</string>
     <string name="this_time_need_run_total_time">ระยะเวลา: %1$s</string>
@@ -316,7 +316,7 @@
     <string name="data_item_surplus_time">เวลาที่เหลือ</string>
     <string name="start_change_item">เริ่มต้นช่วงเวลาถัดไป</string>
     <string name="near_to_finish_item">เกือบเสร็จสมบูรณ์</string>
-    <string name="click_finsh_this_train_unit">Lap key press internal</string>
+    <string name="click_finsh_this_train_unit">ปุ่มกด รอบ</string>
     <string name="has_no_train_unit_remind">โปรดเพิ่มช่วงเวลาการออกกำลังกายในแอพ Amazfit Watch และซิงค์กับนาฬิกาข้อมือนี้</string>
     <string name="interval_segment_details">รายละเอียดช่วงเวลา</string>
     <string name="interval_train_tips_title">การแจ้งเตือนจะถูกปิดโดยค่าเริ่มต้นในช่วงเวลา</string>
@@ -420,7 +420,7 @@
     <string name="sport_widget_title_open_water_swim_in_progress">ว่ายน้ำในที่โล่ง</string>
     <string name="sport_child_swim">การว่ายน้ำ</string>
     <string name="swim_avg_stroke_speed">อัตราจังหวะเฉลี่ย</string>
-    <string name="target_swim_trips">หมายเลขเป้าหมาย</string>
+    <string name="target_swim_trips">เลขเป้าหมาย</string>
     <string name="swim_total_trips">รอบเวลาทั้งหมด</string>
     <string name="swim_stroke">การแกว่งเท้า</string>
     <string name="swim_stroke_times">จำนวนครั้งทั้งหมด</string>
