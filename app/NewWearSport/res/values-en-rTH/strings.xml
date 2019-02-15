@@ -37,7 +37,7 @@
     <string name="crossing_history_detail_low_altitude">ระดับความสูงต่ำสุด</string>
     <string name="crossing_history_detail_ave_altitude">ความสูงเฉลี่ย</string>
     <string name="crossing_history_detail_altituede_graph_desc">ระดับความสูง (ฟุต)</string>
-    <string name="crossing_history_detail_individual_km">ไมล์ %1$s สำหรับรอบเดียว</string>
+    <string name="crossing_history_detail_individual_km">%1$s ไมล์ สำหรับรอบเดียว</string>
     <string name="crossing_setting_unit">ไมล์</string>
     <string name="crossing_settings_item_title_individual_remind">ระยะทางรอบเดียว</string>
     <string name="crossing_settings_item_value_individual">%1s กิโลเมตร</string>
@@ -101,8 +101,8 @@
     <string name="battery_continue_imperial_distance_unit"> ไมล์</string>
     <string name="battery_continue_time_unit"> ชม.</string>
     <string name="battery_split"> / </string>
-    <string name="suggest_reset_time">Time to full recovery %1$s hrs</string>
-    <string name="remain_time_recovery"><Data>Time to full recovery&amp;nbsp;&lt;font color=#00ff00&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;/font&gt;&amp;nbsp; h</Data></string>
+    <string name="suggest_reset_time">เวลาที่ใช้ในการกู้คืน %1$s ชั่วโมง</string>
+    <string name="remain_time_recovery"><Data>เวลาที่ใช้ในการกู้คืน&amp;nbsp;&lt;font color=#00ff00&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;/font&gt;&amp;nbsp; ชม.</Data></string>
     <string name="more_sport_tint">เพิ่ม​เติม</string>
     <string name="zh_space">　</string>
     <string name="en_space"> </string>
@@ -179,7 +179,7 @@
     <string name="history_step_freq_graph_desc">รอบขา(ขั้น/นาที)</string>
     <string name="history_title">กิจกรรม</string>
     <string name="history_detail_info">ราย​ละเอียด</string>
-    <string name="hitory_rest_command">เวลาในการกู้คืน </string>
+    <string name="hitory_rest_command">เวลาที่ใช้ในการกู้คืน</string>
     <string name="hitory_rest_command_time"> ชม.</string>
     <string name="history_month_target_title">เป้าหมายรายเดือน</string>
     <string name="history_month_dis">%1$s/%2$dกม.</string>
@@ -491,11 +491,11 @@
     <string name="first_beat_help_title_daily_perpormence">สถานะประสิทธิภาพ</string>
     <string name="first_beat_help_title_recovery_time">เวลาในการกู้คืน</string>
     <string name="first_beat_help_vo2_max">"&lt;font color=#00FF00&gt;What is this？&lt;/font&gt;&lt;br/&gt; VO2Max represents the maximum volume of oxygen the body can consume in one minute as measured in ml/kg/min. It evaluates the state of users ' cardiorespiratory fitness which is important for overall health, well-being and sports performace. &lt;br/&gt;The watch will automatically evaluate your VO2Max based on heartrate, speed etc. during a moderate intensity running workout and compare that to a reference group of same age and gender to determine your fitness level. &lt;br/&gt;&lt;font color=#00FF00&gt;How to evaluate？&lt;/font&gt;&lt;br/&gt; 1. Provide accurate profile information like age and gender in Amazfit Watch app during setup； &lt;br/&gt; 2. Take a brisk 15 minutes or more outdoor run with the watch on and make sure heartrate is at or above 75% of your maxHR for at least 10 minutes. &lt;br/&gt; 3. After completing the run, you can check current VO2Max in the sports activities app on the watch or personal status page in Amazift Watch app. &lt;br/&gt;&lt;small&gt;For more details, please see Help in Amazfit Watch app.&lt;/small&gt;"</string>
-    <string name="first_beat_help_te">&lt;font color=#00FF00&gt;What is this？&lt;/font&gt;&lt;br/&gt; Training Effect (TE) measures the accumulated load during a workout and interprets its impact on your aerobic fitness. TE starts from level 0.0. As the workout progresses successfully, TE value increases (from 0 towards 5), telling you how the workout effects your fitness. &lt;br/&gt;&lt;font color=#00FF00&gt;How is it calculated? &lt;/font&gt;&lt;br/&gt; TE is calculated based on your user profile, heart beat data and difficulty of the workout.&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; The watch will show realtime TE measurement during a workout as well as final TE result at the end of the workout. A&amp;lt;2.0 TE simply indicates that the workout has little effect on cardiorespiratory fitness and is useful only for building an endurance base and recovery. &lt;br/&gt;&lt;small&gt;For more details, please see Help in Amazfit Watch app.&lt;/small&gt;</string>
+    <string name="first_beat_help_te">&lt;font color=#00FF00&gt;คืออะไร?&lt;/font&gt;&lt;br/&gt; ผลการฝึกอบรม (TE) วัดโหลดสะสมในระหว่างออกกำลังกาย และแปลผลกระทบต่อการออกกำลังกายแอโรบิก เต้เริ่มจากระดับ 0.0 เป็นการออกกำลังกายโรจน์สำเร็จ เพิ่มค่า TE (จาก 0 ไป 5), บอกวิธีการออกกำลังกายผลการ &lt;br/&gt;&lt;font color=#00FF00&gt;คำนวณ &lt;/font&gt;&lt;br/&gt; TE จะคำนวณตามบนโปรไฟล์ผู้ใช้ ข้อมูลการเต้นหัวใจ และความยากของการออกกำลังกาย&lt;br/&gt;&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp นาฬิกาจะแสดงวัดเรียลไทม์ระหว่างการออกกำลังกายเป็นผลสุดท้าย TE TE ที่สิ้นสุดของการออกกำลังกาย&amp;lt; 2.0 TE ก็แสดงให้เห็นว่า การออกกำลังกายมีผลเล็ก cardiorespiratory ฟิต และมีประโยชน์สำหรับการสร้างเป็นฐานความอดทนและการกู้คืนเท่านั้น &lt;br/&gt;&lt;small&gt;รายละเอียดเพิ่มเติม กรุณาดูวิธีใช้ในแอพ Amazfit Watch&lt;/small&gt;</string>
     <string name="first_beat_help_train_load">The watch will calculate Training Load based on EPOC (Excess Post-exercise Oxygen Consumption) values accumulated from heartrate data recorded during workouts in a 7-day rolling window. The user can adjust the training schedule accordingly to reach optimal load. &lt;br/&gt;&lt;small&gt;For more details, please see Help in Amazfit Watch app.&lt;/small&gt;</string>
     <string name="first_beat_help_run_target_and_real_time_guide">นาฬิกาจะให้คำแนะนำการออกกำลังกายตามระดับการออกกำลังกาย VO2Max ของคุณโหลดการฝึกซ้อมล่าสุดและสถานะการฟื้นฟูจากการออกกำลังกายก่อนหน้า &lt;br/&gt; หากคุณเปิดใช้งานคุณสมบัติการฝึกแบบเรียลไทม์ในการตั้งค่าและตั้งค่าเป้าหมาย TE หรือเลือกหนึ่งในการออกกำลังกายที่แนะนำนาฬิกาจะแนะนำคุณตลอดการออกกำลังกายและพร้อมที่จะปรับอัตราการเต้นของหัวใจเพื่อให้บรรลุเป้าหมายที่ตั้งไว้&lt;br/&gt; &lt;small&gt; หรือรายละเอียดเพิ่มเติมโปรดดูวิธีใช้ในแอพ Amazfit Watch&lt;/small&gt;</string>
     <string name="first_beat_help_daily_perpormence">"&lt;font color=#00FF00&gt;What is this？&lt;/font&gt;&lt;br/&gt;Realtime Performance Condition indicates if you are above or below your average performance level, and how accumulating fatigue affects your performance during a workout. &lt;br/&gt;&lt;font color=#00FF00&gt;How is it used？&lt;/font&gt;&lt;br/&gt;The watch will evaluate your performance condition automatically after ~6 minutes of running. A higher-than-avarage value indicates that you can make a harder workout than you'd normally do. A lower value suggests that you should take a easier workout. &lt;br/&gt;After completing a workout, you can analyze the performance by looking at the result at each km/mile on the graph. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;For more details, please see Help in Amazfit Watch app.&lt;/small&gt;"</string>
-    <string name="first_beat_help_recovery_time">After completing a workout, you will be provided with time in minutes to full recovery. Between workouts recovery time is linearly decreased towards zero if there is no new workout data available. The user is encouraged to have some low intensiy workouts to help with recovery. &lt;br/&gt;&lt;small&gt;For more details, please see Help in Amazfit Watch app.&lt;/small&gt;</string>
+    <string name="first_beat_help_recovery_time">หลังจากออกกำลังกายเสร็จคุณจะได้รับเวลาในไม่กี่นาทีในการฟื้นฟูอย่างเต็มรูปแบบ ระหว่างเวลาการกู้คืนการออกกำลังกายจะลดลงเป็นเส้นตรงเป็นศูนย์หากไม่มีข้อมูลการออกกำลังกายใหม่ให้ใช้งาน ผู้ใช้ควรมีการออกกำลังกายที่มีความเข้มข้นต่ำเพื่อช่วยในการกู้คืน &lt;br/&gt;&lt;small&gt;สำหรับรายละเอียดเพิ่มเติมโปรดดูความช่วยเหลือในแอป Amazfit Watch &lt;/small&gt;</string>
     <string name="vo2max_unit">mg/kg/min</string>
     <string name="run_vo2max_unit">ml / kg / min</string>
     <string name="vo2_max_has_no_data">ไม่มีข้อมูล</string>
