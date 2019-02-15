@@ -22,11 +22,11 @@
     <string name="crossing_individual_pen_cost_time">Single lap time</string>
     <string name="crossing_individual_pen_pace">Single lap pace</string>
     <string name="crossing_climb_unit">м</string>
-    <string name="crossing_vertical_velocity_unit">ft/h</string>
+    <string name="crossing_vertical_velocity_unit">фута/ч</string>
     <string name="crossing_history_detail_total_time">Total time</string>
     <string name="crossing_history_detail_move_time">Active time</string>
     <string name="crossing_history_detail_ave_move_pace">Avg pace</string>
-    <string name="crossing_history_detail_ave_move_pace_unit">/km</string>
+    <string name="crossing_history_detail_ave_move_pace_unit">/км</string>
     <string name="crossing_history_detail_best_pace">Best pace</string>
     <string name="crossing_history_detail_ave_move_speed">Avg speed</string>
     <string name="crossing_history_detail_max_speed">Max speed</string>
@@ -43,7 +43,7 @@
     <string name="crossing_settings_item_value_individual">%1s km</string>
     <string name="crossing_remind_target_individual_title">Lap %1d</string>
     <string name="crossing_remind_target_individual_cost_time">Time</string>
-    <string name="crossing_remind_target_individual_pace">Pace</string>
+    <string name="crossing_remind_target_individual_pace">Темпо</string>
     <string name="agps_time_out">AGPS has expired. GPS searching will be slow. Connect to the Amazfit Watch App to update it.</string>
     <string name="safe_hearate_remind_content">Notify when higher than %1d BPM</string>
     <string name="settings_safe_heart_rate_hint">(Heart rate limit)</string>
@@ -104,7 +104,7 @@
     <string name="battery_split"> / </string>
     <string name="suggest_reset_time">Time to full recovery: %1$sh</string>
     <string name="remain_time_recovery"><Data>Time to full recovery&amp;nbsp;&lt;font color=#00ff00&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;/font&gt;&amp;nbsp; h</Data></string>
-    <string name="more_sport_tint">More</string>
+    <string name="more_sport_tint">Още</string>
     <string name="zh_space">&amp;#12288;</string>
     <string name="en_space"> </string>
     <string name="picker_title_auto_pause">Pace (m:s/%1$s)</string>
@@ -200,7 +200,7 @@
     <string name="unit_cadence">rpm</string>
     <string name="sport_main_heart_info_title">Heartrate</string>
     <string name="sport_main_beyond_heart_info_title">High heart rate</string>
-    <string name="sport_main_pace_info_title">Pace</string>
+    <string name="sport_main_pace_info_title">Темпо</string>
     <string name="heartrate_x_axis_time_format">HH:mm:ss</string>
     <string name="lap_title">Lap %1$d</string>
     <string name="manual_lap_title">Manual laps %1$d</string>
@@ -245,7 +245,7 @@
     <string name="adjust_tips_title">Auto lap distance has been changed</string>
     <string name="adjust_swim_tips">Auto lap distance has been set as the pool length. If you want to reset it, go to activity settings.</string>
     <string name="hill_title">Slope distribution</string>
-    <string name="hill_even">Flat</string>
+    <string name="hill_even">Плосък</string>
     <string name="hill_up">Uphill</string>
     <string name="hill_down">Downhill</string>
     <string name="hill_default_time">00:00:00</string>
@@ -323,7 +323,7 @@
     <string name="swim_swolf_unit_default">(100 m)</string>
     <string name="swim_swolf_unit_yd">(%1$s yd)</string>
     <string name="swim_swolf_unit_default_yd">(100 yd)</string>
-    <string name="swim_pace">Pace</string>
+    <string name="swim_pace">Темпо</string>
     <string name="swim_pace_unit">/100 m</string>
     <string name="swim_pace_unit_imperial">/100 ft</string>
     <string name="swim_trips_unit">laps (%1$d m/lap)</string>
@@ -350,7 +350,7 @@
     <string name="gps_close_notification_content">Due to inactivity, GPS will be turned off in 1 minute.</string>
     <string name="per_correspond_km">Every %1$d km</string>
     <string name="per_correspond_mi">Every %1$d mi</string>
-    <string name="more_operation">More</string>
+    <string name="more_operation">Още</string>
     <string name="detail_route_detail_train_lap_title">Interval details</string>
     <string name="interval_train_tips_title">Alerts will be off by default during intervals</string>
     <string name="interval_train_tips_content">(Except for heart rate alerts)</string>
@@ -389,7 +389,7 @@
     <string name="sport_tennis_backhand">Backhand</string>
     <string name="sport_tennis_serve">Serve</string>
     <string name="sport_setting_clap_the_hands">Racket hand</string>
-    <string name="sport_setting_left_hand">Left</string>
+    <string name="sport_setting_left_hand">Ляво</string>
     <string name="sport_setting_right_hand">Right</string>
     <string name="sport_please_select_clap_hand">Select racket hand</string>
     <string name="skiing_stop_dialog_msg_not_reach_minimum_distance">Need more laps to save data. End anyway?</string>
@@ -463,10 +463,10 @@
 exercises recorded in the past 7 days"</string>
     <string name="train_load_suggess_status_less">Ниско</string>
     <string name="train_load_suggess_status_good">Optimal</string>
-    <string name="train_load_suggess_status_recovery">High</string>
+    <string name="train_load_suggess_status_recovery">Високо</string>
     <string name="train_load_suggess_status_over">Overreaching</string>
-    <string name="real_time_perpormance_level_very_good">Good</string>
-    <string name="real_time_perpormance_level_good">Good</string>
+    <string name="real_time_perpormance_level_very_good">Добро</string>
+    <string name="real_time_perpormance_level_good">Добро</string>
     <string name="real_time_perpormance_level_average">Normal</string>
     <string name="real_time_perpormance_level_fatigued">Fatigued</string>
     <string name="real_time_perpormance_level_very_fatigued">Fatigued</string>
@@ -527,7 +527,7 @@ exercises recorded in the past 7 days"</string>
     <string name="gpx_select_closed">Close</string>
     <string name="gpx_select_empty"></string>
     <string name="gpx_details_view">Select</string>
-    <string name="gpx_details_use">Use</string>
+    <string name="gpx_details_use">Използвай</string>
     <string name="gpx_route_loading">Just a sec…</string>
     <string name="dialog_remind_to_look_route">View route</string>
     <string name="gpx_offset_route">Deviated route</string>
@@ -710,8 +710,8 @@ exercises recorded in the past 7 days"</string>
     <string name="last_lap_duration">Lap time</string>
     <string name="last_lap_hr">Lap HR</string>
     <string name="last_lap_speed">Lap speed</string>
-    <string name="running_cost_time_desc">Time</string>
-    <string name="running_pace_desc">Pace</string>
+    <string name="running_cost_time_desc">Време</string>
+    <string name="running_pace_desc">Темпо</string>
     <string name="running_calorie_desc">Calories</string>
     <string name="running_step_freq_desc">Cadence</string>
     <string name="running_speed_desc">Speed</string>
@@ -742,11 +742,11 @@ exercises recorded in the past 7 days"</string>
     <string name="sport_start">Start</string>
     <string name="sport_pause">Pause</string>
     <string name="sport_continue">Resume</string>
-    <string name="sport_stop">Stop</string>
+    <string name="sport_stop">Стоп</string>
     <string name="running_kilometers">км</string>
     <string name="running_avg_pace_desc_simple">Avg pace</string>
     <string name="running_avg_speed_desc_simple">Avg speed</string>
-    <string name="running_pace_unit">/km</string>
+    <string name="running_pace_unit">/км</string>
     <string name="running_calorie_unit">kcal</string>
     <string name="running_step_freq_unit">steps/min</string>
     <string name="running_speed_unit">km/h</string>
@@ -756,11 +756,11 @@ exercises recorded in the past 7 days"</string>
     <string name="running_control_title">Running</string>
     <string name="running_control_paused_des">Session paused</string>
     <string name="sport_history_item_distance_desc">Distance (km)</string>
-    <string name="sport_history_item_cost_time_desc">Time</string>
+    <string name="sport_history_item_cost_time_desc">Време</string>
     <string name="running_avg_step_freq_desc">Avg cadence</string>
     <string name="running_stop_dialog_msg_reach_minimum_distance">Stop this activity?</string>
     <string name="running_stop_dialog_msg_not_reach_minimum_distance">The distance is too short to save. Stop anyway?</string>
-    <string name="running_stop_dialog_positive_text">Stop</string>
+    <string name="running_stop_dialog_positive_text">Стоп</string>
     <string name="running_stop_dialog_negative_text">Cancel</string>
     <string name="sport_history_total_distance_desc">Distance</string>
     <string name="sport_history_header_total_count_desc">Total sessions</string>
@@ -825,10 +825,10 @@ exercises recorded in the past 7 days"</string>
     <string name="sport_medal_desc_continuous_7_days_sport">7-day running streak</string>
     <string name="sport_medal_desc_continuous_30_days_sport">30-day running streak</string>
     <string name="sport_saving_record">Saving record…</string>
-    <string name="running_button_stop">Stop</string>
+    <string name="running_button_stop">Стоп</string>
     <string name="running_button_pause">Pause</string>
     <string name="running_button_continue">Resume</string>
-    <string name="running_button_save">Save</string>
+    <string name="running_button_save">Запази</string>
     <string name="running_achivement">Achievements</string>
     <string name="running_record">Records</string>
     <string name="running_setting">Settings</string>
@@ -841,8 +841,8 @@ exercises recorded in the past 7 days"</string>
     <string name="remind_target_km_walking_title_format">Completed: %1$d km</string>
     <string name="remind_target_distance_finished">Completed</string>
     <string name="remind_target_cost_time_desc">Time</string>
-    <string name="remind_target_pace_desc">Pace</string>
-    <string name="remind_target_distance_pace_unit">/km</string>
+    <string name="remind_target_pace_desc">Темпо</string>
+    <string name="remind_target_distance_pace_unit">/км</string>
     <string name="remind_heart_rate_too_high">Heart rate is too high</string>
     <string name="remind_heart_rate_value_before">Current</string>
     <string name="remind_heart_rate_value_after">BPM</string>
@@ -851,12 +851,12 @@ exercises recorded in the past 7 days"</string>
     <string name="remind_pace_too_fast">Pace is too fast</string>
     <string name="remind_pace_current">Current</string>
     <string name="remind_pace_target">Goal</string>
-    <string name="remind_pace_pace_unit">/km</string>
+    <string name="remind_pace_pace_unit">/км</string>
     <string name="remind_target_time_title_format">Target at %1$dh %2$dm</string>
     <string name="remind_target_time_distance">Distance</string>
     <string name="remind_target_time_distance_unit">км</string>
-    <string name="remind_target_time_pace">Pace</string>
-    <string name="remind_target_time_pace_unit">/km</string>
+    <string name="remind_target_time_pace">Темпо</string>
+    <string name="remind_target_time_pace_unit">/км</string>
     <string name="sport_in_progress_confirm">ОК</string>
     <string name="sport_modify">Calibrate</string>
     <string name="sport_history_detail_heart_unit">Unit (h:m:s)</string>
@@ -883,7 +883,7 @@ exercises recorded in the past 7 days"</string>
     <string name="history_detail_walking_cost_time">Walking time</string>
     <string name="settings_sport_slpt_second_brush">Per second stats refresh</string>
     <string name="settings_sport_music_Watercress">Sports FM</string>
-    <string name="settings_sport_music_play_settings">Music settings</string>
+    <string name="settings_sport_music_play_settings">Настройки на музика</string>
     <string name="settings_sport_lock_screen">Display info on the Lock screen</string>
     <string name="settings_sport_three_data">3 items</string>
     <string name="settings_sport_three_big_data">3 items (large)</string>
@@ -900,8 +900,8 @@ exercises recorded in the past 7 days"</string>
     <string name="gps_time_out_re_rearch">GPS has expired, search again.</string>
     <string name="walking_step">steps</string>
     <string name="waling_steps">steps</string>
-    <string name="date_am">"'AM'"</string>
-    <string name="date_pm">"'PM'"</string>
+    <string name="date_am">"'Преди обяд'"</string>
+    <string name="date_pm">"'След обяд'"</string>
     <string name="setting_sport_remind_region">Alert zone</string>
     <string name="setting_sport_heart_region_remind">Heart rate zone alert</string>
     <string name="setting_sport_heart_region_fat_burning">Fat burning zone</string>
@@ -930,7 +930,7 @@ exercises recorded in the past 7 days"</string>
     <string name="km_metric">км</string>
     <string name="metre_metric">м</string>
     <string name="km_metric_pace_unit">/км</string>
-    <string name="km_metric_speed_unit">km/h</string>
+    <string name="km_metric_speed_unit">км/ч</string>
     <string name="km_metric_distance">Distance (km)</string>
     <string name="km_metric_remind_target_distance_title_format">Goal: %1$d km</string>
     <string name="km_metric_remind_target_km_title_format">Completed %1$d km</string>
@@ -945,7 +945,7 @@ exercises recorded in the past 7 days"</string>
     <string name="km_imperial">мили</string>
     <string name="metre_imperial">фута</string>
     <string name="km_imperial_pace_unit">/мили</string>
-    <string name="km_imperial_speed_unit">mph</string>
+    <string name="km_imperial_speed_unit">мили/ч</string>
     <string name="km_imperial_distance">Distance (mi)</string>
     <string name="km_imperial_remind_target_distance_title_format">Goal: %1$d mi</string>
     <string name="km_imperial_remind_target_km_title_format">Completed %1$d mi</string>
