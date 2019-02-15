@@ -171,12 +171,12 @@
     <string name="heart_name">อัตราการเต้นของหัวใจ</string>
     <string name="step_name">ก้าว</string>
     <string name="sleep_name">การนอนหลับ</string>
-    <string name="floor_description">Note: \"One floor\" is roughtly 10 feet</string>
+    <string name="floor_description">หมายเหตุ: \"หนึ่งชั้น\" ประมาณ 10 ฟุต</string>
     <string name="climbed_floors">Floors climbed</string>
-    <string name="widget_label_step">Today</string>
+    <string name="widget_label_step">วันนี้</string>
     <string name="widget_heart_analysis">วิเคราะห์</string>
-    <string name="widget_step_target_txt">Goal:  <liff>%d</liff></string>
-    <string name="widget_step_target_complete">Reached the goal</string>
+    <string name="widget_step_target_txt">เป้าหมาย:  <liff>%d</liff></string>
+    <string name="widget_step_target_complete">บรรลุเป้าหมายแล้ว</string>
     <string name="widget_step_target_second_tips"><liff>%d</liff> วินาที ผ่านไป</string>
     <string name="widget_step_target_min_tips"><liff>%d</liff> นาที ผ่านไป</string>
     <string name="widget_step_target_hour_tips"><liff>%d</liff> ชั่วโมง ผ่านไป</string>
@@ -230,7 +230,7 @@
     <string name="weeklysports_running">วิ่ง</string>
     <string name="weeklysports_walking">เดิน</string>
     <string name="weeklysports_riding">จักรยาน</string>
-    <string name="weekly_step_attained_rate">Days to reach step goal</string>
+    <string name="weekly_step_attained_rate">วันที่จะก้าวไปถึงเป้าหมาย</string>
     <string name="weekly_sports_notification_content">สรุปกิจกรรมจากสัปดาห์ที่แล้วพร้อมแล้ว</string>
     <string name="weekly_sports_notification_action">เพิ่ม​เติม</string>
     <string name="weeklysports_date_format">yyyy/MM/dd</string>
@@ -251,7 +251,7 @@
     <string name="currentstep_detail_activity_run_rate_ma">ก้าวที่ดีที่สุด</string>
     <string name="currentstep_detail_activity_walk_ridding_rate_av">เฉลี่ยความเร็ว</string>
     <string name="currentstep_detail_activity_walk_ridding_rate_ma">ความเร็วสูงสุด</string>
-    <string name="currentstep_detail_activity_mount_total_disacend">Ground speed distance</string>
+    <string name="currentstep_detail_activity_mount_total_disacend">ระยะทางความเร็วพื้นดิน</string>
     <string name="currentstep_detail_activity_mount_total_up">ระดับความสูง</string>
     <string name="currentstep_detail_heart_rate_max_text">สูงสุด</string>
     <string name="currentstep_detail_heart_rate_min_text">ต่ำสุด</string>
