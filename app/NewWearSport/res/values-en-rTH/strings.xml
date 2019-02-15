@@ -465,7 +465,7 @@
     <string name="real_time_perpormance_level_very_fatigued">เหนื่อยล้า</string>
     <string name="sport_target_remind_head_title">เป้าหมายที่แนะนำ</string>
     <string name="sport_run_train_title">เริ่มการฝึกวิ่ง</string>
-    <string name="sport_target_remind_status_rest_or_light">Recovery after running</string>
+    <string name="sport_target_remind_status_rest_or_light">การกู้คืนหลังจากการวิ่ง</string>
     <string name="sport_target_remind_status_maintaining">รักษาประสิทธิภาพที่เกี่ยวข้องกับกีฬา</string>
     <string name="sport_target_remind_status_improving">ปรับปรุงความสามารถในการฝึกอบรม</string>
     <string name="sport_target_remind_status_count"></string>
@@ -496,8 +496,8 @@
     <string name="first_beat_help_run_target_and_real_time_guide">นาฬิกาจะให้คำแนะนำการออกกำลังกายตามระดับการออกกำลังกาย VO2Max ของคุณโหลดการฝึกซ้อมล่าสุดและสถานะการฟื้นฟูจากการออกกำลังกายก่อนหน้า &lt;br/&gt; หากคุณเปิดใช้งานคุณสมบัติการฝึกแบบเรียลไทม์ในการตั้งค่าและตั้งค่าเป้าหมาย TE หรือเลือกหนึ่งในการออกกำลังกายที่แนะนำนาฬิกาจะแนะนำคุณตลอดการออกกำลังกายและพร้อมที่จะปรับอัตราการเต้นของหัวใจเพื่อให้บรรลุเป้าหมายที่ตั้งไว้&lt;br/&gt; &lt;small&gt; หรือรายละเอียดเพิ่มเติมโปรดดูวิธีใช้ในแอพ Amazfit Watch&lt;/small&gt;</string>
     <string name="first_beat_help_daily_perpormence">"&lt;font color=#00FF00&gt;What is this？&lt;/font&gt;&lt;br/&gt;Realtime Performance Condition indicates if you are above or below your average performance level, and how accumulating fatigue affects your performance during a workout. &lt;br/&gt;&lt;font color=#00FF00&gt;How is it used？&lt;/font&gt;&lt;br/&gt;The watch will evaluate your performance condition automatically after ~6 minutes of running. A higher-than-avarage value indicates that you can make a harder workout than you'd normally do. A lower value suggests that you should take a easier workout. &lt;br/&gt;After completing a workout, you can analyze the performance by looking at the result at each km/mile on the graph. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;For more details, please see Help in Amazfit Watch app.&lt;/small&gt;"</string>
     <string name="first_beat_help_recovery_time">หลังจากออกกำลังกายเสร็จคุณจะได้รับเวลาในไม่กี่นาทีในการฟื้นฟูอย่างเต็มรูปแบบ ระหว่างเวลาการกู้คืนการออกกำลังกายจะลดลงเป็นเส้นตรงเป็นศูนย์หากไม่มีข้อมูลการออกกำลังกายใหม่ให้ใช้งาน ผู้ใช้ควรมีการออกกำลังกายที่มีความเข้มข้นต่ำเพื่อช่วยในการกู้คืน &lt;br/&gt;&lt;small&gt;สำหรับรายละเอียดเพิ่มเติมโปรดดูความช่วยเหลือในแอป Amazfit Watch &lt;/small&gt;</string>
-    <string name="vo2max_unit">mg/kg/min</string>
-    <string name="run_vo2max_unit">ml / kg / min</string>
+    <string name="vo2max_unit">มก./กก./นาที</string>
+    <string name="run_vo2max_unit">มล./กก./นาที</string>
     <string name="vo2_max_has_no_data">ไม่มีข้อมูล</string>
     <string name="sport_setting_gpx_route_selected">แทร็กที่เลือก</string>
     <string name="sport_setting_gpx_route_selectd_remind">มีการนำทางกลางแจ้งโดยใช้เส้นทาง หากไม่ต้องการ เลือกปิด</string>
@@ -563,7 +563,7 @@
     <string name="outdoor_speed_graph_title">ความเร็ว(ไมล์/ชม.)</string>
     <string name="not_testing_speed_data">ตรวจไม่พบข้อมูลความเร็ว</string>
     <string name="con_leqi_table_title">นาฬิการองรับตารางการขี่จักรยาน LEQI เชื่อมต่อแล้วหรือยัง?</string>
-    <string name="con_leqi_table_subtitle">(Bind in System settings-Bluetooth device)</string>
+    <string name="con_leqi_table_subtitle">(ผูกในการตั้งค่าระบบ - อุปกรณ์บลูทูธ)</string>
     <string name="remind_target_riding_km_title_format">เสร็จแล้ว %1$d ไมล์</string>
     <string name="indoor_riding_time_too_short">ระยะทางสั้นเกินไปที่จะบันทึก คุณแน่ใจหรือว่าจะหยุด?</string>
     <string name="outdoor_climb_down_altitude">การสูญเสียระดับความสูงสะสม</string>
@@ -638,7 +638,7 @@
     <string name="setting_item_totla_count_reminder">นับรวมเตือนความจำ</string>
     <string name="settings_sport_arrive_goal_reminder">เตือนถึงเป้าหมาย</string>
     <string name="alert_skip_you_finish">คุณทำเสร็จแล้ว</string>
-    <string name="finish_index_count">No.%1$s</string>
+    <string name="finish_index_count">หมายเลข%1$s</string>
     <string name="sport_widget_title_rope_skip">เชือกกระโดด</string>
     <string name="rope_frequency_unit">กระโดด/นาที</string>
     <string name="rope_total_count_remind_title">เสร็จสิ้นการนับ</string>
@@ -647,7 +647,7 @@
     <string name="sport_pause_normal_rope_skip_unit">จำนวน</string>
     <string name="sport_pause_last_min_times_reminder">ต้องการกิจกรรมเพิ่มเติมเพื่อบันทึกข้อมูลหรือไม่</string>
     <string name="rope_skip_this_frequency">รอบเฉลี่ย</string>
-    <string name="rope_skip_aleary_group"><Data>Completed groups: &lt;font color=#00ff00&gt;%1$s&lt;/font&gt;</Data></string>
+    <string name="rope_skip_aleary_group"><Data>Cกลุ่มที่เสร็จสมบูรณ์: &lt;font color=#00ff00&gt;%1$s&lt;/font&gt;</Data></string>
     <string name="sport_remind_total_times">กระโดดรวม: %1$s</string>
     <string name="sport_main_graph_title_rope_skip">ล่าสุด(วิ)</string>
     <string name="sport_rope_skip_requency">ความถี่ (กระโดด/นาที)</string>
