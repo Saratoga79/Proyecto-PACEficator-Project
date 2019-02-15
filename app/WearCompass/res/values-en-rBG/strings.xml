@@ -13,13 +13,13 @@
     <string name="altitude_ft">Altitude (ft)</string>
     <string name="atmospheric_pressure">Pressure (hPa)</string>
     <string name="ori_north">N</string>
-    <string name="ori_northeast">NE</string>
-    <string name="ori_east">E</string>
-    <string name="ori_southeast">SE</string>
-    <string name="ori_south">S</string>
-    <string name="ori_southwest">SW</string>
-    <string name="ori_west">W</string>
-    <string name="ori_northwest">NW</string>
+    <string name="ori_northeast">СИ</string>
+    <string name="ori_east">И</string>
+    <string name="ori_southeast">ЮИ</string>
+    <string name="ori_south">Ю</string>
+    <string name="ori_southwest">ЮЗ</string>
+    <string name="ori_west">З</string>
+    <string name="ori_northwest">СЗ</string>
     <string name="correcting">Calibrating</string>
     <string name="correcting_line1">Turn your wrist to</string>
     <string name="correcting_line2">roll the ball</string>
@@ -29,7 +29,7 @@
     <string name="zero">0.00</string>
     <string name="latitude_longitude_value_format_str">%1$s°%2$s′%3$s″</string>
     <string name="gps_tip">"Couldn't load data. Try again outdoors."</string>
-    <string name="confirm">OK</string>
+    <string name="confirm">ОК</string>
     <string name="unknown">--</string>
     <string name="compass_roll_tip">"Adjust the watch face-up
 to the horizontal position."</string>
