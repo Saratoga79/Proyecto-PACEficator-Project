@@ -71,7 +71,7 @@
     <string name="stroke_speed_curve_title">อัตราจังหวะ (SPM)</string>
     <string name="stroke_unit">จังหวะ</string>
     <string name="cadence_curve_title">รอบขา(ครั้ง/นาที)</string>
-    <string name="swim_trips_complete">Swim %1$d trips</string>
+    <string name="swim_trips_complete">ว่ายน้ำ %1$d รอบ</string>
     <string name="gps_search_tips">การออกกำลังกาย 15 นาทีก่อนเริ่มวิ่งช่วยป้องกันการบาดเจ็บ</string>
     <string name="gps_search_swim_tips">หน้าจอสัมผัสจะถูกล็อค</string>
     <string name="gps_searching">กำลัง​ค้น​หา</string>
@@ -85,7 +85,7 @@
     <string name="gps_notify_success">GPS พร้อมใช้งาน</string>
     <string name="gps_notify_loss">ไม่มีสัญญาณ GPS</string>
     <string name="gps_search_time_out_content">GPS ถูกปิดเนื่องจากไม่มีการใช้งาน</string>
-    <string name="detail_route_title">Route</string>
+    <string name="detail_route_title">เส้นทาง</string>
     <string name="detail_route_total_dis">ระยะทางรวม</string>
     <string name="detail_route_detail_lap_title">Lap Details</string>
     <string name="detail_route_detail_manual_lap_title">Key Laps</string>
@@ -113,10 +113,10 @@
     <string name="picker_title_target_calorie">แคลอรี่ (กิโลแคลอรี)</string>
     <string name="picker_title_target_te">เป้าหมาย TE</string>
     <string name="picker_title_target_heart_rate">อัตราการเต้นหัวใจ (ครั้งต่อนาที)</string>
-    <string name="picker_title_auto_lap">Auto Lap(%1$s)</string>
+    <string name="picker_title_auto_lap">รอบเวลาอัตโนมัติ (%1$s)</string>
     <string name="picker_title_swim_length">Pool Size(%1$s)</string>
     <string name="picker_title_target_trips">เป้าหมายการเดินทาง</string>
-    <string name="picker_title_fix_dis">Calibrate(%1$s)</string>
+    <string name="picker_title_fix_dis">ปรับเทียบ(%1$s)</string>
     <string name="picker_sub_title_te_one">(ปรับปรุง)</string>
     <string name="picker_sub_title_te_two">(ปรับปรุง)</string>
     <string name="picker_sub_title_te_three">(ปรับปรุง)</string>
@@ -132,7 +132,7 @@
     <string name="settings_sport_items">ข้อมูลหน้าจอ</string>
     <string name="settings_sport_3d_data">ข้อมูล 3D</string>
     <string name="settings_sport_real_graph">สถิติแบบเรียลไทม์</string>
-    <string name="settings_sport_auto_section">Auto Lap</string>
+    <string name="settings_sport_auto_section">รอบเวลาอัตโนมัติ</string>
     <string name="settings_sport_lap">รอบเวลา</string>
     <string name="settings_sport_lap_auto">รอบเวลาอัตโนมัติ</string>
     <string name="settings_sport_lap_auto_remind">แจ้งเตือนรอบอัตโนมัติ</string>
@@ -195,7 +195,7 @@
     <string name="sport_main_beyond_heart_info_remind">นอกเหนือจากอัตราการเต้นหัวใจ</string>
     <string name="sport_main_pace_info_title">ก้าว</string>
     <string name="heartrate_x_axis_time_format">HH:mm:ss</string>
-    <string name="lap_title">Lap %1$d</string>
+    <string name="lap_title">รอบเวลา %1$d</string>
     <string name="manual_lap_title">Key Lap %1$d</string>
     <string name="auto_lap_title">Auto Lap %1$d</string>
     <string name="lap_total_time">เวลารวม</string>
@@ -212,7 +212,7 @@
     <string name="sport_main_avg_stride">ความยาวก้าวเฉลี่ย</string>
     <string name="sport_main_stride">ความยาวก้าว</string>
     <string name="sport_main_total_kcal">แคลอรี่</string>
-    <string name="sport_main_avg_stride_unit">cm/stride</string>
+    <string name="sport_main_avg_stride_unit">ซม./ก้าว</string>
     <string name="sport_main_avg_heart_rate">อัตราการเต้นของหัวใจเฉลี่ย</string>
     <string name="sport_main_max_heart_rate">อัตราการเต้นของหัวใจสูงสุด</string>
     <string name="sport_main_min_heart_rate">อัตราการเต้นของหัวใจต่ำสุด</string>
@@ -224,7 +224,7 @@
     <string name="sport_pause_swim_dis_unit">ระยะทาง</string>
     <string name="sport_pause_normal_dis_type">ระยะทางรวม  </string>
     <string name="sport_pause_normal_dis_unit">ระยะเป็นไมล์</string>
-    <string name="sport_pause_normal_stroke_unit">Strokes</string>
+    <string name="sport_pause_normal_stroke_unit">จังหวะ</string>
     <string name="sport_auto_lap_dis">%1$s กม. ใน</string>
     <string name="sport_auto_lap_dis_imperial">%1$s ไมล์ ใน</string>
     <string name="sport_graph_title_ave">Avg</string>
@@ -237,7 +237,7 @@
     <string name="adjust_tips_title">เปลี่ยนการตั้งค่าระยะทางอัตโนมัติ</string>
     <string name="adjust_swim_tips">Auto lapping distance is now pool size. Please adjust it in Swim settings if needed.</string>
     <string name="hill_title">การเปลี่ยนแปลงไล่ระดับสี</string>
-    <string name="hill_even">Flat</string>
+    <string name="hill_even">เรียบ</string>
     <string name="hill_up">ขึ้นเขา</string>
     <string name="hill_down">ลงเขา</string>
     <string name="hill_default_time">00:00:00</string>
@@ -259,15 +259,15 @@
     <string name="sport_pause_time_tips">หยุดเวลา</string>
     <string name="sport_stride_unit">cm</string>
     <string name="sport_stride_unit_imperial">in</string>
-    <string name="end_last_sport_tips">Please stop %1$s activity first</string>
-    <string name="export_route_trail">Export</string>
-    <string name="sport_dlg_msg_hint_cancel">"Cancel this export?
+    <string name="end_last_sport_tips">กรุณาหยุด %1$s กิจกรรมก่อน</string>
+    <string name="export_route_trail">ส่งออก</string>
+    <string name="sport_dlg_msg_hint_cancel">"ยกเลิกการส่งออกนี้หรือไม่?
 "</string>
     <string name="exchange_prepare_riding">ถัดไป: การปั่นจักรยาน</string>
     <string name="exchange_prepare_running">ถัดไป: การวื่ง</string>
-    <string name="sport_widget_title_history_record">Activities</string>
+    <string name="sport_widget_title_history_record">กิจกรรม</string>
     <string name="sport_widget_title_elliptical">ผู้ฝึกสอนเครื่องเดินวงรี</string>
-    <string name="sport_widget_title_triathlon">Triathlon</string>
+    <string name="sport_widget_title_triathlon">ไตรกีฬา</string>
     <string name="sport_widget_title_mountaineer">ปีนเขา</string>
     <string name="sport_widget_title_mountaineering">อยู่ในการปีนเขา</string>
     <string name="sport_widget_title_triathlon_in_progress">ในไตรกีฬา</string>
@@ -285,16 +285,16 @@
     <string name="pause_sport">หยุดกิจกรรมชั่วคราว</string>
     <string name="continue_sport">ทำกิจกรรมต่อ</string>
     <string name="stop_sport">หยุดกิจกรรม</string>
-    <string name="settting_sport_gpx_route">GPX Course</string>
-    <string name="swim_max_stroke_speed">Max SPM</string>
+    <string name="settting_sport_gpx_route">หลักสูตร GPX</string>
+    <string name="swim_max_stroke_speed">SPM สูงสุด</string>
     <string name="swim_trips">Trip</string>
     <string name="heart_region_title">โซนอัตราการเต้นของหัวใจ</string>
     <string name="heart_region_anaerobic＿limit">สูงสุด</string>
     <string name="heart_region_endurance_enhancement">Anaerobic</string>
-    <string name="heart_region_heart_and_lung_enhancement">Cardio Training</string>
+    <string name="heart_region_heart_and_lung_enhancement">การฝึกอบรมเกี่ยวกับคาร์ดิโอ</string>
     <string name="heart_region_fat_burning">ลดน้ำหนัก</string>
     <string name="heart_region_warm_up_and_relax">อุ่นเครื่อง</string>
-    <string name="sport_te_title">Training Effect (TE)</string>
+    <string name="sport_te_title">ผลการฝึกอบรม (TE)</string>
     <string name="running_total_distance_desc">ระยะทางรวม</string>
     <string name="gps_close_notification_content">เนื่องจากไม่มีการใช้งาน GPS จะถูกปิดในหนึ่งนาที</string>
     <string name="sport_te_desc">การออกกำลังกายนี้จะช่วยรักษาระบบหายใจ</string>
