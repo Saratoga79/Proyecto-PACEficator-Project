@@ -29,8 +29,8 @@
     <string name="long_key_plugins_title">วิดเจ็ต</string>
     <string name="more">การตั้งค่า</string>
     <string name="find_phone">ค้นหาโทรศัพท์ของฉัน</string>
-    <string name="bluetooth_dev">Bluetooth</string>
-    <string name="wifi_dev">Wi-Fi</string>
+    <string name="bluetooth_dev">บลูทูธ</string>
+    <string name="wifi_dev">ไวไฟ</string>
     <string name="check_for_update">อัพเดต</string>
     <string name="change_language">ภาษา</string>
     <string name="reset_factory">คืนค่าเริ่มต้นจากโรงงาน</string>
@@ -129,7 +129,7 @@
     <string name="rom_hint_dev">รอม (รุ่น Dev)</string>
     <string name="flash_capacity">พื้นที่เก็บข้อมูลทั้งหมด</string>
     <string name="flash_free_capacity">พื้นที่เก็บข้อมูลที่ใช้ได้</string>
-    <string name="blt_mac_addr">Bluetooth MAC</string>
+    <string name="blt_mac_addr">บลูทูธ MAC</string>
     <string name="wlan_addr">WLAN Address</string>
     <string name="serial_no">หมายเลขซีเรียล</string>
     <string name="cmiit_id">CMIIT ID</string>
@@ -158,7 +158,7 @@
     <string name="opened">เปิด</string>
     <string name="closed">ปิด</string>
     <string name="air_plane">โหมดเครื่องบิน</string>
-    <string name="air_plane_mode_note">โหมดเครื่องบินจะปิด Bluetooth และ Wi-Fi บนนาฬิกาเพื่อประหยัดพลังงาน หากคุณต้องการใช้คุณสมบัติที่ต้องใช้ BT / WiFi โปรดปิดโหมดเครื่องบินในการตั้งค่าระบบ</string>
+    <string name="air_plane_mode_note">โหมดเครื่องบินจะปิดบลูทูธและไวไฟบนนาฬิกาเพื่อประหยัดพลังงาน หากคุณต้องการใช้คุณสมบัติที่ต้องใช้ บลูทูธ / ไวไฟ โปรดปิดโหมดเครื่องบินในการตั้งค่าระบบ</string>
     <string name="yes">ใช่</string>
     <string name="no">ไม่</string>
     <string name="settings_long_sit_reminder">แจ้งเตือนการเคลื่อนไหว</string>
@@ -178,7 +178,7 @@
     <string name="time_to">ถึง</string>
     <string name="auto_wifi_trans_on_string">เปิด</string>
     <string name="auto_wifi_trans_off_string">ปิด</string>
-    <string name="blue_tooth_dev_in_sub_list">Bluetooth</string>
+    <string name="blue_tooth_dev_in_sub_list">บลูทูธ</string>
     <string name="scanning_blt_devices">กำลัง​ค้น​หา...</string>
     <string name="blt_bound_stat_bonded">จับคู่แล้ว</string>
     <string name="blt_bound_stat_connected">เชื่อมต่อแล้ว</string>
@@ -216,10 +216,10 @@
     <string name="bluetooth_pairing_pin_error_message">"ไม่สามารถจับคู่กับ %1$s ได้เนื่องจากมี PIN หรือรหัสผ่านไม่ถูกต้อง"</string>
     <string name="bluetooth_pairing_device_down_error_message">"ไม่สามารถเชื่อมต่อกับ %1$s"</string>
     <string name="bluetooth_pairing_rejected_error_message">การกำหนดค่าอุปกรณ์ให้ตรงกันถูกปฏิเสธโดย %1$s</string>
-    <string name="bluetooth_turning_on">กำลังเปิด Bluetooth...</string>
-    <string name="bluetooth_turning_off">กำลังปิด Bluetooth...</string>
-    <string name="bluetooth_enabled">เปิด Bluetooth</string>
-    <string name="bluetooth_disabled">ปิด Bluetooth</string>
+    <string name="bluetooth_turning_on">กำลังเปิดบลูทูธ...</string>
+    <string name="bluetooth_turning_off">กำลังปิดบลูทูธ...</string>
+    <string name="bluetooth_enabled">บลูทูธเปิดอยู่</string>
+    <string name="bluetooth_disabled">บลูทูธปิดอยู่</string>
     <string name="bluetooth_unknown">ไม่ทราบสถานะ</string>
     <string name="bluetooth_disconnect_title">ตัดการเชื่อมต่อ?</string>
     <string name="bluetooth_connect_title">เชื่อมต่อ?</string>
@@ -233,7 +233,7 @@
     <string name="lab_wifi_test_tip_testing">กำลังทดสอบ...</string>
     <string name="lab_wifi_test_tip_pass">ผ่าน!!</string>
     <string name="lab_wifi_test_tip_fail">ล้มเหลว!!</string>
-    <string name="lab_wifi_test_tip_open_wifi">เปิด WIFI</string>
+    <string name="lab_wifi_test_tip_open_wifi">กำลังเปิดไวไฟ</string>
     <string name="light_off">ปิด</string>
     <string name="light_auto">อัตโนมัติ</string>
     <string name="light_on">เปิดตลอดเวลา</string>
