@@ -110,7 +110,7 @@ Use only the supplied charger."</string>
     <string name="accessibility_wimax_three_bars">WiMAX three bars.</string>
     <string name="accessibility_wimax_signal_full">WiMAX signal full.</string>
     <string name="accessibility_no_signal">No signal.</string>
-    <string name="accessibility_not_connected">Not connected.</string>
+    <string name="accessibility_not_connected">Не сте свързани.</string>
     <string name="accessibility_zero_bars">Zero bars.</string>
     <string name="accessibility_one_bar">One bar.</string>
     <string name="accessibility_two_bars">Two bars.</string>
@@ -133,7 +133,7 @@ Use only the supplied charger."</string>
     <string name="accessibility_data_connection_wifi">Wi-Fi</string>
     <string name="accessibility_no_sim">No SIM.</string>
     <string name="accessibility_bluetooth_tether">Bluetooth tethering.</string>
-    <string name="accessibility_airplane_mode">Airplane mode.</string>
+    <string name="accessibility_airplane_mode">Самолетен режим.</string>
     <string name="accessibility_battery_level">Battery %d percent.</string>
     <string name="accessibility_settings_button">System settings.</string>
     <string name="accessibility_notifications_button">Notifications.</string>
@@ -432,7 +432,7 @@ Also, you\'re connected to a VPN (\"%3$s\"). Your VPN service provider can monit
     <string name="keyguard_plugged_in">Charging</string>
     <string name="keyguard_low_battery">Connect your charger.</string>
     <string name="keyguard_instructions_when_pattern_disabled">Press Menu to unlock.</string>
-    <string name="keyguard_network_locked_message">Network locked</string>
+    <string name="keyguard_network_locked_message">Мрежата е заключена</string>
     <string name="keyguard_missing_sim_message_short">No SIM card</string>
     <string name="keyguard_missing_sim_message">No SIM card in tablet.</string>
     <string name="keyguard_missing_sim_instructions">Insert a SIM card.</string>
@@ -453,7 +453,7 @@ Also, you\'re connected to a VPN (\"%3$s\"). Your VPN service provider can monit
     <string name="keyguard_accessibility_widget">%1$s widget.</string>
     <string name="keyguard_accessibility_user_selector">User selector</string>
     <string name="keyguard_accessibility_camera">Camera</string>
-    <string name="keygaurd_accessibility_media_controls">Media controls</string>
+    <string name="keygaurd_accessibility_media_controls">Контроли за мултимедията</string>
     <string name="keyguard_accessibility_widget_reorder_start">Widget reordering started.</string>
     <string name="keyguard_accessibility_widget_reorder_end">Widget reordering ended.</string>
     <string name="keyguard_accessibility_widget_deleted">Widget %1$s deleted.</string>
@@ -498,17 +498,17 @@ Also, you\'re connected to a VPN (\"%3$s\"). Your VPN service provider can monit
     <string name="description_direction_down">Slide down for %s.</string>
     <string name="description_direction_right">Slide right for %s.</string>
     <string name="user_switched">Current user %1$s.</string>
-    <string name="kg_emergency_call_label">Emergency call</string>
-    <string name="kg_forgot_pattern_button_text">Forgot Pattern</string>
+    <string name="kg_emergency_call_label">Спешно повикване</string>
+    <string name="kg_forgot_pattern_button_text">Забравена Фигура</string>
     <string name="kg_wrong_pattern">Wrong Pattern</string>
-    <string name="kg_wrong_password">Wrong Password</string>
+    <string name="kg_wrong_password">Грешна Парола</string>
     <string name="kg_wrong_pin">Wrong PIN</string>
     <string name="kg_too_many_failed_attempts_countdown">Try again in %d seconds.</string>
     <string name="kg_pattern_instructions">Draw your pattern</string>
     <string name="kg_sim_pin_instructions">Enter SIM PIN</string>
     <string name="kg_sim_pin_instructions_multi">Enter SIM PIN for \"%1$s\"</string>
     <string name="kg_pin_instructions">Enter PIN</string>
-    <string name="kg_password_instructions">Enter Password</string>
+    <string name="kg_password_instructions">Въведете Парола</string>
     <string name="kg_puk_enter_puk_hint">SIM is now disabled. Enter PUK code to continue. Contact carrier for details.</string>
     <string name="kg_puk_enter_puk_hint_multi">SIM \"%1$s\" is now disabled. Enter PUK code to continue. Contact carrier for details.</string>
     <string name="kg_puk_enter_pin_hint">Enter desired PIN code</string>
