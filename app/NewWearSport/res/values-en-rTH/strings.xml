@@ -101,8 +101,8 @@
     <string name="battery_continue_imperial_distance_unit"> ไมล์</string>
     <string name="battery_continue_time_unit"> ชม.</string>
     <string name="battery_split"> / </string>
-    <string name="suggest_reset_time">เวลาที่ใช้ในการกู้คืน %1$s ชั่วโมง</string>
-    <string name="remain_time_recovery"><Data>เวลาที่ใช้ในการกู้คืน&amp;nbsp;&lt;font color=#00ff00&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;/font&gt;&amp;nbsp; ชม.</Data></string>
+    <string name="suggest_reset_time">เวลาที่ใช้ในการคืนสภาพ %1$s ชั่วโมง</string>
+    <string name="remain_time_recovery"><Data>เวลาที่ใช้ในการคืนสภาพ&amp;nbsp;&lt;font color=#00ff00&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;/font&gt;&amp;nbsp; ชม.</Data></string>
     <string name="more_sport_tint">เพิ่ม​เติม</string>
     <string name="zh_space">　</string>
     <string name="en_space"> </string>
@@ -179,7 +179,7 @@
     <string name="history_step_freq_graph_desc">รอบขา(ขั้น/นาที)</string>
     <string name="history_title">กิจกรรม</string>
     <string name="history_detail_info">ราย​ละเอียด</string>
-    <string name="hitory_rest_command">เวลาที่ใช้ในการกู้คืน</string>
+    <string name="hitory_rest_command">เวลาที่ใช้ในการคืนสภาพ</string>
     <string name="hitory_rest_command_time"> ชม.</string>
     <string name="history_month_target_title">เป้าหมายรายเดือน</string>
     <string name="history_month_dis">%1$s/%2$dกม.</string>
@@ -207,8 +207,8 @@
     <string name="sport_confirm_not_stop_sport">ไม่</string>
     <string name="sport_main_am">ก่อนเที่ยงวัน</string>
     <string name="sport_main_pm">หลังเที่ยงวัน</string>
-    <string name="sport_main_recovery_title">เวลาในการกู้คืน</string>
-    <string name="sport_history_full_recovery">เวลาในการกู้คืน</string>
+    <string name="sport_main_recovery_title">เวลาในการคืนสภาพ</string>
+    <string name="sport_history_full_recovery">เวลาในการคืนสภาพ</string>
     <string name="sport_main_avg_stride">ความยาวก้าวเฉลี่ย</string>
     <string name="sport_main_stride">ความยาวก้าว</string>
     <string name="sport_main_total_kcal">แคลอรี่</string>
@@ -245,7 +245,7 @@
     <string name="sport_result_in_progress">กำลังบันทึกกิจกรรม...</string>
     <string name="sport_result_invalid">กำลังหยุดกิจกรรม...</string>
     <string name="sport_gps_found_success_tips">GPS พร้อมใช้งาน</string>
-    <string name="sport_history_recovery">การกู้คืน</string>
+    <string name="sport_history_recovery">การคืนสภาพ</string>
     <string name="sport_remind_pace_unit">/กม.</string>
     <string name="sport_lap_manual_current">ปัจจุบัน</string>
     <string name="settings_item_title_km_remind_triathlon">หยุดชั่วคราวอัตโนมัติ</string>
@@ -465,7 +465,7 @@
     <string name="real_time_perpormance_level_very_fatigued">เหนื่อยล้า</string>
     <string name="sport_target_remind_head_title">เป้าหมายที่แนะนำ</string>
     <string name="sport_run_train_title">เริ่มการฝึกวิ่ง</string>
-    <string name="sport_target_remind_status_rest_or_light">การกู้คืนหลังจากการวิ่ง</string>
+    <string name="sport_target_remind_status_rest_or_light">การคืนสภาพหลังจากการวิ่ง</string>
     <string name="sport_target_remind_status_maintaining">รักษาประสิทธิภาพที่เกี่ยวข้องกับกีฬา</string>
     <string name="sport_target_remind_status_improving">ปรับปรุงความสามารถในการฝึกอบรม</string>
     <string name="sport_target_remind_status_count"></string>
@@ -482,20 +482,20 @@
     <string name="sport_te_desc_level_06">ความเข้มของการฝึกเกินภาระของร่างกาย บุคลากรที่ไม่ใช่มืออาชีพจะทำได้ดีในการฟื้นฟูหลังการฝึกอบรม</string>
     <string name="first_beat_remind_txt_01">นี่เป็นก้าวที่ดี。</string>
     <string name="first_beat_remind_txt_02">นี่เป็นก้าวที่ดีขึ้นอีกหลายนาทีเพื่อให้คุณฟิต</string>
-    <string name="sport_history_recovery_remind">แบบฝึกหัดการกู้คืนสามารถดำเนินการเพื่อลดความเสียหายให้กับร่างกายก่อนที่จะได้รับการฟื้นฟูอย่างสมบูรณ์</string>
+    <string name="sport_history_recovery_remind">แบบฝึกหัดการคืนสภาพสามารถดำเนินการเพื่อลดความเสียหายให้กับร่างกายก่อนที่จะได้รับการฟื้นฟูอย่างสมบูรณ์</string>
     <string name="daily_propermance_has_no_data">ไม่พบข้อมูล</string>
     <string name="first_beat_help_title_vo2_max">การดูดซึมออกซิเจนสูงสุด</string>
     <string name="first_beat_help_title_train_efffect">ผลการฝึกอบรม TE</string>
     <string name="first_beat_help_title_train_load">โหลดการฝึกอบรม</string>
     <string name="first_beat_help_title_sport_target_or_real_time_guide">เป้าหมายการวิ่งที่แนะนำ&amp; การเรียนการสอนตามเวลาจริง</string>
     <string name="first_beat_help_title_daily_perpormence">สถานะประสิทธิภาพ</string>
-    <string name="first_beat_help_title_recovery_time">เวลาในการกู้คืน</string>
+    <string name="first_beat_help_title_recovery_time">เวลาในการคืนสภาพ</string>
     <string name="first_beat_help_vo2_max">"&lt;font color=#00FF00&gt;คืออะไร?&lt;/font&gt;&lt;br/&gt; VO2Max แทนไดรฟ์ข้อมูลสูงสุดของออกซิเจนที่ร่างกายสามารถบริโภคในหนึ่งนาทีวัดได้ใน ml/kg/min ประเมินสถานะของผู้ cardiorespiratory ออกกำลังกายซึ่งเป็นสิ่งสำคัญสำหรับตุลาคมสุขภาพ สุขภาพ และกีฬาโดยรวม &lt;br/&gt;นาฬิกาจะประเมินโดยอัตโนมัติของ VO2Max อิง heartrate ความเร็วฯลฯ ในระหว่างออกกำลังกายวิ่งความเข้มปานกลางและเปรียบเทียบที่กลุ่มอ้างอิงเดียวกันอายุ และเพศเพื่อกำหนดระดับของสมรรถภาพ &lt;br/&gt;&lt;font color=#00FF00&gt;วิธีการประเมิน?&lt;/font&gt;&lt;br/&gt; 1 ให้ข้อมูลที่ถูกต้องรายละเอียดเช่นอายุและเพศใน app Amazfit นาฬิการะหว่างการติดตั้ง &lt;br/&gt; 2 ใช้เวลา 15 นาทีความเร็ว หรือวิ่งกลางแจ้งมากขึ้นกับนาฬิกาบนและทำให้แน่ใจว่า heartrate เป็นที่ หรือเหนือ กว่า 75% ของ maxHR ของคุณอย่างน้อย 10 นาที &lt;br/&gt; 3 หลังจากเสร็จสิ้นการทำงาน คุณสามารถตรวจสอบ VO2Max ปัจจุบันใน app กิจกรรมกีฬาบนนาฬิกาหรือหน้าสถานะส่วนตัวในแอ Amazift นาฬิกา &lt;br/&gt;&lt;small&gt;รายละเอียดเพิ่มเติม กรุณาดูวิธีใช้ในแอพ Amazfit Watch&lt;/small&gt;"</string>
     <string name="first_beat_help_te">&lt;font color=#00FF00&gt;คืออะไร?&lt;/font&gt;&lt;br/&gt; ผลการฝึกอบรม (TE) วัดโหลดสะสมในระหว่างออกกำลังกาย และแปลผลกระทบต่อการออกกำลังกายแอโรบิก เต้เริ่มจากระดับ 0.0 เป็นการออกกำลังกายโรจน์สำเร็จ เพิ่มค่า TE (จาก 0 ไป 5), บอกวิธีการออกกำลังกายผลการ &lt;br/&gt;&lt;font color=#00FF00&gt;คำนวณ &lt;/font&gt;&lt;br/&gt; TE จะคำนวณตามบนโปรไฟล์ผู้ใช้ ข้อมูลการเต้นหัวใจ และความยากของการออกกำลังกาย&lt;br/&gt;&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp นาฬิกาจะแสดงวัดเรียลไทม์ระหว่างการออกกำลังกายเป็นผลสุดท้าย TE TE ที่สิ้นสุดของการออกกำลังกาย&amp;lt; 2.0 TE ก็แสดงให้เห็นว่า การออกกำลังกายมีผลเล็ก cardiorespiratory ฟิต และมีประโยชน์สำหรับการสร้างเป็นฐานความอดทนและการกู้คืนเท่านั้น &lt;br/&gt;&lt;small&gt;รายละเอียดเพิ่มเติม กรุณาดูวิธีใช้ในแอพ Amazfit Watch&lt;/small&gt;</string>
     <string name="first_beat_help_train_load">นาฬิกาจะคำนวณการฝึกอบรมตามค่า EPOC (การใช้ออกซิเจนเกินกว่าหลังออกกำลังกาย) ที่สะสมจากข้อมูลหัวใจที่บันทึกไว้ในระหว่างการออกกำลังกาย 7 วัน ผู้ใช้สามารถปรับตารางการฝึกอบรมตามเพื่อให้ได้ภาระที่เหมาะสม&lt;br/&gt;&lt;small&gt;สำหรับรายละเอียดเพิ่มเติมโปรดดูความช่วยเหลือในแอพ Amazfit Watch &lt;/small&gt;</string>
     <string name="first_beat_help_run_target_and_real_time_guide">นาฬิกาจะให้คำแนะนำการออกกำลังกายตามระดับการออกกำลังกาย VO2Max ของคุณโหลดการฝึกซ้อมล่าสุดและสถานะการฟื้นฟูจากการออกกำลังกายก่อนหน้า &lt;br/&gt; หากคุณเปิดใช้งานคุณสมบัติการฝึกแบบเรียลไทม์ในการตั้งค่าและตั้งค่าเป้าหมาย TE หรือเลือกหนึ่งในการออกกำลังกายที่แนะนำนาฬิกาจะแนะนำคุณตลอดการออกกำลังกายและพร้อมที่จะปรับอัตราการเต้นของหัวใจเพื่อให้บรรลุเป้าหมายที่ตั้งไว้&lt;br/&gt; &lt;small&gt; หรือรายละเอียดเพิ่มเติมโปรดดูวิธีใช้ในแอพ Amazfit Watch&lt;/small&gt;</string>
     <string name="first_beat_help_daily_perpormence">"&lt;font color=#00FF00&gt;What is this？&lt;/font&gt;&lt;br/&gt;Realtime Performance Condition indicates if you are above or below your average performance level, and how accumulating fatigue affects your performance during a workout. &lt;br/&gt;&lt;font color=#00FF00&gt;How is it used？&lt;/font&gt;&lt;br/&gt;The watch will evaluate your performance condition automatically after ~6 minutes of running. A higher-than-avarage value indicates that you can make a harder workout than you'd normally do. A lower value suggests that you should take a easier workout. &lt;br/&gt;After completing a workout, you can analyze the performance by looking at the result at each km/mile on the graph. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;For more details, please see Help in Amazfit Watch app.&lt;/small&gt;"</string>
-    <string name="first_beat_help_recovery_time">หลังจากออกกำลังกายเสร็จคุณจะได้รับเวลาในไม่กี่นาทีในการฟื้นฟูอย่างเต็มรูปแบบ ระหว่างเวลาการกู้คืนการออกกำลังกายจะลดลงเป็นเส้นตรงเป็นศูนย์หากไม่มีข้อมูลการออกกำลังกายใหม่ให้ใช้งาน ผู้ใช้ควรมีการออกกำลังกายที่มีความเข้มข้นต่ำเพื่อช่วยในการกู้คืน &lt;br/&gt;&lt;small&gt;สำหรับรายละเอียดเพิ่มเติมโปรดดูความช่วยเหลือในแอป Amazfit Watch &lt;/small&gt;</string>
+    <string name="first_beat_help_recovery_time">หลังจากออกกำลังกายเสร็จคุณจะได้รับเวลาในไม่กี่นาทีในการฟื้นฟูอย่างเต็มรูปแบบ ระหว่างเวลาการคืนสภาพการออกกำลังกายจะลดลงเป็นเส้นตรงเป็นศูนย์หากไม่มีข้อมูลการออกกำลังกายใหม่ให้ใช้งาน ผู้ใช้ควรมีการออกกำลังกายที่มีความเข้มข้นต่ำเพื่อช่วยในการกู้คืน &lt;br/&gt;&lt;small&gt;สำหรับรายละเอียดเพิ่มเติมโปรดดูความช่วยเหลือในแอป Amazfit Watch &lt;/small&gt;</string>
     <string name="vo2max_unit">มก./กก./นาที</string>
     <string name="run_vo2max_unit">มล./กก./นาที</string>
     <string name="vo2_max_has_no_data">ไม่มีข้อมูล</string>
