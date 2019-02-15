@@ -29,7 +29,7 @@
     <string name="battery_saver_confirmation_ok">เปิด</string>
     <string name="battery_saver_start_action">เปิดตัวประหยัดแบตเตอรี่</string>
     <string name="status_bar_settings_settings_button">การตั้งค่า</string>
-    <string name="status_bar_settings_wifi_button">Wi-Fi</string>
+    <string name="status_bar_settings_wifi_button">ไวไฟ</string>
     <string name="status_bar_settings_airplane">โหมดเครื่องบิน</string>
     <string name="status_bar_settings_auto_rotation">หมุน​หน้า​จอ​อัตโนมัติ</string>
     <string name="status_bar_settings_mute_label">ปิด​เสียง</string>
@@ -97,12 +97,12 @@
     <string name="accessibility_data_two_bars">ดาต้าสองขีด</string>
     <string name="accessibility_data_three_bars">ดาต้าสามขีด</string>
     <string name="accessibility_data_signal_full">ดาต้าสัญญาณเต็ม</string>
-    <string name="accessibility_wifi_off">Wifi ปิด</string>
-    <string name="accessibility_no_wifi">ตัดการเชื่อมต่อ Wifi แล้ว</string>
-    <string name="accessibility_wifi_one_bar">สัญญาณ Wifi หนึ่งขีด</string>
-    <string name="accessibility_wifi_two_bars">สัญญาณ Wifi สองขีด</string>
-    <string name="accessibility_wifi_three_bars">สัญญาณ Wifi สามขีด</string>
-    <string name="accessibility_wifi_signal_full">สัญญาณ Wi-Fi ​เต็ม</string>
+    <string name="accessibility_wifi_off">ไวไฟปิด</string>
+    <string name="accessibility_no_wifi">ตัดการเชื่อมต่อไวไฟแล้ว</string>
+    <string name="accessibility_wifi_one_bar">สัญญาณไวไฟหนึ่งขีด</string>
+    <string name="accessibility_wifi_two_bars">สัญญาณไวไฟสองขีด</string>
+    <string name="accessibility_wifi_three_bars">สัญญาณไวไฟสามขีด</string>
+    <string name="accessibility_wifi_signal_full">สัญญาณไวไฟเต็ม</string>
     <string name="accessibility_wifi_name">เชื่อมต่อกับ %s แล้ว</string>
     <string name="accessibility_bluetooth_name">เชื่อมต่อกับ %s แล้ว</string>
     <string name="accessibility_no_wimax">ไม่มี WiMAX</string>
@@ -131,7 +131,7 @@
     <string name="accessibility_data_connection_cdma">CDMA</string>
     <string name="accessibility_data_connection_roaming">Roaming</string>
     <string name="accessibility_data_connection_edge">Edge</string>
-    <string name="accessibility_data_connection_wifi">Wi-Fi</string>
+    <string name="accessibility_data_connection_wifi">ไวไฟ</string>
     <string name="accessibility_no_sim">ไม่มีซิม</string>
     <string name="accessibility_bluetooth_tether">ปล่อยสัญญาณบลูทูธ</string>
     <string name="accessibility_airplane_mode">โหมดเครื่องบิน.</string>
@@ -156,8 +156,8 @@
     <string name="accessibility_desc_recent_apps">ภาพรวม</string>
     <string name="accessibility_quick_settings_user">ผู้ใช้ %s</string>
     <string name="accessibility_quick_settings_wifi">%1$s.</string>
-    <string name="accessibility_quick_settings_wifi_changed_off">Wifi ถูกปิดแล้ว</string>
-    <string name="accessibility_quick_settings_wifi_changed_on">Wifi ถูกเปิดแล้ว</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">ไวไฟถูกปิดแล้ว</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">ไวไฟถูกเปิดแล้ว</string>
     <string name="accessibility_quick_settings_mobile">โทรศัพท์ %1$s. %2$s. %3$s.</string>
     <string name="accessibility_quick_settings_battery">แบตเตอรี่ %s.</string>
     <string name="accessibility_quick_settings_airplane_off">ปิดโหมดเครื่องบิน</string>
@@ -197,7 +197,7 @@
 การเปิดใช้งานอีกครั้งอาจนำไปสู่ค่าใช้จ่ายจากผู้ให้บริการของคุณ "</string>
     <string name="data_usage_disabled_dialog_enable">เปิดข้อมูล</string>
     <string name="status_bar_settings_signal_meter_disconnected">ไม่​มี​การเชื่อม​ต่อ​อินเตอร์​เน็ต</string>
-    <string name="status_bar_settings_signal_meter_wifi_nossid">เชื่อม​ต่อ Wi-Fi ​แล้ว</string>
+    <string name="status_bar_settings_signal_meter_wifi_nossid">เชื่อม​ต่อไวไฟแล้ว</string>
     <string name="gps_notification_searching_text">กำลัง​ค้น​หา​ GPS...</string>
     <string name="gps_notification_found_text">ตั้ง​ค่า​ตำแหน่ง​โดย GPS</string>
     <string name="accessibility_location_active">คำขอตำแหน่งใช้งานอยู่</string>
@@ -216,7 +216,7 @@
     <string name="quick_settings_airplane_mode_label">โหมดเครื่องบิน</string>
     <string name="quick_settings_bluetooth_label">บลูทูธ</string>
     <string name="quick_settings_bluetooth_multiple_devices_label">บลูทูธ (%d อุปกรณ์)</string>
-    <string name="quick_settings_bluetooth_off_label">ปิด บลูทูธ</string>
+    <string name="quick_settings_bluetooth_off_label">ปิดบลูทูธ</string>
     <string name="quick_settings_bluetooth_detail_empty_text">ไม่มีอุปกรณ์ที่จับคู่ไว้</string>
     <string name="quick_settings_brightness_label">ความสว่าง</string>
     <string name="quick_settings_rotation_unlocked_label">หมุนจออัตโนมัติ</string>
@@ -234,10 +234,10 @@
     <string name="quick_settings_user_label">ฉัน</string>
     <string name="quick_settings_user_title">ผู้ใช้</string>
     <string name="quick_settings_user_new_user">ผู้ใช้ใหม่</string>
-    <string name="quick_settings_wifi_label">Wi-Fi</string>
+    <string name="quick_settings_wifi_label">ไวไฟ</string>
     <string name="quick_settings_wifi_not_connected">ไม่มีการเชื่อมต่อ</string>
     <string name="quick_settings_wifi_no_network">ไม่มีเครือข่าย</string>
-    <string name="quick_settings_wifi_off_label">ปิด Wi-Fi</string>
+    <string name="quick_settings_wifi_off_label">ปิดไวไฟ</string>
     <string name="quick_settings_wifi_detail_empty_text">ไม่มีเครือข่ายที่ใช้งานได้</string>
     <string name="quick_settings_cast_title">ส่งหน้าจอ</string>
     <string name="quick_settings_casting">การแคสต์</string>
@@ -251,7 +251,7 @@
     <string name="quick_settings_more_settings">ตั้งค่าเพิ่มเติม</string>
     <string name="quick_settings_done">เสร็จสิ้น</string>
     <string name="quick_settings_connected">เชื่อมต่อแล้ว</string>
-    <string name="quick_settings_connected_via_wfa">เชื่อมต่อผ่านผู้ช่วย Wifi</string>
+    <string name="quick_settings_connected_via_wfa">เชื่อมต่อผ่านผู้ช่วยไวไฟ</string>
     <string name="quick_settings_connecting">กำลังเชื่อมต่อ...</string>
     <string name="quick_settings_tethering_label">การปล่อยสัญญาณและฮอตสปอตแบบพกพา</string>
     <string name="quick_settings_hotspot_label">ฮอตสปอต</string>
