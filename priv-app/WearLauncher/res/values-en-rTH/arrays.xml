@@ -23,8 +23,8 @@
     <string-array name="quick_settings_status_principleTerm">
         <item>ฝนโปรยปราย</item>
         <item>ฝน</item>
-        <item>Vernal Equinox</item>
-        <item>Grain rain</item>
+        <item>ฤดูใบไม้ผลิ</item>
+        <item>ฝนตก</item>
         <item>Grain buds</item>
         <item>Summer solstice</item>
         <item>Great heat</item>
@@ -45,8 +45,8 @@
         <item>Autumn begins</item>
         <item>White dews</item>
         <item>Cold dews</item>
-        <item>Winter begins</item>
-        <item>Heavy snow</item>
+        <item>เริ่มต้นฤดูหนาว</item>
+        <item>หิมะตกหนัก</item>
     </string-array>
     <string-array name="quick_settings_status_chineseTen">
         <item>Chu</item>
@@ -157,15 +157,15 @@
     <string-array name="weather_card_aqilevel">
         <item>คุณภาพของอากาศ: ดี</item>
         <item>คุณภาพของอากาศ: ดี</item>
-        <item>Mild pollution</item>
-        <item>Moderate pollution</item>
+        <item>มลพิษที่ไม่รุนแรง</item>
+        <item>มลพิษปานกลาง</item>
         <item>มลพิษหนัก</item>
         <item>มลพิษรุนแรง</item>
         <item></item>
     </string-array>
     <string-array name="weather_card_quality">
-        <item>Suitable for exercise</item>
-        <item>Not suitable for exercise</item>
+        <item>เหมาะสำหรับออกกำลังกาย</item>
+        <item>ไม่เหมาะสำหรับออกกำลังกาย</item>
         <item></item>
     </string-array>
     <string-array name="quick_settings_status_weather">
@@ -174,25 +174,25 @@
         <item>มืดครึ้ม</item>
         <item>มีหมอก</item>
         <item>ฟ้าหลัว</item>
-        <item>Showery rain</item>
-        <item>Thundershowers</item>
-        <item>Light rain</item>
-        <item>Moderate rain</item>
-        <item>Heavy rain</item>
-        <item>Rainstorm</item>
-        <item>Extraordinary rainstorm</item>
-        <item>Sleet</item>
-        <item>Freezing rain</item>
-        <item>Thundershower with hail</item>
-        <item>Light snow</item>
-        <item>Moderate snow</item>
-        <item>Heavy snow</item>
-        <item>Blizzard</item>
-        <item>Showery snow</item>
-        <item>Floating dust</item>
-        <item>Blowing sand</item>
-        <item>Sandstorm</item>
-        <item>Heavy sandstorm</item>
+        <item>ฝนโปรยปราย</item>
+        <item>มีฝนฟ้าคะนอง</item>
+        <item>ฝนตกเล็กน้อย</item>
+        <item>ฝนตกปานกลาง</item>
+        <item>ฝนตกหนัก</item>
+        <item>พายุฝน</item>
+        <item>พายุฝน</item>
+        <item>ฝนลูกเห็บ</item>
+        <item>มีฝนและหนาวจัด</item>
+        <item>มีฝนฟ้าคะนองและมีลูกเห็บ</item>
+        <item>หิมะตกเล็กน้อย</item>
+        <item>หิมะตกปานกลาง</item>
+        <item>หิมะตกหนัก</item>
+        <item>พายุหิมะ</item>
+        <item>หิมะโปรยปราย</item>
+        <item>ฝุ่นละอองลอย</item>
+        <item>ลมพัดและมีทราย</item>
+        <item>พายุทราย</item>
+        <item>พายุทรายรุนแรง</item>
         <item>ไม่มีข้อมูล</item>
     </string-array>
 </resources>
