@@ -88,12 +88,12 @@
     <string name="notif_target_reach_desc">"คุณบรรลุเป้าหมายขั้นตอนรายวันแล้ว!"</string>
     <string name="notif_target_reach_title">บรรลุเป้าหมายรายวัน</string>
     <string name="notif_target_set">แก้ไขเป้าหมาย</string>
-    <string name="settings_long_sit_reminder">Move Alert</string>
+    <string name="settings_long_sit_reminder">แจ้งเตือนการเคลื่อนไหว</string>
     <string name="settings_off">ปิด</string>
     <string name="settings_on">เปิด</string>
-    <string name="settings_step_target">Step Goal</string>
-    <string name="settings_step_unit">Steps</string>
-    <string name="settings_target_reach_reminder">Goal Alert</string>
+    <string name="settings_step_target">เป้าหมายการก้าวเดิน</string>
+    <string name="settings_step_unit">ก้าว</string>
+    <string name="settings_target_reach_reminder">แจ้งเตือนการถึงเป้าหมาย</string>
     <string name="no_sleep_info">ไม่พบการนอนหลับ</string>
     <string name="today_sleep_info">การนอนหลับ</string>
     <string name="loading_sleep_info">กำลังโหลด…</string>
@@ -151,32 +151,32 @@
     <string name="warm_up_relax_heart_rate">อุ่นเครื่อง</string>
     <string name="heart_rate_zone">โซน%s</string>
     <string name="stretch_dialog_title">เวลายืดหยุ่น</string>
-    <string name="stretch_dialog_subtitle">Sitting too much today</string>
-    <string name="stretch_dialog_content">Stretch exercises help loosen stiff muscles from sitting too much, follow the instructions in the video to strech!</string>
-    <string name="stretch_dialog_cancel">Cancel</string>
-    <string name="stretch_dialog_start">Start</string>
-    <string name="stretch_dialog_button">"Start stretch exercise with me
+    <string name="stretch_dialog_subtitle">วันนี้นั่งมากเกินไป</string>
+    <string name="stretch_dialog_content">การออกกำลังกายช่วยคลายกล้ามเนื้อแข็งจากการนั่งมากเกินไปทำตามคำแนะนำในวิดีโอเพื่ออายุที่ยืนยาว!</string>
+    <string name="stretch_dialog_cancel">ยกเลิก</string>
+    <string name="stretch_dialog_start">เริ่ม</string>
+    <string name="stretch_dialog_button">"เริ่มออกกำลังกายกับฉัน
 "</string>
-    <string name="stretch_connection_failed_title">"Cannot connect to your phone
+    <string name="stretch_connection_failed_title">"ไม่สามารถเชื่อมต่อกับโทรศัพท์ของคุณ
 "</string>
-    <string name="stretch_connection_failed_content">"Please make sure the watch is connected to your phone and the Amazfit Watch app is launched
+    <string name="stretch_connection_failed_content">"โปรดตรวจสอบให้แน่ใจว่านาฬิกาเชื่อมต่อกับโทรศัพท์ของคุณและแอพ Amazfit Watch เปิดอยู่
 "</string>
-    <string name="stretch_connection_failed_button">Retry</string>
-    <string name="stretch_dialog_button_retry">Retry</string>
-    <string name="open_xiaomi_app_failed_title">"Cannot open MiFit app
+    <string name="stretch_connection_failed_button">ลองใหม่</string>
+    <string name="stretch_dialog_button_retry">ลองใหม่</string>
+    <string name="open_xiaomi_app_failed_title">"ไม่สามารถเปิดแอพ MiFit
 "</string>
-    <string name="open_xiaom_app_failed_content">Retry after installing MiFit app</string>
-    <string name="stretch_notification_subtitle">Sitting too much</string>
-    <string name="stretch_notification_content">Stretch exercises help loosen stiff muscles from sitting too much</string>
+    <string name="open_xiaom_app_failed_content">ลองอีกครั้งหลังจากติดตั้งแอพ MiFit</string>
+    <string name="stretch_notification_subtitle">นั่งมากเกินไป</string>
+    <string name="stretch_notification_content">การออกกำลังกายช่วยคลายกล้ามเนื้อแข็งจากการนั่งมากเกินไป</string>
     <string name="heart_name">อัตราการเต้นของหัวใจ</string>
-    <string name="step_name">Step</string>
+    <string name="step_name">ก้าว</string>
     <string name="sleep_name">การนอนหลับ</string>
-    <string name="floor_description">Note: \"One floor\" is roughtly 10 feet</string>
-    <string name="climbed_floors">Floors climbed</string>
-    <string name="widget_label_step">Today</string>
+    <string name="floor_description">หมายเหตุ: \"หนึ่งชั้น\" ประมาณ 10 ฟุต</string>
+    <string name="climbed_floors">นับขั้นบันได</string>
+    <string name="widget_label_step">วันนี้</string>
     <string name="widget_heart_analysis">วิเคราะห์</string>
-    <string name="widget_step_target_txt">Goal:  <liff>%d</liff></string>
-    <string name="widget_step_target_complete">Reached the goal</string>
+    <string name="widget_step_target_txt">เป้าหมาย:  <liff>%d</liff></string>
+    <string name="widget_step_target_complete">บรรลุเป้าหมายแล้ว</string>
     <string name="widget_step_target_second_tips"><liff>%d</liff> วินาที ผ่านไป</string>
     <string name="widget_step_target_min_tips"><liff>%d</liff> นาที ผ่านไป</string>
     <string name="widget_step_target_hour_tips"><liff>%d</liff> ชั่วโมง ผ่านไป</string>
@@ -209,7 +209,7 @@
     <string name="weeklysports_runerrate">วิ่งเร็ว</string>
     <string name="weeklysports_outdoorrunrate">วิ่งกลางแจ้ง เฉลี่ยก้าว</string>
     <string name="weeklysports_insiderunrate">วิ่งในร่ม เฉลี่ยก้าว</string>
-    <string name="weeklysports_crossrunrate">Cross-country run ave pace</string>
+    <string name="weeklysports_crossrunrate">ก้าวเฉลี่ย วิ่งวิบาก</string>
     <string name="weeklysports_runerrate_unit_zh">/กม.</string>
     <string name="weeklysports_runerrate_unit_en">/ไมล์</string>
     <string name="weeklysports_ridingrate">ความเร็วในการปั่นจักรยาน</string>
@@ -230,7 +230,7 @@
     <string name="weeklysports_running">วิ่ง</string>
     <string name="weeklysports_walking">เดิน</string>
     <string name="weeklysports_riding">จักรยาน</string>
-    <string name="weekly_step_attained_rate">Days to reach step goal</string>
+    <string name="weekly_step_attained_rate">วันที่จะก้าวไปถึงเป้าหมาย</string>
     <string name="weekly_sports_notification_content">สรุปกิจกรรมจากสัปดาห์ที่แล้วพร้อมแล้ว</string>
     <string name="weekly_sports_notification_action">เพิ่ม​เติม</string>
     <string name="weeklysports_date_format">yyyy/MM/dd</string>
@@ -240,7 +240,7 @@
     <string name="currentstep_detail_riding">จักรยาน</string>
     <string name="currentstep_detail_swimming">ว่ายน้ำ</string>
     <string name="currentstep_detail_triathlon">ไตรกีฬา</string>
-    <string name="currentstep_detail_triathlon_short">Tri</string>
+    <string name="currentstep_detail_triathlon_short">ไตรกีฬา</string>
     <string name="currentstep_detail_mountain">ปีนป่าย</string>
     <string name="currentstep_detail_calories">แคลอรี่</string>
     <string name="currentstep_detail_sleep">การนอนหลับ</string>
@@ -251,11 +251,11 @@
     <string name="currentstep_detail_activity_run_rate_ma">ก้าวที่ดีที่สุด</string>
     <string name="currentstep_detail_activity_walk_ridding_rate_av">เฉลี่ยความเร็ว</string>
     <string name="currentstep_detail_activity_walk_ridding_rate_ma">ความเร็วสูงสุด</string>
-    <string name="currentstep_detail_activity_mount_total_disacend">Ground speed distance</string>
-    <string name="currentstep_detail_activity_mount_total_up">Elevation Gain</string>
+    <string name="currentstep_detail_activity_mount_total_disacend">ระยะทางความเร็วพื้นดิน</string>
+    <string name="currentstep_detail_activity_mount_total_up">ระดับความสูง</string>
     <string name="currentstep_detail_heart_rate_max_text">สูงสุด</string>
     <string name="currentstep_detail_heart_rate_min_text">ต่ำสุด</string>
-    <string name="currentstep_detail_heart_rate_quiet_text">Resting</string>
+    <string name="currentstep_detail_heart_rate_quiet_text">พักผ่อน</string>
     <string name="currentstep_detail_calories_unit">กิโลแคลอรี</string>
     <string name="currentstep_detail_sleep_hour">ชม.</string>
     <string name="currentstep_detail_sleep_min">นาที</string>
@@ -282,7 +282,7 @@
 "</string>
     <string name="widget_weeklyreports_sports_title">กีฬา</string>
     <string name="widget_weeklyreports_reports_title">รายงานรายสัปดาห์</string>
-    <string name="widget_weeklyreports_reports_review">Week in Review</string>
+    <string name="widget_weeklyreports_reports_review">รีวิวในสัปดาห์</string>
     <string name="widget_sleep_title">การนอนหลับ</string>
     <string name="widget_sleep_late">เข้านอนช้าเกินไป</string>
     <string name="widget_sleep_deep_leak">การนอนหลับลึกน้อยมาก</string>
@@ -298,6 +298,6 @@
     <string name="widget_weeklyreports_nodata">ไม่พร้อมใช้งาน</string>
     <string name="app_list_title">กิจกรรม</string>
     <string name="currentstep_detail_activities">เวลาในการทำกิจกรรม</string>
-    <string name="currentstep_detail_activities_title">Legend</string>
+    <string name="currentstep_detail_activities_title">คำอธิบาย</string>
     <string name="currentstep_detail_activities_others">อื่นๆ</string>
 </resources>
