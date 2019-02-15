@@ -15,7 +15,7 @@
     <string name="crossing_title">วิ่งเทรล</string>
     <string name="crossing_end_sport">กรุณาหยุดวิ่งเทรลก่อน</string>
     <string name="crossing_in_progress">กำลังวิ่งเทรล...</string>
-    <string name="crossing_max_step_freq_desc">จังหวะสูงสุด</string>
+    <string name="crossing_max_step_freq_desc">รอบขาสูงสุด</string>
     <string name="crossing_climb_up">Dist. Gain</string>
     <string name="crossing_climb_down">Elev. Loss</string>
     <string name="crossing_individual_pen_dis">ระยะทางรอบเดียว</string>
@@ -37,7 +37,7 @@
     <string name="crossing_history_detail_low_altitude">ระดับความสูงต่ำสุด</string>
     <string name="crossing_history_detail_ave_altitude">ความสูงเฉลี่ย</string>
     <string name="crossing_history_detail_altituede_graph_desc">ระดับความสูง (ฟุต)</string>
-    <string name="crossing_history_detail_individual_km">%1$s mile for a single loop</string>
+    <string name="crossing_history_detail_individual_km">ไมล์ %1$s สำหรับรอบเดียว</string>
     <string name="crossing_setting_unit">ไมล์</string>
     <string name="crossing_settings_item_title_individual_remind">ระยะทางรอบเดียว</string>
     <string name="crossing_settings_item_value_individual">%1s กิโลเมตร</string>
@@ -65,12 +65,12 @@
     <string name="no_chart_data_hint">ไม่พร้อมใช้งาน</string>
     <string name="not_speed_data">ความเร็วคือ ไม่สามารถใช้ได้</string>
     <string name="not_pace_data">ก้าวคือ ไม่สามารถใช้ได้</string>
-    <string name="not_step_freq_data">จังหวะคือ ไม่สามารถใช้ได้</string>
-    <string name="not_stroke_speed_data">Stroke data is n/a</string>
-    <string name="not_cadence_data">Cadence is n/a</string>
-    <string name="stroke_speed_curve_title">Stroke Rate (SPM)</string>
-    <string name="stroke_unit">strokes</string>
-    <string name="cadence_curve_title">Cadence(times/min)</string>
+    <string name="not_step_freq_data">รอบขา ไม่สามารถใช้ได้</string>
+    <string name="not_stroke_speed_data">ข้อมูลจังหวะ ไม่สามารถใช้ได้</string>
+    <string name="not_cadence_data">รอบขา ไม่สามารถใช้ได้</string>
+    <string name="stroke_speed_curve_title">อัตราจังหวะ (SPM)</string>
+    <string name="stroke_unit">จังหวะ</string>
+    <string name="cadence_curve_title">รอบขา(ครั้ง/นาที)</string>
     <string name="swim_trips_complete">Swim %1$d trips</string>
     <string name="gps_search_tips">การออกกำลังกาย 15 นาทีก่อนเริ่มวิ่งช่วยป้องกันการบาดเจ็บ</string>
     <string name="gps_search_swim_tips">หน้าจอสัมผัสจะถูกล็อค</string>
@@ -176,7 +176,7 @@
     <string name="history_speed_graph_desc_imperial">ความเร็ว (ไมล์/ชม.)</string>
     <string name="history_altitude_graph_desc">ระดับความสูง(ม.)</string>
     <string name="history_altitude_graph_desc_imperial">ระดับความสูง(ฟิต)</string>
-    <string name="history_step_freq_graph_desc">จังหวะ (ขั้นตอน/นาที)</string>
+    <string name="history_step_freq_graph_desc">รอบขา(ขั้น/นาที)</string>
     <string name="history_title">กิจกรรม</string>
     <string name="history_detail_info">ราย​ละเอียด</string>
     <string name="hitory_rest_command">เวลาในการกู้คืน </string>
@@ -557,8 +557,8 @@
     <string name="indoor_riding_progressing">การปั่นจักรยาน</string>
     <string name="outdoor_climb_distance">Ground Speed Distance</string>
     <string name="outdoor_climb_altitude">Elevation Gain</string>
-    <string name="outdoor_max_cadence">Max Cadence</string>
-    <string name="outdoor_ave_cadence">Average Cadence</string>
+    <string name="outdoor_max_cadence">รอบขาสูงสุด</string>
+    <string name="outdoor_ave_cadence">รอบขาเฉลี่ย</string>
     <string name="outdoor_graph_unit">Distance(mile)</string>
     <string name="outdoor_speed_graph_title">ความเร็ว(ไมล์/ชม.)</string>
     <string name="not_testing_speed_data">ตรวจไม่พบข้อมูลความเร็ว</string>
@@ -678,10 +678,10 @@
     <string name="sport_main_descend_al">Elev. Loss</string>
     <string name="running_speed_desc">ความเร็ว</string>
     <string name="running_avg_speed_desc">เฉลี่ยความเร็ว</string>
-    <string name="running_step_freq_desc">Cadence</string>
+    <string name="running_step_freq_desc">รอบขา</string>
     <string name="sport_main_climb_dis">Dist. Gain</string>
     <string name="walking_step_count">ก้าว</string>
-    <string name="outdoor_cadence">Cadence</string>
+    <string name="outdoor_cadence">รอบขา</string>
     <string name="rt_swim_trips">Trip</string>
     <string name="swim_dps">DPS</string>
     <string name="swim_stroke_speed">Stroke Rate</string>
@@ -697,7 +697,7 @@
     <string name="last_lap_pace">Lap pace</string>
     <string name="last_lap_speed">Lap speed</string>
     <string name="last_lap_hr">Lap heart rate</string>
-    <string name="last_lap_stepfreq">Lap cadence</string>
+    <string name="last_lap_stepfreq">รอบขา</string>
     <string name="sport_widget_title">กีฬา</string>
     <string name="sport_widget_title_run">วิ่ง</string>
     <string name="sport_widget_title_walk">เดิน</string>
@@ -729,7 +729,7 @@
     <string name="running_kilometers">กม.</string>
     <string name="running_avg_pace_desc_simple">ก้าวเฉลี่ย</string>
     <string name="running_avg_speed_desc_simple">เฉลี่ยความเร็ว</string>
-    <string name="running_avg_step_freq_desc">จังหวะเฉลี่ย</string>
+    <string name="running_avg_step_freq_desc">ขั้นเฉลี่ย</string>
     <string name="running_pace_unit">/ไมล์</string>
     <string name="running_calorie_unit">กิโลแคลอรี</string>
     <string name="running_step_freq_unit">spm</string>
@@ -764,7 +764,7 @@
     <string name="default_pace_value">"00'00\""</string>
     <string name="history_detail_pace_desc">ก้าว(นาที/ไมล์)</string>
     <string name="history_detail_calorie_desc">แคลอรี่ (กิโลแคลอรี)</string>
-    <string name="history_detail_step_freq">จังหวะ (ก้าว/นาที)</string>
+    <string name="history_detail_step_freq">รอบขา(ขั้น/นาที)</string>
     <string name="history_detail_speed">ความเร็วต่อชม. (ไมล์/ชม.)</string>
     <string name="title_activity_sport_history_detail">ประวัติกิจกรรมกีฬารายวัน</string>
     <string name="waiting_gps_gps_unavailable">กำลังรอสัญญาณ GPS</string>
@@ -785,7 +785,7 @@
     <string name="settings_item_title_target_use_time_remind">เวลาเป้าหมาย</string>
     <string name="settings_item_title_target_distance_remind">เป้าหมายระยะทาง</string>
     <string name="settings_item_title_pace_remind">Pace Alert</string>
-    <string name="settings_item_title_Leqi_remind">Cadence Alert</string>
+    <string name="settings_item_title_Leqi_remind">การเตือนรอบขา</string>
     <string name="settings_item_value_open">เปิด</string>
     <string name="settings_item_value_closed">ปิด</string>
     <string name="settings_item_value_target_use_time">%1$d h %2$d min</string>
