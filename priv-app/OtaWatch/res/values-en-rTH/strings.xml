@@ -6,10 +6,10 @@
     <string name="watch_ota">อัพเดท นาฬิกา</string>
     <string name="wifi_disconnect">โปรดเชื่อมต่อแอพ Amazfit Watch ช่วยตรวจสอบสำหรับการปรับปรุงนาฬิกา</string>
     <string name="connect_phone_wifi">โปรดตรวจสอบเครือข่ายโทรศัพท์เพื่อช่วยตรวจสอบการอัปเดต</string>
-    <string name="connect_phone_input_wifi">โปรดเชื่อมต่อ Amazfit Watch App เพื่อป้อนรหัสผ่าน Wi-Fi สำหรับนาฬิกา</string>
-    <string name="wifi_add_item">โปรดเชื่อมต่อ Amazfit Watch App เพื่อเพิ่ม Wi-Fi hotspot สำหรับนาฬิกา</string>
+    <string name="connect_phone_input_wifi">โปรดเชื่อมต่อ Amazfit Watch App เพื่อป้อนรหัสผ่านไวไฟสำหรับนาฬิกา</string>
+    <string name="wifi_add_item">โปรดเชื่อมต่อ Amazfit Watch App เพื่อเพิ่มไวไฟ ฮอตสปอตสำหรับนาฬิกา</string>
     <string name="input_passwor_on_mobile">โปรดป้อนรหัสผ่าน Wi-Fi ในแอป Amazfit Watch</string>
-    <string name="add_wifi">เพิ่ม Wi-Fi</string>
+    <string name="add_wifi">เพิ่มไวไฟ</string>
     <string name="please_update_rom">พบเวอร์ชั่นใหม่โปรดอัปเดต</string>
     <string name="checking_rom">กำลังตรวจสอบเวอร์ชันใหม่</string>
     <string name="checking_rom_failed">"หมดเวลาเชื่อมต่อเครือข่าย
@@ -20,7 +20,7 @@
 อัปเดตเป็น %1$s หรือไม่ "</string>
     <string name="processbar_downloading_rom">กำลังดาวน์โหลด...</string>
     <string name="please_keep_wifi_connect">"กรุณาเชื่อมต่อนาฬิกา
-กับ WiFi"</string>
+กับ ไวไฟ"</string>
     <string name="processbar_downloading_tips">%</string>
     <string name="processbar_downloading_default">0</string>
     <string name="download_rom_faild">\"ดาวน์โหลดชุดการปรับปรุงล้มเหลว
@@ -48,17 +48,17 @@
     <string name="wifi_get_ip">กำลังรับที่อยู่ IP…</string>
     <string name="wifi_link_fail">การเชื่อมต่อล้มเหลว...</string>
     <string name="wifi_connected">เชื่อมต่อแล้ว</string>
-    <string name="wifi_title">เชื่อมต่อ Wi-Fi</string>
+    <string name="wifi_title">เชื่อมต่อไวไฟ</string>
     <string name="wifi_wait_password">รอการป้อนข้อมูลรหัสผ่าน...</string>
     <string name="toast_please_update_first">โปรดอัพเดทก่อน</string>
-    <string name="wifi_turnon_going">เปิด Wi Fi...</string>
+    <string name="wifi_turnon_going">เปิดไวไฟ...</string>
     <string name="system_update_title">อัปเดตเสร็จสิ้น</string>
     <string name="system_update_content">ระบบได้รับการอัพเกรดเป็นรุ่น %1$s</string>
     <string name="password_error">"รหัสผ่าน Wi-fi ไม่ถูกต้อง,
 กรุณาใส่อีกครั้ง"</string>
     <string name="wifi_connect_fail">"ไม่สามารถเชื่อมต่อกับ
-เครือข่าย WiFi นี้ โปรดลอง
-ฮอตสปอต Wi-Fi อื่น "</string>
+เครือข่ายไวไฟนี้ โปรดลอง
+ฮอตสปอตไวไฟอื่น "</string>
     <string name="searching">กำลัง​ค้น​หา...</string>
     <string name="hasNewUpdateTitle">อัพเดทระบบ</string>
     <string name="hasNewUpdateInstallContent">%1$s สามารถติดตั้งรุ่นได้ ทำการติดตั้งหรือไม่?</string>
