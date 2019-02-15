@@ -36,7 +36,7 @@
     <string name="status_bar_settings_auto_brightness_label">อัตโนมัติ</string>
     <string name="status_bar_settings_notifications">การแจ้งเตือน</string>
     <string name="status_bar_network_name_separator">|</string>
-    <string name="bluetooth_tethered">Bluetooth tethered</string>
+    <string name="bluetooth_tethered">ปล่อยสัญญาณบลูทูธ</string>
     <string name="status_bar_input_method_settings_configure_input_methods">ตั้ง​ค่า​วิธี​ป้อน</string>
     <string name="status_bar_use_physical_keyboard">Physical keyboard</string>
     <string name="usb_device_permission_prompt">อนุญาต​ให้​แอ​พพลิ​เค​ชั่น %1$s ​เข้า​ถึง​อุปกรณ์ USB?</string>
@@ -79,7 +79,7 @@
     <string name="accessibility_ime_switch_button">เปลี่ยนวิธีการป้อนข้อมูล</string>
     <string name="accessibility_compatibility_zoom_button">เข้ากันได้กับปุ่มซูม</string>
     <string name="accessibility_compatibility_zoom_example">ซูมที่เล็กลงไปยังหน้าจอที่ใหญ่ขึ้น</string>
-    <string name="accessibility_bluetooth_connected">เชื่อม​ต่อ​กับ Bluetooth ​แล้ว</string>
+    <string name="accessibility_bluetooth_connected">เชื่อม​ต่อ​กับบลูทูธ​แล้ว</string>
     <string name="accessibility_bluetooth_disconnected">หยุด​เชื่อม​ต่อ​กับบลูทูธ​แล้ว</string>
     <string name="accessibility_no_battery">\"ไม่​มี
 ​แบตเตอรี่\"</string>
@@ -133,7 +133,7 @@
     <string name="accessibility_data_connection_edge">Edge</string>
     <string name="accessibility_data_connection_wifi">Wi-Fi</string>
     <string name="accessibility_no_sim">ไม่มีซิม</string>
-    <string name="accessibility_bluetooth_tether">Bluetooth tethered.</string>
+    <string name="accessibility_bluetooth_tether">ปล่อยสัญญาณบลูทูธ</string>
     <string name="accessibility_airplane_mode">โหมดเครื่องบิน.</string>
     <string name="accessibility_battery_level">แบตเตอรี่​ %d ​เปอร์เซ็นต์</string>
     <string name="accessibility_settings_button">การ​ตั้ง​ค่า​ระบบ</string>
@@ -164,12 +164,12 @@
     <string name="accessibility_quick_settings_airplane_on">เปิดโหมดเครื่องบิน</string>
     <string name="accessibility_quick_settings_airplane_changed_off">ปิดโหมดเครื่องบินแล้ว</string>
     <string name="accessibility_quick_settings_airplane_changed_on">เปิดโหมดเครื่องบินแล้ว</string>
-    <string name="accessibility_quick_settings_bluetooth_off">ปิด บลูทูธ</string>
-    <string name="accessibility_quick_settings_bluetooth_on">เปิด บลูทูธ</string>
-    <string name="accessibility_quick_settings_bluetooth_connecting">กำลังเชื่อม​ต่อ​กับ Bluetooth</string>
-    <string name="accessibility_quick_settings_bluetooth_connected">เชื่อม​ต่อ​กับ Bluetooth ​แล้ว</string>
-    <string name="accessibility_quick_settings_bluetooth_changed_off">ปิดบลูทูธถูกแล้ว</string>
-    <string name="accessibility_quick_settings_bluetooth_changed_on">เปิดบลูทูธถูกแล้ว</string>
+    <string name="accessibility_quick_settings_bluetooth_off">ปิดบลูทูธ</string>
+    <string name="accessibility_quick_settings_bluetooth_on">เปิดบลูทูธ</string>
+    <string name="accessibility_quick_settings_bluetooth_connecting">กำลังเชื่อม​ต่อ​กับบลูทูธ</string>
+    <string name="accessibility_quick_settings_bluetooth_connected">เชื่อม​ต่อ​กับบลูทูธแล้ว</string>
+    <string name="accessibility_quick_settings_bluetooth_changed_off">บลูทูธถูกปิดแล้ว</string>
+    <string name="accessibility_quick_settings_bluetooth_changed_on">บลูทูธถูกเปิดแล้ว</string>
     <string name="accessibility_quick_settings_location_off">การรายงานตำแหน่งปิดอยู่</string>
     <string name="accessibility_quick_settings_location_on">การรายงานตำแหน่งเปิดอยู่</string>
     <string name="accessibility_quick_settings_location_changed_off">การรายงานตำแหน่งถูกปิดแล้ว</string>
@@ -214,7 +214,7 @@
     <string name="start_dreams">เดย์ดรีม</string>
     <string name="ethernet_label">อีเทอร์เน็ต</string>
     <string name="quick_settings_airplane_mode_label">โหมดเครื่องบิน</string>
-    <string name="quick_settings_bluetooth_label">Bluetooth</string>
+    <string name="quick_settings_bluetooth_label">บลูทูธ</string>
     <string name="quick_settings_bluetooth_multiple_devices_label">บลูทูธ (%d อุปกรณ์)</string>
     <string name="quick_settings_bluetooth_off_label">ปิด บลูทูธ</string>
     <string name="quick_settings_bluetooth_detail_empty_text">ไม่มีอุปกรณ์ที่จับคู่ไว้</string>
