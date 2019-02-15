@@ -47,7 +47,7 @@
     <string name="preference_title">กำหนดลักษณะ</string>
     <string name="light_change">ปรับความสว่าง</string>
     <string name="wrist_up">เปิดใช้งานเมื่อยกข้อมือ</string>
-    <string name="auto_nodisturb">เงียบ</string>
+    <string name="auto_nodisturb">ห้ามรบกวนอัตโนมัติ</string>
     <string name="double_click_wakeup">แตะสองครั้งเพื่อเปิดหน้าจอ</string>
     <string name="vibration_intensity">ความแรงของการสั่น</string>
     <string name="flight_mode">โหมดเครื่องบิน</string>
@@ -60,7 +60,7 @@
     <string name="connect">การเชื่อมต่อ</string>
     <string name="common">ทั่วไป</string>
     <string name="device">อุปกรณ์</string>
-    <string name="nodisturb">เงียบ</string>
+    <string name="nodisturb">ห้ามรบกวน</string>
     <string name="units_set">การตั้งค่าหน่วย</string>
     <string name="auto_airplane">โหมดการบินอัตโนมัติ</string>
     <string name="wifi_upload">ข้อมูล</string>
@@ -171,9 +171,9 @@
     <string name="nodisturb_close_string">ปิด</string>
     <string name="nodisturb_timepicker_connect_symbol">:</string>
     <string name="auto_nodisturb_title_string">ไม่รบกวนอัตโนมัติ</string>
-    <string name="auto_nodisturb_start_time_string">เริ่มต้นการนับเวลา</string>
+    <string name="auto_nodisturb_start_time_string">เวลาเริ่มต้นอัตโนมัติ</string>
     <string name="auto_screen_wristup_start_time_string">เวลาเริ่มต้น</string>
-    <string name="auto_nodisturb_end_time_string">สิ้นสุดการนับเวลา</string>
+    <string name="auto_nodisturb_end_time_string">เวลาสิ้นสุดอัตโนมัติ</string>
     <string name="auto_screen_wristup_end_time_string">เวลาสิ้นสุด</string>
     <string name="time_to">ถึง</string>
     <string name="auto_wifi_trans_on_string">เปิด</string>
