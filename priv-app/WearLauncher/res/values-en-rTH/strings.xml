@@ -237,7 +237,7 @@
     <string name="cal_when">เมื่อไหร</string>
     <string name="cal_notes">หมายเหตุ</string>
     <string name="cal_who">ใคร</string>
-    <string name="cal_status_accepted">Going</string>
+    <string name="cal_status_accepted">ไป</string>
     <string name="cal_status_declined">ปฏิเสธ</string>
     <string name="cal_status_invited">ไม่มีการตอบสนอง</string>
     <string name="cal_status_tentative">อาจจะ</string>
@@ -245,7 +245,7 @@
     <string name="cal_plus_x_more">+ %s more</string>
     <string name="cal_email_subject">[Update] %s</string>
     <string name="cal_no_event">ไม่มีกิจกรรม</string>
-    <string name="cal_no_title">(No title)</string>
+    <string name="cal_no_title">(ไม่มีชื่อ)</string>
     <string name="cal_event_duration" formatted="false">%s/%s</string>
     <string name="cal_dummy_count_down">60</string>
     <string name="checking_for_updates">กำลังตรวจสอบการอัพเดท…</string>
@@ -392,19 +392,19 @@
     <string name="voice_action_reminder_field">Reminder?</string>
     <string name="alarm_setting_success">Alarm created</string>
     <string name="timer_setting_success">Timer started</string>
-    <string name="reminder_at_home">At home</string>
-    <string name="reminder_at_work">At work</string>
-    <string name="disambiguation_app_to_complete">Complete action using</string>
-    <string name="sent_via_voice">Sent via voice</string>
-    <string name="speak_now">Speak now</string>
-    <string name="speak_now_help">Speak now or swipe up for more</string>
-    <string name="contact_no_phone_number">No phone number for this contact</string>
-    <string name="contact_no_email">No email address for this contact</string>
-    <string name="no_match">"Didn't catch that"</string>
-    <string name="network_error">"Can't reach Google at the moment."</string>
-    <string name="server_error">"Can't reach Google at the moment."</string>
-    <string name="audio_error">"Can't open microphone."</string>
-    <string name="null_result_error">Your search did not match any documents</string>
+    <string name="reminder_at_home">ที่บ้าน</string>
+    <string name="reminder_at_work">ที่ทำงาน</string>
+    <string name="disambiguation_app_to_complete">ดำเนินการให้เสร็จสิ้นโดยใช้</string>
+    <string name="sent_via_voice">ส่งด้วยเสียง</string>
+    <string name="speak_now">พูดเลย</string>
+    <string name="speak_now_help">พูดทันทีหรือเลื่อนนิ้วเพื่อดูเพิ่มเติม</string>
+    <string name="contact_no_phone_number">ไม่มีหมายเลขโทรศัพท์สำหรับผู้ติดต่อนี้</string>
+    <string name="contact_no_email">ไม่มีที่อยู่อีเมลสำหรับผู้ติดต่อนี้</string>
+    <string name="no_match">"ไม่เข้าใจ"</string>
+    <string name="network_error">"ไม่สามารถเข้าถึง Google ได้ในขณะนี้"</string>
+    <string name="server_error">"ไม่สามารถเข้าถึง Google ได้ในขณะนี้"</string>
+    <string name="audio_error">"ไม่สามารถเปิดไมโครโฟน"</string>
+    <string name="null_result_error">การค้นหาของคุณไม่ตรงกับเอกสารใด ๆ</string>
     <string name="no_answer_error">"%s
 
 Sorry, Google can\'t help you with that"</string>
@@ -568,10 +568,10 @@ Sorry, Google can\'t help you with that"</string>
     <string name="power_idle">Watch idle</string>
     <string name="power_unaccounted">Miscellaneous</string>
     <string name="power_overcounted">Over-counted</string>
-    <string name="power_screen">Screen</string>
-    <string name="power_flashlight">Flashlight</string>
-    <string name="power_wifi">Wi‑Fi</string>
-    <string name="power_bluetooth">Bluetooth</string>
+    <string name="power_screen">หน้าจอ</string>
+    <string name="power_flashlight">ไฟฉาย</string>
+    <string name="power_wifi">ไวไฟ</string>
+    <string name="power_bluetooth">บลู​ทู​ธ</string>
     <string name="power_cell">Cell standby</string>
     <string name="power_phone">Voice calls</string>
     <string name="running_process_item_user_label">User: %1$s</string>
@@ -585,13 +585,13 @@ Sorry, Google can\'t help you with that"</string>
     <string name="power_charging_duration_usb">%1$d%% - %2$s until full over USB</string>
     <string name="power_charging_duration_wireless">%1$d%% - %2$s until full from wireless</string>
     <string name="battery_info_status_unknown">Unknown</string>
-    <string name="battery_info_status_charging">Charging</string>
-    <string name="battery_info_status_charging_ac">Charging on AC</string>
-    <string name="battery_info_status_charging_usb">Charging over USB</string>
-    <string name="battery_info_status_charging_wireless">Charging wirelessly</string>
-    <string name="battery_info_status_discharging">Not charging</string>
-    <string name="battery_info_status_not_charging">Not charging</string>
-    <string name="battery_info_status_full">Full</string>
+    <string name="battery_info_status_charging">กำลังชาร์จ</string>
+    <string name="battery_info_status_charging_ac">กำลังชาร์จด้วยอะแดปเตอร์</string>
+    <string name="battery_info_status_charging_usb">กำลังชาร์จด้วย USB</string>
+    <string name="battery_info_status_charging_wireless">กำลังชาร์จด้วยที่ชาร์จไร้สาย</string>
+    <string name="battery_info_status_discharging">ไม่ได้ชาร์จ</string>
+    <string name="battery_info_status_not_charging">ไม่ได้ชาร์จ</string>
+    <string name="battery_info_status_full">เต็ม</string>
     <string name="battery_info_status_percentage">%</string>
     <string name="quick_settings_notification_title">Interruptions</string>
     <string name="quick_settings_notifications_none">None</string>
