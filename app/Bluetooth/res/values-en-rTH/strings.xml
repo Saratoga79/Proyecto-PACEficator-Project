@@ -4,7 +4,7 @@
     <string name="permlab_bluetoothShareManager">เข้าถึงตัวจัดการดาวน์โหลด</string>
     <string name="permdesc_bluetoothShareManager">อนุญาตให้แอพเข้าถึงตัวจัดการบลูทูธและใช้มันเพื่อถ่ายโอนไฟล์</string>
     <string name="permlab_bluetoothWhitelist">การเข้าถึงอุปกรณ์บลูทูธที่อนุญาต</string>
-    <string name="permdesc_bluetoothWhitelist">อนุญาตให้แอปพลิเคชันอนุญาตรายการอุปกรณ์บลูทูธชั่วคราว ทำให้อุปกรณ์นั้นสามารถส่งไฟล์ไปยังอุปกรณ์นี้ได้โดยไม่ต้องมีการยืนยันจากผู้ใช้</string>
+    <string name="permdesc_bluetoothWhitelist">ให้แอปพลิเคชันอนุญาตรายการอุปกรณ์บลูทูธชั่วคราว ทำให้อุปกรณ์ดังกล่าวสามารถส่งไฟล์มายังอุปกรณ์นี้ได้โดยไม่ต้องมีการยืนยันจากผู้ใช้</string>
     <string name="bt_share_picker_label">บลูทูธ</string>
     <string name="unknown_device">อุปกรณ์ที่ไม่รู้จัก</string>
     <string name="unknownNumber">ไม่รู้จัก</string>
@@ -20,10 +20,10 @@
     <string name="incoming_file_confirm_cancel">ปฏิเสธ</string>
     <string name="incoming_file_confirm_ok">ยอมรับ</string>
     <string name="incoming_file_confirm_timeout_ok">ตกลง</string>
-    <string name="incoming_file_confirm_timeout_content">หมดเวลารับไฟล์ที่เข้ามาจาก \"%1$s\"</string>
+    <string name="incoming_file_confirm_timeout_content">หมดเวลารับไฟล์จาก \"%1$s\"</string>
     <string name="incoming_file_confirm_Notification_title">บลูทูธแชร์: ไฟล์ที่เข้ามา</string>
     <string name="incoming_file_confirm_Notification_caption">คุณต้องการรับไฟล์นี้หรือไม่?</string>
-    <string name="incoming_file_toast_msg">ไฟล์ที่เข้ามาจากอุปกรณ์อื่น ยืนยันว่าคุณต้องการรับไฟล์นี้</string>
+    <string name="incoming_file_toast_msg">มีไฟล์ที่เข้ามาจากอุปกรณ์อื่น ยืนยันว่าคุณต้องการรับไฟล์นี้</string>
     <string name="notification_receiving">บลูทูธแชร์: กำลังรับ %1$s</string>
     <string name="notification_received">บลูทูธแชร์: รับแล้ว %1$s</string>
     <string name="notification_received_fail">บลูทูธแชร์: ไฟล์ %1$s ไม่สามารถรับได้</string>
@@ -46,12 +46,12 @@
     <string name="download_fail_line2">ไฟล์: %1$s</string>
     <string name="download_fail_line3">เหตุผล: %1$s</string>
     <string name="download_fail_ok">ตกลง</string>
-    <string name="download_succ_line5">รับแล้ว</string>
+    <string name="download_succ_line5">ไฟล์ที่รับแล้ว</string>
     <string name="download_succ_ok">เปิด</string>
     <string name="upload_line1">ถึง: %1$s</string>
     <string name="upload_line3">ชนิดของไฟล์: %1$s (%2$s)</string>
-    <string name="upload_line5">ส่งไฟล์…</string>
-    <string name="upload_succ_line5">ส่งไฟล์แล้ว</string>
+    <string name="upload_line5">กำลังส่งไฟล์…</string>
+    <string name="upload_succ_line5">ส่งไฟล์</string>
     <string name="upload_succ_ok">ตกลง</string>
     <string name="upload_fail_line1">"ไฟล์ไม่ได้ถูกส่งไปที่ \"%1$s\"."</string>
     <string name="upload_fail_line1_2">ไฟล์: %1$s</string>
