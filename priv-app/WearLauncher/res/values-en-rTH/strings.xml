@@ -186,9 +186,9 @@
     <string name="retail_say_ok_google_again">ลองพูดว่า \"Ok Google\" อีกครั้ง</string>
     <string name="retail_36_mins">36 นาที</string>
     <string name="retail_to_home">ถึงบ้าน</string>
-    <string name="retail_light_traffic">Light traffic on A12</string>
+    <string name="retail_light_traffic">ไฟจราจรบน A12</string>
     <string name="retail_navigate">การนำทาง</string>
-    <string name="retail_turn_by_turn">Turn-by-turn directions on your wrist.</string>
+    <string name="retail_turn_by_turn">การใช้เสียงนำทางบนข้อมือของคุณ</string>
     <string name="retail_slideshow_traffic">รับข้อมูลการจราจรสำหรับเส้นทางของคุณเพื่อทำงาน</string>
     <string name="retail_british_airways">British Airways 873</string>
     <string name="retail_departs_in">ออกเดินทางในเวลา 4 ชั่วโมง</string>
@@ -214,7 +214,7 @@
     <string name="perm_description_setup_defaults">แอพนี้สามารถให้การตั้งค่าเริ่มต้นสำหรับอุปกรณ์ของคุณ</string>
     <string name="now_stock_price">"%1$s    %2$s   %3$s"</string>
     <string name="now_stock_title">หุ้นวันนี้</string>
-    <string name="now_time_to_leave_by">Leave by %1$s</string>
+    <string name="now_time_to_leave_by">ออกเดินทางโดย %1$s</string>
     <string name="now_time_to_leave_now">ออกตอนนี้</string>
     <string name="now_calendar_event_address">%1$s, %2$s</string>
     <string name="now_flight_passenger">ผู้โดยสาร</string>
@@ -268,7 +268,7 @@
     <string name="flight_reservation_number">การสำรองห้องพัก #</string>
     <string name="flight_information">%1$s %2$s</string>
     <string name="operating_airline_info">ดำเนินการโดย %1$s</string>
-    <string name="skip_activity">SKIP_ACTIVITY</string>
+    <string name="skip_activity">ข้าม_กิจกรรม</string>
     <string name="clockwork_home_enable_notifications">เปิดการเข้าถึงการแจ้งเตือนสำหรับ Android Wear</string>
     <string name="clockwork_home_no_notif_settings">"อุปกรณ์นี้ไม่สามารถส่งการแจ้งเตือนไปยังนาฬิกาของคุณ"</string>
     <string name="perm_label_provide_background">หน้าปัดนาฬิกาแบบกำหนดเอง</string>
@@ -573,12 +573,12 @@
     <string name="power_wifi">ไวไฟ</string>
     <string name="power_bluetooth">บลู​ทู​ธ</string>
     <string name="power_cell">Cell standby</string>
-    <string name="power_phone">Voice calls</string>
-    <string name="running_process_item_user_label">User: %1$s</string>
+    <string name="power_phone">การโทรด้วยเสียง</string>
+    <string name="running_process_item_user_label">ผู้ใช้ %1$s</string>
     <string name="running_process_item_removed_user_label">ลบผู้ใช้</string>
     <string name="process_kernel_label">Android OS</string>
     <string name="process_mediaserver_label">มีเดียเซิร์ฟเวอร์</string>
-    <string name="power_discharging_duration">%1$d%% - approx. %2$s left</string>
+    <string name="power_discharging_duration">%1$d%% - ประมาณ %2$s</string>
     <string name="power_charging">%1$d% - %2$s</string>
     <string name="power_charging_duration">%1$d%% - %2$s จนเต็ม</string>
     <string name="power_charging_duration_ac">%1$d%% - %2$s จนเต็มด้วยอะแดปเตอร์</string>
