@@ -142,7 +142,7 @@
     <string name="settings_sport_auto_pace_title">หยุดที่ก้าว</string>
     <string name="settings_sport_auto_speed_title">หยุดที่ความเร็ว</string>
     <string name="settings_content_stand_still">Standing Still</string>
-    <string name="settings_sport_bg_type">BG Color</string>
+    <string name="settings_sport_bg_type">สีพื้นหลัง</string>
     <string name="settings_sport_bg_type_normal">สีดำ</string>
     <string name="settings_sport_bg_type_white">สีขาว</string>
     <string name="setting_on">เปิด</string>
@@ -217,8 +217,8 @@
     <string name="sport_main_max_heart_rate">อัตราการเต้นของหัวใจสูงสุด</string>
     <string name="sport_main_min_heart_rate">อัตราการเต้นของหัวใจต่ำสุด</string>
     <string name="sport_main_graph_title">ล่าสุด (นาที)</string>
-    <string name="exchange_time_cost">Transition Time</string>
-    <string name="exchange_in_progress">In transition</string>
+    <string name="exchange_time_cost">เปลี่ยนเวลา</string>
+    <string name="exchange_in_progress">อยู่ในช่วงเปลี่ยนผ่าน</string>
     <string name="exchange_anim_title">สลับกิจกรรม</string>
     <string name="sport_pause_swim_type">ระยะทางว่ายน้ำ </string>
     <string name="sport_pause_swim_dis_unit">ระยะทาง</string>
@@ -251,14 +251,14 @@
     <string name="settings_item_title_km_remind_triathlon">หยุดชั่วคราวอัตโนมัติ</string>
     <string name="setting_sport_heart_region_remind_triathlon">การแจ้งเตือนอัตราการเต้นของหัวใจ</string>
     <string name="device_conn_title">MW</string>
-    <string name="heart_conn_title">HR</string>
+    <string name="heart_conn_title">อัตราการเต้นของหัวใจ</string>
     <string name="earphone_conn_title">ชุดหูฟัง</string>
     <string name="device_in">เชื่อมต่ออุปกรณ์แล้ว</string>
     <string name="device_out">ตัดการเชื่อมต่อกับอุปกรณ์แล้ว</string>
     <string name="history_riding_exchange_title">เปลี่ยนไปสู่การวิ่ง</string>
     <string name="sport_pause_time_tips">หยุดเวลา</string>
-    <string name="sport_stride_unit">cm</string>
-    <string name="sport_stride_unit_imperial">in</string>
+    <string name="sport_stride_unit">ซม.</string>
+    <string name="sport_stride_unit_imperial">ใน</string>
     <string name="end_last_sport_tips">กรุณาหยุด %1$s กิจกรรมก่อน</string>
     <string name="export_route_trail">ส่งออก</string>
     <string name="sport_dlg_msg_hint_cancel">"ยกเลิกการส่งออกนี้หรือไม่?
@@ -290,7 +290,7 @@
     <string name="swim_trips">ทริป</string>
     <string name="heart_region_title">โซนอัตราการเต้นของหัวใจ</string>
     <string name="heart_region_anaerobic＿limit">สูงสุด</string>
-    <string name="heart_region_endurance_enhancement">Anaerobic</string>
+    <string name="heart_region_endurance_enhancement">อนาโรบิค</string>
     <string name="heart_region_heart_and_lung_enhancement">การฝึกอบรมเกี่ยวกับคาร์ดิโอ</string>
     <string name="heart_region_fat_burning">ลดน้ำหนัก</string>
     <string name="heart_region_warm_up_and_relax">อุ่นเครื่อง</string>
@@ -327,8 +327,8 @@
     <string name="sport_widget_title_skiing">สกี</string>
     <string name="sport_widget_title_in_skiing">ในการเล่นสกี</string>
     <string name="skiing_history_downhill_title">วิ่ง</string>
-    <string name="skiing_downhill_max_elev_loss">Max Descent</string>
-    <string name="skiing_downhill_total_elev_loss">Total Descent</string>
+    <string name="skiing_downhill_max_elev_loss">การเคลื่อนที่ลงสูงสุด</string>
+    <string name="skiing_downhill_total_elev_loss">รวมการเคลื่อนที่ลง</string>
     <string name="skiing_downhill_desecnd">ระยะทางรวม</string>
     <string name="skiing_cur_lat_lng_title">Lat Long</string>
     <string name="speed_remind_title">การแจ้งเตือนความเร็ว</string>
@@ -340,7 +340,7 @@
     <string name="skiing_interval_train_complete_pause_tip">หยุดกิจกรรมชั่วคราว</string>
     <string name="skiing_above_skiing_spped">แจ้งเตือนเมื่อความเร็ว &gt; %1$s</string>
     <string name="skiing_lap_downhill_dis_title">ระยะทาง</string>
-    <string name="sport_history_total_stokes">Total Strokes</string>
+    <string name="sport_history_total_stokes">จังหวะรวม</string>
     <string name="sport_tennis_forehand">โฟว์แฮนด์</string>
     <string name="sport_tennis_backhand">แบ็คแฮนด์</string>
     <string name="sport_tennis_serve">เสิร์ฟ</string>
@@ -494,7 +494,7 @@
     <string name="first_beat_help_te">&lt;font color=#00FF00&gt;คืออะไร?&lt;/font&gt;&lt;br/&gt; ผลการฝึกอบรม (TE) วัดโหลดสะสมในระหว่างออกกำลังกาย และแปลผลกระทบต่อการออกกำลังกายแอโรบิก เต้เริ่มจากระดับ 0.0 เป็นการออกกำลังกายโรจน์สำเร็จ เพิ่มค่า TE (จาก 0 ไป 5), บอกวิธีการออกกำลังกายผลการ &lt;br/&gt;&lt;font color=#00FF00&gt;คำนวณ &lt;/font&gt;&lt;br/&gt; TE จะคำนวณตามบนโปรไฟล์ผู้ใช้ ข้อมูลการเต้นหัวใจ และความยากของการออกกำลังกาย&lt;br/&gt;&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp&amp;nbsp นาฬิกาจะแสดงวัดเรียลไทม์ระหว่างการออกกำลังกายเป็นผลสุดท้าย TE TE ที่สิ้นสุดของการออกกำลังกาย&amp;lt; 2.0 TE ก็แสดงให้เห็นว่า การออกกำลังกายมีผลเล็ก cardiorespiratory ฟิต และมีประโยชน์สำหรับการสร้างเป็นฐานความอดทนและการกู้คืนเท่านั้น &lt;br/&gt;&lt;small&gt;รายละเอียดเพิ่มเติม กรุณาดูวิธีใช้ในแอพ Amazfit Watch&lt;/small&gt;</string>
     <string name="first_beat_help_train_load">นาฬิกาจะคำนวณการฝึกอบรมตามค่า EPOC (การใช้ออกซิเจนเกินกว่าหลังออกกำลังกาย) ที่สะสมจากข้อมูลหัวใจที่บันทึกไว้ในระหว่างการออกกำลังกาย 7 วัน ผู้ใช้สามารถปรับตารางการฝึกอบรมตามเพื่อให้ได้ภาระที่เหมาะสม&lt;br/&gt;&lt;small&gt;สำหรับรายละเอียดเพิ่มเติมโปรดดูความช่วยเหลือในแอพ Amazfit Watch &lt;/small&gt;</string>
     <string name="first_beat_help_run_target_and_real_time_guide">นาฬิกาจะให้คำแนะนำการออกกำลังกายตามระดับการออกกำลังกาย VO2Max ของคุณโหลดการฝึกซ้อมล่าสุดและสถานะการฟื้นฟูจากการออกกำลังกายก่อนหน้า &lt;br/&gt; หากคุณเปิดใช้งานคุณสมบัติการฝึกแบบเรียลไทม์ในการตั้งค่าและตั้งค่าเป้าหมาย TE หรือเลือกหนึ่งในการออกกำลังกายที่แนะนำนาฬิกาจะแนะนำคุณตลอดการออกกำลังกายและพร้อมที่จะปรับอัตราการเต้นของหัวใจเพื่อให้บรรลุเป้าหมายที่ตั้งไว้&lt;br/&gt; &lt;small&gt; หรือรายละเอียดเพิ่มเติมโปรดดูวิธีใช้ในแอพ Amazfit Watch&lt;/small&gt;</string>
-    <string name="first_beat_help_daily_perpormence">"&lt;font color=#00FF00&gt;What is this？&lt;/font&gt;&lt;br/&gt;Realtime Performance Condition indicates if you are above or below your average performance level, and how accumulating fatigue affects your performance during a workout. &lt;br/&gt;&lt;font color=#00FF00&gt;How is it used？&lt;/font&gt;&lt;br/&gt;The watch will evaluate your performance condition automatically after ~6 minutes of running. A higher-than-avarage value indicates that you can make a harder workout than you'd normally do. A lower value suggests that you should take a easier workout. &lt;br/&gt;After completing a workout, you can analyze the performance by looking at the result at each km/mile on the graph. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;For more details, please see Help in Amazfit Watch app.&lt;/small&gt;"</string>
+    <string name="first_beat_help_daily_perpormence">"&lt;font color=#00FF00&gt;นี่คืออะไร? &lt;/font&gt;&lt;br/&gt;Realtime เงื่อนไขประสิทธิภาพระบุว่าคุณสูงกว่าหรือต่ำกว่าระดับประสิทธิภาพโดยเฉลี่ยและความเหนื่อยล้าที่สะสมมีผลต่อประสิทธิภาพของคุณระหว่างการออกกำลังกายอย่างไร &lt;br/&gt;&lt;font color=#00FF00&gt;ใช้อย่างไร？&lt;/font&gt;&lt;br/&gt;นาฬิกาจะประเมินสภาพประสิทธิภาพการทำงานของคุณโดยอัตโนมัติหลังจากใช้งาน ~ 6 นาที ค่าที่สูงกว่าค่าเฉลี่ยแสดงให้เห็นว่าคุณสามารถออกกำลังกายได้หนักกว่าปกติ ค่าที่ต่ำกว่าแสดงว่าคุณควรออกกำลังกายให้ง่ายขึ้น &lt;br/&gt;หลังจากออกกำลังกายเสร็จคุณสามารถวิเคราะห์ประสิทธิภาพได้โดยดูผลลัพธ์ที่กราฟแต่ละกิโลเมตร / ไมล์ &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;สำหรับรายละเอียดเพิ่มเติมโปรดดูวิธีใช้ในแอพ Amazfit Watch&lt;/small&gt;"</string>
     <string name="first_beat_help_recovery_time">หลังจากออกกำลังกายเสร็จคุณจะได้รับเวลาในไม่กี่นาทีในการฟื้นฟูอย่างเต็มรูปแบบ ระหว่างเวลาการคืนสภาพการออกกำลังกายจะลดลงเป็นเส้นตรงเป็นศูนย์หากไม่มีข้อมูลการออกกำลังกายใหม่ให้ใช้งาน ผู้ใช้ควรมีการออกกำลังกายที่มีความเข้มข้นต่ำเพื่อช่วยในการกู้คืน &lt;br/&gt;&lt;small&gt;สำหรับรายละเอียดเพิ่มเติมโปรดดูความช่วยเหลือในแอป Amazfit Watch &lt;/small&gt;</string>
     <string name="vo2max_unit">มก./กก./นาที</string>
     <string name="run_vo2max_unit">มล./กก./นาที</string>
@@ -691,7 +691,7 @@
     <string name="skiing_downhill_num">วิ่ง (วินาที)</string>
     <string name="skiing_downhill_single_descend">ระยะทาง</string>
     <string name="skiing_rt_downhill_desecnd">ระยะทางรวม</string>
-    <string name="skiing_downhill_elev_loss">Descent</string>
+    <string name="skiing_downhill_elev_loss">การเคลื่อนที่ลง</string>
     <string name="sport_tennis_strokes">จังหวะ</string>
     <string name="last_lap_duration">รอบเวลา</string>
     <string name="last_lap_pace">รอบ ก้าว</string>
@@ -902,7 +902,7 @@
     <string name="setting_sport_heart_region_aerobic">Aerobic Zone Region</string>
     <string name="setting_sport_heart_region_high＿intensity_exercise">High-intensity Region</string>
     <string name="setting_sport_heart_region_custom">Custom Region</string>
-    <string name="setting_sport_heart_region_text_fat_burning">FatBurning</string>
+    <string name="setting_sport_heart_region_text_fat_burning">การเผาผลาญไขมัน</string>
     <string name="setting_sport_heart_region_text_aerobic">แอโรบิก</string>
     <string name="setting_sport_heart_region_text_high＿intensity_exercise">แบบฝึกหัดความเข้มข้นสูง</string>
     <string name="setting_sport_heart_region_text_custom">กำหนด​เอง</string>
