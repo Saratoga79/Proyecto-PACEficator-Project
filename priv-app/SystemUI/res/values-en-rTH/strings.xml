@@ -5,7 +5,7 @@
     <string name="quick_settings_tiles_default">wifi,bt,inversion,cell,airplane,rotation,flashlight,location,cast,hotspot</string>
     <string name="quick_settings_tiles">ค่าเริ่มต้น</string>
     <string name="velocity_tracker_impl">แพลตฟอร์ม</string>
-    <string name="doze_pulse_schedule">1s,10s,30s,60s</string>
+    <string name="doze_pulse_schedule">1วิ,10วิ,30วิ,60วิ</string>
     <string name="system_ui_date_pattern">@android:string/system_ui_date_pattern</string>
     <string name="lland">L Land</string>
     <string name="app_label">System UI</string>
@@ -75,7 +75,7 @@
     <string name="accessibility_unlock_button">ปลดล็อค</string>
     <string name="unlock_label">ปลดล็อค</string>
     <string name="phone_label">เปิดโทรศัพท์</string>
-    <string name="camera_label">เปิดกล้อง</string>
+    <string name="camera_label">เปิดกล้องถ่ายรูป</string>
     <string name="accessibility_ime_switch_button">เปลี่ยนวิธีการป้อนข้อมูล</string>
     <string name="accessibility_compatibility_zoom_button">เข้ากันได้กับปุ่มซูม</string>
     <string name="accessibility_compatibility_zoom_example">ซูมที่เล็กลงไปยังหน้าจอที่ใหญ่ขึ้น</string>
@@ -417,8 +417,8 @@
     <string name="widget_default_class_name"></string>
     <string name="abbrev_wday_month_day_no_year">EEEEMMMMd</string>
     <string name="abbrev_wday_month_day_no_year_alarm">EEEMMMd</string>
-    <string name="clock_12hr_format">hm</string>
-    <string name="clock_24hr_format">Hm</string>
+    <string name="clock_12hr_format">ชม.</string>
+    <string name="clock_24hr_format">ชม.</string>
     <string name="app_name">Keyguard</string>
     <string name="keyguard_password_enter_pin_code">พิมพ์รหัส PIN</string>
     <string name="keyguard_password_enter_puk_code">พิมพ์ซิม PUK และรหัส PIN ใหม่</string>
