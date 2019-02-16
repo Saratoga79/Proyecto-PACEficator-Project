@@ -426,12 +426,12 @@
     <string name="swim_stroke_times">จำนวนครั้งทั้งหมด</string>
     <string name="swim_avg_dps">ค่าเฉลี่ย Dps (ระยะทางจังหวะเดียว)</string>
     <string name="swim_swolf">ดัชนีประสิทธิภาพ Swolf</string>
-    <string name="swim_swolf_unit">(按%1$s米计算)</string>
-    <string name="swim_swolf_unit_yd">(按%1$s码计算)</string>
+    <string name="swim_swolf_unit">(กด%1$sคำนวณมิเตอร์)</string>
+    <string name="swim_swolf_unit_yd">(กด%1$sคำนวณรหัส)</string>
     <string name="swim_pace">ก้าว</string>
     <string name="swim_pace_unit">/100เมตร</string>
-    <string name="swim_trips_unit">趟(每趟%1$d米)</string>
-    <string name="swim_trips_unit_yd">趟(每趟%1$d码)</string>
+    <string name="swim_trips_unit">ทริป(ทุก%1$dเมตร)</string>
+    <string name="swim_trips_unit_yd">ทริป(ทุก%1$dรหัส)</string>
     <string name="swim_unit">รหัส</string>
     <string name="pace_swim_unit_yd">/100หลา</string>
     <string name="settings_item_value_swim_length_yd">%1$sรหัส</string>
@@ -540,9 +540,9 @@
     <string name="music_start_tips">ต้องการ ชุดหูฟังบลูทูธเชื่อมต่อ เชื่อมต่อเดี๋ยวนี้?</string>
     <string name="music_not_known">ไม่รู้จัก</string>
     <string name="music_update_content">อัปเดตเพลง</string>
-    <string name="music_update_tips_content">วิทยุ FM ได้รับการปรับปรุง การอัปเดตเพลงจะแทนที่คลังเพลง อัปเดตตอนนี้หรือไม่?</string>
+    <string name="music_update_tips_content">Watercress FM ได้รับการปรับปรุง การอัปเดตเพลงจะแทนที่คลังเพลง อัปเดตตอนนี้หรือไม่?</string>
     <string name="music_pause">หยุดชั่วคราว</string>
-    <string name="music_fm_title">วิทยุ FM</string>
+    <string name="music_fm_title">Watercress FM</string>
     <string name="music_fm_notification_content">Sports FM มีเพลย์ลิสต์ใหม่ให้ไปและดาวน์โหลด!</string>
     <string name="music_down_not_complete_title">รายการเพลงยังไม่ได้ดาวน์โหลด ออก?</string>
     <string name="music_down_not_complete_content">หลังจากออกจากระบบคุณสามารถอัปเดตเพลงในการตั้งค่า เพลง -วิทยุ FM ออฟไลน์。</string>
@@ -778,7 +778,7 @@
     <string name="no_gps_button_text">ยืนยัน</string>
     <string name="settings_item_title_km_remind">รอบ การเตือน</string>
     <string name="settings_item_title_mi_remind">รอบ การเตือน</string>
-    <string name="settings_item_title_km_voice_remind">Voice Prompt</string>
+    <string name="settings_item_title_km_voice_remind">วิทยุสื่อสาร</string>
     <string name="settings_item_title_cal_burn_heartrate_remind">การเตือนอัตราการเต้นของหัวใจ</string>
     <string name="settings_item_title_safe_heartrate_remind">เตือนอัตราการเต้นของหัวใจ</string>
     <string name="settings_item_title_auto_pause">หยุดชั่วคราวอัตโนมัติ</string>
