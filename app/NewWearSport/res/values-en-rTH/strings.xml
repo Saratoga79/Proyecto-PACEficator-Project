@@ -779,7 +779,7 @@
     <string name="settings_item_title_km_remind">รอบ การเตือน</string>
     <string name="settings_item_title_mi_remind">รอบ การเตือน</string>
     <string name="settings_item_title_km_voice_remind">Voice Prompt</string>
-    <string name="settings_item_title_cal_burn_heartrate_remind">Aerobic HR Alert</string>
+    <string name="settings_item_title_cal_burn_heartrate_remind">การเตือนอัตราการเต้นของหัวใจ</string>
     <string name="settings_item_title_safe_heartrate_remind">เตือนอัตราการเต้นของหัวใจ</string>
     <string name="settings_item_title_auto_pause">หยุดชั่วคราวอัตโนมัติ</string>
     <string name="settings_item_title_target_use_time_remind">เวลาเป้าหมาย</string>
@@ -818,8 +818,8 @@
     <string name="time_picker_hour">ชม.</string>
     <string name="time_picker_minute">นาที</string>
     <string name="distance_picker_km">ไมล์</string>
-    <string name="title_activity_medal_list">MedalListActivity</string>
-    <string name="title_activity_sport_medal_detail">SportMedalDetailActivity</string>
+    <string name="title_activity_medal_list">รายชื่อเหรียญ</string>
+    <string name="title_activity_sport_medal_detail">รายละเอียดเหรียญกีฬา</string>
     <string name="notification_title_medal">บรรลุเป้าหมาย</string>
     <string name="sport_medal_desc_first_sport">เสร็จสิ้นการวิ่งออกกำลังกายเป็นครั้งแรก</string>
     <string name="sport_medal_desc_one_5_km">ระยะการออกกำลังกาย 5 กม.</string>
@@ -898,10 +898,10 @@
     <string name="date_pm">"'PM'"</string>
     <string name="setting_sport_remind_region">การแจ้งเตือนของพื้นที่</string>
     <string name="setting_sport_heart_region_remind">โซนอัตราการเต้นของหัวใจ</string>
-    <string name="setting_sport_heart_region_fat_burning">Fat Burning Region</string>
-    <string name="setting_sport_heart_region_aerobic">Aerobic Zone Region</string>
-    <string name="setting_sport_heart_region_high＿intensity_exercise">High-intensity Region</string>
-    <string name="setting_sport_heart_region_custom">Custom Region</string>
+    <string name="setting_sport_heart_region_fat_burning">เผาผลาญไขมัน</string>
+    <string name="setting_sport_heart_region_aerobic">โซนแอโรบิค</string>
+    <string name="setting_sport_heart_region_high＿intensity_exercise">ความเข้มสูง</string>
+    <string name="setting_sport_heart_region_custom">กำหนดเอง</string>
     <string name="setting_sport_heart_region_text_fat_burning">การเผาผลาญไขมัน</string>
     <string name="setting_sport_heart_region_text_aerobic">แอโรบิก</string>
     <string name="setting_sport_heart_region_text_high＿intensity_exercise">แบบฝึกหัดความเข้มข้นสูง</string>
