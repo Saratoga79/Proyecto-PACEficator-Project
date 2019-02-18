@@ -57,8 +57,8 @@
     <string name="remind_target_calorie_title">บรรลุเป้าหมายแคลอรี่ที่ตั้งไว้</string>
     <string name="remind_target_time_title">บรรลุเป้าหมายเวลาที่ตั้งไว้</string>
     <string name="remind_target_calorie_title_format">กิโลแคลอรี</string>
-    <string name="remind_target_time_h_unit">ชั่วโมง</string>
-    <string name="remind_target_time_m_unit">นาที</string>
+    <string name="remind_target_time_h_unit">ชม.</string>
+    <string name="remind_target_time_m_unit">น.</string>
     <string name="remind_target_time_default_value">00</string>
     <string name="no_altitude_hint">ไม่พบข้อมูลระดับความสูง</string>
     <string name="no_heartrate_data_hint">ไม่พบข้อมูลอัตราการเต้นหัวใจ</string>
@@ -123,7 +123,7 @@
     <string name="picker_sub_title_te_four">(ปรับปรุง)</string>
     <string name="picker_heart_region_content">โซน %1$d</string>
     <string name="settings_sport_target">เป้าหมายการฝึกอบรม</string>
-    <string name="settings_sport_remind">เตือน</string>
+    <string name="settings_sport_remind">การเตือน</string>
     <string name="settings_sport_control">การตั้งค่าเพิ่มเติม</string>
     <string name="settings_sport_auto_pause">หยุดชั่วคราวอัตโนมัติ</string>
     <string name="settings_sport_auto_pause_triathlon">หยุดชั่วคราวอัตโนมัติ</string>
@@ -176,7 +176,7 @@
     <string name="history_speed_graph_desc_imperial">ความเร็ว (ไมล์/ชม.)</string>
     <string name="history_altitude_graph_desc">ระดับความสูง(ม.)</string>
     <string name="history_altitude_graph_desc_imperial">ระดับความสูง(ฟิต)</string>
-    <string name="history_step_freq_graph_desc">รอบขา(ขั้น/นาที)</string>
+    <string name="history_step_freq_graph_desc">รอบขา(ก้าว/นาที)</string>
     <string name="history_title">กิจกรรม</string>
     <string name="history_detail_info">ราย​ละเอียด</string>
     <string name="hitory_rest_command">เวลาที่ใช้ในการคืนสภาพ</string>
@@ -764,7 +764,7 @@
     <string name="default_pace_value">"00'00\""</string>
     <string name="history_detail_pace_desc">อัตราการวิ่ง(นาที/ไมล์)</string>
     <string name="history_detail_calorie_desc">แคลอรี่ (กิโลแคลอรี)</string>
-    <string name="history_detail_step_freq">รอบขา(ขั้น/นาที)</string>
+    <string name="history_detail_step_freq">รอบขา(ก้าว/นาที)</string>
     <string name="history_detail_speed">ความเร็วต่อชม. (ไมล์/ชม.)</string>
     <string name="title_activity_sport_history_detail">ประวัติกิจกรรมกีฬารายวัน</string>
     <string name="waiting_gps_gps_unavailable">กำลังรอสัญญาณ GPS</string>
@@ -779,7 +779,7 @@
     <string name="settings_item_title_km_remind">รอบ การเตือน</string>
     <string name="settings_item_title_mi_remind">รอบ การเตือน</string>
     <string name="settings_item_title_km_voice_remind">วิทยุสื่อสาร</string>
-    <string name="settings_item_title_cal_burn_heartrate_remind">การเตือนอัตราการเต้นของหัวใจ</string>
+    <string name="settings_item_title_cal_burn_heartrate_remind">เตือนอัตราการเต้นของหัวใจ</string>
     <string name="settings_item_title_safe_heartrate_remind">เตือนอัตราการเต้นของหัวใจ</string>
     <string name="settings_item_title_auto_pause">หยุดชั่วคราวอัตโนมัติ</string>
     <string name="settings_item_title_target_use_time_remind">เวลาเป้าหมาย</string>
@@ -816,7 +816,7 @@
     <string name="remind_pace_pace_unit">/ไมล์</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="time_picker_hour">ชม.</string>
-    <string name="time_picker_minute">นาที</string>
+    <string name="time_picker_minute">น.</string>
     <string name="distance_picker_km">ไมล์</string>
     <string name="title_activity_medal_list">รายชื่อเหรียญ</string>
     <string name="title_activity_sport_medal_detail">รายละเอียดเหรียญกีฬา</string>
@@ -896,7 +896,7 @@
     <string name="waling_steps">ก้าว</string>
     <string name="date_am">"'AM'"</string>
     <string name="date_pm">"'PM'"</string>
-    <string name="setting_sport_remind_region">การแจ้งเตือนของพื้นที่</string>
+    <string name="setting_sport_remind_region">การแจ้งเตือนพื้นที่</string>
     <string name="setting_sport_heart_region_remind">โซนอัตราการเต้นของหัวใจ</string>
     <string name="setting_sport_heart_region_fat_burning">เผาผลาญไขมัน</string>
     <string name="setting_sport_heart_region_aerobic">โซนแอโรบิค</string>
@@ -980,7 +980,7 @@
     <string name="widget_currentstep_title">ภาพรวมรายวัน</string>
     <string name="widget_currentstep_activities">กิจกรรม</string>
     <string name="widget_currentstep_sleep_hour">ชม.</string>
-    <string name="widget_currentstep_sleep_min">นาที</string>
+    <string name="widget_currentstep_sleep_min">น.</string>
     <string name="widget_currentstep_sleep_title">การนอนหลับ</string>
     <string name="widget_currentstep_sleep_no">ไม่มีข้อมูลการนอนหลับ</string>
     <string name="widget_currentstep_activity_no">ไม่มีกิจกรรมวันนี้?</string>
