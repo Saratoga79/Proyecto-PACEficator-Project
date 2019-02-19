@@ -47,7 +47,7 @@
     <string name="agps_time_out">AGPS หมดอายุแล้ว การค้นหา GPS จะช้า โปรดเชื่อมต่อ Amazfit Watch App เพื่ออัปเดต</string>
     <string name="safe_hearate_remind_content">เมื่อสูงกว่า %1d</string>
     <string name="settings_safe_heart_rate_hint">(อัตราการเต้นหัวใจที่ปลอดภัย)</string>
-    <string name="settings_safe_heart_rate_unit">ครั้งต่อนาที</string>
+    <string name="settings_safe_heart_rate_unit">ครั้ง/นาที</string>
     <string name="elliptical">เครื่องเดินวงรี</string>
     <string name="elliptical_in_progress">ในขั้นตอนของเครื่องเดินวงรี</string>
     <string name="person_achive">ส่วนบุคคลที่ดีที่สุด</string>
@@ -68,7 +68,7 @@
     <string name="not_step_freq_data">รอบขา ไม่สามารถใช้ได้</string>
     <string name="not_stroke_speed_data">ข้อมูลจังหวะ ไม่สามารถใช้ได้</string>
     <string name="not_cadence_data">รอบขา ไม่สามารถใช้ได้</string>
-    <string name="stroke_speed_curve_title">อัตราจังหวะ (SPM)</string>
+    <string name="stroke_speed_curve_title">อัตราจังหวะ (ก้าว/นาที)</string>
     <string name="stroke_unit">จังหวะ</string>
     <string name="cadence_curve_title">รอบขา(ครั้ง/นาที)</string>
     <string name="swim_trips_complete">ว่ายน้ำ %1$d รอบ</string>
@@ -112,7 +112,7 @@
     <string name="picker_title_target_time">เวลาผ่านไป(ชม./ม.)</string>
     <string name="picker_title_target_calorie">แคลอรี่ (กิโลแคลอรี)</string>
     <string name="picker_title_target_te">เป้าหมาย TE</string>
-    <string name="picker_title_target_heart_rate">อัตราการเต้นหัวใจ (ครั้งต่อนาที)</string>
+    <string name="picker_title_target_heart_rate">อัตราการเต้นหัวใจ (ครั้ง/นาที)</string>
     <string name="picker_title_auto_lap">รอบเวลาอัตโนมัติ (%1$s)</string>
     <string name="picker_title_swim_length">ขนาดสระว่ายน้ำ (%1$s)</string>
     <string name="picker_title_target_trips">เป้าหมายทริป</string>
@@ -169,7 +169,7 @@
     <string name="sport_cur_tar_trips">ทริป: %1$sทริป</string>
     <string name="sport_setting_select_te_stage_title">เลือก TE</string>
     <string name="sport_setting_te_stage_content">TE%1$s %2$sนาที</string>
-    <string name="history_heart_rate_graph_desc">อัตราการเต้นหัวใจ (ครั้งต่อนาที)</string>
+    <string name="history_heart_rate_graph_desc">อัตราการเต้นหัวใจ (ครั้ง/นาที)</string>
     <string name="history_pace_graph_desc">อัตราการวิ่ง(นาที/กม.)</string>
     <string name="history_pace_graph_desc_imperial">อัตราการวิ่ง(นาที/ไมล์)</string>
     <string name="history_speed_graph_desc">ความเร็ว (กม./ชม.)</string>
@@ -189,7 +189,7 @@
     <string name="history_no_sport_tips">ยังไม่มีกิจกรรม เริ่มการทำงานทันที!</string>
     <string name="history_start_sport_tips">เริ่มกิจกรรมทันที!</string>
     <string name="sport_main_percent">%</string>
-    <string name="unit_cadence">รอบต่อนาที</string>
+    <string name="unit_cadence">รอบ/นาที</string>
     <string name="sport_main_heart_info_title">อัตราหัวใจเต้น</string>
     <string name="sport_main_beyond_heart_info_title">นอกเหนือจากอัตราการเต้นหัวใจ</string>
     <string name="sport_main_beyond_heart_info_remind">นอกเหนือจากอัตราการเต้นหัวใจ</string>
@@ -286,7 +286,7 @@
     <string name="continue_sport">ทำกิจกรรมต่อ</string>
     <string name="stop_sport">หยุดกิจกรรม</string>
     <string name="settting_sport_gpx_route">หลักสูตร GPX</string>
-    <string name="swim_max_stroke_speed">SPM สูงสุด</string>
+    <string name="swim_max_stroke_speed">ก้าว/นาที สูงสุด</string>
     <string name="swim_trips">ทริป</string>
     <string name="heart_region_title">โซนอัตราการเต้นของหัวใจ</string>
     <string name="heart_region_anaerobic＿limit">สูงสุด</string>
@@ -524,7 +524,7 @@
     <string name="gpx_alreay_offset">เบี่ยงเบน</string>
     <string name="gpx_no_find_route">ไม่มีร่องรอย</string>
     <string name="gpx_no_route_guide">"โปรดเชื่อมต่อนาฬิกาของคุณกับคอมพิวเตอร์และคัดลอกไฟล์ GPX ไปยังโฟลเดอร์ 'gpxdata' แล้วลองอีกครั้ง"</string>
-    <string name="bpm_to">ครั้งต่อนาที ถึง</string>
+    <string name="bpm_to">ครั้ง/นาที ถึง</string>
     <string name="indoor_run_progressing">การวิ่ง</string>
     <string name="run_train_title">ฝึกอบรมการวิ่ง</string>
     <string name="run_train_recommend">แนะนำ</string>
@@ -732,10 +732,10 @@
     <string name="running_avg_step_freq_desc">ขั้นเฉลี่ย</string>
     <string name="running_pace_unit">/ไมล์</string>
     <string name="running_calorie_unit">กิโลแคลอรี</string>
-    <string name="running_step_freq_unit">spm</string>
+    <string name="running_step_freq_unit">ก้าว/นาที</string>
     <string name="running_speed_unit">ไมล์ต่อชั่วโมง</string>
     <string name="running_distance_unit">ไมล์</string>
-    <string name="running_heartrate_unit">ครั้งต่อนาที</string>
+    <string name="running_heartrate_unit">ครั้ง/นาที</string>
     <string name="running_stop_dialog_msg_reach_minimum_distance">หยุดกิจกรรมนี้หรือไม่?</string>
     <string name="running_stop_dialog_msg_not_reach_minimum_distance">ระยะทางสั้นเกินไปที่จะบันทึก คุณแน่ใจหรือว่าจะหยุด?</string>
     <string name="running_stop_dialog_positive_text">หยุด</string>
@@ -754,7 +754,7 @@
     <string name="running_realtime_trail_desc">เส้นทาง GPS</string>
     <string name="title_activity_sport_history">ประวัติกิจกรรมกีฬา</string>
     <string name="history_heart_rate_desc">อัตราการเต้นของหัวใจ:</string>
-    <string name="history_heart_rate_unit">ครั้งต่อนาที</string>
+    <string name="history_heart_rate_unit">ครั้ง/นาที</string>
     <string name="history_info_cost_time_desc">เวลาที่ผ่านไป</string>
     <string name="history_detail_running_title">วิ่ง</string>
     <string name="history_detail_walking_title">การเดิน</string>
@@ -807,7 +807,7 @@
     <string name="remind_target_time_pace_unit">/ไมล์</string>
     <string name="remind_heart_rate_too_high">อัตราการเต้นของหัวใจสูงเกินไป</string>
     <string name="remind_heart_rate_value_before">ปัจจุบัน</string>
-    <string name="remind_heart_rate_value_after">ครั้งต่อนาที</string>
+    <string name="remind_heart_rate_value_after">ครั้ง/นาที</string>
     <string name="remind_heart_rate_suggestion">โปรดชะลอความเร็วลงเพื่อปรับ</string>
     <string name="remind_pace_too_low">อัตราการวิ่งช้าเกินไป</string>
     <string name="remind_pace_too_fast">อัตราการวิ่งเร็วเกินไป</string>
@@ -908,7 +908,7 @@
     <string name="setting_sport_heart_region_text_custom">กำหนด​เอง</string>
     <string name="remind_heart_rate_region_over">อัตราการเต้นของหัวใจสูงเกินไป</string>
     <string name="remind_heart_rate_region_less">อัตราการเต้นของหัวใจสูงเกินไป</string>
-    <string name="remind_heart_rate_current_heart_rate">ปัจจุบัน　%1$d ครั้งต่อนาที</string>
+    <string name="remind_heart_rate_current_heart_rate">ปัจจุบัน　%1$d ครั้ง/นาที</string>
     <string name="sport_time_seconds">วินาที</string>
     <string name="complete_training_project">โปรแกรมการฝึกอบรมเสร็จสมบูรณ์</string>
     <string name="reminder_speed_unit">/ชม.</string>
