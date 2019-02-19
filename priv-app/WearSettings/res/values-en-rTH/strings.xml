@@ -78,7 +78,7 @@
     <string name="auto_hint_title">ปิดหน้าจอแสดงเวลา</string>
     <string name="long_key_action">การเปิดโดยการกดปุ่มค้าง</string>
     <string name="voice">ปรับระดับเสียง</string>
-    <string name="recombind">เชื่อมโยงอีกครั้ง</string>
+    <string name="recombind">เชื่อมต่ออีกครั้ง</string>
     <string name="watch_mode">โหมดนาฬิกา</string>
     <string name="lock_screen_title">หน้าจอล็อค</string>
     <string name="lock_screen">ล็อคหน้าจอ</string>
@@ -266,10 +266,10 @@
     <string name="reset_factory_yes">คืนการตั้งค่าจากโรงงาน</string>
     <string name="reset_factory_no">ยกเลิก</string>
     <string name="reset_factory_title">คืนการตั้งค่าจากโรงงาน</string>
-    <string name="reset_factory_noconnect_msg">"ถ้าคุณต้องการยกเลิกการจับคู่ออกจากนาฬิกาโปรดทำในแอป Amazfit watch
+    <string name="reset_factory_noconnect_msg">"ถ้าคุณต้องการยกเลิกการเชื่อมต่อออกจากนาฬิกาโปรดทำในแอพ Amazfit watch
   บัตร UnionPay และบัตรขนส่งจะถูกลบออกจากนาฬิกาเมื่อมีการคืนค่าการตั้งค่าจากโรงงาน
-  - ลบบัตร UnionPay: ไม่สามารถผูกกับนาฬิกาได้อีกต่อไป หากคุณต้องการผูกอีกครั้งโปรดปรึกษาฝ่ายบริการลูกค้าจากธนาคารของคุณ
-  - เอาบัตรจราจรออก: บัตรเหล่านั้นจะถูกปิดอย่างถาวรและไม่สามารถจ่ายได้อีกต่อไป "</string>
+  - ลบบัตร UnionPay: ไม่สามารถผูกกับนาฬิกาได้อีกต่อไป หากคุณต้องการผูกบัตรอีกครั้ง โปรดปรึกษาฝ่ายบริการลูกค้าจากธนาคารของคุณ
+  - เอาบัตรขนส่งออก: บัตรเหล่านั้นจะถูกปิดอย่างถาวรและไม่สามารถจ่ายได้อีกต่อไป "</string>
     <string name="reset_factory_conncet_msg">นาฬิกาและแอป Amazfit watch ของคุณจะลบบัตร UnionPay ที่ถูกผูกไว้ออก นาฬิกาจะยังคงฟังก์ชั่นการชำระเงินของบัตรการขนส่งของคุณ</string>
     <string name="reset_factory_positive">คืนการตั้งค่าจากโรงงาน</string>
     <string name="reset_factory_negative">ยกเลิก</string>
@@ -364,7 +364,7 @@
     <string name="title_activity_long_sitting_time">การตั้งค่านั่งเวลานาน</string>
     <string name="lab_desc">รวบรวมส่วนหนึ่งของ debugging tools</string>
     <string name="unknown">อุปกรณ์ที่ไม่รู้จัก</string>
-    <string name="bind_tips_title">"กรุณาผูกมัด 
+    <string name="bind_tips_title">"กรุณาเชื่อมต่อ 
  เพื่อปกป้องข้อมูลของคุณให้ปลอดภัยยิ่งขึ้น"</string>
     <string name="upgrade_checking">ตรวจหาการอัพเดท...</string>
     <string name="left_hand">ซ้าย</string>
