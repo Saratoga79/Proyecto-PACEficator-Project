@@ -27,8 +27,8 @@
     <string name="mihome_activity_btn_disconnected">กรุณาเชื่อมต่อแอพ MiHome บนโทรศัพท์มือถือครั้งแรก</string>
     <string name="mihome_device_card_2_offline">[offline]</string>
     <string name="dialog_yes">ใช่</string>
-    <string name="mihome_start_bind">เริ่มต้นเชื่อมต่อ</string>
-    <string name="mihome_start_bind_title">ผูกนาฬิกา</string>
+    <string name="mihome_start_bind">เริ่มบายด์(ผูก)</string>
+    <string name="mihome_start_bind_title">บายด์(ผูก) นาฬิกา</string>
     <string name="mihome_start_bind_tips">ไม่ออกจากหน้านี้ และเปิดแอพ MiHome ในโทรศัพท์มือถือเพื่อค้นหาอุปกรณ์</string>
     <string name="mihome_name_in_ios_app">Amazfit smartwatch (%s)</string>
     <string name="mihome_voice_list_title">การควบคุมด้วยเสียงอัจฉริยะ</string>
@@ -38,20 +38,20 @@
     <string name="mihome_voice_list_howtoadd_dialog_title">เพิ่มตัวควบคุมทางลัดทั่วไป</string>
     <string name="mihome_voice_list_howtoadd_dialog_msg">คุณสามารถเพิ่มคำควบคุมทั่วไปเป็นตัวควบคุมทางลัดในขณะที่ควบคุมอุปกรณ์ MiHome ของคุณด้วยเสียง</string>
     <string name="mihome_voice_list_howtoadd_dialog_btn">ฉันเข้าใจแล้ว</string>
-    <string name="mihome_widget_info_unbind_tip">หลังจากเชื่อมนาฬิกากับแอพ MiHome นาฬิกาจะสามารถใช้เพื่อควบคุม MiHome ได้</string>
+    <string name="mihome_widget_info_unbind_tip">หลังจากบายด์(ผูก) นาฬิกากับแอพ MiHome นาฬิกาจะสามารถใช้เพื่อควบคุม MiHome ได้</string>
     <string name="manual_title">การควบคุมที่สะดวกสบายของ MiHome</string>
     <string name="mihome_manual_noitem_tips_title">ไม่พบการดำเนินการที่มีอยู่</string>
     <string name="mihome_manual_noitem_tips">&lt;p&gt;โปรดป้อนรายการอุปกรณ์สมาร์ทโดยคลิก &lt;font color=#00FFA9&gt; + &lt;/font&gt;at มุมขวาบนของโทรศัพท์มือถือแอพ MiHome &lt;font color=#00FFA9&gt; [smart] &lt;/font&gt; หน้า ค้นหาและ &lt;font color=#00FFA9&gt; เข้าสู่หน้า Amazfit watch &lt;/font&gt;, to set &lt;font color=#00FFA9&gt; [ผลการปฏิบัติ] &lt;/font&gt; สำหรับการดำเนินงานที่แตกต่างกัน &lt;/p&gt;&lt;p&gt; หลังจากตั้งค่าและซิงโครไนซ์กับนาฬิกาแล้วการควบคุมอุปกรณ์บลูทูธ สามารถทำได้ในตอนท้ายของนาฬิกา &lt;/p&gt;</string>
     <string name="conditional_title">การดำเนินการตามเงื่อนไข</string>
-    <string name="unbind_title">เอาออก</string>
-    <string name="mibeacon_bind_fail_tips">ล้มเหลวในการเชื่อมต่อ กรุณาลองอีกครั้ง</string>
+    <string name="unbind_title">ยกเลิกบายด์(ผูก)</string>
+    <string name="mibeacon_bind_fail_tips">ล้มเหลวในการบายด์(ผูก) กรุณาลองอีกครั้ง</string>
     <string name="mibeacon_control_list">รายการควบคุม</string>
     <string name="mibeacon_ok">ตกลง</string>
     <string name="mibeacon_tip_ok">ทราบแล้ว</string>
     <string name="mibeacon_item_define_title">เปิดใช้งานการดำเนินงาน</string>
     <string name="mibeacon_item_undefine_title">ปิดใช้งานการดำเนินงาน</string>
     <string name="mibeacon_unbind_sync_tip">เวลาการซิงโครไนซ์ครั้งล่าสุด</string>
-    <string name="mibeacon_unbind_tip">การยกเลิกการเชื่อมต่อจะดำเนินการกับแอปพลิเคชั่น MiHome ในโทรศัพท์มือถือ</string>
+    <string name="mibeacon_unbind_tip">การยกเลิกการบายด์(ผูก) จะดำเนินการกับแอปพลิเคชั่น MiHome ในโทรศัพท์มือถือ</string>
     <string name="mibeacon_airplane_tips">ฟังก์ชั่นนี้ไม่สามารถใช้ในโหมดเครื่องบินได้ โปรดปิดโหมดเครื่องบินดูถ้าจำเป็น</string>
     <string name="mibeacon_item_sleep_tip_title">15 นาทีหลังจากนอนหลับ</string>
     <string name="mibeacon_item_lift_hand_tip_title">ยกและหมุนข้อมือ 3 ครั้ง</string>
