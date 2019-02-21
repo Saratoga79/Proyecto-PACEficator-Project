@@ -406,14 +406,14 @@ kg"</string>
     <string name="electronic_ring_sound">Ηλεκτρονικός ήχος κλήσης%1$d</string>
     <string name="phonetic_sound">Φωνητικός ήχος κλήσης%1$d</string>
     <string name="device_name_huanghe">Amazfit智能运动手表</string>
-    <string name="reset_factory_hint_cn">"手表会与你的手机断开连接并删除手表中的所有数据。
-该手表被再次绑定后，已开通的交通卡可以继续使用。"</string>
-    <string name="reset_factory_bank_title">请先移除银联卡</string>
-    <string name="reset_factory_bank_msg">"未移除银联卡进行手表重置将导致银联卡: 
- 1.无法在手表中移除,占用芯片空间; 
- 2.无法在手表使用支付功能; 
- 3.无法被其他设备绑定;为了支付安全,请先在Amazfit手表App移除银联卡。"</string>
-    <string name="reset_factory_bank_yes">继续恢复出厂</string>
-    <string name="reset_factory_bank_no">取消</string>
-    <string name="reset_factory_bank_msg_again">手表会与你的手机断开连接并删除手表中的所有数据.该手表被再次绑定后,当前已开通的交通卡可以继续使用.</string>
+    <string name="reset_factory_hint_cn">"Το ρολόι θα αποσυνδεθεί από το τηλέφωνό σας και θα διαγραφούν όλα τα δεδομένα στο ρολόι.
+Αφού ξανασυνδεθεί το ρολόι, η ανοιχτή κάρτα κυκλοφορίας μπορεί να συνεχίσει να χρησιμοποιείται. "</string>
+    <string name="reset_factory_bank_title">Αφαιρέστε πρώτα την κάρτα UnionPay</string>
+    <string name="reset_factory_bank_msg">"Η κατάργηση της κάρτας UnionPay για επαναφορά ρολογιού θα έχει ως αποτέλεσμα στην κάρτα UnionPay:
+1. Δεν μπορεί να αφαιρεθεί από το ρολόι, κατέχοντας χώρο στο τσιπ
+2. Η λειτουργία πληρωμής δεν μπορεί να χρησιμοποιηθεί στο ρολόι.
+3. Δεν μπορεί να δεσμεύεται από άλλες συσκευές. για να πληρώσετε για ασφάλεια, καταργήστε πρώτα την κάρτα UnionPay στην εφαρμογή Watch Amazfit. "</string>
+    <string name="reset_factory_bank_yes">Συνεχεία στην επαναφορά το εργοστάσιακου</string>
+    <string name="reset_factory_bank_no">Ακύρωση</string>
+    <string name="reset_factory_bank_msg_again">Το ρολόι θα αποσυνδεθεί από το τηλέφωνό σας και θα διαγραφούν όλα τα δεδομένα του. Αφού το ρολόι συνδεθεί ξανά, η τρέχουσα κάρτα κυκλοφορίας μπορεί να συνεχίσει να χρησιμοποιείται.</string>
 </resources>
