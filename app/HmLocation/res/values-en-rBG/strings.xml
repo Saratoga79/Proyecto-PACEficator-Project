@@ -17,10 +17,10 @@
     <string name="delete">Премахни</string>
     <string name="location_title">Координати</string>
     <string name="altitude_title">Височина</string>
-    <string name="east_lng">EL</string>
-    <string name="west_lng">WL</string>
-    <string name="north_lat">NL</string>
-    <string name="south_lat">SL</string>
+    <string name="east_lng">ИД</string>
+    <string name="west_lng">ЗД</string>
+    <string name="north_lat">СД</string>
+    <string name="south_lat">ЮД</string>
     <string name="location_list_no_data">Няма местоположения</string>
     <string name="icon_list_select_confirm">Избор</string>
     <string name="delete_loaction_tips">Премахнете това местоположение?</string>
@@ -35,8 +35,8 @@
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">ОК</string>
     <string name="picker_default_nagetive_text">Изкл</string>
-    <string name="no_heartrate_data_hint">"Couldn't find heart rate data"</string>
-    <string name="no_altitude_hint">"Couldn't find altitude data"</string>
+    <string name="no_heartrate_data_hint">"Не можах да намеря данни за пулс"</string>
+    <string name="no_altitude_hint">"Не можах да намеря данни за надморската височина"</string>
     <string name="title_settings">Настройки</string>
     <string name="sport_music_settings">Музика</string>
     <string name="widget_currentstep_title">Данни</string>
