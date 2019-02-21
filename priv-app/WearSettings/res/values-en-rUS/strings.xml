@@ -350,23 +350,36 @@ kg"</string>
     <string name="screen_refresh">Seconds hand</string>
     <string name="screen_refresh_on_string">On</string>
     <string name="screen_refresh_off_string">Off</string>
+    <string name="confirm_shutdown">Shutdown?</string>
+    <string name="confirm_reboot">Reboot?</string>
     <string name="setting_regulatory_europe">Europe</string>
+    <string name="app_name">Watch Settings</string>
+    <string name="unknown">Unknown device</string>
+    <string name="bind_tips_title">"Please bind 
+ to protect your data more securely"</string>
     <string name="setting_regulatory_us">U.S.</string>
     <string name="setting_regulatory_canda">Canada</string>
     <string name="setting_regulatory_russia">Russia</string>
+    <string name="ring_turn_off">Turn off</string>
     <string name="setting_regulatory_japan">Japan</string>
     <string name="setting_regulation_desc_us">FCC ID:2AC8UA1811</string>
     <string name="setting_regulation_desc_canda">"IC:21806-A1811 
  ICAN ICE-3(B)/NMB-3(B)"</string>
     <string name="setting_regulation_model_name">Model : %1$s</string>
-    <string name="confirm_shutdown">Shutdown?</string>
-    <string name="confirm_reboot">Reboot?</string>
-    <string name="app_name">Watch Settings</string>
+    <string name="alarm_bee">Alarm bee</string>
+    <string name="alarm_bee_bee">Alarm bee bee</string>
+    <string name="alarm_buzzer">Buzzer</string>
+    <string name="alarm_orbit">Orbit</string>
+    <string name="alarm_rooster">Rooster</string>
+    <string name="alarm_timer">Timer</string>
+    <string name="alarm_nudge">Nudge</string>
+    <string name="alarm_drip">Water droplets</string>
+    <string name="alarm_awaken">Awake</string>
+    <string name="alarm_bounce">Beat</string>
+    <string name="alarm_sway">Swing</string>
     <string name="title_activity_long_sitting_time">LongSittingTimeActivity</string>
+    <string name="alarm_rise">Rising</string>
     <string name="lab_desc">Collect part of the debugging tools</string>
-    <string name="unknown">Unknown device</string>
-    <string name="bind_tips_title">"Please bind 
- to protect your data more securely"</string>
     <string name="upgrade_checking">Checking for update...</string>
     <string name="left_hand">Left</string>
     <string name="right_hand">Right</string>
@@ -375,6 +388,32 @@ kg"</string>
     <string name="sport_remind_open_tips">You will be reminded to quickly turn on the sport mode when it detects that you are running or walking.</string>
     <string name="sport_remind_end_tips">You will be reminded to end and save after detecting that your activity is complete.</string>
     <string name="sport_remind_open">Start</string>
+    <string name="voice_set">Voice</string>
+    <string name="vibration">Vibration</string>
+    <string name="ring_vibration">Call alert vibration</string>
+    <string name="natification_vibration">New notification vibration</string>
+    <string name="alarm_vibration">Timing reminder vibration</string>
     <string name="sport_remind_title">Motion detection</string>
+    <string name="ring">Ringtone</string>
+    <string name="volume">Volume</string>
+    <string name="hint_volume">Ringtone volume</string>
+    <string name="media_volume">Media volume</string>
+    <string name="alarm_volume">Alarm volume</string>
+    <string name="in_call_ring">Ringtone</string>
+    <string name="timing_reminder_ring">Alarm ringtone timing</string>
+    <string name="alarm_ring">Alarm tone</string>
+    <string name="nokia_tune">Classic %1$d</string>
+    <string name="electronic_ring_sound">Electronic %1$d</string>
+    <string name="phonetic_sound">Electronic %1$d</string>
     <string name="device_name_huanghe">Amazfit Sports Watch</string>
+    <string name="reset_factory_hint_cn">"手表会与你的手机断开连接并删除手表中的所有数据。
+该手表被再次绑定后，已开通的交通卡可以继续使用。"</string>
+    <string name="reset_factory_bank_title">请先移除银联卡</string>
+    <string name="reset_factory_bank_msg">"未移除银联卡进行手表重置将导致银联卡: 
+ 1.无法在手表中移除,占用芯片空间; 
+ 2.无法在手表使用支付功能; 
+ 3.无法被其他设备绑定;为了支付安全,请先在Amazfit手表App移除银联卡。"</string>
+    <string name="reset_factory_bank_yes">继续恢复出厂</string>
+    <string name="reset_factory_bank_no">取消</string>
+    <string name="reset_factory_bank_msg_again">手表会与你的手机断开连接并删除手表中的所有数据.该手表被再次绑定后,当前已开通的交通卡可以继续使用.</string>
 </resources>
