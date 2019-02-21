@@ -103,12 +103,12 @@
     <string name="jianzou">Ходене</string>
     <string name="yueye">Trail run</string>
     <string name="shineipao">Treadmill</string>
-    <string name="huwaiqi">Outdoor cycling</string>
+    <string name="huwaiqi">Колоездене на открито</string>
     <string name="yongchiyou">Плуване в басейн</string>
     <string name="gongkaiyou">Open water</string>
     <string name="tuoyuanji">Elliptical</string>
     <string name="dengshan">Climbing</string>
-    <string name="tierensan">Triathlon</string>
+    <string name="tierensan">Триатлон</string>
     <string name="multisport">Multisport</string>
     <string name="shineiqi">Indoor cycling</string>
     <string name="skiing">Skiing</string>
@@ -167,7 +167,7 @@
     <string name="no">Не</string>
     <string name="settings_step_target">Цел крачки</string>
     <string name="settings_target_reach_reminder">Крачки предупреждение</string>
-    <string name="settings_long_sit_reminder">Idle alert</string>
+    <string name="settings_long_sit_reminder">Сигнал за неактивност</string>
     <string name="settings_on">Вкл</string>
     <string name="settings_off">Изкл</string>
     <string name="settings_step_unit">Крачки</string>
@@ -177,7 +177,7 @@
     <string name="auto_nodisturb_title_string">Авто DND</string>
     <string name="auto_nodisturb_start_time_string">Старт</string>
     <string name="auto_nodisturb_end_time_string">Край</string>
-    <string name="time_to">" to "</string>
+    <string name="time_to">" до "</string>
     <string name="auto_wifi_trans_on_string">Вкл</string>
     <string name="auto_wifi_trans_off_string">Изкл</string>
     <string name="blue_tooth_dev_in_sub_list">Bluetooth</string>
@@ -201,17 +201,17 @@
     <string name="button_cancel">Отказ</string>
     <string name="blt_cancel_paring">Отменяне на сдвояване</string>
     <string name="bluetooth_connecting">Свързване…</string>
-    <string name="bluetooth_disconnecting">Disconnecting…</string>
+    <string name="bluetooth_disconnecting">Прекъсване на връзката…</string>
     <string name="blt_hint_paring">"%1s
-Pair now?"</string>
-    <string name="blt_paring_fail_hint">"Make sure the device is on
-and nearby"</string>
+Сдвояване сега?"</string>
+    <string name="blt_paring_fail_hint">„Уверете се, че устройството е включено
+ и е наблизо“</string>
     <string name="blt_hint_connect">"%1s
-Connect?"</string>
-    <string name="blt_confirm_ignore">Forget this device?</string>
-    <string name="bluetooth_pairing_error_message">"Couldn't pair %1$s"</string>
-    <string name="bluetooth_connected">Connected</string>
-    <string name="bluetooth_disconnected">Disconnected</string>
+Свързване?"</string>
+    <string name="blt_confirm_ignore">Забравяне на това устройство?</string>
+    <string name="bluetooth_pairing_error_message">"Неуспешно сдвояване %1$s"</string>
+    <string name="bluetooth_connected">Свързан</string>
+    <string name="bluetooth_disconnected">Прекъснат</string>
     <string name="bluetooth_connecting_error_message">"Couldn't connect to %1$s."</string>
     <string name="bluetooth_pairing_pin_error_message">"Couldn't pair %1$s. PIN or passkey is incorrect."</string>
     <string name="bluetooth_pairing_device_down_error_message">"Can't communicate with %1$s."</string>
@@ -220,22 +220,22 @@ Connect?"</string>
     <string name="bluetooth_turning_off">Turning off Bluetooth off…</string>
     <string name="bluetooth_enabled">Bluetooth is on</string>
     <string name="bluetooth_disabled">Bluetooth is off</string>
-    <string name="bluetooth_unknown">Unknown status</string>
-    <string name="bluetooth_disconnect_title">Disconnect?</string>
-    <string name="bluetooth_connect_title">Connect?</string>
+    <string name="bluetooth_unknown">Неизвестно състояние</string>
+    <string name="bluetooth_disconnect_title">Прекъсване?</string>
+    <string name="bluetooth_connect_title">Свържи?</string>
     <string name="phone_finding">Searching for phone…</string>
     <string name="phone_found">Found phone</string>
     <string name="phone_not_connected">"Phone isn't connected"</string>
     <string name="phone_not_found">"Couldn't find phone"</string>
-    <string name="start_testing">Start</string>
-    <string name="lab_wifi_test_tip_retry">Try again</string>
-    <string name="lab_wifi_test_tip_testing">Testing…</string>
-    <string name="lab_wifi_test_tip_pass">Passed</string>
+    <string name="start_testing">Старт</string>
+    <string name="lab_wifi_test_tip_retry">Опитай отново</string>
+    <string name="lab_wifi_test_tip_testing">Тестване…</string>
+    <string name="lab_wifi_test_tip_pass">Преминал</string>
     <string name="lab_wifi_test_tip_fail">"Couldn't pass"</string>
     <string name="lab_wifi_test_tip_open_wifi">Turn on Wi-Fi</string>
     <string name="light_off">Изкл</string>
-    <string name="light_auto">Auto</string>
-    <string name="light_on">Always on</string>
+    <string name="light_auto">Автоматично</string>
+    <string name="light_on">Винаги включено</string>
     <string name="rise_no_bl_under_slpt">Wake mode</string>
     <string name="subtitle_of_raise_hand_no_bl">Wake mode</string>
     <string name="rise_with_bl_under_slpt">Вкл</string>
