@@ -9,6 +9,8 @@
     <string name="permlab_shutdown">čiastočné vypnutie</string>
     <string name="granularity_label_word">slovo</string>
     <string name="factorytest_reboot">Reštartovať</string>
+    <string name="aerr_application">Unfortunately, %1$s has stopped.</string>
+    <string name="aerr_process">Unfortunately, the process %1$s has stopped.</string>
     <string name="anr_activity_application">\"Proces %2$s neodpovedá.</string>
     <string name="anr_activity_process">\"Činnosť %1$s neodpovedá.</string>
     <string name="anr_application_process">"%1$s neodpovedá. Chcete ho zavrieť?"</string>
@@ -18,6 +20,8 @@
     <string name="android_upgrading_apk">" Optimalizácia aplikácie %1$d z %2$d"</string>
     <string name="android_upgrading_starting_apps">Spúšťanie aplikácií...</string>
     <string name="android_upgrading_complete">Reštart takmer dokončený</string>
+    <string name="wifi_available_sign_in">Sign into Wi-Fi network</string>
+    <string name="wifi_watchdog_network_disabled">"Couldn't connect to Wi-Fi"</string>
     <string name="sim_restart_button">Reštartovať</string>
     <string name="back_button_label">Späť</string>
 </resources>

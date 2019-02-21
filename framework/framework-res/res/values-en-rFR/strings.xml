@@ -9,6 +9,8 @@
     <string name="permlab_shutdown">Extinction partielle</string>
     <string name="granularity_label_word">mot</string>
     <string name="factorytest_reboot">Redémarrer</string>
+    <string name="aerr_application">Unfortunately, %1$s has stopped.</string>
+    <string name="aerr_process">Unfortunately, the process %1$s has stopped.</string>
     <string name="anr_activity_application">%2$s ne répond plus.</string>
     <string name="anr_activity_process">L\'activité %1$s ne répond plus.</string>
     <string name="anr_application_process">"L'application %1$s ne répond pas. Voulez-vous la quitter ?"</string>
@@ -18,6 +20,8 @@
     <string name="android_upgrading_apk">" Optimisation de l'app %1$d Total %2$d"</string>
     <string name="android_upgrading_starting_apps">Démarrage des apps...</string>
     <string name="android_upgrading_complete">Redémarrage presque terminé</string>
+    <string name="wifi_available_sign_in">Sign into Wi-Fi network</string>
+    <string name="wifi_watchdog_network_disabled">"Couldn't connect to Wi-Fi"</string>
     <string name="sim_restart_button">Redémarrer</string>
     <string name="back_button_label">Retour</string>
 </resources>

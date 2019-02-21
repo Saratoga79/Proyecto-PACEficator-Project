@@ -9,6 +9,8 @@
     <string name="permlab_shutdown">részl. rendszerleáll</string>
     <string name="granularity_label_word">szó</string>
     <string name="factorytest_reboot">Újraindít</string>
+    <string name="aerr_application">Unfortunately, %1$s has stopped.</string>
+    <string name="aerr_process">Unfortunately, the process %1$s has stopped.</string>
     <string name="anr_activity_application">\"%2$s nem válaszol.</string>
     <string name="anr_activity_process">\"%1$s tevékenység nem válaszol.</string>
     <string name="anr_application_process">"%1$s nem válaszol. Szeretnéd bezárni?"</string>
@@ -18,6 +20,8 @@
     <string name="android_upgrading_apk">" App optimizálás %1$d Össz. %2$d"</string>
     <string name="android_upgrading_starting_apps">App.-ok indítása...</string>
     <string name="android_upgrading_complete">Újraindítás majdnem kész</string>
+    <string name="wifi_available_sign_in">Sign into Wi-Fi network</string>
+    <string name="wifi_watchdog_network_disabled">"Couldn't connect to Wi-Fi"</string>
     <string name="sim_restart_button">Újraindítás</string>
     <string name="back_button_label">Vissza</string>
 </resources>

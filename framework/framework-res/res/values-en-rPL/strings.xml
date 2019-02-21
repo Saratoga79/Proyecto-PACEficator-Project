@@ -9,6 +9,8 @@
     <string name="permlab_shutdown">Częściowe zamk.</string>
     <string name="granularity_label_word">słowo</string>
     <string name="factorytest_reboot">Restart</string>
+    <string name="aerr_application">Unfortunately, %1$s has stopped.</string>
+    <string name="aerr_process">Unfortunately, the process %1$s has stopped.</string>
     <string name="anr_activity_application">\"%2$s nie odpowiada.</string>
     <string name="anr_activity_process">\"Aktywność %1$s nie odpowiada.</string>
     <string name="anr_application_process">"%1$s nie odpowiada. Czy chcesz go zamknąć?"</string>
@@ -18,6 +20,8 @@
     <string name="android_upgrading_apk">" Optymalizacja app %1$d z %2$d"</string>
     <string name="android_upgrading_starting_apps">Uruchamianie aplikacji...</string>
     <string name="android_upgrading_complete">Restart prawie wykonany</string>
+    <string name="wifi_available_sign_in">Sign into Wi-Fi network</string>
+    <string name="wifi_watchdog_network_disabled">"Couldn't connect to Wi-Fi"</string>
     <string name="sim_restart_button">Restart</string>
     <string name="back_button_label">Wstecz</string>
 </resources>
