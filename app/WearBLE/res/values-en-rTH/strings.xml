@@ -3,18 +3,18 @@
 <resources>
     <string name="app_name">BLE connect</string>
     <string name="action_settings">การตั้งค่า</string>
-    <string name="heart_rate">HR_COUNTER</string>
+    <string name="heart_rate">นับอัตราการเต้นของหัวใจ</string>
     <string name="hello_world">จำลองอัตราการเต้นหัวใจ</string>
-    <string name="install_companion_tip">请先在手机上安装华米手表助手</string>
+    <string name="install_companion_tip">โปรดติดตั้ง Watch Assistant บนโทรศัพท์ของคุณก่อน</string>
     <string name="simplified_chinese">ภาษาจีน (ประยุกต์)</string>
-    <string name="english_usa">English(US)</string>
-    <string name="low_battery">电量不足5% 请连接电源以继续。</string>
-    <string name="battery_low_title">电量低</string>
-    <string name="battery_low_plz_charge">电量不足 请请连接电源充电。</string>
-    <string name="scan_to_bind">扫码绑定</string>
-    <string name="function_unavailable_tip">会有部分功能不可用 跳过吗</string>
-    <string name="cancel_bind">取消</string>
-    <string name="skip_bind">跳过</string>
+    <string name="english_usa">ภาษาอังกฤษ (สหรัฐฯ)</string>
+    <string name="low_battery">แบตเตอรี่น้อยกว่า 5% โปรดชาร์จไฟเพื่อดำเนินการต่อ</string>
+    <string name="battery_low_title">แบตเตอรี่ต่ำ!</string>
+    <string name="battery_low_plz_charge">แบตเตอรี่อ่อนโปรดเชื่อมต่อกับแหล่งจ่ายไฟสำหรับชาร์จ</string>
+    <string name="scan_to_bind">สแกนเพื่อบายด์(ผูก)</string>
+    <string name="function_unavailable_tip">คุณลักษณะบางอย่างไม่พร้อมใช้งาน ข้ามหรือไม่?</string>
+    <string name="cancel_bind">ยกเลิก</string>
+    <string name="skip_bind">ข้าม</string>
     <string name="permission_read_user_info">permission_read_user_info</string>
     <string name="permission_write_user_info">permission_read_user_info</string>
 </resources>

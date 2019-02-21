@@ -3,7 +3,7 @@
 <resources>
     <string name="settings_item_high_light_scale_factor">0.5</string>
     <string name="locale_title">เลือกภาษา</string>
-    <string name="average_text">Avg</string>
+    <string name="average_text">ค่าเฉลี่ย</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">ยืนยัน</string>
     <string name="picker_default_nagetive_text">ปิด</string>
@@ -15,7 +15,7 @@
     <string name="widget_currentstep_title">ภาพรวมรายวัน</string>
     <string name="widget_currentstep_activities">กิจกรรม</string>
     <string name="widget_currentstep_sleep_hour">ชม.</string>
-    <string name="widget_currentstep_sleep_min">นาที</string>
+    <string name="widget_currentstep_sleep_min">น.</string>
     <string name="widget_currentstep_sleep_title">การนอนหลับ</string>
     <string name="widget_currentstep_sleep_no">ไม่มีข้อมูลการนอนหลับ</string>
     <string name="widget_currentstep_activity_no">ไม่มีกิจกรรมวันนี้?</string>
@@ -68,9 +68,9 @@
     <string name="count_down_btn_pause">หยุดชั่วคราว</string>
     <string name="count_down_btn_continue">ทำต่อ</string>
     <string name="count_down_btn_stop">หยุด</string>
-    <string name="count_down_picker_min">นาที</string>
+    <string name="count_down_picker_min">น.</string>
     <string name="count_down_picker_hour">ชม.</string>
     <string name="count_down_wrong_time_tips">โปรดตั้งเวลาที่ถูกต้อง</string>
     <string name="count_down_del_time">ลบตัวจับเวลานี้？</string>
-    <string name="title_unit">หน่วย (ชม./น.)</string>
+    <string name="title_unit">หน่วย (ชั่วโมง/นาที)</string>
 </resources>

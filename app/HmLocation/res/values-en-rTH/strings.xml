@@ -10,8 +10,8 @@
     <string name="gps_search_failed_content">ลองอีกครั้งกลางแจ้ง</string>
     <string name="wait_gps_search_retry">ลองอีกครั้ง</string>
     <string name="gps_info_reaching">กำลังรับค่าตำแหน่ง...</string>
-    <string name="date_am">ก่อนเที่ยงวัน</string>
-    <string name="date_pm">หลังเที่ยงวัน</string>
+    <string name="date_am">AM</string>
+    <string name="date_pm">PM</string>
     <string name="back">กลับ</string>
     <string name="change_icon">เปลี่ยนไอคอน</string>
     <string name="delete">เอาออก</string>
@@ -31,7 +31,7 @@
     <string name="exteed_max_num">"ไม่สามารถเพิ่มสถานที่มากกว่า 500 แห่ง"</string>
     <string name="gps_save">บันทึก</string>
     <string name="altitude_unit">เมตร</string>
-    <string name="average_text">เฉลี่ย</string>
+    <string name="average_text">ค่าเฉลี่ย</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">ตกลง</string>
     <string name="picker_default_nagetive_text">ปิด</string>
@@ -42,7 +42,7 @@
     <string name="widget_currentstep_title">ข้อมูล</string>
     <string name="widget_currentstep_activities">"กิจกรรมของวันนี้"</string>
     <string name="widget_currentstep_sleep_hour">ชม.</string>
-    <string name="widget_currentstep_sleep_min">เมตร</string>
+    <string name="widget_currentstep_sleep_min">น.</string>
     <string name="widget_currentstep_sleep_title">การนอนหลับเมื่อคืนนี้</string>
     <string name="widget_currentstep_sleep_no">ไม่มีข้อมูลการนอนหลับ</string>
     <string name="widget_currentstep_activity_no">ไม่มีกิจกรรมวันนี้?</string>
