@@ -10,7 +10,7 @@
     <string name="granularity_label_word">slovo</string>
     <string name="factorytest_reboot">Restartovat</string>
     <string name="aerr_application">Bohužel, aplikace %1$s byla zastavena.</string>
-    <string name="aerr_process">Unfortunately, the process %1$s has stopped.</string>
+    <string name="aerr_process">Bohužel, proces %1$s byl zastaven.</string>
     <string name="anr_activity_application">\"%2$s neodpovídá.</string>
     <string name="anr_activity_process">\"Aktivita %1$s neodpovídá.</string>
     <string name="anr_application_process">"%1$s neodpovídá. Chcete ukončit?"</string>
@@ -22,8 +22,8 @@ Chcete ukončit?\"</string>
     <string name="android_upgrading_apk">" Optimalizace aplikace %1$d z celkem %2$d"</string>
     <string name="android_upgrading_starting_apps">Spouštění aplikací...</string>
     <string name="android_upgrading_complete">Restartování je téměř dokončeno</string>
-    <string name="wifi_available_sign_in">Sign into Wi-Fi network</string>
-    <string name="wifi_watchdog_network_disabled">"Couldn't connect to Wi-Fi"</string>
+    <string name="wifi_available_sign_in">Připojte se k Wi-Fi síti</string>
+    <string name="wifi_watchdog_network_disabled">"K Wi-Fi se nelze připojit"</string>
     <string name="sim_restart_button">Restartovat</string>
     <string name="back_button_label">Zpět</string>
 </resources>
