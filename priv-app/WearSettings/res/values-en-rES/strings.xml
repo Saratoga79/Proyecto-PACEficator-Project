@@ -406,12 +406,12 @@ sus datos de forma más segura"</string>
     <string name="device_name_huanghe">Amazfit Sportwatch</string>
     <string name="reset_factory_hint_cn">El reloj se desconectará del teléfono y eliminará todos los datos del reloj.
 Una vez que se vuelve a emparejar el reloj, la tarjeta de tráfico puede seguir utilizándose</string>
-    <string name="reset_factory_bank_title">请先移除银联卡</string>
-    <string name="reset_factory_bank_msg">"未移除银联卡进行手表重置将导致银联卡: 
- 1.无法在手表中移除,占用芯片空间; 
- 2.无法在手表使用支付功能; 
- 3.无法被其他设备绑定;为了支付安全,请先在Amazfit手表App移除银联卡。"</string>
-    <string name="reset_factory_bank_yes">继续恢复出厂</string>
-    <string name="reset_factory_bank_no">取消</string>
-    <string name="reset_factory_bank_msg_again">手表会与你的手机断开连接并删除手表中的所有数据.该手表被再次绑定后,当前已开通的交通卡可以继续使用.</string>
+    <string name="reset_factory_bank_title">Elimina antes la tarjeta UnionPay</string>
+    <string name="reset_factory_bank_msg">No eliminar la tarjeta UnionPay para restablecer el reloj dará lugar a:
+  1. No se podrá eliminar del reloj, ocupando espacio en el chip
+  2. La función de pago no se puede utilizar en el reloj
+  3. No se puede vincular con otros dispositivos; para pagar la seguridad, primero retire la tarjeta UnionPay en la aplicación Amazfit Watch</string>
+    <string name="reset_factory_bank_yes">Resetear de Fábrica</string>
+    <string name="reset_factory_bank_no">Cancelar</string>
+    <string name="reset_factory_bank_msg_again">El reloj se desvinculará del teléfono y eliminará todos los datos del reloj. Una vez que el reloj esté nuevamente vinculado, la tarjeta de tráfico puede seguir utilizándose.</string>
 </resources>
