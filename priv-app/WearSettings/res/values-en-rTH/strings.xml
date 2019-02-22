@@ -395,24 +395,24 @@
     <string name="sport_remind_title">เตือนความจำกีฬา</string>
     <string name="ring">เสียงเรียกเข้า</string>
     <string name="volume">ระดับเสียง</string>
-    <string name="hint_volume">提示音音量</string>
-    <string name="media_volume">媒体音量</string>
-    <string name="alarm_volume">闹铃音量</string>
-    <string name="in_call_ring">来电铃声</string>
-    <string name="timing_reminder_ring">闹铃铃声</string>
-    <string name="alarm_ring">闹铃铃声</string>
-    <string name="nokia_tune">经典铃声%1$d</string>
-    <string name="electronic_ring_sound">电子铃声%1$d</string>
-    <string name="phonetic_sound">电音铃声%1$d</string>
+    <string name="hint_volume">เสียงบี๊บ</string>
+    <string name="media_volume">ระดับเสียงสื่อ</string>
+    <string name="alarm_volume">ระดับเสียงปลุก</string>
+    <string name="in_call_ring">เสียงเรียกโทรเข้า</string>
+    <string name="timing_reminder_ring">เสียงเตือนเวลา</string>
+    <string name="alarm_ring">เสียงปลุก</string>
+    <string name="nokia_tune">ริงโทนคลาสสิค%1$d</string>
+    <string name="electronic_ring_sound">เสียงเรียกเข้าอิเล็กทรอนิกส์%1$d</string>
+    <string name="phonetic_sound">เสียงเรียกเข้าโฟนนิกส์%1$d</string>
     <string name="device_name_huanghe">นาฬิกาสปอร์ตอัจฉริยะ Amazfit</string>
-    <string name="reset_factory_hint_cn">"手表会与你的手机断开连接并删除手表中的所有数据。
-该手表被再次绑定后，已开通的交通卡可以继续使用。"</string>
-    <string name="reset_factory_bank_title">请先移除银联卡</string>
-    <string name="reset_factory_bank_msg">"未移除银联卡进行手表重置将导致银联卡: 
- 1.无法在手表中移除,占用芯片空间; 
- 2.无法在手表使用支付功能; 
- 3.无法被其他设备绑定;为了支付安全,请先在Amazfit手表App移除银联卡。"</string>
-    <string name="reset_factory_bank_yes">继续恢复出厂</string>
-    <string name="reset_factory_bank_no">取消</string>
-    <string name="reset_factory_bank_msg_again">手表会与你的手机断开连接并删除手表中的所有数据.该手表被再次绑定后,当前已开通的交通卡可以继续使用.</string>
+    <string name="reset_factory_hint_cn">"นาฬิกาจะตัดการเชื่อมต่อจากโทรศัพท์ของคุณและลบข้อมูลทั้งหมดในนาฬิกา
+หลังจากนาฬิกาถูกผูกมัดใหม่บัตรขนส่งที่เปิดอยู่สามารถใช้งานต่อไปได้ "</string>
+    <string name="reset_factory_bank_title">โปรดลบบัตร UnionPay ก่อน</string>
+    <string name="reset_factory_bank_msg">"การไม่ลบบัตร UnionPay สำหรับการรีเซ็ตนาฬิกาจะส่งผลให้การ์ด UnionPay:
+  1. ไม่สามารถลบออกจากนาฬิกาครอบครองพื้นที่ชิป;
+  2. ฟังก์ชั่นการชำระเงินไม่สามารถใช้กับนาฬิกาได้
+  3. ไม่สามารถผูกติดกับอุปกรณ์อื่น ๆ ได้เพื่อชำระค่าความปลอดภัยโปรดลบบัตร UnionPay ในแอพ Amazfit Watch ก่อน "</string>
+    <string name="reset_factory_bank_yes">ดำเนินการต่อเพื่อคืนค่าโรงงาน</string>
+    <string name="reset_factory_bank_no">ยกเลิก</string>
+    <string name="reset_factory_bank_msg_again">นาฬิกาจะตัดการเชื่อมต่อจากโทรศัพท์ของคุณและลบข้อมูลทั้งหมดในนาฬิกาหลังจากเชื่อมต่อนาฬิกาอีกครั้งบัตรขนส่งที่เปิดอยู่ในปัจจุบันสามารถใช้งานต่อไปได้</string>
 </resources>
