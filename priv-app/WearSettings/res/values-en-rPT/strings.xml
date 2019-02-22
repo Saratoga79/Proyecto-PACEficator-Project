@@ -350,23 +350,36 @@ kg"</string>
     <string name="screen_refresh">Seconds hand</string>
     <string name="screen_refresh_on_string">Ligado</string>
     <string name="screen_refresh_off_string">Desligar</string>
+    <string name="confirm_shutdown">Desligar?</string>
+    <string name="confirm_reboot">Reiniciar?</string>
     <string name="setting_regulatory_europe">Europe</string>
+    <string name="app_name">Definições relógio</string>
+    <string name="unknown">Dispositivo desconhecido</string>
+    <string name="bind_tips_title">"Please bind 
+ to protect your data more securely"</string>
     <string name="setting_regulatory_us">U.S.</string>
     <string name="setting_regulatory_canda">Canada</string>
     <string name="setting_regulatory_russia">Russia</string>
+    <string name="ring_turn_off">关闭</string>
     <string name="setting_regulatory_japan">Japan</string>
     <string name="setting_regulation_desc_us">FCC ID:2AC8UA1811</string>
     <string name="setting_regulation_desc_canda">"IC:21806-A1811 
  ICAN ICE-3(B)/NMB-3(B)"</string>
     <string name="setting_regulation_model_name">Model : %1$s</string>
-    <string name="confirm_shutdown">Desligar?</string>
-    <string name="confirm_reboot">Reiniciar?</string>
-    <string name="app_name">Definições relógio</string>
+    <string name="alarm_bee">嘀嘀</string>
+    <string name="alarm_bee_bee">嘀-嘀-嘀</string>
+    <string name="alarm_buzzer">蜂鸣器</string>
+    <string name="alarm_orbit">轨道</string>
+    <string name="alarm_rooster">鸡鸣</string>
+    <string name="alarm_timer">计时器</string>
+    <string name="alarm_nudge">轻推</string>
+    <string name="alarm_drip">水滴</string>
+    <string name="alarm_awaken">苏醒</string>
+    <string name="alarm_bounce">跳动</string>
+    <string name="alarm_sway">摇摆</string>
     <string name="title_activity_long_sitting_time">LongSittingTimeActivity</string>
+    <string name="alarm_rise">升起</string>
     <string name="lab_desc">Collect part of the debugging tools</string>
-    <string name="unknown">Dispositivo desconhecido</string>
-    <string name="bind_tips_title">"Please bind 
- to protect your data more securely"</string>
     <string name="upgrade_checking">Procurando update...</string>
     <string name="left_hand">Esquerda</string>
     <string name="right_hand">Direita</string>
@@ -375,6 +388,32 @@ kg"</string>
     <string name="sport_remind_open_tips">开启后，将在检测到你跑步或健走时，提醒你快捷开启运动模式</string>
     <string name="sport_remind_end_tips">开启后，将在检测到你运动完成后，提醒你结束并保存</string>
     <string name="sport_remind_open">开启</string>
+    <string name="voice_set">声音</string>
+    <string name="vibration">振动</string>
+    <string name="ring_vibration">来电提醒振动</string>
+    <string name="natification_vibration">新通知振动</string>
+    <string name="alarm_vibration">计时提醒振动</string>
     <string name="sport_remind_title">运动提醒</string>
+    <string name="ring">铃声</string>
+    <string name="volume">音量</string>
+    <string name="hint_volume">提示音音量</string>
+    <string name="media_volume">媒体音量</string>
+    <string name="alarm_volume">闹铃音量</string>
+    <string name="in_call_ring">来电铃声</string>
+    <string name="timing_reminder_ring">闹铃铃声</string>
+    <string name="alarm_ring">闹铃铃声</string>
+    <string name="nokia_tune">经典铃声%1$d</string>
+    <string name="electronic_ring_sound">电子铃声%1$d</string>
+    <string name="phonetic_sound">电音铃声%1$d</string>
     <string name="device_name_huanghe">Amazfit智能运动手表</string>
+    <string name="reset_factory_hint_cn">"手表会与你的手机断开连接并删除手表中的所有数据。
+该手表被再次绑定后，已开通的交通卡可以继续使用。"</string>
+    <string name="reset_factory_bank_title">请先移除银联卡</string>
+    <string name="reset_factory_bank_msg">"未移除银联卡进行手表重置将导致银联卡: 
+ 1.无法在手表中移除,占用芯片空间; 
+ 2.无法在手表使用支付功能; 
+ 3.无法被其他设备绑定;为了支付安全,请先在Amazfit手表App移除银联卡。"</string>
+    <string name="reset_factory_bank_yes">继续恢复出厂</string>
+    <string name="reset_factory_bank_no">取消</string>
+    <string name="reset_factory_bank_msg_again">手表会与你的手机断开连接并删除手表中的所有数据.该手表被再次绑定后,当前已开通的交通卡可以继续使用.</string>
 </resources>
