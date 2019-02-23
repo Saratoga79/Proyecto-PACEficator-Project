@@ -433,17 +433,17 @@
     <string name="oritation_sourth">S</string>
     <string name="oritation_west">W</string>
     <string name="oritation_north">N</string>
-    <string name="back_to_continue_sport">Back</string>
-    <string name="lap_swim_stroke_speed_title">Stroke rate</string>
+    <string name="back_to_continue_sport">Zurück</string>
+    <string name="lap_swim_stroke_speed_title">Schlagzahl</string>
     <string name="first_modify_tips">To calibrate the distance result of a running session (must be longer than 0.5 km) helps the watch to generate a more accurate distance result.</string>
     <string name="modify_big_dis_tips">The calibrated value %1$s is significantly different from the measured value %2$s, calibrate anyway?</string>
-    <string name="modify_big_dis_regain">Edit</string>
+    <string name="modify_big_dis_regain">Bearbeiten</string>
     <string name="modify_big_dis_confirm">Continue calibration</string>
     <string name="re_modify_dis">Calibrate again</string>
     <string name="re_modify_dis_tips">"1. To calibrate the distance result of a running session (must be longer than 0.5 km) helps the watch to generate a more accurate result.
 2. If you still aren\'t satisfied with the result after several calibration attempts, try to calibrate again.
 3. If you calibrate the result again, all previous calibration records will be deleted."</string>
-    <string name="give_up_re_modify_dis">Discard</string>
+    <string name="give_up_re_modify_dis">Verwerfen</string>
     <string name="confirm_re_modify_dis">Bestätigung</string>
     <string name="huanghe_pause_continue_title">Sport operation</string>
     <string name="experience_title">Bitte richten Sie persönliche Informationen ein, oder die Daten haben eine große Abweichung</string>
@@ -557,7 +557,7 @@
     <string name="music_init_not_done">Initialisiere Musik...</string>
     <string name="music_no_douban_resource">Keine Titel zum abspielen, jetzt herunterladen?</string>
     <string name="ximalaya_music_title">Ximalaya</string>
-    <string name="first_music_tips">Added a music control feature on watch</string>
+    <string name="first_music_tips">Musiksteuerung bei der Uhr hinzugefügt</string>
     <string name="title_activity_running">Laufende Aktivität</string>
     <string name="default_time_value">00:00:00</string>
     <string name="default_int_value">0</string>
@@ -614,17 +614,17 @@ für effektiveres Training!\"</string>
     <string name="real_time_guide_title_33">Nimm\'s nicht so schwer!</string>
     <string name="real_time_guide_title_34">Langsamer!</string>
     <string name="real_time_guide_title_35">Nimm\'s nicht so schwer!</string>
-    <string name="real_time_guide_desc_1">Good job</string>
+    <string name="real_time_guide_desc_1">Gute Arbeit</string>
     <string name="real_time_guide_desc_2">Noch %1$s Minute(n), um fit zu bleiben</string>
-    <string name="real_time_guide_desc_3">Speed up, try your best</string>
+    <string name="real_time_guide_desc_3">Beschleunigen sie, geben sie ihr bestes</string>
     <string name="real_time_guide_desc_6">Noch %1$s Minute(n) um Ihre Fitness zu verbessern.</string>
-    <string name="real_time_guide_desc_7">Speed up, try your best</string>
+    <string name="real_time_guide_desc_7">Beschleunigen sie, geben sie ihr bestes</string>
     <string name="real_time_guide_desc_10">Noch %1$s Minute(n) für eine sehr gute Wirkung auf Ihre Fitness.</string>
-    <string name="real_time_guide_desc_11">Speed up again</string>
+    <string name="real_time_guide_desc_11">Beschleunigen sie erneut</string>
     <string name="real_time_guide_desc_14">Sie haben bereits ein sehr gutes Training absolviert!</string>
     <string name="real_time_guide_desc_22">Noch %1$s Minute(n), um Ihr Ziel zu erreichen!</string>
     <string name="real_time_guide_desc_25">Ziel Herzfrequenzbereich ist %1$s - %2$s spm.</string>
-    <string name="real_time_guide_desc_26">Run faster</string>
+    <string name="real_time_guide_desc_26">Rennen sie schneller</string>
     <string name="real_time_guide_desc_27">Du hast dein Ziel erreicht!</string>
     <string name="real_time_guide_desc_28">Du hast %1$s des Ziels erreicht!</string>
     <string name="real_time_guide_desc_30">Diese Art von Übung wird Sie fit halten.</string>
@@ -632,7 +632,7 @@ für effektiveres Training!\"</string>
     <string name="real_time_guide_desc_32">Herz-Lungen-Fähigkeit zu verbessern!</string>
     <string name="real_time_guide_desc_33">Diese Übung war vielleicht zu schwer für Ihren Körper.</string>
     <string name="real_time_guide_desc_34">Ziel Herzfrequenzbereich ist %1$s - %2$s spm!</string>
-    <string name="real_time_guide_desc_35">"It's time to relax"</string>
+    <string name="real_time_guide_desc_35">"Es ist Zeit zum ausruhen"</string>
     <string name="rope_arrive_goal_unit">zeit/Abschnitt</string>
     <string name="aleary_finish_group">Abgeschlossene Gruppe %1$s</string>
     <string name="this_group_count">Gruppenzahl</string>
@@ -675,8 +675,8 @@ für effektiveres Training!\"</string>
     <string name="route_scale_narrow">Annähernd</string>
     <string name="route_cur_altitude_value">%1d m</string>
     <string name="route_climb_up_value">%1d m</string>
-    <string name="route_cur_altitude_value_imperial">%1d ft</string>
-    <string name="route_climb_up_value_imperial">%1d ft</string>
+    <string name="route_cur_altitude_value_imperial">%1d Fuß</string>
+    <string name="route_climb_up_value_imperial">%1d Fuß</string>
     <string name="route_cur_remain_distance_value">%1skm</string>
     <string name="route_cur_remain_distance_value_imperial">%1smi</string>
     <string name="easy_fat_run">Einfache Fettverbrennung</string>
@@ -882,8 +882,8 @@ für effektiveres Training!\"</string>
     <string name="settings_sport_music_Watercress">Sport FM</string>
     <string name="settings_sport_music_play_settings">Musikeinstellungen</string>
     <string name="settings_sport_lock_screen">Datenbildschirme</string>
-    <string name="settings_sport_three_data">3 items</string>
-    <string name="settings_sport_three_big_data">3 items (large)</string>
+    <string name="settings_sport_three_data">3 Elemente</string>
+    <string name="settings_sport_three_big_data">3 große Elemente</string>
     <string name="settings_sport_four_data">4 Datenfelder</string>
     <string name="settings_sport_six_data">6 Datenfelder</string>
     <string name="settting_sport_gpx_route">GPX-Kurs</string>
