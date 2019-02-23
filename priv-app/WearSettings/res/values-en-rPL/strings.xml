@@ -410,11 +410,11 @@ kg"</string>
     <string name="reset_factory_hint_cn">"Odłączenie zegarka od telefonu, usunie wszystkie dane z zegarka.
 Po przywróceniu zegarka otwarte karty ruchu mogą być nadal używane."</string>
     <string name="reset_factory_bank_title">Najpierw odłącz kartę UnionPay</string>
-    <string name="reset_factory_bank_msg">"未移除银联卡进行手表重置将导致银联卡: 
- 1.无法在手表中移除,占用芯片空间; 
- 2.无法在手表使用支付功能; 
- 3.无法被其他设备绑定;为了支付安全,请先在Amazfit手表App移除银联卡。"</string>
-    <string name="reset_factory_bank_yes">继续恢复出厂</string>
+    <string name="reset_factory_bank_msg">"Nie usunięcie karty UnionPay z powodu resetowania zegarka spowoduje, że karty UnionPay:
+ 1. Nie można usunąć z zegarka, zajmując miejsce w pamięci;
+ 2. Funkcja płatności nie może być używana na zegarku;
+ 3. Nie może związać się z innymi urządzeniami, aby bezpiecznie zapłacić, najpierw usuń kartę UnionPay w aplikacji Amazfit Watch. "</string>
+    <string name="reset_factory_bank_yes">Kontynuuj aby przywrócić ustawienia fabryczne</string>
     <string name="reset_factory_bank_no">取消</string>
     <string name="reset_factory_bank_msg_again">手表会与你的手机断开连接并删除手表中的所有数据.该手表被再次绑定后,当前已开通的交通卡可以继续使用.</string>
 </resources>
