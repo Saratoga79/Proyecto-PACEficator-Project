@@ -209,18 +209,18 @@ and is nearby"</string>
     <string name="blt_hint_connect">"%1s
 σύνδεση;"</string>
     <string name="blt_confirm_ignore">Are you sure you want to ignore this device?</string>
-    <string name="bluetooth_pairing_error_message">"Pairing failed"</string>
+    <string name="bluetooth_pairing_error_message">"Δεν ήταν δυνατή η αντιστοίχιση του %1$s"</string>
     <string name="bluetooth_connected">Συνδέθηκε</string>
     <string name="bluetooth_disconnected">Αποσυνδέθηκε</string>
     <string name="bluetooth_connecting_error_message">"Δεν μπόρεσε να συνδεθεί σε %1$s."</string>
-    <string name="bluetooth_pairing_pin_error_message">"Couldn't pair with %1$s because of an incorrect PIN or passkey."</string>
+    <string name="bluetooth_pairing_pin_error_message">"Δεν ήταν δυνατή η αντιστοίχιση του %1$s. Το PIN ή ο κωδικός πρόσβασης είναι εσφαλμένος."</string>
     <string name="bluetooth_pairing_device_down_error_message">"Δεν μπορεί να επικοινωνήσει με %1$s."</string>
-    <string name="bluetooth_pairing_rejected_error_message">Pairing rejected by %1$s.</string>
-    <string name="bluetooth_turning_on">Turning Bluetooth on…</string>
-    <string name="bluetooth_turning_off">Turning Bluetooth off…</string>
-    <string name="bluetooth_enabled">Bluetooth is ON</string>
-    <string name="bluetooth_disabled">Bluetooth is OFF</string>
-    <string name="bluetooth_unknown">Unknown state</string>
+    <string name="bluetooth_pairing_rejected_error_message">%1$s αίτημα αντιστοίχισης απορρίφθηκε.</string>
+    <string name="bluetooth_turning_on">Ενεργοποίηση Bluetooth …</string>
+    <string name="bluetooth_turning_off">Απενεργοποίηση Bluetooth…</string>
+    <string name="bluetooth_enabled">Το Bluetooth είναι ανοιχτό</string>
+    <string name="bluetooth_disabled">Το Bluetooth είναι κλειστό</string>
+    <string name="bluetooth_unknown">Άγνωστη κατάσταση</string>
     <string name="bluetooth_disconnect_title">Αποσύνδεση;</string>
     <string name="bluetooth_connect_title">Σύνδεση;</string>
     <string name="phone_finding">Locating phone...</string>
