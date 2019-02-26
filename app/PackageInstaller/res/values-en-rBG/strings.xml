@@ -16,7 +16,7 @@
     <string name="install_confirm_question_update_system">Do you want to install an update to this built-in application? Your existing data will not be lost. The updated application will get access to:</string>
     <string name="install_confirm_question_update_no_perms">Do you want to install an update to this existing application? Your existing data will not be lost. It does not require any special access.</string>
     <string name="install_confirm_question_update_system_no_perms">Do you want to install an update to this built-in application? Your existing data will not be lost. It does not require any special access.</string>
-    <string name="install_failed">Приложение не е инсталирано.</string>
+    <string name="install_failed">Приложението не е инсталирано.</string>
     <string name="install_failed_invalid_apk">The package appears to be corrupt.</string>
     <string name="install_failed_inconsistent_certificates">An existing package by the same name with a conflicting signature is already installed.</string>
     <string name="install_failed_older_sdk">The package only works on newer versions of Android.</string>
@@ -64,10 +64,10 @@ All your previous user data will be saved."</string>
     <string name="manage_device_administrators">Manage device administrators</string>
     <string name="uninstall_failed_msg">"%1$s couldn't be uninstalled."</string>
     <string name="Parse_error_dlg_title">Parse error</string>
-    <string name="Parse_error_dlg_text">There was a problem parsing the package.</string>
+    <string name="Parse_error_dlg_text">Има проблем с анализа на пакета.</string>
     <string name="newPerms">Нов</string>
     <string name="allPerms">Всички</string>
-    <string name="privacyPerms">Privacy</string>
+    <string name="privacyPerms">Поверителност</string>
     <string name="devicePerms">Device Access</string>
     <string name="no_new_perms">This update requires no new permissions.</string>
     <string name="grant_confirm_question">Do you want to grant the following permissions? It will get access to:</string>
