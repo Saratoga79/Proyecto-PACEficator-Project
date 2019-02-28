@@ -74,7 +74,7 @@ Use only the supplied charger."</string>
     <string name="accessibility_phone_button">Телефон</string>
     <string name="accessibility_unlock_button">Отключи</string>
     <string name="unlock_label">отключи</string>
-    <string name="phone_label">open phone</string>
+    <string name="phone_label">отвори телефона</string>
     <string name="camera_label">open camera</string>
     <string name="accessibility_ime_switch_button">Switch input method button.</string>
     <string name="accessibility_compatibility_zoom_button">Compatibility zoom button.</string>
@@ -86,7 +86,7 @@ Use only the supplied charger."</string>
     <string name="accessibility_battery_two_bars">Battery two bars.</string>
     <string name="accessibility_battery_three_bars">Battery three bars.</string>
     <string name="accessibility_battery_full">Battery full.</string>
-    <string name="accessibility_no_phone">No phone.</string>
+    <string name="accessibility_no_phone">Няма телефон.</string>
     <string name="accessibility_phone_one_bar">Phone one bar.</string>
     <string name="accessibility_phone_two_bars">Phone two bars.</string>
     <string name="accessibility_phone_three_bars">Phone three bars.</string>
@@ -96,7 +96,7 @@ Use only the supplied charger."</string>
     <string name="accessibility_data_two_bars">Data two bars.</string>
     <string name="accessibility_data_three_bars">Data three bars.</string>
     <string name="accessibility_data_signal_full">Data signal full.</string>
-    <string name="accessibility_wifi_off">Wifi off.</string>
+    <string name="accessibility_wifi_off">Wifi изкл.</string>
     <string name="accessibility_no_wifi">Wifi disconnected.</string>
     <string name="accessibility_wifi_one_bar">Wifi one bar.</string>
     <string name="accessibility_wifi_two_bars">Wifi two bars.</string>
@@ -104,12 +104,12 @@ Use only the supplied charger."</string>
     <string name="accessibility_wifi_signal_full">Wifi signal full.</string>
     <string name="accessibility_wifi_name">Connected to %s.</string>
     <string name="accessibility_bluetooth_name">Connected to %s.</string>
-    <string name="accessibility_no_wimax">No WiMAX.</string>
+    <string name="accessibility_no_wimax">Няма WiMAX.</string>
     <string name="accessibility_wimax_one_bar">WiMAX one bar.</string>
     <string name="accessibility_wimax_two_bars">WiMAX two bars.</string>
     <string name="accessibility_wimax_three_bars">WiMAX three bars.</string>
     <string name="accessibility_wimax_signal_full">WiMAX signal full.</string>
-    <string name="accessibility_no_signal">No signal.</string>
+    <string name="accessibility_no_signal">Няма сигнал.</string>
     <string name="accessibility_not_connected">Не сте свързани.</string>
     <string name="accessibility_zero_bars">Zero bars.</string>
     <string name="accessibility_one_bar">One bar.</string>
@@ -152,7 +152,7 @@ Use only the supplied charger."</string>
     <string name="accessibility_desc_quick_settings">Quick settings.</string>
     <string name="accessibility_desc_lock_screen">Lock screen.</string>
     <string name="accessibility_desc_settings">Settings</string>
-    <string name="accessibility_desc_recent_apps">Overview.</string>
+    <string name="accessibility_desc_recent_apps">Общ преглед.</string>
     <string name="accessibility_quick_settings_user">User %s.</string>
     <string name="accessibility_quick_settings_wifi">%1$s.</string>
     <string name="accessibility_quick_settings_wifi_changed_off">Wifi turned off.</string>
@@ -221,7 +221,7 @@ Turning it back on may lead to charges from your carrier."</string>
     <string name="quick_settings_rotation_unlocked_label">Auto-rotate</string>
     <string name="quick_settings_rotation_locked_label">Rotation locked</string>
     <string name="quick_settings_rotation_locked_portrait_label">Portrait</string>
-    <string name="quick_settings_rotation_locked_landscape_label">Landscape</string>
+    <string name="quick_settings_rotation_locked_landscape_label">Пейзажно</string>
     <string name="quick_settings_ime_label">Input Method</string>
     <string name="quick_settings_location_label">Location</string>
     <string name="quick_settings_location_off_label">Location Off</string>
@@ -236,7 +236,7 @@ Turning it back on may lead to charges from your carrier."</string>
     <string name="quick_settings_wifi_label">Wi-Fi</string>
     <string name="quick_settings_wifi_not_connected">Not Connected</string>
     <string name="quick_settings_wifi_no_network">No Network</string>
-    <string name="quick_settings_wifi_off_label">Wi-Fi Off</string>
+    <string name="quick_settings_wifi_off_label">Wi-Fi Изкл</string>
     <string name="quick_settings_wifi_detail_empty_text">No saved networks available</string>
     <string name="quick_settings_cast_title">Cast screen</string>
     <string name="quick_settings_casting">Предаване</string>
@@ -249,10 +249,10 @@ Turning it back on may lead to charges from your carrier."</string>
     <string name="quick_settings_color_space_label">Color correction mode</string>
     <string name="quick_settings_more_settings">More settings</string>
     <string name="quick_settings_done">Done</string>
-    <string name="quick_settings_connected">Connected</string>
+    <string name="quick_settings_connected">Свързан</string>
     <string name="quick_settings_connected_via_wfa">Connected via Wi‑Fi assistant</string>
     <string name="quick_settings_connecting">Connecting...</string>
-    <string name="quick_settings_tethering_label">Tethering</string>
+    <string name="quick_settings_tethering_label">Излъчване</string>
     <string name="quick_settings_hotspot_label">Гореща точка</string>
     <string name="quick_settings_notifications_label">Notifications</string>
     <string name="quick_settings_flashlight_label">Flashlight</string>
@@ -300,7 +300,7 @@ be monitored"</string>
     <string name="user_add_user">Add user</string>
     <string name="user_new_user_name">New user</string>
     <string name="guest_nickname">Гост</string>
-    <string name="guest_new_guest">Add guest</string>
+    <string name="guest_new_guest">Добави гост</string>
     <string name="guest_exit_guest">Remove guest</string>
     <string name="guest_exit_guest_dialog_title">Remove guest?</string>
     <string name="guest_exit_guest_dialog_message">All apps and data in this session will be deleted.</string>
@@ -319,8 +319,8 @@ Any user can update apps for all other users."</string>
     <string name="notification_hidden_text">Contents hidden</string>
     <string name="media_projection_dialog_text">"%s will start capturing everything that's displayed on your screen."</string>
     <string name="media_projection_remember_text">"Don't show again"</string>
-    <string name="clear_all_notifications_text">Clear all</string>
-    <string name="media_projection_action_text">Start now</string>
+    <string name="clear_all_notifications_text">Изчистване на всичко</string>
+    <string name="media_projection_action_text">Започнете сега</string>
     <string name="empty_shade_text">No notifications</string>
     <string name="device_owned_footer">Device may be monitored</string>
     <string name="profile_owned_footer">Profile may be monitored</string>
