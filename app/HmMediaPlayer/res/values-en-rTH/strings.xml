@@ -6,7 +6,7 @@
     <string name="music_no_wifi_title">"ไม่สามารถดาวโหลดได้"</string>
     <string name="music_download_fail_title">"ไม่สามารถดาวโหลดเพลงได้"</string>
     <string name="music_download_not_complete_title">"เพลงไม่สามารถดาวโหลดได้"</string>
-    <string name="music_no_wifi_content">"ไม่สามารถดาวโหลดเพลงได้ ถ้าไม่ได้เชื่อมต่อไวไฟ ไปยังการตั้งค่า>ไวไฟ บนนาฬิกา เพื่อเชื่อมต่อก่อน"</string>
+    <string name="music_no_wifi_content">"ไม่สามารถดาวโหลดเพลงได้ ถ้าไม่ได้เชื่อมต่อไวไฟ ไปยังการตั้งค่า &gt; ไวไฟ บนนาฬิกา เพื่อเชื่อมต่อก่อน"</string>
     <string name="music_download_fail_content">"ไม่สามารถดาวโหลดเพลงได้ เนื่องจากการเชื่อมต่อขัดข้อง ลองเชื่อมต่ออีกครั้ง"</string>
     <string name="music_download_not_complete_content">"ไม่สามารถดาวโหลดเพลงได้ เนื่องจากการเชื่อมต่อขัดข้อง จะเล่นเฉพาะเพลงที่ดาวโหลดเสร็จ ลองเชื่อมต่อไวไฟอีกครั้ง เพื่อดาวโหลดต่อ"</string>
     <string name="music_download_success">ปรับปรุงรายการเพลงเรียบร้อยแล้ว</string>
@@ -33,7 +33,7 @@
     <string name="music_no_douban_resource">ไม่มีเพลงให้เล่น ดาวโหลดตอนนี้?</string>
     <string name="music_no_local_resource">ไม่มีเพลงให้เล่น เชื่อมต่อUSBเพื่อโหลดเพลง</string>
     <string name="music_start_tips">เชื่อมต่อหูฟังบลูทูธเพื่อฟังเลง</string>
-    <string name="music_down_not_complete_content">คุณสามารถปรับปรุงรายการเพลงได้ใน ตั้งค่า>Douban FM หลังจากคุณออกจากระบบ</string>
+    <string name="music_down_not_complete_content">คุณสามารถปรับปรุงรายการเพลงได้ใน ตั้งค่า &gt; Douban FM หลังจากคุณออกจากระบบ</string>
     <string name="cancel">ปิด</string>
     <string name="enter">ตกลง</string>
     <string name="music_download" formatted="false">%1d/%2d</string>
