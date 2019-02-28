@@ -191,9 +191,9 @@ Use only the supplied charger."</string>
     <string name="data_usage_disabled_dialog_4g_title">4G data is off</string>
     <string name="data_usage_disabled_dialog_mobile_title">Cellular data is off</string>
     <string name="data_usage_disabled_dialog_title">Data is off</string>
-    <string name="data_usage_disabled_dialog">"Your device turned off data because it reached the limit you set.
+    <string name="data_usage_disabled_dialog">"Устройството ви е изключило данните, защото достигнахте лимита, който сте задали.
 
-Turning it back on may lead to charges from your carrier."</string>
+Включването им може да доведе до такси от оператора ви."</string>
     <string name="data_usage_disabled_dialog_enable">Turn on data</string>
     <string name="status_bar_settings_signal_meter_disconnected">No Internet connection</string>
     <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi connected</string>
@@ -310,9 +310,9 @@ be monitored"</string>
     <string name="guest_wipe_session_wipe">Start over</string>
     <string name="guest_wipe_session_dontwipe">Yes, continue</string>
     <string name="user_add_user_title">Add new user?</string>
-    <string name="user_add_user_message_short">"When you add a new user, that person needs to set up their space.
+    <string name="user_add_user_message_short">"Когато добавите нов потребител, той трябва да настрои пространството си.
 
-Any user can update apps for all other users."</string>
+Всеки потребител може да актуализира приложенията за всички останали потребители."</string>
     <string name="battery_saver_notification_title">Battery saver is on</string>
     <string name="battery_saver_notification_text">Reduces performance and background data</string>
     <string name="battery_saver_notification_action_text">Turn off battery saver</string>
@@ -360,14 +360,14 @@ Also, you\'re connected to a VPN (\"%2$s\"). Your VPN service provider can monit
 Your administrator can monitor your device and network activity, including emails, apps and secure websites.
 
 For more information, contact your administrator."</string>
-    <string name="monitoring_description_device_and_profile_owned">"This device is managed by:
+    <string name="monitoring_description_device_and_profile_owned">"Това устройство се управлява от:
 %1$s
-Your profile is managed by:
+Профилът ви се управлява от:
 %2$s
 
-Your administrator can monitor your device and network activity, including emails, apps and secure websites.
+Вашият администратор може да следи активността ви на устройство и в мрежата, включително имейли, приложения и защитени уебсайтове.
 
-For more information, contact your administrator."</string>
+За повече информация се свържете с администратора си."</string>
     <string name="monitoring_description_vpn_profile_owned">"This profile is managed by:
 %1$s
 
@@ -537,11 +537,11 @@ Try again in %d seconds."</string>
 
 Try again in %d seconds."</string>
     <string name="kg_failed_attempts_almost_at_wipe" formatted="false">You have incorrectly attempted to unlock the tablet %d times. After %d more unsuccessful attempts, this tablet will be reset, which will delete all its data.</string>
-    <string name="kg_failed_attempts_now_wiping">You have incorrectly attempted to unlock the tablet %d times. This tablet will be reset, which will delete all its data.</string>
+    <string name="kg_failed_attempts_now_wiping">Неправомерно сте опитали да отключите таблета %d пъти. Този таблет ще бъде нулиран, което ще изтрие всичките му данни.</string>
     <string name="kg_failed_attempts_almost_at_erase_user" formatted="false">You have incorrectly attempted to unlock the tablet %d times. After %d more unsuccessful attempts, this user will be removed, which will delete all user data.</string>
-    <string name="kg_failed_attempts_now_erasing_user">You have incorrectly attempted to unlock the tablet %d times. This user will be removed, which will delete all user data.</string>
+    <string name="kg_failed_attempts_now_erasing_user">Неправомерно сте опитали да отключите таблета %d пъти. Този потребител ще бъде премахнат, което ще изтрие всички потребителски данни.</string>
     <string name="kg_failed_attempts_almost_at_erase_profile" formatted="false">You have incorrectly attempted to unlock the tablet %d times. After %d more unsuccessful attempts, the work profile will be removed, which will delete all profile data.</string>
-    <string name="kg_failed_attempts_now_erasing_profile">You have incorrectly attempted to unlock the tablet %d times. The work profile will be removed, which will delete all profile data.</string>
+    <string name="kg_failed_attempts_now_erasing_profile">Неправомерно сте опитали да отключите таблета %d пъти. Работният профил ще бъде премахнат, което ще изтрие всички данни за потребителския профил.</string>
     <string name="kg_failed_attempts_almost_at_login" formatted="false">"You have incorrectly drawn your unlock pattern %d times. After %d more unsuccessful attempts, you will be asked to unlock your tablet using an email account.
 
  Try again in %d seconds."</string>
