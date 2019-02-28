@@ -141,7 +141,7 @@
     <string name="settings_sport_swim_length">Размер на басейн</string>
     <string name="settings_sport_swim_title">Басейн размер (м)</string>
     <string name="settings_sport_swim_tips">Часовникът ще брои обиколки, въз основа на размера на басейна</string>
-    <string name="settings_sport_measure_heart">PPG on/off</string>
+    <string name="settings_sport_measure_heart">PPG вкл/изкл</string>
     <string name="settings_sport_rt_guide">Guidance</string>
     <string name="settings_sport_auto_pace_title">Pause at pace</string>
     <string name="settings_sport_auto_speed_title">Pause at speed</string>
@@ -507,8 +507,8 @@ exercises recorded in the past 7 days"</string>
     <string name="first_beat_help_run_target_and_real_time_guide">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;The watch will provide workout recommendation based on a your VO₂ max fitness level, recent Training Load and recovery status from previous workout. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;If you enable real-time coaching feature in settings and set a TE goal or choose one of the recommended workouts, the watch will guide you through the workout and prompt to adjust pace and heart rate in order to achieve set goals. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;small&gt;For more details, view Help in Amazfit Watch app.&lt;/small&gt;</string>
     <string name="first_beat_help_daily_perpormence">"&lt;font color=#00FF00&gt;What is this?&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Real-time Performance Condition indicates if you are above or below your average performance level, and how accumulating fatigue affects your performance during a workout. &lt;br/&gt;&lt;font color=#00FF00&gt;How is it used?&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;The watch will evaluate your performance condition automatically after 6 minutes of running. A higher-than-average value indicates that you can make a harder workout than you'd normally do. A lower value suggests that you should take an easier workout. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; After completing a workout, you can analyze the performance by looking at the result at each km/mile on the graph. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;For more details, view Help in Amazfit Watch app.&lt;/small&gt;"</string>
     <string name="first_beat_help_recovery_time">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;After completing a workout, you will be provided with time in minutes to full recovery. Between workouts recovery time is linearly decreased towards zero if there is no new workout data available. The user is encouraged to have some low intensity workouts to help with recovery. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;For more details, view Help in Amazfit Watch app.&lt;/small&gt;</string>
-    <string name="vo2max_unit">ml/kg/min</string>
-    <string name="run_vo2max_unit">ml/kg/min</string>
+    <string name="vo2max_unit">мл/кг/мин</string>
+    <string name="run_vo2max_unit">мл/кг/мин</string>
     <string name="vo2_max_has_no_data">Няма данни</string>
     <string name="sport_setting_gpx_route_selected">Route selected</string>
     <string name="sport_setting_gpx_route_selectd_remind">"Outdoor features are navigated by using this route. If you don't need, select \"Turn off\"."</string>
@@ -660,7 +660,7 @@ exercises recorded in the past 7 days"</string>
     <string name="settings_sport_arrive_goal_reminder">Reached goal reminder</string>
     <string name="alert_skip_you_finish">你完成了</string>
     <string name="finish_index_count">No.%1$s</string>
-    <string name="sport_widget_title_rope_skip">Jump rope</string>
+    <string name="sport_widget_title_rope_skip">Скачане на въже</string>
     <string name="rope_frequency_unit">jumps/min</string>
     <string name="rope_total_count_remind_title">Completed count</string>
     <string name="rope_remind_test_time">2500</string>
