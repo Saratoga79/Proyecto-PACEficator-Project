@@ -110,7 +110,7 @@ since charge"</string>
     <string name="music_bulethooth_disconnect">Checking Bluetooth connection…</string>
     <string name="music_peek_content">"You're playing music in %s on your phone. You can control playback in the Notification shade on your watch."</string>
     <string name="launcher_app_name">Launcher</string>
-    <string name="hm_watch_sports_notification_km">Kilometers</string>
+    <string name="hm_watch_sports_notification_km">Километри</string>
     <string name="hm_watch_sports_notification_sports">Спорт</string>
     <string name="hm_generic_notification_iconified_content_line">Hello, I am a fan of Huami</string>
     <string name="notification_action_more">Още</string>
@@ -138,7 +138,7 @@ since charge"</string>
     <string name="notification_ios_alipay_group_red_pattern">^\\[群消息\\]</string>
     <string name="notification_fireworks_title">新春快乐！</string>
     <string name="notification_fireworks_content">祝大家万事如意！</string>
-    <string name="store_picture_title">Save image</string>
+    <string name="store_picture_title">Записване на изображение</string>
     <string name="store_picture_message">Allow Ad to store image in Picture gallery?</string>
     <string name="decline">Отхвърлям</string>
     <string name="create_calendar_title">Create calendar event</string>
@@ -197,7 +197,7 @@ since charge"</string>
     <string name="retail_gate_loc">Terminal 4, Gate 25</string>
     <string name="retail_slideshow_music">Control music playing on your phone.</string>
     <string name="retail_loading">Loading retail mode…</string>
-    <string name="retail_step_count">%1$s steps</string>
+    <string name="retail_step_count">%1$s крачки</string>
     <string name="retail_pedometer_action">Hit your fitness goals with Android Wear.</string>
     <string name="retail_slideshow_pedometer">Reach your fitness goals with daily stats.</string>
     <string name="retail_cal_event_title">Coffee with Alex</string>
@@ -248,7 +248,7 @@ day"</string>
     <string name="cal_plus_x_more">+ %s more</string>
     <string name="cal_email_subject">[Update] %s</string>
     <string name="cal_no_event">No events</string>
-    <string name="cal_no_title">(No title)</string>
+    <string name="cal_no_title">(Без заглавие)</string>
     <string name="cal_event_duration" formatted="false">%s %s</string>
     <string name="cal_dummy_count_down">60</string>
     <string name="checking_for_updates">Checking for updates…</string>
@@ -390,7 +390,7 @@ day"</string>
     <string name="voice_action_cancel">Отказ</string>
     <string name="navigation_success">Navigation started</string>
     <string name="sms_success">Text sent</string>
-    <string name="email_success">Email sent</string>
+    <string name="email_success">Изпратен имейл</string>
     <string name="call_success">Call started on your phone</string>
     <string name="open_remote_app_success">Opened on phone</string>
     <string name="voice_action_reminder_field">Reminder?</string>
@@ -400,7 +400,7 @@ day"</string>
     <string name="reminder_at_work">На работа</string>
     <string name="disambiguation_app_to_complete">Complete action using</string>
     <string name="sent_via_voice">Sent via voice</string>
-    <string name="speak_now">Speak now</string>
+    <string name="speak_now">Говори сега</string>
     <string name="speak_now_help">Speak now or swipe up for more</string>
     <string name="contact_no_phone_number">No phone number for this contact</string>
     <string name="contact_no_email">No email address for this contact</string>
@@ -420,7 +420,7 @@ Sorry, Google can\'t help you with that"</string>
     <string name="no_connection">No connection</string>
     <string name="search_local_data_attribution_prefix">Business listings data provided by</string>
     <string name="search_local_data_attribution">Business listings data provided by %s</string>
-    <string name="search_disclaimer">Disclaimer</string>
+    <string name="search_disclaimer">Уведомление</string>
     <string name="search_sources_include">Sources include: %s</string>
     <string name="search_dictionary_pronunciation">/%s/</string>
     <string name="search_dictionary_number">%d.</string>
@@ -433,7 +433,7 @@ Sorry, Google can\'t help you with that"</string>
     <string name="search_wind_in_kph">%sкм/ч</string>
     <string name="search_precipitation_percent">%s%%</string>
     <string name="search_calculator_left">%s =</string>
-    <string name="search_currency_left">%s equals</string>
+    <string name="search_currency_left">%s равно</string>
     <string name="search_translation_title">\"%1$s\" in %2$s</string>
     <string name="search_when_is_start">%s begins</string>
     <string name="search_when_is_end">и край</string>
@@ -444,7 +444,7 @@ Sorry, Google can\'t help you with that"</string>
     <string name="local_closed">Затворено</string>
     <string name="monday">Понеделник</string>
     <string name="tuesday">Вторник</string>
-    <string name="wednesday">Wednesday</string>
+    <string name="wednesday">Сряда</string>
     <string name="thursday">Четвъртък</string>
     <string name="friday">Петък</string>
     <string name="saturday">Събота</string>
@@ -483,7 +483,7 @@ Sorry, Google can\'t help you with that"</string>
     <string name="av_previous">Предишно</string>
     <string name="av_thumbs_up">Thumbs up</string>
     <string name="av_thumbs_down">Thumbs down</string>
-    <string name="av_volume_up">Volume up</string>
+    <string name="av_volume_up">Увеличи звука</string>
     <string name="av_volume_down">Volume down</string>
     <string name="voice_action_alarm_time_field">Alarm time?</string>
     <string name="default_watchface_name">Simple</string>
@@ -494,9 +494,9 @@ Sorry, Google can\'t help you with that"</string>
 On"</string>
     <string name="airplane_mode_cue_card">Airplane mode</string>
     <string name="disconnected">Disconnected</string>
-    <string name="timed_out_state">Timed out</string>
+    <string name="timed_out_state">Изтекло време</string>
     <string name="offline_state">Офлайн</string>
-    <string name="no_items">No items.</string>
+    <string name="no_items">Няма елементи.</string>
     <string name="disambiguate_action">Disambiguate action</string>
     <string name="status_bar_date_format">MMM d</string>
     <string name="battery_is_at">Battery is at</string>
@@ -523,7 +523,7 @@ On"</string>
     <string name="tutorial_dont_worry">"Don't worry – cards show up again when they're useful to you."</string>
     <string name="tutorial_swipe_left">Swipe left for details:</string>
     <string name="tutorial_swipe_left_again">And again for actions:</string>
-    <string name="tutorial_got_it">OK, got it</string>
+    <string name="tutorial_got_it">ОК, разбрах</string>
     <string name="tutorial_touch_clock">Touch the clock or say, \"Ok Google\"</string>
     <string name="tutorial_say_what_time">Say, \"What time is sunset?\"</string>
     <string name="tutorial_touch_clock_what_time">Touch anywhere on the clock and say an action such as, \"Show me my steps\"</string>
@@ -532,7 +532,7 @@ On"</string>
     <string name="tutorial_tap_to_read_more">Tap to read more</string>
     <string name="tutorial_dismiss_sync">Cards dismissed here are also dismissed on your phone</string>
     <string name="reminder_trigger_occasionally">Occasionally</string>
-    <string name="reminder_trigger_recurring">Recurring</string>
+    <string name="reminder_trigger_recurring">Повтарящи се</string>
     <string name="chrono_ambient_hrs_min" formatted="false">%s, %s</string>
     <string name="chrono_ambient_less_than_minute">&lt; 1 minute</string>
     <string name="voice_action_prompt">You can say…</string>
@@ -557,7 +557,7 @@ On"</string>
     <string name="example_query_navigate_2">Navigate to the nearest hardware store</string>
     <string name="example_query_navigate_3">Navigate to the Museum of Modern Art</string>
     <string name="example_query_set_timer">Set a timer for 10 minutes</string>
-    <string name="unread_count_watchface_name">Increment</string>
+    <string name="unread_count_watchface_name">Нарастване</string>
     <string name="showtimes_for_place">showtimes for %s</string>
     <string name="movie_type_standard">Стандарно</string>
     <string name="movie_type_3D">3D</string>
@@ -573,7 +573,7 @@ On"</string>
     <string name="power_unaccounted">Miscellaneous</string>
     <string name="power_overcounted">Over-counted</string>
     <string name="power_screen">Screen</string>
-    <string name="power_flashlight">Flashlight</string>
+    <string name="power_flashlight">Фенерче</string>
     <string name="power_wifi">Wi‑Fi</string>
     <string name="power_bluetooth">Bluetooth</string>
     <string name="power_cell">Cell standby</string>
@@ -610,7 +610,7 @@ On"</string>
     <string name="theater_mode_toast_no_button">To turn screen back on, double-tap the screen</string>
     <string name="more_on_weather_domain">More on %s</string>
     <string name="batteryLevelUnit">%</string>
-    <string name="watchface_custom_btn_title">Customize</string>
+    <string name="watchface_custom_btn_title">Нагласяване</string>
     <string name="weather">Weather</string>
     <string name="temp_unit_centigrade">℃</string>
     <string name="temp_unit_fahrenheit">° F</string>
@@ -634,21 +634,21 @@ On"</string>
     <string name="weather_warning_level_white">White</string>
     <string name="weather_warning_level_black">Black</string>
     <string name="weather_warning_typhoon">Typhoon</string>
-    <string name="weather_warning_rainstorm">Rainstorm</string>
-    <string name="weather_warning_cold">Cold wave</string>
+    <string name="weather_warning_rainstorm">Дъждовна буря</string>
+    <string name="weather_warning_cold">Студена вълна</string>
     <string name="weather_warning_gale">Бурно</string>
-    <string name="weather_warning_sandstorm">Sandstorm</string>
+    <string name="weather_warning_sandstorm">Пясъчна буря</string>
     <string name="weather_warning_temperature">High temperature</string>
     <string name="weather_warning_drought">Drought</string>
     <string name="weather_warning_thunder">Thunder and lightning</string>
     <string name="weather_warning_hail">Градушка</string>
     <string name="weather_warning_frost">Frost</string>
-    <string name="weather_warning_fog">Heavy fog</string>
+    <string name="weather_warning_fog">Гъста мъгла</string>
     <string name="weather_warning_smog">Haze</string>
-    <string name="weather_warning_ice">Icy roads</string>
+    <string name="weather_warning_ice">Заледени пътища</string>
     <string name="weather_warning_snowstorm">Blizzard</string>
     <string name="no_aqi">"Couldn't get AQI info"</string>
-    <string name="air_perfect">Excellent</string>
+    <string name="air_perfect">Отличен</string>
     <string name="air_good">Fine</string>
     <string name="air_lightly_polluted">Light pollution</string>
     <string name="air_moderate_polluted">Moderate pollution</string>
