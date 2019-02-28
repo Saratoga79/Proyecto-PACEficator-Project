@@ -31,7 +31,7 @@
     <string name="quick_settings_no_disturb_mode">Silent: %1$s</string>
     <string name="quick_settings_auto_light_mode">Backlight: %1$s</string>
     <string name="quick_settings_more_settings">More Settings</string>
-    <string name="quick_settings_switch_auto">Auto</string>
+    <string name="quick_settings_switch_auto">Автоматично</string>
     <string name="quick_settings_switch_awake">Awake</string>
     <string name="quick_settings_switch_always">Always On</string>
     <string name="quick_settings_switch_on">ВКЛ</string>
@@ -60,7 +60,7 @@ New notification will not show any more."</string>
     <string name="quick_settings_battery_charging_intervalLessHour">"Less than 1 hour 
 since charge"</string>
     <string name="quick_settings_battery_sportString">Battery life in Sports mode</string>
-    <string name="quick_settings_battery_sporttime_hour_unit">hour</string>
+    <string name="quick_settings_battery_sporttime_hour_unit">час</string>
     <string name="quick_settings_battery_sporttime_KM_unit">км</string>
     <string name="quick_settings_battery_level_unit">%</string>
     <string name="quick_settings_battery_sporttime_MI_unit">мили</string>
@@ -113,7 +113,7 @@ since charge"</string>
     <string name="hm_watch_sports_notification_km">Kilometers</string>
     <string name="hm_watch_sports_notification_sports">Sports</string>
     <string name="hm_generic_notification_iconified_content_line">Hello, I am a fan of Huami</string>
-    <string name="notification_action_more">More</string>
+    <string name="notification_action_more">Още</string>
     <string name="notification_wechat_red_envelop_title">微信红包提醒</string>
     <string name="notification_alipay_red_envelop_title">支付宝红包提醒</string>
     <string name="notification_qq_red_envelop_title">QQ红包提醒</string>
@@ -170,7 +170,7 @@ since charge"</string>
     <string name="common_google_play_services_update_button">Update</string>
     <string name="common_signin_button_text">Sign in</string>
     <string name="common_signin_button_text_long">Sign in with Google</string>
-    <string name="pre_release_do_not_ship">true</string>
+    <string name="pre_release_do_not_ship">вярно</string>
     <string name="common_open_on_phone">Open on phone</string>
     <string name="wallet_buy_button_place_holder">Buy with Google</string>
     <string name="retail_hangout_text">Hey, do you want to get dinner tonight?</string>
@@ -221,7 +221,7 @@ since charge"</string>
     <string name="now_calendar_event_address">%1$s, %2$s</string>
     <string name="now_flight_passenger">Passenger</string>
     <string name="now_flight_ticket_number">Ticket #</string>
-    <string name="now_flight_seat">Seat</string>
+    <string name="now_flight_seat">Място</string>
     <string name="now_flight_group">Group</string>
     <string name="package_first_two_items">%1$s &amp; %2$s</string>
     <string name="package_more_from_shipper">%1$s %2$s</string>
@@ -237,7 +237,7 @@ day"</string>
     <string name="cal_navigate_to">Navigate to %s</string>
     <string name="cal_navigate">Navigate</string>
     <string name="cal_where">Where</string>
-    <string name="cal_when">When</string>
+    <string name="cal_when">Кога</string>
     <string name="cal_notes">Notes</string>
     <string name="cal_who">Кого</string>
     <string name="cal_status_accepted">Going</string>
@@ -283,7 +283,7 @@ day"</string>
     <string name="perm_description_install_wearable_packages">This app can install apps for wearable devices.</string>
     <string name="perm_label_set_watch_face_privileged">Set watch face, privileged</string>
     <string name="perm_description_set_watch_face_privileged">This app can set the watch face without confirmation.</string>
-    <string name="open">Open</string>
+    <string name="open">Отвори</string>
     <string name="open_on_phone">Open on phone</string>
     <string name="title_mute_app">Block app</string>
     <string name="mute_app_confirmation">Never show cards from this app</string>
@@ -330,18 +330,18 @@ day"</string>
     <string name="cue_menu_bug_report">Take bug report</string>
     <string name="cue_menu_apps">Start…</string>
     <string name="cue_launch_error">"Sorry, Google can't do that right now."</string>
-    <string name="voice_action_edit">Edit</string>
-    <string name="voice_action_save">Save</string>
+    <string name="voice_action_edit">Редактиране</string>
+    <string name="voice_action_save">Запази</string>
     <string name="voice_action_saving">Saving…</string>
     <string name="voice_action_navigate">Navigate</string>
     <string name="voice_action_navigating">Navigating…</string>
-    <string name="voice_action_open">Open</string>
+    <string name="voice_action_open">Отвори</string>
     <string name="voice_action_opening">Opening…</string>
     <string name="voice_action_contact_upload_needed">To complete this action, turn on contact recognition on your phone</string>
     <string name="voice_action_sending">Sending…</string>
-    <string name="voice_action_send">Send</string>
+    <string name="voice_action_send">Изпрати</string>
     <string name="voice_action_calling">Calling…</string>
-    <string name="voice_action_call">Call</string>
+    <string name="voice_action_call">Повикване</string>
     <string name="voice_action_setting">Setting…</string>
     <string name="voice_action_set">Задай</string>
     <string name="voice_action_email_title">Email</string>
@@ -353,8 +353,8 @@ day"</string>
     <string name="voice_action_navigate_mode_bike">Bicycling</string>
     <string name="voice_action_navigate_mode_drive">Driving</string>
     <string name="voice_action_navigate_mode_walk">Walking</string>
-    <string name="voice_action_note_title">Note</string>
-    <string name="voice_action_call_title">Call</string>
+    <string name="voice_action_note_title">Бележка</string>
+    <string name="voice_action_call_title">Повикване</string>
     <string name="voice_action_set_reminder_title">Set reminder</string>
     <string name="voice_action_alarm_title">Alarm</string>
     <string name="voice_action_timer_title">Timer</string>
@@ -365,7 +365,7 @@ day"</string>
     <string name="voice_action_field_destination_address">Address</string>
     <string name="voice_action_field_message">Message</string>
     <string name="voice_action_field_to">До</string>
-    <string name="voice_action_field_when">When</string>
+    <string name="voice_action_field_when">Кога</string>
     <string name="voice_action_field_label">Label</string>
     <string name="voice_action_field_duration">Duration</string>
     <string name="voice_action_field_reminder">Reminder</string>
@@ -377,7 +377,7 @@ day"</string>
     <string name="voice_action_field_no_match">"Didn't catch that"</string>
     <string name="voice_action_field_ask_note">Note?</string>
     <string name="note_creation_success">Note created</string>
-    <string name="voice_action_done">Done</string>
+    <string name="voice_action_done">Завършено</string>
     <string name="voice_action_go_to_phone">Go to phone</string>
     <string name="voice_action_remote_error">"Sorry, that didn't work. Try again."</string>
     <string name="voice_action_remote_unkown">Try again on your phone.</string>
@@ -426,8 +426,8 @@ Sorry, Google can\'t help you with that"</string>
     <string name="search_dictionary_number">%d.</string>
     <string name="search_map_address_join">%1$s, %2$s</string>
     <string name="search_porky_pig_entity_attribute">%1$s, %2$s</string>
-    <string name="search_temperature_in_celsius">%s°C</string>
-    <string name="search_temperature_in_fahrenheit">%s°F</string>
+    <string name="search_temperature_in_celsius">%s° C</string>
+    <string name="search_temperature_in_fahrenheit">%s° F</string>
     <string name="search_temperature_no_units">%s°</string>
     <string name="search_wind_in_mph">%smph</string>
     <string name="search_wind_in_kph">%skph</string>
@@ -439,7 +439,7 @@ Sorry, Google can\'t help you with that"</string>
     <string name="search_when_is_end">and ends</string>
     <string name="search_when_is_start_evening">%s begins in the evening of</string>
     <string name="search_when_is_end_evening">and ends in the evening of</string>
-    <string name="search_call">Call</string>
+    <string name="search_call">Повикване</string>
     <string name="stock_last_update" formatted="false">Updated: %s - %s</string>
     <string name="local_closed">Closed</string>
     <string name="monday">Monday</string>
@@ -479,7 +479,7 @@ Sorry, Google can\'t help you with that"</string>
     <string name="unknown_caller">Unknown caller</string>
     <string name="incoming_call">Incoming call</string>
     <string name="incoming_call_sending">Sending…</string>
-    <string name="av_next">Next</string>
+    <string name="av_next">Следващо</string>
     <string name="av_previous">Previous</string>
     <string name="av_thumbs_up">Thumbs up</string>
     <string name="av_thumbs_down">Thumbs down</string>
@@ -487,7 +487,7 @@ Sorry, Google can\'t help you with that"</string>
     <string name="av_volume_down">Volume down</string>
     <string name="voice_action_alarm_time_field">Alarm time?</string>
     <string name="default_watchface_name">Simple</string>
-    <string name="watchface_picker_more">More</string>
+    <string name="watchface_picker_more">Още</string>
     <string name="watchface_picker_recent">Recent</string>
     <string name="watchface_picker_all">Всички</string>
     <string name="airplane_mode">"Airplane mode
@@ -508,7 +508,7 @@ On"</string>
     <string name="hotword_indicator">\"Ok Google\"</string>
     <string name="secure_adb_instructions_title">Allow debugging?</string>
     <string name="secure_adb_instructions_text">Open your companion device to allow debugging.</string>
-    <string name="mute">Mute</string>
+    <string name="mute">Заглуши</string>
     <string name="unmute">Unmute</string>
     <string name="tutorial_all_set">"You're all set!"</string>
     <string name="tutorial_swipe_up">Swipe up to get started.</string>
@@ -565,10 +565,10 @@ On"</string>
     <string name="movie_type_IMAX_3D">IMAX 3D</string>
     <string name="perm_label_notify_gps_activity">Notify about GPS activity</string>
     <string name="perm_description_notify_gps_activity">This app can send broadcast with notification about GPS activity</string>
-    <string name="contact_type_home">Home</string>
-    <string name="contact_type_work">Work</string>
+    <string name="contact_type_home">Начало</string>
+    <string name="contact_type_work">Служебен</string>
     <string name="contact_type_mobile">Mobile</string>
-    <string name="contact_type_main">Main</string>
+    <string name="contact_type_main">Основен</string>
     <string name="power_idle">Watch idle</string>
     <string name="power_unaccounted">Miscellaneous</string>
     <string name="power_overcounted">Over-counted</string>
@@ -595,10 +595,10 @@ On"</string>
     <string name="battery_info_status_charging_wireless">Charging wirelessly</string>
     <string name="battery_info_status_discharging">Not charging</string>
     <string name="battery_info_status_not_charging">Not charging</string>
-    <string name="battery_info_status_full">Full</string>
+    <string name="battery_info_status_full">Заредена</string>
     <string name="battery_info_status_percentage">%</string>
     <string name="quick_settings_notification_title">Interruptions</string>
-    <string name="quick_settings_notifications_none">None</string>
+    <string name="quick_settings_notifications_none">Няма</string>
     <string name="quick_settings_notifications_not_even_alarms">Not even alarms</string>
     <string name="quick_settings_notifications_priority">Priority only</string>
     <string name="quick_settings_notifications_all">Show all</string>
@@ -617,7 +617,7 @@ On"</string>
     <string name="temp_unit_degree">°</string>
     <string name="temp_to">~</string>
     <string name="temp_to_card">/</string>
-    <string name="type_to"> to </string>
+    <string name="type_to"> за да </string>
     <string name="not_avalible_type">No data</string>
     <string name="not_avalible_temp">--</string>
     <string name="air_quality">Air quality </string>
@@ -626,7 +626,7 @@ On"</string>
     <string name="forecast_today">Today</string>
     <string name="forecast_tomorrow">Tomorrow</string>
     <string name="weather_warning">Warning</string>
-    <string name="weather_warning_level_blue">Blue</string>
+    <string name="weather_warning_level_blue">Синьо</string>
     <string name="weather_warning_level_orange">Orange</string>
     <string name="weather_warning_level_red">Червено</string>
     <string name="weather_warning_level_yellow">Yellow</string>
@@ -636,12 +636,12 @@ On"</string>
     <string name="weather_warning_typhoon">Typhoon</string>
     <string name="weather_warning_rainstorm">Rainstorm</string>
     <string name="weather_warning_cold">Cold wave</string>
-    <string name="weather_warning_gale">Gale</string>
+    <string name="weather_warning_gale">Бурно</string>
     <string name="weather_warning_sandstorm">Sandstorm</string>
     <string name="weather_warning_temperature">High temperature</string>
     <string name="weather_warning_drought">Drought</string>
     <string name="weather_warning_thunder">Thunder and lightning</string>
-    <string name="weather_warning_hail">Hail</string>
+    <string name="weather_warning_hail">Градушка</string>
     <string name="weather_warning_frost">Frost</string>
     <string name="weather_warning_fog">Heavy fog</string>
     <string name="weather_warning_smog">Haze</string>
