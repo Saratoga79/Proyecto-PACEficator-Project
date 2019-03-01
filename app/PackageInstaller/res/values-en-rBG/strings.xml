@@ -19,7 +19,7 @@
     <string name="install_failed">Приложението не е инсталирано.</string>
     <string name="install_failed_invalid_apk">The package appears to be corrupt.</string>
     <string name="install_failed_inconsistent_certificates">Вече е инсталиран съществуващ пакет със същото име с конфликтен подпис.</string>
-    <string name="install_failed_older_sdk">The package only works on newer versions of Android.</string>
+    <string name="install_failed_older_sdk">Пакетът работи само с по-нови версии на Android.</string>
     <string name="install_failed_cpu_abi_incompatible">"This app isn't compatible with your tablet."</string>
     <string name="install_failed_file_not_found">Посоченият пакет бе изтрит преди инсталацията да бъде завършена.</string>
     <string name="install_failed_verify_failed">Пакетът не е преминал проверка и не може да бъде инсталиран.</string>
@@ -45,13 +45,13 @@
     <string name="out_of_space_dlg_text">"%1$s не можа да бъде инсталирано. Освободете място и опитайте отново."</string>
     <string name="dlg_ok">ОК</string>
     <string name="app_not_found_dlg_title">App not found</string>
-    <string name="app_not_found_dlg_text">"The app wasn't found in the list of installed apps."</string>
+    <string name="app_not_found_dlg_text">"Приложението не бе намерено в списъка с инсталирани приложения."</string>
     <string name="uninstall_application_title">Uninstall app</string>
     <string name="uninstall_update_title">Uninstall update</string>
     <string name="uninstall_activity_text">%1$s is part of the following app:</string>
     <string name="uninstall_application_text">Do you want to uninstall this app?</string>
     <string name="uninstall_application_text_all_users">Искате ли да деинсталирате това приложение за <b> всички </b> потребители? Приложението и данните му ще бъдат премахнати от <b> всички </b> потребители на устройството.</string>
-    <string name="uninstall_application_text_user">Do you want to uninstall this app for the user %1$s?</string>
+    <string name="uninstall_application_text_user">Искате ли да деинсталирате това приложение на потребителя %1$s?</string>
     <string name="uninstall_update_text">Искате ли да замените това приложение с фабричната му версия?</string>
     <string name="uninstalling">Uninstalling…</string>
     <string name="uninstall_done">Деинсталирането приключи.</string>
