@@ -146,7 +146,7 @@ since charge"</string>
     <string name="common_google_play_services_notification_ticker">Google Play services error</string>
     <string name="common_google_play_services_notification_needs_installation_title">Приложението изисква инсталиране на услугите на Google Play.</string>
     <string name="common_google_play_services_notification_needs_update_title">Приложението изисква актуализация за услугите на Google Play.</string>
-    <string name="common_android_wear_notification_needs_update_text">An application requires an update to the Android Wear app.</string>
+    <string name="common_android_wear_notification_needs_update_text">Приложението изисква актуализация на приложението Android Wear.</string>
     <string name="common_google_play_services_needs_enabling_title">Приложението трябва да активира услугите на Google Play.</string>
     <string name="common_google_play_services_error_notification_requested_by_msg">Requested by %1$s</string>
     <string name="common_google_play_services_install_title">Get Google Play services</string>
@@ -158,8 +158,8 @@ since charge"</string>
     <string name="common_google_play_services_enable_button">Enable Google Play services</string>
     <string name="common_google_play_services_update_title">Update Google Play services</string>
     <string name="common_android_wear_update_title">Update Android Wear</string>
-    <string name="common_google_play_services_update_text">"This app won't run unless you update Google Play services."</string>
-    <string name="common_android_wear_update_text">"This app won't run unless you update the Android Wear app."</string>
+    <string name="common_google_play_services_update_text">"Това приложение няма да работи, освен ако не актуализирате услугите на Google Play."</string>
+    <string name="common_android_wear_update_text">"Това приложение няма да работи, освен ако не актуализирате приложението Android Wear."</string>
     <string name="common_google_play_services_network_error_title">Network Error</string>
     <string name="common_google_play_services_network_error_text">За връзка с услугите на Google Play е необходима връзка за данни.</string>
     <string name="common_google_play_services_invalid_account_title">Invalid Account</string>
@@ -213,7 +213,7 @@ since charge"</string>
     <string name="retail_slideshow_take_notes">Take notes just by talking.</string>
     <string name="retail_now_weather_short_peek">%1$s - %2$s</string>
     <string name="perm_label_setup_defaults">Setup defaults</string>
-    <string name="perm_description_setup_defaults">This app can provide default preferences for your device.</string>
+    <string name="perm_description_setup_defaults">Това приложение може да предостави предпочитания по подразбиране за устройството ви.</string>
     <string name="now_stock_price">"%1$s    %2$s   %3$s"</string>
     <string name="now_stock_title">Stocks today</string>
     <string name="now_time_to_leave_by">Leave by %1$s</string>
