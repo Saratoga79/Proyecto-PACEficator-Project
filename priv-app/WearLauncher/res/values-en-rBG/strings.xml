@@ -92,7 +92,7 @@ since charge"</string>
     <string name="action_success">Success!</string>
     <string name="action_working">On the way...</string>
     <string name="activity_not_found">Възникна проблем при завършване на заявеното действие.</string>
-    <string name="wathc_disconnection_content">Disconnected from the phone</string>
+    <string name="wathc_disconnection_content">Връзката с телефона е прекъсната</string>
     <string name="wathc_disconnection_title">Not connected</string>
     <string name="notification_block">Блок</string>
     <string name="notification_block_cancel">Отказ</string>
@@ -408,7 +408,7 @@ day"</string>
     <string name="network_error">"Can't reach Google at the moment."</string>
     <string name="server_error">"Can't reach Google at the moment."</string>
     <string name="audio_error">"Can't open microphone."</string>
-    <string name="null_result_error">Your search did not match any documents</string>
+    <string name="null_result_error">Вашето търсене не съвпадна с никакви документи</string>
     <string name="no_answer_error">"%s
 
 Sorry, Google can\'t help you with that"</string>
@@ -671,8 +671,8 @@ On"</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">ОК</string>
     <string name="picker_default_nagetive_text">Изкл</string>
-    <string name="no_heartrate_data_hint">"Couldn't find heart rate data"</string>
-    <string name="no_altitude_hint">"Couldn't find altitude data"</string>
+    <string name="no_heartrate_data_hint">"Не можах да намеря данни за пулс"</string>
+    <string name="no_altitude_hint">"Не можах да намеря данни за надморската височина"</string>
     <string name="title_settings">Настройки</string>
     <string name="sport_music_settings">Music</string>
     <string name="widget_currentstep_title">Data</string>
