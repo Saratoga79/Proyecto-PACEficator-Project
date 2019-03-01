@@ -66,7 +66,7 @@
     <string name="installer_cd_button_title">Install Android File Transfer app for Mac</string>
     <string name="accessibility_back">Назад</string>
     <string name="accessibility_home">Начало</string>
-    <string name="accessibility_menu">Menu</string>
+    <string name="accessibility_menu">Меню</string>
     <string name="accessibility_recent">Overview</string>
     <string name="accessibility_search_light">Търсене</string>
     <string name="accessibility_camera_button">Камера</string>
@@ -116,7 +116,7 @@
     <string name="accessibility_three_bars">Three bars.</string>
     <string name="accessibility_signal_full">Signal full.</string>
     <string name="accessibility_desc_on">Вкл.</string>
-    <string name="accessibility_desc_off">Off.</string>
+    <string name="accessibility_desc_off">Изкл.</string>
     <string name="accessibility_desc_connected">Connected.</string>
     <string name="accessibility_desc_connecting">Connecting.</string>
     <string name="accessibility_data_connection_gprs">GPRS</string>
@@ -128,7 +128,7 @@
     <string name="accessibility_data_connection_lte">LTE</string>
     <string name="accessibility_data_connection_cdma">CDMA</string>
     <string name="accessibility_data_connection_roaming">Роуминг</string>
-    <string name="accessibility_data_connection_edge">Edge</string>
+    <string name="accessibility_data_connection_edge">Ръб</string>
     <string name="accessibility_data_connection_wifi">Wi-Fi</string>
     <string name="accessibility_no_sim">Без SIM.</string>
     <string name="accessibility_bluetooth_tether">Bluetooth tethering.</string>
@@ -228,9 +228,9 @@
     <string name="quick_settings_rssi_label">RSSI</string>
     <string name="quick_settings_rssi_emergency_only">Emergency Calls Only</string>
     <string name="quick_settings_settings_label">Settings</string>
-    <string name="quick_settings_time_label">Time</string>
+    <string name="quick_settings_time_label">Време</string>
     <string name="quick_settings_user_label">Аз</string>
-    <string name="quick_settings_user_title">User</string>
+    <string name="quick_settings_user_title">Потребител</string>
     <string name="quick_settings_user_new_user">New user</string>
     <string name="quick_settings_wifi_label">Wi-Fi</string>
     <string name="quick_settings_wifi_not_connected">Not Connected</string>
@@ -243,11 +243,11 @@
     <string name="quick_settings_cast_device_default_description">Ready to cast</string>
     <string name="quick_settings_cast_detail_empty_text">No devices available</string>
     <string name="quick_settings_brightness_dialog_title">Brightness</string>
-    <string name="quick_settings_brightness_dialog_auto_brightness_label">AUTO</string>
+    <string name="quick_settings_brightness_dialog_auto_brightness_label">АВТОМАТИЧЕН</string>
     <string name="quick_settings_inversion_label">Invert colors</string>
     <string name="quick_settings_color_space_label">Color correction mode</string>
     <string name="quick_settings_more_settings">More settings</string>
-    <string name="quick_settings_done">Done</string>
+    <string name="quick_settings_done">Завършено</string>
     <string name="quick_settings_connected">Свързан</string>
     <string name="quick_settings_connected_via_wfa">Connected via Wi‑Fi assistant</string>
     <string name="quick_settings_connecting">Connecting...</string>
@@ -289,7 +289,7 @@ be monitored"</string>
     <string name="keyguard_unlock">Swipe up to unlock</string>
     <string name="phone_hint">Swipe right for phone</string>
     <string name="camera_hint">Swipe left for camera</string>
-    <string name="interruption_level_none">None</string>
+    <string name="interruption_level_none">Няма</string>
     <string name="interruption_level_priority">Priority</string>
     <string name="interruption_level_all">Всички</string>
     <string name="keyguard_indication_charging_time">Charging (%s until full)</string>
@@ -406,7 +406,7 @@ be monitored"</string>
     <string name="screen_pinning_negative">No thanks</string>
     <string name="quick_settings_reset_confirmation_title">Hide %1$s?</string>
     <string name="quick_settings_reset_confirmation_message">Тя ще се появи отново при следващото включване в настройките.</string>
-    <string name="quick_settings_reset_confirmation_button">Hide</string>
+    <string name="quick_settings_reset_confirmation_button">Скрий</string>
     <string name="ok">@android:string/ok</string>
     <string name="widget_default_package_name"></string>
     <string name="widget_default_class_name"></string>
@@ -484,7 +484,7 @@ be monitored"</string>
     <string name="keyboardview_keycode_alt">Alt</string>
     <string name="keyboardview_keycode_cancel">Отказ</string>
     <string name="keyboardview_keycode_delete">Изтриване</string>
-    <string name="keyboardview_keycode_done">Done</string>
+    <string name="keyboardview_keycode_done">Готово</string>
     <string name="keyboardview_keycode_mode_change">Mode change</string>
     <string name="keyboardview_keycode_shift">Shift</string>
     <string name="keyboardview_keycode_enter">Enter</string>
