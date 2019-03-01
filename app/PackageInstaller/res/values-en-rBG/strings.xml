@@ -10,7 +10,7 @@
     <string name="unknown">Неизвестно</string>
     <string name="installing">Installing…</string>
     <string name="install_done">Приложението е инсталирано.</string>
-    <string name="install_confirm_question">Do you want to install this application? It will get access to:</string>
+    <string name="install_confirm_question">Искате ли да инсталирате това приложение? Ще получите достъп до:</string>
     <string name="install_confirm_question_no_perms">Искате ли да инсталирате това приложение? Не се изисква специален достъп.</string>
     <string name="install_confirm_question_update">Искате ли да инсталирате актуализация на това съществуващо приложение? Съществуващите ви данни няма да бъдат загубени. Актуализираното приложение ще получи достъп до:</string>
     <string name="install_confirm_question_update_system">Искате ли да инсталирате актуализация на това приложение? Съществуващите ви данни няма да бъдат загубени. Актуализираното приложение ще получи достъп до:</string>
@@ -22,7 +22,7 @@
     <string name="install_failed_older_sdk">The package only works on newer versions of Android.</string>
     <string name="install_failed_cpu_abi_incompatible">"This app isn't compatible with your tablet."</string>
     <string name="install_failed_file_not_found">Посоченият пакет бе изтрит преди инсталацията да бъде завършена.</string>
-    <string name="install_failed_verify_failed">The package did not pass verification and cannot be installed.</string>
+    <string name="install_failed_verify_failed">Пакетът не е преминал проверка и не може да бъде инсталиран.</string>
     <string name="install_failed_verify_timeout">Опита за потвърждаване на този пакет се забави. Опитайте се да инсталирате отново по-късно.</string>
     <string name="install_failed_msg">"%1$s couldn't be installed on your tablet."</string>
     <string name="launch">Отвори</string>
