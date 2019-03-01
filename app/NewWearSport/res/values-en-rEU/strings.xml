@@ -494,7 +494,7 @@
     <string name="first_beat_help_train_load">The watch will calculate Training Load based on EPOC (Excess Post-exercise Oxygen Consumption) values accumulated from heartrate data recorded during workouts in a 7-day rolling window. The user can adjust the training schedule accordingly to reach optimal load. &lt;br/&gt;&lt;small&gt;For more details, please see Help in Amazfit Watch app.&lt;/small&gt;</string>
     <string name="first_beat_help_run_target_and_real_time_guide">The watch will provide workout recommendation based on a your VO2Max fitness level, recent Training Load and recovery status from previous workout. &lt;br/&gt; If you enable realtime coaching feature in settings and set a TE target or choose one of the recommended workouts, the watch will guide you through the workout and prompt to adjust pace and heart rate in order to achieve set goals. &lt;br/&gt; &lt;small&gt;For more details, please see Help in Amazfit Watch app.&lt;/small&gt;</string>
     <string name="first_beat_help_daily_perpormence">"&lt;font color=#00FF00&gt;What is this？&lt;/font&gt;&lt;br/&gt;Realtime Performance Condition indicates if you are above or below your average performance level, and how accumulating fatigue affects your performance during a workout. &lt;br/&gt;&lt;font color=#00FF00&gt;How is it used？&lt;/font&gt;&lt;br/&gt;The watch will evaluate your performance condition automatically after ~6 minutes of running. A higher-than-avarage value indicates that you can make a harder workout than you'd normally do. A lower value suggests that you should take a easier workout. &lt;br/&gt;After completing a workout, you can analyze the performance by looking at the result at each km/mile on the graph. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;For more details, please see Help in Amazfit Watch app.&lt;/small&gt;"</string>
-    <string name="first_beat_help_recovery_time">After completing a workout, you will be provided with time in minutes to full recovery. Between workouts recovery time is linearly decreased towards zero if there is no new workout data available. The user is encouraged to have some low intensiy workouts to help with recovery. &lt;br/&gt;&lt;small&gt;For more details, please see Help in Amazfit Watch app.&lt;/small&gt;</string>
+    <string name="first_beat_help_recovery_time">Jarduera bat egin ondoren, berreskurapen osorako denbora emango da</string>
     <string name="vo2max_unit">mg/kg/min</string>
     <string name="run_vo2max_unit">ml / kg / min</string>
     <string name="vo2_max_has_no_data">Daturik gabe</string>
@@ -992,10 +992,10 @@ jarduera eraginkorragoa lortzeko"</string>
     <string name="modify_big_dis_regain">Aldatu</string>
     <string name="modify_big_dis_confirm">Kalibrazioa baieztatu</string>
     <string name="re_modify_dis">Berriro kalibratu</string>
-    <string name="re_modify_dis_tips">"1.里程大于0.5公里的校准可让手表学习你的跑步习惯，让跑步里程越来越准。
-2.如果你已进行过多次校准，但仍对里程结果不满意，可进行重新校准。
-3.重新校准将删除此前所有校准记录。"</string>
-    <string name="give_up_re_modify_dis">放弃</string>
-    <string name="confirm_re_modify_dis">确认</string>
-    <string name="re_modify_dis_successful">重新校准成功</string>
+    <string name="re_modify_dis_tips">1. 0.5km-tik gorako distantziak kalibratzean, erlojuak neurketa zehatzagoak egindo ditu.
+2. Kalibrazio ugari egin ondoren balioarekin ados ez bazaude, berriro kalibra dezakezu.
+3. Berriro kalibratu ezkero, aurreko balio guztiak galduko dira.</string>
+    <string name="give_up_re_modify_dis">Atera</string>
+    <string name="confirm_re_modify_dis">Baieztatu</string>
+    <string name="re_modify_dis_successful">Kalibrazioa eginda</string>
 </resources>
