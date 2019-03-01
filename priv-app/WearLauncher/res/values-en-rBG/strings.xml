@@ -40,7 +40,7 @@
     <string name="quick_settings_toast_off">Disabled</string>
     <string name="quick_settings_status">Disconnected</string>
     <string name="quick_settings_no_disturb_toast">Notification will not be shown</string>
-    <string name="quick_settings_auto_light_toast">Screen highlighting, will increase the power consumption</string>
+    <string name="quick_settings_auto_light_toast">Осветяването на екрана ще увеличи консумацията на енергия</string>
     <string name="quick_settings_status_month">-</string>
     <string name="quick_settings_status_day">  </string>
     <string name="quick_settings_connected">Connected</string>
@@ -49,8 +49,8 @@
     <string name="quick_settings_date_chinese">yyyy-MM-dd</string>
     <string name="quick_settings_date_format">1900-1-31</string>
     <string name="quick_settings_date_yeareve">New Year Eve</string>
-    <string name="seconed_confirm_nodisturb">"Silent Mode On
-New notification will not show any more."</string>
+    <string name="seconed_confirm_nodisturb">"Тих режим е вкл
+ново известие няма да се показва."</string>
     <string name="quick_settings_battery_charging_full">Fully charged</string>
     <string name="quick_settings_battery_is_charging">Charging...</string>
     <string name="quick_settings_battery_hasnot_charged">Not been charged</string>
@@ -98,7 +98,7 @@ since charge"</string>
     <string name="notification_block_cancel">Отказ</string>
     <string name="notification_block_message">No longer receive app notifications</string>
     <string name="notification_block_ok">ОК</string>
-    <string name="notification_more_settings">Additional settings</string>
+    <string name="notification_more_settings">Допълнителни настройки</string>
     <string name="notification_time_just">Just now</string>
     <string name="notification_time_yesterday">Yesterday</string>
     <string name="notificaton_empty_message">No notifications</string>
@@ -282,7 +282,7 @@ day"</string>
     <string name="perm_label_install_wearable_packages">Install apps</string>
     <string name="perm_description_install_wearable_packages">This app can install apps for wearable devices.</string>
     <string name="perm_label_set_watch_face_privileged">Set watch face, privileged</string>
-    <string name="perm_description_set_watch_face_privileged">This app can set the watch face without confirmation.</string>
+    <string name="perm_description_set_watch_face_privileged">Това приложение може да зададе циферблат без потвърждение.</string>
     <string name="open">Отвори</string>
     <string name="open_on_phone">Open on phone</string>
     <string name="title_mute_app">Block app</string>
@@ -516,7 +516,7 @@ On"</string>
     <string name="tutorial_swipe_again">Try swiping again.</string>
     <string name="tutorial_cancel">Cancel tutorial</string>
     <string name="tutorial_easy">Easy, right?</string>
-    <string name="tutorial_useful_cards">Useful cards show up automatically throughout the day.</string>
+    <string name="tutorial_useful_cards">Полезни карти се показват автоматично през целия ден.</string>
     <string name="tutorial_keep_swiping">Keep swiping…</string>
     <string name="tutorial_dismiss">"You can remove cards when you're done with them."</string>
     <string name="tutorial_swipe_dismiss">Swipe to remove.</string>
@@ -530,7 +530,7 @@ On"</string>
     <string name="tutorial_one_last_thing">One last thing…</string>
     <string name="tutorial_dim_lights">To dim the screen, cover it with your palm.</string>
     <string name="tutorial_tap_to_read_more">Tap to read more</string>
-    <string name="tutorial_dismiss_sync">Cards dismissed here are also dismissed on your phone</string>
+    <string name="tutorial_dismiss_sync">Отхвърлените тук карти са отхвърлени и на телефона ви</string>
     <string name="reminder_trigger_occasionally">Occasionally</string>
     <string name="reminder_trigger_recurring">Повтарящи се</string>
     <string name="chrono_ambient_hrs_min" formatted="false">%s, %s</string>
@@ -656,14 +656,14 @@ On"</string>
     <string name="air_severely_polluted">Severe pollution</string>
     <string name="no_outdoor_info">No data</string>
     <string name="outdoor_info_notsuit">Not suitable for sports</string>
-    <string name="outdoor_info_suit">Suitable for sports</string>
+    <string name="outdoor_info_suit">Подходящо за спорт</string>
     <string name="wind_strength">Wind force</string>
     <string name="moisture">Влажност</string>
     <string name="uv">UV index</string>
     <string name="detailed">Weather details</string>
     <string name="forecast">Weather forecast</string>
     <string name="fetching">Just a sec…</string>
-    <string name="fetch_failed">"Couldn't get info"</string>
+    <string name="fetch_failed">"Информацията не може да се получи"</string>
     <string name="fetch_failed_title">"Can't get weather info"</string>
     <string name="fetch_failed_msg">Уверете се, че часовникът ви е свързан с приложението Amazfit Watch и в приложението е избрано валидно местоположение.</string>
     <string name="date_time_format">MM/dd</string>
