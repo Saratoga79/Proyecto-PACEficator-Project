@@ -32,17 +32,15 @@
     <string name="ok">ОК</string>
     <string name="settings">Настройки</string>
     <string name="allow_source_dlg_title">New source for apps</string>
-    <string name="allow_source_dlg_text">"%1$s wants to install other apps.
-
-Allow this now and in the future?"</string>
+    <string name="allow_source_dlg_text">"%1$s иска да инсталира други приложения.
+Разрешете това сега и в бъдеще?"</string>
     <string name="manage_applications">Manage apps</string>
     <string name="dlg_app_replacement_title">Replace app?</string>
     <string name="dlg_app_replacement_statement">"Приложението, което инсталирате ще замени друго приложение.
 
 Всичките ви предишни потребителски данни ще бъдат запазени."</string>
-    <string name="dlg_sys_app_replacement_statement">"This is a system app.
-
-All your previous user data will be saved."</string>
+    <string name="dlg_sys_app_replacement_statement">"Това е системно приложение.
+Всичките ви предишни потребителски данни ще бъдат запазени."</string>
     <string name="out_of_space_dlg_title">Out of space</string>
     <string name="out_of_space_dlg_text">"%1$s couldn't be installed. Free up some space and try again."</string>
     <string name="dlg_ok">ОК</string>
@@ -70,5 +68,5 @@ All your previous user data will be saved."</string>
     <string name="privacyPerms">Поверителност</string>
     <string name="devicePerms">Device Access</string>
     <string name="no_new_perms">This update requires no new permissions.</string>
-    <string name="grant_confirm_question">Do you want to grant the following permissions? It will get access to:</string>
+    <string name="grant_confirm_question">Искате ли да предоставите следните разрешения? Ще получите достъп до:</string>
 </resources>
