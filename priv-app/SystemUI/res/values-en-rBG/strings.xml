@@ -67,7 +67,7 @@
     <string name="accessibility_back">Назад</string>
     <string name="accessibility_home">Начало</string>
     <string name="accessibility_menu">Меню</string>
-    <string name="accessibility_recent">Overview</string>
+    <string name="accessibility_recent">Общ преглед</string>
     <string name="accessibility_search_light">Търсене</string>
     <string name="accessibility_camera_button">Камера</string>
     <string name="accessibility_phone_button">Телефон</string>
@@ -90,7 +90,7 @@
     <string name="accessibility_phone_two_bars">Phone two bars.</string>
     <string name="accessibility_phone_three_bars">Phone three bars.</string>
     <string name="accessibility_phone_signal_full">Phone signal full.</string>
-    <string name="accessibility_no_data">No data.</string>
+    <string name="accessibility_no_data">Няма данни.</string>
     <string name="accessibility_data_one_bar">Data one bar.</string>
     <string name="accessibility_data_two_bars">Data two bars.</string>
     <string name="accessibility_data_three_bars">Data three bars.</string>
@@ -150,9 +150,9 @@
     <string name="accessibility_desc_notification_shade">Notification shade.</string>
     <string name="accessibility_desc_quick_settings">Quick settings.</string>
     <string name="accessibility_desc_lock_screen">Lock screen.</string>
-    <string name="accessibility_desc_settings">Settings</string>
+    <string name="accessibility_desc_settings">Настройки</string>
     <string name="accessibility_desc_recent_apps">Общ преглед.</string>
-    <string name="accessibility_quick_settings_user">User %s.</string>
+    <string name="accessibility_quick_settings_user">Потребител %s.</string>
     <string name="accessibility_quick_settings_wifi">%1$s.</string>
     <string name="accessibility_quick_settings_wifi_changed_off">Wifi turned off.</string>
     <string name="accessibility_quick_settings_wifi_changed_on">Wifi turned on.</string>
@@ -499,12 +499,12 @@ be monitored"</string>
     <string name="kg_forgot_pattern_button_text">Забравена Фигура</string>
     <string name="kg_wrong_pattern">Wrong Pattern</string>
     <string name="kg_wrong_password">Грешна Парола</string>
-    <string name="kg_wrong_pin">Wrong PIN</string>
+    <string name="kg_wrong_pin">Грешен ПИН</string>
     <string name="kg_too_many_failed_attempts_countdown">Опитайте отново след %d секунди.</string>
     <string name="kg_pattern_instructions">Начертайте фигурата си</string>
     <string name="kg_sim_pin_instructions">Enter SIM PIN</string>
     <string name="kg_sim_pin_instructions_multi">Enter SIM PIN for \"%1$s\"</string>
-    <string name="kg_pin_instructions">Enter PIN</string>
+    <string name="kg_pin_instructions">Въведете ПИН</string>
     <string name="kg_password_instructions">Въведете Парола</string>
     <string name="kg_puk_enter_puk_hint">SIM картата вече е деактивирана. Въведете PUK кода, за да продължите. Свържете се с оператора за подробности.</string>
     <string name="kg_puk_enter_puk_hint_multi">\"%1$s\" SIM картата вече е деактивирана. Въведете PUK кода, за да продължите. Свържете се с оператора за подробности.</string>
