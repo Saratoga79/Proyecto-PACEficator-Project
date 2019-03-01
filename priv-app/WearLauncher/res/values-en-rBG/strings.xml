@@ -13,7 +13,7 @@
     <string name="notification_click_download">Download</string>
     <string name="notification_click_open">More</string>
     <string name="delete_all_notifications">Clear all notifications</string>
-    <string name="delete_all_notifications_confrim_content">Deleted notifications can’t be retrieved later on the watch, continue?</string>
+    <string name="delete_all_notifications_confrim_content">Изтритите известия не могат да бъдат извлечени по-късно на часовника, продължавате ли?</string>
     <string name="notification_time_day">Чч:мм</string>
     <string name="notification_time_month">MM/dd HH:mm</string>
     <string name="notification_time_year">yyyy/MM/dd HH:mm</string>
@@ -21,7 +21,7 @@
     <string name="action_shield">Блок</string>
     <string name="notification_none">All caught up</string>
     <string name="notification_allclear">Clear all</string>
-    <string name="notification_allclear_confirm">Cleared notifications will no longer be available to read later, continue?</string>
+    <string name="notification_allclear_confirm">Изчистените известия повече няма да могат да се четат, да продължа ли?</string>
     <string name="notification_checking_bluetooth">Checking Bluetooth connection…</string>
     <string name="notification_detail_content_title">信息详情</string>
     <string name="notification_fix_message_action1">固定此消息</string>
@@ -256,7 +256,7 @@ day"</string>
     <string name="paired">Сдвоено!</string>
     <string name="tutorial_activity_text">You can also swipe to dismiss when in an app</string>
     <string name="troubleshoot_somethings_wrong">"Can't connect to the Internet. Swipe for some tips."</string>
-    <string name="troubleshoot_somethings_wrong_paired">"Can't connect to the Android Wear app on your phone. Swipe for some tips."</string>
+    <string name="troubleshoot_somethings_wrong_paired">"Не можете да се свържете с приложението Android Wear на телефона си. Плъзнете за някои съвети."</string>
     <string name="troubleshoot_use_android_wear">Инсталирайте приложението Android Wear от Play Store. След това стартирайте приложението Android Wear, за да се свържете с часовника.</string>
     <string name="troubleshoot_internet">Make sure your phone has an Internet connection.</string>
     <string name="troubleshoot_tethering">Try turning on Bluetooth tethering on your phone.</string>
@@ -381,7 +381,7 @@ day"</string>
     <string name="voice_action_go_to_phone">Go to phone</string>
     <string name="voice_action_remote_error">"Sorry, that didn't work. Try again."</string>
     <string name="voice_action_remote_unkown">Try again on your phone.</string>
-    <string name="voice_action_remote_disambig">Open your phone to select which app to use for this action from now on.</string>
+    <string name="voice_action_remote_disambig">Отворете телефона си, за да изберете коя програма да използвате за това действие отсега нататък.</string>
     <string name="voice_action_remote_favorite">Choose a favorite app for performing this action on your phone.</string>
     <string name="voice_action_error_completing_title">Problem completing your action</string>
     <string name="voice_action_error_completing_text">Open your phone and try again</string>
@@ -526,7 +526,7 @@ On"</string>
     <string name="tutorial_got_it">ОК, разбрах</string>
     <string name="tutorial_touch_clock">Touch the clock or say, \"Ok Google\"</string>
     <string name="tutorial_say_what_time">Say, \"What time is sunset?\"</string>
-    <string name="tutorial_touch_clock_what_time">Touch anywhere on the clock and say an action such as, \"Show me my steps\"</string>
+    <string name="tutorial_touch_clock_what_time">Докоснете където и да е по часовника и кажете действие, като например „Покажи ми крачките“</string>
     <string name="tutorial_one_last_thing">One last thing…</string>
     <string name="tutorial_dim_lights">To dim the screen, cover it with your palm.</string>
     <string name="tutorial_tap_to_read_more">Tap to read more</string>
@@ -538,7 +538,7 @@ On"</string>
     <string name="voice_action_prompt">You can say…</string>
     <string name="example_query_sep">или</string>
     <string name="example_query_note_1">Take a note, try to drink more water</string>
-    <string name="example_query_note_2">Take a note, idea for a movie: a man falls in love with his MP3 player</string>
+    <string name="example_query_note_2">Обърнете внимание, идея за филм: мъж се влюбва в своя MP3 плейър</string>
     <string name="example_query_note_3">Take a note, I parked my car on level 4</string>
     <string name="example_query_reminder_1">Remind me to go for a run at 7am</string>
     <string name="example_query_reminder_2">Remind me to call my mother when I get home</string>
