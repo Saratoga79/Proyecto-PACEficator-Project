@@ -401,7 +401,7 @@
     <string name="settings_item_value_swim_length">%1$sm</string>
     <string name="history_swim_pace_graph_desc">ความเร็ว (min/100m)</string>
     <string name="history_swim_pace_graph_desc_imperial">ความเร็ว (min/100ft)</string>
-    <string name="history_swim_pace_graph_desc_yd">ความเร็ว (นาที /100หลา)</string>
+    <string name="history_swim_pace_graph_desc_yd">ความเร็ว (min/100yards)</string>
     <string name="sport_lap_swim_length_time">%1$sm</string>
     <string name="sport_lap_swim_length_time_imperial">%1$sโซนเวลา</string>
     <string name="sport_swim_style">ท่าว่ายน้ำ</string>
@@ -411,7 +411,7 @@
     <string name="swim_breaststroke">ผีเสื้อ</string>
     <string name="swim_backstroke">กรรเชียง</string>
     <string name="swim_butterfly">จังหวะท่าผีเสื้อ</string>
-    <string name="swim_stroke_unit">ครั้ง/นาที</string>
+    <string name="swim_stroke_unit">SPM</string>
     <string name="history_swim_exchange_title">เปลี่ยนไปปั่นจักรยาน</string>
     <string name="count_down_swim_tint">เพื่อป้องกันการสัมผัสโดยไม่ตั้งใจหน้าจอจะถูกล็อค</string>
     <string name="sport_widget_title_indoor_swim">ว่ายน้ำในสระ</string>
@@ -471,7 +471,7 @@
     <string name="sport_target_remind_status_count"></string>
     <string name="sport_target_remind_title_01">3.5TE|30-25 minutes |5 km</string>
     <string name="sport_target_remind_title_01_normal">%1$sTE|%2$s minutes |%3$s km</string>
-    <string name="sport_target_remind_time_min">นาที</string>
+    <string name="sport_target_remind_time_min">Minute</string>
     <string name="sport_tartget_tips">เป้าหมายปัจจุบัน: %1$s</string>
     <string name="sport_target_remind_desc_01">นาฬิกาจะแนะนำวิธีที่ดีที่สุดในการฝึกฝนให้คุณโดยการรวมการแสดงที่ผ่านมาของคุณ</string>
     <string name="sport_te_desc_level_01">การฝึกอบรมนี้ไม่มีผลต่อการพัฒนาสมรรถภาพของแอโรบิก</string>
@@ -496,8 +496,8 @@
     <string name="first_beat_help_run_target_and_real_time_guide">นาฬิกาจะให้คำแนะนำการออกกำลังกายตามระดับการออกกำลังกาย VO2Max ของคุณโหลดการฝึกซ้อมล่าสุดและสถานะการฟื้นฟูจากการออกกำลังกายก่อนหน้า &lt;br/&gt; หากคุณเปิดใช้งานคุณสมบัติการฝึกแบบเรียลไทม์ในการตั้งค่าและตั้งค่าเป้าหมาย TE หรือเลือกหนึ่งในการออกกำลังกายที่แนะนำนาฬิกาจะแนะนำคุณตลอดการออกกำลังกายและพร้อมที่จะปรับอัตราการเต้นของหัวใจเพื่อให้บรรลุเป้าหมายที่ตั้งไว้&lt;br/&gt; &lt;small&gt; หรือรายละเอียดเพิ่มเติมโปรดดูวิธีใช้ในแอพ Amazfit Watch&lt;/small&gt;</string>
     <string name="first_beat_help_daily_perpormence">"&lt;font color=#00FF00&gt;นี่คืออะไร? &lt;/font&gt;&lt;br/&gt;Realtime เงื่อนไขประสิทธิภาพระบุว่าคุณสูงกว่าหรือต่ำกว่าระดับประสิทธิภาพโดยเฉลี่ยและความเหนื่อยล้าที่สะสมมีผลต่อประสิทธิภาพของคุณระหว่างการออกกำลังกายอย่างไร &lt;br/&gt;&lt;font color=#00FF00&gt;ใช้อย่างไร？&lt;/font&gt;&lt;br/&gt;นาฬิกาจะประเมินสภาพประสิทธิภาพการทำงานของคุณโดยอัตโนมัติหลังจากใช้งาน ~ 6 นาที ค่าที่สูงกว่าค่าเฉลี่ยแสดงให้เห็นว่าคุณสามารถออกกำลังกายได้หนักกว่าปกติ ค่าที่ต่ำกว่าแสดงว่าคุณควรออกกำลังกายให้ง่ายขึ้น &lt;br/&gt;หลังจากออกกำลังกายเสร็จคุณสามารถวิเคราะห์ประสิทธิภาพได้โดยดูผลลัพธ์ที่กราฟแต่ละกิโลเมตร / ไมล์ &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;สำหรับรายละเอียดเพิ่มเติมโปรดดูวิธีใช้ในแอพ Amazfit Watch&lt;/small&gt;"</string>
     <string name="first_beat_help_recovery_time">หลังจากออกกำลังกายเสร็จคุณจะได้รับเวลาในไม่กี่นาทีในการฟื้นฟูอย่างเต็มรูปแบบ ระหว่างเวลาการคืนสภาพการออกกำลังกายจะลดลงเป็นเส้นตรงเป็นศูนย์หากไม่มีข้อมูลการออกกำลังกายใหม่ให้ใช้งาน ผู้ใช้ควรมีการออกกำลังกายที่มีความเข้มข้นต่ำเพื่อช่วยในการกู้คืน &lt;br/&gt;&lt;small&gt;สำหรับรายละเอียดเพิ่มเติมโปรดดูความช่วยเหลือในแอป Amazfit Watch &lt;/small&gt;</string>
-    <string name="vo2max_unit">มก./กก./นาที</string>
-    <string name="run_vo2max_unit">มล./กก./นาที</string>
+    <string name="vo2max_unit">mg/kg/min</string>
+    <string name="run_vo2max_unit">ml / kg / min</string>
     <string name="vo2_max_has_no_data">ไม่มีข้อมูล</string>
     <string name="sport_setting_gpx_route_selected">แทร็กที่เลือก</string>
     <string name="sport_setting_gpx_route_selectd_remind">มีการนำทางกลางแจ้งโดยใช้เส้นทาง หากไม่ต้องการ เลือกปิด</string>
@@ -524,7 +524,7 @@
     <string name="gpx_alreay_offset">เบี่ยงเบน</string>
     <string name="gpx_no_find_route">ไม่มีร่องรอย</string>
     <string name="gpx_no_route_guide">"โปรดเชื่อมต่อนาฬิกาของคุณกับคอมพิวเตอร์และคัดลอกไฟล์ GPX ไปยังโฟลเดอร์ 'gpxdata' แล้วลองอีกครั้ง"</string>
-    <string name="bpm_to">ครั้ง/นาที ถึง</string>
+    <string name="bpm_to">bpm ถึง</string>
     <string name="indoor_run_progressing">การวิ่ง</string>
     <string name="run_train_title">ฝึกอบรมการวิ่ง</string>
     <string name="run_train_recommend">แนะนำ</string>
@@ -606,7 +606,7 @@
     <string name="real_time_guide_desc_11"></string>
     <string name="real_time_guide_desc_14">คุณออกกำลังกายได้ดีมาก!</string>
     <string name="real_time_guide_desc_22">%1$s นาทีเพื่อไปให้ถึงเป้าหมายของคุณ!</string>
-    <string name="real_time_guide_desc_25">ช่วงอัตราการเต้นของหัวใจเป้าหมายคือ %1$s-%2$s ครั้ง/นาที</string>
+    <string name="real_time_guide_desc_25">ช่วงอัตราการเต้นของหัวใจเป้าหมายคือ %1$s-%2$sbpm</string>
     <string name="real_time_guide_desc_26"></string>
     <string name="real_time_guide_desc_27">คุณบรรลุเป้าหมายของคุณแล้ว!</string>
     <string name="real_time_guide_desc_28">คุณบรรลุเป้าหมาย %1$s ของเป้าหมายทั้งหมด</string>
@@ -614,7 +614,7 @@
     <string name="real_time_guide_desc_31">แบบฝึกหัดนี้เข้มข้นเพียงพอที่จะพัฒนาสมรรถภาพของคุณ</string>
     <string name="real_time_guide_desc_32">ความสามารถในการพัฒนาหัวใจและปอด!</string>
     <string name="real_time_guide_desc_33">การออกกำลังกายนี้อาจยากเกินไปสำหรับร่างกายของคุณ</string>
-    <string name="real_time_guide_desc_34">ช่วงอัตราการเต้นของหัวใจเป้าหมายคือ %1$s-%2$s ครั้ง/นาที</string>
+    <string name="real_time_guide_desc_34">ช่วงอัตราการเต้นของหัวใจเป้าหมายคือ %1$s-%2$s bpm!</string>
     <string name="real_time_guide_desc_35"></string>
     <string name="aleary_finish_group">เสร็จสิ้นกลุ่ม %1$s</string>
     <string name="this_group_count">จำนวน</string>
@@ -640,7 +640,7 @@
     <string name="alert_skip_you_finish">คุณทำเสร็จแล้ว</string>
     <string name="finish_index_count">หมายเลข%1$s</string>
     <string name="sport_widget_title_rope_skip">เชือกกระโดด</string>
-    <string name="rope_frequency_unit">กระโดด/นาที</string>
+    <string name="rope_frequency_unit">กระโดด/min</string>
     <string name="rope_total_count_remind_title">เสร็จสิ้นการนับ</string>
     <string name="rope_remind_test_time">2500</string>
     <string name="setting_rope_skip_total_count">จำนวนรวม (กระโดด)</string>
@@ -650,7 +650,7 @@
     <string name="rope_skip_aleary_group"><Data>Cกลุ่มที่เสร็จสมบูรณ์: &lt;font color=#00ff00&gt;%1$s&lt;/font&gt;</Data></string>
     <string name="sport_remind_total_times">กระโดดรวม: %1$s</string>
     <string name="sport_main_graph_title_rope_skip">ล่าสุด(วิ)</string>
-    <string name="sport_rope_skip_requency">ความถี่ (กระโดด/นาที)</string>
+    <string name="sport_rope_skip_requency">ความถี่ (กระโดด/min)</string>
     <string name="swim_total_trips_times">รอบทั้งหมด: %1$s</string>
     <string name="route_glevation_gain">ระดับความสูง</string>
     <string name="route_scale_enlarge">ขยาย</string>
@@ -688,7 +688,7 @@
     <string name="sport_data_info_te_unit">TE</string>
     <string name="crossing_vertical_speed">ความเร็วในแนวตั้ง</string>
     <string name="skiing_downhill_max_speed">ความเร็วสูงสุด</string>
-    <string name="skiing_downhill_num">วิ่ง (วินาที)</string>
+    <string name="skiing_downhill_num">วิ่ง (s)</string>
     <string name="skiing_downhill_single_descend">ระยะทาง</string>
     <string name="skiing_rt_downhill_desecnd">ระยะทางรวม</string>
     <string name="skiing_downhill_elev_loss">การเคลื่อนที่ลง</string>
@@ -732,10 +732,10 @@
     <string name="running_avg_step_freq_desc">ขั้นเฉลี่ย</string>
     <string name="running_pace_unit">/mi</string>
     <string name="running_calorie_unit">กิโลแคลอรี</string>
-    <string name="running_step_freq_unit">ก้าว/นาที</string>
+    <string name="running_step_freq_unit">spm</string>
     <string name="running_speed_unit">mi/h</string>
     <string name="running_distance_unit">mi</string>
-    <string name="running_heartrate_unit">ครั้ง/นาที</string>
+    <string name="running_heartrate_unit">bpm</string>
     <string name="running_stop_dialog_msg_reach_minimum_distance">หยุดกิจกรรมนี้หรือไม่?</string>
     <string name="running_stop_dialog_msg_not_reach_minimum_distance">ระยะทางสั้นเกินไปที่จะบันทึก คุณแน่ใจหรือว่าจะหยุด?</string>
     <string name="running_stop_dialog_positive_text">หยุด</string>
@@ -754,7 +754,7 @@
     <string name="running_realtime_trail_desc">เส้นทาง GPS</string>
     <string name="title_activity_sport_history">ประวัติกิจกรรมกีฬา</string>
     <string name="history_heart_rate_desc">อัตราการเต้นของหัวใจ:</string>
-    <string name="history_heart_rate_unit">ครั้ง/นาที</string>
+    <string name="history_heart_rate_unit">bpm</string>
     <string name="history_info_cost_time_desc">เวลาที่ผ่านไป</string>
     <string name="history_detail_running_title">วิ่ง</string>
     <string name="history_detail_walking_title">การเดิน</string>
@@ -764,7 +764,7 @@
     <string name="default_pace_value">"00'00\""</string>
     <string name="history_detail_pace_desc">อัตราการวิ่ง(min/mi)</string>
     <string name="history_detail_calorie_desc">แคลอรี่ (กิโลแคลอรี)</string>
-    <string name="history_detail_step_freq">รอบขา(ก้าว/นาที)</string>
+    <string name="history_detail_step_freq">รอบขา(steps/min)</string>
     <string name="history_detail_speed">ความเร็วต่อชม. (mi/h)</string>
     <string name="title_activity_sport_history_detail">ประวัติกิจกรรมกีฬารายวัน</string>
     <string name="waiting_gps_gps_unavailable">กำลังรอสัญญาณ GPS</string>
@@ -807,7 +807,7 @@
     <string name="remind_target_time_pace_unit">/mi</string>
     <string name="remind_heart_rate_too_high">อัตราการเต้นของหัวใจสูงเกินไป</string>
     <string name="remind_heart_rate_value_before">ปัจจุบัน</string>
-    <string name="remind_heart_rate_value_after">ครั้ง/นาที</string>
+    <string name="remind_heart_rate_value_after">bpm</string>
     <string name="remind_heart_rate_suggestion">โปรดชะลอความเร็วลงเพื่อปรับ</string>
     <string name="remind_pace_too_low">อัตราการวิ่งช้าเกินไป</string>
     <string name="remind_pace_too_fast">อัตราการวิ่งเร็วเกินไป</string>
@@ -908,13 +908,13 @@
     <string name="setting_sport_heart_region_text_custom">กำหนด​เอง</string>
     <string name="remind_heart_rate_region_over">อัตราการเต้นของหัวใจสูงเกินไป</string>
     <string name="remind_heart_rate_region_less">อัตราการเต้นของหัวใจสูงเกินไป</string>
-    <string name="remind_heart_rate_current_heart_rate">ปัจจุบัน　%1$d ครั้ง/นาที</string>
+    <string name="remind_heart_rate_current_heart_rate">ปัจจุบัน　%1$d bpm</string>
     <string name="sport_time_seconds">วินาที</string>
     <string name="complete_training_project">โปรแกรมการฝึกอบรมเสร็จสมบูรณ์</string>
     <string name="reminder_speed_unit">/h</string>
     <string name="remind_target_distance_training_title_format">วิ่ง%1sKm</string>
-    <string name="remind_target_time_training_title_format">ปั่น%1$dนาที</string>
-    <string name="remind_target_time_training_title_swim_format">ว่ายน้ำ%1$dนาที</string>
+    <string name="remind_target_time_training_title_format">ปั่น%1$dMin</string>
+    <string name="remind_target_time_training_title_swim_format">ว่ายน้ำ%1$dMin</string>
     <string name="complete_training_target_tips">"บันทึกการวิ่งวันนี้ไว้ในโปรแกรมการฝึกอบรม?"</string>
     <string name="complete_training_outdoor_riding_target_tips">"บันทึกการขี่จักรยานนี้เป็นโปรแกรมการฝึกอบรม?"</string>
     <string name="complete_training_swim_target_tips">"บันทึกการว่ายน้ำวันนี้ไว้ในโปรแกรมการฝึกอบรม?"</string>
@@ -929,7 +929,7 @@
     <string name="km_metric_remind_target_km_walking_title_format">เสร็จแล้ว %1$d km</string>
     <string name="km_metric_remind_target_distance_training_title_format">เสร็จแล้ว %1s km</string>
     <string name="km_metric_remind_target_riding_km_title_format">เสร็จแล้ว %1$d km</string>
-    <string name="meter_metric_crossing_vertical_velocity_unit">เมตร/นาที</string>
+    <string name="meter_metric_crossing_vertical_velocity_unit">meter/min</string>
     <string name="meter_metric_crossing_history_detail_altituede_graph_desc">ระดับความสูง(เมตร)</string>
     <string name="km_metric_outdoor_speed_graph_title">ความเร็ว (km/h)</string>
     <string name="km_metric_settings_item_value_target_distance">%1$skm</string>
@@ -953,7 +953,7 @@
     <string name="vo2_max_level_very_good">ดีมาก</string>
     <string name="vo2_max_level_middle">เฉลี่ย</string>
     <string name="vo2_max_text_nunber">50</string>
-    <string name="vo2_max_sport_unit">มก./กก./นาที</string>
+    <string name="vo2_max_sport_unit">ml/kg/min</string>
     <string name="export_gpx">ส่งออกไฟล์ GPX</string>
     <string name="btn_cancel">ยกเลิก</string>
     <string name="btn_confirm">ยืนยัน</string>
