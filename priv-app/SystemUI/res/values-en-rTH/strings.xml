@@ -417,8 +417,8 @@
     <string name="widget_default_class_name"></string>
     <string name="abbrev_wday_month_day_no_year">EEEEMMMMd</string>
     <string name="abbrev_wday_month_day_no_year_alarm">EEEMMMd</string>
-    <string name="clock_12hr_format">ชม.</string>
-    <string name="clock_24hr_format">ชม.</string>
+    <string name="clock_12hr_format">hm</string>
+    <string name="clock_24hr_format">Hm</string>
     <string name="app_name">Keyguard</string>
     <string name="keyguard_password_enter_pin_code">พิมพ์รหัส PIN</string>
     <string name="keyguard_password_enter_puk_code">พิมพ์ซิม PUK และรหัส PIN ใหม่</string>
@@ -505,7 +505,7 @@
     <string name="kg_wrong_pattern">รูปแบบไม่ถูกต้อง</string>
     <string name="kg_wrong_password">รหัสผ่านไม่ถูกต้อง</string>
     <string name="kg_wrong_pin">รหัส PIN ไม่ถูกต้อง</string>
-    <string name="kg_too_many_failed_attempts_countdown">ลองใหม่อีกครั้งใน %d วินาที</string>
+    <string name="kg_too_many_failed_attempts_countdown">ลองใหม่อีกครั้งใน %d seconds.</string>
     <string name="kg_pattern_instructions">วาดรูปแบบของคุณ</string>
     <string name="kg_sim_pin_instructions">ป้อนรหัส PIN ของซิม</string>
     <string name="kg_sim_pin_instructions_multi">ป้อนรหัส PIN ของซิมสำหรับ \"%1$s \"</string>
@@ -531,13 +531,13 @@
     <string name="kg_login_checking_password">ตรวจสอบบัญชี…</string>
     <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"คุณพิมพ์ PIN %d ครั้งไม่ถูกต้อง
 
-ลองอีกครั้งใน %d วินาที "</string>
+ลองอีกครั้งใน %d seconds. "</string>
     <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">คุณพิมพ์รหัสผ่าน %d ครั้งไม่ถูกต้อง
 
-ลองอีกครั้งใน %d วินาที \"</string>
+ลองอีกครั้งใน %d seconds. \"</string>
     <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"คุณวาดรูปแบบการปลดล็อคผิดพลาด %d ครั้ง
 
-ลองอีกครั้งใน %d วินาที "</string>
+ลองอีกครั้งใน %d seconds. "</string>
     <string name="kg_failed_attempts_almost_at_wipe" formatted="false">คุณพยายามปลดล็อกแท็บเล็ต %d ครั้งไม่ถูกต้อง หลังจาก %d พยายามไม่สำเร็จมากขึ้นแท็บเล็ตนี้จะถูกรีเซ็ตซึ่งจะลบข้อมูลทั้งหมด</string>
     <string name="kg_failed_attempts_now_wiping">คุณพยายามปลดล็อกแท็บเล็ต %d ครั้งไม่ถูกต้อง แท็บเล็ตนี้จะถูกรีเซ็ตซึ่งจะลบข้อมูลทั้งหมด</string>
     <string name="kg_failed_attempts_almost_at_erase_user" formatted="false">คุณพยายามปลดล็อกแท็บเล็ต %d ครั้งไม่ถูกต้อง หลังจาก %d พยายามไม่สำเร็จอีกครั้งผู้ใช้รายนี้จะถูกลบซึ่งจะลบข้อมูลผู้ใช้ทั้งหมด</string>
@@ -546,7 +546,7 @@
     <string name="kg_failed_attempts_now_erasing_profile">คุณพยายามปลดล็อกแท็บเล็ต %d ครั้งไม่ถูกต้อง โปรไฟล์งานจะถูกลบซึ่งจะลบข้อมูลโปรไฟล์ทั้งหมด</string>
     <string name="kg_failed_attempts_almost_at_login" formatted="false">"คุณวาดรูปแบบการปลดล็อกผิดพลาด %d ครั้งหลังจากที่ %d พยายามไม่สำเร็จคุณจะถูกขอให้ปลดล็อคแท็บเล็ตโดยใช้บัญชีอีเมล
 
-  ลองอีกครั้งใน %d วินาที "</string>
+  ลองอีกครั้งใน %d seconds. "</string>
     <string name="kg_reordering_delete_drop_target_text">เอาออก</string>
     <string name="kg_password_wrong_pin_code_pukked">รหัส PIN ของซิมไม่ถูกต้องคุณต้องติดต่อผู้ให้บริการของคุณเพื่อปลดล็อคอุปกรณ์ของคุณ</string>
     <string name="kg_password_wrong_puk_code_dead">SIM ใช้ไม่ได้ ติดต่อผู้ให้บริการของคุณ</string>

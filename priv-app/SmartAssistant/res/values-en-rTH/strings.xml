@@ -12,8 +12,8 @@
     <string name="sport_music_settings">สปอร์ตมิวสิค</string>
     <string name="widget_currentstep_title">ภาพรวมรายวัน</string>
     <string name="widget_currentstep_activities">กิจกรรม</string>
-    <string name="widget_currentstep_sleep_hour">ชม.</string>
-    <string name="widget_currentstep_sleep_min">น.</string>
+    <string name="widget_currentstep_sleep_hour">h</string>
+    <string name="widget_currentstep_sleep_min">min</string>
     <string name="widget_currentstep_sleep_title">การนอนหลับ</string>
     <string name="widget_currentstep_sleep_no">ไม่มีข้อมูลการนอนหลับ</string>
     <string name="widget_currentstep_activity_no">ไม่มีกิจกรรมวันนี้?</string>
@@ -27,9 +27,9 @@
     <string name="calendar_title">เรื่อง</string>
     <string name="calendar_location">สถานที่</string>
     <string name="calendar_desc">คำพูด</string>
-    <string name="no_data">ไม่มีธุรกรรมที่รอดำเนินการ</string>
-    <string name="format_ymd">ปปปป-ดด-วว</string>
-    <string name="format_md">ดด/วว</string>
+    <string name="no_data">ไม่มีนัดหมาย</string>
+    <string name="format_ymd">dd-MM-yyyy</string>
+    <string name="format_md">dd/MM</string>
     <string name="separator_calendar">-</string>
     <string name="all_day_event">เหตุการณ์ตลอดทั้งวัน</string>
     <string name="none">ไม่</string>

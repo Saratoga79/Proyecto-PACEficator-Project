@@ -13,8 +13,8 @@
     <string name="sport_music_settings">สปอร์ตมิวสิค</string>
     <string name="widget_currentstep_title">ภาพรวมรายวัน</string>
     <string name="widget_currentstep_activities">กิจกรรม</string>
-    <string name="widget_currentstep_sleep_hour">ชม.</string>
-    <string name="widget_currentstep_sleep_min">น.</string>
+    <string name="widget_currentstep_sleep_hour">h</string>
+    <string name="widget_currentstep_sleep_min">min</string>
     <string name="widget_currentstep_sleep_title">การนอนหลับ</string>
     <string name="widget_currentstep_sleep_no">ไม่มีข้อมูลการนอนหลับ</string>
     <string name="widget_currentstep_activity_no">ไม่มีกิจกรรมวันนี้?</string>
@@ -60,7 +60,7 @@
     <string name="once_time">เพียงครั้งเดียว</string>
     <string name="work_days">วันออกกำลังกาย</string>
     <string name="hour_unit">ชั่วโมง</string>
-    <string name="minute_unit">นาที</string>
+    <string name="minute_unit">Minute</string>
     <string name="every_day">" ทุกวัน "</string>
     <string name="day_concat">/</string>
     <string name="none_settings">ไม่ได้ตั้ง</string>
@@ -73,11 +73,11 @@
     <string name="count_down_btn_pause">หยุดชั่วคราว</string>
     <string name="count_down_btn_continue">ทำต่อ</string>
     <string name="count_down_btn_stop">หยุด</string>
-    <string name="count_down_picker_min">นาที</string>
+    <string name="count_down_picker_min">Minute</string>
     <string name="count_down_picker_hour">ชั่วโมง</string>
     <string name="count_down_wrong_time_tips">โปรดตั้งเวลาที่ถูกต้อง</string>
     <string name="count_down_del_time">ลบช่วงเวลานี้หรือไม่？</string>
-    <string name="title_unit">หน่วย (ชั่วโมง/นาที)</string>
+    <string name="title_unit">หน่วย (hour/minute)</string>
     <string name="mibeacon_notify_content">%1$s การดำเนินการถูกดำเนินการแล้ว</string>
     <string name="count_down_tip_header">จะ</string>
     <string name="count_down_tip_end">หลังการดำเนินการ</string>

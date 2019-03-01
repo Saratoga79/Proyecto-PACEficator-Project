@@ -60,7 +60,7 @@
     <string name="unknown">ไม่รู้จัก</string>
     <string name="fetch_failed_title">"ไม่สามารถรับข้อมูลสภาพอากาศ"</string>
     <string name="fetch_failed_msg">ตรวจสอบว่านาฬิกาของคุณเชื่อมต่อกับแอพ Amazfit Watch และมีการเลือกตำแหน่งที่ถูกต้อง</string>
-    <string name="date_time_format">ดด/วว</string>
+    <string name="date_time_format">dd/MM</string>
     <string name="forecast_today">วันนี้</string>
     <string name="forecast_tomorrow">วันพรุ่งนี้</string>
     <string name="fetch_failed_help">ซิงค์ข้อมูลสภาพอากาศก่อน</string>
@@ -98,8 +98,8 @@
     <string name="sport_music_settings">สปอร์ตมิวสิค</string>
     <string name="widget_currentstep_title">ภาพรวมรายวัน</string>
     <string name="widget_currentstep_activities">กิจกรรม</string>
-    <string name="widget_currentstep_sleep_hour">ชม.</string>
-    <string name="widget_currentstep_sleep_min">น.</string>
+    <string name="widget_currentstep_sleep_hour">h</string>
+    <string name="widget_currentstep_sleep_min">min</string>
     <string name="widget_currentstep_sleep_title">การนอนหลับ</string>
     <string name="widget_currentstep_sleep_no">ไม่มีข้อมูลการนอนหลับ</string>
     <string name="widget_currentstep_activity_no">ไม่มีกิจกรรมวันนี้?</string>

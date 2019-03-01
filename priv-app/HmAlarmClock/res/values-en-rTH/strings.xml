@@ -14,8 +14,8 @@
     <string name="sport_music_settings">สปอร์ตมิวสิค</string>
     <string name="widget_currentstep_title">ภาพรวมรายวัน</string>
     <string name="widget_currentstep_activities">กิจกรรม</string>
-    <string name="widget_currentstep_sleep_hour">ชม.</string>
-    <string name="widget_currentstep_sleep_min">น.</string>
+    <string name="widget_currentstep_sleep_hour">h</string>
+    <string name="widget_currentstep_sleep_min">min</string>
     <string name="widget_currentstep_sleep_title">การนอนหลับ</string>
     <string name="widget_currentstep_sleep_no">ไม่มีข้อมูลการนอนหลับ</string>
     <string name="widget_currentstep_activity_no">ไม่มีกิจกรรมวันนี้?</string>
@@ -27,9 +27,9 @@
     <string name="day">1 วัน</string>
     <string name="days">%s วัน</string>
     <string name="hour">1 Hour</string>
-    <string name="hours">%s ชั่วโมง</string>
-    <string name="minute">1 นาที</string>
-    <string name="minutes">%s นาที</string>
+    <string name="hours">%s hours</string>
+    <string name="minute">1 minute</string>
+    <string name="minutes">%s minutes</string>
     <string name="new_alarm">ตั้งปลุกใหม่</string>
     <string name="please_edit_alarm">แก้ไข</string>
     <string name="please_edit_alarm_time">เวลา</string>
@@ -45,7 +45,7 @@
     <string name="once_time">เพียงครั้งเดียว</string>
     <string name="work_days">วันทำงาน</string>
     <string name="hour_unit">ชั่วโมง</string>
-    <string name="minute_unit">นาที</string>
+    <string name="minute_unit">Minute</string>
     <string name="snooze_button">ปิดชั่วคราว</string>
     <string name="dimiss_button">ปิด</string>
     <string name="stop_watch_left_button_positive">รอบ</string>
@@ -68,9 +68,9 @@
     <string name="count_down_btn_pause">หยุดชั่วคราว</string>
     <string name="count_down_btn_continue">ทำต่อ</string>
     <string name="count_down_btn_stop">หยุด</string>
-    <string name="count_down_picker_min">น.</string>
-    <string name="count_down_picker_hour">ชม.</string>
+    <string name="count_down_picker_min">m</string>
+    <string name="count_down_picker_hour">h</string>
     <string name="count_down_wrong_time_tips">โปรดตั้งเวลาที่ถูกต้อง</string>
     <string name="count_down_del_time">ลบตัวจับเวลานี้？</string>
-    <string name="title_unit">หน่วย (ชั่วโมง/นาที)</string>
+    <string name="title_unit">หน่วย (hour/minute)</string>
 </resources>
