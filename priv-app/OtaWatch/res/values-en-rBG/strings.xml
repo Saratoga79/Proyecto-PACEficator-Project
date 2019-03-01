@@ -4,14 +4,14 @@
     <string name="app_name">otawatch</string>
     <string name="action_settings">Настройки</string>
     <string name="watch_ota">Watch updates</string>
-    <string name="wifi_disconnect">Connect to the Amazfit Watch app to check for updates</string>
+    <string name="wifi_disconnect">Свържете се с приложението Amazfit Watch, за да проверите за актуализации</string>
     <string name="connect_phone_wifi">"Проверете мрежовата връзка на телефона си, за да проверите за актуализации"</string>
     <string name="connect_phone_input_wifi">Свържете се с приложението Amazfit Watch, за да въведете Wi-Fi парола за часовника</string>
     <string name="wifi_add_item">Свържете се с приложението Amazfit Watch, за да добавите нова Wi-Fi точка за достъп</string>
     <string name="add_wifi">Добави Wi-Fi</string>
     <string name="please_update_rom">"An update is available.
 Update now."</string>
-    <string name="checking_rom">Checking for updates…</string>
+    <string name="checking_rom">Проверявам за актуализации…</string>
     <string name="checking_rom_failed">"Network connection timed out.
 Try again."</string>
     <string name="current_is_new">Current version is up to date.</string>
@@ -46,23 +46,23 @@ Update now."</string>
     <string name="btn_upgrade_now">Обновяване сега</string>
     <string name="wifi_no_password">Not encrypted</string>
     <string name="wifi_has_password">Шифровано</string>
-    <string name="wifi_password_error">Password is incorrect</string>
+    <string name="wifi_password_error">Грешна парола</string>
     <string name="wifi_connecting">Connecting…</string>
     <string name="wifi_auth">Verifying password…</string>
-    <string name="wifi_get_ip">Obtaining IP address…</string>
+    <string name="wifi_get_ip">Получаване на IP адрес…</string>
     <string name="wifi_link_fail">"Couldn't connect"</string>
     <string name="wifi_connected">Свързан</string>
     <string name="wifi_title">Connect to Wi-Fi</string>
     <string name="wifi_wait_password">Waiting for password…</string>
     <string name="toast_please_update_first">Update first</string>
     <string name="wifi_turnon_going">Turning on Wi-Fi…</string>
-    <string name="system_update_title">Updated successfully</string>
+    <string name="system_update_title">Актуализирана успешно</string>
     <string name="system_update_content">Upgraded to version %1$s successfully</string>
     <string name="password_error">"Wi-Fi password is incorrect.
 Enter again."</string>
-    <string name="wifi_connect_fail">"Can\'t connect to this
-Wi-Fi network.
-Try another one."</string>
+    <string name="wifi_connect_fail">"Не мога да се свържа с тази
+Wi-Fi мрежа.
+Опитайте с друга."</string>
     <string name="searching">Searching…</string>
     <string name="hasNewUpdateTitle">An update is available</string>
     <string name="hasNewUpdateInstallContent">Version %1$s is ready to install. Install now?</string>
@@ -101,6 +101,6 @@ Try another one."</string>
     <string name="widget_currentstep_sleep_min">м</string>
     <string name="widget_currentstep_sleep_title">Slept last night</string>
     <string name="widget_currentstep_sleep_no">No sleep data</string>
-    <string name="widget_currentstep_activity_no">No activity today?</string>
+    <string name="widget_currentstep_activity_no">Без активност днес?</string>
     <string name="locale_title">Select Language</string>
 </resources>
