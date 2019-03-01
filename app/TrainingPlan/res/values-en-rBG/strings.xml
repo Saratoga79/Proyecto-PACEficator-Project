@@ -9,7 +9,7 @@
     <string name="start_new_train">Start a new workout</string>
     <string name="train_center">Training Center</string>
     <string name="train_detail">Details</string>
-    <string name="day_train_record_stag">%1$s | Week %2$d | Day %3$d</string>
+    <string name="day_train_record_stag">%1$s | Седмица %2$d | Ден %3$d</string>
     <string name="day_train_record_stag_simple">Week %1$d | Day %2$d</string>
     <string name="day_train_record_train_stage">Ден %1$s</string>
     <string name="remind_train_first_text">"Образователните тренировки могат да подобрят работата ви. Да започнем!"</string>
@@ -22,7 +22,7 @@
     <string name="day_train_record_status_finish">Завършено</string>
     <string name="day_train_record_statis_un_finish">Not completed</string>
     <string name="dialog_day_train_plan_is_complete">"Mark today's workout as completed?"</string>
-    <string name="dialog_delete_history_record">Delete this record permanently?</string>
+    <string name="dialog_delete_history_record">Искате да изтриете този запис за постоянно?</string>
     <string name="dialog_train_plan_is_complete">Прекратяването на тренировката спира и проследяването на напредъка. Приключвате ли?</string>
     <string name="last_day_rest_remind">Тренировката е на път да приключи. | Вземете почивен ден, за да се възстановите напълно.</string>
     <string name="cancel">Не</string>
@@ -141,8 +141,8 @@
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">ОК</string>
     <string name="picker_default_nagetive_text">Изкл</string>
-    <string name="no_heartrate_data_hint">"Couldn't find heart rate data"</string>
-    <string name="no_altitude_hint">"Couldn't find altitude data"</string>
+    <string name="no_heartrate_data_hint">"Не можах да намеря данни за пулс"</string>
+    <string name="no_altitude_hint">"Не можах да намеря данни за надморската височина"</string>
     <string name="title_settings">Настройки</string>
     <string name="sport_music_settings">Music</string>
     <string name="widget_currentstep_title">Данни</string>
