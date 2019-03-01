@@ -60,7 +60,7 @@ Use only the supplied charger."</string>
     <string name="screenshot_saved_title">Screenshot captured.</string>
     <string name="screenshot_saved_text">Touch to view your screenshot.</string>
     <string name="screenshot_failed_title">"Couldn't capture screenshot."</string>
-    <string name="screenshot_failed_text">"Can't take screenshot due to limited storage space, or it isn't allowed by the app or your organization."</string>
+    <string name="screenshot_failed_text">"Не може да се направи екранна снимка поради недостатъчно място за съхранение или не е позволено от приложението или организацията ви."</string>
     <string name="usb_preference_title">USB file transfer options</string>
     <string name="use_mtp_button_title">Mount as a media player (MTP)</string>
     <string name="use_ptp_button_title">Mount as a camera (PTP)</string>
@@ -401,7 +401,7 @@ be monitored"</string>
     <string name="hidden_notifications_setup">Настройване</string>
     <string name="zen_mode_and_condition">%1$s. %2$s</string>
     <string name="screen_pinning_title">Screen is pinned</string>
-    <string name="screen_pinning_description">This keeps it in view until you unpin. Touch and hold Back and Overview at the same time to unpin.</string>
+    <string name="screen_pinning_description">Това го запазва видимо, докато не го откачите. Докоснете и задръжте Back и Overview едновременно, за да го откачите.</string>
     <string name="screen_pinning_description_accessible">This keeps it in view until you unpin. Touch and hold Overview to unpin.</string>
     <string name="screen_pinning_positive">Готово</string>
     <string name="screen_pinning_negative">No thanks</string>
@@ -436,8 +436,8 @@ be monitored"</string>
     <string name="keyguard_missing_sim_instructions">Insert a SIM card.</string>
     <string name="keyguard_missing_sim_instructions_long">The SIM card is missing or not readable. Insert a SIM card.</string>
     <string name="keyguard_permanent_disabled_sim_message_short">Unusable SIM card.</string>
-    <string name="keyguard_permanent_disabled_sim_instructions">"Your SIM card has been permanently disabled.
- Contact your wireless service provider for another SIM card."</string>
+    <string name="keyguard_permanent_disabled_sim_instructions">"SIM картата ви е деактивирана за постоянно.
+ Свържете се с оператора на безжичната си връзка, за да получите друга."</string>
     <string name="keyguard_sim_locked_message">SIM card is locked.</string>
     <string name="keyguard_sim_puk_locked_message">SIM card is PUK-locked.</string>
     <string name="keyguard_sim_unlock_progress_dialog_message">Unlocking SIM card…</string>
