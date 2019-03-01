@@ -146,7 +146,7 @@
     <string name="accessibility_recents_item_will_be_dismissed">Dismiss %s.</string>
     <string name="accessibility_recents_item_dismissed">%s dismissed.</string>
     <string name="accessibility_recents_item_launched">Starting %s.</string>
-    <string name="accessibility_notification_dismissed">Notification dismissed.</string>
+    <string name="accessibility_notification_dismissed">Известието е отхвърлено.</string>
     <string name="accessibility_desc_notification_shade">Notification shade.</string>
     <string name="accessibility_desc_quick_settings">Quick settings.</string>
     <string name="accessibility_desc_lock_screen">Lock screen.</string>
@@ -405,7 +405,7 @@ be monitored"</string>
     <string name="screen_pinning_positive">Готово</string>
     <string name="screen_pinning_negative">No thanks</string>
     <string name="quick_settings_reset_confirmation_title">Hide %1$s?</string>
-    <string name="quick_settings_reset_confirmation_message">It will reappear the next time you turn it on in settings.</string>
+    <string name="quick_settings_reset_confirmation_message">Тя ще се появи отново при следващото включване в настройките.</string>
     <string name="quick_settings_reset_confirmation_button">Hide</string>
     <string name="ok">@android:string/ok</string>
     <string name="widget_default_package_name"></string>
@@ -420,7 +420,7 @@ be monitored"</string>
     <string name="keyguard_password_enter_puk_prompt">SIM PUK code</string>
     <string name="keyguard_password_enter_pin_prompt">New SIM PIN code</string>
     <string name="keyguard_password_entry_touch_hint"><font size="17">Touch to type password</font></string>
-    <string name="keyguard_password_enter_password_code">Type password to unlock</string>
+    <string name="keyguard_password_enter_password_code">Въведете парола, за да отключите</string>
     <string name="keyguard_password_enter_pin_password_code">Type PIN to unlock</string>
     <string name="keyguard_password_wrong_pin_code">Incorrect PIN code.</string>
     <string name="keyguard_label_text">To unlock, press Menu then 0.</string>
@@ -438,7 +438,7 @@ be monitored"</string>
     <string name="keyguard_permanent_disabled_sim_instructions">"SIM картата ви е деактивирана за постоянно.
  Свържете се с оператора на безжичната си връзка, за да получите друга."</string>
     <string name="keyguard_sim_locked_message">SIM card is locked.</string>
-    <string name="keyguard_sim_puk_locked_message">SIM card is PUK-locked.</string>
+    <string name="keyguard_sim_puk_locked_message">SIM картата е заключена с PUK.</string>
     <string name="keyguard_sim_unlock_progress_dialog_message">Unlocking SIM card…</string>
     <string name="keyguard_widget_12_hours_format">hmm</string>
     <string name="keyguard_widget_24_hours_format">kkmm</string>
