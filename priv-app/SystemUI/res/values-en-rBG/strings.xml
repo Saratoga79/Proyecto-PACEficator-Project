@@ -402,7 +402,7 @@ be monitored"</string>
     <string name="zen_mode_and_condition">%1$s. %2$s</string>
     <string name="screen_pinning_title">Screen is pinned</string>
     <string name="screen_pinning_description">Това го запазва видимо, докато не го откачите. Докоснете и задръжте Back и Overview едновременно, за да го откачите.</string>
-    <string name="screen_pinning_description_accessible">This keeps it in view until you unpin. Touch and hold Overview to unpin.</string>
+    <string name="screen_pinning_description_accessible">Това го запазва видимо, докато не го откачите. Докоснете и задръжте Преглед, за да го откачите.</string>
     <string name="screen_pinning_positive">Готово</string>
     <string name="screen_pinning_negative">No thanks</string>
     <string name="quick_settings_reset_confirmation_title">Hide %1$s?</string>
@@ -525,9 +525,8 @@ be monitored"</string>
     <string name="kg_login_account_recovery_hint">\"Забравили сте потребителското име или паролата си?
 Посетете \"<b>google.com/accounts/recovery"</b>.</string>
     <string name="kg_login_checking_password">Checking account…</string>
-    <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"You have incorrectly typed your PIN %d times. 
-
-Try again in %d seconds."</string>
+    <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"Неправилно сте въвели вашия PIN %d пъти. 
+Опитайте отново след %d секунди."</string>
     <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Неправилно сте въвели вашата парола %d пъти. 
 Опитайте отново след %d секунди."</string>
     <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Неправилно сте нарисували своя шаблон за отключване %d пъти. 
