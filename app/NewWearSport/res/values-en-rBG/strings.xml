@@ -44,7 +44,7 @@
     <string name="crossing_remind_target_individual_title">Lap %1d</string>
     <string name="crossing_remind_target_individual_cost_time">Време</string>
     <string name="crossing_remind_target_individual_pace">Темпо</string>
-    <string name="agps_time_out">AGPS has expired. GPS searching will be slow. Connect to the Amazfit Watch App to update it.</string>
+    <string name="agps_time_out">AGPS изтече. GPS търсенето ще бъде бавно. Свържете се с приложението Amazfit Watch, за да го актуализирате.</string>
     <string name="safe_hearate_remind_content">Notify when higher than %1d BPM</string>
     <string name="settings_safe_heart_rate_hint">(Heart rate limit)</string>
     <string name="settings_safe_heart_rate_unit">BPM</string>
@@ -81,7 +81,7 @@
     <string name="gps_search_success_title">GPS е готов</string>
     <string name="gps_search_success_content">GPS е наличен, сега можете да започнете тренировка.</string>
     <string name="gps_search_timeout_title">GPS has expired</string>
-    <string name="gps_search_timeout_content">AGPS has expired. GPS searching will be slow. Connect to the Amazfit Watch App to update it.</string>
+    <string name="gps_search_timeout_content">AGPS изтече. GPS търсенето ще бъде бавно. Свържете се с приложението Amazfit Watch, за да го актуализирате.</string>
     <string name="gps_notify_success">GPS е наличен</string>
     <string name="gps_notify_loss">Lost GPS signal</string>
     <string name="gps_search_time_out_content">GPS was turned off due to inactivity.</string>
@@ -459,8 +459,7 @@
     <string name="time_unit_hour">ч</string>
     <string name="train_load_medium">Средно</string>
     <string name="train_load_near_seven_days">Последните 7 дни</string>
-    <string name="train_load_suggess_status_no_record">"We\'ll evaluate your training load from
-exercises recorded in the past 7 days"</string>
+    <string name="train_load_suggess_status_no_record">"Ще оценим натовареността ви от тренировки, записани през последните 7 дни"</string>
     <string name="train_load_suggess_status_less">Ниско</string>
     <string name="train_load_suggess_status_good">Оптимален</string>
     <string name="train_load_suggess_status_recovery">Високо</string>
@@ -511,7 +510,7 @@ exercises recorded in the past 7 days"</string>
     <string name="run_vo2max_unit">мл/кг/мин</string>
     <string name="vo2_max_has_no_data">Няма данни</string>
     <string name="sport_setting_gpx_route_selected">Route selected</string>
-    <string name="sport_setting_gpx_route_selectd_remind">"Outdoor features are navigated by using this route. If you don't need, select \"Turn off\"."</string>
+    <string name="sport_setting_gpx_route_selectd_remind">"Функциите на открито се управляват чрез този маршрут. Ако не е необходимо, изберете „Изключване“."</string>
     <string name="confirm">ОК</string>
     <string name="decision_yes">Да</string>
     <string name="decision_no">Не</string>
@@ -547,11 +546,11 @@ exercises recorded in the past 7 days"</string>
     <string name="music_no_local_resource">Няма песни, за възпроизвеждане. Свързване на USB устройство за импортиране.</string>
     <string name="music_open_fm">Turn on the music function to listen to music during workout.</string>
     <string name="music_explain_title">Инструкция</string>
-    <string name="music_explain_content">It is necessary to download songs locally and connect to the Bluetooth headset for listening.</string>
+    <string name="music_explain_content">Необходимо е да се свалят локално песните и да се свържат с Bluetooth слушалките за слушане.</string>
     <string name="music_start_tips">Свързване на Bluetooth слушалки за слушане на музика. Свързване сега?</string>
     <string name="music_not_known">Неизвестно</string>
     <string name="music_update_content">Song update</string>
-    <string name="music_update_tips_content">Douban FM updates songs regularly. Updating songs will replace the music library. Update now?</string>
+    <string name="music_update_tips_content">Douban FM обновява песните редовно. Актуализирането на песните ще замени музикалната библиотека. Актуализирайте сега?</string>
     <string name="music_pause">На пауза</string>
     <string name="music_fm_title">Douban FM</string>
     <string name="music_fm_notification_content">The Sports FM has some new playlists, go and download it!</string>
