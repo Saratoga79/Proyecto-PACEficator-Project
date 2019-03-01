@@ -12,8 +12,8 @@
     <string name="sport_music_settings">สปอร์ตมิวสิค</string>
     <string name="widget_currentstep_title">ภาพรวมรายวัน</string>
     <string name="widget_currentstep_activities">กิจกรรม</string>
-    <string name="widget_currentstep_sleep_hour">ชม.</string>
-    <string name="widget_currentstep_sleep_min">น.</string>
+    <string name="widget_currentstep_sleep_hour">h</string>
+    <string name="widget_currentstep_sleep_min">min</string>
     <string name="widget_currentstep_sleep_title">การนอนหลับ</string>
     <string name="widget_currentstep_sleep_no">ไม่มีข้อมูลการนอนหลับ</string>
     <string name="widget_currentstep_activity_no">ไม่มีกิจกรรมวันนี้?</string>
@@ -256,10 +256,10 @@
     <string name="weight">น้ำหนัก</string>
     <string name="male">ผู้ชาย</string>
     <string name="female">เพศหญิง</string>
-    <string name="centimeter">ซม.</string>
+    <string name="centimeter">cm</string>
     <string name="birth_year_unit">"ปีเกิด"</string>
     <string name="height_unit">"ความสูง 
-ซม."</string>
+cm"</string>
     <string name="weight_unit">"น้ำหนัก 
 กิโลกรัม"</string>
     <string name="reset_factory_hint">คุณแน่ใจในการคืนค่าจากโรงงาน หรือไม่?</string>
@@ -323,7 +323,7 @@
     <string name="date">วันที่</string>
     <string name="time">เวลา</string>
     <string name="date_ymd">วัน(Y/M/D)</string>
-    <string name="time_hms">เวลา(ชม./น./วิ.)</string>
+    <string name="time_hms">เวลา(H/M/S)</string>
     <string name="time_format">รูปแบบเวลา</string>
     <string name="hour_system">%s-ระบบชั่วโมง</string>
     <string name="am">ก่อนเที่ยงวัน</string>
