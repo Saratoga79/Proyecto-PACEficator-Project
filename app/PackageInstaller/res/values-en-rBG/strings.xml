@@ -21,7 +21,7 @@
     <string name="install_failed_inconsistent_certificates">Вече е инсталиран съществуващ пакет със същото име с конфликтен подпис.</string>
     <string name="install_failed_older_sdk">The package only works on newer versions of Android.</string>
     <string name="install_failed_cpu_abi_incompatible">"This app isn't compatible with your tablet."</string>
-    <string name="install_failed_file_not_found">The package specified was deleted before installation could be completed.</string>
+    <string name="install_failed_file_not_found">Посоченият пакет бе изтрит преди инсталацията да бъде завършена.</string>
     <string name="install_failed_verify_failed">The package did not pass verification and cannot be installed.</string>
     <string name="install_failed_verify_timeout">Опита за потвърждаване на този пакет се забави. Опитайте се да инсталирате отново по-късно.</string>
     <string name="install_failed_msg">"%1$s couldn't be installed on your tablet."</string>
@@ -58,7 +58,7 @@ All your previous user data will be saved."</string>
     <string name="uninstalling">Uninstalling…</string>
     <string name="uninstall_done">Uninstall finished.</string>
     <string name="uninstall_failed">Uninstall unsuccessful.</string>
-    <string name="uninstall_failed_device_policy_manager">"Can't uninstall because this package is an active device administrator."</string>
+    <string name="uninstall_failed_device_policy_manager">"Не може да се деинсталира, защото този пакет е активен администратор на устройство."</string>
     <string name="uninstall_blocked_profile_owner">"This app is needed for your %1$s profile and can't be uninstalled."</string>
     <string name="uninstall_blocked_device_owner">"Това приложение се изисква от администратора на устройството ви и не може да бъде деинсталирано."</string>
     <string name="manage_device_administrators">Manage device administrators</string>
