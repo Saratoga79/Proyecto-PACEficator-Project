@@ -43,7 +43,7 @@ Use only the supplied charger."</string>
     <string name="usb_accessory_permission_prompt">Allow the app %1$s to access the USB accessory?</string>
     <string name="usb_device_confirm_prompt">Open %1$s when this USB device is connected?</string>
     <string name="usb_accessory_confirm_prompt">Open %1$s when this USB accessory is connected?</string>
-    <string name="usb_accessory_uri_prompt">No installed apps work with this USB accessory. Learn more about this accessory at %1$s</string>
+    <string name="usb_accessory_uri_prompt">Няма инсталирани приложения, които да работят с този USB аксесоар. Научете повече за този аксесоар на %1$s</string>
     <string name="title_usb_accessory">USB accessory</string>
     <string name="label_view">Преглед</string>
     <string name="always_use_device">Use by default for this USB device</string>
@@ -528,12 +528,10 @@ Visit \"<b>google.com/accounts/recovery</b>.</string>
     <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"You have incorrectly typed your PIN %d times. 
 
 Try again in %d seconds."</string>
-    <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"You have incorrectly typed your password %d times. 
-
-Try again in %d seconds."</string>
-    <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"You have incorrectly drawn your unlock pattern %d times. 
-
-Try again in %d seconds."</string>
+    <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Неправилно сте въвели вашата парола %d пъти. 
+Опитайте отново след %d секунди."</string>
+    <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Неправилно сте нарисували своя шаблон за отключване %d пъти. 
+Опитайте отново след %d секунди."</string>
     <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Неправомерно сте опитали да отключите таблета %d пъти. След %d повече неуспешни опити този таблет ще се нулира, което ще изтрие всичките му данни.</string>
     <string name="kg_failed_attempts_now_wiping">Неправомерно сте опитали да отключите таблета %d пъти. Този таблет ще бъде нулиран, което ще изтрие всичките му данни.</string>
     <string name="kg_failed_attempts_almost_at_erase_user" formatted="false">Неправомерно сте опитали да отключите таблета %d пъти. След още %d неуспешни опити този потребител ще бъде премахнат, което ще изтрие всички потребителски данни.</string>
@@ -544,7 +542,7 @@ Try again in %d seconds."</string>
 
  Опитайте отново след %d секунди."</string>
     <string name="kg_reordering_delete_drop_target_text">Премахни</string>
-    <string name="kg_password_wrong_pin_code_pukked">Incorrect SIM PIN code you must now contact your carrier to unlock your device.</string>
+    <string name="kg_password_wrong_pin_code_pukked">Неправилен PIN код на SIM картата трябва да се свържете с оператора, за да отключите устройството си.</string>
     <string name="kg_password_wrong_puk_code_dead">SIM is unusable. Contact your carrier.</string>
     <string name="kg_password_pin_failed">SIM PIN operation failed!</string>
     <string name="kg_password_puk_failed">SIM PUK operation failed!</string>
