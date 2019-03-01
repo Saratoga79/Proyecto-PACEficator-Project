@@ -36,7 +36,7 @@
     <string name="transaction_failure">"Eragiketa hau ezin izan da amaitu %1$s.-rekin"</string>
     <string name="could_not_use_app">"Ezin izan da %1$s erabili."</string>
     <string name="pay_with">Ordaindu honekin</string>
-    <string name="complete_with">Complete with</string>
+    <string name="complete_with">-rekin osatu</string>
     <string name="default_pay_app_removed">Ukitu &amp; ordaintzeko zure zerbitzu gogokoena kendu egin da. Beste bat aukeratu?</string>
     <string name="ask_nfc_tap">Datuak bidaltzeko, ukitu beste gailu bat</string>
     <string name="wifi_connect">Konektatu</string>
@@ -46,12 +46,12 @@
     <string name="prompt_connect_to_network">Sarera konektatu %1$s?</string>
     <string name="beam_requires_nfc_enabled">Android Beam erabiltzeko NFC gaitu behar da. Gaitu egin nahi duzu?</string>
     <string name="android_beam">Android Beam</string>
-    <string name="permlab_nfcReceiveEvent">NFC Transaction awareness</string>
-    <string name="permdesc_nfcReceiveEvent">Allows application to receive information about NFC transaction performed</string>
-    <string name="nfc_enabled_dialog">"Nfc is Currently Disabled. 
-Do you want to Enable it for your NFC Service"</string>
+    <string name="permlab_nfcReceiveEvent">NFC salerosketa baimena</string>
+    <string name="permdesc_nfcReceiveEvent">Egindako NFC salerosketei buruz informazioa jasotzea baimentzen zaio aplikazioari</string>
+    <string name="nfc_enabled_dialog">NFC desgaituta dago. 
+Gaitu nahi duzu?</string>
     <string name="permgrouplab_NFC">NFC-Near Field communication</string>
-    <string name="permgroupdesc_NFC">Access various NFC features</string>
+    <string name="permgroupdesc_NFC">Hainbat NFC ezaugarri gaitu</string>
     <string name="ok">Baieztatu</string>
     <string name="no">Ez</string>
 </resources>
