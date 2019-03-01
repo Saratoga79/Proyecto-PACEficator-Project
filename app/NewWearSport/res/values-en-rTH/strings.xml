@@ -47,7 +47,7 @@
     <string name="agps_time_out">AGPS หมดอายุแล้ว การค้นหา GPS จะช้า โปรดเชื่อมต่อ Amazfit Watch App เพื่ออัปเดต</string>
     <string name="safe_hearate_remind_content">เมื่อสูงกว่า %1d</string>
     <string name="settings_safe_heart_rate_hint">(อัตราการเต้นหัวใจที่ปลอดภัย)</string>
-    <string name="settings_safe_heart_rate_unit">ครั้ง/นาที</string>
+    <string name="settings_safe_heart_rate_unit">bpm</string>
     <string name="elliptical">เครื่องเดินวงรี</string>
     <string name="elliptical_in_progress">ในขั้นตอนของเครื่องเดินวงรี</string>
     <string name="person_achive">ส่วนบุคคลที่ดีที่สุด</string>
@@ -68,9 +68,9 @@
     <string name="not_step_freq_data">รอบขา ไม่สามารถใช้ได้</string>
     <string name="not_stroke_speed_data">ข้อมูลจังหวะ ไม่สามารถใช้ได้</string>
     <string name="not_cadence_data">รอบขา ไม่สามารถใช้ได้</string>
-    <string name="stroke_speed_curve_title">อัตราจังหวะ (ก้าว/นาที)</string>
+    <string name="stroke_speed_curve_title">อัตราจังหวะ (SPM)</string>
     <string name="stroke_unit">จังหวะ</string>
-    <string name="cadence_curve_title">รอบขา(ครั้ง/นาที)</string>
+    <string name="cadence_curve_title">รอบขา(times/min)</string>
     <string name="swim_trips_complete">ว่ายน้ำ %1$d รอบ</string>
     <string name="gps_search_tips">การออกกำลังกาย 15 นาทีก่อนเริ่มวิ่งช่วยป้องกันการบาดเจ็บ</string>
     <string name="gps_search_swim_tips">หน้าจอสัมผัสจะถูกล็อค</string>
@@ -112,7 +112,7 @@
     <string name="picker_title_target_time">เวลาผ่านไป(h/m)</string>
     <string name="picker_title_target_calorie">แคลอรี่ (กิโลแคลอรี)</string>
     <string name="picker_title_target_te">เป้าหมาย TE</string>
-    <string name="picker_title_target_heart_rate">อัตราการเต้นหัวใจ (ครั้ง/นาที)</string>
+    <string name="picker_title_target_heart_rate">อัตราการเต้นหัวใจ (bpm)</string>
     <string name="picker_title_auto_lap">รอบเวลาอัตโนมัติ (%1$s)</string>
     <string name="picker_title_swim_length">ขนาดสระว่ายน้ำ (%1$s)</string>
     <string name="picker_title_target_trips">เป้าหมายทริป</string>
@@ -168,15 +168,15 @@
     <string name="sport_cur_tar_cal">แคลอรี่: %1$sกิโลแคลอรี่</string>
     <string name="sport_cur_tar_trips">ทริป: %1$sทริป</string>
     <string name="sport_setting_select_te_stage_title">เลือก TE</string>
-    <string name="sport_setting_te_stage_content">TE%1$s %2$sนาที</string>
-    <string name="history_heart_rate_graph_desc">อัตราการเต้นหัวใจ (ครั้ง/นาที)</string>
+    <string name="sport_setting_te_stage_content">TE%1$s %2$sm</string>
+    <string name="history_heart_rate_graph_desc">อัตราการเต้นหัวใจ (bpm)</string>
     <string name="history_pace_graph_desc">อัตราการวิ่ง(min/km)</string>
     <string name="history_pace_graph_desc_imperial">อัตราการวิ่ง(min/mi)</string>
     <string name="history_speed_graph_desc">ความเร็ว (km/h)</string>
     <string name="history_speed_graph_desc_imperial">ความเร็ว (mph)</string>
     <string name="history_altitude_graph_desc">ระดับความสูง(m)</string>
     <string name="history_altitude_graph_desc_imperial">ระดับความสูง(ฟิต)</string>
-    <string name="history_step_freq_graph_desc">รอบขา(ก้าว/นาที)</string>
+    <string name="history_step_freq_graph_desc">รอบขา(steps/min)</string>
     <string name="history_title">กิจกรรม</string>
     <string name="history_detail_info">ราย​ละเอียด</string>
     <string name="hitory_rest_command">เวลาที่ใช้ในการคืนสภาพ</string>
@@ -216,7 +216,7 @@
     <string name="sport_main_avg_heart_rate">อัตราการเต้นของหัวใจเฉลี่ย</string>
     <string name="sport_main_max_heart_rate">อัตราการเต้นของหัวใจสูงสุด</string>
     <string name="sport_main_min_heart_rate">อัตราการเต้นของหัวใจต่ำสุด</string>
-    <string name="sport_main_graph_title">ล่าสุด (นาที)</string>
+    <string name="sport_main_graph_title">ล่าสุด (min)</string>
     <string name="exchange_time_cost">เปลี่ยนเวลา</string>
     <string name="exchange_in_progress">อยู่ในช่วงเปลี่ยนผ่าน</string>
     <string name="exchange_anim_title">สลับกิจกรรม</string>
@@ -233,7 +233,7 @@
     <string name="sport_graph_title_fast">เร็วที่สุด</string>
     <string name="sport_graph_title_high">สูงสุด</string>
     <string name="sport_graph_title_low">ต่ำที่สุด</string>
-    <string name="adjust_content">%1$dนาที</string>
+    <string name="adjust_content">%1$dm</string>
     <string name="adjust_tips_title">เปลี่ยนการตั้งค่าระยะทางอัตโนมัติ</string>
     <string name="adjust_swim_tips">ระยะทางรอบอัตโนมัติในขณะนี้คือขนาดสระ โปรดปรับในการตั้งค่าว่ายน้ำหากจำเป็น</string>
     <string name="hill_title">การเปลี่ยนแปลงไล่ระดับสี</string>
@@ -286,7 +286,7 @@
     <string name="continue_sport">ทำกิจกรรมต่อ</string>
     <string name="stop_sport">หยุดกิจกรรม</string>
     <string name="settting_sport_gpx_route">หลักสูตร GPX</string>
-    <string name="swim_max_stroke_speed">ก้าว/นาที สูงสุด</string>
+    <string name="swim_max_stroke_speed">SPM สูงสุด</string>
     <string name="swim_trips">ทริป</string>
     <string name="heart_region_title">โซนอัตราการเต้นของหัวใจ</string>
     <string name="heart_region_anaerobic＿limit">สูงสุด</string>
@@ -658,7 +658,7 @@
     <string name="route_cur_altitude_value">%1dm</string>
     <string name="route_cur_altitude_value_imperial">%1dft</string>
     <string name="route_climb_up_value">%1dm</string>
-    <string name="route_climb_up_value_imperial">%1dฟุต</string>
+    <string name="route_climb_up_value_imperial">%1dft</string>
     <string name="easy_fat_run">เผาผลาญไขมันง่าย</string>
     <string name="healthy_cardio">คาร์ดิโอเพื่อสุขภาพ</string>
     <string name="moderate_fat_burn">เผาผลาญไขมันปานกลาง</string>
@@ -935,7 +935,7 @@
     <string name="km_metric_settings_item_value_target_distance">%1$skm</string>
     <string name="meter_metric_settings_item_value_target_distance">%1$sเมตร</string>
     <string name="km_imperial">mi</string>
-    <string name="metre_imperial">ฟุต</string>
+    <string name="metre_imperial">feet</string>
     <string name="km_imperial_pace_unit">/mi</string>
     <string name="km_imperial_speed_unit">mi/h</string>
     <string name="km_imperial_distance">ระยะทาง (mi)</string>
@@ -944,11 +944,11 @@
     <string name="km_imperial_remind_target_km_walking_title_format">เสร็จแล้ว %1$d mi</string>
     <string name="km_imperial_remind_target_riding_km_title_format">เสร็จแล้ว %1$d mi</string>
     <string name="km_imperial_remind_target_distance_training_title_format">เสร็จแล้ว %1s mi</string>
-    <string name="meter_imperial_crossing_vertical_velocity_unit">ฟุต/นาที</string>
-    <string name="meter_imperial_crossing_history_detail_altituede_graph_desc">ระดับความสูง (ฟุต)</string>
+    <string name="meter_imperial_crossing_vertical_velocity_unit">feet/min</string>
+    <string name="meter_imperial_crossing_history_detail_altituede_graph_desc">ระดับความสูง (feet)</string>
     <string name="km_imperial_outdoor_speed_graph_title">ความเร็ว(mi/h)</string>
     <string name="km_imperial_settings_item_value_target_distance">%1$smi</string>
-    <string name="meter_imperial_settings_item_value_target_distance">%1$sฟุต</string>
+    <string name="meter_imperial_settings_item_value_target_distance">%1$sfeet</string>
     <string name="vo2_max_title">VO2max</string>
     <string name="vo2_max_level_very_good">ดีมาก</string>
     <string name="vo2_max_level_middle">เฉลี่ย</string>
@@ -987,7 +987,7 @@
     <string name="settings_item_value_swim_length_imperial">%1$sก้าว</string>
     <string name="swim_swolf_unit_default">(คำนวณเป็น 100เมตร)</string>
     <string name="swim_swolf_unit_default_yd">(คำนวณเป็น 100หลา)</string>
-    <string name="swim_pace_unit_imperial">/100ฟุต</string>
+    <string name="swim_pace_unit_imperial">/100ft</string>
     <string name="first_modify_tips">การปรับเทียบด้วยระยะทางที่มากกว่า 0.5 กม. ทำให้นาฬิกาสามารถเรียนรู้พฤติกรรมการวิ่งของคุณและทำให้ระยะทางในการวิ่งนั้นแม่นยำยิ่งขึ้น</string>
     <string name="modify_big_dis_tips">ค่าการปรับเทียบ%1$sค่อนข้างแตกต่างจากค่าที่วัดได้%2$sการสอบเทียบยืนยันหรือไม่</string>
     <string name="modify_big_dis_regain">การแก้ไข</string>
