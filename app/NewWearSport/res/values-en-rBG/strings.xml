@@ -516,7 +516,7 @@
     <string name="decision_no">Не</string>
     <string name="use_sport_route_remind">Тази активност използва ли %1$s маршрут за навигация?</string>
     <string name="please_start_sport_from_route_start">За да се гарантира точността на насочването по маршрута, започнете движението при реалното географско местоположение на началото на тръгването</string>
-    <string name="please_become_bigger">Zoom in</string>
+    <string name="please_become_bigger">Приближение</string>
     <string name="please_become_smaller">Намаляване</string>
     <string name="current_altitude">Надморска височина</string>
     <string name="cumulative_climb">Elev gain</string>
@@ -660,7 +660,7 @@
     <string name="alert_skip_you_finish">你完成了</string>
     <string name="finish_index_count">No.%1$s</string>
     <string name="sport_widget_title_rope_skip">Скачане на въже</string>
-    <string name="rope_frequency_unit">jumps/min</string>
+    <string name="rope_frequency_unit">скокове/мин</string>
     <string name="rope_total_count_remind_title">Completed count</string>
     <string name="rope_remind_test_time">2500</string>
     <string name="setting_rope_skip_total_count">Total count (jumps)</string>
@@ -829,7 +829,7 @@
     <string name="running_button_continue">Възобнови</string>
     <string name="running_button_save">Запази</string>
     <string name="running_achivement">Постижения</string>
-    <string name="running_record">Records</string>
+    <string name="running_record">Записи</string>
     <string name="running_setting">Настройки</string>
     <string name="running_end_sport">Stop activity first</string>
     <string name="walking_end_sport">Stop activity first</string>
@@ -843,7 +843,7 @@
     <string name="remind_target_pace_desc">Темпо</string>
     <string name="remind_target_distance_pace_unit">/км</string>
     <string name="remind_heart_rate_too_high">Heart rate is too high</string>
-    <string name="remind_heart_rate_value_before">Current</string>
+    <string name="remind_heart_rate_value_before">Текущ</string>
     <string name="remind_heart_rate_value_after">BPM</string>
     <string name="remind_heart_rate_suggestion">Slow down gradually to adjust</string>
     <string name="remind_pace_too_low">Pace is too low</string>
@@ -936,7 +936,7 @@
     <string name="km_metric_remind_target_km_walking_title_format">Completed %1$d km</string>
     <string name="km_metric_remind_target_distance_training_title_format">Completed %1s km</string>
     <string name="km_metric_remind_target_riding_km_title_format">Completed %1$d km</string>
-    <string name="meter_metric_crossing_vertical_velocity_unit">m/min</string>
+    <string name="meter_metric_crossing_vertical_velocity_unit">м/мин</string>
     <string name="meter_metric_crossing_history_detail_altituede_graph_desc">Altitude (m)</string>
     <string name="km_metric_outdoor_speed_graph_title">Speed (km/h)</string>
     <string name="km_metric_settings_item_value_target_distance">%1$s км</string>
