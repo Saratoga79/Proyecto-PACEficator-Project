@@ -18,7 +18,7 @@
     <string name="status_bar_ongoing_events_title">Текущи</string>
     <string name="status_bar_latest_events_title">Notifications</string>
     <string name="battery_low_title">Battery is low</string>
-    <string name="battery_low_percent_format">%s remaining</string>
+    <string name="battery_low_percent_format">%s остават</string>
     <string name="battery_low_percent_format_saver_started">%s remaining. Battery saver is on.</string>
     <string name="invalid_charger">"USB зареждането не се поддържа. Използвайте само доставеното зарядно устройство."</string>
     <string name="invalid_charger_title">USB charging not supported.</string>
@@ -193,7 +193,7 @@
     <string name="data_usage_disabled_dialog">"Устройството ви е изключило данните, защото достигнахте лимита, който сте задали.
 
 Включването им може да доведе до такси от оператора ви."</string>
-    <string name="data_usage_disabled_dialog_enable">Turn on data</string>
+    <string name="data_usage_disabled_dialog_enable">Включване на данни</string>
     <string name="status_bar_settings_signal_meter_disconnected">Няма връзка с интернет</string>
     <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi connected</string>
     <string name="gps_notification_searching_text">Searching for GPS</string>
@@ -295,7 +295,7 @@ be monitored"</string>
     <string name="keyguard_indication_charging_time">Charging (%s until full)</string>
     <string name="accessibility_multi_user_switch_switcher">Switch user</string>
     <string name="accessibility_multi_user_switch_switcher_with_current">Switch user, current user %s</string>
-    <string name="accessibility_multi_user_switch_quick_contact">Show profile</string>
+    <string name="accessibility_multi_user_switch_quick_contact">Покажи профила</string>
     <string name="user_add_user">Добавяне на потребител</string>
     <string name="user_new_user_name">Нов потребител</string>
     <string name="guest_nickname">Гост</string>
