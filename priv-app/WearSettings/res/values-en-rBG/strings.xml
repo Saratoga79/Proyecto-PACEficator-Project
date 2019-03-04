@@ -63,7 +63,7 @@
     <string name="app_item_anti_lost_remind">Изключете предупрежденията</string>
     <string name="app_item_far_away_remind">Away alert</string>
     <string name="remind_aleary_open">Alert is on</string>
-    <string name="phone_far_away_remind_to_you">Your watch will alert you when it gets far from your phone.</string>
+    <string name="phone_far_away_remind_to_you">Вашият часовник ще ви предупреди, когато се отдалечите от телефона ви.</string>
     <string name="dialog_confire">ОК</string>
     <string name="applications">Приложения</string>
     <string name="long_sit">Idle alert</string>
@@ -107,7 +107,7 @@
     <string name="yongchiyou">Плуване в басейн</string>
     <string name="gongkaiyou">Open water</string>
     <string name="tuoyuanji">Elliptical</string>
-    <string name="dengshan">Climbing</string>
+    <string name="dengshan">Катерене</string>
     <string name="tierensan">Триатлон</string>
     <string name="multisport">Multisport</string>
     <string name="shineiqi">Колоездене на закрито</string>
@@ -124,7 +124,7 @@
     <string name="zhinanzhen">Компас</string>
     <string name="yinyue">Музика</string>
     <string name="rebond_title">Pairing reminder</string>
-    <string name="rebond_desc_air_plane">Airplane mode of the watch is on, turn it off and try to pair again</string>
+    <string name="rebond_desc_air_plane">На часовника е включен самолетен режим, изключете го и опитайте да го сдвоите отново</string>
     <string name="rebong_unbond_desc">Внимание: Можете да използвате тази функция само когато часовникът не е свързан с приложението за Amazfit Watch, в противен случай предишните сдвоени часовници няма да бъдат свързани.</string>
     <string name="rebond_go_on">Продължи</string>
     <string name="rebond_quit">Изход</string>
@@ -213,7 +213,7 @@
     <string name="bluetooth_connected">Свързан</string>
     <string name="bluetooth_disconnected">Прекъснат</string>
     <string name="bluetooth_connecting_error_message">"Couldn't connect to %1$s."</string>
-    <string name="bluetooth_pairing_pin_error_message">"Couldn't pair %1$s. PIN or passkey is incorrect."</string>
+    <string name="bluetooth_pairing_pin_error_message">"Не може да се сдвои %1$s. ПИН или ключът за достъп са неправилни."</string>
     <string name="bluetooth_pairing_device_down_error_message">"Can't communicate with %1$s."</string>
     <string name="bluetooth_pairing_rejected_error_message">%1$s rejected pairing request.</string>
     <string name="bluetooth_turning_on">Turning on Bluetooth …</string>
@@ -243,7 +243,7 @@
     <string name="locale_applying">Setting the language…</string>
     <string name="confirm_change_locale">"Change language to
 %1$s?"</string>
-    <string name="gender">Gender</string>
+    <string name="gender">Пол</string>
     <string name="birth_year">Birth year</string>
     <string name="height">Височина</string>
     <string name="weight">Тегло</string>

@@ -4,22 +4,22 @@
     <string name="app_name">otawatch</string>
     <string name="action_settings">Настройки</string>
     <string name="watch_ota">Watch updates</string>
-    <string name="wifi_disconnect">Connect to the Amazfit Watch app to check for updates</string>
-    <string name="connect_phone_wifi">"Check your phone's network connection to check for updates"</string>
-    <string name="connect_phone_input_wifi">Connect to the Amazfit Watch app to enter Wi-Fi password for the watch</string>
-    <string name="wifi_add_item">Connect to the Amazfit Watch app to add a new Wi-Fi hotspot</string>
+    <string name="wifi_disconnect">Свържете се с приложението Amazfit Watch, за да проверите за актуализации</string>
+    <string name="connect_phone_wifi">"Проверете мрежовата връзка на телефона си, за да проверите за актуализации"</string>
+    <string name="connect_phone_input_wifi">Свържете се с приложението Amazfit Watch, за да въведете Wi-Fi парола за часовника</string>
+    <string name="wifi_add_item">Свържете се с приложението Amazfit Watch, за да добавите нова Wi-Fi точка за достъп</string>
     <string name="add_wifi">Добави Wi-Fi</string>
     <string name="please_update_rom">"An update is available.
 Update now."</string>
-    <string name="checking_rom">Checking for updates…</string>
+    <string name="checking_rom">Проверявам за актуализации…</string>
     <string name="checking_rom_failed">"Network connection timed out.
 Try again."</string>
     <string name="current_is_new">Current version is up to date.</string>
-    <string name="has_new_rom">"An update is available.
-Update to version %1$s?"</string>
+    <string name="has_new_rom">"Налице е актуализация.
+Актуализация до версия %1$s?"</string>
     <string name="has_new_rom_all">"Налична е актуализация. Фърмуерът на този часовник е стар. Актуализацията може да отнеме известно време."</string>
-    <string name="input_passwor_on_mobile">"Enter Wi-Fi password
-in the Amazfit Watch app"</string>
+    <string name="input_passwor_on_mobile">"Въведете паролата за Wi-Fi
+в приложението Amazfit Watch"</string>
     <string name="processbar_downloading_rom">Downloading…</string>
     <string name="please_keep_wifi_connect">"Don't disconnect from Wi-Fi"</string>
     <string name="processbar_downloading_tips">%</string>
@@ -28,47 +28,47 @@ in the Amazfit Watch app"</string>
 Try again."</string>
     <string name="download_rom_success">"Downloaded ROM successfully.
 Install now."</string>
-    <string name="low_battery_message">"Downloaded updates successfully.
-Battery must be at least %1$s%% charged to install updates."</string>
+    <string name="low_battery_message">"Успешно изтеглени актуализации.
+Батерията трябва да е поне %1$s%% заредена за инсталиране на актуализации."</string>
     <string name="low_battery_title">Connect charger</string>
     <string name="progressbar_tips">Проверяване…</string>
     <string name="progressbar_percent">%1$d%%</string>
-    <string name="low_mem">"Not enough storage space for an update.
-Free up %1$sMB to update."</string>
-    <string name="update_network_error">"Couldn\'t check for updates.
-Try again later."</string>
+    <string name="low_mem">"Няма достатъчно място за съхранение за актуализация.
+Освободете %1$sMB за актуализиране."</string>
+    <string name="update_network_error">"Не можах да проверя за актуализации.
+Опитайте отново по-късно."</string>
     <string name="cancel_download">"Cancel downloading
 updates?"</string>
     <string name="new_rom_please_install">"An update is available.
 Update now."</string>
     <string name="btn_install_later">Remind later</string>
-    <string name="btn_install_now">Install now</string>
+    <string name="btn_install_now">Инсталирай сега</string>
     <string name="btn_upgrade_now">Обновяване сега</string>
     <string name="wifi_no_password">Not encrypted</string>
     <string name="wifi_has_password">Шифровано</string>
-    <string name="wifi_password_error">Password is incorrect</string>
+    <string name="wifi_password_error">Грешна парола</string>
     <string name="wifi_connecting">Connecting…</string>
     <string name="wifi_auth">Verifying password…</string>
-    <string name="wifi_get_ip">Obtaining IP address…</string>
+    <string name="wifi_get_ip">Получаване на IP адрес…</string>
     <string name="wifi_link_fail">"Couldn't connect"</string>
     <string name="wifi_connected">Свързан</string>
     <string name="wifi_title">Connect to Wi-Fi</string>
     <string name="wifi_wait_password">Waiting for password…</string>
     <string name="toast_please_update_first">Update first</string>
     <string name="wifi_turnon_going">Turning on Wi-Fi…</string>
-    <string name="system_update_title">Updated successfully</string>
+    <string name="system_update_title">Актуализирана успешно</string>
     <string name="system_update_content">Upgraded to version %1$s successfully</string>
     <string name="password_error">"Wi-Fi password is incorrect.
 Enter again."</string>
-    <string name="wifi_connect_fail">"Can\'t connect to this
-Wi-Fi network.
-Try another one."</string>
-    <string name="searching">Searching…</string>
-    <string name="hasNewUpdateTitle">An update is available</string>
-    <string name="hasNewUpdateInstallContent">Version %1$s is ready to install. Install now?</string>
+    <string name="wifi_connect_fail">"Не мога да се свържа с тази
+Wi-Fi мрежа.
+Опитайте с друга."</string>
+    <string name="searching">Търсене…</string>
+    <string name="hasNewUpdateTitle">Налична е актуализация</string>
+    <string name="hasNewUpdateInstallContent">Версия %1$s е готова за инсталиране. Инсталирай сега?</string>
     <string name="hasNewUpdateCheckContent">Version %1$s is available. Update now?</string>
     <string name="update_title">Select update method</string>
-    <string name="update_online">OTA update</string>
+    <string name="update_online">ОТА обновяване</string>
     <string name="update_local">Local ZIP file</string>
     <string name="local_update_confirm_1_title">Внимание</string>
     <string name="local_update_invalid_zip">Update to the latest version of the app</string>
@@ -87,20 +87,20 @@ Try another one."</string>
     <string name="cancel">Отказ</string>
     <string name="update_tips_0">Обновяване…</string>
     <string name="update_tips_1">"Don't turn off the device"</string>
-    <string name="average_text">Average</string>
+    <string name="average_text">Среден</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">ОК</string>
     <string name="picker_default_nagetive_text">Изкл</string>
-    <string name="no_heartrate_data_hint">"Couldn't find heart rate data"</string>
-    <string name="no_altitude_hint">"Couldn't find altitude data"</string>
+    <string name="no_heartrate_data_hint">"Не можах да намеря данни за пулс"</string>
+    <string name="no_altitude_hint">"Не можах да намеря данни за надморската височина"</string>
     <string name="title_settings">Настройки</string>
-    <string name="sport_music_settings">Music</string>
-    <string name="widget_currentstep_title">Data</string>
+    <string name="sport_music_settings">Музика</string>
+    <string name="widget_currentstep_title">Данни</string>
     <string name="widget_currentstep_activities">"Today's activity"</string>
     <string name="widget_currentstep_sleep_hour">ч</string>
     <string name="widget_currentstep_sleep_min">м</string>
     <string name="widget_currentstep_sleep_title">Slept last night</string>
     <string name="widget_currentstep_sleep_no">No sleep data</string>
-    <string name="widget_currentstep_activity_no">No activity today?</string>
+    <string name="widget_currentstep_activity_no">Без активност днес?</string>
     <string name="locale_title">Select Language</string>
 </resources>

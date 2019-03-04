@@ -4,14 +4,14 @@
     <string name="locale_title">Sprachauswahl</string>
     <string name="auto_recoginition_title_running">"Du läufst jetzt"</string>
     <string name="auto_recoginition_title_walking">"Du gehst jetzt"</string>
-    <string name="auto_recoginition_sub_title">Continue the session?</string>
+    <string name="auto_recoginition_sub_title">Sitzung fortsetzen?</string>
     <string name="auto_recoginition_continue_run">Fortsetzen</string>
     <string name="auto_recoginition_continue_walk">Fortsetzen</string>
     <string name="auto_recoginition_continue_indoor_run">Fortsetzen</string>
     <string name="auto_recoginition_other_sport">Anderer Sport</string>
     <string name="auto_recoginition_not_remind">"Heute nicht erneut zeigen"</string>
     <string name="auto_recoginition_save">Speichern</string>
-    <string name="auto_recoginition_end_title">Session ended, save the data?</string>
+    <string name="auto_recoginition_end_title">Sitzung beendet, Daten speichern?</string>
     <string name="crossing_title">Traillauf</string>
     <string name="crossing_end_sport">Bitte stoppen Sie zuerst Traillauf</string>
     <string name="crossing_in_progress">Traillauf läuft ...</string>
@@ -122,7 +122,7 @@
     <string name="picker_sub_title_te_two">(Verbesserung)</string>
     <string name="picker_sub_title_te_three">(Verbesserung)</string>
     <string name="picker_sub_title_te_four">(Verbesserung)</string>
-    <string name="picker_heart_region_content">Zone %1$d</string>
+    <string name="picker_heart_region_content">Zone%1$d</string>
     <string name="settings_sport_target">Trainingsziel</string>
     <string name="settings_sport_remind">Alarme</string>
     <string name="settings_sport_control">Einstellungen</string>
@@ -438,8 +438,8 @@
     <string name="first_modify_tips">To calibrate the distance result of a running session (must be longer than 0.5 km) helps the watch to generate a more accurate distance result.</string>
     <string name="modify_big_dis_tips">The calibrated value %1$s is significantly different from the measured value %2$s, calibrate anyway?</string>
     <string name="modify_big_dis_regain">Bearbeiten</string>
-    <string name="modify_big_dis_confirm">Continue calibration</string>
-    <string name="re_modify_dis">Calibrate again</string>
+    <string name="modify_big_dis_confirm">Kalibrierung fortsetzen</string>
+    <string name="re_modify_dis">Erneut kalibrieren</string>
     <string name="re_modify_dis_tips">"1. To calibrate the distance result of a running session (must be longer than 0.5 km) helps the watch to generate a more accurate result.
 2. If you still aren\'t satisfied with the result after several calibration attempts, try to calibrate again.
 3. If you calibrate the result again, all previous calibration records will be deleted."</string>
