@@ -81,7 +81,7 @@
     <string name="accessibility_bluetooth_connected">Успешно свързване с Блутут устройство.</string>
     <string name="accessibility_bluetooth_disconnected">Bluetooth disconnected.</string>
     <string name="accessibility_no_battery">Без батерия.</string>
-    <string name="accessibility_battery_one_bar">Battery one bar.</string>
+    <string name="accessibility_battery_one_bar">Батерия една лента.</string>
     <string name="accessibility_battery_two_bars">Battery two bars.</string>
     <string name="accessibility_battery_three_bars">Battery three bars.</string>
     <string name="accessibility_battery_full">Батерията е пълна.</string>
@@ -93,13 +93,13 @@
     <string name="accessibility_no_data">Няма данни.</string>
     <string name="accessibility_data_one_bar">Една лента за данни.</string>
     <string name="accessibility_data_two_bars">Две ленти за данни.</string>
-    <string name="accessibility_data_three_bars">Data three bars.</string>
+    <string name="accessibility_data_three_bars">Три ленти за данни.</string>
     <string name="accessibility_data_signal_full">Data signal full.</string>
     <string name="accessibility_wifi_off">Wifi изкл.</string>
     <string name="accessibility_no_wifi">Wi-Fi връзката е изключена.</string>
     <string name="accessibility_wifi_one_bar">WiFi една лента.</string>
     <string name="accessibility_wifi_two_bars">WiFi две ленти.</string>
-    <string name="accessibility_wifi_three_bars">Wifi three bars.</string>
+    <string name="accessibility_wifi_three_bars">WiFi три ленти.</string>
     <string name="accessibility_wifi_signal_full">Wifi signal full.</string>
     <string name="accessibility_wifi_name">Свързани сте към %s.</string>
     <string name="accessibility_bluetooth_name">Свързани сте към %s.</string>
@@ -263,7 +263,7 @@
     <string name="quick_settings_cellular_detail_data_limit">%s лимит</string>
     <string name="quick_settings_cellular_detail_data_warning">предупреждение %s</string>
     <string name="recents_empty_message">Your recent screens appear here</string>
-    <string name="recents_app_info_button_label">Application Info</string>
+    <string name="recents_app_info_button_label">Информация за приложение</string>
     <string name="recents_lock_to_app_button_label">закачане на екрана</string>
     <string name="recents_search_bar_label">търсене</string>
     <string name="recents_launch_error_message">Could not start %s.</string>
@@ -418,7 +418,7 @@ be monitored"</string>
     <string name="keyguard_password_enter_pin_code">Въведете ПИН кода</string>
     <string name="keyguard_password_enter_puk_code">Въведете SIM PUK и новия ПИН код</string>
     <string name="keyguard_password_enter_puk_prompt">SIM PUK код</string>
-    <string name="keyguard_password_enter_pin_prompt">New SIM PIN code</string>
+    <string name="keyguard_password_enter_pin_prompt">Нов SIM PIN код</string>
     <string name="keyguard_password_entry_touch_hint"><font size="17">Докоснете и въведете парола</font></string>
     <string name="keyguard_password_enter_password_code">Въведете парола, за да отключите</string>
     <string name="keyguard_password_enter_pin_password_code">Въведете ПИН, за да отключите</string>
@@ -459,7 +459,7 @@ be monitored"</string>
     <string name="keyguard_accessibility_pattern_unlock">Отключване с фигура.</string>
     <string name="keyguard_accessibility_face_unlock">Отключване с лице.</string>
     <string name="keyguard_accessibility_pin_unlock">Отключване с Пин код.</string>
-    <string name="keyguard_accessibility_password_unlock">Password unlock.</string>
+    <string name="keyguard_accessibility_password_unlock">Отключване с парола.</string>
     <string name="keyguard_accessibility_pattern_area">Област на фигурата.</string>
     <string name="keyguard_accessibility_slide_area">Област на плъзгане.</string>
     <string name="keyguard_accessibility_pin_area">ПИН област</string>
@@ -517,7 +517,7 @@ be monitored"</string>
     <string name="kg_invalid_confirm_pin_hint">ПИН кодовете не съвпадат</string>
     <string name="kg_login_too_many_attempts">Опитите за фигурата са твърде много</string>
     <string name="kg_login_instructions">За да отключите, влезте с профила си в Google.</string>
-    <string name="kg_login_username_hint">Username (email)</string>
+    <string name="kg_login_username_hint">Потребителско име (имейл)</string>
     <string name="kg_login_password_hint">Парола</string>
     <string name="kg_login_submit_button">Вписване</string>
     <string name="kg_login_invalid_input">Невалидно име или парола.</string>
