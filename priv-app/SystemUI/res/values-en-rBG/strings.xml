@@ -111,7 +111,7 @@
     <string name="accessibility_no_signal">Няма сигнал.</string>
     <string name="accessibility_not_connected">Не сте свързани.</string>
     <string name="accessibility_zero_bars">Zero bars.</string>
-    <string name="accessibility_one_bar">One bar.</string>
+    <string name="accessibility_one_bar">Едно деление.</string>
     <string name="accessibility_two_bars">Two bars.</string>
     <string name="accessibility_three_bars">Three bars.</string>
     <string name="accessibility_signal_full">Signal full.</string>
@@ -209,7 +209,7 @@
     <string name="accessibility_rotation_lock_on_landscape_changed">Screen is now locked in landscape orientation.</string>
     <string name="accessibility_rotation_lock_on_portrait_changed">Screen is now locked in portrait orientation.</string>
     <string name="dessert_case">Dessert Case</string>
-    <string name="start_dreams">Daydream</string>
+    <string name="start_dreams">Мечта</string>
     <string name="ethernet_label">Ethernet</string>
     <string name="quick_settings_airplane_mode_label">Airplane mode</string>
     <string name="quick_settings_bluetooth_label">Bluetooth</string>
@@ -260,7 +260,7 @@
     <string name="quick_settings_cellular_detail_remaining_data">Remaining data</string>
     <string name="quick_settings_cellular_detail_over_limit">Над ограничението</string>
     <string name="quick_settings_cellular_detail_data_used">%s използвани</string>
-    <string name="quick_settings_cellular_detail_data_limit">%s limit</string>
+    <string name="quick_settings_cellular_detail_data_limit">%s лимит</string>
     <string name="quick_settings_cellular_detail_data_warning">%s warning</string>
     <string name="recents_empty_message">Your recent screens appear here</string>
     <string name="recents_app_info_button_label">Application Info</string>
@@ -462,12 +462,12 @@ be monitored"</string>
     <string name="keyguard_accessibility_password_unlock">Password unlock.</string>
     <string name="keyguard_accessibility_pattern_area">Pattern area.</string>
     <string name="keyguard_accessibility_slide_area">Slide area.</string>
-    <string name="keyguard_accessibility_pin_area">PIN area</string>
+    <string name="keyguard_accessibility_pin_area">ПИН област</string>
     <string name="keyguard_accessibility_sim_pin_area">SIM PIN area</string>
     <string name="keyguard_accessibility_sim_puk_area">SIM PUK area</string>
     <string name="keyguard_accessibility_transport_prev_description">Previous track button</string>
     <string name="keyguard_accessibility_transport_next_description">Next track button</string>
-    <string name="keyguard_accessibility_transport_pause_description">Pause button</string>
+    <string name="keyguard_accessibility_transport_pause_description">Бутон пауза</string>
     <string name="keyguard_accessibility_transport_play_description">Play button</string>
     <string name="keyguard_accessibility_transport_stop_description">Stop button</string>
     <string name="keyguard_accessibility_transport_thumbs_up_description">Thumbs up</string>
@@ -547,7 +547,7 @@ be monitored"</string>
     <string name="kg_pin_accepted">Code Accepted!</string>
     <string name="keyguard_transport_prev_description">Previous track button</string>
     <string name="keyguard_transport_next_description">Next track button</string>
-    <string name="keyguard_transport_pause_description">Pause button</string>
+    <string name="keyguard_transport_pause_description">Бутон пауза</string>
     <string name="keyguard_transport_play_description">Play button</string>
     <string name="keyguard_transport_stop_description">Stop button</string>
     <string name="keyguard_carrier_default">No service.</string>
