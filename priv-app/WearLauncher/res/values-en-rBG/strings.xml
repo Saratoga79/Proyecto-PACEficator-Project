@@ -74,7 +74,7 @@ since charge"</string>
     <string name="header_incomming_call_landlinephone">Стационарен телефон</string>
     <string name="header_incomming_call_searchinglocation">Requesting location…</string>
     <string name="header_incomming_call_mobile_virtual">China Mobile (Virtual carrier)</string>
-    <string name="header_incomming_call_unicom_virtual">China Unicom (Virtual carrier)</string>
+    <string name="header_incomming_call_unicom_virtual">China Unicom (Виртуален оператор)</string>
     <string name="header_incomming_call_telecom_virtual">China Telecom (Virtual carrier)</string>
     <string name="header_incomming_call_other_virtual">Other virtual carriers</string>
     <string name="header_incomming_call_service_hotline">Гореща линия</string>
@@ -107,7 +107,7 @@ since charge"</string>
     <string name="music_author">Неизвестен изпълнител</string>
     <string name="music_stop_status">На пауза</string>
     <string name="music_play_status">Възпроизвеждане</string>
-    <string name="music_bulethooth_disconnect">Checking Bluetooth connection…</string>
+    <string name="music_bulethooth_disconnect">Проверка на Bluetooth свързването…</string>
     <string name="music_peek_content">"Възпроизвеждате музика в %s на телефона си. Можете да контролирате възпроизвеждането чрез известяването на вашия часовник."</string>
     <string name="launcher_app_name">Launcher</string>
     <string name="hm_watch_sports_notification_km">Километри</string>
@@ -185,7 +185,7 @@ since charge"</string>
     <string name="retail_set_reminders">Set reminders by saying \"Ok Google\"</string>
     <string name="retail_take_notes">Take notes by saying \"Ok Google\"</string>
     <string name="retail_say_ok_google">Try saying \"Ok Google\"</string>
-    <string name="retail_say_ok_google_again">Try saying \"Ok Google\" again</string>
+    <string name="retail_say_ok_google_again">Опитайте да кажете \"Ok Google\" отново</string>
     <string name="retail_36_mins">36 мин</string>
     <string name="retail_to_home">към начало</string>
     <string name="retail_light_traffic">Light traffic on A12</string>
@@ -346,10 +346,10 @@ day"</string>
     <string name="voice_action_set">Задай</string>
     <string name="voice_action_email_title">Имейл</string>
     <string name="voice_action_navigate_title_mode_unknown">Навигиране</string>
-    <string name="voice_action_navigate_title_mode_bike">Navigate (bicycle)</string>
-    <string name="voice_action_navigate_title_mode_drive">Navigate (driving)</string>
+    <string name="voice_action_navigate_title_mode_bike">Навигация (велосипед)</string>
+    <string name="voice_action_navigate_title_mode_drive">Навигация (шофиране)</string>
     <string name="voice_action_navigate_title_mode_public_transportation">Navigate (public transportation)</string>
-    <string name="voice_action_navigate_title_mode_walk">Navigate (walking)</string>
+    <string name="voice_action_navigate_title_mode_walk">Навигация (ходене)</string>
     <string name="voice_action_navigate_mode_bike">Колоездене</string>
     <string name="voice_action_navigate_mode_drive">Шофиране</string>
     <string name="voice_action_navigate_mode_walk">Ходене</string>
@@ -388,7 +388,7 @@ day"</string>
     <string name="contact_confirmation_format">%1$s (%2$s)</string>
     <string name="reminder_creation_success">Reminder added</string>
     <string name="voice_action_cancel">Отказ</string>
-    <string name="navigation_success">Navigation started</string>
+    <string name="navigation_success">Навигацията стартира</string>
     <string name="sms_success">Текста е изпратен</string>
     <string name="email_success">Изпратен имейл</string>
     <string name="call_success">Call started on your phone</string>
@@ -490,8 +490,8 @@ Sorry, Google can\'t help you with that"</string>
     <string name="watchface_picker_more">Още</string>
     <string name="watchface_picker_recent">Скорошни</string>
     <string name="watchface_picker_all">Всички</string>
-    <string name="airplane_mode">"Airplane mode
-On"</string>
+    <string name="airplane_mode">"Самолетен режим
+Вкл"</string>
     <string name="airplane_mode_cue_card">Airplane mode</string>
     <string name="disconnected">Прекъснат</string>
     <string name="timed_out_state">Изтекло време</string>
@@ -513,7 +513,7 @@ On"</string>
     <string name="tutorial_all_set">"You're all set!"</string>
     <string name="tutorial_swipe_up">Swipe up to get started.</string>
     <string name="tutorial_great">Чудесно!</string>
-    <string name="tutorial_swipe_again">Try swiping again.</string>
+    <string name="tutorial_swipe_again">Опитайте да приплъзнете отново.</string>
     <string name="tutorial_cancel">Cancel tutorial</string>
     <string name="tutorial_easy">Лесно, нали?</string>
     <string name="tutorial_useful_cards">Полезни карти се показват автоматично през целия ден.</string>
@@ -651,7 +651,7 @@ On"</string>
     <string name="air_perfect">Отличен</string>
     <string name="air_good">Чудесно</string>
     <string name="air_lightly_polluted">Light pollution</string>
-    <string name="air_moderate_polluted">Moderate pollution</string>
+    <string name="air_moderate_polluted">Умерено замърсяване</string>
     <string name="air_heavily_polluted">Heavy pollution</string>
     <string name="air_severely_polluted">Severe pollution</string>
     <string name="no_outdoor_info">Няма данни</string>
@@ -681,5 +681,5 @@ On"</string>
     <string name="widget_currentstep_sleep_min">м</string>
     <string name="widget_currentstep_sleep_title">Slept last night</string>
     <string name="widget_currentstep_sleep_no">No sleep data</string>
-    <string name="widget_currentstep_activity_no">No activity today?</string>
+    <string name="widget_currentstep_activity_no">Без активност днес?</string>
 </resources>
