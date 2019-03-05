@@ -80,10 +80,10 @@
     <string name="gps_search_failed_content">GPS не е наличен, опитайте отново на открито.</string>
     <string name="gps_search_success_title">GPS е готов</string>
     <string name="gps_search_success_content">GPS е наличен, сега можете да започнете тренировка.</string>
-    <string name="gps_search_timeout_title">GPS has expired</string>
+    <string name="gps_search_timeout_title">GPS е изтекъл</string>
     <string name="gps_search_timeout_content">AGPS изтече. GPS търсенето ще бъде бавно. Свържете се с приложението Amazfit Watch, за да го актуализирате.</string>
     <string name="gps_notify_success">GPS е наличен</string>
-    <string name="gps_notify_loss">Lost GPS signal</string>
+    <string name="gps_notify_loss">Загубен GPS сигнал</string>
     <string name="gps_search_time_out_content">GPS was turned off due to inactivity.</string>
     <string name="detail_route_title">Маршрут</string>
     <string name="detail_route_total_dis">Total distance</string>
@@ -440,7 +440,7 @@
     <string name="modify_big_dis_tips">Калибрираната стойност %1$s се различава значително от измерената стойност %2$s, калибриране все пак?</string>
     <string name="modify_big_dis_regain">Редактиране</string>
     <string name="modify_big_dis_confirm">Continue calibration</string>
-    <string name="re_modify_dis">Calibrate again</string>
+    <string name="re_modify_dis">Калибрирай отново</string>
     <string name="re_modify_dis_tips">"1. Калибрирате резултата от разстоянието от текущата сесия (тя трябва да е по-голяма от 0,5 км), помага на часовника да генерира по-точен резултат.
 2. Ако все още не сте доволни от резултата след няколко опита за калибриране, опитайте да калибрирате отново.
 3. Ако отново калибрирате резултата, всички предишни записи за калибриране ще бъдат изтрити."</string>
@@ -682,13 +682,13 @@
     <string name="route_cur_remain_distance_value">%1s км</string>
     <string name="route_cur_remain_distance_value_imperial">%1s мили</string>
     <string name="easy_fat_run">Easy fat burning</string>
-    <string name="healthy_cardio">Cardio workout</string>
+    <string name="healthy_cardio">Кардио тренировка</string>
     <string name="moderate_fat_burn">Moderate fat burning</string>
     <string name="keeps_fit_cardio">Body shaping cardio</string>
     <string name="improving_cardio">Improving cardio</string>
     <string name="endurance_cardio">Endurance cardio</string>
-    <string name="hard_cardio">Intense cardio</string>
-    <string name="very_hard_cardio">Extreme cardio</string>
+    <string name="hard_cardio">Интензивно кардио</string>
+    <string name="very_hard_cardio">Екстремно кардио</string>
     <string name="route_cur_altitude">Надморска височина</string>
     <string name="outdoor_cadence">Ритъм</string>
     <string name="sport_main_climb_al">Увеличаване на височината</string>
@@ -702,7 +702,7 @@
     <string name="skiing_downhill_single_descend">Downhill</string>
     <string name="skiing_downhill_max_speed">Максимална скорост</string>
     <string name="skiing_downhill_elev_loss">Спускане</string>
-    <string name="skiing_rt_downhill_desecnd">Total downhill</string>
+    <string name="skiing_rt_downhill_desecnd">Общо спускане</string>
     <string name="sport_tennis_strokes">Strokes</string>
     <string name="last_lap_pace">Темпо на интервала</string>
     <string name="last_lap_stepfreq">Lap cadence</string>
@@ -780,7 +780,7 @@
     <string name="waiting_gps_gps_available">GPS available now</string>
     <string name="waiting_gps_gps_available_button_text">ОК</string>
     <string name="waiting_gps_gps_unavailable_button_text">Продължи</string>
-    <string name="no_gps_title">GPS unavailable</string>
+    <string name="no_gps_title">GPS не е наличен</string>
     <string name="no_gps_content">"Разстоянието не можа да бъде записано точно. Опитайте отново на открито."</string>
     <string name="no_gps_button_text">ОК</string>
     <string name="settings_item_title_km_remind">Lap alert</string>
