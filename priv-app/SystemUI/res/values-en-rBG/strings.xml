@@ -174,8 +174,8 @@
     <string name="accessibility_quick_settings_location_changed_on">Location reporting turned on.</string>
     <string name="accessibility_quick_settings_alarm">Alarm set for %s.</string>
     <string name="accessibility_quick_settings_close">Close panel.</string>
-    <string name="accessibility_quick_settings_more_time">More time.</string>
-    <string name="accessibility_quick_settings_less_time">Less time.</string>
+    <string name="accessibility_quick_settings_more_time">Повече време.</string>
+    <string name="accessibility_quick_settings_less_time">По-малко време.</string>
     <string name="accessibility_quick_settings_flashlight_off">Фенерчето е изкл.</string>
     <string name="accessibility_quick_settings_flashlight_on">Фенерчето е вкл.</string>
     <string name="accessibility_quick_settings_flashlight_changed_off">Flashlight turned off.</string>
@@ -261,7 +261,7 @@
     <string name="quick_settings_cellular_detail_over_limit">Над ограничението</string>
     <string name="quick_settings_cellular_detail_data_used">%s използвани</string>
     <string name="quick_settings_cellular_detail_data_limit">%s лимит</string>
-    <string name="quick_settings_cellular_detail_data_warning">%s warning</string>
+    <string name="quick_settings_cellular_detail_data_warning">предупреждение %s</string>
     <string name="recents_empty_message">Your recent screens appear here</string>
     <string name="recents_app_info_button_label">Application Info</string>
     <string name="recents_lock_to_app_button_label">закачане на екрана</string>
@@ -404,7 +404,7 @@ be monitored"</string>
     <string name="screen_pinning_description_accessible">Това го запазва видимо, докато не го откачите. Докоснете и задръжте Преглед, за да го откачите.</string>
     <string name="screen_pinning_positive">Готово</string>
     <string name="screen_pinning_negative">Не, благодаря</string>
-    <string name="quick_settings_reset_confirmation_title">Hide %1$s?</string>
+    <string name="quick_settings_reset_confirmation_title">Скрий %1$s?</string>
     <string name="quick_settings_reset_confirmation_message">Тя ще се появи отново при следващото включване в настройките.</string>
     <string name="quick_settings_reset_confirmation_button">Скрий</string>
     <string name="ok">@android:string/ok</string>
