@@ -21,12 +21,12 @@
     <string name="crossing_individual_pen_dis">Single lap distance</string>
     <string name="crossing_individual_pen_cost_time">Време на една обиколка</string>
     <string name="crossing_individual_pen_pace">Темпо на една обиколка</string>
-    <string name="crossing_climb_unit">м</string>
+    <string name="crossing_climb_unit">m</string>
     <string name="crossing_vertical_velocity_unit">фута/ч</string>
     <string name="crossing_history_detail_total_time">Общо време</string>
     <string name="crossing_history_detail_move_time">Време на активност</string>
     <string name="crossing_history_detail_ave_move_pace">Ср темпо</string>
-    <string name="crossing_history_detail_ave_move_pace_unit">/км</string>
+    <string name="crossing_history_detail_ave_move_pace_unit">/km</string>
     <string name="crossing_history_detail_best_pace">Най-добра цена</string>
     <string name="crossing_history_detail_ave_move_speed">Ср скорост</string>
     <string name="crossing_history_detail_max_speed">Максимална скорост</string>
@@ -37,10 +37,10 @@
     <string name="crossing_history_detail_low_altitude">Най-малка надморска височина</string>
     <string name="crossing_history_detail_ave_altitude">Срд надморска височина</string>
     <string name="crossing_history_detail_altituede_graph_desc">Надморска височина (м)</string>
-    <string name="crossing_history_detail_individual_km"><font color="#ff09ff00"><b>%1$s</b></font> км за един цикъл</string>
+    <string name="crossing_history_detail_individual_km"><font color="#ff09ff00"><b>%1$s</b></font> km за един цикъл</string>
     <string name="crossing_setting_unit">км</string>
     <string name="crossing_settings_item_title_individual_remind">Single lap distance</string>
-    <string name="crossing_settings_item_value_individual">%1s км</string>
+    <string name="crossing_settings_item_value_individual">%1s km</string>
     <string name="crossing_remind_target_individual_title">Обиколка %1d</string>
     <string name="crossing_remind_target_individual_cost_time">Време</string>
     <string name="crossing_remind_target_individual_pace">Темпо</string>
@@ -58,7 +58,7 @@
     <string name="remind_target_time_title">Постигнато е времето на целта</string>
     <string name="remind_target_calorie_title_format">ккал</string>
     <string name="remind_target_time_h_unit">ч</string>
-    <string name="remind_target_time_m_unit">м</string>
+    <string name="remind_target_time_m_unit">m</string>
     <string name="remind_target_time_default_value">00</string>
     <string name="no_altitude_hint">"Не можах да намеря данни за надморската височина"</string>
     <string name="no_heartrate_data_hint">"Не можах да намеря данни за пулс"</string>
@@ -99,10 +99,10 @@
     <string name="detail_curve_graph">Графика</string>
     <string name="battery_support_sport">Can still exercise for</string>
     <string name="battery_continue_distance_unit"> км</string>
-    <string name="battery_continue_imperial_distance_unit"> мили</string>
+    <string name="battery_continue_imperial_distance_unit"> mi</string>
     <string name="battery_continue_time_unit"> час</string>
     <string name="battery_split"> / </string>
-    <string name="suggest_reset_time">Време до пълно възстановяване: %1$sч</string>
+    <string name="suggest_reset_time">Време до пълно възстановяване: %1$sh</string>
     <string name="remain_time_recovery"><Data>Time to full recovery&amp;nbsp;&lt;font color=#00ff00&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;/font&gt;&amp;nbsp; h</Data></string>
     <string name="more_sport_tint">Още</string>
     <string name="zh_space">&amp;#12288;</string>
@@ -139,7 +139,7 @@
     <string name="settings_sport_lap_auto_remind">Auto lap alert</string>
     <string name="settings_sport_target_TE">Цел ТЕ</string>
     <string name="settings_sport_swim_length">Размер на басейн</string>
-    <string name="settings_sport_swim_title">Басейн размер (м)</string>
+    <string name="settings_sport_swim_title">Басейн размер (m)</string>
     <string name="settings_sport_swim_tips">Часовникът ще брои обиколки, въз основа на размера на басейна</string>
     <string name="settings_sport_measure_heart">PPG вкл/изкл</string>
     <string name="settings_sport_rt_guide">Ръководство</string>
@@ -153,7 +153,7 @@
     <string name="setting_off">Изкл</string>
     <string name="settings_item_title_target_calorie_remind">Цел калории</string>
     <string name="settings_item_value_target_calorie">%1$d ккал</string>
-    <string name="settings_item_value_swim_length">%1$s м</string>
+    <string name="settings_item_value_swim_length">%1$s m</string>
     <string name="settings_item_value_swim_length_imperial">%1$s фута</string>
     <string name="settings_cal_unit">ккал</string>
     <string name="setting_auto_pause_speed">"When it's slower than &lt;%1$s km/h"</string>
@@ -165,21 +165,21 @@
     <string name="sport_settings_te_title">Избор</string>
     <string name="sport_settings_current_target_te_title">Текуща цел</string>
     <string name="sport_select_more_setting_content">Промени</string>
-    <string name="sport_cur_tar_dis_km">Разстояние: %1$sкм</string>
-    <string name="sport_cur_tar_dis_mi">Разстояние: %1$sмили</string>
-    <string name="sport_cur_tar_dis_meter">Разстояние: %1$s м</string>
+    <string name="sport_cur_tar_dis_km">Разстояние: %1$skm</string>
+    <string name="sport_cur_tar_dis_mi">Разстояние: %1$s mi</string>
+    <string name="sport_cur_tar_dis_meter">Разстояние: %1$s m</string>
     <string name="sport_cur_tar_dis_ft">Разстояние: %1$s фута</string>
     <string name="sport_cur_tar_dis_yd">Разстояние: %1$s ярда</string>
-    <string name="sport_cur_tar_time">Elapsed time: %1$dh %2$dm</string>
+    <string name="sport_cur_tar_time">Изминало време: %1$dh %2$dm</string>
     <string name="sport_cur_tar_cal">Calories: %1$s kcal</string>
     <string name="sport_cur_tar_trips">Обиколки: %1$s</string>
     <string name="sport_setting_select_te_stage_title">Изберете TE</string>
     <string name="sport_setting_te_stage_content">TE%1$s %2$sм</string>
     <string name="history_pace_graph_desc">Темпо (min/km)</string>
     <string name="history_pace_graph_desc_imperial">Темпо (min/mi)</string>
-    <string name="history_swim_pace_graph_desc">Pace (min/100 m)</string>
-    <string name="history_swim_pace_graph_desc_imperial">Pace (min/100 ft)</string>
-    <string name="history_swim_pace_graph_desc_yd">Pace (min/100 yd)</string>
+    <string name="history_swim_pace_graph_desc">Темпо (min/100 m)</string>
+    <string name="history_swim_pace_graph_desc_imperial">Темпо (min/100 ft)</string>
+    <string name="history_swim_pace_graph_desc_yd">Темпо (min/100 yd)</string>
     <string name="history_speed_graph_desc">Скорост (км/ч)</string>
     <string name="history_speed_graph_desc_imperial">Скорост (mph)</string>
     <string name="history_altitude_graph_desc">Надморска височина (м)</string>
@@ -190,8 +190,8 @@
     <string name="hitory_rest_command">Time to full recovery </string>
     <string name="hitory_rest_command_time"> час</string>
     <string name="history_month_target_title">Месечна цел</string>
-    <string name="history_month_dis">%1$s/%2$d км</string>
-    <string name="history_month_dis_imperial">%1$s/%2$d мили</string>
+    <string name="history_month_dis">%1$s/%2$d km</string>
+    <string name="history_month_dis_imperial">%1$s/%2$d mi</string>
     <string name="history_month_cost">%1$s/%2$s</string>
     <string name="history_sport">Activity history</string>
     <string name="history_no_sport_tips">No activities yet, start now.</string>
@@ -220,7 +220,7 @@
     <string name="sport_main_avg_stride">Срд крачка</string>
     <string name="sport_main_stride">Дължина на крачка</string>
     <string name="sport_main_total_kcal">Общо калории</string>
-    <string name="sport_main_avg_stride_unit">см/крачки</string>
+    <string name="sport_main_avg_stride_unit">cm/крачки</string>
     <string name="sport_main_avg_heart_rate">Срд пулс</string>
     <string name="sport_main_max_heart_rate">Max heart rate</string>
     <string name="sport_main_min_heart_rate">Min heart rate</string>
