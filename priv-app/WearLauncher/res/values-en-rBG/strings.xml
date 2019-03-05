@@ -7,7 +7,7 @@
     <string name="data_checkfail_temp">Temperature is out of range.</string>
     <string name="data_checkfail_match">"Weather info isn't correct."</string>
     <string name="data_checkfail_json">JSON format error</string>
-    <string name="generic_notification_more">More(%s)</string>
+    <string name="generic_notification_more">Още (%s)</string>
     <string name="notification_unread_num">Непрочетени %s</string>
     <string name="notification_click_upgrade">Обновяване</string>
     <string name="notification_click_download">Изтегляне</string>
@@ -229,8 +229,8 @@ since charge"</string>
     <string name="cal_event_title">%1$s %2$s</string>
     <string name="cal_event_begin_end_time">%1$s - %2$s</string>
     <string name="cal_all_day">Цял ден</string>
-    <string name="cal_all_day_line_break">"All
-day"</string>
+    <string name="cal_all_day_line_break">"Цял
+ден"</string>
     <string name="cal_multi_day_line_break">"Multi
 day"</string>
     <string name="cal_mail_all">Email all guests</string>
@@ -245,9 +245,9 @@ day"</string>
     <string name="cal_status_invited">No response</string>
     <string name="cal_status_tentative">Може би</string>
     <string name="cal_min">мин</string>
-    <string name="cal_plus_x_more">+ %s more</string>
+    <string name="cal_plus_x_more">+ още %s</string>
     <string name="cal_email_subject">[Update] %s</string>
-    <string name="cal_no_event">No events</string>
+    <string name="cal_no_event">Няма събития</string>
     <string name="cal_no_title">(Без заглавие)</string>
     <string name="cal_event_duration" formatted="false">%s %s</string>
     <string name="cal_dummy_count_down">60</string>
@@ -285,13 +285,13 @@ day"</string>
     <string name="perm_description_set_watch_face_privileged">Това приложение може да зададе циферблат без потвърждение.</string>
     <string name="open">Отвори</string>
     <string name="open_on_phone">Open on phone</string>
-    <string name="title_mute_app">Block app</string>
+    <string name="title_mute_app">Блокирано приложение</string>
     <string name="mute_app_confirmation">Never show cards from this app</string>
     <string name="reply">Отговор</string>
     <string name="dismissing">Dismissing...</string>
     <string name="cue_menu_take_a_note">Take a note</string>
     <string name="cue_menu_take_a_note_help">drink more water</string>
-    <string name="cue_menu_reminder">Remind me</string>
+    <string name="cue_menu_reminder">Напомни ми</string>
     <string name="cue_menu_reminder_help">to go for a run at 7am</string>
     <string name="cue_menu_show_steps">Show me my steps</string>
     <string name="cue_menu_track_bike_ride">Start a bike ride</string>
@@ -325,7 +325,7 @@ day"</string>
     <string name="cue_menu_timer">Set a timer</string>
     <string name="cue_menu_stopwatch">Start stopwatch</string>
     <string name="cue_menu_agenda">Agenda</string>
-    <string name="cue_menu_agenda_help">for today</string>
+    <string name="cue_menu_agenda_help">за днес</string>
     <string name="cue_menu_settings">Настройки</string>
     <string name="cue_menu_bug_report">Take bug report</string>
     <string name="cue_menu_apps">Старт…</string>
@@ -350,7 +350,7 @@ day"</string>
     <string name="voice_action_navigate_title_mode_drive">Navigate (driving)</string>
     <string name="voice_action_navigate_title_mode_public_transportation">Navigate (public transportation)</string>
     <string name="voice_action_navigate_title_mode_walk">Navigate (walking)</string>
-    <string name="voice_action_navigate_mode_bike">Bicycling</string>
+    <string name="voice_action_navigate_mode_bike">Колоездене</string>
     <string name="voice_action_navigate_mode_drive">Шофиране</string>
     <string name="voice_action_navigate_mode_walk">Ходене</string>
     <string name="voice_action_note_title">Бележка</string>
@@ -359,7 +359,7 @@ day"</string>
     <string name="voice_action_alarm_title">Будилник</string>
     <string name="voice_action_timer_title">Таймер</string>
     <string name="voice_action_sms_title">СМС</string>
-    <string name="voice_action_remote_app_title">Open app</string>
+    <string name="voice_action_remote_app_title">Отвори приложение</string>
     <string name="voice_action_play_music_title">Play music on phone</string>
     <string name="voice_action_field_destination_description">Destination</string>
     <string name="voice_action_field_destination_address">Адрес</string>
@@ -389,7 +389,7 @@ day"</string>
     <string name="reminder_creation_success">Reminder added</string>
     <string name="voice_action_cancel">Отказ</string>
     <string name="navigation_success">Navigation started</string>
-    <string name="sms_success">Text sent</string>
+    <string name="sms_success">Текста е изпратен</string>
     <string name="email_success">Изпратен имейл</string>
     <string name="call_success">Call started on your phone</string>
     <string name="open_remote_app_success">Opened on phone</string>
@@ -435,7 +435,7 @@ Sorry, Google can\'t help you with that"</string>
     <string name="search_calculator_left">%s =</string>
     <string name="search_currency_left">%s равно</string>
     <string name="search_translation_title">\"%1$s\" in %2$s</string>
-    <string name="search_when_is_start">%s begins</string>
+    <string name="search_when_is_start">%s започва</string>
     <string name="search_when_is_end">и край</string>
     <string name="search_when_is_start_evening">%s begins in the evening of</string>
     <string name="search_when_is_end_evening">and ends in the evening of</string>
@@ -449,8 +449,8 @@ Sorry, Google can\'t help you with that"</string>
     <string name="friday">Петък</string>
     <string name="saturday">Събота</string>
     <string name="sunday">Неделя</string>
-    <string name="search_flight_departure_location">Depart %s</string>
-    <string name="search_flight_arrival_location">Arrive %s</string>
+    <string name="search_flight_departure_location">Отправяне %s</string>
+    <string name="search_flight_arrival_location">Пристига %s</string>
     <string name="search_flight_originally_scheduled_time">(Scheduled %s)</string>
     <string name="search_flight_terminal_gate">Terminal %1$s, Gate %2$s</string>
     <string name="search_flight_name">%1$s %2$s</string>
@@ -481,7 +481,7 @@ Sorry, Google can\'t help you with that"</string>
     <string name="incoming_call_sending">Изпращане…</string>
     <string name="av_next">Следващо</string>
     <string name="av_previous">Предишно</string>
-    <string name="av_thumbs_up">Thumbs up</string>
+    <string name="av_thumbs_up">Вярвам, че някой ще се представи добре</string>
     <string name="av_thumbs_down">Thumbs down</string>
     <string name="av_volume_up">Увеличи звука</string>
     <string name="av_volume_down">Volume down</string>
