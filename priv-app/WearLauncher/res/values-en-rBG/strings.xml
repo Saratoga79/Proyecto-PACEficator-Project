@@ -52,7 +52,7 @@
     <string name="seconed_confirm_nodisturb">"Тих режим е вкл
 ново известие няма да се показва."</string>
     <string name="quick_settings_battery_charging_full">Напълно заредена</string>
-    <string name="quick_settings_battery_is_charging">Charging...</string>
+    <string name="quick_settings_battery_is_charging">Зареждане...</string>
     <string name="quick_settings_battery_hasnot_charged">Not been charged</string>
     <string name="quick_settings_battery_charging_intervalDay">%1$d days %2$d hours since charge</string>
     <string name="quick_settings_battery_charging_intervalDay_lessHour">%d days since charge</string>
@@ -160,7 +160,7 @@ since charge"</string>
     <string name="common_android_wear_update_title">Update Android Wear</string>
     <string name="common_google_play_services_update_text">"Това приложение няма да работи, освен ако не актуализирате услугите на Google Play."</string>
     <string name="common_android_wear_update_text">"Това приложение няма да работи, освен ако не актуализирате приложението Android Wear."</string>
-    <string name="common_google_play_services_network_error_title">Network Error</string>
+    <string name="common_google_play_services_network_error_title">Мрежова грешка</string>
     <string name="common_google_play_services_network_error_text">За връзка с услугите на Google Play е необходима връзка за данни.</string>
     <string name="common_google_play_services_invalid_account_title">Невалиден Профил</string>
     <string name="common_google_play_services_invalid_account_text">Посоченият профил не съществува на това устройство. Моля, изберете друг профил.</string>
@@ -242,7 +242,7 @@ day"</string>
     <string name="cal_who">Кого</string>
     <string name="cal_status_accepted">Отивам</string>
     <string name="cal_status_declined">Отказано</string>
-    <string name="cal_status_invited">No response</string>
+    <string name="cal_status_invited">Няма отговор</string>
     <string name="cal_status_tentative">Може би</string>
     <string name="cal_min">мин</string>
     <string name="cal_plus_x_more">+ още %s</string>
@@ -269,7 +269,7 @@ day"</string>
     <string name="reset_action">Нулиране на устройството</string>
     <string name="arrive_title">Пристигат</string>
     <string name="depart_title">Отправяне</string>
-    <string name="flight_reservation_number">Reservation #</string>
+    <string name="flight_reservation_number">Резервация #</string>
     <string name="flight_information">%1$s %2$s</string>
     <string name="operating_airline_info">Operated by %1$s</string>
     <string name="skip_activity">SKIP_ACTIVITY</string>
