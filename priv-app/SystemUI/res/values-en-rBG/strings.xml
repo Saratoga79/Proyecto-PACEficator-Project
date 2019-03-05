@@ -10,11 +10,11 @@
     <string name="lland">L Земя</string>
     <string name="app_label">System UI</string>
     <string name="status_bar_clear_all_button">Ясно</string>
-    <string name="status_bar_recent_remove_item_title">Remove from list</string>
+    <string name="status_bar_recent_remove_item_title">Премахване от списъка</string>
     <string name="status_bar_recent_inspect_item_title">Данни за прилож</string>
     <string name="status_bar_no_recent_apps">Your recent screens appear here</string>
     <string name="status_bar_accessibility_dismiss_recents">Dismiss recent apps</string>
-    <string name="status_bar_no_notifications_title">No notifications</string>
+    <string name="status_bar_no_notifications_title">Няма известия</string>
     <string name="status_bar_ongoing_events_title">Текущи</string>
     <string name="status_bar_latest_events_title">Известия</string>
     <string name="battery_low_title">Изтощена батерия</string>
@@ -101,8 +101,8 @@
     <string name="accessibility_wifi_two_bars">WiFi две ленти.</string>
     <string name="accessibility_wifi_three_bars">Wifi three bars.</string>
     <string name="accessibility_wifi_signal_full">Wifi signal full.</string>
-    <string name="accessibility_wifi_name">Connected to %s.</string>
-    <string name="accessibility_bluetooth_name">Connected to %s.</string>
+    <string name="accessibility_wifi_name">Свързани сте към %s.</string>
+    <string name="accessibility_bluetooth_name">Свързани сте към %s.</string>
     <string name="accessibility_no_wimax">Няма WiMAX.</string>
     <string name="accessibility_wimax_one_bar">WiMAX една лента.</string>
     <string name="accessibility_wimax_two_bars">WiMAX две ленти.</string>
@@ -134,7 +134,7 @@
     <string name="accessibility_bluetooth_tether">Bluetooth tethering.</string>
     <string name="accessibility_airplane_mode">Самолетен режим.</string>
     <string name="accessibility_battery_level">Battery %d percent.</string>
-    <string name="accessibility_settings_button">System settings.</string>
+    <string name="accessibility_settings_button">Системни настройки.</string>
     <string name="accessibility_notifications_button">Известия.</string>
     <string name="accessibility_remove_notification">Изчисти уведомления.</string>
     <string name="accessibility_gps_enabled">GPS enabled.</string>
@@ -154,7 +154,7 @@
     <string name="accessibility_desc_recent_apps">Общ преглед.</string>
     <string name="accessibility_quick_settings_user">Потребител %s.</string>
     <string name="accessibility_quick_settings_wifi">%1$s.</string>
-    <string name="accessibility_quick_settings_wifi_changed_off">Wifi turned off.</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">Wifi е изключен.</string>
     <string name="accessibility_quick_settings_wifi_changed_on">Wifi е включен.</string>
     <string name="accessibility_quick_settings_mobile">Мобилни %1$s. %2$s. %3$s.</string>
     <string name="accessibility_quick_settings_battery">Батерия %s.</string>
@@ -317,10 +317,10 @@ be monitored"</string>
     <string name="battery_saver_notification_action_text">Turn off battery saver</string>
     <string name="notification_hidden_text">Съдържанието е скрито</string>
     <string name="media_projection_dialog_text">"%s ще започне да улавя всичко, което се показва на екрана ви."</string>
-    <string name="media_projection_remember_text">"Don't show again"</string>
+    <string name="media_projection_remember_text">"Да не се показва отново"</string>
     <string name="clear_all_notifications_text">Изчистване на всичко</string>
     <string name="media_projection_action_text">Започнете сега</string>
-    <string name="empty_shade_text">No notifications</string>
+    <string name="empty_shade_text">Няма известия</string>
     <string name="device_owned_footer">Device may be monitored</string>
     <string name="profile_owned_footer">Profile may be monitored</string>
     <string name="vpn_footer">Network may be monitored</string>
@@ -399,7 +399,7 @@ be monitored"</string>
     <string name="hidden_notifications_cancel">Не, благодаря</string>
     <string name="hidden_notifications_setup">Настройване</string>
     <string name="zen_mode_and_condition">%1$s. %2$s</string>
-    <string name="screen_pinning_title">Screen is pinned</string>
+    <string name="screen_pinning_title">Екранът е фиксиран</string>
     <string name="screen_pinning_description">Това го запазва видимо, докато не го откачите. Докоснете и задръжте Back и Overview едновременно, за да го откачите.</string>
     <string name="screen_pinning_description_accessible">Това го запазва видимо, докато не го откачите. Докоснете и задръжте Преглед, за да го откачите.</string>
     <string name="screen_pinning_positive">Готово</string>
