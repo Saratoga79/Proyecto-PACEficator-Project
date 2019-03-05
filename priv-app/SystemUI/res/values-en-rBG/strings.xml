@@ -189,7 +189,7 @@
     <string name="data_usage_disabled_dialog_3g_title">2G-3G data is off</string>
     <string name="data_usage_disabled_dialog_4g_title">4G данни са изключени</string>
     <string name="data_usage_disabled_dialog_mobile_title">Cellular data is off</string>
-    <string name="data_usage_disabled_dialog_title">Data is off</string>
+    <string name="data_usage_disabled_dialog_title">Данните са изключени</string>
     <string name="data_usage_disabled_dialog">"Устройството ви е изключило данните, защото достигнахте лимита, който сте задали.
 
 Включването им може да доведе до такси от оператора ви."</string>
@@ -217,7 +217,7 @@
     <string name="quick_settings_bluetooth_off_label">Bluetooth изключен</string>
     <string name="quick_settings_bluetooth_detail_empty_text">No paired devices available</string>
     <string name="quick_settings_brightness_label">Яркост</string>
-    <string name="quick_settings_rotation_unlocked_label">Auto-rotate</string>
+    <string name="quick_settings_rotation_unlocked_label">Автоматично завъртане</string>
     <string name="quick_settings_rotation_locked_label">Въртенето е заключено</string>
     <string name="quick_settings_rotation_locked_portrait_label">Портрет</string>
     <string name="quick_settings_rotation_locked_landscape_label">Пейзажно</string>
@@ -327,7 +327,7 @@ be monitored"</string>
     <string name="monitoring_title_device_owned">Device monitoring</string>
     <string name="monitoring_title_profile_owned">Profile monitoring</string>
     <string name="monitoring_title">Network monitoring</string>
-    <string name="disable_vpn">Disable VPN</string>
+    <string name="disable_vpn">Деактивирай VPN</string>
     <string name="disconnect_vpn">Прекъснете VPN</string>
     <string name="monitoring_description_device_owned">"Това устройство се управлява от:
 %1$s
@@ -430,7 +430,7 @@ be monitored"</string>
     <string name="keyguard_low_battery">Connect your charger.</string>
     <string name="keyguard_instructions_when_pattern_disabled">Натиснете „Меню“, за да отключите.</string>
     <string name="keyguard_network_locked_message">Мрежата е заключена</string>
-    <string name="keyguard_missing_sim_message_short">No SIM card</string>
+    <string name="keyguard_missing_sim_message_short">Няма SIM карта</string>
     <string name="keyguard_missing_sim_message">В таблета няма SIM карта.</string>
     <string name="keyguard_missing_sim_instructions">Поставете SIM карта.</string>
     <string name="keyguard_missing_sim_instructions_long">SIM картата липсва или е нечетлива. Поставете SIM карта.</string>
@@ -443,7 +443,7 @@ be monitored"</string>
     <string name="keyguard_widget_12_hours_format">hmm</string>
     <string name="keyguard_widget_24_hours_format">kkmm</string>
     <string name="keyguard_accessibility_widget_changed">%1$s. Приспособление %2$d от %3$d.</string>
-    <string name="keyguard_accessibility_add_widget">Add widget.</string>
+    <string name="keyguard_accessibility_add_widget">Добавете джаджа.</string>
     <string name="keyguard_accessibility_widget_empty_slot">Празен</string>
     <string name="keyguard_accessibility_unlock_area_expanded">Областта за отключване е разгъната.</string>
     <string name="keyguard_accessibility_unlock_area_collapsed">Областта за отключване е свита.</string>
@@ -550,5 +550,5 @@ be monitored"</string>
     <string name="keyguard_transport_pause_description">Бутон пауза</string>
     <string name="keyguard_transport_play_description">Бутон Възпроизвеждане</string>
     <string name="keyguard_transport_stop_description">Бутон Стоп</string>
-    <string name="keyguard_carrier_default">No service.</string>
+    <string name="keyguard_carrier_default">Няма услуга.</string>
 </resources>
