@@ -7,11 +7,11 @@
     <string name="app_name">Здраве</string>
     <string name="settings_step_unit">крачки</string>
     <string name="settings_step_target">Цел крачки</string>
-    <string name="settings_target_reach_reminder">Goal alert</string>
-    <string name="settings_long_sit_reminder">Idle alert</string>
+    <string name="settings_target_reach_reminder">Предупреждение за цел</string>
+    <string name="settings_long_sit_reminder">Сигнал за неактивност</string>
     <string name="settings_on">Вкл</string>
     <string name="settings_off">Изкл</string>
-    <string name="notif_long_sit_title">Idle alert</string>
+    <string name="notif_long_sit_title">Сигнал за неактивност</string>
     <string name="notif_long_sit_desc">"Твърде дълго си седнал. Нека се изправим и да се движим за минута."</string>
     <string name="notif_target_reach_title">Daily goal achieved</string>
     <string name="notif_target_reach_desc">"You've reached your daily step goal."</string>
@@ -83,10 +83,10 @@
     <string name="sleep_statistics">Статистика</string>
     <string name="whole_day_light_sleep">Light sleep</string>
     <string name="whole_day_deep_sleep">Дълбок сън</string>
-    <string name="total_sleep">In bed for</string>
+    <string name="total_sleep">В леглото за</string>
     <string name="all_day_deep_sleep">Дълбок сън</string>
     <string name="all_day_light_sleep">Light sleep</string>
-    <string name="awake_duration">Time awake</string>
+    <string name="awake_duration">Време на събуждане</string>
     <string name="sleep_unit_minute">м</string>
     <string name="sleep_uniti_hour">ч</string>
     <string name="sleep_duration">%1$sh %2$sm</string>
@@ -98,7 +98,7 @@
     <string name="am">Преди обяд</string>
     <string name="pm">След обяд</string>
     <string name="heart_rate_no_data">No heart rate data</string>
-    <string name="label_heart_rate_text">Heart rate</string>
+    <string name="label_heart_rate_text">Сърдечна честота</string>
     <string name="today_heart_rate_title_text">Детайли</string>
     <string name="today_heart_rate_ave_text">Среден</string>
     <string name="today_heart_rate_max_text">Max (BPM)</string>
@@ -131,7 +131,7 @@
     <string name="all_day_hearte_rate_button_open">Turn on continuous HR</string>
     <string name="dlg_confirm">ОК</string>
     <string name="dlg_cancel">Отказ</string>
-    <string name="heart_name">Heart rate</string>
+    <string name="heart_name">Сърдечна честота</string>
     <string name="step_name">Активност</string>
     <string name="sleep_name">Сън</string>
     <string name="climbed_floors">Качване на етаж</string>
@@ -146,9 +146,9 @@
     <string name="widget_step_target_month_tips"><liff>%d</liff>преди месеци</string>
     <string name="widget_step_target_year_tips"><liff>%d</liff>преди години</string>
     <string name="widget_label_step_unit">крачки</string>
-    <string name="widget_label_heartrate">Heart rate</string>
+    <string name="widget_label_heartrate">Сърдечна честота</string>
     <string name="widget_label_heartrate_unit">BPM</string>
-    <string name="widget_heartrate_gauging">Measuring…</string>
+    <string name="widget_heartrate_gauging">Измерване на…</string>
     <string name="widget_heartrate_gauge_failure">Носете часовника правилно на китката си за точни резултати.</string>
     <string name="widget_heartrate_gauge_failure_title">"Can't get result"</string>
     <string name="widget_err_step_shown">Error: (-1)</string>
@@ -156,7 +156,7 @@
     <string name="widget_heart_gauged_err_tips">Wear the watch above the wrist.</string>
     <string name="widget_weeklyreports_heart_rate_min_text">Min (BPM)</string>
     <string name="widget_weeklyreports_heart_rate_max_text">Max (BPM)</string>
-    <string name="widget_weeklyreports_heart_rate_title">Heart rate</string>
+    <string name="widget_weeklyreports_heart_rate_title">Сърдечна честота</string>
     <string name="widget_weeklyreports_average_title">Среден</string>
     <string name="widget_weeklyreports_totalcalory_front">Total calories</string>
     <string name="widget_weeklyreports_totalcalory_title">Калории</string>
