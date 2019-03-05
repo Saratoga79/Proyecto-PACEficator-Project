@@ -20,13 +20,13 @@
     <string name="install_failed_invalid_apk">The package appears to be corrupt.</string>
     <string name="install_failed_inconsistent_certificates">Вече е инсталиран съществуващ пакет със същото име с конфликтен подпис.</string>
     <string name="install_failed_older_sdk">Пакетът работи само с по-нови версии на Android.</string>
-    <string name="install_failed_cpu_abi_incompatible">"This app isn't compatible with your tablet."</string>
+    <string name="install_failed_cpu_abi_incompatible">"Това приложение не е съвместимо с таблета ви."</string>
     <string name="install_failed_file_not_found">Посоченият пакет бе изтрит преди инсталацията да бъде завършена.</string>
     <string name="install_failed_verify_failed">Пакетът не е преминал проверка и не може да бъде инсталиран.</string>
     <string name="install_failed_verify_timeout">Опита за потвърждаване на този пакет се забави. Опитайте се да инсталирате отново по-късно.</string>
     <string name="install_failed_msg">"%1$s couldn't be installed on your tablet."</string>
     <string name="launch">Отвори</string>
-    <string name="unknown_apps_dlg_title">Install blocked</string>
+    <string name="unknown_apps_dlg_title">Инсталирането е блокирано</string>
     <string name="unknown_apps_dlg_text">За сигурност, таблетът ви е настроен да блокира инсталирането на приложения, получени от неизвестни източници.</string>
     <string name="unknown_apps_admin_dlg_text">"Администраторът ви не позволява инсталирането на приложения, получени от неизвестни източници."</string>
     <string name="ok">ОК</string>
