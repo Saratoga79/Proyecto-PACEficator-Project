@@ -41,7 +41,7 @@
     <string name="crossing_setting_unit">км</string>
     <string name="crossing_settings_item_title_individual_remind">Single lap distance</string>
     <string name="crossing_settings_item_value_individual">%1s км</string>
-    <string name="crossing_remind_target_individual_title">Lap %1d</string>
+    <string name="crossing_remind_target_individual_title">Обиколка %1d</string>
     <string name="crossing_remind_target_individual_cost_time">Време</string>
     <string name="crossing_remind_target_individual_pace">Темпо</string>
     <string name="agps_time_out">AGPS изтече. GPS търсенето ще бъде бавно. Свържете се с приложението Amazfit Watch, за да го актуализирате.</string>
@@ -142,7 +142,7 @@
     <string name="settings_sport_swim_title">Басейн размер (м)</string>
     <string name="settings_sport_swim_tips">Часовникът ще брои обиколки, въз основа на размера на басейна</string>
     <string name="settings_sport_measure_heart">PPG вкл/изкл</string>
-    <string name="settings_sport_rt_guide">Guidance</string>
+    <string name="settings_sport_rt_guide">Ръководство</string>
     <string name="settings_sport_auto_pace_title">Pause at pace</string>
     <string name="settings_sport_auto_speed_title">Pause at speed</string>
     <string name="settings_content_stand_still">Standing still</string>
@@ -202,7 +202,7 @@
     <string name="sport_main_beyond_heart_info_title">High heart rate</string>
     <string name="sport_main_pace_info_title">Темпо</string>
     <string name="heartrate_x_axis_time_format">HH:mm:ss</string>
-    <string name="lap_title">Lap %1$d</string>
+    <string name="lap_title">Обиколка %1$d</string>
     <string name="manual_lap_title">Manual laps %1$d</string>
     <string name="auto_lap_title">Auto laps %1$d</string>
     <string name="lap_total_time">Общо време</string>
@@ -238,7 +238,7 @@
     <string name="sport_graph_title_ave">Среден</string>
     <string name="sport_graph_title_max">Макс</string>
     <string name="sport_graph_title_min">Мин</string>
-    <string name="sport_graph_title_fast">Fastest</string>
+    <string name="sport_graph_title_fast">Най-бързо</string>
     <string name="sport_graph_title_high">Най-висока</string>
     <string name="sport_graph_title_low">Най-ниска</string>
     <string name="adjust_content">%1$dм</string>
@@ -247,7 +247,7 @@
     <string name="hill_title">Slope distribution</string>
     <string name="hill_even">Плосък</string>
     <string name="hill_up">Uphill</string>
-    <string name="hill_down">Downhill</string>
+    <string name="hill_down">Спускане</string>
     <string name="hill_default_time">00:00:00</string>
     <string name="hill_default_percent">%1$d%%</string>
     <string name="sport_result_in_progress">Записване на данни…</string>
@@ -310,14 +310,14 @@
     <string name="pause_sport">Pause activity</string>
     <string name="continue_sport">Continue activity</string>
     <string name="stop_sport">Stop activity</string>
-    <string name="swim_avg_stroke_speed">Avg SPM</string>
+    <string name="swim_avg_stroke_speed">Срд SPM</string>
     <string name="swim_max_stroke_speed">Max stroke rate</string>
     <string name="swim_trips">Обиколки</string>
     <string name="target_swim_trips">Target laps</string>
     <string name="swim_total_trips">Total laps</string>
     <string name="swim_stroke">Strokes</string>
     <string name="swim_stroke_times">Сесии</string>
-    <string name="swim_avg_dps">Avg DPS</string>
+    <string name="swim_avg_dps">Срд DPS</string>
     <string name="swim_swolf">SWOLF</string>
     <string name="swim_swolf_unit">(%1$s м)</string>
     <string name="swim_swolf_unit_default">(100 м)</string>
@@ -331,7 +331,7 @@
     <string name="heart_region_title">Heart rate zone</string>
     <string name="heart_region_anaerobic＿limit">VO₂ макс</string>
     <string name="heart_region_endurance_enhancement">Anaerobic</string>
-    <string name="heart_region_heart_and_lung_enhancement">Aerobic</string>
+    <string name="heart_region_heart_and_lung_enhancement">Аеробен</string>
     <string name="heart_region_fat_burning">Интензивно</string>
     <string name="heart_region_warm_up_and_relax">Светла</string>
     <string name="sport_te_title">Тренировъчен ефект (TE)</string>
@@ -410,8 +410,8 @@
     <string name="setting_reserve_heart_region_1">Зона 1</string>
     <string name="setting_reserve_heart_region_2">Зона 2</string>
     <string name="setting_reserve_heart_region_3">Зона 3</string>
-    <string name="virtual_rabbit_backward_time">Lag time</string>
-    <string name="anti_navigation_pause_content">Head back</string>
+    <string name="virtual_rabbit_backward_time">Време на задържане</string>
+    <string name="anti_navigation_pause_content">Главата назад</string>
     <string name="virtual_rabbit_lead_time">Lead time</string>
     <string name="sport_main_beyond_heart_info_remind">Beyond the heart rate limit</string>
     <string name="setting_not_remind">Няма</string>
@@ -635,7 +635,7 @@
     <string name="real_time_guide_desc_33">Това упражнение може да е било твърде трудно за вашето тяло.</string>
     <string name="real_time_guide_desc_34">Target heart rate range is %1$s-%2$s BPM.</string>
     <string name="real_time_guide_desc_35">"Време за релакс"</string>
-    <string name="rope_arrive_goal_unit">s/jump</string>
+    <string name="rope_arrive_goal_unit">с/скок</string>
     <string name="aleary_finish_group">Completed group %1$s</string>
     <string name="this_group_count">Брой</string>
     <string name="group_cost_time">Време</string>
@@ -704,11 +704,11 @@
     <string name="skiing_downhill_elev_loss">Спускане</string>
     <string name="skiing_rt_downhill_desecnd">Total downhill</string>
     <string name="sport_tennis_strokes">Strokes</string>
-    <string name="last_lap_pace">Lap pace</string>
+    <string name="last_lap_pace">Темпо на интервала</string>
     <string name="last_lap_stepfreq">Lap cadence</string>
     <string name="last_lap_duration">Време на обиколка</string>
     <string name="last_lap_hr">Lap HR</string>
-    <string name="last_lap_speed">Lap speed</string>
+    <string name="last_lap_speed">Скорост за обиколка</string>
     <string name="running_cost_time_desc">Време</string>
     <string name="running_pace_desc">Темпо</string>
     <string name="running_calorie_desc">Калории</string>
@@ -908,7 +908,7 @@
     <string name="setting_sport_heart_region_high＿intensity_exercise">Intensive exercise</string>
     <string name="setting_sport_heart_region_custom">Custom zone</string>
     <string name="setting_sport_heart_region_text_fat_burning">Fat burning</string>
-    <string name="setting_sport_heart_region_text_aerobic">Aerobic</string>
+    <string name="setting_sport_heart_region_text_aerobic">Аеробен</string>
     <string name="setting_sport_heart_region_text_high＿intensity_exercise">Intensive exercise</string>
     <string name="setting_sport_heart_region_text_custom">Потребителски</string>
     <string name="remind_heart_rate_region_over">Heart rate is too high</string>
