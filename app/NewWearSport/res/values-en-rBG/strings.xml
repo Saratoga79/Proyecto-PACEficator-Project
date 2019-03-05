@@ -605,7 +605,7 @@
     <string name="real_time_guide_title_10">Keep the pace</string>
     <string name="real_time_guide_title_11">Ускоряване</string>
     <string name="real_time_guide_title_14">Keep the pace</string>
-    <string name="real_time_guide_title_22">Keep the pace</string>
+    <string name="real_time_guide_title_22">Запази темпото</string>
     <string name="real_time_guide_title_25">Ускоряване</string>
     <string name="real_time_guide_title_26">Ускоряване</string>
     <string name="real_time_guide_title_27">Reached your goal</string>
@@ -772,9 +772,9 @@
     <string name="history_detail_walking_title">Ходене</string>
     <string name="history_detail_indoor_running_title">Бягаща пътека</string>
     <string name="history_detail_cost_time">Общо време</string>
-    <string name="history_detail_pace_desc">Pace (min/km)</string>
+    <string name="history_detail_pace_desc">Темпо (min/km)</string>
     <string name="history_detail_calorie_desc">Calories (kcal)</string>
-    <string name="history_detail_step_freq">Cadence (SPM)</string>
+    <string name="history_detail_step_freq">Ритъм (SPM)</string>
     <string name="history_detail_speed">Скорост (км/ч)</string>
     <string name="waiting_gps_gps_unavailable">Чакане на сигнал от GPS сателити</string>
     <string name="waiting_gps_gps_available">GPS available now</string>
@@ -835,7 +835,7 @@
     <string name="walking_end_sport">Stop activity first</string>
     <string name="running_in_progress">Тичане…</string>
     <string name="walking_in_progress">Ходене…</string>
-    <string name="remind_target_distance_title_format">Goal: %1$d km</string>
+    <string name="remind_target_distance_title_format">Цел: %1$d км</string>
     <string name="remind_target_km_title_format">Завършени: %1$d км</string>
     <string name="remind_target_km_walking_title_format">Завършени: %1$d км</string>
     <string name="remind_target_distance_finished">Завършени</string>
@@ -930,8 +930,8 @@
     <string name="metre_metric">м</string>
     <string name="km_metric_pace_unit">/км</string>
     <string name="km_metric_speed_unit">км/ч</string>
-    <string name="km_metric_distance">Distance (km)</string>
-    <string name="km_metric_remind_target_distance_title_format">Goal: %1$d km</string>
+    <string name="km_metric_distance">Разстояние (км)</string>
+    <string name="km_metric_remind_target_distance_title_format">Цел: %1$d км</string>
     <string name="km_metric_remind_target_km_title_format">Completed %1$d km</string>
     <string name="km_metric_remind_target_km_walking_title_format">Completed %1$d km</string>
     <string name="km_metric_remind_target_distance_training_title_format">Completed %1s km</string>
@@ -945,8 +945,8 @@
     <string name="metre_imperial">фута</string>
     <string name="km_imperial_pace_unit">/мили</string>
     <string name="km_imperial_speed_unit">мили/ч</string>
-    <string name="km_imperial_distance">Distance (mi)</string>
-    <string name="km_imperial_remind_target_distance_title_format">Goal: %1$d mi</string>
+    <string name="km_imperial_distance">Разстояние (мили)</string>
+    <string name="km_imperial_remind_target_distance_title_format">Цел: %1$d мили</string>
     <string name="km_imperial_remind_target_km_title_format">Completed %1$d mi</string>
     <string name="km_imperial_remind_target_km_walking_title_format">Completed %1$d mi</string>
     <string name="km_imperial_remind_target_riding_km_title_format">Завършени %1$d мили</string>
