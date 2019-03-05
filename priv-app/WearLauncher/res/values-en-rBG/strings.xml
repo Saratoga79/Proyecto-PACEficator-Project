@@ -19,7 +19,7 @@
     <string name="notification_time_year">yyyy/MM/dd HH:mm</string>
     <string name="action_delete">Изтриване</string>
     <string name="action_shield">Блок</string>
-    <string name="notification_none">All caught up</string>
+    <string name="notification_none">Всичко е получено</string>
     <string name="notification_allclear">Изчистване на всичко</string>
     <string name="notification_allclear_confirm">Изчистените известия повече няма да могат да се четат, да продължа ли?</string>
     <string name="notification_checking_bluetooth">Checking Bluetooth connection…</string>
@@ -171,7 +171,7 @@ since charge"</string>
     <string name="common_signin_button_text">Вписване</string>
     <string name="common_signin_button_text_long">Sign in with Google</string>
     <string name="pre_release_do_not_ship">вярно</string>
-    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_open_on_phone">Отваряне на телефона</string>
     <string name="wallet_buy_button_place_holder">Купете с Google</string>
     <string name="retail_hangout_text">Hey, do you want to get dinner tonight?</string>
     <string name="retail_hangout_response">Sure, where do you have in mind?</string>
@@ -284,11 +284,11 @@ day"</string>
     <string name="perm_label_set_watch_face_privileged">Set watch face, privileged</string>
     <string name="perm_description_set_watch_face_privileged">Това приложение може да зададе циферблат без потвърждение.</string>
     <string name="open">Отвори</string>
-    <string name="open_on_phone">Open on phone</string>
+    <string name="open_on_phone">Отваряне на телефона</string>
     <string name="title_mute_app">Блокирано приложение</string>
     <string name="mute_app_confirmation">Never show cards from this app</string>
     <string name="reply">Отговор</string>
-    <string name="dismissing">Dismissing...</string>
+    <string name="dismissing">Отхвърляне...</string>
     <string name="cue_menu_take_a_note">Take a note</string>
     <string name="cue_menu_take_a_note_help">пийте повече вода</string>
     <string name="cue_menu_reminder">Напомни ми</string>
@@ -394,8 +394,8 @@ day"</string>
     <string name="call_success">Call started on your phone</string>
     <string name="open_remote_app_success">Opened on phone</string>
     <string name="voice_action_reminder_field">Напомняния?</string>
-    <string name="alarm_setting_success">Alarm created</string>
-    <string name="timer_setting_success">Timer started</string>
+    <string name="alarm_setting_success">Алармата е създадена</string>
+    <string name="timer_setting_success">Таймерът е стартиран</string>
     <string name="reminder_at_home">У дома</string>
     <string name="reminder_at_work">На работа</string>
     <string name="disambiguation_app_to_complete">Complete action using</string>
@@ -499,7 +499,7 @@ Sorry, Google can\'t help you with that"</string>
     <string name="no_items">Няма елементи.</string>
     <string name="disambiguate_action">Disambiguate action</string>
     <string name="status_bar_date_format">MMM d</string>
-    <string name="battery_is_at">Battery is at</string>
+    <string name="battery_is_at">Батерията е в</string>
     <string name="battery_saver_enabled">Battery saver is on</string>
     <string name="battery_saver_disabled">Battery saver is off</string>
     <string name="disable_battery_saver">Turn off battery saver</string>
@@ -535,7 +535,7 @@ Sorry, Google can\'t help you with that"</string>
     <string name="reminder_trigger_recurring">Повтарящи се</string>
     <string name="chrono_ambient_hrs_min" formatted="false">%s, %s</string>
     <string name="chrono_ambient_less_than_minute">&lt; 1 минута</string>
-    <string name="voice_action_prompt">You can say…</string>
+    <string name="voice_action_prompt">Може да се каже…</string>
     <string name="example_query_sep">или</string>
     <string name="example_query_note_1">Take a note, try to drink more water</string>
     <string name="example_query_note_2">Обърнете внимание, идея за филм: мъж се влюбва в своя MP3 плейър</string>
@@ -570,7 +570,7 @@ Sorry, Google can\'t help you with that"</string>
     <string name="contact_type_mobile">Мобилни</string>
     <string name="contact_type_main">Основен</string>
     <string name="power_idle">Watch idle</string>
-    <string name="power_unaccounted">Miscellaneous</string>
+    <string name="power_unaccounted">Разни</string>
     <string name="power_overcounted">Over-counted</string>
     <string name="power_screen">Екран</string>
     <string name="power_flashlight">Фенерче</string>
@@ -604,7 +604,7 @@ Sorry, Google can\'t help you with that"</string>
     <string name="quick_settings_notifications_all">Покажи всички</string>
     <string name="state_on">Вкл</string>
     <string name="state_off">Изкл</string>
-    <string name="quick_settings_sunlight_title">Sunlight mode</string>
+    <string name="quick_settings_sunlight_title">Режим слънчева светлина</string>
     <string name="theater_mode">Безшумен режим</string>
     <string name="theater_mode_toast_button">To turn screen back on, press side button</string>
     <string name="theater_mode_toast_no_button">To turn screen back on, double-tap the screen</string>
