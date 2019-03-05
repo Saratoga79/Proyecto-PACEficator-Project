@@ -221,10 +221,10 @@
     <string name="quick_settings_rotation_locked_label">Въртенето е заключено</string>
     <string name="quick_settings_rotation_locked_portrait_label">Портрет</string>
     <string name="quick_settings_rotation_locked_landscape_label">Пейзажно</string>
-    <string name="quick_settings_ime_label">Input Method</string>
+    <string name="quick_settings_ime_label">Метод на въвеждане</string>
     <string name="quick_settings_location_label">Местоположение</string>
     <string name="quick_settings_location_off_label">Местоположение изключено</string>
-    <string name="quick_settings_media_device_label">Media device</string>
+    <string name="quick_settings_media_device_label">Мултимедийно устройство</string>
     <string name="quick_settings_rssi_label">RSSI</string>
     <string name="quick_settings_rssi_emergency_only">Emergency Calls Only</string>
     <string name="quick_settings_settings_label">Настройки</string>
@@ -328,7 +328,7 @@ be monitored"</string>
     <string name="monitoring_title_profile_owned">Profile monitoring</string>
     <string name="monitoring_title">Network monitoring</string>
     <string name="disable_vpn">Disable VPN</string>
-    <string name="disconnect_vpn">Disconnect VPN</string>
+    <string name="disconnect_vpn">Прекъснете VPN</string>
     <string name="monitoring_description_device_owned">"Това устройство се управлява от:
 %1$s
 
@@ -447,7 +447,7 @@ be monitored"</string>
     <string name="keyguard_accessibility_widget_empty_slot">Празен</string>
     <string name="keyguard_accessibility_unlock_area_expanded">Областта за отключване е разгъната.</string>
     <string name="keyguard_accessibility_unlock_area_collapsed">Областта за отключване е свита.</string>
-    <string name="keyguard_accessibility_widget">%1$s widget.</string>
+    <string name="keyguard_accessibility_widget">%1$s джаджа.</string>
     <string name="keyguard_accessibility_user_selector">Инструмент за избор на потребители</string>
     <string name="keyguard_accessibility_camera">Камера</string>
     <string name="keygaurd_accessibility_media_controls">Контроли за мултимедията</string>
@@ -463,8 +463,8 @@ be monitored"</string>
     <string name="keyguard_accessibility_pattern_area">Област на фигурата.</string>
     <string name="keyguard_accessibility_slide_area">Област на плъзгане.</string>
     <string name="keyguard_accessibility_pin_area">ПИН област</string>
-    <string name="keyguard_accessibility_sim_pin_area">SIM PIN area</string>
-    <string name="keyguard_accessibility_sim_puk_area">SIM PUK area</string>
+    <string name="keyguard_accessibility_sim_pin_area">SIM PIN област</string>
+    <string name="keyguard_accessibility_sim_puk_area">SIM PUK област</string>
     <string name="keyguard_accessibility_transport_prev_description">Previous track button</string>
     <string name="keyguard_accessibility_transport_next_description">Next track button</string>
     <string name="keyguard_accessibility_transport_pause_description">Бутон пауза</string>
@@ -544,7 +544,7 @@ be monitored"</string>
     <string name="kg_password_wrong_puk_code_dead">SIM is unusable. Contact your carrier.</string>
     <string name="kg_password_pin_failed">SIM PIN operation failed!</string>
     <string name="kg_password_puk_failed">SIM PUK operation failed!</string>
-    <string name="kg_pin_accepted">Code Accepted!</string>
+    <string name="kg_pin_accepted">Код приет!</string>
     <string name="keyguard_transport_prev_description">Previous track button</string>
     <string name="keyguard_transport_next_description">Next track button</string>
     <string name="keyguard_transport_pause_description">Бутон пауза</string>
