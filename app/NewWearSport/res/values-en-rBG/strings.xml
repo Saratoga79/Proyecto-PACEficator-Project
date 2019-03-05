@@ -12,12 +12,12 @@
     <string name="auto_recoginition_not_remind">"Днес не го показвай отново"</string>
     <string name="auto_recoginition_save">Запази</string>
     <string name="auto_recoginition_end_title">Сесията приключи, запазване на данните?</string>
-    <string name="crossing_title">Trail run</string>
+    <string name="crossing_title">Бягане по пътека</string>
     <string name="crossing_end_sport">End trail run first</string>
     <string name="crossing_in_progress">Trail running…</string>
     <string name="crossing_max_step_freq_desc">Max cadence</string>
-    <string name="crossing_climb_up">Dist gain</string>
-    <string name="crossing_climb_down">Elev loss</string>
+    <string name="crossing_climb_up">Увеличаване на дистанцията</string>
+    <string name="crossing_climb_down">Намаляване на височината</string>
     <string name="crossing_individual_pen_dis">Single lap distance</string>
     <string name="crossing_individual_pen_cost_time">Single lap time</string>
     <string name="crossing_individual_pen_pace">Single lap pace</string>
@@ -27,11 +27,11 @@
     <string name="crossing_history_detail_move_time">Active time</string>
     <string name="crossing_history_detail_ave_move_pace">Ср темпо</string>
     <string name="crossing_history_detail_ave_move_pace_unit">/км</string>
-    <string name="crossing_history_detail_best_pace">Best pace</string>
-    <string name="crossing_history_detail_ave_move_speed">Avg speed</string>
-    <string name="crossing_history_detail_max_speed">Max speed</string>
-    <string name="crossing_history_detail_climb_up">Elev gain</string>
-    <string name="crossing_history_detail_climb_down">Elev loss</string>
+    <string name="crossing_history_detail_best_pace">Най-добра цена</string>
+    <string name="crossing_history_detail_ave_move_speed">Ср скорост</string>
+    <string name="crossing_history_detail_max_speed">Максимална скорост</string>
+    <string name="crossing_history_detail_climb_up">Увеличаване на височината</string>
+    <string name="crossing_history_detail_climb_down">Намаляване на височината</string>
     <string name="crossing_history_detail_absolute_altitude">Надморска височина</string>
     <string name="crossing_history_detail_high_altitude">Най-високата надморска височина</string>
     <string name="crossing_history_detail_low_altitude">Lowest altitude</string>
@@ -89,7 +89,7 @@
     <string name="detail_route_total_dis">Total distance</string>
     <string name="detail_route_detail_lap_title">Lap details</string>
     <string name="detail_route_detail_manual_lap_title">Manual laps</string>
-    <string name="detail_route_detail_auto_lap_title">Auto laps</string>
+    <string name="detail_route_detail_auto_lap_title">Автообиколки</string>
     <string name="detail_lap_num">Обиколка</string>
     <string name="detail_lap_serial_number">Сериен номер</string>
     <string name="detail_lap_time">Време</string>
@@ -110,7 +110,7 @@
     <string name="picker_title_auto_pause">Pace (m:s/%1$s)</string>
     <string name="picker_title_auto_pause_speed">Speed (%1$s/h)</string>
     <string name="picker_title_target_dis">Distance (%1$s)</string>
-    <string name="picker_title_target_time">Time (h/m)</string>
+    <string name="picker_title_target_time">Време (h/m)</string>
     <string name="picker_title_target_calorie">Calories (kcal)</string>
     <string name="picker_title_target_te">Цел ТЕ</string>
     <string name="picker_title_target_heart_rate">Heart rate (BPM)</string>
@@ -126,16 +126,16 @@
     <string name="settings_sport_target">Activity goal</string>
     <string name="settings_sport_remind">Activity reminders</string>
     <string name="settings_sport_control">Допълнителни настройки</string>
-    <string name="settings_sport_auto_pause">Auto pause</string>
+    <string name="settings_sport_auto_pause">Авто пауза</string>
     <string name="settings_sport_auto_pause_triathlon">Auto-pause</string>
     <string name="settings_sport_cadence_link">Аксесоари</string>
     <string name="settings_sport_route">Import routes</string>
     <string name="settings_sport_items">Sports data</string>
     <string name="settings_sport_3d_data">3D данни</string>
     <string name="settings_sport_real_graph">Real-time stats</string>
-    <string name="settings_sport_auto_section">Auto laps</string>
+    <string name="settings_sport_auto_section">Автообиколки</string>
     <string name="settings_sport_lap">Обиколки</string>
-    <string name="settings_sport_lap_auto">Auto laps</string>
+    <string name="settings_sport_lap_auto">Автообиколки</string>
     <string name="settings_sport_lap_auto_remind">Auto lap alert</string>
     <string name="settings_sport_target_TE">Цел ТЕ</string>
     <string name="settings_sport_swim_length">Размер на басейн</string>
@@ -172,7 +172,7 @@
     <string name="sport_cur_tar_dis_yd">Разстояние: %1$s ярда</string>
     <string name="sport_cur_tar_time">Elapsed time: %1$dh %2$dm</string>
     <string name="sport_cur_tar_cal">Calories: %1$s kcal</string>
-    <string name="sport_cur_tar_trips">Laps: %1$s</string>
+    <string name="sport_cur_tar_trips">Обиколки: %1$s</string>
     <string name="sport_setting_select_te_stage_title">Изберете TE</string>
     <string name="sport_setting_te_stage_content">TE%1$s %2$sм</string>
     <string name="history_pace_graph_desc">Pace (min/km)</string>
@@ -198,7 +198,7 @@
     <string name="history_start_sport_tips">Start an activity now.</string>
     <string name="sport_main_percent">%</string>
     <string name="unit_cadence">rpm</string>
-    <string name="sport_main_heart_info_title">Heartrate</string>
+    <string name="sport_main_heart_info_title">Пулс</string>
     <string name="sport_main_beyond_heart_info_title">High heart rate</string>
     <string name="sport_main_pace_info_title">Темпо</string>
     <string name="heartrate_x_axis_time_format">HH:mm:ss</string>
@@ -227,7 +227,7 @@
     <string name="sport_main_graph_title">Latest (min)</string>
     <string name="exchange_time_cost">Transition time</string>
     <string name="exchange_in_progress">In transition</string>
-    <string name="exchange_anim_title">Transition</string>
+    <string name="exchange_anim_title">Преход</string>
     <string name="sport_pause_swim_type">Swimming distance </string>
     <string name="sport_pause_swim_dis_unit">Разстояние</string>
     <string name="sport_pause_normal_dis_type">Разстояние </string>
@@ -275,7 +275,7 @@
     <string name="device_out">Device disconnected</string>
     <string name="history_swim_exchange_title">Transition time</string>
     <string name="history_riding_exchange_title">Transition time</string>
-    <string name="sport_pause_time_tips">Pause time</string>
+    <string name="sport_pause_time_tips">Време на пауза</string>
     <string name="sport_stride_unit">см</string>
     <string name="sport_stride_unit_imperial">в</string>
     <string name="end_last_sport_tips">Stop %1$s activity first</string>
@@ -286,9 +286,9 @@
     <string name="exchange_prepare_running">Следващо: Бягане</string>
     <string name="count_down_swim_tint">Екрана ще бъде заключен</string>
     <string name="sport_widget_title_history_record">Активности</string>
-    <string name="sport_widget_title_elliptical">Elliptical</string>
+    <string name="sport_widget_title_elliptical">Елиптична</string>
     <string name="sport_widget_title_indoor_swim">Плуване в басейн</string>
-    <string name="sport_widget_title_open_water_swim">Open water</string>
+    <string name="sport_widget_title_open_water_swim">Открита вода</string>
     <string name="sport_widget_title_triathlon">Триатлон</string>
     <string name="sport_widget_title_mountaineer">Катерене</string>
     <string name="sport_widget_title_mountaineering">Катерене…</string>
@@ -452,7 +452,7 @@
     <string name="sport_vo2_max">VO₂ макс</string>
     <string name="sport_ability">Fitness level</string>
     <string name="sport_train_load">Training load</string>
-    <string name="first_beat_sport_status">Body state</string>
+    <string name="first_beat_sport_status">Състояние на тялото</string>
     <string name="currnet_daily_performance_staus">Current body state</string>
     <string name="sport_ability_up">Подобряване</string>
     <string name="sport_ability_down">Declining</string>
@@ -494,7 +494,7 @@
     <string name="first_beat_help_title_train_efffect">Тренировъчен ефект (TE)</string>
     <string name="first_beat_help_title_train_load">Training load</string>
     <string name="first_beat_help_title_sport_target_or_real_time_guide">Препоръчителни цели за изпълнение &amp; Трениране в реално време</string>
-    <string name="first_beat_help_title_daily_perpormence">Body state</string>
+    <string name="first_beat_help_title_daily_perpormence">Състояние на тялото</string>
     <string name="first_beat_help_title_recovery_time">Recovery time</string>
     <string name="first_beat_help_vo2_max">"&lt;font color=#00FF00&gt;Какво е това?&lt;/font&gt;&lt;br/&gt;&lt;br/&gt;
 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; VO₂ макс представлява максималния обем кислород, който тялото може да консумира в една минута, измерено в мл/кг/мин. Оценява състоянието на кардиореспираторната годност на потребителите, което е важно за цялостното здраве, благополучие и спортни изяви.
@@ -519,7 +519,7 @@
     <string name="please_become_bigger">Приближение</string>
     <string name="please_become_smaller">Намаляване</string>
     <string name="current_altitude">Надморска височина</string>
-    <string name="cumulative_climb">Elev gain</string>
+    <string name="cumulative_climb">Увеличаване на височината</string>
     <string name="sport_route_out_of">Deviated route</string>
     <string name="sport_back_to_route">Back to the route</string>
     <string name="gpx_currnet_is_selected">Избран</string>
@@ -528,7 +528,7 @@
     <string name="gpx_details_view">Избор</string>
     <string name="gpx_details_use">Използвай</string>
     <string name="gpx_route_loading">Една секунда…</string>
-    <string name="dialog_remind_to_look_route">View route</string>
+    <string name="dialog_remind_to_look_route">Изглед на маршрута</string>
     <string name="gpx_offset_route">Deviated route</string>
     <string name="gpx_back_route">Back to the route</string>
     <string name="gpx_alreay_offset">Deviated</string>
@@ -577,8 +577,8 @@
     <string name="sport_widget_title_indoor_riding">Колоездене на закрито</string>
     <string name="outdoor_riding_progressing">Колоездене на открито</string>
     <string name="indoor_riding_progressing">Колоездене на закрито</string>
-    <string name="outdoor_climb_distance">Dist gain</string>
-    <string name="outdoor_climb_altitude">Elev gain</string>
+    <string name="outdoor_climb_distance">Увеличаване на дистанцията</string>
+    <string name="outdoor_climb_altitude">Увеличаване на височината</string>
     <string name="outdoor_max_cadence">Max cadence</string>
     <string name="outdoor_ave_cadence">Avg cadence</string>
     <string name="outdoor_graph_unit">Distance (km)</string>
@@ -588,8 +588,8 @@
     <string name="con_leqi_table_subtitle">(Pair device in Settings &gt; Bluetooth)</string>
     <string name="remind_target_riding_km_title_format">Completed %1$d km</string>
     <string name="indoor_riding_time_too_short">Времето за упражняване е твърде кратко, за да се запише. Все пак спирате ли?</string>
-    <string name="outdoor_climb_down_altitude">Elev loss</string>
-    <string name="outdoor_climb_down_distance">Dist loss</string>
+    <string name="outdoor_climb_down_altitude">Намаляване на височината</string>
+    <string name="outdoor_climb_down_distance">Намаляване на дистанцията</string>
     <string name="outdoor_climb_down_distance_time">Downhill time</string>
     <string name="outdoor_climb_distance_time">Uphill time</string>
     <string name="real_time_keep_speed">Keep the pace</string>
@@ -626,7 +626,7 @@
     <string name="real_time_guide_desc_14">Вече сте завършили много добра тренировка.</string>
     <string name="real_time_guide_desc_22">Очаква се целта ви да бъде достигната в %1$s мин</string>
     <string name="real_time_guide_desc_25">Target heart rate range is %1$s-%2$sBPM.</string>
-    <string name="real_time_guide_desc_26">Run faster</string>
+    <string name="real_time_guide_desc_26">Бягам по-бързо</string>
     <string name="real_time_guide_desc_27">Вие достигнахте целта си.</string>
     <string name="real_time_guide_desc_28">You reached %1$s%% of your goal.</string>
     <string name="real_time_guide_desc_30">This type of exercise will keep you fit.</string>
@@ -642,14 +642,14 @@
     <string name="group_frequency">Честота</string>
     <string name="aleary_rest">Has rested</string>
     <string name="next_group">Следваща група</string>
-    <string name="rope_skip_times">%1$s jumps</string>
+    <string name="rope_skip_times">%1$s скокове</string>
     <string name="rope_skip_frequency">Честота</string>
     <string name="rope_skip_currnet_frequency">Текуща честота</string>
     <string name="rope_skip_max_frequency">Максимална честота</string>
     <string name="rope_skip_total_count">Общ брой</string>
     <string name="rope_skip_average_frequency">Ср чест</string>
     <string name="rope_skip_current_group_count">Групи</string>
-    <string name="rope_skip_this_group_count">Lap count</string>
+    <string name="rope_skip_this_group_count">Брой на обиколка</string>
     <string name="rope_skip_this_group_cost_time">Време на обиколка</string>
     <string name="rope_skip_this_group_average_frequency">Lap freq</string>
     <string name="rope_skip_group_total_rest_time">Total rest time</string>
@@ -672,7 +672,7 @@
     <string name="sport_main_graph_title_rope_skip">Latest (s)</string>
     <string name="sport_rope_skip_requency">Frequency (jumps/min)</string>
     <string name="swim_total_trips_times">Total laps: %1$s</string>
-    <string name="route_glevation_gain">Elev gain</string>
+    <string name="route_glevation_gain">Увеличаване на височината</string>
     <string name="route_scale_enlarge">Приближение</string>
     <string name="route_scale_narrow">Zoom out</string>
     <string name="route_cur_altitude_value">%1d м</string>
@@ -691,9 +691,9 @@
     <string name="very_hard_cardio">Extreme cardio</string>
     <string name="route_cur_altitude">Надморска височина</string>
     <string name="outdoor_cadence">Ритъм</string>
-    <string name="sport_main_climb_al">Elev gain</string>
-    <string name="sport_main_descend_al">Elev loss</string>
-    <string name="sport_main_climb_dis">Dist gain</string>
+    <string name="sport_main_climb_al">Увеличаване на височината</string>
+    <string name="sport_main_descend_al">Намаляване на височината</string>
+    <string name="sport_main_climb_dis">Увеличаване на дистанцията</string>
     <string name="sport_data_info_te_unit">TE</string>
     <string name="swim_stroke_speed">Stroke rate</string>
     <string name="rt_swim_trips">Обиколки</string>
@@ -723,8 +723,8 @@
     <string name="sport_widget_title">Спорт</string>
     <string name="sport_widget_title_run">Бягане</string>
     <string name="sport_widget_title_walk">Ходене</string>
-    <string name="sport_widget_title_cross">Trail run</string>
-    <string name="sport_widget_title_indoor_run">Treadmill</string>
+    <string name="sport_widget_title_cross">Бягане по пътека</string>
+    <string name="sport_widget_title_indoor_run">Бягаща пътека</string>
     <string name="sport_widget_title_record">Активности</string>
     <string name="sport_widget_title_achieve">Значки</string>
     <string name="sport_widget_title_setting">Настройки</string>
@@ -744,7 +744,7 @@
     <string name="sport_stop">Стоп</string>
     <string name="running_kilometers">км</string>
     <string name="running_avg_pace_desc_simple">Avg pace</string>
-    <string name="running_avg_speed_desc_simple">Avg speed</string>
+    <string name="running_avg_speed_desc_simple">Ср скорост</string>
     <string name="running_pace_unit">/км</string>
     <string name="running_calorie_unit">ккал</string>
     <string name="running_step_freq_unit">крачки/мин</string>
@@ -770,7 +770,7 @@
     <string name="history_detail_paused_time">Paused time</string>
     <string name="history_detail_running_title">Бягане</string>
     <string name="history_detail_walking_title">Ходене</string>
-    <string name="history_detail_indoor_running_title">Treadmill</string>
+    <string name="history_detail_indoor_running_title">Бягаща пътека</string>
     <string name="history_detail_cost_time">Общо време</string>
     <string name="history_detail_pace_desc">Pace (min/km)</string>
     <string name="history_detail_calorie_desc">Calories (kcal)</string>
@@ -788,10 +788,10 @@
     <string name="settings_item_title_km_voice_remind">Voice notification</string>
     <string name="settings_item_title_cal_burn_heartrate_remind">Heart rate alert</string>
     <string name="settings_item_title_safe_heartrate_remind">Heart rate alert</string>
-    <string name="settings_item_title_auto_pause">Auto pause</string>
+    <string name="settings_item_title_auto_pause">Авто пауза</string>
     <string name="settings_item_title_target_use_time_remind">Target time</string>
     <string name="settings_item_title_target_distance_remind">Target distance</string>
-    <string name="settings_item_title_pace_remind">Pace alert</string>
+    <string name="settings_item_title_pace_remind">Предупреждение за темпо</string>
     <string name="settings_item_title_Leqi_remind">Connection alert</string>
     <string name="settings_item_value_open">Вкл</string>
     <string name="settings_item_value_closed">Изкл</string>
@@ -901,7 +901,7 @@
     <string name="waling_steps">крачки</string>
     <string name="date_am">"'Преди обяд'"</string>
     <string name="date_pm">"'След обяд'"</string>
-    <string name="setting_sport_remind_region">Alert zone</string>
+    <string name="setting_sport_remind_region">Област на уведомление</string>
     <string name="setting_sport_heart_region_remind">Heart rate zone alert</string>
     <string name="setting_sport_heart_region_fat_burning">Fat burning zone</string>
     <string name="setting_sport_heart_region_aerobic">Aerobic zone</string>
@@ -919,7 +919,7 @@
     <string name="sport_time_seconds">с</string>
     <string name="complete_training_project">The training program has been completed</string>
     <string name="reminder_speed_unit">/ч</string>
-    <string name="remind_target_distance_training_title_format">Run %1s km</string>
+    <string name="remind_target_distance_training_title_format">Бягане %1s км</string>
     <string name="remind_target_time_training_title_format">Ride %1$d min</string>
     <string name="remind_target_time_training_title_swim_format">Swimming: %1$d min</string>
     <string name="complete_training_target_tips">"Save this running to today's training program?"</string>
