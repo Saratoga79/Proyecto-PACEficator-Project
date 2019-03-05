@@ -24,7 +24,7 @@
     <string name="crossing_climb_unit">м</string>
     <string name="crossing_vertical_velocity_unit">фута/ч</string>
     <string name="crossing_history_detail_total_time">Общо време</string>
-    <string name="crossing_history_detail_move_time">Active time</string>
+    <string name="crossing_history_detail_move_time">Време на активност</string>
     <string name="crossing_history_detail_ave_move_pace">Ср темпо</string>
     <string name="crossing_history_detail_ave_move_pace_unit">/км</string>
     <string name="crossing_history_detail_best_pace">Най-добра цена</string>
@@ -49,7 +49,7 @@
     <string name="settings_safe_heart_rate_hint">(Heart rate limit)</string>
     <string name="settings_safe_heart_rate_unit">BPM</string>
     <string name="elliptical">Elliptical</string>
-    <string name="elliptical_in_progress">Elliptical…</string>
+    <string name="elliptical_in_progress">Елиптичен…</string>
     <string name="person_achive">Personal best</string>
     <string name="achive_share_sport">Share activity</string>
     <string name="achive_get_record_time">Актуализиран на 05/25/2017</string>
@@ -87,8 +87,8 @@
     <string name="gps_search_time_out_content">GPS was turned off due to inactivity.</string>
     <string name="detail_route_title">Маршрут</string>
     <string name="detail_route_total_dis">Total distance</string>
-    <string name="detail_route_detail_lap_title">Lap details</string>
-    <string name="detail_route_detail_manual_lap_title">Manual laps</string>
+    <string name="detail_route_detail_lap_title">Детайли на обиколка</string>
+    <string name="detail_route_detail_manual_lap_title">Ключови обиколки</string>
     <string name="detail_route_detail_auto_lap_title">Автообиколки</string>
     <string name="detail_lap_num">Обиколка</string>
     <string name="detail_lap_serial_number">Сериен номер</string>
@@ -116,7 +116,7 @@
     <string name="picker_title_target_heart_rate">Heart rate (BPM)</string>
     <string name="picker_title_auto_lap">Auto laps (%1$s)</string>
     <string name="picker_title_swim_length">Pool size (%1$s)</string>
-    <string name="picker_title_target_trips">Target laps</string>
+    <string name="picker_title_target_trips">Целеви обиколки</string>
     <string name="picker_title_fix_dis">Calibrate (%1$s)</string>
     <string name="picker_sub_title_te_one">(Подобряване)</string>
     <string name="picker_sub_title_te_two">(Подобряване)</string>
@@ -130,7 +130,7 @@
     <string name="settings_sport_auto_pause_triathlon">Auto-pause</string>
     <string name="settings_sport_cadence_link">Аксесоари</string>
     <string name="settings_sport_route">Import routes</string>
-    <string name="settings_sport_items">Sports data</string>
+    <string name="settings_sport_items">Спортни данни</string>
     <string name="settings_sport_3d_data">3D данни</string>
     <string name="settings_sport_real_graph">Real-time stats</string>
     <string name="settings_sport_auto_section">Автообиколки</string>
@@ -313,7 +313,7 @@
     <string name="swim_avg_stroke_speed">Срд SPM</string>
     <string name="swim_max_stroke_speed">Max stroke rate</string>
     <string name="swim_trips">Обиколки</string>
-    <string name="target_swim_trips">Target laps</string>
+    <string name="target_swim_trips">Целеви обиколки</string>
     <string name="swim_total_trips">Total laps</string>
     <string name="swim_stroke">Strokes</string>
     <string name="swim_stroke_times">Сесии</string>
@@ -371,13 +371,13 @@
     <string name="sport_widget_title_skiing">Каране на ски</string>
     <string name="sport_widget_title_in_skiing">Каране на ски</string>
     <string name="skiing_history_downhill_title">Downhill</string>
-    <string name="skiing_downhill_max_elev_loss">Max descent</string>
+    <string name="skiing_downhill_max_elev_loss">Макс спускане</string>
     <string name="skiing_downhill_total_elev_loss">Total descent</string>
     <string name="skiing_downhill_desecnd">Total downhill</string>
     <string name="skiing_cur_lat_lng_title">Шир/Дълж</string>
-    <string name="speed_remind_title">Speed alert</string>
+    <string name="speed_remind_title">Предупреждение за скорост</string>
     <string name="speed_too_fast_remind_title">The speed is too fast</string>
-    <string name="skiing_lap_title">Lap details</string>
+    <string name="skiing_lap_title">Детайли на обиколка</string>
     <string name="skiing_remind_next_interval_train">Next interval</string>
     <string name="skiing_remind_click_finsh_this_train_unit">When you press the Down button</string>
     <string name="skiing_interval_train_complete">Completed interval training</string>
@@ -420,7 +420,7 @@
     <string name="virtual_rabbit_backward_distance">Lag distance</string>
     <string name="virtual_rabbit_lead_distance">Lead distance</string>
     <string name="setting_reserve_heart_region">Reserved heart rate zone</string>
-    <string name="outdoor_riding_speed_alert">Speed alert</string>
+    <string name="outdoor_riding_speed_alert">Предупреждение за скорост</string>
     <string name="speed_too_low_remind_title">Скоростта е твърде бавна</string>
     <string name="running_button_save_modify">Калибриране и записване</string>
     <string name="save_cur_location">Записване на текущото местоположение</string>
@@ -549,7 +549,7 @@
     <string name="music_explain_content">Необходимо е да се свалят локално песните и да се свържат с Bluetooth слушалките за слушане.</string>
     <string name="music_start_tips">Свързване на Bluetooth слушалки за слушане на музика. Свързване сега?</string>
     <string name="music_not_known">Неизвестно</string>
-    <string name="music_update_content">Song update</string>
+    <string name="music_update_content">Актуализация на песен</string>
     <string name="music_update_tips_content">Douban FM обновява песните редовно. Актуализирането на песните ще замени музикалната библиотека. Актуализирайте сега?</string>
     <string name="music_pause">На пауза</string>
     <string name="music_fm_title">Douban FM</string>
@@ -764,10 +764,10 @@
     <string name="sport_history_total_distance_desc">Разстояние</string>
     <string name="sport_history_header_total_count_desc">Общо сесии</string>
     <string name="sport_history_header_calorie_desc">Общо калории</string>
-    <string name="history_heart_rate_desc">Heart rate:</string>
+    <string name="history_heart_rate_desc">Сърдечна честота:</string>
     <string name="history_heart_rate_unit">BPM</string>
     <string name="history_info_cost_time_desc">Време</string>
-    <string name="history_detail_paused_time">Paused time</string>
+    <string name="history_detail_paused_time">Време на пауза</string>
     <string name="history_detail_running_title">Бягане</string>
     <string name="history_detail_walking_title">Ходене</string>
     <string name="history_detail_indoor_running_title">Бягаща пътека</string>
@@ -789,7 +789,7 @@
     <string name="settings_item_title_cal_burn_heartrate_remind">Heart rate alert</string>
     <string name="settings_item_title_safe_heartrate_remind">Heart rate alert</string>
     <string name="settings_item_title_auto_pause">Авто пауза</string>
-    <string name="settings_item_title_target_use_time_remind">Target time</string>
+    <string name="settings_item_title_target_use_time_remind">Целево време</string>
     <string name="settings_item_title_target_distance_remind">Target distance</string>
     <string name="settings_item_title_pace_remind">Предупреждение за темпо</string>
     <string name="settings_item_title_Leqi_remind">Connection alert</string>
@@ -906,8 +906,8 @@
     <string name="setting_sport_heart_region_fat_burning">Fat burning zone</string>
     <string name="setting_sport_heart_region_aerobic">Aerobic zone</string>
     <string name="setting_sport_heart_region_high＿intensity_exercise">Intensive exercise</string>
-    <string name="setting_sport_heart_region_custom">Custom zone</string>
-    <string name="setting_sport_heart_region_text_fat_burning">Fat burning</string>
+    <string name="setting_sport_heart_region_custom">Потребителска зона</string>
+    <string name="setting_sport_heart_region_text_fat_burning">Изгаряне на мазнините</string>
     <string name="setting_sport_heart_region_text_aerobic">Аеробен</string>
     <string name="setting_sport_heart_region_text_high＿intensity_exercise">Intensive exercise</string>
     <string name="setting_sport_heart_region_text_custom">Потребителски</string>
