@@ -28,7 +28,7 @@
     <string name="notification_fix_message_reset">重新设定时间</string>
     <string name="notification_fix_message_cancel">取消固定</string>
     <string name="quick_settings_airplane_mode">Airplane: %1$s</string>
-    <string name="quick_settings_no_disturb_mode">Silent: %1$s</string>
+    <string name="quick_settings_no_disturb_mode">Тишина: %1$s</string>
     <string name="quick_settings_auto_light_mode">Backlight: %1$s</string>
     <string name="quick_settings_more_settings">More Settings</string>
     <string name="quick_settings_switch_auto">Автоматично</string>
@@ -38,17 +38,17 @@
     <string name="quick_settings_switch_off">ИЗКЛ</string>
     <string name="quick_settings_toast_on">Разрешено</string>
     <string name="quick_settings_toast_off">Деактивирано</string>
-    <string name="quick_settings_status">Disconnected</string>
+    <string name="quick_settings_status">Прекъснат</string>
     <string name="quick_settings_no_disturb_toast">Notification will not be shown</string>
     <string name="quick_settings_auto_light_toast">Осветяването на екрана ще увеличи консумацията на енергия</string>
     <string name="quick_settings_status_month">-</string>
     <string name="quick_settings_status_day">  </string>
     <string name="quick_settings_connected">Свързан</string>
-    <string name="quick_settings_disconnect">Disconnected</string>
+    <string name="quick_settings_disconnect">Прекъснат</string>
     <string name="quick_settings_unbound">Please pair first</string>
     <string name="quick_settings_date_chinese">yyyy-MM-dd</string>
     <string name="quick_settings_date_format">1900-1-31</string>
-    <string name="quick_settings_date_yeareve">New Year Eve</string>
+    <string name="quick_settings_date_yeareve">Нова Година</string>
     <string name="seconed_confirm_nodisturb">"Тих режим е вкл
 ново известие няма да се показва."</string>
     <string name="quick_settings_battery_charging_full">Fully charged</string>
@@ -266,7 +266,7 @@ day"</string>
     <string name="troubleshoot_help_url">g.co/AWhelp</string>
     <string name="retry_action">Повтори</string>
     <string name="restart_action">Презареждане</string>
-    <string name="reset_action">Reset device</string>
+    <string name="reset_action">Нулиране на устройството</string>
     <string name="arrive_title">Пристигат</string>
     <string name="depart_title">Depart</string>
     <string name="flight_reservation_number">Reservation #</string>
@@ -279,7 +279,7 @@ day"</string>
     <string name="perm_description_provide_background">This app can act as a custom watch face.</string>
     <string name="perm_label_secure_adb_confirmation">Confirm secure ADB connections</string>
     <string name="perm_description_secure_adb_confirmation">This app can confirm secure ADB connections.</string>
-    <string name="perm_label_install_wearable_packages">Install apps</string>
+    <string name="perm_label_install_wearable_packages">Инсталиране на приложения</string>
     <string name="perm_description_install_wearable_packages">Това приложение не може да инсталира приложения за носими устройства.</string>
     <string name="perm_label_set_watch_face_privileged">Set watch face, privileged</string>
     <string name="perm_description_set_watch_face_privileged">Това приложение може да зададе циферблат без потвърждение.</string>
@@ -314,7 +314,7 @@ day"</string>
     <string name="cue_menu_play">Възпроизвеждане на музика</string>
     <string name="play_music_help1">by Flying Lotus</string>
     <string name="play_music_help2">by Boards of Canada</string>
-    <string name="play_music_help3">by Brian Eno</string>
+    <string name="play_music_help3">от Brian Eno</string>
     <string name="play_music_help4">by Grizzly Bear</string>
     <string name="cue_menu_alarm">Set an alarm</string>
     <string name="cue_menu_alarm_help1">for 6 this evening</string>
@@ -361,7 +361,7 @@ day"</string>
     <string name="voice_action_sms_title">СМС</string>
     <string name="voice_action_remote_app_title">Отвори приложение</string>
     <string name="voice_action_play_music_title">Play music on phone</string>
-    <string name="voice_action_field_destination_description">Destination</string>
+    <string name="voice_action_field_destination_description">Местоназначение</string>
     <string name="voice_action_field_destination_address">Адрес</string>
     <string name="voice_action_field_message">Съобщение</string>
     <string name="voice_action_field_to">До</string>
@@ -369,7 +369,7 @@ day"</string>
     <string name="voice_action_field_label">Етикет</string>
     <string name="voice_action_field_duration">Продължителност</string>
     <string name="voice_action_field_reminder">Напомняния</string>
-    <string name="voice_action_field_ask_what">About what?</string>
+    <string name="voice_action_field_ask_what">За какво?</string>
     <string name="voice_action_field_ask_when">Кога?</string>
     <string name="voice_action_field_ask_to_whom">На кого?</string>
     <string name="voice_action_field_ask_which_one">Кой точно?</string>
@@ -378,7 +378,7 @@ day"</string>
     <string name="voice_action_field_ask_note">Бележка?</string>
     <string name="note_creation_success">Note created</string>
     <string name="voice_action_done">Завършено</string>
-    <string name="voice_action_go_to_phone">Go to phone</string>
+    <string name="voice_action_go_to_phone">Отидете на телефона</string>
     <string name="voice_action_remote_error">"Sorry, that didn't work. Try again."</string>
     <string name="voice_action_remote_unkown">Try again on your phone.</string>
     <string name="voice_action_remote_disambig">Отворете телефона си, за да изберете коя програма да използвате за това действие отсега нататък.</string>
@@ -457,8 +457,8 @@ Sorry, Google can\'t help you with that"</string>
     <string name="now_final_score_extra_periods_with_date">Final/%1$d, %2$s</string>
     <string name="now_final_score_overtime_with_date">Final OT, %1$s</string>
     <string name="now_final_score_shootout_with_date">Final SO, %1$s</string>
-    <string name="now_final_score_with_date">Final, %1$s</string>
-    <string name="now_current_inning">Inning %1$d</string>
+    <string name="now_final_score_with_date">Финалl, %1$s</string>
+    <string name="now_current_inning">Ининг %1$d</string>
     <string name="now_first_abbreviated">1ви</string>
     <string name="now_second_abbreviated">2ри</string>
     <string name="now_third_abbreviated">3ти</string>
@@ -467,8 +467,8 @@ Sorry, Google can\'t help you with that"</string>
     <string name="now_second_period">Second period</string>
     <string name="now_third_period">Third period</string>
     <string name="now_first_half">Първата половина</string>
-    <string name="now_second_half">Second half</string>
-    <string name="now_current_period">Period %1$d</string>
+    <string name="now_second_half">Втора половина</string>
+    <string name="now_current_period">Период %1$d</string>
     <string name="now_sports_in_progress">%1$s, %2$s:%3$s</string>
     <string name="now_overtime">Допълнително време</string>
     <string name="now_tomorrow_at_time">Tomorrow at %1$s</string>
@@ -482,10 +482,10 @@ Sorry, Google can\'t help you with that"</string>
     <string name="av_next">Следващо</string>
     <string name="av_previous">Предишно</string>
     <string name="av_thumbs_up">Вярвам, че някой ще се представи добре</string>
-    <string name="av_thumbs_down">Thumbs down</string>
+    <string name="av_thumbs_down">Не ми харесва</string>
     <string name="av_volume_up">Увеличи звука</string>
-    <string name="av_volume_down">Volume down</string>
-    <string name="voice_action_alarm_time_field">Alarm time?</string>
+    <string name="av_volume_down">Намаляване на звука</string>
+    <string name="voice_action_alarm_time_field">Час за аларма?</string>
     <string name="default_watchface_name">Опростен</string>
     <string name="watchface_picker_more">Още</string>
     <string name="watchface_picker_recent">Скорошни</string>
@@ -581,7 +581,7 @@ On"</string>
     <string name="running_process_item_user_label">User: %1$s</string>
     <string name="running_process_item_removed_user_label">Removed user</string>
     <string name="process_kernel_label">Android OS</string>
-    <string name="process_mediaserver_label">Mediaserver</string>
+    <string name="process_mediaserver_label">Медиа сървър</string>
     <string name="power_discharging_duration">%1$d%% - approx. %2$s left</string>
     <string name="power_charging">%1$d%% - %2$s</string>
     <string name="power_charging_duration">%1$d%% - %2$s until full</string>
