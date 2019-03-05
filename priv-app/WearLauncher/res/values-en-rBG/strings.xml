@@ -290,7 +290,7 @@ day"</string>
     <string name="reply">Отговор</string>
     <string name="dismissing">Dismissing...</string>
     <string name="cue_menu_take_a_note">Take a note</string>
-    <string name="cue_menu_take_a_note_help">drink more water</string>
+    <string name="cue_menu_take_a_note_help">пийте повече вода</string>
     <string name="cue_menu_reminder">Напомни ми</string>
     <string name="cue_menu_reminder_help">to go for a run at 7am</string>
     <string name="cue_menu_show_steps">Show me my steps</string>
@@ -327,7 +327,7 @@ day"</string>
     <string name="cue_menu_agenda">Agenda</string>
     <string name="cue_menu_agenda_help">за днес</string>
     <string name="cue_menu_settings">Настройки</string>
-    <string name="cue_menu_bug_report">Take bug report</string>
+    <string name="cue_menu_bug_report">Сигнал за програмна грешка</string>
     <string name="cue_menu_apps">Старт…</string>
     <string name="cue_launch_error">"Sorry, Google can't do that right now."</string>
     <string name="voice_action_edit">Редактиране</string>
@@ -417,7 +417,7 @@ Sorry, Google can\'t help you with that"</string>
     <string name="gsa_install_needed">Отворете Google Play на телефона или таблета си и инсталирайте приложението Google Search.</string>
     <string name="companion_reinstall_required">Преинсталирайте Android Wear на телефона или таблета си.</string>
     <string name="cant_connect_to_companion">Невъзможност за свързване с телефона</string>
-    <string name="no_connection">No connection</string>
+    <string name="no_connection">Няма връзка</string>
     <string name="search_local_data_attribution_prefix">Business listings data provided by</string>
     <string name="search_local_data_attribution">Business listings data provided by %s</string>
     <string name="search_disclaimer">Уведомление</string>
@@ -434,7 +434,7 @@ Sorry, Google can\'t help you with that"</string>
     <string name="search_precipitation_percent">%s%%</string>
     <string name="search_calculator_left">%s =</string>
     <string name="search_currency_left">%s равно</string>
-    <string name="search_translation_title">\"%1$s\" in %2$s</string>
+    <string name="search_translation_title">\"%1$s\" в %2$s</string>
     <string name="search_when_is_start">%s започва</string>
     <string name="search_when_is_end">и край</string>
     <string name="search_when_is_start_evening">%s begins in the evening of</string>
@@ -464,7 +464,7 @@ Sorry, Google can\'t help you with that"</string>
     <string name="now_third_abbreviated">3ти</string>
     <string name="now_fourth_abbreviated">4ти</string>
     <string name="now_first_period">Първи период</string>
-    <string name="now_second_period">Second period</string>
+    <string name="now_second_period">Втори период</string>
     <string name="now_third_period">Трети период</string>
     <string name="now_first_half">Първата половина</string>
     <string name="now_second_half">Втора половина</string>
@@ -472,12 +472,12 @@ Sorry, Google can\'t help you with that"</string>
     <string name="now_sports_in_progress">%1$s, %2$s:%3$s</string>
     <string name="now_overtime">Допълнително време</string>
     <string name="now_tomorrow_at_time">Tomorrow at %1$s</string>
-    <string name="now_today_at_time">Today at %1$s</string>
+    <string name="now_today_at_time">Днес в %1$s</string>
     <string name="now_yesterday_at_time">Yesterday at %1$s</string>
     <string name="now_date_at_time">%1$s на %2$s</string>
     <string name="tilt_detector_notification_title">Tilt detector service running</string>
     <string name="unknown_caller">Unknown caller</string>
-    <string name="incoming_call">Incoming call</string>
+    <string name="incoming_call">Входящо обаждане</string>
     <string name="incoming_call_sending">Изпращане…</string>
     <string name="av_next">Следващо</string>
     <string name="av_previous">Предишно</string>
@@ -492,7 +492,7 @@ Sorry, Google can\'t help you with that"</string>
     <string name="watchface_picker_all">Всички</string>
     <string name="airplane_mode">"Самолетен режим
 Вкл"</string>
-    <string name="airplane_mode_cue_card">Airplane mode</string>
+    <string name="airplane_mode_cue_card">Самолетен режим</string>
     <string name="disconnected">Прекъснат</string>
     <string name="timed_out_state">Изтекло време</string>
     <string name="offline_state">Офлайн</string>
@@ -510,7 +510,7 @@ Sorry, Google can\'t help you with that"</string>
     <string name="secure_adb_instructions_text">Open your companion device to allow debugging.</string>
     <string name="mute">Заглуши</string>
     <string name="unmute">Включи звука</string>
-    <string name="tutorial_all_set">"You're all set!"</string>
+    <string name="tutorial_all_set">"Всичко е настроено!"</string>
     <string name="tutorial_swipe_up">Swipe up to get started.</string>
     <string name="tutorial_great">Чудесно!</string>
     <string name="tutorial_swipe_again">Опитайте да приплъзнете отново.</string>
@@ -527,14 +527,14 @@ Sorry, Google can\'t help you with that"</string>
     <string name="tutorial_touch_clock">Touch the clock or say, \"Ok Google\"</string>
     <string name="tutorial_say_what_time">Say, \"What time is sunset?\"</string>
     <string name="tutorial_touch_clock_what_time">Докоснете където и да е по часовника и кажете действие, като например „Покажи ми крачките“</string>
-    <string name="tutorial_one_last_thing">One last thing…</string>
+    <string name="tutorial_one_last_thing">Последно нещо…</string>
     <string name="tutorial_dim_lights">To dim the screen, cover it with your palm.</string>
     <string name="tutorial_tap_to_read_more">Tap to read more</string>
     <string name="tutorial_dismiss_sync">Отхвърлените тук карти са отхвърлени и на телефона ви</string>
     <string name="reminder_trigger_occasionally">От време на време</string>
     <string name="reminder_trigger_recurring">Повтарящи се</string>
     <string name="chrono_ambient_hrs_min" formatted="false">%s, %s</string>
-    <string name="chrono_ambient_less_than_minute">&lt; 1 minute</string>
+    <string name="chrono_ambient_less_than_minute">&lt; 1 минута</string>
     <string name="voice_action_prompt">You can say…</string>
     <string name="example_query_sep">или</string>
     <string name="example_query_note_1">Take a note, try to drink more water</string>
@@ -597,10 +597,10 @@ Sorry, Google can\'t help you with that"</string>
     <string name="battery_info_status_not_charging">Не се зарежда</string>
     <string name="battery_info_status_full">Заредена</string>
     <string name="battery_info_status_percentage">%</string>
-    <string name="quick_settings_notification_title">Interruptions</string>
+    <string name="quick_settings_notification_title">Прекъсвания</string>
     <string name="quick_settings_notifications_none">Няма</string>
     <string name="quick_settings_notifications_not_even_alarms">Not even alarms</string>
-    <string name="quick_settings_notifications_priority">Priority only</string>
+    <string name="quick_settings_notifications_priority">Само с приоритет</string>
     <string name="quick_settings_notifications_all">Покажи всички</string>
     <string name="state_on">Вкл</string>
     <string name="state_off">Изкл</string>
@@ -650,7 +650,7 @@ Sorry, Google can\'t help you with that"</string>
     <string name="no_aqi">"Couldn't get AQI info"</string>
     <string name="air_perfect">Отличен</string>
     <string name="air_good">Чудесно</string>
-    <string name="air_lightly_polluted">Light pollution</string>
+    <string name="air_lightly_polluted">Леко замърсяване</string>
     <string name="air_moderate_polluted">Умерено замърсяване</string>
     <string name="air_heavily_polluted">Heavy pollution</string>
     <string name="air_severely_polluted">Severe pollution</string>
@@ -680,6 +680,6 @@ Sorry, Google can\'t help you with that"</string>
     <string name="widget_currentstep_sleep_hour">ч</string>
     <string name="widget_currentstep_sleep_min">м</string>
     <string name="widget_currentstep_sleep_title">Slept last night</string>
-    <string name="widget_currentstep_sleep_no">No sleep data</string>
+    <string name="widget_currentstep_sleep_no">Няма данни за сън</string>
     <string name="widget_currentstep_activity_no">Без активност днес?</string>
 </resources>
