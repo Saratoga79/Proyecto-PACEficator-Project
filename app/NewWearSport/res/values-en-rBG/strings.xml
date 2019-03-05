@@ -35,8 +35,8 @@
     <string name="crossing_history_detail_absolute_altitude">Надморска височина</string>
     <string name="crossing_history_detail_high_altitude">Най-високата надморска височина</string>
     <string name="crossing_history_detail_low_altitude">Lowest altitude</string>
-    <string name="crossing_history_detail_ave_altitude">Avg altitude</string>
-    <string name="crossing_history_detail_altituede_graph_desc">Altitude (m)</string>
+    <string name="crossing_history_detail_ave_altitude">Срд надморска височина</string>
+    <string name="crossing_history_detail_altituede_graph_desc">Надморска височина (м)</string>
     <string name="crossing_history_detail_individual_km"><font color="#ff09ff00"><b>%1$s</b></font> км за един цикъл</string>
     <string name="crossing_setting_unit">км</string>
     <string name="crossing_settings_item_title_individual_remind">Single lap distance</string>
@@ -151,7 +151,7 @@
     <string name="settings_sport_bg_type_white">Бяло</string>
     <string name="setting_on">Вкл</string>
     <string name="setting_off">Изкл</string>
-    <string name="settings_item_title_target_calorie_remind">Calorie goal</string>
+    <string name="settings_item_title_target_calorie_remind">Цел калории</string>
     <string name="settings_item_value_target_calorie">%1$d ккал</string>
     <string name="settings_item_value_swim_length">%1$s м</string>
     <string name="settings_item_value_swim_length_imperial">%1$s фута</string>
@@ -298,7 +298,7 @@
     <string name="sport_widget_title_soccering">Playing soccer</string>
     <string name="sport_widget_title_indoor_swim_in_progress">Swimming in pool</string>
     <string name="sport_widget_title_open_water_swim_in_progress">Swimming in open water…</string>
-    <string name="sport_widget_title_triathlon_in_progress">In triathlon</string>
+    <string name="sport_widget_title_triathlon_in_progress">В триатлон</string>
     <string name="sport_child_swim">Плуване</string>
     <string name="sport_child_riding">Колозедене</string>
     <string name="sport_child_running">Бягане</string>
@@ -873,7 +873,7 @@
     <string name="lock_status_unlock_success">Успешно отключване</string>
     <string name="remind_info_stop_sport">End the exercise first</string>
     <string name="searching_gps_in_progress">Изчакване за GPS…</string>
-    <string name="remind_current_pace">Current pace</string>
+    <string name="remind_current_pace">Сегашно темпо</string>
     <string name="remind_current_heart">Текущ</string>
     <string name="remind_last_dis_pace">Pace of last km</string>
     <string name="remind_last_dis_speed">Скорост в последния км</string>
@@ -904,7 +904,7 @@
     <string name="setting_sport_remind_region">Област на уведомление</string>
     <string name="setting_sport_heart_region_remind">Heart rate zone alert</string>
     <string name="setting_sport_heart_region_fat_burning">Fat burning zone</string>
-    <string name="setting_sport_heart_region_aerobic">Aerobic zone</string>
+    <string name="setting_sport_heart_region_aerobic">Аеробна зона</string>
     <string name="setting_sport_heart_region_high＿intensity_exercise">Intensive exercise</string>
     <string name="setting_sport_heart_region_custom">Потребителска зона</string>
     <string name="setting_sport_heart_region_text_fat_burning">Изгаряне на мазнините</string>
@@ -937,8 +937,8 @@
     <string name="km_metric_remind_target_distance_training_title_format">Completed %1s km</string>
     <string name="km_metric_remind_target_riding_km_title_format">Completed %1$d km</string>
     <string name="meter_metric_crossing_vertical_velocity_unit">м/мин</string>
-    <string name="meter_metric_crossing_history_detail_altituede_graph_desc">Altitude (m)</string>
-    <string name="km_metric_outdoor_speed_graph_title">Speed (km/h)</string>
+    <string name="meter_metric_crossing_history_detail_altituede_graph_desc">Надморска височина (м)</string>
+    <string name="km_metric_outdoor_speed_graph_title">Скорост (км/ч)</string>
     <string name="km_metric_settings_item_value_target_distance">%1$s км</string>
     <string name="meter_metric_settings_item_value_target_distance">%1$s м</string>
     <string name="km_imperial">мили</string>
