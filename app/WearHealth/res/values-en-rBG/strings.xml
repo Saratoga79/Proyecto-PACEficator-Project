@@ -45,8 +45,8 @@
     <string name="label_quiet_slow">Heart rate is slow</string>
     <string name="label_active_normal">Аеробен</string>
     <string name="label_active_fast">Anaerobic</string>
-    <string name="label_active_slow">Fat-burning</string>
-    <string name="label_active_xslow">Non-workout</string>
+    <string name="label_active_slow">Изгаряне на мазнините</string>
+    <string name="label_active_xslow">Не е тренировка</string>
     <string name="label_quiet_normal_any">Сърдечна честота в състояние на покой: 60-100 BPM. Умерените упражнения и здравословният начин на живот и състоянието на ума улесняват нормалния сърдечен ритъм.</string>
     <string name="label_quiet_fast_well_medium">Дадени са препоръки, че трябва да поддържате сърдечния си ритъм в рамките на: 60-100 BPM. Умерените упражнения и здравословният начин на живот и състоянието на ума улесняват нормалния сърдечен ритъм.</string>
     <string name="label_quiet_fast_well_good">Промени в настроението, като възбуда и възбуда, могат да причинят висок пулс. Поддържането на спокойствие помага да се поддържа нормален сърдечен ритъм.</string>
@@ -76,7 +76,7 @@
     <string name="label_active_fast_sick_any">Интензивността на упражненията трябва да бъде по-ниска от обичайното, когато се разболеете, и ако се появят някакви сериозни симптоми като повишена температура, упражненията трябва да се спрат.</string>
     <string name="no_sleep_info">No sleep detected</string>
     <string name="today_sleep_info">Сън</string>
-    <string name="loading_sleep_info">Just a sec…</string>
+    <string name="loading_sleep_info">Една секунда…</string>
     <string name="start_sleep">%1$s</string>
     <string name="wake_up">%1$s</string>
     <string name="total_deep_sleep">Time in deep sleep</string>
@@ -85,11 +85,11 @@
     <string name="whole_day_deep_sleep">Дълбок сън</string>
     <string name="total_sleep">В леглото за</string>
     <string name="all_day_deep_sleep">Дълбок сън</string>
-    <string name="all_day_light_sleep">Light sleep</string>
+    <string name="all_day_light_sleep">Лек сън</string>
     <string name="awake_duration">Време на събуждане</string>
     <string name="sleep_unit_minute">м</string>
     <string name="sleep_uniti_hour">ч</string>
-    <string name="sleep_duration">%1$sh %2$sm</string>
+    <string name="sleep_duration">%1$sч %2$sм</string>
     <string name="sleep_duration_diff">%1$s &lt;font size=\"12\"&gt;h &lt;/font&gt; %2$sм</string>
     <string name="date_m_d">%1$s/%2$s</string>
     <string name="date_today">Днес</string>
@@ -118,7 +118,7 @@
     <string name="measure_heartrate_button_text">Измерване</string>
     <string name="high_strength_heart_rate">Anaerobic</string>
     <string name="aerobic_heart_rate">Аеробен</string>
-    <string name="burning_fat_heart_rate">Fat burning</string>
+    <string name="burning_fat_heart_rate">Изгаряне на мазнините</string>
     <string name="non_movement_heart_rate">Non-workout</string>
     <string name="sleep_heart_rate">Сън</string>
     <string name="anaerobic_limit_heart_rate">VO₂ макс</string>
@@ -151,7 +151,7 @@
     <string name="widget_heartrate_gauging">Измерване на…</string>
     <string name="widget_heartrate_gauge_failure">Носете часовника правилно на китката си за точни резултати.</string>
     <string name="widget_heartrate_gauge_failure_title">"Can't get result"</string>
-    <string name="widget_err_step_shown">Error: (-1)</string>
+    <string name="widget_err_step_shown">Грешка: (-1)</string>
     <string name="widget_heart_gauged_err">"Couldn't measure"</string>
     <string name="widget_heart_gauged_err_tips">Wear the watch above the wrist.</string>
     <string name="widget_weeklyreports_heart_rate_min_text">Min (BPM)</string>
@@ -209,7 +209,7 @@
     <string name="weeklysports_riding">Колозедене</string>
     <string name="weekly_step_attained_rate">Reached goal</string>
     <string name="weekly_sports_notification_content">Activity summary from last week is ready.</string>
-    <string name="weekly_sports_notification_action">Tap to view</string>
+    <string name="weekly_sports_notification_action">Натисни за преглед</string>
     <string name="weeklysports_date_format">MM/dd</string>
     <string name="widget_currentstep_title">Данни</string>
     <string name="widget_currentstep_activities">"Today's activity"</string>
