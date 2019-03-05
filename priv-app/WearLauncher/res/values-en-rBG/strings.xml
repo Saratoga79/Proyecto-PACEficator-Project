@@ -101,7 +101,7 @@ since charge"</string>
     <string name="notification_more_settings">Допълнителни настройки</string>
     <string name="notification_time_just">Току що</string>
     <string name="notification_time_yesterday">Вчера</string>
-    <string name="notificaton_empty_message">No notifications</string>
+    <string name="notificaton_empty_message">Няма известия</string>
     <string name="music">Музика</string>
     <string name="music_title">Unknown song</string>
     <string name="music_author">Неизвестен изпълнител</string>
@@ -169,7 +169,7 @@ since charge"</string>
     <string name="common_google_play_services_unsupported_text">Услугата Google Play, на която разчитат някои от вашите приложения, не се поддържа от устройството ви. Моля, свържете се с производителя за помощ.</string>
     <string name="common_google_play_services_update_button">Обновяване</string>
     <string name="common_signin_button_text">Вписване</string>
-    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="common_signin_button_text_long">Влезте с Google акаунт</string>
     <string name="pre_release_do_not_ship">вярно</string>
     <string name="common_open_on_phone">Отваряне на телефона</string>
     <string name="wallet_buy_button_place_holder">Купете с Google</string>
@@ -473,7 +473,7 @@ Sorry, Google can\'t help you with that"</string>
     <string name="now_overtime">Допълнително време</string>
     <string name="now_tomorrow_at_time">Tomorrow at %1$s</string>
     <string name="now_today_at_time">Днес в %1$s</string>
-    <string name="now_yesterday_at_time">Yesterday at %1$s</string>
+    <string name="now_yesterday_at_time">Вчера в %1$s</string>
     <string name="now_date_at_time">%1$s на %2$s</string>
     <string name="tilt_detector_notification_title">Tilt detector service running</string>
     <string name="unknown_caller">Unknown caller</string>
@@ -591,7 +591,7 @@ Sorry, Google can\'t help you with that"</string>
     <string name="battery_info_status_unknown">Неизвестно</string>
     <string name="battery_info_status_charging">Зареждане</string>
     <string name="battery_info_status_charging_ac">Charging on AC</string>
-    <string name="battery_info_status_charging_usb">Charging over USB</string>
+    <string name="battery_info_status_charging_usb">Зареждане през USB</string>
     <string name="battery_info_status_charging_wireless">Charging wirelessly</string>
     <string name="battery_info_status_discharging">Не се зарежда</string>
     <string name="battery_info_status_not_charging">Не се зарежда</string>
@@ -653,7 +653,7 @@ Sorry, Google can\'t help you with that"</string>
     <string name="air_lightly_polluted">Леко замърсяване</string>
     <string name="air_moderate_polluted">Умерено замърсяване</string>
     <string name="air_heavily_polluted">Heavy pollution</string>
-    <string name="air_severely_polluted">Severe pollution</string>
+    <string name="air_severely_polluted">Сериозно замърсяване</string>
     <string name="no_outdoor_info">Няма данни</string>
     <string name="outdoor_info_notsuit">Не е подходящо за спорт</string>
     <string name="outdoor_info_suit">Подходящо за спорт</string>
@@ -661,7 +661,7 @@ Sorry, Google can\'t help you with that"</string>
     <string name="moisture">Влажност</string>
     <string name="uv">UV индекс</string>
     <string name="detailed">Детайли за времето</string>
-    <string name="forecast">Weather forecast</string>
+    <string name="forecast">Прогноза за времето</string>
     <string name="fetching">Една секунда…</string>
     <string name="fetch_failed">"Информацията не може да се получи"</string>
     <string name="fetch_failed_title">"Can't get weather info"</string>
@@ -676,10 +676,10 @@ Sorry, Google can\'t help you with that"</string>
     <string name="title_settings">Настройки</string>
     <string name="sport_music_settings">Музика</string>
     <string name="widget_currentstep_title">Данни</string>
-    <string name="widget_currentstep_activities">"Today's activity"</string>
+    <string name="widget_currentstep_activities">"Активност днес"</string>
     <string name="widget_currentstep_sleep_hour">ч</string>
     <string name="widget_currentstep_sleep_min">м</string>
-    <string name="widget_currentstep_sleep_title">Slept last night</string>
+    <string name="widget_currentstep_sleep_title">Сън снощи</string>
     <string name="widget_currentstep_sleep_no">Няма данни за сън</string>
     <string name="widget_currentstep_activity_no">Без активност днес?</string>
 </resources>
