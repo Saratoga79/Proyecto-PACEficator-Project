@@ -19,7 +19,7 @@
     <string name="notif_target_half_reach_desc">You are half-way towards your step goal today.</string>
     <string name="notif_detail_view">Виж детайли</string>
     <string name="notif_target_set">Редактиране на цел</string>
-    <string name="label_heartrate_today">Heart rate curve</string>
+    <string name="label_heartrate_today">Крива на сърдечната честота</string>
     <string name="heartrate_wear_before_gauging">Wear the watch before measuring</string>
     <string name="label_subject_ratio_today">Activity ratio</string>
     <string name="label_burning_ratio_today">Burned calories ratio</string>
@@ -36,7 +36,7 @@
     <string name="label_choose_when">When did you measure?</string>
     <string name="label_when_quiet">Почивка</string>
     <string name="label_when_active">In/After workout</string>
-    <string name="label_choose_condition">How do you feel?</string>
+    <string name="label_choose_condition">Как се чувствате?</string>
     <string name="label_condition_well">Спокойно</string>
     <string name="label_condition_tired">Уморен</string>
     <string name="label_condition_sick">Болен</string>
@@ -197,7 +197,7 @@
     <string name="weeklysports_swimerrate">Темпо на плуване</string>
     <string name="weeklysports_innerswimrate">Pool swimming avg pace</string>
     <string name="weeklysports_openswimrate">Open water swimming avg pace</string>
-    <string name="weeklysports_triathlon">Triathlon score</string>
+    <string name="weeklysports_triathlon">Триатлон резултат</string>
     <string name="weeklysports_triathlon_totaltime">Общо време</string>
     <string name="weeklysports_triathlon_hour">ч</string>
     <string name="weeklysports_triathlon_min">м</string>
@@ -212,10 +212,10 @@
     <string name="weekly_sports_notification_action">Натисни за преглед</string>
     <string name="weeklysports_date_format">MM/dd</string>
     <string name="widget_currentstep_title">Данни</string>
-    <string name="widget_currentstep_activities">"Today's activity"</string>
+    <string name="widget_currentstep_activities">"Активност днес"</string>
     <string name="widget_currentstep_sleep_hour">ч</string>
     <string name="widget_currentstep_sleep_min">м</string>
-    <string name="widget_currentstep_sleep_title">Slept last night</string>
+    <string name="widget_currentstep_sleep_title">Сън снощи</string>
     <string name="widget_currentstep_sleep_no">Няма данни за сън</string>
     <string name="widget_currentstep_activity_no">Без активност днес?</string>
     <string name="currentstep_detail_activity">Активност</string>
@@ -276,7 +276,7 @@
     <string name="stretch_dialog_subtitle">Sitting too much today</string>
     <string name="stretch_dialog_title">Време за разстягане</string>
     <string name="stretch_notification_content">Упражненията за опъване помагат да се разхлабят твърдите мускули от прекалено седене</string>
-    <string name="stretch_notification_subtitle">Sitting too much</string>
+    <string name="stretch_notification_subtitle">Седите твърде много</string>
     <string name="stretch_dialog_button_retry">Опитай отново</string>
     <string name="date_format">MM/dd</string>
     <string name="app_list_title">Общ преглед</string>
