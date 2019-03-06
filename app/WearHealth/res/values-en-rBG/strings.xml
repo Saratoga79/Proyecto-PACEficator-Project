@@ -4,7 +4,7 @@
     <string name="locale_title">Избери Език</string>
     <string name="action_badge_activated">com.huami.watch.health.BADGE_ACTIVATED</string>
     <string name="action_badge_dumped">com.huami.watch.health.BADGE_DUMPED</string>
-    <string name="app_name">Здраве</string>
+    <string name="app_name">Health</string>
     <string name="settings_step_unit">крачки</string>
     <string name="settings_step_target">Цел крачки</string>
     <string name="settings_target_reach_reminder">Предупреждение за цел</string>
@@ -24,7 +24,7 @@
     <string name="label_subject_ratio_today">Activity ratio</string>
     <string name="label_burning_ratio_today">Burned calories ratio</string>
     <string name="label_step_unit">крачки</string>
-    <string name="label_calory_unit">ккал</string>
+    <string name="label_calory_unit">kcal</string>
     <string name="label_subject_active">Активен</string>
     <string name="label_subject_sit">Все още</string>
     <string name="label_burning_active">Калории</string>
@@ -87,10 +87,10 @@
     <string name="all_day_deep_sleep">Дълбок сън</string>
     <string name="all_day_light_sleep">Лек сън</string>
     <string name="awake_duration">Време на събуждане</string>
-    <string name="sleep_unit_minute">м</string>
-    <string name="sleep_uniti_hour">ч</string>
-    <string name="sleep_duration">%1$sч %2$sм</string>
-    <string name="sleep_duration_diff">%1$s &lt;font size=\"12\"&gt;h &lt;/font&gt; %2$sм</string>
+    <string name="sleep_unit_minute">m</string>
+    <string name="sleep_uniti_hour">h</string>
+    <string name="sleep_duration">%1$sh %2$sm</string>
+    <string name="sleep_duration_diff">%1$s &lt;font size=\"12\"&gt;h &lt;/font&gt; %2$sm</string>
     <string name="date_m_d">%1$s/%2$s</string>
     <string name="date_today">Днес</string>
     <string name="sleep_detail_title">История</string>
@@ -121,7 +121,7 @@
     <string name="burning_fat_heart_rate">Изгаряне на мазнините</string>
     <string name="non_movement_heart_rate">Non-workout</string>
     <string name="sleep_heart_rate">Сън</string>
-    <string name="anaerobic_limit_heart_rate">VO₂ макс</string>
+    <string name="anaerobic_limit_heart_rate">VO₂ max</string>
     <string name="power_strength_heart_rate">Анаеробна</string>
     <string name="cardiopulmonary_enhancement">Аеробен</string>
     <string name="burning_fat__heart_rate">Интензивно</string>
