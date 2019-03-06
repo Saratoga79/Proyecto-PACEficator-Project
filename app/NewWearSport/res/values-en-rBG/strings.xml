@@ -506,8 +506,8 @@
     <string name="first_beat_help_run_target_and_real_time_guide">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Часовникът ще ви даде препоръка за тренировка въз основа на вашето VO₂ максимално ниво на фитнес, скорошно натоварване на тренировката и състояние на възстановяване от предишната тренировка. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Ако активирате тренировъчната функция в реално време в настройките и зададете ТЕ цел или изберете една от препоръчаните тренировки, часовникът ще ви преведе през тренировката и ще ви подкани да коригирате темпото и пулса, за да постигнете определени цели. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;small&gt;За повече подробности вижте Помощ в приложението Amazfit Watch.&lt;/small&gt;</string>
     <string name="first_beat_help_daily_perpormence">"&lt;font color=#00FF00&gt;Какво е това?&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Условие за работа в реално време показва дали сте над или под средното ниво на ефективност и как натрупващата се умора влияе на работата ви по време на тренировка. &lt;br/&gt;&lt;font color=#00FF00&gt;Как се използва?&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Часовникът автоматично ще оцени състоянието ви след 6 минути работа. По-висока от средната стойност показва, че можете да направите по-трудна тренировка, отколкото обикновено. По-ниската стойност предполага, че трябва да направите по-лесна тренировка. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; След като завършите тренировката, можете да анализирате изпълнението, като погледнете резултата на всеки километър/миля на графиката. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;За повече подробности вижте Помощ в приложението Amazfit Watch.&lt;/small&gt;"</string>
     <string name="first_beat_help_recovery_time">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;След завършване на тренировката ще ви бъде осигурено време в минути за пълно възстановяване. Между тренировките времето за възстановяване се намалява линейно към нула, ако няма налични нови данни за тренировка. Потребителят се насърчава да има някои тренировки с ниска интензивност, за да помогне за възстановяването. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;За повече подробности вижте Помощ в приложението Amazfit Watch.&lt;/small&gt;</string>
-    <string name="vo2max_unit">мл/кг/мин</string>
-    <string name="run_vo2max_unit">мл/кг/мин</string>
+    <string name="vo2max_unit">ml/kg/min</string>
+    <string name="run_vo2max_unit">ml/kg/min</string>
     <string name="vo2_max_has_no_data">Няма данни</string>
     <string name="sport_setting_gpx_route_selected">Route selected</string>
     <string name="sport_setting_gpx_route_selectd_remind">"Функциите на открито се управляват чрез този маршрут. Ако не е необходимо, изберете „Изключване“."</string>
@@ -581,12 +581,12 @@
     <string name="outdoor_climb_altitude">Увеличаване на височината</string>
     <string name="outdoor_max_cadence">Max cadence</string>
     <string name="outdoor_ave_cadence">Avg cadence</string>
-    <string name="outdoor_graph_unit">Разстояние (км)</string>
-    <string name="outdoor_speed_graph_title">Скорост (км/ч)</string>
+    <string name="outdoor_graph_unit">Разстояние (km)</string>
+    <string name="outdoor_speed_graph_title">Скорост (km/h)</string>
     <string name="not_testing_speed_data">"Couldn't find speed data"</string>
     <string name="con_leqi_table_title">LEQI велосипедна таблица се поддържа на часовника, ще сдвоите ли?</string>
     <string name="con_leqi_table_subtitle">(Pair device in Settings &gt; Bluetooth)</string>
-    <string name="remind_target_riding_km_title_format">Завършени %1$d км</string>
+    <string name="remind_target_riding_km_title_format">Завършени %1$d km</string>
     <string name="indoor_riding_time_too_short">Времето за упражняване е твърде кратко, за да се запише. Все пак спирате ли?</string>
     <string name="outdoor_climb_down_altitude">Намаляване на височината</string>
     <string name="outdoor_climb_down_distance">Намаляване на дистанцията</string>
@@ -675,12 +675,12 @@
     <string name="route_glevation_gain">Увеличаване на височината</string>
     <string name="route_scale_enlarge">Приближение</string>
     <string name="route_scale_narrow">Намаляване</string>
-    <string name="route_cur_altitude_value">%1d м</string>
-    <string name="route_climb_up_value">%1d м</string>
-    <string name="route_cur_altitude_value_imperial">%1d фута</string>
-    <string name="route_climb_up_value_imperial">%1d фута</string>
-    <string name="route_cur_remain_distance_value">%1s км</string>
-    <string name="route_cur_remain_distance_value_imperial">%1s мили</string>
+    <string name="route_cur_altitude_value">%1d m</string>
+    <string name="route_climb_up_value">%1d m</string>
+    <string name="route_cur_altitude_value_imperial">%1d ft</string>
+    <string name="route_climb_up_value_imperial">%1d ft</string>
+    <string name="route_cur_remain_distance_value">%1s km</string>
+    <string name="route_cur_remain_distance_value_imperial">%1s mi</string>
     <string name="easy_fat_run">Easy fat burning</string>
     <string name="healthy_cardio">Кардио тренировка</string>
     <string name="moderate_fat_burn">Moderate fat burning</string>
@@ -742,7 +742,7 @@
     <string name="sport_pause">Пауза</string>
     <string name="sport_continue">Възобнови</string>
     <string name="sport_stop">Стоп</string>
-    <string name="running_kilometers">км</string>
+    <string name="running_kilometers">km</string>
     <string name="running_avg_pace_desc_simple">Ср темпо</string>
     <string name="running_avg_speed_desc_simple">Ср скорост</string>
     <string name="running_pace_unit">/км</string>
