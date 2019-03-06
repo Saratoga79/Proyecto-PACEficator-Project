@@ -7,7 +7,7 @@
     <string name="velocity_tracker_impl">платформа</string>
     <string name="doze_pulse_schedule">1s,10s,30s,60s</string>
     <string name="system_ui_date_pattern">@android:string/system_ui_date_pattern</string>
-    <string name="lland">L Земя</string>
+    <string name="lland">L Land</string>
     <string name="app_label">System UI</string>
     <string name="status_bar_clear_all_button">Ясно</string>
     <string name="status_bar_recent_remove_item_title">Премахване от списъка</string>
@@ -186,7 +186,7 @@
     <string name="accessibility_quick_settings_hotspot_changed_on">Mobile hotspot turned on.</string>
     <string name="accessibility_casting_turned_off">Screen casting stopped.</string>
     <string name="accessibility_brightness">Display brightness</string>
-    <string name="data_usage_disabled_dialog_3g_title">2G-3G data is off</string>
+    <string name="data_usage_disabled_dialog_3g_title">2G-3G данни са изключени</string>
     <string name="data_usage_disabled_dialog_4g_title">4G данни са изключени</string>
     <string name="data_usage_disabled_dialog_mobile_title">Cellular data is off</string>
     <string name="data_usage_disabled_dialog_title">Данните са изключени</string>
@@ -412,8 +412,8 @@ be monitored"</string>
     <string name="widget_default_class_name"></string>
     <string name="abbrev_wday_month_day_no_year">EEEEMMMMd</string>
     <string name="abbrev_wday_month_day_no_year_alarm">EEEMMMd</string>
-    <string name="clock_12hr_format">чм</string>
-    <string name="clock_24hr_format">Чм</string>
+    <string name="clock_12hr_format">hm</string>
+    <string name="clock_24hr_format">Hm</string>
     <string name="app_name">Keyguard</string>
     <string name="keyguard_password_enter_pin_code">Въведете ПИН кода</string>
     <string name="keyguard_password_enter_puk_code">Въведете SIM PUK и новия ПИН код</string>
