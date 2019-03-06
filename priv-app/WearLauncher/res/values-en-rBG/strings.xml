@@ -14,7 +14,7 @@
     <string name="notification_click_open">Още</string>
     <string name="delete_all_notifications">Clear all notifications</string>
     <string name="delete_all_notifications_confrim_content">Изтритите известия не могат да бъдат извлечени по-късно на часовника, продължавате ли?</string>
-    <string name="notification_time_day">Чч:мм</string>
+    <string name="notification_time_day">HH:mm</string>
     <string name="notification_time_month">MM/dd HH:mm</string>
     <string name="notification_time_year">yyyy/MM/dd HH:mm</string>
     <string name="action_delete">Изтриване</string>
@@ -60,10 +60,10 @@
     <string name="quick_settings_battery_charging_intervalLessHour">"Less than 1 hour 
 since charge"</string>
     <string name="quick_settings_battery_sportString">Battery life in Sports mode</string>
-    <string name="quick_settings_battery_sporttime_hour_unit">час</string>
-    <string name="quick_settings_battery_sporttime_KM_unit">км</string>
+    <string name="quick_settings_battery_sporttime_hour_unit">hour</string>
+    <string name="quick_settings_battery_sporttime_KM_unit">km</string>
     <string name="quick_settings_battery_level_unit">%</string>
-    <string name="quick_settings_battery_sporttime_MI_unit">мили</string>
+    <string name="quick_settings_battery_sporttime_MI_unit">mi</string>
     <string name="health_def_value"></string>
     <string name="health_def_hint"></string>
     <string name="health_title_def_value">Today you have walked</string>
@@ -73,9 +73,9 @@ since charge"</string>
     <string name="header_incomming_call_mobilephone">Телефон</string>
     <string name="header_incomming_call_landlinephone">Стационарен телефон</string>
     <string name="header_incomming_call_searchinglocation">Requesting location…</string>
-    <string name="header_incomming_call_mobile_virtual">China Mobile (Virtual carrier)</string>
+    <string name="header_incomming_call_mobile_virtual">China Mobile(Виртуален оператор)</string>
     <string name="header_incomming_call_unicom_virtual">China Unicom (Виртуален оператор)</string>
-    <string name="header_incomming_call_telecom_virtual">China Telecom (Virtual carrier)</string>
+    <string name="header_incomming_call_telecom_virtual">China Telecom (Виртуален оператор)</string>
     <string name="header_incomming_call_other_virtual">Other virtual carriers</string>
     <string name="header_incomming_call_service_hotline">Гореща линия</string>
     <string name="header_incomming_call_localcall">Местен номер</string>
@@ -178,7 +178,7 @@ since charge"</string>
     <string name="retail_slideshow_hangout">Read messages and respond by voice.</string>
     <string name="retail_london">Лондон</string>
     <string name="retail_sunny">Слънчево</string>
-    <string name="retail_windspeed">0 мили/ч</string>
+    <string name="retail_windspeed">0 mph</string>
     <string name="retail_slideshow_weather">Glance at the weather when you wake up.</string>
     <string name="retail_ask_questions">Ask questions by saying \"Ok Google\"</string>
     <string name="retail_send_messages">Send messages by saying \"Ok Google\"</string>
@@ -186,7 +186,7 @@ since charge"</string>
     <string name="retail_take_notes">Take notes by saying \"Ok Google\"</string>
     <string name="retail_say_ok_google">Try saying \"Ok Google\"</string>
     <string name="retail_say_ok_google_again">Опитайте да кажете \"Ok Google\" отново</string>
-    <string name="retail_36_mins">36 мин</string>
+    <string name="retail_36_mins">36 min</string>
     <string name="retail_to_home">към начало</string>
     <string name="retail_light_traffic">Light traffic on A12</string>
     <string name="retail_navigate">Навигиране</string>
@@ -244,7 +244,7 @@ since charge"</string>
     <string name="cal_status_declined">Отказано</string>
     <string name="cal_status_invited">Няма отговор</string>
     <string name="cal_status_tentative">Може би</string>
-    <string name="cal_min">мин</string>
+    <string name="cal_min">min</string>
     <string name="cal_plus_x_more">+ още %s</string>
     <string name="cal_email_subject">[Update] %s</string>
     <string name="cal_no_event">Няма събития</string>
@@ -358,7 +358,7 @@ since charge"</string>
     <string name="voice_action_set_reminder_title">Задаване на напомняне</string>
     <string name="voice_action_alarm_title">Будилник</string>
     <string name="voice_action_timer_title">Таймер</string>
-    <string name="voice_action_sms_title">СМС</string>
+    <string name="voice_action_sms_title">SMS</string>
     <string name="voice_action_remote_app_title">Отвори приложение</string>
     <string name="voice_action_play_music_title">Play music on phone</string>
     <string name="voice_action_field_destination_description">Местоназначение</string>
@@ -429,8 +429,8 @@ Sorry, Google can\'t help you with that"</string>
     <string name="search_temperature_in_celsius">%s° C</string>
     <string name="search_temperature_in_fahrenheit">%s° F</string>
     <string name="search_temperature_no_units">%s°</string>
-    <string name="search_wind_in_mph">%sмили/ч</string>
-    <string name="search_wind_in_kph">%sкм/ч</string>
+    <string name="search_wind_in_mph">%smph</string>
+    <string name="search_wind_in_kph">%skph</string>
     <string name="search_precipitation_percent">%s%%</string>
     <string name="search_calculator_left">%s =</string>
     <string name="search_currency_left">%s равно</string>
@@ -440,7 +440,7 @@ Sorry, Google can\'t help you with that"</string>
     <string name="search_when_is_start_evening">%s begins in the evening of</string>
     <string name="search_when_is_end_evening">and ends in the evening of</string>
     <string name="search_call">Повикване</string>
-    <string name="stock_last_update" formatted="false">Updated: %s - %s</string>
+    <string name="stock_last_update" formatted="false">Актуализирано: %s - %s</string>
     <string name="local_closed">Затворено</string>
     <string name="monday">Понеделник</string>
     <string name="tuesday">Вторник</string>
@@ -457,8 +457,8 @@ Sorry, Google can\'t help you with that"</string>
     <string name="now_final_score_extra_periods_with_date">Final/%1$d, %2$s</string>
     <string name="now_final_score_overtime_with_date">Final OT, %1$s</string>
     <string name="now_final_score_shootout_with_date">Final SO, %1$s</string>
-    <string name="now_final_score_with_date">Финалl, %1$s</string>
-    <string name="now_current_inning">Ининг %1$d</string>
+    <string name="now_final_score_with_date">Final, %1$s</string>
+    <string name="now_current_inning">Inning %1$d</string>
     <string name="now_first_abbreviated">1ви</string>
     <string name="now_second_abbreviated">2ри</string>
     <string name="now_third_abbreviated">3ти</string>
@@ -638,9 +638,9 @@ Sorry, Google can\'t help you with that"</string>
     <string name="weather_warning_cold">Студена вълна</string>
     <string name="weather_warning_gale">Бурно</string>
     <string name="weather_warning_sandstorm">Пясъчна буря</string>
-    <string name="weather_warning_temperature">High temperature</string>
+    <string name="weather_warning_temperature">Висока температура</string>
     <string name="weather_warning_drought">Суша</string>
-    <string name="weather_warning_thunder">Thunder and lightning</string>
+    <string name="weather_warning_thunder">Гръм и мълнии</string>
     <string name="weather_warning_hail">Градушка</string>
     <string name="weather_warning_frost">Студ</string>
     <string name="weather_warning_fog">Гъста мъгла</string>
@@ -652,7 +652,7 @@ Sorry, Google can\'t help you with that"</string>
     <string name="air_good">Чудесно</string>
     <string name="air_lightly_polluted">Леко замърсяване</string>
     <string name="air_moderate_polluted">Умерено замърсяване</string>
-    <string name="air_heavily_polluted">Heavy pollution</string>
+    <string name="air_heavily_polluted">Силно замърсяване</string>
     <string name="air_severely_polluted">Сериозно замърсяване</string>
     <string name="no_outdoor_info">Няма данни</string>
     <string name="outdoor_info_notsuit">Не е подходящо за спорт</string>
@@ -664,7 +664,7 @@ Sorry, Google can\'t help you with that"</string>
     <string name="forecast">Прогноза за времето</string>
     <string name="fetching">Една секунда…</string>
     <string name="fetch_failed">"Информацията не може да се получи"</string>
-    <string name="fetch_failed_title">"Can't get weather info"</string>
+    <string name="fetch_failed_title">"Не можах да получа информация за времето"</string>
     <string name="fetch_failed_msg">Уверете се, че часовникът ви е свързан с приложението Amazfit Watch и в приложението е избрано валидно местоположение.</string>
     <string name="date_time_format">MM/dd</string>
     <string name="average_text">Среден</string>
@@ -677,7 +677,7 @@ Sorry, Google can\'t help you with that"</string>
     <string name="sport_music_settings">Музика</string>
     <string name="widget_currentstep_title">Данни</string>
     <string name="widget_currentstep_activities">"Активност днес"</string>
-    <string name="widget_currentstep_sleep_hour">ч</string>
+    <string name="widget_currentstep_sleep_hour">h</string>
     <string name="widget_currentstep_sleep_min">м</string>
     <string name="widget_currentstep_sleep_title">Сън снощи</string>
     <string name="widget_currentstep_sleep_no">Няма данни за сън</string>
