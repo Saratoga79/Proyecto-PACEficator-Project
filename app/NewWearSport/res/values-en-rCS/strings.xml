@@ -653,18 +653,18 @@
     <string name="alert_skip_you_finish">Dokončili jste to</string>
     <string name="finish_index_count">Počet: %1$s</string>
     <string name="sport_widget_title_rope_skip">Skákání přes švihadlo</string>
-    <string name="rope_frequency_unit">Časy / minuta</string>
+    <string name="rope_frequency_unit">krát/minutu</string>
     <string name="rope_total_count_remind_title">Celkové počítání bylo dokončeno</string>
     <string name="rope_remind_test_time">2500</string>
     <string name="setting_rope_skip_total_count">Celkový počet (krát)</string>
     <string name="sport_pause_normal_rope_skip_unit">Počet přeskoků přes švihadlo</string>
-    <string name="sport_pause_last_min_times_reminder">The Number of Rope Skipping Is Too Less And Cannot Be Saved. Make Sure to End It?</string>
-    <string name="rope_skip_this_frequency">Frequency of the Group</string>
-    <string name="rope_skip_aleary_group"><Data>Have Completed No. &lt;font color=#00ff00&gt;%1$s&lt;/font&gt; Group</Data></string>
-    <string name="sport_remind_total_times">Total Times :  %1$s Times</string>
-    <string name="sport_main_graph_title_rope_skip">Nearest (s)</string>
-    <string name="sport_rope_skip_requency">Frequency(Times/Minute))</string>
-    <string name="swim_total_trips_times">Total Trips : %1$s Times</string>
+    <string name="sport_pause_last_min_times_reminder">Počet přeskoků přes švihadlo je příliš malý a nelze je uložit. Ujistěte se, že chcete skončit.</string>
+    <string name="rope_skip_this_frequency">Frekvence skupiny</string>
+    <string name="rope_skip_aleary_group"><Data>Dokončeno č. &lt;font color=#00ff00&gt; Skupina</Data></string>
+    <string name="sport_remind_total_times">Celkový čas:  %1$s krát</string>
+    <string name="sport_main_graph_title_rope_skip">Nejbližší (s)</string>
+    <string name="sport_rope_skip_requency">Frekvence (krát/minutu)</string>
+    <string name="swim_total_trips_times">Celkem okruhů : %1$s krát</string>
     <string name="route_glevation_gain">Nastoupáno</string>
     <string name="route_scale_enlarge">Zvětšit</string>
     <string name="route_scale_narrow">Zmenšit</string>
@@ -997,7 +997,7 @@
     <string name="widget_currentstep_sleep_title">Spánek</string>
     <string name="widget_currentstep_sleep_no">Žádná spánková data</string>
     <string name="widget_currentstep_activity_no">Dnes žádná aktivita?</string>
-    <string name="give_up_re_modify_dis">Give up</string>
-    <string name="confirm_re_modify_dis">Comfirm</string>
-    <string name="re_modify_dis_successful">Recalibration succeeded</string>
+    <string name="give_up_re_modify_dis">Vzdát se</string>
+    <string name="confirm_re_modify_dis">Potvrdit</string>
+    <string name="re_modify_dis_successful">Kalibrace byla úspěšná</string>
 </resources>
