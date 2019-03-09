@@ -86,9 +86,9 @@ Nowe powiad.nie będą pokazywane!"</string>
     <string name="action_success">Sukces!</string>
     <string name="action_working">W trakcie...</string>
     <string name="activity_not_found">Wystąpił problem z ukoń.wymaganych działań.</string>
-    <string name="data_checkfail_match">Typ pogody nie znany</string>
-    <string name="data_checkfail_temp">Temperatura wykracza poza zakres</string>
-    <string name="data_checkfail_type">Typ pogody nie rozpoznany</string>
+    <string name="data_checkfail_match">Weather type fields do not match</string>
+    <string name="data_checkfail_temp">Weather temperature out of range</string>
+    <string name="data_checkfail_type">Unable to recognize weather type</string>
     <string name="wathc_disconnection_content">Rozłączono z telefonem</string>
     <string name="wathc_disconnection_title">Odłączony</string>
     <string name="notification_block">Bez Nowych Informacji</string>
@@ -106,6 +106,7 @@ Nowe powiad.nie będą pokazywane!"</string>
     <string name="music_play_status">Teraz gram</string>
     <string name="music_bulethooth_disconnect">Czekam na połączenie z Bluetooth...</string>
     <string name="music_peek_content">Twój tel. używa aplikacji %s do odtwarzania muzyki. Można kontrolować to odtwarzanie w wyskakującym okienku w zegarku.</string>
+    <string name="alone_before_open">Recently opened</string>
     <string name="launcher_app_name">Launcher</string>
     <string name="hm_watch_sports_notification_km">Km</string>
     <string name="hm_watch_sports_notification_sports">Sporty</string>
@@ -657,6 +658,8 @@ Nowe powiad.nie będą pokazywane!"</string>
     <string name="fetch_failed_title">Nie można uzyskać inf. o pogodzie</string>
     <string name="fetch_failed_msg">Połącz z aplikacją Watch Amazfit aby zsynchronizować informacje o pogodzie i upewnij się, że dodałeś lokalizację.</string>
     <string name="date_time_format">MM/dd</string>
+    <string name="data_check_log">" +------------------------+▂▃▄▅▆▇█▉  Weather data verification error!     %1$s▉█▇▆▅▄▃▂+------------------------+"</string>
+    <string name="data_checkfail_json">JSON format error</string>
     <string name="average_text">Średni</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Zatwierdż</string>
