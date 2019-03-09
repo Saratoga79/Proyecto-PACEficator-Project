@@ -444,9 +444,9 @@
     <string name="modify_big_dis_regain">Modificar</string>
     <string name="modify_big_dis_confirm">Confirmar calibración</string>
     <string name="re_modify_dis">Recalibración</string>
-    <string name="re_modify_dis_tips">"1. Calibration with a mileage greater than 0.5 km allows the watch to learn your running habits and make the running mileage more accurate. 
-2. If you have performed multiple calibrations but are still not satisfied with the mileage results, you can recalibrate. 
-3. Recalibration will delete all previous calibration records."</string>
+    <string name="re_modify_dis_tips">1. Calibrar una distancia superior a 0.5 km hará que el reloj aprenda tus hábitos y mejore la distancia calculada
+2. Puedes recalibrar la distancia tantas veces quieras
+3. Cada recalibración borrará los datos anteriores</string>
     <string name="lap_swim_stroke_speed_title">Freq. brazada</string>
     <string name="history_heart_rate_graph_desc">RC (ppm)</string>
     <string name="huanghe_pause_continue_title">Detección de movimientos</string>
@@ -636,32 +636,32 @@ para un ejercicio más efectivo"</string>
     <string name="group_frequency">Frecuencia de grupo</string>
     <string name="aleary_rest">Descansa</string>
     <string name="next_group">Grupo Siguiente</string>
-    <string name="rope_skip_times">&gt; % 1 $S tiempo</string>
+    <string name="rope_skip_times">&gt;%1$s Tiempo</string>
     <string name="rope_skip_frequency">Frecuencia</string>
     <string name="rope_skip_currnet_frequency">Frecuencia actual</string>
     <string name="rope_skip_max_frequency">Frecuencia máxima</string>
     <string name="rope_skip_total_count">Cuenta Total</string>
-    <string name="rope_skip_average_frequency">Average Frequency</string>
-    <string name="rope_skip_current_group_count">Current Group No.</string>
-    <string name="rope_skip_this_group_count">Counts of the Group</string>
-    <string name="rope_skip_this_group_cost_time">Time of the Group</string>
-    <string name="rope_skip_this_group_average_frequency">Average Frequency of the Group</string>
-    <string name="rope_skip_group_total_rest_time">Total Rest Time Between Groups</string>
-    <string name="total_counting">Counts</string>
-    <string name="skiing_lap_rope_skip_title">Rope Skipping Grouping Details</string>
-    <string name="setting_item_totla_count_reminder">Reminding of Total Counts</string>
-    <string name="settings_sport_arrive_goal_reminder">Reminding for Achieving the Goal</string>
-    <string name="alert_skip_you_finish">You Have Completed</string>
-    <string name="finish_index_count">No. % 1 $s</string>
-    <string name="sport_widget_title_rope_skip">Rope Skipping</string>
-    <string name="rope_frequency_unit">Times/ Minute</string>
-    <string name="rope_total_count_remind_title">Total Counting Has Been Completed</string>
+    <string name="rope_skip_average_frequency">Frecuencia med.</string>
+    <string name="rope_skip_current_group_count">Núm grupos.</string>
+    <string name="rope_skip_this_group_count">Conteo grupo</string>
+    <string name="rope_skip_this_group_cost_time">Tie grupo</string>
+    <string name="rope_skip_this_group_average_frequency">Frecuencia de grupo</string>
+    <string name="rope_skip_group_total_rest_time">Tiempo total de descanso entre grupos</string>
+    <string name="total_counting">Conteo</string>
+    <string name="skiing_lap_rope_skip_title">Detalles de salto con cuerda</string>
+    <string name="setting_item_totla_count_reminder">Aviso de conteo total</string>
+    <string name="settings_sport_arrive_goal_reminder">Aviso por llegar al objetivo</string>
+    <string name="alert_skip_you_finish">Has terminado</string>
+    <string name="finish_index_count">Conteo:%1$s</string>
+    <string name="sport_widget_title_rope_skip">Salto de cuerda</string>
+    <string name="rope_frequency_unit">Veces/min</string>
+    <string name="rope_total_count_remind_title">Completado</string>
     <string name="rope_remind_test_time">2500</string>
-    <string name="setting_rope_skip_total_count">Total Counts (Times)</string>
-    <string name="sport_pause_normal_rope_skip_unit">Number of Rope Skipping</string>
-    <string name="sport_pause_last_min_times_reminder">The Number of Rope Skipping Is Too Less And Cannot Be Saved. Make Sure to End It?</string>
-    <string name="rope_skip_this_frequency">Frequency of the Group</string>
-    <string name="rope_skip_aleary_group"><Data>Have Completed No. &lt;font color=#00ff00&gt;%1$s&lt;/font&gt; Group</Data></string>
+    <string name="setting_rope_skip_total_count">Conteo total (veces)</string>
+    <string name="sport_pause_normal_rope_skip_unit">Número de saltos</string>
+    <string name="sport_pause_last_min_times_reminder">El número de saltos es demasiado poco y no se puede guardar. ¿Está seguro de terminar?</string>
+    <string name="rope_skip_this_frequency">Frecuencia de grupo</string>
+    <string name="rope_skip_aleary_group"><Data>Grupos completados: &lt;font color=#00ff00&gt;%1$s&lt;/font&gt;</Data></string>
     <string name="sport_remind_total_times">Total Times :  %1$s Times</string>
     <string name="sport_main_graph_title_rope_skip">Nearest (s)</string>
     <string name="sport_rope_skip_requency">Frequency(Times/Minute))</string>
