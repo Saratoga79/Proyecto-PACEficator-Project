@@ -55,7 +55,7 @@
     <string name="detailed">Weather Details</string>
     <string name="forecast">Forecast Weather</string>
     <string name="fetching">Fetching</string>
-    <string name="outdoor_tip">空气质量</string>
+    <string name="outdoor_tip">Air quality</string>
     <string name="fetch_failed">"Cannot update weather"</string>
     <string name="unknown">Άγνωστο</string>
     <string name="fetch_failed_title">"Η λήψη πληροφοριών καιρού δεν είναι εφικτή"</string>
@@ -65,7 +65,7 @@
     <string name="forecast_tomorrow">Tomorrow</string>
     <string name="fetch_failed_help">Παρακαλώ πρώτα συγχρονίστε τις πληροφορίες καιρού</string>
     <string name="cancel">cancel</string>
-    <string name="data_check_log">+------------------------+▂▃▄▅▆▇█▉ Σφάλμα επαλήθευσης δεδομένων καιρού!  %1$s▉█▇▆▅▄▃▂+------------------------+</string>
+    <string name="data_check_log">+------------------------+▂▃▄▅▆▇█▉ Weather data verification error! %1$s▉█▇▆▅▄▃▂+------------------------+</string>
     <string name="data_checkfail_type">Unable to recognize weather type</string>
     <string name="data_checkfail_temp">Weather temperature out of range</string>
     <string name="data_checkfail_match">Weather type fields do not match</string>
