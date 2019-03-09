@@ -435,14 +435,14 @@
     <string name="oritation_north">N</string>
     <string name="back_to_continue_sport">Zurück</string>
     <string name="lap_swim_stroke_speed_title">Schlagzahl</string>
-    <string name="first_modify_tips">To calibrate the distance result of a running session (must be longer than 0.5 km) helps the watch to generate a more accurate distance result.</string>
-    <string name="modify_big_dis_tips">The calibrated value %1$s is significantly different from the measured value %2$s, calibrate anyway?</string>
+    <string name="first_modify_tips">Um das Distanzergebnis einer laufenden Aktivität zu kalibrieren (muss länger als 0,5 km lang sein) hilft die Uhr, ein genaueres Ergebnis zu generieren.</string>
+    <string name="modify_big_dis_tips">Der kalibrierte Wert %1$s unterscheidet sich erheblich vom gemessenen Wert %2$s, trotzdem kalibrieren?</string>
     <string name="modify_big_dis_regain">Bearbeiten</string>
     <string name="modify_big_dis_confirm">Kalibrierung fortsetzen</string>
     <string name="re_modify_dis">Erneut kalibrieren</string>
-    <string name="re_modify_dis_tips">"1. To calibrate the distance result of a running session (must be longer than 0.5 km) helps the watch to generate a more accurate result.
-2. If you still aren\'t satisfied with the result after several calibration attempts, try to calibrate again.
-3. If you calibrate the result again, all previous calibration records will be deleted."</string>
+    <string name="re_modify_dis_tips">"1. Um das Fernergebnis einer laufenden Sitzung zu kalibrieren (muss länger als 0,5 km lang sein) hilft die Uhr, ein genaueres Ergebnis zu generieren.
+2. Wenn Sie nach mehreren Kalibrierungsversuchen noch nicht zufrieden sind, versuchen Sie, erneut zu kalibrieren.
+3. Wenn Sie das Ergebnis erneut kalibrieren, werden alle vorherigen Kalibrierungsdaten gelöscht."</string>
     <string name="give_up_re_modify_dis">Verwerfen</string>
     <string name="confirm_re_modify_dis">Bestätigung</string>
     <string name="huanghe_pause_continue_title">Sport operation</string>
@@ -665,7 +665,7 @@ für effektiveres Training!\"</string>
     <string name="sport_pause_normal_rope_skip_unit">Überspringanzahl</string>
     <string name="sport_pause_last_min_times_reminder">Die Gesamtzahl ist zu klein zum speichern, soll es dennoch beendet werden?</string>
     <string name="rope_skip_this_frequency">Häufigkeit der Gruppe</string>
-    <string name="rope_skip_aleary_group"><Data>Completed groups: &lt;font color=#00ff00&gt;%1$s&lt;/font&gt;</Data></string>
+    <string name="rope_skip_aleary_group"><Data>Abgeschlossene Gruppen: &lt;font color=#00ff00&gt;%1$s&lt;/font&gt;</Data></string>
     <string name="sport_remind_total_times">Gesamtanzahl der Wiederholungen: %1$s</string>
     <string name="sport_main_graph_title_rope_skip">Kürzlich</string>
     <string name="sport_rope_skip_requency">Frequency (times/min)</string>
