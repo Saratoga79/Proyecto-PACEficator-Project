@@ -87,9 +87,9 @@
     <string name="action_success">สำเร็จ!</string>
     <string name="action_working">ระหว่างทาง...</string>
     <string name="activity_not_found">มีปัญหาในการดำเนินการตามที่ร้องขอ</string>
-    <string name="data_checkfail_match">ไม่ตรงกับฟิลด์ชนิดของสภาพอากาศ</string>
-    <string name="data_checkfail_temp">สภาพอากาศอุณหภูมิอยู่ในช่วง</string>
-    <string name="data_checkfail_type">ไม่รู้จักชนิดของสภาพอากาศ</string>
+    <string name="data_checkfail_match">Weather type fields do not match</string>
+    <string name="data_checkfail_temp">Weather temperature out of range</string>
+    <string name="data_checkfail_type">Unable to recognize weather type</string>
     <string name="wathc_disconnection_content">ไม่มีการเชื่อมต่อโทรศัพท์</string>
     <string name="wathc_disconnection_title">ตัดการเชื่อมต่อแล้ว</string>
     <string name="notification_block">โดยไม่ต้องแจ้งให้ทราบล่วงหน้า</string>
@@ -107,6 +107,7 @@
     <string name="music_play_status">กำลังเล่น</string>
     <string name="music_bulethooth_disconnect">ตรวจสอบการเชื่อมต่อบลูทูธ</string>
     <string name="music_peek_content">โทรศัพท์ของคุณใช้แอพ %s เพื่อเล่นเพลง สามารถควบคุมเพลงได้อย่างรวดเร็วในแถบการแจ้งเตือนของนาฬิกา</string>
+    <string name="alone_before_open">Recently opened</string>
     <string name="launcher_app_name">Launcher</string>
     <string name="hm_watch_sports_notification_km">กิโลเมตร</string>
     <string name="hm_watch_sports_notification_sports">กีฬา</string>
@@ -663,6 +664,8 @@
     <string name="fetch_failed_title">ไม่สามารถรับข้อมูลสภาพอากาศ</string>
     <string name="fetch_failed_msg">โปรดเชื่อมต่อแอพ Amazfit Watch เพื่อซิงค์ข้อมูลสภาพอากาศและตรวจสอบให้แน่ใจว่าคุณได้เพิ่มโซนในแอพแล้ว</string>
     <string name="date_time_format">dd/MM</string>
+    <string name="data_check_log">" +------------------------+▂▃▄▅▆▇█▉  Weather data verification error!     %1$s▉█▇▆▅▄▃▂+------------------------+"</string>
+    <string name="data_checkfail_json">JSON format error</string>
     <string name="average_text">ค่าเฉลี่ย</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">ยืนยัน</string>

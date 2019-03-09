@@ -55,7 +55,7 @@
     <string name="detailed">Hava detayları</string>
     <string name="forecast">Hava Durumu</string>
     <string name="fetching">Bir saniye…</string>
-    <string name="outdoor_tip">空气质量</string>
+    <string name="outdoor_tip">Air quality</string>
     <string name="fetch_failed">"Hava güncellenmedi"</string>
     <string name="unknown">Bilinmeyen</string>
     <string name="fetch_failed_title">"Hava durumu bilgisi alınamıyor"</string>
@@ -65,11 +65,11 @@
     <string name="forecast_tomorrow">Yarın</string>
     <string name="fetch_failed_help">Lütfen önce hava durumu bilgilerini senkronize edin</string>
     <string name="cancel">Kapat</string>
-    <string name="data_check_log">Hava durumu verileri doğrulanamadı %1$s</string>
-    <string name="data_checkfail_type">Tanınmayan hava durumu türü</string>
-    <string name="data_checkfail_temp">Hava sıcaklığı aralık dışında</string>
-    <string name="data_checkfail_match">Hava durumu alanları uyuşmuyor</string>
-    <string name="data_checkfail_json">Yanlış Biçim</string>
+    <string name="data_check_log">+------------------------+▂▃▄▅▆▇█▉ Weather data verification error! %1$s▉█▇▆▅▄▃▂+------------------------+</string>
+    <string name="data_checkfail_type">Unable to recognize weather type</string>
+    <string name="data_checkfail_temp">Weather temperature out of range</string>
+    <string name="data_checkfail_match">Weather type fields do not match</string>
+    <string name="data_checkfail_json">JSON format error</string>
     <string name="wind_breeze">Esinti</string>
     <string name="wind_rotating">Kasırga</string>
     <string name="wind_N">Kuzey Rüzgarı</string>

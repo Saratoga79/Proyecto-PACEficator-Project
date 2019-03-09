@@ -85,9 +85,9 @@
     <string name="action_success">Osotua!</string>
     <string name="action_working">Bidean...</string>
     <string name="activity_not_found">Eskatutako azkioa osotzean araso bat egon da.</string>
-    <string name="data_checkfail_match">Denbora eremuak ez datoz bat</string>
-    <string name="data_checkfail_temp">Tenperatura mugen azpitik</string>
-    <string name="data_checkfail_type">Ezin da eguraldiaren egoera ezagutu</string>
+    <string name="data_checkfail_match">Weather type fields do not match</string>
+    <string name="data_checkfail_temp">Weather temperature out of range</string>
+    <string name="data_checkfail_type">Unable to recognize weather type</string>
     <string name="wathc_disconnection_content">Telefonotik deskonektatzen</string>
     <string name="wathc_disconnection_title">Deskonektatzen</string>
     <string name="notification_block">Blokeatu</string>
@@ -105,6 +105,7 @@
     <string name="music_play_status">Martxan</string>
     <string name="music_bulethooth_disconnect">Bluetooth-era konektatzen…</string>
     <string name="music_peek_content">Zure mugikorra %s aplikazioa erabiltzen ari da musika jartzeko. Erreprodukzioa erlojutik kontrola dezakezu.</string>
+    <string name="alone_before_open">Recently opened</string>
     <string name="launcher_app_name">Jaurtitzailea</string>
     <string name="hm_watch_sports_notification_km">Kilometro</string>
     <string name="hm_watch_sports_notification_sports">Kirolak</string>
@@ -656,6 +657,8 @@
     <string name="fetch_failed_title">Unable to get weather information</string>
     <string name="fetch_failed_msg">Please connect the Amazfit Watch App to sync weather information and make sure you have added a zone on the App.</string>
     <string name="date_time_format">MM/dd</string>
+    <string name="data_check_log">" +------------------------+▂▃▄▅▆▇█▉  Weather data verification error!     %1$s▉█▇▆▅▄▃▂+------------------------+"</string>
+    <string name="data_checkfail_json">JSON format error</string>
     <string name="average_text">Batazbestekoa</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Baieztatu</string>
