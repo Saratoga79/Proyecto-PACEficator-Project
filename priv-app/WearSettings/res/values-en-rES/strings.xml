@@ -290,16 +290,16 @@ kg"</string>
  La Reiniciación de Factoría Unilateral de Watch eliminará la Tarjeta de Pago UnionPay y la Tarjeta de Transportación. 
  Una Tarjeta de Pago UnionPay Eliminada: No se puede perder más tiempo. Si Necesitas volver a Bingar, Consulte el Servicio de Atención al Cliente del Banco. 
  Una Tarjeta de Transportación Eliminada: Se Destruirá permanentemente y no se puede pagar de nuevo."</string>
-    <string name="reset_factory_conncet_msg">Watch and Amazfit watch App will Remove the Bound UnionPay Card. The Watch will Retain the Payment Function of the Transportation Card.</string>
-    <string name="reset_factory_positive">Factory Reset</string>
+    <string name="reset_factory_conncet_msg">El reloj y la app Amazfit Watch eliminarán la tarjeta UnionPay. El reloj aún podrá realizar pagos con la tarjeta de transporte</string>
+    <string name="reset_factory_positive">Resetear Reloj</string>
     <string name="reset_factory_negative">Cancelar</string>
-    <string name="reset_factory_fail_title">Unsuccessful Factory Reset</string>
-    <string name="reset_factory_fail_msg">If the UnionPay Card Is Not Successfully Removed, Please Try Again.</string>
-    <string name="reset_factory_fail_positive">Ok</string>
-    <string name="reset_factory_doing1">Factory Reset Is Being Made</string>
-    <string name="reset_factory_doing2">UnionPay Card Is Being Removed</string>
-    <string name="reset_factory_hint_cn">Disconnect from Your Mobile Phone and Delete All Data in Your Watch after Factory Reset. After Binding The Watch the Next Time, the Current Opened Transportation Card Can Continue to Be Used.</string>
-    <string name="reset_factory_bank_title">Please Remove the UnionPay Card at First</string>
+    <string name="reset_factory_fail_title">Fallo al realizar reset de fábrica</string>
+    <string name="reset_factory_fail_msg">Si la Tarjeta UnionPay no se ha eliminado correctamente, Inténtalo de nuevo.</string>
+    <string name="reset_factory_fail_positive">OK</string>
+    <string name="reset_factory_doing1">Realizando reset de fábrica</string>
+    <string name="reset_factory_doing2">La tarjeta UnionPay está siendo eliminada</string>
+    <string name="reset_factory_hint_cn">Desconectar de tu teléfono móvil y eliminar todos los datos en tu Watch después de reiniciar Factory. Después de vincular The Watch the Next Time, la tarjeta de Transportación Abierta Actual puede continuar siendo usada.</string>
+    <string name="reset_factory_bank_title">Por favor, elimine la tarjeta UnionPay en primer lugar</string>
     <string name="reset_factory_bank_msg">"Si reinicia la Watch sin quitar la Tarjeta UnionPay, Causa la Tarjeta UnionPay: 
  1. No se puede eliminar de la Watch, Ocurre el espacio de Chip;  2. No se puede usar la función de pago en la Watch;  3. No se puede Bound por otros Dispositivos; Para la Seguridad de Pago, primero elimine la Tarjeta UnionPay de la App de Watch Amazfit."</string>
     <string name="reset_factory_bank_yes">Reset de Fábrica</string>
