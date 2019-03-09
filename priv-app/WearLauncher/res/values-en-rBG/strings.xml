@@ -22,7 +22,7 @@
     <string name="notification_none">Всичко е получено</string>
     <string name="notification_allclear">Изчистване на всичко</string>
     <string name="notification_allclear_confirm">Изчистените известия повече няма да могат да се четат, да продължа ли?</string>
-    <string name="notification_checking_bluetooth">Checking Bluetooth connection…</string>
+    <string name="notification_checking_bluetooth">Проверка на Bluetooth свързването…</string>
     <string name="notification_detail_content_title">信息详情</string>
     <string name="notification_fix_message_action1">固定此消息</string>
     <string name="notification_fix_message_reset">重新设定时间</string>
@@ -67,7 +67,7 @@ since charge"</string>
     <string name="health_def_value"></string>
     <string name="health_def_hint"></string>
     <string name="health_title_def_value">Today you have walked</string>
-    <string name="splash_hint">Initializing ...</string>
+    <string name="splash_hint">Инициализация ...</string>
     <string name="header_incomming_call_name"></string>
     <string name="header_incomming_call_hint">Входящо обаждане</string>
     <string name="header_incomming_call_mobilephone">Телефон</string>
@@ -203,7 +203,7 @@ since charge"</string>
     <string name="retail_cal_event_title">Coffee with Alex</string>
     <string name="retail_cal_event_location">Gem Cafe</string>
     <string name="retail_cal_response">"I'm running 10 minutes late"</string>
-    <string name="retail_voice_reminder">remind me to call mom when I get home</string>
+    <string name="retail_voice_reminder">напомни ми да се обадя на майка ми, когато се прибера вкъщи</string>
     <string name="retail_voice_note">take a note the dining table is 30 inches wide</string>
     <string name="retail_voice_message">send a text to Max barbeque this weekend?</string>
     <string name="retail_voice_weather">will it rain this weekend</string>
@@ -251,7 +251,7 @@ since charge"</string>
     <string name="cal_no_title">(Без заглавие)</string>
     <string name="cal_event_duration" formatted="false">%s %s</string>
     <string name="cal_dummy_count_down">60</string>
-    <string name="checking_for_updates">Checking for updates…</string>
+    <string name="checking_for_updates">Проверявам за актуализации…</string>
     <string name="just_a_sec">Just a minute…</string>
     <string name="paired">Сдвоено!</string>
     <string name="tutorial_activity_text">Можете също така може да плъзнете, за да отхвърлите, когато сте в приложение</string>
@@ -298,7 +298,7 @@ since charge"</string>
     <string name="cue_menu_track_run">Започнете да тичате</string>
     <string name="cue_menu_track_workout">Начало на тренировка</string>
     <string name="cue_menu_show_heart_rate">Show me my heart rate</string>
-    <string name="cue_menu_make_request">Make a request</string>
+    <string name="cue_menu_make_request">Направете заявка</string>
     <string name="cue_menu_text">Изпрати текст</string>
     <string name="cue_menu_text_help_male1">to Jim, you around?</string>
     <string name="cue_menu_text_help_male2">to Jim, see you later</string>
@@ -360,7 +360,7 @@ since charge"</string>
     <string name="voice_action_timer_title">Таймер</string>
     <string name="voice_action_sms_title">SMS</string>
     <string name="voice_action_remote_app_title">Отвори приложение</string>
-    <string name="voice_action_play_music_title">Play music on phone</string>
+    <string name="voice_action_play_music_title">Възпр. на музика на телефона</string>
     <string name="voice_action_field_destination_description">Местоназначение</string>
     <string name="voice_action_field_destination_address">Адрес</string>
     <string name="voice_action_field_message">Съобщение</string>
@@ -392,13 +392,13 @@ since charge"</string>
     <string name="sms_success">Текста е изпратен</string>
     <string name="email_success">Изпратен имейл</string>
     <string name="call_success">Call started on your phone</string>
-    <string name="open_remote_app_success">Opened on phone</string>
+    <string name="open_remote_app_success">Отворено на телефона</string>
     <string name="voice_action_reminder_field">Напомняния?</string>
     <string name="alarm_setting_success">Алармата е създадена</string>
     <string name="timer_setting_success">Таймерът е стартиран</string>
     <string name="reminder_at_home">У дома</string>
     <string name="reminder_at_work">На работа</string>
-    <string name="disambiguation_app_to_complete">Complete action using</string>
+    <string name="disambiguation_app_to_complete">Изпълняване на действието чрез</string>
     <string name="sent_via_voice">Sent via voice</string>
     <string name="speak_now">Говори сега</string>
     <string name="speak_now_help">Speak now or swipe up for more</string>
@@ -529,7 +529,7 @@ Sorry, Google can\'t help you with that"</string>
     <string name="tutorial_touch_clock_what_time">Докоснете където и да е по часовника и кажете действие, като например „Покажи ми крачките“</string>
     <string name="tutorial_one_last_thing">Последно нещо…</string>
     <string name="tutorial_dim_lights">To dim the screen, cover it with your palm.</string>
-    <string name="tutorial_tap_to_read_more">Tap to read more</string>
+    <string name="tutorial_tap_to_read_more">Докоснете за да прочетете още</string>
     <string name="tutorial_dismiss_sync">Отхвърлените тук карти са отхвърлени и на телефона ви</string>
     <string name="reminder_trigger_occasionally">От време на време</string>
     <string name="reminder_trigger_recurring">Повтарящи се</string>
