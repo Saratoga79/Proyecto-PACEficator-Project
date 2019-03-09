@@ -446,9 +446,9 @@
     <string name="modify_big_dis_regain">Upravit</string>
     <string name="modify_big_dis_confirm">Potvrdit kalibraci</string>
     <string name="re_modify_dis">Rekalibrace</string>
-    <string name="re_modify_dis_tips">"1. Calibration with a mileage greater than 0.5 km allows the watch to learn your running habits and make the running mileage more accurate. 
-2. If you have performed multiple calibrations but are still not satisfied with the mileage results, you can recalibrate. 
-3. Recalibration will delete all previous calibration records."</string>
+    <string name="re_modify_dis_tips">"1. Kalibrace se vzdáleností větší než 0,5 km umožňuje hodinkám naučit se vaše běžné návyky a zpřesnit uběhnutou vzdálenost. 
+2. Pokud jste provedli několik kalibrací, ale stále nejste spokojeni s výsledky naměřené vzdálenosti, můžete je znovu kalibrovat. 
+3. Rekalibrace odstraní všechny předchozí kalibrační záznamy."</string>
     <string name="lap_swim_stroke_speed_title">Rychlost záběru</string>
     <string name="history_heart_rate_graph_desc">Tepová frekvence (bpm)</string>
     <string name="huanghe_pause_continue_title">Pohybové operace</string>
@@ -629,35 +629,35 @@
     <string name="real_time_guide_desc_33">Toto cvičení mohlo být pro vaše tělo příliš náročné.</string>
     <string name="real_time_guide_desc_34">Cílový rozsah srdeční frekvence je %1$s-%2$s bpm!</string>
     <string name="real_time_guide_desc_35"></string>
-    <string name="aleary_finish_group">Group No. %1$s Has Been Completed</string>
-    <string name="this_group_count">Group Counting</string>
-    <string name="group_cost_time">Group Time</string>
-    <string name="group_frequency">Group Frequency</string>
-    <string name="aleary_rest">Have Taken A Rest</string>
-    <string name="next_group">Next Group</string>
-    <string name="rope_skip_times">&gt;%1$s Time</string>
+    <string name="aleary_finish_group">Skupina číslo %1$s byla dokončena</string>
+    <string name="this_group_count">Počet skupin</string>
+    <string name="group_cost_time">Čas skupiny</string>
+    <string name="group_frequency">Frekvence skupiny</string>
+    <string name="aleary_rest">Udělat odpočinek</string>
+    <string name="next_group">Další skupina</string>
+    <string name="rope_skip_times">&gt;%1$s Čas</string>
     <string name="rope_skip_frequency">Frekvence</string>
     <string name="rope_skip_currnet_frequency">Aktuální frekvence</string>
-    <string name="rope_skip_max_frequency">Maximum frequency</string>
-    <string name="rope_skip_total_count">Total Counts</string>
-    <string name="rope_skip_average_frequency">Average Frequency</string>
-    <string name="rope_skip_current_group_count">Current Group No.</string>
-    <string name="rope_skip_this_group_count">Counts of the Group</string>
-    <string name="rope_skip_this_group_cost_time">Time of the Group</string>
-    <string name="rope_skip_this_group_average_frequency">Average Frequency of the Group</string>
-    <string name="rope_skip_group_total_rest_time">Total Rest Time Between Groups</string>
-    <string name="total_counting">Counts</string>
-    <string name="skiing_lap_rope_skip_title">Rope Skipping Grouping Details</string>
-    <string name="setting_item_totla_count_reminder">Reminding of Total Counts</string>
-    <string name="settings_sport_arrive_goal_reminder">Reminding for Achieving the Goal</string>
-    <string name="alert_skip_you_finish">You Have Completed</string>
-    <string name="finish_index_count">No. %1$s</string>
-    <string name="sport_widget_title_rope_skip">Rope Skipping</string>
-    <string name="rope_frequency_unit">Times/ Minute</string>
-    <string name="rope_total_count_remind_title">Total Counting Has Been Completed</string>
+    <string name="rope_skip_max_frequency">Maximální frekvence</string>
+    <string name="rope_skip_total_count">Celkový počet</string>
+    <string name="rope_skip_average_frequency">Průměrná frekvence</string>
+    <string name="rope_skip_current_group_count">Aktuální číslo skupiny</string>
+    <string name="rope_skip_this_group_count">Počet skupin</string>
+    <string name="rope_skip_this_group_cost_time">Čas skupiny</string>
+    <string name="rope_skip_this_group_average_frequency">Průměrná frekvence skupiny</string>
+    <string name="rope_skip_group_total_rest_time">Celkový čas odpočinku mezi skupinami</string>
+    <string name="total_counting">Počty</string>
+    <string name="skiing_lap_rope_skip_title">Podrobnosti o skupině skoků přes švihadlo</string>
+    <string name="setting_item_totla_count_reminder">Připomenutí celkového počtu</string>
+    <string name="settings_sport_arrive_goal_reminder">Připomenutí k dosažení cíle</string>
+    <string name="alert_skip_you_finish">Dokončili jste to</string>
+    <string name="finish_index_count">Počet: %1$s</string>
+    <string name="sport_widget_title_rope_skip">Skákání přes švihadlo</string>
+    <string name="rope_frequency_unit">Časy / minuta</string>
+    <string name="rope_total_count_remind_title">Celkové počítání bylo dokončeno</string>
     <string name="rope_remind_test_time">2500</string>
-    <string name="setting_rope_skip_total_count">Total Counts (Times)</string>
-    <string name="sport_pause_normal_rope_skip_unit">Number of Rope Skipping</string>
+    <string name="setting_rope_skip_total_count">Celkový počet (krát)</string>
+    <string name="sport_pause_normal_rope_skip_unit">Počet přeskoků přes švihadlo</string>
     <string name="sport_pause_last_min_times_reminder">The Number of Rope Skipping Is Too Less And Cannot Be Saved. Make Sure to End It?</string>
     <string name="rope_skip_this_frequency">Frequency of the Group</string>
     <string name="rope_skip_aleary_group"><Data>Have Completed No. &lt;font color=#00ff00&gt;%1$s&lt;/font&gt; Group</Data></string>
