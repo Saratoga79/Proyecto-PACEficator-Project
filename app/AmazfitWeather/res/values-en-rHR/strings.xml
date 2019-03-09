@@ -55,7 +55,7 @@
     <string name="detailed">Weather details</string>
     <string name="forecast">Weather forecast</string>
     <string name="fetching">Just a sec…</string>
-    <string name="outdoor_tip">空气质量</string>
+    <string name="outdoor_tip">Air quality</string>
     <string name="fetch_failed">"Couldn't get info"</string>
     <string name="unknown">Unknown</string>
     <string name="fetch_failed_title">"Couldn't get weather info"</string>
@@ -65,11 +65,11 @@
     <string name="forecast_tomorrow">Tomorrow</string>
     <string name="fetch_failed_help">Sync weather info first</string>
     <string name="cancel">Close</string>
-    <string name="data_check_log">+------------------------+▂▃▄▅▆▇█▉ 天 气 数 据 校 验 出 错 ！ %1$s▉█▇▆▅▄▃▂+------------------------+</string>
-    <string name="data_checkfail_type">Nije moguće prepoznati vrstu vremena</string>
-    <string name="data_checkfail_temp">Vremenska temperatura izvan raspona</string>
-    <string name="data_checkfail_match">Polja vrste vremena ne odgovaraju</string>
-    <string name="data_checkfail_json">Pogreška JSON formata</string>
+    <string name="data_check_log">+------------------------+▂▃▄▅▆▇█▉ Weather data verification error! %1$s▉█▇▆▅▄▃▂+------------------------+</string>
+    <string name="data_checkfail_type">Unable to recognize weather type</string>
+    <string name="data_checkfail_temp">Weather temperature out of range</string>
+    <string name="data_checkfail_match">Weather type fields do not match</string>
+    <string name="data_checkfail_json">JSON format error</string>
     <string name="wind_breeze">Povjetarac</string>
     <string name="wind_rotating">Whirlwind</string>
     <string name="wind_N">N wind</string>
