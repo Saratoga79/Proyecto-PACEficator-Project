@@ -396,37 +396,34 @@ kg"</string>
     <string name="upgrade_checking">מחפש עדכון...</string>
     <string name="left_hand">יד שמאל</string>
     <string name="right_hand">יד ימין</string>
-    <string name="sport_remind_open_title">运动模式开启提醒</string>
-    <string name="sport_remind_end_title">运动模式结束提醒</string>
-    <string name="sport_remind_open_tips">开启后，将在检测到你跑步或健走时，提醒你快捷开启运动模式</string>
-    <string name="sport_remind_end_tips">开启后，将在检测到你运动完成后，提醒你结束并保存</string>
-    <string name="sport_remind_open">开启</string>
-    <string name="voice_set">声音</string>
+    <string name="sport_remind_open_title">Reminding of Turning on the Sport Mode</string>
+    <string name="sport_remind_end_title">Reminding of Turning off the Sport Mode</string>
+    <string name="sport_remind_open_tips">When Turning On, It Will Remind You to Turn On the Motion Mode Quickly When It Detects That You Are Running or Sport Walking .</string>
+    <string name="sport_remind_end_tips">After Turning On, It Will Remind You to End and Save When It Detects That You Have Finished The Sport</string>
+    <string name="sport_remind_open">Turn On</string>
+    <string name="voice_set">Sound Setting</string>
     <string name="vibration">振动</string>
     <string name="ring_vibration">来电提醒振动</string>
     <string name="natification_vibration">新通知振动</string>
     <string name="alarm_vibration">计时提醒振动</string>
-    <string name="sport_remind_title">运动提醒</string>
-    <string name="ring">铃声</string>
-    <string name="volume">音量</string>
-    <string name="hint_volume">提示音音量</string>
-    <string name="media_volume">媒体音量</string>
-    <string name="alarm_volume">闹铃音量</string>
-    <string name="in_call_ring">来电铃声</string>
+    <string name="sport_remind_title">Sport Reminding</string>
+    <string name="ring">Ring Tone</string>
+    <string name="volume">Volume</string>
+    <string name="hint_volume">Warning Tone Volume</string>
+    <string name="media_volume">Media Volume</string>
+    <string name="alarm_volume">Alarm Volume</string>
+    <string name="in_call_ring">Incoming Call Ring</string>
     <string name="timing_reminder_ring">闹铃铃声</string>
-    <string name="alarm_ring">闹铃铃声</string>
-    <string name="nokia_tune">经典铃声%1$d</string>
-    <string name="electronic_ring_sound">电子铃声%1$d</string>
-    <string name="phonetic_sound">电音铃声%1$d</string>
+    <string name="alarm_ring">Alarm Ring</string>
+    <string name="nokia_tune">Classic Ring %1$D</string>
+    <string name="electronic_ring_sound">Electronic Ring %1$D</string>
+    <string name="phonetic_sound">Danyin Ring %1$D</string>
     <string name="device_name_huanghe">Amazfit智能运动手表</string>
-    <string name="reset_factory_hint_cn">"手表会与你的手机断开连接并删除手表中的所有数据。
-该手表被再次绑定后，已开通的交通卡可以继续使用。"</string>
-    <string name="reset_factory_bank_title">请先移除银联卡</string>
-    <string name="reset_factory_bank_msg">"未移除银联卡进行手表重置将导致银联卡: 
- 1.无法在手表中移除,占用芯片空间; 
- 2.无法在手表使用支付功能; 
- 3.无法被其他设备绑定;为了支付安全,请先在Amazfit手表App移除银联卡。"</string>
-    <string name="reset_factory_bank_yes">继续恢复出厂</string>
-    <string name="reset_factory_bank_no">取消</string>
-    <string name="reset_factory_bank_msg_again">手表会与你的手机断开连接并删除手表中的所有数据.该手表被再次绑定后,当前已开通的交通卡可以继续使用.</string>
+    <string name="reset_factory_hint_cn">Disconnect from Your Mobile Phone and Delete All Data in Your Watch after Factory Reset. After Binding The Watch the Next Time, the Current Opened Transportation Card Can Continue to Be Used.</string>
+    <string name="reset_factory_bank_title">Please Remove the UnionPay Card at First</string>
+    <string name="reset_factory_bank_msg">"If Reset the Watch without Removing the UnionPay Card, It will Cause the UnionPay Card: 
+ 1. Cannot be Removed from the Watch, Occupying Chip Space;  2. Cannot Use the Payment Function in the Watch;  3. Cannot Be Bound by Other Devices; For Payment Security, Please First Remove the UnionPay Card from Amazfit Watch App."</string>
+    <string name="reset_factory_bank_yes">Continue Factory Reset</string>
+    <string name="reset_factory_bank_no">Cancel</string>
+    <string name="reset_factory_bank_msg_again">The Watch Will Disconnect from Your Mobile Phone and Delete All Data in the Watch. After the Watch Is Re-bound, the Currently Opened Transportation Card Can Continue to Be Used.</string>
 </resources>
