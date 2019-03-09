@@ -55,7 +55,7 @@
     <string name="detailed">Eguraldiaren ezaugarriak</string>
     <string name="forecast">Eguraldiaren iragarpena</string>
     <string name="fetching">Itxaron…</string>
-    <string name="outdoor_tip">Airearen kalitatea</string>
+    <string name="outdoor_tip">Air quality</string>
     <string name="fetch_failed">"Ezin izan da informazioa lortu"</string>
     <string name="unknown">Ezezaguna</string>
     <string name="fetch_failed_title">"Ezin daiteke eguraldiaren informazioa lortu"</string>
@@ -65,11 +65,11 @@
     <string name="forecast_tomorrow">Bihar</string>
     <string name="fetch_failed_help">Hasteko, sinkroniza ezazu eguraldia</string>
     <string name="cancel">Ezeztatu</string>
-    <string name="data_check_log">+------------------------+▂▃▄▅▆▇█▉ 天 气 数 据 校 验 出 错 ！ %1$s▉█▇▆▅▄▃▂+------------------------+</string>
-    <string name="data_checkfail_type">Ezin da eguraldiaren egoera jakin</string>
-    <string name="data_checkfail_temp">Eguraldi tenperatura mugatik kanpo</string>
-    <string name="data_checkfail_match">Eguraldi mota eremuak ez datos bat</string>
-    <string name="data_checkfail_json">JSON formatuan akatsa</string>
+    <string name="data_check_log">+------------------------+▂▃▄▅▆▇█▉ Weather data verification error! %1$s▉█▇▆▅▄▃▂+------------------------+</string>
+    <string name="data_checkfail_type">Unable to recognize weather type</string>
+    <string name="data_checkfail_temp">Weather temperature out of range</string>
+    <string name="data_checkfail_match">Weather type fields do not match</string>
+    <string name="data_checkfail_json">JSON format error</string>
     <string name="wind_breeze">Haizea</string>
     <string name="wind_rotating">Norantza</string>
     <string name="wind_N">I</string>
