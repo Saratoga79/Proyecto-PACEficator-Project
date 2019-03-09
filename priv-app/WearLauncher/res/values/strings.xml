@@ -87,9 +87,9 @@ since charge"</string>
     <string name="action_success">Success!</string>
     <string name="action_working">On the way...</string>
     <string name="activity_not_found">There was a problem completing the requested action.</string>
-    <string name="data_checkfail_match">Weather type field does not match</string>
-    <string name="data_checkfail_temp">Weather temperature is out of range</string>
-    <string name="data_checkfail_type">Weather type is not recognized</string>
+    <string name="data_checkfail_match">Weather type fields do not match</string>
+    <string name="data_checkfail_temp">Weather temperature out of range</string>
+    <string name="data_checkfail_type">Unable to recognize weather type</string>
     <string name="wathc_disconnection_content">Has been disconnected from the phone</string>
     <string name="wathc_disconnection_title">Disconnected</string>
     <string name="notification_block">Without Further Notice</string>
@@ -107,6 +107,7 @@ since charge"</string>
     <string name="music_play_status">Now Playing</string>
     <string name="music_bulethooth_disconnect">Checking Bluetooth connection...</string>
     <string name="music_peek_content">Your phone is using %s App to play music. Quick control of music can be done in the watch notification bar.</string>
+    <string name="alone_before_open">Recently opened</string>
     <string name="launcher_app_name">Launcher</string>
     <string name="hm_watch_sports_notification_km">Kilometers</string>
     <string name="hm_watch_sports_notification_sports">Sports</string>
@@ -665,6 +666,8 @@ On"</string>
     <string name="fetch_failed_title">Unable to get weather information</string>
     <string name="fetch_failed_msg">Please connect the Amazfit Watch App to sync weather information and make sure you have added a zone on the App.</string>
     <string name="date_time_format">MM/dd</string>
+    <string name="data_check_log">" +------------------------+▂▃▄▅▆▇█▉  Weather data verification error!     %1$s▉█▇▆▅▄▃▂+------------------------+"</string>
+    <string name="data_checkfail_json">JSON format error</string>
     <string name="average_text">Avg</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Confirm</string>
