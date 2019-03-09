@@ -448,9 +448,6 @@
     <string name="re_modify_dis_tips">"1. Calibration with a mileage greater than 0.5 km allows the watch to learn your running habits and make the running mileage more accurate. 
 2. If you have performed multiple calibrations but are still not satisfied with the mileage results, you can recalibrate. 
 3. Recalibration will delete all previous calibration records."</string>
-    <string name="give_up_re_modify_dis">Give up</string>
-    <string name="confirm_re_modify_dis">Comfirm</string>
-    <string name="re_modify_dis_successful">Recalibration succeeded</string>
     <string name="lap_swim_stroke_speed_title">Besakada M.</string>
     <string name="history_heart_rate_graph_desc">Heart rate (bpm)</string>
     <string name="huanghe_pause_continue_title">Movement operation</string>
@@ -998,19 +995,7 @@ jarduera eraginkorragoa lortzeko"</string>
     <string name="widget_currentstep_sleep_title">Lo egin</string>
     <string name="widget_currentstep_sleep_no">Ez dago loaren daturik</string>
     <string name="widget_currentstep_activity_no">Gaur ez duzu ariketarik egingo?</string>
-    <string name="settings_item_value_swim_length_imperial">%1$s ft</string>
-    <string name="swim_swolf_unit_default">(/100 m)</string>
-    <string name="swim_swolf_unit_default_yd">(/100 yarda)</string>
-    <string name="swim_pace_unit_imperial">/100 feet</string>
-    <string name="first_modify_tips">0.5km-tik gorako distantziak kalibratzean, erlojuak neurketa zehatzagoak egindo ditu.</string>
-    <string name="modify_big_dis_tips">Kalibratutako %1$s balioa, neurtutako %2$s balioa baino askoz ezberdinagoa da</string>
-    <string name="modify_big_dis_regain">Aldatu</string>
-    <string name="modify_big_dis_confirm">Kalibrazioa baieztatu</string>
-    <string name="re_modify_dis">Berriro kalibratu</string>
-    <string name="re_modify_dis_tips">1. 0.5km-tik gorako distantziak kalibratzean, erlojuak neurketa zehatzagoak egindo ditu.
-2. Kalibrazio ugari egin ondoren balioarekin ados ez bazaude, berriro kalibra dezakezu.
-3. Berriro kalibratu ezkero, aurreko balio guztiak galduko dira.</string>
-    <string name="give_up_re_modify_dis">Atera</string>
-    <string name="confirm_re_modify_dis">Baieztatu</string>
-    <string name="re_modify_dis_successful">Kalibrazioa eginda</string>
+    <string name="give_up_re_modify_dis">Give up</string>
+    <string name="confirm_re_modify_dis">Comfirm</string>
+    <string name="re_modify_dis_successful">Recalibration succeeded</string>
 </resources>

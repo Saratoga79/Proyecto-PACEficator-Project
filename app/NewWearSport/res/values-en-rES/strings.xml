@@ -447,9 +447,6 @@
     <string name="re_modify_dis_tips">"1. Calibration with a mileage greater than 0.5 km allows the watch to learn your running habits and make the running mileage more accurate. 
 2. If you have performed multiple calibrations but are still not satisfied with the mileage results, you can recalibrate. 
 3. Recalibration will delete all previous calibration records."</string>
-    <string name="give_up_re_modify_dis">Give up</string>
-    <string name="confirm_re_modify_dis">Comfirm</string>
-    <string name="re_modify_dis_successful">Recalibration succeeded</string>
     <string name="lap_swim_stroke_speed_title">Freq. brazada</string>
     <string name="history_heart_rate_graph_desc">Heart rate (bpm)</string>
     <string name="huanghe_pause_continue_title">Movement operation</string>
@@ -995,19 +992,7 @@ para un ejercicio más efectivo"</string>
     <string name="widget_currentstep_sleep_title">Sueño</string>
     <string name="widget_currentstep_sleep_no">Sin datos de sueño</string>
     <string name="widget_currentstep_activity_no">¿No te ejercitas hoy?</string>
-    <string name="settings_item_value_swim_length_imperial">%1$s ft</string>
-    <string name="swim_swolf_unit_default">(/100 m)</string>
-    <string name="swim_swolf_unit_default_yd">(/100 yards)</string>
-    <string name="swim_pace_unit_imperial">/100 feet</string>
-    <string name="first_modify_tips">Calibrar una distancia superior a 0.5km ayudará al reloj a hacer mediciones más precisas</string>
-    <string name="modify_big_dis_tips">El valor calibrado a %1$s es muy diferente del medido de %2$s ¿Continuar de todas formas?</string>
-    <string name="modify_big_dis_regain">Modificar</string>
-    <string name="modify_big_dis_confirm">Confirmar calibración</string>
-    <string name="re_modify_dis">Recalibración</string>
-    <string name="re_modify_dis_tips">"1. La calibración con una distancia superior a 0,5km permite al reloj aprender sus hábitos de carrera y hacer que la distancia sea más precisa.
-2. Si ha realizado calibraciones múltiples pero aún no está satisfecho con los resultados de distancia, puede recalibrarlo.
-3. La recalibración eliminará todos los registros de calibración anteriores. "</string>
-    <string name="give_up_re_modify_dis">Salir</string>
-    <string name="confirm_re_modify_dis">Confirmar</string>
-    <string name="re_modify_dis_successful">Recalibración satisfactoria</string>
+    <string name="give_up_re_modify_dis">Give up</string>
+    <string name="confirm_re_modify_dis">Comfirm</string>
+    <string name="re_modify_dis_successful">Recalibration succeeded</string>
 </resources>

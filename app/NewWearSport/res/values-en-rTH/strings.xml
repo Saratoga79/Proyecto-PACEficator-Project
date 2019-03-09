@@ -448,9 +448,6 @@
     <string name="re_modify_dis_tips">"1. Calibration with a mileage greater than 0.5 km allows the watch to learn your running habits and make the running mileage more accurate. 
 2. If you have performed multiple calibrations but are still not satisfied with the mileage results, you can recalibrate. 
 3. Recalibration will delete all previous calibration records."</string>
-    <string name="give_up_re_modify_dis">Give up</string>
-    <string name="confirm_re_modify_dis">Comfirm</string>
-    <string name="re_modify_dis_successful">Recalibration succeeded</string>
     <string name="lap_swim_stroke_speed_title">อัตราจังหวะในการว่ายน้ำ</string>
     <string name="history_heart_rate_graph_desc">Heart rate (bpm)</string>
     <string name="huanghe_pause_continue_title">Movement operation</string>
@@ -999,19 +996,7 @@
     <string name="widget_currentstep_sleep_title">การนอนหลับ</string>
     <string name="widget_currentstep_sleep_no">ไม่มีข้อมูลการนอนหลับ</string>
     <string name="widget_currentstep_activity_no">ไม่มีกิจกรรมวันนี้?</string>
-    <string name="settings_item_value_swim_length_imperial">%1$sก้าว</string>
-    <string name="swim_swolf_unit_default">(คำนวณเป็น 100เมตร)</string>
-    <string name="swim_swolf_unit_default_yd">(คำนวณเป็น 100หลา)</string>
-    <string name="swim_pace_unit_imperial">/100ft</string>
-    <string name="first_modify_tips">การปรับเทียบด้วยระยะทางที่มากกว่า 0.5 กม. ทำให้นาฬิกาสามารถเรียนรู้พฤติกรรมการวิ่งของคุณและทำให้ระยะทางในการวิ่งนั้นแม่นยำยิ่งขึ้น</string>
-    <string name="modify_big_dis_tips">ค่าการปรับเทียบ%1$sค่อนข้างแตกต่างจากค่าที่วัดได้%2$sการสอบเทียบยืนยันหรือไม่</string>
-    <string name="modify_big_dis_regain">การแก้ไข</string>
-    <string name="modify_big_dis_confirm">ยืนยันการปรับเทียบ</string>
-    <string name="re_modify_dis">สอบเทียบอีกครั้ง</string>
-    <string name="re_modify_dis_tips">"1. การสอบเทียบด้วยระยะทางที่มากกว่า 0.5 กม. ทำให้นาฬิกาสามารถเรียนรู้พฤติกรรมการวิ่งของคุณและทำให้ระยะทางในการวิ่งแม่นยำขึ้น
-2. หากคุณทำการปรับเทียบหลายครั้ง แต่ยังไม่พอใจกับผลลัพธ์ไมล์สะสมคุณสามารถทำการสอบเทียบใหม่ได้
-3. การปรับเทียบใหม่จะลบบันทึกการสอบเทียบก่อนหน้านี้ทั้งหมด "</string>
-    <string name="give_up_re_modify_dis">ยกเลิก</string>
-    <string name="confirm_re_modify_dis">ยืนยัน</string>
-    <string name="re_modify_dis_successful">การปรับเทียบใหม่สำเร็จ</string>
+    <string name="give_up_re_modify_dis">Give up</string>
+    <string name="confirm_re_modify_dis">Comfirm</string>
+    <string name="re_modify_dis_successful">Recalibration succeeded</string>
 </resources>
