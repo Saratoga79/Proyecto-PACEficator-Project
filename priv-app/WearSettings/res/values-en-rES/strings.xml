@@ -74,40 +74,40 @@
     <string name="remind_aleary_open">Activado</string>
     <string name="phone_far_away_remind_to_you">El reloj te avisará cuando estés lejos del teléfono</string>
     <string name="dialog_confire">OK</string>
-    <string name="auto_bg">Turn on the Function of Lifting the Wrist to Brighten the Screen Timing</string>
-    <string name="auto_hint_title">Time for Screen Off</string>
-    <string name="long_key_action">Long Press the Button to Open</string>
-    <string name="voice">Volume Adjustment</string>
-    <string name="recombind">Rebinding</string>
-    <string name="watch_mode">Watch Mode</string>
-    <string name="lock_screen_title">Lock Screen</string>
-    <string name="lock_screen">Lock Screen</string>
+    <string name="auto_bg">Programar giro de muñeca</string>
+    <string name="auto_hint_title">Programar bloqueo de pantalla</string>
+    <string name="long_key_action">Mantén pulsado para abrir</string>
+    <string name="voice">Ajustes de volumen</string>
+    <string name="recombind">Emparejando</string>
+    <string name="watch_mode">Modo Reloj</string>
+    <string name="lock_screen_title">Bloquear Pantalla</string>
+    <string name="lock_screen">Bloquear Pantalla</string>
     <string name="lock_screen_hand">Modo de Bloqueo de Pantalla</string>
-    <string name="lock_screen_auto">Turn Off Low Light Mode Regularly</string>
-    <string name="lock_screen_open">Turned on</string>
-    <string name="lock_screen_close">Turned off</string>
-    <string name="lock_screen_open_guide">Setting the Screen Locking Mode to Low Light Mode Will Reduce Time of Endurance</string>
-    <string name="lock_auto_screen_wristup_guide">After Setting the Screen Off Time Successfully, the Watch Will Not Brighten the Screen After Lifting the Wrist And Locking the Screen.</string>
-    <string name="sport_remind_title">Sport Reminding</string>
-    <string name="sport_remind_open_title">Reminding of Turning on the Sport Mode</string>
-    <string name="sport_remind_end_title">Reminding of Turning off the Sport Mode</string>
-    <string name="sport_remind_open_tips">When Turning On, It Will Remind You to Turn On the Motion Mode Quickly When It Detects That You Are Running or Sport Walking .</string>
-    <string name="sport_remind_end_tips">After Turning On, It Will Remind You to End and Save When It Detects That You Have Finished The Sport</string>
-    <string name="sport_remind_open">Turn On</string>
-    <string name="voice_set">Sound Setting</string>
-    <string name="ring">Ring Tone</string>
-    <string name="volume">Volume</string>
-    <string name="hint_volume">Warning Tone Volume</string>
-    <string name="media_volume">Media Volume</string>
-    <string name="alarm_volume">Alarm Volume</string>
-    <string name="in_call_ring">Incoming Call Ring</string>
-    <string name="alarm_ring">Alarm Ring</string>
+    <string name="lock_screen_auto">Programar bloqueo de pantalla</string>
+    <string name="lock_screen_open">On</string>
+    <string name="lock_screen_close">Off</string>
+    <string name="lock_screen_open_guide">El modo de pantalla encendida (AOD) reducirá la batería</string>
+    <string name="lock_auto_screen_wristup_guide">Después de programar el giro de muñeca, no se encenderá la pantalla en ese tiempo</string>
+    <string name="sport_remind_title">Detección de actividad</string>
+    <string name="sport_remind_open_title">Activar detección de inicio de actividad</string>
+    <string name="sport_remind_end_title">Activar fin de detección de actividad</string>
+    <string name="sport_remind_open_tips">Se te avisará para que inicies una actividad tras ser detectada</string>
+    <string name="sport_remind_end_tips">Se te avisará de que guardes la actividad terminada</string>
+    <string name="sport_remind_open">Activar</string>
+    <string name="voice_set">Ajustes de sonido</string>
+    <string name="ring">Melodiás</string>
+    <string name="volume">Volumen</string>
+    <string name="hint_volume">Volumen de melodía de Advertencia</string>
+    <string name="media_volume">Volumen multimedia</string>
+    <string name="alarm_volume">Volumen de alarma</string>
+    <string name="in_call_ring">Melodía de llamada entrante</string>
+    <string name="alarm_ring">Alarmas</string>
     <string name="wrist_up_hand">Giro de muñeca para encender</string>
     <string name="title_activity_long_sitting_time">Demasiado tiempo sentado</string>
     <string name="product_model_qogir_oversea">Amazfit Verge</string>
     <string name="device_name_qogir_oversea">Amazfit Verge</string>
-    <string name="yongchiyou">Swim in the pool</string>
-    <string name="gongkaiyou">Swim in the Open Water</string>
+    <string name="yongchiyou">Nat. en piscina</string>
+    <string name="gongkaiyou">Nat. aguas abiertas</string>
     <string name="product_model_huanghe">Amazfit Sports Watch</string>
     <string name="product_model_huanghe_oversea">Amazfit Pace</string>
     <string name="product_model_everest">Amazfit Sports Watch 2</string>
@@ -127,18 +127,18 @@
     <string name="zh_tw">Chino (Tradicional)</string>
     <string name="ru_ru">Русский</string>
     <string name="es_es">Gaztelania</string>
-    <string name="de_de">Deutsch</string>
+    <string name="de_de">Alemán</string>
     <string name="it_it">Italiano</string>
-    <string name="fr_fr">Français</string>
-    <string name="pl_pl">Polski</string>
-    <string name="ko_kr">한국의</string>
-    <string name="ja_jp">日本語</string>
+    <string name="fr_fr">Francés</string>
+    <string name="pl_pl">Polaco</string>
+    <string name="ko_kr">Coreano</string>
+    <string name="ja_jp">Japonés</string>
     <string name="paobu">Correr</string>
     <string name="jianzou">Caminar</string>
     <string name="yueye">Carrera Trail</string>
     <string name="shineipao">Correr en interior</string>
     <string name="huwaiqi">Ciclismo</string>
-    <string name="tuoyuanji">Elliptical</string>
+    <string name="tuoyuanji">Elíptica</string>
     <string name="dengshan">Montañismo</string>
     <string name="tierensan">Triathlon</string>
     <string name="multisport">Multisport</string>
@@ -233,7 +233,7 @@
     <string name="blt_paring_fail_hint">"Asegúrate que esté 
 encendido y esté cerca"</string>
     <string name="blt_hint_disconnect_device">Desconectar</string>
-    <string name="blt_hint_ignore_device">Ingore the device</string>
+    <string name="blt_hint_ignore_device">Ignorar dispositivo</string>
     <string name="blt_hint_connect_device">Conectar</string>
     <string name="blt_confirm_ignore">¿Quieres ignorar este dispositivo?</string>
     <string name="bluetooth_connected">Conectado</string>
@@ -282,14 +282,14 @@ Nacim."</string>
  cm"</string>
     <string name="weight_unit">"Peso 
 kg"</string>
-    <string name="reset_factory_hint">Restore factory settings?</string>
-    <string name="reset_factory_yes">Factory Reset</string>
+    <string name="reset_factory_hint">¿Restablecer de Fábrica?</string>
+    <string name="reset_factory_yes">Resetear Reloj</string>
     <string name="reset_factory_no">Cancelar</string>
-    <string name="reset_factory_title">Factory Reset</string>
-    <string name="reset_factory_noconnect_msg">"If Needing to Unbind the Watch, Please Operate Through Amazfit Watch App. 
- Watch’s Unilateral Factory Reset Will Remove UnionPay Card and Transportation Card. 
- A Removed UnionPay Card: It Can No Longer Be Bound to The Watch. If You Need to Bind Again, Please Consult the Bank Customer Service. 
- A Removed Transportation Card: Will Be Destroyed Permanently and Cannot Be Paid Again."</string>
+    <string name="reset_factory_title">Resetear Reloj</string>
+    <string name="reset_factory_noconnect_msg">"Si necesitas desbloquear la Tarjeta de Vigilancia, por favor opera a través de la aplicación de Watch Amazfit. 
+ La Reiniciación de Factoría Unilateral de Watch eliminará la Tarjeta de Pago UnionPay y la Tarjeta de Transportación. 
+ Una Tarjeta de Pago UnionPay Eliminada: No se puede perder más tiempo. Si Necesitas volver a Bingar, Consulte el Servicio de Atención al Cliente del Banco. 
+ Una Tarjeta de Transportación Eliminada: Se Destruirá permanentemente y no se puede pagar de nuevo."</string>
     <string name="reset_factory_conncet_msg">Watch and Amazfit watch App will Remove the Bound UnionPay Card. The Watch will Retain the Payment Function of the Transportation Card.</string>
     <string name="reset_factory_positive">Factory Reset</string>
     <string name="reset_factory_negative">Cancelar</string>
