@@ -55,7 +55,7 @@
     <string name="detailed">Podrobnosti o počasí</string>
     <string name="forecast">Předpověď počasí</string>
     <string name="fetching">Načítání…</string>
-    <string name="outdoor_tip">Kvalita ovzduší</string>
+    <string name="outdoor_tip">Air quality</string>
     <string name="fetch_failed">"Nelze získat informace"</string>
     <string name="unknown">Neznámé</string>
     <string name="fetch_failed_title">"Nelze získat informace o počasí"</string>
@@ -65,11 +65,11 @@
     <string name="forecast_tomorrow">Zítra</string>
     <string name="fetch_failed_help">Nejprve synchronizujte informace o počasí</string>
     <string name="cancel">Zavřít</string>
-    <string name="data_check_log">+------------------------+▂▃▄▅▆▇█▉ Chyba údajů předpovědi！ %1$s▉█▇▆▅▄▃▂+------------------------+</string>
-    <string name="data_checkfail_type">Neznámý typ počasí</string>
-    <string name="data_checkfail_temp">Teplota je mimo rozsah</string>
-    <string name="data_checkfail_match">Počasí se neshoduje s daty v telefonu</string>
-    <string name="data_checkfail_json">Chyba formátu JSON</string>
+    <string name="data_check_log">+------------------------+▂▃▄▅▆▇█▉ Weather data verification error! %1$s▉█▇▆▅▄▃▂+------------------------+</string>
+    <string name="data_checkfail_type">Unable to recognize weather type</string>
+    <string name="data_checkfail_temp">Weather temperature out of range</string>
+    <string name="data_checkfail_match">Weather type fields do not match</string>
+    <string name="data_checkfail_json">JSON format error</string>
     <string name="wind_breeze">Vánek</string>
     <string name="wind_rotating">Vichřice</string>
     <string name="wind_N">S vítr</string>
