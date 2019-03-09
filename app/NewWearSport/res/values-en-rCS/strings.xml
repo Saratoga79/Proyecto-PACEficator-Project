@@ -449,9 +449,6 @@
     <string name="re_modify_dis_tips">"1. Calibration with a mileage greater than 0.5 km allows the watch to learn your running habits and make the running mileage more accurate. 
 2. If you have performed multiple calibrations but are still not satisfied with the mileage results, you can recalibrate. 
 3. Recalibration will delete all previous calibration records."</string>
-    <string name="give_up_re_modify_dis">Give up</string>
-    <string name="confirm_re_modify_dis">Comfirm</string>
-    <string name="re_modify_dis_successful">Recalibration succeeded</string>
     <string name="lap_swim_stroke_speed_title">Rychlost záběru</string>
     <string name="history_heart_rate_graph_desc">Heart rate (bpm)</string>
     <string name="huanghe_pause_continue_title">Movement operation</string>
@@ -1000,19 +997,7 @@
     <string name="widget_currentstep_sleep_title">Spánek</string>
     <string name="widget_currentstep_sleep_no">Žádná spánková data</string>
     <string name="widget_currentstep_activity_no">Dnes žádná aktivita?</string>
-    <string name="settings_item_value_swim_length_imperial">%1$s stop</string>
-    <string name="swim_swolf_unit_default">(/100 m)</string>
-    <string name="swim_swolf_unit_default_yd">(/100 yardů)</string>
-    <string name="swim_pace_unit_imperial">/100 stop</string>
-    <string name="first_modify_tips">Kalibrace se vzdáleností delší než 0,5 km umožňuje hodinkám poznat vaše zvyky a vygenerovat přesnější výsledky</string>
-    <string name="modify_big_dis_tips">Kalibrační hodnota %1$s je zcela odlišná od naměřené hodnoty %2$s. Chcete pokračovat?</string>
-    <string name="modify_big_dis_regain">Modifikovat</string>
-    <string name="modify_big_dis_confirm">Potvrdit kalibraci</string>
-    <string name="re_modify_dis">Rekalibrace</string>
-    <string name="re_modify_dis_tips">"1. Kalibrace se vzdáleností delší než 0,5 km umožňuje hodinkám poznat vaše zvyky a vygenerovat přesnější výsledky
-2. Pokud jste provedli několik kalibrací, ale stále nejste spokojeni s výsledky, můžete je znovu kalibrovat.
-3. Rekalibrace odstraní všechny předchozí kalibrační záznamy."</string>
-    <string name="give_up_re_modify_dis">Zavřít</string>
-    <string name="confirm_re_modify_dis">Potvrdit</string>
-    <string name="re_modify_dis_successful">Rekalibrace byla úspěšná</string>
+    <string name="give_up_re_modify_dis">Give up</string>
+    <string name="confirm_re_modify_dis">Comfirm</string>
+    <string name="re_modify_dis_successful">Recalibration succeeded</string>
 </resources>
