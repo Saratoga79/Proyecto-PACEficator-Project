@@ -55,7 +55,7 @@
     <string name="detailed">Dane pogodowe</string>
     <string name="forecast">Prognoza pogody</string>
     <string name="fetching">Zaczekaj…</string>
-    <string name="outdoor_tip">Jakość powietrza</string>
+    <string name="outdoor_tip">Air quality</string>
     <string name="fetch_failed">"Brak danych"</string>
     <string name="unknown">Nieznany</string>
     <string name="fetch_failed_title">"Brak danych pogodowych"</string>
@@ -65,11 +65,11 @@
     <string name="forecast_tomorrow">Jutro</string>
     <string name="fetch_failed_help">Wpierw synchro. pogodę</string>
     <string name="cancel">Zamknij</string>
-    <string name="data_check_log">+------------------------+▂▃▄▅▆▇█▉ Zła suma kontrolna danych pogodowych！ %1$s▉█▇▆▅▄▃▂+------------------------+</string>
-    <string name="data_checkfail_type">Typ Pogody nierozpoz.</string>
-    <string name="data_checkfail_temp">Temp.poza zakresem</string>
-    <string name="data_checkfail_match">Typy pól nie pasują</string>
-    <string name="data_checkfail_json">Błąd formatu JSON</string>
+    <string name="data_check_log">+------------------------+▂▃▄▅▆▇█▉ Weather data verification error! %1$s▉█▇▆▅▄▃▂+------------------------+</string>
+    <string name="data_checkfail_type">Unable to recognize weather type</string>
+    <string name="data_checkfail_temp">Weather temperature out of range</string>
+    <string name="data_checkfail_match">Weather type fields do not match</string>
+    <string name="data_checkfail_json">JSON format error</string>
     <string name="wind_breeze">Bryza</string>
     <string name="wind_rotating">Wicher</string>
     <string name="wind_N">N wiatr</string>
