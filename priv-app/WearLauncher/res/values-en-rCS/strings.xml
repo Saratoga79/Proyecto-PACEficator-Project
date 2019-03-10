@@ -87,9 +87,9 @@ hodina od nabití"</string>
     <string name="action_success">Úspěch!</string>
     <string name="action_working">Na cestě...</string>
     <string name="activity_not_found">Při provádění požadované akce došlo k problému.</string>
-    <string name="data_checkfail_match">Weather type fields do not match</string>
-    <string name="data_checkfail_temp">Weather temperature out of range</string>
-    <string name="data_checkfail_type">Unable to recognize weather type</string>
+    <string name="data_checkfail_match">Počasí se neshoduje s daty v telefonu</string>
+    <string name="data_checkfail_temp">Teplota je mimo rozsah</string>
+    <string name="data_checkfail_type">Neznámý typ počasí</string>
     <string name="wathc_disconnection_content">Byl odpojen od telefonu</string>
     <string name="wathc_disconnection_title">Odpojeno</string>
     <string name="notification_block">Bez dalšího upozornění</string>
@@ -107,7 +107,7 @@ hodina od nabití"</string>
     <string name="music_play_status">Nyní hraje</string>
     <string name="music_bulethooth_disconnect">Kontrola připojení Bluetooth...</string>
     <string name="music_peek_content">Telefon používá aplikaci %s pro přehrávání hudby. Rychlé ovládání hudby lze provádět v notifikačním panelu.</string>
-    <string name="alone_before_open">Recently opened</string>
+    <string name="alone_before_open">Nedávno otevřené</string>
     <string name="launcher_app_name">Launcher</string>
     <string name="hm_watch_sports_notification_km">Kilometry</string>
     <string name="hm_watch_sports_notification_sports">Sporty</string>
@@ -666,8 +666,8 @@ Zap."</string>
     <string name="fetch_failed_title">Nelze získat informace o počasí</string>
     <string name="fetch_failed_msg">Připojte aplikaci Watch Amazfit k synchronizaci informací o počasí a zkontrolujte, zda jste do aplikace přidali zóny.</string>
     <string name="date_time_format">dd.MM.</string>
-    <string name="data_check_log">" +------------------------+▂▃▄▅▆▇█▉  Weather data verification error!     %1$s▉█▇▆▅▄▃▂+------------------------+"</string>
-    <string name="data_checkfail_json">JSON format error</string>
+    <string name="data_check_log">" +------------------------+▂▃▄▅▆▇█▉ Chyba ověření meteorologických dat! %1$s▉█▇▆▅▄▃▂+------------------------+"</string>
+    <string name="data_checkfail_json">Chyba formátu JSON</string>
     <string name="average_text">Prm</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Potvrdit</string>
