@@ -11,7 +11,7 @@
     <string name="auto_recoginition_other_sport">Άλλες επιλογές κίνησης</string>
     <string name="auto_recoginition_not_remind">Δεν υπάρχουν άλλες υπενθυμίσεις σήμερα</string>
     <string name="auto_recoginition_save">Αποθήκευση</string>
-    <string name="auto_recoginition_end_title">It Is Detected that You Have Stopped the Motion, Save Or Not?</string>
+    <string name="auto_recoginition_end_title">Διαπιστώθηκε ότι έχετε σταματήσει την κίνηση, αποθήκευση ή όχι;</string>
     <string name="crossing_title">Trail Run</string>
     <string name="crossing_end_sport">Please stop trail run first</string>
     <string name="crossing_in_progress">Trail Running...</string>
@@ -153,7 +153,7 @@
     <string name="settings_item_title_target_calorie_remind">Calorie Goal</string>
     <string name="settings_item_value_target_calorie">%1$dkCal</string>
     <string name="settings_item_value_swim_length">%1$s米</string>
-    <string name="settings_item_value_swim_length_imperial">%1$s feet</string>
+    <string name="settings_item_value_swim_length_imperial">%1$s πόδι</string>
     <string name="settings_cal_unit">kCal</string>
     <string name="setting_auto_pause_speed">&lt;%1$s km/h</string>
     <string name="setting_auto_pause_pace">when slower than %1$s</string>
@@ -292,7 +292,7 @@
     <string name="sport_widget_title_triathlon">Tri</string>
     <string name="sport_widget_title_mountaineer">Climb</string>
     <string name="sport_widget_title_mountaineering">In Climb</string>
-    <string name="sport_child_riding">Riding</string>
+    <string name="sport_child_riding">Ιππασία</string>
     <string name="sport_widget_title_tennis">Τένις</string>
     <string name="sport_widget_title_tennising">Tennising</string>
     <string name="sport_widget_title_soccer">Ποδόσφαιρο</string>
@@ -311,22 +311,22 @@
     <string name="continue_sport">Continue Activity</string>
     <string name="stop_sport">Stop Activity</string>
     <string name="swim_avg_stroke_speed">平均划水率</string>
-    <string name="settting_sport_gpx_route">Movement track</string>
+    <string name="settting_sport_gpx_route">Παρακολούθηση κίνησης</string>
     <string name="swim_max_stroke_speed">Max SPM</string>
     <string name="swim_trips">Trip</string>
     <string name="target_swim_trips">目标趟数</string>
-    <string name="swim_total_trips">总趟数</string>
+    <string name="swim_total_trips">Συνολικός αριθμός περιστροφών</string>
     <string name="swim_stroke">划水</string>
     <string name="swim_stroke_times">总次数</string>
     <string name="swim_avg_dps">平均DPS(单次划水距离)</string>
     <string name="swim_swolf">Swolf效率指数</string>
     <string name="swim_swolf_unit">(按%1$s米计算)</string>
-    <string name="swim_swolf_unit_default">(calculated by hm)</string>
+    <string name="swim_swolf_unit_default">(υπολογισμένη από hm)</string>
     <string name="swim_swolf_unit_yd">(按%1$s码计算)</string>
-    <string name="swim_swolf_unit_default_yd">(calculated by 100 yds</string>
+    <string name="swim_swolf_unit_default_yd">(υπολογίζονται από 100 γιάρδες</string>
     <string name="swim_pace">配速</string>
     <string name="swim_pace_unit">/百米</string>
-    <string name="swim_pace_unit_imperial">/100 feet</string>
+    <string name="swim_pace_unit_imperial">/ 100 πόδια</string>
     <string name="swim_trips_unit">趟(每趟%1$d米)</string>
     <string name="swim_trips_unit_yd">趟(每趟%1$d码)</string>
     <string name="heart_region_title">Heart Rate Zone</string>
@@ -402,8 +402,8 @@
     <string name="sport_widget_title_compounding">In multisport</string>
     <string name="sport_select_compound">Selected</string>
     <string name="swimming_stop_dialog_msg_not_reach_minimum_distance">Fewer than one trip can not be saved, continue?</string>
-    <string name="tennic_wear_hand_guide">"Make sure to wear the watch 
- on the wrist of the hand holding the racket"</string>
+    <string name="tennic_wear_hand_guide">"Βεβαιωθείτε ότι φοράτε το ρολόι
+  στον καρπό του χεριού που κρατάει τη ρακέτα "</string>
     <string name="select_compound_sport">Select %1$s Sport</string>
     <string name="select_compound_sport_first">First</string>
     <string name="select_compound_sport_second">Second</string>
