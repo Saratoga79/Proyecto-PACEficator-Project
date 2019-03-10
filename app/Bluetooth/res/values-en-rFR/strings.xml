@@ -132,14 +132,14 @@
     <string name="start_server">Démarrer le serveur TCP</string>
     <string name="notify_server">Avertir le serveur TCP</string>
     <string name="map_session_key_dialog_title">Entrez la clé de session pour %1$s</string>
-    <string name="map_session_key_dialog_header">需要提供蓝牙会话密钥</string>
-    <string name="map_acceptance_timeout_message">接受与“%1$s”的连接时超时</string>
-    <string name="map_authentication_timeout_message">输入“%1$s”的会话密钥时超时</string>
-    <string name="map_auth_notif_ticker">OBEX 身份验证请求</string>
-    <string name="map_auth_notif_title">会话密钥</string>
-    <string name="map_auth_notif_message">输入“%1$s”的会话密钥</string>
-    <string name="map_defaultname">车用套件</string>
-    <string name="map_unknownName">未知名称</string>
-    <string name="map_localPhoneName">我的名字</string>
+    <string name="map_session_key_dialog_header">Clé de session Bluetooth nécessaire</string>
+    <string name="map_acceptance_timeout_message">Délai d\'attente lors de l\'acceptation de la connexion à %1$s</string>
+    <string name="map_authentication_timeout_message">Délai d\'attente lors de la saisie de la clé de session pour %1$s</string>
+    <string name="map_auth_notif_ticker">Demande d\'authentification OBEX</string>
+    <string name="map_auth_notif_title">Clé de session</string>
+    <string name="map_auth_notif_message">Entrez la clé de session pour %1$s</string>
+    <string name="map_defaultname">Kit mains libres</string>
+    <string name="map_unknownName">Nom inconnu</string>
+    <string name="map_localPhoneName">Mon nom</string>
     <string name="map_defaultnumber">000000</string>
 </resources>
