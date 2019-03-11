@@ -67,9 +67,9 @@
     <string name="cancel">ปิด</string>
     <string name="data_check_log">+------------------------+▂▃▄▅▆▇█▉ ข้อผิดพลาดการตรวจสอบข้อมูลสภาพอากาศ %1$s▉█▇▆▅▄▃▂+------------------------+</string>
     <string name="data_checkfail_type">ไม่สามารถรับรู้ประเภทสภาพอากาศ</string>
-    <string name="data_checkfail_temp">Weather temperature out of range</string>
-    <string name="data_checkfail_match">Weather type fields do not match</string>
-    <string name="data_checkfail_json">JSON format error</string>
+    <string name="data_checkfail_temp">อุณหภูมิสภาพอากาศอยู่นอกช่วง</string>
+    <string name="data_checkfail_match">ฟิลด์ประเภทสภาพอากาศไม่ตรงกัน</string>
+    <string name="data_checkfail_json">ข้อผิดพลาดในรูปแบบ JSON</string>
     <string name="wind_breeze">สายลมโชย</string>
     <string name="wind_rotating">ลมหมุน</string>
     <string name="wind_N">N wind</string>
