@@ -21,11 +21,11 @@
     <string name="input_passwor_on_mobile">"Въведете паролата за Wi-Fi
 в приложението Amazfit Watch"</string>
     <string name="processbar_downloading_rom">Изтегляне…</string>
-    <string name="please_keep_wifi_connect">"Don't disconnect from Wi-Fi"</string>
+    <string name="please_keep_wifi_connect">"Не изключвате от Wi-Fi"</string>
     <string name="processbar_downloading_tips">%</string>
     <string name="processbar_downloading_default">0</string>
-    <string name="download_rom_faild">"Couldn\'t download updates.
-Try again."</string>
+    <string name="download_rom_faild">"Не можах да изтегля актуализации.
+опитайте отново. "</string>
     <string name="download_rom_success">"Изтеглен успешно ROM.
 Инсталирай сега. "</string>
     <string name="low_battery_message">"Успешно изтеглени актуализации.
@@ -37,8 +37,7 @@ Try again."</string>
 Освободете %1$sMB за актуализиране."</string>
     <string name="update_network_error">"Не можах да проверя за актуализации.
 Опитайте отново по-късно."</string>
-    <string name="cancel_download">"Cancel downloading
-updates?"</string>
+    <string name="cancel_download">"Отказ от изтеглянето на актуализации на?"</string>
     <string name="new_rom_please_install">"Налична е актуализация.
 Актуализация сега. "</string>
     <string name="btn_install_later">Напомни ми по-късно</string>
@@ -48,14 +47,14 @@ updates?"</string>
     <string name="wifi_has_password">Шифровано</string>
     <string name="wifi_password_error">Грешна парола</string>
     <string name="wifi_connecting">Свързване…</string>
-    <string name="wifi_auth">Verifying password…</string>
+    <string name="wifi_auth">Проверка на парола…</string>
     <string name="wifi_get_ip">Получаване на IP адрес…</string>
     <string name="wifi_link_fail">"Неуспешно свързване"</string>
     <string name="wifi_connected">Свързан</string>
     <string name="wifi_title">Свързване към Wi-Fi</string>
-    <string name="wifi_wait_password">Waiting for password…</string>
+    <string name="wifi_wait_password">Изчакване за парола…</string>
     <string name="toast_please_update_first">Първо актуализирай</string>
-    <string name="wifi_turnon_going">Turning on Wi-Fi…</string>
+    <string name="wifi_turnon_going">Включване на Wi-Fi…</string>
     <string name="system_update_title">Актуализирана успешно</string>
     <string name="system_update_content">Upgraded to version %1$s successfully</string>
     <string name="password_error">"Wi-Fi парола е неправилна.
@@ -66,8 +65,8 @@ Wi-Fi мрежа.
     <string name="searching">Търсене…</string>
     <string name="hasNewUpdateTitle">Налична е актуализация</string>
     <string name="hasNewUpdateInstallContent">Версия %1$s е готова за инсталиране. Инсталирай сега?</string>
-    <string name="hasNewUpdateCheckContent">Version %1$s is available. Update now?</string>
-    <string name="update_title">Select update method</string>
+    <string name="hasNewUpdateCheckContent">Версия %1$s е налична. Актуализирай сега?</string>
+    <string name="update_title">Изберете метод за актуализация</string>
     <string name="update_online">ОТА обновяване</string>
     <string name="update_local">Местен ZIP файл</string>
     <string name="local_update_confirm_1_title">Внимание</string>
@@ -86,7 +85,7 @@ Wi-Fi мрежа.
     <string name="enter">ОК</string>
     <string name="cancel">Отказ</string>
     <string name="update_tips_0">Обновяване…</string>
-    <string name="update_tips_1">"Don't turn off the device"</string>
+    <string name="update_tips_1">"Не изключвайте устройството"</string>
     <string name="average_text">Среден</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">ОК</string>
