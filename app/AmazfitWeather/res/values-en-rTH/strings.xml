@@ -55,7 +55,7 @@
     <string name="detailed">รายละเอียดเกี่ยวกับสภาพอากาศ</string>
     <string name="forecast">พยากรณ์อากาศ</string>
     <string name="fetching">รอสักครู่...</string>
-    <string name="outdoor_tip">Air quality</string>
+    <string name="outdoor_tip">คุณภาพอากาศ</string>
     <string name="fetch_failed">"ไม่สามารถรับข้อมูลได้"</string>
     <string name="unknown">ไม่รู้จัก</string>
     <string name="fetch_failed_title">"ไม่สามารถรับข้อมูลสภาพอากาศ"</string>
@@ -65,11 +65,11 @@
     <string name="forecast_tomorrow">วันพรุ่งนี้</string>
     <string name="fetch_failed_help">ซิงค์ข้อมูลสภาพอากาศก่อน</string>
     <string name="cancel">ปิด</string>
-    <string name="data_check_log">+------------------------+▂▃▄▅▆▇█▉ Weather data verification error! %1$s▉█▇▆▅▄▃▂+------------------------+</string>
-    <string name="data_checkfail_type">Unable to recognize weather type</string>
-    <string name="data_checkfail_temp">Weather temperature out of range</string>
-    <string name="data_checkfail_match">Weather type fields do not match</string>
-    <string name="data_checkfail_json">JSON format error</string>
+    <string name="data_check_log">+------------------------+▂▃▄▅▆▇█▉ ข้อผิดพลาดการตรวจสอบข้อมูลสภาพอากาศ %1$s▉█▇▆▅▄▃▂+------------------------+</string>
+    <string name="data_checkfail_type">ไม่สามารถรับรู้ประเภทสภาพอากาศ</string>
+    <string name="data_checkfail_temp">อุณหภูมิสภาพอากาศอยู่นอกช่วง</string>
+    <string name="data_checkfail_match">ฟิลด์ประเภทสภาพอากาศไม่ตรงกัน</string>
+    <string name="data_checkfail_json">ข้อผิดพลาดในรูปแบบ JSON</string>
     <string name="wind_breeze">สายลมโชย</string>
     <string name="wind_rotating">ลมหมุน</string>
     <string name="wind_N">N wind</string>
