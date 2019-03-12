@@ -12,8 +12,8 @@
     <string name="status_bar_clear_all_button">Ясно</string>
     <string name="status_bar_recent_remove_item_title">Премахване от списъка</string>
     <string name="status_bar_recent_inspect_item_title">Данни за прилож</string>
-    <string name="status_bar_no_recent_apps">Your recent screens appear here</string>
-    <string name="status_bar_accessibility_dismiss_recents">Dismiss recent apps</string>
+    <string name="status_bar_no_recent_apps">Вашият последните екрани ще се повяват тук</string>
+    <string name="status_bar_accessibility_dismiss_recents">Отхвърли последните приложения</string>
     <string name="status_bar_no_notifications_title">Няма известия</string>
     <string name="status_bar_ongoing_events_title">Текущи</string>
     <string name="status_bar_latest_events_title">Известия</string>
@@ -22,7 +22,7 @@
     <string name="battery_low_percent_format_saver_started">%s остават. Икономия на батерията е вкл.</string>
     <string name="invalid_charger">"USB зареждането не се поддържа. Използвайте само доставеното зарядно устройство."</string>
     <string name="invalid_charger_title">USB зареждане не се поддържа.</string>
-    <string name="invalid_charger_text">Use only the supplied charger.</string>
+    <string name="invalid_charger_text">Използвайте само приложеното зарядно устройство.</string>
     <string name="battery_low_why">Настройки</string>
     <string name="battery_saver_confirmation_title">Включване на икономия на батерията?</string>
     <string name="battery_saver_confirmation_ok">Включи</string>
@@ -35,7 +35,7 @@
     <string name="status_bar_settings_auto_brightness_label">АВТОМАТИЧЕН</string>
     <string name="status_bar_settings_notifications">Известия</string>
     <string name="status_bar_network_name_separator">|</string>
-    <string name="bluetooth_tethered">Bluetooth tethered</string>
+    <string name="bluetooth_tethered">Bluetooth тетъринг</string>
     <string name="status_bar_input_method_settings_configure_input_methods">Задаване на методи за въвеждане</string>
     <string name="status_bar_use_physical_keyboard">Физическа клавиатура</string>
     <string name="usb_device_permission_prompt">Позволи на приложение %1$s достъп до USB устройството?</string>
@@ -52,7 +52,7 @@
 %1$s"</string>
     <string name="usb_debugging_always">Винаги разрешавай от този компютър</string>
     <string name="compat_mode_on">Уголеми до цял екран</string>
-    <string name="compat_mode_off">Stretch to fill screen</string>
+    <string name="compat_mode_off">Разтегни до запълване на екрана</string>
     <string name="screenshot_saving_ticker">Записване на скрииншот…</string>
     <string name="screenshot_saving_title">Записване на скрииншот…</string>
     <string name="screenshot_saving_text">Снимката е записана.</string>
@@ -76,7 +76,7 @@
     <string name="phone_label">отвори телефона</string>
     <string name="camera_label">отвори камерата</string>
     <string name="accessibility_ime_switch_button">Бутон за превключване на метод на въвеждане.</string>
-    <string name="accessibility_compatibility_zoom_button">Compatibility zoom button.</string>
+    <string name="accessibility_compatibility_zoom_button">Бутон за увеличаване по съвместимост.</string>
     <string name="accessibility_compatibility_zoom_example">Мащабиране малък към голям екран.</string>
     <string name="accessibility_bluetooth_connected">Успешно свързване с Блутут устройство.</string>
     <string name="accessibility_bluetooth_disconnected">Bluetooth е изключен.</string>
@@ -94,7 +94,7 @@
     <string name="accessibility_data_one_bar">Една лента за данни.</string>
     <string name="accessibility_data_two_bars">Две ленти за данни.</string>
     <string name="accessibility_data_three_bars">Три ленти за данни.</string>
-    <string name="accessibility_data_signal_full">Data signal full.</string>
+    <string name="accessibility_data_signal_full">Сигналът за данни е пълен.</string>
     <string name="accessibility_wifi_off">Wifi изкл.</string>
     <string name="accessibility_no_wifi">Wi-Fi връзката е изключена.</string>
     <string name="accessibility_wifi_one_bar">WiFi една лента.</string>
@@ -106,11 +106,11 @@
     <string name="accessibility_no_wimax">Няма WiMAX.</string>
     <string name="accessibility_wimax_one_bar">WiMAX една лента.</string>
     <string name="accessibility_wimax_two_bars">WiMAX две ленти.</string>
-    <string name="accessibility_wimax_three_bars">WiMAX three bars.</string>
-    <string name="accessibility_wimax_signal_full">WiMAX signal full.</string>
+    <string name="accessibility_wimax_three_bars">WiMAX три ленти.</string>
+    <string name="accessibility_wimax_signal_full">WiMAX пълен сигнал.</string>
     <string name="accessibility_no_signal">Няма сигнал.</string>
     <string name="accessibility_not_connected">Не сте свързани.</string>
-    <string name="accessibility_zero_bars">Zero bars.</string>
+    <string name="accessibility_zero_bars">Нула ленти.</string>
     <string name="accessibility_one_bar">Едно деление.</string>
     <string name="accessibility_two_bars">Две ленти.</string>
     <string name="accessibility_three_bars">Три ленти.</string>
@@ -131,15 +131,15 @@
     <string name="accessibility_data_connection_edge">Ръб</string>
     <string name="accessibility_data_connection_wifi">Wi-Fi</string>
     <string name="accessibility_no_sim">Без SIM.</string>
-    <string name="accessibility_bluetooth_tether">Bluetooth tethering.</string>
+    <string name="accessibility_bluetooth_tether">Bluetooth тетъринг.</string>
     <string name="accessibility_airplane_mode">Самолетен режим.</string>
-    <string name="accessibility_battery_level">Battery %d percent.</string>
+    <string name="accessibility_battery_level">Батерията е на %d процента.</string>
     <string name="accessibility_settings_button">Системни настройки.</string>
     <string name="accessibility_notifications_button">Известия.</string>
     <string name="accessibility_remove_notification">Изчисти уведомления.</string>
     <string name="accessibility_gps_enabled">GPS активиран.</string>
     <string name="accessibility_gps_acquiring">GPS acquiring.</string>
-    <string name="accessibility_tty_enabled">TeleTypewriter enabled.</string>
+    <string name="accessibility_tty_enabled">Телетайп е включен.</string>
     <string name="accessibility_ringer_vibrate">Вибрира при звънене.</string>
     <string name="accessibility_ringer_silent">Беззвучен режим.</string>
     <string name="accessibility_casting">@string/quick_settings_casting</string>
