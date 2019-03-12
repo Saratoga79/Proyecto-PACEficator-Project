@@ -118,14 +118,14 @@
         <item>[sid]power_test</item>
     </string-array>
     <string-array name="lab_item_long_sitting_timer_plus">
-        <item>[prim] Idle alert timer</item>
-        <item>[sum] Set idle alert timer</item>
+        <item>[prim] Таймер предупреждение за седене</item>
+        <item>[sum] Задайте таймер предупреждение за седене</item>
         <item>[pkg]com.huami.mobile.watchsettings</item>
         <item>[clazz]com.huami.moblie.watchsettings.actions.lab.labUI.LongSittingTimeActivity</item>
     </string-array>
     <string-array name="lab_item_wifi_signal_intensity">
-        <item>[prim] Signal strength</item>
-        <item>[sum] Detect signal strength</item>
+        <item>[prim] Сила на сигнала</item>
+        <item>[sum] Откриване на силата на сигнала</item>
         <item>[pkg]com.huami.mobile.watchsettings</item>
         <item>[clazz]com.huami.moblie.watchsettings.actions.lab.labUI.WifiTestActivity</item>
     </string-array>
