@@ -54,29 +54,29 @@
     <string name="quick_settings_battery_charging_full">Напълно заредена</string>
     <string name="quick_settings_battery_is_charging">Зареждане...</string>
     <string name="quick_settings_battery_hasnot_charged">Не е заредена</string>
-    <string name="quick_settings_battery_charging_intervalDay">%1$d days %2$d hours since charge</string>
-    <string name="quick_settings_battery_charging_intervalDay_lessHour">%d days since charge</string>
-    <string name="quick_settings_battery_charging_intervalDayLess">%d hours since charge</string>
-    <string name="quick_settings_battery_charging_intervalLessHour">"Less than 1 hour 
-since charge"</string>
-    <string name="quick_settings_battery_sportString">Battery life in Sports mode</string>
+    <string name="quick_settings_battery_charging_intervalDay">%1$d дни %2$d часа от момента на зареждане</string>
+    <string name="quick_settings_battery_charging_intervalDay_lessHour">%d дни от момента на зареждане</string>
+    <string name="quick_settings_battery_charging_intervalDayLess">%d часа от момента на зареждане</string>
+    <string name="quick_settings_battery_charging_intervalLessHour">"По-малко от 1 час 
+от момента на зареждане"</string>
+    <string name="quick_settings_battery_sportString">Живот на батерията в Спортен режим</string>
     <string name="quick_settings_battery_sporttime_hour_unit">hour</string>
     <string name="quick_settings_battery_sporttime_KM_unit">km</string>
     <string name="quick_settings_battery_level_unit">%</string>
     <string name="quick_settings_battery_sporttime_MI_unit">mi</string>
     <string name="health_def_value"></string>
     <string name="health_def_hint"></string>
-    <string name="health_title_def_value">Today you have walked</string>
+    <string name="health_title_def_value">Днес сте изминали</string>
     <string name="splash_hint">Инициализация ...</string>
     <string name="header_incomming_call_name"></string>
     <string name="header_incomming_call_hint">Входящо обаждане</string>
     <string name="header_incomming_call_mobilephone">Телефон</string>
     <string name="header_incomming_call_landlinephone">Стационарен телефон</string>
-    <string name="header_incomming_call_searchinglocation">Requesting location…</string>
+    <string name="header_incomming_call_searchinglocation">Искане за местоположение…</string>
     <string name="header_incomming_call_mobile_virtual">China Mobile(Виртуален оператор)</string>
     <string name="header_incomming_call_unicom_virtual">China Unicom (Виртуален оператор)</string>
     <string name="header_incomming_call_telecom_virtual">China Telecom (Виртуален оператор)</string>
-    <string name="header_incomming_call_other_virtual">Other virtual carriers</string>
+    <string name="header_incomming_call_other_virtual">Други виртуални оператори</string>
     <string name="header_incomming_call_service_hotline">Гореща линия</string>
     <string name="header_incomming_call_localcall">Местен номер</string>
     <string name="header_incomming_call_unknowncall">Неизвестен номер</string>
@@ -88,7 +88,7 @@ since charge"</string>
     <string name="amazing_dialog_btn_confirm_text">Потвърди</string>
     <string name="amazing_dialog_btn_cancel_text">Отказ</string>
     <string name="accept">Приемам</string>
-    <string name="action_failure">"Sorry, that didn't work"</string>
+    <string name="action_failure">"Съжалявам, това не работи"</string>
     <string name="action_success">Успешно!</string>
     <string name="action_working">По пътя...</string>
     <string name="activity_not_found">Възникна проблем при завършване на заявеното действие.</string>
@@ -96,7 +96,7 @@ since charge"</string>
     <string name="wathc_disconnection_title">Не сте свързани</string>
     <string name="notification_block">Блок</string>
     <string name="notification_block_cancel">Отказ</string>
-    <string name="notification_block_message">No longer receive app notifications</string>
+    <string name="notification_block_message">Вече няма да получавате уведомления от приложения</string>
     <string name="notification_block_ok">ОК</string>
     <string name="notification_more_settings">Допълнителни настройки</string>
     <string name="notification_time_just">Току що</string>
