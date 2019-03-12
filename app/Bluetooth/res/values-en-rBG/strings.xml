@@ -76,11 +76,11 @@
     <string name="bt_sm_2_2">Необходимото пространство: %1$s</string>
     <string name="ErrorTooManyRequests">Обработват се твърде много заявки. Опитайте отново по-късно.</string>
     <string name="status_pending">File transfer not started yet.</string>
-    <string name="status_running">File transfer is ongoing.</string>
-    <string name="status_success">File transfer completed successfully.</string>
-    <string name="status_not_accept">"Content isn't supported."</string>
-    <string name="status_forbidden">Transfer forbidden by target device.</string>
-    <string name="status_canceled">Transfer canceled by user.</string>
+    <string name="status_running">Прехвърлянето на файлове е в ход.</string>
+    <string name="status_success">Прехвърляне на файлове завърши успешно.</string>
+    <string name="status_not_accept">"Съдържанието не се поддържа."</string>
+    <string name="status_forbidden">Прехвърлянето е забранено от целевото устройство.</string>
+    <string name="status_canceled">Прехвърлянето е прекратено от потребителя.</string>
     <string name="status_file_error">Storage issue.</string>
     <string name="status_no_sd_card">No SD card. Insert an SD card to save transferred files.</string>
     <string name="status_connection_error">Connection unsuccessful.</string>
