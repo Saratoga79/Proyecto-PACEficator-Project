@@ -12,27 +12,27 @@
     <string name="airplane_error_msg">"You can't use Bluetooth in Airplane mode."</string>
     <string name="bt_enable_title"></string>
     <string name="bt_enable_line1">To use Bluetooth services, you must first turn on Bluetooth.</string>
-    <string name="bt_enable_line2">Turn on Bluetooth now?</string>
+    <string name="bt_enable_line2">Включване на Bluetooth сега?</string>
     <string name="bt_enable_cancel">Отказ</string>
     <string name="bt_enable_ok">Включи</string>
     <string name="incoming_file_confirm_title">Прехвърляне на файлове</string>
-    <string name="incoming_file_confirm_content">Accept incoming file?</string>
+    <string name="incoming_file_confirm_content">Приемане на входящ файл?</string>
     <string name="incoming_file_confirm_cancel">Отхвърлям</string>
     <string name="incoming_file_confirm_ok">Приемам</string>
     <string name="incoming_file_confirm_timeout_ok">ОК</string>
     <string name="incoming_file_confirm_timeout_content">There was a timeout while accepting an incoming file from \"%1$s\"</string>
-    <string name="incoming_file_confirm_Notification_title">Bluetooth share: Incoming file</string>
-    <string name="incoming_file_confirm_Notification_caption">Do you want to receive this file?</string>
-    <string name="incoming_file_toast_msg">Incoming file from another device. Confirm you want to receive this file.</string>
-    <string name="notification_receiving">Bluetooth share: Receiving %1$s</string>
-    <string name="notification_received">Bluetooth share: Received %1$s</string>
-    <string name="notification_received_fail">Bluetooth share: File %1$s not received</string>
-    <string name="notification_sending">Bluetooth share: Sending %1$s</string>
-    <string name="notification_sent">Bluetooth share: Sent %1$s</string>
-    <string name="notification_sent_complete">100% complete</string>
-    <string name="notification_sent_fail">Bluetooth share: File %1$s not sent</string>
+    <string name="incoming_file_confirm_Notification_title">Bluetooth споделяне: входящ файл</string>
+    <string name="incoming_file_confirm_Notification_caption">Желаете ли да получите този файл?</string>
+    <string name="incoming_file_toast_msg">Входящ файл от друго устройство. Потвърдете искате ли да получите този файл.</string>
+    <string name="notification_receiving">Bluetooth споделяне: Получаване на %1$s</string>
+    <string name="notification_received">Bluetooth споделяне: Получени %1$s</string>
+    <string name="notification_received_fail">Bluetooth споделяне: Файлът %1$s не е получен</string>
+    <string name="notification_sending">Bluetooth споделяне: Изпращане на %1$s</string>
+    <string name="notification_sent">Bluetooth споделяне: Изпрати %1$s</string>
+    <string name="notification_sent_complete">100 % завършен</string>
+    <string name="notification_sent_fail">Bluetooth споделяне: Файлът %1$s не е изпратен</string>
     <string name="download_title">Прехвърляне на файлове</string>
-    <string name="download_line1">From: \"%1$s\"</string>
+    <string name="download_line1">От: \"%1$s\"</string>
     <string name="download_line2">Файл: %1$s</string>
     <string name="download_line3">Размер на файла:%1$s</string>
     <string name="download_line4"></string>
@@ -59,8 +59,8 @@
     <string name="upload_fail_cancel">Затвори</string>
     <string name="bt_error_btn_ok">ОК</string>
     <string name="unknown_file">Неизвестен файл</string>
-    <string name="unknown_file_desc">"There\'s no app to handle this type of file. 
-"</string>
+    <string name="unknown_file_desc">"Няма приложение, което да обработи този тип файл. 
+ "</string>
     <string name="not_exist_file">Няма файл</string>
     <string name="not_exist_file_desc">"Файлът не съществува. 
  "</string>
@@ -116,7 +116,7 @@
     <string name="pbap_authentication_timeout_message">There was time out to input session key with %1$s</string>
     <string name="auth_notif_ticker">Заявка за удостоверяване на Obex</string>
     <string name="auth_notif_title">Ключ на сесия</string>
-    <string name="auth_notif_message">Type session key for %1$s</string>
+    <string name="auth_notif_message">Въведете ключ за сесия за %1$s</string>
     <string name="defaultname">Carkit</string>
     <string name="unknownName">Непознато име</string>
     <string name="localPhoneName">Моето име</string>
