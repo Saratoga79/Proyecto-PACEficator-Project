@@ -31,7 +31,7 @@
     <string name="notification_sent">Bluetooth share: Sent %1$s</string>
     <string name="notification_sent_complete">100% complete</string>
     <string name="notification_sent_fail">Bluetooth share: File %1$s not sent</string>
-    <string name="download_title">Transferència del fitxer</string>
+    <string name="download_title">File transfer</string>
     <string name="download_line1">From: \"%1$s\"</string>
     <string name="download_line2">File: %1$s</string>
     <string name="download_line3">File size: %1$s</string>
@@ -45,19 +45,19 @@
     <string name="download_fail_line1">File not received</string>
     <string name="download_fail_line2">File: %1$s</string>
     <string name="download_fail_line3">Reason: %1$s</string>
-    <string name="download_fail_ok">Confirm</string>
+    <string name="download_fail_ok">OK</string>
     <string name="download_succ_line5">File received</string>
     <string name="download_succ_ok">Obrir</string>
     <string name="upload_line1">To: \"%1$s\"</string>
     <string name="upload_line3">File type: %1$s (%2$s)</string>
     <string name="upload_line5">Sending file…</string>
     <string name="upload_succ_line5">File sent</string>
-    <string name="upload_succ_ok">Confirm</string>
+    <string name="upload_succ_ok">OK</string>
     <string name="upload_fail_line1">"The file wasn't sent to \"%1$s\"."</string>
     <string name="upload_fail_line1_2">File: %1$s</string>
-    <string name="upload_fail_ok">Retry</string>
-    <string name="upload_fail_cancel">cancel·la</string>
-    <string name="bt_error_btn_ok">Confirm</string>
+    <string name="upload_fail_ok">Try again</string>
+    <string name="upload_fail_cancel">Close</string>
+    <string name="bt_error_btn_ok">OK</string>
     <string name="unknown_file">Unknown file</string>
     <string name="unknown_file_desc">"There\'s no app to handle this type of file. 
 "</string>
@@ -97,7 +97,7 @@
     <string name="inbound_noti_title">Bluetooth share: Received files</string>
     <string name="noti_caption">%1$s successful, %2$s unsuccessful.</string>
     <string name="transfer_menu_clear_all">Clear list</string>
-    <string name="transfer_menu_open">Obrir</string>
+    <string name="transfer_menu_open">Open</string>
     <string name="transfer_menu_clear">Clear from list</string>
     <string name="transfer_clear_dlg_title">Neteja</string>
     <string name="bluetooth_share_file_name">bluetooth_content_share</string>
@@ -127,8 +127,8 @@
     <string name="update_record">Confirm record</string>
     <string name="ack_record">Ack record</string>
     <string name="deleteAll_record">Delete all record</string>
-    <string name="ok_button">Confirm</string>
-    <string name="delete_record">Delete</string>
+    <string name="ok_button">OK</string>
+    <string name="delete_record">Delete record</string>
     <string name="start_server">Start TCP server</string>
     <string name="notify_server">Notify TCP server</string>
     <string name="map_session_key_dialog_title">输入“%1$s”的会话密钥</string>
