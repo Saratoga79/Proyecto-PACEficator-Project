@@ -115,7 +115,7 @@
     <string name="tennis">Тенис</string>
     <string name="soccer">Футбол</string>
     <string name="yundongjilu">Активности</string>
-    <string name="celiangxinlv">Measure heart rate</string>
+    <string name="celiangxinlv">Измерване на сърдечната честота</string>
     <string name="shujuzhongxin">Данни</string>
     <string name="xiaoxizhongxin">Известия</string>
     <string name="zhifubao">Alipay</string>
@@ -123,7 +123,7 @@
     <string name="mijia">Mi Home</string>
     <string name="zhinanzhen">Компас</string>
     <string name="yinyue">Музика</string>
-    <string name="rebond_title">Pairing reminder</string>
+    <string name="rebond_title">Напомняне за сдвояване</string>
     <string name="rebond_desc_air_plane">На часовника е включен самолетен режим, изключете го и опитайте да го сдвоите отново</string>
     <string name="rebong_unbond_desc">Внимание: Можете да използвате тази функция само когато часовникът не е свързан с приложението за Amazfit Watch, в противен случай предишните сдвоени часовници няма да бъдат свързани.</string>
     <string name="rebond_go_on">Продължи</string>
@@ -212,11 +212,11 @@
     <string name="bluetooth_pairing_error_message">"Неуспешно сдвояване %1$s"</string>
     <string name="bluetooth_connected">Свързан</string>
     <string name="bluetooth_disconnected">Прекъснат</string>
-    <string name="bluetooth_connecting_error_message">"Couldn't connect to %1$s."</string>
+    <string name="bluetooth_connecting_error_message">"Неуспешно свързване с %1$s."</string>
     <string name="bluetooth_pairing_pin_error_message">"Не може да се сдвои %1$s. ПИН или ключът за достъп са неправилни."</string>
-    <string name="bluetooth_pairing_device_down_error_message">"Can't communicate with %1$s."</string>
-    <string name="bluetooth_pairing_rejected_error_message">%1$s rejected pairing request.</string>
-    <string name="bluetooth_turning_on">Turning on Bluetooth …</string>
+    <string name="bluetooth_pairing_device_down_error_message">"Невъзможно установяване на връзка с %1$s."</string>
+    <string name="bluetooth_pairing_rejected_error_message">Сдвояването е отхвърлено %1$s.</string>
+    <string name="bluetooth_turning_on">Включване на Bluetooth…</string>
     <string name="bluetooth_turning_off">Turning off Bluetooth off…</string>
     <string name="bluetooth_enabled">Bluetooth е вкл</string>
     <string name="bluetooth_disabled">Bluetooth е изключен</string>
