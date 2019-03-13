@@ -3,21 +3,21 @@
 <resources>
     <string name="locale_title">Dilinizi seçin</string>
     <string name="app_name">TrainCenter</string>
-    <string name="app_train_center">Training Center</string>
+    <string name="app_train_center">Eğitim Merkezi</string>
     <string name="my_train">My plan</string>
     <string name="please_select_train_plan">Please choose a plan</string>
     <string name="start_new_train">Start training</string>
-    <string name="train_center">Training Center</string>
+    <string name="train_center">Eğitim Merkezi</string>
     <string name="train_detail">Detaylar</string>
     <string name="day_train_record_stag">%1$s Week %2$d Day %3$d</string>
     <string name="day_train_record_stag_simple">Week %1$d Day %2$d</string>
-    <string name="day_train_record_train_stage">Day %1$s</string>
+    <string name="day_train_record_train_stage">Bugün %1$s</string>
     <string name="remind_train_first_text">"Scientific training improve your running 
  performance, Let\'s get started!"</string>
     <string name="train_start">Başla</string>
-    <string name="hidtory_train_start_date">Start %1$s</string>
-    <string name="hidtory_train_end_date">End %1$s</string>
-    <string name="train_detail_number_weekly">Week %1$d</string>
+    <string name="hidtory_train_start_date">%1$s içinde başlıyor</string>
+    <string name="hidtory_train_end_date">Sona eren: %1$s</string>
+    <string name="train_detail_number_weekly">Hafta %1$d</string>
     <string name="day_train_status_done">(Tamamlandı)</string>
     <string name="train_record_complete_percent">Tamamlandı</string>
     <string name="day_train_record_status_finish">Tamamlandı</string>
@@ -29,7 +29,7 @@
     <string name="cancel">Cancel</string>
     <string name="enter">Enter</string>
     <string name="dialog_delete">Sil</string>
-    <string name="day_train_plan_record_marked">Mark</string>
+    <string name="day_train_plan_record_marked">İşaret</string>
     <string name="train_plan_recode_finished">Sonlandır</string>
     <string name="train_mileage">Totaldistance(km)</string>
     <string name="train_mileage_mils">Totaldistance(miles)</string>
@@ -40,7 +40,7 @@
     <string name="train_complete_rate">Rate</string>
     <string name="assing_train_plan">%1$s</string>
     <string name="train_plan_already_assgn">Subscribed</string>
-    <string name="notification_title">Training Center</string>
+    <string name="notification_title">Eğitim Merkezi</string>
     <string name="notificaiton_train_content">"Today's workout is not completed yet. Keep it up!"</string>
     <string name="this_train_record_finish">This plan ended already</string>
     <string name="train_finish_reason">Reason to end</string>
