@@ -3,20 +3,22 @@
 <resources>
     <string name="app_name">Huami lab</string>
     <string name="main_title">Huami lab</string>
-    <string name="agreement_title">PPG capturing</string>
-    <string name="orig_data_collect">Activity data collection</string>
-    <string name="message">"We\'ll collect raw PPG data when you wear the watch.
-The data will only be used for research purposes.
-This feature will adversely impact the battery life."</string>
+    <string name="agreement_title">PPG เริ่มทำงาน</string>
+    <string name="orig_data_collect">การเก็บรวบรวมข้อมูลกิจกรรม</string>
+    <string name="message">"เราจะเริ่มเก็บข้อมูลดิบ PPG เมื่อคุณสวมใส่นาฬิกา
+ข้อมูลเหล่สนี้จะใช้เพื่อการวิจัยเท่านั้น
+การทำงานนี้จะมีผลกระทบการการใช้แบตเตอรี่บ้าง"</string>
     <string name="allow">อนุญาต</string>
     <string name="exit">ออก</string>
-    <string name="message_everest">"We'll collect raw PPG data when you wear the watch. The data will only be used for research purposes. This feature will adversely impact the battery life."</string>
+    <string name="message_everest">"เราจะเริ่มเก็บข้อมูลดิบ PPG เมื่อคุณสวมใส่นาฬิกา
+ข้อมูลเหล่สนี้จะใช้เพื่อการวิจัยเท่านั้น
+การทำงานนี้จะมีผลกระทบการการใช้แบตเตอรี่บ้าง"</string>
     <string name="heart_rate_collection_on">เปิด</string>
     <string name="heart_rate_collection_off">ปิด</string>
     <string name="hbeacon_on">เปิด</string>
     <string name="hbeacon_off">ปิด</string>
-    <string name="hbeacon_on_confirm_message">Tap to turn the HBeacon feature on, so the watch battery may be slightly reduced, and you may need to pair your phone with the watch again after it reboots.</string>
-    <string name="hbeacon_off_confirm_message">Tap to turn off the HBeacon feature, and you may need to pair your phone with the watch again after it reboots.</string>
+    <string name="hbeacon_on_confirm_message">แตะเพื่อเปิดใช้ HBeacon การทำงานนี้ จะใช้พลังงานเพิ่มขึ้นเล็กน้อย และคุณจำเป็นต้องจับคู่กับโทรศัพท์ของคุณอีกครั้งหลังจากระบบเริ่มทำงานใหม่</string>
+    <string name="hbeacon_off_confirm_message">แตะเพื่อปิดใช้ HBeacon และคุณจำเป็นต้องจับคู่กับโทรศัพท์ของคุณอีกครั้งหลังจากระบบเริ่มทำงานใหม่</string>
     <string name="saving_data">กำลังบันทึกข้อมูล...</string>
     <string name="upload_data">อัพโหลดข้อมูล</string>
     <string name="upload_success">เสร็จสิ้น</string>
@@ -24,7 +26,7 @@ This feature will adversely impact the battery life."</string>
     <string name="air_mode_alert_title">"ไม่สามารถเชื่อมต่อได้"</string>
     <string name="air_mode_alert_message">ปิดโหมดเครื่องบินแล้วลองใหม่อีกครั้ง</string>
     <string name="report_sensor_capture_dialog_title">การเก็บรวบรวมข้อมูลกิจกรรม</string>
-    <string name="report_sensor_capture_dialog_desc">When turning on activity data collection, we will collect original information of sensor after you start an exercise, and stop immediately when you end the exercise. Such data will be submitted to the server as well when you submit watch issue feedback for analysis. These logs are used only for problem analysis, and will be destroyed immediately after that. During the entire process we will comply with our Privacy Policy, view details of the policy on the Amazfit Watch app.</string>
+    <string name="report_sensor_capture_dialog_desc">เมื่อเปิดการเก็บรวบรวมข้อมูลกิจกรรม เราจะเก็บข้อมูลดิบจากเซนเซอร์เมื่อคุณเริ่มออกกำลังกาย และจะหยุดทันทีเมื่อคุณเสร็จสิ้นการออกกำลังกาย ข้อมูลเหล่านั้นจะถูกส่งไปยังเซิพเวอร์เช่นเดียวกับตอนที่คุณส่งข้อูลแจ้งปัญหาการใช้งาน ข้อมูลเหล่านี้จะใช้เพื่อการวิเคราะห์ปัญหาเท่านั้น และจะลบทันที่ที่ใช้เสร็จ ในระหว่างกระบวนการ เราจะปฎิบัติตามข้อตกลงความเป็นส่วนตัว ซึ่งสามารถดูรายละเอียดเพิ่มเติมข้อตกลงนี้ได้จากแอป อมาซฟิต วอช</string>
     <string name="dialog_agree">ยอมรับ</string>
     <string name="dialog_quit">ออก</string>
     <string name="average_text">เฉลี่ย</string>
