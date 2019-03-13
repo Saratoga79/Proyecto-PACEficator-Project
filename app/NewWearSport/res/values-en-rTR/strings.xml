@@ -696,9 +696,9 @@
     <string name="skiing_downhill_num">Run(s)</string>
     <string name="skiing_downhill_single_descend">Mesafe</string>
     <string name="skiing_downhill_max_speed">MAX Speed</string>
-    <string name="skiing_downhill_elev_loss">Descent</string>
+    <string name="skiing_downhill_elev_loss">İniş</string>
     <string name="skiing_rt_downhill_desecnd">Total Mileage</string>
-    <string name="sport_tennis_strokes">Strokes</string>
+    <string name="sport_tennis_strokes">İnme</string>
     <string name="last_lap_pace">Last lap Pace</string>
     <string name="last_lap_stepfreq">Last lap Step frecuency</string>
     <string name="last_lap_duration">Last lap time</string>
@@ -713,7 +713,7 @@
     <string name="running_heartrate_desc">HR</string>
     <string name="running_avg_pace_desc">AVG. Pace</string>
     <string name="running_avg_speed_desc">AVG. Speed</string>
-    <string name="walking_step_count">Steps</string>
+    <string name="walking_step_count">Adımlar</string>
     <string name="crossing_vertical_speed">Dikey hız</string>
     <string name="sport_widget_title">Sporlar</string>
     <string name="sport_widget_title_run">Koş</string>
@@ -822,7 +822,7 @@
     <string name="running_button_stop">Dur</string>
     <string name="running_button_pause">Duraklat</string>
     <string name="running_button_continue">Devam</string>
-    <string name="running_button_save">Save</string>
+    <string name="running_button_save">Kaydet</string>
     <string name="running_achivement">Başarılar</string>
     <string name="running_record">Kayıtlar</string>
     <string name="running_setting">Ayarlar</string>
@@ -842,7 +842,7 @@
     <string name="remind_heart_rate_value_after">bpm</string>
     <string name="remind_heart_rate_suggestion">Ayarlamak için lütfen yavaş yavaş yavaşlayın</string>
     <string name="remind_pace_too_low">Hız çok yavaş</string>
-    <string name="remind_pace_too_fast">Pace is too fast</string>
+    <string name="remind_pace_too_fast">Hızı çok hızlı</string>
     <string name="remind_pace_current">Şimdiki</string>
     <string name="remind_pace_target">Hedef</string>
     <string name="remind_pace_pace_unit">/mil</string>
@@ -879,8 +879,8 @@
     <string name="settings_sport_music_Watercress">Sporlar FM</string>
     <string name="settings_sport_music_play_settings">Music Settings</string>
     <string name="settings_sport_lock_screen">Veri Ekranları</string>
-    <string name="settings_sport_three_data">3 items</string>
-    <string name="settings_sport_three_big_data">3 items (large)</string>
+    <string name="settings_sport_three_data">3 bileşen</string>
+    <string name="settings_sport_three_big_data">3 bileşen (büyük)</string>
     <string name="settings_sport_four_data">4 Veri Alanı</string>
     <string name="settings_sport_six_data">6 Veri alanı</string>
     <string name="settting_sport_gpx_route">GPX Course</string>
@@ -917,7 +917,7 @@
     <string name="remind_target_time_training_title_format">Binme%1$dDk</string>
     <string name="remind_target_time_training_title_swim_format">Swim%1$dMin</string>
     <string name="complete_training_target_tips">"Bu koşu bugünkü eğitim programına kaydedilsin mi?"</string>
-    <string name="complete_training_outdoor_riding_target_tips">"Save this cycling to today's training program?"</string>
+    <string name="complete_training_outdoor_riding_target_tips">"Bu koşu bugünkü eğitim programına kaydedilsin mi?"</string>
     <string name="complete_training_swim_target_tips">"Save this swim to today's training program?"</string>
     <string name="not_complete_train_task">"Eğitim tamamlanmadı. Durdurmak istediğinize emin misin?"</string>
     <string name="km_metric">km</string>
@@ -982,7 +982,7 @@ USB üzerinden bir bilgisayara kopyalayabilirsiniz."</string>
     <string name="widget_currentstep_sleep_hour">h</string>
     <string name="widget_currentstep_sleep_min">min</string>
     <string name="widget_currentstep_sleep_title">Sleep</string>
-    <string name="widget_currentstep_sleep_no">No sleep data</string>
-    <string name="widget_currentstep_activity_no">No activity today?</string>
-    <string name="re_modify_dis_successful">重新校准成功</string>
+    <string name="widget_currentstep_sleep_no">Uyku veriniz yok</string>
+    <string name="widget_currentstep_activity_no">Bugün hareket yok?</string>
+    <string name="re_modify_dis_successful">Yeniden kalibrasyon başarılı oldu</string>
 </resources>
