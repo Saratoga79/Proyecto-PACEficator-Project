@@ -139,42 +139,42 @@
         <item>wfz3897e9.wfz</item>
     </string-array>
     <string-array name="weather_card_aqilevel">
-        <item>Excellent</item>
-        <item>Fine</item>
+        <item>Mükemmel</item>
+        <item>İyi</item>
         <item>Hafif Kirlilik</item>
         <item>Orta Kirlilik</item>
         <item>Ağır Kirlilik</item>
-        <item>Severe pollution</item>
+        <item>Ciddi Kirlilik</item>
         <item></item>
     </string-array>
     <string-array name="weather_card_quality">
         <item>Spor için Uygun</item>
-        <item>Not suitable for sports</item>
+        <item>Spor için uygun değil</item>
         <item></item>
     </string-array>
     <string-array name="quick_settings_status_weather">
-        <item>Clear</item>
+        <item>Açık</item>
         <item>Bulutlu</item>
         <item>Bulutlu</item>
         <item>Sis</item>
-        <item>Haze</item>
-        <item>Showers</item>
-        <item>Thunderstorm</item>
+        <item>Sis</item>
+        <item>Yağışlı</item>
+        <item>Gök gürültülü sağnak yağışlı</item>
         <item>Hafif yağmur</item>
         <item>Orta yağmur</item>
         <item>Ağır yağmur</item>
         <item>Yağmur fırtınası</item>
-        <item>Heavy rainstorm</item>
-        <item>Rain and snow mixed</item>
+        <item>Sağnak Yağmurlu</item>
+        <item>Sulu Karlı</item>
         <item>Dolu</item>
         <item>Sis</item>
         <item>Hafif kar</item>
         <item>Orta kar</item>
         <item>Ağır kar</item>
-        <item>Blizzard</item>
-        <item>Snow</item>
+        <item>Kar Fırtınası</item>
+        <item>Sağnak Karlı</item>
         <item>Toz</item>
-        <item>Sandstorm</item>
+        <item>Kum fırtınası</item>
         <item>Kum fırtınası</item>
         <item>Güçlü kum fırtınası</item>
         <item>Bilgi yok</item>
@@ -203,17 +203,17 @@
     </string-array>
     <string-array name="dally_performence_level_status">
         <item>Fatigued</item>
-        <item>Average</item>
-        <item>Good</item>
+        <item>Ortalama</item>
+        <item>İyi</item>
     </string-array>
     <string-array name="vo2_max_level_status">
-        <item>Very Poor</item>
-        <item>Fair</item>
-        <item>Poor</item>
-        <item>Average</item>
-        <item>Good</item>
-        <item>Very Good</item>
-        <item>Excellent</item>
+        <item>Çok kötü</item>
+        <item>Adil</item>
+        <item>Zayıf</item>
+        <item>Ortalama</item>
+        <item>İyi</item>
+        <item>Çok iyi</item>
+        <item>Mükemmel</item>
     </string-array>
     <string-array name="spring_depend">
         <item>com.huami.watch.newsport/com.huami.watch.newsport.widget.SportWidget</item>
@@ -221,8 +221,8 @@
         <item>com.huami.watch.newsport/com.huami.watch.newsport.widget.SportLauncherWidget</item>
     </string-array>
     <string-array name="sort_a1609">
-        <item>com.huami.watch.watchface.DigitalWatchFaceSportOne</item>
-        <item>com.huami.watch.watchface.DigitalWatchFaceSportTwo</item>
+        <item>com.huami.watch.watchface.AnalogWatchFaceTen</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportEight</item>
         <item>com.huami.watch.watchface.DigitalWatchFaceSportFive</item>
         <item>com.huami.watch.watchface.DigitalWatchFaceSportEight</item>
         <item>com.huami.watch.watchface.DigitalWatchFaceSportSeven</item>
@@ -239,19 +239,19 @@
         <item>com.huami.watch.watchface.AnalogWatchFaceThirteen</item>
         <item>com.huami.watch.watchface.AnalogWatchFaceFourteen</item>
         <item>wfzeacf94.wfz</item>
-        <item>com.huami.watch.watchface.AnalogWatchFaceSixteen</item>
-        <item>com.huami.watch.watchface.DigitalWatchFaceSportSeventeen</item>
-        <item>wfzd0b8cb.wfz</item>
-        <item>com.huami.watch.watchface.DigitalWatchFaceSportTwo</item>
-        <item>wfz03c6c7_us.wfz</item>
-        <item>wfzeacf94_us.wfz</item>
-        <item>wfzb33179.wfz</item>
-        <item>com.huami.watch.watchface.DigitalWatchFaceSportTwenty</item>
-        <item>com.huami.watch.watchface.DigitalWatchFaceSportNineteen</item>
-        <item>com.huami.watch.watchface.DigitalWatchFaceSportEighteen</item>
-        <item>wfz58ac65.wfz</item>
-        <item>wfz95a54c.wfz</item>
         <item>com.huami.watch.watchface.DigitalWatchFaceSportOne</item>
-        <item>wfz3897e9.wfz</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportTwo</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportFive</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportEight</item>
+        <item>wfz03c6c7_us.wfz</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportThree</item>
+        <item>com.huami.watch.watchface.DigitalSport4WatchFace</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportSix</item>
+        <item>com.huami.watch.watchface.SunriseDigitalWatchFace</item>
+        <item>com.huami.watch.watchface.CubeDigitalWatchFace</item>
+        <item>com.huami.watch.watchface.GreenAnalogWatchFace</item>
+        <item>com.huami.watch.watchface.AnalogWatchFaceNine</item>
+        <item>com.huami.watch.watchface.AnalogWatchFaceTen</item>
+        <item>com.huami.watch.watchface.AnalogWatchFaceEleven</item>
     </string-array>
 </resources>
