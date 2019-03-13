@@ -20,10 +20,10 @@ This feature will adversely impact the battery life."</string>
     <string name="saving_data">กำลังบันทึกข้อมูล...</string>
     <string name="upload_data">อัพโหลดข้อมูล</string>
     <string name="upload_success">เสร็จสิ้น</string>
-    <string name="upload_failed">"Couldn't upload. Try again."</string>
-    <string name="air_mode_alert_title">"Couldn't connect"</string>
-    <string name="air_mode_alert_message">Turn off Airplane mode then try again.</string>
-    <string name="report_sensor_capture_dialog_title">Activity data collection</string>
+    <string name="upload_failed">"ไม่สามารถอัพโหลดได้ กรุณาลองใหม่อีกครั้ง"</string>
+    <string name="air_mode_alert_title">"ไม่สามารถเชื่อมต่อได้"</string>
+    <string name="air_mode_alert_message">ปิดโหมดเครื่องบินแล้วลองใหม่อีกครั้ง</string>
+    <string name="report_sensor_capture_dialog_title">การเก็บรวบรวมข้อมูลกิจกรรม</string>
     <string name="report_sensor_capture_dialog_desc">When turning on activity data collection, we will collect original information of sensor after you start an exercise, and stop immediately when you end the exercise. Such data will be submitted to the server as well when you submit watch issue feedback for analysis. These logs are used only for problem analysis, and will be destroyed immediately after that. During the entire process we will comply with our Privacy Policy, view details of the policy on the Amazfit Watch app.</string>
     <string name="dialog_agree">ยอมรับ</string>
     <string name="dialog_quit">ออก</string>
