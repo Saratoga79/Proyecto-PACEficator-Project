@@ -48,7 +48,7 @@
     <string name="always_use_device">Използвай по подразбиране за това USB устройство</string>
     <string name="always_use_accessory">Използвай по подразбиране за този USB аксесоар</string>
     <string name="usb_debugging_title">Разрешаване на USB откриване на грешки?</string>
-    <string name="usb_debugging_message">"The computer\'s RSA key fingerprint is:
+    <string name="usb_debugging_message">"\"Отпечатъкът на RSA ключа на компютъра е:
 %1$s"</string>
     <string name="usb_debugging_always">Винаги разрешавай от този компютър</string>
     <string name="compat_mode_on">Уголеми до цял екран</string>
@@ -138,7 +138,7 @@
     <string name="accessibility_notifications_button">Известия.</string>
     <string name="accessibility_remove_notification">Изчисти уведомления.</string>
     <string name="accessibility_gps_enabled">GPS активиран.</string>
-    <string name="accessibility_gps_acquiring">GPS acquiring.</string>
+    <string name="accessibility_gps_acquiring">GPS прихващане.</string>
     <string name="accessibility_tty_enabled">Телетайп е включен.</string>
     <string name="accessibility_ringer_vibrate">Вибрира при звънене.</string>
     <string name="accessibility_ringer_silent">Беззвучен режим.</string>
@@ -184,7 +184,7 @@
     <string name="accessibility_quick_settings_color_inversion_changed_on">Цветната инверсия е включена.</string>
     <string name="accessibility_quick_settings_hotspot_changed_off">Мобилният хотспот е изключен.</string>
     <string name="accessibility_quick_settings_hotspot_changed_on">Мобилният хотспот е включен.</string>
-    <string name="accessibility_casting_turned_off">Screen casting stopped.</string>
+    <string name="accessibility_casting_turned_off">Кастингът на екрана спря.</string>
     <string name="accessibility_brightness">Яркост на дисплея</string>
     <string name="data_usage_disabled_dialog_3g_title">2G-3G данни са изключени</string>
     <string name="data_usage_disabled_dialog_4g_title">4G данни са изключени</string>
@@ -237,7 +237,7 @@
     <string name="quick_settings_wifi_no_network">Няма Мрежа</string>
     <string name="quick_settings_wifi_off_label">Wi-Fi Изкл</string>
     <string name="quick_settings_wifi_detail_empty_text">Няма налични записани мрежи</string>
-    <string name="quick_settings_cast_title">Cast screen</string>
+    <string name="quick_settings_cast_title">Разпределение на екрана</string>
     <string name="quick_settings_casting">Предаване</string>
     <string name="quick_settings_cast_device_default_name">Неназовано устройство</string>
     <string name="quick_settings_cast_device_default_description">Готов за предаване</string>
@@ -475,7 +475,7 @@
     <string name="keyguard_accessibility_transport_heart_description">Сърце</string>
     <string name="keyguard_accessibility_show_bouncer">Отключи за да продължиш</string>
     <string name="keyguard_accessibility_hide_bouncer">Стартирането е отменено</string>
-    <string name="keyguard_accessibility_delete_widget_start">Drop %1$s to delete.</string>
+    <string name="keyguard_accessibility_delete_widget_start">Пуснете %1$s за изтриване.</string>
     <string name="keyguard_accessibility_delete_widget_end">%1$s няма да бъдат изтрити.</string>
     <string name="keyguard_accessibility_next_alarm">Следващата аларма е зададена за %1$s</string>
     <string name="password_keyboard_label_symbol_key">\?123</string>
