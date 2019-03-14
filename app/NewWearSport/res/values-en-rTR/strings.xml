@@ -165,7 +165,7 @@
     <string name="sport_settings_te_title">Set Targets</string>
     <string name="sport_settings_current_target_te_title">Current Target</string>
     <string name="sport_select_more_setting_content">More Settings</string>
-    <string name="sport_cur_tar_dis_km">Mesafe:% 1 $ skm</string>
+    <string name="sport_cur_tar_dis_km">Mesafe: %1$skm</string>
     <string name="sport_cur_tar_dis_mi">Distance: %1$smi</string>
     <string name="sport_cur_tar_dis_meter">Distance: %1$sm</string>
     <string name="sport_cur_tar_dis_ft">Distance: %1$sft</string>
@@ -202,7 +202,7 @@
     <string name="sport_main_beyond_heart_info_title">Safe HR zone exceeded</string>
     <string name="sport_main_pace_info_title">Hız</string>
     <string name="heartrate_x_axis_time_format">HH:mm:ss</string>
-    <string name="lap_title">% 1 $ d sayfası</string>
+    <string name="lap_title">%1$d sayfası</string>
     <string name="manual_lap_title">Key Lap %1$d</string>
     <string name="auto_lap_title">Auto Lap %1$d</string>
     <string name="lap_total_time">Total Time</string>
@@ -435,7 +435,7 @@
     <string name="back_to_continue_sport">Geri</string>
     <string name="lap_swim_stroke_speed_title">İnme oranı</string>
     <string name="first_modify_tips">Çalışan bir oturumun mesafe sonucunu kalibre etmek (0,5 km\'den uzun olmalıdır) saatin daha doğru bir mesafe sonucu oluşturmasına yardımcı olur.</string>
-    <string name="modify_big_dis_tips">% 1 $ s kalibre değeri% 2 $ s ölçülen değerden önemli ölçüde farklı, yine de kalibre edilsin mi?</string>
+    <string name="modify_big_dis_tips">%1$s kalibre değeri %2$s ölçülen değerden önemli ölçüde farklı, yine de kalibre edilsin mi?</string>
     <string name="modify_big_dis_regain">Düzenle</string>
     <string name="modify_big_dis_confirm">Renk kalibrasyonu</string>
     <string name="re_modify_dis">Tekrar Calibre et</string>
@@ -662,7 +662,7 @@
     <string name="sport_pause_normal_rope_skip_unit">Skipped count</string>
     <string name="sport_pause_last_min_times_reminder">The total count is too small to save, is it OK to end?</string>
     <string name="rope_skip_this_frequency">Group frecuency</string>
-    <string name="rope_skip_aleary_group">&lt;font color=#00ff00&gt;&lt;font color=#00ff00&gt;</string>
+    <string name="rope_skip_aleary_group"><Data>Completed groups: &lt;font color=#00ff00&gt;%1$s&lt;/font&gt;</Data></string>
     <string name="sport_remind_total_times">Total number of times: %1$s</string>
     <string name="sport_main_graph_title_rope_skip">Recently</string>
     <string name="sport_rope_skip_requency">Frequency (times/min)</string>
