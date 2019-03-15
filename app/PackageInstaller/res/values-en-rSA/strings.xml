@@ -10,7 +10,7 @@
     <string name="unknown">جهاز غير معروف</string>
     <string name="installing">جاري التثبيت…</string>
     <string name="install_done">التطبيق غير مثبت.</string>
-    <string name="install_confirm_question">هل تريد تثبيت هذا التطبيق؟ سوف تحصل على الوصول إلى:</string>
+    <string name="install_confirm_question">هل تريد تثبيت هذا التطبيق؟ سيكون بإمكانه الدخول إلى:</string>
     <string name="install_confirm_question_no_perms">Do you want to install this application? It does not require any special access.</string>
     <string name="install_confirm_question_update">Do you want to install an update to this existing application? Your existing data will not be lost. The updated application will get access to:</string>
     <string name="install_confirm_question_update_system">Do you want to install an update to this built-in application? Your existing data will not be lost. The updated application will get access to:</string>
@@ -55,8 +55,8 @@ All your previous user data will be saved."</string>
     <string name="uninstall_application_text_all_users">Do you want to uninstall this app for <b>all</b> users? The application and its data will be removed from <b>all</b> users on the device.</string>
     <string name="uninstall_application_text_user">Do you want to uninstall this app for the user %1$s?</string>
     <string name="uninstall_update_text">Do you want to replace this app with the factory version?</string>
-    <string name="uninstalling">Uninstalling…</string>
-    <string name="uninstall_done">Uninstall finished.</string>
+    <string name="uninstalling">إلغاء تثبيت ...</string>
+    <string name="uninstall_done">تم إلغاء التثبيت.</string>
     <string name="uninstall_failed">Uninstall unsuccessful.</string>
     <string name="uninstall_failed_device_policy_manager">"Can't uninstall because this package is an active device administrator."</string>
     <string name="uninstall_blocked_profile_owner">"This app is needed for your %1$s profile and can't be uninstalled."</string>
