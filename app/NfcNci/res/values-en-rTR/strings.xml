@@ -22,9 +22,9 @@
     <string name="device">cihaz</string>
     <string name="connecting_peripheral">%1$s Bağlantısı yapıldı</string>
     <string name="connected_peripheral">bağlanıldı%1$s</string>
-    <string name="connect_peripheral_failed">Bağlantıda hata oluştu.</string>
-    <string name="disconnecting_peripheral">Bağlantı kesiliyor...</string>
-    <string name="disconnected_peripheral">Bağlantısı kesildi (%1$d m)</string>
+    <string name="connect_peripheral_failed">Could not connect %1$s</string>
+    <string name="disconnecting_peripheral">Disconnecting %1$s</string>
+    <string name="disconnected_peripheral">Disconnected %1$s</string>
     <string name="pairing_peripheral">Pairing %1$s</string>
     <string name="pairing_peripheral_failed">Could not pair %1$s</string>
     <string name="failed_to_enable_bt">Could not enable Bluetooth</string>
