@@ -3,12 +3,12 @@
 <resources>
     <string-array name="lab_item_android_settings">
         <item>[prim]Original System Settings</item>
-        <item>[toplam] Android Ayarları</item>
+        <item>[sum] Android Ayarları</item>
         <item>[pkg]com.android.settings</item>
     </string-array>
     <string-array name="lab_item_logger">
         <item>[prim]Wear Logger</item>
-        <item>[toplam] Tek tıklatma tarama günlüğü ^ _ ^</item>
+        <item>[sum] Tek tıklatma tarama günlüğü ^ _ ^</item>
         <item>[pkg]com.huami.watch.wearlogger</item>
         <item>[clazz]com.huami.watch.wearlogger.AllLogActivityLab</item>
     </string-array>
@@ -19,7 +19,7 @@
     </string-array>
     <string-array name="lab_item_open_applist">
         <item>[prim]Launcher Applist</item>
-        <item>[toplam] Listeyi aç veya kapat</item>
+        <item>[sum] Listeyi aç veya kapat</item>
         <item>[sid]applist</item>
     </string-array>
     <string-array name="lab_item_bt_hci_snoop_log">
@@ -33,8 +33,8 @@
         <item>[sid]Güç testi</item>
     </string-array>
     <string-array name="lab_item_long_sitting_timer_plus">
-        <item>[asal] Hareketsiz hatırlatma zamanı</item>
-        <item>[toplam] Hareketsiz hatırlatma zamanını ayarlayın (dakika olarak)</item>
+        <item>[prim] Hareketsiz hatırlatma zamanı</item>
+        <item>[sum] Hareketsiz hatırlatma zamanını ayarlayın (dakika olarak)</item>
         <item>[pkg]com.huami.mobile.watchsettings</item>
         <item>[clazz]com.huami.moblie.watchsettings.actions.lab.labUI.LongSittingTimeActivity</item>
     </string-array>
