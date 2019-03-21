@@ -65,26 +65,26 @@
     </string-array>
     <string-array name="sport_data_item_array">
         <item></item>
-        <item>Time</item>
+        <item>مجموع الوقت</item>
         <item>Mileage</item>
         <item>Pace</item>
         <item>AVG. Pace</item>
         <item>HR</item>
-        <item>Calories</item>
-        <item>Altitude</item>
+        <item>س الحرارية</item>
+        <item>الارتفاع الحالي</item>
         <item>Elev. Gain</item>
         <item>Elev. Loss</item>
         <item>Speed</item>
         <item>AVG. Speed</item>
-        <item>Cadence</item>
+        <item>ركوب الدراجات</item>
         <item>Dist. Gain</item>
-        <item>Steps</item>
+        <item>خطوات</item>
         <item>Cycling</item>
         <item>Trip</item>
         <item>DPS</item>
         <item>Stroke rate</item>
         <item>AVG. SPM</item>
-        <item>Pace</item>
+        <item>خطوة</item>
         <item>AVG. Pace</item>
         <item>Distance</item>
         <item>TE</item>
@@ -94,16 +94,16 @@
         <item>Run(s)</item>
         <item>Distance</item>
         <item>Total Mileage</item>
-        <item>Descent</item>
-        <item>Strokes</item>
-        <item>Lap time</item>
+        <item>نسبة</item>
+        <item>stroke</item>
+        <item>Back time</item>
         <item>Lap pace</item>
-        <item>Lap speed</item>
+        <item>السرعة القصوى</item>
         <item>Lap heart rate</item>
-        <item>Lap cadence</item>
-        <item>Lap pace</item>
+        <item>تكرار الخطوة الاخيرة</item>
+        <item>خطوة اللفة</item>
         <item>Current frequency</item>
-        <item>Total count</item>
+        <item>العدد الاجمالي</item>
         <item>Avg frequency</item>
         <item>Number of groups</item>
         <item>Group count</item>
@@ -111,19 +111,19 @@
         <item>Group frecuency</item>
     </string-array>
     <string-array name="sport_train_item">
-        <item>Remaining distance</item>
+        <item>الأميال المتبقية</item>
         <item>Total Distance</item>
         <item>Elapsed Time</item>
-        <item>Remaining time</item>
-        <item>Distance</item>
+        <item>الوقت المتبقي</item>
+        <item>المسافة: متر</item>
     </string-array>
     <string-array name="weekdays">
-        <item>Sun</item>
-        <item>Mon</item>
-        <item>Tue</item>
-        <item>Wed</item>
-        <item>Thu</item>
-        <item>Fri</item>
-        <item>Sat</item>
+        <item>احد</item>
+        <item>أثنين</item>
+        <item>ثلاثاء</item>
+        <item>اربعاء</item>
+        <item>خميس</item>
+        <item>جمعة</item>
+        <item>سبت</item>
     </string-array>
 </resources>

@@ -65,28 +65,28 @@
     </string-array>
     <string-array name="sport_data_item_array">
         <item></item>
-        <item>Time</item>
+        <item>Čas</item>
         <item>Mileage</item>
-        <item>Pace</item>
+        <item>Tempo</item>
         <item>AVG. Pace</item>
         <item>HR</item>
-        <item>Calories</item>
-        <item>Altitude</item>
+        <item>Kalórie</item>
+        <item>Nadmorská výška</item>
         <item>Elev. Gain</item>
         <item>Elev. Loss</item>
-        <item>Speed</item>
+        <item>Rýchlosť</item>
         <item>AVG. Speed</item>
-        <item>Cadence</item>
+        <item>Kadencia</item>
         <item>Dist. Gain</item>
-        <item>Steps</item>
+        <item>Kroky</item>
         <item>Cycling</item>
         <item>Trip</item>
         <item>DPS</item>
-        <item>Stroke rate</item>
+        <item>Počet úderov</item>
         <item>AVG. SPM</item>
-        <item>Pace</item>
+        <item>Tempo</item>
         <item>AVG. Pace</item>
-        <item>Distance</item>
+        <item>Vzdialenosť</item>
         <item>TE</item>
         <item>Vertical Speed</item>
         <item>AVG. Speed</item>
@@ -94,16 +94,16 @@
         <item>Run(s)</item>
         <item>Distance</item>
         <item>Total Mileage</item>
-        <item>Descent</item>
-        <item>Strokes</item>
-        <item>Lap time</item>
-        <item>Lap pace</item>
-        <item>Lap speed</item>
+        <item>Klesanie</item>
+        <item>Údery</item>
+        <item>Medzičas</item>
+        <item>Tempo okruhu</item>
+        <item>Rýchlosť okruhu</item>
         <item>Lap heart rate</item>
-        <item>Lap cadence</item>
-        <item>Lap pace</item>
+        <item>Kadencia okruhu</item>
+        <item>Tempo okruhu</item>
         <item>Current frequency</item>
-        <item>Total count</item>
+        <item>Celkový počet</item>
         <item>Avg frequency</item>
         <item>Number of groups</item>
         <item>Group count</item>
@@ -111,19 +111,19 @@
         <item>Group frecuency</item>
     </string-array>
     <string-array name="sport_train_item">
-        <item>Remaining distance</item>
+        <item>Zostávajúca vzdialenosť</item>
         <item>Total Distance</item>
         <item>Elapsed Time</item>
-        <item>Remaining time</item>
-        <item>Distance</item>
+        <item>Zostávajúci čas</item>
+        <item>Vzdialenosť</item>
     </string-array>
     <string-array name="weekdays">
-        <item>Sun</item>
-        <item>Mon</item>
-        <item>Tue</item>
-        <item>Wed</item>
-        <item>Thu</item>
-        <item>Fri</item>
-        <item>Sat</item>
+        <item>Neď</item>
+        <item>Pon</item>
+        <item>Ut</item>
+        <item>Str</item>
+        <item>Štv</item>
+        <item>Pia</item>
+        <item>Sob</item>
     </string-array>
 </resources>
