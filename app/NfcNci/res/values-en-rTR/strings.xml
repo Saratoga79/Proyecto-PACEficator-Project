@@ -26,7 +26,7 @@
     <string name="disconnecting_peripheral">Bağlantıyı kes %1$s</string>
     <string name="disconnected_peripheral">Bağlantıyı kes %1$s</string>
     <string name="pairing_peripheral">%1$s eşleştirme</string>
-    <string name="pairing_peripheral_failed">eşleştirme başarısız</string>
+    <string name="pairing_peripheral_failed">eşleştirme başarısız %1$s</string>
     <string name="failed_to_enable_bt">Bluetooth etkinleştirilemedi</string>
     <string name="confirm_pairing">Bluetooth aygıt %1$s eşleştirmek istediğinizden emin misiniz?</string>
     <string name="pair_yes">Evet</string>
@@ -43,7 +43,7 @@
     <string name="status_unable_to_connect">Ağınıza bağlanılamadı.</string>
     <string name="status_wifi_connected">Bağlanıldı</string>
     <string name="title_connect_to_network">Ağa bağlan</string>
-    <string name="prompt_connect_to_network">Ağa bağlan?</string>
+    <string name="prompt_connect_to_network">Ağa bağlan %1$s?</string>
     <string name="beam_requires_nfc_enabled">Android Beam NFC\'nin etkin olmasını gerektirir. Etkinleştirmek ister misiniz?</string>
     <string name="android_beam">Android Beam</string>
     <string name="permlab_nfcReceiveEvent">NFC İşlem farkındalığı</string>
