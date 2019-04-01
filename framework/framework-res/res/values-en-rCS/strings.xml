@@ -11,12 +11,19 @@
     <string name="factorytest_reboot">Restartovat</string>
     <string name="aerr_application">Bohužel, aplikace %1$s byla zastavena.</string>
     <string name="aerr_process">Bohužel, proces %1$s byl zastaven.</string>
-    <string name="anr_activity_application">\"%2$s neodpovídá.</string>
-    <string name="anr_activity_process">\"Aktivita %1$s neodpovídá.</string>
-    <string name="anr_application_process">"%1$s neodpovídá. Chcete ukončit?"</string>
-    <string name="anr_process">\"Proces %1$s neodpovídá
+    <string name="anr_activity_application">"%2$s isn\'t responding.
 
-Chcete ukončit?\"</string>
+Do you want to close it?"</string>
+    <string name="anr_activity_process">"Activity %1$s isn\'t responding.
+
+Do you want to close it?"</string>
+    <string name="anr_application_process">"%1$s neodpovídá. Chcete ukončit?"</string>
+    <string name="anr_process">"Process %1$s isn\'t responding.
+
+Do you want to close it?"</string>
+    <string name="force_close">OK</string>
+    <string name="report">Report</string>
+    <string name="wait">Wait</string>
     <string name="android_upgrading_title">Aktualizace...</string>
     <string name="android_start_title">Restartování...</string>
     <string name="android_upgrading_apk">" Optimalizace aplikace %1$d z celkem %2$d"</string>
