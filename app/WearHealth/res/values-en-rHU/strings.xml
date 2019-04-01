@@ -276,7 +276,7 @@
     <string name="widget_weeklyreports_heart_rate_min_text">Min.(bpm)</string>
     <string name="widget_weeklyreports_heart_rate_max_text">Max.(bpm)</string>
     <string name="widget_weeklyreports_heart_rate_title">Pulzus</string>
-    <string name="widget_weeklyreports_average_title">Átlag</string>
+    <string name="widget_weeklyreports_average_title">Average heart rate</string>
     <string name="widget_weeklyreports_totalcalory_front">Összes kalória</string>
     <string name="widget_weeklyreports_totalcalory_title">"Kalória
 "</string>
@@ -300,4 +300,8 @@
     <string name="currentstep_detail_activities">Tev. idő eloszlás (perc)</string>
     <string name="currentstep_detail_activities_title">Előzmény</string>
     <string name="currentstep_detail_activities_others">Egyéb</string>
+    <string name="heart_rate_quite">Resting heart rate</string>
+    <string name="widget_weeklyreports_heart_rate_min_reset_text">Minimum resting</string>
+    <string name="widget_weeklyreports_heart_rate_max_reset_text">Maximum resting</string>
+    <string name="widget_weeklyreports_average_reset_title">Average resting</string>
 </resources>

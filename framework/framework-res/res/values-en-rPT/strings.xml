@@ -11,10 +11,19 @@
     <string name="factorytest_reboot">Reiniciar</string>
     <string name="aerr_application">Unfortunately, %1$s has stopped.</string>
     <string name="aerr_process">Unfortunately, the process %1$s has stopped.</string>
-    <string name="anr_activity_application">%2$s não está a responder</string>
-    <string name="anr_activity_process">\"Atividade %1$s não está a responder.</string>
+    <string name="anr_activity_application">"%2$s isn\'t responding.
+
+Do you want to close it?"</string>
+    <string name="anr_activity_process">"Activity %1$s isn\'t responding.
+
+Do you want to close it?"</string>
     <string name="anr_application_process">"%1$s não está a responder. Pretende fechar?"</string>
-    <string name="anr_process">O processo %1$s não está a responder</string>
+    <string name="anr_process">"Process %1$s isn\'t responding.
+
+Do you want to close it?"</string>
+    <string name="force_close">OK</string>
+    <string name="report">Report</string>
+    <string name="wait">Wait</string>
     <string name="android_upgrading_title">Atualizando...</string>
     <string name="android_start_title">A reiniciar...</string>
     <string name="android_upgrading_apk">"A otimizar a aplicação %1$d de %2$d."</string>

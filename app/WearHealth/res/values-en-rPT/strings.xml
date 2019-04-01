@@ -276,7 +276,7 @@
     <string name="widget_weeklyreports_heart_rate_min_text">Min(bpm)</string>
     <string name="widget_weeklyreports_heart_rate_max_text">Máx(bpm)</string>
     <string name="widget_weeklyreports_heart_rate_title">Pulso</string>
-    <string name="widget_weeklyreports_average_title">Média</string>
+    <string name="widget_weeklyreports_average_title">Average heart rate</string>
     <string name="widget_weeklyreports_totalcalory_front">Calorias totais</string>
     <string name="widget_weeklyreports_totalcalory_title">"Calorias
 "</string>
@@ -300,4 +300,8 @@
     <string name="currentstep_detail_activities">Tempo em atividades</string>
     <string name="currentstep_detail_activities_title">Legenda</string>
     <string name="currentstep_detail_activities_others">Outro</string>
+    <string name="heart_rate_quite">Resting heart rate</string>
+    <string name="widget_weeklyreports_heart_rate_min_reset_text">Minimum resting</string>
+    <string name="widget_weeklyreports_heart_rate_max_reset_text">Maximum resting</string>
+    <string name="widget_weeklyreports_average_reset_title">Average resting</string>
 </resources>

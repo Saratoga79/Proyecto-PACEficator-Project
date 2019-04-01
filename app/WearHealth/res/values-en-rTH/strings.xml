@@ -276,7 +276,7 @@
     <string name="widget_weeklyreports_heart_rate_min_text">ต่ำสุด(bpm)</string>
     <string name="widget_weeklyreports_heart_rate_max_text">สูงสุด(bpm)</string>
     <string name="widget_weeklyreports_heart_rate_title">อัตราหัวใจเต้น</string>
-    <string name="widget_weeklyreports_average_title">เฉลี่ย</string>
+    <string name="widget_weeklyreports_average_title">Average heart rate</string>
     <string name="widget_weeklyreports_totalcalory_front">แคลอรีรวม</string>
     <string name="widget_weeklyreports_totalcalory_title">"แคลอรี
 "</string>
@@ -300,4 +300,8 @@
     <string name="currentstep_detail_activities">เวลาในการทำกิจกรรม</string>
     <string name="currentstep_detail_activities_title">คำอธิบาย</string>
     <string name="currentstep_detail_activities_others">อื่นๆ</string>
+    <string name="heart_rate_quite">Resting heart rate</string>
+    <string name="widget_weeklyreports_heart_rate_min_reset_text">Minimum resting</string>
+    <string name="widget_weeklyreports_heart_rate_max_reset_text">Maximum resting</string>
+    <string name="widget_weeklyreports_average_reset_title">Average resting</string>
 </resources>
