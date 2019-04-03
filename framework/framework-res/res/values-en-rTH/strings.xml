@@ -11,19 +11,17 @@
     <string name="factorytest_reboot">รีบูต</string>
     <string name="aerr_application">น่าเสียดายที่ %1$s หยุดทำงาน</string>
     <string name="aerr_process">น่าเสียดายที่กระบวนการ %1$s หยุดทำงาน</string>
-    <string name="anr_activity_application">"%2$s isn\'t responding.
+    <string name="anr_activity_application">%2$s ไม่ตอบสนอง คุณต้องการปิดหรือไม่</string>
+    <string name="anr_activity_process">"กิจกรรม %1$s ไม่มีการตอบสนอง
 
-Do you want to close it?"</string>
-    <string name="anr_activity_process">"Activity %1$s isn\'t responding.
-
-Do you want to close it?"</string>
+คุณต้องการปิด? "</string>
     <string name="anr_application_process">"%1$s ไม่ตอบสนอง คุณต้องการปิดหรือไม่"</string>
-    <string name="anr_process">"Process %1$s isn\'t responding.
+    <string name="anr_process">"กระบวนการ %1$s ไม่มีการตอบสนอง
 
-Do you want to close it?"</string>
-    <string name="force_close">OK</string>
-    <string name="report">Report</string>
-    <string name="wait">Wait</string>
+คุณต้องการปิด? "</string>
+    <string name="force_close">ตกลง</string>
+    <string name="report">รายงาน</string>
+    <string name="wait">รอ</string>
     <string name="android_upgrading_title">กำลังอัพเดต…</string>
     <string name="android_start_title">รีบูตเครื่องใหม่...</string>
     <string name="android_upgrading_apk">" กำลังเพิ่มประสิทธิภาพ %1$d แอพ จากทั้งหมด %2$d"</string>
