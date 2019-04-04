@@ -15,7 +15,7 @@
     <string name="crossing_title">Бягане по пътека</string>
     <string name="crossing_end_sport">Първо приключете тичането през пресечена местност</string>
     <string name="crossing_in_progress">Бягане през пресечена местност…</string>
-    <string name="crossing_max_step_freq_desc">Max ритъм</string>
+    <string name="crossing_max_step_freq_desc">Maкс ритъм</string>
     <string name="crossing_climb_up">Увеличаване на дистанцията</string>
     <string name="crossing_climb_down">Намаляване на височината</string>
     <string name="crossing_individual_pen_dis">Разстояние на една обиколка</string>
@@ -33,7 +33,7 @@
     <string name="crossing_history_detail_climb_up">Увеличаване на височината</string>
     <string name="crossing_history_detail_climb_down">Намаляване на височината</string>
     <string name="crossing_history_detail_absolute_altitude">Надморска височина</string>
-    <string name="crossing_history_detail_high_altitude">Най-високата надморска височина</string>
+    <string name="crossing_history_detail_high_altitude">Най-висока надморска височина</string>
     <string name="crossing_history_detail_low_altitude">Най-малка надморска височина</string>
     <string name="crossing_history_detail_ave_altitude">Срд надморска височина</string>
     <string name="crossing_history_detail_altituede_graph_desc">Надморска височина (m)</string>
@@ -88,7 +88,7 @@
     <string name="detail_route_title">Маршрут</string>
     <string name="detail_route_total_dis">Общо разстояние</string>
     <string name="detail_route_detail_lap_title">Детайли на обиколка</string>
-    <string name="detail_route_detail_manual_lap_title">Ключови обиколки</string>
+    <string name="detail_route_detail_manual_lap_title">Подробности за обиколки</string>
     <string name="detail_route_detail_auto_lap_title">Автообиколки</string>
     <string name="detail_lap_num">Обиколка</string>
     <string name="detail_lap_serial_number">Сериен номер</string>
@@ -123,7 +123,7 @@
     <string name="picker_sub_title_te_three">(Подобряване)</string>
     <string name="picker_sub_title_te_four">(Подобряване)</string>
     <string name="picker_heart_region_content">Зона %1$d</string>
-    <string name="settings_sport_target">Активност цел</string>
+    <string name="settings_sport_target">Цел активност</string>
     <string name="settings_sport_remind">Напомняния за активност</string>
     <string name="settings_sport_control">Допълнителни настройки</string>
     <string name="settings_sport_auto_pause">Авто пауза</string>
@@ -156,7 +156,7 @@
     <string name="settings_item_value_swim_length">%1$s m</string>
     <string name="settings_item_value_swim_length_imperial">%1$s ft</string>
     <string name="settings_cal_unit">kcal</string>
-    <string name="setting_auto_pause_speed">"&lt;%1$s km/h"</string>
+    <string name="setting_auto_pause_speed">"Когато е по-бавен от &lt;%1$s km/h"</string>
     <string name="setting_auto_pause_pace">"Когато е по-бавен от %1$s"</string>
     <string name="setting_no_set_target">Не е зададено</string>
     <string name="sport_settings_by_te">Тренировъчен ефект</string>
@@ -222,8 +222,8 @@
     <string name="sport_main_total_kcal">Общо калории</string>
     <string name="sport_main_avg_stride_unit">cm/крачки</string>
     <string name="sport_main_avg_heart_rate">Срд пулс</string>
-    <string name="sport_main_max_heart_rate">Max сърдечна честота</string>
-    <string name="sport_main_min_heart_rate">Min сърдечна честота</string>
+    <string name="sport_main_max_heart_rate">Maкс сърдечна честота</string>
+    <string name="sport_main_min_heart_rate">Mин сърдечна честота</string>
     <string name="sport_main_graph_title">Последен (min)</string>
     <string name="exchange_time_cost">Време за преход</string>
     <string name="exchange_in_progress">В преход</string>
