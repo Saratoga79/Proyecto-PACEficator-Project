@@ -15,7 +15,7 @@
     <string name="crossing_title">Бягане по пътека</string>
     <string name="crossing_end_sport">Първо приключете тичането през пресечена местност</string>
     <string name="crossing_in_progress">Бягане през пресечена местност…</string>
-    <string name="crossing_max_step_freq_desc">Max ритъм</string>
+    <string name="crossing_max_step_freq_desc">Maкс ритъм</string>
     <string name="crossing_climb_up">Увеличаване на дистанцията</string>
     <string name="crossing_climb_down">Намаляване на височината</string>
     <string name="crossing_individual_pen_dis">Разстояние на една обиколка</string>
@@ -33,7 +33,7 @@
     <string name="crossing_history_detail_climb_up">Увеличаване на височината</string>
     <string name="crossing_history_detail_climb_down">Намаляване на височината</string>
     <string name="crossing_history_detail_absolute_altitude">Надморска височина</string>
-    <string name="crossing_history_detail_high_altitude">Най-високата надморска височина</string>
+    <string name="crossing_history_detail_high_altitude">Най-висока надморска височина</string>
     <string name="crossing_history_detail_low_altitude">Най-малка надморска височина</string>
     <string name="crossing_history_detail_ave_altitude">Срд надморска височина</string>
     <string name="crossing_history_detail_altituede_graph_desc">Надморска височина (m)</string>
@@ -88,7 +88,7 @@
     <string name="detail_route_title">Маршрут</string>
     <string name="detail_route_total_dis">Общо разстояние</string>
     <string name="detail_route_detail_lap_title">Детайли на обиколка</string>
-    <string name="detail_route_detail_manual_lap_title">Ключови обиколки</string>
+    <string name="detail_route_detail_manual_lap_title">Подробности за обиколки</string>
     <string name="detail_route_detail_auto_lap_title">Автообиколки</string>
     <string name="detail_lap_num">Обиколка</string>
     <string name="detail_lap_serial_number">Сериен номер</string>
@@ -123,7 +123,7 @@
     <string name="picker_sub_title_te_three">(Подобряване)</string>
     <string name="picker_sub_title_te_four">(Подобряване)</string>
     <string name="picker_heart_region_content">Зона %1$d</string>
-    <string name="settings_sport_target">Активност цел</string>
+    <string name="settings_sport_target">Цел активност</string>
     <string name="settings_sport_remind">Напомняния за активност</string>
     <string name="settings_sport_control">Допълнителни настройки</string>
     <string name="settings_sport_auto_pause">Авто пауза</string>
@@ -156,7 +156,7 @@
     <string name="settings_item_value_swim_length">%1$s m</string>
     <string name="settings_item_value_swim_length_imperial">%1$s ft</string>
     <string name="settings_cal_unit">kcal</string>
-    <string name="setting_auto_pause_speed">"&lt;%1$s km/h"</string>
+    <string name="setting_auto_pause_speed">"Когато е по-бавен от &lt;%1$s km/h"</string>
     <string name="setting_auto_pause_pace">"Когато е по-бавен от %1$s"</string>
     <string name="setting_no_set_target">Не е зададено</string>
     <string name="sport_settings_by_te">Тренировъчен ефект</string>
@@ -222,8 +222,8 @@
     <string name="sport_main_total_kcal">Общо калории</string>
     <string name="sport_main_avg_stride_unit">cm/крачки</string>
     <string name="sport_main_avg_heart_rate">Срд пулс</string>
-    <string name="sport_main_max_heart_rate">Max сърдечна честота</string>
-    <string name="sport_main_min_heart_rate">Min сърдечна честота</string>
+    <string name="sport_main_max_heart_rate">Maкс сърдечна честота</string>
+    <string name="sport_main_min_heart_rate">Mин сърдечна честота</string>
     <string name="sport_main_graph_title">Последен (min)</string>
     <string name="exchange_time_cost">Време за преход</string>
     <string name="exchange_in_progress">В преход</string>
@@ -277,7 +277,7 @@
     <string name="history_riding_exchange_title">Време за преход</string>
     <string name="sport_pause_time_tips">Време на пауза</string>
     <string name="sport_stride_unit">cm</string>
-    <string name="sport_stride_unit_imperial">в</string>
+    <string name="sport_stride_unit_imperial">in</string>
     <string name="end_last_sport_tips">Първо спрете %1$s активността</string>
     <string name="export_route_trail">Експорт</string>
     <string name="sport_dlg_msg_hint_cancel">"Отказ на този експорт?
@@ -336,8 +336,8 @@
     <string name="heart_region_warm_up_and_relax">Светла</string>
     <string name="sport_te_title">Тренировъчен ефект (TE)</string>
     <string name="sport_te_desc"><Data>"Ефектът на тази тренировка е &lt;font color=#FFFF00&gt;умерен&lt;/font&gt;, който поддържа фитнес на кардиореспираторите."</Data></string>
-    <string name="last_kilo_meters_times">Време за последния км</string>
-    <string name="last_mi_times">Време за последната миля</string>
+    <string name="last_kilo_meters_times">Време за последния km</string>
+    <string name="last_mi_times">Време за последната mi</string>
     <string name="running_total_distance_desc">Общо разстояние</string>
     <string name="setting_sport_title_exteed_region_tips">Уведомява когато е отвъд %1$s зона</string>
     <string name="sport_history_bottom_remind">За повече записи отидете на приложение Amazfit watch</string>
@@ -448,7 +448,7 @@
     <string name="confirm_re_modify_dis">ОК</string>
     <string name="huanghe_pause_continue_title">Активност действия</string>
     <string name="experience_title">Настройте лична информация или данните ще имат голямо отклонение</string>
-    <string name="recovery_time_hour">ч</string>
+    <string name="recovery_time_hour">h</string>
     <string name="sport_vo2_max">VO₂ max</string>
     <string name="sport_ability">Фитнес ниво</string>
     <string name="sport_train_load">Тренировъчно натоварване</string>
@@ -497,8 +497,8 @@
     <string name="first_beat_help_title_daily_perpormence">Състояние на тялото</string>
     <string name="first_beat_help_title_recovery_time">Времеза възстановяване</string>
     <string name="first_beat_help_vo2_max">"&lt;font color=#00FF00&gt;Какво е това?&lt;/font&gt;&lt;br/&gt;&lt;br/&gt;
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; VO₂ макс представлява максималния обем кислород, който тялото може да консумира в една минута, измерено в мл/кг/мин. Оценява състоянието на кардиореспираторната годност на потребителите, което е важно за цялостното здраве, благополучие и спортни изяви.
-&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Часовникът автоматично ще оцени Вашия VO₂ макс въз основа на сърдечната честота, скоростта и т.н. по време на тренировка при умерена интензивност и ще я сравни с референтна група от същата възраст и пол, за да определи вашето ниво на фитнес.&lt;br/&gt;&lt;font color=#00FF00&gt; Как се оценява?&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 1. Осигурете точна информация за профила, като възраст и пол в приложението Amazfit Watch по време на настройването;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; VO₂ макс представлява максималния обем кислород, който тялото може да консумира в една минута, измерено в ml/kg/min. Оценява състоянието на кардиореспираторната годност на потребителите, което е важно за цялостното здраве, благополучие и спортни изяви.
+&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Часовникът автоматично ще оцени Вашия VO₂ max въз основа на сърдечната честота, скоростта и т.н. по време на тренировка при умерена интензивност и ще я сравни с референтна група от същата възраст и пол, за да определи вашето ниво на фитнес.&lt;br/&gt;&lt;font color=#00FF00&gt; Как се оценява?&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 1. Осигурете точна информация за профила, като възраст и пол в приложението Amazfit Watch по време на настройването;
 &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 2. Забързайте се на открито 15 минути или повече с часовника и се уверете, че сърдечната дейност е на или над 75% от максималната си стойност за поне 10 минути; &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;; 3. След приключване на бягането, можете да проверите текущия VO₂ макс в спортните активности на часовника или на персоналната статус страница в приложението Amazift Watch.
 &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt; За повече информация, моля, вижте Помощ в приложението Amazfit Watch.&lt;/small&gt;"</string>
     <string name="first_beat_help_te">&lt;font color=#00FF00&gt;Какво е това?&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Тренировъчен ефект (ТЕ) измерва натрупания товар по време на тренировка и интерпретира неговото въздействие върху аеробния ви фитнес. TE започва от ниво 0.0. Тъй като тренировката напредва успешно, стойността на ТЕ се увеличава (от 0 до 5), което ви казва как тренировката влияе на вашата фитнес. &lt;br/&gt;&lt;font color=#00FF00&gt;Как се изчислява?&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;TE се изчислява въз основа на потребителския ви профил, данните за сърдечния ритъм и трудността на тренировката.&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Часовникът ще показва в реално време измерване на ТЕ по време на тренировка, както и краен резултат от ТЕ в края на тренировката. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;За повече подробности вижте Помощ в приложението Amazfit Watch.&lt;/small&gt;</string>
@@ -990,5 +990,19 @@
     <string name="widget_currentstep_sleep_title">Сън снощи</string>
     <string name="widget_currentstep_sleep_no">Няма данни за сън</string>
     <string name="widget_currentstep_activity_no">Без активност днес?</string>
+    <string name="this_time_need_rest_total_time">本次需休息%1$s</string>
+    <string name="data_item_surplus_rest">本次剩余休息</string>
+    <string name="click_finsh_this_train_unit_rest">单击下键完成休息</string>
+    <string name="data_item_surplus_rest_keypress">本次已休息</string>
+    <string name="lap_time_title">分段用时</string>
+    <string name="lap_pace_title">分段配速</string>
+    <string name="lap_speed_title">分段速度</string>
     <string name="re_modify_dis_successful">Прекалибрирането е успешно</string>
+    <string name="lap_sub_type_title">休息</string>
+    <string name="cur_lap_stepfreq">本段步频</string>
+    <string name="cur_lap_duration">本段用时</string>
+    <string name="cur_lap_distance">本段里程</string>
+    <string name="cur_lap_hr">本段心率</string>
+    <string name="cur_lap_speed">本段速度</string>
+    <string name="cur_lap_pace">本段配速</string>
 </resources>
