@@ -53,7 +53,7 @@
     <string name="count_down_picker_hour">h</string>
     <string name="count_down_wrong_time_tips">Proszę ustawić prawidłowy czas</string>
     <string name="count_down_del_time">Usuńąć minutnik?</string>
-    <string name="title_unit">Jednostki (h:m)</string>
+    <string name="title_unit">Unit(hour/minute)</string>
     <string name="locale_title">Wybierz język</string>
     <string name="average_text">Avg</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
@@ -61,10 +61,11 @@
     <string name="picker_default_nagetive_text">Wył.</string>
     <string name="no_heartrate_data_hint">"Brak danych tętna"</string>
     <string name="no_altitude_hint">"Brak danych o wysokości"</string>
+    <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">Ustawienia</string>
     <string name="sport_music_settings">Sports Musics</string>
-    <string name="widget_currentstep_title">Centrum danych</string>
-    <string name="widget_currentstep_activities">"Kroki dzisiaj"</string>
+    <string name="widget_currentstep_title">Daily Overview</string>
+    <string name="widget_currentstep_activities">Activities</string>
     <string name="widget_currentstep_sleep_hour">h</string>
     <string name="widget_currentstep_sleep_min">min</string>
     <string name="widget_currentstep_sleep_title">Sen ostat.nocy</string>
