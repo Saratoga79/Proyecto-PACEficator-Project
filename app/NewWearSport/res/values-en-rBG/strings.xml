@@ -277,7 +277,7 @@
     <string name="history_riding_exchange_title">Време за преход</string>
     <string name="sport_pause_time_tips">Време на пауза</string>
     <string name="sport_stride_unit">cm</string>
-    <string name="sport_stride_unit_imperial">в</string>
+    <string name="sport_stride_unit_imperial">in</string>
     <string name="end_last_sport_tips">Първо спрете %1$s активността</string>
     <string name="export_route_trail">Експорт</string>
     <string name="sport_dlg_msg_hint_cancel">"Отказ на този експорт?
@@ -336,8 +336,8 @@
     <string name="heart_region_warm_up_and_relax">Светла</string>
     <string name="sport_te_title">Тренировъчен ефект (TE)</string>
     <string name="sport_te_desc"><Data>"Ефектът на тази тренировка е &lt;font color=#FFFF00&gt;умерен&lt;/font&gt;, който поддържа фитнес на кардиореспираторите."</Data></string>
-    <string name="last_kilo_meters_times">Време за последния км</string>
-    <string name="last_mi_times">Време за последната миля</string>
+    <string name="last_kilo_meters_times">Време за последния km</string>
+    <string name="last_mi_times">Време за последната mi</string>
     <string name="running_total_distance_desc">Общо разстояние</string>
     <string name="setting_sport_title_exteed_region_tips">Уведомява когато е отвъд %1$s зона</string>
     <string name="sport_history_bottom_remind">За повече записи отидете на приложение Amazfit watch</string>
@@ -448,7 +448,7 @@
     <string name="confirm_re_modify_dis">ОК</string>
     <string name="huanghe_pause_continue_title">Активност действия</string>
     <string name="experience_title">Настройте лична информация или данните ще имат голямо отклонение</string>
-    <string name="recovery_time_hour">ч</string>
+    <string name="recovery_time_hour">h</string>
     <string name="sport_vo2_max">VO₂ max</string>
     <string name="sport_ability">Фитнес ниво</string>
     <string name="sport_train_load">Тренировъчно натоварване</string>
@@ -497,8 +497,8 @@
     <string name="first_beat_help_title_daily_perpormence">Състояние на тялото</string>
     <string name="first_beat_help_title_recovery_time">Времеза възстановяване</string>
     <string name="first_beat_help_vo2_max">"&lt;font color=#00FF00&gt;Какво е това?&lt;/font&gt;&lt;br/&gt;&lt;br/&gt;
-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; VO₂ макс представлява максималния обем кислород, който тялото може да консумира в една минута, измерено в мл/кг/мин. Оценява състоянието на кардиореспираторната годност на потребителите, което е важно за цялостното здраве, благополучие и спортни изяви.
-&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Часовникът автоматично ще оцени Вашия VO₂ макс въз основа на сърдечната честота, скоростта и т.н. по време на тренировка при умерена интензивност и ще я сравни с референтна група от същата възраст и пол, за да определи вашето ниво на фитнес.&lt;br/&gt;&lt;font color=#00FF00&gt; Как се оценява?&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 1. Осигурете точна информация за профила, като възраст и пол в приложението Amazfit Watch по време на настройването;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; VO₂ макс представлява максималния обем кислород, който тялото може да консумира в една минута, измерено в ml/kg/min. Оценява състоянието на кардиореспираторната годност на потребителите, което е важно за цялостното здраве, благополучие и спортни изяви.
+&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Часовникът автоматично ще оцени Вашия VO₂ max въз основа на сърдечната честота, скоростта и т.н. по време на тренировка при умерена интензивност и ще я сравни с референтна група от същата възраст и пол, за да определи вашето ниво на фитнес.&lt;br/&gt;&lt;font color=#00FF00&gt; Как се оценява?&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 1. Осигурете точна информация за профила, като възраст и пол в приложението Amazfit Watch по време на настройването;
 &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 2. Забързайте се на открито 15 минути или повече с часовника и се уверете, че сърдечната дейност е на или над 75% от максималната си стойност за поне 10 минути; &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;; 3. След приключване на бягането, можете да проверите текущия VO₂ макс в спортните активности на часовника или на персоналната статус страница в приложението Amazift Watch.
 &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt; За повече информация, моля, вижте Помощ в приложението Amazfit Watch.&lt;/small&gt;"</string>
     <string name="first_beat_help_te">&lt;font color=#00FF00&gt;Какво е това?&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Тренировъчен ефект (ТЕ) измерва натрупания товар по време на тренировка и интерпретира неговото въздействие върху аеробния ви фитнес. TE започва от ниво 0.0. Тъй като тренировката напредва успешно, стойността на ТЕ се увеличава (от 0 до 5), което ви казва как тренировката влияе на вашата фитнес. &lt;br/&gt;&lt;font color=#00FF00&gt;Как се изчислява?&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;TE се изчислява въз основа на потребителския ви профил, данните за сърдечния ритъм и трудността на тренировката.&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Часовникът ще показва в реално време измерване на ТЕ по време на тренировка, както и краен резултат от ТЕ в края на тренировката. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;За повече подробности вижте Помощ в приложението Amazfit Watch.&lt;/small&gt;</string>
