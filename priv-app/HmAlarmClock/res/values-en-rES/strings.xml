@@ -6,7 +6,7 @@
     <string name="day_concat">/</string>
     <string name="hello_world">¡Hola Mundo!</string>
     <string name="action_settings">Ajustes</string>
-    <string name="app_name">Cronómetro</string>
+    <string name="app_name">HmDeskClock</string>
     <string name="every_day">Diario</string>
     <string name="never">Nunca</string>
     <string name="default_label">Alarma</string>
@@ -53,7 +53,7 @@
     <string name="count_down_picker_hour">h</string>
     <string name="count_down_wrong_time_tips">Por favor programe un tiempo de temporizador válido</string>
     <string name="count_down_del_time">¿Borrar cuenta atrás？</string>
-    <string name="title_unit">Unidad (h:m)</string>
+    <string name="title_unit">Unidad (h/min)</string>
     <string name="locale_title">Seleccione el idioma</string>
     <string name="average_text">Med</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
@@ -61,10 +61,11 @@
     <string name="picker_default_nagetive_text">Off</string>
     <string name="no_heartrate_data_hint">"Sin datos de Ritmo Cardíaco"</string>
     <string name="no_altitude_hint">"Datos de altitud no detectados"</string>
+    <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">Ajustes</string>
     <string name="sport_music_settings">Música deportiva</string>
-    <string name="widget_currentstep_title">Centro de datos</string>
-    <string name="widget_currentstep_activities">"Actividades"</string>
+    <string name="widget_currentstep_title">Resumen diario</string>
+    <string name="widget_currentstep_activities">Pasos hoy</string>
     <string name="widget_currentstep_sleep_hour">h</string>
     <string name="widget_currentstep_sleep_min">min</string>
     <string name="widget_currentstep_sleep_title">Sueño</string>

@@ -6,7 +6,7 @@
     <string name="day_concat">/</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Beállítások</string>
-    <string name="app_name">Ébresztés</string>
+    <string name="app_name">HmDeskClock</string>
     <string name="every_day">Naponta</string>
     <string name="never">Soha</string>
     <string name="default_label">Ébresztő</string>
@@ -53,7 +53,7 @@
     <string name="count_down_picker_hour">ó</string>
     <string name="count_down_wrong_time_tips">Érvényes időt állíts be!</string>
     <string name="count_down_del_time">Törlöd az időzítést？</string>
-    <string name="title_unit">Egység (h:m)</string>
+    <string name="title_unit">Unit(hour/minute)</string>
     <string name="locale_title">Nyelv választás</string>
     <string name="average_text">Átl.</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
@@ -61,10 +61,11 @@
     <string name="picker_default_nagetive_text">Ki</string>
     <string name="no_heartrate_data_hint">"Pulzus adat nem észlelhető"</string>
     <string name="no_altitude_hint">"Magasság adat nem észlelhető"</string>
+    <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">Beállítások</string>
     <string name="sport_music_settings">Zene sporthoz</string>
-    <string name="widget_currentstep_title">Napi áttekintő</string>
-    <string name="widget_currentstep_activities">"Aktivitások"</string>
+    <string name="widget_currentstep_title">Daily Overview</string>
+    <string name="widget_currentstep_activities">Activities</string>
     <string name="widget_currentstep_sleep_hour">ó</string>
     <string name="widget_currentstep_sleep_min">perc</string>
     <string name="widget_currentstep_sleep_title">Alvás</string>

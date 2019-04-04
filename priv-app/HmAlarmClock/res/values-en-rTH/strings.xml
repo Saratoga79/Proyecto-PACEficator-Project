@@ -6,7 +6,7 @@
     <string name="day_concat">/</string>
     <string name="hello_world">สวัสดีชาวโลก!</string>
     <string name="action_settings">การตั้งค่า</string>
-    <string name="app_name">HM Clock</string>
+    <string name="app_name">HmDeskClock</string>
     <string name="every_day">ทุกวัน</string>
     <string name="never">ไม่เลย</string>
     <string name="default_label">นาฬิกาปลุก</string>
@@ -53,7 +53,7 @@
     <string name="count_down_picker_hour">ชม.</string>
     <string name="count_down_wrong_time_tips">Set a valid time</string>
     <string name="count_down_del_time">Delete this timer?</string>
-    <string name="title_unit">Unit (h:m)</string>
+    <string name="title_unit">Unit(hour/minute)</string>
     <string name="locale_title">เลือกภาษา</string>
     <string name="average_text">เฉลี่ย</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
@@ -61,10 +61,11 @@
     <string name="picker_default_nagetive_text">ปิด</string>
     <string name="no_heartrate_data_hint">"ไม่สามารถค้นหาข้อมูลอัตราการเต้นหัวใจ"</string>
     <string name="no_altitude_hint">"ไม่สามารถค้นหาข้อมูลระดับความสูง"</string>
+    <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">การตั้งค่า</string>
     <string name="sport_music_settings">เพลง</string>
-    <string name="widget_currentstep_title">ข้อมูล</string>
-    <string name="widget_currentstep_activities">"กิจกรรมของวันนี้"</string>
+    <string name="widget_currentstep_title">Daily Overview</string>
+    <string name="widget_currentstep_activities">Activities</string>
     <string name="widget_currentstep_sleep_hour">ชม.</string>
     <string name="widget_currentstep_sleep_min">เมตร</string>
     <string name="widget_currentstep_sleep_title">การนอนหลับเมื่อคืนนี้</string>

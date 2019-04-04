@@ -6,7 +6,7 @@
     <string name="day_concat">/</string>
     <string name="hello_world">Здравей, свят!</string>
     <string name="action_settings">Настройки</string>
-    <string name="app_name">HM часовник</string>
+    <string name="app_name">HmDeskClock</string>
     <string name="every_day">Всеки ден</string>
     <string name="never">Никога</string>
     <string name="default_label">Будилник</string>
@@ -53,7 +53,7 @@
     <string name="count_down_picker_hour">h</string>
     <string name="count_down_wrong_time_tips">Задай валидно време</string>
     <string name="count_down_del_time">Да се изтрие ли този таймер?</string>
-    <string name="title_unit">Единици (h:m)</string>
+    <string name="title_unit">Unit(hour/minute)</string>
     <string name="locale_title">Избери Език</string>
     <string name="average_text">Среден</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
@@ -61,10 +61,11 @@
     <string name="picker_default_nagetive_text">Изкл</string>
     <string name="no_heartrate_data_hint">"Не можах да намеря данни за пулс"</string>
     <string name="no_altitude_hint">"Не можах да намеря данни за надморската височина"</string>
+    <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">Настройки</string>
     <string name="sport_music_settings">Музика</string>
-    <string name="widget_currentstep_title">Данни</string>
-    <string name="widget_currentstep_activities">"Активност днес"</string>
+    <string name="widget_currentstep_title">Daily Overview</string>
+    <string name="widget_currentstep_activities">Activities</string>
     <string name="widget_currentstep_sleep_hour">h</string>
     <string name="widget_currentstep_sleep_min">m</string>
     <string name="widget_currentstep_sleep_title">Сън снощи</string>
