@@ -413,7 +413,7 @@
     <string name="virtual_rabbit_backward_time">Време на задържане</string>
     <string name="anti_navigation_pause_content">Главата назад</string>
     <string name="virtual_rabbit_lead_time">Време за изпълнение</string>
-    <string name="sport_main_beyond_heart_info_remind">Извън ограничението на сърдечната честота</string>
+    <string name="sport_main_beyond_heart_info_remind">Извън лимита на сърдечната честота</string>
     <string name="setting_not_remind">Няма</string>
     <string name="setting_max_heart_region">Max зона на сърдечна честота</string>
     <string name="virtual_rabbit_title">Виртуален заек</string>
@@ -430,18 +430,18 @@
     <string name="other_destination">Въведете адрес</string>
     <string name="navigation_remain_distance">Оставащо разстояние</string>
     <string name="lap_dis_title">Дистанция на обиколка</string>
-    <string name="oritation_east">E</string>
-    <string name="oritation_sourth">S</string>
-    <string name="oritation_west">W</string>
-    <string name="oritation_north">N</string>
+    <string name="oritation_east">И</string>
+    <string name="oritation_sourth">Ю</string>
+    <string name="oritation_west">З</string>
+    <string name="oritation_north">С</string>
     <string name="back_to_continue_sport">Назад</string>
     <string name="lap_swim_stroke_speed_title">Темпо на гребане</string>
-    <string name="first_modify_tips">Калибрирайте резултата на разстоянието от текущата сесия (той трябва да бъде по-дълъг от 0,5 км), помага на часовника да генерира по-точен резултат от разстоянието.</string>
+    <string name="first_modify_tips">Калибрирайте резултата на разстоянието от текущата сесия (той трябва да бъде по-дълъг от 0,5 km), помага на часовника да генерира по-точен резултат от разстоянието.</string>
     <string name="modify_big_dis_tips">Калибрираната стойност %1$s се различава значително от измерената стойност %2$s, калибриране все пак?</string>
     <string name="modify_big_dis_regain">Редактиране</string>
     <string name="modify_big_dis_confirm">Продължи калибриране</string>
     <string name="re_modify_dis">Калибрирай отново</string>
-    <string name="re_modify_dis_tips">"1. Калибрирате резултата от разстоянието от текущата сесия (тя трябва да е по-голяма от 0,5 км), помага на часовника да генерира по-точен резултат.
+    <string name="re_modify_dis_tips">"1. Калибрирате резултата от разстоянието от текущата сесия (тя трябва да е по-голяма от 0,5 km), помага на часовника да генерира по-точен резултат.
 2. Ако все още не сте доволни от резултата след няколко опита за калибриране, опитайте да калибрирате отново.
 3. Ако отново калибрирате резултата, всички предишни записи за калибриране ще бъдат изтрити."</string>
     <string name="give_up_re_modify_dis">Отхвърли</string>
@@ -660,7 +660,7 @@
     <string name="alert_skip_you_finish">Готови сте</string>
     <string name="finish_index_count">No.%1$s</string>
     <string name="sport_widget_title_rope_skip">Скачане на въже</string>
-    <string name="rope_frequency_unit">скокове/мин</string>
+    <string name="rope_frequency_unit">скокове/min</string>
     <string name="rope_total_count_remind_title">Брой на завършени</string>
     <string name="rope_remind_test_time">2500</string>
     <string name="setting_rope_skip_total_count">Общ брой (скокове)</string>
@@ -776,7 +776,7 @@
     <string name="history_detail_calorie_desc">Калории (kcal)</string>
     <string name="history_detail_step_freq">Ритъм (SPM)</string>
     <string name="history_detail_speed">Скорост (km/h)</string>
-    <string name="waiting_gps_gps_unavailable">Чакане на сигнал от GPS сателити</string>
+    <string name="waiting_gps_gps_unavailable">Чакане на сигнал от GPS</string>
     <string name="waiting_gps_gps_available">GPS е наличен сега</string>
     <string name="waiting_gps_gps_available_button_text">ОК</string>
     <string name="waiting_gps_gps_unavailable_button_text">Продължи</string>
@@ -875,8 +875,8 @@
     <string name="searching_gps_in_progress">Изчакване за GPS…</string>
     <string name="remind_current_pace">Сегашно темпо</string>
     <string name="remind_current_heart">Текущ</string>
-    <string name="remind_last_dis_pace">Темпо на последния км</string>
-    <string name="remind_last_dis_speed">Скорост в последния км</string>
+    <string name="remind_last_dis_pace">Темпо на последния km</string>
+    <string name="remind_last_dis_speed">Скорост в последния km</string>
     <string name="count_down_tint">Носете стегнато часовника за точни резултати за пулса</string>
     <string name="history_detail_running_cost_time">Време в тичане</string>
     <string name="history_detail_walking_cost_time">Време в ходене</string>
