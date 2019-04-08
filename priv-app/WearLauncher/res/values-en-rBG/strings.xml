@@ -18,7 +18,7 @@
     <string name="notification_time_month">MM/dd HH:mm</string>
     <string name="notification_time_year">yyyy/MM/dd HH:mm</string>
     <string name="action_delete">Изтриване</string>
-    <string name="action_shield">Блок</string>
+    <string name="action_shield">Блокирано</string>
     <string name="notification_none">Всичко е получено</string>
     <string name="notification_allclear">Изчистване на всичко</string>
     <string name="notification_allclear_confirm">Изчистените известия повече няма да могат да се четат, да продължа ли?</string>
@@ -50,7 +50,7 @@
     <string name="quick_settings_date_format">1900-1-31</string>
     <string name="quick_settings_date_yeareve">Нова Година</string>
     <string name="seconed_confirm_nodisturb">"Тих режим е вкл
-ново известие няма да се показва."</string>
+Ново известие няма да се показва."</string>
     <string name="quick_settings_battery_charging_full">Напълно заредена</string>
     <string name="quick_settings_battery_is_charging">Зареждане...</string>
     <string name="quick_settings_battery_hasnot_charged">Не е заредена</string>
@@ -94,7 +94,7 @@
     <string name="activity_not_found">Възникна проблем при завършване на заявеното действие.</string>
     <string name="wathc_disconnection_content">Връзката с телефона е прекъсната</string>
     <string name="wathc_disconnection_title">Не сте свързани</string>
-    <string name="notification_block">Блок</string>
+    <string name="notification_block">Блокирано</string>
     <string name="notification_block_cancel">Отказ</string>
     <string name="notification_block_message">Вече няма да получавате уведомления от приложения</string>
     <string name="notification_block_ok">ОК</string>
@@ -196,7 +196,7 @@
     <string name="retail_departs_in">Заминаване след 4 часа</string>
     <string name="retail_gate_loc">Terminal 4, Gate 25</string>
     <string name="retail_slideshow_music">Контролирайте възпроизвеждането на музика на телефона си.</string>
-    <string name="retail_loading">Loading retail mode…</string>
+    <string name="retail_loading">Режимът за търговия на дребно се зарежда…</string>
     <string name="retail_step_count">%1$s крачки</string>
     <string name="retail_pedometer_action">Достигнете фитнес целите си с Android Wear.</string>
     <string name="retail_slideshow_pedometer">Достигнете фитнес целите си с ежедневна статистика.</string>
@@ -319,10 +319,10 @@
     <string name="cue_menu_alarm">Задаване на аларма</string>
     <string name="cue_menu_alarm_help1">за 6 тази вечер</string>
     <string name="cue_menu_alarm_help2">за 3 часа от сега</string>
-    <string name="cue_menu_alarm_help3">за 7 ч</string>
+    <string name="cue_menu_alarm_help3">за 7 ч сутрин</string>
     <string name="cue_menu_show_alarms">Покажи аларми</string>
     <string name="cue_menu_taxi">Обадете се на кола</string>
-    <string name="cue_menu_timer">Зададете таймер</string>
+    <string name="cue_menu_timer">Задай таймер</string>
     <string name="cue_menu_stopwatch">Пусни хронометъра</string>
     <string name="cue_menu_agenda">Agenda</string>
     <string name="cue_menu_agenda_help">за днес</string>
@@ -454,10 +454,10 @@
     <string name="search_flight_originally_scheduled_time">(Планирано %s)</string>
     <string name="search_flight_terminal_gate">Terminal %1$s, Gate %2$s</string>
     <string name="search_flight_name">%1$s %2$s</string>
-    <string name="now_final_score_extra_periods_with_date">Final/%1$d, %2$s</string>
-    <string name="now_final_score_overtime_with_date">Final OT, %1$s</string>
-    <string name="now_final_score_shootout_with_date">Final SO, %1$s</string>
-    <string name="now_final_score_with_date">Final, %1$s</string>
+    <string name="now_final_score_extra_periods_with_date">Край/%1$d, %2$s</string>
+    <string name="now_final_score_overtime_with_date">Край OT, %1$s</string>
+    <string name="now_final_score_shootout_with_date">Край SO, %1$s</string>
+    <string name="now_final_score_with_date">Край, %1$s</string>
     <string name="now_current_inning">Inning %1$d</string>
     <string name="now_first_abbreviated">1ви</string>
     <string name="now_second_abbreviated">2ри</string>

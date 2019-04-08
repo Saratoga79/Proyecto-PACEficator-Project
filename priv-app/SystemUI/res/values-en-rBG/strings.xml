@@ -12,7 +12,7 @@
     <string name="status_bar_clear_all_button">Ясно</string>
     <string name="status_bar_recent_remove_item_title">Премахване от списъка</string>
     <string name="status_bar_recent_inspect_item_title">Данни за прилож</string>
-    <string name="status_bar_no_recent_apps">Вашият последните екрани ще се повяват тук</string>
+    <string name="status_bar_no_recent_apps">Последните Ви екрани ще се повяват тук</string>
     <string name="status_bar_accessibility_dismiss_recents">Отхвърли последните приложения</string>
     <string name="status_bar_no_notifications_title">Няма известия</string>
     <string name="status_bar_ongoing_events_title">Текущи</string>
@@ -20,7 +20,8 @@
     <string name="battery_low_title">Изтощена батерия</string>
     <string name="battery_low_percent_format">%s остават</string>
     <string name="battery_low_percent_format_saver_started">%s остават. Икономия на батерията е вкл.</string>
-    <string name="invalid_charger">"USB зареждането не се поддържа. Използвайте само доставеното зарядно устройство."</string>
+    <string name="invalid_charger">"USB зареждането не се поддържа.
+Използвайте само доставеното зарядно устройство."</string>
     <string name="invalid_charger_title">USB зареждане не се поддържа.</string>
     <string name="invalid_charger_text">Използвайте само приложеното зарядно устройство.</string>
     <string name="battery_low_why">Настройки</string>
@@ -67,7 +68,7 @@
     <string name="accessibility_back">Назад</string>
     <string name="accessibility_home">Начало</string>
     <string name="accessibility_menu">Меню</string>
-    <string name="accessibility_recent">Общ преглед</string>
+    <string name="accessibility_recent">Преглед</string>
     <string name="accessibility_search_light">Търсене</string>
     <string name="accessibility_camera_button">Камера</string>
     <string name="accessibility_phone_button">Телефон</string>
@@ -78,43 +79,43 @@
     <string name="accessibility_ime_switch_button">Бутон за превключване на метод на въвеждане.</string>
     <string name="accessibility_compatibility_zoom_button">Бутон за увеличаване по съвместимост.</string>
     <string name="accessibility_compatibility_zoom_example">Мащабиране малък към голям екран.</string>
-    <string name="accessibility_bluetooth_connected">Успешно свързване с Блутут устройство.</string>
+    <string name="accessibility_bluetooth_connected">Успешно свързване с Bluetooth устройство.</string>
     <string name="accessibility_bluetooth_disconnected">Bluetooth е изключен.</string>
     <string name="accessibility_no_battery">Без батерия.</string>
-    <string name="accessibility_battery_one_bar">Батерия една лента.</string>
+    <string name="accessibility_battery_one_bar">Батерия едно деление.</string>
     <string name="accessibility_battery_two_bars">Заряд на батерия: две деления.</string>
     <string name="accessibility_battery_three_bars">Заряд на батерия: три деления.</string>
     <string name="accessibility_battery_full">Батерията е пълна.</string>
     <string name="accessibility_no_phone">Няма телефон.</string>
-    <string name="accessibility_phone_one_bar">Телефон една лента.</string>
-    <string name="accessibility_phone_two_bars">Телефон две ленти.</string>
+    <string name="accessibility_phone_one_bar">Телефон едно деление.</string>
+    <string name="accessibility_phone_two_bars">Телефон две деления.</string>
     <string name="accessibility_phone_three_bars">Заряд на телефон: три деления.</string>
     <string name="accessibility_phone_signal_full">Заряд на телефон: пълен.</string>
     <string name="accessibility_no_data">Няма данни.</string>
-    <string name="accessibility_data_one_bar">Една лента за данни.</string>
-    <string name="accessibility_data_two_bars">Две ленти за данни.</string>
-    <string name="accessibility_data_three_bars">Три ленти за данни.</string>
+    <string name="accessibility_data_one_bar">Данни едно деление.</string>
+    <string name="accessibility_data_two_bars">Данни две деления.</string>
+    <string name="accessibility_data_three_bars">Данни три деления.</string>
     <string name="accessibility_data_signal_full">Сигналът за данни е пълен.</string>
     <string name="accessibility_wifi_off">Wifi изкл.</string>
     <string name="accessibility_no_wifi">Wi-Fi връзката е изключена.</string>
-    <string name="accessibility_wifi_one_bar">WiFi една лента.</string>
-    <string name="accessibility_wifi_two_bars">WiFi две ленти.</string>
-    <string name="accessibility_wifi_three_bars">WiFi три ленти.</string>
-    <string name="accessibility_wifi_signal_full">Wifi: пълен.</string>
+    <string name="accessibility_wifi_one_bar">WiFi едно деление.</string>
+    <string name="accessibility_wifi_two_bars">WiFi две деления.</string>
+    <string name="accessibility_wifi_three_bars">WiFi три деления.</string>
+    <string name="accessibility_wifi_signal_full">Wifi: пълен сигнал.</string>
     <string name="accessibility_wifi_name">Свързани сте към %s.</string>
     <string name="accessibility_bluetooth_name">Свързани сте към %s.</string>
     <string name="accessibility_no_wimax">Няма WiMAX.</string>
-    <string name="accessibility_wimax_one_bar">WiMAX една лента.</string>
-    <string name="accessibility_wimax_two_bars">WiMAX две ленти.</string>
-    <string name="accessibility_wimax_three_bars">WiMAX три ленти.</string>
+    <string name="accessibility_wimax_one_bar">WiMAX едно деление.</string>
+    <string name="accessibility_wimax_two_bars">WiMAX две деления.</string>
+    <string name="accessibility_wimax_three_bars">WiMAX три деления.</string>
     <string name="accessibility_wimax_signal_full">WiMAX пълен сигнал.</string>
     <string name="accessibility_no_signal">Няма сигнал.</string>
     <string name="accessibility_not_connected">Не сте свързани.</string>
-    <string name="accessibility_zero_bars">Нула ленти.</string>
+    <string name="accessibility_zero_bars">Нула деления.</string>
     <string name="accessibility_one_bar">Едно деление.</string>
-    <string name="accessibility_two_bars">Две ленти.</string>
-    <string name="accessibility_three_bars">Три ленти.</string>
-    <string name="accessibility_signal_full">Сигнала е пълен.</string>
+    <string name="accessibility_two_bars">Две деления.</string>
+    <string name="accessibility_three_bars">Три деления.</string>
+    <string name="accessibility_signal_full">Пълен сигнал.</string>
     <string name="accessibility_desc_on">Вкл.</string>
     <string name="accessibility_desc_off">Изкл.</string>
     <string name="accessibility_desc_connected">Свързан.</string>
@@ -127,8 +128,8 @@
     <string name="accessibility_data_connection_4g">4G</string>
     <string name="accessibility_data_connection_lte">LTE</string>
     <string name="accessibility_data_connection_cdma">CDMA</string>
-    <string name="accessibility_data_connection_roaming">Роуминг</string>
-    <string name="accessibility_data_connection_edge">Ръб</string>
+    <string name="accessibility_data_connection_roaming">Roaming</string>
+    <string name="accessibility_data_connection_edge">Edge</string>
     <string name="accessibility_data_connection_wifi">Wi-Fi</string>
     <string name="accessibility_no_sim">Без SIM.</string>
     <string name="accessibility_bluetooth_tether">Bluetooth тетъринг.</string>
@@ -198,7 +199,7 @@
     <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi е свързан</string>
     <string name="gps_notification_searching_text">Търсене за GPS</string>
     <string name="gps_notification_found_text">Местоположение зададено от GPS</string>
-    <string name="accessibility_location_active">Активни са искания за местоположение</string>
+    <string name="accessibility_location_active">Искането за местоположение е активно</string>
     <string name="accessibility_clear_all">Изчистете всички уведомления.</string>
     <string name="status_bar_notification_inspect_item_title">Настройки на уведомленията</string>
     <string name="status_bar_notification_app_settings_title">%s настройки</string>
@@ -338,6 +339,7 @@
     <string name="monitoring_description_vpn">"Вие дадохте \"%1$s\" разрешение за настройка на VPN връзка.
 Това приложение може да следи активността на вашето устройство и мрежа, включително имейли, приложения и сигурни уебсайтове."</string>
     <string name="monitoring_description_legacy_vpn">"Свързани сте с VPN (\"%1$s\").
+
 Вашият доставчик на VPN услуги може да следи активността на устройството и мрежата ви, включително имейли, приложения и сигурни уебсайтове."</string>
     <string name="monitoring_description_vpn_device_owned">"Това устройство се управлява от:
 %1$s
@@ -458,7 +460,7 @@
     <string name="keyguard_accessibility_slide_unlock">Отключване с плъзгане.</string>
     <string name="keyguard_accessibility_pattern_unlock">Отключване с фигура.</string>
     <string name="keyguard_accessibility_face_unlock">Отключване с лице.</string>
-    <string name="keyguard_accessibility_pin_unlock">Отключване с Пин код.</string>
+    <string name="keyguard_accessibility_pin_unlock">Отключване с пин код.</string>
     <string name="keyguard_accessibility_password_unlock">Отключване с парола.</string>
     <string name="keyguard_accessibility_pattern_area">Област на фигурата.</string>
     <string name="keyguard_accessibility_slide_area">Област на плъзгане.</string>
@@ -469,7 +471,7 @@
     <string name="keyguard_accessibility_transport_next_description">Бутон следваща песен</string>
     <string name="keyguard_accessibility_transport_pause_description">Бутон пауза</string>
     <string name="keyguard_accessibility_transport_play_description">Бутон Възпроизвеждане</string>
-    <string name="keyguard_accessibility_transport_stop_description">Бутон Стоп</string>
+    <string name="keyguard_accessibility_transport_stop_description">Бутон стоп</string>
     <string name="keyguard_accessibility_transport_thumbs_up_description">Харесва ми</string>
     <string name="keyguard_accessibility_transport_thumbs_down_description">Не ми харесва</string>
     <string name="keyguard_accessibility_transport_heart_description">Сърце</string>
@@ -525,10 +527,13 @@
 Посетете \"<b>google.com/accounts/recovery"</b>.</string>
     <string name="kg_login_checking_password">Проверка на профил…</string>
     <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"Неправилно сте въвели вашия PIN %d пъти. 
+
 Опитайте отново след %d секунди."</string>
     <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Неправилно сте въвели вашата парола %d пъти. 
+
 Опитайте отново след %d секунди."</string>
     <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Неправилно сте нарисували своя шаблон за отключване %d пъти. 
+
 Опитайте отново след %d секунди."</string>
     <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Неправомерно сте опитали да отключите таблета %d пъти. След %d повече неуспешни опити този таблет ще се нулира, което ще изтрие всичките му данни.</string>
     <string name="kg_failed_attempts_now_wiping">Неправомерно сте опитали да отключите таблета %d пъти. Този таблет ще бъде нулиран, което ще изтрие всичките му данни.</string>
