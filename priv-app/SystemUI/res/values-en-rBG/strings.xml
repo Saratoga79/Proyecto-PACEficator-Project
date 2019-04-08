@@ -460,7 +460,7 @@
     <string name="keyguard_accessibility_slide_unlock">Отключване с плъзгане.</string>
     <string name="keyguard_accessibility_pattern_unlock">Отключване с фигура.</string>
     <string name="keyguard_accessibility_face_unlock">Отключване с лице.</string>
-    <string name="keyguard_accessibility_pin_unlock">Отключване с Пин код.</string>
+    <string name="keyguard_accessibility_pin_unlock">Отключване с пин код.</string>
     <string name="keyguard_accessibility_password_unlock">Отключване с парола.</string>
     <string name="keyguard_accessibility_pattern_area">Област на фигурата.</string>
     <string name="keyguard_accessibility_slide_area">Област на плъзгане.</string>
@@ -471,7 +471,7 @@
     <string name="keyguard_accessibility_transport_next_description">Бутон следваща песен</string>
     <string name="keyguard_accessibility_transport_pause_description">Бутон пауза</string>
     <string name="keyguard_accessibility_transport_play_description">Бутон Възпроизвеждане</string>
-    <string name="keyguard_accessibility_transport_stop_description">Бутон Стоп</string>
+    <string name="keyguard_accessibility_transport_stop_description">Бутон стоп</string>
     <string name="keyguard_accessibility_transport_thumbs_up_description">Харесва ми</string>
     <string name="keyguard_accessibility_transport_thumbs_down_description">Не ми харесва</string>
     <string name="keyguard_accessibility_transport_heart_description">Сърце</string>
@@ -527,10 +527,13 @@
 Посетете \"<b>google.com/accounts/recovery"</b>.</string>
     <string name="kg_login_checking_password">Проверка на профил…</string>
     <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"Неправилно сте въвели вашия PIN %d пъти. 
+
 Опитайте отново след %d секунди."</string>
     <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Неправилно сте въвели вашата парола %d пъти. 
+
 Опитайте отново след %d секунди."</string>
     <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Неправилно сте нарисували своя шаблон за отключване %d пъти. 
+
 Опитайте отново след %d секунди."</string>
     <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Неправомерно сте опитали да отключите таблета %d пъти. След %d повече неуспешни опити този таблет ще се нулира, което ще изтрие всичките му данни.</string>
     <string name="kg_failed_attempts_now_wiping">Неправомерно сте опитали да отключите таблета %d пъти. Този таблет ще бъде нулиран, което ще изтрие всичките му данни.</string>
