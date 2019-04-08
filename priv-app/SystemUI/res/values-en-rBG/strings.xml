@@ -128,8 +128,8 @@
     <string name="accessibility_data_connection_4g">4G</string>
     <string name="accessibility_data_connection_lte">LTE</string>
     <string name="accessibility_data_connection_cdma">CDMA</string>
-    <string name="accessibility_data_connection_roaming">Роуминг</string>
-    <string name="accessibility_data_connection_edge">Ръб</string>
+    <string name="accessibility_data_connection_roaming">Roaming</string>
+    <string name="accessibility_data_connection_edge">Edge</string>
     <string name="accessibility_data_connection_wifi">Wi-Fi</string>
     <string name="accessibility_no_sim">Без SIM.</string>
     <string name="accessibility_bluetooth_tether">Bluetooth тетъринг.</string>
@@ -199,7 +199,7 @@
     <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi е свързан</string>
     <string name="gps_notification_searching_text">Търсене за GPS</string>
     <string name="gps_notification_found_text">Местоположение зададено от GPS</string>
-    <string name="accessibility_location_active">Активни са искания за местоположение</string>
+    <string name="accessibility_location_active">Искането за местоположение е активно</string>
     <string name="accessibility_clear_all">Изчистете всички уведомления.</string>
     <string name="status_bar_notification_inspect_item_title">Настройки на уведомленията</string>
     <string name="status_bar_notification_app_settings_title">%s настройки</string>
@@ -339,6 +339,7 @@
     <string name="monitoring_description_vpn">"Вие дадохте \"%1$s\" разрешение за настройка на VPN връзка.
 Това приложение може да следи активността на вашето устройство и мрежа, включително имейли, приложения и сигурни уебсайтове."</string>
     <string name="monitoring_description_legacy_vpn">"Свързани сте с VPN (\"%1$s\").
+
 Вашият доставчик на VPN услуги може да следи активността на устройството и мрежата ви, включително имейли, приложения и сигурни уебсайтове."</string>
     <string name="monitoring_description_vpn_device_owned">"Това устройство се управлява от:
 %1$s
