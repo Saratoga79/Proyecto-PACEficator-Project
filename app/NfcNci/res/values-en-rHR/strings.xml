@@ -40,18 +40,18 @@
     <string name="default_pay_app_removed">Željena usluga dodirni &amp; plati je uklonjena. Odabrati drugu?</string>
     <string name="ask_nfc_tap">Dodirnite drugi uređaj za dovršetak</string>
     <string name="wifi_connect">Poveži</string>
-    <string name="status_unable_to_connect">Unable to connect to network</string>
+    <string name="status_unable_to_connect">Nije moguće povezati se s mrežom</string>
     <string name="status_wifi_connected">Povezano</string>
-    <string name="title_connect_to_network">Connect to network</string>
-    <string name="prompt_connect_to_network">Connect to network %1$s?</string>
-    <string name="beam_requires_nfc_enabled">Android Beam requires NFC to be enabled. Do you want to enable it?</string>
+    <string name="title_connect_to_network">Povezivanje s mrežom</string>
+    <string name="prompt_connect_to_network">Povezati s mrežom %1$s?</string>
+    <string name="beam_requires_nfc_enabled">Android Beam zahtijeva da je NFC omogućen. Želite li ga omogućiti?</string>
     <string name="android_beam">Android Beam</string>
-    <string name="permlab_nfcReceiveEvent">NFC Transaction awareness</string>
-    <string name="permdesc_nfcReceiveEvent">Allows application to receive information about NFC transaction performed</string>
-    <string name="nfc_enabled_dialog">"Nfc is Currently Disabled. 
-Do you want to Enable it for your NFC Service"</string>
-    <string name="permgrouplab_NFC">NFC-Near Field communication</string>
-    <string name="permgroupdesc_NFC">Access various NFC features</string>
+    <string name="permlab_nfcReceiveEvent">NFC Svijest o transakcijama</string>
+    <string name="permdesc_nfcReceiveEvent">Aplikaciji omogućuje primanje informacija o izvršenoj NFC transakciji</string>
+    <string name="nfc_enabled_dialog">"NFC je trenutno onemogućen. 
+Želite li omogućiti za NFC usluge "</string>
+    <string name="permgrouplab_NFC">Beskontaktna komunikacija (NFC)</string>
+    <string name="permgroupdesc_NFC">Pristup raznim NFC mogućnostima</string>
     <string name="ok">U redu</string>
     <string name="no">Ne</string>
 </resources>
