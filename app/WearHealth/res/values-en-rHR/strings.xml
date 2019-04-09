@@ -79,7 +79,7 @@
     <string name="label_subject_ratio_today">Omjer aktivnosti</string>
     <string name="label_subject_sit">Mirovanje</string>
     <string name="label_when_quiet">Odmor</string>
-    <string name="label_when_active">During/After Workout</string>
+    <string name="label_when_active">Tijekom/nakon vježbanja</string>
     <string name="notif_detail_view">Prikaži detalje</string>
     <string name="notif_long_sit_desc">"Sjedite predugo. Ustanite i prošetajte minutu."</string>
     <string name="notif_long_sit_title">Vrijeme je da ustanete</string>
@@ -217,9 +217,9 @@
     <string name="weeklysports_outdoorriding_max">Maks. brzina vožnje biciklom</string>
     <string name="weeklysports_outdoorriding_unit_zh">km/h</string>
     <string name="weeklysports_outdoorriding_unit_en">mi/h</string>
-    <string name="weeklysports_swimerrate">Score of swimming pace</string>
-    <string name="weeklysports_innerswimrate">Average speed of swimming in the pool</string>
-    <string name="weeklysports_openswimrate">Average speed of swimming in the Open Water</string>
+    <string name="weeklysports_swimerrate">Rezultat tempa plivanja</string>
+    <string name="weeklysports_innerswimrate">Prosječna brzina plivanja u bazenu</string>
+    <string name="weeklysports_openswimrate">Prosječna brzina plivanja u moru</string>
     <string name="weeklysports_triathlon">Triathlon</string>
     <string name="weeklysports_triathlon_totaltime">Ukupno vrijeme</string>
     <string name="weeklysports_triathlon_hour">h</string>
@@ -238,7 +238,7 @@
     <string name="currentstep_detail_running">Trčanje</string>
     <string name="currentstep_detail_walking">Hodanje</string>
     <string name="currentstep_detail_riding">Bicikl</string>
-    <string name="currentstep_detail_swimming">Swim</string>
+    <string name="currentstep_detail_swimming">Plivanje</string>
     <string name="currentstep_detail_triathlon">Triathlon</string>
     <string name="currentstep_detail_triathlon_short">Tri</string>
     <string name="currentstep_detail_mountain">Planinarenje</string>
@@ -276,7 +276,7 @@
     <string name="widget_weeklyreports_heart_rate_min_text">Min(bpm)</string>
     <string name="widget_weeklyreports_heart_rate_max_text">Max(bpm)</string>
     <string name="widget_weeklyreports_heart_rate_title">Otkucaji srca</string>
-    <string name="widget_weeklyreports_average_title">Average heart rate</string>
+    <string name="widget_weeklyreports_average_title">Prosj. otkucaji srca</string>
     <string name="widget_weeklyreports_totalcalory_front">Ukupno kalorija</string>
     <string name="widget_weeklyreports_totalcalory_title">"Kalorije
 "</string>
@@ -300,8 +300,8 @@
     <string name="currentstep_detail_activities">Vrijeme u aktivnostima</string>
     <string name="currentstep_detail_activities_title">Legenda</string>
     <string name="currentstep_detail_activities_others">Ostalo</string>
-    <string name="heart_rate_quite">Resting heart rate</string>
-    <string name="widget_weeklyreports_heart_rate_min_reset_text">Minimum resting</string>
-    <string name="widget_weeklyreports_heart_rate_max_reset_text">Maximum resting</string>
-    <string name="widget_weeklyreports_average_reset_title">Average resting</string>
+    <string name="heart_rate_quite">Otkucaji srca u mirovanju</string>
+    <string name="widget_weeklyreports_heart_rate_min_reset_text">Min. odmaranje</string>
+    <string name="widget_weeklyreports_heart_rate_max_reset_text">Maks. odmaranje</string>
+    <string name="widget_weeklyreports_average_reset_title">Prosj. odmaranje</string>
 </resources>
