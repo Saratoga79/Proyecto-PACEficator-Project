@@ -35,10 +35,10 @@
         <item>OUTDOOR_RIDING</item>
         <item>INDOOR_RIDING</item>
         <item>ELLIPTICAL_MACHINE</item>
-        <item>CLIMB</item>
-        <item>SKI</item>
-        <item>FOOTBALL</item>
-        <item>TENNIS</item>
+        <item>PENJANJE</item>
+        <item>SKIJANJE</item>
+        <item>NOGOMET</item>
+        <item>TENIS</item>
     </string-array>
     <string-array name="dally_performence_level_status">
         <item>Umoran</item>
@@ -46,13 +46,13 @@
         <item>Dobro</item>
     </string-array>
     <string-array name="vo2_max_level_status">
-        <item>New</item>
-        <item>General</item>
-        <item>Introduction</item>
-        <item>Medium</item>
+        <item>Novo</item>
+        <item>Općenito</item>
+        <item>Uvod</item>
+        <item>Srednje</item>
         <item>Dobro</item>
-        <item>Excellent</item>
-        <item>Preeminent</item>
+        <item>Izvrsno</item>
+        <item>Nadmoćan</item>
     </string-array>
     <string-array name="spring_depend">
         <item>com.huami.watch.newsport/com.huami.watch.newsport.widget.SportWidget</item>
