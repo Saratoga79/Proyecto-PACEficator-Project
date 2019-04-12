@@ -505,18 +505,18 @@
     <string name="vo2max_unit">ml / kg / min</string>
     <string name="run_vo2max_unit">ml / kg / min</string>
     <string name="vo2_max_has_no_data">No Data</string>
-    <string name="sport_setting_gpx_route_selected">Track Selected</string>
+    <string name="sport_setting_gpx_route_selected">Trasa vybraná</string>
     <string name="sport_setting_gpx_route_selectd_remind">"Vonkajšie športy budú používať túto trasu k navigácii. Ak nechcete navigovať, vyberte Vypnúť pre zrušenie navigácie."</string>
     <string name="confirm">OK</string>
     <string name="decision_yes">áno</string>
     <string name="decision_no">nie</string>
-    <string name="use_sport_route_remind">Použiť túto trasu %1$s?</string>
+    <string name="use_sport_route_remind">Použiť túto trasu %1$s pre navigovanie?</string>
     <string name="please_start_sport_from_route_start">Aby bola zaistená presnosť navigácie, začnite aktivitu v reálnej geografickej polohe východzieho bodu trasy.</string>
     <string name="please_become_bigger">Zväčšiť</string>
     <string name="please_become_smaller">Zmenšiť</string>
     <string name="current_altitude">Current Elevation</string>
     <string name="cumulative_climb">Cumulative Climb</string>
-    <string name="sport_route_out_of">Deviated Trajectory</string>
+    <string name="sport_route_out_of">Odchýlenie od trasy</string>
     <string name="sport_back_to_route">Naspäť na trase</string>
     <string name="gpx_currnet_is_selected">Vybraté</string>
     <string name="gpx_select_closed">Vypnúť</string>
@@ -524,7 +524,7 @@
     <string name="gpx_details_view">Selected</string>
     <string name="gpx_details_use">Použiť</string>
     <string name="gpx_route_loading">Prosím, počkajte na nahranie trasy</string>
-    <string name="dialog_remind_to_look_route">Watch Track</string>
+    <string name="dialog_remind_to_look_route">Sledujte trasu</string>
     <string name="gpx_offset_route">Deviated Trajectory</string>
     <string name="gpx_back_route">Naspäť na trase</string>
     <string name="gpx_alreay_offset">Odchýlenie</string>
@@ -532,9 +532,9 @@
     <string name="gpx_no_route_guide">"Prosím pripojte hodinky k počítaču, nakopírujte GPX súbor do adresára \"gpxdata\" a skúste to znova"</string>
     <string name="bpm_to">tep k</string>
     <string name="indoor_run_progressing">Beh</string>
-    <string name="run_train_title">Running Train</string>
+    <string name="run_train_title">Bežecký tréning</string>
     <string name="run_train_recommend">Odporúčané</string>
-    <string name="run_train_intermittent">Interval training</string>
+    <string name="run_train_intermittent">Intervalový tréning</string>
     <string name="run_train_intermittent_select_train">Vybrať</string>
     <string name="music_title">Hudba</string>
     <string name="music_local_title">Športová hudba</string>
@@ -749,7 +749,7 @@
     <string name="running_speed_unit">mi/h</string>
     <string name="running_distance_unit">mi</string>
     <string name="running_heartrate_unit">bpm</string>
-    <string name="running_realtime_trail_desc">GPS trasa</string>
+    <string name="running_realtime_trail_desc">Trasy</string>
     <string name="running_control_title">Behanie</string>
     <string name="running_control_paused_des">Pozastavené</string>
     <string name="sport_history_item_distance_desc">Vzdialenosť (km)</string>
@@ -922,7 +922,7 @@
     <string name="remind_target_time_training_title_swim_format">Swim%1$dMin</string>
     <string name="complete_training_target_tips">"Uložiť tento beh do dnešného tréningového plánu?"</string>
     <string name="complete_training_outdoor_riding_target_tips">"Uložiť toto bicyklovanie do dnešného tréningového programu?"</string>
-    <string name="complete_training_swim_target_tips">"Save this swim to today's training program?"</string>
+    <string name="complete_training_swim_target_tips">"Uložiť toto plávanie do dnešného tréningového plánu?"</string>
     <string name="not_complete_train_task">"Téning nie je dokončený. Chcete prerušit?"</string>
     <string name="km_metric">km</string>
     <string name="metre_metric">metrov</string>
@@ -971,7 +971,7 @@
     <string name="hint_failed_exported_title">"Export trasy zlyhal"</string>
     <string name="hint_where">"Trasa bola exportovaná do adresára GPXDATA
 Pre stiahnutie pripojte hodinky k počítaču"</string>
-    <string name="hint_failed">"Export trasy se nepodaril, prosím zopakujte ho."</string>
+    <string name="hint_failed">"Export trasy sa nepodaril, prosím zopakujte ho."</string>
     <string name="app_name">Športy</string>
     <string name="average_text">Priemer</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
