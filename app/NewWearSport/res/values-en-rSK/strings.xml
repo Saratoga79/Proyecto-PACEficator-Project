@@ -44,7 +44,7 @@
     <string name="crossing_remind_target_individual_title">Okruh %1d</string>
     <string name="crossing_remind_target_individual_cost_time">Elapsed Time</string>
     <string name="crossing_remind_target_individual_pace">Tempo</string>
-    <string name="agps_time_out">AGPS has expired. GPS searching will be slow. Please connect the Amazfit Watch App to update it。</string>
+    <string name="agps_time_out">AGPS vypršalo. Vyhľadávanie GPS bude pomalé. Pripojte sa k Amazfit Watch App pre aktualizáciu.</string>
     <string name="safe_hearate_remind_content">Pri prekročení %1d</string>
     <string name="settings_safe_heart_rate_hint">(bezpečný tep)</string>
     <string name="settings_safe_heart_rate_unit">bpm</string>
@@ -72,14 +72,14 @@
     <string name="stroke_unit">" údery"</string>
     <string name="cadence_curve_title">Cadence(times/min)</string>
     <string name="swim_trips_complete">Swim %1$d trips</string>
-    <string name="gps_search_tips">A 15-min warm-up exercise before the run helps prevent injuries.</string>
+    <string name="gps_search_tips">15 minútové zahrievacie cvičenie pred behom pomáha predchádzať zraneniam.</string>
     <string name="gps_search_swim_tips">Touch screen will be locked</string>
     <string name="gps_searching">Searching</string>
     <string name="gps_search_success">GPS pripravené</string>
     <string name="gps_search_failed_title">"GPS not available"</string>
     <string name="gps_search_failed_content">Cannot acquire GPS satellites, please try again in an open space</string>
     <string name="gps_search_success_title">GPS pripravené</string>
-    <string name="gps_search_success_content">Let\'s go ahead and start the activity!</string>
+    <string name="gps_search_success_content">GPS pripravené, môžete začať aktivitu.</string>
     <string name="gps_search_timeout_title">Platnosť GPS vypršala</string>
     <string name="gps_search_timeout_content">AGPS vypršalo. Vyhľadávanie GPS bude pomalé. Pripojte sa k Amazfit Watch App pre aktualizáciu.</string>
     <string name="gps_notify_success">GPS pripravené</string>
@@ -123,7 +123,7 @@
     <string name="picker_sub_title_te_three">(Zlepšenie)</string>
     <string name="picker_sub_title_te_four">(Zlepšenie)</string>
     <string name="picker_heart_region_content">zone %1$d</string>
-    <string name="settings_sport_target">Training Target</string>
+    <string name="settings_sport_target">Tréningový cieľ</string>
     <string name="settings_sport_remind">Pripomenutie aktivity</string>
     <string name="settings_sport_control">More Settings</string>
     <string name="settings_sport_auto_pause">Auto Pause</string>
@@ -225,7 +225,7 @@
     <string name="sport_main_max_heart_rate">Max HR</string>
     <string name="sport_main_min_heart_rate">Min HR</string>
     <string name="sport_main_graph_title">Posledné (min)</string>
-    <string name="exchange_time_cost">Transition Time</string>
+    <string name="exchange_time_cost">Čas presunu</string>
     <string name="exchange_in_progress">V pohybe</string>
     <string name="exchange_anim_title">Switch Activity</string>
     <string name="sport_pause_swim_type">Swim Distance </string>
@@ -273,8 +273,8 @@
     <string name="earphone_conn_title">Headset</string>
     <string name="device_in">Device Connected</string>
     <string name="device_out">Device Disconnected</string>
-    <string name="history_swim_exchange_title">Transition to Cycling</string>
-    <string name="history_riding_exchange_title">Transition to Running</string>
+    <string name="history_swim_exchange_title">Čas presunu</string>
+    <string name="history_riding_exchange_title">Čas presunu</string>
     <string name="sport_pause_time_tips">Pause Time</string>
     <string name="sport_stride_unit">cm</string>
     <string name="sport_stride_unit_imperial">in</string>
@@ -286,7 +286,7 @@
     <string name="exchange_prepare_running">Ďalší: beh</string>
     <string name="count_down_swim_tint">Touch screen will be locked</string>
     <string name="sport_widget_title_history_record">Aktivity</string>
-    <string name="sport_widget_title_elliptical">Elliptical Trainer</string>
+    <string name="sport_widget_title_elliptical">Eliptický trenažér</string>
     <string name="sport_widget_title_indoor_swim">Pool Swim</string>
     <string name="sport_widget_title_open_water_swim">Open Water</string>
     <string name="sport_widget_title_triathlon">Triatlon</string>
@@ -334,7 +334,7 @@
     <string name="heart_region_heart_and_lung_enhancement">Cardio Training</string>
     <string name="heart_region_fat_burning">Fat Burning</string>
     <string name="heart_region_warm_up_and_relax">Warm Up</string>
-    <string name="sport_te_title">Training Effect (TE)</string>
+    <string name="sport_te_title">Tréningový efekt (TE)</string>
     <string name="sport_te_desc">This workout maintains cardiorespiratory fitness.</string>
     <string name="last_kilo_meters_times">last km.</string>
     <string name="last_mi_times">last mi.</string>
@@ -352,7 +352,7 @@
     <string name="per_correspond_mi">Každá %1$d mi</string>
     <string name="more_operation">Viac</string>
     <string name="detail_route_detail_train_lap_title">Lap</string>
-    <string name="interval_train_tips_title">Alerts will be off by default during internvals</string>
+    <string name="interval_train_tips_title">Výstrahy budú predvolene štandardne vypnuté</string>
     <string name="interval_train_tips_content">(Except for HR alterts)</string>
     <string name="interval_confirm">OK</string>
     <string name="this_time_need_run_mileage">Interval vzdialenosti: %1$s km</string>
@@ -404,7 +404,7 @@
     <string name="select_compound_sport_first">First</string>
     <string name="select_compound_sport_second">Second</string>
     <string name="select_compound_sport_three">Third</string>
-    <string name="history_walk_exchange_title">Transition to Swimming</string>
+    <string name="history_walk_exchange_title">Čas presunu</string>
     <string name="setting_reserve_heart_region_4">Zone 4</string>
     <string name="setting_reserve_heart_region_5">Zone 5</string>
     <string name="setting_reserve_heart_region_1">Zone 1</string>
@@ -451,7 +451,7 @@
     <string name="recovery_time_hour">Hours</string>
     <string name="sport_vo2_max">VO2max</string>
     <string name="sport_ability">VO2Max Fitness Level</string>
-    <string name="sport_train_load">Training Load</string>
+    <string name="sport_train_load">Tréningová zátaž</string>
     <string name="first_beat_sport_status">Performance Condition</string>
     <string name="currnet_daily_performance_staus">Current Condition</string>
     <string name="sport_ability_up">Zlepšenie</string>
@@ -459,7 +459,7 @@
     <string name="time_unit_hour">Hour</string>
     <string name="train_load_medium">Stredná</string>
     <string name="train_load_near_seven_days">Last Seven Days</string>
-    <string name="train_load_suggess_status_no_record">We\'ll evaluate your Training Load from aerobic exercises recorded in the past 7 days.</string>
+    <string name="train_load_suggess_status_no_record">Vaše tréningové zaťaženie vyhodnotíme z cvičení zaznamenaných za posledných 7 dní</string>
     <string name="train_load_suggess_status_less">Nízka</string>
     <string name="train_load_suggess_status_good">Optimálna</string>
     <string name="train_load_suggess_status_recovery">Vysoký</string>
@@ -470,7 +470,7 @@
     <string name="real_time_perpormance_level_fatigued">Unavený</string>
     <string name="real_time_perpormance_level_very_fatigued">Unavený</string>
     <string name="sport_target_remind_head_title">Odporúčané</string>
-    <string name="sport_run_train_title">Running Train</string>
+    <string name="sport_run_train_title">Bežecký tréning</string>
     <string name="sport_target_remind_status_rest_or_light">Zotavenie</string>
     <string name="sport_target_remind_status_maintaining">Údržba</string>
     <string name="sport_target_remind_status_improving">Zlepšenie</string>
@@ -491,15 +491,15 @@
     <string name="sport_history_recovery_remind">"Odporúča sa riadne udržiavanie tréningu, aby ste dosiahli úplného zotavenia."</string>
     <string name="daily_propermance_has_no_data">Not available</string>
     <string name="first_beat_help_title_vo2_max">VO2Max</string>
-    <string name="first_beat_help_title_train_efffect">Training Effect (TE)</string>
-    <string name="first_beat_help_title_train_load">Training Load</string>
+    <string name="first_beat_help_title_train_efffect">Tréningový efekt (TE)</string>
+    <string name="first_beat_help_title_train_load">Tréningová zátaž</string>
     <string name="first_beat_help_title_sport_target_or_real_time_guide">Next Workout Recommendation&amp;Realtime Coaching</string>
     <string name="first_beat_help_title_daily_perpormence">Performance Condition</string>
     <string name="first_beat_help_title_recovery_time">Recovery Time</string>
     <string name="first_beat_help_vo2_max">"&lt;font color=#00FF00&gt;What is this？&lt;/font&gt;&lt;br/&gt; VO2Max represents the maximum volume of oxygen the body can consume in one minute as measured in ml/kg/min. It evaluates the state of users ' cardiorespiratory fitness which is important for overall health, well-being and sports performace. &lt;br/&gt;The watch will automatically evaluate your VO2Max based on heartrate, speed etc. during a moderate intensity running workout and compare that to a reference group of same age and gender to determine your fitness level. &lt;br/&gt;&lt;font color=#00FF00&gt;How to evaluate？&lt;/font&gt;&lt;br/&gt; 1. Provide accurate profile information like age and gender in Amazfit Watch app during setup； &lt;br/&gt; 2. Take a brisk 15 minutes or more outdoor run with the watch on and make sure heartrate is at or above 75% of your maxHR for at least 10 minutes. &lt;br/&gt; 3. After completing the run, you can check current VO2Max in the sports activities app on the watch or personal status page in Amazift Watch app. &lt;br/&gt;&lt;small&gt;For more details, please see Help in Amazfit Watch app.&lt;/small&gt;"</string>
     <string name="first_beat_help_te">&lt;font color=#00FF00&gt;Čo to je?&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Tréningový efekt (TE) meria akumulované zaťaženie počas cvičenia a interpretuje jeho vplyv na vašu aeróbnu kondíciu. TE začína od úrovne 0.0. Keď tréning úspešne pokračuje, hodnota TE sa zvyšuje (z 0 na 5), ​​čo vám povie, ako cvičenie ovplyvňuje vašu kondíciu.&lt;br/&gt;&lt;font color=#00FF00&gt;Ako sa vypočíta?&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; TE sa vypočíta na základe vášho užívateľského profilu, tepovej frekvencie a obtiažnosti cvičenia.&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Hodinky budú ukazovať meranie TE v reálnom čase počas tréningu, ako aj konečný výsledok TE na konci tréningu.&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;Pre viac informácií si pozrite Help v Amazfit Watch app.&lt;/small&gt;</string>
-    <string name="first_beat_help_train_load">The watch wil calculate Training Load based on EPOC (Excess Post-exercise Oxygen Consumption) values accumulated from heartrate data recorded during workouts in a 7-day rolling window. The user can adjust the training schedule accordingly to reach optimal load. &lt;br/&gt;&lt;small&gt;For more details, please see Help in Amazfit Watch app.&lt;/small&gt;</string>
-    <string name="first_beat_help_run_target_and_real_time_guide">The watch will provide workout recommendation based on a your VO2Max fitness level, recent Training Load and recovery status from previous workout. &lt;br/&gt; If you enable realtime coaching feature in settings and set a TE target or choose one of the recommended workouts, the watch will guide you through the workout and prompt to adjust pace and heart rate in order to achieve set goals. &lt;br/&gt; &lt;small&gt;For more details, please see Help in Amazfit Watch app.&lt;/small&gt;</string>
+    <string name="first_beat_help_train_load">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Tréningové zaťaženie založené na hodnotách EPOC (Excess Post-exercise Oxygen Consumption) akumulovaných z údajov o srdcovej frekvencii zaznamenaných počas tréningov za posledných 7 dní. Užívateľ môže prispôsobiť tréningový plán tak, aby dosiahol optimálnu záťaž.&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;Pre viac informácií si pozrite Help v Amazfit Watch app.&lt;/small&gt;</string>
+    <string name="first_beat_help_run_target_and_real_time_guide">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Hodinky budú poskytovať odporúčania pre tréning na základe vašej úrovne VO₂ max, posledného tréningového zaťaženia a stavu zotavenia z predchádzajúceho tréningu.&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Ak povolíte v reálnom čase funkciu koučingu v nastaveniach a nastavíte cieľ TE alebo si vyberiete jeden z odporúčaných tréningov, hodinky vás prevedú tréningom a vyzvú na nastavenie tempa a srdcovej frekvencie, aby sa dosiahli stanovené ciele.&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;small&gt;Pre viac informácií si pozrite Help v Amazfit Watch app.&lt;/small&gt;</string>
     <string name="first_beat_help_daily_perpormence">"&lt;font color=#00FF00&gt;What is this?&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Podmienka výkonu v reálnom čase indikuje, či ste nad priemernou úrovňou výkonnosti a či akumulovaná únava ovplyvňuje výkonnosť počas tréningu. &lt;br/&gt;&lt;font color=#00FF00&gt;Ako sa používa?&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Hodinky automaticky vyhodnotia vaše podmienky výkonu po 6 minútach behu. Vyššia ako priemerná hodnota znamená, že môžete vykonať ťažšie cvičenie, ako by ste normálne robili. Nižšia hodnota naznačuje, že by ste mali ľahšie cvičiť.&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Po dokončení tréningu môžete výkon analyzovať tak, že sa pozriete na výsledok pri každom km/míle na grafe.&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;Viac informácií nájdete v Pomocníkovi Amazfit Watch app.&lt;/small&gt;"</string>
     <string name="first_beat_help_recovery_time">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Po dokončení cvičenia vám bude poskytnutý čas v minútach na úplné oddýchnutie. Medzi cvičením je čas zotavenia lineárne znížený na nulu, ak nie sú k dispozícii žiadne nové údaje o tréningu. Užívateľovi sa odporúča, aby mali nejaké cvičenia s nízkou intenzitou, ktoré by pomohli pri zotavení. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;Viac informácií nájdete v Pomocníkovi Amazfit Watch app.&lt;/small&gt;</string>
     <string name="vo2max_unit">ml / kg / min</string>
@@ -597,11 +597,11 @@
     <string name="real_time_guide_title_2">Zachovajte tempo</string>
     <string name="real_time_guide_title_3">Zrýchliť</string>
     <string name="real_time_guide_title_6">Good pace！</string>
-    <string name="real_time_guide_title_7">\"Increase the pace 
- for more effective exercise!\"</string>
+    <string name="real_time_guide_title_7">\"Zvýšte tempo 
+ pre ešte efektívnejšie cvičenie!\"</string>
     <string name="real_time_guide_title_10">Good pace！</string>
-    <string name="real_time_guide_title_11">\"Increase the pace
- for more effective exercise!\"</string>
+    <string name="real_time_guide_title_11">\"Zvýšte tempo 
+ pre ešte efektívnejšie cvičenie!\"</string>
     <string name="real_time_guide_title_14">Well done!</string>
     <string name="real_time_guide_title_22">Good pace！</string>
     <string name="real_time_guide_title_25">Zrýchliť</string>
