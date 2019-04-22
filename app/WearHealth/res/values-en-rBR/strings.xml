@@ -81,7 +81,7 @@ Gordura</string>
     <string name="label_subject_ratio_today">Taxa de atividade</string>
     <string name="label_subject_sit">Parado</string>
     <string name="label_when_quiet">Descansando</string>
-    <string name="label_when_active">During/After Workout</string>
+    <string name="label_when_active">Em/Após Exercícios</string>
     <string name="notif_detail_view">Ver detalhes</string>
     <string name="notif_long_sit_desc">"Você está sentado por muito tempo. Vamos levantar e se mexer por um minuto."</string>
     <string name="notif_long_sit_title">Hora de levantar</string>
@@ -219,7 +219,7 @@ Gordura</string>
     <string name="weeklysports_outdoorriding_max">Vel. máx. de bicicleta ao ar livre</string>
     <string name="weeklysports_outdoorriding_unit_zh">km/h</string>
     <string name="weeklysports_outdoorriding_unit_en">mi/h</string>
-    <string name="weeklysports_swimerrate">Score of swimming pace</string>
+    <string name="weeklysports_swimerrate">Pontuação do ritmo de natação</string>
     <string name="weeklysports_innerswimrate">Average speed of swimming in the pool</string>
     <string name="weeklysports_openswimrate">Average speed of swimming in the Open Water</string>
     <string name="weeklysports_triathlon">Triatlo</string>
@@ -240,7 +240,7 @@ Gordura</string>
     <string name="currentstep_detail_running">Corrida</string>
     <string name="currentstep_detail_walking">Caminhada</string>
     <string name="currentstep_detail_riding">Pedalada</string>
-    <string name="currentstep_detail_swimming">Swim</string>
+    <string name="currentstep_detail_swimming">Nadar</string>
     <string name="currentstep_detail_triathlon">Triatlo</string>
     <string name="currentstep_detail_triathlon_short">Tri</string>
     <string name="currentstep_detail_mountain">Montanhismo</string>
@@ -278,7 +278,7 @@ Gordura</string>
     <string name="widget_weeklyreports_heart_rate_min_text">Mín(bpm)</string>
     <string name="widget_weeklyreports_heart_rate_max_text">Máx(bpm)</string>
     <string name="widget_weeklyreports_heart_rate_title">Pulso</string>
-    <string name="widget_weeklyreports_average_title">Average heart rate</string>
+    <string name="widget_weeklyreports_average_title">FC Média</string>
     <string name="widget_weeklyreports_totalcalory_front">Calorias Totais</string>
     <string name="widget_weeklyreports_totalcalory_title">"Calorias
 "</string>
@@ -302,8 +302,8 @@ Gordura</string>
     <string name="currentstep_detail_activities">Tempo em atividade</string>
     <string name="currentstep_detail_activities_title">Legenda</string>
     <string name="currentstep_detail_activities_others">Outro</string>
-    <string name="heart_rate_quite">Resting heart rate</string>
-    <string name="widget_weeklyreports_heart_rate_min_reset_text">Minimum resting</string>
-    <string name="widget_weeklyreports_heart_rate_max_reset_text">Maximum resting</string>
-    <string name="widget_weeklyreports_average_reset_title">Average resting</string>
+    <string name="heart_rate_quite">FC em repouso</string>
+    <string name="widget_weeklyreports_heart_rate_min_reset_text">Mínimo em repouso</string>
+    <string name="widget_weeklyreports_heart_rate_max_reset_text">Máximo em repouso</string>
+    <string name="widget_weeklyreports_average_reset_title">Média em repouso</string>
 </resources>
