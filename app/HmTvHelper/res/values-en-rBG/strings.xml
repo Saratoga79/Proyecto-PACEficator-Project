@@ -5,8 +5,8 @@
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Потвърди</string>
     <string name="picker_default_nagetive_text">Изкл</string>
-    <string name="no_heartrate_data_hint">Данни за пулса не са открити</string>
-    <string name="no_altitude_hint">Данни за надморска височина не са открити</string>
+    <string name="no_heartrate_data_hint">"Данни за пулса не са открити"</string>
+    <string name="no_altitude_hint">"Данни за надморска височина не са открити"</string>
     <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">Настройки</string>
     <string name="sport_music_settings">Музика за спорт</string>
@@ -23,21 +23,21 @@
     <string name="tv_use_title">Използвано</string>
     <string name="tv_title_searching">Търсене...</string>
     <string name="tv_title_choices">Моля, изберете устройство, за управление</string>
-    <string name="tv_title_unfound">Няма намерено управляемо устройство</string>
+    <string name="tv_title_unfound">"Няма намерено управляемо устройство"</string>
     <string name="tv_search_action_tx">Търсене на TV</string>
     <string name="tv_voice_title">Сила на звука</string>
     <string name="tv_foot_search_again">Повторно търсене</string>
     <string name="tv_use_content">Дръжте вашия Телевизор включен и свързан към една и съща Wi-FI с телефона</string>
     <string name="tv_current_device">Текущо устройство</string>
-    <string name="tv_launcher_guide">Съвет: Някои Телевизори и боксове не поддържат гласова функция</string>
+    <string name="tv_launcher_guide">"Съвет: Някои Телевизори и боксове не поддържат гласова функция"</string>
     <string name="tv_power_title">Изключи</string>
     <string name="tv_change_title">Избор на устройство</string>
     <string name="error_bluetooth_title">Bluetooth е прекъснат</string>
     <string name="error_bluetooth_content">Моля, проверете Bluetooth връзката на часовника с телефона。</string>
     <string name="error_wifi_title">Wi-Fi връзката е нарушена</string>
-    <string name="error_wifi_content">"Проверете Wi-Fi връзката на вашия телефон."</string>
+    <string name="error_wifi_content">Проверете Wi-Fi връзката на вашия телефон.</string>
     <string name="error_connect_title">Грешка при свързване</string>
-    <string name="error_connect_content">Wi-Fi не може да бъде свързана. Моля, опитайте отново по-късно.</string>
-    <string name="error_device_title">Не може да намери устройството</string>
+    <string name="error_connect_content">"Wi-Fi не може да бъде свързана. Моля, опитайте отново по-късно."</string>
+    <string name="error_device_title">"Не може да намери устройството"</string>
     <string name="error_device_content">Проверете дали устройството е включено и свързано към същата Wi-Fi.</string>
 </resources>
