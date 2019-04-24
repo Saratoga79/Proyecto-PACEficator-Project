@@ -5,8 +5,8 @@
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Baieztatu</string>
     <string name="picker_default_nagetive_text">Off</string>
-    <string name="no_heartrate_data_hint">Bihotz taupaden datuak ez aurkituak</string>
-    <string name="no_altitude_hint">Altitudea ez detektatuta</string>
+    <string name="no_heartrate_data_hint">"Bihotz taupaden datuak ez aurkituak"</string>
+    <string name="no_altitude_hint">"Altitudea ez detektatuta"</string>
     <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">Ezarpenak</string>
     <string name="sport_music_settings">Kirolerako musika</string>
@@ -23,21 +23,21 @@
     <string name="tv_use_title">Erabilpena</string>
     <string name="tv_title_searching">Bilatzen...</string>
     <string name="tv_title_choices">Aukeratu kontrolatzeko gailua</string>
-    <string name="tv_title_unfound">Kontrolatzeko gailurik ez da aurkitu</string>
+    <string name="tv_title_unfound">"Kontrolatzeko gailurik ez da aurkitu"</string>
     <string name="tv_search_action_tx">Bilatu TB</string>
     <string name="tv_voice_title">Bolumena</string>
     <string name="tv_foot_search_again">Bilatu berriro</string>
     <string name="tv_use_content">Konektatu zure TB eta telefonoa Wi-Fi sare berdinera</string>
     <string name="tv_current_device">Oraingo gailua</string>
-    <string name="tv_launcher_guide">Oharra: Mi-TB edo bozgorailuren batek ez du ahots funtziorik</string>
+    <string name="tv_launcher_guide">"Oharra: Mi-TB edo bozgorailuren batek ez du ahots funtziorik"</string>
     <string name="tv_power_title">Izaldu</string>
     <string name="tv_change_title">Gailua aldatu</string>
     <string name="error_bluetooth_title">Bluetooth deskonektatu da</string>
     <string name="error_bluetooth_content">Konprobatu erloju eta telefonoaren arteko Bluetooth konexioa</string>
     <string name="error_wifi_title">Wi-Fi konexiorik ez dago</string>
-    <string name="error_wifi_content">"Konprobatu zure telefonoaren Wi-Fi konexioa."</string>
+    <string name="error_wifi_content">Konprobatu zure telefonoaren Wi-Fi konexioa.</string>
     <string name="error_connect_title">Konexio akatsa</string>
-    <string name="error_connect_content">Wi-Fi ezin da konektatu. Saiatu berriro beranduago.</string>
-    <string name="error_device_title">Ezin da gailua aurkitu</string>
+    <string name="error_connect_content">"Wi-Fi ezin da konektatu. Saiatu berriro beranduago."</string>
+    <string name="error_device_title">"Ezin da gailua aurkitu"</string>
     <string name="error_device_content">Konprobatu gailua piztuta eta Wi-Fi berdinera konektatuta dagoela.</string>
 </resources>

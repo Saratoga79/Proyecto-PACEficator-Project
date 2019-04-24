@@ -445,6 +445,27 @@
 3. Wenn Sie das Ergebnis erneut kalibrieren, werden alle vorherigen Kalibrierungsdaten gelöscht."</string>
     <string name="give_up_re_modify_dis">Verwerfen</string>
     <string name="confirm_re_modify_dis">Bestätigung</string>
+    <string name="re_modify_dis_successful">Rekalibrierung erfolgreich</string>
+    <string name="lap_sub_type_title">Pause</string>
+    <string name="new_pb_record">Neuer persönlicher Rekord</string>
+    <string name="longest_distance">Weiteste Strecke (%1$s)</string>
+    <string name="longest_time">Längste Zeit</string>
+    <string name="_3_km_or_mi_fastest">3%1$s schnellste Zeit</string>
+    <string name="_5_km_or_mi_fastest">5%1$s schnellste Zeit</string>
+    <string name="_10_km_or_mi_fastest">10%1$s schnellste Zeit</string>
+    <string name="_20_km_or_mi_fastest">20%1$s schnellste Zeit</string>
+    <string name="_40_km_or_mi_fastest">40%1$s schnellste Zeit</string>
+    <string name="half_marathon_fastest">Halbmarathon schnellste Zeit</string>
+    <string name="full_marathon_fastest">Marathon am schnellsten</string>
+    <string name="ride_max_altitude_up">Maximaler Anstieg (%1$s)</string>
+    <string name="moutaineer_highest_altitude">Höchste Höhe (%1$s)</string>
+    <string name="moutaineer_max_altitude_up">Maximaler kumulativer Anstieg (%1$s)</string>
+    <string name="moutaineer_max_altitude_down">Maximaler kumulierter Abstieg (%1$s)</string>
+    <string name="moutaineer_max_altitude_climb">Maximaler kumulativer Anstieg (%1$s)</string>
+    <string name="sport_widget_title_on_foot">Wandern</string>
+    <string name="lap_time_title">Rundenzeit</string>
+    <string name="lap_pace_title">Rundenpace</string>
+    <string name="lap_speed_title">Rundengeschw.</string>
     <string name="huanghe_pause_continue_title">Sport operation</string>
     <string name="experience_title">Bitte richten Sie persönliche Informationen ein, oder die Daten haben eine große Abweichung</string>
     <string name="recovery_time_hour">Stunden</string>
@@ -993,7 +1014,6 @@ Sie können es über USB auf einen Computer kopieren."</string>
     <string name="lap_time_title">Rundenzeit</string>
     <string name="lap_pace_title">Rundenpace</string>
     <string name="lap_speed_title">Rundengeschw.</string>
-    <string name="re_modify_dis_successful">Rekalibrierung erfolgreich</string>
     <string name="lap_sub_type_title">Ausruhen</string>
     <string name="cur_lap_stepfreq">Rundenschritte</string>
     <string name="cur_lap_duration">Rundenzeit</string>
@@ -1001,4 +1021,5 @@ Sie können es über USB auf einen Computer kopieren."</string>
     <string name="cur_lap_hr">Runden-HF</string>
     <string name="cur_lap_speed">Rundengeschw.</string>
     <string name="cur_lap_pace">Rundenpace</string>
+    <string name="on_foot_progress">Trekking</string>
 </resources>

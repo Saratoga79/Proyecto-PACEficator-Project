@@ -444,6 +444,27 @@
 3. Si calibra el resultado otra vez, todos los registros de calibración anterior se eliminará."</string>
     <string name="give_up_re_modify_dis">Descartar</string>
     <string name="confirm_re_modify_dis">OK</string>
+    <string name="re_modify_dis_successful">Recalibración satisfactoria</string>
+    <string name="lap_sub_type_title">Descanso</string>
+    <string name="new_pb_record">Nuevo record personal</string>
+    <string name="longest_distance">Distancia más larga (%1$s)</string>
+    <string name="longest_time">Mayor tiempo</string>
+    <string name="_3_km_or_mi_fastest">3%1$s más rápidos</string>
+    <string name="_5_km_or_mi_fastest">5%1$s más rápidos</string>
+    <string name="_10_km_or_mi_fastest">10%1$s más rápidos</string>
+    <string name="_20_km_or_mi_fastest">20%1$s más rápidos</string>
+    <string name="_40_km_or_mi_fastest">40%1$s más rápidos</string>
+    <string name="half_marathon_fastest">Media maratón más rápida</string>
+    <string name="full_marathon_fastest">Maratón más rápida</string>
+    <string name="ride_max_altitude_up">Altitud Máx (%1$s)</string>
+    <string name="moutaineer_highest_altitude">Altitud Máx (%1$s)</string>
+    <string name="moutaineer_max_altitude_up">Máx desnivel positivo (%1$s)</string>
+    <string name="moutaineer_max_altitude_down">Máx desnivel negativo (%1$s)</string>
+    <string name="moutaineer_max_altitude_climb">Max altitud (%1$s)</string>
+    <string name="sport_widget_title_on_foot">Senderismo</string>
+    <string name="lap_time_title">Tiempo V.</string>
+    <string name="lap_pace_title">Rimo V.</string>
+    <string name="lap_speed_title">Velocidad V.</string>
     <string name="huanghe_pause_continue_title">Pausar/continuar</string>
     <string name="experience_title">Por favor, configure la información personal, o los datos tendrán una gran desviación</string>
     <string name="recovery_time_hour">Horas</string>
@@ -990,10 +1011,9 @@ para un ejercicio más efectivo\"</string>
     <string name="data_item_surplus_rest">Descanso restante</string>
     <string name="click_finsh_this_train_unit_rest">Pulsa botón inferior para terminar descanso</string>
     <string name="data_item_surplus_rest_keypress">Tiempo descansado</string>
-    <string name="lap_time_title">Tiempo V.</string>
-    <string name="lap_pace_title">Rimo V.</string>
-    <string name="lap_speed_title">Velocidad V.</string>
-    <string name="re_modify_dis_successful">Recalibración satisfactoria</string>
+    <string name="lap_time_title">Tiempo de vuelta</string>
+    <string name="lap_pace_title">Ritmo de vuelta</string>
+    <string name="lap_speed_title">Velocidad de vuelta</string>
     <string name="lap_sub_type_title">Descansado</string>
     <string name="cur_lap_stepfreq">Pasos V.A.</string>
     <string name="cur_lap_duration">Tiempo V.A.</string>
@@ -1001,4 +1021,5 @@ para un ejercicio más efectivo\"</string>
     <string name="cur_lap_hr">RC V.A.</string>
     <string name="cur_lap_speed">Velocidad  V.A.</string>
     <string name="cur_lap_pace">Ritmo V.A.</string>
+    <string name="on_foot_progress">Senderismo</string>
 </resources>

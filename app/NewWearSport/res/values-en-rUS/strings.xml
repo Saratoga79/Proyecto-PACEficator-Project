@@ -446,6 +446,27 @@
 3. If you calibrate the result again, all previous calibration records will be deleted."</string>
     <string name="give_up_re_modify_dis">Discard</string>
     <string name="confirm_re_modify_dis">OK</string>
+    <string name="re_modify_dis_successful">Recalibration succeeded</string>
+    <string name="lap_sub_type_title">Break</string>
+    <string name="new_pb_record">New personal record</string>
+    <string name="longest_distance">Farthest distance (%1$s)</string>
+    <string name="longest_time">Longest time</string>
+    <string name="_3_km_or_mi_fastest">Fastest 3%1$s</string>
+    <string name="_5_km_or_mi_fastest">Fastest 5%1$s</string>
+    <string name="_10_km_or_mi_fastest">Fastest 10%1$s</string>
+    <string name="_20_km_or_mi_fastest">Fastest 20%1$s</string>
+    <string name="_40_km_or_mi_fastest">Fastest 40%1$s</string>
+    <string name="half_marathon_fastest">Fastest half marathon</string>
+    <string name="full_marathon_fastest">Fastest marathon</string>
+    <string name="ride_max_altitude_up">Max altitude (%1$s)</string>
+    <string name="moutaineer_highest_altitude">Highest altitude (%1$s)</string>
+    <string name="moutaineer_max_altitude_up">Max cumulative increase (%1$s)</string>
+    <string name="moutaineer_max_altitude_down">Max cumulative decline (%1$s)</string>
+    <string name="moutaineer_max_altitude_climb">Max cumulative climb (%1$s)</string>
+    <string name="sport_widget_title_on_foot">Trekking</string>
+    <string name="lap_time_title">Lap time</string>
+    <string name="lap_pace_title">Lap pace</string>
+    <string name="lap_speed_title">Lap speed</string>
     <string name="huanghe_pause_continue_title">Sport operation</string>
     <string name="experience_title">Please set up personal information, or data will have a large deviation</string>
     <string name="recovery_time_hour">Hours</string>
@@ -993,9 +1014,8 @@
     <string name="click_finsh_this_train_unit_rest">Push bottom button to end rest time</string>
     <string name="data_item_surplus_rest_keypress">Time rested</string>
     <string name="lap_time_title">Lap time</string>
-    <string name="lap_pace_title">Lap pace</string>
-    <string name="lap_speed_title">Lap speed</string>
-    <string name="re_modify_dis_successful">Recalibration succeeded</string>
+    <string name="lap_pace_title">Ritmo de vuelta</string>
+    <string name="lap_speed_title">Velocidad de vuelta</string>
     <string name="lap_sub_type_title">Rest</string>
     <string name="cur_lap_stepfreq">C.L. Cadence</string>
     <string name="cur_lap_duration">C.L. Time</string>
@@ -1003,4 +1023,5 @@
     <string name="cur_lap_hr">C.L. HR</string>
     <string name="cur_lap_speed">C.L. Speed</string>
     <string name="cur_lap_pace">C.L. Pace</string>
+    <string name="on_foot_progress">Trekking</string>
 </resources>
