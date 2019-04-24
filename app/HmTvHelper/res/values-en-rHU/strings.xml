@@ -30,14 +30,14 @@
     <string name="tv_use_content">Tartsd a TV-t bekapcsolva és a telefonnal azonos Wifi hálózaton</string>
     <string name="tv_current_device">Jelenlegi eszköz</string>
     <string name="tv_launcher_guide">"Tipp: Néhány TV és Box nem támogatja a hang funkciót"</string>
-    <string name="tv_power_title">Kikapcsol</string>
-    <string name="tv_change_title">Kapcsold be a készüléket</string>
-    <string name="error_bluetooth_title">A Bluetooth le van választva</string>
-    <string name="error_bluetooth_content">Ellenőrizd az óra és a telefon közti Bluetooth kapcsolatot。</string>
-    <string name="error_wifi_title">A Wifi kapcsolat elveszett</string>
+    <string name="tv_power_title">Kikapcsolás</string>
+    <string name="tv_change_title">Eszköz váltás</string>
+    <string name="error_bluetooth_title">A Bluetooth ki van kapcsolva</string>
+    <string name="error_bluetooth_content">Ellenőrizd az óra és a telefon közti Bluetooth kapcsolatot.</string>
+    <string name="error_wifi_title">A Wifi kapcsolat megszakadt</string>
     <string name="error_wifi_content">Ellenőrizd a telefon Wifi kapcsolatát.</string>
     <string name="error_connect_title">Kapcsolat hiba</string>
-    <string name="error_connect_content">"A Wifi nem csatlakoztatható. Később próbáld újra."</string>
+    <string name="error_connect_content">"A Wifi nem csatlakoztatható. Várj néhány percet és próbáld újra."</string>
     <string name="error_device_title">"Nem található eszköz"</string>
-    <string name="error_device_content">A készülék be van-e kapcsolva és ugyanarra a Wifi hálózatra csatlakozik.</string>
+    <string name="error_device_content">A készülék be van-e kapcsolva és ugyanarra a Wifi hálózatra csatlakozik, mint a telefon.</string>
 </resources>
