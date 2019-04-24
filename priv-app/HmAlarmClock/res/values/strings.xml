@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="title_activity_stopwatch">StopwatchActivity</string>
-    <string name="title_activity_stop_watch_lap_list">StopWatchLapListActivity</string>
     <string name="day_concat">/</string>
-    <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
     <string name="app_name">HmDeskClock</string>
     <string name="every_day">Every day</string>
     <string name="never">Never</string>
@@ -16,8 +12,8 @@
     <string name="minute">1 minute</string>
     <string name="minutes">%s minutes</string>
     <string name="new_alarm">New alarm</string>
-    <string name="more">Alarms</string>
     <string name="please_edit_alarm">Edit time</string>
+    <string name="more">Alarm list</string>
     <string name="next_alarm">Next alarm</string>
     <string name="alarm_list">Alarms</string>
     <string name="edit_alarm">Edit alarm</string>
@@ -41,6 +37,10 @@
     <string name="stop_watch_default_lap">Stopwatch</string>
     <string name="stop_watch_default_lap_time">00:00.00</string>
     <string name="stop_watch_lap_list_title_text">%d laps</string>
+    <string name="title_activity_stopwatch">StopwatchActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_stop_watch_lap_list">StopWatchLapListActivity</string>
     <string name="count_down_title">Timer</string>
     <string name="count_down_default_new">New timer</string>
     <string name="count_down_end">Timer stopped</string>
@@ -55,12 +55,12 @@
     <string name="title_unit">Unit(hour/minute)</string>
     <item type="string" name="settings_item_high_light_scale_factor">0.71</item>
     <string name="locale_title">Select Language</string>
-    <string name="average_text">Average</string>
+    <string name="average_text">Avg</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">OK</string>
     <string name="picker_default_nagetive_text">Off</string>
-    <string name="no_heartrate_data_hint">"Couldn't find heart rate data"</string>
-    <string name="no_altitude_hint">"Couldn't find altitude data"</string>
+    <string name="no_heartrate_data_hint">Heart rate data not detected</string>
+    <string name="no_altitude_hint">Altitude data not detected</string>
     <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">Settings</string>
     <string name="sport_music_settings">Music</string>
