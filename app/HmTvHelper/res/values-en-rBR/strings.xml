@@ -5,8 +5,8 @@
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Confirmar</string>
     <string name="picker_default_nagetive_text">Desligado</string>
-    <string name="no_heartrate_data_hint">Dados de FC não detectados</string>
-    <string name="no_altitude_hint">Dados de altitude não detectados</string>
+    <string name="no_heartrate_data_hint">"Dados de FC não detectados"</string>
+    <string name="no_altitude_hint">"Dados de altitude não detectados"</string>
     <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">Configurações</string>
     <string name="sport_music_settings">Música esportiva</string>
@@ -23,21 +23,21 @@
     <string name="tv_use_title">Uso</string>
     <string name="tv_title_searching">Buscando...</string>
     <string name="tv_title_choices">Selecione o dispositivo a ser controlado</string>
-    <string name="tv_title_unfound">Nenhum dispositivo controlável encontrado</string>
+    <string name="tv_title_unfound">"Nenhum dispositivo controlável encontrado"</string>
     <string name="tv_search_action_tx">Procurar TV</string>
     <string name="tv_voice_title">Volume</string>
     <string name="tv_foot_search_again">Buscar novamente</string>
     <string name="tv_use_content">Deixe sua TV ligada e no mesmo Wifi que seu celular</string>
     <string name="tv_current_device">Dispositivo atual</string>
-    <string name="tv_launcher_guide">Dica: Algumas TVs e boxes não suportam função por voz</string>
+    <string name="tv_launcher_guide">"Dica: Algumas TVs e boxes não suportam função por voz"</string>
     <string name="tv_power_title">Desligar</string>
     <string name="tv_change_title">Trocar o dispositivo</string>
     <string name="error_bluetooth_title">O Bluetooth foi desconectado</string>
     <string name="error_bluetooth_content">Verifique a conexão Bluetooth do relógio com o celular.</string>
     <string name="error_wifi_title">Sem conexão com Wifi</string>
-    <string name="error_wifi_content">"Verifique a conexão Wifi do seu celular."</string>
+    <string name="error_wifi_content">Verifique a conexão Wifi do seu celular.</string>
     <string name="error_connect_title">Erro de conexão</string>
-    <string name="error_connect_content">Não foi possível conectar-se ao Wifi. Tente mais tarde.</string>
-    <string name="error_device_title">Impossível encontrar dispositivo</string>
+    <string name="error_connect_content">"Não foi possível conectar-se ao Wifi. Tente mais tarde."</string>
+    <string name="error_device_title">"Impossível encontrar dispositivo"</string>
     <string name="error_device_content">Verifique que o dispositivo está ligado e conectado ao mesmo Wifi.</string>
 </resources>
