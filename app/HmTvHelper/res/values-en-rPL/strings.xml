@@ -5,8 +5,8 @@
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Potwierdź</string>
     <string name="picker_default_nagetive_text">Wył.</string>
-    <string name="no_heartrate_data_hint">Brak danych tętna.</string>
-    <string name="no_altitude_hint">Brak danych wysokości.</string>
+    <string name="no_heartrate_data_hint">"Brak danych tętna."</string>
+    <string name="no_altitude_hint">"Brak danych wysokości."</string>
     <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">Ustawienia</string>
     <string name="sport_music_settings">Sports music</string>
@@ -23,21 +23,21 @@
     <string name="tv_use_title">Użyj wskazówek</string>
     <string name="tv_title_searching">Szukanie ...</string>
     <string name="tv_title_choices">Wybierz urządz, które będzie kontrol.</string>
-    <string name="tv_title_unfound">Nie znaleziono urządz.</string>
+    <string name="tv_title_unfound">"Nie znaleziono urządz."</string>
     <string name="tv_search_action_tx">Szukaj TV</string>
     <string name="tv_voice_title">Głośność</string>
     <string name="tv_foot_search_again">Szukaj ponownie</string>
     <string name="tv_use_content">Włącz telewizor i połącz się z tym samym urządz. Wi-Fi za pomocą telefonu</string>
     <string name="tv_current_device">Aktualne urządz.</string>
-    <string name="tv_launcher_guide">Wskazówka: niektóre Piloty i TV nie obsł.funk.głos.</string>
+    <string name="tv_launcher_guide">"Wskazówka: niektóre Piloty i TV nie obsł.funk.głos."</string>
     <string name="tv_power_title">Zamknąć</string>
     <string name="tv_change_title">Przeł.urządzenie</string>
     <string name="error_bluetooth_title">BT został odłączony</string>
     <string name="error_bluetooth_content">Sprawdź połączenie BT zegarka z telef.</string>
     <string name="error_wifi_title">Połącz.Wi-Fi zostało przerwane</string>
-    <string name="error_wifi_content">"Sprawdź poł.Wi-Fi w telefonie."</string>
+    <string name="error_wifi_content">Sprawdź poł.Wi-Fi w telefonie.</string>
     <string name="error_connect_title">Błąd połączenia</string>
-    <string name="error_connect_content">Nie można połącz.się z Wi-Fi. Spróbuj ponownie później.</string>
-    <string name="error_device_title">Nie można znaleźć urządzenia</string>
+    <string name="error_connect_content">"Nie można połącz.się z Wi-Fi. Spróbuj ponownie później."</string>
+    <string name="error_device_title">"Nie można znaleźć urządzenia"</string>
     <string name="error_device_content">Sprawdź, czy urządz.jest wł.i połącz.z tym samym urządz. Wi-Fi za pomocą telefonu.</string>
 </resources>
