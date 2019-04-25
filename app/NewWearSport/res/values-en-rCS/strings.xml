@@ -459,10 +459,10 @@
     <string name="full_marathon_fastest">全马最快</string>
     <string name="ride_max_altitude_up">最大爬升(%1$s)</string>
     <string name="moutaineer_highest_altitude">最高海拔(%1$s)</string>
-    <string name="moutaineer_max_altitude_up">最大累计上升(%1$s)</string>
-    <string name="moutaineer_max_altitude_down">最大累计下降(%1$s)</string>
-    <string name="moutaineer_max_altitude_climb">最大累计爬坡(%1$s)</string>
-    <string name="sport_widget_title_on_foot">户外徒步</string>
+    <string name="moutaineer_max_altitude_up">Max. kumulativní nárůst (%1$s)</string>
+    <string name="moutaineer_max_altitude_down">Max. kumulativní pokles (%1$s)</string>
+    <string name="moutaineer_max_altitude_climb">Max. kumulativní stoupání (%1$s)</string>
+    <string name="sport_widget_title_on_foot">Treking</string>
     <string name="huanghe_pause_continue_title">Sportovní operace</string>
     <string name="experience_title">Zadejte prosím vaše osobní informace, nebo budou mít data velkou odchylku</string>
     <string name="recovery_time_hour">Hodin</string>
@@ -1020,5 +1020,5 @@
     <string name="cur_lap_hr">Aktuální tep</string>
     <string name="cur_lap_speed">Aktuální rychlost</string>
     <string name="cur_lap_pace">Aktuální tempo</string>
-    <string name="on_foot_progress">Trekking</string>
+    <string name="on_foot_progress">Treking</string>
 </resources>
