@@ -4,7 +4,7 @@
     <string name="average_text">Medio</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Confirmar</string>
-    <string name="picker_default_nagetive_text">Desactivar</string>
+    <string name="picker_default_nagetive_text">Apagar</string>
     <string name="no_heartrate_data_hint">"Sin datos del RC"</string>
     <string name="no_altitude_hint">"Datos de altitud no detectados."</string>
     <string name="title_settings">Configuración</string>
@@ -21,17 +21,17 @@
     <string name="date_format_hour">HH:mm</string>
     <string name="date_format_all">dd/MM/yyyy HH:mm</string>
     <string name="app_name">Calendario</string>
-    <string name="event_title_time">Tiempo de grupo</string>
+    <string name="event_title_time">Hora</string>
     <string name="event_title_des">Descripción</string>
     <string name="event_title_delete">Borrar</string>
-    <string name="confirm_delete">Delete this reminder?</string>
-    <string name="yes">sí</string>
-    <string name="no">no</string>
+    <string name="confirm_delete">Eliminar este recordatorio?</string>
+    <string name="yes">Sí</string>
+    <string name="no">No</string>
     <string name="loading">Cargando</string>
-    <string name="no_data_title">No event</string>
-    <string name="no_data_content_voice">Add an event reminder with your voice. e.g. “Remind me to meet Joe next Tuesday at 8:00pm.</string>
-    <string name="no_data_content_assistant">Events can also be created on the Smart Assist tab of the Amazfit Watch App.</string>
-    <string name="title">Event</string>
+    <string name="no_data_title">No hay eventos</string>
+    <string name="no_data_content_voice">Añade un recordatorio de evento con tu voz. Por ejemplo, “Recuerde que me encuentro con Joe el próximo martes a las 8:00 pm.</string>
+    <string name="no_data_content_assistant">También se pueden crear eventos en la pestaña de Eventos de la aplicación de la app Amazfit.</string>
+    <string name="title">Evento</string>
     <string name="title_button">Mis eventos</string>
     <string name="hmcalendar">Calendario</string>
 </resources>
