@@ -335,7 +335,7 @@
     <string name="sport_te_title">Efecto de entrenamento (TE)</string>
     <string name="sport_te_desc">Esta rutina de exercicio mantén a aptitude cardiorrespiratoria.</string>
     <string name="last_kilo_meters_times">Último km en:</string>
-    <string name="last_mi_times">Última milla en:</string>
+    <string name="last_mi_times">Time of last mi</string>
     <string name="running_total_distance_desc">Distancia total</string>
     <string name="setting_sport_title_exteed_region_tips">Notificar cando esté fora da zona %1$s</string>
     <string name="sport_history_bottom_remind">Para máis rexistros vai a app de Amazfit Watch</string>
@@ -444,7 +444,7 @@
 3. Se volves a calibrar o resultado, borraranse todas as calibracións previas."</string>
     <string name="give_up_re_modify_dis">Descartar</string>
     <string name="confirm_re_modify_dis">OK</string>
-    <string name="re_modify_dis_successful">重新校准成功</string>
+    <string name="re_modify_dis_successful">Calibrated successfully</string>
     <string name="lap_sub_type_title">Break</string>
     <string name="new_pb_record">新个人记录</string>
     <string name="longest_distance">最远距离(%1$s)</string>
@@ -766,7 +766,7 @@ O reloxo avaliará automaticamente a súa condición de rendemento despois de ~ 
     <string name="running_avg_speed_desc_simple">Avg speed</string>
     <string name="running_pace_unit">/km</string>
     <string name="running_calorie_unit">kcal</string>
-    <string name="running_step_freq_unit">steps/min</string>
+    <string name="running_step_freq_unit">SPM</string>
     <string name="running_speed_unit">km/h</string>
     <string name="running_distance_unit">km</string>
     <string name="running_heartrate_unit">BPM</string>
@@ -1004,7 +1004,7 @@ You can copy it to a computer via USB."</string>
     <string name="widget_currentstep_title">Data</string>
     <string name="widget_currentstep_activities">"Today's activity"</string>
     <string name="widget_currentstep_sleep_hour">h</string>
-    <string name="widget_currentstep_sleep_min">m</string>
+    <string name="widget_currentstep_sleep_min">min</string>
     <string name="widget_currentstep_sleep_title">Slept last night</string>
     <string name="widget_currentstep_sleep_no">No sleep data</string>
     <string name="widget_currentstep_activity_no">No activity today?</string>
@@ -1015,7 +1015,7 @@ You can copy it to a computer via USB."</string>
     <string name="lap_time_title">分段用时</string>
     <string name="lap_pace_title">分段配速</string>
     <string name="lap_speed_title">分段速度</string>
-    <string name="lap_sub_type_title">Break</string>
+    <string name="lap_sub_type_title">休息</string>
     <string name="cur_lap_stepfreq">本段步频</string>
     <string name="cur_lap_duration">本段用时</string>
     <string name="cur_lap_distance">本段里程</string>
