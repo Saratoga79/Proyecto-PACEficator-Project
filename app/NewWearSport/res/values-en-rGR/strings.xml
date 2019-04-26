@@ -22,7 +22,7 @@
     <string name="crossing_individual_pen_cost_time">Single Lap Time</string>
     <string name="crossing_individual_pen_pace">Single Lap Pace</string>
     <string name="crossing_climb_unit">Feet</string>
-    <string name="crossing_vertical_velocity_unit">ft/h</string>
+    <string name="crossing_vertical_velocity_unit">πόδια/ώρα</string>
     <string name="crossing_history_detail_total_time">Total Time</string>
     <string name="crossing_history_detail_move_time">Moving Time</string>
     <string name="crossing_history_detail_ave_move_pace">Average Pace</string>
@@ -41,7 +41,7 @@
     <string name="crossing_setting_unit">Mile</string>
     <string name="crossing_settings_item_title_individual_remind">Single Lap Distance</string>
     <string name="crossing_settings_item_value_individual">%1s kms</string>
-    <string name="crossing_remind_target_individual_title">Lap %1d</string>
+    <string name="crossing_remind_target_individual_title">Γύρος %1d</string>
     <string name="crossing_remind_target_individual_cost_time">Elapsed Time</string>
     <string name="crossing_remind_target_individual_pace">Pace</string>
     <string name="agps_time_out">AGPS has expired. GPS searching will be slow. Please connect the Amazfit Watch App to update it。</string>
@@ -97,7 +97,7 @@
     <string name="detail_lap_avg_pace">Average Pace</string>
     <string name="detail_curve_graph">Γράφημα</string>
     <string name="battery_support_sport">in GPS mode</string>
-    <string name="battery_continue_distance_unit"> km</string>
+    <string name="battery_continue_distance_unit"> χλμ</string>
     <string name="battery_continue_imperial_distance_unit"> mi</string>
     <string name="battery_continue_time_unit"> hrs</string>
     <string name="battery_split"> / </string>
@@ -164,7 +164,7 @@
     <string name="sport_settings_te_title">Set Targets</string>
     <string name="sport_settings_current_target_te_title">Current Target</string>
     <string name="sport_select_more_setting_content">More Settings</string>
-    <string name="sport_cur_tar_dis_km">Απόσταση: %1$skm</string>
+    <string name="sport_cur_tar_dis_km">Απόσταση: %1$sχλμ</string>
     <string name="sport_cur_tar_dis_mi">Distance: %1$smi</string>
     <string name="sport_cur_tar_dis_meter">Distance: %1$sm</string>
     <string name="sport_cur_tar_dis_ft">Distance: %1$sft</string>
@@ -179,8 +179,8 @@
     <string name="history_swim_pace_graph_desc">配速(分/百米)</string>
     <string name="history_swim_pace_graph_desc_imperial">配速(分/百英尺)</string>
     <string name="history_swim_pace_graph_desc_yd">配速(分/百码)</string>
-    <string name="history_speed_graph_desc">Ταχύτητα (km/h)</string>
-    <string name="history_speed_graph_desc_imperial">Ταχύτητα (mph)</string>
+    <string name="history_speed_graph_desc">Ταχύτητα (χλμ/ω)</string>
+    <string name="history_speed_graph_desc_imperial">Ταχύτητα (μίλια/ω)</string>
     <string name="history_altitude_graph_desc">Altitude(m)</string>
     <string name="history_altitude_graph_desc_imperial">Altitude(ft)</string>
     <string name="history_step_freq_graph_desc">Cadence (steps/min)</string>
@@ -196,7 +196,7 @@
     <string name="history_no_sport_tips">No activity yet, start a run now!</string>
     <string name="history_start_sport_tips">Start an activity now!</string>
     <string name="sport_main_percent">%</string>
-    <string name="unit_cadence">rpm</string>
+    <string name="unit_cadence">σαλ</string>
     <string name="sport_main_heart_info_title">Heart-rate</string>
     <string name="sport_main_beyond_heart_info_title">Beyond heart rate</string>
     <string name="sport_main_beyond_heart_info_remind">Beyond heart rate</string>
@@ -209,7 +209,7 @@
     <string name="lap_add_failed">Lap is too short, cannot record this lap</string>
     <string name="sport_main_stop_this_sport">Stop current activity?</string>
     <string name="sport_history_delete_dialog_title">Delete this activity? You cannot recover this activity once deleted.</string>
-    <string name="sport_main_give_up_this_sport">Απόρριψη αυτής της δραστηριότητας</string>
+    <string name="sport_main_give_up_this_sport">Απόρριψη αυτής της δραστηριότητας;</string>
     <string name="sport_confirm_stop_sport">Yes</string>
     <string name="sport_confirm_not_stop_sport">No</string>
     <string name="sport_main_am">ΠΜ</string>
@@ -220,11 +220,11 @@
     <string name="sport_main_stride">Stride length</string>
     <string name="sport_main_total_kcal">\"Calories
 \"</string>
-    <string name="sport_main_avg_stride_unit">cm/διασκελισμός</string>
+    <string name="sport_main_avg_stride_unit">εκ/διασκελισμός</string>
     <string name="sport_main_avg_heart_rate">Average HR</string>
     <string name="sport_main_max_heart_rate">Max HR</string>
     <string name="sport_main_min_heart_rate">Min HR</string>
-    <string name="sport_main_graph_title">Αργότερο (min)</string>
+    <string name="sport_main_graph_title">Αργότερο (λεπτά)</string>
     <string name="exchange_time_cost">Transition Time</string>
     <string name="exchange_in_progress">Σε μεταφορά</string>
     <string name="exchange_anim_title">Switch Activity</string>
@@ -251,7 +251,7 @@
     <string name="hill_default_time">00:00:00</string>
     <string name="hill_default_percent">%1$d%%</string>
     <string name="sport_result_in_progress">Saving the activity…</string>
-    <string name="sport_result_invalid">Τη διακοπή της δραστηριότητας…</string>
+    <string name="sport_result_invalid">Διακοπή της δραστηριότητας…</string>
     <string name="sport_gps_found_success_tips">Το GPS δεν είναι διαθέσιμο</string>
     <string name="sport_history_recovery">Recovery after running</string>
     <string name="sport_remind_pace_unit">/km</string>
@@ -349,12 +349,12 @@
     <string name="title_custom_swim_length">自定义泳道长度</string>
     <string name="swim_unit_title">距离单位</string>
     <string name="gps_close_notification_title">Shutting down GPS</string>
-    <string name="per_correspond_km">Κάθε %1$d km</string>
-    <string name="per_correspond_mi">Κάθε %1$d km</string>
-    <string name="more_operation">Περισότερα</string>
+    <string name="per_correspond_km">Κάθε %1$d χλμ</string>
+    <string name="per_correspond_mi">Κάθε %1$d μίλι</string>
+    <string name="more_operation">Περισσότερα</string>
     <string name="detail_route_detail_train_lap_title">Lap</string>
-    <string name="this_time_need_run_mileage">Απόσταση διαστημάτων: %1$s km</string>
-    <string name="this_time_need_run_mileage_mile">Απόσταση διαστημάτων: %1$s km</string>
+    <string name="this_time_need_run_mileage">Απόσταση διαστημάτων: %1$s χλμ</string>
+    <string name="this_time_need_run_mileage_mile">Απόσταση διαστημάτων: %1$s μίλια</string>
     <string name="this_time_need_run_total_time">Χρονικό διάστημα: %1$s</string>
     <string name="data_item_train_total_mileage">Συνολική απόσταση</string>
     <string name="data_item_train_total_times">Elapsed time</string>
@@ -428,7 +428,7 @@
     <string name="oritation_north">N</string>
     <string name="outdoor_riding_speed_alert">Speed Alert</string>
     <string name="speed_too_low_remind_title">Πολύ αργά</string>
-    <string name="running_button_save_modify">Calibrate</string>
+    <string name="running_button_save_modify">Βαθμονομίστε και να αποθηκεύστε</string>
     <string name="save_cur_location">Αποθήκευση τρέχουσας τοποθεσίας</string>
     <string name="previous_page">Previous page</string>
     <string name="back_from_coming">Go back the same way</string>
@@ -459,7 +459,7 @@
     <string name="recovery_time_hour">Ώρα</string>
     <string name="sport_vo2_max">VO2max</string>
     <string name="sport_ability">Training ability</string>
-    <string name="sport_train_load">Training Load</string>
+    <string name="sport_train_load">Φορτίο προπόνησης</string>
     <string name="first_beat_sport_status">Performance status</string>
     <string name="currnet_daily_performance_staus">Current performance status</string>
     <string name="sport_ability_up">Sport ability up</string>
@@ -546,9 +546,9 @@
     <string name="run_train_recommend">Προτείνεται</string>
     <string name="run_train_intermittent">Interval training</string>
     <string name="run_train_intermittent_select_train">Select</string>
-    <string name="music_title">Music</string>
+    <string name="music_title">Μουσική</string>
     <string name="music_local_title">Sports music</string>
-    <string name="music_no_resource">No songs to play</string>
+    <string name="music_no_resource">Δεν υπάρχουν τραγούδια για αναπαραγωγή</string>
     <string name="music_no_local_resource">No songs to play, please connect USB to import。</string>
     <string name="music_open_fm">Turn on the music function to listen to music during workout。</string>
     <string name="music_explain_title">Description</string>
@@ -640,7 +640,7 @@
     <string name="next_group">Επόμενη ομάδα</string>
     <string name="rope_skip_times">&gt;%1$s ώρα</string>
     <string name="rope_skip_frequency">Συχνότητα</string>
-    <string name="rope_skip_currnet_frequency">Current frequency</string>
+    <string name="rope_skip_currnet_frequency">Τρέχουσα συχνότητα</string>
     <string name="rope_skip_max_frequency">Μέγιστη συχνότητα</string>
     <string name="rope_skip_total_count">Συνολικές μετρήσεις</string>
     <string name="rope_skip_average_frequency">Μέση συχνότητα</string>
