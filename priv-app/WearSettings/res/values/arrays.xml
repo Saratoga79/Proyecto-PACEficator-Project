@@ -21,6 +21,11 @@
         <item>[sum]Open or close applist</item>
         <item>[sid]applist</item>
     </string-array>
+    <string-array name="lab_item_open_nfc">
+        <item>[prim]NFC switch</item>
+        <item>[sum]Turn NFC on or off</item>
+        <item>[sid]nfc</item>
+    </string-array>
     <string-array name="lab_item_bt_hci_snoop_log">
         <item>[prim]BT HCI snoop log</item>
         <item>[sum]Capture Bluetooth HCI log</item>
