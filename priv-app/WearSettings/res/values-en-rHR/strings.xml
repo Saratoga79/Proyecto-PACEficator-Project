@@ -115,21 +115,21 @@
     <string name="nokia_tune">Klasično zvono %1$d</string>
     <string name="electronic_ring_sound">Elektr. zvono %1$d</string>
     <string name="phonetic_sound">Danyin %1$d</string>
-    <string name="wrist_up_hand">Lift wrist and screen is on</string>
-    <string name="auto_nodisturb">Do Not Disturb Automatically</string>
-    <string name="nodisturb">Do Not Disturb mode</string>
-    <string name="long_key_action">Long Press the Button to Open</string>
-    <string name="recombind">Rebinding</string>
+    <string name="wrist_up_hand">Podignite zapešće da biste uključili zaslon</string>
+    <string name="auto_nodisturb">Ne ometaj autom.</string>
+    <string name="nodisturb">Ne smetaj način</string>
+    <string name="long_key_action">Dugo pritisnite za otvaranje</string>
+    <string name="recombind">Ponovno povezivanje</string>
     <string name="vibration">Vibracija</string>
-    <string name="ring_vibration">Call reminder vibration</string>
-    <string name="natification_vibration">New notification vibration</string>
-    <string name="alarm_vibration">Time reminder vibration</string>
-    <string name="timing_reminder_ring">Alarm sound</string>
+    <string name="ring_vibration">Vibracija podsjetnika poziva</string>
+    <string name="natification_vibration">Vibracija nove obavijesti</string>
+    <string name="alarm_vibration">Vibracija podsjetnika timera</string>
+    <string name="timing_reminder_ring">Zvukovi alarma</string>
     <string name="title_activity_long_sitting_time">LongSittingTimeActivity</string>
     <string name="product_model_qogir_oversea">Amazfit Verge</string>
     <string name="device_name_qogir_oversea">Amazfit Verge</string>
-    <string name="yongchiyou">Swim in the pool</string>
-    <string name="gongkaiyou">Swim in the Open Water</string>
+    <string name="yongchiyou">Plivanje u bazenu</string>
+    <string name="gongkaiyou">Plivanje u otvorenoj vodi</string>
     <string name="product_model_huanghe">Amazfit Sports Watch</string>
     <string name="product_model_huanghe_oversea">Amazfit Pace</string>
     <string name="product_model_everest">Amazfit Sports Watch 2</string>
@@ -149,18 +149,18 @@
     <string name="zh_tw">Chinese (Traditional)</string>
     <string name="ru_ru">Русский</string>
     <string name="es_es">Español</string>
-    <string name="de_de">Deutsch</string>
-    <string name="it_it">Italiano</string>
-    <string name="fr_fr">Français</string>
-    <string name="pl_pl">Polski</string>
-    <string name="ko_kr">한국의</string>
-    <string name="ja_jp">日本語</string>
+    <string name="de_de">Njemački</string>
+    <string name="it_it">Talijanski</string>
+    <string name="fr_fr">Francuski</string>
+    <string name="pl_pl">Poljski</string>
+    <string name="ko_kr">Korejski</string>
+    <string name="ja_jp">Japanski</string>
     <string name="paobu">Trčanje</string>
     <string name="jianzou">Hodanje</string>
     <string name="yueye">Staza za trčanje</string>
     <string name="shineipao">Trčanje u zatvorenom</string>
     <string name="huwaiqi">Biciklizam</string>
-    <string name="tuoyuanji">Elliptical</string>
+    <string name="tuoyuanji">Orbitrek</string>
     <string name="dengshan">Penjanje</string>
     <string name="tierensan">Triatlon</string>
     <string name="multisport">Multisport</string>
@@ -221,11 +221,11 @@ Zrakoplovni način isključit će Bluetooth i Wi-Fi na satu radi uštede energij
     <string name="nodisturb_close_string">Isključi</string>
     <string name="nodisturb_timepicker_connect_symbol">:</string>
     <string name="auto_nodisturb_title_string">Auto ne ometaj</string>
-    <string name="auto_nodisturb_start_time_string">Turn-on time</string>
-    <string name="auto_screen_wristup_start_time_string">Start time</string>
-    <string name="auto_nodisturb_end_time_string">Turn-off time</string>
-    <string name="auto_screen_wristup_end_time_string">End time</string>
-    <string name="time_to">To</string>
+    <string name="auto_nodisturb_start_time_string">Vrijeme uključenja</string>
+    <string name="auto_screen_wristup_start_time_string">Vrijeme početka</string>
+    <string name="auto_nodisturb_end_time_string">Vrijeme isključenja</string>
+    <string name="auto_screen_wristup_end_time_string">Vrijeme završetka</string>
+    <string name="time_to">Do</string>
     <string name="auto_wifi_trans_on_string">Uključi</string>
     <string name="auto_wifi_trans_off_string">Isključi</string>
     <string name="blue_tooth_dev_in_sub_list">Bluetooth</string>
@@ -258,7 +258,7 @@ Povezati?"</string>
     <string name="blt_paring_fail_hint">"Provjerite je li uređaj uključen
 i nalazi se u blizini"</string>
     <string name="blt_hint_disconnect_device">Prekini vezu</string>
-    <string name="blt_hint_ignore_device">Ingore the device</string>
+    <string name="blt_hint_ignore_device">Zanemari uređaj</string>
     <string name="blt_hint_connect_device">Poveži</string>
     <string name="blt_confirm_ignore">Jeste li sigurni da želite zanemariti ovaj uređaj?</string>
     <string name="bluetooth_connected">Povezano</string>
@@ -292,7 +292,7 @@ i nalazi se u blizini"</string>
     <string name="rise_with_bl_under_slpt">Uključeno</string>
     <string name="rise_without_bl_under_slpt">Isključeno</string>
     <string name="locale_applying">Postavljanje jezika</string>
-    <string name="confirm_change_locale">"Change language to 
+    <string name="confirm_change_locale">"Promijeniti jezik na 
 %1$s?"</string>
     <string name="gender">Spol</string>
     <string name="birth_year">Datum rođenja</string>
@@ -301,20 +301,20 @@ i nalazi se u blizini"</string>
     <string name="male">Muškarac</string>
     <string name="female">Žena</string>
     <string name="centimeter">cm</string>
-    <string name="birth_year_unit">"Birth 
-Year"</string>
-    <string name="height_unit">"Height 
+    <string name="birth_year_unit">"Godina 
+rođenja"</string>
+    <string name="height_unit">"Visina 
 cm"</string>
-    <string name="weight_unit">"Weight 
+    <string name="weight_unit">"Težina 
 kg"</string>
-    <string name="reset_factory_hint">Restore factory settings?</string>
-    <string name="reset_factory_yes">Factory Reset</string>
-    <string name="reset_factory_no">Cancel</string>
-    <string name="reset_factory_title">Factory Reset</string>
-    <string name="reset_factory_noconnect_msg">"If Needing to Unbind the Watch, Please Operate Through Amazfit Watch App. 
- Watch’s Unilateral Factory Reset Will Remove UnionPay Card and Transportation Card. 
- A Removed UnionPay Card: It Can No Longer Be Bound to The Watch. If You Need to Bind Again, Please Consult the Bank Customer Service. 
- A Removed Transportation Card: Will Be Destroyed Permanently and Cannot Be Paid Again."</string>
+    <string name="reset_factory_hint">Vratiti na tvorničke postavke?</string>
+    <string name="reset_factory_yes">Vraćanje na tvorničke postavke</string>
+    <string name="reset_factory_no">Odustani</string>
+    <string name="reset_factory_title">Vraćanje na tvorničke postavke</string>
+    <string name="reset_factory_noconnect_msg">"Ako je potrebno raspariti sat, napravite to kroz Amazfit Watch aplikaciju. 
+  Vraćanje sata na tvorničke postavke će ukloniti karticu UnionPay i prijevoznu karticu.
+  Uklonjena kartica UnionPay: više ne može biti povezana na sat. Ako se ponovno trebate povezati, obratite se službi za korisnike vaše banke.
+  Uklonjena prijevozna kartica: trajno će biti uništena i ne može se ponovno platiti. "</string>
     <string name="reset_factory_conncet_msg">Watch and Amazfit watch App will Remove the Bound UnionPay Card. The Watch will Retain the Payment Function of the Transportation Card.</string>
     <string name="reset_factory_positive">Factory Reset</string>
     <string name="reset_factory_negative">Cancel</string>
