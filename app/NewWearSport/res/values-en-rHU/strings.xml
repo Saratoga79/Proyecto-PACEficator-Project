@@ -593,14 +593,11 @@
     <string name="real_time_target_finish">Elérted a célod</string>
     <string name="real_time_guide_title_1">Jó tempó !</string>
     <string name="real_time_guide_title_2">Tartsd a tempót!</string>
-    <string name="real_time_guide_title_3">"Növeld a tempót 
- a hatékony edzéshez!"</string>
+    <string name="real_time_guide_title_3">"Increase the pace for effective exercise!"</string>
     <string name="real_time_guide_title_6">Jó tempó !</string>
-    <string name="real_time_guide_title_7">"Növeld a tempót 
- a még hatékonyabb edzéshez!"</string>
+    <string name="real_time_guide_title_7">"Increase the pace for more effective exercise!"</string>
     <string name="real_time_guide_title_10">Jó tempó !</string>
-    <string name="real_time_guide_title_11">"Növeld a tempót
- a még hatékonyabb edzéshez!"</string>
+    <string name="real_time_guide_title_11">"Increase the pace for more effective exercise!"</string>
     <string name="real_time_guide_title_14">Bravó!</string>
     <string name="real_time_guide_title_22">Jó tempó !</string>
     <string name="real_time_guide_title_25">Növeld a tempót.</string>
@@ -613,17 +610,17 @@
     <string name="real_time_guide_title_33">Csak nyugodtan!</string>
     <string name="real_time_guide_title_34">Lassíts!</string>
     <string name="real_time_guide_title_35">Csak nyugodtan!</string>
-    <string name="real_time_guide_desc_1"></string>
+    <string name="real_time_guide_desc_1">Come on! Very good!</string>
     <string name="real_time_guide_desc_2">%1$s további perc fitten tart</string>
-    <string name="real_time_guide_desc_3"></string>
+    <string name="real_time_guide_desc_3">Accelerate! Strive for better results!</string>
     <string name="real_time_guide_desc_6">%1$s további perc javítja az állóképességet.</string>
-    <string name="real_time_guide_desc_7"></string>
+    <string name="real_time_guide_desc_7">Accelerate! Strive for better results!</string>
     <string name="real_time_guide_desc_10">%1$s további perc nagyon jó hatással van az állóképességre.</string>
-    <string name="real_time_guide_desc_11"></string>
+    <string name="real_time_guide_desc_11">Accelerate! to achieve better exercise results</string>
     <string name="real_time_guide_desc_14">Már elvégeztél egy nagyon jó edzést!</string>
     <string name="real_time_guide_desc_22">%1$s perc a cél eléréséig!</string>
     <string name="real_time_guide_desc_25">Cél pulzus tartomány %1$s-%2$sbpm。</string>
-    <string name="real_time_guide_desc_26"></string>
+    <string name="real_time_guide_desc_26">Come on! Run faster</string>
     <string name="real_time_guide_desc_27">Elérted a célod!</string>
     <string name="real_time_guide_desc_28">Elérted %1$s célod!</string>
     <string name="real_time_guide_desc_30">Ez a fajta edzés fitten tart.</string>
@@ -631,7 +628,7 @@
     <string name="real_time_guide_desc_32">Cardiopulmonális képesség javítása!</string>
     <string name="real_time_guide_desc_33">Ez a gyakorlat talán túl nehéz a tested számára.</string>
     <string name="real_time_guide_desc_34">Cél pulzus tartomány %1$s-%2$s bpm!</string>
-    <string name="real_time_guide_desc_35"></string>
+    <string name="real_time_guide_desc_35">It\'s time to relax!</string>
     <string name="aleary_finish_group">Group No. %1$s Has Been Completed</string>
     <string name="this_group_count">Group Counting</string>
     <string name="group_cost_time">Group Time</string>
@@ -999,4 +996,6 @@ mappába került.
     <string name="widget_currentstep_sleep_title">Alvás</string>
     <string name="widget_currentstep_sleep_no">Nincs alvás adat</string>
     <string name="widget_currentstep_activity_no">Ma nem edzünk?</string>
+    <string name="sport_widget_title_on_foot">Trekking</string>
+    <string name="on_foot_progress">Trekking...</string>
 </resources>
