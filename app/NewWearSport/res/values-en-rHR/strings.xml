@@ -259,13 +259,13 @@
     <string name="sport_lap_swim_length_time">vrijeme/%1$s m</string>
     <string name="sport_lap_swim_length_time_imperial">vrijeme//%1$s yard</string>
     <string name="sport_swim_style">Stil plivanja</string>
-    <string name="sport_swim_style_main">主泳姿</string>
-    <string name="swim_free_style">自由泳</string>
-    <string name="swim_medlyrelay">混合</string>
-    <string name="swim_breaststroke">蛙泳</string>
-    <string name="swim_backstroke">仰泳</string>
-    <string name="swim_butterfly">蝶泳</string>
-    <string name="swim_stroke_unit">次/分</string>
+    <string name="sport_swim_style_main">Prsni</string>
+    <string name="swim_free_style">Slobodni</string>
+    <string name="swim_medlyrelay">Kombinirano</string>
+    <string name="swim_breaststroke">Prsni</string>
+    <string name="swim_backstroke">Leđni</string>
+    <string name="swim_butterfly">Leptir</string>
+    <string name="swim_stroke_unit">Vrijeme/minuta</string>
     <string name="settings_item_title_km_remind_triathlon">Auto-pause</string>
     <string name="setting_sport_heart_region_remind_triathlon">Upozorenje broja otkucaja</string>
     <string name="device_conn_title">MW</string>
@@ -273,7 +273,7 @@
     <string name="earphone_conn_title">Slušalice</string>
     <string name="device_in">Uređaj je povezan</string>
     <string name="device_out">Uređaj nije povezan</string>
-    <string name="history_swim_exchange_title">骑行换项用时</string>
+    <string name="history_swim_exchange_title">Prijelaz na biciklizam</string>
     <string name="history_riding_exchange_title">Prijelaz u trčanje</string>
     <string name="sport_pause_time_tips">Vrijeme pauze</string>
     <string name="sport_stride_unit">cm</string>
@@ -284,11 +284,11 @@
 "</string>
     <string name="exchange_prepare_riding">Sljedeće: Biciklizam</string>
     <string name="exchange_prepare_running">Next: Running</string>
-    <string name="count_down_swim_tint">为防止误触,即将锁屏</string>
+    <string name="count_down_swim_tint">Dodirni zaslon će biti zaključan</string>
     <string name="sport_widget_title_history_record">Aktivnosti</string>
     <string name="sport_widget_title_elliptical">Orbitrek</string>
-    <string name="sport_widget_title_indoor_swim">泳池游泳</string>
-    <string name="sport_widget_title_open_water_swim">公开水域游泳</string>
+    <string name="sport_widget_title_indoor_swim">Plivanje u bazenu</string>
+    <string name="sport_widget_title_open_water_swim">Plivanje u moru</string>
     <string name="sport_widget_title_triathlon">Triathlon</string>
     <string name="sport_widget_title_mountaineer">Penjanje</string>
     <string name="sport_widget_title_mountaineering">U penjanju</string>
@@ -297,10 +297,10 @@
     <string name="sport_widget_title_tennising">Igranje tenisa</string>
     <string name="sport_widget_title_soccer">Nogomet</string>
     <string name="sport_widget_title_soccering">Igranje nogometa</string>
-    <string name="sport_widget_title_indoor_swim_in_progress">泳池游泳中</string>
-    <string name="sport_widget_title_open_water_swim_in_progress">公开水域游泳中</string>
+    <string name="sport_widget_title_indoor_swim_in_progress">Plivanje u bazenu</string>
+    <string name="sport_widget_title_open_water_swim_in_progress">Plivanje u moru</string>
     <string name="sport_widget_title_triathlon_in_progress">U Triathlonu</string>
-    <string name="sport_child_swim">游泳</string>
+    <string name="sport_child_swim">Plivanje</string>
     <string name="sport_child_running">Trčanje</string>
     <string name="sport_month_settings">Postavke</string>
     <string name="sport_month_target">Cilj</string>
@@ -310,7 +310,7 @@
     <string name="pause_sport">Pauziraj aktivnost</string>
     <string name="continue_sport">Nastavi aktivnost</string>
     <string name="stop_sport">Zaustavi aktivnost</string>
-    <string name="swim_avg_stroke_speed">平均划水率</string>
+    <string name="swim_avg_stroke_speed">AVG.SPM</string>
     <string name="settting_sport_gpx_route">Kretanje stazom</string>
     <string name="swim_max_stroke_speed">Max SPM</string>
     <string name="swim_trips">Putovanje</string>
