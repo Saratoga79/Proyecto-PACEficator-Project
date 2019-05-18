@@ -18,9 +18,12 @@
     <string name="state_ready">Kaydetmek düğmeye dokunun.</string>
     <string name="state_recording">Kaydediliyor…</string>
     <string name="state_record_finish">Kayıt tamamlansın mı?</string>
-    <string name="connect_time_out">Bağlantı zaman aşımına uğradı. Tekrar sorabilir misin</string>
-    <string name="update_phone_app">Sesli yardımcısını kullanabilmek için Amazfit Watch uygulamasını güncelle.</string>
-    <string name="default_error">Sinyal zayıf gibi görünüyor. Tekrar söyler misin?</string>
+    <string name="connect_time_out">"Bağlantı zaman aşımına uğradı. Tekrar sorabilir misin
+"</string>
+    <string name="update_phone_app">"Sesli yardımcısını kullanabilmek için Amazfit Watch uygulamasını güncelle.
+"</string>
+    <string name="default_error">"Sinyal zayıf gibi görünüyor. Tekrar söyler misin?
+"</string>
     <string name="network_error">Seni yalnızca telefonunuz şebekeye bağlıyken anlayabiliyorum.</string>
     <string name="state_sending">Gönderiliyor...</string>
     <string name="state_sending_to_xiaoice">Gönderiliyor...</string>
@@ -46,7 +49,8 @@
     <string name="alarm_timer_alreadyhas">"Şu anda çalışan bir zamanlayıcı var. Yenisini başlatmak için kapatın."</string>
     <string name="alarm_timer_alreadydelete">Zamanlayıcıyı kapattım.</string>
     <string name="alarm_timer_nonefordelete">Şu anda çalışan zamanlayıcı yok.</string>
-    <string name="alarm_timer_error">Bir sunucu hatası oluştu. Bunu tekrar edebilir misiniz?</string>
+    <string name="alarm_timer_error">"Bir sunucu hatası oluştu. Bunu tekrar edebilir misiniz?
+"</string>
     <string name="alarm_alarm_outofbound">"Alarmları yarından sonra için ayarlayamam."</string>
     <string name="alarm_timer_watchtimer_guide">Devam etmek için telefonunuzdaki Zamanlayıcı\'yı açın.</string>
     <string name="miot_guide_success_completed">Tamam,sorun yok</string>
@@ -141,8 +145,8 @@
     <string name="mijia_device_bind_guide">Lütfen önce bu saati MiHome APP üzerinde hareket eden, phone。 bağlama</string>
     <string name="alexa_listening">Dinleniyor</string>
     <string name="alexa_thinking">Düşünme</string>
-    <string name="alexa_login_amazon">"Lütfen Amazfit izle App en son sürüme güncelleyin.
-ve tamamlamak hesap yetkilendirme [Profile] -[şirketlerin hesapları]. "</string>
+    <string name="alexa_login_amazon">"\"Lütfen Amazfit izle App en son sürüme güncelleyin.
+ve tamamlamak hesap yetkilendirme [Profile] -[şirketlerin hesapları]. \""</string>
     <string name="alexa_token_refresh_failed">Üzgünüz, tekrar deneyebilir misin?</string>
     <string name="alexa_voice_default">"Açıkça duymadım. Lütfen tekrarla."</string>
     <string name="alexa_weather">Hava</string>
