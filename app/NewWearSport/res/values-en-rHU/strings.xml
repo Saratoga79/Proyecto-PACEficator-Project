@@ -209,8 +209,8 @@
     <string name="lap_add_failed">a kör túl rövid, nem rögzíthető</string>
     <string name="sport_main_stop_this_sport">Leáll. a jelenl. tevékenységet?</string>
     <string name="sport_history_delete_dialog_title">Törlöd a tevékenységet? A művelet nem vonható vissza.</string>
-    <string name="sport_main_give_up_this_sport">"Elveted ezt a tevékenységet?
-"</string>
+    <string name="sport_main_give_up_this_sport">"\"Elveted ezt a tevékenységet?
+\""</string>
     <string name="sport_confirm_stop_sport">Igen</string>
     <string name="sport_confirm_not_stop_sport">Nem</string>
     <string name="sport_main_am">AM</string>
@@ -280,8 +280,8 @@
     <string name="sport_stride_unit_imperial">in</string>
     <string name="end_last_sport_tips">Előbb %1$s tevékenys. leállítása</string>
     <string name="export_route_trail">Export</string>
-    <string name="sport_dlg_msg_hint_cancel">"Mgszakítod az exportot?
-"</string>
+    <string name="sport_dlg_msg_hint_cancel">"\"Mgszakítod az exportot?
+\""</string>
     <string name="exchange_prepare_riding">Köv.: Kerékpározás</string>
     <string name="exchange_prepare_running">Köv.: Futás</string>
     <string name="count_down_swim_tint">为防止误触,即将锁屏</string>
@@ -402,8 +402,8 @@
     <string name="sport_widget_title_compounding">Több sportban</string>
     <string name="sport_select_compound">Választ</string>
     <string name="swimming_stop_dialog_msg_not_reach_minimum_distance">Egy útnál kevesebb nem menthető, folytatod?</string>
-    <string name="tennic_wear_hand_guide">"Make sure to wear the watch 
- on the wrist of the hand holding the racket"</string>
+    <string name="tennic_wear_hand_guide">"\"Make sure to wear the watch 
+ on the wrist of the hand holding the racket\""</string>
     <string name="select_compound_sport">Válaszd ki a %1$s gyakorlat számát</string>
     <string name="select_compound_sport_first">Első</string>
     <string name="select_compound_sport_second">Második</string>
@@ -446,9 +446,9 @@
     <string name="modify_big_dis_regain">Modify</string>
     <string name="modify_big_dis_confirm">Confirm calibration</string>
     <string name="re_modify_dis">Recalibration</string>
-    <string name="re_modify_dis_tips">"1. Calibration with a mileage greater than 0.5 km allows the watch to learn your running habits and make the running mileage more accurate. 
+    <string name="re_modify_dis_tips">"\"1. Calibration with a mileage greater than 0.5 km allows the watch to learn your running habits and make the running mileage more accurate. 
 2. If you have performed multiple calibrations but are still not satisfied with the mileage results, you can recalibrate. 
-3. Recalibration will delete all previous calibration records."</string>
+3. Recalibration will delete all previous calibration records.\""</string>
     <string name="give_up_re_modify_dis">Give up</string>
     <string name="confirm_re_modify_dis">Comfirm</string>
     <string name="re_modify_dis_successful">Recalibration succeeded</string>
@@ -467,12 +467,12 @@
     <string name="time_unit_hour">Óra</string>
     <string name="train_load_medium">Medium</string>
     <string name="train_load_near_seven_days">Near seven days</string>
-    <string name="train_load_suggess_status_no_record">"Please use the watch for a week first.
- We will evaluate your training load for 7 days"</string>
+    <string name="train_load_suggess_status_no_record">"\"Please use the watch for a week first.
+ We will evaluate your training load for 7 days\""</string>
     <string name="train_load_suggess_status_less">Insufficient training intensity</string>
     <string name="train_load_suggess_status_good">Good training status</string>
-    <string name="train_load_suggess_status_recovery">"Training intensity is too high, 
- Please avoid excessive training."</string>
+    <string name="train_load_suggess_status_recovery">"\"Training intensity is too high, 
+ Please avoid excessive training.\""</string>
     <string name="train_load_suggess_status_over">Attention! Excessive training!</string>
     <string name="real_time_perpormance_level_very_good">Jó</string>
     <string name="real_time_perpormance_level_good">Jó</string>
@@ -593,11 +593,11 @@
     <string name="real_time_target_finish">Elérted a célod</string>
     <string name="real_time_guide_title_1">Jó tempó !</string>
     <string name="real_time_guide_title_2">Tartsd a tempót!</string>
-    <string name="real_time_guide_title_3">"Increase the pace for effective exercise!"</string>
+    <string name="real_time_guide_title_3">"Increase the pace for effective results!"</string>
     <string name="real_time_guide_title_6">Jó tempó !</string>
-    <string name="real_time_guide_title_7">"Increase the pace for more effective exercise!"</string>
+    <string name="real_time_guide_title_7">"Increase the pace for more effective results!"</string>
     <string name="real_time_guide_title_10">Jó tempó !</string>
-    <string name="real_time_guide_title_11">"Increase the pace for more effective exercise!"</string>
+    <string name="real_time_guide_title_11">"Increase the pace for more effective results!"</string>
     <string name="real_time_guide_title_14">Bravó!</string>
     <string name="real_time_guide_title_22">Jó tempó !</string>
     <string name="real_time_guide_title_25">Növeld a tempót.</string>
@@ -617,10 +617,10 @@
     <string name="real_time_guide_desc_7">Accelerate! Strive for better results!</string>
     <string name="real_time_guide_desc_10">%1$s további perc nagyon jó hatással van az állóképességre.</string>
     <string name="real_time_guide_desc_11">Accelerate! to achieve better exercise results</string>
+    <string name="real_time_guide_desc_26">Come on! Run faster</string>
     <string name="real_time_guide_desc_14">Már elvégeztél egy nagyon jó edzést!</string>
     <string name="real_time_guide_desc_22">%1$s perc a cél eléréséig!</string>
     <string name="real_time_guide_desc_25">Cél pulzus tartomány %1$s-%2$sbpm。</string>
-    <string name="real_time_guide_desc_26">Come on! Run faster</string>
     <string name="real_time_guide_desc_27">Elérted a célod!</string>
     <string name="real_time_guide_desc_28">Elérted %1$s célod!</string>
     <string name="real_time_guide_desc_30">Ez a fajta edzés fitten tart.</string>
@@ -977,9 +977,9 @@
     <string name="hint_cancelling">Megszakítás...</string>
     <string name="hint_success_exported_title">A GPX fájl export sikerült.</string>
     <string name="hint_failed_exported_title">Sikertelen az exportálás</string>
-    <string name="hint_where">"A gpx fájl az \'/sdcard/gpxdata\'
+    <string name="hint_where">"\"A gpx fájl az '/sdcard/gpxdata'
 mappába került.
- USB-n keresztül másolhatod számítógépre."</string>
+ USB-n keresztül másolhatod számítógépre.\""</string>
     <string name="hint_failed">Nem sikerült az export, próbáld újra.</string>
     <string name="app_name">gpx-recorder</string>
     <string name="average_text">Átl.</string>

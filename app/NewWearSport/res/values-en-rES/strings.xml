@@ -400,8 +400,8 @@
     <string name="sport_widget_title_compounding">Multisport</string>
     <string name="sport_select_compound">Selecciona</string>
     <string name="swimming_stop_dialog_msg_not_reach_minimum_distance">Pocos largos realizados, no se guardará ¿continuar?</string>
-    <string name="tennic_wear_hand_guide">"Asegúrate de usar el reloj 
- en la muñeca de la mano que sostiene la raqueta"</string>
+    <string name="tennic_wear_hand_guide">"\"Asegúrate de usar el reloj 
+ en la muñeca de la mano que sostiene la raqueta\""</string>
     <string name="select_compound_sport">Elige actividad %1$s</string>
     <string name="select_compound_sport_first">1</string>
     <string name="select_compound_sport_second">2</string>
@@ -444,9 +444,9 @@
     <string name="modify_big_dis_regain">Modificar</string>
     <string name="modify_big_dis_confirm">Confirmar calibración</string>
     <string name="re_modify_dis">Recalibración</string>
-    <string name="re_modify_dis_tips">1. Calibrar una distancia superior a 0.5 km hará que el reloj aprenda tus hábitos y mejore la distancia calculada
+    <string name="re_modify_dis_tips">"1. Calibrar una distancia superior a 0.5 km hará que el reloj aprenda tus hábitos y mejore la distancia calculada
 2. Puedes recalibrar la distancia tantas veces quieras
-3. Cada recalibración borrará los datos anteriores</string>
+3. Cada recalibración borrará los datos anteriores"</string>
     <string name="give_up_re_modify_dis">Abandonar</string>
     <string name="confirm_re_modify_dis">Confirmar</string>
     <string name="re_modify_dis_successful">Recalibración exitosa</string>
@@ -465,12 +465,12 @@
     <string name="time_unit_hour">Hora</string>
     <string name="train_load_medium">Medio</string>
     <string name="train_load_near_seven_days">Últimos siete días</string>
-    <string name="train_load_suggess_status_no_record">"Por favor use el reloj durante una semana primero.
-Evaluaremos tu carga de entrenamiento durante 7 días "</string>
+    <string name="train_load_suggess_status_no_record">"\"Por favor use el reloj durante una semana primero.
+Evaluaremos tu carga de entrenamiento durante 7 días \""</string>
     <string name="train_load_suggess_status_less">Intensidad de entrenamiento insuficiente.</string>
     <string name="train_load_suggess_status_good">Buen estado de entrenamiento</string>
-    <string name="train_load_suggess_status_recovery">\"La intensidad de entrenamiento es demasiado alta,
-  Por favor, evita el entrenamiento excesivo \".</string>
+    <string name="train_load_suggess_status_recovery">"\"La intensidad de entrenamiento es demasiado alta,
+  Por favor, evita el entrenamiento excesivo \"."</string>
     <string name="train_load_suggess_status_over">¡Atención! Entrenamiento excesivo!</string>
     <string name="real_time_perpormance_level_very_good">Buena</string>
     <string name="real_time_perpormance_level_good">Buena</string>
@@ -504,14 +504,14 @@ Evaluaremos tu carga de entrenamiento durante 7 días "</string>
     <string name="first_beat_help_title_sport_target_or_real_time_guide">Objetivo&amp; de carrera recomendado guía en tiempo real</string>
     <string name="first_beat_help_title_daily_perpormence">Condición de rendimiento</string>
     <string name="first_beat_help_title_recovery_time">Tiempo de recuperación</string>
-    <string name="first_beat_help_vo2_max">\"\"\"&lt;font color=#00FF00&gt;¿Qué es esto？&lt;/font&gt;&lt;br/&gt; VO2Max representa el volumen máximo de oxígeno que el cuerpo puede consumir en un minuto, medido en ml / kg / min. Evalúa el estado de la capacidad cardiorrespiratoria de los usuarios que es importante para la salud general, el bienestar y el rendimiento deportivo. &lt;br/&gt;El reloj evaluará automáticamente su VO2Max en función de la frecuencia cardíaca, la velocidad, etc. durante un entrenamiento de carrera de intensidad moderada y lo comparará con un grupo de referencia de la misma edad y sexo para determinar su nivel de condición física.. &lt;br/&gt;&lt;font color=#00FF00&gt;¿Cómo evaluarlo？&lt;/font&gt;&lt;br/&gt; 1. Proporcione información de perfil precisa como la edad y el género en la aplicación Amazfit Watch durante la instalación； &lt;br/&gt; 2. Realice una actividad vigorosa de 15 minutos o más al aire libre con el reloj encendido y asegúrese de que la frecuencia cardíaca sea igual o superior al 75% de su maxHR durante al menos 10 minutos. &lt;br/&gt; 
-3. Después de completar la ejecución, puede verificar el VO2Max actual en la aplicación de actividades deportivas en la página de reloj o estado personal en la aplicación Amazift Watch. &lt;br/&gt;&lt;small&gt;Para obtener más información, consulte Ayuda en la aplicación Amazfit Watch.&lt;/small&gt;\"\"\"</string>
-    <string name="first_beat_help_te">&lt;font color=#00FF00&gt;¿Qué es esto？&lt;/font&gt;&lt;br/&gt; El Efecto de Entrenamiento (TE) mide la carga acumulada durante un entrenamiento e interpreta su impacto en su capacidad aeróbica. TE comienza en el nivel 0.0. A medida que la sesión de ejercicios progresa con éxito, el valor de TE aumenta (de 0 a 5) y le indica cómo el entrenamiento afecta su estado físico. &lt;br/&gt;&lt;font color=#00FF00&gt;¿Cómo se calcula? &lt;/font&gt;&lt;br/&gt; 
-TE se calcula en función de su perfil de usuario, los datos de latido del corazón y la dificultad del entrenamiento.&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; El reloj mostrará la medición de TE en tiempo real durante un entrenamiento, así como el resultado final de TE al final del entrenamiento.A&amp;lt;2.0 TE simplemente indica que el entrenamiento tiene poco efecto en la aptitud cardiorrespiratoria y es útil solo para construir una base de resistencia y recuperación.&lt;br/&gt;&lt;small&gt;Para obtener más información, consulte Ayuda en la aplicación Amazfit Watch.&lt;/small&gt;</string>
+    <string name="first_beat_help_vo2_max">"\"\"\"&lt;font color=#00FF00&gt;¿Qué es esto？&lt;/font&gt;&lt;br/&gt; VO2Max representa el volumen máximo de oxígeno que el cuerpo puede consumir en un minuto, medido en ml / kg / min. Evalúa el estado de la capacidad cardiorrespiratoria de los usuarios que es importante para la salud general, el bienestar y el rendimiento deportivo. &lt;br/&gt;El reloj evaluará automáticamente su VO2Max en función de la frecuencia cardíaca, la velocidad, etc. durante un entrenamiento de carrera de intensidad moderada y lo comparará con un grupo de referencia de la misma edad y sexo para determinar su nivel de condición física.. &lt;br/&gt;&lt;font color=#00FF00&gt;¿Cómo evaluarlo？&lt;/font&gt;&lt;br/&gt; 1. Proporcione información de perfil precisa como la edad y el género en la aplicación Amazfit Watch durante la instalación； &lt;br/&gt; 2. Realice una actividad vigorosa de 15 minutos o más al aire libre con el reloj encendido y asegúrese de que la frecuencia cardíaca sea igual o superior al 75% de su maxHR durante al menos 10 minutos. &lt;br/&gt; 
+3. Después de completar la ejecución, puede verificar el VO2Max actual en la aplicación de actividades deportivas en la página de reloj o estado personal en la aplicación Amazift Watch. &lt;br/&gt;&lt;small&gt;Para obtener más información, consulte Ayuda en la aplicación Amazfit Watch.&lt;/small&gt;\"\"\""</string>
+    <string name="first_beat_help_te">"&lt;font color=#00FF00&gt;¿Qué es esto？&lt;/font&gt;&lt;br/&gt; El Efecto de Entrenamiento (TE) mide la carga acumulada durante un entrenamiento e interpreta su impacto en su capacidad aeróbica. TE comienza en el nivel 0.0. A medida que la sesión de ejercicios progresa con éxito, el valor de TE aumenta (de 0 a 5) y le indica cómo el entrenamiento afecta su estado físico. &lt;br/&gt;&lt;font color=#00FF00&gt;¿Cómo se calcula? &lt;/font&gt;&lt;br/&gt; 
+TE se calcula en función de su perfil de usuario, los datos de latido del corazón y la dificultad del entrenamiento.&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; El reloj mostrará la medición de TE en tiempo real durante un entrenamiento, así como el resultado final de TE al final del entrenamiento.A&amp;lt;2.0 TE simplemente indica que el entrenamiento tiene poco efecto en la aptitud cardiorrespiratoria y es útil solo para construir una base de resistencia y recuperación.&lt;br/&gt;&lt;small&gt;Para obtener más información, consulte Ayuda en la aplicación Amazfit Watch.&lt;/small&gt;"</string>
     <string name="first_beat_help_train_load">El reloj calculará la carga de entrenamiento en función de los valores EPOC (Exceso de consumo de oxígeno posterior al ejercicio) acumulados a partir de los datos de frecuencia cardíaca registrados durante los entrenamientos en una ventana móvil de 7 días. El usuario puede ajustar el programa de entrenamiento en consecuencia para alcanzar una carga óptima. &lt;br/&gt;&lt;small&gt;Para obtener más información, consulte Ayuda en la aplicación Amazfit Watch.&lt;/small&gt;</string>
     <string name="first_beat_help_run_target_and_real_time_guide">El reloj proporcionará una recomendación de entrenamiento basada en su nivel de condición física VO2Max, la carga de entrenamiento reciente y el estado de recuperación del entrenamiento anterior.&lt;br/&gt; Si habilita la función de entrenamiento en tiempo real en la configuración y establece un objetivo TE o elige uno de los entrenamientos recomendados, el reloj lo guiará a lo largo del entrenamiento y le pedirá que ajuste el ritmo y la frecuencia cardíaca para lograr los objetivos establecidos.. &lt;br/&gt; &lt;small&gt;Para obtener más información, consulte Ayuda en la aplicación Amazfit Watch.&lt;/small&gt;</string>
-    <string name="first_beat_help_daily_perpormence">¿Qúe es esto?
-Los corredores pueden en una buena o mal estado. El estado de rendimiento puede ayudarte a cuantificar tu estado en cada carrera. El reloj evaluará tu estado de rendimiento después de 6 minutos de iniciar la actividad. Un valor positivo indica un buen estado. Un valor negativo indicará que no debes forzar demasiado. Después de cada actividad podrás analizar la carrera en la gráfica de rendimiento. </string>
+    <string name="first_beat_help_daily_perpormence">"¿Qúe es esto?
+Los corredores pueden en una buena o mal estado. El estado de rendimiento puede ayudarte a cuantificar tu estado en cada carrera. El reloj evaluará tu estado de rendimiento después de 6 minutos de iniciar la actividad. Un valor positivo indica un buen estado. Un valor negativo indicará que no debes forzar demasiado. Después de cada actividad podrás analizar la carrera en la gráfica de rendimiento. "</string>
     <string name="first_beat_help_recovery_time">Después de completar un entrenamiento, se le proporcionará tiempo en minutos para la recuperación completa. Entre los entrenamientos el tiempo de recuperación se reduce linealmente hacia cero si no hay nuevos datos de entrenamiento disponibles. Se anima al usuario a que tenga algunos entrenamientos de baja intensidad para ayudar con la recuperación. &lt;br /&gt;&lt;small&gt;Para obtener más información, consulte Ayuda en la aplicación Amazfit Watch.&lt;/small&gt;</string>
     <string name="vo2max_unit">mg/kg/min</string>
     <string name="run_vo2max_unit">ml / kg / min</string>
@@ -618,10 +618,10 @@ Los corredores pueden en una buena o mal estado. El estado de rendimiento puede 
     <string name="real_time_guide_desc_7">¡Acelera! Esfuérzate para mejores resultados</string>
     <string name="real_time_guide_desc_10">%1$s minutos más tendrán un muy buen efecto en tu estado físico</string>
     <string name="real_time_guide_desc_11">¡Acelera! Para conseguir mejores resultados</string>
+    <string name="real_time_guide_desc_26">¡Vamos! Corre más rápido</string>
     <string name="real_time_guide_desc_14">¡Acabas de completar una gran rutina de ejercicio!</string>
     <string name="real_time_guide_desc_22">%1$s minutos para alcanzar tu objetivo</string>
     <string name="real_time_guide_desc_25">El objetivo del rango de Freq. Cardíaca son %1$s-%2$s lat/min</string>
-    <string name="real_time_guide_desc_26">¡Vamos! Corre más rápido</string>
     <string name="real_time_guide_desc_27">Has alcanzado tu on¡bjetivo</string>
     <string name="real_time_guide_desc_28">Has conseguido el %1$s de tu objetivo</string>
     <string name="real_time_guide_desc_30">Este tipo de ejercicio te mantendrá en forma</string>

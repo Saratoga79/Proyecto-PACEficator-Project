@@ -20,8 +20,8 @@
     <string name="battery_low_title">Низкий заряд батареи</string>
     <string name="battery_low_percent_format">%s осталось</string>
     <string name="battery_low_percent_format_saver_started">%s осталось. Экономия батареи включена.</string>
-    <string name="invalid_charger">"USB зарядка не поддерживается.
-используйте только комплектное устройство"</string>
+    <string name="invalid_charger">"\"USB зарядка не поддерживается.
+используйте только комплектное устройство\""</string>
     <string name="invalid_charger_title">USB зарядка не поддерживается.</string>
     <string name="invalid_charger_text">Используйте только зарядное устройство из комплекта поставки.</string>
     <string name="battery_low_why">Настройки</string>
@@ -49,8 +49,8 @@
     <string name="always_use_device">Использовать по умолчанию для этого устройства USB</string>
     <string name="always_use_accessory">По умолчанию использовать для этого аксессуара USB</string>
     <string name="usb_debugging_title">Разрешить отладку USB?</string>
-    <string name="usb_debugging_message">"Компьютер RSA ключ по отпечатку пальцев:
--%1$s"</string>
+    <string name="usb_debugging_message">"\"Компьютер RSA ключ по отпечатку пальцев:
+-%1$s\""</string>
     <string name="usb_debugging_always">Всегда разрешать с данного компьютера</string>
     <string name="compat_mode_on">Масштабировать по размеру экрана</string>
     <string name="compat_mode_off">Растянуть на весь экран</string>
@@ -191,9 +191,9 @@
     <string name="data_usage_disabled_dialog_4g_title">4G данные отключены</string>
     <string name="data_usage_disabled_dialog_mobile_title">Сотовые данные отключены</string>
     <string name="data_usage_disabled_dialog_title">Данные выключены</string>
-    <string name="data_usage_disabled_dialog">"Ваше устройство отключено от данных, поскольку оно достигло установленного вами предела.
+    <string name="data_usage_disabled_dialog">"\"Ваше устройство отключено от данных, поскольку оно достигло установленного вами предела.
 
-Включение его обратно может привести потребовать дополнительной платы вашему оператору."</string>
+Включение его обратно может привести потребовать дополнительной платы вашему оператору.\""</string>
     <string name="data_usage_disabled_dialog_enable">Включить данные</string>
     <string name="status_bar_settings_signal_meter_disconnected">Нет подключения к Интернету</string>
     <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi подключен</string>
@@ -309,9 +309,9 @@
     <string name="guest_wipe_session_wipe">Начать заново</string>
     <string name="guest_wipe_session_dontwipe">Да, продолжить</string>
     <string name="user_add_user_title">Добавить нового пользователя?</string>
-    <string name="user_add_user_message_short">«При добавлении нового пользователя, нужно настроить его пространство.
+    <string name="user_add_user_message_short">"«При добавлении нового пользователя, нужно настроить его пространство.
 
-любой пользователь может обновить приложения для всех остальных пользователей.»</string>
+любой пользователь может обновить приложения для всех остальных пользователей.»"</string>
     <string name="battery_saver_notification_title">Режим энергосбережения включен</string>
     <string name="battery_saver_notification_text">Снижает производительность и фоновые данные</string>
     <string name="battery_saver_notification_action_text">Отключить режим энергосбережения</string>
@@ -329,69 +329,71 @@
     <string name="monitoring_title">Мониторинг сети</string>
     <string name="disable_vpn">Отключить VPN</string>
     <string name="disconnect_vpn">Отсоединить VPN</string>
-    <string name="monitoring_description_device_owned">"Это устройство управляется:
+    <string name="monitoring_description_device_owned">"\"Это устройство управляется:
 %1$s
 
 Ваш администратор может следить за активностью вашей сети и устройства, включая сообщения электронной почты, приложения и безопасность вебсайтов.
 
-Для получения дополнительной информации, обратитесь к администратору."</string>
-    <string name="monitoring_description_vpn">"Вы дали разрешение \"%1$s\", чтобы настроить VPN-подключение.
+Для получения дополнительной информации, обратитесь к администратору.\""</string>
+    <string name="monitoring_description_vpn">"\"Вы дали разрешение \"%1$s\", чтобы настроить VPN-подключение.
 
-Это приложение может следить за активностью вашей сети и устройства, включая сообщения электронной почты, приложений и безопасных веб-сайтов."</string>
-    <string name="monitoring_description_legacy_vpn">"Вы подключены к сети VPN («%1$s»).
+Это приложение может следить за активностью вашей сети и устройства, включая сообщения электронной почты, приложений и безопасных веб-сайтов.\""</string>
+    <string name="monitoring_description_legacy_vpn">"\"Вы подключены к сети VPN («%1$s»).
 
-Ваш VPN провайдер может контролировать ваши устройства и сети, включая сообщения электронной почты, приложения и безопасность веб-сайтов."</string>
-    <string name="monitoring_description_vpn_device_owned">\"Это устройство управляется:
+Ваш VPN провайдер может контролировать ваши устройства и сети, включая сообщения электронной почты, приложения и безопасность веб-сайтов.\""</string>
+    <string name="monitoring_description_vpn_device_owned">"\"Это устройство управляется:
 %1$s
 
 Ваш администратор способен отслеживать вашу сетевую активность, включая электронные письма, приложения и защищенные веб-сайты. Для получения дополнительной информации обратитесь к администратору.
 
 Кроме то, вы дали \"%2$s\" разрешение на создание VPN-соединения. Это приложение также может контролировать сетевую активность.\"
- </string>
-    <string name="monitoring_description_legacy_vpn_device_owned">"Управление этим устройством осуществляется:
+ "</string>
+    <string name="monitoring_description_legacy_vpn_device_owned">"\"Управление этим устройством осуществляется:
 %1$s
 
 Ваш администратор способен отслеживать вашу сетевую активность, включая электронные письма, приложения и защищенные веб-сайты. Для получения дополнительной информации обратитесь к администратору.
 
-Кроме того, вы подключены к VPN («%2$s»). Ваш поставщик услуг VPN также может контролировать сетевую активность."</string>
-    <string name="monitoring_description_profile_owned">"Это устройство управляется:
+Кроме того, вы подключены к VPN («%2$s»). Ваш поставщик услуг VPN также может контролировать сетевую активность.\""</string>
+    <string name="monitoring_description_profile_owned">"\"Это устройство управляется:
 %1$s
 
 Ваш администратор может следить за активностью вашей сети и устройства, включая сообщения электронной почты, приложения и безопасность вебсайтов.
 
-Для получения дополнительной информации, обратитесь к администратору."</string>
-    <string name="monitoring_description_device_and_profile_owned">"Это устройство управляется:
+Для получения дополнительной информации, обратитесь к администратору.\""</string>
+    <string name="monitoring_description_device_and_profile_owned">"\"Это устройство управляется:
 %1$s
 
 Ваш администратор может следить за активностью вашей сети и устройства, включая сообщения электронной почты, приложения и безопасность вебсайтов.
 
-Для получения дополнительной информации, обратитесь к администратору."</string>
-    <string name="monitoring_description_vpn_profile_owned">"Этот профиль управляется:
+Для получения дополнительной информации, обратитесь к администратору.\""</string>
+    <string name="monitoring_description_vpn_profile_owned">"\"Этот профиль управляется:
 %1$s
 
 Ваш администратор способен отслеживать вашу сетевую активность, включая электронные письма, приложения и защищенные веб-сайты. Для получения дополнительной информации обратитесь к администратору.
 
-Кроме то, вы дали \"%2$s\" разрешение на создание VPN-соединения. Это приложение также может контролировать сетевую активность."</string>
-    <string name="monitoring_description_legacy_vpn_profile_owned">"Управление этим устройством осуществляется:
+Кроме то, вы дали \"%2$s\" разрешение на создание VPN-соединения. Это приложение также может контролировать сетевую активность.\"
+"</string>
+    <string name="monitoring_description_legacy_vpn_profile_owned">"\"Управление этим устройством осуществляется:
 %1$s
 
 Ваш администратор способен отслеживать вашу сетевую активность, включая электронные письма, приложения и защищенные веб-сайты. Для получения дополнительной информации обратитесь к администратору.
 
-Кроме того, вы подключены к VPN («%2$s»). Ваш поставщик услуг VPN также может контролировать сетевую активность."</string>
-    <string name="monitoring_description_vpn_device_and_profile_owned">"Это устройство управляется:
+Кроме того, вы подключены к VPN («%2$s»). Ваш поставщик услуг VPN также может контролировать сетевую активность.\""</string>
+    <string name="monitoring_description_vpn_device_and_profile_owned">"\"Это устройство управляется:
 %1$s
 
 Ваш администратор способен отслеживать вашу сетевую активность, включая электронные письма, приложения и защищенные веб-сайты. Для получения дополнительной информации обратитесь к администратору.
 
-Кроме то, вы дали \"%2$s\" разрешение на создание VPN-соединения. Это приложение также может контролировать сетевую активность."</string>
-    <string name="monitoring_description_legacy_vpn_device_and_profile_owned">"Управление этим устройством осуществляется:
+Кроме то, вы дали \"%2$s\" разрешение на создание VPN-соединения. Это приложение также может контролировать сетевую активность.\"
+"</string>
+    <string name="monitoring_description_legacy_vpn_device_and_profile_owned">"\"Управление этим устройством осуществляется:
 %1$s
 Ваш профиль управляется:
 %2$s
 
 Ваш администратор способен отслеживать вашу сетевую активность, включая электронные письма, приложения и защищенные веб-сайты. Для получения дополнительной информации обратитесь к администратору.
 
-Кроме того, вы подключены к VPN («%2$s»). Ваш поставщик услуг VPN также может контролировать сетевую активность."</string>
+Кроме того, вы подключены к VPN («%2$s»). Ваш поставщик услуг VPN также может контролировать сетевую активность.\""</string>
     <string name="keyguard_indication_trust_disabled">Устройство будет оставаться заблокированным до тех пор, пока вы не разблокировать вручную</string>
     <string name="hidden_notifications_title">Быстрый доступ к уведомлениям</string>
     <string name="hidden_notifications_text">Просматривайте уведомления на заблокированном экране</string>
@@ -434,8 +436,8 @@
     <string name="keyguard_missing_sim_instructions">Вставьте SIM-карту.</string>
     <string name="keyguard_missing_sim_instructions_long">SIM-карта отсутствует или не читается. Вставьте SIM-карту.</string>
     <string name="keyguard_permanent_disabled_sim_message_short">SIM-карта непригодна к использованию.</string>
-    <string name="keyguard_permanent_disabled_sim_instructions">"Ваша SIM-карта постоянно отключена.
- Обратитесь к вашему провайдеру для замены SIM-карты."</string>
+    <string name="keyguard_permanent_disabled_sim_instructions">"\"Ваша SIM-карта постоянно отключена.
+ Обратитесь к вашему провайдеру для замены SIM-карты.\""</string>
     <string name="keyguard_sim_locked_message">SIM-карта заблокирована.</string>
     <string name="keyguard_sim_puk_locked_message">SIM-карта заблокирована PUK.</string>
     <string name="keyguard_sim_unlock_progress_dialog_message">Разблокирование SIM-карты…</string>
@@ -522,24 +524,24 @@
     <string name="kg_login_invalid_input">Неверное имя пользователя или пароль.</string>
     <string name="kg_login_account_recovery_hint">Забыли имя пользователя или пароль?\nПерейдите на страницу \"<b>"google.com/accounts/recovery"</b>\".</string>
     <string name="kg_login_checking_password">Проверка аккаунта…</string>
-    <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"Вы неправильно ввели ваш PIN-код %d раз. 
+    <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"\"Вы неправильно ввели ваш PIN-код %d раз. 
 
-попытаться снова через %d секунд(ы)."</string>
-    <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Вы неправильно ввели ваш Pin-код %d раз. 
+попытаться снова через %d секунд(ы).\""</string>
+    <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"\"Вы неправильно ввели ваш Pin-код %d раз. 
 
-Попытаться снова через %d секунд(ы)."</string>
-    <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Вы неправильно ввели ваш графический ключ %d раз. 
+Попытаться снова через %d секунд(ы).\""</string>
+    <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"\"Вы неправильно ввели ваш графический ключ %d раз. 
 
-Попытаться снова через %d секунд(ы)."</string>
+Попытаться снова через %d секунд(ы).\""</string>
     <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Вы пытались некорректно разблокировать планшет %d раз. После более, чем %d неудачных попыток, планшет будет перезагружен, все данные будут удалены.</string>
     <string name="kg_failed_attempts_now_wiping">Вы пытались некорректно разблокировать планшет %d раз. Планшет будет перезагружен, все данные будут удалены.</string>
     <string name="kg_failed_attempts_almost_at_erase_user" formatted="false">Вы пытались некорректно разблокировать планшет %d раз. После более, чем %d неудачных попыток, планшет будет перезагружен, все данные будут удалены.</string>
     <string name="kg_failed_attempts_now_erasing_user">Вы пытались некорректно разблокировать планшет %d раз. Пользователь будет удален, что приведет к удалению всей пользовательской информации.</string>
     <string name="kg_failed_attempts_almost_at_erase_profile" formatted="false">Вы пытались некорректно разблокировать планшет %d раз. Рабочий профиль будет удален, что приведет к удалению всех данных профиля.</string>
     <string name="kg_failed_attempts_now_erasing_profile">Вы пытались некорректно разблокировать планшет %d раз. Рабочий профиль будет удален, что приведет к удалению всех данных профиля.</string>
-    <string name="kg_failed_attempts_almost_at_login" formatted="false">\"Вы неверно ввели графический ключ %d раз. После более, чем %d неудачных попыток, вам будет предложено разблокировать планшет с использованием учетной записи электронной почты.
+    <string name="kg_failed_attempts_almost_at_login" formatted="false">"\"Вы неверно ввели графический ключ %d раз. После более, чем %d неудачных попыток, вам будет предложено разблокировать планшет с использованием учетной записи электронной почты.
 
- попробовать еще раз в %d секунды.»</string>
+ попробовать еще раз в %d секунды.»"</string>
     <string name="kg_reordering_delete_drop_target_text">Удалить</string>
     <string name="kg_password_wrong_pin_code_pukked">Неверный PIN-код. Обратитесь к оператору связи, чтобы разблокировать SIM-карту.</string>
     <string name="kg_password_wrong_puk_code_dead">SIM-карта непригодна для использования. Обратитесь к своему оператору сотовой связи.</string>

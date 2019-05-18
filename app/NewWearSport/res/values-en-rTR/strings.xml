@@ -209,8 +209,8 @@
     <string name="lap_add_failed">Lap is too short, cannot record this lap</string>
     <string name="sport_main_stop_this_sport">Stop current activity?</string>
     <string name="sport_history_delete_dialog_title">Delete this activity? You cannot recover this activity once deleted.</string>
-    <string name="sport_main_give_up_this_sport">"Discard this activity?
-"</string>
+    <string name="sport_main_give_up_this_sport">"\"Discard this activity?
+\""</string>
     <string name="sport_confirm_stop_sport">Evet</string>
     <string name="sport_confirm_not_stop_sport">Hayır</string>
     <string name="sport_main_am">AM</string>
@@ -280,8 +280,8 @@
     <string name="sport_stride_unit_imperial">in</string>
     <string name="end_last_sport_tips">Please stop %1$s activity first</string>
     <string name="export_route_trail">Dışa aktar</string>
-    <string name="sport_dlg_msg_hint_cancel">"Cancel this export?
-"</string>
+    <string name="sport_dlg_msg_hint_cancel">"\"Cancel this export?
+\""</string>
     <string name="exchange_prepare_riding">Next: Cycling</string>
     <string name="exchange_prepare_running">Next: Running</string>
     <string name="count_down_swim_tint">Yanlışlıkla dokunmayı önlemek için ekran kilitlenir.</string>
@@ -445,9 +445,9 @@
     <string name="modify_big_dis_regain">Düzenle</string>
     <string name="modify_big_dis_confirm">Renk kalibrasyonu</string>
     <string name="re_modify_dis">Tekrar kalibrasyon</string>
-    <string name="re_modify_dis_tips">"1. 0,5 km\'den daha uzun bir kilometreye sahip bir kalibrasyon, saatin koşu alışkanlıklarınızı öğrenmesine ve koşu kilometresini daha doğru hale getirmesine izin verir. 
+    <string name="re_modify_dis_tips">"\"1. 0,5 km'den daha uzun bir kilometreye sahip bir kalibrasyon, saatin koşu alışkanlıklarınızı öğrenmesine ve koşu kilometresini daha doğru hale getirmesine izin verir. 
 2. Birden fazla kalibrasyon yaptıysanız ancak yine de kilometre sonuçlarından memnun değilseniz, yeniden kalibre edebilirsiniz. 
-3 Yeniden kalibrasyon, önceki tüm kalibrasyon kayıtlarını siler. "</string>
+3 Yeniden kalibrasyon, önceki tüm kalibrasyon kayıtlarını siler. \""</string>
     <string name="give_up_re_modify_dis">Vazgeç</string>
     <string name="confirm_re_modify_dis">Onaylamak</string>
     <string name="re_modify_dis_successful">Kayıt başarılı</string>
@@ -488,7 +488,8 @@
     <string name="sport_tartget_tips">Mevcut hedef:%1$s</string>
     <string name="sport_target_remind_desc_01">Saat geçmiş performansınızı birleştirerek sizin için en iyi eğitim yöntemini önerecektir.</string>
     <string name="sport_te_desc_level_01">Bu eğitimin, aerobik kapasitenin geliştirilmesine etkisi yoktur.</string>
-    <string name="sport_te_desc_level_02">Eğitim etkisi zayıf. Bu yoğunluk eğitim toleransını arttırmak için yararlıdır ve egzersiz sonrası toparlanma eğitimi için de uygundur.</string>
+    <string name="sport_te_desc_level_02">"Eğitim etkisi zayıf. Bu yoğunluk eğitim toleransını arttırmak için yararlıdır ve egzersiz sonrası toparlanma eğitimi için de uygundur.
+"</string>
     <string name="sport_te_desc_level_03">Eğitim etkisi ılımlı olup aerobik kapasitenin korunmasına yardımcı olur.</string>
     <string name="sport_te_desc_level_04">Eğitim etkisi aerobik kapasitenin geliştirilmesine yardımcı olan iyidir.</string>
     <string name="sport_te_desc_level_05">Antreman efekti mükemmel, kardiyorespiratuar kapasiteyi ve aerobik kapasiteyi etkili bir şekilde artırabilir.</string>
@@ -590,11 +591,11 @@
     <string name="real_time_target_finish">Reached your goal</string>
     <string name="real_time_guide_title_1">Good pace！</string>
     <string name="real_time_guide_title_2">Keep the pace!</string>
-    <string name="real_time_guide_title_3">"Increase the pace for effective exercise!"</string>
+    <string name="real_time_guide_title_3">"Increase the pace for effective results!"</string>
     <string name="real_time_guide_title_6">Good pace！</string>
-    <string name="real_time_guide_title_7">"Increase the pace for more effective exercise!"</string>
+    <string name="real_time_guide_title_7">"Increase the pace for more effective results!"</string>
     <string name="real_time_guide_title_10">Good pace！</string>
-    <string name="real_time_guide_title_11">"Increase the pace for more effective exercise!"</string>
+    <string name="real_time_guide_title_11">"Increase the pace for more effective results!"</string>
     <string name="real_time_guide_title_14">Well done!</string>
     <string name="real_time_guide_title_22">Good pace！</string>
     <string name="real_time_guide_title_25">Increase the pace.</string>
@@ -614,10 +615,10 @@
     <string name="real_time_guide_desc_7">Accelerate! Strive for better results!</string>
     <string name="real_time_guide_desc_10">%1$s more minutes for a very good effect on your fitness.</string>
     <string name="real_time_guide_desc_11">Accelerate! to achieve better exercise results</string>
+    <string name="real_time_guide_desc_26">Come on! Run faster</string>
     <string name="real_time_guide_desc_14">You have already completed a very good workout!</string>
     <string name="real_time_guide_desc_22">%1$s minutes to reach your goal!</string>
     <string name="real_time_guide_desc_25">Target heart rate range is %1$s-%2$sbpm。</string>
-    <string name="real_time_guide_desc_26">Come on! Run faster</string>
     <string name="real_time_guide_desc_27">You have reached your goal!</string>
     <string name="real_time_guide_desc_28">You achieved %1$s of your goal!</string>
     <string name="real_time_guide_desc_30">This type of exercise will keep you fit.</string>
@@ -972,12 +973,12 @@
     <string name="dlg_btn_l_msg">Hayır</string>
     <string name="dlg_btn_r_msg">Evet</string>
     <string name="hint_cancelling">İptal ediliyor...</string>
-    <string name="hint_success_exported_title">"GPX dosyasının dışa aktarımı 
-başarılı"</string>
+    <string name="hint_success_exported_title">"\"GPX dosyasının dışa aktarımı 
+başarılı\""</string>
     <string name="hint_failed_exported_title">Dışa aktarım başarısız</string>
-    <string name="hint_where">"Gpx dosyası \'/sdcard/gpxdata\' klasörüne 
+    <string name="hint_where">"\"Gpx dosyası '/sdcard/gpxdata' klasörüne 
 kaydedildi.
-USB üzerinden bir bilgisayara kopyalayabilirsiniz."</string>
+USB üzerinden bir bilgisayara kopyalayabilirsiniz.\""</string>
     <string name="hint_failed">Dışa aktarılamadı, lütfen tekrar deneyin.</string>
     <string name="app_name">gpx-kaydedici</string>
     <string name="average_text">Ort.</string>

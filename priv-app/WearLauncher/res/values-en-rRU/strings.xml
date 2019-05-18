@@ -44,16 +44,16 @@
     <string name="quick_settings_date_chinese">yyyy-MM-dd</string>
     <string name="quick_settings_date_format">1900-1-31</string>
     <string name="quick_settings_date_yeareve">Канун нового года</string>
-    <string name="seconed_confirm_nodisturb">"Беззвучный режим
-Новое уведомление большене будет показано."</string>
+    <string name="seconed_confirm_nodisturb">"\"Беззвучный режим
+Новое уведомление большене будет показано.\""</string>
     <string name="quick_settings_battery_charging_full">Полностью заряжен</string>
     <string name="quick_settings_battery_is_charging">Зарядка...</string>
     <string name="quick_settings_battery_hasnot_charged">Не было заряжено</string>
     <string name="quick_settings_battery_charging_intervalDay">%1$d дней %2$d часов с момента заряда</string>
     <string name="quick_settings_battery_charging_intervalDay_lessHour">%d дней с момента заряда</string>
     <string name="quick_settings_battery_charging_intervalDayLess">%d часов с момента заряда</string>
-    <string name="quick_settings_battery_charging_intervalLessHour">"Меньше чем 
-1 час после зарядки"</string>
+    <string name="quick_settings_battery_charging_intervalLessHour">"\"Меньше чем 
+1 час после зарядки\""</string>
     <string name="quick_settings_battery_sportString">Батарея в режиме Спорт</string>
     <string name="quick_settings_battery_sporttime_hour_unit">час</string>
     <string name="quick_settings_battery_sporttime_KM_unit">км</string>
@@ -229,8 +229,8 @@
     <string name="cal_event_begin_end_time">%1$s - %2$s</string>
     <string name="cal_all_day">Весь день</string>
     <string name="cal_all_day_line_break">Весь день</string>
-    <string name="cal_multi_day_line_break">"Мульти
-день"</string>
+    <string name="cal_multi_day_line_break">"\"Мульти
+день\""</string>
     <string name="cal_mail_all">Уведомить гостей по электронной почте</string>
     <string name="cal_navigate_to">Перейдите к %s</string>
     <string name="cal_navigate">Перейдите</string>
@@ -258,9 +258,9 @@
     <string name="troubleshoot_use_android_wear">Установите приложение Android Wear из магазина Play Store. Затем запустите приложение Android Wear lkz подключения к часам.</string>
     <string name="troubleshoot_internet">Убедитесь, что ваш телефон имеет подключение к Интернету.</string>
     <string name="troubleshoot_tethering">Попробуйте включить Bluetooth привязку на вашем телефоне.</string>
-    <string name="troubleshoot_online_help">"Чтобы получить дополнительную помощь, перейдите к 
+    <string name="troubleshoot_online_help">"\"Чтобы получить дополнительную помощь, перейдите к 
 %s
-"</string>
+\""</string>
     <string name="troubleshoot_help_url">g.co/AWhelp</string>
     <string name="retry_action">Повтор</string>
     <string name="restart_action">Рестарт</string>
@@ -407,9 +407,9 @@
     <string name="server_error">"Не удается достичь Google в данный момент."</string>
     <string name="audio_error">"Не удается открыть микрофон."</string>
     <string name="null_result_error">По вашему запросу ничего не найдено</string>
-    <string name="no_answer_error">"%s
+    <string name="no_answer_error">"\"%s
 
-Извини, Google не может помочь вам с этим"</string>
+Извини, Google не может помочь вам с этим\""</string>
     <string name="no_companion_error">"Не удается подключиться к вашему спаренному устройству."</string>
     <string name="gsa_update_needed">Откройте Google Play на вашем телефоне или планшете и обновите приложение Google Search.</string>
     <string name="gsa_install_needed">Откройте Google Play на вашем телефоне или планшете и установите приложение Google Search.</string>

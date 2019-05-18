@@ -12,31 +12,31 @@
     <string name="add_wifi">เพิ่มไวไฟ</string>
     <string name="please_update_rom">พบเวอร์ชั่นใหม่โปรดอัปเดต</string>
     <string name="checking_rom">กำลังตรวจสอบเวอร์ชันใหม่</string>
-    <string name="checking_rom_failed">"หมดเวลาเชื่อมต่อเครือข่าย
-โปรดลองอีกครั้ง"</string>
+    <string name="checking_rom_failed">"\"หมดเวลาเชื่อมต่อเครือข่าย
+โปรดลองอีกครั้ง\""</string>
     <string name="current_is_new">ใช้งานรุ่นล่าสุด</string>
     <string name="has_new_rom_all">มีการอัปเดต เฟิร์มแวร์ของนาฬิกาเรือนนี้ล้าสมัยและการอัพเกรดเป็นรุ่นล่าสุดอาจใช้เวลาสักครู่</string>
-    <string name="has_new_rom">"พบเวอร์ชั่นใหม่
-อัปเดตเป็น %1$s หรือไม่ "</string>
+    <string name="has_new_rom">"\"พบเวอร์ชั่นใหม่
+อัปเดตเป็น %1$s หรือไม่ \""</string>
     <string name="processbar_downloading_rom">กำลังดาวน์โหลด...</string>
-    <string name="please_keep_wifi_connect">"กรุณาเชื่อมต่อนาฬิกา
-กับ ไวไฟ"</string>
+    <string name="please_keep_wifi_connect">"\"กรุณาเชื่อมต่อนาฬิกา
+กับ ไวไฟ\""</string>
     <string name="processbar_downloading_tips">%</string>
     <string name="processbar_downloading_default">0</string>
-    <string name="download_rom_faild">\"ดาวน์โหลดชุดการปรับปรุงล้มเหลว
- โปรดลองอีกครั้ง</string>
+    <string name="download_rom_faild">"\"ดาวน์โหลดชุดการปรับปรุงล้มเหลว
+ โปรดลองอีกครั้ง"</string>
     <string name="download_rom_success">รอมดาวน์โหลดสำเร็จ โปรดติดตั้ง</string>
     <string name="low_battery_message">ดาวน์โหลดแพ็คอัพเดตแล้วควรมีแบตเตอรี่เหลือมากกว่า %1$s%% เพื่อติดตั้ง</string>
     <string name="low_battery_title">กรุณาชาร์จก่อน</string>
     <string name="progressbar_tips">กำลังตรวจสอบเวอร์ชันใหม่...</string>
     <string name="progressbar_percent">%1$d%%</string>
     <string name="low_mem">พื้นที่ที่ต้องการสำหรับการอัปเกรดไม่เพียง พอต้องการอีก %1$sM โปรดล้างข้อมูลก่อน</string>
-    <string name="update_network_error">"การตรวจสอบการอัปเดตล้มเหลว
-ลองใหม่ในภายหลัง "</string>
-    <string name="cancel_download">"ชุดปรับปรุงกำลังดาวน์โหลด 
- ยกเลิก?"</string>
-    <string name="new_rom_please_install">"การอัปเดตระบบพร้อมใช้งาน
-กรุณาอัพเกรด "</string>
+    <string name="update_network_error">"\"การตรวจสอบการอัปเดตล้มเหลว
+ลองใหม่ในภายหลัง \""</string>
+    <string name="cancel_download">"\"ชุดปรับปรุงกำลังดาวน์โหลด 
+ ยกเลิก?\""</string>
+    <string name="new_rom_please_install">"\"การอัปเดตระบบพร้อมใช้งาน
+กรุณาอัพเกรด \""</string>
     <string name="btn_install_later">เตือนฉันครั้งต่อไป</string>
     <string name="btn_install_now">ติดตั้งเดี๋ยวนี้</string>
     <string name="btn_upgrade_now">อัพเดตเดี๋ยวนี้</string>
@@ -54,11 +54,11 @@
     <string name="wifi_turnon_going">เปิดไวไฟ...</string>
     <string name="system_update_title">อัปเดตเสร็จสิ้น</string>
     <string name="system_update_content">ระบบได้รับการอัพเกรดเป็นรุ่น %1$s</string>
-    <string name="password_error">"รหัสผ่าน Wi-fi ไม่ถูกต้อง,
-กรุณาใส่อีกครั้ง"</string>
-    <string name="wifi_connect_fail">"ไม่สามารถเชื่อมต่อกับ
+    <string name="password_error">"\"รหัสผ่าน Wi-fi ไม่ถูกต้อง,
+กรุณาใส่อีกครั้ง\""</string>
+    <string name="wifi_connect_fail">"\"ไม่สามารถเชื่อมต่อกับ
 เครือข่ายไวไฟนี้ โปรดลอง
-ฮอตสปอตไวไฟอื่น "</string>
+ฮอตสปอตไวไฟอื่น \""</string>
     <string name="searching">กำลัง​ค้น​หา...</string>
     <string name="hasNewUpdateTitle">อัพเดทระบบ</string>
     <string name="hasNewUpdateInstallContent">%1$s สามารถติดตั้งรุ่นได้ ทำการติดตั้งหรือไม่?</string>
@@ -68,14 +68,14 @@
     <string name="update_local">อัปเดตจากไฟล์ zip ในเครื่อง</string>
     <string name="local_update_confirm_1_title">กรุณาอ่าน</string>
     <string name="local_update_invalid_zip">เวอร์ชั่นของระบบแพ็กเกจการ์ดต่ำเกินไปแนะนำให้ใช้เวอร์ชั่นล่าสุดในการอัพเกรด</string>
-    <string name="local_update_confirm_1_msg">"เพื่อให้แน่ใจว่าเวอร์ชั่นใหม่
+    <string name="local_update_confirm_1_msg">"\"เพื่อให้แน่ใจว่าเวอร์ชั่นใหม่
 ทำงานอย่างถูกต้องเราจะลบทั้งหมด
 ข้อมูลผู้ใช้หลังการอัพเดต กรุณาเชื่อมต่อ
-ไปยังแอป Amazfit Watch และสำรองข้อมูลทั้งหมดก่อนอัปเดต "</string>
-    <string name="local_update_confirm_2_msg">"โปรดตรวจสอบให้แน่ใจว่าผู้ใช้ทั้งหมด
+ไปยังแอป Amazfit Watch และสำรองข้อมูลทั้งหมดก่อนอัปเดต \""</string>
+    <string name="local_update_confirm_2_msg">"\"โปรดตรวจสอบให้แน่ใจว่าผู้ใช้ทั้งหมด
 สำรองข้อมูลแล้ว การติดตั้ง
 การอัปเดตจะลบผู้ใช้ทั้งหมด
-ข้อมูลบนนาฬิกาทำต่อหรือไม่ "</string>
+ข้อมูลบนนาฬิกาทำต่อหรือไม่ \""</string>
     <string name="OK">ตกลง</string>
     <string name="yes">ใช่</string>
     <string name="no">ไม่</string>

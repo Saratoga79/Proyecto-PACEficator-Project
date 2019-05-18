@@ -279,8 +279,8 @@
     <string name="sport_stride_unit_imperial">inch</string>
     <string name="end_last_sport_tips">Hãy dừng hoạt động %1$s trước</string>
     <string name="export_route_trail">Xuất</string>
-    <string name="sport_dlg_msg_hint_cancel">"Hủy bỏ lệnh xuất?
- "</string>
+    <string name="sport_dlg_msg_hint_cancel">"\"Hủy bỏ lệnh xuất?
+ \""</string>
     <string name="exchange_prepare_riding">Tiếp: Đạp xe</string>
     <string name="exchange_prepare_running">Tiếp theo: chạy</string>
     <string name="count_down_swim_tint">为防止误触,即将锁屏</string>
@@ -401,8 +401,8 @@
     <string name="sport_widget_title_compounding">Chơi nhiều môn</string>
     <string name="sport_select_compound">Chọn</string>
     <string name="swimming_stop_dialog_msg_not_reach_minimum_distance">Đoạn đường quá nhỏ sẽ không được lưu, tiếp tục?</string>
-    <string name="tennic_wear_hand_guide">"Make sure to wear the watch 
- on the wrist of the hand holding the racket"</string>
+    <string name="tennic_wear_hand_guide">"\"Make sure to wear the watch 
+ on the wrist of the hand holding the racket\""</string>
     <string name="select_compound_sport">Chọn môn %1$s</string>
     <string name="select_compound_sport_first">Đầu</string>
     <string name="select_compound_sport_second">Thứ hai</string>
@@ -445,9 +445,9 @@
     <string name="modify_big_dis_regain">Modify</string>
     <string name="modify_big_dis_confirm">Confirm calibration</string>
     <string name="re_modify_dis">Recalibration</string>
-    <string name="re_modify_dis_tips">"1. Calibration with a mileage greater than 0.5 km allows the watch to learn your running habits and make the running mileage more accurate. 
+    <string name="re_modify_dis_tips">"\"1. Calibration with a mileage greater than 0.5 km allows the watch to learn your running habits and make the running mileage more accurate. 
 2. If you have performed multiple calibrations but are still not satisfied with the mileage results, you can recalibrate. 
-3. Recalibration will delete all previous calibration records."</string>
+3. Recalibration will delete all previous calibration records.\""</string>
     <string name="give_up_re_modify_dis">Give up</string>
     <string name="confirm_re_modify_dis">Comfirm</string>
     <string name="re_modify_dis_successful">Recalibration succeeded</string>
@@ -466,12 +466,12 @@
     <string name="time_unit_hour">Giờ</string>
     <string name="train_load_medium">Trung bình</string>
     <string name="train_load_near_seven_days">Near seven days</string>
-    <string name="train_load_suggess_status_no_record">"Please use the watch for a week first.
- We will evaluate your training load for 7 days"</string>
+    <string name="train_load_suggess_status_no_record">"\"Please use the watch for a week first.
+ We will evaluate your training load for 7 days\""</string>
     <string name="train_load_suggess_status_less">Insufficient training intensity</string>
     <string name="train_load_suggess_status_good">Good training status</string>
-    <string name="train_load_suggess_status_recovery">"Training intensity is too high, 
- Please avoid excessive training."</string>
+    <string name="train_load_suggess_status_recovery">"\"Training intensity is too high, 
+ Please avoid excessive training.\""</string>
     <string name="train_load_suggess_status_over">Attention! Excessive training!</string>
     <string name="real_time_perpormance_level_very_good">Tốt</string>
     <string name="real_time_perpormance_level_good">Tốt</string>
@@ -592,11 +592,11 @@
     <string name="real_time_target_finish">Đạt mục tiêu</string>
     <string name="real_time_guide_title_1">Pace tốt!</string>
     <string name="real_time_guide_title_2">Giữ nguyên pace!</string>
-    <string name="real_time_guide_title_3">"Increase the pace for effective exercise!"</string>
+    <string name="real_time_guide_title_3">"Increase the pace for effective results!"</string>
     <string name="real_time_guide_title_6">Pace tốt!</string>
-    <string name="real_time_guide_title_7">"Increase the pace for more effective exercise!"</string>
+    <string name="real_time_guide_title_7">"Increase the pace for more effective results!"</string>
     <string name="real_time_guide_title_10">Pace tốt!</string>
-    <string name="real_time_guide_title_11">"Increase the pace for more effective exercise!"</string>
+    <string name="real_time_guide_title_11">"Increase the pace for more effective results!"</string>
     <string name="real_time_guide_title_14">Làm tốt lắm!</string>
     <string name="real_time_guide_title_22">Pace tốt!</string>
     <string name="real_time_guide_title_25">Tăng tốc độ pace.</string>
@@ -616,10 +616,10 @@
     <string name="real_time_guide_desc_7">Accelerate! Strive for better results!</string>
     <string name="real_time_guide_desc_10">%1$s phút nữa để đạt tác dụng tốt hơn với sức khỏe của bạn.</string>
     <string name="real_time_guide_desc_11">Accelerate! to achieve better exercise results</string>
+    <string name="real_time_guide_desc_26">Come on! Run faster</string>
     <string name="real_time_guide_desc_14">Bạn đã hoàn thành một bài tập luyện rất tốt!</string>
     <string name="real_time_guide_desc_22">%1$s phút để đạt được mục tiêu của bạn!</string>
     <string name="real_time_guide_desc_25">Phạm vi nhịp tim mục tiêu là %1$s-%2$sbpm。</string>
-    <string name="real_time_guide_desc_26">Come on! Run faster</string>
     <string name="real_time_guide_desc_27">Bạn đã đạt mục tiêu!</string>
     <string name="real_time_guide_desc_28">Bạn đã đạt %1$s của mục tiêu!</string>
     <string name="real_time_guide_desc_30">Loại bài tập này sẽ giúp bạn khỏe.</string>
@@ -974,12 +974,12 @@
     <string name="dlg_btn_l_msg">Ko</string>
     <string name="dlg_btn_r_msg">Có</string>
     <string name="hint_cancelling">Hủy bỏ...</string>
-    <string name="hint_success_exported_title">"Đã xuất file GPX 
- thành công"</string>
+    <string name="hint_success_exported_title">"\"Đã xuất file GPX 
+ thành công\""</string>
     <string name="hint_failed_exported_title">Không thế xuất</string>
-    <string name="hint_where">"Tệp gpx đã được đặt trong
-  thư mục \'/sdcard/gpxdata\'.
-  Bạn có thể sao chép nó vào máy tính qua USB. "</string>
+    <string name="hint_where">"\"Tệp gpx đã được đặt trong
+  thư mục '/sdcard/gpxdata'.
+  Bạn có thể sao chép nó vào máy tính qua USB. \""</string>
     <string name="hint_failed">Không thể xuất file, vui lòng thử lại.</string>
     <string name="app_name">Bộ ghi GPX</string>
     <string name="average_text">Trb</string>
