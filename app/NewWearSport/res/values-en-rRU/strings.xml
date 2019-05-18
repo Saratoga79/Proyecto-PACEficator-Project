@@ -52,8 +52,9 @@
     <string name="elliptical_in_progress">Эллиптический прогресс</string>
     <string name="person_achive">Личный рекорд</string>
     <string name="achive_share_sport">Подельться тренировкой</string>
-    <string name="achive_get_record_time">17-05-25
- </string>
+    <string name="achive_get_record_time">"17-05-25
+ 
+"</string>
     <string name="achive_person_record">Личный рекорд</string>
     <string name="remind_target_calorie_title">Достигнутая цель по сжиганию калорий</string>
     <string name="remind_target_time_title">Достигнутая цель по времени</string>
@@ -194,8 +195,8 @@
     <string name="history_month_dis_imperial">%1$s/%2$dмиль</string>
     <string name="history_month_cost">%1$s/%2$s</string>
     <string name="history_sport">История тренировок</string>
-    <string name="history_no_sport_tips">Пока нет активности, начните
-  пробежку сейчас!</string>
+    <string name="history_no_sport_tips">"Пока нет активности, начните
+  пробежку сейчас!"</string>
     <string name="history_start_sport_tips">Начните тренировку сейчас!</string>
     <string name="sport_main_percent">%</string>
     <string name="unit_cadence">об/мин</string>
@@ -402,8 +403,8 @@
     <string name="sport_widget_title_compounding">В мультиспорте</string>
     <string name="sport_select_compound">Выбрать</string>
     <string name="swimming_stop_dialog_msg_not_reach_minimum_distance">Меньше, чем одна поездка не может быть сохранена, продолжить?</string>
-    <string name="tennic_wear_hand_guide">"Make sure to wear the watch 
- on the wrist of the hand holding the racket"</string>
+    <string name="tennic_wear_hand_guide">"\"Make sure to wear the watch 
+ on the wrist of the hand holding the racket\""</string>
     <string name="select_compound_sport">Выбрать %1$s Спорт</string>
     <string name="select_compound_sport_first">Первый</string>
     <string name="select_compound_sport_second">Второй</string>
@@ -446,9 +447,9 @@
     <string name="modify_big_dis_regain">Modify</string>
     <string name="modify_big_dis_confirm">Confirm calibration</string>
     <string name="re_modify_dis">Recalibration</string>
-    <string name="re_modify_dis_tips">"1. Calibration with a mileage greater than 0.5 km allows the watch to learn your running habits and make the running mileage more accurate. 
+    <string name="re_modify_dis_tips">"\"1. Calibration with a mileage greater than 0.5 km allows the watch to learn your running habits and make the running mileage more accurate. 
 2. If you have performed multiple calibrations but are still not satisfied with the mileage results, you can recalibrate. 
-3. Recalibration will delete all previous calibration records."</string>
+3. Recalibration will delete all previous calibration records.\""</string>
     <string name="give_up_re_modify_dis">Give up</string>
     <string name="confirm_re_modify_dis">Comfirm</string>
     <string name="re_modify_dis_successful">Recalibration succeeded</string>
@@ -467,12 +468,12 @@
     <string name="time_unit_hour">Час</string>
     <string name="train_load_medium">Средний</string>
     <string name="train_load_near_seven_days">Near seven days</string>
-    <string name="train_load_suggess_status_no_record">"Please use the watch for a week first.
- We will evaluate your training load for 7 days"</string>
+    <string name="train_load_suggess_status_no_record">"\"Please use the watch for a week first.
+ We will evaluate your training load for 7 days\""</string>
     <string name="train_load_suggess_status_less">Insufficient training intensity</string>
     <string name="train_load_suggess_status_good">Good training status</string>
-    <string name="train_load_suggess_status_recovery">"Training intensity is too high, 
- Please avoid excessive training."</string>
+    <string name="train_load_suggess_status_recovery">"\"Training intensity is too high, 
+ Please avoid excessive training.\""</string>
     <string name="train_load_suggess_status_over">Attention! Excessive training!</string>
     <string name="real_time_perpormance_level_very_good">Хорошо</string>
     <string name="real_time_perpormance_level_good">Хорошо</string>
@@ -882,7 +883,8 @@
     <string name="lock_status_unlock_ing">Разблокируется...</string>
     <string name="lock_status_unlock_fail">Разблокирование неуспешно</string>
     <string name="lock_status_unlock_success">Разблокирование прошло успешно</string>
-    <string name="remind_info_stop_sport">Сначала завершите упражнение</string>
+    <string name="remind_info_stop_sport">"Сначала завершите упражнение
+"</string>
     <string name="searching_gps_in_progress">Поиск</string>
     <string name="remind_current_pace">Текущий темп</string>
     <string name="remind_current_heart">Текущий</string>
@@ -975,11 +977,11 @@
     <string name="dlg_btn_l_msg">Нет</string>
     <string name="dlg_btn_r_msg">Да</string>
     <string name="hint_cancelling">Отмена...</string>
-    <string name="hint_success_exported_title">"Успешно экспортирован файл GPX 
-"</string>
+    <string name="hint_success_exported_title">"\"Успешно экспортирован файл GPX 
+\""</string>
     <string name="hint_failed_exported_title">Не удалось экспортировать</string>
-    <string name="hint_where">"Gpx файл находится в папке «/ sdcard/gpxdata».
- вы можете скопировать его на компьютер через USB."</string>
+    <string name="hint_where">"\"Gpx файл находится в папке «/ sdcard/gpxdata».
+ вы можете скопировать его на компьютер через USB.\""</string>
     <string name="hint_failed">Не удалось экспортировать, пожалуйста, попробуйте еще раз.</string>
     <string name="app_name">gpx-рекордер</string>
     <string name="average_text">Сред.</string>
