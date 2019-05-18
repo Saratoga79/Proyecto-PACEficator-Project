@@ -207,8 +207,8 @@
     <string name="opened">Wł.</string>
     <string name="closed">Wył.</string>
     <string name="air_plane">Tryb samol.</string>
-    <string name="air_plane_mode_note">Tryb samol.wył. BT i Wi-Fi w zegarku, aby oszczędz.energię. 
-Jeśli musisz korzystać z funkcji, które wymagają BT / WiFi, należy wył.tryb samol. w ust. systemowych</string>
+    <string name="air_plane_mode_note">"Tryb samol.wył. BT i Wi-Fi w zegarku, aby oszczędz.energię. 
+Jeśli musisz korzystać z funkcji, które wymagają BT / WiFi, należy wył.tryb samol. w ust. systemowych"</string>
     <string name="yes">Tak</string>
     <string name="no">Nie</string>
     <string name="settings_long_sit_reminder">Alarm ruchu</string>
@@ -236,10 +236,10 @@ Jeśli musisz korzystać z funkcji, które wymagają BT / WiFi, należy wył.try
     <string name="blt_bound_stat_bonding">Parowanie...</string>
     <string name="blt_bound_stat_none">Dostępny</string>
     <string name="blt_default_name">Anonimowy</string>
-    <string name="blt_hint_disconnect">"%1s
-Rozłączony?"</string>
-    <string name="blt_hint_connect">"%1s
-Połączony?"</string>
+    <string name="blt_hint_disconnect">"\"%1s
+Rozłączony?\""</string>
+    <string name="blt_hint_connect">"\"%1s
+Połączony?\""</string>
     <string name="blt_hint_connect_fail">Poł.nie powiodło się, proszę poł.ponownie</string>
     <string name="blt_type_ear">Zestaw słuch.</string>
     <string name="blt_speaker">Audio</string>
@@ -253,10 +253,10 @@ Połączony?"</string>
     <string name="bluetooth_pairing_error_message">Parowanie nie powiodło się</string>
     <string name="bluetooth_connecting">Podłączanie...</string>
     <string name="bluetooth_disconnecting">Rozłączanie...</string>
-    <string name="blt_hint_paring">"%1s  
-sparować?"</string>
-    <string name="blt_paring_fail_hint">"Upewnij się, że urządz.jest 
-wł. i jest w zasięgu"</string>
+    <string name="blt_hint_paring">"\"%1s  
+sparować?\""</string>
+    <string name="blt_paring_fail_hint">"\"Upewnij się, że urządz.jest 
+wł. i jest w zasięgu\""</string>
     <string name="blt_hint_disconnect_device">Odłączony</string>
     <string name="blt_hint_ignore_device">Zignoruj urządzenie</string>
     <string name="blt_hint_connect_device">Połącz</string>
@@ -292,8 +292,8 @@ wł. i jest w zasięgu"</string>
     <string name="rise_with_bl_under_slpt">Wł.</string>
     <string name="rise_without_bl_under_slpt">Wył.</string>
     <string name="locale_applying">Zazstosuj język</string>
-    <string name="confirm_change_locale">"Zmień język na 
-%1$s?"</string>
+    <string name="confirm_change_locale">"\"Zmień język na 
+%1$s?\""</string>
     <string name="gender">Płeć</string>
     <string name="birth_year">Rok urodz.</string>
     <string name="height">Wzrost</string>
@@ -301,20 +301,20 @@ wł. i jest w zasięgu"</string>
     <string name="male">Mężcz.</string>
     <string name="female">Kobieta</string>
     <string name="centimeter">cm</string>
-    <string name="birth_year_unit">"Rok
-Urodz."</string>
-    <string name="height_unit">"Wzrost 
-cm"</string>
-    <string name="weight_unit">"Waga 
-kg"</string>
+    <string name="birth_year_unit">"\"Rok
+Urodz.\""</string>
+    <string name="height_unit">"\"Wzrost 
+cm\""</string>
+    <string name="weight_unit">"\"Waga 
+kg\""</string>
     <string name="reset_factory_hint">Przywróć ustawienia fabryczne?</string>
     <string name="reset_factory_yes">Przywróć fabr. ust.</string>
     <string name="reset_factory_no">Anuluj</string>
     <string name="reset_factory_title">Przywróć fabr. ust.</string>
-    <string name="reset_factory_noconnect_msg">„Jeśli chcesz rozparować zegarek, skorzystaj z aplikacji Amazfit.
+    <string name="reset_factory_noconnect_msg">"„Jeśli chcesz rozparować zegarek, skorzystaj z aplikacji Amazfit.
  Przywrócenie ustawień fabrycznych spowoduje usunięcie karty UnionPay i karty wysyłkowej.
  Usunięto Kartę UnionPay: nie można już połączyć z zegarkiem. Jeśli musisz ponownie podłączyć kartę, skontaktuj się z obsługą klienta banku.
- Usunięta karta wysyłki: zostanie trwale zniszczona i nie będzie można nią ponownie zapłacić. ”</string>
+ Usunięta karta wysyłki: zostanie trwale zniszczona i nie będzie można nią ponownie zapłacić. ”"</string>
     <string name="reset_factory_conncet_msg">Twój zegarek i aplikacja Amazfit usuną sparowaną kartę UnionPay. Zegarek nadal zachowa funkcję płatności karty wysyłkowej.</string>
     <string name="reset_factory_positive">Przywróć fabr. ust.</string>
     <string name="reset_factory_negative">Anuluj</string>
@@ -325,8 +325,8 @@ kg"</string>
     <string name="reset_factory_doing2">Karta UnionPay jest usuwana</string>
     <string name="reset_factory_hint_cn">Przywrócenie ustawień fabrycznych powoduje odłączenie zegarka od telefonu komórkowego i usunięcie wszystkich danych z zegarka. Przy następnym sparowaniu zegarka z telefonem nadal można użyć ostatnią kartę wysyłki.</string>
     <string name="reset_factory_bank_title">Wyjmij najpierw kartę UnionPay</string>
-    <string name="reset_factory_bank_msg">„Zresetowanie zegarka bez usunięcia karty UnionPay spowoduje, że karty UnionPay:
-  1. Nie można usunąć z zegarka, zajmuje miejsce na chipie; 2. Nie można korzystać z funkcji płatności w zegarku; 3. Nie można połączyć się z innymi urządzeniami; Aby zabezpieczyć swoje płatności, najpierw usuń kartę UnionPay z Amazfit Watch. ”</string>
+    <string name="reset_factory_bank_msg">"„Zresetowanie zegarka bez usunięcia karty UnionPay spowoduje, że karty UnionPay:
+  1. Nie można usunąć z zegarka, zajmuje miejsce na chipie; 2. Nie można korzystać z funkcji płatności w zegarku; 3. Nie można połączyć się z innymi urządzeniami; Aby zabezpieczyć swoje płatności, najpierw usuń kartę UnionPay z Amazfit Watch. ”"</string>
     <string name="reset_factory_bank_yes">Kontynuuj Przywracanie Ustawień Fabrycznych</string>
     <string name="reset_factory_bank_no">Anuluj</string>
     <string name="reset_factory_bank_msg_again">Jeśli zegarek jest Odłączany od telefonu, usuwane są wszystkie dane z zegarka. Po ponownym powiązaniu z telefonem karta wysyłkowa może być nadal używana.</string>
@@ -393,8 +393,8 @@ kg"</string>
     <string name="light_auto_guide_content">Po włączeniu automatycznej regulacji, przesuń suwak, aby dostosować współczynnik jasności, a jasność ekranu będzie nadal pobierać dane z otoczenia.</string>
     <string name="light_auto_guide_ok">Wiem, to</string>
     <string name="watch_mode_title">Włącz tryb zegarka</string>
-    <string name="watch_mode_message">"Gdy włączono, zegarek wyświetli tylko czas, licznik kroków i włączy płatności kartą. 
- (Aby włączyć, naciśnij i przytrzymaj fizyczny przycisk, aby wyjść z tego trybu) "</string>
+    <string name="watch_mode_message">"\"Gdy włączono, zegarek wyświetli tylko czas, licznik kroków i włączy płatności kartą. 
+ (Aby włączyć, naciśnij i przytrzymaj fizyczny przycisk, aby wyjść z tego trybu) \""</string>
     <string name="watch_mode_positive">Potwierdź włączenie</string>
     <string name="watch_mode_negative">Anuluj</string>
     <string name="replace_watchface">Zmiana tarczy</string>
@@ -407,16 +407,16 @@ kg"</string>
     <string name="setting_regulatory_russia">Rosja</string>
     <string name="setting_regulatory_japan">Japonia</string>
     <string name="setting_regulation_desc_us">FCC ID:2AC8UA1811</string>
-    <string name="setting_regulation_desc_canda">"IC:21806-A1811 
- ICAN ICE-3(B)/NMB-3(B)"</string>
+    <string name="setting_regulation_desc_canda">"\"IC:21806-A1811 
+ ICAN ICE-3(B)/NMB-3(B)\""</string>
     <string name="setting_regulation_model_name">Model: %1$s</string>
     <string name="confirm_shutdown">Wyłączyć?</string>
     <string name="confirm_reboot">Restart?</string>
     <string name="app_name">Ust.zegarka</string>
     <string name="lab_desc">Zbiór narzędzi</string>
     <string name="unknown">Nieznane urządzenie</string>
-    <string name="bind_tips_title">"Proszę powiązać 
- aby zabezpieczyć Twoje dane"</string>
+    <string name="bind_tips_title">"\"Proszę powiązać 
+ aby zabezpieczyć Twoje dane\""</string>
     <string name="upgrade_checking">Sprawdz.aktual..</string>
     <string name="left_hand">Lewa</string>
     <string name="right_hand">Prawa</string>
