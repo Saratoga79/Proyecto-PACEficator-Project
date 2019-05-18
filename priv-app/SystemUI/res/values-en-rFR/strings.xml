@@ -20,8 +20,8 @@
     <string name="battery_low_title">La batterie est faible</string>
     <string name="battery_low_percent_format">%s restants</string>
     <string name="battery_low_percent_format_saver_started">%s restants. L\'économiseur de batterie est activé.</string>
-    <string name="invalid_charger">"La charge USB n\'est pas prise en charge.
-Utilisez uniquement le chargeur fourni."</string>
+    <string name="invalid_charger">"\"La charge USB n'est pas prise en charge.
+Utilisez uniquement le chargeur fourni.\""</string>
     <string name="invalid_charger_title">La charge USB n\'est pas prise en charge.</string>
     <string name="invalid_charger_text">Utilisez uniquement le chargeur fourni.</string>
     <string name="battery_low_why">Paramètres</string>
@@ -49,8 +49,8 @@ Utilisez uniquement le chargeur fourni."</string>
     <string name="always_use_device">Utiliser par défaut pour ce périphérique USB</string>
     <string name="always_use_accessory">Utiliser par défaut pour cet accessoire USB</string>
     <string name="usb_debugging_title">Autoriser le debogage USB?</string>
-    <string name="usb_debugging_message">"L\'empreinte de la clé RSA de l\'ordinateur est:
-%1$s"</string>
+    <string name="usb_debugging_message">"\"L'empreinte de la clé RSA de l'ordinateur est:
+%1$s\""</string>
     <string name="usb_debugging_always">Toujours autoriser depuis cet ordinateur</string>
     <string name="compat_mode_on">Zoom pour remplir l\'écran</string>
     <string name="compat_mode_off">Étirer pour remplir l\'écran</string>
@@ -191,9 +191,9 @@ Utilisez uniquement le chargeur fourni."</string>
     <string name="data_usage_disabled_dialog_4g_title">Données 4G éteintes</string>
     <string name="data_usage_disabled_dialog_mobile_title">Données cellulaires éteintes</string>
     <string name="data_usage_disabled_dialog_title">Données éteintes</string>
-    <string name="data_usage_disabled_dialog">"Votre appareil a coupé la data parce que la limite que vous avez paramétrée a été atteinte. 
+    <string name="data_usage_disabled_dialog">"\"Votre appareil a coupé la data parce que la limite que vous avez paramétrée a été atteinte. 
 
-La réactiver vous fait courir le risque de frais supplémentaires par votre opérateur."</string>
+La réactiver vous fait courir le risque de frais supplémentaires par votre opérateur.\""</string>
     <string name="data_usage_disabled_dialog_enable">Activer les données</string>
     <string name="status_bar_settings_signal_meter_disconnected">Pas de connection internet</string>
     <string name="status_bar_settings_signal_meter_wifi_nossid">Connecté au Wi-Fi</string>
@@ -273,8 +273,8 @@ La réactiver vous fait courir le risque de frais supplémentaires par votre op�
     <string name="expanded_header_battery_charging_with_time">%s jusque plein</string>
     <string name="expanded_header_battery_not_charging">Ne charge pas</string>
     <string name="battery_meter_very_low_overlay_symbol">!</string>
-    <string name="ssl_ca_cert_warning">"Le réseau peut 
-être surveillé"</string>
+    <string name="ssl_ca_cert_warning">"\"Le réseau peut 
+être surveillé\""</string>
     <string name="description_target_search">Chercher</string>
     <string name="description_direction_up">Glissez en haut pour %s.</string>
     <string name="description_direction_left">Glissez a gauche pour %s.</string>
@@ -310,9 +310,9 @@ La réactiver vous fait courir le risque de frais supplémentaires par votre op�
     <string name="guest_wipe_session_wipe">Recommencer</string>
     <string name="guest_wipe_session_dontwipe">Oui, continuer</string>
     <string name="user_add_user_title">Ajouter un nouvel utilisateur?</string>
-    <string name="user_add_user_message_short">"Lorsque vous ajoutez un nouvel utilisateur, cette personne doit configurer son espace.
+    <string name="user_add_user_message_short">"\"Lorsque vous ajoutez un nouvel utilisateur, cette personne doit configurer son espace.
 
-Tout utilisateur peut mettre à jour des applications pour tous les autres utilisateurs."</string>
+Tout utilisateur peut mettre à jour des applications pour tous les autres utilisateurs.\""</string>
     <string name="battery_saver_notification_title">L\'économiseur de batterie est activé</string>
     <string name="battery_saver_notification_text">Réduit les performances et les données d\'arrière-plan</string>
     <string name="battery_saver_notification_action_text">Désactiver l\'économiseur de batterie</string>
@@ -330,72 +330,72 @@ Tout utilisateur peut mettre à jour des applications pour tous les autres utili
     <string name="monitoring_title">Surveillance du réseau</string>
     <string name="disable_vpn">Désactiver le VPN</string>
     <string name="disconnect_vpn">Déconnecter le VPN</string>
-    <string name="monitoring_description_device_owned">"Cet appareil est géré par:
+    <string name="monitoring_description_device_owned">"\"Cet appareil est géré par:
 %1$s
 
-Votre administrateur peut surveiller l\'activité de votre appareil et de votre réseau, y compris les e-mails, les applications et les sites Web sécurisés.
+Votre administrateur peut surveiller l'activité de votre appareil et de votre réseau, y compris les e-mails, les applications et les sites Web sécurisés.
 
-Pour plus d\'informations, contactez votre administrateur."</string>
-    <string name="monitoring_description_vpn">"Vous avez donné l\'autorisation à \"%1$s\" pour configurer une connexion VPN.
+Pour plus d'informations, contactez votre administrateur.\""</string>
+    <string name="monitoring_description_vpn">"\"Vous avez donné l'autorisation à \"%1$s\" pour configurer une connexion VPN.
 
-Cette application peut surveiller votre appareil et votre activité réseau, y compris les e-mails, les applications et les sites Web sécurisés."</string>
-    <string name="monitoring_description_legacy_vpn">"Vous êtes connecté au VPN (\"%1$s\").
+Cette application peut surveiller votre appareil et votre activité réseau, y compris les e-mails, les applications et les sites Web sécurisés.\""</string>
+    <string name="monitoring_description_legacy_vpn">"\"Vous êtes connecté au VPN (\"%1$s\").
 
-Votre fournisseur de services VPN peut surveiller votre appareil et votre activité réseau, y compris les e-mails, les applications et les sites Web sécurisés."</string>
-    <string name="monitoring_description_vpn_device_owned">"Cet appareil est géré par:
+Votre fournisseur de services VPN peut surveiller votre appareil et votre activité réseau, y compris les e-mails, les applications et les sites Web sécurisés.\""</string>
+    <string name="monitoring_description_vpn_device_owned">"\"Cet appareil est géré par:
 %1$s
 
-Votre administrateur est capable de surveiller votre activité réseau, y compris les e-mails, les applications et les sites Web sécurisés. Pour plus d\'informations, contactez votre administrateur.
+Votre administrateur est capable de surveiller votre activité réseau, y compris les e-mails, les applications et les sites Web sécurisés. Pour plus d'informations, contactez votre administrateur.
 
-De plus, vous avez donné l\'autorisation \"%2$s\" pour configurer une connexion VPN. Cette application peut aussi surveiller l\'activité du réseau."</string>
-    <string name="monitoring_description_legacy_vpn_device_owned">"Cet appareil est géré par: 
+De plus, vous avez donné l'autorisation \"%2$s\" pour configurer une connexion VPN. Cette application peut aussi surveiller l'activité du réseau.\""</string>
+    <string name="monitoring_description_legacy_vpn_device_owned">"\"Cet appareil est géré par: 
 %1$s 
 
-Votre administrateur est capable de surveiller votre activité réseau, y compris les e-mails, les applications et les sites Web sécurisés. Pour plus d\'informations, contactez votre administrateur. 
+Votre administrateur est capable de surveiller votre activité réseau, y compris les e-mails, les applications et les sites Web sécurisés. Pour plus d'informations, contactez votre administrateur. 
 
-De plus, vous avez donné l\'autorisation \"%2$s\" pour configurer une connexion VPN. Votre fournisseur peut aussi surveiller l\'activité du réseau."</string>
-    <string name="monitoring_description_profile_owned">"Cet appareil est géré par: 
+De plus, vous avez donné l'autorisation \"%2$s\" pour configurer une connexion VPN. Votre fournisseur peut aussi surveiller l'activité du réseau.\""</string>
+    <string name="monitoring_description_profile_owned">"\"Cet appareil est géré par: 
 %1$s 
 
-Votre administrateur peut surveiller l\'activité de votre appareil et de votre réseau, y compris les e-mails, les applications et les sites Web sécurisés. 
+Votre administrateur peut surveiller l'activité de votre appareil et de votre réseau, y compris les e-mails, les applications et les sites Web sécurisés. 
 
-Pour plus d\'informations, contactez votre administrateur."</string>
-    <string name="monitoring_description_device_and_profile_owned">"Cet appareil est géré par: 
+Pour plus d'informations, contactez votre administrateur.\""</string>
+    <string name="monitoring_description_device_and_profile_owned">"\"Cet appareil est géré par: 
 %1$s 
 Votre profil est géré par: 
 %2$s
 
-Votre administrateur peut surveiller l\'activité de votre appareil et de votre réseau, y compris les e-mails, les applications et les sites Web sécurisés. 
+Votre administrateur peut surveiller l'activité de votre appareil et de votre réseau, y compris les e-mails, les applications et les sites Web sécurisés. 
 
-Pour plus d\'informations, contactez votre administrateur."</string>
-    <string name="monitoring_description_vpn_profile_owned">"Cet appareil est géré par: 
+Pour plus d'informations, contactez votre administrateur.\""</string>
+    <string name="monitoring_description_vpn_profile_owned">"\"Cet appareil est géré par: 
 %1$s 
 
-Votre administrateur est capable de surveiller votre activité réseau, y compris les e-mails, les applications et les sites Web sécurisés. Pour plus d\'informations, contactez votre administrateur. 
+Votre administrateur est capable de surveiller votre activité réseau, y compris les e-mails, les applications et les sites Web sécurisés. Pour plus d'informations, contactez votre administrateur. 
 
-De plus, vous avez donné l\'autorisation \"%2$s\" pour configurer une connexion VPN. Cette application peut aussi surveiller l\'activité du réseau."</string>
-    <string name="monitoring_description_legacy_vpn_profile_owned">"Cet appareil est géré par: 
+De plus, vous avez donné l'autorisation \"%2$s\" pour configurer une connexion VPN. Cette application peut aussi surveiller l'activité du réseau.\""</string>
+    <string name="monitoring_description_legacy_vpn_profile_owned">"\"Cet appareil est géré par: 
 %1$s  
 
-Votre administrateur est capable de surveiller votre activité réseau, y compris les e-mails, les applications et les sites Web sécurisés. Pour plus d\'informations, contactez votre administrateur.  De plus, vous avez donné l\'autorisation \"%2$s\" pour configurer une connexion VPN. 
+Votre administrateur est capable de surveiller votre activité réseau, y compris les e-mails, les applications et les sites Web sécurisés. Pour plus d'informations, contactez votre administrateur.  De plus, vous avez donné l'autorisation \"%2$s\" pour configurer une connexion VPN. 
 
-Votre fournisseur peut aussi surveiller l\'activité du réseau."</string>
-    <string name="monitoring_description_vpn_device_and_profile_owned">"Cet appareil est géré par: 
+Votre fournisseur peut aussi surveiller l'activité du réseau.\""</string>
+    <string name="monitoring_description_vpn_device_and_profile_owned">"\"Cet appareil est géré par: 
 %1$s 
 Votre profil est gégé par:
 %2$s
 
-Votre administrateur est capable de surveiller votre activité réseau, y compris les e-mails, les applications et les sites Web sécurisés. Pour plus d\'informations, contactez votre administrateur. 
+Votre administrateur est capable de surveiller votre activité réseau, y compris les e-mails, les applications et les sites Web sécurisés. Pour plus d'informations, contactez votre administrateur. 
 
-De plus, vous avez donné l\'autorisation \"%3$s\" pour configurer une connexion VPN. Cette application peut aussi surveiller l\'activité du réseau."</string>
-    <string name="monitoring_description_legacy_vpn_device_and_profile_owned">"Cet appareil est géré par: 
+De plus, vous avez donné l'autorisation \"%3$s\" pour configurer une connexion VPN. Cette application peut aussi surveiller l'activité du réseau.\""</string>
+    <string name="monitoring_description_legacy_vpn_device_and_profile_owned">"\"Cet appareil est géré par: 
 %1$s  
 Votre profil est géré par:
 %2$s
 
-Votre administrateur est capable de surveiller votre activité réseau, y compris les e-mails, les applications et les sites Web sécurisés. Pour plus d\'informations, contactez votre administrateur.  
+Votre administrateur est capable de surveiller votre activité réseau, y compris les e-mails, les applications et les sites Web sécurisés. Pour plus d'informations, contactez votre administrateur.  
 
-De plus, vous avez donné l\'autorisation \"%3$s\" pour configurer une connexion VPN. Votre fournisseur peut aussi surveiller l\'activité du réseau."</string>
+De plus, vous avez donné l'autorisation \"%3$s\" pour configurer une connexion VPN. Votre fournisseur peut aussi surveiller l'activité du réseau.\""</string>
     <string name="keyguard_indication_trust_disabled">L\'appareil restera verrouillé jusqu\'à ce que vous le déverrouilliez manuellement</string>
     <string name="hidden_notifications_title">Recevoir les notifications plus rapidement</string>
     <string name="hidden_notifications_text">Afficher les notifications avant de déverrouiller l\'appareil</string>
@@ -438,8 +438,8 @@ De plus, vous avez donné l\'autorisation \"%3$s\" pour configurer une connexion
     <string name="keyguard_missing_sim_instructions">Insérer une carte SIM.</string>
     <string name="keyguard_missing_sim_instructions_long">La carte SIM est manquante ou illisible. Insérer une carte SIM.</string>
     <string name="keyguard_permanent_disabled_sim_message_short">Carte SIM inutilisable.</string>
-    <string name="keyguard_permanent_disabled_sim_instructions">"Votre carte SIM a été désactivée de manière permanente.
-Contactez votre opérateur pour obtenir une autre carte SIM."</string>
+    <string name="keyguard_permanent_disabled_sim_instructions">"\"Votre carte SIM a été désactivée de manière permanente.
+Contactez votre opérateur pour obtenir une autre carte SIM.\""</string>
     <string name="keyguard_sim_locked_message">La carte SIM est verrouillée.</string>
     <string name="keyguard_sim_puk_locked_message">Carte SIM bloquée PUK</string>
     <string name="keyguard_sim_unlock_progress_dialog_message">Déverrouillage de la carte SIM...</string>
@@ -524,27 +524,27 @@ Contactez votre opérateur pour obtenir une autre carte SIM."</string>
     <string name="kg_login_password_hint">Mot de passe</string>
     <string name="kg_login_submit_button">Se connecter</string>
     <string name="kg_login_invalid_input">Identifiant ou mot de passe invalide.</string>
-    <string name="kg_login_account_recovery_hint">\"Identifiant ou mot de passe oublié?
-Allez sur \"<b>google.com/accounts/recovery</b>.</string>
+    <string name="kg_login_account_recovery_hint">"\"Identifiant ou mot de passe oublié?
+Allez sur \"<b>google.com/accounts/recovery</b>."</string>
     <string name="kg_login_checking_password">Vérification du compte…</string>
-    <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"Vous avez saisi un code PIN incorrect à %d reprises. 
+    <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"\"Vous avez saisi un code PIN incorrect à %d reprises. 
 
-Veuillez réessayer dans %d secondes."</string>
-    <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Vous avez saisi un mot de passe incorrect à %d reprises. 
+Veuillez réessayer dans %d secondes.\""</string>
+    <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"\"Vous avez saisi un mot de passe incorrect à %d reprises. 
 
-Veuillez réessayer dans %d secondes."</string>
-    <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Vous avez reproduit un schéma de déverrouillage incorrect à %d reprises.
+Veuillez réessayer dans %d secondes.\""</string>
+    <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"\"Vous avez reproduit un schéma de déverrouillage incorrect à %d reprises.
 
-Veuillez réessayer dans %d secondes."</string>
+Veuillez réessayer dans %d secondes.\""</string>
     <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Vous avez tenté de déverrouiller le téléphone de façon incorrecte à %d reprises. Si vous échouez encore %d fois, sa configuration d\'usine sera rétablie, et toutes les données utilisateur seront perdues.</string>
     <string name="kg_failed_attempts_now_wiping">Vous avez tenté de déverrouiller le téléphone de façon incorrecte à %d reprises. Sa configuration d\'usine va être rétablie, et toutes les données utilisateur seront perdues.</string>
     <string name="kg_failed_attempts_almost_at_erase_user" formatted="false">Vous avez tenté de déverrouiller le téléphone de façon incorrecte à %d reprises. Si vous échouez encore %d fois, cet utilisateur sera supprimé, et toutes ses données seront perdues.</string>
     <string name="kg_failed_attempts_now_erasing_user">Vous avez tenté de déverrouiller le téléphone de façon incorrecte à %d reprises. Cet utilisateur va être supprimé, et toutes ses données seront perdues.</string>
     <string name="kg_failed_attempts_almost_at_erase_profile" formatted="false">Vous avez tenté de déverrouiller le téléphone de façon incorrecte à %d reprises. Si vous échouez encore %d fois, ce profil sera supprimé, et toutes ses données seront perdues.</string>
     <string name="kg_failed_attempts_now_erasing_profile">Vous avez tenté de déverrouiller le téléphone de façon incorrecte à %d reprises. Cet profil va être supprimé, et toutes ses données seront perdues.</string>
-    <string name="kg_failed_attempts_almost_at_login" formatted="false">"Vous avez essayé de déverrouiller avec votre schéma %d fois. Après %d nouveaux accès échoués, on vous demandera de débloquer en utilisant un compte email. 
+    <string name="kg_failed_attempts_almost_at_login" formatted="false">"\"Vous avez essayé de déverrouiller avec votre schéma %d fois. Après %d nouveaux accès échoués, on vous demandera de débloquer en utilisant un compte email. 
 
-Réessayez dans %d secondes."</string>
+Réessayez dans %d secondes.\""</string>
     <string name="kg_reordering_delete_drop_target_text">Supprimer</string>
     <string name="kg_password_wrong_pin_code_pukked">Mauvais code PIN, vous devez contacter votre opérateur pour débloquer votre appareil.</string>
     <string name="kg_password_wrong_puk_code_dead">La SIM est inutilisable. Contactez votre opérateur.</string>
