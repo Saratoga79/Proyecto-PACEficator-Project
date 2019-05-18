@@ -250,10 +250,10 @@
     <string name="bluetooth_pairing_error_message">Fallo de emparejamiento</string>
     <string name="bluetooth_connecting">Conectando...</string>
     <string name="bluetooth_disconnecting">Desconectando...</string>
-    <string name="blt_hint_paring">"Emparejar 
-%1s"</string>
-    <string name="blt_paring_fail_hint">"Asegúrate que esté 
-encendido y esté cerca"</string>
+    <string name="blt_hint_paring">"\"Emparejar 
+%1s\""</string>
+    <string name="blt_paring_fail_hint">"\"Asegúrate que esté 
+encendido y esté cerca\""</string>
     <string name="blt_hint_disconnect_device">Desconectar</string>
     <string name="blt_hint_ignore_device">Ignorar dispositivo</string>
     <string name="blt_hint_connect_device">Conectar</string>
@@ -289,8 +289,8 @@ encendido y esté cerca"</string>
     <string name="rise_with_bl_under_slpt">On</string>
     <string name="rise_without_bl_under_slpt">Off</string>
     <string name="locale_applying">Aplicando idioma...</string>
-    <string name="confirm_change_locale">"¿Cambiar idioma a 
-%1$s?"</string>
+    <string name="confirm_change_locale">"\"¿Cambiar idioma a 
+%1$s?\""</string>
     <string name="gender">Género</string>
     <string name="birth_year">Fecha Nacim.</string>
     <string name="height">Altura</string>
@@ -298,20 +298,20 @@ encendido y esté cerca"</string>
     <string name="male">Hombre</string>
     <string name="female">Mujer</string>
     <string name="centimeter">cm</string>
-    <string name="birth_year_unit">"Año 
-Nacim."</string>
-    <string name="height_unit">"Altura
- cm"</string>
-    <string name="weight_unit">"Peso 
-kg"</string>
+    <string name="birth_year_unit">"\"Año 
+Nacim.\""</string>
+    <string name="height_unit">"\"Altura
+ cm\""</string>
+    <string name="weight_unit">"\"Peso 
+kg\""</string>
     <string name="reset_factory_hint">¿Restablecer de Fábrica?</string>
     <string name="reset_factory_yes">Resetear Reloj</string>
     <string name="reset_factory_no">Cancelar</string>
     <string name="reset_factory_title">Resetear Reloj</string>
-    <string name="reset_factory_noconnect_msg">"Si necesitas desbloquear la Tarjeta de Vigilancia, por favor opera a través de la aplicación de Watch Amazfit. 
+    <string name="reset_factory_noconnect_msg">"\"Si necesitas desbloquear la Tarjeta de Vigilancia, por favor opera a través de la aplicación de Watch Amazfit. 
  La Reiniciación de Factoría Unilateral de Watch eliminará la Tarjeta de Pago UnionPay y la Tarjeta de Transportación. 
  Una Tarjeta de Pago UnionPay Eliminada: No se puede perder más tiempo. Si Necesitas volver a Bingar, Consulte el Servicio de Atención al Cliente del Banco. 
- Una Tarjeta de Transportación Eliminada: Se Destruirá permanentemente y no se puede pagar de nuevo."</string>
+ Una Tarjeta de Transportación Eliminada: Se Destruirá permanentemente y no se puede pagar de nuevo.\""</string>
     <string name="reset_factory_conncet_msg">El reloj y la app Amazfit Watch eliminarán la tarjeta UnionPay. El reloj aún podrá realizar pagos con la tarjeta de transporte</string>
     <string name="reset_factory_positive">Resetear Reloj</string>
     <string name="reset_factory_negative">Cancelar</string>
@@ -322,8 +322,8 @@ kg"</string>
     <string name="reset_factory_doing2">La tarjeta UnionPay está siendo eliminada</string>
     <string name="reset_factory_hint_cn">Desconectar de tu teléfono móvil y eliminar todos los datos en tu Watch después de reiniciar Factory. Después de vincular The Watch the Next Time, la tarjeta de Transportación Abierta Actual puede continuar siendo usada.</string>
     <string name="reset_factory_bank_title">Por favor, elimine la tarjeta UnionPay en primer lugar</string>
-    <string name="reset_factory_bank_msg">"Si reinicia la Watch sin quitar la Tarjeta UnionPay, Causa la Tarjeta UnionPay: 
- 1. No se puede eliminar de la Watch, Ocurre el espacio de Chip;  2. No se puede usar la función de pago en la Watch;  3. No se puede Bound por otros Dispositivos; Para la Seguridad de Pago, primero elimine la Tarjeta UnionPay de la App de Watch Amazfit."</string>
+    <string name="reset_factory_bank_msg">"\"Si reinicia la Watch sin quitar la Tarjeta UnionPay, Causa la Tarjeta UnionPay: 
+ 1. No se puede eliminar de la Watch, Ocurre el espacio de Chip;  2. No se puede usar la función de pago en la Watch;  3. No se puede Bound por otros Dispositivos; Para la Seguridad de Pago, primero elimine la Tarjeta UnionPay de la App de Watch Amazfit.\""</string>
     <string name="reset_factory_bank_yes">Reset de Fábrica</string>
     <string name="reset_factory_bank_no">Cancelar</string>
     <string name="reset_factory_bank_msg_again">El reloj se desconecte de tu teléfono y eliminará todos los datos en el reloj. Después de que el reloj se vuelva a emparejar, la tarjeta de transporte puede seguir utilizándose.</string>
@@ -390,8 +390,8 @@ kg"</string>
     <string name="light_auto_guide_content">Cuando se active el ajuste automático de brillo, mueve para ajustar el coeficiente de brillo adecuado. Después del ajuste, el brillo de la pantalla aún cambiará en función del brillo ambiente</string>
     <string name="light_auto_guide_ok">Entiendo</string>
     <string name="watch_mode_title">Activar modo Reloj</string>
-    <string name="watch_mode_message">Cuando se active, el reloj sólo podrá mostrar la hora, contar pasos y realizar pagos con tarjetas de transporte.
-  (Después de activarlo, pulsa el botón físico para salir de este modo)</string>
+    <string name="watch_mode_message">"Cuando se active, el reloj sólo podrá mostrar la hora, contar pasos y realizar pagos con tarjetas de transporte.
+  (Después de activarlo, pulsa el botón físico para salir de este modo)"</string>
     <string name="watch_mode_positive">Confirmar</string>
     <string name="watch_mode_negative">Cancelar</string>
     <string name="replace_watchface">Cambiar watchface</string>
@@ -404,16 +404,16 @@ kg"</string>
     <string name="setting_regulatory_russia">Rusia</string>
     <string name="setting_regulatory_japan">Japón</string>
     <string name="setting_regulation_desc_us">FCC ID:2AC8UA1811</string>
-    <string name="setting_regulation_desc_canda">"IC:21806-A1811 
- ICAN ICE-3(B)/NMB-3(B)"</string>
+    <string name="setting_regulation_desc_canda">"\"IC:21806-A1811 
+ ICAN ICE-3(B)/NMB-3(B)\""</string>
     <string name="setting_regulation_model_name">Modelo: %1$s</string>
     <string name="confirm_shutdown">¿Apagar?</string>
     <string name="confirm_reboot">¿Reiniciar?</string>
     <string name="app_name">Ajustes</string>
     <string name="lab_desc">Recopilar parte de las herramientas de depuración</string>
     <string name="unknown">Dispositivo desconocido</string>
-    <string name="bind_tips_title">"Por favor, enlace para proteger 
-sus datos de forma más segura"</string>
+    <string name="bind_tips_title">"\"Por favor, enlace para proteger 
+sus datos de forma más segura\""</string>
     <string name="upgrade_checking">Comprobando actualización...</string>
     <string name="left_hand">Izquierda</string>
     <string name="right_hand">Derecha</string>
