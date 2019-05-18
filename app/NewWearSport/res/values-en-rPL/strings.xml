@@ -209,8 +209,8 @@
     <string name="lap_add_failed">Okrążenie jest zbyt krótkie, nie można zarejestrować tego okrążenia</string>
     <string name="sport_main_stop_this_sport">Zatrzymać bieżącą aktywność?</string>
     <string name="sport_history_delete_dialog_title">Usunąć tę aktywność? Nie możesz odzyskać tej aktywności po usunięciu.</string>
-    <string name="sport_main_give_up_this_sport">"Odrzucić tę aktywność?
-"</string>
+    <string name="sport_main_give_up_this_sport">"\"Odrzucić tę aktywność?
+\""</string>
     <string name="sport_confirm_stop_sport">Tak</string>
     <string name="sport_confirm_not_stop_sport">Nie</string>
     <string name="sport_main_am">AM</string>
@@ -280,8 +280,8 @@
     <string name="sport_stride_unit_imperial">w</string>
     <string name="end_last_sport_tips">Najpierw zatrzymaj aktywność %1$s</string>
     <string name="export_route_trail">Eksport</string>
-    <string name="sport_dlg_msg_hint_cancel">"Zakończyć eksport?
-"</string>
+    <string name="sport_dlg_msg_hint_cancel">"\"Zakończyć eksport?
+\""</string>
     <string name="exchange_prepare_riding">Nast: Jazda rowerem</string>
     <string name="exchange_prepare_running">Nast: Bieganie</string>
     <string name="count_down_swim_tint">Aby zapobiec przypadkowemu dotknięciu, ekran zostanie zablokowany</string>
@@ -402,8 +402,8 @@
     <string name="sport_widget_title_compounding">Ruch złożony</string>
     <string name="sport_select_compound">Wybór sportu</string>
     <string name="swimming_stop_dialog_msg_not_reach_minimum_distance">Nie można zapisać mniej niż jednej tury, kontynuować?</string>
-    <string name="tennic_wear_hand_guide">\"Musisz pamiętać aby zegarek
-nosić na ręce w której trzymasz rakietę</string>
+    <string name="tennic_wear_hand_guide">"\"Musisz pamiętać aby zegarek
+nosić na ręce w której trzymasz rakietę"</string>
     <string name="select_compound_sport">Wybierz ćwiczenie %1$s</string>
     <string name="select_compound_sport_first">Pierwsze</string>
     <string name="select_compound_sport_second">Drugie</string>
@@ -446,9 +446,9 @@ nosić na ręce w której trzymasz rakietę</string>
     <string name="modify_big_dis_regain">Modyfikuj</string>
     <string name="modify_big_dis_confirm">Potwierdź kalibracje</string>
     <string name="re_modify_dis">Rekalibracja</string>
-    <string name="re_modify_dis_tips">"1. Kalibracja z dystansem większym niż 0,5 km pozwoli na poznanie nawyków ruchowych i pozwoli na wyliczenie dokładniejszych pomiarów. 
+    <string name="re_modify_dis_tips">"\"1. Kalibracja z dystansem większym niż 0,5 km pozwoli na poznanie nawyków ruchowych i pozwoli na wyliczenie dokładniejszych pomiarów. 
 2. Jeśli wykonano wiele kalibracji, ale nadal nie jesteś zadowolony z ich wyników, można je ponownie skalibrować. 
-3. Ponowna kalibracja spowoduje usunięcie wszystkich poprzednich zapisów kalibracyjnych."</string>
+3. Ponowna kalibracja spowoduje usunięcie wszystkich poprzednich zapisów kalibracyjnych.\""</string>
     <string name="give_up_re_modify_dis">Zrezygnuj</string>
     <string name="confirm_re_modify_dis">Potwierdź</string>
     <string name="re_modify_dis_successful">Rekalibracja udana</string>
@@ -467,12 +467,12 @@ nosić na ręce w której trzymasz rakietę</string>
     <string name="time_unit_hour">Godz.</string>
     <string name="train_load_medium">Średni</string>
     <string name="train_load_near_seven_days">Ostatnie 7 dni</string>
-    <string name="train_load_suggess_status_no_record">"Proszę używać zegarka na początku przez tydzień.
- Dokonamy oceny obciążeń treningowych dla 7 dni "</string>
+    <string name="train_load_suggess_status_no_record">"\"Proszę używać zegarka na początku przez tydzień.
+ Dokonamy oceny obciążeń treningowych dla 7 dni \""</string>
     <string name="train_load_suggess_status_less">Słaba intensywność treningu</string>
     <string name="train_load_suggess_status_good">Dobry trening</string>
-    <string name="train_load_suggess_status_recovery">"Intensywności treningu jest za wysoka, 
- należy unikać nadmiernego treningu."</string>
+    <string name="train_load_suggess_status_recovery">"\"Intensywności treningu jest za wysoka, 
+ należy unikać nadmiernego treningu.\""</string>
     <string name="train_load_suggess_status_over">Uwaga! Możliwe przetrenowanie!</string>
     <string name="real_time_perpormance_level_very_good">Dobry</string>
     <string name="real_time_perpormance_level_good">Dobry</string>
@@ -510,8 +510,8 @@ nosić na ręce w której trzymasz rakietę</string>
     <string name="first_beat_help_te">&lt;font color=#00FF00&gt; Co to jest?/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Efekt treningowy (TE) mierzy nagromadzony ładunek podczas treningu i interpretuje jego wpływ na wydolność tlenową. TE zaczyna się na poziomie 0.0. W miarę postępu treningu wartość TE wzrasta (od 0 do 5) i informuje, w jaki sposób trening wpływa na Twoją kondycję. &lt;br/&gt;&lt;font color=#00FF00&gt;Jak to jest obliczane? &lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; TE jest obliczane na podstawie profilu użytkownika, danych pulsu i trudności z treningiem. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Zegarek pokaże pomiar TE w czasie rzeczywistym podczas treningu, a także wynik końcowy TE na koniec treningu A&amp;lt; &lt;2,0 TE po prostu wskazuje, że trening ma niewielki wpływ na wydolność sercowo-oddechową i jest przydatny tylko do budowania podstawa oporu i regeneracji&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt; Więcej informacji można znaleźć w Pomocy aplikacji Amazfit Watch. &lt;/small&gt;</string>
     <string name="first_beat_help_train_load">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Zegarek obliczy obciążenie treningowe na podstawie wartości EPOC (Nadmiar zużycia tlenu po wysiłku) zgromadzonych z danych tętna zarejestrowanych podczas treningu w mobilnym oknie 7 dni. Użytkownik może odpowiednio dostosować program treningowy, aby uzyskać optymalne obciążenie. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt; Aby uzyskać więcej informacji, zobacz Pomoc w aplikacji Amazfit Watch. &lt;/small&gt;</string>
     <string name="first_beat_help_run_target_and_real_time_guide">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Zegarek zapewni zalecenie treningowe oparte na poziomie sprawności Vo2Max, ostatnim obciążeniu treningowym i stanie odzyskiwania poprzedniego treningu. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Jeśli włączysz funkcję szkolenia w czasie rzeczywistym w konfiguracji i ustawisz cel Te lub wybierzesz jeden z zalecanych treningów, zegarek poprowadzi Cię przez szkolenie i poprosi o dostosowanie tempa i tętna, aby osiągnąć wyznaczone cele.. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;small&gt; Aby uzyskać więcej informacji, zobacz Pomoc w aplikacji Amazfit Watch.&lt;/small&gt;</string>
-    <string name="first_beat_help_daily_perpormence">&lt;font color=#00FF00&gt;Co to jest?&lt;/font&gt;
-/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Biegacze mogą być w dobrym lub złym stanie. Stan wydajności może pomóc określić ilościowo twój status w każdym wyścigu.&lt;br/&gt;&lt;font color=#00FF00&gt;Jak tego użyć ? &lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Zegarek oceni stan Twojej wydajności po 6 minutach od rozpoczęcia aktywności. Wartość dodatnia oznacza dobry stan. Wartość ujemna będzie wskazywać, że nie należy naciskać zbyt mocno.&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Po każdej aktywności możesz analizować wyścig na wykresie wydajności. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;(Więcej informacji na temat statusu wydajności można znaleźć na stronie pomocy aplikacji zegarka Amazfit.)&lt;/small&gt;</string>
+    <string name="first_beat_help_daily_perpormence">"&lt;font color=#00FF00&gt;Co to jest?&lt;/font&gt;
+/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Biegacze mogą być w dobrym lub złym stanie. Stan wydajności może pomóc określić ilościowo twój status w każdym wyścigu.&lt;br/&gt;&lt;font color=#00FF00&gt;Jak tego użyć ? &lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Zegarek oceni stan Twojej wydajności po 6 minutach od rozpoczęcia aktywności. Wartość dodatnia oznacza dobry stan. Wartość ujemna będzie wskazywać, że nie należy naciskać zbyt mocno.&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Po każdej aktywności możesz analizować wyścig na wykresie wydajności. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;(Więcej informacji na temat statusu wydajności można znaleźć na stronie pomocy aplikacji zegarka Amazfit.)&lt;/small&gt;"</string>
     <string name="first_beat_help_recovery_time">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Zegarek zaproponuje czas pełnego powrotu do zdrowia dla każdego treningu na podstawie wyników biegu, który jest proporcjonalny do intensywności treningu. Podczas regeneracji biegaczom nie zaleca się treningów o wysokiej intensywności ale mogą wykonać trening regenerujący i pomóc ciału odzyskać siły. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt; (więcej instrukcji dotyczących czasu odzyskiwania można uzyskać znaleźć na stronie pomocy aplikacji zegarka Amazfit.)&lt;/small&gt;</string>
     <string name="vo2max_unit">mg/kg/min</string>
     <string name="run_vo2max_unit">ml / kg / min</string>
@@ -978,9 +978,9 @@ nosić na ręce w której trzymasz rakietę</string>
     <string name="hint_cancelling">Anulowanie ...</string>
     <string name="hint_success_exported_title">Eksp.do pliku GPX zakoń.</string>
     <string name="hint_failed_exported_title">Eksport przerwany</string>
-    <string name="hint_where">"Ślad zapis.w fold.\'/gpxdata/\'.
+    <string name="hint_where">"\"Ślad zapis.w fold.'/gpxdata/'.
  
-Skopiuj do komputera za pomocą USB"</string>
+Skopiuj do komputera za pomocą USB\""</string>
     <string name="hint_failed">Esport śladu nie powiódł się, spóbuj ponownie.。</string>
     <string name="app_name">Sporty-Rej.</string>
     <string name="average_text">Avg</string>
