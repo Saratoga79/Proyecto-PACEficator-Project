@@ -209,8 +209,8 @@
     <string name="lap_add_failed">A volta é muito curta, não posso gravar a volta</string>
     <string name="sport_main_stop_this_sport">Parar atividade atual?</string>
     <string name="sport_history_delete_dialog_title">Apagar esta atividade? Não pode recuperar esta atividade após apagada.</string>
-    <string name="sport_main_give_up_this_sport">"Descartar esta atividade?
-"</string>
+    <string name="sport_main_give_up_this_sport">"\"Descartar esta atividade?
+\""</string>
     <string name="sport_confirm_stop_sport">Sim</string>
     <string name="sport_confirm_not_stop_sport">Não</string>
     <string name="sport_main_am">AM</string>
@@ -280,8 +280,8 @@
     <string name="sport_stride_unit_imperial">in</string>
     <string name="end_last_sport_tips">pf pare a atividade %1$s primeiro</string>
     <string name="export_route_trail">Exportar</string>
-    <string name="sport_dlg_msg_hint_cancel">"Cancelar a exportação?
-"</string>
+    <string name="sport_dlg_msg_hint_cancel">"\"Cancelar a exportação?
+\""</string>
     <string name="exchange_prepare_riding">Próx: Ciclismo</string>
     <string name="exchange_prepare_running">Próx: Correr</string>
     <string name="count_down_swim_tint">为防止误触,即将锁屏</string>
@@ -402,8 +402,8 @@
     <string name="sport_widget_title_compounding">Em multidesporto</string>
     <string name="sport_select_compound">Selecionar</string>
     <string name="swimming_stop_dialog_msg_not_reach_minimum_distance">Menos de uma viagem não pode ser salva, continuar?</string>
-    <string name="tennic_wear_hand_guide">"Make sure to wear the watch 
- on the wrist of the hand holding the racket"</string>
+    <string name="tennic_wear_hand_guide">"\"Make sure to wear the watch 
+ on the wrist of the hand holding the racket\""</string>
     <string name="select_compound_sport">Selecionar %1$s Desporto</string>
     <string name="select_compound_sport_first">Primeiro</string>
     <string name="select_compound_sport_second">Segundo</string>
@@ -446,9 +446,9 @@
     <string name="modify_big_dis_regain">Modify</string>
     <string name="modify_big_dis_confirm">Confirm calibration</string>
     <string name="re_modify_dis">Recalibration</string>
-    <string name="re_modify_dis_tips">"1. Calibration with a mileage greater than 0.5 km allows the watch to learn your running habits and make the running mileage more accurate. 
+    <string name="re_modify_dis_tips">"\"1. Calibration with a mileage greater than 0.5 km allows the watch to learn your running habits and make the running mileage more accurate. 
 2. If you have performed multiple calibrations but are still not satisfied with the mileage results, you can recalibrate. 
-3. Recalibration will delete all previous calibration records."</string>
+3. Recalibration will delete all previous calibration records.\""</string>
     <string name="give_up_re_modify_dis">Give up</string>
     <string name="confirm_re_modify_dis">Comfirm</string>
     <string name="re_modify_dis_successful">Recalibration succeeded</string>
@@ -467,12 +467,12 @@
     <string name="time_unit_hour">Hora</string>
     <string name="train_load_medium">Médio</string>
     <string name="train_load_near_seven_days">Near seven days</string>
-    <string name="train_load_suggess_status_no_record">"Please use the watch for a week first.
- We will evaluate your training load for 7 days"</string>
+    <string name="train_load_suggess_status_no_record">"\"Please use the watch for a week first.
+ We will evaluate your training load for 7 days\""</string>
     <string name="train_load_suggess_status_less">Insufficient training intensity</string>
     <string name="train_load_suggess_status_good">Good training status</string>
-    <string name="train_load_suggess_status_recovery">"Training intensity is too high, 
- Please avoid excessive training."</string>
+    <string name="train_load_suggess_status_recovery">"\"Training intensity is too high, 
+ Please avoid excessive training.\""</string>
     <string name="train_load_suggess_status_over">Attention! Excessive training!</string>
     <string name="real_time_perpormance_level_very_good">Bom</string>
     <string name="real_time_perpormance_level_good">Bom</string>
@@ -975,12 +975,12 @@
     <string name="dlg_btn_l_msg">Não</string>
     <string name="dlg_btn_r_msg">Sim</string>
     <string name="hint_cancelling">Cancelando...</string>
-    <string name="hint_success_exported_title">"Ficheiro GPX exportado 
-com sucesso"</string>
+    <string name="hint_success_exported_title">"\"Ficheiro GPX exportado 
+com sucesso\""</string>
     <string name="hint_failed_exported_title">Falha ao exportar</string>
-    <string name="hint_where">"O ficheiro gpx foi posto na
-pasta \'/sdcard/gpxdata\'.
-Podes copiar-lo ligando a um computador por USB."</string>
+    <string name="hint_where">"\"O ficheiro gpx foi posto na
+pasta '/sdcard/gpxdata'.
+Podes copiar-lo ligando a um computador por USB.\""</string>
     <string name="hint_failed">Falha ao exportar, pf tenta outra vez.</string>
     <string name="app_name">gpx-recorder</string>
     <string name="average_text">Méd</string>
