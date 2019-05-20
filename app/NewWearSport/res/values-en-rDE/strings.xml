@@ -324,8 +324,8 @@
     <string name="swim_pace">Schritte</string>
     <string name="swim_pace_unit">/100m</string>
     <string name="swim_pace_unit_imperial">/100 Fuß</string>
-    <string name="swim_trips_unit">\"(%1$d m / Reise)
-\"</string>
+    <string name="swim_trips_unit">"\"(%1$d m / Reise)
+\""</string>
     <string name="swim_trips_unit_yd">(%1$d Yards / Reise)</string>
     <string name="heart_region_title">Herzfrequenz Zone</string>
     <string name="heart_region_anaerobic＿limit">Maximal</string>
@@ -440,9 +440,9 @@
     <string name="modify_big_dis_regain">Bearbeiten</string>
     <string name="modify_big_dis_confirm">Kalibrierung fortsetzen</string>
     <string name="re_modify_dis">Erneut kalibrieren</string>
-    <string name="re_modify_dis_tips">"1. Um das Fernergebnis einer laufenden Sitzung zu kalibrieren (muss länger als 0,5 km lang sein) hilft die Uhr, ein genaueres Ergebnis zu generieren.
+    <string name="re_modify_dis_tips">"\"1. Um das Fernergebnis einer laufenden Sitzung zu kalibrieren (muss länger als 0,5 km lang sein) hilft die Uhr, ein genaueres Ergebnis zu generieren.
 2. Wenn Sie nach mehreren Kalibrierungsversuchen noch nicht zufrieden sind, versuchen Sie, erneut zu kalibrieren.
-3. Wenn Sie das Ergebnis erneut kalibrieren, werden alle vorherigen Kalibrierungsdaten gelöscht."</string>
+3. Wenn Sie das Ergebnis erneut kalibrieren, werden alle vorherigen Kalibrierungsdaten gelöscht.\""</string>
     <string name="give_up_re_modify_dis">Verwerfen</string>
     <string name="confirm_re_modify_dis">Bestätigung</string>
     <string name="re_modify_dis_successful">Rekalibrierung erfolgreich</string>
@@ -611,14 +611,14 @@
     <string name="real_time_target_finish">Ziel erreicht</string>
     <string name="real_time_guide_title_1">Gutes Tempo!</string>
     <string name="real_time_guide_title_2">Halte das Tempo!</string>
-    <string name="real_time_guide_title_3">\"Geschwindigkeit steigern
-für effektives Training!\"</string>
+    <string name="real_time_guide_title_3">"\"Geschwindigkeit steigern
+für effektives Training!\""</string>
     <string name="real_time_guide_title_6">Gutes Tempo!</string>
-    <string name="real_time_guide_title_7">\"Geschwindigkeit steigern
-für effektiveres Training!\"</string>
+    <string name="real_time_guide_title_7">"\"Geschwindigkeit steigern
+für effektiveres Training!\""</string>
     <string name="real_time_guide_title_10">Gutes Tempo!</string>
-    <string name="real_time_guide_title_11">\"Geschwindigkeit steigern
-für effektiveres Training!\"</string>
+    <string name="real_time_guide_title_11">"\"Geschwindigkeit steigern
+für effektiveres Training!\""</string>
     <string name="real_time_guide_title_14">Gut gemacht!</string>
     <string name="real_time_guide_title_22">Gutes Tempo!</string>
     <string name="real_time_guide_title_25">Geschwindigkeit steigern</string>
@@ -985,9 +985,9 @@ für effektiveres Training!\"</string>
     <string name="hint_cancelling">Am Abbrechen...</string>
     <string name="hint_success_exported_title">Exportieren zu GPX Datei erfolgreich</string>
     <string name="hint_failed_exported_title">"Fehler beim Exportieren"</string>
-    <string name="hint_where">"Die GPX-Datei wurde abgelegt in
-Ordner \'/sdcard/gpxdata\'.
-Sie können es über USB auf einen Computer kopieren."</string>
+    <string name="hint_where">"\"Die GPX-Datei wurde abgelegt in
+Ordner '/sdcard/gpxdata'.
+Sie können es über USB auf einen Computer kopieren.\""</string>
     <string name="hint_failed">"Fehler beim Exportieren, bitte versuchen Sie es erneut."</string>
     <string name="app_name">Sport</string>
     <string name="average_text">Durschnitt</string>
