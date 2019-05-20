@@ -49,16 +49,16 @@
     <string name="quick_settings_date_chinese">yyyy-MM-dd</string>
     <string name="quick_settings_date_format">1900-1-31</string>
     <string name="quick_settings_date_yeareve">New Year Eve</string>
-    <string name="seconed_confirm_nodisturb">"Silent Mode On
-New notification will not show any more."</string>
+    <string name="seconed_confirm_nodisturb">"\"Silent Mode On
+New notification will not show any more.\""</string>
     <string name="quick_settings_battery_charging_full">Fully charged</string>
     <string name="quick_settings_battery_is_charging">در حال شارژ...</string>
     <string name="quick_settings_battery_hasnot_charged">Not been charged</string>
     <string name="quick_settings_battery_charging_intervalDay">%1$d days %2$d hours since charge</string>
     <string name="quick_settings_battery_charging_intervalDay_lessHour">%d days since charge</string>
     <string name="quick_settings_battery_charging_intervalDayLess">%d hours since charge</string>
-    <string name="quick_settings_battery_charging_intervalLessHour">"Less than 1 hour 
-since charge"</string>
+    <string name="quick_settings_battery_charging_intervalLessHour">"\"Less than 1 hour 
+since charge\""</string>
     <string name="quick_settings_battery_sportString">Battery life in Sports mode</string>
     <string name="quick_settings_battery_sporttime_hour_unit">ساعت</string>
     <string name="quick_settings_battery_sporttime_KM_unit">کیلومتر</string>
@@ -229,10 +229,10 @@ since charge"</string>
     <string name="cal_event_title">%1$s %2$s</string>
     <string name="cal_event_begin_end_time">%1$s - %2$s</string>
     <string name="cal_all_day">همه روز</string>
-    <string name="cal_all_day_line_break">"All
-day"</string>
-    <string name="cal_multi_day_line_break">"Multi
-day"</string>
+    <string name="cal_all_day_line_break">"\"All
+day\""</string>
+    <string name="cal_multi_day_line_break">"\"Multi
+day\""</string>
     <string name="cal_mail_all">Email all guests</string>
     <string name="cal_navigate_to">Navigate to %s</string>
     <string name="cal_navigate">پیمایش</string>
@@ -260,9 +260,9 @@ day"</string>
     <string name="troubleshoot_use_android_wear">Install the Android Wear app from the Play Store. Then launch the Android Wear app to connect to the watch.</string>
     <string name="troubleshoot_internet">Make sure your phone has an Internet connection.</string>
     <string name="troubleshoot_tethering">Try turning on Bluetooth tethering on your phone.</string>
-    <string name="troubleshoot_online_help">"To get more help, go to 
+    <string name="troubleshoot_online_help">"\"To get more help, go to 
 %s
-"</string>
+\""</string>
     <string name="troubleshoot_help_url">g.co/AWhelp</string>
     <string name="retry_action">سعی مجدد</string>
     <string name="restart_action">شروع مجدد</string>
@@ -409,9 +409,9 @@ day"</string>
     <string name="server_error">"Can't reach Google at the moment."</string>
     <string name="audio_error">"Can't open microphone."</string>
     <string name="null_result_error">Your search did not match any documents</string>
-    <string name="no_answer_error">"%s
+    <string name="no_answer_error">"\"%s
 
-Sorry, Google can\'t help you with that"</string>
+Sorry, Google can't help you with that\""</string>
     <string name="no_companion_error">"Can't connect to your paired device."</string>
     <string name="gsa_update_needed">Open Google Play on your phone or tablet and update the Google Search app.</string>
     <string name="gsa_install_needed">Open Google Play on your phone or tablet and install the Google Search app.</string>
@@ -490,8 +490,8 @@ Sorry, Google can\'t help you with that"</string>
     <string name="watchface_picker_more">More</string>
     <string name="watchface_picker_recent">Recent</string>
     <string name="watchface_picker_all">All</string>
-    <string name="airplane_mode">"Airplane mode
-On"</string>
+    <string name="airplane_mode">"\"Airplane mode
+On\""</string>
     <string name="airplane_mode_cue_card">Airplane mode</string>
     <string name="disconnected">Disconnected</string>
     <string name="timed_out_state">Timed out</string>

@@ -439,9 +439,9 @@
     <string name="modify_big_dis_regain">Editar</string>
     <string name="modify_big_dis_confirm">Calibrar</string>
     <string name="re_modify_dis">Calibrar outra vez</string>
-    <string name="re_modify_dis_tips">"1. Calibrar a distancia dunha carreira (debe ser maior de 0.5 km) axudará ó reloxo a xerar un resultado máis axustado da distancia.
+    <string name="re_modify_dis_tips">"\"1. Calibrar a distancia dunha carreira (debe ser maior de 0.5 km) axudará ó reloxo a xerar un resultado máis axustado da distancia.
 2. Se ainda non estás satisfeito co resultado despois de varios intentos de calibrar, proba a calibrar outra vez.
-3. Se volves a calibrar o resultado, borraranse todas as calibracións previas."</string>
+3. Se volves a calibrar o resultado, borraranse todas as calibracións previas.\""</string>
     <string name="give_up_re_modify_dis">Descartar</string>
     <string name="confirm_re_modify_dis">OK</string>
     <string name="re_modify_dis_successful">Calibrado con éxito</string>
@@ -513,8 +513,8 @@
     <string name="first_beat_help_title_recovery_time">Tempo de recuperación</string>
     <string name="first_beat_help_vo2_max">"&lt;font color=#00FF00&gt;¿Qué é esto?&lt;/font&gt;&lt;br/&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; VO₂ max representa o máximo volume de osíxeno que o corpo pode consumir en un minuto medido en ml/kg/min. Avalía o estado da capacidade cardiorrespiratoria dos usuarios que é importante para a saúde xeral, o benestar e o rendemento deportivo. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 
 O reloxo avaliará automaticamente o seu VO2Max segundo a frecuencia cardíaca, a velocidade, etc. durante un adestramento de carreira de intensidade moderada e compararao cun grupo de referencia da mesma idade e sexo para determinar o seu nivel de aptitude. &lt;br/&gt;&lt;font color=#00FF00&gt;¿Cómo o avalía?&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 1. Proporcione información de perfil preciso como idade e sexo na aplicación Amazfit Watch durante a instalación; &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 2. Faga unha actividade vigorosa de 15 minutos ou máis ao aire libre co reloxo activado e asegúrese de que a frecuencia cardíaca sexa igual ou superior ao 75% da súa HR máxima durante polo menos 10 minutos.; &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 3. Despois de completar a ejecución, pode comprobar o VO2Max actual na aplicación de actividades deportivas no reloxo ou na páxina de estado persoal da aplicación Amazift Watch. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;Para máis detalles, vaia a sección de Axuda na app Amazfit Watch.&lt;/small&gt;"</string>
-    <string name="first_beat_help_te">&lt;font color=#00FF00&gt;¿Qué é esto?&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;TO efecto de adestramento (TE) mide a carga acumulada durante un exercicio e interpreta o seu impacto na súa capacidade aeróbica. TE comeza no nivel 0.0. A medida que o adestramento avanza correctamente, o valor TE aumenta (de 0 a 5) e indícalle como o adestramento afecta a súa aptitude. &lt;br/&gt;&lt;font color=#00FF00&gt;¿Cómo se calcula?&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;O TE calcúlase en función do seu perfil de usuario, datos de batimentos cardíacos e dificultade do adestramento. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 
-O reloxo mostrará a medición TE en tempo real durante un adestramento, así como o resultado final do TE ao final do adestramento.A&amp;lt;2.0 TE simplemente indica que o adestramento ten pouco efecto sobre a aptitude cardiorrespiratoria e só é útil para construír unha base de resistencia e recuperación. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;Para máis detellas consulte a sección de axuda na app Amazfit Watch.&lt;/small&gt;</string>
+    <string name="first_beat_help_te">"&lt;font color=#00FF00&gt;¿Qué é esto?&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;TO efecto de adestramento (TE) mide a carga acumulada durante un exercicio e interpreta o seu impacto na súa capacidade aeróbica. TE comeza no nivel 0.0. A medida que o adestramento avanza correctamente, o valor TE aumenta (de 0 a 5) e indícalle como o adestramento afecta a súa aptitude. &lt;br/&gt;&lt;font color=#00FF00&gt;¿Cómo se calcula?&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;O TE calcúlase en función do seu perfil de usuario, datos de batimentos cardíacos e dificultade do adestramento. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 
+O reloxo mostrará a medición TE en tempo real durante un adestramento, así como o resultado final do TE ao final do adestramento.A&amp;lt;2.0 TE simplemente indica que o adestramento ten pouco efecto sobre a aptitude cardiorrespiratoria e só é útil para construír unha base de resistencia e recuperación. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;Para máis detellas consulte a sección de axuda na app Amazfit Watch.&lt;/small&gt;"</string>
     <string name="first_beat_help_train_load">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;O reloxo calculará a carga de adestramento en función dos valores de EPOC (exceso de consumo de osíxeno despois do exercicio) acumulado a partir dos datos de frecuencia cardíaca gravados durante o adestramento nunha xanela móbil de 7 días. O usuario pode axustar o programa de adestramento de acordo para conseguir unha carga óptima.&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;Para máis detalles visite a sección de axuda da app Amazfit Watch.&lt;/small&gt;</string>
     <string name="first_beat_help_run_target_and_real_time_guide">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;O reloxo proporcionará unha recomendación de adestramento baseada no seu nivel de aptitude VO2Max, a carga de adestramento recente e o estado de recuperación do adestramento anterior.&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Se habilita a función de adestramento en tempo real na configuración e establece un obxectivo TE ou escolle un dos exercicios recomendados, o reloxo guiaralle durante o adestramento e pediralle que axuste o ritmo eo ritmo cardíaco para alcanzar os obxectivos establecidos.&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;small&gt;Para máis detalles visite a sección de axuda na app Amazfit Watch.&lt;/small&gt;</string>
     <string name="first_beat_help_daily_perpormence">"&lt;font color=#00FF00&gt;¿Qué é esto?&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;
@@ -575,7 +575,8 @@ O reloxo avaliará automaticamente a súa condición de rendemento despois de ~ 
     <string name="music_source_local">Cancións locais</string>
     <string name="music_source_all">Todo</string>
     <string name="music_init_not_done">Iniciando Música…</string>
-    <string name="music_no_douban_resource">Non hai cancións locais dispoñibles para a reprodución, ¿descargalas agora?</string>
+    <string name="music_no_douban_resource">"Non hai cancións locais dispoñibles para a reprodución, ¿descargalas agora?
+"</string>
     <string name="ximalaya_music_title">Ximalaya</string>
     <string name="first_music_tips">Engadiuse a función de control de música</string>
     <string name="title_activity_running">Actividade de carreira</string>
@@ -983,12 +984,12 @@ O reloxo avaliará automaticamente a súa condición de rendemento despois de ~ 
     <string name="dlg_btn_l_msg">No</string>
     <string name="dlg_btn_r_msg">Yes</string>
     <string name="hint_cancelling">Canceling…</string>
-    <string name="hint_success_exported_title">"Exported GPX file
-successfully"</string>
+    <string name="hint_success_exported_title">"\"Exported GPX file
+successfully\""</string>
     <string name="hint_failed_exported_title">"Couldn't export"</string>
-    <string name="hint_where">"Saved GPX file to
-\'/sdcard/gpxdata\'.
-You can copy it to a computer via USB."</string>
+    <string name="hint_where">"\"Saved GPX file to
+'/sdcard/gpxdata'.
+You can copy it to a computer via USB.\""</string>
     <string name="hint_failed">"Couldn't export, try again."</string>
     <string name="app_name">gpx-recorder</string>
     <string name="average_text">Average</string>
