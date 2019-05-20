@@ -209,8 +209,8 @@
     <string name="lap_add_failed">"Tour trop court, ne peux pas enregistrer ce tour"</string>
     <string name="sport_main_stop_this_sport">Stopper l\'activité en cours?</string>
     <string name="sport_history_delete_dialog_title">"Supprimer cette activité? Vous ne pourrez pas la récupérer."</string>
-    <string name="sport_main_give_up_this_sport">"Annuler cette activité?
-"</string>
+    <string name="sport_main_give_up_this_sport">"\"Annuler cette activité?
+\""</string>
     <string name="sport_confirm_stop_sport">Oui</string>
     <string name="sport_confirm_not_stop_sport">Non</string>
     <string name="sport_main_am">AM</string>
@@ -280,8 +280,8 @@
     <string name="sport_stride_unit_imperial">in</string>
     <string name="end_last_sport_tips">Merci de stopper l\'activité %1$s d\'abord</string>
     <string name="export_route_trail">Export</string>
-    <string name="sport_dlg_msg_hint_cancel">"Annuler cet export?
-"</string>
+    <string name="sport_dlg_msg_hint_cancel">"\"Annuler cet export?
+\""</string>
     <string name="exchange_prepare_riding">Suivant : Cyclisme</string>
     <string name="exchange_prepare_running">Suivant : Course</string>
     <string name="count_down_swim_tint">L\'écran sera verrouillé</string>
@@ -441,9 +441,9 @@
     <string name="modify_big_dis_regain">Editer</string>
     <string name="modify_big_dis_confirm">Continuer l’étalonnage</string>
     <string name="re_modify_dis">Étalonner à nouveau</string>
-    <string name="re_modify_dis_tips">« 1. Pour étalonner le résultat de la distance d’une session en cours d’exécution (doit être supérieur à 0,5 km), la montre génère un résultat plus précis.
-2. Si vous n’êtes toujours pas satisfait du résultat après plusieurs tentatives d\'étalonnages, essayez d’étalonner à nouveau.
-3. Si vous étalonnez le résultat encore une fois, tous les précédents étalonnages seront supprimés. »</string>
+    <string name="re_modify_dis_tips">"« 1. Pour étalonner le résultat de la distance d’une session en cours d’exécution (doit être supérieur à 0,5 km), la montre génère un résultat plus précis.
+2. Si vous n’êtes toujours pas satisfait du résultat après plusieurs tentatives d'étalonnages, essayez d’étalonner à nouveau.
+3. Si vous étalonnez le résultat encore une fois, tous les précédents étalonnages seront supprimés. »"</string>
     <string name="give_up_re_modify_dis">Ignorer</string>
     <string name="confirm_re_modify_dis">OK</string>
     <string name="re_modify_dis_successful">Réétalonnage réussi</string>
@@ -514,11 +514,11 @@
     <string name="first_beat_help_title_daily_perpormence">Condition de performance</string>
     <string name="first_beat_help_title_recovery_time">Temps de Récuperation</string>
     <string name="first_beat_help_vo2_max">"&lt;font color=#00FF00&gt;Qu'est-ce que c'est?&lt;/font&gt;&lt;br/&gt; VO2Max représente le volume maximal d'oxygène que le corps peut consommer en une minute, mesuré en ml/kg/min. Il évalue l'état de la condition cardiorespiratoire des utilisateurs, ce qui est important pour la santé globale, le bien-être et la performance sportive. &lt;br/&gt;La montre évalue automatiquement votre VO2Max en fonction de la fréquence cardiaque, de la vitesse, etc. pendant une séance d'entraînement d'intensité modérée et la compare à un groupe de référence du même âge et du même sexe pour déterminer votre niveau de condition physique. &lt;br/&gt;&lt;font color=#00FF00&gt;Comment évaluer? &lt;/font&gt;&lt;br/&gt; 1. Fournir des informations précises sur le profil, telles que l'âge et le sexe, dans l'application Amazfit Watch pendant la configuration; &lt;br/&gt; 2. Prenez une marche rapide de 15 minutes ou plus avec la montre allumée et assurez-vous que la fréquence cardiaque est égale ou supérieure à 75% de votre HR maximale pendant au moins 10 minutes. &lt;br/&gt; 3. Après avoir terminé la course, vous pouvez vérifier VO2Max actuel dans l'application des activités sportives sur la montre ou la page d'état personnel dans l'application Amazift Watchapp. &lt;br/&gt;&lt;small&gt;Pour plus de détails, s'il vous plaît voir Aide dans Amazfit Watch app.&lt;/small&gt;"</string>
-    <string name="first_beat_help_te">\"&lt;font color=#00FF00&gt;Qu\'est-ce que c\'est? &lt;/font&gt;&lt;br/&gt;Effet d\'entraînement (TE) mesure la charge accumulée pendant un entraînement et interprète son impact sur votre condition physique aérobique. TE commence au niveau 0.0. Lorsque la séance d\'entraînement progresse avec succès, la valeur du TE augmente (de 0 à 5), vous indiquant comment l\'entraînement affecte votre forme physique. &lt;br/&gt;&lt;font color=#00FF00&gt;Comment est-il calculé? &lt;/font&gt;&lt;br/&gt; TE est calculé en fonction de votre profil d\'utilisateur, des données de battements de cœur et de la difficulté de l\'entraînement.&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; La montre affichera la mesure TE en temps réel pendant un entraînement ainsi que le résultat final TE à la fin de l\'entraînement. A&amp;lt;2.0 TE indique simplement que la séance d\'entraînement a peu d\'effet sur la condition cardiorespiratoire et n\'est utile que pour construire une base d\'endurance et de récupération. &lt;br/&gt;&lt;small&gt;Pour plus de détails, s\'il vous plaît voir Aide dans l\'application Amazfit Watch. &lt;/small&gt;
+    <string name="first_beat_help_te">"\"&lt;font color=#00FF00&gt;Qu'est-ce que c'est? &lt;/font&gt;&lt;br/&gt;Effet d'entraînement (TE) mesure la charge accumulée pendant un entraînement et interprète son impact sur votre condition physique aérobique. TE commence au niveau 0.0. Lorsque la séance d'entraînement progresse avec succès, la valeur du TE augmente (de 0 à 5), vous indiquant comment l'entraînement affecte votre forme physique. &lt;br/&gt;&lt;font color=#00FF00&gt;Comment est-il calculé? &lt;/font&gt;&lt;br/&gt; TE est calculé en fonction de votre profil d'utilisateur, des données de battements de cœur et de la difficulté de l'entraînement.&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; La montre affichera la mesure TE en temps réel pendant un entraînement ainsi que le résultat final TE à la fin de l'entraînement. A&amp;lt;2.0 TE indique simplement que la séance d'entraînement a peu d'effet sur la condition cardiorespiratoire et n'est utile que pour construire une base d'endurance et de récupération. &lt;br/&gt;&lt;small&gt;Pour plus de détails, s'il vous plaît voir Aide dans l'application Amazfit Watch. &lt;/small&gt;
  
-\"</string>
-    <string name="first_beat_help_train_load">La montre calcule la charge d\'entraînement en fonction des valeurs EPOC (Excess Post-exercise Oxygen Consumption) accumulées à partir des données de rythme cardiaque enregistrées pendant les entraînements dans une fenêtre mobile de 7 jours. L\'utilisateur peut ajuster le programme d\'entraînement en conséquence pour atteindre une charge optimale.
- &lt;br/&gt;&lt;small&gt;Pour plus de détails, s\'il vous plaît voir Aide dans l\'application Amazfit Watch.&lt;/small&gt;</string>
+\""</string>
+    <string name="first_beat_help_train_load">"La montre calcule la charge d'entraînement en fonction des valeurs EPOC (Excess Post-exercise Oxygen Consumption) accumulées à partir des données de rythme cardiaque enregistrées pendant les entraînements dans une fenêtre mobile de 7 jours. L'utilisateur peut ajuster le programme d'entraînement en conséquence pour atteindre une charge optimale.
+ &lt;br/&gt;&lt;small&gt;Pour plus de détails, s'il vous plaît voir Aide dans l'application Amazfit Watch.&lt;/small&gt;"</string>
     <string name="first_beat_help_run_target_and_real_time_guide">La montre fournira des recommandations d\'entraînement en fonction de votre niveau de condition physique VO2Max, de votre charge d\'entraînement récente et de l\'état de récupération de l\'entraînement précédent. &lt;br/&gt; Si vous activez la fonction de coaching en temps réel dans les paramètres et définissez une cible TE ou choisissez l\'un des entraînements recommandés, la montre vous guidera tout au long de l\'entraînement et vous demandera d\'ajuster votre rythme et votre fréquence cardiaque pour atteindre vos objectifs. &lt;br/&gt; &lt;small&gt;Pour plus de détails, s\'il vous plaît voir Aide dans l\'application Amazfit Watch.&lt;/small&gt;</string>
     <string name="first_beat_help_daily_perpormence">"&lt;font color=#00FF00&gt;Qu'est-ce que c'est? &lt;/font&gt;&lt;br/&gt;La condition de performance en temps réel indique si vous êtes au-dessus ou en dessous de votre niveau de performance moyen et comment l'accumulation de la fatigue affecte votre performance pendant une séance d'entraînement. &lt;br/&gt;&lt;font color=#00FF00&gt;Comment est-ce utilisé? &lt;/font&gt;&lt;br/&gt;La montre évaluera votre condition de performance automatiquement après ~ 6 minutes de course. Une valeur supérieure à la moyenne indique que vous pouvez effectuer une séance d'entraînement plus difficile que vous le feriez normalement. Une valeur inférieure suggère que vous devriez prendre un entraînement plus facile. &lt;br/&gt;Après avoir terminé une séance d'entraînement, vous pouvez analyser la performance en regardant le résultat à chaque kilomètre / mille sur le graphique. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;Pour plus de détails, s'il vous plaît voir Aide dans l'application Amazfit Watch.&lt;/small&gt;"</string>
     <string name="first_beat_help_recovery_time">Après avoir terminé une séance d\'entraînement, vous aurez le temps en quelques minutes pour récupérer complètement. Entre les entraînements, le temps de récupération est réduit linéairement vers zéro s\'il n\'y a pas de nouvelles données d\'entraînement disponibles. L\'utilisateur est encouragé à avoir des séances d\'entraînement de faible intensité pour aider à la récupération &lt;br/&gt;&lt;small&gt;Pour plus de détails, s\'il vous plaît voir Aide dans l\'application Amazfit Watch.&lt;/small&gt;</string>
@@ -615,14 +615,14 @@
     <string name="real_time_target_finish">Objectif atteint</string>
     <string name="real_time_guide_title_1">Bon rythme！</string>
     <string name="real_time_guide_title_2">Garder le rythme!</string>
-    <string name="real_time_guide_title_3">\"Augmenter le rythme 
- pour un exercice efficace!\"</string>
+    <string name="real_time_guide_title_3">"\"Augmenter le rythme 
+ pour un exercice efficace!\""</string>
     <string name="real_time_guide_title_6">Bon rythme！</string>
-    <string name="real_time_guide_title_7">\"Augmenter le rythme 
-pour un exercice efficace!\"</string>
+    <string name="real_time_guide_title_7">"\"Augmenter le rythme 
+pour un exercice efficace!\""</string>
     <string name="real_time_guide_title_10">Bon rythme！</string>
-    <string name="real_time_guide_title_11">\"Augmenter le rythme 
-pour un exercice efficace!\"</string>
+    <string name="real_time_guide_title_11">"\"Augmenter le rythme 
+pour un exercice efficace!\""</string>
     <string name="real_time_guide_title_14">Bien joué!</string>
     <string name="real_time_guide_title_22">Bon rythme！</string>
     <string name="real_time_guide_title_25">Augmenter le rythme.</string>
@@ -989,9 +989,9 @@ pour un exercice efficace!\"</string>
     <string name="hint_cancelling">Annulation...</string>
     <string name="hint_success_exported_title">Export réussi</string>
     <string name="hint_failed_exported_title">"Export annulé"</string>
-    <string name="hint_where">"L\'export à été sauvegardé dans 
-le dossier  \'/sdcard/gpxdata\'.
-Vous pouvez le copier sur un ordinateur via USB."</string>
+    <string name="hint_where">"\"L'export à été sauvegardé dans 
+le dossier  '/sdcard/gpxdata'.
+Vous pouvez le copier sur un ordinateur via USB.\""</string>
     <string name="hint_failed">"Échec de l'export, veuillez réessayer."</string>
     <string name="app_name">enregistreur GPX</string>
     <string name="average_text">moy.</string>
