@@ -227,10 +227,10 @@
     <string name="cal_event_title">%1$s %2$s</string>
     <string name="cal_event_begin_end_time">%1$s - %2$s</string>
     <string name="cal_all_day">Tüm gün</string>
-    <string name="cal_all_day_line_break">"Tüm
-gün"</string>
-    <string name="cal_multi_day_line_break">"Çoklu
-günlerde"</string>
+    <string name="cal_all_day_line_break">"\"Tüm
+gün\""</string>
+    <string name="cal_multi_day_line_break">"\"Çoklu
+günlerde\""</string>
     <string name="cal_mail_all">Tüm davetlilere email at</string>
     <string name="cal_navigate_to">%s e git</string>
     <string name="cal_navigate">Git</string>
@@ -258,9 +258,9 @@ günlerde"</string>
     <string name="troubleshoot_use_android_wear">Android Wear uygulamasını Play Store dan yükleyiniz daha sonra saate bağlanın.</string>
     <string name="troubleshoot_internet">Telefonunuzu internete bağlayın.</string>
     <string name="troubleshoot_tethering">Telefonunuza bağlamak için bluetooth açmayı deneyin.</string>
-    <string name="troubleshoot_online_help">"Daha fazla yardım almak
+    <string name="troubleshoot_online_help">"\"Daha fazla yardım almak
 için %s gidiniz
-"</string>
+\""</string>
     <string name="troubleshoot_help_url">g.co/AWhelp</string>
     <string name="retry_action">Tekrar deneyin</string>
     <string name="restart_action">Tekrar başlat</string>
@@ -407,9 +407,9 @@ için %s gidiniz
     <string name="server_error">" Google'a şu an ulaşılamadı."</string>
     <string name="audio_error">"Mikrofon açılamadı."</string>
     <string name="null_result_error">Aramanız herhangi bir dökümanlar eşleşmedi</string>
-    <string name="no_answer_error">"%s
+    <string name="no_answer_error">"\"%s
 
-Üzgünüz Google size Bununla ilgili yardımcı olamıyor"</string>
+Üzgünüz Google size Bununla ilgili yardımcı olamıyor\""</string>
     <string name="no_companion_error">" Eşleşen cihazınıza bağlanılamadı."</string>
     <string name="gsa_update_needed">Telefonunuzu veya tabletinizi açın Google arama uygulamasını güncelleyin.</string>
     <string name="gsa_install_needed">Telefonunuz ve tabletinizden Google Play uygulamasını açın Google aramayı yükleyin.</string>
@@ -488,8 +488,8 @@ için %s gidiniz
     <string name="watchface_picker_more">Daha fazla</string>
     <string name="watchface_picker_recent">Yakın zamanda</string>
     <string name="watchface_picker_all">Hepsi</string>
-    <string name="airplane_mode">"Uçak modu
-Açık"</string>
+    <string name="airplane_mode">"\"Uçak modu
+Açık\""</string>
     <string name="airplane_mode_cue_card">Uçak modu</string>
     <string name="disconnected">Bağlantı koptu</string>
     <string name="timed_out_state">Zaman aşımı</string>
