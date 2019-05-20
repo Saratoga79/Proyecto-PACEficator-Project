@@ -209,8 +209,8 @@
     <string name="lap_add_failed">"a kör túl rövid, nem rögzíthető"</string>
     <string name="sport_main_stop_this_sport">Leáll. a jelenl. tevékenységet?</string>
     <string name="sport_history_delete_dialog_title">"Törlöd a tevékenységet? A művelet nem vonható vissza."</string>
-    <string name="sport_main_give_up_this_sport">"Elveted ezt a tevékenységet?
-"</string>
+    <string name="sport_main_give_up_this_sport">"\"Elveted ezt a tevékenységet?
+\""</string>
     <string name="sport_confirm_stop_sport">Igen</string>
     <string name="sport_confirm_not_stop_sport">Nem</string>
     <string name="sport_main_am">AM</string>
@@ -280,8 +280,8 @@
     <string name="sport_stride_unit_imperial">in</string>
     <string name="end_last_sport_tips">Előbb %1$s tevékenys. leállítása</string>
     <string name="export_route_trail">Export</string>
-    <string name="sport_dlg_msg_hint_cancel">"Mgszakítod az exportot?
-"</string>
+    <string name="sport_dlg_msg_hint_cancel">"\"Mgszakítod az exportot?
+\""</string>
     <string name="exchange_prepare_riding">Köv.: Kerékpározás</string>
     <string name="exchange_prepare_running">Köv.: Futás</string>
     <string name="count_down_swim_tint">Az érintőképernyő zárolt lesz</string>
@@ -441,9 +441,9 @@
     <string name="modify_big_dis_regain">Szerkeszt</string>
     <string name="modify_big_dis_confirm">Kalibráció folytatása</string>
     <string name="re_modify_dis">Kalibráljuk újra</string>
-    <string name="re_modify_dis_tips">"1. A futás szakasz távolságának (0,5 km-nél hosszabb) kalibrálásával az óra pontosabb eredményt hozhat.
+    <string name="re_modify_dis_tips">"\"1. A futás szakasz távolságának (0,5 km-nél hosszabb) kalibrálásával az óra pontosabb eredményt hozhat.
 2. Ha még mindig elégedetlen vagy a kalibrációs kísérlet eredményével, próbáld meg újra kalibrálni.
-3. Ha az eredményt ismét kalibrálod, az összes korábbi kalibrációs érték törlődik."</string>
+3. Ha az eredményt ismét kalibrálod, az összes korábbi kalibrációs érték törlődik.\""</string>
     <string name="give_up_re_modify_dis">Elutasít</string>
     <string name="confirm_re_modify_dis">Oké</string>
     <string name="re_modify_dis_successful">Sikeresen kalibrálva</string>
@@ -612,14 +612,14 @@
     <string name="real_time_target_finish">Elérted a célod</string>
     <string name="real_time_guide_title_1">Jó tempó !</string>
     <string name="real_time_guide_title_2">Tartsd a tempót!</string>
-    <string name="real_time_guide_title_3">\"Növeld a tempót 
- a hatékony edzéshez!\"</string>
+    <string name="real_time_guide_title_3">"\"Növeld a tempót 
+ a hatékony edzéshez!\""</string>
     <string name="real_time_guide_title_6">Jó tempó !</string>
-    <string name="real_time_guide_title_7">\"Növeld a tempót 
- a még hatékonyabb edzéshez!\"</string>
+    <string name="real_time_guide_title_7">"\"Növeld a tempót 
+ a még hatékonyabb edzéshez!\""</string>
     <string name="real_time_guide_title_10">Jó tempó !</string>
-    <string name="real_time_guide_title_11">\"Növeld a tempót
- a még hatékonyabb edzéshez!\"</string>
+    <string name="real_time_guide_title_11">"\"Növeld a tempót
+ a még hatékonyabb edzéshez!\""</string>
     <string name="real_time_guide_title_14">Bravó!</string>
     <string name="real_time_guide_title_22">Jó tempó !</string>
     <string name="real_time_guide_title_25">Növeld a tempót.</string>
@@ -986,9 +986,9 @@
     <string name="hint_cancelling">Megszakítás...</string>
     <string name="hint_success_exported_title">A GPX fájl export sikerült.</string>
     <string name="hint_failed_exported_title">"Sikertelen az exportálás"</string>
-    <string name="hint_where">"A gpx fájl az \'/sdcard/gpxdata\'
+    <string name="hint_where">"\"A gpx fájl az '/sdcard/gpxdata'
 mappába került.
- USB-n keresztül másolhatod számítógépre."</string>
+ USB-n keresztül másolhatod számítógépre.\""</string>
     <string name="hint_failed">"Nem sikerült az export, próbáld újra."</string>
     <string name="app_name">gpx-recorder</string>
     <string name="average_text">Átl.</string>
