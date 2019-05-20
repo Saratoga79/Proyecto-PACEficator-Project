@@ -20,8 +20,8 @@
     <string name="battery_low_title">Akku schwach</string>
     <string name="battery_low_percent_format">%s verbleibend</string>
     <string name="battery_low_percent_format_saver_started">%s verbleibend. Akkusparmodus aktiv.</string>
-    <string name="invalid_charger">"USB-Ladevorgang wird nicht unterstützt.
-Verwenden Sie nur geeignete Ladegeräte."</string>
+    <string name="invalid_charger">"\"USB-Ladevorgang wird nicht unterstützt.
+Verwenden Sie nur geeignete Ladegeräte.\""</string>
     <string name="invalid_charger_title">USB-Ladevorgang wird nicht unterstützt.</string>
     <string name="invalid_charger_text">Verwenden Sie nur geeignete Ladegeräte.</string>
     <string name="battery_low_why">Einstellungen</string>
@@ -41,9 +41,9 @@ Verwenden Sie nur geeignete Ladegeräte."</string>
     <string name="status_bar_use_physical_keyboard">Physikalische Tastatur</string>
     <string name="usb_device_permission_prompt">Erlaube der App %1$s, auf USB-Gerät zuzugreifen?</string>
     <string name="usb_accessory_permission_prompt">Erlaube der App %1$s den Zugriff auf das USB-Zubehör?</string>
-    <string name="usb_device_confirm_prompt">\"%1$s öffnen, wenn ein USB-Gerät angeschlossen ist?
+    <string name="usb_device_confirm_prompt">"\"%1$s öffnen, wenn ein USB-Gerät angeschlossen ist?
  
-\"</string>
+\""</string>
     <string name="usb_accessory_confirm_prompt">%1$s öffnen, wenn ein USB-Gerät angeschlossen ist?</string>
     <string name="usb_accessory_uri_prompt">Für dieses USB-Zubehör sind keine APPs installiert. Erfahre mehr über dieses Zubehör in %1$s</string>
     <string name="title_usb_accessory">USB-Zubehör</string>
@@ -192,9 +192,9 @@ Verwenden Sie nur geeignete Ladegeräte."</string>
     <string name="data_usage_disabled_dialog_4g_title">4G Daten sind aus</string>
     <string name="data_usage_disabled_dialog_mobile_title">Mobilfunkdaten sind aus</string>
     <string name="data_usage_disabled_dialog_title">Daten sind aus</string>
-    <string name="data_usage_disabled_dialog">"Ihr Gerät hat Daten deaktiviert, weil das von Ihnen festgelegte Limit erreicht wurde. 
+    <string name="data_usage_disabled_dialog">"\"Ihr Gerät hat Daten deaktiviert, weil das von Ihnen festgelegte Limit erreicht wurde. 
 
-Das erneute Einschalten kann zu Gebühren von Ihrem Mobilfunkanbieter führen."</string>
+Das erneute Einschalten kann zu Gebühren von Ihrem Mobilfunkanbieter führen.\""</string>
     <string name="data_usage_disabled_dialog_enable">Daten aktivieren</string>
     <string name="status_bar_settings_signal_meter_disconnected">Keine Internetverbindung</string>
     <string name="status_bar_settings_signal_meter_wifi_nossid">WLAN verbunden</string>
@@ -274,8 +274,8 @@ Das erneute Einschalten kann zu Gebühren von Ihrem Mobilfunkanbieter führen."<
     <string name="expanded_header_battery_charging_with_time">%s bis voll</string>
     <string name="expanded_header_battery_not_charging">Lädt nicht</string>
     <string name="battery_meter_very_low_overlay_symbol">!</string>
-    <string name="ssl_ca_cert_warning">"Das Netzwerk kann 
-überwacht werden"</string>
+    <string name="ssl_ca_cert_warning">"\"Das Netzwerk kann 
+überwacht werden\""</string>
     <string name="description_target_search">Suche</string>
     <string name="description_direction_up">Für %s nach oben schieben.</string>
     <string name="description_direction_left">Für %s nach links schieben.</string>
@@ -311,9 +311,9 @@ Das erneute Einschalten kann zu Gebühren von Ihrem Mobilfunkanbieter führen."<
     <string name="guest_wipe_session_wipe">Von vorn anfangen</string>
     <string name="guest_wipe_session_dontwipe">Ja, weiter machen</string>
     <string name="user_add_user_title">Neuen Benutzer hinzufügen?</string>
-    <string name="user_add_user_message_short">"Wenn Sie einen neuen Benutzer hinzufügen, muss diese Person ihren Speicherplatz einrichten. 
+    <string name="user_add_user_message_short">"\"Wenn Sie einen neuen Benutzer hinzufügen, muss diese Person ihren Speicherplatz einrichten. 
 
-Jeder Benutzer kann Apps für alle anderen Benutzer aktualisieren."</string>
+Jeder Benutzer kann Apps für alle anderen Benutzer aktualisieren.\""</string>
     <string name="battery_saver_notification_title">Der Akkusparmodus ist eingeschaltet</string>
     <string name="battery_saver_notification_text">Reduziert die Leistung und Hintergrunddaten</string>
     <string name="battery_saver_notification_action_text">Akkusparmodus ausschalten</string>
@@ -331,72 +331,72 @@ Jeder Benutzer kann Apps für alle anderen Benutzer aktualisieren."</string>
     <string name="monitoring_title">Netzwerküberwachung</string>
     <string name="disable_vpn">VPN deaktivieren</string>
     <string name="disconnect_vpn">VPN trennen</string>
-    <string name="monitoring_description_device_owned">"Dieses Gerät wird verwaltet von: 
+    <string name="monitoring_description_device_owned">"\"Dieses Gerät wird verwaltet von: 
 %1$s
 
 Ihr Administrator kann Ihre Geräte- und Netzwerkaktivität überwachen, einschließlich E-Mails, Apps und sicherer Websites. 
 
-Wenden Sie sich an Ihren Administrator, um weitere Informationen zu erhalten."</string>
-    <string name="monitoring_description_vpn">"Sie haben \"%1$s\" die Berechtigung zum Einrichten einer VPN-Verbindung erteilt. 
+Wenden Sie sich an Ihren Administrator, um weitere Informationen zu erhalten.\""</string>
+    <string name="monitoring_description_vpn">"\"Sie haben \"%1$s\" die Berechtigung zum Einrichten einer VPN-Verbindung erteilt. 
 
-Diese App kann Ihre Geräte- und Netzwerkaktivität überwachen, einschließlich E-Mails, Apps und sicherer Websites."</string>
-    <string name="monitoring_description_legacy_vpn">"Sie sind mit einem VPN verbunden (\"%1$s\").
+Diese App kann Ihre Geräte- und Netzwerkaktivität überwachen, einschließlich E-Mails, Apps und sicherer Websites.\""</string>
+    <string name="monitoring_description_legacy_vpn">"\"Sie sind mit einem VPN verbunden (\"%1$s\").
 
-Ihr VPN-Dienstanbieter kann Ihre Geräte- und Netzwerkaktivität überwachen, einschließlich E-Mails, Apps und sicherer Websites."</string>
-    <string name="monitoring_description_vpn_device_owned">"Dieses Gerät wird verwaltet von: 
+Ihr VPN-Dienstanbieter kann Ihre Geräte- und Netzwerkaktivität überwachen, einschließlich E-Mails, Apps und sicherer Websites.\""</string>
+    <string name="monitoring_description_vpn_device_owned">"\"Dieses Gerät wird verwaltet von: 
 %1$s
 
 Ihr Administrator kann Ihre Netzwerkaktivität einschließlich E-Mails, Apps und sicherer Websites überwachen. Wenden Sie sich an Ihren Administrator, um weitere Informationen zu erhalten. 
 
-Außerdem haben Sie \"%2$s\" die Berechtigung zum Einrichten einer VPN-Verbindung erteilt. Diese App kann auch Netzwerkaktivitäten überwachen."</string>
-    <string name="monitoring_description_legacy_vpn_device_owned">"Dieses Gerät wird verwaltet von: 
+Außerdem haben Sie \"%2$s\" die Berechtigung zum Einrichten einer VPN-Verbindung erteilt. Diese App kann auch Netzwerkaktivitäten überwachen.\""</string>
+    <string name="monitoring_description_legacy_vpn_device_owned">"\"Dieses Gerät wird verwaltet von: 
 %1$s
 
 Ihr Administrator kann Ihre Netzwerkaktivität einschließlich E-Mails, Apps und sicherer Websites überwachen. Wenden Sie sich an Ihren Administrator, um weitere Informationen zu erhalten. 
 
-Außerdem sind Sie mit einem VPN verbunden (\"%2$s\"). Ihr VPN-Dienstanbieter kann auch die Netzwerkaktivität überwachen."</string>
-    <string name="monitoring_description_profile_owned">"Dieses Profil wird verwaltet von: 
+Außerdem sind Sie mit einem VPN verbunden (\"%2$s\"). Ihr VPN-Dienstanbieter kann auch die Netzwerkaktivität überwachen.\""</string>
+    <string name="monitoring_description_profile_owned">"\"Dieses Profil wird verwaltet von: 
 %1$s
 
 Ihr Administrator kann Ihre Geräte- und Netzwerkaktivität überwachen, einschließlich E-Mails, Apps und sicherer Websites. 
 
-Wenden Sie sich an Ihren Administrator, um weitere Informationen zu erhalten."</string>
-    <string name="monitoring_description_device_and_profile_owned">"Dieses Gerät wird verwaltet von: 
+Wenden Sie sich an Ihren Administrator, um weitere Informationen zu erhalten.\""</string>
+    <string name="monitoring_description_device_and_profile_owned">"\"Dieses Gerät wird verwaltet von: 
 %1$s
 Ihr Profil wird verwaltet von: 
 %2$s
 
 Ihr Administrator kann Ihre Geräte- und Netzwerkaktivität überwachen, einschließlich E-Mails, Apps und sicherer Websites. 
 
-Wenden Sie sich an Ihren Administrator, um weitere Informationen zu erhalten."</string>
-    <string name="monitoring_description_vpn_profile_owned">"Dieses Profil wird verwaltet von: 
+Wenden Sie sich an Ihren Administrator, um weitere Informationen zu erhalten.\""</string>
+    <string name="monitoring_description_vpn_profile_owned">"\"Dieses Profil wird verwaltet von: 
 %1$s
 
 Ihr Administrator kann Ihre Netzwerkaktivität einschließlich E-Mails, Apps und sicherer Websites überwachen. Wenden Sie sich an Ihren Administrator, um weitere Informationen zu erhalten. 
 
-Außerdem haben Sie \"%2$s\" die Berechtigung zum Einrichten einer VPN-Verbindung erteilt. Diese App kann auch Netzwerkaktivitäten überwachen."</string>
-    <string name="monitoring_description_legacy_vpn_profile_owned">"Dieses Profil wird verwaltet von: 
+Außerdem haben Sie \"%2$s\" die Berechtigung zum Einrichten einer VPN-Verbindung erteilt. Diese App kann auch Netzwerkaktivitäten überwachen.\""</string>
+    <string name="monitoring_description_legacy_vpn_profile_owned">"\"Dieses Profil wird verwaltet von: 
 %1$s
 
 Ihr Administrator kann Ihre Netzwerkaktivität einschließlich E-Mails, Apps und sicherer Websites überwachen. Wenden Sie sich an Ihren Administrator, um weitere Informationen zu erhalten. 
 
-Außerdem sind Sie mit einem VPN verbunden (\"%2$s\"). Ihr VPN-Dienstanbieter kann auch die Netzwerkaktivität überwachen."</string>
-    <string name="monitoring_description_vpn_device_and_profile_owned">"Dieses Gerät wird verwaltet von: 
-%1$s
-Ihr Profil wird verwaltet von: 
-%2$s
-
-Ihr Administrator ist in der Lage, Ihre Netzwerkaktivität einschließlich E-Mails, Apps und sicherer Websites zu überwachen. Wenden Sie sich an Ihren Administrator, um weitere Informationen zu erhalten. 
-
-Außerdem haben Sie \"%3$s\" die Berechtigung zum Einrichten einer VPN-Verbindung erteilt. Diese App kann auch Netzwerkaktivitäten überwachen."</string>
-    <string name="monitoring_description_legacy_vpn_device_and_profile_owned">"Dieses Gerät wird verwaltet von: 
+Außerdem sind Sie mit einem VPN verbunden (\"%2$s\"). Ihr VPN-Dienstanbieter kann auch die Netzwerkaktivität überwachen.\""</string>
+    <string name="monitoring_description_vpn_device_and_profile_owned">"\"Dieses Gerät wird verwaltet von: 
 %1$s
 Ihr Profil wird verwaltet von: 
 %2$s
 
 Ihr Administrator ist in der Lage, Ihre Netzwerkaktivität einschließlich E-Mails, Apps und sicherer Websites zu überwachen. Wenden Sie sich an Ihren Administrator, um weitere Informationen zu erhalten. 
 
-Außerdem sind Sie mit einem VPN verbunden (\"%3$s\"). Ihr VPN-Dienstanbieter kann auch die Netzwerkaktivität überwachen."</string>
+Außerdem haben Sie \"%3$s\" die Berechtigung zum Einrichten einer VPN-Verbindung erteilt. Diese App kann auch Netzwerkaktivitäten überwachen.\""</string>
+    <string name="monitoring_description_legacy_vpn_device_and_profile_owned">"\"Dieses Gerät wird verwaltet von: 
+%1$s
+Ihr Profil wird verwaltet von: 
+%2$s
+
+Ihr Administrator ist in der Lage, Ihre Netzwerkaktivität einschließlich E-Mails, Apps und sicherer Websites zu überwachen. Wenden Sie sich an Ihren Administrator, um weitere Informationen zu erhalten. 
+
+Außerdem sind Sie mit einem VPN verbunden (\"%3$s\"). Ihr VPN-Dienstanbieter kann auch die Netzwerkaktivität überwachen.\""</string>
     <string name="keyguard_indication_trust_disabled">Das Gerät bleibt gesperrt, bis Sie es manuell entsperren</string>
     <string name="hidden_notifications_title">Erhalten Sie Benachrichtigungen schneller</string>
     <string name="hidden_notifications_text">Sieh sie dir an bevor du entsperrst</string>
@@ -439,8 +439,8 @@ Außerdem sind Sie mit einem VPN verbunden (\"%3$s\"). Ihr VPN-Dienstanbieter ka
     <string name="keyguard_missing_sim_instructions">Legen Sie eine SIM-Karte ein.</string>
     <string name="keyguard_missing_sim_instructions_long">Die SIM-Karte fehlt oder ist nicht lesbar. Legen Sie eine SIM-Karte ein.</string>
     <string name="keyguard_permanent_disabled_sim_message_short">Unbrauchbare SIM-Karte.</string>
-    <string name="keyguard_permanent_disabled_sim_instructions">"Ihre SIM-Karte wurde dauerhaft deaktiviert. 
-Wenden Sie sich an Ihren Mobilfunkanbieter, um eine andere SIM-Karte zu erhalten."</string>
+    <string name="keyguard_permanent_disabled_sim_instructions">"\"Ihre SIM-Karte wurde dauerhaft deaktiviert. 
+Wenden Sie sich an Ihren Mobilfunkanbieter, um eine andere SIM-Karte zu erhalten.\""</string>
     <string name="keyguard_sim_locked_message">Die SIM-Karte ist gesperrt.</string>
     <string name="keyguard_sim_puk_locked_message">Die SIM-Karte ist PUK-gesperrt.</string>
     <string name="keyguard_sim_unlock_progress_dialog_message">SIM-Karte wird entsperrt...</string>
@@ -525,27 +525,27 @@ Wenden Sie sich an Ihren Mobilfunkanbieter, um eine andere SIM-Karte zu erhalten
     <string name="kg_login_password_hint">Passwort</string>
     <string name="kg_login_submit_button">Anmelden</string>
     <string name="kg_login_invalid_input">Ungültiger Benutzername oder Passwort.</string>
-    <string name="kg_login_account_recovery_hint">\"Sie haben Ihren Benutzername oder Ihr Passwort vergessen? 
-Besuchen Sie\" <b>google.com/accounts/recovery</b>.</string>
+    <string name="kg_login_account_recovery_hint">"\"Sie haben Ihren Benutzername oder Ihr Passwort vergessen? 
+Besuchen Sie\" <b>google.com/accounts/recovery</b>."</string>
     <string name="kg_login_checking_password">Account wird überprüft....</string>
-    <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"Sie haben Ihre PIN %d mal falsch eingegeben . 
+    <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"\"Sie haben Ihre PIN %d mal falsch eingegeben . 
 
-Versuchen Sie es  in %d Sekunden erneut."</string>
-    <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Sie haben Ihr Passwort %d mal falsch eingegeben . 
+Versuchen Sie es  in %d Sekunden erneut.\""</string>
+    <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"\"Sie haben Ihr Passwort %d mal falsch eingegeben . 
 
-Versuchen Sie es in %d Sekunden erneut."</string>
-    <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Sie haben Ihr Entsperrmuster %d mal falsch gezeichnet.  
+Versuchen Sie es in %d Sekunden erneut.\""</string>
+    <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"\"Sie haben Ihr Entsperrmuster %d mal falsch gezeichnet.  
 
-Versuchen Sie es in %d Sekunden erneut."</string>
+Versuchen Sie es in %d Sekunden erneut.\""</string>
     <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Sie haben %d mal vergeblich versucht, das Tablet zu entsperren. Nach %d weiteren erfolglosen Versuchen wird dieses Tablett zurückgesetzt, wodurch alle Daten gelöscht werden.</string>
     <string name="kg_failed_attempts_now_wiping">Sie haben %d mal vergeblich versucht, das Tablet zu entsperren. Dieses Tablet wird zurückgesetzt, wodurch alle Daten gelöscht werden.</string>
     <string name="kg_failed_attempts_almost_at_erase_user" formatted="false">Sie haben %d mal vergeblich versucht, das Tablet zu entsperren. Nach %d mehr erfolglosen Versuchen wird dieser Benutzer entfernt, wodurch alle Benutzerdaten gelöscht werden.</string>
     <string name="kg_failed_attempts_now_erasing_user">Sie haben %d mal vergeblich versucht, das Tablet zu entsperren. Dieser Benutzer wird entfernt, wodurch alle Benutzerdaten gelöscht werden.</string>
     <string name="kg_failed_attempts_almost_at_erase_profile" formatted="false">Sie haben %d mal vergeblich versucht, das Tablet zu entsperren. Nach %d mehr erfolglosen Versuchen wird das Arbeitsprofil entfernt, wodurch alle Profildaten gelöscht werden.</string>
     <string name="kg_failed_attempts_now_erasing_profile">Sie haben %d mal vergeblich versucht, das Tablet zu entsperren. Das Arbeitsprofil wird entfernt, wodurch alle Profildaten gelöscht werden.</string>
-    <string name="kg_failed_attempts_almost_at_login" formatted="false">"Sie haben Ihr Entsperrmuster %d mal falsch gezeichnet . Nach %d weiteren erfolglosen Versuchen werden Sie aufgefordert, Ihr Tablet mithilfe eines E-Mail-Kontos zu entsperren.  
+    <string name="kg_failed_attempts_almost_at_login" formatted="false">"\"Sie haben Ihr Entsperrmuster %d mal falsch gezeichnet . Nach %d weiteren erfolglosen Versuchen werden Sie aufgefordert, Ihr Tablet mithilfe eines E-Mail-Kontos zu entsperren.  
 
-Versuchen Sie es in %d Sekunden erneut."</string>
+Versuchen Sie es in %d Sekunden erneut.\""</string>
     <string name="kg_reordering_delete_drop_target_text">Löschen</string>
     <string name="kg_password_wrong_pin_code_pukked">Falscher SIM-PIN-Code, Sie müssen sich jetzt an Ihren Mobilfunkanbieter wenden, um Ihr Gerät zu entsperren.</string>
     <string name="kg_password_wrong_puk_code_dead">SIM ist unbrauchbar. Mobilfunkanbieter kontaktieren.</string>
