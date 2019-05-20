@@ -209,8 +209,8 @@
     <string name="lap_add_failed">"Okruh je příliš krátký, tento okruh nelze zaznamenat"</string>
     <string name="sport_main_stop_this_sport">Zastavit aktuální aktivitu?</string>
     <string name="sport_history_delete_dialog_title">"Chcete tuto aktivitu smazat? Tuto aktivitu nebude možno po odstranění obnovit."</string>
-    <string name="sport_main_give_up_this_sport">"Zrušit tuto aktivitu?
-"</string>
+    <string name="sport_main_give_up_this_sport">"\"Zrušit tuto aktivitu?
+\""</string>
     <string name="sport_confirm_stop_sport">Ano</string>
     <string name="sport_confirm_not_stop_sport">Ne</string>
     <string name="sport_main_am">Dop.</string>
@@ -280,8 +280,8 @@
     <string name="sport_stride_unit_imperial">in</string>
     <string name="end_last_sport_tips">Prosím zastavte %1$s nejdříve aktivitu</string>
     <string name="export_route_trail">Export</string>
-    <string name="sport_dlg_msg_hint_cancel">"Zrušit tento export?
-"</string>
+    <string name="sport_dlg_msg_hint_cancel">"\"Zrušit tento export?
+\""</string>
     <string name="exchange_prepare_riding">Další: cyklistika</string>
     <string name="exchange_prepare_running">Další: běh</string>
     <string name="count_down_swim_tint">Dotyková obrazovka bude uzamčena</string>
@@ -441,9 +441,9 @@
     <string name="modify_big_dis_regain">Upravit</string>
     <string name="modify_big_dis_confirm">Pokračovat v kalibraci</string>
     <string name="re_modify_dis">Kalibrovat znovu</string>
-    <string name="re_modify_dis_tips">"1. Chcete-li kalibrovat výsledky vzdálenosti běžícího cyklu (musí být delší než 0,5 km), pomůže to hodinkám vygenerovat přesnější výsledek.
+    <string name="re_modify_dis_tips">"\"1. Chcete-li kalibrovat výsledky vzdálenosti běžícího cyklu (musí být delší než 0,5 km), pomůže to hodinkám vygenerovat přesnější výsledek.
 2. Pokud ani po několika pokusech o kalibraci stále nejste spokojeni s výsledkem, zkuste kalibrovat znovu.
-3. Pokud znovu provedete kalibraci výsledků, všechny předchozí kalibrační záznamy budou smazány."</string>
+3. Pokud znovu provedete kalibraci výsledků, všechny předchozí kalibrační záznamy budou smazány.\""</string>
     <string name="give_up_re_modify_dis">Zrušit</string>
     <string name="confirm_re_modify_dis">OK</string>
     <string name="re_modify_dis_successful">Rekalibrace byla úspěšná</string>
@@ -613,14 +613,14 @@
     <string name="real_time_target_finish">Dosáhli jste svého cíle</string>
     <string name="real_time_guide_title_1">Dobré tempo!</string>
     <string name="real_time_guide_title_2">Zachovejte tempo!</string>
-    <string name="real_time_guide_title_3">\"Zvyšte tempo 
- pro účinné cvičení!\"</string>
+    <string name="real_time_guide_title_3">"\"Zvyšte tempo 
+ pro účinné cvičení!\""</string>
     <string name="real_time_guide_title_6">Dobré tempo!</string>
-    <string name="real_time_guide_title_7">\"Zvyšte tempo 
- pro ještě efektivnější cvičení!\"</string>
+    <string name="real_time_guide_title_7">"\"Zvyšte tempo 
+ pro ještě efektivnější cvičení!\""</string>
     <string name="real_time_guide_title_10">Dobré tempo!</string>
-    <string name="real_time_guide_title_11">\"Zvyšte tempo
- pro ještě efektivnější cvičení!\"</string>
+    <string name="real_time_guide_title_11">"\"Zvyšte tempo
+ pro ještě efektivnější cvičení!\""</string>
     <string name="real_time_guide_title_14">Výborně!</string>
     <string name="real_time_guide_title_22">Dobré tempo!</string>
     <string name="real_time_guide_title_25">Zvyšte tempo.</string>
@@ -985,12 +985,12 @@
     <string name="dlg_btn_l_msg">Ne</string>
     <string name="dlg_btn_r_msg">Ano</string>
     <string name="hint_cancelling">Ruší se...</string>
-    <string name="hint_success_exported_title">"Exportování do souboru GPX 
- proběhlo úspěšně"</string>
+    <string name="hint_success_exported_title">"\"Exportování do souboru GPX 
+ proběhlo úspěšně\""</string>
     <string name="hint_failed_exported_title">"Export trasy selhal"</string>
-    <string name="hint_where">"Soubor GPX byl umístěn do 
- složky \'/sdcard/gpxdata\'.
- Můžete jej zkopírovat do počítače přes USB."</string>
+    <string name="hint_where">"\"Soubor GPX byl umístěn do 
+ složky '/sdcard/gpxdata'.
+ Můžete jej zkopírovat do počítače přes USB.\""</string>
     <string name="hint_failed">"Export trasy se nezdařil, prosím opakujte."</string>
     <string name="app_name">gpx-recorder</string>
     <string name="average_text">Prm</string>
