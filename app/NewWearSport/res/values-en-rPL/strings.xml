@@ -209,8 +209,8 @@
     <string name="lap_add_failed">"Okrążenie jest zbyt krótkie, nie można zarejestrować tego okrążenia"</string>
     <string name="sport_main_stop_this_sport">Zatrzymać bieżącą aktywność?</string>
     <string name="sport_history_delete_dialog_title">"Usunąć tę aktywność? Nie możesz odzyskać tej aktywności po usunięciu."</string>
-    <string name="sport_main_give_up_this_sport">"Odrzucić tę aktywność?
-"</string>
+    <string name="sport_main_give_up_this_sport">"\"Odrzucić tę aktywność?
+\""</string>
     <string name="sport_confirm_stop_sport">Tak</string>
     <string name="sport_confirm_not_stop_sport">Nie</string>
     <string name="sport_main_am">AM</string>
@@ -280,8 +280,8 @@
     <string name="sport_stride_unit_imperial">w</string>
     <string name="end_last_sport_tips">Najpierw zatrzymaj aktywność %1$s</string>
     <string name="export_route_trail">Eksport</string>
-    <string name="sport_dlg_msg_hint_cancel">"Zakończyć eksport?
-"</string>
+    <string name="sport_dlg_msg_hint_cancel">"\"Zakończyć eksport?
+\""</string>
     <string name="exchange_prepare_riding">Nast: Jazda rowerem</string>
     <string name="exchange_prepare_running">Nast: Bieganie</string>
     <string name="count_down_swim_tint">Ekran dotykowy zostanie zablokowany</string>
@@ -441,9 +441,9 @@
     <string name="modify_big_dis_regain">Edycja</string>
     <string name="modify_big_dis_confirm">Kontynuacja kalibracji</string>
     <string name="re_modify_dis">Ponowna kalibracja</string>
-    <string name="re_modify_dis_tips">"1. do kalibracji odległość uruchomionej sesji (musi być dłuższa niż 0,5 km) w zegarku do wygenerowania bardziej precyzyjnych wyników.
+    <string name="re_modify_dis_tips">"\"1. do kalibracji odległość uruchomionej sesji (musi być dłuższa niż 0,5 km) w zegarku do wygenerowania bardziej precyzyjnych wyników.
 2. Jeśli nadal jesteś nie zadowolony z wyniku, po próbach kilku kalibracji, spróbuj ponownie skalibrować.
-3. Po ponownej kalibracji, wszystkie poprzednie kalibracjie zostaną usunięte."</string>
+3. Po ponownej kalibracji, wszystkie poprzednie kalibracjie zostaną usunięte.\""</string>
     <string name="give_up_re_modify_dis">Odrzuć</string>
     <string name="confirm_re_modify_dis">OK</string>
     <string name="re_modify_dis_successful">Ponowna kalibracja powiodła się</string>
@@ -612,14 +612,14 @@
     <string name="real_time_target_finish">Osiągnąłeś swój cel</string>
     <string name="real_time_guide_title_1">Dobre tempo!</string>
     <string name="real_time_guide_title_2">Zachowaj tempo!</string>
-    <string name="real_time_guide_title_3">\"Zwiększ tempo
-  do efektywnego ćwiczenia!\"</string>
+    <string name="real_time_guide_title_3">"\"Zwiększ tempo
+  do efektywnego ćwiczenia!\""</string>
     <string name="real_time_guide_title_6">Dobre tempo!</string>
-    <string name="real_time_guide_title_7">\"Zwiększ tempo
-  dla bardziej efektywnego ćwiczenia!\"</string>
+    <string name="real_time_guide_title_7">"\"Zwiększ tempo
+  dla bardziej efektywnego ćwiczenia!\""</string>
     <string name="real_time_guide_title_10">Dobre tempo!</string>
-    <string name="real_time_guide_title_11">\"Zwiększ tempo
-  dla bardziej efektywnego ćwiczenia!\"</string>
+    <string name="real_time_guide_title_11">"\"Zwiększ tempo
+  dla bardziej efektywnego ćwiczenia!\""</string>
     <string name="real_time_guide_title_14">Dobra robota!</string>
     <string name="real_time_guide_title_22">Dobre tempo!</string>
     <string name="real_time_guide_title_25">Zwiększ tempo.</string>
@@ -683,8 +683,8 @@
     <string name="sport_pause_normal_rope_skip_unit">Skipped count</string>
     <string name="sport_pause_last_min_times_reminder">Całkowita ilość zbyt mała, aby zapisać. Czy zakończyć?</string>
     <string name="rope_skip_this_frequency">Częst. grupy</string>
-    <string name="rope_skip_aleary_group"><Data>Calkowite grupy: &lt;font
-color=#00ff00&gt;%1$s&lt;/font&gt;</Data></string>
+    <string name="rope_skip_aleary_group">"<Data>Calkowite grupy: &lt;font
+color=#00ff00&gt;%1$s&lt;/font&gt;</Data>"</string>
     <string name="sport_remind_total_times">Całkowita ilość: %1$s</string>
     <string name="sport_main_graph_title_rope_skip">Ostatnio</string>
     <string name="sport_rope_skip_requency">Frequency (times/min)</string>
@@ -987,9 +987,9 @@ color=#00ff00&gt;%1$s&lt;/font&gt;</Data></string>
     <string name="hint_cancelling">Anulowanie ...</string>
     <string name="hint_success_exported_title">Eksp.do pliku GPX zakoń.</string>
     <string name="hint_failed_exported_title">"Eksport przerwany"</string>
-    <string name="hint_where">"Ślad zapis.w fold.\'/gpxdata/\'.
+    <string name="hint_where">"\"Ślad zapis.w fold.'/gpxdata/'.
  
-Skopiuj do komputera za pomocą USB"</string>
+Skopiuj do komputera za pomocą USB\""</string>
     <string name="hint_failed">"Esport śladu nie powiódł się, spóbuj ponownie.。"</string>
     <string name="app_name">Sporty-Rej.</string>
     <string name="average_text">Avg</string>
