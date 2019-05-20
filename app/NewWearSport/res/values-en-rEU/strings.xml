@@ -279,8 +279,8 @@
     <string name="sport_stride_unit_imperial">in</string>
     <string name="end_last_sport_tips">%1$s jarduera gelditu</string>
     <string name="export_route_trail">Esportatu</string>
-    <string name="sport_dlg_msg_hint_cancel">"Esportazioa ezeztatu nahi duzu?
-"</string>
+    <string name="sport_dlg_msg_hint_cancel">"\"Esportazioa ezeztatu nahi duzu?
+\""</string>
     <string name="exchange_prepare_riding">Hurrengoa: Txirrindularitza</string>
     <string name="exchange_prepare_running">Hurrengoa: Korrika</string>
     <string name="count_down_swim_tint">Ukipen-pantaila blokeatu egingo da</string>
@@ -440,9 +440,9 @@
     <string name="modify_big_dis_regain">Editatu</string>
     <string name="modify_big_dis_confirm">Kalibratu</string>
     <string name="re_modify_dis">Berriro kalibratu</string>
-    <string name="re_modify_dis_tips">"1. Distantzia kalibratzan (0.5 km baino gehiago egin behar dira) erlojuak distantzi zehatzagoak neurtuko ditu.
+    <string name="re_modify_dis_tips">"\"1. Distantzia kalibratzan (0.5 km baino gehiago egin behar dira) erlojuak distantzi zehatzagoak neurtuko ditu.
 2. Kalibratu ondoren balioarekin ados ez bazaude, berriro kalibratu.
-3. Berriro kalibratzean, aurreko datuak galduko dira."</string>
+3. Berriro kalibratzean, aurreko datuak galduko dira.\""</string>
     <string name="give_up_re_modify_dis">Baztertu</string>
     <string name="confirm_re_modify_dis">OK</string>
     <string name="re_modify_dis_successful">Kalibrazioa eginda</string>
@@ -514,8 +514,8 @@
     <string name="first_beat_help_title_recovery_time">Errekuperazio denbora</string>
     <string name="first_beat_help_vo2_max">"\"\"&lt;font color=#00FF00&gt;¿Qué es esto？&lt;/font&gt;&lt;br/&gt; VO2Max representa el volumen máximo de oxígeno que el cuerpo puede consumir en un minuto, medido en ml / kg / min. Evalúa el estado de la capacidad cardiorrespiratoria de los usuarios que es importante para la salud general, el bienestar y el rendimiento deportivo. &lt;br/&gt;El reloj evaluará automáticamente su VO2Max en función de la frecuencia cardíaca, la velocidad, etc. durante un entrenamiento de carrera de intensidad moderada y lo comparará con un grupo de referencia de la misma edad y sexo para determinar su nivel de condición física.. &lt;br/&gt;&lt;font color=#00FF00&gt;¿Cómo evaluarlo？&lt;/font&gt;&lt;br/&gt; 1. Proporcione información de perfil precisa como la edad y el género en la aplicación Amazfit Watch durante la instalación； &lt;br/&gt; 2. Realice una actividad vigorosa de 15 minutos o más al aire libre con el reloj encendido y asegúrese de que la frecuencia cardíaca sea igual o superior al 75% de su maxHR durante al menos 10 minutos. &lt;br/&gt; 
 3. Después de completar la ejecución, puede verificar el VO2Max actual en la aplicación de actividades deportivas en la página de reloj o estado personal en la aplicación Amazift Watch. &lt;br/&gt;&lt;small&gt;Para obtener más información, consulte Ayuda en la aplicación Amazfit Watch.&lt;/small&gt;\"\""</string>
-    <string name="first_beat_help_te">&lt;font color=#00FF00&gt;¿Qué es esto？&lt;/font&gt;&lt;br/&gt; El Efecto de Entrenamiento (TE) mide la carga acumulada durante un entrenamiento e interpreta su impacto en su capacidad aeróbica. TE comienza en el nivel 0.0. A medida que la sesión de ejercicios progresa con éxito, el valor de TE aumenta (de 0 a 5) y le indica cómo el entrenamiento afecta su estado físico. &lt;br/&gt;&lt;font color=#00FF00&gt;¿Cómo se calcula? &lt;/font&gt;&lt;br/&gt; 
-TE se calcula en función de su perfil de usuario, los datos de latido del corazón y la dificultad del entrenamiento.&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; El reloj mostrará la medición de TE en tiempo real durante un entrenamiento, así como el resultado final de TE al final del entrenamiento.A&amp;lt;2.0 TE simplemente indica que el entrenamiento tiene poco efecto en la aptitud cardiorrespiratoria y es útil solo para construir una base de resistencia y recuperación.&lt;br/&gt;&lt;small&gt;Para obtener más información, consulte Ayuda en la aplicación Amazfit Watch.&lt;/small&gt;</string>
+    <string name="first_beat_help_te">"&lt;font color=#00FF00&gt;¿Qué es esto？&lt;/font&gt;&lt;br/&gt; El Efecto de Entrenamiento (TE) mide la carga acumulada durante un entrenamiento e interpreta su impacto en su capacidad aeróbica. TE comienza en el nivel 0.0. A medida que la sesión de ejercicios progresa con éxito, el valor de TE aumenta (de 0 a 5) y le indica cómo el entrenamiento afecta su estado físico. &lt;br/&gt;&lt;font color=#00FF00&gt;¿Cómo se calcula? &lt;/font&gt;&lt;br/&gt; 
+TE se calcula en función de su perfil de usuario, los datos de latido del corazón y la dificultad del entrenamiento.&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; El reloj mostrará la medición de TE en tiempo real durante un entrenamiento, así como el resultado final de TE al final del entrenamiento.A&amp;lt;2.0 TE simplemente indica que el entrenamiento tiene poco efecto en la aptitud cardiorrespiratoria y es útil solo para construir una base de resistencia y recuperación.&lt;br/&gt;&lt;small&gt;Para obtener más información, consulte Ayuda en la aplicación Amazfit Watch.&lt;/small&gt;"</string>
     <string name="first_beat_help_train_load">El reloj calculará la carga de entrenamiento en función de los valores EPOC (Exceso de consumo de oxígeno posterior al ejercicio) acumulados a partir de los datos de frecuencia cardíaca registrados durante los entrenamientos en una ventana móvil de 7 días. El usuario puede ajustar el programa de entrenamiento en consecuencia para alcanzar una carga óptima. &lt;br/&gt;&lt;small&gt;Para obtener más información, consulte Ayuda en la aplicación Amazfit Watch.&lt;/small&gt;</string>
     <string name="first_beat_help_run_target_and_real_time_guide">El reloj proporcionará una recomendación de entrenamiento basada en su nivel de condición física VO2Max, la carga de entrenamiento reciente y el estado de recuperación del entrenamiento anterior.&lt;br/&gt; Si habilita la función de entrenamiento en tiempo real en la configuración y establece un objetivo TE o elige uno de los entrenamientos recomendados, el reloj lo guiará a lo largo del entrenamiento y le pedirá que ajuste el ritmo y la frecuencia cardíaca para lograr los objetivos establecidos.. &lt;br/&gt; &lt;small&gt;Para obtener más información, consulte Ayuda en la aplicación Amazfit Watch.&lt;/small&gt;</string>
     <string name="first_beat_help_daily_perpormence">"&lt;font color=#00FF00&gt;¿Qué es esto？&lt;/font&gt;&lt;br/&gt;La condición de rendimiento en tiempo real indica si está por encima o por debajo de su nivel de rendimiento promedio y cómo la acumulación de fatiga afecta su rendimiento durante un entrenamiento.&lt;br/&gt;&lt;font color=#00FF00&gt;¿Cómo se usa？&lt;/font&gt;&lt;br/&gt;El reloj evaluará automáticamente su condición de rendimiento después de ~ 6 minutos de funcionamiento. Un valor superior a la media indica que puede hacer un entrenamiento más difícil de lo que normalmente haría. Un valor inferior sugiere que debe realizar un entrenamiento más fácil.&lt;br/&gt;Después de completar un entrenamiento, puede analizar el rendimiento observando el resultado en cada km / milla en el gráfico.&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;Para obtener más información, consulte Ayuda en la aplicación Amazfit Watch.&lt;/small&gt;"</string>
@@ -613,14 +613,14 @@ TE se calcula en función de su perfil de usuario, los datos de latido del coraz
     <string name="real_time_target_finish">Helburua lortu duzu</string>
     <string name="real_time_guide_title_1">Erritmo ona!</string>
     <string name="real_time_guide_title_2">Erritmoa mantendu</string>
-    <string name="real_time_guide_title_3">\"Erritmoa igo
-jarduera eraginkorragoa lortzeko\"</string>
+    <string name="real_time_guide_title_3">"\"Erritmoa igo
+jarduera eraginkorragoa lortzeko\""</string>
     <string name="real_time_guide_title_6">Erritmo ona!</string>
-    <string name="real_time_guide_title_7">\"Erritmoa igo
-jarduera eraginkorragoa lortzeko\"</string>
+    <string name="real_time_guide_title_7">"\"Erritmoa igo
+jarduera eraginkorragoa lortzeko\""</string>
     <string name="real_time_guide_title_10">Erritmo ona!</string>
-    <string name="real_time_guide_title_11">\"Erritmoa igo
-jarduera eraginkorragoa lortzeko\"</string>
+    <string name="real_time_guide_title_11">"\"Erritmoa igo
+jarduera eraginkorragoa lortzeko\""</string>
     <string name="real_time_guide_title_14">Ondo eginda!</string>
     <string name="real_time_guide_title_22">Erritmo ona!</string>
     <string name="real_time_guide_title_25">Erritmoa igo</string>
@@ -985,12 +985,12 @@ jarduera eraginkorragoa lortzeko\"</string>
     <string name="dlg_btn_l_msg">Ez</string>
     <string name="dlg_btn_r_msg">Bai</string>
     <string name="hint_cancelling">Ezeztatzen...</string>
-    <string name="hint_success_exported_title">"GPX artxibora 
- ongi esportatua"</string>
+    <string name="hint_success_exported_title">"\"GPX artxibora 
+ ongi esportatua\""</string>
     <string name="hint_failed_exported_title">"Esportatze arazoa"</string>
-    <string name="hint_where">"GPX artxiboa  
+    <string name="hint_where">"\"GPX artxiboa  
   \"/sdcard/gpxdata\" karpetan gorde da.
- Ordenagailura kopia dezakezu USB bidez.\""</string>
+ Ordenagailura kopia dezakezu USB bidez.\"\""</string>
     <string name="hint_failed">"Esportatze arazoa, saiatu berriro."</string>
     <string name="app_name">Kirolak</string>
     <string name="average_text">Med</string>
