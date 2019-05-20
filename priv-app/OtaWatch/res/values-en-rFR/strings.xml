@@ -11,11 +11,11 @@
     <string name="add_wifi">Ajouter Wi-Fi</string>
     <string name="please_update_rom">Nouvelle version du système trouvée, veuillez mettre à jour</string>
     <string name="checking_rom">Vérification des nouvelles versions</string>
-    <string name="checking_rom_failed">"La connexion réseau a expiré,
-veuillez réessayer"</string>
+    <string name="checking_rom_failed">"\"La connexion réseau a expiré,
+veuillez réessayer\""</string>
     <string name="current_is_new">Dernière version en cours</string>
-    <string name="has_new_rom">"Nouvelle version trouvée,
-mettre à jour vers la version %1$s ?"</string>
+    <string name="has_new_rom">"\"Nouvelle version trouvée,
+mettre à jour vers la version %1$s ?\""</string>
     <string name="has_new_rom_all">Une mise a jour est disponible, Le firmware sur la montre est trop ancien et la mise a jour pourra prendre du temps, continuer?</string>
     <string name="input_passwor_on_mobile">Veuillez entrer le mot de passe Wi-Fi dans Amazfit App</string>
     <string name="processbar_downloading_rom">Téléchargement...</string>
@@ -23,20 +23,20 @@ mettre à jour vers la version %1$s ?"</string>
 connectée au WiFi\""</string>
     <string name="processbar_downloading_tips">%</string>
     <string name="processbar_downloading_default">0</string>
-    <string name="download_rom_faild">"Echec du téléchargement du pack de mise à jour
-Veuillez réessayer."</string>
+    <string name="download_rom_faild">"\"Echec du téléchargement du pack de mise à jour
+Veuillez réessayer.\""</string>
     <string name="download_rom_success">Téléchargement de ROM réussi, veuillez l\'installer</string>
     <string name="low_battery_message">Mise à jour du pack téléchargée, la batterie doit être maintenue au-dessus de %1$s %% pour l\'installer</string>
     <string name="low_battery_title">Merci de recharger d’abord</string>
     <string name="progressbar_tips">Vérification des nouvelles versions......</string>
     <string name="progressbar_percent">%1$d%%</string>
     <string name="low_mem">Le stockage pour la mise à jour est insuffisant, %1$sM nécessaires, veuillez libérer de l\'espace</string>
-    <string name="update_network_error">"Vérification échouée, merci de
-réessayer ultérieurement"</string>
-    <string name="cancel_download">"Mise à jour des paquets,
-annuler?"</string>
-    <string name="new_rom_please_install">"Une mise à jour du système est disponible,
-merci de mettre à jour"</string>
+    <string name="update_network_error">"\"Vérification échouée, merci de
+réessayer ultérieurement\""</string>
+    <string name="cancel_download">"\"Mise à jour des paquets,
+annuler?\""</string>
+    <string name="new_rom_please_install">"\"Une mise à jour du système est disponible,
+merci de mettre à jour\""</string>
     <string name="btn_install_later">Rappeler la prochaine fois</string>
     <string name="btn_install_now">Installer maintenant</string>
     <string name="btn_upgrade_now">Mettre à jour maintenant</string>
@@ -54,8 +54,8 @@ merci de mettre à jour"</string>
     <string name="wifi_turnon_going">Activer le Wi-Fi...</string>
     <string name="system_update_title">Mise à jour réussie</string>
     <string name="system_update_content">Le système a été mis à jour vers la version %1$s</string>
-    <string name="password_error">"Mot de passe WiFi incorrect,
-Merci de réessayer"</string>
+    <string name="password_error">"\"Mot de passe WiFi incorrect,
+Merci de réessayer\""</string>
     <string name="wifi_connect_fail">Impossible de se connecter au réseau WiFi. Veuillez essayer un autre réseau WiFi</string>
     <string name="searching">Recherche en cours...</string>
     <string name="hasNewUpdateTitle">Mises à jour du système</string>
@@ -67,8 +67,8 @@ Merci de réessayer"</string>
     <string name="local_update_confirm_1_title">Veuillez lire</string>
     <string name="local_update_invalid_zip">La version du système est trop basse, Il est recommandé d\'utiliser la dernière version</string>
     <string name="local_update_confirm_1_msg">Pour assurer que la nouvelle version fonctionne correctement, nous allons effacer tout données utilisateur après la mise à jour. Connectez-vous s\'il vous plaît à l\'application Amazfit Watch et sauvegardez toutes les données avant la mise à jour.</string>
-    <string name="local_update_confirm_2_msg">"S\'il vous plaît assurez-vous que toutes les données utilisateurs sont sauvegardées. L\'installation
-de la mise à jour effacera toutes les données, Continuer?"</string>
+    <string name="local_update_confirm_2_msg">"\"S'il vous plaît assurez-vous que toutes les données utilisateurs sont sauvegardées. L'installation
+de la mise à jour effacera toutes les données, Continuer?\""</string>
     <string name="OK">OK</string>
     <string name="yes">Oui</string>
     <string name="no">Non</string>
