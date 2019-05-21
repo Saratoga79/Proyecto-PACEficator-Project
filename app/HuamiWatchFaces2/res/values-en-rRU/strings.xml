@@ -155,7 +155,7 @@
     <string name="rope_skip_tips">Завершенные группы %1$s</string>
     <string name="music">Музыка</string>
     <string name="press_long_power_key_wake_up">Нажмите клавишу для выхода</string>
-    <string name="sport_auto_pause_end">Сессия закончилась</string>
+    <string name="sport_auto_pause_end">Session ended, save the data?</string>
     <string name="press_any_key_wakeup1"></string>
     <string name="press_any_key_wakeup2"></string>
     <string name="press_power_key_wakeup1"></string>
@@ -166,6 +166,7 @@
     <string name="press_key_finish_train2"></string>
     <string name="zone_risk1">За пределами сердечного ритма</string>
     <string name="zone_risk2">ограничение темпа</string>
+    <string name="sport_auto_pause_end1">"Looks like you've ended"</string>
     <string name="sport_auto_pause_end2">сохранить данные?</string>
     <string name="sport_auto_pause_end3"></string>
     <string name="app_name">Циферблаты</string>
@@ -214,5 +215,4 @@
     <string name="on_foot">Треккинг</string>
     <string name="need_rest_time">Нужно отдохнуть в этот раз</string>
     <string name="need_rest_by_keypress">Нажмите кнопку вниз, чтобы завершить перерыв</string>
-    <string name="sport_auto_pause_end1">Обнаружено, что вы остановились</string>
 </resources>
