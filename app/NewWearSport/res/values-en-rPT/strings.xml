@@ -441,9 +441,9 @@
     <string name="modify_big_dis_regain">Edit</string>
     <string name="modify_big_dis_confirm">Continue calibration</string>
     <string name="re_modify_dis">Calibrate again</string>
-    <string name="re_modify_dis_tips">"\"\"1. To calibrate the distance result of a running session (must be longer than 0.5 km) helps the watch to generate a more accurate result.
+    <string name="re_modify_dis_tips">"\"1. To calibrate the distance result of a running session (must be longer than 0.5 km) helps the watch to generate a more accurate result.
 2. If you still aren't satisfied with the result after several calibration attempts, try to calibrate again.
-3. If you calibrate the result again, all previous calibration records will be deleted.\"\""</string>
+3. If you calibrate the result again, all previous calibration records will be deleted.\""</string>
     <string name="give_up_re_modify_dis">Discard</string>
     <string name="confirm_re_modify_dis">OK</string>
     <string name="re_modify_dis_successful">Calibrated successfully</string>
@@ -764,7 +764,7 @@ para um exercício eficaz!\""</string>
     <string name="running_avg_speed_desc_simple">Velocidade Méd.</string>
     <string name="running_pace_unit">/mi</string>
     <string name="running_calorie_unit">kCal</string>
-    <string name="running_step_freq_unit">SPM</string>
+    <string name="running_step_freq_unit">steps/min</string>
     <string name="running_speed_unit">mi/h</string>
     <string name="running_distance_unit">mi</string>
     <string name="running_heartrate_unit">bpm</string>
