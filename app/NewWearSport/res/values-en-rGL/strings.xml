@@ -763,7 +763,7 @@ O reloxo avaliará automaticamente a súa condición de rendemento despois de ~ 
     <string name="running_avg_speed_desc_simple">Avg speed</string>
     <string name="running_pace_unit">/km</string>
     <string name="running_calorie_unit">kcal</string>
-    <string name="running_step_freq_unit">SPM</string>
+    <string name="running_step_freq_unit">steps/min</string>
     <string name="running_speed_unit">km/h</string>
     <string name="running_distance_unit">km</string>
     <string name="running_heartrate_unit">BPM</string>
@@ -984,12 +984,12 @@ O reloxo avaliará automaticamente a súa condición de rendemento despois de ~ 
     <string name="dlg_btn_l_msg">No</string>
     <string name="dlg_btn_r_msg">Yes</string>
     <string name="hint_cancelling">Canceling…</string>
-    <string name="hint_success_exported_title">"\"\"Exported GPX file
-successfully\"\""</string>
+    <string name="hint_success_exported_title">"\"Exported GPX file
+successfully\""</string>
     <string name="hint_failed_exported_title">"Couldn't export"</string>
-    <string name="hint_where">"\"\"Saved GPX file to
+    <string name="hint_where">"\"Saved GPX file to
 '/sdcard/gpxdata'.
-You can copy it to a computer via USB.\"\""</string>
+You can copy it to a computer via USB.\""</string>
     <string name="hint_failed">"Couldn't export, try again."</string>
     <string name="app_name">gpx-recorder</string>
     <string name="average_text">Average</string>
