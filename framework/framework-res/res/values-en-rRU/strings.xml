@@ -11,16 +11,14 @@
     <string name="factorytest_reboot">Перезагрузка</string>
     <string name="aerr_application">Unfortunately, %1$s has stopped.</string>
     <string name="aerr_process">Unfortunately, the process %1$s has stopped.</string>
-    <string name="anr_activity_application">"\"\"%2$s isn't responding.
+    <string name="anr_activity_application">%2$s не отвечает. Вы хотите закрыть его?</string>
+    <string name="anr_activity_process">"\"\"Приложение \"%1$s\" не отвечает.
 
-Do you want to close it?\"\""</string>
-    <string name="anr_activity_process">"\"\"Activity %1$s isn't responding.
-
-Do you want to close it?\"\""</string>
+Закрыть его?\"\""</string>
     <string name="anr_application_process">"%1$s не отвечает. Вы хотите закрыть его?"</string>
-    <string name="anr_process">"\"Process %1$s isn't responding.
+    <string name="anr_process">"\"\"Process %1$s isn't responding.
 
-Do you want to close it?\""</string>
+Do you want to close it?\"\""</string>
     <string name="force_close">OK</string>
     <string name="report">Report</string>
     <string name="wait">Wait</string>
