@@ -11,10 +11,12 @@
     <string name="factorytest_reboot">Khởi động</string>
     <string name="aerr_application">Unfortunately, %1$s has stopped.</string>
     <string name="aerr_process">Unfortunately, the process %1$s has stopped.</string>
-    <string name="anr_activity_application">"\"%2$s không phản hồi.
+    <string name="anr_activity_application">"\"%2$s isn't responding.
 
-Bạn có muốn đóng?\""</string>
-    <string name="anr_activity_process">\"Hoạt động %1$s không phản hồi.</string>
+Do you want to close it?\""</string>
+    <string name="anr_activity_process">"\"Activity %1$s isn't responding.
+
+Do you want to close it?\""</string>
     <string name="anr_application_process">"%1$s không phản hồi. Bạn có muốn đóng nó?"</string>
     <string name="anr_process">"\"Process %1$s isn't responding.
 
