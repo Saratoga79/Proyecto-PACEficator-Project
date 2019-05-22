@@ -235,10 +235,10 @@
     <string name="blt_bound_stat_bonding">Appairage...</string>
     <string name="blt_bound_stat_none">Disponible</string>
     <string name="blt_default_name">Anonyme</string>
-    <string name="blt_hint_disconnect">"\"%1s
-Déconnecter?\""</string>
-    <string name="blt_hint_connect">"\"%1s
-Connecter?\""</string>
+    <string name="blt_hint_disconnect">"%1s
+Déconnecter?"</string>
+    <string name="blt_hint_connect">"%1s
+Connecter?"</string>
     <string name="blt_hint_connect_fail">Connexion échouée, réessayer</string>
     <string name="blt_type_ear">Casque</string>
     <string name="blt_speaker">Audio</string>
@@ -252,10 +252,10 @@ Connecter?\""</string>
     <string name="bluetooth_pairing_error_message">Appairage échoué</string>
     <string name="bluetooth_connecting">Connexion...</string>
     <string name="bluetooth_disconnecting">Déconnexion...</string>
-    <string name="blt_hint_paring">"\"%1s
- à appairer?\""</string>
-    <string name="blt_paring_fail_hint">"\"Assurez-vous que l'appareil est sous tension
-Et à proximité\""</string>
+    <string name="blt_hint_paring">"%1s
+ à appairer?"</string>
+    <string name="blt_paring_fail_hint">"Assurez-vous que l\'appareil est sous tension
+Et à proximité"</string>
     <string name="blt_hint_disconnect_device">Déconnecter</string>
     <string name="blt_hint_ignore_device">Ingore the device</string>
     <string name="blt_hint_connect_device">Connecter</string>
@@ -291,8 +291,8 @@ Et à proximité\""</string>
     <string name="rise_with_bl_under_slpt">On</string>
     <string name="rise_without_bl_under_slpt">Off</string>
     <string name="locale_applying">Changement de langue...</string>
-    <string name="confirm_change_locale">"\"Changer de langue vers 
-%1$s?\""</string>
+    <string name="confirm_change_locale">"Changer de langue vers 
+%1$s?"</string>
     <string name="gender">Sexe</string>
     <string name="birth_year">Année de Naissance</string>
     <string name="height">Taille</string>
@@ -300,20 +300,20 @@ Et à proximité\""</string>
     <string name="male">Homme</string>
     <string name="female">Femme</string>
     <string name="centimeter">cm</string>
-    <string name="birth_year_unit">"\"Année de 
-Naissance\""</string>
-    <string name="height_unit">"\"Taille 
-cm\""</string>
-    <string name="weight_unit">"\"Poids 
-kg\""</string>
+    <string name="birth_year_unit">"Année de 
+Naissance"</string>
+    <string name="height_unit">"Taille 
+cm"</string>
+    <string name="weight_unit">"Poids 
+kg"</string>
     <string name="reset_factory_hint">Restore factory settings?</string>
     <string name="reset_factory_yes">Factory Reset</string>
     <string name="reset_factory_no">Cancel</string>
     <string name="reset_factory_title">Paramètres d\'Usine</string>
-    <string name="reset_factory_noconnect_msg">"\"If Needing to Unbind the Watch, Please Operate Through Amazfit Watch App. 
+    <string name="reset_factory_noconnect_msg">"If Needing to Unbind the Watch, Please Operate Through Amazfit Watch App. 
  Watch’s Unilateral Factory Reset Will Remove UnionPay Card and Transportation Card. 
  A Removed UnionPay Card: It Can No Longer Be Bound to The Watch. If You Need to Bind Again, Please Consult the Bank Customer Service. 
- A Removed Transportation Card: Will Be Destroyed Permanently and Cannot Be Paid Again.\""</string>
+ A Removed Transportation Card: Will Be Destroyed Permanently and Cannot Be Paid Again."</string>
     <string name="reset_factory_conncet_msg">Watch and Amazfit watch App will Remove the Bound UnionPay Card. The Watch will Retain the Payment Function of the Transportation Card.</string>
     <string name="reset_factory_positive">Paramètres d\'Usine</string>
     <string name="reset_factory_negative">Annuler</string>
@@ -324,8 +324,8 @@ kg\""</string>
     <string name="reset_factory_doing2">UnionPay Card Is Being Removed</string>
     <string name="reset_factory_hint_cn">Disconnect from Your Mobile Phone and Delete All Data in Your Watch after Factory Reset. After Binding The Watch the Next Time, the Current Opened Transportation Card Can Continue to Be Used.</string>
     <string name="reset_factory_bank_title">Please Remove the UnionPay Card at First</string>
-    <string name="reset_factory_bank_msg">"\"If Reset the Watch without Removing the UnionPay Card, It will Cause the UnionPay Card: 
- 1. Cannot be Removed from the Watch, Occupying Chip Space;  2. Cannot Use the Payment Function in the Watch;  3. Cannot Be Bound by Other Devices; For Payment Security, Please First Remove the UnionPay Card from Amazfit Watch App.\""</string>
+    <string name="reset_factory_bank_msg">"If Reset the Watch without Removing the UnionPay Card, It will Cause the UnionPay Card: 
+ 1. Cannot be Removed from the Watch, Occupying Chip Space;  2. Cannot Use the Payment Function in the Watch;  3. Cannot Be Bound by Other Devices; For Payment Security, Please First Remove the UnionPay Card from Amazfit Watch App."</string>
     <string name="reset_factory_bank_yes">Continuer la réinitialisation</string>
     <string name="reset_factory_bank_no">Annuler</string>
     <string name="reset_factory_bank_msg_again">The Watch Will Disconnect from Your Mobile Phone and Delete All Data in the Watch. After the Watch Is Re-bound, the Currently Opened Transportation Card Can Continue to Be Used.</string>
@@ -392,8 +392,8 @@ kg\""</string>
     <string name="light_auto_guide_content">After Auto adjustment is on, move slider to fine tune the brightness coefficient, then the screen brightness will still change with the ambient brightness.</string>
     <string name="light_auto_guide_ok">I know it</string>
     <string name="watch_mode_title">Turn on watch mode</string>
-    <string name="watch_mode_message">"\"When turned on, the watch will only support time display, step counting and transportation card payment. 
- (When you turn it on, press and hold the physical key to exit this mode)\""</string>
+    <string name="watch_mode_message">"When turned on, the watch will only support time display, step counting and transportation card payment. 
+ (When you turn it on, press and hold the physical key to exit this mode)"</string>
     <string name="watch_mode_positive">Confirm turned on</string>
     <string name="watch_mode_negative">Cancel</string>
     <string name="replace_watchface">Cadran</string>
@@ -406,16 +406,16 @@ kg\""</string>
     <string name="setting_regulatory_russia">Russia</string>
     <string name="setting_regulatory_japan">Japan</string>
     <string name="setting_regulation_desc_us">FCC ID:2AC8UA1811</string>
-    <string name="setting_regulation_desc_canda">"\"IC:21806-A1811 
- ICAN ICE-3(B)/NMB-3(B)\""</string>
+    <string name="setting_regulation_desc_canda">"IC:21806-A1811 
+ ICAN ICE-3(B)/NMB-3(B)"</string>
     <string name="setting_regulation_model_name">Model : %1$s</string>
     <string name="confirm_shutdown">Eteindre?</string>
     <string name="confirm_reboot">Redémarrer?</string>
     <string name="app_name">Paramètres de la montre</string>
     <string name="lab_desc">Collecter une partie des outils de débogage</string>
     <string name="unknown">Périphérique inconnu</string>
-    <string name="bind_tips_title">"\"Veuillez lier 
-pour protéger vos données de manière plus sécurisée\""</string>
+    <string name="bind_tips_title">"Veuillez lier 
+pour protéger vos données de manière plus sécurisée"</string>
     <string name="upgrade_checking">Vérification de la mise à jour...</string>
     <string name="left_hand">Gauche</string>
     <string name="right_hand">Droit</string>

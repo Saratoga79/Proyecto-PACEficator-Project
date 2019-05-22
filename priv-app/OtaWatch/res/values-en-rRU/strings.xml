@@ -12,32 +12,32 @@
     <string name="add_wifi">Добавить Wi-Fi</string>
     <string name="please_update_rom">Найдена новая версия прошивки, пожалуйста установите обновление</string>
     <string name="checking_rom">Проверка новой версии</string>
-    <string name="checking_rom_failed">"\"Тайм-аут сети,
-повторите попытку\""</string>
+    <string name="checking_rom_failed">"Тайм-аут сети,
+повторите попытку"</string>
     <string name="current_is_new">Последняя версия установлена</string>
     <string name="has_new_rom_all">Обновление доступно. Прошивка на этих часах устарела, и обновление до последней версии может занять некоторое время, продолжить?</string>
-    <string name="has_new_rom">"\"Найдена новая версия,
-обновить до версии %1$ s?\""</string>
+    <string name="has_new_rom">"Найдена новая версия,
+обновить до версии %1$ s?"</string>
     <string name="processbar_downloading_rom">Загрузка...</string>
-    <string name="please_keep_wifi_connect">"\"Пожалуйста, держите часы
-подключенными к Wi-Fi\""</string>
+    <string name="please_keep_wifi_connect">"Пожалуйста, держите часы
+подключенными к Wi-Fi"</string>
     <string name="processbar_downloading_tips">%</string>
     <string name="processbar_downloading_default">0</string>
-    <string name="download_rom_faild">"\"Ошибка загрузки пакета обновления,
- пожалуйста, попробуйте снова.\""</string>
+    <string name="download_rom_faild">"Ошибка загрузки пакета обновления,
+ пожалуйста, попробуйте снова."</string>
     <string name="download_rom_success">ROM загружен успешно, пожалуйста установите</string>
     <string name="low_battery_message">Пакет обновления загружен, не отключайте часы %1$s%% до окончания установки</string>
     <string name="low_battery_title">Пожалуйста, зарядите как можно скорее</string>
     <string name="progressbar_tips">Проверка на наличие новой версии...</string>
     <string name="progressbar_percent">%1$d%%</string>
     <string name="low_mem">Недостаточно места, освободите %1$sM памяти, сначала очистите память</string>
-    <string name="update_network_error">"\"Поиск обновлений не удался, пожалуйста
-повторите попытку позже\""</string>
-    <string name="cancel_download">"\"Загрузка пакета обновлений,
- отменить?\""</string>
-    <string name="new_rom_please_install">"\"Доступно системное обновление, 
+    <string name="update_network_error">"Поиск обновлений не удался, пожалуйста
+повторите попытку позже"</string>
+    <string name="cancel_download">"Загрузка пакета обновлений,
+ отменить?"</string>
+    <string name="new_rom_please_install">\"Доступно системное обновление, 
 пожалуйста обновитесь\"
- "</string>
+ </string>
     <string name="btn_install_later">Напомнить в другой раз</string>
     <string name="btn_install_now">Установить сейчас</string>
     <string name="btn_upgrade_now">Обновить сейчас</string>
@@ -56,8 +56,8 @@
     <string name="system_update_title">Успешное обновление</string>
     <string name="system_update_content">Система обновлен до версии %1$s</string>
     <string name="password_error">Некорректный Wi-Fi паспорт, пожалуйста повторите</string>
-    <string name="wifi_connect_fail">"«Не удается подключиться к этой сети WiFi. Пожалуйста, попробуйте 
-другой Wi-Fi hotspot»"</string>
+    <string name="wifi_connect_fail">«Не удается подключиться к этой сети WiFi. Пожалуйста, попробуйте 
+другой Wi-Fi hotspot»</string>
     <string name="searching">Идет поиск...</string>
     <string name="hasNewUpdateTitle">Обновления системы</string>
     <string name="hasNewUpdateInstallContent">Версия %1$s может быть установлена, установить сейчас?</string>
@@ -67,14 +67,14 @@
     <string name="update_local">Обновление из локального zip-архива</string>
     <string name="local_update_confirm_1_title">Пожалуйста прочитайте</string>
     <string name="local_update_invalid_zip">The card package system version is too low, it is recommended to use the latest version to upgrade</string>
-    <string name="local_update_confirm_1_msg">"\"Чтобы убедиться, что новая версия 
+    <string name="local_update_confirm_1_msg">"Чтобы убедиться, что новая версия 
 работает должным образом, мы сотрем все данные пользователя 
 после обновления. Пожалуйста подключитеcm 
-к приложению Amazfit Watch и сделайте резервную копию всех данных перед обновлением.\""</string>
-    <string name="local_update_confirm_2_msg">"\"Пожалуйста убедитесь, что все пользовательские
+к приложению Amazfit Watch и сделайте резервную копию всех данных перед обновлением."</string>
+    <string name="local_update_confirm_2_msg">"Пожалуйста убедитесь, что все пользовательские
 данные скопировались. Установка 
 обновления сотрет все данные 
-пользователей на часах, продолжить?\""</string>
+пользователей на часах, продолжить?"</string>
     <string name="OK">OK</string>
     <string name="yes">Да</string>
     <string name="no">Нет</string>

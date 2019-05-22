@@ -12,31 +12,31 @@
     <string name="add_wifi">Wi-Fi Ekle</string>
     <string name="please_update_rom">Yeni bir sistem güncellemesi bulundu, lütfen güncelleyin</string>
     <string name="checking_rom">Güncelleme kontrol ediliyor</string>
-    <string name="checking_rom_failed">"\"Ağ bağlantısı zaman aşımına uğradı, 
-lütfen tekrar deneyin\""</string>
+    <string name="checking_rom_failed">"Ağ bağlantısı zaman aşımına uğradı, 
+lütfen tekrar deneyin"</string>
     <string name="current_is_new">Son versiyon zaten yüklü</string>
     <string name="has_new_rom_all">An update is available. Firmware on this watch is out of date and upgrading to the latest may take a while, continue?</string>
-    <string name="has_new_rom">"\"Yeni versiyon bulundu,
-%1$s versiyonuna yükseltilsin mi?\""</string>
+    <string name="has_new_rom">"Yeni versiyon bulundu,
+%1$s versiyonuna yükseltilsin mi?"</string>
     <string name="processbar_downloading_rom">İndiriliyor...</string>
-    <string name="please_keep_wifi_connect">"\"Lütfen saati 
-WiFi'ye bağlı tutun\""</string>
+    <string name="please_keep_wifi_connect">"Lütfen saati 
+WiFi\'ye bağlı tutun"</string>
     <string name="processbar_downloading_tips">%</string>
     <string name="processbar_downloading_default">0</string>
-    <string name="download_rom_faild">"\"Güncelleme paketi indirilemedi,
-lütfen tekrar deneyin.\""</string>
+    <string name="download_rom_faild">"Güncelleme paketi indirilemedi,
+lütfen tekrar deneyin."</string>
     <string name="download_rom_success">ROM indirildi, lütfen yükleyin.</string>
     <string name="low_battery_message">Güncelleme paketini indirdiyseniz, yüklemek için gücün %1$s%% üzerinde olmasını sağlayın</string>
     <string name="low_battery_title">Lütfen önce şarj edin</string>
     <string name="progressbar_tips">Yeni versiyon kontrol ediliyor...</string>
     <string name="progressbar_percent">%1$d%%</string>
     <string name="low_mem">Yükseltme için gereken depolama kapasitesi yetersiz, %1$sM daha gerekli, lütfen önce temizleyin</string>
-    <string name="update_network_error">"\"Güncelleme kontrolü başarısız oldu, lütfen
-sonra tekrar deneyin\""</string>
-    <string name="cancel_download">"\"Güncelleme paketi indiriliyor, 
-vazgeçilsin mi?\""</string>
-    <string name="new_rom_please_install">"\"Sistem güncellemesi var,
-lütfen yükseltin\""</string>
+    <string name="update_network_error">"Güncelleme kontrolü başarısız oldu, lütfen
+sonra tekrar deneyin"</string>
+    <string name="cancel_download">"Güncelleme paketi indiriliyor, 
+vazgeçilsin mi?"</string>
+    <string name="new_rom_please_install">"Sistem güncellemesi var,
+lütfen yükseltin"</string>
     <string name="btn_install_later">Sonra hatırlat</string>
     <string name="btn_install_now">Şimdi yükle</string>
     <string name="btn_upgrade_now">Şimdi güncelle</string>
@@ -54,11 +54,11 @@ lütfen yükseltin\""</string>
     <string name="wifi_turnon_going">Wi-Fi açılıyor...</string>
     <string name="system_update_title">Güncelleme başarılı</string>
     <string name="system_update_content">Sistem %1$s versiyonuna güncellendi</string>
-    <string name="password_error">"\"Wi-Fi şifresi yanlış,
-lütfen şifreyi tekrar girin\""</string>
-    <string name="wifi_connect_fail">"\"Bu Wi-Fi ağına bağlanılamıyor.
+    <string name="password_error">"Wi-Fi şifresi yanlış,
+lütfen şifreyi tekrar girin"</string>
+    <string name="wifi_connect_fail">"Bu Wi-Fi ağına bağlanılamıyor.
 Lütfen başka bir Wi-Fi ağına 
-bağlanmayı deneyin\""</string>
+bağlanmayı deneyin"</string>
     <string name="searching">Aranıyor...</string>
     <string name="hasNewUpdateTitle">Sistem güncellemeleri</string>
     <string name="hasNewUpdateInstallContent">%1$s versiyonu yüklenebilir, yüklensin mi?</string>
@@ -68,14 +68,14 @@ bağlanmayı deneyin\""</string>
     <string name="update_local">Yerel zip dosyasından güncelleme</string>
     <string name="local_update_confirm_1_title">Lütfen okuyun</string>
     <string name="local_update_invalid_zip">Kart paketi sistemi sürümü çok düşük, yükseltmek için en son sürümü kullanmanız önerilir.</string>
-    <string name="local_update_confirm_1_msg">"\"To ensure the new version 
-works properly, we'll erase all 
+    <string name="local_update_confirm_1_msg">"To ensure the new version 
+works properly, we\'ll erase all 
 user data after update. Please connect 
-to the Amazfit Watch APP and back up all data before update.\""</string>
-    <string name="local_update_confirm_2_msg">"\"Lütfen tüm kullanıcı
+to the Amazfit Watch APP and back up all data before update."</string>
+    <string name="local_update_confirm_2_msg">"Lütfen tüm kullanıcı
 verilerinizi yedeklediğinizden emin olun. 
 güncelleme yüklemesi saatteki tüm 
-verileri silecek, Devam edilsin mi?\""</string>
+verileri silecek, Devam edilsin mi?"</string>
     <string name="OK">OK</string>
     <string name="yes">Yes</string>
     <string name="no">No</string>

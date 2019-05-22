@@ -235,10 +235,10 @@
     <string name="blt_bound_stat_bonding">Pairing...</string>
     <string name="blt_bound_stat_none">Διαθέσιμο</string>
     <string name="blt_default_name">Ανώνυμο</string>
-    <string name="blt_hint_disconnect">"\"%1s
-Disconnect?\""</string>
-    <string name="blt_hint_connect">"\"%1s
-σύνδεση;\""</string>
+    <string name="blt_hint_disconnect">"%1s
+Disconnect?"</string>
+    <string name="blt_hint_connect">"%1s
+σύνδεση;"</string>
     <string name="blt_hint_connect_fail">Connection failed, please re-connect</string>
     <string name="blt_type_ear">Headset</string>
     <string name="blt_speaker">Audio</string>
@@ -252,10 +252,10 @@ Disconnect?\""</string>
     <string name="bluetooth_pairing_error_message">Fail to bind</string>
     <string name="bluetooth_connecting">Connecting...</string>
     <string name="bluetooth_disconnecting">Disconnecting...</string>
-    <string name="blt_hint_paring">"\"%1s
- to pair?\""</string>
-    <string name="blt_paring_fail_hint">"\"Make sure device power on
-and is nearby\""</string>
+    <string name="blt_hint_paring">"%1s
+ to pair?"</string>
+    <string name="blt_paring_fail_hint">"Make sure device power on
+and is nearby"</string>
     <string name="blt_hint_disconnect_device">Disconnect</string>
     <string name="blt_hint_ignore_device">Αγνοήστε τη συσκευή</string>
     <string name="blt_hint_connect_device">Connect</string>
@@ -291,8 +291,8 @@ and is nearby\""</string>
     <string name="rise_with_bl_under_slpt">On</string>
     <string name="rise_without_bl_under_slpt">Off</string>
     <string name="locale_applying">Language applying...</string>
-    <string name="confirm_change_locale">"\"Change language to 
-%1$s?\""</string>
+    <string name="confirm_change_locale">"Change language to 
+%1$s?"</string>
     <string name="gender">Φύλο</string>
     <string name="birth_year">Birth Year</string>
     <string name="height">Ύψος</string>
@@ -300,20 +300,20 @@ and is nearby\""</string>
     <string name="male">Άνδρας</string>
     <string name="female">Γυναίκα</string>
     <string name="centimeter">εκ</string>
-    <string name="birth_year_unit">"\"Birth 
-Year\""</string>
-    <string name="height_unit">"\"Height 
-cm\""</string>
-    <string name="weight_unit">"\"Weight 
-kg\""</string>
+    <string name="birth_year_unit">"Birth 
+Year"</string>
+    <string name="height_unit">"Height 
+cm"</string>
+    <string name="weight_unit">"Weight 
+kg"</string>
     <string name="reset_factory_hint">Reset to factory settings?</string>
     <string name="reset_factory_yes">Εργοστασιακές ρυθμίσεις</string>
     <string name="reset_factory_no">Άκυρο</string>
     <string name="reset_factory_title">Εργοστασιακές ρυθμίσεις</string>
-    <string name="reset_factory_noconnect_msg">"\"Αν χρειάζεστε να αποσυνδέσετε το ρολόι, παρακαλώ λειτουργήστε μέσω του App Amazfit Watch.
+    <string name="reset_factory_noconnect_msg">"Αν χρειάζεστε να αποσυνδέσετε το ρολόι, παρακαλώ λειτουργήστε μέσω του App Amazfit Watch.
   Η μονομερής επαναφορά εργοστασίου του ρολογιού θα απομακρύνει την κάρτα UnionPay και την κάρτα μεταφοράς.
 Η κάρτα UnionPay που έχει αφαιρεθεί: Δεν μπορεί πλέον να είναι δεσμευμένη στο ρολόι. Εάν χρειάζεται να δεσμευτείτε ξανά, συμβουλευτείτε την Υπηρεσία Εξυπηρέτησης Πελατών της Τράπεζας.
-  Μια αφαίρεση της κάρτας μεταφοράς: θα καταστραφεί μόνιμα και δεν μπορεί να πληρωθεί πάλι. \""</string>
+  Μια αφαίρεση της κάρτας μεταφοράς: θα καταστραφεί μόνιμα και δεν μπορεί να πληρωθεί πάλι. "</string>
     <string name="reset_factory_conncet_msg">Το ρολόι και η εφαρμογή Amazfit App θα αφαιρέσει την δεσμευμένη κάρτα UnionPay. Το ρολόι θα διατηρήσει τη λειτουργία πληρωμής της κάρτας μεταφοράς.</string>
     <string name="reset_factory_positive">Εργοστασιακές ρυθμίσεις</string>
     <string name="reset_factory_negative">Άκυρο</string>
@@ -324,8 +324,8 @@ kg\""</string>
     <string name="reset_factory_doing2">Η κάρτα UnionPay καταργείται</string>
     <string name="reset_factory_hint_cn">Αποσυνδέστε από το κινητό σας τηλέφωνο και διαγράψτε όλα τα δεδομένα στην οθόνη σας μετά την επαναφορά εργοστασιακών ρυθμίσεων. Αφού δεσμευτεί η παρακολούθηση της επόμενης ώρας, η τρέχουσα κάρτα ανοιχτής μεταφοράς μπορεί να συνεχίσει να χρησιμοποιείται.</string>
     <string name="reset_factory_bank_title">Παρακαλώ να αφαιρέστε την κάρτα UnionPay πρώτα</string>
-    <string name="reset_factory_bank_msg">"\"Εάν επαναφέρετε το ρολόι χωρίς να αφαιρέσετε την κάρτα UnionPay, θα προκαλέσει στην κάρτα UnionPay:
-  1. Δεν μπορεί να αφαιρεθεί από το χώρο παρακολούθησης, που καταλαμβάνει το τσιπ, 2. Δεν μπορεί να χρησιμοποιήσει τη λειτουργία πληρωμής στο ρολόι. 3. Δεν μπορούν να δεσμευτούν από άλλες συσκευές. Για την ασφάλεια πληρωμών, παρακαλούμε πρώτα να καταργήσετε την κάρτα UnionPay από την εφαρμογή παρακολούθησης Amazfit. \""</string>
+    <string name="reset_factory_bank_msg">"Εάν επαναφέρετε το ρολόι χωρίς να αφαιρέσετε την κάρτα UnionPay, θα προκαλέσει στην κάρτα UnionPay:
+  1. Δεν μπορεί να αφαιρεθεί από το χώρο παρακολούθησης, που καταλαμβάνει το τσιπ, 2. Δεν μπορεί να χρησιμοποιήσει τη λειτουργία πληρωμής στο ρολόι. 3. Δεν μπορούν να δεσμευτούν από άλλες συσκευές. Για την ασφάλεια πληρωμών, παρακαλούμε πρώτα να καταργήσετε την κάρτα UnionPay από την εφαρμογή παρακολούθησης Amazfit. "</string>
     <string name="reset_factory_bank_yes">Συνέχιση της Επαναφοράς εργοστασιακών ρυθμίσεων</string>
     <string name="reset_factory_bank_no">Ακύρωση</string>
     <string name="reset_factory_bank_msg_again">Το ρολόι θα αποσυνδεθεί από το κινητό σας τηλέφωνο και θα διαγράψει όλα τα δεδομένα στο ρολόι. Μετά την επαναφορά του ρολογιού, η Κάρτα Μεταφοράς που έχει ανοίξει μπορεί να συνεχίσει να χρησιμοποιείται.</string>
@@ -392,8 +392,8 @@ kg\""</string>
     <string name="light_auto_guide_content">After Auto adjustment is on, move slider to fine tune the brightness coefficient, then the screen brightness will still change with the ambient brightness.</string>
     <string name="light_auto_guide_ok">I know it</string>
     <string name="watch_mode_title">Turn on watch mode</string>
-    <string name="watch_mode_message">"\"When turned on, the watch will only support time display, step counting and transportation card payment. 
- (When you turn it on, press and hold the physical key to exit this mode)\""</string>
+    <string name="watch_mode_message">"When turned on, the watch will only support time display, step counting and transportation card payment. 
+ (When you turn it on, press and hold the physical key to exit this mode)"</string>
     <string name="watch_mode_positive">Confirm turned on</string>
     <string name="watch_mode_negative">Άκυρο</string>
     <string name="replace_watchface">WatchFace</string>
@@ -406,16 +406,16 @@ kg\""</string>
     <string name="setting_regulatory_russia">Russia</string>
     <string name="setting_regulatory_japan">Japan</string>
     <string name="setting_regulation_desc_us">FCC ID:2AC8UA1811</string>
-    <string name="setting_regulation_desc_canda">"\"IC:21806-A1811 
- ICAN ICE-3(B)/NMB-3(B)\""</string>
+    <string name="setting_regulation_desc_canda">"IC:21806-A1811 
+ ICAN ICE-3(B)/NMB-3(B)"</string>
     <string name="setting_regulation_model_name">Model : %1$s</string>
     <string name="confirm_shutdown">Shutdown?</string>
     <string name="confirm_reboot">Reboot?</string>
     <string name="app_name">Setting</string>
     <string name="lab_desc">Collect part of the debugging tools</string>
     <string name="unknown">Unknown device</string>
-    <string name="bind_tips_title">"\"Please bind 
- to protect your data more securely\""</string>
+    <string name="bind_tips_title">"Please bind 
+ to protect your data more securely"</string>
     <string name="upgrade_checking">Checking for update...</string>
     <string name="left_hand">Left hand</string>
     <string name="right_hand">Right hand</string>
