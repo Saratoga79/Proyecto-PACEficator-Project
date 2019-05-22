@@ -235,10 +235,10 @@
     <string name="blt_bound_stat_bonding">กำลังจับคู่...</string>
     <string name="blt_bound_stat_none">พร้อมใช้งาน</string>
     <string name="blt_default_name">ไม่มีชื่อ</string>
-    <string name="blt_hint_disconnect">"\"%1s
-ตัดการเชื่อมต่อ?\""</string>
-    <string name="blt_hint_connect">"\"%1s
-เชื่อมต่อ?\""</string>
+    <string name="blt_hint_disconnect">"%1s
+ตัดการเชื่อมต่อ?"</string>
+    <string name="blt_hint_connect">"%1s
+เชื่อมต่อ?"</string>
     <string name="blt_hint_connect_fail">การเชื่อมต่อล้มเหลวโปรดเชื่อมต่ออีกครั้ง</string>
     <string name="blt_type_ear">ชุดหูฟัง</string>
     <string name="blt_speaker">เสียง</string>
@@ -252,10 +252,10 @@
     <string name="bluetooth_pairing_error_message">จับคู่ไม่สำเร็จ</string>
     <string name="bluetooth_connecting">กำลังเชื่อมต่อ...</string>
     <string name="bluetooth_disconnecting">กำลังตัดการเชื่อมต่อ...</string>
-    <string name="blt_hint_paring">"\"%1s
- จับคู่?\""</string>
-    <string name="blt_paring_fail_hint">"\"ทำให้แน่ใจว่าอุปกรณ์เปิดอยู่
-และอยู่ใกล้ๆ\""</string>
+    <string name="blt_hint_paring">"%1s
+ จับคู่?"</string>
+    <string name="blt_paring_fail_hint">"ทำให้แน่ใจว่าอุปกรณ์เปิดอยู่
+และอยู่ใกล้ๆ"</string>
     <string name="blt_hint_disconnect_device">ตัดการเชื่อมต่อ</string>
     <string name="blt_hint_ignore_device">ไม่ต้องสนใจอุปกรณ์</string>
     <string name="blt_hint_connect_device">เชื่อมต่อ</string>
@@ -291,8 +291,8 @@
     <string name="rise_with_bl_under_slpt">เปิด</string>
     <string name="rise_without_bl_under_slpt">ปิด</string>
     <string name="locale_applying">กำลังนำภาษาไปใช้...</string>
-    <string name="confirm_change_locale">"\"เปลี่ยนภาษาเป็น 
-%1$s?\""</string>
+    <string name="confirm_change_locale">"เปลี่ยนภาษาเป็น 
+%1$s?"</string>
     <string name="gender">เพศ</string>
     <string name="birth_year">ปีเกิด</string>
     <string name="height">ความสูง</string>
@@ -301,18 +301,18 @@
     <string name="female">เพศหญิง</string>
     <string name="centimeter">cm</string>
     <string name="birth_year_unit">"ปีเกิด"</string>
-    <string name="height_unit">"\"ความสูง 
-cm\""</string>
-    <string name="weight_unit">"\"น้ำหนัก 
-กิโลกรัม\""</string>
+    <string name="height_unit">"ความสูง 
+cm"</string>
+    <string name="weight_unit">"น้ำหนัก 
+กิโลกรัม"</string>
     <string name="reset_factory_hint">เรียกคืนการตั้งค่าจากโรงงานหรือไม่?</string>
     <string name="reset_factory_yes">คืนค่าเริ่มต้นจากโรงงาน</string>
     <string name="reset_factory_no">ยกเลิก</string>
     <string name="reset_factory_title">คืนค่าเริ่มต้นจากโรงงาน</string>
-    <string name="reset_factory_noconnect_msg">"\"หากต้องการแยกนาฬิกาออกให้ใช้งานแอพ Amazfit Watch
+    <string name="reset_factory_noconnect_msg">"หากต้องการแยกนาฬิกาออกให้ใช้งานแอพ Amazfit Watch
   การรีเซ็ตค่าเริ่มต้นจากโรงงานฝ่ายเดียวของ Watch จะลบบัตร UnionPay และบัตรการขนส่ง
   บัตร UnionPay ที่ถูกลบ: ไม่สามารถผูกพันกับนาฬิกาได้อีกต่อไป หากคุณต้องการผูกอีกครั้งโปรดปรึกษาฝ่ายบริการลูกค้าของธนาคาร
-  บัตรขนส่งที่ถูกลบออก: จะถูกทำลายอย่างถาวรและไม่สามารถชำระได้อีก \""</string>
+  บัตรขนส่งที่ถูกลบออก: จะถูกทำลายอย่างถาวรและไม่สามารถชำระได้อีก "</string>
     <string name="reset_factory_conncet_msg">"135/5000
 แอป Watch และ Amazfit จะลบบัตร Bound UnionPay ออก นาฬิกาจะเก็บฟังก์ชันการชำระเงินของบัตรการขนส่งไว้"</string>
     <string name="reset_factory_positive">คืนค่าเริ่มต้นจากโรงงาน</string>
@@ -324,8 +324,8 @@ cm\""</string>
     <string name="reset_factory_doing2">บัตร UnionPay ถูกลบออก</string>
     <string name="reset_factory_hint_cn">ตัดการเชื่อมต่อจากโทรศัพท์มือถือของคุณและลบข้อมูลทั้งหมดในนาฬิกาหลังจากรีเซ็ตเป็นค่าจากโรงงาน หลังจากเชื่อมต่อนาฬิกาในครั้งต่อไปการ์ดขนส่งที่เปิดอยู่ในปัจจุบันสามารถใช้งานต่อไปได้</string>
     <string name="reset_factory_bank_title">โปรดลบบัตร UnionPay ในตอนแรก</string>
-    <string name="reset_factory_bank_msg">"\"ถ้ารีเซ็ตนาฬิกาโดยไม่ต้องถอดการ์ด UnionPay มันจะทำให้บัตร UnionPay:
-  1. ไม่สามารถลบออกจากนาฬิกาครอบครองพื้นที่ชิป; 2. ไม่สามารถใช้ฟังก์ชั่นการชำระเงินในนาฬิกา 3. อุปกรณ์อื่นไม่สามารถผูกพันได้ เพื่อความปลอดภัยในการชำระเงินอันดับแรกโปรดลบบัตร UnionPay ออกจาก Amazfit Watch App \""</string>
+    <string name="reset_factory_bank_msg">"ถ้ารีเซ็ตนาฬิกาโดยไม่ต้องถอดการ์ด UnionPay มันจะทำให้บัตร UnionPay:
+  1. ไม่สามารถลบออกจากนาฬิกาครอบครองพื้นที่ชิป; 2. ไม่สามารถใช้ฟังก์ชั่นการชำระเงินในนาฬิกา 3. อุปกรณ์อื่นไม่สามารถผูกพันได้ เพื่อความปลอดภัยในการชำระเงินอันดับแรกโปรดลบบัตร UnionPay ออกจาก Amazfit Watch App "</string>
     <string name="reset_factory_bank_yes">ดำเนินการรีเซ็ตเป็นโรงงานต่อไป</string>
     <string name="reset_factory_bank_no">ยกเลิก</string>
     <string name="reset_factory_bank_msg_again">นาฬิกาจะตัดการเชื่อมต่อจากโทรศัพท์มือถือของคุณและลบข้อมูลทั้งหมดในนาฬิกา หลังจากดูข้อ จำกัด นาฬิกาการ์ดขนส่งที่เปิดอยู่ในปัจจุบันสามารถใช้งานต่อไปได้</string>
@@ -392,8 +392,8 @@ cm\""</string>
     <string name="light_auto_guide_content">หลังจากเปิดใช้งานการปรับอัตโนมัติแล้วให้เลื่อนตัวเลื่อนเพื่อปรับค่าความสว่างจากนั้นความสว่างหน้าจอจะเปลี่ยนไปตามความสว่างโดยรอบ</string>
     <string name="light_auto_guide_ok">ฉันรู้แล้ว</string>
     <string name="watch_mode_title">เปิดโหมดนาฬิกา</string>
-    <string name="watch_mode_message">"\"เมื่อเปิดใช้งานนาฬิกาจะสนับสนุนการแสดงเวลาการนับขั้นตอนและการชำระเงินด้วยบัตรขนส่งเท่านั้น
-  (เมื่อคุณเปิดใช้งานให้กดปุ่มค้างไว้เพื่อออกจากโหมดนี้) \""</string>
+    <string name="watch_mode_message">"เมื่อเปิดใช้งานนาฬิกาจะสนับสนุนการแสดงเวลาการนับขั้นตอนและการชำระเงินด้วยบัตรขนส่งเท่านั้น
+  (เมื่อคุณเปิดใช้งานให้กดปุ่มค้างไว้เพื่อออกจากโหมดนี้) "</string>
     <string name="watch_mode_positive">ยืนยันการเปิด</string>
     <string name="watch_mode_negative">ยกเลิก</string>
     <string name="replace_watchface">หน้าปัดนาฬิกา</string>
@@ -406,16 +406,16 @@ cm\""</string>
     <string name="setting_regulatory_russia">รัสเซีย</string>
     <string name="setting_regulatory_japan">ญี่ปุ่น</string>
     <string name="setting_regulation_desc_us">FCC ID:2AC8UA1811</string>
-    <string name="setting_regulation_desc_canda">"\"IC:21806-A1811 
- ICAN ICE-3(B)/NMB-3(B)\""</string>
+    <string name="setting_regulation_desc_canda">"IC:21806-A1811 
+ ICAN ICE-3(B)/NMB-3(B)"</string>
     <string name="setting_regulation_model_name">รุ่น : %1$s</string>
     <string name="confirm_shutdown">ปิดเครื่อง?</string>
     <string name="confirm_reboot">เริ่มระบบใหม่?</string>
     <string name="app_name">การตั้งค่า</string>
     <string name="lab_desc">รวบรวมส่วนหนึ่งของ debugging tools</string>
     <string name="unknown">อุปกรณ์ที่ไม่รู้จัก</string>
-    <string name="bind_tips_title">"\"กรุณาบายด์(ผูก)
- เพื่อปกป้องข้อมูลของคุณให้ปลอดภัยยิ่งขึ้น\""</string>
+    <string name="bind_tips_title">"กรุณาบายด์(ผูก)
+ เพื่อปกป้องข้อมูลของคุณให้ปลอดภัยยิ่งขึ้น"</string>
     <string name="upgrade_checking">ตรวจหาการอัพเดท...</string>
     <string name="left_hand">ซ้าย</string>
     <string name="right_hand">ขวา</string>
