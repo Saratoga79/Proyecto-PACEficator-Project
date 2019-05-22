@@ -526,8 +526,8 @@
     <string name="kg_login_password_hint">Password</string>
     <string name="kg_login_submit_button">ลงชื่อเข้าใช้</string>
     <string name="kg_login_invalid_input">Invalid username or password.</string>
-    <string name="kg_login_account_recovery_hint">\"\"Forgot your username or password?
-Visit \"<b>google.com/accounts/recovery</b>.\"</string>
+    <string name="kg_login_account_recovery_hint">\"Forgot your username or password?
+Visit \"<b>google.com/accounts/recovery</b>.</string>
     <string name="kg_login_checking_password">Checking account…</string>
     <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"คุณพิมพ์ PIN %d ครั้งไม่ถูกต้อง
 
@@ -559,6 +559,6 @@ Visit \"<b>google.com/accounts/recovery</b>.\"</string>
     <string name="keyguard_transport_play_description">ปุ่มเล่น</string>
     <string name="keyguard_transport_stop_description">ปุ่มหยุด</string>
     <string name="keyguard_carrier_default">ไม่มีบริการ</string>
-    <string name="status_bar_date_formatter">"\"%2$s
-%1$s\""</string>
+    <string name="status_bar_date_formatter">"%2$s
+%1$s"</string>
 </resources>
