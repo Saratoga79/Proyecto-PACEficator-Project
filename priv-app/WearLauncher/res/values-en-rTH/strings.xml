@@ -49,16 +49,16 @@
     <string name="quick_settings_date_chinese">yyyy-MM-dd</string>
     <string name="quick_settings_date_format">1900-1-31</string>
     <string name="quick_settings_date_yeareve">วันขึ้นปีใหม่</string>
-    <string name="seconed_confirm_nodisturb">"\"เปิดโหมดเงียบ
-การแจ้งเตือนใหม่จะไม่แสดงอีกต่อไป \""</string>
+    <string name="seconed_confirm_nodisturb">"เปิดโหมดเงียบ
+การแจ้งเตือนใหม่จะไม่แสดงอีกต่อไป "</string>
     <string name="quick_settings_battery_charging_full">ชาร์จเต็มแล้ว</string>
     <string name="quick_settings_battery_is_charging">กำลังชาร์จ...</string>
     <string name="quick_settings_battery_hasnot_charged">ไม่มีการชาร์จ</string>
     <string name="quick_settings_battery_charging_intervalDay">%1$d วัน %2$d ชั่วโมงนับจากที่ชาร์จ</string>
     <string name="quick_settings_battery_charging_intervalDay_lessHour">%d วัน ชั่วโมงนับจากที่ชาร์จ</string>
     <string name="quick_settings_battery_charging_intervalDayLess">%d ชั่วโมง นับจากที่ชาร์จ</string>
-    <string name="quick_settings_battery_charging_intervalLessHour">"\"น้อยกว่า 1 ชั่วโมง
-ตั้งแต่ชาร์จ \""</string>
+    <string name="quick_settings_battery_charging_intervalLessHour">"น้อยกว่า 1 ชั่วโมง
+ตั้งแต่ชาร์จ "</string>
     <string name="quick_settings_battery_sportString">แบตเตอรี่ในโหมดกีฬา</string>
     <string name="quick_settings_battery_sporttime_hour_unit">ชั่วโมง</string>
     <string name="quick_settings_battery_sporttime_KM_unit">กม.</string>
@@ -230,8 +230,8 @@
     <string name="cal_event_begin_end_time">%1$s - %2$s</string>
     <string name="cal_all_day">ทั้งวัน</string>
     <string name="cal_all_day_line_break">"ทั้งวัน"</string>
-    <string name="cal_multi_day_line_break">"\"หลาย
-วัน"</string>
+    <string name="cal_multi_day_line_break">\"หลาย
+วัน</string>
     <string name="cal_mail_all">อีเมล์ทุกท่าน</string>
     <string name="cal_navigate_to">นำไปที่ %s</string>
     <string name="cal_navigate">การนำทาง</string>
@@ -259,8 +259,8 @@
     <string name="troubleshoot_use_android_wear">ติดตั้งแอพ Android Wear จาก Play Store จากนั้นเปิดแอพ Android Wear เพื่อเชื่อมต่อกับนาฬิกา</string>
     <string name="troubleshoot_internet">ตรวจสอบให้แน่ใจว่าโทรศัพท์ของคุณมีการเชื่อมต่ออินเทอร์เน็ต</string>
     <string name="troubleshoot_tethering">ลองเปิดการแชร์อินเทอร์เน็ตผ่าน Bluetooth tethering ในโทรศัพท์ของคุณ</string>
-    <string name="troubleshoot_online_help">"\"เพื่อรับความช่วยเหลือเพิ่มเติม ไปที่
-%s"</string>
+    <string name="troubleshoot_online_help">\"เพื่อรับความช่วยเหลือเพิ่มเติม ไปที่
+%s</string>
     <string name="troubleshoot_help_url">g.co/AWhelp</string>
     <string name="retry_action">ลองใหม่</string>
     <string name="restart_action">รีสตาร์ท</string>
@@ -409,7 +409,7 @@
     <string name="null_result_error">Your search did not match any documents</string>
     <string name="no_answer_error">"\"%s
 
-Sorry, Google can't help you with that\""</string>
+Sorry, Google can\'t help you with that\""</string>
     <string name="no_companion_error">"Can't connect to your paired device."</string>
     <string name="gsa_update_needed">Open Google Play on your phone or tablet and update the Google Search app.</string>
     <string name="gsa_install_needed">Open Google Play on your phone or tablet and install the Google Search app.</string>
