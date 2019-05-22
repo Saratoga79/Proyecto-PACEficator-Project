@@ -20,8 +20,8 @@
     <string name="battery_low_title">Изтощена батерия</string>
     <string name="battery_low_percent_format">остават %s</string>
     <string name="battery_low_percent_format_saver_started">остават %s. Икономия на батерията е вкл.</string>
-    <string name="invalid_charger">"\"USB зареждането не се поддържа.
-Използвайте само доставеното зарядно устройство.\""</string>
+    <string name="invalid_charger">"USB зареждането не се поддържа.
+Използвайте само доставеното зарядно устройство."</string>
     <string name="invalid_charger_title">USB зареждане не се поддържа.</string>
     <string name="invalid_charger_text">Използвайте само приложеното зарядно устройство.</string>
     <string name="battery_low_why">Настройки</string>
@@ -49,8 +49,8 @@
     <string name="always_use_device">Използвай по подразбиране за това USB устройство</string>
     <string name="always_use_accessory">Използвай по подразбиране за този USB аксесоар</string>
     <string name="usb_debugging_title">Разрешаване на USB откриване на грешки?</string>
-    <string name="usb_debugging_message">"\"\"Отпечатъкът на RSA ключа на компютъра е:
-%1$s\""</string>
+    <string name="usb_debugging_message">"\"Отпечатъкът на RSA ключа на компютъра е:
+%1$s"</string>
     <string name="usb_debugging_always">Винаги разрешавай от този компютър</string>
     <string name="compat_mode_on">Уголеми до цял екран</string>
     <string name="compat_mode_off">Разтегни до запълване на екрана</string>
@@ -191,9 +191,9 @@
     <string name="data_usage_disabled_dialog_4g_title">4G данни са изключени</string>
     <string name="data_usage_disabled_dialog_mobile_title">Клетъчните данни са изключени</string>
     <string name="data_usage_disabled_dialog_title">Данните са изключени</string>
-    <string name="data_usage_disabled_dialog">"\"Устройството ви е изключило данните, защото достигнахте лимита, който сте задали.
+    <string name="data_usage_disabled_dialog">"Устройството ви е изключило данните, защото достигнахте лимита, който сте задали.
 
-Включването им може да доведе до такси от оператора ви.\""</string>
+Включването им може да доведе до такси от оператора ви."</string>
     <string name="data_usage_disabled_dialog_enable">Включване на данни</string>
     <string name="status_bar_settings_signal_meter_disconnected">Няма връзка с интернет</string>
     <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi е свързан</string>
@@ -273,8 +273,8 @@
     <string name="expanded_header_battery_charging_with_time">%s до пълно</string>
     <string name="expanded_header_battery_not_charging">Не се зарежда</string>
     <string name="battery_meter_very_low_overlay_symbol">!</string>
-    <string name="ssl_ca_cert_warning">"\"Мрежата май
-се наблюдава\""</string>
+    <string name="ssl_ca_cert_warning">"Мрежата май
+се наблюдава"</string>
     <string name="description_target_search">Търсене</string>
     <string name="description_direction_up">Плъзни нагоре за %s.</string>
     <string name="description_direction_left">Плъзни наляво за %s.</string>
@@ -310,9 +310,9 @@
     <string name="guest_wipe_session_wipe">Стартиране отначало</string>
     <string name="guest_wipe_session_dontwipe">Да, продължи</string>
     <string name="user_add_user_title">Добавяне на нов потребител?</string>
-    <string name="user_add_user_message_short">"\"Когато добавите нов потребител, той трябва да настрои пространството си.
+    <string name="user_add_user_message_short">"Когато добавите нов потребител, той трябва да настрои пространството си.
 
-Всеки потребител може да актуализира приложенията за всички останали потребители.\""</string>
+Всеки потребител може да актуализира приложенията за всички останали потребители."</string>
     <string name="battery_saver_notification_title">Икономия на батерията е включена</string>
     <string name="battery_saver_notification_text">Намалява производителността и данните на заден фон</string>
     <string name="battery_saver_notification_action_text">Изключване на икономия на батерията</string>
@@ -330,71 +330,71 @@
     <string name="monitoring_title">Наблюдение на мрежа</string>
     <string name="disable_vpn">Деактивирай VPN</string>
     <string name="disconnect_vpn">Прекъснете VPN</string>
-    <string name="monitoring_description_device_owned">"\"Това устройство се управлява от:
+    <string name="monitoring_description_device_owned">"Това устройство се управлява от:
 %1$s
 
 Вашият администратор може да следи активността ви на устройство и в мрежата, включително имейли, приложения и защитени уебсайтове.
 
-За повече информация се свържете с администратора си.\""</string>
-    <string name="monitoring_description_vpn">"\"Вие дадохте \"%1$s\" разрешение за настройка на VPN връзка.
-Това приложение може да следи активността на вашето устройство и мрежа, включително имейли, приложения и сигурни уебсайтове.\""</string>
-    <string name="monitoring_description_legacy_vpn">"\"Свързани сте с VPN (\"%1$s\").
+За повече информация се свържете с администратора си."</string>
+    <string name="monitoring_description_vpn">"Вие дадохте \"%1$s\" разрешение за настройка на VPN връзка.
+Това приложение може да следи активността на вашето устройство и мрежа, включително имейли, приложения и сигурни уебсайтове."</string>
+    <string name="monitoring_description_legacy_vpn">"Свързани сте с VPN (\"%1$s\").
 
-Вашият доставчик на VPN услуги може да следи активността на устройството и мрежата ви, включително имейли, приложения и сигурни уебсайтове.\""</string>
-    <string name="monitoring_description_vpn_device_owned">"\"Това устройство се управлява от:
+Вашият доставчик на VPN услуги може да следи активността на устройството и мрежата ви, включително имейли, приложения и сигурни уебсайтове."</string>
+    <string name="monitoring_description_vpn_device_owned">"Това устройство се управлява от:
 %1$s
 
 Вашият администратор може да следи вашата мрежова дейност, включително имейли, приложения и защитени уебсайтове. За повече информация се свържете с администратора си.
 
-Също така, вие дадохте \"%2$s\" разрешение да настроите VPN връзка. Това приложение също може да следи мрежовата активност.\""</string>
-    <string name="monitoring_description_legacy_vpn_device_owned">"\"Това устройство се управлява от:
+Също така, вие дадохте \"%2$s\" разрешение да настроите VPN връзка. Това приложение също може да следи мрежовата активност."</string>
+    <string name="monitoring_description_legacy_vpn_device_owned">"Това устройство се управлява от:
 %1$s
 
 Вашият администратор може да следи вашата мрежова дейност, включително имейли, приложения и защитени уебсайтове. За повече информация се свържете с администратора си.
 
-Също така сте свързани с VPN (\"%2$s\"). Вашият доставчик на VPN услуги също може да следи мрежовата активност.\""</string>
-    <string name="monitoring_description_profile_owned">"\"Този профил се управлява от:
+Също така сте свързани с VPN (\"%2$s\"). Вашият доставчик на VPN услуги също може да следи мрежовата активност."</string>
+    <string name="monitoring_description_profile_owned">"Този профил се управлява от:
 %1$s
 
 Вашият администратор може да следи активността ви на устройство и в мрежата, включително имейли, приложения и защитени уебсайтове.
 
-За повече информация се свържете с администратора си.\""</string>
-    <string name="monitoring_description_device_and_profile_owned">"\"Това устройство се управлява от:
+За повече информация се свържете с администратора си."</string>
+    <string name="monitoring_description_device_and_profile_owned">"Това устройство се управлява от:
 %1$s
 Профилът ви се управлява от:
 %2$s
 
 Вашият администратор може да следи активността ви на устройство и в мрежата, включително имейли, приложения и защитени уебсайтове.
 
-За повече информация се свържете с администратора си.\""</string>
-    <string name="monitoring_description_vpn_profile_owned">"\"Този профил се управлява от:
+За повече информация се свържете с администратора си."</string>
+    <string name="monitoring_description_vpn_profile_owned">"Този профил се управлява от:
 %1$s
 
 Вашият администратор може да следи вашата мрежова дейност, включително имейли, приложения и защитени уебсайтове. За повече информация се свържете с администратора си.
 
-Също така, вие дадохте \"%2$s\" разрешение да настроите VPN връзка. Това приложение също може да следи мрежовата активност.\""</string>
-    <string name="monitoring_description_legacy_vpn_profile_owned">"\"Този профил се управлява от:
+Също така, вие дадохте \"%2$s\" разрешение да настроите VPN връзка. Това приложение също може да следи мрежовата активност."</string>
+    <string name="monitoring_description_legacy_vpn_profile_owned">"Този профил се управлява от:
 %1$s
 
 Вашият администратор може да следи вашата мрежова дейност, включително имейли, приложения и защитени уебсайтове. За повече информация се свържете с администратора си.
 
-Също така сте свързани с VPN (\"%2$s\"). Вашият доставчик на VPN услуги също може да следи мрежовата активност.\""</string>
-    <string name="monitoring_description_vpn_device_and_profile_owned">"\"Това устройство се управлява от:
-%1$s
-Профилът ви се управлява от:
-%2$s
-
-Вашият администратор може да следи вашата мрежова дейност, включително имейли, приложения и защитени уебсайтове. За повече информация се свържете с администратора си.
-
-Също така, вие дадохте \"%3$s\" разрешение да настроите VPN връзка. Това приложение също може да следи мрежовата активност.\""</string>
-    <string name="monitoring_description_legacy_vpn_device_and_profile_owned">"\"Това устройство се управлява от:
+Също така сте свързани с VPN (\"%2$s\"). Вашият доставчик на VPN услуги също може да следи мрежовата активност."</string>
+    <string name="monitoring_description_vpn_device_and_profile_owned">"Това устройство се управлява от:
 %1$s
 Профилът ви се управлява от:
 %2$s
 
 Вашият администратор може да следи вашата мрежова дейност, включително имейли, приложения и защитени уебсайтове. За повече информация се свържете с администратора си.
 
-Също така сте свързани с VPN (\"%3$s\"). Вашият доставчик на VPN услуги също може да следи мрежовата активност.\""</string>
+Също така, вие дадохте \"%3$s\" разрешение да настроите VPN връзка. Това приложение също може да следи мрежовата активност."</string>
+    <string name="monitoring_description_legacy_vpn_device_and_profile_owned">"Това устройство се управлява от:
+%1$s
+Профилът ви се управлява от:
+%2$s
+
+Вашият администратор може да следи вашата мрежова дейност, включително имейли, приложения и защитени уебсайтове. За повече информация се свържете с администратора си.
+
+Също така сте свързани с VPN (\"%3$s\"). Вашият доставчик на VPN услуги също може да следи мрежовата активност."</string>
     <string name="keyguard_indication_trust_disabled">Устройството ще остане заключено, докато ръчно не го отключите</string>
     <string name="hidden_notifications_title">Бърз достъп до уведомления</string>
     <string name="hidden_notifications_text">Вижте ги преди да отключите</string>
@@ -437,8 +437,8 @@
     <string name="keyguard_missing_sim_instructions">Поставете SIM карта.</string>
     <string name="keyguard_missing_sim_instructions_long">SIM картата липсва или е нечетлива. Поставете SIM карта.</string>
     <string name="keyguard_permanent_disabled_sim_message_short">Неизползваема SIM карта.</string>
-    <string name="keyguard_permanent_disabled_sim_instructions">"\"SIM картата ви е деактивирана за постоянно.
- Свържете се с оператора на безжичната си връзка, за да получите друга.\""</string>
+    <string name="keyguard_permanent_disabled_sim_instructions">"SIM картата ви е деактивирана за постоянно.
+ Свържете се с оператора на безжичната си връзка, за да получите друга."</string>
     <string name="keyguard_sim_locked_message">SIM картата е заключена.</string>
     <string name="keyguard_sim_puk_locked_message">SIM картата е заключена с PUK.</string>
     <string name="keyguard_sim_unlock_progress_dialog_message">Отключване на SIM карта…</string>
@@ -523,27 +523,27 @@
     <string name="kg_login_password_hint">Парола</string>
     <string name="kg_login_submit_button">Вписване</string>
     <string name="kg_login_invalid_input">Невалидно име или парола.</string>
-    <string name="kg_login_account_recovery_hint">"\"Забравили сте потребителското име или паролата си?
-Посетете \"<b>google.com/accounts/recovery"</b>."</string>
+    <string name="kg_login_account_recovery_hint">\"Забравили сте потребителското име или паролата си?
+Посетете \"<b>google.com/accounts/recovery"</b>.</string>
     <string name="kg_login_checking_password">Проверка на профил…</string>
-    <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"\"Неправилно сте въвели вашия PIN %d пъти. 
+    <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"Неправилно сте въвели вашия PIN %d пъти. 
 
-Опитайте отново след %d секунди.\""</string>
-    <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"\"Неправилно сте въвели вашата парола %d пъти. 
+Опитайте отново след %d секунди."</string>
+    <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Неправилно сте въвели вашата парола %d пъти. 
 
-Опитайте отново след %d секунди.\""</string>
-    <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"\"Неправилно сте нарисували своя шаблон за отключване %d пъти. 
+Опитайте отново след %d секунди."</string>
+    <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Неправилно сте нарисували своя шаблон за отключване %d пъти. 
 
-Опитайте отново след %d секунди.\""</string>
+Опитайте отново след %d секунди."</string>
     <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Неправомерно сте опитали да отключите таблета %d пъти. След %d повече неуспешни опити този таблет ще се нулира, което ще изтрие всичките му данни.</string>
     <string name="kg_failed_attempts_now_wiping">Неправомерно сте опитали да отключите таблета %d пъти. Този таблет ще бъде нулиран, което ще изтрие всичките му данни.</string>
     <string name="kg_failed_attempts_almost_at_erase_user" formatted="false">Неправомерно сте опитали да отключите таблета %d пъти. След още %d неуспешни опити този потребител ще бъде премахнат, което ще изтрие всички потребителски данни.</string>
     <string name="kg_failed_attempts_now_erasing_user">Неправомерно сте опитали да отключите таблета %d пъти. Този потребител ще бъде премахнат, което ще изтрие всички потребителски данни.</string>
     <string name="kg_failed_attempts_almost_at_erase_profile" formatted="false">Неправомерно сте опитали да отключите таблета %d пъти. След още %d неуспешни опити този работен профил ще бъде премахнат, което ще изтрие всички профилни данни.</string>
     <string name="kg_failed_attempts_now_erasing_profile">Неправомерно сте опитали да отключите таблета %d пъти. Работният профил ще бъде премахнат, което ще изтрие всички данни за потребителския профил.</string>
-    <string name="kg_failed_attempts_almost_at_login" formatted="false">"\"Въвели сте неправилно своя шаблон за отключване %d пъти. След още %d неуспешни опити, ще бъдете помолени да отключите таблета си чрез имейл акаунт.
+    <string name="kg_failed_attempts_almost_at_login" formatted="false">"Въвели сте неправилно своя шаблон за отключване %d пъти. След още %d неуспешни опити, ще бъдете помолени да отключите таблета си чрез имейл акаунт.
 
- Опитайте отново след %d секунди.\""</string>
+ Опитайте отново след %d секунди."</string>
     <string name="kg_reordering_delete_drop_target_text">Премахни</string>
     <string name="kg_password_wrong_pin_code_pukked">Неправилен PIN код на SIM картата трябва да се свържете с оператора, за да отключите устройството си.</string>
     <string name="kg_password_wrong_puk_code_dead">SIM е неизползваем. Свържете се с вашия оператор.</string>
@@ -556,6 +556,6 @@
     <string name="keyguard_transport_play_description">Бутон Възпроизвеждане</string>
     <string name="keyguard_transport_stop_description">Бутон Стоп</string>
     <string name="keyguard_carrier_default">Няма услуга.</string>
-    <string name="status_bar_date_formatter">"\"%2$s
-%1$s\""</string>
+    <string name="status_bar_date_formatter">"%2$s
+%1$s"</string>
 </resources>
