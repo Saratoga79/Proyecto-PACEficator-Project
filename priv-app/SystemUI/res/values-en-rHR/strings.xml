@@ -20,8 +20,8 @@
     <string name="battery_low_title">Slaba baterija</string>
     <string name="battery_low_percent_format">preostalo %s</string>
     <string name="battery_low_percent_format_saver_started">%s preostalo. Štednja baterije uključena.</string>
-    <string name="invalid_charger">"\"USB punjenje nije podržano.
- Koristite isključivo originalni punjač.\""</string>
+    <string name="invalid_charger">"USB punjenje nije podržano.
+ Koristite isključivo originalni punjač."</string>
     <string name="invalid_charger_title">USB punjenje nije podržano.</string>
     <string name="invalid_charger_text">Koristite isključivo originalni punjač.</string>
     <string name="battery_low_why">Postavke</string>
@@ -49,8 +49,8 @@
     <string name="always_use_device">Koristi se kao zadana postavka za ovaj USB uređaj</string>
     <string name="always_use_accessory">Koristi se kao zadana postavka za ovaj USB dodatak</string>
     <string name="usb_debugging_title">Omogućiti otklanjanje pogrešaka putem USB-a?</string>
-    <string name="usb_debugging_message">"\"Otisak prsta RSA ključa računala je: 
- %1$s\""</string>
+    <string name="usb_debugging_message">"Otisak prsta RSA ključa računala je: 
+ %1$s"</string>
     <string name="usb_debugging_always">Uvijek dopusti s ovog računala</string>
     <string name="compat_mode_on">Zumiraj i ispuni zaslon</string>
     <string name="compat_mode_off">Rastegni i ispuni zaslon</string>
@@ -191,9 +191,9 @@
     <string name="data_usage_disabled_dialog_4g_title">4G podaci su onemogućeni</string>
     <string name="data_usage_disabled_dialog_mobile_title">Mobilni podaci su onemogućeni</string>
     <string name="data_usage_disabled_dialog_title">Podaci su onemogućeni</string>
-    <string name="data_usage_disabled_dialog">"\"Dosegli ste vaše postavljeno ograničenje uporabe podataka. 
+    <string name="data_usage_disabled_dialog">"Dosegli ste vaše postavljeno ograničenje uporabe podataka. 
 
-Ako ponovo omogućite podatke, operater vam može naplatiti troškove.\""</string>
+Ako ponovo omogućite podatke, operater vam može naplatiti troškove."</string>
     <string name="data_usage_disabled_dialog_enable">Uključi podatke</string>
     <string name="status_bar_settings_signal_meter_disconnected">Nema internetske veze</string>
     <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi povezan</string>
@@ -273,8 +273,8 @@ Ako ponovo omogućite podatke, operater vam može naplatiti troškove.\""</strin
     <string name="expanded_header_battery_charging_with_time">%s do pune</string>
     <string name="expanded_header_battery_not_charging">Ne puni se</string>
     <string name="battery_meter_very_low_overlay_symbol">!</string>
-    <string name="ssl_ca_cert_warning">"\"Mreža se
-možda prati\""</string>
+    <string name="ssl_ca_cert_warning">"Mreža se
+možda prati"</string>
     <string name="description_target_search">Traži</string>
     <string name="description_direction_up">Povucite gore za %s.</string>
     <string name="description_direction_left">Povucite lijevo za %s.</string>
@@ -310,9 +310,9 @@ možda prati\""</string>
     <string name="guest_wipe_session_wipe">Započni ispočetka</string>
     <string name="guest_wipe_session_dontwipe">Da, nastavi</string>
     <string name="user_add_user_title">Dodati novog korisnika?</string>
-    <string name="user_add_user_message_short">"\"Kada dodate novog korisnika, ta osoba mora postaviti vlastiti prostor.
+    <string name="user_add_user_message_short">"Kada dodate novog korisnika, ta osoba mora postaviti vlastiti prostor.
 
-Bilo koji korisnik može ažurirati aplikacije za sve ostale korisnike.\""</string>
+Bilo koji korisnik može ažurirati aplikacije za sve ostale korisnike."</string>
     <string name="battery_saver_notification_title">Štednja baterije uključena</string>
     <string name="battery_saver_notification_text">Smanjuje performanse i pozadinske podatke</string>
     <string name="battery_saver_notification_action_text">Isključi Štednju baterije</string>
@@ -330,72 +330,72 @@ Bilo koji korisnik može ažurirati aplikacije za sve ostale korisnike.\""</stri
     <string name="monitoring_title">Praćenje mreže</string>
     <string name="disable_vpn">Onemogući VPN</string>
     <string name="disconnect_vpn">Prekini vezu s VPN-om</string>
-    <string name="monitoring_description_device_owned">"\"Ovim uređajem upravlja:
+    <string name="monitoring_description_device_owned">"Ovim uređajem upravlja:
 %1$s
 
 Vaš administrator može pratiti vaš uređaj i mrežnu aktivnost, uključujući e-poštu, aplikacije i sigurne web-lokacije.
 
-Za više informacija, obratite se administratoru.\""</string>
-    <string name="monitoring_description_vpn">"\"Dali ste \"%1$s\" dopuštenje za postavljanje VPN veze.
+Za više informacija, obratite se administratoru."</string>
+    <string name="monitoring_description_vpn">"Dali ste \"%1$s\" dopuštenje za postavljanje VPN veze.
 
-Ova aplikacija može pratiti vaš uređaj i mrežnu aktivnost, uključujući e-poštu, aplikacije i sigurne web-lokacije.\""</string>
-    <string name="monitoring_description_legacy_vpn">"\"Povezani ste s VPN mrežom (\"%1$s\").
+Ova aplikacija može pratiti vaš uređaj i mrežnu aktivnost, uključujući e-poštu, aplikacije i sigurne web-lokacije."</string>
+    <string name="monitoring_description_legacy_vpn">"Povezani ste s VPN mrežom (\"%1$s\").
 
-Vaš VPN davatelj usluga može pratiti vaš uređaj i mrežnu aktivnost, uključujući e-poštu, aplikacije i sigurne web stranice.\""</string>
-    <string name="monitoring_description_vpn_device_owned">"\"Ovim uređajem upravlja:
+Vaš VPN davatelj usluga može pratiti vaš uređaj i mrežnu aktivnost, uključujući e-poštu, aplikacije i sigurne web stranice."</string>
+    <string name="monitoring_description_vpn_device_owned">"Ovim uređajem upravlja:
 %1$s
 
 Vaš administrator može pratiti vaš uređaj i mrežnu aktivnost, uključujući e-poštu, aplikacije i sigurne web-lokacije. Za više informacija, obratite se administratoru.
 
-Također, dali ste \"%2$s\" dopuštenje za postavljanje VPN veze. Ova aplikacija također može nadzirati mrežnu aktivnost.\""</string>
-    <string name="monitoring_description_legacy_vpn_device_owned">"\"Ovim uređajem upravlja:
+Također, dali ste \"%2$s\" dopuštenje za postavljanje VPN veze. Ova aplikacija također može nadzirati mrežnu aktivnost."</string>
+    <string name="monitoring_description_legacy_vpn_device_owned">"Ovim uređajem upravlja:
 %1$s
 
 Vaš administrator može pratiti vaš uređaj i mrežnu aktivnost, uključujući e-poštu, aplikacije i sigurne web-lokacije. Za više informacija, obratite se administratoru.
 
-Također, povezani ste na VPN (\"%2$s\"). Vaš VPN davatelj usluga može pratiti i mrežnu aktivnost.\""</string>
-    <string name="monitoring_description_profile_owned">"\"Ovim profilom upravlja:
+Također, povezani ste na VPN (\"%2$s\"). Vaš VPN davatelj usluga može pratiti i mrežnu aktivnost."</string>
+    <string name="monitoring_description_profile_owned">"Ovim profilom upravlja:
 %1$s
 
 Vaš administrator može pratiti vaš uređaj i mrežnu aktivnost, uključujući e-poštu, aplikacije i sigurne web-lokacije.
 
-Za više informacija, obratite se administratoru.\""</string>
-    <string name="monitoring_description_device_and_profile_owned">"\"Ovim uređajem upravlja:
+Za više informacija, obratite se administratoru."</string>
+    <string name="monitoring_description_device_and_profile_owned">"Ovim uređajem upravlja:
 %1$s
 Vašim profilom upravlja:
 %2$s
 
 Vaš administrator može pratiti vaš uređaj i mrežnu aktivnost, uključujući e-poštu, aplikacije i sigurne web-lokacije.
 
-Za više informacija, obratite se administratoru.\""</string>
-    <string name="monitoring_description_vpn_profile_owned">"\"Ovim profilom upravlja:
+Za više informacija, obratite se administratoru."</string>
+    <string name="monitoring_description_vpn_profile_owned">"Ovim profilom upravlja:
 %1$s
 
 Vaš administrator može pratiti vaš uređaj i mrežnu aktivnost, uključujući e-poštu, aplikacije i sigurne web-lokacije. Za više informacija, obratite se administratoru.
 
-Također, dali ste \"%2$s\" dopuštenje za postavljanje VPN veze. Ova aplikacija također može nadzirati mrežnu aktivnost.\""</string>
-    <string name="monitoring_description_legacy_vpn_profile_owned">"\"Ovim profilom upravlja:
+Također, dali ste \"%2$s\" dopuštenje za postavljanje VPN veze. Ova aplikacija također može nadzirati mrežnu aktivnost."</string>
+    <string name="monitoring_description_legacy_vpn_profile_owned">"Ovim profilom upravlja:
 %1$s
 
 Vaš administrator može pratiti vaš uređaj i mrežnu aktivnost, uključujući e-poštu, aplikacije i sigurne web-lokacije. Za više informacija, obratite se administratoru.
 
-Također, povezani ste na VPN (\"%2$s\"). Vaš VPN davatelj usluga može pratiti i mrežnu aktivnost.\""</string>
-    <string name="monitoring_description_vpn_device_and_profile_owned">"\"Ovim uređajem upravlja:
-%1$s
-Vašim profilom upravlja:
-%2$s
-
-Vaš administrator može pratiti vaš uređaj i mrežnu aktivnost, uključujući e-poštu, aplikacije i sigurne web-lokacije. Za više informacija, obratite se administratoru.
-
-Također, dali ste \"%3$s\" dopuštenje za postavljanje VPN veze. Ova aplikacija također može nadzirati mrežnu aktivnost.\""</string>
-    <string name="monitoring_description_legacy_vpn_device_and_profile_owned">"\"Ovim uređajem upravlja:
+Također, povezani ste na VPN (\"%2$s\"). Vaš VPN davatelj usluga može pratiti i mrežnu aktivnost."</string>
+    <string name="monitoring_description_vpn_device_and_profile_owned">"Ovim uređajem upravlja:
 %1$s
 Vašim profilom upravlja:
 %2$s
 
 Vaš administrator može pratiti vaš uređaj i mrežnu aktivnost, uključujući e-poštu, aplikacije i sigurne web-lokacije. Za više informacija, obratite se administratoru.
 
-Također, povezani ste na VPN (\"%3$s\"). Vaš VPN davatelj usluga može pratiti i mrežnu aktivnost.\""</string>
+Također, dali ste \"%3$s\" dopuštenje za postavljanje VPN veze. Ova aplikacija također može nadzirati mrežnu aktivnost."</string>
+    <string name="monitoring_description_legacy_vpn_device_and_profile_owned">"Ovim uređajem upravlja:
+%1$s
+Vašim profilom upravlja:
+%2$s
+
+Vaš administrator može pratiti vaš uređaj i mrežnu aktivnost, uključujući e-poštu, aplikacije i sigurne web-lokacije. Za više informacija, obratite se administratoru.
+
+Također, povezani ste na VPN (\"%3$s\"). Vaš VPN davatelj usluga može pratiti i mrežnu aktivnost."</string>
     <string name="keyguard_indication_trust_disabled">Uređaj će ostati zaključan dok ne otključate ručno</string>
     <string name="hidden_notifications_title">Brže primajte obavijesti</string>
     <string name="hidden_notifications_text">Postavite ih prije otključavanja</string>
@@ -438,8 +438,8 @@ Također, povezani ste na VPN (\"%3$s\"). Vaš VPN davatelj usluga može pratiti
     <string name="keyguard_missing_sim_instructions">Umetnite SIM karticu.</string>
     <string name="keyguard_missing_sim_instructions_long">SIM kartica nedostaje ili nije čitljiva. Umetnite SIM karticu.</string>
     <string name="keyguard_permanent_disabled_sim_message_short">Neupotrebljiva SIM kartica.</string>
-    <string name="keyguard_permanent_disabled_sim_instructions">"\"Vaša je SIM kartica trajno onemogućena.
- Obratite se davatelju usluga za drugu SIM karticu.\""</string>
+    <string name="keyguard_permanent_disabled_sim_instructions">"Vaša je SIM kartica trajno onemogućena.
+ Obratite se davatelju usluga za drugu SIM karticu."</string>
     <string name="keyguard_sim_locked_message">SIM kartica je zaključana.</string>
     <string name="keyguard_sim_puk_locked_message">SIM kartica je zaklučana PUK kodom.</string>
     <string name="keyguard_sim_unlock_progress_dialog_message">Otključavanje SIM kartice…</string>
@@ -524,27 +524,27 @@ Također, povezani ste na VPN (\"%3$s\"). Vaš VPN davatelj usluga može pratiti
     <string name="kg_login_password_hint">Zaporka</string>
     <string name="kg_login_submit_button">Prijava</string>
     <string name="kg_login_invalid_input">Nevažeće korisničko ime ili zaporka.</string>
-    <string name="kg_login_account_recovery_hint">"\"Zaboravili ste korisničko ime ili zaporku?
-Posjetite \"<b>google.com/accounts/recovery</b>."</string>
+    <string name="kg_login_account_recovery_hint">\"Zaboravili ste korisničko ime ili zaporku?
+Posjetite \"<b>google.com/accounts/recovery</b>.</string>
     <string name="kg_login_checking_password">Provjera računa…</string>
-    <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"\"Netočno ste napisali PIN %d puta. 
+    <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"Netočno ste napisali PIN %d puta. 
 
-Pokušajte ponovo za %d s.\""</string>
-    <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"\"Netočno ste napisali zaporku %d puta. 
+Pokušajte ponovo za %d s."</string>
+    <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Netočno ste napisali zaporku %d puta. 
 
-Pokušajte ponovo za %d s.\""</string>
-    <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"\"Netočno ste iscrtali uzorak za otključavanje %d puta. 
+Pokušajte ponovo za %d s."</string>
+    <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Netočno ste iscrtali uzorak za otključavanje %d puta. 
 
-Pokušajte ponovo za %d s.\""</string>
+Pokušajte ponovo za %d s."</string>
     <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Netočno ste pokušali otključati telefon %d puta. On će se vratiti na tvorničke postavke i svi korisnički podaci bit će izgubljeni nakon još ovoliko neuspjelih pokušaja: %d.</string>
     <string name="kg_failed_attempts_now_wiping">Netočno ste pokušali otključati tablet %d puta. On će se vratiti na tvorničke postavke i svi korisnički podaci bit će izgubljeni.</string>
     <string name="kg_failed_attempts_almost_at_erase_user" formatted="false">Netočno ste pokušali otključati tablet %d puta. Nakon još ovoliko neuspješnih pokušaja: %d, ovaj će se korisnik ukloniti, što će izbrisati sve korisničke podatke.</string>
     <string name="kg_failed_attempts_now_erasing_user">Netočno ste pokušali otključati tablet %d puta. Korisnik će biti uklonjen i svi korisnički podaci bit će izgubljeni.</string>
     <string name="kg_failed_attempts_almost_at_erase_profile" formatted="false">Netočno ste pokušali otključati tablet %d puta. Nakon još ovoliko neuspješnih pokušaja: %d, radni profil će se ukloniti, što će izbrisati sve korisničke podatke.</string>
     <string name="kg_failed_attempts_now_erasing_profile">Netočno ste pokušali otključati tablet %d puta. Radni profil će biti uklonjen i svi korisnički podaci bit će izgubljeni.</string>
-    <string name="kg_failed_attempts_almost_at_login" formatted="false">"\"Netočno ste iscrtali uzorak za otključavanje %d puta. Nakon još ovoliko neuspješnih pokušaja: %d morat ćete otključati telefon pomoću računa e-pošte.
+    <string name="kg_failed_attempts_almost_at_login" formatted="false">"Netočno ste iscrtali uzorak za otključavanje %d puta. Nakon još ovoliko neuspješnih pokušaja: %d morat ćete otključati telefon pomoću računa e-pošte.
 
- Pokušajte ponovo za %d s.\""</string>
+ Pokušajte ponovo za %d s."</string>
     <string name="kg_reordering_delete_drop_target_text">Ukloni</string>
     <string name="kg_password_wrong_pin_code_pukked">Neispravan SIM PIN kod, obratite se operateru da biste otključali uređaj.</string>
     <string name="kg_password_wrong_puk_code_dead">SIM je neupotrebljiv. Kontaktirajte vašeg operatera.</string>
@@ -557,6 +557,6 @@ Pokušajte ponovo za %d s.\""</string>
     <string name="keyguard_transport_play_description">Reproduciraj</string>
     <string name="keyguard_transport_stop_description">Stop</string>
     <string name="keyguard_carrier_default">Nema usluge.</string>
-    <string name="status_bar_date_formatter">"\"%2$s
-%1$s\""</string>
+    <string name="status_bar_date_formatter">"%2$s
+%1$s"</string>
 </resources>

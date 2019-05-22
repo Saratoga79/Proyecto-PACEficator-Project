@@ -279,8 +279,8 @@
     <string name="sport_stride_unit_imperial">inch</string>
     <string name="end_last_sport_tips">Hãy dừng hoạt động %1$s trước</string>
     <string name="export_route_trail">Xuất</string>
-    <string name="sport_dlg_msg_hint_cancel">"\"Hủy bỏ lệnh xuất?
- \""</string>
+    <string name="sport_dlg_msg_hint_cancel">"Hủy bỏ lệnh xuất?
+ "</string>
     <string name="exchange_prepare_riding">Tiếp: Đạp xe</string>
     <string name="exchange_prepare_running">Tiếp theo: chạy</string>
     <string name="count_down_swim_tint">Màn hình sẽ bị khóa</string>
@@ -440,9 +440,9 @@
     <string name="modify_big_dis_regain">Sửa</string>
     <string name="modify_big_dis_confirm">Tiếp tục hiệu chuẩn</string>
     <string name="re_modify_dis">Hiệu chỉnh lại</string>
-    <string name="re_modify_dis_tips">"'1. Để hiệu chỉnh khoảng cách (phải dài hơn 0,5 km) giúp đồng hồ tạo ra kết quả chính xác hơn.
+    <string name="re_modify_dis_tips">\'1. Để hiệu chỉnh khoảng cách (phải dài hơn 0,5 km) giúp đồng hồ tạo ra kết quả chính xác hơn.
 2. Nếu bạn vẫn không hài lòng với kết quả sau vài lần thử hiệu chỉnh, hãy thử hiệu chỉnh lại.
-3. Nếu bạn hiệu chỉnh lại kết quả, tất cả các hồ sơ hiệu chuẩn trước đó sẽ bị xóa. '"</string>
+3. Nếu bạn hiệu chỉnh lại kết quả, tất cả các hồ sơ hiệu chuẩn trước đó sẽ bị xóa. \'</string>
     <string name="give_up_re_modify_dis">Loại bỏ</string>
     <string name="confirm_re_modify_dis">Xác nhận</string>
     <string name="re_modify_dis_successful">H.chỉnh xong</string>
@@ -983,12 +983,12 @@ tập thể dục đạt hiệu quả cao!\""</string>
     <string name="dlg_btn_l_msg">Ko</string>
     <string name="dlg_btn_r_msg">Có</string>
     <string name="hint_cancelling">Hủy bỏ...</string>
-    <string name="hint_success_exported_title">"\"Đã xuất file GPX 
- thành công\""</string>
+    <string name="hint_success_exported_title">"Đã xuất file GPX 
+ thành công"</string>
     <string name="hint_failed_exported_title">"Không thế xuất"</string>
-    <string name="hint_where">"\"Tệp gpx đã được đặt trong
-  thư mục '/sdcard/gpxdata'.
-  Bạn có thể sao chép nó vào máy tính qua USB. \""</string>
+    <string name="hint_where">"Tệp gpx đã được đặt trong
+  thư mục \'/sdcard/gpxdata\'.
+  Bạn có thể sao chép nó vào máy tính qua USB. "</string>
     <string name="hint_failed">"Không thể xuất file, vui lòng thử lại."</string>
     <string name="app_name">Bộ ghi GPX</string>
     <string name="average_text">Trb</string>

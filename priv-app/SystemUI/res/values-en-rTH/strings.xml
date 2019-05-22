@@ -20,8 +20,8 @@
     <string name="battery_low_title">แบตเตอรี่ใกล้หมด</string>
     <string name="battery_low_percent_format">%s เหลืออีก</string>
     <string name="battery_low_percent_format_saver_started">%s ที่เหลืออยู่ เปิดใช้งานตัวประหยัดแบตเตอรี่</string>
-    <string name="invalid_charger">"\"ไม่รองรับการชาร์จ USB
-ใช้เฉพาะที่ชาร์จที่ให้มาเท่านั้น \""</string>
+    <string name="invalid_charger">"ไม่รองรับการชาร์จ USB
+ใช้เฉพาะที่ชาร์จที่ให้มาเท่านั้น "</string>
     <string name="invalid_charger_title">USB ไม่รองรับการชาร์จ</string>
     <string name="invalid_charger_text">ใช้ที่ชาร์จที่ให้มาเท่านั้น</string>
     <string name="battery_low_why">การตั้งค่า</string>
@@ -49,8 +49,8 @@
     <string name="always_use_device">ใช้​ตาม​ค่า​พื้น​ฐาน​สำหรับ​อุปกรณ์ USB ​นี้</string>
     <string name="always_use_accessory">ใช้​ตาม​ค่า​พื้น​ฐาน​สำหรับ​อุปกรณ์ USB ​นี้</string>
     <string name="usb_debugging_title">อนุญาตให้แก้ไขข้อบกพร่อง USB หรือไม่</string>
-    <string name="usb_debugging_message">"\"The computer's RSA key fingerprint is:
-%1$s\""</string>
+    <string name="usb_debugging_message">"The computer\'s RSA key fingerprint is:
+%1$s"</string>
     <string name="usb_debugging_always">อนุญาตจากคอมพิวเตอร์เครื่องนี้ทุกครั้ง</string>
     <string name="compat_mode_on">Zoom to fill screen</string>
     <string name="compat_mode_off">ยืดให้เต็มหน้าจอ</string>
@@ -192,9 +192,9 @@
     <string name="data_usage_disabled_dialog_4g_title">ข้อมูล 4G ถูกปิด</string>
     <string name="data_usage_disabled_dialog_mobile_title">ข้อมูลมือถือถูกปิด</string>
     <string name="data_usage_disabled_dialog_title">ข้อมูลถูกปิด</string>
-    <string name="data_usage_disabled_dialog">"\"อุปกรณ์ของคุณปิดข้อมูลเนื่องจากถึงขีดจำกัด ที่คุณตั้งไว้
+    <string name="data_usage_disabled_dialog">"อุปกรณ์ของคุณปิดข้อมูลเนื่องจากถึงขีดจำกัด ที่คุณตั้งไว้
 
-การเปิดใช้งานอีกครั้งอาจนำไปสู่ค่าใช้จ่ายจากผู้ให้บริการของคุณ \""</string>
+การเปิดใช้งานอีกครั้งอาจนำไปสู่ค่าใช้จ่ายจากผู้ให้บริการของคุณ "</string>
     <string name="data_usage_disabled_dialog_enable">เปิดข้อมูล</string>
     <string name="status_bar_settings_signal_meter_disconnected">ไม่​มี​การเชื่อม​ต่อ​อินเตอร์​เน็ต</string>
     <string name="status_bar_settings_signal_meter_wifi_nossid">เชื่อม​ต่อ Wi-Fi ​แล้ว</string>
@@ -274,8 +274,8 @@
     <string name="expanded_header_battery_charging_with_time">%s จะเต็ม</string>
     <string name="expanded_header_battery_not_charging">ไม่ได้ชาร์จ</string>
     <string name="battery_meter_very_low_overlay_symbol">!</string>
-    <string name="ssl_ca_cert_warning">"\"เครือข่ายอาจ
-ได้รับการตรวจสอบ \""</string>
+    <string name="ssl_ca_cert_warning">"เครือข่ายอาจ
+ได้รับการตรวจสอบ "</string>
     <string name="description_target_search">ค้นหา</string>
     <string name="description_direction_up">เลื่อนขึ้นสำหรับ %s.</string>
     <string name="description_direction_left">เลื่อนไปทางซ้ายสำหรับ %s</string>
@@ -311,9 +311,9 @@
     <string name="guest_wipe_session_wipe">เริ่มต้นใหม่</string>
     <string name="guest_wipe_session_dontwipe">ใช่ ทำต่อไป</string>
     <string name="user_add_user_title">เพิ่มผู้ใช้ใหม่</string>
-    <string name="user_add_user_message_short">"เมื่อคุณเพิ่มผู้ใช้ใหม่บุคคลนั้นจำเป็นต้องตั้งค่าพื้นที่ของพวกเขา
+    <string name="user_add_user_message_short">เมื่อคุณเพิ่มผู้ใช้ใหม่บุคคลนั้นจำเป็นต้องตั้งค่าพื้นที่ของพวกเขา
 
-ผู้ใช้ทุกคนสามารถอัปเดตแอปสำหรับผู้ใช้อื่น ๆ ทั้งหมด \""</string>
+ผู้ใช้ทุกคนสามารถอัปเดตแอปสำหรับผู้ใช้อื่น ๆ ทั้งหมด \"</string>
     <string name="battery_saver_notification_title">ประหยัดแบตเตอรี่เปิดอยู่</string>
     <string name="battery_saver_notification_text">ลดประสิทธิภาพและข้อมูลพื้นหลัง</string>
     <string name="battery_saver_notification_action_text">ปิดตัวประหยัดแบตเตอรี่</string>
@@ -331,73 +331,73 @@
     <string name="monitoring_title">ตั้งค่าการตรวจสอบเครือข่าย</string>
     <string name="disable_vpn">ปิดการใช้งาน VPN</string>
     <string name="disconnect_vpn">ตัดการเชื่อมต่อ VPN</string>
-    <string name="monitoring_description_device_owned">"\"อุปกรณ์นี้จัดการโดย:
+    <string name="monitoring_description_device_owned">"อุปกรณ์นี้จัดการโดย:
 %1$s
 
 ผู้ดูแลระบบของคุณสามารถตรวจสอบอุปกรณ์และกิจกรรมเครือข่ายของคุณรวมถึงอีเมลแอพและเว็บไซต์ที่ปลอดภัย
 
-สำหรับข้อมูลเพิ่มเติมติดต่อผู้ดูแลระบบของคุณ \""</string>
-    <string name="monitoring_description_vpn">"\"คุณให้สิทธิ์\"%1$s \"เพื่อตั้งค่าการเชื่อมต่อ VPN
+สำหรับข้อมูลเพิ่มเติมติดต่อผู้ดูแลระบบของคุณ "</string>
+    <string name="monitoring_description_vpn">"คุณให้สิทธิ์\"%1$s \"เพื่อตั้งค่าการเชื่อมต่อ VPN
 
-แอพนี้สามารถตรวจสอบอุปกรณ์และกิจกรรมเครือข่ายของคุณรวมถึงอีเมลแอพและเว็บไซต์ที่ปลอดภัย \""</string>
-    <string name="monitoring_description_legacy_vpn">"\"คุณเชื่อมต่อกับ VPN (\"%1$s\")
+แอพนี้สามารถตรวจสอบอุปกรณ์และกิจกรรมเครือข่ายของคุณรวมถึงอีเมลแอพและเว็บไซต์ที่ปลอดภัย "</string>
+    <string name="monitoring_description_legacy_vpn">"คุณเชื่อมต่อกับ VPN (\"%1$s\")
 
-ผู้ให้บริการ VPN ของคุณสามารถตรวจสอบอุปกรณ์และกิจกรรมเครือข่ายของคุณรวมถึงอีเมลแอพและเว็บไซต์ที่ปลอดภัย \""</string>
-    <string name="monitoring_description_vpn_device_owned">"\"อุปกรณ์นี้จัดการโดย:
+ผู้ให้บริการ VPN ของคุณสามารถตรวจสอบอุปกรณ์และกิจกรรมเครือข่ายของคุณรวมถึงอีเมลแอพและเว็บไซต์ที่ปลอดภัย "</string>
+    <string name="monitoring_description_vpn_device_owned">"อุปกรณ์นี้จัดการโดย:
 %1$s
 
 ผู้ดูแลระบบของคุณสามารถติดตามกิจกรรมเครือข่ายของคุณรวมถึงอีเมลแอพและเว็บไซต์ที่ปลอดภัย สำหรับข้อมูลเพิ่มเติมติดต่อผู้ดูแลระบบของคุณ
 
-นอกจากนี้คุณยังได้รับอนุญาต \"%2$s\" เพื่อตั้งค่าการเชื่อมต่อ VPN แอพนี้สามารถตรวจสอบกิจกรรมเครือข่ายได้เช่นกัน \""</string>
-    <string name="monitoring_description_legacy_vpn_device_owned">"\"อุปกรณ์นี้จัดการโดย:
+นอกจากนี้คุณยังได้รับอนุญาต \"%2$s\" เพื่อตั้งค่าการเชื่อมต่อ VPN แอพนี้สามารถตรวจสอบกิจกรรมเครือข่ายได้เช่นกัน "</string>
+    <string name="monitoring_description_legacy_vpn_device_owned">"อุปกรณ์นี้จัดการโดย:
 %1$s
 
 ผู้ดูแลระบบของคุณสามารถติดตามกิจกรรมเครือข่ายของคุณรวมถึงอีเมลแอพและเว็บไซต์ที่ปลอดภัย สำหรับข้อมูลเพิ่มเติมติดต่อผู้ดูแลระบบของคุณ
 
-นอกจากนี้คุณกำลังเชื่อมต่อกับ VPN (\"%2$s\") ผู้ให้บริการ VPN ของคุณสามารถตรวจสอบกิจกรรมเครือข่ายได้เช่นกัน \""</string>
-    <string name="monitoring_description_profile_owned">"\"โปรไฟล์นี้จัดการโดย:
+นอกจากนี้คุณกำลังเชื่อมต่อกับ VPN (\"%2$s\") ผู้ให้บริการ VPN ของคุณสามารถตรวจสอบกิจกรรมเครือข่ายได้เช่นกัน "</string>
+    <string name="monitoring_description_profile_owned">"โปรไฟล์นี้จัดการโดย:
 %1$s
 
 ผู้ดูแลระบบของคุณสามารถตรวจสอบอุปกรณ์และกิจกรรมเครือข่ายของคุณรวมถึงอีเมลแอพและเว็บไซต์ที่ปลอดภัย
 
-สำหรับข้อมูลเพิ่มเติมติดต่อผู้ดูแลระบบของคุณ \""</string>
-    <string name="monitoring_description_device_and_profile_owned">"\"อุปกรณ์นี้จัดการโดย:
+สำหรับข้อมูลเพิ่มเติมติดต่อผู้ดูแลระบบของคุณ "</string>
+    <string name="monitoring_description_device_and_profile_owned">"อุปกรณ์นี้จัดการโดย:
 %1$s
 โปรไฟล์ของคุณได้รับการจัดการโดย:
 %2$s
 
 ผู้ดูแลระบบของคุณสามารถตรวจสอบอุปกรณ์และกิจกรรมเครือข่ายของคุณรวมถึงอีเมลแอพและเว็บไซต์ที่ปลอดภัย
 
-สำหรับข้อมูลเพิ่มเติมติดต่อผู้ดูแลระบบของคุณ \""</string>
-    <string name="monitoring_description_vpn_profile_owned">"\"โปรไฟล์นี้จัดการโดย:
+สำหรับข้อมูลเพิ่มเติมติดต่อผู้ดูแลระบบของคุณ "</string>
+    <string name="monitoring_description_vpn_profile_owned">\"โปรไฟล์นี้จัดการโดย:
 %1$s
 
 ผู้ดูแลระบบของคุณสามารถติดตามกิจกรรมเครือข่ายของคุณรวมถึงอีเมลแอพและเว็บไซต์ที่ปลอดภัย สำหรับข้อมูลเพิ่มเติมติดต่อผู้ดูแลระบบของคุณ
 
 นอกจากนี้คุณยังได้รับอนุญาต \"%2$s\" เพื่อตั้งค่าการเชื่อมต่อ VPN แอพนี้สามารถตรวจสอบกิจกรรมเครือข่ายได้เช่นกัน \"
-\"Porfịl̒ nī̂ cạdkār doy:"</string>
-    <string name="monitoring_description_legacy_vpn_profile_owned">"\"โปรไฟล์นี้จัดการโดย:
+\"Porfịl̒ nī̂ cạdkār doy:</string>
+    <string name="monitoring_description_legacy_vpn_profile_owned">"โปรไฟล์นี้จัดการโดย:
 %1$s
 
 ผู้ดูแลระบบของคุณสามารถติดตามกิจกรรมเครือข่ายของคุณรวมถึงอีเมลแอพและเว็บไซต์ที่ปลอดภัย สำหรับข้อมูลเพิ่มเติมติดต่อผู้ดูแลระบบของคุณ
 
-นอกจากนี้คุณกำลังเชื่อมต่อกับ VPN (\"%2$s\") ผู้ให้บริการ VPN ของคุณสามารถตรวจสอบกิจกรรมเครือข่ายได้เช่นกัน \""</string>
-    <string name="monitoring_description_vpn_device_and_profile_owned">"\"อุปกรณ์นี้จัดการโดย:
-%1$s
-โปรไฟล์ของคุณได้รับการจัดการโดย:
-%2$s
-
-ผู้ดูแลระบบของคุณสามารถติดตามกิจกรรมเครือข่ายของคุณรวมถึงอีเมลแอพและเว็บไซต์ที่ปลอดภัย สำหรับข้อมูลเพิ่มเติมติดต่อผู้ดูแลระบบของคุณ
-
-นอกจากนี้คุณยังได้รับอนุญาต \"%3$s\" เพื่อตั้งค่าการเชื่อมต่อ VPN แอพนี้สามารถตรวจสอบกิจกรรมเครือข่ายได้เช่นกัน \""</string>
-    <string name="monitoring_description_legacy_vpn_device_and_profile_owned">"\"อุปกรณ์นี้จัดการโดย:
+นอกจากนี้คุณกำลังเชื่อมต่อกับ VPN (\"%2$s\") ผู้ให้บริการ VPN ของคุณสามารถตรวจสอบกิจกรรมเครือข่ายได้เช่นกัน "</string>
+    <string name="monitoring_description_vpn_device_and_profile_owned">"อุปกรณ์นี้จัดการโดย:
 %1$s
 โปรไฟล์ของคุณได้รับการจัดการโดย:
 %2$s
 
 ผู้ดูแลระบบของคุณสามารถติดตามกิจกรรมเครือข่ายของคุณรวมถึงอีเมลแอพและเว็บไซต์ที่ปลอดภัย สำหรับข้อมูลเพิ่มเติมติดต่อผู้ดูแลระบบของคุณ
 
-นอกจากนี้คุณกำลังเชื่อมต่อกับ VPN (\"%3$s\") ผู้ให้บริการ VPN ของคุณสามารถตรวจสอบกิจกรรมเครือข่ายได้เช่นกัน \""</string>
+นอกจากนี้คุณยังได้รับอนุญาต \"%3$s\" เพื่อตั้งค่าการเชื่อมต่อ VPN แอพนี้สามารถตรวจสอบกิจกรรมเครือข่ายได้เช่นกัน "</string>
+    <string name="monitoring_description_legacy_vpn_device_and_profile_owned">"อุปกรณ์นี้จัดการโดย:
+%1$s
+โปรไฟล์ของคุณได้รับการจัดการโดย:
+%2$s
+
+ผู้ดูแลระบบของคุณสามารถติดตามกิจกรรมเครือข่ายของคุณรวมถึงอีเมลแอพและเว็บไซต์ที่ปลอดภัย สำหรับข้อมูลเพิ่มเติมติดต่อผู้ดูแลระบบของคุณ
+
+นอกจากนี้คุณกำลังเชื่อมต่อกับ VPN (\"%3$s\") ผู้ให้บริการ VPN ของคุณสามารถตรวจสอบกิจกรรมเครือข่ายได้เช่นกัน "</string>
     <string name="keyguard_indication_trust_disabled">อุปกรณ์จะยังคงล็อคอยู่จนกว่าคุณจะปลดล็อคด้วยตนเอง</string>
     <string name="hidden_notifications_title">รับการแจ้งเตือนเร็วขึ้น</string>
     <string name="hidden_notifications_text">ดูก่อนที่คุณจะปลดล็อค</string>
@@ -440,8 +440,8 @@
     <string name="keyguard_missing_sim_instructions">กรุณาใส่ซิมการ์ด</string>
     <string name="keyguard_missing_sim_instructions_long">ซิมการ์ดหายไปหรือไม่ ไม่สามารถอ่านได้ กรุณาใส่ซิมการ์ด</string>
     <string name="keyguard_permanent_disabled_sim_message_short">ซิมการ์ดที่ใช้ไม่ได้</string>
-    <string name="keyguard_permanent_disabled_sim_instructions">"\"ซิมการ์ดของคุณถูกปิดใช้งานอย่างถาวร
-  ติดต่อผู้ให้บริการอุปกรณ์ไร้สายของคุณเพื่อรับซิมการ์ดใหม่ \""</string>
+    <string name="keyguard_permanent_disabled_sim_instructions">"ซิมการ์ดของคุณถูกปิดใช้งานอย่างถาวร
+  ติดต่อผู้ให้บริการอุปกรณ์ไร้สายของคุณเพื่อรับซิมการ์ดใหม่ "</string>
     <string name="keyguard_sim_locked_message">ซิมการ์ดถูกล็อก</string>
     <string name="keyguard_sim_puk_locked_message">PUK ซิมการ์ดถูกล็อก</string>
     <string name="keyguard_sim_unlock_progress_dialog_message">กำลังปลดล็อกซิมการ์ด...</string>
@@ -526,27 +526,27 @@
     <string name="kg_login_password_hint">Password</string>
     <string name="kg_login_submit_button">ลงชื่อเข้าใช้</string>
     <string name="kg_login_invalid_input">Invalid username or password.</string>
-    <string name="kg_login_account_recovery_hint">"\"Forgot your username or password?
-Visit \"<b>google.com/accounts/recovery</b>."</string>
+    <string name="kg_login_account_recovery_hint">\"Forgot your username or password?
+Visit \"<b>google.com/accounts/recovery</b>.</string>
     <string name="kg_login_checking_password">Checking account…</string>
-    <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"\"คุณพิมพ์ PIN %d ครั้งไม่ถูกต้อง
+    <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"คุณพิมพ์ PIN %d ครั้งไม่ถูกต้อง
 
-ลองอีกครั้งใน %d วินาที \""</string>
-    <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"คุณพิมพ์รหัสผ่าน %d ครั้งไม่ถูกต้อง
+ลองอีกครั้งใน %d วินาที "</string>
+    <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">คุณพิมพ์รหัสผ่าน %d ครั้งไม่ถูกต้อง
 
-ลองอีกครั้งใน %d วินาที \""</string>
-    <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"\"คุณวาดรูปแบบการปลดล็อคผิดพลาด %d ครั้ง
+ลองอีกครั้งใน %d วินาที \"</string>
+    <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"คุณวาดรูปแบบการปลดล็อคผิดพลาด %d ครั้ง
 
-ลองอีกครั้งใน %d วินาที \""</string>
+ลองอีกครั้งใน %d วินาที "</string>
     <string name="kg_failed_attempts_almost_at_wipe" formatted="false">คุณพยายามปลดล็อกแท็บเล็ต %d ครั้งไม่ถูกต้อง หลังจาก %d พยายามไม่สำเร็จมากขึ้นแท็บเล็ตนี้จะถูกรีเซ็ตซึ่งจะลบข้อมูลทั้งหมด</string>
     <string name="kg_failed_attempts_now_wiping">คุณพยายามปลดล็อกแท็บเล็ต %d ครั้งไม่ถูกต้อง แท็บเล็ตนี้จะถูกรีเซ็ตซึ่งจะลบข้อมูลทั้งหมด</string>
     <string name="kg_failed_attempts_almost_at_erase_user" formatted="false">คุณพยายามปลดล็อกแท็บเล็ต %d ครั้งไม่ถูกต้อง หลังจาก %d พยายามไม่สำเร็จอีกครั้งผู้ใช้รายนี้จะถูกลบซึ่งจะลบข้อมูลผู้ใช้ทั้งหมด</string>
     <string name="kg_failed_attempts_now_erasing_user">คุณพยายามปลดล็อกแท็บเล็ต %d ครั้งไม่ถูกต้อง ผู้ใช้นี้จะถูกลบซึ่งจะลบข้อมูลผู้ใช้ทั้งหมด</string>
     <string name="kg_failed_attempts_almost_at_erase_profile" formatted="false">คุณพยายามปลดล็อกแท็บเล็ต %d ครั้งไม่ถูกต้อง หลังจาก %d พยายามไม่สำเร็จอีกครั้งโปรไฟล์งานจะถูกลบซึ่งจะลบข้อมูลโปรไฟล์ทั้งหมด</string>
     <string name="kg_failed_attempts_now_erasing_profile">คุณพยายามปลดล็อกแท็บเล็ต %d ครั้งไม่ถูกต้อง โปรไฟล์งานจะถูกลบซึ่งจะลบข้อมูลโปรไฟล์ทั้งหมด</string>
-    <string name="kg_failed_attempts_almost_at_login" formatted="false">"\"คุณวาดรูปแบบการปลดล็อกผิดพลาด %d ครั้งหลังจากที่ %d พยายามไม่สำเร็จคุณจะถูกขอให้ปลดล็อคแท็บเล็ตโดยใช้บัญชีอีเมล
+    <string name="kg_failed_attempts_almost_at_login" formatted="false">"คุณวาดรูปแบบการปลดล็อกผิดพลาด %d ครั้งหลังจากที่ %d พยายามไม่สำเร็จคุณจะถูกขอให้ปลดล็อคแท็บเล็ตโดยใช้บัญชีอีเมล
 
-  ลองอีกครั้งใน %d วินาที \""</string>
+  ลองอีกครั้งใน %d วินาที "</string>
     <string name="kg_reordering_delete_drop_target_text">เอาออก</string>
     <string name="kg_password_wrong_pin_code_pukked">รหัส PIN ของซิมไม่ถูกต้องคุณต้องติดต่อผู้ให้บริการของคุณเพื่อปลดล็อคอุปกรณ์ของคุณ</string>
     <string name="kg_password_wrong_puk_code_dead">SIM ใช้ไม่ได้ ติดต่อผู้ให้บริการของคุณ</string>
@@ -559,6 +559,6 @@ Visit \"<b>google.com/accounts/recovery</b>."</string>
     <string name="keyguard_transport_play_description">ปุ่มเล่น</string>
     <string name="keyguard_transport_stop_description">ปุ่มหยุด</string>
     <string name="keyguard_carrier_default">ไม่มีบริการ</string>
-    <string name="status_bar_date_formatter">"\"%2$s
-%1$s\""</string>
+    <string name="status_bar_date_formatter">"%2$s
+%1$s"</string>
 </resources>
