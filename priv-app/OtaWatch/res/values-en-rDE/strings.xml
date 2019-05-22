@@ -13,19 +13,19 @@
     <string name="please_update_rom">"Neues Firmware update verfügbar,
 bitte aktualisieren"</string>
     <string name="checking_rom">Updates überprüfen</string>
-    <string name="checking_rom_failed">"\"WLAN Zeitüberschreitung,
-bitte versuchen Sie es erneut\""</string>
+    <string name="checking_rom_failed">"WLAN Zeitüberschreitung,
+bitte versuchen Sie es erneut"</string>
     <string name="current_is_new">Aktuellste Version installiert</string>
     <string name="has_new_rom_all">Eine Aktualisierung ist verfügbar. Firmware auf dieser Uhr ist veraltet und das Aktualisieren auf die neueste kann eine Weile dauern, weiter?</string>
-    <string name="has_new_rom">"\"Eine neue Firmware Version 
+    <string name="has_new_rom">"Eine neue Firmware Version 
 ist verfügbar, soll die Version 
-%1$s installiert werden?\""</string>
+%1$s installiert werden?"</string>
     <string name="processbar_downloading_rom">Download gestartet...</string>
     <string name="please_keep_wifi_connect">Lasse die Uhr per WLAN verbunden</string>
     <string name="processbar_downloading_tips">%</string>
     <string name="processbar_downloading_default">0</string>
-    <string name="download_rom_faild">"\"Update Download fehlgeschlagen,
-bitte erneut versuchen.\""</string>
+    <string name="download_rom_faild">"Update Download fehlgeschlagen,
+bitte erneut versuchen."</string>
     <string name="download_rom_success">"ROM Download erfolgreich,
 bitte Installation starten"</string>
     <string name="low_battery_message">"ROM Download erfolgreich,
@@ -34,12 +34,12 @@ Akkustand muss mindestens %1$s%% betragen"</string>
     <string name="progressbar_tips">Prüfe auf neue Versionen...</string>
     <string name="progressbar_percent">%1$d%%</string>
     <string name="low_mem">Mehr Speicher erforderlich, weitere %1$sM werden benötigt</string>
-    <string name="update_network_error">"\"Update Überprüfung fehlgeschlagen,
-Bitte erneut versuchen\""</string>
-    <string name="cancel_download">"\"Updatepaket wird heruntergeladen, 
-abbrechen?\""</string>
-    <string name="new_rom_please_install">"\"System Update verfügbar,
-bitte aktualisieren\""</string>
+    <string name="update_network_error">"Update Überprüfung fehlgeschlagen,
+Bitte erneut versuchen"</string>
+    <string name="cancel_download">"Updatepaket wird heruntergeladen, 
+abbrechen?"</string>
+    <string name="new_rom_please_install">"System Update verfügbar,
+bitte aktualisieren"</string>
     <string name="btn_install_later">Später</string>
     <string name="btn_install_now">Jetzt installieren</string>
     <string name="btn_upgrade_now">Jetzt aktualisieren</string>
@@ -57,11 +57,11 @@ bitte aktualisieren\""</string>
     <string name="wifi_turnon_going">WLAN wird eingeschaltet...</string>
     <string name="system_update_title">Aktualisierung erfolgreich</string>
     <string name="system_update_content">Das System wurde auf Version %1$s aktualisiert</string>
-    <string name="password_error">"\"Falsches WLAN Passwort,
-bitte erneut eingeben\""</string>
-    <string name="wifi_connect_fail">"\"Verbindung zu diesem
+    <string name="password_error">"Falsches WLAN Passwort,
+bitte erneut eingeben"</string>
+    <string name="wifi_connect_fail">"Verbindung zu diesem
 WLAN Netzwerk fehlgeschlagen,
-Bitte erneut versuchen.\""</string>
+Bitte erneut versuchen."</string>
     <string name="searching">Wird gesucht...</string>
     <string name="hasNewUpdateTitle">System Updates</string>
     <string name="hasNewUpdateInstallContent">"Version %1$s kann installiert werden,
@@ -73,13 +73,13 @@ jetzt aktualisieren?"</string>
     <string name="update_local">Update von lokaler zip Datei</string>
     <string name="local_update_confirm_1_title">Bitte lesen Sie</string>
     <string name="local_update_invalid_zip">The card package system version is too low, it is recommended to use the latest version to upgrade</string>
-    <string name="local_update_confirm_1_msg">"\"Um sicherzustellen, dass die neue Version  
+    <string name="local_update_confirm_1_msg">"Um sicherzustellen, dass die neue Version  
 ordnungsgemäß funktioniert, werden alle Daten gelöscht. 
-Bitte machen Sie vor der Installation ein Backup.\""</string>
-    <string name="local_update_confirm_2_msg">"\"Stellen Sie sicher, dass alle Benutzerdaten 
+Bitte machen Sie vor der Installation ein Backup."</string>
+    <string name="local_update_confirm_2_msg">"Stellen Sie sicher, dass alle Benutzerdaten 
 gesichert sind. Durch die Installation 
 des Updates werden alle Benutzerdaten 
-auf der Uhr gelöscht. Weiter?\""</string>
+auf der Uhr gelöscht. Weiter?"</string>
     <string name="OK">OK</string>
     <string name="yes">Ja</string>
     <string name="no">Nein</string>
