@@ -7,7 +7,7 @@
     <string name="doze_pulse_schedule">1s,10s,30s,60s</string>
     <string name="system_ui_date_pattern">@android:string/system_ui_date_pattern</string>
     <string name="lland">L Land</string>
-    <string name="app_label">System UI</string>
+    <string name="app_label">SystemUI</string>
     <string name="status_bar_clear_all_button">Clear</string>
     <string name="status_bar_recent_remove_item_title">Remove from list</string>
     <string name="status_bar_recent_inspect_item_title">App info</string>
@@ -556,6 +556,8 @@ Try again in %d seconds."</string>
     <string name="keyguard_transport_play_description">Play button</string>
     <string name="keyguard_transport_stop_description">Stop button</string>
     <string name="keyguard_carrier_default">No service.</string>
+     <string name="status_bar_date_formatter">"%2$s
+%1$s"</string>
     <item type="string" name="APKTOOL_DUMMY_15d">false</item>
     <item type="string" name="APKTOOL_DUMMY_15e">false</item>
     <item type="string" name="APKTOOL_DUMMY_15f">false</item>
