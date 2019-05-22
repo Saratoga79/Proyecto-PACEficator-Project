@@ -20,8 +20,8 @@
     <string name="battery_low_title">Queda poca bateria</string>
     <string name="battery_low_percent_format">%s restant</string>
     <string name="battery_low_percent_format_saver_started">%s restant. L\'estalvi de bateria està activat.</string>
-    <string name="invalid_charger">"\"La càrrega USB no és compatible.
-Utilitzeu només el carregador subministrat.\""</string>
+    <string name="invalid_charger">"La càrrega USB no és compatible.
+Utilitzeu només el carregador subministrat."</string>
     <string name="invalid_charger_title">La càrrega per USB no és compatible.</string>
     <string name="invalid_charger_text">Utilitzeu només el carregador subministrat.</string>
     <string name="battery_low_why">Settings</string>
@@ -49,8 +49,8 @@ Utilitzeu només el carregador subministrat.\""</string>
     <string name="always_use_device">Utilitza-la per defecte per a aquest dispositiu USB</string>
     <string name="always_use_accessory">Utilitza-la per defecte per a aquest accessori USB</string>
     <string name="usb_debugging_title">Vols permetre la depuració USB?</string>
-    <string name="usb_debugging_message">"\"La clau RSA d'aquest equip és:
-%1$s\""</string>
+    <string name="usb_debugging_message">"La clau RSA d\'aquest equip és:
+%1$s"</string>
     <string name="usb_debugging_always">Permet sempre des d\'aquest equip</string>
     <string name="compat_mode_on">Amplia per omplir la pantalla</string>
     <string name="compat_mode_off">Estira per omplir la pantalla</string>
@@ -339,7 +339,7 @@ For more information, contact your administrator.\""</string>
     <string name="monitoring_description_vpn">"\"You gave \"%1$s\" permission to set up a VPN connection.
 
 This app can monitor your device and network activity, including emails, apps and secure websites.\""</string>
-    <string name="monitoring_description_legacy_vpn">"\"You're connected to a VPN (\"%1$s\").
+    <string name="monitoring_description_legacy_vpn">"\"You\'re connected to a VPN (\"%1$s\").
 
 Your VPN service provider can monitor your device and network activity including emails, apps, and secure websites.\""</string>
     <string name="monitoring_description_vpn_device_owned">"\"This device is managed by:
@@ -353,7 +353,7 @@ Also, you gave \"%2$s\" permission to set up a VPN connection. This app can moni
 
 Your administrator is capable of monitoring your network activity including emails, apps, and secure websites. For more information, contact your administrator.
 
-Also, you're connected to a VPN (\"%2$s\"). Your VPN service provider can monitor network activity too.\""</string>
+Also, you\'re connected to a VPN (\"%2$s\"). Your VPN service provider can monitor network activity too.\""</string>
     <string name="monitoring_description_profile_owned">"\"This profile is managed by:
 %1$s
 
@@ -379,7 +379,7 @@ Also, you gave \"%2$s\" permission to set up a VPN connection. This app can moni
 
 Your administrator is capable of monitoring your network activity including emails, apps, and secure websites. For more information, contact your administrator.
 
-Also, you're connected to a VPN (\"%2$s\"). Your VPN service provider can monitor network activity too.\""</string>
+Also, you\'re connected to a VPN (\"%2$s\"). Your VPN service provider can monitor network activity too.\""</string>
     <string name="monitoring_description_vpn_device_and_profile_owned">"\"This device is managed by:
 %1$s
 Your profile is managed by:
@@ -395,7 +395,7 @@ Your profile is managed by:
 
 Your administrator is capable of monitoring your network activity including emails, apps, and secure websites. For more information, contact your administrator.
 
-Also, you're connected to a VPN (\"%3$s\"). Your VPN service provider can monitor network activity too.\""</string>
+Also, you\'re connected to a VPN (\"%3$s\"). Your VPN service provider can monitor network activity too.\""</string>
     <string name="keyguard_indication_trust_disabled">Device will stay locked until you manually unlock</string>
     <string name="hidden_notifications_title">Get notifications faster</string>
     <string name="hidden_notifications_text">See them before you unlock</string>
@@ -524,8 +524,8 @@ Also, you're connected to a VPN (\"%3$s\"). Your VPN service provider can monito
     <string name="kg_login_password_hint">Password</string>
     <string name="kg_login_submit_button">Sign in</string>
     <string name="kg_login_invalid_input">Invalid username or password.</string>
-    <string name="kg_login_account_recovery_hint">"\"Forgot your username or password?
-Visit \"<b>google.com/accounts/recovery</b>."</string>
+    <string name="kg_login_account_recovery_hint">\"\"Forgot your username or password?
+Visit \"<b>google.com/accounts/recovery</b>.\"</string>
     <string name="kg_login_checking_password">Checking account…</string>
     <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"\"You have incorrectly typed your PIN %d times. 
 
