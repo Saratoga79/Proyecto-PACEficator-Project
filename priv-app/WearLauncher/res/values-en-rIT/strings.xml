@@ -226,8 +226,8 @@
     <string name="cal_event_title">%1$s %2$s</string>
     <string name="cal_event_begin_end_time">%1$s - %2$s</string>
     <string name="cal_all_day">Tutto il giorno</string>
-    <string name="cal_all_day_line_break">"\"Tutto 
-il giorno\""</string>
+    <string name="cal_all_day_line_break">"Tutto 
+il giorno"</string>
     <string name="cal_multi_day_line_break">Più giorni</string>
     <string name="cal_mail_all">E-mail tutti gli ospiti</string>
     <string name="cal_navigate_to">Vai a %s</string>
@@ -256,9 +256,9 @@ il giorno\""</string>
     <string name="troubleshoot_use_android_wear">Installare l\'applicazione Android Wear dal Play Store. Poi lanciare l\'app Android Wear per la connessione a orologio.</string>
     <string name="troubleshoot_internet">Assicurarsi che il telefono sia dotato di una connessione Internet.</string>
     <string name="troubleshoot_tethering">Prova ad attivare il tethering Bluetooth sul telefono.</string>
-    <string name="troubleshoot_online_help">"\"Per ulteriori info, visitare
+    <string name="troubleshoot_online_help">"Per ulteriori info, visitare
 %s
-\""</string>
+"</string>
     <string name="troubleshoot_help_url">g.co/AWhelp</string>
     <string name="retry_action">Riprova</string>
     <string name="restart_action">Ricomincia</string>
@@ -405,9 +405,9 @@ il giorno\""</string>
     <string name="server_error">"Impossibile raggiungere Google in questo momento."</string>
     <string name="audio_error">"Impossibile aprire il microfono."</string>
     <string name="null_result_error">La ricerca non ha prodotto risultati in nessun documento</string>
-    <string name="no_answer_error">"\"%s 
+    <string name="no_answer_error">"%s 
     
-    Spiacenti, Google non può aiutare in questo\""</string>
+    Spiacenti, Google non può aiutare in questo"</string>
     <string name="no_companion_error">"Non è possibile connettersi al dispositivo accoppiato."</string>
     <string name="gsa_update_needed">Apri Google Play sul tuo telefono o tablet e aggiornare l\'applicazione Ricerca Google.</string>
     <string name="gsa_install_needed">Apri Google Play sul tuo telefono o tablet e installare l\'applicazione Ricerca Google.</string>
@@ -486,8 +486,8 @@ il giorno\""</string>
     <string name="watchface_picker_more">Altri prodotti</string>
     <string name="watchface_picker_recent">Recente</string>
     <string name="watchface_picker_all">Tutti</string>
-    <string name="airplane_mode">"\"Modalità aereo
-attiva\""</string>
+    <string name="airplane_mode">"Modalità aereo
+attiva"</string>
     <string name="airplane_mode_cue_card">Modalità aereo</string>
     <string name="disconnected">Disconnesso</string>
     <string name="timed_out_state">Tempo scaduto</string>
@@ -613,7 +613,7 @@ attiva\""</string>
     <string name="temp_unit_degree">°</string>
     <string name="temp_to">~</string>
     <string name="temp_to_card">/</string>
-    <string name="type_to"> a </string>
+    <string name="type_to"> - </string>
     <string name="not_avalible_type">No data</string>
     <string name="not_avalible_temp">--</string>
     <string name="air_quality">Qualità dell\'aria</string>
