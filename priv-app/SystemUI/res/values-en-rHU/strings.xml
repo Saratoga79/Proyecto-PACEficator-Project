@@ -20,8 +20,8 @@
     <string name="battery_low_title">Akkuszint alacsony</string>
     <string name="battery_low_percent_format">%s maradt</string>
     <string name="battery_low_percent_format_saver_started">%s maradt. Akku kímélés bekapcsolva.</string>
-    <string name="invalid_charger">"\"Az USB töltés nincs támogava.
-Csak a mellékelt töltőt használd.\""</string>
+    <string name="invalid_charger">"Az USB töltés nincs támogava.
+Csak a mellékelt töltőt használd."</string>
     <string name="invalid_charger_title">Az USB töltés nincs támogava.</string>
     <string name="invalid_charger_text">Csak a mellékelt töltőt használd.</string>
     <string name="battery_low_why">Beállítások</string>
@@ -49,8 +49,8 @@ Csak a mellékelt töltőt használd.\""</string>
     <string name="always_use_device">Alapértelmezés szerint használja ezt az USB eszközt</string>
     <string name="always_use_accessory">Alapértelmezés szerint használja ezt az USB tartozékot</string>
     <string name="usb_debugging_title">Engedélyezed az USB hibakeresést?</string>
-    <string name="usb_debugging_message">"\"A számítógép RSA kulcs ujjlenyomata:
-%1$s\""</string>
+    <string name="usb_debugging_message">"A számítógép RSA kulcs ujjlenyomata:
+%1$s"</string>
     <string name="usb_debugging_always">Mindig engedélyezze ezt a számítógépet</string>
     <string name="compat_mode_on">Nagyítás a képernyő kitöltéséig</string>
     <string name="compat_mode_off">Nyújtás kitöltésig</string>
@@ -191,9 +191,9 @@ Csak a mellékelt töltőt használd.\""</string>
     <string name="data_usage_disabled_dialog_4g_title">4G adat ki</string>
     <string name="data_usage_disabled_dialog_mobile_title">Mobilnet ki</string>
     <string name="data_usage_disabled_dialog_title">Adat ki</string>
-    <string name="data_usage_disabled_dialog">"\"A készülék kikapcsolja az adatokat, mert elérte a beállított határt.
+    <string name="data_usage_disabled_dialog">"A készülék kikapcsolja az adatokat, mert elérte a beállított határt.
 
-Ha visszakapcsolod, a szolgáltató díjat számíthat fel.\""</string>
+Ha visszakapcsolod, a szolgáltató díjat számíthat fel."</string>
     <string name="data_usage_disabled_dialog_enable">Adat bekapcsolás</string>
     <string name="status_bar_settings_signal_meter_disconnected">Nincs internet kapcsolat</string>
     <string name="status_bar_settings_signal_meter_wifi_nossid">Wifi csatlakozva</string>
@@ -273,8 +273,8 @@ Ha visszakapcsolod, a szolgáltató díjat számíthat fel.\""</string>
     <string name="expanded_header_battery_charging_with_time">%s a teljes feltöltésig</string>
     <string name="expanded_header_battery_not_charging">Nem töltődik</string>
     <string name="battery_meter_very_low_overlay_symbol">!</string>
-    <string name="ssl_ca_cert_warning">"\"A hálózatot
-figyelemmel kell kísérni\""</string>
+    <string name="ssl_ca_cert_warning">"A hálózatot
+figyelemmel kell kísérni"</string>
     <string name="description_target_search">Keres</string>
     <string name="description_direction_up">Csúsztasd fel %s.</string>
     <string name="description_direction_left">Csúsztasd balra %s.</string>
@@ -310,9 +310,9 @@ figyelemmel kell kísérni\""</string>
     <string name="guest_wipe_session_wipe">Elölről kezdés</string>
     <string name="guest_wipe_session_dontwipe">Igen, folytatás</string>
     <string name="user_add_user_title">Új felh. hozzáadás?</string>
-    <string name="user_add_user_message_short">"\"Új felhasználó hozzáadásakor az adott személy számára be kell állítania a helyet.
+    <string name="user_add_user_message_short">"Új felhasználó hozzáadásakor az adott személy számára be kell állítania a helyet.
 
-Bármely felhasználó frissítheti az alkalmazásokat az összes többi felhasználó számára.\""</string>
+Bármely felhasználó frissítheti az alkalmazásokat az összes többi felhasználó számára."</string>
     <string name="battery_saver_notification_title">Akku kímélés be</string>
     <string name="battery_saver_notification_text">Csökkenti a teljesítményt és a háttér adatokat</string>
     <string name="battery_saver_notification_action_text">Akku kímélés kikapcsolás</string>
@@ -330,72 +330,72 @@ Bármely felhasználó frissítheti az alkalmazásokat az összes többi felhasz
     <string name="monitoring_title">Hálózat figyelés</string>
     <string name="disable_vpn">VPN kikapcsolás</string>
     <string name="disconnect_vpn">VPN leválasztás</string>
-    <string name="monitoring_description_device_owned">"\"Ezt az eszközt kezeli:
+    <string name="monitoring_description_device_owned">"Ezt az eszközt kezeli:
 %1$s
 
 A rendszergazda felügyelheti az eszközt és a hálózati tevékenységet, beleértve az emaileket, alkalmazásokat és biztonságos webhelyeket.
 
-További információért keresd a rendszergazdát.\""</string>
-    <string name="monitoring_description_vpn">"\"Engedélyezted \"%1$s\" részére VPN kapcsolat beállítását.
+További információért keresd a rendszergazdát."</string>
+    <string name="monitoring_description_vpn">"Engedélyezted \"%1$s\" részére VPN kapcsolat beállítását.
 
-Ez az alkalmazás képes felügyelni az eszközt és a hálózati tevékenységet, beleértve az emaileket, alkalmazásokat és biztonságos webhelyeket.\""</string>
-    <string name="monitoring_description_legacy_vpn">"\"Csatlakozva vagy egy VPN szolgáltatóhoz (\"%1$s\").
+Ez az alkalmazás képes felügyelni az eszközt és a hálózati tevékenységet, beleértve az emaileket, alkalmazásokat és biztonságos webhelyeket."</string>
+    <string name="monitoring_description_legacy_vpn">"Csatlakozva vagy egy VPN szolgáltatóhoz (\"%1$s\").
 
-A VPN szolgáltató képes felügyelni az eszközt és a hálózati tevékenységet, beleértve az emaileket, alkalmazásokat és biztonságos webhelyeket.\""</string>
-    <string name="monitoring_description_vpn_device_owned">"\"Ezt az eszközt kezeli:
+A VPN szolgáltató képes felügyelni az eszközt és a hálózati tevékenységet, beleértve az emaileket, alkalmazásokat és biztonságos webhelyeket."</string>
+    <string name="monitoring_description_vpn_device_owned">"Ezt az eszközt kezeli:
 %1$s
 
 A rendszergazda felügyelheti az eszközt és a hálózati tevékenységet, beleértve az emaileket, alkalmazásokat és biztonságos webhelyeket.
 
-Engedélyezted \"%1$s\" részére VPN kapcsolat beállítását. Ez az app képes figyelni a hálózati aktivitást is.\""</string>
-    <string name="monitoring_description_legacy_vpn_device_owned">"\"Ezt az eszközt kezeli:
+Engedélyezted \"%1$s\" részére VPN kapcsolat beállítását. Ez az app képes figyelni a hálózati aktivitást is."</string>
+    <string name="monitoring_description_legacy_vpn_device_owned">"Ezt az eszközt kezeli:
 %1$s
 
 A rendszergazda felügyelheti az eszközt és a hálózati tevékenységet, beleértve az emaileket, alkalmazásokat és biztonságos webhelyeket.
 
-Csatlakozva vagy egy VPN szolgáltatóhoz (\"%2$s\"). A VPN szolgáltató képes figyelni a hálózati aktivitást is.\""</string>
-    <string name="monitoring_description_profile_owned">"\"A profil kezelője:
+Csatlakozva vagy egy VPN szolgáltatóhoz (\"%2$s\"). A VPN szolgáltató képes figyelni a hálózati aktivitást is."</string>
+    <string name="monitoring_description_profile_owned">"A profil kezelője:
 %1$s
 
 A rendszergazda felügyelheti az eszközt és a hálózati tevékenységet, beleértve az emaileket, alkalmazásokat és biztonságos webhelyeket.
 
-További információért keresd a rendszergazdát.\""</string>
-    <string name="monitoring_description_device_and_profile_owned">"\"Ezt az eszközt kezeli:
-%1$s
-A profil kezelője:
-%2$s
-
-A rendszergazda felügyelheti az eszközt és a hálózati tevékenységet, beleértve az emaileket, alkalmazásokat és biztonságos webhelyeket.
-
-További információért keresd a rendszergazdát.\""</string>
-    <string name="monitoring_description_vpn_profile_owned">"\"A profil kezelője:
-%1$s
-
-A rendszergazda felügyelheti az eszközt és a hálózati tevékenységet, beleértve az emaileket, alkalmazásokat és biztonságos webhelyeket.
-
-Engedélyezted \"%2$s\" részére VPN kapcsolat beállítását. Ez az app képes figyelni a hálózati aktivitást is.\""</string>
-    <string name="monitoring_description_legacy_vpn_profile_owned">"\"A profil kezelője:
-%1$s
-
-A rendszergazda felügyelheti az eszközt és a hálózati tevékenységet, beleértve az emaileket, alkalmazásokat és biztonságos webhelyeket.
-
-Csatlakozva vagy egy VPN szolgáltatóhoz (\"%2$s\"). A VPN szolgáltató képes figyelni a hálózati aktivitást is.\""</string>
-    <string name="monitoring_description_vpn_device_and_profile_owned">"\"Ezt az eszközt kezeli:
+További információért keresd a rendszergazdát."</string>
+    <string name="monitoring_description_device_and_profile_owned">"Ezt az eszközt kezeli:
 %1$s
 A profil kezelője:
 %2$s
 
 A rendszergazda felügyelheti az eszközt és a hálózati tevékenységet, beleértve az emaileket, alkalmazásokat és biztonságos webhelyeket.
 
-Engedélyezted \"%3$s\" részére VPN kapcsolat beállítását. Ez az app képes figyelni a hálózati aktivitást is.\""</string>
-    <string name="monitoring_description_legacy_vpn_device_and_profile_owned">"\"Ezt az eszközt kezeli:
+További információért keresd a rendszergazdát."</string>
+    <string name="monitoring_description_vpn_profile_owned">"A profil kezelője:
+%1$s
+
+A rendszergazda felügyelheti az eszközt és a hálózati tevékenységet, beleértve az emaileket, alkalmazásokat és biztonságos webhelyeket.
+
+Engedélyezted \"%2$s\" részére VPN kapcsolat beállítását. Ez az app képes figyelni a hálózati aktivitást is."</string>
+    <string name="monitoring_description_legacy_vpn_profile_owned">"A profil kezelője:
+%1$s
+
+A rendszergazda felügyelheti az eszközt és a hálózati tevékenységet, beleértve az emaileket, alkalmazásokat és biztonságos webhelyeket.
+
+Csatlakozva vagy egy VPN szolgáltatóhoz (\"%2$s\"). A VPN szolgáltató képes figyelni a hálózati aktivitást is."</string>
+    <string name="monitoring_description_vpn_device_and_profile_owned">"Ezt az eszközt kezeli:
 %1$s
 A profil kezelője:
 %2$s
 
 A rendszergazda felügyelheti az eszközt és a hálózati tevékenységet, beleértve az emaileket, alkalmazásokat és biztonságos webhelyeket.
 
-Csatlakozva vagy egy VPN szolgáltatóhoz (\"%3$s\"). A VPN szolgáltató képes figyelni a hálózati aktivitást is.\""</string>
+Engedélyezted \"%3$s\" részére VPN kapcsolat beállítását. Ez az app képes figyelni a hálózati aktivitást is."</string>
+    <string name="monitoring_description_legacy_vpn_device_and_profile_owned">"Ezt az eszközt kezeli:
+%1$s
+A profil kezelője:
+%2$s
+
+A rendszergazda felügyelheti az eszközt és a hálózati tevékenységet, beleértve az emaileket, alkalmazásokat és biztonságos webhelyeket.
+
+Csatlakozva vagy egy VPN szolgáltatóhoz (\"%3$s\"). A VPN szolgáltató képes figyelni a hálózati aktivitást is."</string>
     <string name="keyguard_indication_trust_disabled">Az eszköz zárolva marad a manuális feloldásig</string>
     <string name="hidden_notifications_title">Az értesítések gyorsabbá tétele</string>
     <string name="hidden_notifications_text">Lássuk feldás előtt</string>
@@ -438,8 +438,8 @@ Csatlakozva vagy egy VPN szolgáltatóhoz (\"%3$s\"). A VPN szolgáltató képes
     <string name="keyguard_missing_sim_instructions">Tegyél be SIM kártyát.</string>
     <string name="keyguard_missing_sim_instructions_long">A SIM kártya ihiányzik vagy nem olvasható. Tegyél be SIM kártyát.</string>
     <string name="keyguard_permanent_disabled_sim_message_short">Használhatatlan SIM kártya.</string>
-    <string name="keyguard_permanent_disabled_sim_instructions">"\"A SIM kártyád véglegesen letiltásra került.
- Vedd fel a kapcsolatot a vezeték nélküli szolgáltatóval egy másik SIM kártyáért.\""</string>
+    <string name="keyguard_permanent_disabled_sim_instructions">"A SIM kártyád véglegesen letiltásra került.
+ Vedd fel a kapcsolatot a vezeték nélküli szolgáltatóval egy másik SIM kártyáért."</string>
     <string name="keyguard_sim_locked_message">A SIM kártya zárolt.</string>
     <string name="keyguard_sim_puk_locked_message">A SIM kártya PUK-zárolt.</string>
     <string name="keyguard_sim_unlock_progress_dialog_message">SIM kártya feloldás…</string>
@@ -524,27 +524,27 @@ Csatlakozva vagy egy VPN szolgáltatóhoz (\"%3$s\"). A VPN szolgáltató képes
     <string name="kg_login_password_hint">Jelszó</string>
     <string name="kg_login_submit_button">Bejelentkezés</string>
     <string name="kg_login_invalid_input">Érvénytelen felh.név vagy jelszó.</string>
-    <string name="kg_login_account_recovery_hint">"\"Elfelejtetted a felh.neved vagy jelszavad?
-Látogass el ide \"<b>google.com/accounts/recovery</b>."</string>
+    <string name="kg_login_account_recovery_hint">\"Elfelejtetted a felh.neved vagy jelszavad?
+Látogass el ide \"<b>google.com/accounts/recovery</b>.</string>
     <string name="kg_login_checking_password">Fiók ellenőrzése…</string>
-    <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"\"Téves PIN kódot adtál meg %d alkalommal. 
+    <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"Téves PIN kódot adtál meg %d alkalommal. 
 
-Próbáld újra %d mp múlva.\""</string>
-    <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"\"%d alkalomal adtál meg helytelen jelszót. 
+Próbáld újra %d mp múlva."</string>
+    <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"%d alkalomal adtál meg helytelen jelszót. 
 
-Próbáld újra %d mp múlva.\""</string>
-    <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"\"%d alkalomal adtál meg helytelen mintát. 
+Próbáld újra %d mp múlva."</string>
+    <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"%d alkalomal adtál meg helytelen mintát. 
 
-Próbáld újra %d mp múlva.\""</string>
+Próbáld újra %d mp múlva."</string>
     <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Tévesen próbálták feloldani a táblagépet %d alkalommal. %d további sikertelen kísérlet után a táblagép újraindul, és törli az összes adatot.</string>
     <string name="kg_failed_attempts_now_wiping">Tévesen próbálták feloldani a táblagépet %d alkalommal. A táblagép újraindul, és törli az összes adatot.</string>
     <string name="kg_failed_attempts_almost_at_erase_user" formatted="false">Tévesen próbálták feloldani a táblagépet %d alkalommal. %d további sikertelen kísérlet után, ez a felhasználó eltávolításra kerül és törlődik az összes felhasználói adat.</string>
     <string name="kg_failed_attempts_now_erasing_user">Tévesen próbálták feloldani a táblagépet %d alkalommal. Ez a felhasználó eltávolításra kerül és törlődik az összes felhasználói adat.</string>
     <string name="kg_failed_attempts_almost_at_erase_profile" formatted="false">Tévesen próbálták feloldani a táblagépet %d alkalommal. %d további sikertelen kísérlet után, a munkaprofil törlődik, ami törli az összes profiladatot.</string>
     <string name="kg_failed_attempts_now_erasing_profile">Tévesen próbálták feloldani a táblagépet %d alkalommal. A munkaprofil törlődik, ami törli az összes profiladatot.</string>
-    <string name="kg_failed_attempts_almost_at_login" formatted="false">"\"Helytelen feloldó mintát használtak %d alkalommal. %d további sikertelen kísérlet után felkérést kapsz a táblagép feloldására email fiók használatával.
+    <string name="kg_failed_attempts_almost_at_login" formatted="false">"Helytelen feloldó mintát használtak %d alkalommal. %d további sikertelen kísérlet után felkérést kapsz a táblagép feloldására email fiók használatával.
 
- Próbáld újra %d mp múlva.\""</string>
+ Próbáld újra %d mp múlva."</string>
     <string name="kg_reordering_delete_drop_target_text">Eltávolít</string>
     <string name="kg_password_wrong_pin_code_pukked">Helytelen SIM PIN kód, most lépj kapcsolatba a szolgáltatóddal a készülék zárolásának feloldásához.</string>
     <string name="kg_password_wrong_puk_code_dead">A SIM használhatatlan. Fordulj a szolgáltatóhoz.</string>
