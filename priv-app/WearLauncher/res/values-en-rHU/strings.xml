@@ -44,16 +44,16 @@
     <string name="quick_settings_date_chinese">yyyy.MM.dd.</string>
     <string name="quick_settings_date_format">1900.01.31.</string>
     <string name="quick_settings_date_yeareve">Szilveszter</string>
-    <string name="seconed_confirm_nodisturb">"\"Csendes mód be
-Új értesítés többé nem jelenik meg.\""</string>
+    <string name="seconed_confirm_nodisturb">"Csendes mód be
+Új értesítés többé nem jelenik meg."</string>
     <string name="quick_settings_battery_charging_full">Teljesen feltöltve</string>
     <string name="quick_settings_battery_is_charging">Töltés...</string>
     <string name="quick_settings_battery_hasnot_charged">Nem volt töltve</string>
     <string name="quick_settings_battery_charging_intervalDay">%1$d nap %2$d órája töltve</string>
     <string name="quick_settings_battery_charging_intervalDay_lessHour">%d napja töltve</string>
     <string name="quick_settings_battery_charging_intervalDayLess">%d órája töltve</string>
-    <string name="quick_settings_battery_charging_intervalLessHour">"\"Kevesebb, mint 1 
-órája töltve\""</string>
+    <string name="quick_settings_battery_charging_intervalLessHour">"Kevesebb, mint 1 
+órája töltve"</string>
     <string name="quick_settings_battery_sportString">Üzemidő Sport módban</string>
     <string name="quick_settings_battery_sporttime_hour_unit">óra</string>
     <string name="quick_settings_battery_sporttime_KM_unit">km</string>
@@ -228,10 +228,10 @@
     <string name="cal_event_title">%1$s %2$s</string>
     <string name="cal_event_begin_end_time">%1$s - %2$s</string>
     <string name="cal_all_day">Minden nap</string>
-    <string name="cal_all_day_line_break">"\"Összes
-nap\""</string>
-    <string name="cal_multi_day_line_break">"\"Több
-nap\""</string>
+    <string name="cal_all_day_line_break">"Összes
+nap"</string>
+    <string name="cal_multi_day_line_break">"Több
+nap"</string>
     <string name="cal_mail_all">Email minden vendégnek</string>
     <string name="cal_navigate_to">Navigálás ide %s</string>
     <string name="cal_navigate">Navigál</string>
@@ -259,9 +259,9 @@ nap\""</string>
     <string name="troubleshoot_use_android_wear">Telepítsd az Android Wear alkalmazást a Play Áruházból. Majd indítsd el az Android Wear alkalmazást és csatlakozz az órához.</string>
     <string name="troubleshoot_internet">Győződj meg róla, hogy a telefonnak van internet kapcsolata.</string>
     <string name="troubleshoot_tethering">Próbáld bekapcsolni a Bluetooth tetheringet a telefonon.</string>
-    <string name="troubleshoot_online_help">"\"További segítségért látogasson ide 
+    <string name="troubleshoot_online_help">"További segítségért látogasson ide 
 %s
-\""</string>
+"</string>
     <string name="troubleshoot_help_url">g.co/AWhelp</string>
     <string name="retry_action">Újra</string>
     <string name="restart_action">Újraindítás</string>
@@ -408,9 +408,9 @@ nap\""</string>
     <string name="server_error">"A Google pillanatnyilag nem érhető el"</string>
     <string name="audio_error">"A mikrofon nem nyitható meg."</string>
     <string name="null_result_error">A keresés nem egyezik semmilyen dokumentummal</string>
-    <string name="no_answer_error">"\"%s
+    <string name="no_answer_error">"%s
 
-Sajnáljuk, a Google most nem tud segíteni\""</string>
+Sajnáljuk, a Google most nem tud segíteni"</string>
     <string name="no_companion_error">"Nem tud kapcsolódni a párosított eszközhöz."</string>
     <string name="gsa_update_needed">Nyisd meg a Google Play-t a telefonon vagy táblagépen és frissítheted a Google Kereső alkalmazást.</string>
     <string name="gsa_install_needed">Nyisd meg a Google Play-t a telefonon vagy táblagépen és telepítsd a Google Kereső alkalmazást.</string>
@@ -489,8 +489,8 @@ Sajnáljuk, a Google most nem tud segíteni\""</string>
     <string name="watchface_picker_more">Több</string>
     <string name="watchface_picker_recent">Újabb</string>
     <string name="watchface_picker_all">Összes</string>
-    <string name="airplane_mode">"\"Repülőgép mód
-On\""</string>
+    <string name="airplane_mode">"Repülőgép mód
+On"</string>
     <string name="airplane_mode_cue_card">Repülőgép mód</string>
     <string name="disconnected">Leválasztva</string>
     <string name="timed_out_state">Időtúllépés</string>
@@ -616,7 +616,7 @@ On\""</string>
     <string name="temp_unit_degree">°</string>
     <string name="temp_to">~</string>
     <string name="temp_to_card">/</string>
-    <string name="type_to"> - </string>
+    <string name="type_to"> - </string>
     <string name="not_avalible_type">No data</string>
     <string name="not_avalible_temp">--</string>
     <string name="air_quality">Levegő minőség </string>
