@@ -36,14 +36,14 @@
     <string name="heart_rate_collection_off">Apagado</string>
     <string name="hbeacon_on">Povolené</string>
     <string name="hbeacon_off">Zakázané</string>
-    <string name="hbeacon_on_confirm_message">"Click Ok to enable HBeacon function to slightly reduce the watch's battery life. You need to re-match your phone with the watch after the watch is automatically restarted."</string>
-    <string name="hbeacon_off_confirm_message">Click Ok to disable HBeacon function. You need to re-match your phone with the watch after the watch is automatically restarted.</string>
+    <string name="hbeacon_on_confirm_message">"Kliknutím na tlačidlo OK aktivujete funkciu HBeacon na mierne zníženie životnosti batérie hodiniek. Po automatickom reštartovaní hodiniek je potrebné, aby ste svoj telefón znova prepojili s hodinkami."</string>
+    <string name="hbeacon_off_confirm_message">Kliknutím na tlačidlo OK vypnete funkciu HBeacon. Po automatickom reštartovaní hodiniek je potrebné, aby ste svoj telefón znova prepojili s hodinkami.</string>
     <string name="saving_data">Guardando datos</string>
     <string name="upload_data">Subiendo</string>
-    <string name="upload_success">Success</string>
-    <string name="upload_failed">Fail to upload, please try again</string>
-    <string name="air_mode_alert_title">Fail to connect</string>
-    <string name="air_mode_alert_message">Please connect again after turning off the airplane mode</string>
-    <string name="report_sensor_capture_dialog_title">Motion data collection</string>
-    <string name="report_sensor_capture_dialog_desc">When the motion data collection is turned on, we will collect the original information from the sensor after the motion starts, and stop the collection immediately after the motion ends. These data will be submitted together with your feedbacks on watch problems to the server for analysis of our after-sales personnel. In this process, the logs generated on the watch will be automatically collected and uploaded. These logs will be used for problems analysis only rather than for other purposes, and will be destroyed immediately after analysis. In the whole process, we will comply with our privacy policies. See privacy policies in Amazfit watch App for details.</string>
+    <string name="upload_success">Úspešné</string>
+    <string name="upload_failed">Nepodarilo sa odovzdať, skúste to znova</string>
+    <string name="air_mode_alert_title">Nepodarilo sa pripojiť</string>
+    <string name="air_mode_alert_message">Po vypnutí režimu v lietadle sa znova pripojte</string>
+    <string name="report_sensor_capture_dialog_title">Zber údajov o pohybe</string>
+    <string name="report_sensor_capture_dialog_desc">Po zapnutí zberu údajov o pohybe zozbierame pôvodné informácie zo snímača po spustení pohybu a zastavíme zber okamžite po skončení pohybu. Tieto údaje budú odoslané spolu so spätnými väzbami na problémy s hodinami na server na analýzu nášho poprodejného personálu. V tomto procese sa protokoly vygenerované na hodinkách automaticky zhromaždia a nahrajú. Tieto protokoly sa použijú len na analýzu problémov a nie na iné účely a budú zničené okamžite po analýze. Počas celého procesu budeme dodržiavať naše zásady ochrany osobných údajov. Podrobnosti nájdete v zásadách ochrany osobných údajov v službe Amazfit watch App.</string>
 </resources>
