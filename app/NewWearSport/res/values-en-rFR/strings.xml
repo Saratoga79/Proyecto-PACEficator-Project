@@ -457,11 +457,11 @@
     <string name="_40_km_or_mi_fastest">40%1$s le plus rapide</string>
     <string name="half_marathon_fastest">Semi marathon le plus rapide</string>
     <string name="full_marathon_fastest">Marathon le plus rapide</string>
-    <string name="ride_max_altitude_up">最大爬升(%1$s)</string>
-    <string name="moutaineer_highest_altitude">最高海拔(%1$s)</string>
-    <string name="moutaineer_max_altitude_up">最大累计上升(%1$s)</string>
-    <string name="moutaineer_max_altitude_down">最大累计下降(%1$s)</string>
-    <string name="moutaineer_max_altitude_climb">最大累计爬坡(%1$s)</string>
+    <string name="ride_max_altitude_up">Montée maximale(%1$s)</string>
+    <string name="moutaineer_highest_altitude">Plus haute altitude(%1$s)</string>
+    <string name="moutaineer_max_altitude_up">Augmentation cumulative maximale(%1$s)</string>
+    <string name="moutaineer_max_altitude_down">Déclin cumulatif maximal(%1$s)</string>
+    <string name="moutaineer_max_altitude_climb">Montée cumulative maximale(%1$s)</string>
     <string name="sport_widget_title_on_foot">Randonnée en plein air</string>
     <string name="huanghe_pause_continue_title">Sport operation</string>
     <string name="experience_title">Configurez des informations personnelles, ou les données ne seront pas fiables</string>
@@ -514,11 +514,11 @@
     <string name="first_beat_help_title_daily_perpormence">Condition de performance</string>
     <string name="first_beat_help_title_recovery_time">Temps de Récuperation</string>
     <string name="first_beat_help_vo2_max">"&lt;font color=#00FF00&gt;Qu'est-ce que c'est?&lt;/font&gt;&lt;br/&gt; VO2Max représente le volume maximal d'oxygène que le corps peut consommer en une minute, mesuré en ml/kg/min. Il évalue l'état de la condition cardiorespiratoire des utilisateurs, ce qui est important pour la santé globale, le bien-être et la performance sportive. &lt;br/&gt;La montre évalue automatiquement votre VO2Max en fonction de la fréquence cardiaque, de la vitesse, etc. pendant une séance d'entraînement d'intensité modérée et la compare à un groupe de référence du même âge et du même sexe pour déterminer votre niveau de condition physique. &lt;br/&gt;&lt;font color=#00FF00&gt;Comment évaluer? &lt;/font&gt;&lt;br/&gt; 1. Fournir des informations précises sur le profil, telles que l'âge et le sexe, dans l'application Amazfit Watch pendant la configuration; &lt;br/&gt; 2. Prenez une marche rapide de 15 minutes ou plus avec la montre allumée et assurez-vous que la fréquence cardiaque est égale ou supérieure à 75% de votre HR maximale pendant au moins 10 minutes. &lt;br/&gt; 3. Après avoir terminé la course, vous pouvez vérifier VO2Max actuel dans l'application des activités sportives sur la montre ou la page d'état personnel dans l'application Amazift Watchapp. &lt;br/&gt;&lt;small&gt;Pour plus de détails, s'il vous plaît voir Aide dans Amazfit Watch app.&lt;/small&gt;"</string>
-    <string name="first_beat_help_te">"\"&lt;font color=#00FF00&gt;Qu'est-ce que c'est? &lt;/font&gt;&lt;br/&gt;Effet d'entraînement (TE) mesure la charge accumulée pendant un entraînement et interprète son impact sur votre condition physique aérobique. TE commence au niveau 0.0. Lorsque la séance d'entraînement progresse avec succès, la valeur du TE augmente (de 0 à 5), vous indiquant comment l'entraînement affecte votre forme physique. &lt;br/&gt;&lt;font color=#00FF00&gt;Comment est-il calculé? &lt;/font&gt;&lt;br/&gt; TE est calculé en fonction de votre profil d'utilisateur, des données de battements de cœur et de la difficulté de l'entraînement.&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; La montre affichera la mesure TE en temps réel pendant un entraînement ainsi que le résultat final TE à la fin de l'entraînement. A&amp;lt;2.0 TE indique simplement que la séance d'entraînement a peu d'effet sur la condition cardiorespiratoire et n'est utile que pour construire une base d'endurance et de récupération. &lt;br/&gt;&lt;small&gt;Pour plus de détails, s'il vous plaît voir Aide dans l'application Amazfit Watch. &lt;/small&gt;
+    <string name="first_beat_help_te">\"&lt;font color=#00FF00&gt;Qu\'est-ce que c\'est? &lt;/font&gt;&lt;br/&gt;Effet d\'entraînement (TE) mesure la charge accumulée pendant un entraînement et interprète son impact sur votre condition physique aérobique. TE commence au niveau 0.0. Lorsque la séance d\'entraînement progresse avec succès, la valeur du TE augmente (de 0 à 5), vous indiquant comment l\'entraînement affecte votre forme physique. &lt;br/&gt;&lt;font color=#00FF00&gt;Comment est-il calculé? &lt;/font&gt;&lt;br/&gt; TE est calculé en fonction de votre profil d\'utilisateur, des données de battements de cœur et de la difficulté de l\'entraînement.&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; La montre affichera la mesure TE en temps réel pendant un entraînement ainsi que le résultat final TE à la fin de l\'entraînement. A&amp;lt;2.0 TE indique simplement que la séance d\'entraînement a peu d\'effet sur la condition cardiorespiratoire et n\'est utile que pour construire une base d\'endurance et de récupération. &lt;br/&gt;&lt;small&gt;Pour plus de détails, s\'il vous plaît voir Aide dans l\'application Amazfit Watch. &lt;/small&gt;
  
-\""</string>
-    <string name="first_beat_help_train_load">"La montre calcule la charge d'entraînement en fonction des valeurs EPOC (Excess Post-exercise Oxygen Consumption) accumulées à partir des données de rythme cardiaque enregistrées pendant les entraînements dans une fenêtre mobile de 7 jours. L'utilisateur peut ajuster le programme d'entraînement en conséquence pour atteindre une charge optimale.
- &lt;br/&gt;&lt;small&gt;Pour plus de détails, s'il vous plaît voir Aide dans l'application Amazfit Watch.&lt;/small&gt;"</string>
+\"</string>
+    <string name="first_beat_help_train_load">La montre calcule la charge d\'entraînement en fonction des valeurs EPOC (Excess Post-exercise Oxygen Consumption) accumulées à partir des données de rythme cardiaque enregistrées pendant les entraînements dans une fenêtre mobile de 7 jours. L\'utilisateur peut ajuster le programme d\'entraînement en conséquence pour atteindre une charge optimale.
+ &lt;br/&gt;&lt;small&gt;Pour plus de détails, s\'il vous plaît voir Aide dans l\'application Amazfit Watch.&lt;/small&gt;</string>
     <string name="first_beat_help_run_target_and_real_time_guide">La montre fournira des recommandations d\'entraînement en fonction de votre niveau de condition physique VO2Max, de votre charge d\'entraînement récente et de l\'état de récupération de l\'entraînement précédent. &lt;br/&gt; Si vous activez la fonction de coaching en temps réel dans les paramètres et définissez une cible TE ou choisissez l\'un des entraînements recommandés, la montre vous guidera tout au long de l\'entraînement et vous demandera d\'ajuster votre rythme et votre fréquence cardiaque pour atteindre vos objectifs. &lt;br/&gt; &lt;small&gt;Pour plus de détails, s\'il vous plaît voir Aide dans l\'application Amazfit Watch.&lt;/small&gt;</string>
     <string name="first_beat_help_daily_perpormence">"&lt;font color=#00FF00&gt;Qu'est-ce que c'est? &lt;/font&gt;&lt;br/&gt;La condition de performance en temps réel indique si vous êtes au-dessus ou en dessous de votre niveau de performance moyen et comment l'accumulation de la fatigue affecte votre performance pendant une séance d'entraînement. &lt;br/&gt;&lt;font color=#00FF00&gt;Comment est-ce utilisé? &lt;/font&gt;&lt;br/&gt;La montre évaluera votre condition de performance automatiquement après ~ 6 minutes de course. Une valeur supérieure à la moyenne indique que vous pouvez effectuer une séance d'entraînement plus difficile que vous le feriez normalement. Une valeur inférieure suggère que vous devriez prendre un entraînement plus facile. &lt;br/&gt;Après avoir terminé une séance d'entraînement, vous pouvez analyser la performance en regardant le résultat à chaque kilomètre / mille sur le graphique. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;Pour plus de détails, s'il vous plaît voir Aide dans l'application Amazfit Watch.&lt;/small&gt;"</string>
     <string name="first_beat_help_recovery_time">Après avoir terminé une séance d\'entraînement, vous aurez le temps en quelques minutes pour récupérer complètement. Entre les entraînements, le temps de récupération est réduit linéairement vers zéro s\'il n\'y a pas de nouvelles données d\'entraînement disponibles. L\'utilisateur est encouragé à avoir des séances d\'entraînement de faible intensité pour aider à la récupération &lt;br/&gt;&lt;small&gt;Pour plus de détails, s\'il vous plaît voir Aide dans l\'application Amazfit Watch.&lt;/small&gt;</string>
@@ -615,14 +615,14 @@
     <string name="real_time_target_finish">Objectif atteint</string>
     <string name="real_time_guide_title_1">Bon rythme！</string>
     <string name="real_time_guide_title_2">Garder le rythme!</string>
-    <string name="real_time_guide_title_3">"\"Augmenter le rythme 
- pour un exercice efficace!\""</string>
+    <string name="real_time_guide_title_3">\"Augmenter le rythme 
+ pour un exercice efficace!\"</string>
     <string name="real_time_guide_title_6">Bon rythme！</string>
-    <string name="real_time_guide_title_7">"\"Augmenter le rythme 
-pour un exercice efficace!\""</string>
+    <string name="real_time_guide_title_7">\"Augmenter le rythme 
+pour un exercice efficace!\"</string>
     <string name="real_time_guide_title_10">Bon rythme！</string>
-    <string name="real_time_guide_title_11">"\"Augmenter le rythme 
-pour un exercice efficace!\""</string>
+    <string name="real_time_guide_title_11">\"Augmenter le rythme 
+pour un exercice efficace!\"</string>
     <string name="real_time_guide_title_14">Bien joué!</string>
     <string name="real_time_guide_title_22">Bon rythme！</string>
     <string name="real_time_guide_title_25">Augmenter le rythme.</string>
@@ -766,7 +766,7 @@ pour un exercice efficace!\""</string>
     <string name="running_avg_speed_desc_simple">Vitesse moyenne</string>
     <string name="running_pace_unit">/mi</string>
     <string name="running_calorie_unit">kCal</string>
-    <string name="running_step_freq_unit">steps/min</string>
+    <string name="running_step_freq_unit">pas/min</string>
     <string name="running_speed_unit">mi/h</string>
     <string name="running_distance_unit">mi</string>
     <string name="running_heartrate_unit">bpm</string>

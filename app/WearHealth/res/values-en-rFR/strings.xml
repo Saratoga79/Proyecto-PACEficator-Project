@@ -159,8 +159,8 @@
     <string name="widget_weeklyreports_heart_rate_title">Fréquence cardiaque</string>
     <string name="widget_weeklyreports_average_title">Moyenne</string>
     <string name="widget_weeklyreports_totalcalory_front">Calories totales</string>
-    <string name="widget_weeklyreports_totalcalory_title">"\"Calories
-\""</string>
+    <string name="widget_weeklyreports_totalcalory_title">\"Calories
+\"</string>
     <string name="widget_weeklyreports_sports_title">Santé</string>
     <string name="widget_weeklyreports_reports_title">Rapport hebdo.</string>
     <string name="widget_sleep_title">Sommeil</string>
@@ -286,7 +286,7 @@
     <string name="currentstep_detail_activities_title">Légende</string>
     <string name="currentstep_detail_activities_others">Autre</string>
     <string name="label_heartrate_unit">bpm</string>
-    <string name="average_text">Avg</string>
+    <string name="average_text">Moyenne</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Confirmer</string>
     <string name="picker_default_nagetive_text">Annuler</string>
@@ -294,8 +294,8 @@
     <string name="no_altitude_hint">"Données altitude non détectées"</string>
     <string name="title_settings">Paramètres</string>
     <string name="sport_music_settings">Musique sports</string>
-    <string name="heart_rate_quite">Resting HR</string>
-    <string name="widget_weeklyreports_heart_rate_min_reset_text">Min HR</string>
-    <string name="widget_weeklyreports_heart_rate_max_reset_text">Max HR</string>
-    <string name="widget_weeklyreports_average_reset_title">Avg resting</string>
+    <string name="heart_rate_quite">RC au repos</string>
+    <string name="widget_weeklyreports_heart_rate_min_reset_text">RC Mini</string>
+    <string name="widget_weeklyreports_heart_rate_max_reset_text">RC Maxi</string>
+    <string name="widget_weeklyreports_average_reset_title">Temps de repos moyen</string>
 </resources>

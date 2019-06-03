@@ -5,11 +5,11 @@
         <item>com.huami.watch.assistant/com.huami.watch.assistant.widget.SmartAssistantWidget</item>
     </string-array>
     <string-array name="card_date">
-        <item>前天</item>
-        <item>昨天</item>
-        <item>今天</item>
-        <item>明天</item>
-        <item>后天</item>
+        <item>Tegnapelőtt</item>
+        <item>Tegnap</item>
+        <item>Ma</item>
+        <item>Holnap</item>
+        <item>Holnapután</item>
     </string-array>
     <string-array name="week_days_short">
         <item>Hétfő</item>
@@ -21,7 +21,7 @@
         <item>Vasárnap</item>
     </string-array>
     <string-array name="alarm_repeat_type">
-        <item>只响一次</item>
+        <item>Csak egyszer</item>
         <item>Naponta </item>
         <item>Munkanapokon</item>
     </string-array>
