@@ -177,8 +177,8 @@
     <string name="history_pace_graph_desc">Pace(min/km)</string>
     <string name="history_pace_graph_desc_imperial">Pace(min/mi)</string>
     <string name="history_swim_pace_graph_desc">Rýchlosť (minúty / 100 m)</string>
-    <string name="history_swim_pace_graph_desc_imperial">配速(分/百英尺)</string>
-    <string name="history_swim_pace_graph_desc_yd">配速(分/百码)</string>
+    <string name="history_swim_pace_graph_desc_imperial">Rýchlosť (minúty / 100 stôp)</string>
+    <string name="history_swim_pace_graph_desc_yd">Rýchlosť (minúty / 100 m)</string>
     <string name="history_speed_graph_desc">Speed (km/h)</string>
     <string name="history_speed_graph_desc_imperial">Speed (mph)</string>
     <string name="history_altitude_graph_desc">Altitude(m)</string>
@@ -198,8 +198,8 @@
     <string name="sport_main_percent">%</string>
     <string name="unit_cadence">rpm</string>
     <string name="sport_main_heart_info_title">Heart-rate</string>
-    <string name="sport_main_beyond_heart_info_title">Beyond heart rate</string>
-    <string name="sport_main_beyond_heart_info_remind">Beyond heart rate</string>
+    <string name="sport_main_beyond_heart_info_title">Okrem srdcovej frekvencie</string>
+    <string name="sport_main_beyond_heart_info_remind">Okrem srdcovej frekvencie</string>
     <string name="sport_main_pace_info_title">Tempo</string>
     <string name="heartrate_x_axis_time_format">HH:mm:ss</string>
     <string name="lap_title">Lap %1$d</string>
@@ -256,9 +256,9 @@
     <string name="sport_history_recovery">Recovery</string>
     <string name="sport_remind_pace_unit">/km</string>
     <string name="sport_lap_manual_current">Aktuálne</string>
-    <string name="sport_lap_swim_length_time">%1$s米用时</string>
-    <string name="sport_lap_swim_length_time_imperial">%1$s码用时</string>
-    <string name="sport_swim_style">泳姿</string>
+    <string name="sport_lap_swim_length_time">% 1 $ s metrov</string>
+    <string name="sport_lap_swim_length_time_imperial">% 1 $ s metrov</string>
+    <string name="sport_swim_style">Plávanie držanie tela</string>
     <string name="sport_swim_style_main">主泳姿</string>
     <string name="swim_free_style">自由泳</string>
     <string name="swim_medlyrelay">混合</string>
