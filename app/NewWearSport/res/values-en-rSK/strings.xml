@@ -320,15 +320,15 @@
     <string name="swim_stroke_times">Celkový počet</string>
     <string name="swim_avg_dps">Priemer Dps (vzdialenosť jedného zdvihu)</string>
     <string name="swim_swolf">Index účinnosti swolfu</string>
-    <string name="swim_swolf_unit">(vypočítané v %1$s metroch)</string>
+    <string name="swim_swolf_unit">(按%1$s米计算)</string>
     <string name="swim_swolf_unit_default">(vypočítané podľa hm)</string>
-    <string name="swim_swolf_unit_yd">(vypočítané v %1$s metroch)</string>
+    <string name="swim_swolf_unit_yd">(按%1$s码计算)</string>
     <string name="swim_swolf_unit_default_yd">(vypočítané 100 yd</string>
     <string name="swim_pace">tempo</string>
     <string name="swim_pace_unit">/ 100 m</string>
     <string name="swim_pace_unit_imperial">/100 stop</string>
-    <string name="swim_trips_unit">趟 (d na stránku)</string>
-    <string name="swim_trips_unit_yd">趟 (d kód za))</string>
+    <string name="swim_trips_unit">趟(每趟%1$d米)</string>
+    <string name="swim_trips_unit_yd">趟(每趟%1$d码)</string>
     <string name="heart_region_title">Heart Rate Zone</string>
     <string name="heart_region_anaerobic＿limit">Maximum</string>
     <string name="heart_region_endurance_enhancement">Anaerobic</string>
@@ -345,7 +345,7 @@
     <string name="sport_history_bottom_remind">Ďalšie záznamy nájdete na stránke Amazfit Watch App</string>
     <string name="swim_unit">kód</string>
     <string name="pace_swim_unit_yd">/ 100 yardov</string>
-    <string name="settings_item_value_swim_length_yd">Kód s</string>
+    <string name="settings_item_value_swim_length_yd">%1$s码</string>
     <string name="title_custom_swim_length">Dĺžka jazdného pruhu</string>
     <string name="swim_unit_title">Jednotka vzdialenosti</string>
     <string name="gps_close_notification_title">Shutting down GPS</string>
@@ -630,13 +630,13 @@
     <string name="real_time_guide_desc_33">This exercise may have been too hard for your body.</string>
     <string name="real_time_guide_desc_34">Target heart rate range is %1$s-%2$s bpm!</string>
     <string name="real_time_guide_desc_35">Čas na relax!</string>
-    <string name="aleary_finish_group">Skupina č. s bola dokončená</string>
+    <string name="aleary_finish_group">Group No. %1$s Has Been Completed</string>
     <string name="this_group_count">Počítanie skupín</string>
     <string name="group_cost_time">Čas skupiny</string>
     <string name="group_frequency">Skupinová frekvencia</string>
     <string name="aleary_rest">Odpočiň Si</string>
     <string name="next_group">Ďalšia skupina</string>
-    <string name="rope_skip_times">Cas</string>
+    <string name="rope_skip_times">&gt;%1$s Time</string>
     <string name="rope_skip_frequency">Frekvencia</string>
     <string name="rope_skip_currnet_frequency">Aktuálna frekv</string>
     <string name="rope_skip_max_frequency">Maximálna frekvencia</string>
@@ -652,7 +652,7 @@
     <string name="setting_item_totla_count_reminder">Pripomienka celkového počtu</string>
     <string name="settings_sport_arrive_goal_reminder">Pripomínanie dosiahnutia cieľa</string>
     <string name="alert_skip_you_finish">Dokončili ste</string>
-    <string name="finish_index_count">Č.</string>
+    <string name="finish_index_count">No. %1$s</string>
     <string name="sport_widget_title_rope_skip">Skákanie cez švihadlo</string>
     <string name="rope_frequency_unit">Časy / minúty</string>
     <string name="rope_total_count_remind_title">Celkový počet bol dokončený</string>
@@ -661,9 +661,9 @@
     <string name="sport_pause_normal_rope_skip_unit">Počet preskočení lana</string>
     <string name="sport_pause_last_min_times_reminder">Počet preskočení lana je príliš menej a nemôže byť uložený. Uistite sa, že to skončí?</string>
     <string name="rope_skip_this_frequency">Frekvencia skupiny</string>
-    <string name="rope_skip_aleary_group">Dokončili ste číslo</string>
-    <string name="sport_remind_total_times">Celkový čas: s Časy</string>
-    <string name="sport_main_graph_title_rope_skip">Najbližšie</string>
+    <string name="rope_skip_aleary_group"><Data>Have Completed No. &lt;font color=#00ff00&gt;%1$s&lt;/font&gt; Group</Data></string>
+    <string name="sport_remind_total_times">Total Times :  %1$s Times</string>
+    <string name="sport_main_graph_title_rope_skip">Nearest (s)</string>
     <string name="sport_rope_skip_requency">Frequency(Times/Minute))</string>
     <string name="swim_total_trips_times">Total Trips : %1$s Times</string>
     <string name="route_glevation_gain">Elev. Gain</string>
