@@ -343,11 +343,11 @@
     <string name="last_mi_times">last mi.</string>
     <string name="setting_sport_title_exteed_region_tips">Out of %1$s zone alert</string>
     <string name="sport_history_bottom_remind">Ďalšie záznamy nájdete na stránke Amazfit Watch App</string>
-    <string name="swim_unit">码</string>
-    <string name="pace_swim_unit_yd">/百码</string>
-    <string name="settings_item_value_swim_length_yd">%1$s码</string>
-    <string name="title_custom_swim_length">自定义泳道长度</string>
-    <string name="swim_unit_title">距离单位</string>
+    <string name="swim_unit">kód</string>
+    <string name="pace_swim_unit_yd">/ 100 yardov</string>
+    <string name="settings_item_value_swim_length_yd">Kód s</string>
+    <string name="title_custom_swim_length">Dĺžka jazdného pruhu</string>
+    <string name="swim_unit_title">Jednotka vzdialenosti</string>
     <string name="gps_close_notification_title">Shutting down GPS</string>
     <string name="per_correspond_km">Every %1$d km</string>
     <string name="per_correspond_mi">Every %1$d mi</string>
@@ -363,7 +363,7 @@
     <string name="start_change_item">Starting next interval</string>
     <string name="near_to_finish_item">Almost Complete</string>
     <string name="click_finsh_this_train_unit">Lap key press internal</string>
-    <string name="has_no_train_unit_remind">Please add interval workouts in Amazfit Watch App and sync to this watch</string>
+    <string name="has_no_train_unit_remind">Pridajte intervalové cvičenia v aplikácii Amazfit Watch App a synchronizujte tieto hodinky</string>
     <string name="interval_segment_details">Interval details</string>
     <string name="interval_train_tips_title">Alerts will be off by default during internvals</string>
     <string name="interval_train_tips_content">(Except for HR alterts)</string>
@@ -402,8 +402,8 @@
     <string name="sport_widget_title_compounding">In multisport</string>
     <string name="sport_select_compound">Select</string>
     <string name="swimming_stop_dialog_msg_not_reach_minimum_distance">Fewer than one trip can not be saved, continue?</string>
-    <string name="tennic_wear_hand_guide">"Make sure to wear the watch 
- on the wrist of the hand holding the racket"</string>
+    <string name="tennic_wear_hand_guide">"Uistite sa, že hodinky
+  na zápästí ruky držiacej raketu "</string>
     <string name="select_compound_sport">Select %1$s Sport</string>
     <string name="select_compound_sport_first">First</string>
     <string name="select_compound_sport_second">Second</string>
@@ -428,20 +428,20 @@
     <string name="oritation_north">N</string>
     <string name="outdoor_riding_speed_alert">Speed Alert</string>
     <string name="speed_too_low_remind_title">Too Fast</string>
-    <string name="running_button_save_modify">Calibrate and save</string>
-    <string name="save_cur_location">Save current location</string>
-    <string name="previous_page">Previous page</string>
-    <string name="back_from_coming">Go back the same way</string>
-    <string name="straight_back">Go back along the line</string>
-    <string name="other_destination">Other destinations</string>
-    <string name="low_mem_tips_title">Hint of Storage</string>
-    <string name="low_mem_tips_content">Available space of the watch is too small, which may affect saving of the movement. Delete some imported files ASAP.</string>
-    <string name="no_mem_tips_title">Unable to start</string>
-    <string name="no_mem_tips_content">Current available space for the watch is less than the minimum required for motion (2MB). Delete some of the imported files and start moving.</string>
-    <string name="no_mem_exit">Exit</string>
-    <string name="lap_dis_title">Segmented distance</string>
-    <string name="back_to_continue_sport">Return</string>
-    <string name="first_modify_tips">Calibration with a mileage greater than 0.5 km allows the watch to learn your running habits and make the running mileage more accurate.</string>
+    <string name="running_button_save_modify">Kalibrujte a uložte</string>
+    <string name="save_cur_location">Uložiť aktuálnu polohu</string>
+    <string name="previous_page">Predchádzajúca strana</string>
+    <string name="back_from_coming">Vráťte sa rovnakým spôsobom</string>
+    <string name="straight_back">Vráťte sa pozdĺž čiary</string>
+    <string name="other_destination">Ďalšie destinácie</string>
+    <string name="low_mem_tips_title">Tip na skladovanie</string>
+    <string name="low_mem_tips_content">Dostupný priestor hodiniek je príliš malý, čo môže mať vplyv na úsporu pohybu. Odstráňte niektoré importované súbory ASAP.</string>
+    <string name="no_mem_tips_title">Nie je možné spustiť</string>
+    <string name="no_mem_tips_content">Aktuálny dostupný priestor pre hodinky je menší ako minimum požadované pre pohyb (2 Mb). Odstráňte niektoré importované súbory a začnite sa pohybovať.</string>
+    <string name="no_mem_exit">Skončiť</string>
+    <string name="lap_dis_title">Segmentovaná vzdialenosť</string>
+    <string name="back_to_continue_sport">Späť</string>
+    <string name="first_modify_tips">Kalibrácia s kilometrovou vzdialenosťou väčšou ako 0,5 km umožňuje, aby sa hodinky naučili svoje bežecké návyky a spresnili priebeh najazdených kilometrov.</string>
     <string name="modify_big_dis_tips">The calibration value %1$s is quite different from the measured value %2$s. Is the calibration confirmed?</string>
     <string name="modify_big_dis_regain">Modify</string>
     <string name="modify_big_dis_confirm">Confirm calibration</string>
@@ -507,14 +507,15 @@
     <string name="first_beat_help_title_daily_perpormence">Performance status</string>
     <string name="first_beat_help_title_recovery_time">Time for full recovery</string>
     <string name="first_beat_help_vo2_max">&lt;font color=#00FF00&gt;What’s this？&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Maximum oxygen uptake (VO2max) refers to the oxygen uptake when the human body is performing exercise under maximum intensity, and it is an important index to the aerobic capacity. As one of the important reference data for endurance athletes, high maximal oxygen uptake is the foundation of high aerobic capacity. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Maximum oxygen uptake is relatively individualized, with different reference standards for different gender and age. The watch will evaluate your athletic ability based on your personal information, heart rate and speed generated during training, and will change with your athletic ability. Of course, everyone has a ceiling of their own maximum oxygen uptake, which depends the individual body. &lt;br/&gt;&lt;font color=#00FF00&gt;How to obtain it？&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 1. Enter accurate personal information in the Amazfit watch App; &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 2. Wear the watch for at least 10 minutes of outdoor running, and to generate heart rate values and reach the maximum heart rate of 75%; &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 3. After running, you can check your current maximum oxygen uptake level through the training record function of the watch or personal status page in the Amazfit watch App. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;(More instructions on maximum oxygen uptake can be found in the help page of the Amazfit watch App.)&lt;/small&gt;</string>
-    <string name="first_beat_help_te">&lt;font color=#00FF00&gt;What’s this？&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Training effect (hereinafter referred to as TE) is an index to measure the improvement effect of one training to aerobic capacity. TE score will continuously accumulate staring with 0.0 as you starting training with the watch. The score interval is 0.0-5.0, with different score interval representing different effects. The higher the score is, the higher the training intensity is, and the greater the stress on the body. However, it also means that the effect of this training is better. Of course, when TE reaches 5.0, you shall pay attention to whether the body is overloaded. &lt;br/&gt;&lt;font color=#00FF00&gt;How to obtain it？&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; The TE score may be evaluated based on your personal information, heart rate and speed during training. A lower TE score does not mean that you have a problem with your training, and only means that this training is relatively easy and has no significant effect on improving your aerobic capacity (for example, you jog for an hour, the TE score will still be low). &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; The watch will present the TE score after the training and provide relevant evaluation or suggestions. Meanwhile, it also provides real-time TE for the runners who need to adjust their status during running. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;(More instructions on TE can be found in the help page of the Amazfit watch App.)&lt;/small&gt;</string>
-    <string name="first_beat_help_train_load">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; The watch will calculate the corresponding training load score based on the EPOC (excess post exercise oxygen consumption) you have generated in the past 7 days, so as to evaluate your amount of exercise. You can adjust your next training schedule based on recommendations in interval your score is in. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;(More instructions on training load can be found in the help page of the Amazfit watch App.)&lt;/small&gt;</string>
-    <string name="first_beat_help_run_target_and_real_time_guide">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; The watch will recommend training target for you based on your recent performance. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; If real-time guidance is turned on in the training setting, the watch will prompt you how to adjust your speed and heart rate to better achieve the target when you set the training effect target or use the recommended target. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;small&gt;(More instructions can be found in the help page of the Amazfit watch App.)&lt;/small&gt;</string>
+    <string name="first_beat_help_te">&amp; lt; font color = # 00FF00 &amp; gt; Čo je to &amp; lt; / font &amp; gt; &amp; lt; br / &amp; gt; &amp; amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; Tréningový efekt (ďalej len TE) je index na meranie zlepšujúceho účinku jedného tréningu na aeróbnu kapacitu. TE skóre sa bude priebežne hromadiť s 0,0 ako začnete tréning s hodinami. Interval skóre je 0,0-5,0, pričom rozdielny interval skóre predstavuje rôzne účinky. Čím vyššie je skóre, tým vyššia je intenzita tréningu a tým väčší je tlak na telo. Znamená to však aj to, že účinok tohto školenia je lepší. Samozrejme, keď TE dosiahne 5,0, budete venovať pozornosť tomu, či je telo preťažené. &amp; lt; br / &amp; gt; &amp; lt; font color = # 00FF00 &amp; gt; Ako ho získať？ &amp; lt; / font &amp; gt; &amp; lt; br / &amp; gt; &amp; amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; Skóre TE sa môže vyhodnotiť na základe vašich osobných informácií, srdcovej frekvencie a rýchlosti počas tréningu. Nižšie skóre TE neznamená, že máte problém s tréningom a znamená to, že tento tréning je relatívne jednoduchý a nemá žiadny významný vplyv na zlepšenie vašej aeróbnej kapacity (napríklad beháte hodinu, skóre TE bude stále nízke). nízka). &amp; Lt; br / &amp; gt; &amp; amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; Hodinky budú prezentovať skóre TE po tréningu a poskytnú relevantné hodnotenie alebo návrhy. Zároveň poskytuje v reálnom čase TE pre bežcov, ktorí potrebujú prispôsobiť svoj stav počas behu. &amp; lt; br / &amp; gt; &amp; amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; &amp; lt; small &amp; gt; (Viac inštrukcií o TE nájdete na stránke pomoci aplikácie Amazfit watch App.) &amp; lt; / small &amp; gt</string>
+    <string name="first_beat_help_train_load">&amp; Amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; Hodinky vypočítajú zodpovedajúce skóre záťažového zaťaženia na základe EPOC (nadmerná spotreba kyslíka po cvičení), ktoré ste vygenerovali za posledných 7 dní, aby ste vyhodnotili množstvo cvičenia. Ďalší tréningový plán môžete upraviť na základe odporúčaní v intervale, v ktorom je vaše skóre. &amp; Lt; br / &amp; gt; &amp; amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; ; &amp; amp; nbsp; &amp; lt; small &amp; gt; (Viac inštrukcií o tréningovej záťaži nájdete na stránke pomoci aplikácie Amazfit watch.) &amp; lt; / small &amp; gt;</string>
+    <string name="first_beat_help_run_target_and_real_time_guide">676/5000
+&amp; Amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; Hodinky vám odporučia tréningový cieľ na základe vášho nedávneho výkonu. &amp; Lt; br / &amp; gt; &amp; amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; Ak je v tréningovom nastavení zapnuté navádzanie v reálnom čase, hodinky vás vyzvú, ako nastaviť rýchlosť a srdcovú frekvenciu, aby ste lepšie dosiahli cieľ, keď nastavíte cieľ tréningového efektu alebo použijete odporúčaný cieľ. &amp; Lt; br / &amp; gt; &amp; amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; &amp; lt; small &amp; gt; (Viac inštrukcií nájdete na stránke pomoci aplikácie Amazfit watch.) &amp; lt; / small &amp; gt;</string>
     <string name="first_beat_help_daily_perpormence">&lt;font color=#00FF00&gt;What’s this？&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Runners may in good or bad situation during running. Performance status helps to quantify your each running state. &lt;br/&gt;&lt;font color=#00FF00&gt;How to use it？&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; The watch will automatically evaluate your current performance status after 6 minutes since running. A positive value represents good status. Therefore, you are more likely to do well in running or racing. When it is a negative value, it is recommended not to run at high intensity and not to force yourself to run well. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; At the end of each running, you can analyze the run by looking at the score per mile in the performance chart . &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;(More instructions on performance status can be found in the help page of the Amazfit watch App.)&lt;/small&gt;</string>
     <string name="first_beat_help_recovery_time">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; The watch will recommend the time for full recovery for each training based on the running results, which is proportional to the training intensity. Runners are not advised to have high-intensity training during recovery, and can do some restorative training to help the body recover. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;(More instructions on recovery time can be found in the help page of the Amazfit watch App.)&lt;/small&gt;</string>
     <string name="vo2max_unit">mg/kg/min</string>
     <string name="run_vo2max_unit">ml / kg / min</string>
-    <string name="vo2_max_has_no_data">No data</string>
+    <string name="vo2_max_has_no_data">Žiadne dáta</string>
     <string name="sport_setting_gpx_route_selected">Track Selected</string>
     <string name="sport_setting_gpx_route_selectd_remind">Vonkajšie športy budú používať túto trasu k navigácii. Ak nechcete navigovať, vyberte Vypnúť pre zrušenie navigácie.</string>
     <string name="confirm">OK</string>
@@ -593,11 +594,11 @@
     <string name="real_time_target_finish">Reached your goal</string>
     <string name="real_time_guide_title_1">Good pace！</string>
     <string name="real_time_guide_title_2">Keep the pace!</string>
-    <string name="real_time_guide_title_3">"Increase the pace for effective results!"</string>
+    <string name="real_time_guide_title_3">"Zvýšte rýchlosť efektívnych výsledkov!"</string>
     <string name="real_time_guide_title_6">Good pace！</string>
-    <string name="real_time_guide_title_7">"Increase the pace for more effective results!"</string>
+    <string name="real_time_guide_title_7">"Zvýšte tempo pre efektívnejšie výsledky!"</string>
     <string name="real_time_guide_title_10">Good pace！</string>
-    <string name="real_time_guide_title_11">"Increase the pace for more effective results!"</string>
+    <string name="real_time_guide_title_11">"Zvýšte tempo pre efektívnejšie výsledky!"</string>
     <string name="real_time_guide_title_14">Well done!</string>
     <string name="real_time_guide_title_22">Good pace！</string>
     <string name="real_time_guide_title_25">Increase the pace.</string>
