@@ -320,15 +320,15 @@
     <string name="swim_stroke_times">Celkový počet</string>
     <string name="swim_avg_dps">Priemer Dps (vzdialenosť jedného zdvihu)</string>
     <string name="swim_swolf">Index účinnosti swolfu</string>
-    <string name="swim_swolf_unit">(按%1$s米计算)</string>
+    <string name="swim_swolf_unit">(vypočítané v s metroch)</string>
     <string name="swim_swolf_unit_default">(vypočítané podľa hm)</string>
-    <string name="swim_swolf_unit_yd">(按%1$s码计算)</string>
+    <string name="swim_swolf_unit_yd">(vypočítané kódom s)</string>
     <string name="swim_swolf_unit_default_yd">(vypočítané 100 yd</string>
     <string name="swim_pace">tempo</string>
     <string name="swim_pace_unit">/ 100 m</string>
     <string name="swim_pace_unit_imperial">/100 stop</string>
-    <string name="swim_trips_unit">趟(每趟%1$d米)</string>
-    <string name="swim_trips_unit_yd">趟(每趟%1$d码)</string>
+    <string name="swim_trips_unit">výlet ( d na stránku)</string>
+    <string name="swim_trips_unit_yd">vylet ( d kód za))</string>
     <string name="heart_region_title">Heart Rate Zone</string>
     <string name="heart_region_anaerobic＿limit">Maximum</string>
     <string name="heart_region_endurance_enhancement">Anaerobic</string>
@@ -345,7 +345,7 @@
     <string name="sport_history_bottom_remind">Ďalšie záznamy nájdete na stránke Amazfit Watch App</string>
     <string name="swim_unit">kód</string>
     <string name="pace_swim_unit_yd">/ 100 yardov</string>
-    <string name="settings_item_value_swim_length_yd">%1$s码</string>
+    <string name="settings_item_value_swim_length_yd">kód</string>
     <string name="title_custom_swim_length">Dĺžka jazdného pruhu</string>
     <string name="swim_unit_title">Jednotka vzdialenosti</string>
     <string name="gps_close_notification_title">Shutting down GPS</string>
@@ -442,69 +442,69 @@
     <string name="lap_dis_title">Segmentovaná vzdialenosť</string>
     <string name="back_to_continue_sport">Späť</string>
     <string name="first_modify_tips">Kalibrácia s kilometrovou vzdialenosťou väčšou ako 0,5 km umožňuje, aby sa hodinky naučili svoje bežecké návyky a spresnili priebeh najazdených kilometrov.</string>
-    <string name="modify_big_dis_tips">The calibration value %1$s is quite different from the measured value %2$s. Is the calibration confirmed?</string>
+    <string name="modify_big_dis_tips">Kalibračná hodnota s je úplne odlišná od nameranej hodnoty s. Potvrdzuje sa kalibrácia?</string>
     <string name="modify_big_dis_regain">Upraviť</string>
-    <string name="modify_big_dis_confirm">Confirm calibration</string>
-    <string name="re_modify_dis">Recalibration</string>
-    <string name="re_modify_dis_tips">"1. Calibration with a mileage greater than 0.5 km allows the watch to learn your running habits and make the running mileage more accurate. 
-2. If you have performed multiple calibrations but are still not satisfied with the mileage results, you can recalibrate. 
-3. Recalibration will delete all previous calibration records."</string>
+    <string name="modify_big_dis_confirm">Potvrďte kalibráciu</string>
+    <string name="re_modify_dis">Rekalibrácia</string>
+    <string name="re_modify_dis_tips">"1. Kalibrácia s najazdenými kilometrami väčšou ako 0,5 km umožňuje, aby sa hodinky naučili svoje bežecké návyky a spúšťali najazdené kilometre presnejšie.
+2. Ak ste vykonali viacnásobné kalibrácie, ale stále nie ste spokojní s výsledkami najazdených kilometrov, môžete vykonať opätovnú kalibráciu.
+3. Rekalibrácia vymaže všetky predchádzajúce kalibračné záznamy. "</string>
     <string name="give_up_re_modify_dis">Vzdaj sa</string>
-    <string name="confirm_re_modify_dis">Comfirm</string>
-    <string name="re_modify_dis_successful">Recalibration succeeded</string>
-    <string name="lap_swim_stroke_speed_title">划水速率</string>
-    <string name="history_heart_rate_graph_desc">Heart rate (bpm)</string>
-    <string name="huanghe_pause_continue_title">Movement operation</string>
+    <string name="confirm_re_modify_dis">Potvrdiť</string>
+    <string name="re_modify_dis_successful">Rekalibrácia prebehla úspešne</string>
+    <string name="lap_swim_stroke_speed_title">Rýchlosť vodného zdvihu</string>
+    <string name="history_heart_rate_graph_desc">Tepová frekvencia (bpm)</string>
+    <string name="huanghe_pause_continue_title">Pohybové operácie</string>
     <string name="experience_title">Prosím nastav osobné údaje, lebo budú mať dáta veľkú odchylku</string>
     <string name="recovery_time_hour">Hodina</string>
     <string name="sport_vo2_max">VO2max</string>
-    <string name="sport_ability">Training ability</string>
-    <string name="sport_train_load">Training load</string>
-    <string name="first_beat_sport_status">Performance status</string>
-    <string name="currnet_daily_performance_staus">Current performance status</string>
-    <string name="sport_ability_up">Sport ability up</string>
-    <string name="sport_ability_down">Sport ability down</string>
+    <string name="sport_ability">Tréningové schopnosti</string>
+    <string name="sport_train_load">Tréningové zaťaženie</string>
+    <string name="first_beat_sport_status">Stav výkonu</string>
+    <string name="currnet_daily_performance_staus">Aktuálny stav výkonu</string>
+    <string name="sport_ability_up">Športové schopnosti hore</string>
+    <string name="sport_ability_down">Športové schopnosti nadol</string>
     <string name="time_unit_hour">Hour</string>
     <string name="train_load_medium">Medium</string>
-    <string name="train_load_near_seven_days">Near seven days</string>
-    <string name="train_load_suggess_status_no_record">"Please use the watch for a week first.
- We will evaluate your training load for 7 days"</string>
-    <string name="train_load_suggess_status_less">Insufficient training intensity</string>
-    <string name="train_load_suggess_status_good">Good training status</string>
-    <string name="train_load_suggess_status_recovery">"Training intensity is too high, 
- Please avoid excessive training."</string>
-    <string name="train_load_suggess_status_over">Attention! Excessive training!</string>
+    <string name="train_load_near_seven_days">Takmer sedem dní</string>
+    <string name="train_load_suggess_status_no_record">\"Prosím použite hodinky na týždeň.\"
+  Vašu tréningovú záťaž vyhodnotíme na 7 dní</string>
+    <string name="train_load_suggess_status_less">Nedostatočná intenzita tréningu</string>
+    <string name="train_load_suggess_status_good">Dobré školenie</string>
+    <string name="train_load_suggess_status_recovery">\"Intenzita tréningu je príliš vysoká,
+  Vyhnite sa nadmernému Vytazoavniu</string>
+    <string name="train_load_suggess_status_over">Pozor! Nadmerná odborná príprava!</string>
     <string name="real_time_perpormance_level_very_good">Good</string>
     <string name="real_time_perpormance_level_good">Good</string>
     <string name="real_time_perpormance_level_average">Average</string>
     <string name="real_time_perpormance_level_fatigued">Fatigued</string>
     <string name="real_time_perpormance_level_very_fatigued">Fatigued</string>
-    <string name="sport_target_remind_head_title">Recommended target</string>
-    <string name="sport_run_train_title">Run training</string>
-    <string name="sport_target_remind_status_rest_or_light">Recovery after running</string>
-    <string name="sport_target_remind_status_maintaining">Maintain sports related performance</string>
-    <string name="sport_target_remind_status_improving">Improve training capability</string>
+    <string name="sport_target_remind_head_title">Odporúčaný cieľ</string>
+    <string name="sport_run_train_title">Spustiť školenie</string>
+    <string name="sport_target_remind_status_rest_or_light">Obnovenie po spustení</string>
+    <string name="sport_target_remind_status_maintaining">Udržiavať športové výkony</string>
+    <string name="sport_target_remind_status_improving">Zlepšiť schopnosť odbornej prípravy</string>
     <string name="sport_target_remind_status_count"></string>
-    <string name="sport_target_remind_title_01">3.5TE|30-25 minutes |5 km</string>
+    <string name="sport_target_remind_title_01">3,5TE | 30-25 minút | 5 km</string>
     <string name="sport_target_remind_title_01_normal">%1$sTE|%2$s minutes |%3$s km</string>
     <string name="sport_target_remind_time_min">Minute</string>
-    <string name="sport_tartget_tips">Current target: %1$s</string>
-    <string name="sport_target_remind_desc_01">The watch will recommend the best method of training for you by combining your past performance.</string>
-    <string name="sport_te_desc_level_01">This training has no effect on improving aerobic capacity.</string>
-    <string name="sport_te_desc_level_02">The training effect is weak. This intensity is helpful for improving training tolerance and is also suitable for post-exercise recovery training.</string>
-    <string name="sport_te_desc_level_03">The training effect is moderate, which is helpful to maintain aerobic capacity.</string>
-    <string name="sport_te_desc_level_04">The training effect is good, which is helpful to improve aerobic capacity.</string>
-    <string name="sport_te_desc_level_05">The training effect is excellent, which can effectively improve cardiorespiratory capacity and aerobic capacity.</string>
-    <string name="sport_te_desc_level_06">The training intensity has exceeded the body load. Non-professional personnel shall do well in recovery after training.</string>
+    <string name="sport_tartget_tips">Aktuálny cieľ: s</string>
+    <string name="sport_target_remind_desc_01">Hodinky vám odporučia najlepší spôsob prípravy pre vás kombináciou vašich predchádzajúcich výkonov.</string>
+    <string name="sport_te_desc_level_01">Tento tréning nemá žiadny vplyv na zlepšenie aeróbnej kapacity.</string>
+    <string name="sport_te_desc_level_02">Tréningový efekt je slabý. Táto intenzita je nápomocná pri zlepšovaní tolerancie tréningu a je vhodná aj pre tréning po cvičení.</string>
+    <string name="sport_te_desc_level_03">Tréningový účinok je mierny, čo je užitočné na udržanie aeróbnej kapacity.</string>
+    <string name="sport_te_desc_level_04">Účinok tréningu je dobrý, čo je užitočné na zlepšenie aeróbnej kapacity.</string>
+    <string name="sport_te_desc_level_05">Tréningový efekt je vynikajúci, čo môže účinne zlepšiť kardiorespiračnú kapacitu a aeróbnu kapacitu.</string>
+    <string name="sport_te_desc_level_06">Intenzita tréningu prekročila telesnú záťaž. Neprofesionálny personál sa musí dobre zapojiť do obnovy po tréningu.</string>
     <string name="first_beat_remind_txt_01">This is a good pace。</string>
     <string name="first_beat_remind_txt_02">This is a good pace.more minutes to keep you fit。</string>
-    <string name="sport_history_recovery_remind">Recovery exercises can be performed to ease the damage to the body before it is fully recovered</string>
-    <string name="daily_propermance_has_no_data">No data detected</string>
-    <string name="first_beat_help_title_vo2_max">Maximum oxygen uptake</string>
-    <string name="first_beat_help_title_train_efffect">Training effect TE</string>
-    <string name="first_beat_help_title_train_load">Training load</string>
-    <string name="first_beat_help_title_sport_target_or_real_time_guide">Recommended running target&amp; real-time instruction</string>
-    <string name="first_beat_help_title_daily_perpormence">Performance status</string>
+    <string name="sport_history_recovery_remind">Záchranné cvičenia možno vykonať na zmiernenie poškodenia tela pred jeho úplným obnovením</string>
+    <string name="daily_propermance_has_no_data">Neboli zistené žiadne údaje</string>
+    <string name="first_beat_help_title_vo2_max">Maximálna spotreba kyslíka</string>
+    <string name="first_beat_help_title_train_efffect">Tréningový účinok TE</string>
+    <string name="first_beat_help_title_train_load">Tréningové zaťaženie</string>
+    <string name="first_beat_help_title_sport_target_or_real_time_guide">Odporúčaný spustený cieľ inštrukcie v reálnom čase</string>
+    <string name="first_beat_help_title_daily_perpormence">Stav výkonu</string>
     <string name="first_beat_help_title_recovery_time">Time for full recovery</string>
     <string name="first_beat_help_vo2_max">&lt;font color=#00FF00&gt;What’s this？&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Maximum oxygen uptake (VO2max) refers to the oxygen uptake when the human body is performing exercise under maximum intensity, and it is an important index to the aerobic capacity. As one of the important reference data for endurance athletes, high maximal oxygen uptake is the foundation of high aerobic capacity. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Maximum oxygen uptake is relatively individualized, with different reference standards for different gender and age. The watch will evaluate your athletic ability based on your personal information, heart rate and speed generated during training, and will change with your athletic ability. Of course, everyone has a ceiling of their own maximum oxygen uptake, which depends the individual body. &lt;br/&gt;&lt;font color=#00FF00&gt;How to obtain it？&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 1. Enter accurate personal information in the Amazfit watch App; &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 2. Wear the watch for at least 10 minutes of outdoor running, and to generate heart rate values and reach the maximum heart rate of 75%; &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 3. After running, you can check your current maximum oxygen uptake level through the training record function of the watch or personal status page in the Amazfit watch App. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;(More instructions on maximum oxygen uptake can be found in the help page of the Amazfit watch App.)&lt;/small&gt;</string>
     <string name="first_beat_help_te">&amp; lt; font color = # 00FF00 &amp; gt; Čo je to &amp; lt; / font &amp; gt; &amp; lt; br / &amp; gt; &amp; amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; Tréningový efekt (ďalej len TE) je index na meranie zlepšujúceho účinku jedného tréningu na aeróbnu kapacitu. TE skóre sa bude priebežne hromadiť s 0,0 ako začnete tréning s hodinami. Interval skóre je 0,0-5,0, pričom rozdielny interval skóre predstavuje rôzne účinky. Čím vyššie je skóre, tým vyššia je intenzita tréningu a tým väčší je tlak na telo. Znamená to však aj to, že účinok tohto školenia je lepší. Samozrejme, keď TE dosiahne 5,0, budete venovať pozornosť tomu, či je telo preťažené. &amp; lt; br / &amp; gt; &amp; lt; font color = # 00FF00 &amp; gt; Ako ho získať？ &amp; lt; / font &amp; gt; &amp; lt; br / &amp; gt; &amp; amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; Skóre TE sa môže vyhodnotiť na základe vašich osobných informácií, srdcovej frekvencie a rýchlosti počas tréningu. Nižšie skóre TE neznamená, že máte problém s tréningom a znamená to, že tento tréning je relatívne jednoduchý a nemá žiadny významný vplyv na zlepšenie vašej aeróbnej kapacity (napríklad beháte hodinu, skóre TE bude stále nízke). nízka). &amp; Lt; br / &amp; gt; &amp; amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; Hodinky budú prezentovať skóre TE po tréningu a poskytnú relevantné hodnotenie alebo návrhy. Zároveň poskytuje v reálnom čase TE pre bežcov, ktorí potrebujú prispôsobiť svoj stav počas behu. &amp; lt; br / &amp; gt; &amp; amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; &amp; amp; nbsp; &amp; lt; small &amp; gt; (Viac inštrukcií o TE nájdete na stránke pomoci aplikácie Amazfit watch App.) &amp; lt; / small &amp; gt</string>
@@ -663,7 +663,7 @@
     <string name="rope_skip_this_frequency">Frekvencia skupiny</string>
     <string name="rope_skip_aleary_group"><Data>Have Completed No. &lt;font color=#00ff00&gt;%1$s&lt;/font&gt; Group</Data></string>
     <string name="sport_remind_total_times">Total Times :  %1$s Times</string>
-    <string name="sport_main_graph_title_rope_skip">Najbližšie</string>
+    <string name="sport_main_graph_title_rope_skip">Nearest (s)</string>
     <string name="sport_rope_skip_requency">Frequency(Times/Minute))</string>
     <string name="swim_total_trips_times">Total Trips : %1$s Times</string>
     <string name="route_glevation_gain">Elev. Gain</string>
