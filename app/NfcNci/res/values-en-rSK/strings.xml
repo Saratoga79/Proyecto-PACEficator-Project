@@ -38,18 +38,18 @@
     <string name="pay_with">Platiť s</string>
     <string name="complete_with">Dokončené s</string>
     <string name="default_pay_app_removed">Preferovaná služba pre kohútik  odmena bola odstránená. Vyberte si inú?</string>
-    <string name="ask_nfc_tap">Tap another device to complete</string>
+    <string name="ask_nfc_tap">Dokončite poklepaním na iné zariadenie</string>
     <string name="wifi_connect">Pripojiť</string>
-    <string name="status_unable_to_connect">Unable to connect to network</string>
+    <string name="status_unable_to_connect">Nie je možné pripojiť sa na vašu sieť.</string>
     <string name="status_wifi_connected">Pripojené</string>
-    <string name="title_connect_to_network">Connect to network</string>
-    <string name="prompt_connect_to_network">Connect to network %1$s?</string>
-    <string name="beam_requires_nfc_enabled">Android Beam requires NFC to be enabled. Do you want to enable it?</string>
+    <string name="title_connect_to_network">Pripojiť sa k sieti</string>
+    <string name="prompt_connect_to_network">Pripojiť sa k sieti?</string>
+    <string name="beam_requires_nfc_enabled">Aplikácia Android Beam vyžaduje zapnutie funkcie NFC. Chcete ho povoliť?</string>
     <string name="android_beam">Android Beam</string>
-    <string name="permlab_nfcReceiveEvent">NFC Transaction awareness</string>
-    <string name="permdesc_nfcReceiveEvent">Allows application to receive information about NFC transaction performed</string>
-    <string name="nfc_enabled_dialog">"Nfc is Currently Disabled. 
-Do you want to Enable it for your NFC Service"</string>
+    <string name="permlab_nfcReceiveEvent">Informácia o transakciách NFC</string>
+    <string name="permdesc_nfcReceiveEvent">Umožňuje aplikácii prijímať informácie o vykonanej transakcii NFC</string>
+    <string name="nfc_enabled_dialog">\"Nfc je momentálne zakázané.\"
+Chcete ju povoliť pre službu NFC</string>
     <string name="permgrouplab_NFC">Komunikácia NFC-Near Field</string>
     <string name="permgroupdesc_NFC">Prístup k rôznym funkciám NFC</string>
     <string name="ok">OK</string>
