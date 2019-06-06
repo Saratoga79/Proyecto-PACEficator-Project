@@ -320,15 +320,15 @@
     <string name="swim_stroke_times">Celkový počet</string>
     <string name="swim_avg_dps">Priemer Dps (vzdialenosť jedného zdvihu)</string>
     <string name="swim_swolf">Index účinnosti swolfu</string>
-    <string name="swim_swolf_unit">(按%1$s米计算)</string>
+    <string name="swim_swolf_unit">(vypočítané v s metroch)</string>
     <string name="swim_swolf_unit_default">(vypočítané podľa hm)</string>
-    <string name="swim_swolf_unit_yd">(按%1$s码计算)</string>
+    <string name="swim_swolf_unit_yd">(vypočítané kódom s)</string>
     <string name="swim_swolf_unit_default_yd">(vypočítané 100 yd</string>
     <string name="swim_pace">tempo</string>
     <string name="swim_pace_unit">/ 100 m</string>
     <string name="swim_pace_unit_imperial">/100 stop</string>
-    <string name="swim_trips_unit">趟(每趟%1$d米)</string>
-    <string name="swim_trips_unit_yd">趟(每趟%1$d码)</string>
+    <string name="swim_trips_unit">výlet ( d na stránku)</string>
+    <string name="swim_trips_unit_yd">vylet ( d kód za))</string>
     <string name="heart_region_title">Heart Rate Zone</string>
     <string name="heart_region_anaerobic＿limit">Maximum</string>
     <string name="heart_region_endurance_enhancement">Anaerobic</string>
@@ -345,7 +345,7 @@
     <string name="sport_history_bottom_remind">Ďalšie záznamy nájdete na stránke Amazfit Watch App</string>
     <string name="swim_unit">kód</string>
     <string name="pace_swim_unit_yd">/ 100 yardov</string>
-    <string name="settings_item_value_swim_length_yd">%1$s码</string>
+    <string name="settings_item_value_swim_length_yd">kód</string>
     <string name="title_custom_swim_length">Dĺžka jazdného pruhu</string>
     <string name="swim_unit_title">Jednotka vzdialenosti</string>
     <string name="gps_close_notification_title">Shutting down GPS</string>
@@ -442,10 +442,10 @@
     <string name="lap_dis_title">Segmentovaná vzdialenosť</string>
     <string name="back_to_continue_sport">Späť</string>
     <string name="first_modify_tips">Kalibrácia s kilometrovou vzdialenosťou väčšou ako 0,5 km umožňuje, aby sa hodinky naučili svoje bežecké návyky a spresnili priebeh najazdených kilometrov.</string>
-    <string name="modify_big_dis_tips">The calibration value %1$s is quite different from the measured value %2$s. Is the calibration confirmed?</string>
+    <string name="modify_big_dis_tips">Kalibračná hodnota s je úplne odlišná od nameranej hodnoty s. Potvrdzuje sa kalibrácia?</string>
     <string name="modify_big_dis_regain">Upraviť</string>
-    <string name="modify_big_dis_confirm">Confirm calibration</string>
-    <string name="re_modify_dis">Recalibration</string>
+    <string name="modify_big_dis_confirm">Potvrďte kalibráciu</string>
+    <string name="re_modify_dis">Rekalibrácia</string>
     <string name="re_modify_dis_tips">"1. Calibration with a mileage greater than 0.5 km allows the watch to learn your running habits and make the running mileage more accurate. 
 2. If you have performed multiple calibrations but are still not satisfied with the mileage results, you can recalibrate. 
 3. Recalibration will delete all previous calibration records."</string>
