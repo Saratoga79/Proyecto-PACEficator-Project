@@ -3,16 +3,16 @@
 <resources>
     <string name="music_name">Ντουμπάν FM</string>
     <string name="music_download" formatted="false">%1d/%2d</string>
-    <string name="music_download_in_progress">Song downloading...</string>
-    <string name="music_no_wifi_title">Unable to download</string>
-    <string name="music_download_fail_title">Song downloading failed</string>
-    <string name="music_download_not_complete_title">Songs not completely downloaded</string>
-    <string name="music_no_wifi_content">Wi-Fi is not connected, songs cannot be downloaded. Please connect to Wi-Fi by System settings - Wi-Fi on the watch.</string>
-    <string name="music_download_fail_content">Network connection error. Songs unable to be downloaded. Please connect to the network and try again.</string>
-    <string name="music_download_not_complete_content">Network connecting error, songs unable to finish downloading. Only play currently downloaded songs. (All songs will be downloaded automatically with Wi-Fi connection)</string>
-    <string name="music_download_success">Song update successful</string>
-    <string name="music_downloading">Song downloading...</string>
-    <string name="music_fetch_list">Obtaining song list...</string>
+    <string name="music_download_in_progress">Λήψη τραγουδιού...</string>
+    <string name="music_no_wifi_title">Αδυναμία λήψης</string>
+    <string name="music_download_fail_title">H λήψη τραγουδιού απέτυχε</string>
+    <string name="music_download_not_complete_title">Τα τραγούδια δεν κατέβηκαν πλήρως</string>
+    <string name="music_no_wifi_content">Το Wi-Fi δεν είναι συνδεδεμένο, δεν είναι δυνατή η λήψη τραγουδιών. Συνδεθείτε στο Wi-Fi από τις ρυθμίσεις συστήματος - Wi-Fi στο ρολόι.</string>
+    <string name="music_download_fail_content">Σφάλμα σύνδεσης δικτύου. Δεν είναι δυνατή η λήψη τραγουδιών. Συνδεθείτε στο δίκτυο και δοκιμάστε ξανά.</string>
+    <string name="music_download_not_complete_content">Σφάλμα σύνδεσης δικτύου, τα τραγούδια δεν μπορούν να τερματίσουν τη λήψη. Αναπαραγωγή τραγουδιών μόνο επί του παρόντος (Όλα τα τραγούδια θα μεταφορτωθούν αυτόματα με σύνδεση Wi-Fi)</string>
+    <string name="music_download_success">Η ενημέρωση τραγουδιού ήταν επιτυχής</string>
+    <string name="music_downloading">Λήψη τραγουδιού...</string>
+    <string name="music_fetch_list">Λήψη λίστας τραγουδιών...</string>
     <string name="check_network">Check the network</string>
     <string name="music_continue_downloading">Songs will continue to be downloaded</string>
     <string name="music_service_unavalible">DouBan service is Unavailable</string>
