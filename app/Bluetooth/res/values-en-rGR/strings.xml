@@ -47,7 +47,7 @@
     <string name="download_fail_line3">Αιτία: %1$s</string>
     <string name="download_fail_ok">Εντάξει</string>
     <string name="download_succ_line5">Το αρχείο ελήφθη</string>
-    <string name="download_succ_ok">Open</string>
+    <string name="download_succ_ok">Άνοιξε</string>
     <string name="upload_line1">Προς: \"%1$s\"</string>
     <string name="upload_line3">Τύπος αρχείου: %1$s (%2$s)</string>
     <string name="upload_line5">Αποστολή αρχείου…</string>
@@ -55,8 +55,8 @@
     <string name="upload_succ_ok">Εντάξει</string>
     <string name="upload_fail_line1">"Το αρχείο δεν στάλθηκε στο \"%1$s\"."</string>
     <string name="upload_fail_line1_2">Αρχείο: %1$s</string>
-    <string name="upload_fail_ok">Retry</string>
-    <string name="upload_fail_cancel">cancel</string>
+    <string name="upload_fail_ok">Προσπάθησε ξανά</string>
+    <string name="upload_fail_cancel">Κλείσε</string>
     <string name="bt_error_btn_ok">Εντάξει</string>
     <string name="unknown_file">Άγνωστο αρχείο</string>
     <string name="unknown_file_desc">"Δεν υπάρχει καμία εφαρμογή να χειριστεί αυτόν τον τύπο αρχείου. 
@@ -97,9 +97,9 @@
     <string name="inbound_noti_title">Διαμοιρασμός Bluetooth: Λήψη αρχείων</string>
     <string name="noti_caption">%1$s επιτυχής, %2$s ανεπιτυχής.</string>
     <string name="transfer_menu_clear_all">Εκκαθάριση λίστας</string>
-    <string name="transfer_menu_open">Open</string>
+    <string name="transfer_menu_open">Άνοιξε</string>
     <string name="transfer_menu_clear">Εκκαθάριση από λίστα</string>
-    <string name="transfer_clear_dlg_title">Καθαρός</string>
+    <string name="transfer_clear_dlg_title">Εκκαθάριση</string>
     <string name="bluetooth_share_file_name">bluetooth_σύνδεση_διαμοιρασμός</string>
     <string name="sharedUserId"></string>
     <string name="process"></string>
@@ -128,7 +128,7 @@
     <string name="ack_record">Αρχείο ack</string>
     <string name="deleteAll_record">Διαγραφή όλων των αρχείων</string>
     <string name="ok_button">Εντάξει</string>
-    <string name="delete_record">Delete</string>
+    <string name="delete_record">Διαγραφή εγγραφής</string>
     <string name="start_server">Εκκίνηση διακομιστή TCP</string>
     <string name="notify_server">Ειδοποίηση διακομιστή TCP</string>
     <string name="map_session_key_dialog_title">Εισαγάγετε το κλειδί συνεδρίας για το \"%1$s\"</string>
