@@ -53,18 +53,18 @@
     <string name="s_pair_tip_subtitle">Πώς να συνδέσω;</string>
     <string name="s_pair_tip_content">Συνδέστε τη λειτουργία του τηλεφώνου Bluetooth στη σελίδα [Watch Device Page] &gt; [Ρυθμίσεις εφαρμογής] &gt; [Phone] της εφαρμογής Amazfit Watch.</string>
     <string name="s_dial_not_available_title">Δεν είναι δυνατή η κλήση</string>
-    <string name="s_dail_not_avaliable_content">Please check the following and try again:
- 1. Is the mobile phone Bluetooth enabled? If it is not turned on, please turn on the phone Bluetooth first.
- 2. Whether the mobile phone has been connected to another Bluetooth headsets, car speakers or any other device. If any other device is connected, turn off the device.
- 3. The watch needs to be near the phone. </string>
-    <string name="s_dail_not_available_air_plane">Unable to use Bluetooth, please exit airplane mode on watch</string>
-    <string name="s_got_it">I know</string>
+    <string name="s_dail_not_avaliable_content">Ελέγξτε τα παρακάτω και δοκιμάστε ξανά:
+  1. Είναι ενεργοποιημένο το Bluetooth κινητό τηλέφωνο; Αν δεν είναι ενεργοποιημένο, ενεργοποιήστε πρώτα το τηλέφωνο Bluetooth.
+  2. Εάν το κινητό τηλέφωνο έχει συνδεθεί με άλλα ακουστικά Bluetooth, ηχεία αυτοκινήτου ή οποιαδήποτε άλλη συσκευή. Εάν είναι συνδεδεμένη οποιαδήποτε άλλη συσκευή, απενεργοποιήστε τη συσκευή.
+  3. Το ρολόι πρέπει να βρίσκεται κοντά στο τηλέφωνο</string>
+    <string name="s_dail_not_available_air_plane">Δεν είναι δυνατή η χρήση του τηλεφώνου Bluetooth, πρώτα απενεργοποιήστε την λειτουργία πτήσης</string>
+    <string name="s_got_it">Το ξέρω</string>
     <string name="s_phone_call">Τηλέφωνο</string>
-    <string name="s_max_volume_toast">Already at maximum volume</string>
-    <string name="s_ring_title">Ring</string>
+    <string name="s_max_volume_toast">Η μέγιστη ένταση έχει ήδη ρυθμιστεί</string>
+    <string name="s_ring_title">Κουδούνισμα</string>
     <string name="s_contact_syncing">Συγχρονισμός επαφών...</string>
     <string name="s_clear_call_log_content">Θα καθαρίσει το ιστορικό κλήσεων του ρολογιού, να συνεχίσει;</string>
-    <string name="s_clear_call_log_confirm">Empty</string>
+    <string name="s_clear_call_log_confirm">Άδειο</string>
     <string name="s_clear_call_log_cancel">Όχι</string>
     <string name="s_deleting">Διαγραφή...</string>
     <string name="s_other_device_accept">Άλλος εξοπλισμός απάντησης</string>
@@ -74,7 +74,7 @@
     <string name="s_call_in_warn_shake">Ειδοποίηση κλήσης</string>
     <string name="s_call_in_warn_ring">Ήχος υπενθύμισης κλήσης</string>
     <string name="s_bt_call_func">Λειτουργία Bluetooth τηλεφώνου</string>
-    <string name="s_call_in_ring">Ring</string>
+    <string name="s_call_in_ring">Κουδούνισμα</string>
     <string name="s_clear_call_record">Διαγραφή ιστορικού κλήσεων</string>
     <string name="already_open">Ανοιχτό</string>
     <string name="already_close">Κλείσιμο</string>
@@ -82,12 +82,12 @@
     <string name="electronic_ring_sound">Ηλεκτρονικός ήχος %1$d</string>
     <string name="phonetic_sound">Ηλεκτρονικός μουσικός ήχος %1$d</string>
     <string name="time_hour">Ώρα</string>
-    <string name="time_min">Ελάχιστο</string>
+    <string name="time_min">Λεπτά</string>
     <string name="time_sec">Δευτ.</string>
     <string name="no_ble_toast">Ενεργοποιήστε τη λειτουργία Bluetooth του τηλεφώνου</string>
     <string name="ble_call_test">Δοκιμή εισερχόμενων κλήσεων</string>
     <string name="have_answered_by_other_device">Απαντήθηκε σε άλλη συσκευή</string>
-    <string name="average_text">Μέση</string>
+    <string name="average_text">Μέσος Όρος</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Επιβεβαίωση</string>
     <string name="picker_default_nagetive_text">Κλείσιμο</string>
@@ -98,7 +98,7 @@
     <string name="sport_music_settings">Αθλητική μουσική</string>
     <string name="widget_currentstep_title">Ημερήσια επισκόπηση</string>
     <string name="widget_currentstep_activities">Δραστηριότητες</string>
-    <string name="widget_currentstep_sleep_hour">ώρες</string>
+    <string name="widget_currentstep_sleep_hour">ω</string>
     <string name="widget_currentstep_sleep_min">λεπτά</string>
     <string name="widget_currentstep_sleep_title">Ύπνος</string>
     <string name="widget_currentstep_sleep_no">Κανένα δεδομένο ύπνου</string>
