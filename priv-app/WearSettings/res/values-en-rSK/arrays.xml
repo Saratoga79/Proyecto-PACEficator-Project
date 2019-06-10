@@ -23,9 +23,9 @@
         <item>[sid]applist</item>
     </string-array>
     <string-array name="lab_item_open_nfc">
-        <item>[prim]NFC switch</item>
-        <item>[sum]Turn NFC on or off</item>
-        <item>[sid]nfc</item>
+        <item>[prim]Prepínač NFC</item>
+        <item>[sum]Zapnutie alebo vypnutie funkcie NFC</item>
+        <item>[sid]NFC</item>
     </string-array>
     <string-array name="lab_item_bt_hci_snoop_log">
         <item>[prim]BT HCI snoop log</item>
@@ -33,13 +33,13 @@
         <item>[sid]btsnoop</item>
     </string-array>
     <string-array name="lab_item_power_test">
-        <item>[prim]Power consumption test in flight mode</item>
-        <item>[sum]Detect power consumption in flight mode</item>
+        <item>[prim]Test spotreby energie v letovom režime</item>
+        <item>[sum]Test spotreby energie v letovom režime</item>
         <item>[sid]power_test</item>
     </string-array>
     <string-array name="lab_item_long_sitting_timer_plus">
-        <item>[prim]Time of sedentary reminder</item>
-        <item>[sum]Set the time of sedentary reminder (in min)</item>
+        <item>[prim]Čas sedavej upomienky</item>
+        <item>[sum]Nastaviť čas sedavej pripomienky (v min.)</item>
         <item>[pkg]com.huami.mobile.watchsettings</item>
         <item>[clazz]com.huami.moblie.watchsettings.actions.lab.labUI.LongSittingTimeActivity</item>
     </string-array>
