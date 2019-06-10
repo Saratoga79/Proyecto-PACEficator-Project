@@ -3,18 +3,18 @@
 <resources>
     <string name="sharedUserLabel">Βασικές εφαρμογές Android</string>
     <string name="app_label">Χώρος αποθήκευσης επαφών</string>
-    <string name="provider_label">Contacts</string>
+    <string name="provider_label">Επαφές</string>
     <string name="upgrade_msg">Αναβάθμιση βάσης δεδομένων επαφών.</string>
     <string name="upgrade_out_of_memory_notification_ticker">Απαιτείται περισσότερη μνήμη για την αναβάθμιση των επαφών.</string>
     <string name="upgrade_out_of_memory_notification_title">Αναβάθμιση χώρου αποθήκευσης για επαφές</string>
     <string name="upgrade_out_of_memory_notification_text">Αγγίξτε για να ολοκληρώσετε την αναβάθμιση.</string>
-    <string name="default_directory">Contacts</string>
-    <string name="local_invisible_directory">Other</string>
+    <string name="default_directory">Επαφές</string>
+    <string name="local_invisible_directory">Άλλο</string>
     <string name="voicemail_from_column">"Μήνυμα αυτόματου τηλεφωνητή από "</string>
     <string name="debug_dump_title">Αντιγραφή βάσης δεδομένων επαφών</string>
     <string name="debug_dump_database_message">Πρόκειται να 1) δημιουργήσετε ένα αντίγραφο της βάσης δεδομένων σας το οποίο περιλαμβάνει όλες τις πληροφορίες που σχετίζονται με τις επαφές και όλα τα αρχεία καταγραφής κλήσεων στον εσωτερικό αποθηκευτικό χώρο και να το 2) αποστείλετε με μήνυμα ηλεκτρονικού ταχυδρομείου. Μην ξεχάσετε να διαγράψετε από τη συσκευή σας το αντίγραφο μόλις το αντιγράψετε επιτυχώς ή μόλις παραδοθεί το μήνυμα ηλεκτρονικού ταχυδρομείου.</string>
     <string name="debug_dump_delete_button">Διαγραφή τώρα</string>
-    <string name="debug_dump_start_button">Start time</string>
+    <string name="debug_dump_start_button">Έναρξη</string>
     <string name="debug_dump_email_sender_picker">Επιλέξτε ένα πρόγραμμα για να στείλετε το αρχείο σας</string>
     <string name="debug_dump_email_subject">Συνημμένη βάση δεδομένων επαφών</string>
     <string name="debug_dump_email_body">Επισυνάπτεται η βάση δεδομένων των επαφών μου με όλες τις πληροφορίες των επαφών μου. Ο χειρισμός της πρέπει να είναι προσεκτικός.</string>
