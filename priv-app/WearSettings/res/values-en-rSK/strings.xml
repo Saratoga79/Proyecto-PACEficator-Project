@@ -83,16 +83,16 @@
     <string name="app_item_phone_anti_lost">Telefón stratil</string>
     <string name="app_item_anti_lost_remind">Upozornenie na stratu</string>
     <string name="app_item_far_away_remind">Being far away from phone reminder</string>
-    <string name="remind_aleary_open">The reminder has been enabled.</string>
-    <string name="phone_far_away_remind_to_you">The watch will alert you when you are far away from your phone.</string>
+    <string name="remind_aleary_open">Pripomienka bola povolená.</string>
+    <string name="phone_far_away_remind_to_you">Hodinky vás upozornia, keď ste ďaleko od svojho telefónu.</string>
     <string name="dialog_confire">OK</string>
-    <string name="auto_bg">Turn on the Function of Lifting the Wrist to Brighten the Screen Timing</string>
-    <string name="auto_hint_title">Time for Screen Off</string>
-    <string name="voice">Volume Adjustment</string>
-    <string name="watch_mode">Watch Mode</string>
-    <string name="lock_screen_title">Lock Screen</string>
-    <string name="lock_screen">Lock Screen</string>
-    <string name="lock_screen_hand">Off screen mode</string>
+    <string name="auto_bg">Zapnite funkciu zdvíhania zápästia, aby ste rozjasnili časovanie obrazovky</string>
+    <string name="auto_hint_title">Čas vypnutia obrazovky</string>
+    <string name="voice">Nastavenie hlasitosti</string>
+    <string name="watch_mode">Režim sledovania</string>
+    <string name="lock_screen_title">Obrazovka uzamknutia</string>
+    <string name="lock_screen">Obrazovka uzamknutia</string>
+    <string name="lock_screen_hand">Režim vypnutej obrazovky</string>
     <string name="lock_screen_auto">Turn Off Low Light Mode Regularly</string>
     <string name="lock_screen_open">Turned on</string>
     <string name="lock_screen_close">Turned off</string>
@@ -257,7 +257,7 @@ spárovať?"</string>
     <string name="blt_paring_fail_hint">"Uistite sa, že je zariadenie zapnuté 
 v dosahu"</string>
     <string name="blt_hint_disconnect_device">Odpojiť</string>
-    <string name="blt_hint_ignore_device">Ingore the device</string>
+    <string name="blt_hint_ignore_device">Ignorovať zariadenie</string>
     <string name="blt_hint_connect_device">Pripojiť</string>
     <string name="blt_confirm_ignore">Naozaj ignorovať toto zariadenie ?</string>
     <string name="bluetooth_connected">Pripojené</string>
@@ -306,22 +306,22 @@ narození"</string>
 cm"</string>
     <string name="weight_unit">"Váha 
 kg"</string>
-    <string name="reset_factory_hint">Restore factory settings?</string>
-    <string name="reset_factory_yes">Factory Reset</string>
-    <string name="reset_factory_no">Cancel</string>
-    <string name="reset_factory_title">Factory Reset</string>
-    <string name="reset_factory_noconnect_msg">"If Needing to Unbind the Watch, Please Operate Through Amazfit Watch App. 
- Watch’s Unilateral Factory Reset Will Remove UnionPay Card and Transportation Card. 
- A Removed UnionPay Card: It Can No Longer Be Bound to The Watch. If You Need to Bind Again, Please Consult the Bank Customer Service. 
- A Removed Transportation Card: Will Be Destroyed Permanently and Cannot Be Paid Again."</string>
-    <string name="reset_factory_conncet_msg">Watch and Amazfit watch App will Remove the Bound UnionPay Card. The Watch will Retain the Payment Function of the Transportation Card.</string>
-    <string name="reset_factory_positive">Factory Reset</string>
-    <string name="reset_factory_negative">Cancel</string>
-    <string name="reset_factory_fail_title">Unsuccessful Factory Reset</string>
-    <string name="reset_factory_fail_msg">If the UnionPay Card Is Not Successfully Removed, Please Try Again.</string>
+    <string name="reset_factory_hint">Obnoviť pôvodné nastavenia?</string>
+    <string name="reset_factory_yes">Obnovenie továrenských nastavení</string>
+    <string name="reset_factory_no">Zrušiť</string>
+    <string name="reset_factory_title">Obnovenie továrenských nastavení</string>
+    <string name="reset_factory_noconnect_msg">\"Ak je potrebné Unbind hodinky, prosím, prevádzkovať prostredníctvom Amazfit Watch App.
+  Jednostranný továrenský reset Watch Watch odoberie UnionPay kartu a prepravnú kartu.
+  Odstránená UnionPay karta: To už nemôže byť viazané na hodinky. Ak budete potrebovať opäť viazať, obráťte sa na zákaznícky servis banky.
+  Odstránená Prepravná karta: Bude zničená trvalo a nemôže byť znova zaplatená.</string>
+    <string name="reset_factory_conncet_msg">Sledujte a Amazfit hodinky App bude odstrániť Bound UnionPay karty. Watch si ponechá platobnú funkciu prepravnej karty.</string>
+    <string name="reset_factory_positive">Obnovenie továrenských nastavení</string>
+    <string name="reset_factory_negative">Zrušiť</string>
+    <string name="reset_factory_fail_title">Neúspešné resetovanie z výroby</string>
+    <string name="reset_factory_fail_msg">Ak nie je karta UnionPay úspešne odstránená, skúste to znova.</string>
     <string name="reset_factory_fail_positive">Ok</string>
-    <string name="reset_factory_doing1">Factory Reset Is Being Made</string>
-    <string name="reset_factory_doing2">UnionPay Card Is Being Removed</string>
+    <string name="reset_factory_doing1">Obnovenie továrenského nastavenia sa vykonáva</string>
+    <string name="reset_factory_doing2">UnionPay karta je odstránená</string>
     <string name="reset_factory_hint_cn">Disconnect from Your Mobile Phone and Delete All Data in Your Watch after Factory Reset. After Binding The Watch the Next Time, the Current Opened Transportation Card Can Continue to Be Used.</string>
     <string name="reset_factory_bank_title">Please Remove the UnionPay Card at First</string>
     <string name="reset_factory_bank_msg">"If Reset the Watch without Removing the UnionPay Card, It will Cause the UnionPay Card: 
