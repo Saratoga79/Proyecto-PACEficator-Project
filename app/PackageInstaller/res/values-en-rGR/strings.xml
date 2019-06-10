@@ -45,14 +45,14 @@
 Όλα τα προηγούμενα δεδομένα χρήστη θα αποθηκευτούν. "</string>
     <string name="out_of_space_dlg_title">Δεν υπάρχει χώρος</string>
     <string name="out_of_space_dlg_text">"%1$s Δεν ήταν δυνατή η εγκατάσταση. Απελευθερώστε λίγο χώρο και δοκιμάστε ξανά."</string>
-    <string name="dlg_ok">OK</string>
+    <string name="dlg_ok">Εντάξει</string>
     <string name="app_not_found_dlg_title">Δεν βρέθηκε εφαρμογή</string>
     <string name="app_not_found_dlg_text">"Η εφαρμογή δεν βρέθηκε στη λίστα με τις εγκατεστημένες εφαρμογές."</string>
     <string name="uninstall_application_title">Κατάργηση Εφαρμογής</string>
     <string name="uninstall_update_title">Κατάργηση εγκατάστασης ενημέρωσης</string>
     <string name="uninstall_activity_text">%1$s είναι μέρος της ακόλουθης εφαρμογής:</string>
     <string name="uninstall_application_text">Θέλετε να καταργήσετε την εγκατάσταση αυτής της εφαρμογής;</string>
-    <string name="uninstall_application_text_all_users">Do you want to uninstall this app for <b>all</b> users? The application and its data will be removed from <b>all</b> users on the device.</string>
+    <string name="uninstall_application_text_all_users">Θέλετε να καταργήσετε την εγκατάσταση αυτής της εφαρμογής για \"<b>"όλους"</b>\" τους χρήστες; Η εφαρμογή και τα δεδομένα της θα καταργηθούν από \"<b>"όλους"</b>\" τους χρήστες στη συσκευή.</string>
     <string name="uninstall_application_text_user">Θέλετε να καταργήσετε την εγκατάσταση αυτής της εφαρμογής για τον χρήστη %1$s;</string>
     <string name="uninstall_update_text">Θέλετε να αντικαταστήσετε αυτήν την εφαρμογή με την εργοστασιακή έκδοση;</string>
     <string name="uninstalling">Απεγκατάσταση…</string>
@@ -66,7 +66,7 @@
     <string name="Parse_error_dlg_title">Σφάλμα ανάλυσης</string>
     <string name="Parse_error_dlg_text">Παρουσιάστηκε πρόβλημα κατά την ανάλυση του πακέτου.</string>
     <string name="newPerms">Νέο</string>
-    <string name="allPerms">All</string>
+    <string name="allPerms">Όλα</string>
     <string name="privacyPerms">Ιδιωτικότητα</string>
     <string name="devicePerms">Πρόσβαση συσκευής</string>
     <string name="no_new_perms">Αυτή η ενημέρωση δεν απαιτεί νέες άδειες.</string>
