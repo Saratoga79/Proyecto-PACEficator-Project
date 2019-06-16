@@ -3,20 +3,20 @@
 <resources>
     <plurals name="notification_time_day">
         <item quantity="other">%s day(s) earlier</item>
-        <item quantity="one">%s day(s) earlier</item>
-        <item quantity="few">%s day(s) earlier</item>
+        <item quantity="one">%s deň (dni) skôr</item>
+        <item quantity="few">%s dni skôr</item>
         <item quantity="many">%s day(s) earlier</item>
     </plurals>
     <plurals name="notification_time_hour">
         <item quantity="other">%s hour(s) earlier</item>
-        <item quantity="one">%s hour(s) earlier</item>
+        <item quantity="one">%s hodinu skôr</item>
         <item quantity="few">%s hour(s) earlier</item>
         <item quantity="many">%s hour(s) earlier</item>
     </plurals>
     <plurals name="notification_time_minute">
         <item quantity="other">%s minute(s) earlier</item>
-        <item quantity="one">%s minute(s) earlier</item>
-        <item quantity="few">%s minute(s) earlier</item>
+        <item quantity="one">%s minuta skôr</item>
+        <item quantity="few">%s minuty skôr</item>
         <item quantity="many">%s minute(s) earlier</item>
     </plurals>
 </resources>
