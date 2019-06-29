@@ -81,12 +81,12 @@
     <string name="status_not_accept">"Content isn't supported."</string>
     <string name="status_forbidden">Transfer forbidden by target device.</string>
     <string name="status_canceled">Transfer canceled by user.</string>
-    <string name="status_file_error">Storage issue.</string>
+    <string name="status_file_error">Problema de armazenamento.</string>
     <string name="status_no_sd_card">No SD card. Insert an SD card to save transferred files.</string>
     <string name="status_connection_error">Connection unsuccessful.</string>
     <string name="status_protocol_error">"Request can't be handled correctly."</string>
-    <string name="status_unknown_error">Unknown error.</string>
-    <string name="btopp_live_folder">Bluetooth received</string>
+    <string name="status_unknown_error">Erro desconhecido.</string>
+    <string name="btopp_live_folder">Bluetooth recebido</string>
     <string name="download_success">%1$s Received complete.</string>
     <string name="upload_success">%1$s Sent complete.</string>
     <string name="inbound_history_title">Inbound transfers</string>
@@ -96,7 +96,7 @@
     <string name="outbound_noti_title">Bluetooth share: Sent files</string>
     <string name="inbound_noti_title">Bluetooth share: Received files</string>
     <string name="noti_caption">%1$s successful, %2$s unsuccessful.</string>
-    <string name="transfer_menu_clear_all">Clear list</string>
+    <string name="transfer_menu_clear_all">Limpar lista</string>
     <string name="transfer_menu_open">Abrir</string>
     <string name="transfer_menu_clear">Clear from list</string>
     <string name="transfer_clear_dlg_title">Limpar</string>
@@ -111,7 +111,7 @@
     <string name="bluetooth_map_email_settings_title">Bluetooth Message Sharing Settings</string>
     <string name="bluetooth_map_email_settings_no_account_slots_left">Cannot select account. 0 slots left</string>
     <string name="pbap_session_key_dialog_title">Type session key for %1$s</string>
-    <string name="pbap_session_key_dialog_header">Bluetooth session key required</string>
+    <string name="pbap_session_key_dialog_header">Chave de sessão Bluetooth necessária</string>
     <string name="pbap_acceptance_timeout_message">There was time out to accept connection with %1$s</string>
     <string name="pbap_authentication_timeout_message">There was time out to input session key with %1$s</string>
     <string name="auth_notif_ticker">Obex authentication request</string>
@@ -119,7 +119,7 @@
     <string name="auth_notif_message">Type session key for %1$s</string>
     <string name="defaultname">Carkit</string>
     <string name="unknownName">Unknown name</string>
-    <string name="localPhoneName">My name</string>
+    <string name="localPhoneName">O meu nome</string>
     <string name="defaultnumber">000000</string>
     <string name="hello">Hello World, TestActivity</string>
     <string name="app_name">Bluetooth Share</string>
