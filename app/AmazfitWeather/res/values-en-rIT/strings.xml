@@ -56,7 +56,7 @@
     <string name="detailed">Dettagli meteo</string>
     <string name="forecast">Previsioni meteo</string>
     <string name="fetching">Solo un secondo…</string>
-    <string name="outdoor_tip">Air quality</string>
+    <string name="outdoor_tip">Qualità dell\'Aria</string>
     <string name="fetch_failed">"Impossibile recuperare le info"</string>
     <string name="unknown">Sconosciuto</string>
     <string name="fetch_failed_title">"Impossibile ottenere info meteo"</string>
@@ -66,9 +66,9 @@
     <string name="forecast_tomorrow">Domani</string>
     <string name="fetch_failed_help">Sincronizza prima le info sul meteo</string>
     <string name="cancel">Chiudi</string>
-    <string name="data_check_log">+------------------------+▂▃▄▅▆▇█▉ Weather data verification error! %1$s▉█▇▆▅▄▃▂+------------------------+</string>
-    <string name="data_checkfail_type">Unable to recognize weather type</string>
-    <string name="data_checkfail_temp">Weather temperature out of range</string>
+    <string name="data_check_log">Errore durante la verifica dei dati Meteo</string>
+    <string name="data_checkfail_type">Impossibile riconoscere il tipo di meteo</string>
+    <string name="data_checkfail_temp">Temperatura fuori Scala</string>
     <string name="data_checkfail_match">Weather type fields do not match</string>
     <string name="data_checkfail_json">JSON format error</string>
     <string name="wind_breeze">Brezza</string>
