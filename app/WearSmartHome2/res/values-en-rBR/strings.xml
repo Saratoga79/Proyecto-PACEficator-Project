@@ -22,7 +22,7 @@
     <string name="mihome_widget_title">MiHome</string>
     <string name="mihome_widget_info_unbind">This watch can be used to control other devices of MiHome after being bound with MiHome App. During binding, please do not leave this page.</string>
     <string name="mihome_widget_info_no_devices">Add MiHome devices that wants to be controlled through the watch in MiHome App</string>
-    <string name="mihome_activity_title_disconnected">Disconnected</string>
+    <string name="mihome_activity_title_disconnected">Desconectado</string>
     <string name="mihome_activity_info_disconnected">Please first connect the MiHome App on your mobile phone</string>
     <string name="mihome_activity_btn_disconnected">Conecte o Mi Home no seu telemóvel primeiro</string>
     <string name="mihome_device_card_2_offline">[offline]</string>
@@ -78,11 +78,11 @@
     <string name="count_down_wrong_time_tips">Defina um tempo válido</string>
     <string name="count_down_del_time">Excluir este timer ou não?</string>
     <string name="title_unit">Unidade (hora/minuto)</string>
-    <string name="mibeacon_notify_content">%1$s The operation has been executed</string>
-    <string name="count_down_tip_header">Will be</string>
-    <string name="count_down_tip_end">Post-operation</string>
-    <string name="count_down_summary_running">Under execution</string>
-    <string name="count_down_summary_pause">Paused</string>
-    <string name="count_down_summary_over">Completed</string>
-    <string name="mihome_voice_manage_title">Shortcut control management</string>
+    <string name="mibeacon_notify_content">%1$s A operação foi executada</string>
+    <string name="count_down_tip_header">Será</string>
+    <string name="count_down_tip_end">Pós-operação</string>
+    <string name="count_down_summary_running">Em execução</string>
+    <string name="count_down_summary_pause">Em pausa</string>
+    <string name="count_down_summary_over">Concluída</string>
+    <string name="mihome_voice_manage_title">Gerenciamento de controle de atalhos</string>
 </resources>
