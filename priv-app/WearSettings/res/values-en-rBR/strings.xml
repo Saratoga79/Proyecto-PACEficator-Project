@@ -220,10 +220,10 @@
     <string name="nodisturb_close_string">Desligado</string>
     <string name="nodisturb_timepicker_connect_symbol">:</string>
     <string name="auto_nodisturb_title_string">Não perturbe auto</string>
-    <string name="auto_nodisturb_start_time_string">Turn-on time</string>
+    <string name="auto_nodisturb_start_time_string">Tempo de ativação</string>
     <string name="auto_screen_wristup_start_time_string">Hora de Início</string>
-    <string name="auto_nodisturb_end_time_string">Turn-off time</string>
-    <string name="auto_screen_wristup_end_time_string">Hora de conclusão</string>
+    <string name="auto_nodisturb_end_time_string">Tempo de desligamento</string>
+    <string name="auto_screen_wristup_end_time_string">Horário de término</string>
     <string name="time_to">Para</string>
     <string name="auto_wifi_trans_on_string">Ligado</string>
     <string name="auto_wifi_trans_off_string">Desligado</string>
@@ -306,16 +306,16 @@ Nascimento"</string>
 cm"</string>
     <string name="weight_unit">"Peso
 kg"</string>
-    <string name="reset_factory_hint">Restore factory settings?</string>
-    <string name="reset_factory_yes">Reposição de fábrica</string>
+    <string name="reset_factory_hint">Restaurar Definições de Fábrica?</string>
+    <string name="reset_factory_yes">Restauração de fábrica</string>
     <string name="reset_factory_no">Cancelar</string>
-    <string name="reset_factory_title">Reposição de fábrica</string>
+    <string name="reset_factory_title">Restauração de Fábrica</string>
     <string name="reset_factory_noconnect_msg">"If Needing to Unbind the Watch, Please Operate Through Amazfit Watch App. 
  Watch’s Unilateral Factory Reset Will Remove UnionPay Card and Transportation Card. 
  A Removed UnionPay Card: It Can No Longer Be Bound to The Watch. If You Need to Bind Again, Please Consult the Bank Customer Service. 
  A Removed Transportation Card: Will Be Destroyed Permanently and Cannot Be Paid Again."</string>
     <string name="reset_factory_conncet_msg">Watch and Amazfit watch App will Remove the Bound UnionPay Card. The Watch will Retain the Payment Function of the Transportation Card.</string>
-    <string name="reset_factory_positive">Reposição de fábrica</string>
+    <string name="reset_factory_positive">Restauração de fábrica</string>
     <string name="reset_factory_negative">Cancelar</string>
     <string name="reset_factory_fail_title">Redefinição de Fábrica sem sucesso</string>
     <string name="reset_factory_fail_msg">If the UnionPay Card Is Not Successfully Removed, Please Try Again.</string>
@@ -326,7 +326,7 @@ kg"</string>
     <string name="reset_factory_bank_title">Please Remove the UnionPay Card at First</string>
     <string name="reset_factory_bank_msg">"If Reset the Watch without Removing the UnionPay Card, It will Cause the UnionPay Card: 
  1. Cannot be Removed from the Watch, Occupying Chip Space;  2. Cannot Use the Payment Function in the Watch;  3. Cannot Be Bound by Other Devices; For Payment Security, Please First Remove the UnionPay Card from Amazfit Watch App."</string>
-    <string name="reset_factory_bank_yes">Continue Factory Reset</string>
+    <string name="reset_factory_bank_yes">Continuar para Definições de Fábrica</string>
     <string name="reset_factory_bank_no">Cancelar</string>
     <string name="reset_factory_bank_msg_again">The Watch Will Disconnect from Your Mobile Phone and Delete All Data in the Watch. After the Watch Is Re-bound, the Currently Opened Transportation Card Can Continue to Be Used.</string>
     <string name="lockpassword_confirm_your_pattern_header">Confirme o seu padrão</string>
