@@ -37,7 +37,7 @@
     <string name="hbeacon_on">Habilitado</string>
     <string name="hbeacon_off">Desabilitado</string>
     <string name="hbeacon_on_confirm_message">"Clique em Ok para ativar a função HBeacon para reduzir um pouco a vida útil da bateria do relógio. Você precisa refazer a conexão com seu telefone, depois que o relógio for reiniciado automaticamente."</string>
-    <string name="hbeacon_off_confirm_message">Click Ok to disable HBeacon function. You need to re-match your phone with the watch after the watch is automatically restarted.</string>
+    <string name="hbeacon_off_confirm_message">Clique em Ok para desativar a função HBeacon. Você precisa reconectar seu telefone com o relógio, depois que o relógio for reiniciado automaticamente.</string>
     <string name="saving_data">Salvando dados</string>
     <string name="upload_data">Enviar dados</string>
     <string name="upload_success">Sucesso</string>
@@ -45,5 +45,5 @@
     <string name="air_mode_alert_title">Falha ao conectar</string>
     <string name="air_mode_alert_message">Por favor, conecte-se novamente após desativar o modo avião</string>
     <string name="report_sensor_capture_dialog_title">Coleção de dados de movimento</string>
-    <string name="report_sensor_capture_dialog_desc">When the motion data collection is turned on, we will collect the original information from the sensor after the motion starts, and stop the collection immediately after the motion ends. These data will be submitted together with your feedbacks on watch problems to the server for analysis of our after-sales personnel. In this process, the logs generated on the watch will be automatically collected and uploaded. These logs will be used for problems analysis only rather than for other purposes, and will be destroyed immediately after analysis. In the whole process, we will comply with our privacy policies. See privacy policies in Amazfit watch App for details.</string>
+    <string name="report_sensor_capture_dialog_desc">Em caso de erro de dados e status anormal do relógio, você pode enviar os dados para o nosso servidor através da função de feedback de problemas para análise do nosso pessoal pós-venda. Neste processo, os logs gerados no relógio serão automaticamente coletados e enviados. Esses logs serão usados para análise de problemas apenas para outros fins, e serão destruídos imediatamente após a análise. Em todo o processo, nós iremos cumprir nossas políticas de privacidade. Veja as políticas de privacidade no Amazfit watch App para mais detalhes.</string>
 </resources>
