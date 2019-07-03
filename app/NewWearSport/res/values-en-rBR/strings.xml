@@ -8,10 +8,10 @@
     <string name="auto_recoginition_continue_run">Continuar Corrida</string>
     <string name="auto_recoginition_continue_walk">Continuar Caminhada</string>
     <string name="auto_recoginition_continue_indoor_run">Continue Running Indoors</string>
-    <string name="auto_recoginition_other_sport">Other Motion Modes</string>
-    <string name="auto_recoginition_not_remind">No More Reminders Today</string>
-    <string name="auto_recoginition_save">Save</string>
-    <string name="auto_recoginition_end_title">It Is Detected that You Have Stopped the Motion, Save Or Not?</string>
+    <string name="auto_recoginition_other_sport">Outros modos de movimento</string>
+    <string name="auto_recoginition_not_remind">Não há mais lembretes hoje</string>
+    <string name="auto_recoginition_save">Salvar</string>
+    <string name="auto_recoginition_end_title">Foi detectado que você parou o movimento, salvar ou não?</string>
     <string name="crossing_title">Trilha</string>
     <string name="crossing_end_sport">Encerre a trilha primeiro</string>
     <string name="crossing_in_progress">Trilha...</string>
@@ -198,8 +198,8 @@
     <string name="sport_main_percent">%</string>
     <string name="unit_cadence">rpm</string>
     <string name="sport_main_heart_info_title">Pulso</string>
-    <string name="sport_main_beyond_heart_info_title">Beyond heart rate</string>
-    <string name="sport_main_beyond_heart_info_remind">Beyond heart rate</string>
+    <string name="sport_main_beyond_heart_info_title">Além da taxa cardíaca</string>
+    <string name="sport_main_beyond_heart_info_remind">Além da taxa cardíaca</string>
     <string name="sport_main_pace_info_title">Ritmo</string>
     <string name="heartrate_x_axis_time_format">HH:mm:ss</string>
     <string name="lap_title">Volta %1$d</string>
@@ -498,13 +498,13 @@
     <string name="first_beat_remind_txt_01">Este é um bom ritmo。</string>
     <string name="first_beat_remind_txt_02">Este é um bom ritmo.mais minutos para mantê-lo em forma。</string>
     <string name="sport_history_recovery_remind">Recovery exercises can be performed to ease the damage to the body before it is fully recovered</string>
-    <string name="daily_propermance_has_no_data">No data detected</string>
+    <string name="daily_propermance_has_no_data">Não foram encontrados dados</string>
     <string name="first_beat_help_title_vo2_max">Maximum oxygen uptake</string>
     <string name="first_beat_help_title_train_efffect">Training effect TE</string>
     <string name="first_beat_help_title_train_load">Training load</string>
     <string name="first_beat_help_title_sport_target_or_real_time_guide">Recommended running target&amp; real-time instruction</string>
-    <string name="first_beat_help_title_daily_perpormence">Performance status</string>
-    <string name="first_beat_help_title_recovery_time">Time for full recovery</string>
+    <string name="first_beat_help_title_daily_perpormence">Status de desempenho</string>
+    <string name="first_beat_help_title_recovery_time">Tempo para recuperação completa</string>
     <string name="first_beat_help_vo2_max">&lt;font color=#00FF00&gt;What’s this？&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Maximum oxygen uptake (VO2max) refers to the oxygen uptake when the human body is performing exercise under maximum intensity, and it is an important index to the aerobic capacity. As one of the important reference data for endurance athletes, high maximal oxygen uptake is the foundation of high aerobic capacity. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Maximum oxygen uptake is relatively individualized, with different reference standards for different gender and age. The watch will evaluate your athletic ability based on your personal information, heart rate and speed generated during training, and will change with your athletic ability. Of course, everyone has a ceiling of their own maximum oxygen uptake, which depends the individual body. &lt;br/&gt;&lt;font color=#00FF00&gt;How to obtain it？&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 1. Enter accurate personal information in the Amazfit watch App; &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 2. Wear the watch for at least 10 minutes of outdoor running, and to generate heart rate values and reach the maximum heart rate of 75%; &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 3. After running, you can check your current maximum oxygen uptake level through the training record function of the watch or personal status page in the Amazfit watch App. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;(More instructions on maximum oxygen uptake can be found in the help page of the Amazfit watch App.)&lt;/small&gt;</string>
     <string name="first_beat_help_te">&lt;font color=#00FF00&gt;What’s this？&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Training effect (hereinafter referred to as TE) is an index to measure the improvement effect of one training to aerobic capacity. TE score will continuously accumulate staring with 0.0 as you starting training with the watch. The score interval is 0.0-5.0, with different score interval representing different effects. The higher the score is, the higher the training intensity is, and the greater the stress on the body. However, it also means that the effect of this training is better. Of course, when TE reaches 5.0, you shall pay attention to whether the body is overloaded. &lt;br/&gt;&lt;font color=#00FF00&gt;How to obtain it？&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; The TE score may be evaluated based on your personal information, heart rate and speed during training. A lower TE score does not mean that you have a problem with your training, and only means that this training is relatively easy and has no significant effect on improving your aerobic capacity (for example, you jog for an hour, the TE score will still be low). &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; The watch will present the TE score after the training and provide relevant evaluation or suggestions. Meanwhile, it also provides real-time TE for the runners who need to adjust their status during running. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;(More instructions on TE can be found in the help page of the Amazfit watch App.)&lt;/small&gt;</string>
     <string name="first_beat_help_train_load">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; The watch will calculate the corresponding training load score based on the EPOC (excess post exercise oxygen consumption) you have generated in the past 7 days, so as to evaluate your amount of exercise. You can adjust your next training schedule based on recommendations in interval your score is in. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;(More instructions on training load can be found in the help page of the Amazfit watch App.)&lt;/small&gt;</string>
@@ -609,7 +609,7 @@
     <string name="real_time_guide_title_33">Se acalme!</string>
     <string name="real_time_guide_title_34">Desacelere!</string>
     <string name="real_time_guide_title_35">Se acalme!</string>
-    <string name="real_time_guide_desc_1">Come on! Very good!</string>
+    <string name="real_time_guide_desc_1">Vamos! Muito bem!</string>
     <string name="real_time_guide_desc_2">Mais %1$s minutos para mantê-lo em forma</string>
     <string name="real_time_guide_desc_3">Accelerate! Strive for better results!</string>
     <string name="real_time_guide_desc_6">Mais %1$s minutos irão melhorar sua forma física.</string>
@@ -627,7 +627,7 @@
     <string name="real_time_guide_desc_32">Capacidade cardiopulmonar a melhorar!</string>
     <string name="real_time_guide_desc_33">Este exercício pode ter sido muito difícil para o seu corpo.</string>
     <string name="real_time_guide_desc_34">O intervalo de frequência cardíaca alvo é %1$s-%2$s bpm!</string>
-    <string name="real_time_guide_desc_35">Time to relax!</string>
+    <string name="real_time_guide_desc_35">Hora de relaxar!</string>
     <string name="aleary_finish_group">Group No. %1$s Has Been Completed</string>
     <string name="this_group_count">Group Counting</string>
     <string name="group_cost_time">Group Time</string>
@@ -661,8 +661,8 @@
     <string name="rope_skip_this_frequency">Frequency of the Group</string>
     <string name="rope_skip_aleary_group"><Data>Have Completed No. &lt;font color=#00ff00&gt;%1$s&lt;/font&gt; Group</Data></string>
     <string name="sport_remind_total_times">Total Times :  %1$s Times</string>
-    <string name="sport_main_graph_title_rope_skip">Nearest (s)</string>
-    <string name="sport_rope_skip_requency">Frequency(Times/Minute))</string>
+    <string name="sport_main_graph_title_rope_skip">Mais próximo (s)</string>
+    <string name="sport_rope_skip_requency">Frequência(Times/Minuto))</string>
     <string name="swim_total_trips_times">Total Trips : %1$s Times</string>
     <string name="route_glevation_gain">Ganho de Elev.</string>
     <string name="route_scale_enlarge">Prolongar</string>
@@ -680,7 +680,7 @@
     <string name="hard_cardio">Cardio difícil</string>
     <string name="very_hard_cardio">Cardio bem pesado</string>
     <string name="running_cost_time_desc">Tempo</string>
-    <string name="running_distance_desc">Distance</string>
+    <string name="running_distance_desc">Distância</string>
     <string name="running_pace_desc">Ritmo</string>
     <string name="running_avg_pace_desc">Ritmo MÉD.</string>
     <string name="running_heartrate_desc">Pulso</string>
