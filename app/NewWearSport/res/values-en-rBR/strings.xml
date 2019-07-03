@@ -7,7 +7,7 @@
     <string name="auto_recoginition_sub_title">Continuar atividade ou não?</string>
     <string name="auto_recoginition_continue_run">Continuar Corrida</string>
     <string name="auto_recoginition_continue_walk">Continuar Caminhada</string>
-    <string name="auto_recoginition_continue_indoor_run">Continue Running Indoors</string>
+    <string name="auto_recoginition_continue_indoor_run">Continue correndo na Esteira</string>
     <string name="auto_recoginition_other_sport">Outros modos de movimento</string>
     <string name="auto_recoginition_not_remind">Não há mais lembretes hoje</string>
     <string name="auto_recoginition_save">Salvar</string>
@@ -138,8 +138,8 @@
     <string name="settings_sport_lap_auto_remind">Alerta de Volta automático</string>
     <string name="settings_sport_target_TE">Meta TE</string>
     <string name="settings_sport_swim_length">Comprimento da pista</string>
-    <string name="settings_sport_swim_title">泳道长度(米)</string>
-    <string name="settings_sport_swim_tips">系统会依据该数据记圈</string>
+    <string name="settings_sport_swim_title">Comprimento da pista (m)</string>
+    <string name="settings_sport_swim_tips">O sistema irá circular de acordo com os dados</string>
     <string name="settings_sport_measure_heart">PPG Liga/Desliga</string>
     <string name="settings_sport_rt_guide">Orientação</string>
     <string name="settings_sport_auto_pace_title">Pausa no ritmo</string>
@@ -152,8 +152,8 @@
     <string name="setting_off">Desligado</string>
     <string name="settings_item_title_target_calorie_remind">Meta de calorias</string>
     <string name="settings_item_value_target_calorie">%1$dkCal</string>
-    <string name="settings_item_value_swim_length">%1$s米</string>
-    <string name="settings_item_value_swim_length_imperial">%1$s feet</string>
+    <string name="settings_item_value_swim_length">%1$s metro</string>
+    <string name="settings_item_value_swim_length_imperial">%1$s pés</string>
     <string name="settings_cal_unit">kCal</string>
     <string name="setting_auto_pause_speed">&lt;%1$s km/h</string>
     <string name="setting_auto_pause_pace">quando mais lento que %1$s</string>
@@ -176,8 +176,8 @@
     <string name="sport_setting_te_stage_content">TE%1$s %2$sm</string>
     <string name="history_pace_graph_desc">Ritmo(min/km)</string>
     <string name="history_pace_graph_desc_imperial">Ritmo(min/mi)</string>
-    <string name="history_swim_pace_graph_desc">配速(分/百米)</string>
-    <string name="history_swim_pace_graph_desc_imperial">配速(分/百英尺)</string>
+    <string name="history_swim_pace_graph_desc">Velocidade (minutos / 100 metros)</string>
+    <string name="history_swim_pace_graph_desc_imperial">Velocidade (minutos / 100 pés)</string>
     <string name="history_swim_pace_graph_desc_yd">配速(分/百码)</string>
     <string name="history_speed_graph_desc">Velocidade(km/h)</string>
     <string name="history_speed_graph_desc_imperial">Velocidade (mph)</string>
