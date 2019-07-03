@@ -23,12 +23,12 @@
     <string name="pbap_authentication_timeout_message">There was a timeout to input session key with %1$s</string>
     <string name="connect">Connect pbap</string>
     <string name="pbap_ui">Contatos</string>
-    <string name="call_ui">marcar</string>
+    <string name="call_ui">discar</string>
     <string name="getpbap">Puxe Contatos</string>
     <string name="getcallhis">Pull call record</string>
     <string name="s_accept">Aceitar</string>
     <string name="s_reject">Rejeitar</string>
-    <string name="s_dail">marcar</string>
+    <string name="s_dail">discar</string>
     <string name="s_contacts">Contatos</string>
     <string name="s_call_panel">Discar</string>
     <string name="s_recent_call">Chamadas recentes</string>
@@ -68,7 +68,7 @@
     <string name="s_clear_call_log_cancel">Não</string>
     <string name="s_deleting">Excluindo...</string>
     <string name="s_other_device_accept">Other equipment answering</string>
-    <string name="s_call_in">Incoming</string>
+    <string name="s_call_in">Recebido</string>
     <string name="s_call_out">Outgoing</string>
     <string name="s_call_miss">Chamadas perdidas</string>
     <string name="s_call_in_warn_shake">Alerta de chamada</string>
@@ -77,7 +77,7 @@
     <string name="s_call_in_ring">Toque</string>
     <string name="s_clear_call_record">Limpar histórico de chamadas</string>
     <string name="already_open">Ligado</string>
-    <string name="already_close">Off</string>
+    <string name="already_close">Desligado</string>
     <string name="nokia_tune">Classic ring %1$d</string>
     <string name="electronic_ring_sound">Electronic ring %1$d</string>
     <string name="phonetic_sound">Electronic Music ring %1$d</string>
