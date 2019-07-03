@@ -328,7 +328,7 @@ kg"</string>
  1. Cannot be Removed from the Watch, Occupying Chip Space;  2. Cannot Use the Payment Function in the Watch;  3. Cannot Be Bound by Other Devices; For Payment Security, Please First Remove the UnionPay Card from Amazfit Watch App."</string>
     <string name="reset_factory_bank_yes">Continuar para Definições de Fábrica</string>
     <string name="reset_factory_bank_no">Cancelar</string>
-    <string name="reset_factory_bank_msg_again">The Watch Will Disconnect from Your Mobile Phone and Delete All Data in the Watch. After the Watch Is Re-bound, the Currently Opened Transportation Card Can Continue to Be Used.</string>
+    <string name="reset_factory_bank_msg_again">O relógio desconectará do seu celular e excluirá todos os dados do relógio. Depois que o relógio for sincronizado, o cartão de transporte atualmente aberto pode continuar a ser usado.</string>
     <string name="lockpassword_confirm_your_pattern_header">Confirme o seu padrão</string>
     <string name="lockpattern_need_to_unlock">Desenhe o padrão de desbloqueio</string>
     <string name="lockpattern_need_to_unlock_footer"></string>
@@ -388,37 +388,37 @@ kg"</string>
     <string name="volume_value">Volume adjustment</string>
     <string name="light_value">Brightness</string>
     <string name="light_auto_set">Auto</string>
-    <string name="light_auto_guide_title">Auto adjustment</string>
-    <string name="light_auto_guide_content">After Auto adjustment is on, move slider to fine tune the brightness coefficient, then the screen brightness will still change with the ambient brightness.</string>
-    <string name="light_auto_guide_ok">I know it</string>
-    <string name="watch_mode_title">Turn on watch mode</string>
-    <string name="watch_mode_message">"When turned on, the watch will only support time display, step counting and transportation card payment. 
- (When you turn it on, press and hold the physical key to exit this mode)"</string>
-    <string name="watch_mode_positive">Confirm turned on</string>
-    <string name="watch_mode_negative">Cancel</string>
+    <string name="light_auto_guide_title">Ajuste automático</string>
+    <string name="light_auto_guide_content">Após o ajuste automático ativado, mova o controle deslizante para ajustar o coeficiente de brilho, então o brilho da tela ainda mudará com o brilho ambiente.</string>
+    <string name="light_auto_guide_ok">Eu sei</string>
+    <string name="watch_mode_title">Ativar modo relógio</string>
+    <string name="watch_mode_message">"Quando ligado, o relógio só suportará exibição de tempo, contagem de passos e pagamento com cartão de cartão. 
+ (Quando você ligá-lo, pressione e segure a tecla física para sair deste modo)"</string>
+    <string name="watch_mode_positive">Confirmar ligado</string>
+    <string name="watch_mode_negative">Cancelar</string>
     <string name="replace_watchface">WatchFace</string>
     <string name="screen_refresh">Seconds hand</string>
     <string name="screen_refresh_on_string">Ligado</string>
     <string name="screen_refresh_off_string">Desligado</string>
     <string name="setting_regulatory_europe">Europa</string>
     <string name="setting_regulatory_us">U.S.</string>
-    <string name="setting_regulatory_canda">Canada</string>
-    <string name="setting_regulatory_russia">Russia</string>
-    <string name="setting_regulatory_japan">Japan</string>
+    <string name="setting_regulatory_canda">Canadá</string>
+    <string name="setting_regulatory_russia">Rússia</string>
+    <string name="setting_regulatory_japan">Japão</string>
     <string name="setting_regulation_desc_us">FCC ID:2AC8UA1811</string>
     <string name="setting_regulation_desc_canda">"IC:21806-A1811 
  ICAN ICE-3(B)/NMB-3(B)"</string>
-    <string name="setting_regulation_model_name">Model : %1$s</string>
+    <string name="setting_regulation_model_name">Modelo: %1$s</string>
     <string name="confirm_shutdown">Desligar?</string>
     <string name="confirm_reboot">Reiniciar?</string>
     <string name="app_name">Configurações do Relógio</string>
     <string name="lab_desc">Coletar parte das ferramentas de depuração</string>
-    <string name="unknown">Unknown device</string>
-    <string name="bind_tips_title">"Please bind 
- to protect your data more securely"</string>
+    <string name="unknown">Dispositivo desconhecido</string>
+    <string name="bind_tips_title">"Por favor, vincule 
+ para proteger seus dados de forma mais segura"</string>
     <string name="upgrade_checking">Verificando por atualização...</string>
     <string name="left_hand">Esquerda</string>
     <string name="right_hand">Direita</string>
-    <string name="voice_setvoice_set">声音</string>
-    <string name="device_name_huanghe">Amazfit智能运动手表</string>
+    <string name="voice_setvoice_set">Som</string>
+    <string name="device_name_huanghe">Amazfit Relógio esportivo inteligente</string>
 </resources>
