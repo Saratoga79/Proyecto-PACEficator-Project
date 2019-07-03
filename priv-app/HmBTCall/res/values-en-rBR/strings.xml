@@ -5,27 +5,27 @@
     <string name="dialpad_number_hint">Clique <small><sup>Re</sup></small>Discar para rediscar</string>
     <string name="dialpad_del">Apagar</string>
     <string name="dialpad_dial"><small><sup>Re</sup></small>Discar</string>
-    <string name="dialpad_memdial">Mem dial</string>
+    <string name="dialpad_memdial">Discagem de Mem</string>
     <string name="dialpad_dtmf">DTMF</string>
     <string name="msg_connection_success">O dispositivo foi conectado.</string>
     <string name="msg_disconnection_success">O dispositivo foi desconectado.</string>
     <string name="hfptest_result_ok_text">OK</string>
     <string name="hfptest_result_error_text">Erro</string>
-    <string name="hfptest_result_no_carrier_text">Error: no carrier</string>
+    <string name="hfptest_result_no_carrier_text">Erro: sem resposta</string>
     <string name="hfptest_result_busy_text">Erro: ocupado</string>
     <string name="hfptest_result_no_answer_text">Erro: sem resposta</string>
     <string name="hfptest_result_delayed_text">Erro: atrasado</string>
     <string name="hfptest_result_blacklisted_text">Erro: lista negra</string>
-    <string name="hfptest_result_cme_text">Error: CME</string>
+    <string name="hfptest_result_cme_text">Erro: CME</string>
     <string name="hfptest_call_state_unknown_text">Desconhecido</string>
-    <string name="pbap_session_key_dialog_header">OBEX session key required</string>
+    <string name="pbap_session_key_dialog_header">Chave de sessão Bluetooth necessária</string>
     <string name="pbap_session_key_dialog_title">Digite a chave de sessão para %1$s</string>
-    <string name="pbap_authentication_timeout_message">There was a timeout to input session key with %1$s</string>
-    <string name="connect">Connect pbap</string>
+    <string name="pbap_authentication_timeout_message">Tempo limite atingido para inserir a chave de sessão com %1$s</string>
+    <string name="connect">Conectar pbap</string>
     <string name="pbap_ui">Contatos</string>
     <string name="call_ui">discar</string>
-    <string name="getpbap">Puxe Contatos</string>
-    <string name="getcallhis">Pull call record</string>
+    <string name="getpbap">Puxar contatos</string>
+    <string name="getcallhis">Puxe o registro de chamadas</string>
     <string name="s_accept">Aceitar</string>
     <string name="s_reject">Rejeitar</string>
     <string name="s_dail">discar</string>
@@ -51,29 +51,29 @@
     <string name="s_no_recent_call_data">Nenhum registro de chamadas do relógio para receber</string>
     <string name="s_pair_tip_title">Por favor, emparelhe o telefone primeiro</string>
     <string name="s_pair_tip_subtitle">Como parear?</string>
-    <string name="s_pair_tip_content">Please pair the Bluetooth phone function in the [Watch Device Page] &gt; [Application Settings] &gt; [Phone] of the Amazfit Watch App.</string>
+    <string name="s_pair_tip_content">Por favor, emparelhe o Bluetooth do telefone na [página do dispositivo de assistência] &gt; [Configurações de Aplicativo] &gt; [Phone] do aplicativo Amazfit Watch.</string>
     <string name="s_dial_not_available_title">Não é possível fazer chamadas</string>
-    <string name="s_dail_not_avaliable_content">"Please check the following questions and try again：
- 1、Whether the mobile phone Bluetooth is turned on. If it is not turned on, please turn on the phone Bluetooth first.
- 2、Whether the mobile phone is connected to other Bluetooth headsets, car speakers and other devices. If other devices are connected, turn off the device.
- 3、The watch needs to be near the phone."</string>
-    <string name="s_dail_not_available_air_plane">Não foi possível usar o telefone Bluetooth, por favor saia do modo de voo primeiro</string>
+    <string name="s_dail_not_avaliable_content">"Por favor, verifique as seguintes questões e tente novamente：
+ 、Se o Bluetooth do telefone está ligado. Se não estiver ligado, ative o Bluetooth do telefone primeiro.
+ 、Se o telefone está conectado a outros fones de ouvido Bluetooth, auto falantes de automóveis e outros dispositivos. Se outros dispositivos estiverem conectados, desative o dispositivo.
+ 、O relógio precisa estar perto do telefone."</string>
+    <string name="s_dail_not_available_air_plane">Não foi possível usar o Bluetooth do telefone, por favor saia do modo de avião</string>
     <string name="s_got_it">Eu sei</string>
     <string name="s_phone_call">Telefone</string>
     <string name="s_max_volume_toast">Volume máximo já está definido</string>
     <string name="s_ring_title">Toque</string>
     <string name="s_contact_syncing">Sincronizando contatos...</string>
-    <string name="s_clear_call_log_content">Will clear the call history of the watch, whether to continue?</string>
+    <string name="s_clear_call_log_content">Limpará o histórico de chamadas do relógio, deseja continuar?</string>
     <string name="s_clear_call_log_confirm">Vazio</string>
     <string name="s_clear_call_log_cancel">Não</string>
     <string name="s_deleting">Excluindo...</string>
-    <string name="s_other_device_accept">Other equipment answering</string>
+    <string name="s_other_device_accept">Outro equipamento respondendo</string>
     <string name="s_call_in">Recebido</string>
-    <string name="s_call_out">Outgoing</string>
+    <string name="s_call_out">Saída</string>
     <string name="s_call_miss">Chamadas perdidas</string>
     <string name="s_call_in_warn_shake">Alerta de chamada</string>
-    <string name="s_call_in_warn_ring">Call reminder ringtone</string>
-    <string name="s_bt_call_func">Bluetooth phone function</string>
+    <string name="s_call_in_warn_ring">Toque do lembrete</string>
+    <string name="s_bt_call_func">Função Bluetooth do telefone</string>
     <string name="s_call_in_ring">Toque</string>
     <string name="s_clear_call_record">Limpar histórico de chamadas</string>
     <string name="already_open">Ligado</string>
