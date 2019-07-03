@@ -44,7 +44,7 @@
     <string name="error_weather_outofbound">Só posso dar-lhe a previsão para os próximos 4 dias.</string>
     <string name="alarm_timer_outofbound">"I can't a timer for more than 24 hours."</string>
     <string name="alarm_timer_alreadyhas">"There's a timer running at the moment. Turn it off to start a new one."</string>
-    <string name="alarm_timer_alreadydelete">I turned the timer off.</string>
+    <string name="alarm_timer_alreadydelete">Eu desativei o temporizador.</string>
     <string name="alarm_timer_nonefordelete">No timers running at the moment.</string>
     <string name="alarm_timer_error">A server error occurred. Could you repeat that?</string>
     <string name="alarm_alarm_outofbound">"I can't set alarms for later than tomorrow."</string>
@@ -172,6 +172,6 @@ E complete a autorização de conta em [Profile] -[Contas de terceiros]."</strin
     <string name="huami_ice_not_connected">Unable to use voice assistant</string>
     <string name="weather">Weather</string>
     <string name="locale_title">Selecionar Lingua</string>
-    <string name="cancel">Cancel</string>
-    <string name="alexa_unable_use">Unable use</string>
+    <string name="cancel">Cancelar</string>
+    <string name="alexa_unable_use">Não foi possível usar</string>
 </resources>
