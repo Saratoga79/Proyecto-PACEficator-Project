@@ -178,7 +178,7 @@
     <string name="history_pace_graph_desc_imperial">Ritmo(min/mi)</string>
     <string name="history_swim_pace_graph_desc">Velocidade (minutos / 100 metros)</string>
     <string name="history_swim_pace_graph_desc_imperial">Velocidade (minutos / 100 pés)</string>
-    <string name="history_swim_pace_graph_desc_yd">配速(分/百码)</string>
+    <string name="history_swim_pace_graph_desc_yd">Velocidade (minutos / 100 metros)</string>
     <string name="history_speed_graph_desc">Velocidade(km/h)</string>
     <string name="history_speed_graph_desc_imperial">Velocidade (mph)</string>
     <string name="history_altitude_graph_desc">Altitude(m)</string>
@@ -255,15 +255,15 @@
     <string name="sport_history_recovery">Recuperação</string>
     <string name="sport_remind_pace_unit">/km</string>
     <string name="sport_lap_manual_current">Atual</string>
-    <string name="sport_lap_swim_length_time">%1$s米用时</string>
-    <string name="sport_lap_swim_length_time_imperial">%1$s码用时</string>
-    <string name="sport_swim_style">泳姿</string>
-    <string name="sport_swim_style_main">主泳姿</string>
-    <string name="swim_free_style">自由泳</string>
-    <string name="swim_medlyrelay">混合</string>
-    <string name="swim_breaststroke">蛙泳</string>
-    <string name="swim_backstroke">仰泳</string>
-    <string name="swim_butterfly">蝶泳</string>
+    <string name="sport_lap_swim_length_time">%1$sTempo do medidor</string>
+    <string name="sport_lap_swim_length_time_imperial">%1$sHora do código</string>
+    <string name="sport_swim_style">Postura de natação</string>
+    <string name="sport_swim_style_main">Figura principal</string>
+    <string name="swim_free_style">Freestyle</string>
+    <string name="swim_medlyrelay">Mix</string>
+    <string name="swim_breaststroke">Peito</string>
+    <string name="swim_backstroke">Costas</string>
+    <string name="swim_butterfly">Traço de borboleta</string>
     <string name="swim_stroke_unit">次/分</string>
     <string name="settings_item_title_km_remind_triathlon">Auto-pause</string>
     <string name="setting_sport_heart_region_remind_triathlon">Alerta Pulso</string>
@@ -272,7 +272,7 @@
     <string name="earphone_conn_title">Fones de ouvido</string>
     <string name="device_in">Dispositivo Conectado</string>
     <string name="device_out">Dispositivo Desconectado</string>
-    <string name="history_swim_exchange_title">骑行换项用时</string>
+    <string name="history_swim_exchange_title">Tempo de mudança de ciclismo</string>
     <string name="history_riding_exchange_title">Transição para Corrida</string>
     <string name="sport_pause_time_tips">Tempo de Pausa</string>
     <string name="sport_stride_unit">cm</string>
@@ -283,7 +283,7 @@
 "</string>
     <string name="exchange_prepare_riding">Próximo: Ciclismo</string>
     <string name="exchange_prepare_running">Próximo: Corrida</string>
-    <string name="count_down_swim_tint">为防止误触,即将锁屏</string>
+    <string name="count_down_swim_tint">Para evitar toques acidentais, a tela será bloqueada</string>
     <string name="sport_widget_title_history_record">Atividades</string>
     <string name="sport_widget_title_elliptical">Treinador Elíptico</string>
     <string name="sport_widget_title_indoor_swim">泳池游泳</string>
@@ -315,17 +315,17 @@
     <string name="swim_trips">Viagem</string>
     <string name="target_swim_trips">目标趟数</string>
     <string name="swim_total_trips">总趟数</string>
-    <string name="swim_stroke">划水</string>
+    <string name="swim_stroke">Remando</string>
     <string name="swim_stroke_times">Número total de vezes</string>
     <string name="swim_avg_dps">Dps médio (distância de curso único)</string>
     <string name="swim_swolf">Índice de eficiência Swolf</string>
     <string name="swim_swolf_unit">(calculado por %1$s metros)</string>
     <string name="swim_swolf_unit_default">(calculado por hm)</string>
-    <string name="swim_swolf_unit_yd">(按%1$s码计算)</string>
+    <string name="swim_swolf_unit_yd">(calculado por %1$s metros)</string>
     <string name="swim_swolf_unit_default_yd">(calculated by 100 yds</string>
-    <string name="swim_pace">配速</string>
-    <string name="swim_pace_unit">/百米</string>
-    <string name="swim_pace_unit_imperial">/100 feet</string>
+    <string name="swim_pace">Velocidade</string>
+    <string name="swim_pace_unit">/ 100 metros</string>
+    <string name="swim_pace_unit_imperial">/%1$s pés</string>
     <string name="swim_trips_unit">(%1$d por página)</string>
     <string name="swim_trips_unit_yd">(%1$d código por)</string>
     <string name="heart_region_title">Faixa de Pulso</string>
@@ -445,9 +445,8 @@
     <string name="modify_big_dis_regain">Alterar</string>
     <string name="modify_big_dis_confirm">Confirmar a calibração</string>
     <string name="re_modify_dis">Recalibração</string>
-    <string name="re_modify_dis_tips">"1. Calibration with a mileage greater than 0.5 km allows the watch to learn your running habits and make the running mileage more accurate. 
-2. If you have performed multiple calibrations but are still not satisfied with the mileage results, you can recalibrate. 
-3. Recalibration will delete all previous calibration records."</string>
+    <string name="re_modify_dis_tips">"1. Calibração com uma distância maior que 0.5 km permite que o relógio aprenda seus hábitos de funcionamento e torne a faixa de operação mais precisa. 
+2. Se você tiver feito múltiplas calibrações mas ainda não estão satisfeitos com os resultados da distância, você pode recalibrar.. A Recalculação irá excluir todos os registros anteriores de calibração."</string>
     <string name="give_up_re_modify_dis">Desistir</string>
     <string name="confirm_re_modify_dis">Comfirmar</string>
     <string name="re_modify_dis_successful">Recalibração bem-sucedida</string>
@@ -491,7 +490,7 @@
     <string name="sport_target_remind_desc_01">O relógio recomendará o melhor método de treinamento para você combinando com seu desempenho passado.</string>
     <string name="sport_te_desc_level_01">This training has no effect on improving aerobic capacity.</string>
     <string name="sport_te_desc_level_02">The training effect is weak. This intensity is helpful for improving training tolerance and is also suitable for post-exercise recovery training.</string>
-    <string name="sport_te_desc_level_03">The training effect is moderate, which is helpful to maintain aerobic capacity.</string>
+    <string name="sport_te_desc_level_03">O efeito de treinamento é moderado, o que é útil para manter a capacidade aeróbica.</string>
     <string name="sport_te_desc_level_04">The training effect is good, which is helpful to improve aerobic capacity.</string>
     <string name="sport_te_desc_level_05">The training effect is excellent, which can effectively improve cardiorespiratory capacity and aerobic capacity.</string>
     <string name="sport_te_desc_level_06">The training intensity has exceeded the body load. Non-professional personnel shall do well in recovery after training.</string>
@@ -594,9 +593,9 @@
     <string name="real_time_guide_title_2">Mantenha o ritmo!</string>
     <string name="real_time_guide_title_3">"Aumente o ritmo para resultados eficazes!"</string>
     <string name="real_time_guide_title_6">Bom ritmo！</string>
-    <string name="real_time_guide_title_7">"Increase the pace for more effective results!"</string>
+    <string name="real_time_guide_title_7">"Aumente o ritmo para resultados eficazes!"</string>
     <string name="real_time_guide_title_10">Bom ritmo！</string>
-    <string name="real_time_guide_title_11">"Increase the pace for more effective results!"</string>
+    <string name="real_time_guide_title_11">"Aumente o ritmo para resultados eficazes!"</string>
     <string name="real_time_guide_title_14">Muito bem!</string>
     <string name="real_time_guide_title_22">Bom ritmo！</string>
     <string name="real_time_guide_title_25">Aumentar o ritmo.</string>
@@ -616,7 +615,7 @@
     <string name="real_time_guide_desc_7">Acelere! Esforce-se por melhores resultados!</string>
     <string name="real_time_guide_desc_10">Mais %1$s minutos para um efeito muito bom em sua aptidão.</string>
     <string name="real_time_guide_desc_11">Acelere! Para alcançar melhores resultados de exercício</string>
-    <string name="real_time_guide_desc_26">Come on! Run faster</string>
+    <string name="real_time_guide_desc_26">Vamos! Corra mais rápido</string>
     <string name="real_time_guide_desc_14">Você já completou um treino muito bom!</string>
     <string name="real_time_guide_desc_22">%1$s minutos para alcançar seu objetivo!</string>
     <string name="real_time_guide_desc_25">O intervalo de frequência cardíaca alvo é %1$s-%2$sbpm。</string>
@@ -628,13 +627,13 @@
     <string name="real_time_guide_desc_33">Este exercício pode ter sido muito difícil para o seu corpo.</string>
     <string name="real_time_guide_desc_34">O intervalo de frequência cardíaca alvo é %1$s-%2$s bpm!</string>
     <string name="real_time_guide_desc_35">Hora de relaxar!</string>
-    <string name="aleary_finish_group">Group No. %1$s Has Been Completed</string>
-    <string name="this_group_count">Group Counting</string>
-    <string name="group_cost_time">Group Time</string>
-    <string name="group_frequency">Group Frequency</string>
+    <string name="aleary_finish_group">Grupo nº. %1$s foi concluído</string>
+    <string name="this_group_count">Contagem de Grupo</string>
+    <string name="group_cost_time">Hora do Grupo</string>
+    <string name="group_frequency">Frequência de Grupo</string>
     <string name="aleary_rest">Have Taken A Rest</string>
-    <string name="next_group">Next Group</string>
-    <string name="rope_skip_times">&gt;%1$s Time</string>
+    <string name="next_group">Próximo Grupo</string>
+    <string name="rope_skip_times">&gt;%1$s Hora</string>
     <string name="rope_skip_frequency">Frequência</string>
     <string name="rope_skip_currnet_frequency">Frequência atual</string>
     <string name="rope_skip_max_frequency">Frequência máxima</string>
@@ -656,14 +655,14 @@
     <string name="rope_total_count_remind_title">Contagem total foi concluída</string>
     <string name="rope_remind_test_time">2500</string>
     <string name="setting_rope_skip_total_count">Contagem total (pulos)</string>
-    <string name="sport_pause_normal_rope_skip_unit">Number of Rope Skipping</string>
-    <string name="sport_pause_last_min_times_reminder">The Number of Rope Skipping Is Too Less And Cannot Be Saved. Make Sure to End It?</string>
-    <string name="rope_skip_this_frequency">Frequency of the Group</string>
+    <string name="sport_pause_normal_rope_skip_unit">Número de Pular Corda</string>
+    <string name="sport_pause_last_min_times_reminder">O número de saltos de corda é muito pequeno e não pode ser salvo. Certeza de que quer acabar com isso?</string>
+    <string name="rope_skip_this_frequency">Frequência do Grupo</string>
     <string name="rope_skip_aleary_group"><Data>Have Completed No. &lt;font color=#00ff00&gt;%1$s&lt;/font&gt; Group</Data></string>
     <string name="sport_remind_total_times">Total de vezes:  %1$s⁣ vezes</string>
     <string name="sport_main_graph_title_rope_skip">Mais próximo(s)</string>
     <string name="sport_rope_skip_requency">Frequência(Tempo/Minuto))</string>
-    <string name="swim_total_trips_times">Total Trips : %1$s Times</string>
+    <string name="swim_total_trips_times">Total de vezes:  %1$s⁣ vezes</string>
     <string name="route_glevation_gain">Ganho de Elev.</string>
     <string name="route_scale_enlarge">Prolongar</string>
     <string name="route_scale_narrow">Limitar</string>
