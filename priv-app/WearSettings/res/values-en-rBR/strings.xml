@@ -82,14 +82,14 @@
     <string name="auto_upload">Sincronização automática</string>
     <string name="app_item_phone_anti_lost">Telefone anti perda</string>
     <string name="app_item_anti_lost_remind">Lembrete anti perda</string>
-    <string name="app_item_far_away_remind">Being far away from phone reminder</string>
+    <string name="app_item_far_away_remind">Estar longe de lembrete de telefone</string>
     <string name="remind_aleary_open">O lembrete foi habilitado.</string>
     <string name="phone_far_away_remind_to_you">O relógio irá alertá-lo quando você estiver longe do seu telefone.</string>
     <string name="dialog_confire">OK</string>
     <string name="auto_bg">Ativar a função de levantar o pulso para clarear o sincronismo da tela</string>
     <string name="auto_hint_title">Tempo para desligar a tela</string>
     <string name="voice">Ajuste do volume</string>
-    <string name="watch_mode">Watch Mode</string>
+    <string name="watch_mode">Modo Relógio</string>
     <string name="lock_screen_title">Tela de Bloqueio</string>
     <string name="lock_screen">Tela de Bloqueio</string>
     <string name="lock_screen_hand">Modo de tela desligada</string>
@@ -119,7 +119,7 @@
     <string name="auto_nodisturb">Não Perturbe automaticamente</string>
     <string name="nodisturb">Não perturbe</string>
     <string name="long_key_action">Pressione o botão e segure para abrir</string>
-    <string name="recombind">Rebinding</string>
+    <string name="recombind">Reformulando</string>
     <string name="vibration">Vibração</string>
     <string name="ring_vibration">Vibração de chamada</string>
     <string name="natification_vibration">Vibração de Notificação</string>
@@ -310,11 +310,10 @@ kg"</string>
     <string name="reset_factory_yes">Restauração de fábrica</string>
     <string name="reset_factory_no">Cancelar</string>
     <string name="reset_factory_title">Restauração de Fábrica</string>
-    <string name="reset_factory_noconnect_msg">"If Needing to Unbind the Watch, Please Operate Through Amazfit Watch App. 
- Watch’s Unilateral Factory Reset Will Remove UnionPay Card and Transportation Card. 
- A Removed UnionPay Card: It Can No Longer Be Bound to The Watch. If You Need to Bind Again, Please Consult the Bank Customer Service. 
- A Removed Transportation Card: Will Be Destroyed Permanently and Cannot Be Paid Again."</string>
-    <string name="reset_factory_conncet_msg">Watch and Amazfit watch App will Remove the Bound UnionPay Card. The Watch will Retain the Payment Function of the Transportation Card.</string>
+    <string name="reset_factory_noconnect_msg">"Se necessário desvincular o relógio, por favor, faça através do aplicativo Amazfit Watch.: a restauração Unilateral do Assistente irá remover o Cartão UnionPay e o Cartão de Transporte. 
+ Um Cartão Removido UnionPay: Não pode mais ser vinculado ao relógio. Se você precisar vincular novamente, consulte o Atendimento ao Banco.
+ Um Cartão de Transporte Removido: Irá ser Destruído permanentemente e não pode ser pago novamente."</string>
+    <string name="reset_factory_conncet_msg">O App Watch e o App Amazfit irão remover o Cartão de Remetente UnionPay. O relógio irá manter a função de pagamento do Cartão de Transporte.</string>
     <string name="reset_factory_positive">Restauração de fábrica</string>
     <string name="reset_factory_negative">Cancelar</string>
     <string name="reset_factory_fail_title">Redefinição de Fábrica sem sucesso</string>
