@@ -326,8 +326,8 @@
     <string name="swim_pace">配速</string>
     <string name="swim_pace_unit">/百米</string>
     <string name="swim_pace_unit_imperial">/100 feet</string>
-    <string name="swim_trips_unit">趟(每趟%1$d米)</string>
-    <string name="swim_trips_unit_yd">趟(每趟%1$d码)</string>
+    <string name="swim_trips_unit">(%1$d por página)</string>
+    <string name="swim_trips_unit_yd">(%1$d código por)</string>
     <string name="heart_region_title">Faixa de Pulso</string>
     <string name="heart_region_anaerobic＿limit">Máximo</string>
     <string name="heart_region_endurance_enhancement">Anaeróbico</string>
@@ -441,7 +441,7 @@
     <string name="lap_dis_title">Distância segmentada</string>
     <string name="back_to_continue_sport">Retornar</string>
     <string name="first_modify_tips">A calibragem com uma quilometragem superior a 0,5 km permite que o relógio aprenda seus hábitos de corrida e torne a quilometragem em operação mais precisa.</string>
-    <string name="modify_big_dis_tips">The calibration value %1$s is quite different from the measured value %2$s. Is the calibration confirmed?</string>
+    <string name="modify_big_dis_tips">O valor de calibração %1$s é bem diferente do valor medido %2$s. A calibração está correta?</string>
     <string name="modify_big_dis_regain">Alterar</string>
     <string name="modify_big_dis_confirm">Confirmar a calibração</string>
     <string name="re_modify_dis">Recalibração</string>
@@ -453,7 +453,7 @@
     <string name="re_modify_dis_successful">Recalibração bem-sucedida</string>
     <string name="lap_swim_stroke_speed_title">Taxa de acidente vascular cerebral</string>
     <string name="history_heart_rate_graph_desc">FC (bpm)</string>
-    <string name="huanghe_pause_continue_title">Movement operation</string>
+    <string name="huanghe_pause_continue_title">Operação de movimento</string>
     <string name="experience_title">Defina as informações pessoais, ou os dados terão um desvio grande</string>
     <string name="recovery_time_hour">Hora</string>
     <string name="sport_vo2_max">VO2max</string>
@@ -660,9 +660,9 @@
     <string name="sport_pause_last_min_times_reminder">The Number of Rope Skipping Is Too Less And Cannot Be Saved. Make Sure to End It?</string>
     <string name="rope_skip_this_frequency">Frequency of the Group</string>
     <string name="rope_skip_aleary_group"><Data>Have Completed No. &lt;font color=#00ff00&gt;%1$s&lt;/font&gt; Group</Data></string>
-    <string name="sport_remind_total_times">Total Times :  %1$s Times</string>
-    <string name="sport_main_graph_title_rope_skip">Mais próximo (s)</string>
-    <string name="sport_rope_skip_requency">Frequência(Times/Minuto))</string>
+    <string name="sport_remind_total_times">Total de vezes:  %1$s⁣ vezes</string>
+    <string name="sport_main_graph_title_rope_skip">Mais próximo(s)</string>
+    <string name="sport_rope_skip_requency">Frequência(Tempo/Minuto))</string>
     <string name="swim_total_trips_times">Total Trips : %1$s Times</string>
     <string name="route_glevation_gain">Ganho de Elev.</string>
     <string name="route_scale_enlarge">Prolongar</string>
@@ -762,7 +762,7 @@
     <string name="sport_history_item_cost_time_desc">Tempo</string>
     <string name="sport_history_total_distance_desc">Dist. Total</string>
     <string name="sport_history_header_total_count_desc">Tempos totais</string>
-    <string name="sport_history_header_calorie_desc">Total burned</string>
+    <string name="sport_history_header_calorie_desc">Total queimado</string>
     <string name="running_realtime_trail_desc">Rota GPS</string>
     <string name="title_activity_sport_history">SportHistoryActivity</string>
     <string name="history_heart_rate_desc">Pulso:</string>
