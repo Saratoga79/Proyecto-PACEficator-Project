@@ -264,7 +264,7 @@
     <string name="swim_breaststroke">Peito</string>
     <string name="swim_backstroke">Costas</string>
     <string name="swim_butterfly">Traço de borboleta</string>
-    <string name="swim_stroke_unit">次/分</string>
+    <string name="swim_stroke_unit">Horas / minuto</string>
     <string name="settings_item_title_km_remind_triathlon">Auto-pause</string>
     <string name="setting_sport_heart_region_remind_triathlon">Alerta Pulso</string>
     <string name="device_conn_title">MW</string>
@@ -310,11 +310,11 @@
     <string name="continue_sport">Continuar Atividade</string>
     <string name="stop_sport">Parar Atividade</string>
     <string name="swim_avg_stroke_speed">Taxa de traço médio</string>
-    <string name="settting_sport_gpx_route">Movement track</string>
+    <string name="settting_sport_gpx_route">Faixa de movimento</string>
     <string name="swim_max_stroke_speed">BPM Máx</string>
     <string name="swim_trips">Viagem</string>
-    <string name="target_swim_trips">目标趟数</string>
-    <string name="swim_total_trips">总趟数</string>
+    <string name="target_swim_trips">Número alvo</string>
+    <string name="swim_total_trips">Número total de turnos</string>
     <string name="swim_stroke">Remando</string>
     <string name="swim_stroke_times">Número total de vezes</string>
     <string name="swim_avg_dps">Dps médio (distância de curso único)</string>
@@ -322,7 +322,7 @@
     <string name="swim_swolf_unit">(calculado por %1$s metros)</string>
     <string name="swim_swolf_unit_default">(calculado por hm)</string>
     <string name="swim_swolf_unit_yd">(calculado por %1$s metros)</string>
-    <string name="swim_swolf_unit_default_yd">(calculated by 100 yds</string>
+    <string name="swim_swolf_unit_default_yd">(calculado por 100 jardas</string>
     <string name="swim_pace">Velocidade</string>
     <string name="swim_pace_unit">/ 100 metros</string>
     <string name="swim_pace_unit_imperial">/%1$s pés</string>
@@ -493,10 +493,10 @@
     <string name="sport_te_desc_level_03">O efeito de treinamento é moderado, o que é útil para manter a capacidade aeróbica.</string>
     <string name="sport_te_desc_level_04">O efeito de treinamento é bom, o que é útil para melhorar a capacidade aeróbica.</string>
     <string name="sport_te_desc_level_05">O efeito do treinamento é excelente, o que pode efetivamente melhorar a capacidade cardiorrespiratória e a capacidade aeróbica.</string>
-    <string name="sport_te_desc_level_06">The training intensity has exceeded the body load. Non-professional personnel shall do well in recovery after training.</string>
+    <string name="sport_te_desc_level_06">A intensidade de treinamento excedeu a carga corporal. O pessoal não profissional deve se recuperar após o treinamento.</string>
     <string name="first_beat_remind_txt_01">Este é um bom ritmo。</string>
     <string name="first_beat_remind_txt_02">Este é um bom ritmo.mais minutos para mantê-lo em forma。</string>
-    <string name="sport_history_recovery_remind">Recovery exercises can be performed to ease the damage to the body before it is fully recovered</string>
+    <string name="sport_history_recovery_remind">Exercícios de recuperação podem ser realizados para aliviar os danos ao corpo antes que ele seja totalmente recuperado</string>
     <string name="daily_propermance_has_no_data">Nenhum dado detectado</string>
     <string name="first_beat_help_title_vo2_max">Aumento máximo de oxigênio</string>
     <string name="first_beat_help_title_train_efffect">TE com efeito de treinamento</string>
