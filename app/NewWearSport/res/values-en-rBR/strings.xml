@@ -509,7 +509,7 @@
     <string name="first_beat_help_train_load">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; The watch will calculate the corresponding training load score based on the EPOC (excess post exercise oxygen consumption) you have generated in the past 7 days, so as to evaluate your amount of exercise. You can adjust your next training schedule based on recommendations in interval your score is in. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;(More instructions on training load can be found in the help page of the Amazfit watch App.)&lt;/small&gt;</string>
     <string name="first_beat_help_run_target_and_real_time_guide">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; The watch will recommend training target for you based on your recent performance. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; If real-time guidance is turned on in the training setting, the watch will prompt you how to adjust your speed and heart rate to better achieve the target when you set the training effect target or use the recommended target. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;small&gt;(More instructions can be found in the help page of the Amazfit watch App.)&lt;/small&gt;</string>
     <string name="first_beat_help_daily_perpormence">&lt;font color=#00FF00&gt;What’s this？&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Runners may in good or bad situation during running. Performance status helps to quantify your each running state. &lt;br/&gt;&lt;font color=#00FF00&gt;How to use it？&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; The watch will automatically evaluate your current performance status after 6 minutes since running. A positive value represents good status. Therefore, you are more likely to do well in running or racing. When it is a negative value, it is recommended not to run at high intensity and not to force yourself to run well. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; At the end of each running, you can analyze the run by looking at the score per mile in the performance chart . &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;(More instructions on performance status can be found in the help page of the Amazfit watch App.)&lt;/small&gt;</string>
-    <string name="first_beat_help_recovery_time">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; The watch will recommend the time for full recovery for each training based on the running results, which is proportional to the training intensity. Runners are not advised to have high-intensity training during recovery, and can do some restorative training to help the body recover. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;(More instructions on recovery time can be found in the help page of the Amazfit watch App.)&lt;/small&gt;</string>
+    <string name="first_beat_help_recovery_time">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; O relógio recomendará o tempo para recuperação total de cada treinamento com base nos resultados da corrida, o que é proporcional à intensidade do treinamento. Os corredores não são aconselhados a treinar de alta intensidade durante a recuperação, e podem fazer algum treinamento restaurativo para ajudar o corpo a se recuperar. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;(Mais instruções sobre o tempo de recuperação podem ser encontrado na página de ajuda do aplicativo de relógio da Amazfit.)&lt;/small&gt;</string>
     <string name="vo2max_unit">mg/kg/min</string>
     <string name="run_vo2max_unit">ml / kg / min</string>
     <string name="vo2_max_has_no_data">Sem dados</string>
@@ -631,7 +631,7 @@
     <string name="this_group_count">Contagem de Grupo</string>
     <string name="group_cost_time">Hora do Grupo</string>
     <string name="group_frequency">Frequência de Grupo</string>
-    <string name="aleary_rest">Have Taken A Rest</string>
+    <string name="aleary_rest">Ter tomado um descanso</string>
     <string name="next_group">Próximo Grupo</string>
     <string name="rope_skip_times">&gt;%1$s Hora</string>
     <string name="rope_skip_frequency">Frequência</string>
@@ -645,7 +645,7 @@
     <string name="rope_skip_this_group_average_frequency">Frequência Média do Grupo</string>
     <string name="rope_skip_group_total_rest_time">Tempo total de repouso entre grupos</string>
     <string name="total_counting">Contagens</string>
-    <string name="skiing_lap_rope_skip_title">Rope Skipping Grouping Details</string>
+    <string name="skiing_lap_rope_skip_title">Detalhes do agrupamento de salto de corda</string>
     <string name="setting_item_totla_count_reminder">Lembrete de contagem total</string>
     <string name="settings_sport_arrive_goal_reminder">Lembrete ao alcançar a meta</string>
     <string name="alert_skip_you_finish">Você completou</string>
@@ -658,7 +658,7 @@
     <string name="sport_pause_normal_rope_skip_unit">Número de Pular Corda</string>
     <string name="sport_pause_last_min_times_reminder">O número de saltos de corda é muito pequeno e não pode ser salvo. Certeza de que quer acabar com isso?</string>
     <string name="rope_skip_this_frequency">Frequência do Grupo</string>
-    <string name="rope_skip_aleary_group"><Data>Have Completed No. &lt;font color=#00ff00&gt;%1$s&lt;/font&gt; Group</Data></string>
+    <string name="rope_skip_aleary_group"><Data>Completou o Nº. &lt;font color=#00ff00&gt;%1$s&lt;/font&gt; Grupo</Data></string>
     <string name="sport_remind_total_times">Total de vezes:  %1$s⁣ vezes</string>
     <string name="sport_main_graph_title_rope_skip">Mais próximo(s)</string>
     <string name="sport_rope_skip_requency">Frequência(Tempo/Minuto))</string>
@@ -993,6 +993,6 @@ Conecte o relógio ao seu computador para copiar"</string>
     <string name="widget_currentstep_sleep_title">Sono</string>
     <string name="widget_currentstep_sleep_no">Sem dados de sono</string>
     <string name="widget_currentstep_activity_no">Sem exercícios hoje?</string>
-    <string name="sport_widget_title_on_foot">Trekking</string>
-    <string name="on_foot_progress">Trekking...</string>
+    <string name="sport_widget_title_on_foot">Caminhada</string>
+    <string name="on_foot_progress">Caminhada...</string>
 </resources>
