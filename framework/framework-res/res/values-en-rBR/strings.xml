@@ -9,8 +9,8 @@
     <string name="permlab_shutdown">Encerramento parcial</string>
     <string name="granularity_label_word">Palavra</string>
     <string name="factorytest_reboot">Reiniciar</string>
-    <string name="aerr_application">Lamentamos, o %1$s foi interrompido.</string>
-    <string name="aerr_process">Ocorreu um erro. O processo %1$s parou.</string>
+    <string name="aerr_application">Infelizmente, %1$s parou.</string>
+    <string name="aerr_process">Infelizmente, o processo %1$s parou.</string>
     <string name="anr_activity_application">"%2$s não está a responder. 
 
 Pretende fechá-la?"</string>
@@ -22,21 +22,21 @@ Pretende fechar?"</string>
 
 Pretende fechar?"</string>
     <string name="force_close">OK</string>
-    <string name="report">Denunciar</string>
-    <string name="wait">Esperar</string>
+    <string name="report">Reportar</string>
+    <string name="wait">Aguarde</string>
     <string name="android_upgrading_title">Atualizando...</string>
     <string name="android_start_title">A reiniciar...</string>
     <string name="android_upgrading_apk">" Otimizando o app %1$d de %2$d"</string>
     <string name="android_upgrading_starting_apps">A Iniciar...</string>
     <string name="android_upgrading_complete">Reinicialização quase concluída</string>
-    <string name="wifi_available_sign_in">Iniciar sessão na rede Wi-Fi</string>
-    <string name="wifi_watchdog_network_disabled">"Não foi possível ligar a Wi-Fi"</string>
+    <string name="wifi_available_sign_in">Entrar na rede Wi-Fi</string>
+    <string name="wifi_watchdog_network_disabled">"Não foi possível conectar-se ao Wi-Fi"</string>
     <string name="sim_restart_button">Reiniciar</string>
     <string name="back_button_label">Voltar</string>
     <string name="activity_resolver_use_always">Sempre</string>
     <string name="activity_resolver_use_once">Apenas uma vez</string>
-    <string name="whichApplication">Concluir ação utilizando</string>
-    <string name="whichApplicationNamed">Concluir acção utilizando %1$s</string>
+    <string name="whichApplication">Completar ação usando</string>
+    <string name="whichApplicationNamed">Completar ação usando %1$s</string>
     <string name="whichViewApplication">Abrir com</string>
     <string name="whichViewApplicationNamed">Abrir com %1$s</string>
 </resources>
