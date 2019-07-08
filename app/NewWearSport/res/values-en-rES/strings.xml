@@ -61,7 +61,7 @@
     <string name="remind_target_time_m_unit">m</string>
     <string name="remind_target_time_default_value">00</string>
     <string name="no_altitude_hint">Datos de altitud no detectados</string>
-    <string name="no_heartrate_data_hint">Datos de ritmo cardíaco no detectados</string>
+    <string name="no_heartrate_data_hint">Datos de RC no detectados</string>
     <string name="no_chart_data_hint">No diponible</string>
     <string name="not_speed_data">La velocidad es n/a</string>
     <string name="not_pace_data">El ritmo es n/a</string>
@@ -621,14 +621,14 @@ Los corredores pueden en una buena o mal estado. El estado de rendimiento puede 
     <string name="real_time_guide_desc_26">¡Vamos! Corre más rápido</string>
     <string name="real_time_guide_desc_14">¡Acabas de completar una gran rutina de ejercicio!</string>
     <string name="real_time_guide_desc_22">%1$s minutos para alcanzar tu objetivo</string>
-    <string name="real_time_guide_desc_25">El objetivo del rango de Freq. Cardíaca son %1$s-%2$s lat/min</string>
+    <string name="real_time_guide_desc_25">El objetivo del rango de RC es %1$s-%2$s lat/min</string>
     <string name="real_time_guide_desc_27">Has alcanzado tu on¡bjetivo</string>
     <string name="real_time_guide_desc_28">Has conseguido el %1$s de tu objetivo</string>
     <string name="real_time_guide_desc_30">Este tipo de ejercicio te mantendrá en forma</string>
     <string name="real_time_guide_desc_31">Este ejercicio es suficientemente intenso como para mejorar tu estado físico</string>
     <string name="real_time_guide_desc_32">¡Capacidad cardiopulmonar a mejorar!</string>
     <string name="real_time_guide_desc_33">Este ejercicio ha podido ser demasiado duro para tu cuerpo.</string>
-    <string name="real_time_guide_desc_34">El objetivo del rango de Freq. Cardíaca son %1$s-%2$s lat/min</string>
+    <string name="real_time_guide_desc_34">El objetivo del rango de RC es %1$s-%2$s lat/min</string>
     <string name="real_time_guide_desc_35">Hora de relajarse</string>
     <string name="aleary_finish_group">Grupo No. %1$s completado</string>
     <string name="this_group_count">Cuenta del grupo</string>
@@ -920,8 +920,8 @@ Los corredores pueden en una buena o mal estado. El estado de rendimiento puede 
     <string name="setting_sport_heart_region_text_aerobic">Aeróbica:</string>
     <string name="setting_sport_heart_region_text_high＿intensity_exercise">Intenso:</string>
     <string name="setting_sport_heart_region_text_custom">A medida</string>
-    <string name="remind_heart_rate_region_over">F. cardíaca muy alta</string>
-    <string name="remind_heart_rate_region_less">F. cardíaca muy baja</string>
+    <string name="remind_heart_rate_region_over">RC muy alto</string>
+    <string name="remind_heart_rate_region_less">RC muy bajo</string>
     <string name="remind_heart_rate_current_heart_rate">Actual　%1$d lat/min</string>
     <string name="sport_time_seconds">segundos</string>
     <string name="complete_training_project">El programa de formación se ha completado</string>
