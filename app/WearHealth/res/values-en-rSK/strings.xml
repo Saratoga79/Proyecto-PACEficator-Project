@@ -172,8 +172,8 @@
     <string name="widget_sleep_attained_unit">Skóre</string>
     <string name="widget_sleep_conment">Spánok je tento týždeň veľmi dobrý, len tak ďalej!</string>
     <string name="weeklysports_title">Týždenná aktivita</string>
-    <string name="weeklysports_totalnumber_front">Total Workout</string>
-    <string name="weeklysports_totalstep_front">Celkovo:</string>
+    <string name="weeklysports_totalnumber_front">Celkovo tréningov:</string>
+    <string name="weeklysports_totalstep_front">Chodenie</string>
     <string name="weeklysports_totaltime">Celkový uplynulý čas</string>
     <string name="weeklysports_totaltime_unit">/</string>
     <string name="weeklysports_totalcalories">Celkom kalorií</string>
@@ -181,11 +181,11 @@
     <string name="weeklysports_totalmileage">Celková vzdialenosť</string>
     <string name="weeklysports_totalmileage_unit_zh">km</string>
     <string name="weeklysports_totalmileage_unit_en">mi</string>
-    <string name="weeklysports_averageheart">Avg. heart rate</string>
+    <string name="weeklysports_averageheart">Priemerná srdcová frekvencia</string>
     <string name="weeklysports_averageheart_unit">bpm</string>
     <string name="weeklysports_runerrate">Bežecké tempo</string>
-    <string name="weeklysports_outdoorrunrate">Outdoor run avg. pace</string>
-    <string name="weeklysports_insiderunrate">Priem. tempo pri behu vonku</string>
+    <string name="weeklysports_outdoorrunrate">Vonkajší beh priem. tempo</string>
+    <string name="weeklysports_insiderunrate">Priem. tempo pri behu vnútri</string>
     <string name="weeklysports_crossrunrate">Priem. tempo pri terénnom behu</string>
     <string name="weeklysports_runerrate_unit_zh">/km</string>
     <string name="weeklysports_runerrate_unit_en">/mi</string>
@@ -195,8 +195,8 @@
     <string name="weeklysports_outdoorriding_unit_zh">km/h</string>
     <string name="weeklysports_outdoorriding_unit_en">mi/h</string>
     <string name="weeklysports_swimerrate">Plávanie</string>
-    <string name="weeklysports_innerswimrate">Plávanie  v bazéne</string>
-    <string name="weeklysports_openswimrate">Plávanie vonku</string>
+    <string name="weeklysports_innerswimrate">Plávanie v bazéne priem. tempo</string>
+    <string name="weeklysports_openswimrate">Plávanie vonku priem. tempo</string>
     <string name="weeklysports_triathlon">Triatlon</string>
     <string name="weeklysports_triathlon_totaltime">Celkový čas</string>
     <string name="weeklysports_triathlon_hour">h</string>
@@ -209,7 +209,7 @@
     <string name="weeklysports_riding">Bicykel</string>
     <string name="weekly_step_attained_rate">Dní na dosiahnutie cieľa počtu krokov</string>
     <string name="weekly_sports_notification_content">Zhrnutie aktivity za minulý týždeň je pripravené.</string>
-    <string name="weekly_sports_notification_action">Viac</string>
+    <string name="weekly_sports_notification_action">Klepnutím zobrazíte</string>
     <string name="weeklysports_date_format">dd.MM.yyyy</string>
     <string name="widget_currentstep_title">Denný prehľad</string>
     <string name="widget_currentstep_activities">"Profil pohybu"</string>
