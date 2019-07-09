@@ -88,7 +88,7 @@
     <string name="device_name_everest_oversea">Amazfit Stratos</string>
     <string name="device_name_everest_2s_oversea">Amazfit Stratos +</string>
     <string name="zh_cn">Chinês Mandarim</string>
-    <string name="en">English (U.S.)</string>
+    <string name="en">Inglês (U.S)</string>
     <string name="zh_hk">Traditional Chinese (Hong Kong)</string>
     <string name="zh_tw">Chinês (Tradicional)</string>
     <string name="ru_ru">Russo</string>
@@ -97,14 +97,14 @@
     <string name="it_it">Italiano</string>
     <string name="fr_fr">Francês</string>
     <string name="pl_pl">Polaco</string>
-    <string name="ko_kr">한국어</string>
+    <string name="ko_kr">Coreano (KO)</string>
     <string name="title_activity_long_sitting_time">LongSittingTimeActivity</string>
     <string name="paobu">Correr</string>
-    <string name="jianzou">Walking</string>
+    <string name="jianzou">Caminhada</string>
     <string name="yueye">Trilho</string>
     <string name="shineipao">Passadeira</string>
     <string name="huwaiqi">Ciclismo</string>
-    <string name="yongchiyou">Pool swimming</string>
+    <string name="yongchiyou">Natação em Piscina</string>
     <string name="gongkaiyou">Natação ao ar livre</string>
     <string name="tuoyuanji">Elíptica</string>
     <string name="dengshan">Escalar</string>
@@ -123,11 +123,11 @@
     <string name="mijia">Mi Home</string>
     <string name="zhinanzhen">bússola</string>
     <string name="yinyue">Música</string>
-    <string name="rebond_title">Pairing reminder</string>
-    <string name="rebond_desc_air_plane">Airplane mode of the watch is on, turn it off and try to pair again</string>
-    <string name="rebong_unbond_desc">Attention: You can only use this feature when the watch is unpaired from Amazfit Watch app, otherwise, the previously paired watch will be unpaired.</string>
-    <string name="rebond_go_on">Continue</string>
-    <string name="rebond_quit">Exit</string>
+    <string name="rebond_title">Lembrete de emparelhamento</string>
+    <string name="rebond_desc_air_plane">Modo avião do relógio está ativado, desative-o e tente emparelhar novamente</string>
+    <string name="rebong_unbond_desc">Atenção: Você só pode usar este recurso quando o relógio estiver desemparelhado da app Amazfit Watch, caso contrário, o relógio emparelhado anteriormente será desemparelhado.</string>
+    <string name="rebond_go_on">Continuar</string>
+    <string name="rebond_quit">Sair</string>
     <string name="report_bug_dialog_title">Feedback</string>
     <string name="report_bug_dialog_desc">Depois que um relógio tiver erros de dados, condições anormais, etc., você poderá fazer o upload de dados para o nosso servidor por meio da função de feedback da pergunta para análise pelo nosso pessoal de pós-venda. Durante esse processo, os registros gerados anteriormente no relógio serão coletados e enviados automaticamente. Esses logs são usados apenas para análise de problemas e não serão usados como outros meios e serão destruídos imediatamente após a análise. Todo o processo estará em conformidade com nossa política de privacidade. Para mais detalhes, consulte a política de privacidade no aplicativo Amazfit Watch.</string>
     <string name="dialog_agree">Aceito</string>
@@ -153,7 +153,7 @@
     <string name="build_desc">[DEBUG]Build description</string>
     <string name="lab">Lab</string>
     <string name="nothing">Vazio</string>
-    <string name="legal">"View the info in the "</string>
+    <string name="legal">"Ver as informações no "</string>
     <string name="legal2">Amazfit Watch App</string>
     <string name="device_name_default">Amazfit Watch</string>
     <string name="device_name_huanghe">Amazfit Sports Watch</string>
@@ -177,7 +177,7 @@
     <string name="auto_nodisturb_title_string">Auto no disturb</string>
     <string name="auto_nodisturb_start_time_string">Iniciar tempo</string>
     <string name="auto_nodisturb_end_time_string">Acabar tempo</string>
-    <string name="time_to">" to "</string>
+    <string name="time_to">" para "</string>
     <string name="auto_wifi_trans_on_string">Ligado</string>
     <string name="auto_wifi_trans_off_string">Desligar</string>
     <string name="blue_tooth_dev_in_sub_list">Bluetooth</string>
@@ -256,7 +256,7 @@ Nascimento"</string>
 cm"</string>
     <string name="weight_unit">"Peso
 kg"</string>
-    <string name="reset_factory_hint">Reset device?</string>
+    <string name="reset_factory_hint">Repor dispositivo?</string>
     <string name="time_zone">Zona de tempo</string>
     <string name="date">Data</string>
     <string name="time">Hora</string>
