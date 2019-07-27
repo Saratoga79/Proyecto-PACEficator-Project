@@ -451,40 +451,40 @@
     <string name="quire_app_list">Adquiriendo lista de Apps...</string>
     <string name="reboot">Reiniciar</string>
     <string name="recombind">Volver a vincular</string>
-    <string name="register_oper_error">The current mobile network is not available. Do you want to have the mobile network automatically selected?</string>
+    <string name="register_oper_error">La red móvil actual no está disponible. ¿Deseas que la red móvil sea seleccionada automáticamente?</string>
     <string name="regulatory">Supervisar</string>
     <string name="regulatory_summary">Toca para ver más</string>
     <string name="remind_aleary_open">Alertas activadas</string>
     <string name="replace_watchface">Cambio de watchface</string>
     <string name="report_bug_agree">Acepto</string>
     <string name="report_bug_cancle">Salir</string>
-    <string name="report_bug_desc">When the watch has any data error, unexpected state, etc., you can upload the data to our server through the watch feedback feature. Our after-sales staff will then analyze the data. During the process, the logs previously generated in the watch will be automatically collected and uploaded, which will be used for problem analysis only and will be destroyed immediately after analysis. The entire process will be governed by our privacy policy. Please check the Privacy Policy in the Amazfit App for details.</string>
-    <string name="report_bug_dialog_desc">When the watch has any data error, unexpected state, etc., you can upload the data to our server through the watch feedback feature. Our after-sales staff will then analyze the data. During the process, the logs previously generated in the watch will be automatically collected and uploaded, which will be used for problem analysis only and will be destroyed immediately after analysis. The entire process will be governed by our privacy policy. Please check the Privacy Policy in the Amazfit App for details.</string>
+    <string name="report_bug_desc">Cuando el reloj tenga algún error de datos, estado inesperado, etc., puedes subir los registros a nuestro servidor a través de la función de Comentarios de reloj. Nuestro personal de postventa analizará los registros. Durante el proceso, los registros previamente generados en el reloj serán automáticamente recogidos y subidos, y serán utilizados solo para el análisis de problemas y serán borrados inmediatamente después del análisis. Todo el proceso se regirá por nuestra política de privacidad. Por favor, comprueba la Política de Privacidad en la App de Amazfit para más detalles.</string>
+    <string name="report_bug_dialog_desc">Cuando el reloj tenga algún error de datos, estado inesperado, etc., puedes subir los registros a nuestro servidor a través de la función de Comentarios de reloj. Nuestro personal de postventa analizará los registros. Durante el proceso, los registros previamente generados en el reloj serán automáticamente recogidos y subidos, y serán utilizados solo para el análisis de problemas y serán borrados inmediatamente después del análisis. Todo el proceso se regirá por nuestra política de privacidad. Por favor, comprueba la Política de Privacidad en la App de Amazfit para más detalles.</string>
     <string name="report_bug_dialog_title">Comentarios</string>
     <string name="report_bug_title">Comentarios</string>
     <string name="reset_factory">Reset de fábrica</string>
-    <string name="reset_factory_bank_msg">"Resetting the watch with UnionPay card removing failure will result in the UnionPay card: 
- 1. Unable be removed from the watch, occupying chip space; 
- 2. Unable to use the payment function in the watch; 
- 3. Unable to be bound by other devices. Therefore, for your payment security, please remove the UnionPay card in the Amazfit App first."</string>
-    <string name="reset_factory_bank_msg_again">The watch will be disconnected from your mobile and all data in the watch will be deleted. The current activated transportation card can still be used after the watch is bound again.</string>
+    <string name="reset_factory_bank_msg">"Resetear el reloj con la tarjeta UnionPay, eliminando el fallo tendrá como resultado que la tarjeta UnionPay: 
+ 1. No se pueda eliminar del reloj, ocupando el espacio del chip; 
+ 2. No se pueda usar la función de pago en el reloj; 
+ 3. No se pueda vincular con otros dispositivos. Por lo tanto, para su seguridad de pago, por favor, elimine la tarjeta UnionPay en la App de Amazfit primero."</string>
+    <string name="reset_factory_bank_msg_again">El reloj se desconectará de tu móvil y todos los datos del reloj serán eliminados. La tarjeta de transporte actual se puede utilizar después de que el reloj sea vinculado de nuevo.</string>
     <string name="reset_factory_bank_no">Cancelar</string>
     <string name="reset_factory_bank_title">Por favor, primero elimina la tarjeta UnionPay.</string>
     <string name="reset_factory_bank_yes">Continuar con el reset de fábrica</string>
-    <string name="reset_factory_conncet_msg">The UnionPay card will be unbound from the watch and the Amazfit App. The watch will still retain the payment function of the transportation card.</string>
+    <string name="reset_factory_conncet_msg">La tarjeta UnionPay será desvinculada del reloj y la App de Amazfit. El reloj seguirá manteniendo la función de pago de la tarjeta de transporte.</string>
     <string name="reset_factory_doing1">Reseteando de fábrica...</string>
     <string name="reset_factory_doing2">Eliminando tarjeta UnionPay...</string>
-    <string name="reset_factory_fail_msg">Failed to remove the UnionPay card. Please try again.</string>
+    <string name="reset_factory_fail_msg">Error al eliminar la tarjeta UnionPay. Por favor, inténtalo de nuevo.</string>
     <string name="reset_factory_fail_positive">OK</string>
     <string name="reset_factory_fail_title">Error de reset de fábrica</string>
-    <string name="reset_factory_hint">After factory resetting, it will be disconnected from your mobile and all data in your watch will be deleted. The current activated transportation card can still be used after your watch is bound next time.</string>
-    <string name="reset_factory_hint_cn">After factory resetting, it will be disconnected from your mobile and all data in your watch will be deleted. The current activated transportation card can still be used after your watch is bound next time.</string>
+    <string name="reset_factory_hint">Después de resetear de fábrica, se desconectará del móvil y todos los datos en el reloj se borrarán. Las tarjetas de transporte actuales aún se podrán utilizar después de vincular el reloj de nuevo.</string>
+    <string name="reset_factory_hint_cn">Después de resetear de fábrica, se desconectará del móvil y todos los datos en el reloj se borrarán. Las tarjetas de transporte actuales aún se podrán utilizar después de vincular el reloj de nuevo.</string>
     <string name="reset_factory_negative">Cancelar</string>
     <string name="reset_factory_no">Cancelar</string>
-    <string name="reset_factory_noconnect_msg">"If you want to unbind the watch, please do so in the Amazfit App. 
- After factory resetting on the watch alone, the UnionPay card and transportation card will be removed. 
- - UnionPay card removed: It can not be bound by the watch any more. If you need to bind it again, please consult the bank customer service. 
- - Transportation card removed: It will be permanently destroyed and no longer payable."</string>
+    <string name="reset_factory_noconnect_msg">"Si quieres desvincular el reloj, por favor hazlo en la App de Amazfit. 
+ Después de que se resetee la fábrica, se eliminarán la tarjeta UnionPay y la tarjeta de transporte. 
+ - Tarjeta UnionPay eliminada: no puede ser vinculada más por el reloj. Si necesitas vincularla de nuevo, por favor consulta el servicio de atención al cliente bancario. 
+ - Tarjeta de transporte eliminada: Será destruida permanentemente y ya no se podrá pagar."</string>
     <string name="reset_factory_positive">Reset de fábrica</string>
     <string name="reset_factory_title">Reset de fábrica</string>
     <string name="reset_factory_yes">Reset de fábrica</string>
@@ -498,25 +498,25 @@
     <string name="rom_hint_dev">Versión (desarrollador)</string>
     <string name="rom_version">Versión by Saratoga</string>
     <string name="ru_ru">Русский</string>
-    <string name="saving_tips">This operation is invalid. Please exit the battery saver mode first.</string>
-    <string name="scanning_blt_devices">Searching...</string>
-    <string name="screen_adjust">Brightness adjustment</string>
-    <string name="screen_auto">Auto brightness</string>
-    <string name="screen_refresh">Lock screen instant update</string>
-    <string name="screen_refresh_off_string">Do not display second hand</string>
-    <string name="screen_refresh_on_string">Display second hand</string>
+    <string name="saving_tips">Esta operación no es válida. Por favor, desactiva primero el modo de ahorro de batería.</string>
+    <string name="scanning_blt_devices">Buscando...</string>
+    <string name="screen_adjust">Ajustes de brillo</string>
+    <string name="screen_auto">Brillo automático</string>
+    <string name="screen_refresh">Bloquear pantalla instantáneamente</string>
+    <string name="screen_refresh_off_string">No mostrar segundero</string>
+    <string name="screen_refresh_on_string">Mostrar segundero</string>
     <string name="screen_time_10">10s</string>
     <string name="screen_time_20">20s</string>
     <string name="screen_time_30">30s</string>
-    <string name="search_menu_title">Search</string>
-    <string name="second_no_show">Do not display</string>
+    <string name="search_menu_title">Buscar</string>
+    <string name="second_no_show">No mostrar</string>
     <string name="second_show">Mostrar</string>
     <string name="security">Seguridad</string>
     <string name="security_lockpattern">Patrón de desbloqueo</string>
     <string name="serial_no">Número de serie</string>
-    <string name="setting_lock_content">Once the password is set, you will have to enter the password when you power off/on your watch or use the card package.</string>
+    <string name="setting_lock_content">Una vez que la contraseña esté establecida, tendrás que introducir la contraseña cuando apagues/enciendas el reloj o utilices el paquete de tarjetas.</string>
     <string name="setting_phone_lock">Desbloquear con tu móvil</string>
-    <string name="setting_phone_lock_content">Once your watch wakes up and detects that your mobile has been unlocked, it will unlock itself automatically. It requires your watch being connected to your mobile normally, and your mobile needs to set a password.</string>
+    <string name="setting_phone_lock_content">Una vez que el reloj se encienda y detecte que el móvil ha sido desbloqueado, se desbloqueará automáticamente. Requiere que el reloj esté conectado a tu móvil, y tu móvil necesita establecer una contraseña.</string>
     <string name="setting_power">Establecer contraseña</string>
     <string name="setting_power_retry_content">Por favor, inténtalo de nuevo %1$d segundos más tarde.</string>
     <string name="setting_regulation_desc_canda">"IC:21806-A1811 
@@ -542,7 +542,7 @@
     <string name="show_notice">Mostrar notificaciones</string>
     <string name="shujuzhongxin">Centro de Datos</string>
     <string name="shut_down">Apagar</string>
-    <string name="silent_push">Silent push</string>
+    <string name="silent_push">Empuje silencioso</string>
     <string name="sim_modify_pin">Cambiar el PIN</string>
     <string name="sim_pin">Tarjeta SIM / código PIN</string>
     <string name="simulate_following_key">Simular los siguientes botones</string>
@@ -552,20 +552,20 @@
     <string name="soccer">Fútbol</string>
     <string name="sport">Desporte</string>
     <string name="sport_close_remind">Alerta de detección de actividad desactivada</string>
-    <string name="sport_end">It will remind you to disable the exercise mode and save the record when it detects that you end running or walking. Do you want to enable it?</string>
+    <string name="sport_end">Te avisará de que desactives el modo de detección de actividad y guardes el registro cuando detecte que acabas de correr o caminar. ¿Quieres activarlo?</string>
     <string name="sport_music_settings">Música deportiva</string>
     <string name="sport_open_remind">Alerta de detección de actividad activada</string>
-    <string name="sport_remind_end_tips">After enabled, it will remind you to disable the mode and save the results when it detects that your exercise ends.</string>
+    <string name="sport_remind_end_tips">Después de activarlo, te avisará de que desactives el modo y guardes los resultados cuando detecte que tu actividad ha terminado.</string>
     <string name="sport_remind_end_title">Alerta desactivada</string>
     <string name="sport_remind_open">Activar</string>
-    <string name="sport_remind_open_tips">After enabled, it will remind you to enable the exercise mode by shortcut when it detects that you are running or walking.</string>
+    <string name="sport_remind_open_tips">Después de activarlo, te avisará de que actives el modo de detección de actividad cuando detecte que estás corriendo o caminando.</string>
     <string name="sport_remind_open_title">Alerta activada</string>
     <string name="sport_remind_title">Alerta de detección de actividad</string>
-    <string name="sport_start">It will remind you to enable the exercise mode when it detects that you start running or walking. Do you want to enable it?</string>
-    <string name="start_testing">Start testing</string>
+    <string name="sport_start">Te avisará de que actives el modo de detección de actividad cuando detecte que acabas de empezar a correr o caminar. ¿Quieres activarlo?</string>
+    <string name="start_testing">Iniciar prueba</string>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="stop_app_prompt">Forcefully stopping may cause App exception. Continue?</string>
-    <string name="strong">Strong</string>
+    <string name="stop_app_prompt">Forzar el cierre puede causar errores en la app. ¿Continuar?</string>
+    <string name="strong">Fuerte</string>
     <string name="subtitle_of_raise_hand_no_bl">Wakeup mode</string>
     <string name="synchronization_auto">Sync automatically</string>
     <string name="synchronization_ing">Syncing...</string>
