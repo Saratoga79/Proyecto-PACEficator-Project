@@ -36,7 +36,7 @@
     <string name="about">Acerca de</string>
     <string name="about_title">Acerca de</string>
     <string name="air_plane">Modo avión</string>
-    <string name="air_plane_mode_note">Enabling flight mode will disable features such as Bluetooth, Wi-Fi and Alipay. To use the above features, please disable the flight mode in [System settings].</string>
+    <string name="air_plane_mode_note">Activar el modo avión desactivará funciones como Bluetooth, Wi-Fi y Alipay. Para utilizar las características anteriores, por favor desactiva el modo avión en [Ajustes de sistema].</string>
     <string name="alarm_ring">Tono de alarma</string>
     <string name="alarm_volume">Volumen de la alarma</string>
     <string name="alerm_volume">Volumen de la alarma</string>
@@ -64,13 +64,13 @@
     <string name="auto_wifi_trans_on_string">Activado</string>
     <string name="average_text">Promedio</string>
     <string name="bind_app">Vincular</string>
-    <string name="bind_tips_title">"Please bind 
- first to have your data protected more safely."</string>
+    <string name="bind_tips_title">"Por favor, vincula 
+ primero para que tus datos estén protegidos de forma más segura."</string>
     <string name="birget_screen_flip_xiaoai">Despertar a XiaoAI</string>
     <string name="birght_screen_flip_none">Ninguno</string>
     <string name="birth_year">Año de nacimiento</string>
-    <string name="birth_year_unit">"Birth 
- year"</string>
+    <string name="birth_year_unit">"Año 
+ nacimiento"</string>
     <string name="blt_bound_stat_bonded">Emparejado</string>
     <string name="blt_bound_stat_bonding">Emparejando...</string>
     <string name="blt_bound_stat_connected">Conectado</string>
@@ -80,23 +80,23 @@
     <string name="blt_car_system">Coche</string>
     <string name="blt_confirm_ignore">¿Seguro que quieres borrar el dispositivo?</string>
     <string name="blt_default_name">Sin nombre</string>
-    <string name="blt_hint_connect">"%1s
- Connect it?"</string>
+    <string name="blt_hint_connect">"¿Conectar?
+ %1s"</string>
     <string name="blt_hint_connect_device">Conectar</string>
     <string name="blt_hint_connect_fail">Error al conectar. Por favor, inténtalo de nuevo.</string>
     <string name="blt_hint_disconnect">"%1s
  Borrar este dispositivo?"</string>
     <string name="blt_hint_disconnect_device">Desconectar</string>
     <string name="blt_hint_ignore_device">Borrar el dispositivo</string>
-    <string name="blt_hint_paring">"%1s
- Pair it?"</string>
+    <string name="blt_hint_paring">\"¿Emparejar?
+ %1s</string>
     <string name="blt_mac_addr">Dirección Bluetooth</string>
     <string name="blt_not_support">[Sólo prueba]</string>
-    <string name="blt_paring_fail_hint">"Please make sure the device is turned on 
- and within communication range."</string>
+    <string name="blt_paring_fail_hint">"Por favor, asegúrate de que el dispositivo está encendido 
+ y dentro del rango de comunicación."</string>
     <string name="blt_speaker">Audio</string>
     <string name="blt_type_ear">Auriculares</string>
-    <string name="blt_type_mabiao">Cyclocomputer</string>
+    <string name="blt_type_mabiao">Ciclocomputadora</string>
     <string name="blue_tooth_dev_in_sub_list">Dispositivos Bluetooth</string>
     <string name="bluetooth_bond_disconnected">Desconectado</string>
     <string name="bluetooth_bond_disconnecting">Desconectando...</string>
@@ -113,7 +113,7 @@
     <string name="bluetooth_disconnect_title">¿Desconectarlo?</string>
     <string name="bluetooth_disconnected">Desconectado</string>
     <string name="bluetooth_disconnecting">Desconectando...</string>
-    <string name="bluetooth_disconnection">Are you sure to disconnect it from device %1$s?</string>
+    <string name="bluetooth_disconnection">¿Estás seguro que quieres desconectarlo del dispositivo %1$s?</string>
     <string name="bluetooth_enabled">Bluetooth encendido</string>
     <string name="bluetooth_other_bonds">Otros dispositivos</string>
     <string name="bluetooth_pair_tips">Código de emparejamiento</string>
@@ -157,18 +157,18 @@
     <string name="buttons_round_center_right">Centro derecha</string>
     <string name="buttons_round_top_center">Superior</string>
     <string name="buttons_round_top_left">Superior izquierda</string>
-    <string name="buttons_round_top_left_lower">Top left, lower</string>
-    <string name="buttons_round_top_left_upper">Top left, upper</string>
-    <string name="buttons_round_top_right">Top right</string>
-    <string name="buttons_round_top_right_lower">Top right, lower</string>
-    <string name="buttons_round_top_right_upper">Top right, upper</string>
+    <string name="buttons_round_top_left_lower">Superior izquierda, más abajo</string>
+    <string name="buttons_round_top_left_upper">Superior izquierda, más arriba</string>
+    <string name="buttons_round_top_right">Superior derecha</string>
+    <string name="buttons_round_top_right_lower">Superior derecha. más abajo</string>
+    <string name="buttons_round_top_right_upper">Superior derecha, más arriba</string>
     <string name="cancel">Cancelar</string>
     <string name="cancel_pairing">Desemparejar</string>
     <string name="celiangxinlv">Medida de RC</string>
     <string name="centimeter">cm</string>
     <string name="change_language">Idioma del sistema</string>
     <string name="check_for_update">Actualizar</string>
-    <string name="clear_dmc_toast">Log dmc satisfactoriamente borrado</string>
+    <string name="clear_dmc_toast">Registro dmc exitósamente borrado</string>
     <string name="close_notice">Desactivar notificaciones</string>
     <string name="close_time">@string/auto_nodisturb_end_time_string</string>
     <string name="closed">Desactivado</string>
@@ -177,19 +177,19 @@
     <string name="complicationDrawable_noDataText">--</string>
     <string name="complicationDrawable_textTypeface">sans-serif-condensed</string>
     <string name="complicationDrawable_titleTypeface">sans-serif-condensed</string>
-    <string name="confirm_change_locale">"Are you sure to change the system language to 
+    <string name="confirm_change_locale">"¿Estás seguro que quieres cambiar el idioma de sistema a 
 %1$s?"</string>
-    <string name="confirm_reboot">Are you sure to reboot it?</string>
-    <string name="confirm_shutdown">Are you sure to power it off?</string>
-    <string name="connect">Connect</string>
-    <string name="datacenter">Data center</string>
-    <string name="date">Date</string>
-    <string name="date_ymd">Date (year/month/day)</string>
-    <string name="de_de">Deutsch</string>
-    <string name="dengshan">Climbing</string>
+    <string name="confirm_reboot">¿Estás seguro de querer reiniciarlo?</string>
+    <string name="confirm_shutdown">¿Estás seguro de querer apagarlo?</string>
+    <string name="connect">Conectar</string>
+    <string name="datacenter">Centro de Datos</string>
+    <string name="date">Fecha</string>
+    <string name="date_ymd">Fecha (año/mes/día)</string>
+    <string name="de_de">Alemán</string>
+    <string name="dengshan">Montañismo</string>
     <string name="dev_desc">Amazfit</string>
-    <string name="dev_name">Name</string>
-    <string name="device">Device</string>
+    <string name="dev_name">Nombre</string>
+    <string name="device">Dispositivo</string>
     <string name="device_name_default">AMAZFIT Watch 2</string>
     <string name="device_name_everest">Amazfit Sports Watch 2</string>
     <string name="device_name_everest_2s">Amazfit Sports Watch 2S</string>
@@ -198,20 +198,20 @@
     <string name="device_name_huanghe">Amazfit Sports Watch</string>
     <string name="device_name_huanghe_oversea">Amazfit Verge</string>
     <string name="device_name_qogir_oversea">Amazfit Verge</string>
-    <string name="device_name_xh_e">AMZIFIT Watch 2 ECG</string>
-    <string name="device_name_xh_ea">AMZIFIT Nexo</string>
+    <string name="device_name_xh_e">AMAZFIT Watch 2 ECG</string>
+    <string name="device_name_xh_ea">AMAZFIT Nexo</string>
     <string name="device_name_xh_marvel">AMAZFIT Watch 2 Avengers</string>
-    <string name="dialog_agree">Agree</string>
+    <string name="dialog_agree">Aceptar</string>
     <string name="dialog_confire">OK</string>
-    <string name="dialog_prompt">Prompt</string>
-    <string name="dialog_quit">Exit</string>
-    <string name="dismiss_overlay_button_label">Quit</string>
-    <string name="dlg_cancel">Cancel</string>
+    <string name="dialog_prompt">Sugerencia</string>
+    <string name="dialog_quit">Salir</string>
+    <string name="dismiss_overlay_button_label">Salir</string>
+    <string name="dlg_cancel">Cancelar</string>
     <string name="dlg_confirm">OK</string>
-    <string name="double_click_screen">Touch screen to wake up</string>
-    <string name="double_click_wakeup">Double tap to unlock the screen</string>
-    <string name="double_click_wakeup_close">Disabled</string>
-    <string name="double_click_wakeup_open">Enabled</string>
+    <string name="double_click_screen">Toca la pantalla para despertar</string>
+    <string name="double_click_wakeup">Toca dos veces para bloquear la pantalla</string>
+    <string name="double_click_wakeup_close">Desactivado</string>
+    <string name="double_click_wakeup_open">Activado</string>
     <string name="electronic_ring_sound">Electronic %1$d</string>
     <string name="en">English(U.S.)</string>
     <string name="es_es">Español</string>
@@ -412,9 +412,9 @@
     <string name="permission_content_write_contact">Escribir o borrar contactos</string>
     <string name="permission_open">Activar</string>
     <string name="permission_open_error">Error al conceder permisos</string>
-    <string name="permission_system_error">System permissions not prohibitable</string>
+    <string name="permission_system_error">Error de permisos de sistema</string>
     <string name="personal_info">Datos personales</string>
-    <string name="phone_far_away_remind_to_you">The watch will remind you when you are far away from your mobile.</string>
+    <string name="phone_far_away_remind_to_you">El reloj te avisará cuando estés lejos del móvil.</string>
     <string name="phone_finding">Buscando móvil...</string>
     <string name="phone_found">Encontrado</string>
     <string name="phone_not_connected">No hay móvil conectado</string>
@@ -426,17 +426,17 @@
     <string name="pin_checked_successful">Por favor, introduce un nuevo código pin.</string>
     <string name="pin_hin_modifidy">Por favor, introduce el código pin antiguo.</string>
     <string name="pin_hint">Por favor, introduce un código pin.</string>
-    <string name="pin_hint_lock">The SIM card has been locked and can be unlocked with the PUK code. Please contact your carrier for the PUK code. If the PUK code is locked, the SIM card will be unusable, so please be careful when you retry.</string>
+    <string name="pin_hint_lock">La tarjeta SIM ha sido bloqueada y puede ser desbloqueada con el código PUK. Por favor, ponte en contacto con tu operador para el código PUK. Si el código PUK está bloqueado, la tarjeta SIM será inutilizable, así que por favor ten cuidado cuando vuelva a intentarlo.</string>
     <string name="pin_input_puk">Por favor, introduce el código PUK.</string>
-    <string name="pin_lock">The SIM card has been permanently locked and cannot be used. Please switch to another SIM card in the Amazfit App or activate another card after removing this card. Please consult your carrier for details.</string>
+    <string name="pin_lock">La tarjeta SIM ha sido bloqueada permanentemente y no puede ser utilizada. Por favor, cambia a otra tarjeta SIM en la App de Amazfit o activa otra tarjeta después de eliminar esta tarjeta. Por favor consulta a tu operador para más detalles.</string>
     <string name="pin_modified_error">Las contraseñas introducidas no coinciden.</string>
     <string name="pin_moifidy_error">No se pudo modificar el código PIN de tu tarjeta SIM.</string>
     <string name="pin_moifidy_successful">El código PIN de tu tarjeta SIM se ha modificado correctamente.</string>
     <string name="pin_puk">Desbloquear con el código PUK</string>
-    <string name="pin_sim_lock">The activated SIM card has been locked. You need to enter your passwords to unlock the SIM card after the system reboots.</string>
+    <string name="pin_sim_lock">La tarjeta SIM activada ha sido bloqueada. Necesitas introducir tus contraseñas para desbloquear la tarjeta SIM después de reiniciar el sistema.</string>
     <string name="pin_try_count">Aún tienes %1$d intento(s) más.</string>
     <string name="pm">pm</string>
-    <string name="pop_push">Pop-up push</string>
+    <string name="pop_push">Empuje emergente</string>
     <string name="preference">Preferencias</string>
     <string name="preference_title">Preferencias</string>
     <string name="product_model_everest">Amazfit Sports Watch 2</string>
@@ -640,7 +640,7 @@
     <string name="title_ring">Tono de llamada</string>
     <string name="title_screen">Pantalla y brillo</string>
     <string name="title_second_hand_show">Mostrar segundero</string>
-    <string name="title_select_file">Configuración de log dmc</string>
+    <string name="title_select_file">Configuración de registro dmc</string>
     <string name="title_settings">Ajustes</string>
     <string name="title_sports_remind">Alerta de detección de actividad</string>
     <string name="title_system_manager">Seguridad de &amp; sistema</string>
