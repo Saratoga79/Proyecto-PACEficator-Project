@@ -320,16 +320,16 @@ kg"</string>
     <string name="reset_factory_negative">Odustani</string>
     <string name="reset_factory_fail_title">Vraćanje na tvorničke postavke nije uspjelo</string>
     <string name="reset_factory_fail_msg">If the UnionPay Card Is Not Successfully Removed, Please Try Again.</string>
-    <string name="reset_factory_fail_positive">Ok</string>
+    <string name="reset_factory_fail_positive">U redu</string>
     <string name="reset_factory_doing1">Factory Reset Is Being Made</string>
     <string name="reset_factory_doing2">UnionPay Card Is Being Removed</string>
     <string name="reset_factory_hint_cn">Disconnect from Your Mobile Phone and Delete All Data in Your Watch after Factory Reset. After Binding The Watch the Next Time, the Current Opened Transportation Card Can Continue to Be Used.</string>
     <string name="reset_factory_bank_title">Please Remove the UnionPay Card at First</string>
     <string name="reset_factory_bank_msg">"If Reset the Watch without Removing the UnionPay Card, It will Cause the UnionPay Card: 
  1. Cannot be Removed from the Watch, Occupying Chip Space;  2. Cannot Use the Payment Function in the Watch;  3. Cannot Be Bound by Other Devices; For Payment Security, Please First Remove the UnionPay Card from Amazfit Watch App."</string>
-    <string name="reset_factory_bank_yes">Continue Factory Reset</string>
-    <string name="reset_factory_bank_no">Cancel</string>
-    <string name="reset_factory_bank_msg_again">The Watch Will Disconnect from Your Mobile Phone and Delete All Data in the Watch. After the Watch Is Re-bound, the Currently Opened Transportation Card Can Continue to Be Used.</string>
+    <string name="reset_factory_bank_yes">Nastavi s vraćanjem na tvorničke postavke</string>
+    <string name="reset_factory_bank_no">Odustani</string>
+    <string name="reset_factory_bank_msg_again">Sat će prekinuti vezu s vašim mobilnim telefonom i izbrisati sve podatke na satu. Nakon što se sat ponovo poveže, trenutno otvorena transportna kartica može se i dalje koristiti.</string>
     <string name="lockpassword_confirm_your_pattern_header">Potvrdi uzorak</string>
     <string name="lockpattern_need_to_unlock">Iscrtajte uzorak otključavanja</string>
     <string name="lockpattern_need_to_unlock_footer"></string>
@@ -390,7 +390,7 @@ kg"</string>
     <string name="light_value">Svjetlina</string>
     <string name="light_auto_set">Auto</string>
     <string name="light_auto_guide_title">Autom. podešavanje</string>
-    <string name="light_auto_guide_content">After Auto adjustment is on, move slider to fine tune the brightness coefficient, then the screen brightness will still change with the ambient brightness.</string>
+    <string name="light_auto_guide_content">Nakon uključivanja automatske prilagodbe, pomaknite klizač za fino podešavanje koeficijenta svjetline, a tada će se svjetlina zaslona i dalje mijenjati s ambijentalnim osvjetljenjem.</string>
     <string name="light_auto_guide_ok">Razumijem</string>
     <string name="watch_mode_title">Uključi način sata</string>
     <string name="watch_mode_message">"Kada je uključeno, sat će podržavati samo prikaz vremena, brojanje koraka i plaćanje karticom prijevoza.
@@ -403,8 +403,8 @@ kg"</string>
     <string name="screen_refresh_off_string">Isklj.</string>
     <string name="setting_regulatory_europe">Europa</string>
     <string name="setting_regulatory_us">USA</string>
-    <string name="setting_regulatory_canda">Canada</string>
-    <string name="setting_regulatory_russia">Russia</string>
+    <string name="setting_regulatory_canda">Kanada</string>
+    <string name="setting_regulatory_russia">Rusija</string>
     <string name="setting_regulatory_japan">Japan</string>
     <string name="setting_regulation_desc_us">FCC ID:2AC8UA1811</string>
     <string name="setting_regulation_desc_canda">"IC:21806-A1811 
@@ -414,12 +414,12 @@ kg"</string>
     <string name="confirm_reboot">Ponovno pokrenuti?</string>
     <string name="app_name">Postavke sata</string>
     <string name="lab_desc">Prikupite dio alata za uklanjanje pogrešaka</string>
-    <string name="unknown">Unknown device</string>
-    <string name="bind_tips_title">"Please bind 
- to protect your data more securely"</string>
+    <string name="unknown">Nepoznati uređaj</string>
+    <string name="bind_tips_title">"Molimo vas, povežite
+  da biste zaštitili svoje podatke "</string>
     <string name="upgrade_checking">Provjera ažuriranja…</string>
     <string name="left_hand">Lijeva</string>
     <string name="right_hand">Desna</string>
-    <string name="voice_setvoice_set">Voice</string>
-    <string name="device_name_huanghe">Amazfit smart sports watch</string>
+    <string name="voice_setvoice_set">Glas</string>
+    <string name="device_name_huanghe">Amazfit smart sportski sat</string>
 </resources>
