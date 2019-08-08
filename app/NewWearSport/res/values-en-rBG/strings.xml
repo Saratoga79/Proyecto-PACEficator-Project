@@ -21,7 +21,7 @@
     <string name="crossing_individual_pen_dis">Single Lap Distance</string>
     <string name="crossing_individual_pen_cost_time">Single Lap Time</string>
     <string name="crossing_individual_pen_pace">Single Lap Pace</string>
-    <string name="crossing_climb_unit">Feet</string>
+    <string name="crossing_climb_unit">Фута</string>
     <string name="crossing_vertical_velocity_unit">ft/h</string>
     <string name="crossing_history_detail_total_time">Total Time</string>
     <string name="crossing_history_detail_move_time">Moving Time</string>
@@ -38,12 +38,12 @@
     <string name="crossing_history_detail_ave_altitude">Average Altitude</string>
     <string name="crossing_history_detail_altituede_graph_desc">Altitude (feet)</string>
     <string name="crossing_history_detail_individual_km">%1$s mile for a single loop</string>
-    <string name="crossing_setting_unit">Mile</string>
+    <string name="crossing_setting_unit">Миля</string>
     <string name="crossing_settings_item_title_individual_remind">Single Lap Distance</string>
     <string name="crossing_settings_item_value_individual">%1s kms</string>
     <string name="crossing_remind_target_individual_title">Lap %1d</string>
     <string name="crossing_remind_target_individual_cost_time">Elapsed Time</string>
-    <string name="crossing_remind_target_individual_pace">Pace</string>
+    <string name="crossing_remind_target_individual_pace">Темпо</string>
     <string name="agps_time_out">AGPS has expired. GPS searching will be slow. Please connect the Amazfit Watch App to update it。</string>
     <string name="safe_hearate_remind_content">When above %1d</string>
     <string name="settings_safe_heart_rate_hint">(safe heart rate)</string>
@@ -103,7 +103,7 @@
     <string name="battery_split"> / </string>
     <string name="suggest_reset_time">Time to full recovery %1$s hrs</string>
     <string name="remain_time_recovery"><Data>Time to full recovery&amp;nbsp;&lt;font color=#00ff00&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;/font&gt;&amp;nbsp; h</Data></string>
-    <string name="more_sport_tint">More</string>
+    <string name="more_sport_tint">Още</string>
     <string name="zh_space">　</string>
     <string name="en_space"> </string>
     <string name="picker_title_auto_pause">Pace(m:s/%1$s)</string>
@@ -200,7 +200,7 @@
     <string name="sport_main_heart_info_title">Heart-rate</string>
     <string name="sport_main_beyond_heart_info_title">Beyond heart rate</string>
     <string name="sport_main_beyond_heart_info_remind">Beyond heart rate</string>
-    <string name="sport_main_pace_info_title">Pace</string>
+    <string name="sport_main_pace_info_title">Темпо</string>
     <string name="heartrate_x_axis_time_format">HH:mm:ss</string>
     <string name="lap_title">Lap %1$d</string>
     <string name="manual_lap_title">Key Lap %1$d</string>
@@ -245,7 +245,7 @@
     <string name="adjust_tips_title">Auto distance setting renamed</string>
     <string name="adjust_swim_tips">Auto lapping distance is now pool size. Please adjust it in Swim settings if needed.</string>
     <string name="hill_title">Gradient Changes</string>
-    <string name="hill_even">Flat</string>
+    <string name="hill_even">Плосък</string>
     <string name="hill_up">Uphill</string>
     <string name="hill_down">Downhill</string>
     <string name="hill_default_time">00:00:00</string>
@@ -313,7 +313,7 @@
     <string name="swim_avg_stroke_speed">平均划水率</string>
     <string name="settting_sport_gpx_route">Movement track</string>
     <string name="swim_max_stroke_speed">Max SPM</string>
-    <string name="swim_trips">Trip</string>
+    <string name="swim_trips">Пътуване</string>
     <string name="target_swim_trips">目标趟数</string>
     <string name="swim_total_trips">总趟数</string>
     <string name="swim_stroke">划水</string>
@@ -351,7 +351,7 @@
     <string name="gps_close_notification_title">Shutting down GPS</string>
     <string name="per_correspond_km">Every %1$d km</string>
     <string name="per_correspond_mi">Every %1$d mi</string>
-    <string name="more_operation">More</string>
+    <string name="more_operation">Още</string>
     <string name="detail_route_detail_train_lap_title">Обиколка</string>
     <string name="this_time_need_run_mileage">Interval distance: %1$s km</string>
     <string name="this_time_need_run_mileage_mile">Interval distance: %1$s mi</string>
@@ -379,7 +379,7 @@
     <string name="skiing_cur_lat_lng_title">Lat Long</string>
     <string name="speed_remind_title">Speed Alert</string>
     <string name="speed_too_fast_remind_title">Too Fast</string>
-    <string name="skiing_lap_title">Laps</string>
+    <string name="skiing_lap_title">Обиколки</string>
     <string name="skiing_remind_next_interval_train">Next Interval</string>
     <string name="skiing_remind_click_finsh_this_train_unit">Press Lap Key</string>
     <string name="skiing_interval_train_complete">Interval Complete</string>
@@ -391,7 +391,7 @@
     <string name="sport_tennis_backhand">Backhand</string>
     <string name="sport_tennis_serve">Serve</string>
     <string name="sport_setting_clap_the_hands">Racket hand</string>
-    <string name="sport_setting_left_hand">Left</string>
+    <string name="sport_setting_left_hand">Лява</string>
     <string name="sport_setting_right_hand">Right</string>
     <string name="sport_please_select_clap_hand">Please choose racket hand</string>
     <string name="skiing_stop_dialog_msg_not_reach_minimum_distance">Activity with too few runs cannot be saved. Continue?</string>
@@ -464,7 +464,7 @@
     <string name="currnet_daily_performance_staus">Current performance status</string>
     <string name="sport_ability_up">Sport ability up</string>
     <string name="sport_ability_down">Sport ability down</string>
-    <string name="time_unit_hour">Hour</string>
+    <string name="time_unit_hour">Час</string>
     <string name="train_load_medium">Medium</string>
     <string name="train_load_near_seven_days">Near seven days</string>
     <string name="train_load_suggess_status_no_record">"Please use the watch for a week first.
@@ -474,8 +474,8 @@
     <string name="train_load_suggess_status_recovery">"Training intensity is too high, 
  Please avoid excessive training."</string>
     <string name="train_load_suggess_status_over">Attention! Excessive training!</string>
-    <string name="real_time_perpormance_level_very_good">Good</string>
-    <string name="real_time_perpormance_level_good">Good</string>
+    <string name="real_time_perpormance_level_very_good">Добро</string>
+    <string name="real_time_perpormance_level_good">Добро</string>
     <string name="real_time_perpormance_level_average">Average</string>
     <string name="real_time_perpormance_level_fatigued">Fatigued</string>
     <string name="real_time_perpormance_level_very_fatigued">Fatigued</string>
