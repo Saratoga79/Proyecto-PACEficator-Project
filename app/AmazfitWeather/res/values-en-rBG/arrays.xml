@@ -5,18 +5,18 @@
         <item>com.huami.watch.weather/com.huami.watch.weather.WeatherWidgetView</item>
     </string-array>
     <string-array name="quick_settings_status_week">
-        <item>Sun</item>
-        <item>Mon</item>
-        <item>Tue</item>
-        <item>Wed</item>
-        <item>Thu</item>
-        <item>Fri</item>
-        <item>Sat</item>
-        <item>Today</item>
+        <item>Нед</item>
+        <item>Пон</item>
+        <item>Вто</item>
+        <item>Сря</item>
+        <item>Чет</item>
+        <item>Пет</item>
+        <item>Съб</item>
+        <item>Днес</item>
     </string-array>
     <string-array name="weather_card_aqilevel">
-        <item>Excellent</item>
-        <item>Fine</item>
+        <item>Отлично</item>
+        <item>Чудесно</item>
         <item>Light pollution</item>
         <item>Moderate pollution</item>
         <item>Heavy pollution</item>
@@ -29,30 +29,30 @@
         <item></item>
     </string-array>
     <string-array name="quick_settings_status_weather">
-        <item>Clear</item>
-        <item>Cloudy</item>
-        <item>Overcast</item>
-        <item>Fog</item>
-        <item>Haze</item>
-        <item>Showers</item>
-        <item>Thunderstorm</item>
-        <item>Light rain</item>
-        <item>Moderate rain</item>
-        <item>Heavy rain</item>
+        <item>Ясно</item>
+        <item>Облачно</item>
+        <item>Променлива облачност</item>
+        <item>Мъгла</item>
+        <item>Мараня</item>
+        <item>Преваляване</item>
+        <item>Гръмотевична буря</item>
+        <item>Слаб дъжд</item>
+        <item>Умерен дъжд</item>
+        <item>Силен дъжд</item>
         <item>Rainstorm</item>
         <item>Heavy rainstorm</item>
         <item>Rain and snow mixed</item>
-        <item>Freezing rain</item>
-        <item>Hail</item>
-        <item>Light snow</item>
-        <item>Moderate snow</item>
-        <item>Heavy snow</item>
+        <item>Замръзващ дъжд</item>
+        <item>Градушка</item>
+        <item>Слаб снеговалеж</item>
+        <item>Умерен снеговалеж</item>
+        <item>Тежък сняг</item>
         <item>Blizzard</item>
-        <item>Snow</item>
-        <item>Dust</item>
-        <item>Sandstorm</item>
-        <item>Sandstorm</item>
+        <item>Сняг</item>
+        <item>Прах</item>
+        <item>Пясъчна буря</item>
+        <item>Пясъчна буря</item>
         <item>Strong sandstorm</item>
-        <item>No data</item>
+        <item>Няма данни</item>
     </string-array>
 </resources>
