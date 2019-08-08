@@ -17,15 +17,15 @@
     <string-array name="weather_card_aqilevel">
         <item>Отлично</item>
         <item>Чудесно</item>
-        <item>Light pollution</item>
-        <item>Moderate pollution</item>
-        <item>Heavy pollution</item>
+        <item>Леко замърсяване</item>
+        <item>Средно замърсяване</item>
+        <item>Тежко замърсяване</item>
         <item>Severe pollution</item>
         <item></item>
     </string-array>
     <string-array name="weather_card_quality">
-        <item>Suitable for sports</item>
-        <item>Not suitable for sports</item>
+        <item>Подходящо за спорт</item>
+        <item>Неподходящо за спорт</item>
         <item></item>
     </string-array>
     <string-array name="quick_settings_status_weather">
@@ -39,9 +39,9 @@
         <item>Слаб дъжд</item>
         <item>Умерен дъжд</item>
         <item>Силен дъжд</item>
-        <item>Rainstorm</item>
-        <item>Heavy rainstorm</item>
-        <item>Rain and snow mixed</item>
+        <item>Дъждовна буря</item>
+        <item>Проливен дъжд</item>
+        <item>Смесени дъжд и сняг</item>
         <item>Замръзващ дъжд</item>
         <item>Градушка</item>
         <item>Слаб снеговалеж</item>
@@ -52,7 +52,7 @@
         <item>Прах</item>
         <item>Пясъчна буря</item>
         <item>Пясъчна буря</item>
-        <item>Strong sandstorm</item>
+        <item>Силна пясъчна буря</item>
         <item>Няма данни</item>
     </string-array>
 </resources>
