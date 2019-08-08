@@ -10,7 +10,7 @@
     <string name="auto_recoginition_continue_indoor_run">Continue Running Indoors</string>
     <string name="auto_recoginition_other_sport">Other Motion Modes</string>
     <string name="auto_recoginition_not_remind">No More Reminders Today</string>
-    <string name="auto_recoginition_save">Save</string>
+    <string name="auto_recoginition_save">Запази</string>
     <string name="auto_recoginition_end_title">It Is Detected that You Have Stopped the Motion, Save Or Not?</string>
     <string name="crossing_title">Trail Run</string>
     <string name="crossing_end_sport">Please stop trail run first</string>
@@ -146,8 +146,8 @@
     <string name="settings_sport_auto_speed_title">Pause at speed</string>
     <string name="settings_content_stand_still">Standing Still</string>
     <string name="settings_sport_bg_type">BG Color</string>
-    <string name="settings_sport_bg_type_normal">Black</string>
-    <string name="settings_sport_bg_type_white">White</string>
+    <string name="settings_sport_bg_type_normal">Черен</string>
+    <string name="settings_sport_bg_type_white">Бял</string>
     <string name="setting_on">Вкл</string>
     <string name="setting_off">Изкл</string>
     <string name="settings_item_title_target_calorie_remind">Calorie Goal</string>
@@ -532,7 +532,7 @@
     <string name="gpx_select_closed">Close</string>
     <string name="gpx_select_empty"></string>
     <string name="gpx_details_view">Selected</string>
-    <string name="gpx_details_use">Used</string>
+    <string name="gpx_details_use">Използван</string>
     <string name="gpx_route_loading">Please wait patiently while the tracks are loaded</string>
     <string name="dialog_remind_to_look_route">Watch Track</string>
     <string name="gpx_offset_route">Deviated Trajectory</string>
@@ -680,9 +680,9 @@
     <string name="endurance_cardio">Endurance cardio</string>
     <string name="hard_cardio">Hard cardio</string>
     <string name="very_hard_cardio">Very hard cardio</string>
-    <string name="running_cost_time_desc">Time</string>
+    <string name="running_cost_time_desc">Време</string>
     <string name="running_distance_desc">Distance</string>
-    <string name="running_pace_desc">Pace</string>
+    <string name="running_pace_desc">Темпо</string>
     <string name="running_avg_pace_desc">AVG. Pace</string>
     <string name="running_heartrate_desc">HR</string>
     <string name="running_calorie_desc">Calories</string>
@@ -695,7 +695,7 @@
     <string name="sport_main_climb_dis">Dist. Gain</string>
     <string name="walking_step_count">Steps</string>
     <string name="outdoor_cadence">Cadence</string>
-    <string name="rt_swim_trips">Trip</string>
+    <string name="rt_swim_trips">Пътуване</string>
     <string name="swim_dps">DPS</string>
     <string name="swim_stroke_speed">Stroke Rate</string>
     <string name="sport_data_info_te_unit">TE</string>
@@ -713,7 +713,7 @@
     <string name="last_lap_stepfreq">Lap cadence</string>
     <string name="sport_widget_title">Sports</string>
     <string name="sport_widget_title_run">Run</string>
-    <string name="sport_widget_title_walk">Walk</string>
+    <string name="sport_widget_title_walk">Ходене</string>
     <string name="sport_widget_title_cross">Trail Run</string>
     <string name="sport_widget_title_indoor_run">Run Indoor</string>
     <string name="sport_widget_title_record">Activities</string>
@@ -733,7 +733,7 @@
     <string name="sport_start">Старт</string>
     <string name="sport_pause">Pause</string>
     <string name="sport_continue">Resume</string>
-    <string name="sport_stop">Stop</string>
+    <string name="sport_stop">Стоп</string>
     <string name="sport_notification_view_detail">Open Sports</string>
     <string name="sport_notification_stop">End the exercise</string>
     <string name="sport_notification_title">Sports</string>
@@ -751,16 +751,16 @@
     <string name="running_heartrate_unit">bpm</string>
     <string name="running_stop_dialog_msg_reach_minimum_distance">Stop this activity?</string>
     <string name="running_stop_dialog_msg_not_reach_minimum_distance">The distance is too short to save. Are you sure to stop?</string>
-    <string name="running_stop_dialog_positive_text">Stop</string>
+    <string name="running_stop_dialog_positive_text">Стоп</string>
     <string name="running_stop_dialog_negative_text">Cancel</string>
-    <string name="default_double_value">0.00</string>
+    <string name="default_double_value">0,00</string>
     <string name="running_control_title">Run</string>
     <string name="running_control_paused_des">Paused</string>
     <string name="default_time_value">00:00:00</string>
     <string name="default_int_value">0</string>
     <string name="default_heartrate_value">0</string>
     <string name="sport_history_item_distance_desc">Distance (km)</string>
-    <string name="sport_history_item_cost_time_desc">Time</string>
+    <string name="sport_history_item_cost_time_desc">Време</string>
     <string name="sport_history_total_distance_desc">Total Distance</string>
     <string name="sport_history_header_total_count_desc">Total Times</string>
     <string name="sport_history_header_calorie_desc">Total burned</string>
