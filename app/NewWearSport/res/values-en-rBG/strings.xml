@@ -90,7 +90,7 @@
     <string name="detail_route_detail_lap_title">Lap Details</string>
     <string name="detail_route_detail_manual_lap_title">Key Laps</string>
     <string name="detail_route_detail_auto_lap_title">Auto Laps</string>
-    <string name="detail_lap_num">Lap</string>
+    <string name="detail_lap_num">Обиколка</string>
     <string name="detail_lap_time">Elapsed Time</string>
     <string name="detail_total_distance_desc">Total Distance</string>
     <string name="detail_lap_dis">Distance</string>
@@ -133,7 +133,7 @@
     <string name="settings_sport_3d_data">3D Data</string>
     <string name="settings_sport_real_graph">Realtime Stats</string>
     <string name="settings_sport_auto_section">Auto Lap</string>
-    <string name="settings_sport_lap">Lap</string>
+    <string name="settings_sport_lap">Обиколка</string>
     <string name="settings_sport_lap_auto">Auto Lap</string>
     <string name="settings_sport_lap_auto_remind">Auto Lap Alert</string>
     <string name="settings_sport_target_TE">Target TE</string>
@@ -211,7 +211,7 @@
     <string name="sport_history_delete_dialog_title">Delete this activity? You cannot recover this activity once deleted.</string>
     <string name="sport_main_give_up_this_sport">"Отхвърли тази активност?
 "</string>
-    <string name="sport_confirm_stop_sport">Yes</string>
+    <string name="sport_confirm_stop_sport">Да</string>
     <string name="sport_confirm_not_stop_sport">Не</string>
     <string name="sport_main_am">АМ</string>
     <string name="sport_main_pm">PM</string>
@@ -236,8 +236,8 @@
     <string name="sport_auto_lap_dis">%1$s km in</string>
     <string name="sport_auto_lap_dis_imperial">%1$s mi in</string>
     <string name="sport_graph_title_ave">Срд</string>
-    <string name="sport_graph_title_max">Max</string>
-    <string name="sport_graph_title_min">Min</string>
+    <string name="sport_graph_title_max">Макс</string>
+    <string name="sport_graph_title_min">Мин</string>
     <string name="sport_graph_title_fast">Fastest</string>
     <string name="sport_graph_title_high">Highest</string>
     <string name="sport_graph_title_low">Lowest</string>
@@ -352,7 +352,7 @@
     <string name="per_correspond_km">Every %1$d km</string>
     <string name="per_correspond_mi">Every %1$d mi</string>
     <string name="more_operation">More</string>
-    <string name="detail_route_detail_train_lap_title">Lap</string>
+    <string name="detail_route_detail_train_lap_title">Обиколка</string>
     <string name="this_time_need_run_mileage">Interval distance: %1$s km</string>
     <string name="this_time_need_run_mileage_mile">Interval distance: %1$s mi</string>
     <string name="this_time_need_run_total_time">Interval time: %1$s</string>
@@ -369,10 +369,10 @@
     <string name="interval_train_tips_content">(Except for HR alterts)</string>
     <string name="interval_confirm">ОК</string>
     <string name="test_html_txt" formatted="false">%1sminc%2ssecc/%3smin</string>
-    <string name="detail_lap_serial_number">Lap</string>
+    <string name="detail_lap_serial_number">Обиколка</string>
     <string name="sport_widget_title_skiing">Skiing</string>
     <string name="sport_widget_title_in_skiing">In Skiing</string>
-    <string name="skiing_history_downhill_title">Run</string>
+    <string name="skiing_history_downhill_title">Старт</string>
     <string name="skiing_downhill_max_elev_loss">Max Descent</string>
     <string name="skiing_downhill_total_elev_loss">Total Descent</string>
     <string name="skiing_downhill_desecnd">Total Distance</string>
