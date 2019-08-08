@@ -148,7 +148,7 @@
     <string name="settings_sport_bg_type">BG Color</string>
     <string name="settings_sport_bg_type_normal">Black</string>
     <string name="settings_sport_bg_type_white">White</string>
-    <string name="setting_on">On</string>
+    <string name="setting_on">Вкл</string>
     <string name="setting_off">Изкл</string>
     <string name="settings_item_title_target_calorie_remind">Calorie Goal</string>
     <string name="settings_item_value_target_calorie">%1$dkCal</string>
@@ -212,8 +212,8 @@
     <string name="sport_main_give_up_this_sport">"Отхвърли тази активност?
 "</string>
     <string name="sport_confirm_stop_sport">Yes</string>
-    <string name="sport_confirm_not_stop_sport">No</string>
-    <string name="sport_main_am">AM</string>
+    <string name="sport_confirm_not_stop_sport">Не</string>
+    <string name="sport_main_am">АМ</string>
     <string name="sport_main_pm">PM</string>
     <string name="sport_main_recovery_title">Recovery Time</string>
     <string name="sport_history_full_recovery">Recovery Time</string>
@@ -277,7 +277,7 @@
     <string name="history_riding_exchange_title">Transition to Running</string>
     <string name="sport_pause_time_tips">Pause Time</string>
     <string name="sport_stride_unit">cm</string>
-    <string name="sport_stride_unit_imperial">in</string>
+    <string name="sport_stride_unit_imperial">в</string>
     <string name="end_last_sport_tips">Please stop %1$s activity first</string>
     <string name="export_route_trail">Export</string>
     <string name="sport_dlg_msg_hint_cancel">"Отказ на този експорт?
@@ -367,7 +367,7 @@
     <string name="interval_segment_details">Interval details</string>
     <string name="interval_train_tips_title">Alerts will be off by default during internvals</string>
     <string name="interval_train_tips_content">(Except for HR alterts)</string>
-    <string name="interval_confirm">OK</string>
+    <string name="interval_confirm">ОК</string>
     <string name="test_html_txt" formatted="false">%1sminc%2ssecc/%3smin</string>
     <string name="detail_lap_serial_number">Lap</string>
     <string name="sport_widget_title_skiing">Skiing</string>
@@ -517,9 +517,9 @@
     <string name="vo2_max_has_no_data">No data</string>
     <string name="sport_setting_gpx_route_selected">Track Selected</string>
     <string name="sport_setting_gpx_route_selectd_remind">Outdoor features are navigated using this trajectory. If no need, select close</string>
-    <string name="confirm">OK</string>
+    <string name="confirm">ОК</string>
     <string name="decision_yes">Yes</string>
-    <string name="decision_no">No</string>
+    <string name="decision_no">Не</string>
     <string name="use_sport_route_remind">Does this movement use the%1$s trajectory for navigation?</string>
     <string name="please_start_sport_from_route_start">In order to ensure the accuracy of trajectory guidance, start the motion at the true geographic location of the track origin</string>
     <string name="please_become_bigger">Zoom in</string>
@@ -799,7 +799,7 @@
     <string name="settings_item_title_target_distance_remind">Target Distance</string>
     <string name="settings_item_title_pace_remind">Pace Alert</string>
     <string name="settings_item_title_Leqi_remind">Cadence Alert</string>
-    <string name="settings_item_value_open">On</string>
+    <string name="settings_item_value_open">Вкл</string>
     <string name="settings_item_value_closed">Изкл</string>
     <string name="settings_item_value_target_use_time">%1$d h %2$d min</string>
     <string name="settings_item_value_target_distance">%.2fmi</string>
@@ -972,7 +972,7 @@
     <string name="btn_confirm">Потвърди</string>
     <string name="hint_rolling">Exporting, please wait for a while ...</string>
     <string name="dlg_msg_hint_cancel">Do you want to cancel the export?</string>
-    <string name="dlg_btn_l_msg">No</string>
+    <string name="dlg_btn_l_msg">Не</string>
     <string name="dlg_btn_r_msg">Yes</string>
     <string name="hint_cancelling">Cancelling...</string>
     <string name="hint_success_exported_title">"Exported to GPX file 
