@@ -4,11 +4,11 @@
     <string name="permlab_bluetoothShareManager">Доступ до менедж. завантаж.</string>
     <string name="permdesc_bluetoothShareManager">Дозволяє програмі отримувати доступ до менеджера BluetoothShare і використовувати його для передавання файлів.</string>
     <string name="permlab_bluetoothWhitelist">Білий список прийстроїв.</string>
-    <string name="permdesc_bluetoothWhitelist">Allows the app to temporarily whitelist a Bluetooth device, allowing that device to send files to this device without user confirmation.</string>
+    <string name="permdesc_bluetoothWhitelist">Дозволяє програмі тимчасово додати пристрій Bluetooth у список дозволених пристроїв, що дасть йому змогу надсилати файли на цей пристрій без підтвердження від користувача.</string>
     <string name="bt_share_picker_label">Bluetooth</string>
-    <string name="unknown_device">Unknown device</string>
-    <string name="unknownNumber">Unknown</string>
-    <string name="airplane_error_title">Airplane mode</string>
+    <string name="unknown_device">Невідомий пристрій</string>
+    <string name="unknownNumber">Невідомо</string>
+    <string name="airplane_error_title">Режим без зв\'язку</string>
     <string name="airplane_error_msg">"You can't use Bluetooth in Airplane mode."</string>
     <string name="bt_enable_title"></string>
     <string name="bt_enable_line1">To use Bluetooth services, you must first turn on Bluetooth.</string>
