@@ -6,7 +6,7 @@
     <string name="notification_unread_num">Unread %s</string>
     <string name="notification_click_upgrade">Update</string>
     <string name="notification_click_download">Download</string>
-    <string name="notification_click_open">More</string>
+    <string name="notification_click_open">Още</string>
     <string name="delete_all_notifications">Clear all notifications</string>
     <string name="delete_all_notifications_confrim_content">Deleted notifications can’t be retrieved later on the watch, continue?</string>
     <string name="notification_time_day">HH:mm</string>
@@ -26,7 +26,7 @@
     <string name="quick_settings_no_disturb_mode">Silent: %1$s</string>
     <string name="quick_settings_auto_light_mode">Backlight: %1$s</string>
     <string name="quick_settings_more_settings">More Settings</string>
-    <string name="quick_settings_switch_auto">Auto</string>
+    <string name="quick_settings_switch_auto">Авто</string>
     <string name="quick_settings_switch_awake">Awake</string>
     <string name="quick_settings_switch_always">Always On</string>
     <string name="quick_settings_switch_on">ВКЛ</string>
@@ -55,7 +55,7 @@
     <string name="quick_settings_battery_charging_intervalLessHour">"По-малко от 1 час 
 от момента на зареждане"</string>
     <string name="quick_settings_battery_sportString">Battery life in Sports mode</string>
-    <string name="quick_settings_battery_sporttime_hour_unit">hour</string>
+    <string name="quick_settings_battery_sporttime_hour_unit">час</string>
     <string name="quick_settings_battery_sporttime_KM_unit">km</string>
     <string name="quick_settings_battery_level_unit">%</string>
     <string name="quick_settings_battery_sporttime_MI_unit">mi</string>
@@ -76,7 +76,7 @@
     <string name="header_incomming_call_localcall">Local call</string>
     <string name="header_incomming_call_unknowncall">Unknown call</string>
     <string name="call_phone_off">Hang up</string>
-    <string name="call_sound_off">Mute</string>
+    <string name="call_sound_off">Заглуши</string>
     <string name="call_phone_ignore">Ignore</string>
     <string name="world_cup_begin_to_start">比赛即将开始</string>
     <string name="dialog_close">关闭</string>
@@ -112,7 +112,7 @@
     <string name="hm_watch_sports_notification_km">Kilometers</string>
     <string name="hm_watch_sports_notification_sports">Sports</string>
     <string name="hm_generic_notification_iconified_content_line">Hello, I am a fan of Huami</string>
-    <string name="notification_action_more">More</string>
+    <string name="notification_action_more">Още</string>
     <string name="notification_wechat_red_envelop_title">微信红包提醒</string>
     <string name="notification_alipay_red_envelop_title">支付宝红包提醒</string>
     <string name="notification_qq_red_envelop_title">QQ红包提醒</string>
@@ -169,7 +169,7 @@
     <string name="common_google_play_services_update_button">Update</string>
     <string name="common_signin_button_text">Sign in</string>
     <string name="common_signin_button_text_long">Sign in with Google</string>
-    <string name="pre_release_do_not_ship">true</string>
+    <string name="pre_release_do_not_ship">истина</string>
     <string name="common_open_on_phone">Open on phone</string>
     <string name="wallet_buy_button_place_holder">Buy with Google</string>
     <string name="retail_hangout_text">Hey, do you want to get dinner tonight?</string>
@@ -220,7 +220,7 @@
     <string name="now_calendar_event_address">%1$s, %2$s</string>
     <string name="now_flight_passenger">Passenger</string>
     <string name="now_flight_ticket_number">Ticket #</string>
-    <string name="now_flight_seat">Seat</string>
+    <string name="now_flight_seat">Място</string>
     <string name="now_flight_group">Group</string>
     <string name="package_first_two_items">%1$s &amp; %2$s</string>
     <string name="package_more_from_shipper">%1$s %2$s</string>
@@ -236,7 +236,7 @@
     <string name="cal_navigate_to">Navigate to %s</string>
     <string name="cal_navigate">Navigate</string>
     <string name="cal_where">Where</string>
-    <string name="cal_when">When</string>
+    <string name="cal_when">Кога</string>
     <string name="cal_notes">Notes</string>
     <string name="cal_who">Who</string>
     <string name="cal_status_accepted">Going</string>
@@ -282,7 +282,7 @@
     <string name="perm_description_install_wearable_packages">This app can install apps for wearable devices.</string>
     <string name="perm_label_set_watch_face_privileged">Set watch face, privileged</string>
     <string name="perm_description_set_watch_face_privileged">This app can set the watch face without confirmation.</string>
-    <string name="open">Open</string>
+    <string name="open">Отвори</string>
     <string name="open_on_phone">Open on phone</string>
     <string name="title_mute_app">Block app</string>
     <string name="mute_app_confirmation">Never show cards from this app</string>
@@ -329,18 +329,18 @@
     <string name="cue_menu_bug_report">Take bug report</string>
     <string name="cue_menu_apps">Start…</string>
     <string name="cue_launch_error">"Sorry, Google can't do that right now."</string>
-    <string name="voice_action_edit">Edit</string>
-    <string name="voice_action_save">Save</string>
+    <string name="voice_action_edit">Промени</string>
+    <string name="voice_action_save">Запази</string>
     <string name="voice_action_saving">Saving…</string>
     <string name="voice_action_navigate">Navigate</string>
     <string name="voice_action_navigating">Navigating…</string>
-    <string name="voice_action_open">Open</string>
+    <string name="voice_action_open">Отвори</string>
     <string name="voice_action_opening">Opening…</string>
     <string name="voice_action_contact_upload_needed">To complete this action, turn on contact recognition on your phone</string>
     <string name="voice_action_sending">Sending…</string>
-    <string name="voice_action_send">Send</string>
+    <string name="voice_action_send">Изпрати</string>
     <string name="voice_action_calling">Calling…</string>
-    <string name="voice_action_call">Call</string>
+    <string name="voice_action_call">Обаждане</string>
     <string name="voice_action_setting">Setting…</string>
     <string name="voice_action_set">Set</string>
     <string name="voice_action_email_title">Email</string>
@@ -352,8 +352,8 @@
     <string name="voice_action_navigate_mode_bike">Bicycling</string>
     <string name="voice_action_navigate_mode_drive">Driving</string>
     <string name="voice_action_navigate_mode_walk">Walking</string>
-    <string name="voice_action_note_title">Note</string>
-    <string name="voice_action_call_title">Call</string>
+    <string name="voice_action_note_title">Бележка</string>
+    <string name="voice_action_call_title">Обаждане</string>
     <string name="voice_action_set_reminder_title">Set reminder</string>
     <string name="voice_action_alarm_title">Alarm</string>
     <string name="voice_action_timer_title">Timer</string>
@@ -364,7 +364,7 @@
     <string name="voice_action_field_destination_address">Address</string>
     <string name="voice_action_field_message">Message</string>
     <string name="voice_action_field_to">До</string>
-    <string name="voice_action_field_when">When</string>
+    <string name="voice_action_field_when">Кога</string>
     <string name="voice_action_field_label">Label</string>
     <string name="voice_action_field_duration">Duration</string>
     <string name="voice_action_field_reminder">Reminder</string>
@@ -376,7 +376,7 @@
     <string name="voice_action_field_no_match">"Didn't catch that"</string>
     <string name="voice_action_field_ask_note">Note?</string>
     <string name="note_creation_success">Note created</string>
-    <string name="voice_action_done">Done</string>
+    <string name="voice_action_done">Готово</string>
     <string name="voice_action_go_to_phone">Go to phone</string>
     <string name="voice_action_remote_error">"Sorry, that didn't work. Try again."</string>
     <string name="voice_action_remote_unkown">Try again on your phone.</string>
