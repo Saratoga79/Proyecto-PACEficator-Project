@@ -32,8 +32,8 @@
     <string name="status_bar_settings_wifi_button">Wi-Fi</string>
     <string name="status_bar_settings_airplane">Airplane mode</string>
     <string name="status_bar_settings_auto_rotation">Auto-rotate screen</string>
-    <string name="status_bar_settings_mute_label">MUTE</string>
-    <string name="status_bar_settings_auto_brightness_label">AUTO</string>
+    <string name="status_bar_settings_mute_label">ЗАГЛУШЕН</string>
+    <string name="status_bar_settings_auto_brightness_label">АВТОМАТИЧЕН</string>
     <string name="status_bar_settings_notifications">Notifications</string>
     <string name="status_bar_network_name_separator">|</string>
     <string name="bluetooth_tethered">Bluetooth tethered</string>
@@ -45,7 +45,7 @@
     <string name="usb_accessory_confirm_prompt">Open %1$s when this USB accessory is connected?</string>
     <string name="usb_accessory_uri_prompt">No installed apps work with this USB accessory. Learn more about this accessory at %1$s</string>
     <string name="title_usb_accessory">USB accessory</string>
-    <string name="label_view">View</string>
+    <string name="label_view">Преглед</string>
     <string name="always_use_device">Use by default for this USB device</string>
     <string name="always_use_accessory">Use by default for this USB accessory</string>
     <string name="usb_debugging_title">Allow USB debugging?</string>
@@ -65,9 +65,9 @@
     <string name="use_mtp_button_title">Mount as a media player (MTP)</string>
     <string name="use_ptp_button_title">Mount as a camera (PTP)</string>
     <string name="installer_cd_button_title">Install Android File Transfer app for Mac</string>
-    <string name="accessibility_back">Back</string>
-    <string name="accessibility_home">Home</string>
-    <string name="accessibility_menu">Menu</string>
+    <string name="accessibility_back">Назад</string>
+    <string name="accessibility_home">Начало</string>
+    <string name="accessibility_menu">Меню</string>
     <string name="accessibility_recent">Overview</string>
     <string name="accessibility_search_light">Search</string>
     <string name="accessibility_camera_button">Camera</string>
@@ -129,7 +129,7 @@
     <string name="accessibility_data_connection_lte">LTE</string>
     <string name="accessibility_data_connection_cdma">CDMA</string>
     <string name="accessibility_data_connection_roaming">Roaming</string>
-    <string name="accessibility_data_connection_edge">Edge</string>
+    <string name="accessibility_data_connection_edge">Ръб</string>
     <string name="accessibility_data_connection_wifi">Wi-Fi</string>
     <string name="accessibility_no_sim">No SIM.</string>
     <string name="accessibility_bluetooth_tether">Bluetooth tethering.</string>
@@ -229,9 +229,9 @@
     <string name="quick_settings_rssi_label">RSSI</string>
     <string name="quick_settings_rssi_emergency_only">Emergency Calls Only</string>
     <string name="quick_settings_settings_label">Settings</string>
-    <string name="quick_settings_time_label">Time</string>
+    <string name="quick_settings_time_label">Време</string>
     <string name="quick_settings_user_label">Аз</string>
-    <string name="quick_settings_user_title">User</string>
+    <string name="quick_settings_user_title">Потребител</string>
     <string name="quick_settings_user_new_user">New user</string>
     <string name="quick_settings_wifi_label">Wi-Fi</string>
     <string name="quick_settings_wifi_not_connected">Not Connected</string>
@@ -244,11 +244,11 @@
     <string name="quick_settings_cast_device_default_description">Ready to cast</string>
     <string name="quick_settings_cast_detail_empty_text">No devices available</string>
     <string name="quick_settings_brightness_dialog_title">Brightness</string>
-    <string name="quick_settings_brightness_dialog_auto_brightness_label">AUTO</string>
+    <string name="quick_settings_brightness_dialog_auto_brightness_label">АВТОМАТИЧЕН</string>
     <string name="quick_settings_inversion_label">Invert colors</string>
     <string name="quick_settings_color_space_label">Color correction mode</string>
     <string name="quick_settings_more_settings">More settings</string>
-    <string name="quick_settings_done">Done</string>
+    <string name="quick_settings_done">Готово</string>
     <string name="quick_settings_connected">Connected</string>
     <string name="quick_settings_connected_via_wfa">Connected via Wi‑Fi assistant</string>
     <string name="quick_settings_connecting">Connecting...</string>
@@ -290,7 +290,7 @@
     <string name="keyguard_unlock">Swipe up to unlock</string>
     <string name="phone_hint">Swipe right for phone</string>
     <string name="camera_hint">Swipe left for camera</string>
-    <string name="interruption_level_none">None</string>
+    <string name="interruption_level_none">Няма</string>
     <string name="interruption_level_priority">Priority</string>
     <string name="interruption_level_all">All</string>
     <string name="keyguard_indication_charging_time">Charging (%s until full)</string>
@@ -408,7 +408,7 @@
     <string name="screen_pinning_negative">No thanks</string>
     <string name="quick_settings_reset_confirmation_title">Hide %1$s?</string>
     <string name="quick_settings_reset_confirmation_message">It will reappear the next time you turn it on in settings.</string>
-    <string name="quick_settings_reset_confirmation_button">Hide</string>
+    <string name="quick_settings_reset_confirmation_button">Скрий</string>
     <string name="ok">@android:string/ok</string>
     <string name="widget_default_package_name"></string>
     <string name="widget_default_class_name"></string>
@@ -486,7 +486,7 @@
     <string name="keyboardview_keycode_alt">Alt</string>
     <string name="keyboardview_keycode_cancel">Cancel</string>
     <string name="keyboardview_keycode_delete">Delete</string>
-    <string name="keyboardview_keycode_done">Done</string>
+    <string name="keyboardview_keycode_done">Готово</string>
     <string name="keyboardview_keycode_mode_change">Mode change</string>
     <string name="keyboardview_keycode_shift">Shift</string>
     <string name="keyboardview_keycode_enter">Enter</string>
