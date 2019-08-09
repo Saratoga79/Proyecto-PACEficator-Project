@@ -9,7 +9,7 @@
     <string name="outbound_me_profile_text">Нажмите, чтобы дать этому человеку информацию о вашем контакте.</string>
     <string name="accessibility_nfc_enabled">Модуль NFC включен.</string>
     <string name="touch">Повторить попытку</string>
-    <string name="beam_progress">Incoming beam...</string>
+    <string name="beam_progress">Входящий поток...</string>
     <string name="beam_outgoing">Beaming...</string>
     <string name="beam_complete">Beam complete</string>
     <string name="beam_failed">Beam did not complete</string>
@@ -48,10 +48,10 @@
     <string name="android_beam">Android Beam</string>
     <string name="permlab_nfcReceiveEvent">NFC Transaction awareness</string>
     <string name="permdesc_nfcReceiveEvent">Allows application to receive information about NFC transaction performed</string>
-    <string name="nfc_enabled_dialog">"Nfc is Currently Disabled. 
-Do you want to Enable it for your NFC Service"</string>
-    <string name="permgrouplab_NFC">NFC-Near Field communication</string>
-    <string name="permgroupdesc_NFC">Access various NFC features</string>
+    <string name="nfc_enabled_dialog">"Nfc в настоящее время отключен. 
+Хотите включить NFC"</string>
+    <string name="permgrouplab_NFC">Ближняя бесконтактная связь (NFC)</string>
+    <string name="permgroupdesc_NFC">Доступ к различным функциям NFC</string>
     <string name="ok">OK</string>
     <string name="no">нет</string>
 </resources>
