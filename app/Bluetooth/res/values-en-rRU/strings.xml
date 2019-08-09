@@ -87,11 +87,11 @@
     <string name="status_protocol_error">"Невозможно правильно обработать запрос."</string>
     <string name="status_unknown_error">Неизвестная ошибка.</string>
     <string name="btopp_live_folder">Получено по Bluetooth</string>
-    <string name="download_success">%1$s Received complete.</string>
-    <string name="upload_success">%1$s Sent complete.</string>
-    <string name="inbound_history_title">Inbound transfers</string>
-    <string name="outbound_history_title">Outbound transfers</string>
-    <string name="no_transfers">Transfer history is empty.</string>
+    <string name="download_success">Получено: %1$s.</string>
+    <string name="upload_success">Отправлено: %1$s.</string>
+    <string name="inbound_history_title">Входящие передачи</string>
+    <string name="outbound_history_title">Исходящие передачи</string>
+    <string name="no_transfers">История пуста.</string>
     <string name="transfer_clear_dlg_msg">All items will be cleared from the list.</string>
     <string name="outbound_noti_title">Bluetooth share: Sent files</string>
     <string name="inbound_noti_title">Bluetooth share: Received files</string>
