@@ -468,51 +468,50 @@
     <string name="train_load_suggess_status_no_record">"Пожалуйста, сначала используйте часы неделю.
  Мы оценим вашу нагрузку за 7 дней"</string>
     <string name="train_load_suggess_status_less">Недостаточная интенсивность тренировки</string>
-    <string name="train_load_suggess_status_good">Good training status</string>
-    <string name="train_load_suggess_status_recovery">"Training intensity is too high, 
- Please avoid excessive training."</string>
-    <string name="train_load_suggess_status_over">Attention! Excessive training!</string>
+    <string name="train_load_suggess_status_good">Хорошая тренировка</string>
+    <string name="train_load_suggess_status_recovery">"Интенсивность тренировки слишком высока, пожалуйста, избегайте чрезмерных нагрузок."</string>
+    <string name="train_load_suggess_status_over">Внимание! Чрезмерная нагрузка!</string>
     <string name="real_time_perpormance_level_very_good">Хорошо</string>
     <string name="real_time_perpormance_level_good">Хорошо</string>
     <string name="real_time_perpormance_level_average">В среднем</string>
     <string name="real_time_perpormance_level_fatigued">Усталость</string>
     <string name="real_time_perpormance_level_very_fatigued">Усталость</string>
-    <string name="sport_target_remind_head_title">Recommended target</string>
-    <string name="sport_run_train_title">Run training</string>
-    <string name="sport_target_remind_status_rest_or_light">Recovery after running</string>
-    <string name="sport_target_remind_status_maintaining">Maintain sports related performance</string>
-    <string name="sport_target_remind_status_improving">Improve training capability</string>
+    <string name="sport_target_remind_head_title">Рекомендованная цель</string>
+    <string name="sport_run_train_title">Выполнить тренировку</string>
+    <string name="sport_target_remind_status_rest_or_light">Восстановление после запуска</string>
+    <string name="sport_target_remind_status_maintaining">Поддерживайте спортивные результаты</string>
+    <string name="sport_target_remind_status_improving">Улучшите тренировку</string>
     <string name="sport_target_remind_status_count"></string>
-    <string name="sport_target_remind_title_01">3.5TE|30-25 minutes |5 km</string>
-    <string name="sport_target_remind_title_01_normal">%1$sTE|%2$s minutes |%3$s km</string>
+    <string name="sport_target_remind_title_01">3.5TE|30-25 минут |5 км</string>
+    <string name="sport_target_remind_title_01_normal">%1$sTE|%2$s минут |%3$s км</string>
     <string name="sport_target_remind_time_min">Минута</string>
-    <string name="sport_tartget_tips">Current target: %1$s</string>
-    <string name="sport_target_remind_desc_01">The watch will recommend the best method of training for you by combining your past performance.</string>
-    <string name="sport_te_desc_level_01">This training has no effect on improving aerobic capacity.</string>
-    <string name="sport_te_desc_level_02">The training effect is weak. This intensity is helpful for improving training tolerance and is also suitable for post-exercise recovery training.</string>
-    <string name="sport_te_desc_level_03">The training effect is moderate, which is helpful to maintain aerobic capacity.</string>
-    <string name="sport_te_desc_level_04">The training effect is good, which is helpful to improve aerobic capacity.</string>
-    <string name="sport_te_desc_level_05">The training effect is excellent, which can effectively improve cardiorespiratory capacity and aerobic capacity.</string>
-    <string name="sport_te_desc_level_06">The training intensity has exceeded the body load. Non-professional personnel shall do well in recovery after training.</string>
+    <string name="sport_tartget_tips">Текущая цель: %1$s</string>
+    <string name="sport_target_remind_desc_01">Часы рекомендуют вам наилучший способ тренировки, сочетая ваши прошлые результаты.</string>
+    <string name="sport_te_desc_level_01">Эта подготовка не оказывает никакого воздействия на повышение потенциала.</string>
+    <string name="sport_te_desc_level_02">Тренировочный эффект слабый. Эта интенсивность полезна для улучшения тренировочной дисциплины, а также подходит для восстановления после тренировки.</string>
+    <string name="sport_te_desc_level_03">Эффект обучения умеренный, что помогает сохранить вашу форму.</string>
+    <string name="sport_te_desc_level_04">Эффект обучения хороший, что помогает улучшить вашу форму.</string>
+    <string name="sport_te_desc_level_05">Эффект тренировки отличный, что может эффективно улучшить дыхание и ваш потенциал.</string>
+    <string name="sport_te_desc_level_06">Интенсивность тренировки высока. Непрофессиональный спортсмен должен хорошо восстановиться после тренировки.</string>
     <string name="first_beat_remind_txt_01">Это хороший темп。</string>
     <string name="first_beat_remind_txt_02">Это хороший темп. Больше минут, чтобы держать вас в оптимальном состоянии。</string>
-    <string name="sport_history_recovery_remind">Recovery exercises can be performed to ease the damage to the body before it is fully recovered</string>
-    <string name="daily_propermance_has_no_data">No data detected</string>
-    <string name="first_beat_help_title_vo2_max">Maximum oxygen uptake</string>
-    <string name="first_beat_help_title_train_efffect">Training effect TE</string>
-    <string name="first_beat_help_title_train_load">Training load</string>
-    <string name="first_beat_help_title_sport_target_or_real_time_guide">Recommended running target&amp; real-time instruction</string>
-    <string name="first_beat_help_title_daily_perpormence">Performance status</string>
-    <string name="first_beat_help_title_recovery_time">Time for full recovery</string>
-    <string name="first_beat_help_vo2_max">&lt;font color=#00FF00&gt;What’s this？&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Maximum oxygen uptake (VO2max) refers to the oxygen uptake when the human body is performing exercise under maximum intensity, and it is an important index to the aerobic capacity. As one of the important reference data for endurance athletes, high maximal oxygen uptake is the foundation of high aerobic capacity. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Maximum oxygen uptake is relatively individualized, with different reference standards for different gender and age. The watch will evaluate your athletic ability based on your personal information, heart rate and speed generated during training, and will change with your athletic ability. Of course, everyone has a ceiling of their own maximum oxygen uptake, which depends the individual body. &lt;br/&gt;&lt;font color=#00FF00&gt;How to obtain it？&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 1. Enter accurate personal information in the Amazfit watch App; &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 2. Wear the watch for at least 10 minutes of outdoor running, and to generate heart rate values and reach the maximum heart rate of 75%; &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 3. After running, you can check your current maximum oxygen uptake level through the training record function of the watch or personal status page in the Amazfit watch App. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;(More instructions on maximum oxygen uptake can be found in the help page of the Amazfit watch App.)&lt;/small&gt;</string>
-    <string name="first_beat_help_te">&lt;font color=#00FF00&gt;What’s this？&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Training effect (hereinafter referred to as TE) is an index to measure the improvement effect of one training to aerobic capacity. TE score will continuously accumulate staring with 0.0 as you starting training with the watch. The score interval is 0.0-5.0, with different score interval representing different effects. The higher the score is, the higher the training intensity is, and the greater the stress on the body. However, it also means that the effect of this training is better. Of course, when TE reaches 5.0, you shall pay attention to whether the body is overloaded. &lt;br/&gt;&lt;font color=#00FF00&gt;How to obtain it？&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; The TE score may be evaluated based on your personal information, heart rate and speed during training. A lower TE score does not mean that you have a problem with your training, and only means that this training is relatively easy and has no significant effect on improving your aerobic capacity (for example, you jog for an hour, the TE score will still be low). &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; The watch will present the TE score after the training and provide relevant evaluation or suggestions. Meanwhile, it also provides real-time TE for the runners who need to adjust their status during running. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;(More instructions on TE can be found in the help page of the Amazfit watch App.)&lt;/small&gt;</string>
-    <string name="first_beat_help_train_load">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; The watch will calculate the corresponding training load score based on the EPOC (excess post exercise oxygen consumption) you have generated in the past 7 days, so as to evaluate your amount of exercise. You can adjust your next training schedule based on recommendations in interval your score is in. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;(More instructions on training load can be found in the help page of the Amazfit watch App.)&lt;/small&gt;</string>
-    <string name="first_beat_help_run_target_and_real_time_guide">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; The watch will recommend training target for you based on your recent performance. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; If real-time guidance is turned on in the training setting, the watch will prompt you how to adjust your speed and heart rate to better achieve the target when you set the training effect target or use the recommended target. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;small&gt;(More instructions can be found in the help page of the Amazfit watch App.)&lt;/small&gt;</string>
-    <string name="first_beat_help_daily_perpormence">&lt;font color=#00FF00&gt;What’s this？&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Runners may in good or bad situation during running. Performance status helps to quantify your each running state. &lt;br/&gt;&lt;font color=#00FF00&gt;How to use it？&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; The watch will automatically evaluate your current performance status after 6 minutes since running. A positive value represents good status. Therefore, you are more likely to do well in running or racing. When it is a negative value, it is recommended not to run at high intensity and not to force yourself to run well. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; At the end of each running, you can analyze the run by looking at the score per mile in the performance chart . &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;(More instructions on performance status can be found in the help page of the Amazfit watch App.)&lt;/small&gt;</string>
-    <string name="first_beat_help_recovery_time">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; The watch will recommend the time for full recovery for each training based on the running results, which is proportional to the training intensity. Runners are not advised to have high-intensity training during recovery, and can do some restorative training to help the body recover. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;(More instructions on recovery time can be found in the help page of the Amazfit watch App.)&lt;/small&gt;</string>
-    <string name="vo2max_unit">mg/kg/min</string>
+    <string name="sport_history_recovery_remind">Упражнения на восстановление выполняются чтобы ослабить усталость тела, прежде чем оно полностью восстановится</string>
+    <string name="daily_propermance_has_no_data">Данные не обнаружены</string>
+    <string name="first_beat_help_title_vo2_max">Максимальный уровень поглощение кислорода</string>
+    <string name="first_beat_help_title_train_efffect">Ефект тренировки</string>
+    <string name="first_beat_help_title_train_load">Загрузка тренировки</string>
+    <string name="first_beat_help_title_sport_target_or_real_time_guide">Рекомендуется выполнять цели&amp; в реальном времени</string>
+    <string name="first_beat_help_title_daily_perpormence">Состояние производительности</string>
+    <string name="first_beat_help_title_recovery_time">Время для полного восстановления</string>
+    <string name="first_beat_help_vo2_max">&lt;font color=#00FF00&gt;Что это это является:&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp; nbsp;&amp;nbsp; &amp; nbsp; Максимальный поглощение кислорода (VO2max) относится к поглощению кислорода, когда организм человека осуществляет упражнение под максимальной интенсивностью, и это важный индекс для аэробной мощности. В качестве одной из важных справочных данных для спортсменов с выносливостью, высокое максимальное поглощение кислорода является основой высокой аэробной мощности. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; максимальное поглощение кислорода относительно индивидуализировано, с различными эталонными стандартами для различных полов и возрастов. Часы будут оценивать вашу спортивную способность на основе вашей личной информации, скорости сердца и скорости, генерируемой во время обучения, и изменятся с вашей способностью атилетия. Конечно, каждый имеет потолок своего максимального кислорода, который зависит от отдельного тела. &lt;br/&gt;&lt;font color=#00FF00&gt;Как получить его&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 1. Введите точную личную информацию в приложении Amazfit watch App; &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 2. Слабейте часы на 10 минут работы на открытом воздухе и генерируйте значения сердечного ритма и достигайте максимальной скорости сердца 75%; &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 3. После запуска вы можете проверить ваш текущий максимальный уровень кислорода в режиме обучения на странице часов или персонального статуса в приложении Amazfit. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;(Подробнее инструкций по максимальному поглощению кислорода можно найти на странице помощи Amazfit watch App.)&lt;/small&gt;</string>
+    <string name="first_beat_help_te">&lt;font color=#00FF00&gt;Что это является это,&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp; nbsp;&amp;nbsp; Эффект обучения (далее именуемый TE) является индексом для измерения улучшения эффекта одной подготовки к аэробной мощности. TE балл будет постоянно накапливаться с 0.0 по мере начала обучения с часами. Интервал балла 0.0-5.0, с разным интервалом баллов, представляющим различные эффекты. Чем выше оценка, тем выше интенсивность обучения, и тем больше стресс на организме. Однако это также означает, что эффект этой подготовки лучше. Конечно, когда TE достигнет 5,0, вы должны обратить внимание на то, перегружен ли тело. &lt;br/&gt;&lt;font color=#00FF00&gt;Как получить его&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; оценка TE может быть оценена на основе вашей личной информации, скорости сердца и скорости во время обучения. Более низкий курс TE не означает, что у вас есть проблемы с вашей тренировкой, и только означает, что эта тренировка относительно проста и не имеет существенного влияния на улучшение вашей аэробной способности (например, вы шутите на час, TE балл будет все еще низкий). &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Часы будут представлять TE балл после обучения и предоставлять соответствующую оценку или предложения. Тем временем, он также предоставляет в режиме реального времени TE для бегунов, которые должны регулировать их статус во время работы. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;(Подробнее инструкций по TE можно найти на странице помощи Amazfit watch App.)&lt;/small&gt;</string>
+    <string name="first_beat_help_train_load">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; The watch will calculate the corresponding training load score based on the EPOC (избыточный post exercise oxygen consumption) you have generated in the past 7 days, so as to evaluate your amount of exercise. Вы можете настроить следующий график обучения на основе рекомендаций, которые вы можете использовать в интервале. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;(Подробнее инструкций по загрузке обучения можно найти на странице помощи Amazfit watch App.)&lt;/small&gt;</string>
+    <string name="first_beat_help_run_target_and_real_time_guide">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Часы рекомендуют обучать цели на основе вашей последней производительности. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp; nbsp; Если в настройках обучения включено указание в режиме реального времени, часы побудят вас настроить скорость и скорость сердца, чтобы лучше достичь цели, когда вы устанавливаете цель тренировочного эффекта или использовать рекомендованную цель. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;small&gt;(Подробнее инструкций можно найти на странице помощи Amazfit watch App.)&lt;/small&gt;</string>
+    <string name="first_beat_help_daily_perpormence">&lt;font color=#00FF00&gt;Что это это является:&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Runners may in good or bad situation during running. Состояние производительности помогает определить состояние каждого выполняемого состояния. &lt;br/&gt;&lt;font color=#00FF00&gt;Как использовать его:&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; The watch will automatically evaluate your current performance status after 6 minutes since running. Положительное значение представляет хороший статус. Поэтому, скорее всего, вы хорошо будете вести или гонять. Когда это отрицательная ценность, рекомендуется не работать при высокой интенсивности и не заставлять себя работать хорошо. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; В конце каждого запуска вы можете проанализировать бег, глядя на балл за миль в графике производительности . &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;(Подробнее инструкций по статусу производительности можно найти на странице помощи Amazfit watch App.)&lt;/small&gt;</string>
+    <string name="first_beat_help_recovery_time">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Часы рекомендуют время для полного восстановления для каждой тренировки на основе результатов работы, что пропорционально интенсивности обучения. В процессе восстановления не рекомендуется проводить высокоинтенсивное обучение, а также проводить восстановительные занятия, чтобы помочь восстановить организм. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;(Подробнее инструкций о времени восстановления можно найти на странице помощи Amazfit watch App.)&lt;/small&gt;</string>
+    <string name="vo2max_unit">мг/кг/мин</string>
     <string name="run_vo2max_unit">мл / кг / мин</string>
-    <string name="vo2_max_has_no_data">No data</string>
+    <string name="vo2_max_has_no_data">Данные отсутствуют</string>
     <string name="sport_setting_gpx_route_selected">Трек выбран</string>
     <string name="sport_setting_gpx_route_selectd_remind">Двигайтесь используя эту траекторию. Если нет необходимости, закройте.</string>
     <string name="confirm">OK</string>
@@ -591,11 +590,11 @@
     <string name="real_time_target_finish">Ваша цель достигнута</string>
     <string name="real_time_guide_title_1">Хороший темп!</string>
     <string name="real_time_guide_title_2">Сохраняйте темп!</string>
-    <string name="real_time_guide_title_3">"Increase the pace for effective results!"</string>
+    <string name="real_time_guide_title_3">"Увеличивайте скорость для эффективных результатов!"</string>
     <string name="real_time_guide_title_6">Хороший темп!</string>
-    <string name="real_time_guide_title_7">"Increase the pace for more effective results!"</string>
+    <string name="real_time_guide_title_7">"Увеличивайте скорость для еще более эффективных результатов!"</string>
     <string name="real_time_guide_title_10">Хороший темп!</string>
-    <string name="real_time_guide_title_11">"Increase the pace for more effective results!"</string>
+    <string name="real_time_guide_title_11">"Увеличивайте скорость для еще более эффективных результатов!"</string>
     <string name="real_time_guide_title_14">Отлично!</string>
     <string name="real_time_guide_title_22">Хороший темп!</string>
     <string name="real_time_guide_title_25">Увеличьте темп.</string>
@@ -608,17 +607,17 @@
     <string name="real_time_guide_title_33">Не принимайте близко к сердцу!</string>
     <string name="real_time_guide_title_34">Не так быстро!</string>
     <string name="real_time_guide_title_35">Не принимайте близко к сердцу!</string>
-    <string name="real_time_guide_desc_1">Come on! Very good!</string>
+    <string name="real_time_guide_desc_1">Давай! Очень хорошо!</string>
     <string name="real_time_guide_desc_2">%1$s больше минут, чтобы держать вас в форме</string>
-    <string name="real_time_guide_desc_3">Accelerate to achieve better exercise results</string>
+    <string name="real_time_guide_desc_3">Ускоряйтесь для достижения лучших результатов упражнений</string>
     <string name="real_time_guide_desc_6">%1$s минут улучшат ваш фитнес.</string>
-    <string name="real_time_guide_desc_7">Accelerate to achieve better exercise results!</string>
+    <string name="real_time_guide_desc_7">Ускоряйтесь для достижения лучших результатов упражнений!</string>
     <string name="real_time_guide_desc_10">%1$s минут для очень хорошего эффекта вашего фитнеса.</string>
-    <string name="real_time_guide_desc_11">Accelerate to achieve better exercise results</string>
+    <string name="real_time_guide_desc_11">Ускоряйтесь для достижения лучших результатов упражнений</string>
     <string name="real_time_guide_desc_14">Вы уже завершили очень хорошую тренировку!</string>
     <string name="real_time_guide_desc_22">%1$s минут, чтобы достичь вашей цели!</string>
     <string name="real_time_guide_desc_25">Целевая частота сердечных сокращений составляет %1$s-%2$sуд. в мин。</string>
-    <string name="real_time_guide_desc_26">Come on! Run faster</string>
+    <string name="real_time_guide_desc_26">Давай! Беги быстрее</string>
     <string name="real_time_guide_desc_27">Вы достигли своей цели!</string>
     <string name="real_time_guide_desc_28">Вы достигли вашей цели!</string>
     <string name="real_time_guide_desc_30">Этот вид упражнений будет поддерживать вас в форме.</string>
@@ -627,11 +626,11 @@
     <string name="real_time_guide_desc_33">Это упражнение может были слишком трудно для вашего тела.</string>
     <string name="real_time_guide_desc_34">Целевой частоты сердечных сокращений составляет %1$s-%2$s bpm!</string>
     <string name="real_time_guide_desc_35">Время расслабиться!</string>
-    <string name="aleary_finish_group">Group No. %1$s Has Been Completed</string>
-    <string name="this_group_count">Group Counting</string>
-    <string name="group_cost_time">Group Time</string>
-    <string name="group_frequency">Group Frequency</string>
-    <string name="aleary_rest">Have Taken A Rest</string>
+    <string name="aleary_finish_group">Группа №. %1$s завершено</string>
+    <string name="this_group_count">Групповое подсчет</string>
+    <string name="group_cost_time">Групповое время</string>
+    <string name="group_frequency">Частота группы</string>
+    <string name="aleary_rest">Отдых</string>
     <string name="next_group">Next Group</string>
     <string name="rope_skip_times">%1$s times</string>
     <string name="rope_skip_frequency">Frequency</string>
@@ -661,8 +660,8 @@
     <string name="rope_skip_aleary_group"><Data>Завершено No. &lt;font color=#00ff00&gt;%1$s&lt;/font&gt; Групп</Data></string>
     <string name="sport_remind_total_times">Всего : %1$s раз</string>
     <string name="sport_main_graph_title_rope_skip">Ближайший(е)</string>
-    <string name="sport_rope_skip_requency">Frequency(Times/Minute))</string>
-    <string name="swim_total_trips_times">Total Trips : %1$s Times</string>
+    <string name="sport_rope_skip_requency">Частота (время/минут))</string>
+    <string name="swim_total_trips_times">Всего : %1$s раз</string>
     <string name="route_glevation_gain">Высота по нарастающей</string>
     <string name="route_scale_enlarge">Увеличить</string>
     <string name="route_scale_narrow">Узкий</string>
@@ -679,7 +678,7 @@
     <string name="hard_cardio">Тяжелое кардио</string>
     <string name="very_hard_cardio">Очень тяжелое кардио</string>
     <string name="running_cost_time_desc">Время</string>
-    <string name="running_distance_desc">Distance</string>
+    <string name="running_distance_desc">Расстояние</string>
     <string name="running_pace_desc">Темп</string>
     <string name="running_avg_pace_desc">Средний темп</string>
     <string name="running_heartrate_desc">Пульс</string>
@@ -761,7 +760,7 @@
     <string name="sport_history_item_cost_time_desc">Время</string>
     <string name="sport_history_total_distance_desc">Общее расстояние</string>
     <string name="sport_history_header_total_count_desc">Общее время</string>
-    <string name="sport_history_header_calorie_desc">Total burned</string>
+    <string name="sport_history_header_calorie_desc">Всего сожжено</string>
     <string name="running_realtime_trail_desc">Маршрут GPS</string>
     <string name="title_activity_sport_history">SportHistoryActivity</string>
     <string name="history_heart_rate_desc">Пульс:</string>
@@ -994,6 +993,6 @@
     <string name="widget_currentstep_sleep_title">Сон</string>
     <string name="widget_currentstep_sleep_no">Нет данных о сне</string>
     <string name="widget_currentstep_activity_no">Сегодня нет тренировок?</string>
-    <string name="sport_widget_title_on_foot">Trekking</string>
-    <string name="on_foot_progress">Trekking...</string>
+    <string name="sport_widget_title_on_foot">Треккинг</string>
+    <string name="on_foot_progress">Треккинг...</string>
 </resources>
