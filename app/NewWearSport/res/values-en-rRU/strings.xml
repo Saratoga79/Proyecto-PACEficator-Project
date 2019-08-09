@@ -437,37 +437,37 @@
     <string name="no_mem_tips_title">Не удается запустить</string>
     <string name="no_mem_tips_content">Текущее доступное пространство для часов меньше минимального значения для движения (2MB). Удалите некоторые из импортированных файлов и начните движение.</string>
     <string name="no_mem_exit">Выйти</string>
-    <string name="lap_dis_title">Segmented distance</string>
-    <string name="back_to_continue_sport">Return</string>
-    <string name="first_modify_tips">Calibration with a mileage greater than 0.5 km allows the watch to learn your running habits and make the running mileage more accurate.</string>
-    <string name="modify_big_dis_tips">The calibration value %1$s is quite different from the measured value %2$s. Is the calibration confirmed?</string>
-    <string name="modify_big_dis_regain">Modify</string>
-    <string name="modify_big_dis_confirm">Confirm calibration</string>
-    <string name="re_modify_dis">Recalibration</string>
-    <string name="re_modify_dis_tips">"1. Calibration with a mileage greater than 0.5 km allows the watch to learn your running habits and make the running mileage more accurate. 
-2. If you have performed multiple calibrations but are still not satisfied with the mileage results, you can recalibrate. 
-3. Recalibration will delete all previous calibration records."</string>
-    <string name="give_up_re_modify_dis">Give up</string>
-    <string name="confirm_re_modify_dis">Comfirm</string>
-    <string name="re_modify_dis_successful">Recalibration succeeded</string>
-    <string name="lap_swim_stroke_speed_title">划水速率</string>
-    <string name="history_heart_rate_graph_desc">Heart rate (bpm)</string>
-    <string name="huanghe_pause_continue_title">Movement operation</string>
+    <string name="lap_dis_title">Сегмент растояния</string>
+    <string name="back_to_continue_sport">Возврат</string>
+    <string name="first_modify_tips">Калибровка с пробегом более 0,5 км позволяет часам узнать ваши привычки к бегу и сделать беговые пробежки более точными.</string>
+    <string name="modify_big_dis_tips">Значение калибровки %1$s отличается от измеренного значения %2$s. Подтверждаете калибровку?</string>
+    <string name="modify_big_dis_regain">Изменить</string>
+    <string name="modify_big_dis_confirm">Подтверждение калибровки</string>
+    <string name="re_modify_dis">Перекалибровать</string>
+    <string name="re_modify_dis_tips">"1. Калибровка с пробегом более 0,5 км позволяет часам узнать ваши привычки работы и сделать пробег более точным. 
+2. Если вы выполнили несколько калибровок, но все еще не удовлетворены результатами пробега, вы можете повторно использовать. 
+3. Перекалибровка удалит все предыдущие записи калибровки."</string>
+    <string name="give_up_re_modify_dis">Прервать</string>
+    <string name="confirm_re_modify_dis">Подтвердить</string>
+    <string name="re_modify_dis_successful">Калибровка успешна</string>
+    <string name="lap_swim_stroke_speed_title">Скорость плавания</string>
+    <string name="history_heart_rate_graph_desc">Пульс (bpm)</string>
+    <string name="huanghe_pause_continue_title">Обнаружение движения</string>
     <string name="experience_title">Пожалуйста, настройте личную информацию или у вас будет большое отклонение</string>
-    <string name="recovery_time_hour">Hour</string>
+    <string name="recovery_time_hour">Час</string>
     <string name="sport_vo2_max">VO2Max</string>
-    <string name="sport_ability">Training ability</string>
-    <string name="sport_train_load">Training load</string>
-    <string name="first_beat_sport_status">Performance status</string>
-    <string name="currnet_daily_performance_staus">Current performance status</string>
-    <string name="sport_ability_up">Sport ability up</string>
-    <string name="sport_ability_down">Sport ability down</string>
+    <string name="sport_ability">Обучение и способности</string>
+    <string name="sport_train_load">Загрузка тренировки</string>
+    <string name="first_beat_sport_status">Настройки производительности</string>
+    <string name="currnet_daily_performance_staus">Текущий статус производительности</string>
+    <string name="sport_ability_up">Спортивный уровень повышен</string>
+    <string name="sport_ability_down">Спортивный уровень понижен</string>
     <string name="time_unit_hour">Час</string>
     <string name="train_load_medium">Средний</string>
-    <string name="train_load_near_seven_days">Near seven days</string>
-    <string name="train_load_suggess_status_no_record">"Please use the watch for a week first.
- We will evaluate your training load for 7 days"</string>
-    <string name="train_load_suggess_status_less">Insufficient training intensity</string>
+    <string name="train_load_near_seven_days">Последние 7 дней</string>
+    <string name="train_load_suggess_status_no_record">"Пожалуйста, сначала используйте часы неделю.
+ Мы оценим вашу нагрузку за 7 дней"</string>
+    <string name="train_load_suggess_status_less">Недостаточная интенсивность тренировки</string>
     <string name="train_load_suggess_status_good">Good training status</string>
     <string name="train_load_suggess_status_recovery">"Training intensity is too high, 
  Please avoid excessive training."</string>
