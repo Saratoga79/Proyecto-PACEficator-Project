@@ -79,7 +79,7 @@
     <string name="label_subject_ratio_today">Соотношение активности</string>
     <string name="label_subject_sit">До сих пор</string>
     <string name="label_when_quiet">Отдых</string>
-    <string name="label_when_active">During/After Workout</string>
+    <string name="label_when_active">Во время / после тренировки</string>
     <string name="notif_detail_view">Просмотреть подробности</string>
     <string name="notif_long_sit_desc">"Вы сидите слишком долго. Вставайте и подвигайтесь минуту."</string>
     <string name="notif_long_sit_title">Время вставать</string>
@@ -214,9 +214,9 @@
     <string name="weeklysports_outdoorriding_max">Макс. скорость движения на открытом воздухе на велосипеде</string>
     <string name="weeklysports_outdoorriding_unit_zh">км/ч</string>
     <string name="weeklysports_outdoorriding_unit_en">ми/ч</string>
-    <string name="weeklysports_swimerrate">Score of swimming pace</string>
-    <string name="weeklysports_innerswimrate">Average speed of swimming in the pool</string>
-    <string name="weeklysports_openswimrate">Average speed of swimming in the Open Water</string>
+    <string name="weeklysports_swimerrate">Темп плавания</string>
+    <string name="weeklysports_innerswimrate">Средняя скорость плавания в бассейне</string>
+    <string name="weeklysports_openswimrate">Средняя скорость плавания в открытой воде</string>
     <string name="weeklysports_triathlon">Триатлон</string>
     <string name="weeklysports_triathlon_totaltime">Общее время</string>
     <string name="weeklysports_triathlon_hour">часов</string>
@@ -235,7 +235,7 @@
     <string name="currentstep_detail_running">Бег</string>
     <string name="currentstep_detail_walking">Прогулка</string>
     <string name="currentstep_detail_riding">Велосипед</string>
-    <string name="currentstep_detail_swimming">Swim</string>
+    <string name="currentstep_detail_swimming">Плавать</string>
     <string name="currentstep_detail_triathlon">Триатлон</string>
     <string name="currentstep_detail_triathlon_short">Tri</string>
     <string name="currentstep_detail_mountain">Восхождение</string>
@@ -273,7 +273,7 @@
     <string name="widget_weeklyreports_heart_rate_min_text">Мин(Чсс)</string>
     <string name="widget_weeklyreports_heart_rate_max_text">Макс(Чсс)</string>
     <string name="widget_weeklyreports_heart_rate_title">Пульс</string>
-    <string name="widget_weeklyreports_average_title">Average heart rate</string>
+    <string name="widget_weeklyreports_average_title">Средний пульс</string>
     <string name="widget_weeklyreports_totalcalory_front">Всего калорий</string>
     <string name="widget_weeklyreports_totalcalory_title">Калории</string>
     <string name="widget_weeklyreports_sports_title">Спорт</string>
@@ -296,13 +296,13 @@
     <string name="currentstep_detail_activities">Время тренировок</string>
     <string name="currentstep_detail_activities_title">Легенда</string>
     <string name="currentstep_detail_activities_others">Другое</string>
-    <string name="heart_rate_quite">Resting heart rate</string>
-    <string name="widget_weeklyreports_heart_rate_min_reset_text">Minimum resting</string>
-    <string name="widget_weeklyreports_heart_rate_max_reset_text">Maximum resting</string>
-    <string name="widget_weeklyreports_average_reset_title">Average resting</string>
-    <string name="label_all_day_quite_new">The average resting heart-rate is</string>
-    <string name="lable_all_day_abnormal_heart">Abnormal heart-beat</string>
-    <string name="abnormal_heart_hint">Abnormal heart-beat detected</string>
+    <string name="heart_rate_quite">Частота сердечного ритма</string>
+    <string name="widget_weeklyreports_heart_rate_min_reset_text">Минимальный отдых</string>
+    <string name="widget_weeklyreports_heart_rate_max_reset_text">Максимальний отдых</string>
+    <string name="widget_weeklyreports_average_reset_title">Средний отдых</string>
+    <string name="label_all_day_quite_new">Средняя частота сердечных сокращений в покое составляет</string>
+    <string name="lable_all_day_abnormal_heart">Аномальное сердцебиение</string>
+    <string name="abnormal_heart_hint">Обнаружено аномальное сердцебиение</string>
     <string name="abnormal_heart_sure">OK</string>
-    <string name="abnormal_heart_today_no_hint">No more reminders today</string>
+    <string name="abnormal_heart_today_no_hint">Не напоминать сегодня</string>
 </resources>
