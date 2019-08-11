@@ -10,33 +10,29 @@
     <string name="granularity_label_word">слово</string>
     <string name="factorytest_reboot">Перезагрузка</string>
     <string name="aerr_application">К сожалению, %1$s остановлено.</string>
-    <string name="aerr_process">Unfortunately, the process %1$s has stopped.</string>
-    <string name="anr_activity_application">"%2$s isn\'t responding.
-
-Do you want to close it?"</string>
+    <string name="aerr_process">К сожалению, в приложении %1$s остановлено.</string>
+    <string name="anr_activity_application">"%2$s не отвечает. Вы хотите закрыть его?"</string>
     <string name="anr_activity_process">"Приложение \"%1$s\" не отвечает.
 
 Закрыть его?"</string>
     <string name="anr_application_process">"%1$s не отвечает. Вы хотите закрыть его?"</string>
-    <string name="anr_process">"Process %1$s isn\'t responding.
-
-Do you want to close it?"</string>
-    <string name="force_close">OK</string>
-    <string name="report">Report</string>
-    <string name="wait">Wait</string>
+    <string name="anr_process">"Процесс %1$s не отвечает. Вы хотите закрыть его?"</string>
+    <string name="force_close">Ок</string>
+    <string name="report">Отчет</string>
+    <string name="wait">Ждите</string>
     <string name="android_upgrading_title">Обновление...</string>
     <string name="android_start_title">Запуск Android…</string>
     <string name="android_upgrading_apk">" Оптимизация приложения %1$d Всего %2$d"</string>
     <string name="android_upgrading_starting_apps">Запуск приложений.</string>
     <string name="android_upgrading_complete">Окончание загрузки...</string>
-    <string name="wifi_available_sign_in">Sign into Wi-Fi network</string>
-    <string name="wifi_watchdog_network_disabled">"Couldn't connect to Wi-Fi"</string>
+    <string name="wifi_available_sign_in">Подключение к Wi-Fi</string>
+    <string name="wifi_watchdog_network_disabled">"Не удалось подключиться к сети Wi-Fi"</string>
     <string name="sim_restart_button">Перезапуск</string>
     <string name="back_button_label">Назад</string>
-    <string name="activity_resolver_use_always">Always</string>
-    <string name="activity_resolver_use_once">Just once</string>
-    <string name="whichApplication">Complete action using</string>
-    <string name="whichApplicationNamed">Complete action using %1$s</string>
-    <string name="whichViewApplication">Open with</string>
-    <string name="whichViewApplicationNamed">Open with %1$s</string>
+    <string name="activity_resolver_use_always">Всегда</string>
+    <string name="activity_resolver_use_once">Разрешить единожды</string>
+    <string name="whichApplication">Завершитe действие</string>
+    <string name="whichApplicationNamed">Завершить действие с помощью %1$s</string>
+    <string name="whichViewApplication">Открыть с помощью</string>
+    <string name="whichViewApplicationNamed">Открыть с помощью %1$s</string>
 </resources>
