@@ -24,7 +24,7 @@
     </string-array>
     <string-array name="lab_item_open_nfc">
         <item>[prim]переключатель NFC</item>
-        <item>[sum]Turn NFC on or off</item>
+        <item>[sum]Включите или выключите NFC</item>
         <item>[sid]nfc</item>
     </string-array>
     <string-array name="lab_item_bt_hci_snoop_log">
@@ -33,13 +33,13 @@
         <item>[sid]btsnoop</item>
     </string-array>
     <string-array name="lab_item_power_test">
-        <item>[prim]Power consumption test in flight mode</item>
-        <item>[sum]Detect power consumption in flight mode</item>
+        <item>[prim]Тест расхода энергии в режиме полета</item>
+        <item>[sum]Обнаружение расхода энергии в режиме полета</item>
         <item>[sid]тест_мощности</item>
     </string-array>
     <string-array name="lab_item_long_sitting_timer_plus">
-        <item>[prim]Time of sedentary reminder</item>
-        <item>[sum]Set the time of sedentary reminder (in min)</item>
+        <item>[prim]Время напоминания о бездействии</item>
+        <item>[sum]Установить время напоминания о бездействии (in min)</item>
         <item>[pkg]com.huami.mobile.watchsettings</item>
         <item>[clazz]com.huami.moblie.watchsettings.actions.lab.labUI.LongSittingTimeActivity</item>
     </string-array>
@@ -225,7 +225,7 @@
         <item>+13 Тонгатапу</item>
     </string-array>
     <string-array name="light_mode_subtitle">
-        <item>Brightness: disabled</item>
+        <item>Яркость: отключена</item>
         <item>Яркость: авто</item>
         <item>Яркость: 2</item>
         <item>Яркость: 2</item>
