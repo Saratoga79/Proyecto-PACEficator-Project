@@ -66,7 +66,7 @@
     <string-array name="sport_data_item_array">
         <item></item>
         <item>Время</item>
-        <item>Distance</item>
+        <item>Расстояние</item>
         <item>Темп</item>
         <item>Средний темп</item>
         <item>Пульс</item>
@@ -79,7 +79,7 @@
         <item>Темп</item>
         <item>Дист. по нарастающей</item>
         <item>Шаги</item>
-        <item>Cadence</item>
+        <item>Темп</item>
         <item>Поездка</item>
         <item>DPS</item>
         <item>Темп гребли</item>
@@ -93,7 +93,7 @@
         <item>Макс. скорость</item>
         <item>Пробежка(и)</item>
         <item>Расстояние</item>
-        <item>Total distance</item>
+        <item>Общий путь</item>
         <item>Спуск</item>
         <item>Взмахи</item>
         <item>Время круга</item>
@@ -102,20 +102,20 @@
         <item>Пульс на интервале</item>
         <item>Каденс интервала</item>
         <item>Темп интервала</item>
-        <item>Current freq</item>
-        <item>Total Counts</item>
-        <item>Average Frequency</item>
-        <item>Current Group Number</item>
-        <item>Count of the Group</item>
-        <item>Time of the Group</item>
-        <item>Frequency of the Group</item>
+        <item>Текущая частота</item>
+        <item>Общее количество</item>
+        <item>Альтернативная частота</item>
+        <item>Текущая группа</item>
+        <item>Количество групп</item>
+        <item>Время группы</item>
+        <item>Частота группы</item>
     </string-array>
     <string-array name="sport_train_item">
-        <item>Remaining Distance</item>
+        <item>Оставшееся расстояние</item>
         <item>Общее расстояние</item>
         <item>Прошло времени</item>
         <item>Оставшееся время</item>
-        <item>Distance</item>
+        <item>Расстояние</item>
     </string-array>
     <string-array name="weekdays">
         <item>Вс</item>
