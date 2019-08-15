@@ -258,7 +258,7 @@
     <string name="blt_paring_fail_hint">"Убедитесь, что устройство включено
 и находится поблизости "</string>
     <string name="blt_hint_disconnect_device">Отключен</string>
-    <string name="blt_hint_ignore_device">Ingore the device</string>
+    <string name="blt_hint_ignore_device">Игнорировать устройство</string>
     <string name="blt_hint_connect_device">Подключение</string>
     <string name="blt_confirm_ignore">Вы уверены, что хотите проигнорировать это устройство?</string>
     <string name="bluetooth_connected">Подключено</string>
@@ -307,50 +307,50 @@
 см"</string>
     <string name="weight_unit">"Вес
 кг"</string>
-    <string name="reset_factory_hint">Restore factory settings?</string>
-    <string name="reset_factory_yes">Factory Reset</string>
-    <string name="reset_factory_no">Cancel</string>
-    <string name="reset_factory_title">Factory Reset</string>
-    <string name="reset_factory_noconnect_msg">"If Needing to Unbind the Watch, Please Operate Through Amazfit Watch App. 
- Watch’s Unilateral Factory Reset Will Remove UnionPay Card and Transportation Card. 
- A Removed UnionPay Card: It Can No Longer Be Bound to The Watch. If You Need to Bind Again, Please Consult the Bank Customer Service. 
- A Removed Transportation Card: Will Be Destroyed Permanently and Cannot Be Paid Again."</string>
-    <string name="reset_factory_conncet_msg">Watch and Amazfit watch App will Remove the Bound UnionPay Card. The Watch will Retain the Payment Function of the Transportation Card.</string>
-    <string name="reset_factory_positive">Factory Reset</string>
-    <string name="reset_factory_negative">Cancel</string>
-    <string name="reset_factory_fail_title">Unsuccessful Factory Reset</string>
-    <string name="reset_factory_fail_msg">If the UnionPay Card Is Not Successfully Removed, Please Try Again.</string>
+    <string name="reset_factory_hint">Восстановить значения по умолчанию?</string>
+    <string name="reset_factory_yes">Сброс к заводским настройкам</string>
+    <string name="reset_factory_no">Отменить</string>
+    <string name="reset_factory_title">Сброс к заводским настройкам</string>
+    <string name="reset_factory_noconnect_msg">"Если требуется отменить просмотр, пожалуйста, воспользуйтесь приложением Amazfit Watch. 
+ Сброс часов удалит карту UnionPay и карту транспорта. 
+ Удаленная карта UnionPay: она не может быть привязана к часам. Если вам нужно снова привязать, пожалуйста, свяжитесь с клиентской службой банка. 
+ Удаленная транспортная карта: будет уничтожена навсегда и не может быть подключена снова."</string>
+    <string name="reset_factory_conncet_msg">Часы и Amazfit приложение удалит Bound UnionPay Card. Часы сохранят функцию оплаты транспортной картой.</string>
+    <string name="reset_factory_positive">Сброс к заводским настройкам</string>
+    <string name="reset_factory_negative">Отменить</string>
+    <string name="reset_factory_fail_title">Неудачный сброс настроек к заводским</string>
+    <string name="reset_factory_fail_msg">Если карта UnionPay не удалена, попробуйте снова.</string>
     <string name="reset_factory_fail_positive">Ok</string>
-    <string name="reset_factory_doing1">Factory Reset Is Being Made</string>
-    <string name="reset_factory_doing2">UnionPay Card Is Being Removed</string>
-    <string name="reset_factory_hint_cn">Disconnect from Your Mobile Phone and Delete All Data in Your Watch after Factory Reset. After Binding The Watch the Next Time, the Current Opened Transportation Card Can Continue to Be Used.</string>
-    <string name="reset_factory_bank_title">Please Remove the UnionPay Card at First</string>
-    <string name="reset_factory_bank_msg">"If Reset the Watch without Removing the UnionPay Card, It will Cause the UnionPay Card: 
- 1. Cannot be Removed from the Watch, Occupying Chip Space;  2. Cannot Use the Payment Function in the Watch;  3. Cannot Be Bound by Other Devices; For Payment Security, Please First Remove the UnionPay Card from Amazfit Watch App."</string>
-    <string name="reset_factory_bank_yes">Continue Factory Reset</string>
-    <string name="reset_factory_bank_no">Cancel</string>
-    <string name="reset_factory_bank_msg_again">The Watch Will Disconnect from Your Mobile Phone and Delete All Data in the Watch. After the Watch Is Re-bound, the Currently Opened Transportation Card Can Continue to Be Used.</string>
-    <string name="lockpassword_confirm_your_pattern_header">Confirm Your Pattern</string>
-    <string name="lockpattern_need_to_unlock">Draw Unlocking Pattern</string>
+    <string name="reset_factory_doing1">Производится сброс настроек</string>
+    <string name="reset_factory_doing2">UnionPay Card удаляется</string>
+    <string name="reset_factory_hint_cn">Отключитесь от мобильного телефона и удалите все данные в ваших часах после сделайте сброс до заводских настроек.</string>
+    <string name="reset_factory_bank_title">Пожалуйста, сначала удалите карту UnionPay</string>
+    <string name="reset_factory_bank_msg">«Если перезагрузить часы без извлечения карты UnionPay, это приведет к возникновению карты UnionPay:
+  1. Не может быть удален из часов, занимающих место чипа; 2. Невозможно использовать функцию оплаты в часах; 3. Не могут быть связаны другими устройствами; Для обеспечения безопасности платежей сначала удалите карту UnionPay из приложения Amazfit Watch. \"</string>
+    <string name="reset_factory_bank_yes">Продолжить сброс настроек</string>
+    <string name="reset_factory_bank_no">Отменить</string>
+    <string name="reset_factory_bank_msg_again">Часы будут отключены от мобильного телефона и удалятся все данные в них. После повторной привязки часов, текущая транспортная карта может продолжить использовать.</string>
+    <string name="lockpassword_confirm_your_pattern_header">Подтвердите графический ключ</string>
+    <string name="lockpattern_need_to_unlock">Нарисуйте графический ключ разблокировки</string>
     <string name="lockpattern_need_to_unlock_footer"></string>
     <string name="lockpattern_need_to_unlock_wrong"></string>
     <string name="lockpattern_need_to_unlock_wrong_footer"></string>
-    <string name="lockpattern_too_many_failed_confirmation_attempts_header">Too Many Errors！</string>
-    <string name="lockpattern_too_many_failed_confirmation_attempts_footer">%d Retry after Several Seconds</string>
-    <string name="lockpattern_tutorial_cancel_label">Cancel</string>
-    <string name="lockpattern_tutorial_continue_label">Next</string>
-    <string name="lockpassword_choose_your_pattern_header">Select Your Pattern</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_header">Слишком много ошибок</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_footer">%d Повторить через несколько секунд</string>
+    <string name="lockpattern_tutorial_cancel_label">Отменить</string>
+    <string name="lockpattern_tutorial_continue_label">Следующий</string>
+    <string name="lockpassword_choose_your_pattern_header">Выберите ваш шаблон</string>
     <string name="lockpattern_recording_inprogress"></string>
-    <string name="cancel">Cancel</string>
-    <string name="lockpattern_retry_button_text">Retry</string>
-    <string name="lockpattern_continue_button_text">Continue</string>
-    <string name="lockpattern_confirm_button_text">Confirm</string>
-    <string name="lockpattern_recording_intro_header">Draw Unlocking Pattern</string>
-    <string name="lockpattern_settings_help_how_to_record">How to Draw Unlocking Pattern？</string>
+    <string name="cancel">Отменить</string>
+    <string name="lockpattern_retry_button_text">Повторить</string>
+    <string name="lockpattern_continue_button_text">Продолжить</string>
+    <string name="lockpattern_confirm_button_text">Подтвердить</string>
+    <string name="lockpattern_recording_intro_header">Нарисуйте графический ключ разблокировки</string>
+    <string name="lockpattern_settings_help_how_to_record">Как нарисовать шаблон разблокировки？</string>
     <string name="lockpattern_recording_incorrect_too_short"></string>
-    <string name="lockpattern_pattern_entered_header">Pattern Recorded</string>
-    <string name="lockpattern_need_to_confirm">Confirm Unlocking Pattern</string>
-    <string name="lockpattern_pattern_confirmed_header">Confirm Unlocking Pattern</string>
+    <string name="lockpattern_pattern_entered_header">Графический ключ сохранен</string>
+    <string name="lockpattern_need_to_confirm">Подтвердить графический ключ</string>
+    <string name="lockpattern_pattern_confirmed_header">Подтвердить графический ключ</string>
     <string name="app_notifications_dialog_done">Complete</string>
     <string name="lockpattern_cancel">Gesture Password</string>
     <string name="lockpattern_change">Change Password</string>
@@ -420,6 +420,6 @@
     <string name="upgrade_checking">Проверка обновлений...</string>
     <string name="left_hand">Левая</string>
     <string name="right_hand">Правильно</string>
-    <string name="voice_setvoice_set">Voice</string>
-    <string name="device_name_huanghe">Amazfit smart sports watch</string>
+    <string name="voice_setvoice_set">Аудио</string>
+    <string name="device_name_huanghe">Умные спортивные часы Amazfit</string>
 </resources>
