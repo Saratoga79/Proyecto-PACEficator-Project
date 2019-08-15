@@ -38,8 +38,8 @@
     <string name="today">Today</string>
     <string name="weather_multipe_index">This is a %1$s weather forecast for %2$s days.</string>
     <string name="weather_multipe_outofindex">I can only show a %1$s weather forecast for 4 days.</string>
-    <string name="weather_quality">Air quality</string>
-    <string name="error_disconnect">Disconnected</string>
+    <string name="weather_quality">Качество на въздуха</string>
+    <string name="error_disconnect">Прекъснат</string>
     <string name="error_disconnect_content">Make sure your watch is connected to your phone via Bluetooth and your phone is connected to the network.</string>
     <string name="error_weather_outofbound">I can only give you the forecast for the next 4 days.</string>
     <string name="alarm_timer_outofbound">"I can't a timer for more than 24 hours."</string>
@@ -51,7 +51,7 @@
     <string name="alarm_timer_watchtimer_guide">Open Timer on your phone to continue.</string>
     <string name="miot_guide_success_completed">OK, no problem.</string>
     <string name="miot_guide_fail_completed">Could you tell me which device you want to control?</string>
-    <string name="miot_guide_success_completed_todo">What would you like to do?</string>
+    <string name="miot_guide_success_completed_todo">Какво искате да направите?</string>
     <string name="miot_guide_nodevice">"I couldn't find the device you want to control."</string>
     <string name="miot_action_guide">You can turn the device on and off, make it switch modes, and more.</string>
     <string name="miot_open">Adjusted</string>
