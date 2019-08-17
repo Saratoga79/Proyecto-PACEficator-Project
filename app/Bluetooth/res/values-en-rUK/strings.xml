@@ -100,7 +100,7 @@
     <string name="transfer_menu_open">Відкрити</string>
     <string name="transfer_menu_clear">Видалити зі списку</string>
     <string name="transfer_clear_dlg_title">Очистити</string>
-    <string name="bluetooth_share_file_name">bluetooth_content_share</string>
+    <string name="bluetooth_share_file_name">поділитись контентом Bluetooth</string>
     <string name="sharedUserId"></string>
     <string name="process"></string>
     <string name="bluetooth_map_email_settings_save">Зберегти</string>
@@ -117,7 +117,7 @@
     <string name="auth_notif_ticker">Запит аутентифікації Obex</string>
     <string name="auth_notif_title">Ключ Сеансу</string>
     <string name="auth_notif_message">Введіть ключ сеансу для %1$s</string>
-    <string name="defaultname">Carkit</string>
+    <string name="defaultname">Автомобільна гарнітура</string>
     <string name="unknownName">Невідома назва</string>
     <string name="localPhoneName">Назва телефону</string>
     <string name="defaultnumber">000000</string>
@@ -131,9 +131,9 @@
     <string name="delete_record">Видалити запис</string>
     <string name="start_server">Запустити TCP сервер</string>
     <string name="notify_server">Сповістити TCP сервер</string>
-    <string name="map_session_key_dialog_title">输入“%1$s”的会话密钥</string>
-    <string name="map_session_key_dialog_header">需要提供蓝牙会话密钥</string>
-    <string name="map_acceptance_timeout_message">接受与“%1$s”的连接时超时</string>
+    <string name="map_session_key_dialog_title">Підтвердять пін %1$s для з\'єднання</string>
+    <string name="map_session_key_dialog_header">Потрібно підтвердити ключ сеансу</string>
+    <string name="map_acceptance_timeout_message">Час видимості Bluetooth %1$s</string>
     <string name="map_authentication_timeout_message">输入“%1$s”的会话密钥时超时</string>
     <string name="map_auth_notif_ticker">OBEX 身份验证请求</string>
     <string name="map_auth_notif_title">会话密钥</string>
