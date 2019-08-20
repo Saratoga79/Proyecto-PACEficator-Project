@@ -65,7 +65,7 @@
     <string name="forecast_tomorrow">Завтра</string>
     <string name="fetch_failed_help">Сначала синхронизировать информацию о погоде</string>
     <string name="cancel">Закрыть</string>
-    <string name="data_check_log">Ошибка получения данных о погоде!</string>
+    <string name="data_check_log">+------------------------+▂▃▄▅▆▇█▉ Ошибка получения данных о погоде %1$s ▉█▇▆▅▄▃▂+------------------------+</string>
     <string name="data_checkfail_type">Не удается распознать погоду</string>
     <string name="data_checkfail_temp">Температура в не диапазона измерений</string>
     <string name="data_checkfail_match">Тип погоды не найден</string>
@@ -80,7 +80,7 @@
     <string name="wind_SW">Южно-западный ветер</string>
     <string name="wind_W">Западный ветер</string>
     <string name="wind_NW">Северо-западный ветер</string>
-    <string name="wind_power">Сила</string>
+    <string name="wind_power">Сила %1$d</string>
     <string name="wind_power_12">Уровень 12 и выше</string>
     <string name="uv_power_weakest">Очень слабый</string>
     <string name="uv_power_weak">Слабый</string>
