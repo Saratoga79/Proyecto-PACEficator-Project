@@ -23,10 +23,10 @@
     <string name="connecting_peripheral">Подключение к %1$s</string>
     <string name="connected_peripheral">Подключён к %1$s</string>
     <string name="connect_peripheral_failed">Не удалось подключиться %1$s</string>
-    <string name="disconnecting_peripheral">Отключение</string>
+    <string name="disconnecting_peripheral">Отключение %1$s</string>
     <string name="disconnected_peripheral">Отключено от %1$s</string>
     <string name="pairing_peripheral">Связь %1$s</string>
-    <string name="pairing_peripheral_failed">Не удалось установить сопряжение</string>
+    <string name="pairing_peripheral_failed">Не удалось установить сопряжение %1$s</string>
     <string name="failed_to_enable_bt">Не удалось включить Bluetooth</string>
     <string name="confirm_pairing">Вы уверены, что хотите соединится с %1$s?</string>
     <string name="pair_yes">Да</string>
@@ -43,7 +43,7 @@
     <string name="status_unable_to_connect">Не удалось подключиться к сети</string>
     <string name="status_wifi_connected">Подключен</string>
     <string name="title_connect_to_network">Подключиться к сети</string>
-    <string name="prompt_connect_to_network">Подключиться к сети?</string>
+    <string name="prompt_connect_to_network">Подключиться к сети %1$s?</string>
     <string name="beam_requires_nfc_enabled">Android запрашивает включения NFC. Вы хотите включить его?</string>
     <string name="android_beam">Android Beam</string>
     <string name="permlab_nfcReceiveEvent">NFC произвел транзакцию</string>
