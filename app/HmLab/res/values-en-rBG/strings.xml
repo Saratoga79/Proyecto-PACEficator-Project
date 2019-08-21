@@ -40,9 +40,9 @@
     <string name="hbeacon_off_confirm_message">Click Ok to disable HBeacon function. You need to re-match your phone with the watch after the watch is automatically restarted.</string>
     <string name="saving_data">Saving data</string>
     <string name="upload_data">Качи данни</string>
-    <string name="upload_success">Success</string>
-    <string name="upload_failed">Fail to upload, please try again</string>
-    <string name="air_mode_alert_title">Fail to connect</string>
+    <string name="upload_success">Успешно</string>
+    <string name="upload_failed">Неуспешно качване, моля опитайте отново</string>
+    <string name="air_mode_alert_title">Неуспешно свързване</string>
     <string name="air_mode_alert_message">Please connect again after turning off the airplane mode</string>
     <string name="report_sensor_capture_dialog_title">Motion data collection</string>
     <string name="report_sensor_capture_dialog_desc">When the motion data collection is turned on, we will collect the original information from the sensor after the motion starts, and stop the collection immediately after the motion ends. These data will be submitted together with your feedbacks on watch problems to the server for analysis of our after-sales personnel. In this process, the logs generated on the watch will be automatically collected and uploaded. These logs will be used for problems analysis only rather than for other purposes, and will be destroyed immediately after analysis. In the whole process, we will comply with our privacy policies. See privacy policies in Amazfit watch App for details.</string>
