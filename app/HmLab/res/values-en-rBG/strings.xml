@@ -29,20 +29,20 @@
     <string name="message">"In order to improve our service, we will collect your heart rate data continuously. 
  Collected data will be used for research only. 
  When the collection is turned on, there will be a certain amount of power consumption."</string>
-    <string name="allow">Allow</string>
-    <string name="exit">Exit</string>
+    <string name="allow">Разреши</string>
+    <string name="exit">Изход</string>
     <string name="message_everest">In order to improve our service, we will collect your heart rate data continuously. Collected data will be used for research only. When the collection is turned on, there will be a certain amount of power consumption.</string>
-    <string name="heart_rate_collection_on">On</string>
+    <string name="heart_rate_collection_on">Вкл</string>
     <string name="heart_rate_collection_off">Изкл</string>
-    <string name="hbeacon_on">Enabled</string>
-    <string name="hbeacon_off">Disabled</string>
+    <string name="hbeacon_on">Разрешено</string>
+    <string name="hbeacon_off">Изключен</string>
     <string name="hbeacon_on_confirm_message">"Click Ok to enable HBeacon function to slightly reduce the watch's battery life. You need to re-match your phone with the watch after the watch is automatically restarted."</string>
     <string name="hbeacon_off_confirm_message">Click Ok to disable HBeacon function. You need to re-match your phone with the watch after the watch is automatically restarted.</string>
     <string name="saving_data">Saving data</string>
-    <string name="upload_data">Upload data</string>
-    <string name="upload_success">Success</string>
-    <string name="upload_failed">Fail to upload, please try again</string>
-    <string name="air_mode_alert_title">Fail to connect</string>
+    <string name="upload_data">Качи данни</string>
+    <string name="upload_success">Успешно</string>
+    <string name="upload_failed">Неуспешно качване, моля опитайте отново</string>
+    <string name="air_mode_alert_title">Неуспешно свързване</string>
     <string name="air_mode_alert_message">Please connect again after turning off the airplane mode</string>
     <string name="report_sensor_capture_dialog_title">Motion data collection</string>
     <string name="report_sensor_capture_dialog_desc">When the motion data collection is turned on, we will collect the original information from the sensor after the motion starts, and stop the collection immediately after the motion ends. These data will be submitted together with your feedbacks on watch problems to the server for analysis of our after-sales personnel. In this process, the logs generated on the watch will be automatically collected and uploaded. These logs will be used for problems analysis only rather than for other purposes, and will be destroyed immediately after analysis. In the whole process, we will comply with our privacy policies. See privacy policies in Amazfit watch App for details.</string>
