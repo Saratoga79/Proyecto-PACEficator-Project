@@ -31,62 +31,63 @@ Update to version %1$s?"</string>
     <string name="low_battery_message">"Downloaded updates successfully.
 Battery must be at least %1$s%% charged to install updates."</string>
     <string name="low_battery_title">เชื่อมต่อที่ชาร์จ</string>
-    <string name="progressbar_tips">Checking…</string>
+    <string name="progressbar_tips">กำลังตรวจสอบ...</string>
     <string name="progressbar_percent">%1$d%%</string>
     <string name="low_mem">"Not enough storage space for an update.
 Free up %1$sMB to update."</string>
-    <string name="update_network_error">"Couldn\'t check for updates.
-Try again later."</string>
-    <string name="cancel_download">"Cancel downloading
-updates?"</string>
-    <string name="new_rom_please_install">"An update is available.
-Update now."</string>
-    <string name="btn_install_later">Remind later</string>
+    <string name="update_network_error">"ไม่สามารถตรวจสอบการอัปเดต
+ลองอีกครั้งในภายหลัง "</string>
+    <string name="cancel_download">"ยกเลิกการดาวน์โหลด
+การปรับปรุง?"</string>
+    <string name="new_rom_please_install">"มีการอัปเดต
+อัปเดตเลย "</string>
+    <string name="btn_install_later">เตือนในภายหลัง</string>
     <string name="btn_install_now">ติดตั้งเดี๋ยวนี้</string>
     <string name="btn_upgrade_now">อัพเดตเดี๋ยวนี้</string>
-    <string name="wifi_no_password">Not encrypted</string>
+    <string name="wifi_no_password">ไม่มีการเข้ารหัส</string>
     <string name="wifi_has_password">เข้ารหัส</string>
-    <string name="wifi_password_error">Password is incorrect</string>
-    <string name="wifi_connecting">Connecting…</string>
-    <string name="wifi_auth">Verifying password…</string>
-    <string name="wifi_get_ip">Obtaining IP address…</string>
-    <string name="wifi_link_fail">"Couldn't connect"</string>
+    <string name="wifi_password_error">รหัสผ่านไม่ถูกต้อง</string>
+    <string name="wifi_connecting">กำลังเชื่อมต่อ</string>
+    <string name="wifi_auth">กำลังยืนยันรหัสผ่าน ...</string>
+    <string name="wifi_get_ip">กำลังรับที่อยู่ IP…</string>
+    <string name="wifi_link_fail">"ไม่สามารถเชื่อมต่อได้"</string>
     <string name="wifi_connected">เชื่อมต่อแล้ว</string>
     <string name="wifi_title">เชื่อมต่อ Wi-Fi</string>
-    <string name="wifi_wait_password">Waiting for password…</string>
-    <string name="toast_please_update_first">Update first</string>
-    <string name="wifi_turnon_going">Turning on Wi-Fi…</string>
-    <string name="system_update_title">Updated successfully</string>
+    <string name="wifi_wait_password">กำลังรอรหัสผ่าน ...</string>
+    <string name="toast_please_update_first">อัปเดตก่อน</string>
+    <string name="wifi_turnon_going">กำลังปิด Wi-Fi...</string>
+    <string name="system_update_title">อัปเดตสำเร็จเรียบร้อย</string>
     <string name="system_update_content">Upgraded to version %1$s successfully</string>
-    <string name="password_error">"Wi-Fi password is incorrect.
-Enter again."</string>
-    <string name="wifi_connect_fail">"Can\'t connect to this
-Wi-Fi network.
-Try another one."</string>
+    <string name="password_error">"รหัสผ่าน Wi-Fi ไม่ถูกต้อง
+ป้อนอีกครั้ง "</string>
+    <string name="wifi_connect_fail">"ไม่สามารถเชื่อมต่อกับสิ่งนี้ได้
+เครือข่าย Wi-Fi
+ลองอันอื่น "</string>
     <string name="searching">กำลัง​ค้น​หา...</string>
-    <string name="hasNewUpdateTitle">An update is available</string>
+    <string name="hasNewUpdateTitle">มีอัปเดตใหม่</string>
     <string name="hasNewUpdateInstallContent">Version %1$s is ready to install. Install now?</string>
     <string name="hasNewUpdateCheckContent">Version %1$s is available. Update now?</string>
-    <string name="update_title">Select update method</string>
-    <string name="update_online">OTA update</string>
-    <string name="update_local">Local ZIP file</string>
-    <string name="local_update_confirm_1_title">Attention</string>
-    <string name="local_update_invalid_zip">Update to the latest version of the app</string>
-    <string name="local_update_confirm_1_msg">"To make sure the new version
-works properly, we\'ll erase all
-user data before the update.
-Back up your data using the Amazfit Watch app."</string>
-    <string name="local_update_confirm_2_msg">"Make sure you backed up
-all your data.
-The update will erase all user
-data on the watch. Continue?"</string>
+    <string name="update_title">เลือกวิธีการอัพเดท</string>
+    <string name="update_online">อัปเดต OTA</string>
+    <string name="update_local">ไฟล์ ZIP ในเครื่อง</string>
+    <string name="local_update_confirm_1_title">โปรดทราบ</string>
+    <string name="local_update_invalid_zip">คุณกำลังใช้งานเวอร์ชั่นล่าสุด</string>
+    <string name="local_update_confirm_1_msg">"เพื่อให้แน่ใจว่าเป็นเวอร์ชั่นใหม่
+ทำงานอย่างถูกต้องเราจะลบทั้งหมด
+ข้อมูลผู้ใช้ก่อนการอัพเดท
+สำรองข้อมูลของคุณโดยใช้แอพ Amazfit Watch "</string>
+    <string name="local_update_confirm_2_msg">"ตรวจสอบให้แน่ใจว่าคุณได้สำรองข้อมูลแล้ว
+ข้อมูลทั้งหมดของคุณ
+การอัปเดตจะลบผู้ใช้ทั้งหมด
+ข้อมูลบนนาฬิกา ดำเนินการต่อ?"</string>
     <string name="OK">ตกลง</string>
     <string name="yes">ใช่</string>
     <string name="no">ไม่</string>
     <string name="enter">ตกลง</string>
     <string name="cancel">ยกเลิก</string>
-    <string name="update_tips_0">Updating…</string>
-    <string name="update_tips_1">"Don't turn off the device"</string>
+    <string name="update_tips_0">กำลังอัปเดต…</string>
+    <string name="update_tips_1">"อย่าปิดอุปกรณ์
+"</string>
     <string name="average_text">เฉลี่ย</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">ตกลง</string>
