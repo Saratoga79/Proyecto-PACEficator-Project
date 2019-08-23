@@ -3,35 +3,34 @@
 <resources>
     <string name="app_name">otawatch</string>
     <string name="action_settings">การตั้งค่า</string>
-    <string name="watch_ota">Watch updates</string>
-    <string name="wifi_disconnect">Connect to the Amazfit Watch app to check for updates</string>
-    <string name="connect_phone_wifi">"Check your phone's network connection to check for updates"</string>
-    <string name="connect_phone_input_wifi">Connect to the Amazfit Watch app to enter Wi-Fi password for the watch</string>
-    <string name="wifi_add_item">Connect to the Amazfit Watch app to add a new Wi-Fi hotspot</string>
+    <string name="watch_ota">อัพเดทนาฬิกา</string>
+    <string name="wifi_disconnect">เชื่อมต่อกับแอพ Amazfit Watch เพื่อตรวจสอบการอัปเดต</string>
+    <string name="connect_phone_wifi">"ตรวจสอบการเชื่อมต่อเครือข่ายโทรศัพท์ของคุณเพื่อตรวจสอบการอัพเดต"</string>
+    <string name="connect_phone_input_wifi">เชื่อมต่อกับแอพ Amazfit Watch เพื่อป้อนรหัสผ่าน Wi-Fi สำหรับนาฬิกา</string>
+    <string name="wifi_add_item">เชื่อมต่อกับแอพ Amazfit Watch เพื่อเพิ่มฮอตสปอต Wi-Fi ใหม่</string>
     <string name="add_wifi">เพิ่ม Wi-Fi</string>
-    <string name="please_update_rom">"An update is available.
-Update now."</string>
+    <string name="please_update_rom">"มีการอัปเดต
+อัปเดตเลย "</string>
     <string name="checking_rom">กำลังตรวจสอบการอัพเดท…</string>
-    <string name="checking_rom_failed">"Network connection timed out.
-Try again."</string>
-    <string name="current_is_new">Current version is up to date.</string>
+    <string name="checking_rom_failed">"การเชื่อมต่อเครือข่ายหมดเวลา
+ลองอีกครั้ง."</string>
+    <string name="current_is_new">ปัจจุบันเป็นรุ่นล่าสุดแล้ว</string>
     <string name="has_new_rom">"An update is available.
 Update to version %1$s?"</string>
-    <string name="has_new_rom_all">"An update is available.
-Firmware on this watch is old. Updating may take a while."</string>
-    <string name="input_passwor_on_mobile">"Enter Wi-Fi password
-in the Amazfit Watch app"</string>
-    <string name="processbar_downloading_rom">Downloading…</string>
-    <string name="please_keep_wifi_connect">"Don't disconnect from Wi-Fi"</string>
-    <string name="processbar_downloading_tips">%</string>
+    <string name="has_new_rom_all">"มีการอัปเดตพร้อมใช้งานเฟิร์มแวร์ในนาฬิกาเรือนนี้เก่าการอัปเดตอาจใช้เวลาสักครู่"</string>
+    <string name="input_passwor_on_mobile">"ป้อนรหัสผ่าน Wi-Fi
+ในแอพ Amazfit Watch "</string>
+    <string name="processbar_downloading_rom">กำลังดาวน์โหลด…</string>
+    <string name="please_keep_wifi_connect">"อย่าตัดการเชื่อมต่อจาก Wi-Fi"</string>
+    <string name="processbar_downloading_tips">เปอร์เซอร์</string>
     <string name="processbar_downloading_default">0</string>
-    <string name="download_rom_faild">"Couldn\'t download updates.
-Try again."</string>
-    <string name="download_rom_success">"Downloaded ROM successfully.
-Install now."</string>
+    <string name="download_rom_faild">"ไม่สามารถดาวน์โหลดการอัปเดต
+ลองอีกครั้ง."</string>
+    <string name="download_rom_success">"ดาวน์โหลด ROM สำเร็จแล้ว
+ติดตั้งในขณะนี้."</string>
     <string name="low_battery_message">"Downloaded updates successfully.
 Battery must be at least %1$s%% charged to install updates."</string>
-    <string name="low_battery_title">Connect charger</string>
+    <string name="low_battery_title">เชื่อมต่อที่ชาร์จ</string>
     <string name="progressbar_tips">Checking…</string>
     <string name="progressbar_percent">%1$d%%</string>
     <string name="low_mem">"Not enough storage space for an update.
