@@ -88,7 +88,7 @@
     </string-array>
     <string-array name="lab_item_android_settings">
         <item>[prim] การตั้งค่าระบบดั้งเดิม</item>
-        <item>[sum] ตั้งค่าแอนดรอย</item>
+        <item>[sum] ตั้งค่าแอนดรอยด์</item>
         <item>[pkg]com.android.settings</item>
     </string-array>
     <string-array name="lab_item_logger">
@@ -152,18 +152,18 @@
         <item>UTC − 5: 00 นิวยอร์ก</item>
         <item>UTC − 4: 30 คาราคัส</item>
         <item>UTC − 4: 00 บาร์เบโดส</item>
-        <item>UTC−4:00 Manaus</item>
-        <item>"UTC−3:30 St. John's"</item>
-        <item>UTC−3:00 Santiago</item>
-        <item>UTC−3:00 Buenos Aires</item>
-        <item>UTC−3:00 Nuuk</item>
-        <item>UTC−2:00 São Paulo</item>
-        <item>UTC−2:00 Montevideo</item>
-        <item>UTC−2:00 South Georgia</item>
-        <item>UTC−1:00 Azores</item>
-        <item>UTC−1:00 Cape Verde</item>
-        <item>UTC Casablanca</item>
-        <item>UTC London</item>
+        <item>UTC − 4: 00 มาเนาส์</item>
+        <item>"UTC−3:30 เซนต์จอห์น"</item>
+        <item>UTC−3:00 ซันติอาโก</item>
+        <item>UTC − 3: 00 บัวโนสไอเรส</item>
+        <item>TC − 3: 00 นุก</item>
+        <item>UTC−2:00 เซาเปาโล</item>
+        <item>UTC−2:00 มอนเตวิเด</item>
+        <item>UTC−2:00 เซาท์จอร์เจีย</item>
+        <item>UTC−1:00 อะซอเรส</item>
+        <item>UTC−1:00 เคปเวิร์ด</item>
+        <item>UTC คาซาบลังกา</item>
+        <item>UTC ลอนดอน</item>
         <item>+1 Amsterdam</item>
         <item>+1 Belgrade</item>
         <item>+1 Brussels</item>
@@ -199,9 +199,9 @@
         <item>+7 Krasnoyarsk</item>
         <item>+7 Bangkok</item>
         <item>+8 Beijing</item>
-        <item>+8 Hong Kong</item>
+        <item>+8 ฮ่องกง</item>
         <item>+8 Irkutsk</item>
-        <item>+8 Kuala Lumpur</item>
+        <item>+8 กัวลาลัมเปอร์</item>
         <item>+8 Perth</item>
         <item>+8 Taipei</item>
         <item>+9 Seoul</item>
@@ -221,8 +221,8 @@
         <item>+13 Tongatapu</item>
     </string-array>
     <string-array name="light_mode_subtitle">
-        <item>Brightness: Off</item>
-        <item>Brightness: Auto</item>
+        <item>ความสว่าง: ปิด</item>
+        <item>ความสว่าง: อัตโนมัติ</item>
         <item>ความสว่าง: 2</item>
         <item>ความสว่าง: 2</item>
         <item>ความสว่าง: 1</item>
