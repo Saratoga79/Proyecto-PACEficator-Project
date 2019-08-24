@@ -87,18 +87,18 @@
         <item>Pacific/Tongatapu</item>
     </string-array>
     <string-array name="lab_item_android_settings">
-        <item>[prim] Original system settings</item>
-        <item>[sum] Android settings</item>
+        <item>[prim] การตั้งค่าระบบดั้งเดิม</item>
+        <item>[sum] ตั้งค่าแอนดรอย</item>
         <item>[pkg]com.android.settings</item>
     </string-array>
     <string-array name="lab_item_logger">
         <item>[prim]WearLogger</item>
-        <item>[sum] Catch logs</item>
+        <item>[sum] จับบันทึก</item>
         <item>[pkg]com.huami.watch.wearlogger</item>
         <item>[clazz]com.huami.watch.wearlogger.AllLogActivityLab</item>
     </string-array>
     <string-array name="lab_item_selftest">
-        <item>[prim] Self-test</item>
+        <item>[prim] การทดสอบตัวเอง</item>
         <item>[sum] Start self-testing</item>
         <item>[action]com.huami.watch.selftest.START</item>
     </string-array>
