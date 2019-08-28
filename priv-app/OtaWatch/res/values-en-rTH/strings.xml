@@ -29,12 +29,12 @@
     <string name="download_rom_success">"ดาวน์โหลด ROM สำเร็จแล้ว
 ติดตั้งในขณะนี้."</string>
     <string name="low_battery_message">"ดาวน์โหลดอัพเดตสำเร็จแล้ว
-แบตเตอรี่จะต้องถูกชาร์จอย่างน้อย %1$s %% เพื่อติดตั้งการอัปเดต "</string>
+แบตเตอรี่จะต้องถูกชาร์จอย่างน้อย %1$s%% เพื่อติดตั้งการอัปเดต "</string>
     <string name="low_battery_title">เชื่อมต่อที่ชาร์จ</string>
     <string name="progressbar_tips">กำลังตรวจสอบ...</string>
     <string name="progressbar_percent">%1$d%%</string>
     <string name="low_mem">"พื้นที่เก็บข้อมูลไม่เพียงพอสำหรับการอัพเดท
-ฟรี% 1 $ sMB เพื่ออัปเดต "</string>
+ฟรี %1$s MB เพื่ออัปเดต "</string>
     <string name="update_network_error">"ไม่สามารถตรวจสอบการอัปเดต
 ลองอีกครั้งในภายหลัง "</string>
     <string name="cancel_download">"ยกเลิกการดาวน์โหลด
@@ -57,7 +57,7 @@
     <string name="toast_please_update_first">อัปเดตก่อน</string>
     <string name="wifi_turnon_going">กำลังปิด Wi-Fi...</string>
     <string name="system_update_title">อัปเดตสำเร็จเรียบร้อย</string>
-    <string name="system_update_content">อัปเกรดเป็นเวอร์ชัน% 1 $ s สำเร็จแล้ว</string>
+    <string name="system_update_content">อัปเกรดเป็นเวอร์ชัน %1$s สำเร็จแล้ว</string>
     <string name="password_error">"รหัสผ่าน Wi-Fi ไม่ถูกต้อง
 ป้อนอีกครั้ง "</string>
     <string name="wifi_connect_fail">"ไม่สามารถเชื่อมต่อกับสิ่งนี้ได้
@@ -65,8 +65,8 @@
 ลองอันอื่น "</string>
     <string name="searching">กำลัง​ค้น​หา...</string>
     <string name="hasNewUpdateTitle">มีอัปเดตใหม่</string>
-    <string name="hasNewUpdateInstallContent">เวอร์ชั่น% 1 $ s พร้อมติดตั้งแล้ว ติดตั้งในขณะนี้?</string>
-    <string name="hasNewUpdateCheckContent">รุ่น% 1 $ s พร้อมใช้งานแล้ว อัปเดตตอนนี้หรือไม่</string>
+    <string name="hasNewUpdateInstallContent">เวอร์ชั่น %1$s พร้อมติดตั้งแล้ว ติดตั้งในขณะนี้?</string>
+    <string name="hasNewUpdateCheckContent">รุ่น %1$s พร้อมใช้งานแล้ว อัปเดตตอนนี้หรือไม่</string>
     <string name="update_title">เลือกวิธีการอัพเดท</string>
     <string name="update_online">อัปเดต OTA</string>
     <string name="update_local">ไฟล์ ZIP ในเครื่อง</string>
