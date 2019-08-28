@@ -87,82 +87,83 @@
         <item>Pacific/Tongatapu</item>
     </string-array>
     <string-array name="lab_item_android_settings">
-        <item>[prim] Original system settings</item>
-        <item>[sum] Android settings</item>
+        <item>[prim] การตั้งค่าระบบดั้งเดิม</item>
+        <item>[sum] ตั้งค่าแอนดรอยด์</item>
         <item>[pkg]com.android.settings</item>
     </string-array>
     <string-array name="lab_item_logger">
         <item>[prim]WearLogger</item>
-        <item>[sum] Catch logs</item>
+        <item>[sum] จับบันทึก</item>
         <item>[pkg]com.huami.watch.wearlogger</item>
         <item>[clazz]com.huami.watch.wearlogger.AllLogActivityLab</item>
     </string-array>
     <string-array name="lab_item_selftest">
-        <item>[prim] Self-test</item>
-        <item>[sum] Start self-testing</item>
+        <item>[prim] การทดสอบตัวเอง</item>
+        <item>[sum] เริ่มการทดสอบตัวเอง</item>
         <item>[action]com.huami.watch.selftest.START</item>
     </string-array>
     <string-array name="lab_item_open_applist">
         <item>[prim]Launcher Applist</item>
-        <item>[sum] Turn on/off applist</item>
+        <item>[sum] เปิด / ปิดรายการแอพ</item>
         <item>[sid]applist</item>
     </string-array>
     <string-array name="lab_item_bt_hci_snoop_log">
-        <item>[prim] Bluetooth HCI snoop log</item>
-        <item>[sum] Turn on/off bt snoop log</item>
+        <item>[prim] บันทึกการสอดแนมบลูทูธ HCI</item>
+        <item>[sum] เปิด / ปิด bt snoop log</item>
         <item>[sid]btsnoop</item>
     </string-array>
     <string-array name="lab_item_power_test">
-        <item>[prim] Test power consumption when Airplane mode is on</item>
-        <item>[sum] Test power consumption when Airplane mode is on</item>
+        <item>[prim] ทดสอบการใช้พลังงานเมื่อเปิดใช้งานโหมดเครื่องบิน</item>
+        <item>[sum] ทดสอบการใช้พลังงานเมื่อเปิดโหมดเครื่องบิน</item>
         <item>[sid]power_test</item>
     </string-array>
     <string-array name="lab_item_long_sitting_timer_plus">
-        <item>[prim] Idle alert timer</item>
-        <item>[sum] Set idle alert timer</item>
+        <item>[prim]  ตัวจับเวลาการแจ้งเตือนที่ไม่ได้ใช้งาน</item>
+        <item>[sum]  ตัวจับเวลาการแจ้งเตือนที่ไม่ได้ใช้งาน</item>
         <item>[pkg]com.huami.mobile.watchsettings</item>
         <item>[clazz]com.huami.moblie.watchsettings.actions.lab.labUI.LongSittingTimeActivity</item>
     </string-array>
     <string-array name="lab_item_wifi_signal_intensity">
-        <item>[prim] Signal strength</item>
-        <item>[sum] Detect signal strength</item>
+        <item>[prim] ความแรงของสัญญาณ</item>
+        <item>[sum] ตรวจจับความแรงของสัญญาณ</item>
         <item>[pkg]com.huami.mobile.watchsettings</item>
         <item>[clazz]com.huami.moblie.watchsettings.actions.lab.labUI.WifiTestActivity</item>
     </string-array>
     <string-array name="lab_item_pointer_location">
-        <item>"[prim] Hands' location"</item>
-        <item>[sum] Turn on/off hands</item>
+        <item>"[prim] Hands' location
+"</item>
+        <item>[sum] เปิด / ปิดมือ</item>
         <item>[sid]pointer_location</item>
     </string-array>
     <string-array name="time_zone_item">
-        <item>UTC−11:00 Midway Atoll</item>
-        <item>UTC−10:00 Honolulu</item>
+        <item>UTC − 11: 00 มิดเวย์อะทอลล์</item>
+        <item>UTC − 10: 00 โฮโนลูลู</item>
         <item>UTC−9:00 Anchorage</item>
-        <item>UTC−8:00 Los Angeles</item>
-        <item>UTC−8:00 Tijuana</item>
-        <item>UTC−7:00 Phoenix</item>
-        <item>UTC−7:00 Chihuahua</item>
-        <item>UTC−7:00 Denver</item>
-        <item>UTC−6:00 Costa Rica</item>
-        <item>UTC−6:00 Chicago</item>
-        <item>UTC−6:00 Mexico City</item>
-        <item>UTC−6:00 Regina</item>
-        <item>UTC−5:00 Bogota</item>
-        <item>UTC−5:00 New York</item>
-        <item>UTC−4:30 Caracas</item>
-        <item>UTC−4:00 Barbados</item>
-        <item>UTC−4:00 Manaus</item>
-        <item>"UTC−3:30 St. John's"</item>
-        <item>UTC−3:00 Santiago</item>
-        <item>UTC−3:00 Buenos Aires</item>
-        <item>UTC−3:00 Nuuk</item>
-        <item>UTC−2:00 São Paulo</item>
-        <item>UTC−2:00 Montevideo</item>
-        <item>UTC−2:00 South Georgia</item>
-        <item>UTC−1:00 Azores</item>
-        <item>UTC−1:00 Cape Verde</item>
-        <item>UTC Casablanca</item>
-        <item>UTC London</item>
+        <item>UTC − 8: 00 ลอสแองเจลิส</item>
+        <item>UTC−8:00 ติฮัวนา</item>
+        <item>UTC − 7: 00 ฟีนิกซ์</item>
+        <item>UTC−7:00 ชิวาวา</item>
+        <item>UTC − 7: 00 เดนเวอร์</item>
+        <item>UTC − 6: 00 คอสตาริกา</item>
+        <item>UTC − 6: 00 ชิคาโก</item>
+        <item>UTC − 6: 00 เม็กซิโกซิตี้</item>
+        <item>UTC−6:00 เรจิน่า</item>
+        <item>UTC − 5: 00 โบโกตา</item>
+        <item>UTC − 5: 00 นิวยอร์ก</item>
+        <item>UTC − 4: 30 คาราคัส</item>
+        <item>UTC − 4: 00 บาร์เบโดส</item>
+        <item>UTC − 4: 00 มาเนาส์</item>
+        <item>"UTC−3:30 เซนต์จอห์น"</item>
+        <item>UTC−3:00 ซันติอาโก</item>
+        <item>UTC − 3: 00 บัวโนสไอเรส</item>
+        <item>TC − 3: 00 นุก</item>
+        <item>UTC−2:00 เซาเปาโล</item>
+        <item>UTC−2:00 มอนเตวิเด</item>
+        <item>UTC−2:00 เซาท์จอร์เจีย</item>
+        <item>UTC−1:00 อะซอเรส</item>
+        <item>UTC−1:00 เคปเวิร์ด</item>
+        <item>UTC คาซาบลังกา</item>
+        <item>UTC ลอนดอน</item>
         <item>+1 Amsterdam</item>
         <item>+1 Belgrade</item>
         <item>+1 Brussels</item>
@@ -198,9 +199,9 @@
         <item>+7 Krasnoyarsk</item>
         <item>+7 Bangkok</item>
         <item>+8 Beijing</item>
-        <item>+8 Hong Kong</item>
+        <item>+8 ฮ่องกง</item>
         <item>+8 Irkutsk</item>
-        <item>+8 Kuala Lumpur</item>
+        <item>+8 กัวลาลัมเปอร์</item>
         <item>+8 Perth</item>
         <item>+8 Taipei</item>
         <item>+9 Seoul</item>
@@ -220,8 +221,8 @@
         <item>+13 Tongatapu</item>
     </string-array>
     <string-array name="light_mode_subtitle">
-        <item>Brightness: Off</item>
-        <item>Brightness: Auto</item>
+        <item>ความสว่าง: ปิด</item>
+        <item>ความสว่าง: อัตโนมัติ</item>
         <item>ความสว่าง: 2</item>
         <item>ความสว่าง: 2</item>
         <item>ความสว่าง: 1</item>

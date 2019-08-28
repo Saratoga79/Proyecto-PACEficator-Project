@@ -3,12 +3,12 @@
 <resources>
     <string name="config_statusBarComponent">com.android.systemui.statusbar.phone.PhoneStatusBar</string>
     <string name="quick_settings_tiles_default">wifi,bt,inversion,cell,airplane,rotation,flashlight,location,cast,hotspot</string>
-    <string name="quick_settings_tiles">default</string>
-    <string name="velocity_tracker_impl">platform</string>
+    <string name="quick_settings_tiles">за замовчуванням</string>
+    <string name="velocity_tracker_impl">платформа</string>
     <string name="doze_pulse_schedule">1s,10s,30s,60s</string>
     <string name="system_ui_date_pattern">@android:string/system_ui_date_pattern</string>
     <string name="lland">L Land</string>
-    <string name="app_label">System UI</string>
+    <string name="app_label">Інтерфейс системи</string>
     <string name="status_bar_clear_all_button">Clear</string>
     <string name="status_bar_recent_remove_item_title">Remove from list</string>
     <string name="status_bar_recent_inspect_item_title">App info</string>
