@@ -522,9 +522,9 @@ Also, you\'re connected to a VPN (\"%3$s\"). Your VPN service provider can monit
     <string name="kg_login_password_hint">Password</string>
     <string name="kg_login_submit_button">Увійти</string>
     <string name="kg_login_invalid_input">Недійсне ім\'я корист. чи пароль.</string>
-    <string name="kg_login_account_recovery_hint">\"Forgot your username or password?
-Visit \"<b>google.com/accounts/recovery</b>.</string>
-    <string name="kg_login_checking_password">Checking account…</string>
+    <string name="kg_login_account_recovery_hint">\"Не пам’ятаєте ім’я користувача чи пароль?
+Відвідайте сторінку \"<b>google.com/accounts/recovery</b>.</string>
+    <string name="kg_login_checking_password">Перевірка акаунту…</string>
     <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"You have incorrectly typed your PIN %d times. 
 
 Try again in %d seconds."</string>
@@ -548,13 +548,13 @@ Try again in %d seconds."</string>
     <string name="kg_password_wrong_puk_code_dead">SIM is unusable. Contact your carrier.</string>
     <string name="kg_password_pin_failed">SIM PIN operation failed!</string>
     <string name="kg_password_puk_failed">SIM PUK operation failed!</string>
-    <string name="kg_pin_accepted">Code Accepted!</string>
-    <string name="keyguard_transport_prev_description">Previous track button</string>
-    <string name="keyguard_transport_next_description">Next track button</string>
-    <string name="keyguard_transport_pause_description">Pause button</string>
-    <string name="keyguard_transport_play_description">Play button</string>
-    <string name="keyguard_transport_stop_description">Stop button</string>
-    <string name="keyguard_carrier_default">No service.</string>
+    <string name="kg_pin_accepted">Код прийнято!</string>
+    <string name="keyguard_transport_prev_description">Кнопка попередньої композиції</string>
+    <string name="keyguard_transport_next_description">Кнопка наступної композиції</string>
+    <string name="keyguard_transport_pause_description">Кнопка \"Пауза\"</string>
+    <string name="keyguard_transport_play_description">Кнопка \"Грати\"</string>
+    <string name="keyguard_transport_stop_description">Кнопка \"Стоп\"</string>
+    <string name="keyguard_carrier_default">Немає мережі.</string>
     <string name="status_bar_date_formatter">"%2$s
 %1$s"</string>
 </resources>
