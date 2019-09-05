@@ -8,7 +8,7 @@
     </string-array>
     <string-array name="lab_item_logger">
         <item>[prim]Wear Logger</item>
-        <item>[sum]One-click crawling log ^_^</item>
+        <item>[sum]Dnevnik indeksiranja jednim klikom ^_^</item>
         <item>[pkg]com.huami.watch.wearlogger</item>
         <item>[clazz]com.huami.watch.wearlogger.AllLogActivityLab</item>
     </string-array>
@@ -19,7 +19,7 @@
     </string-array>
     <string-array name="lab_item_open_applist">
         <item>[prim]Launcher Applist</item>
-        <item>[sum]Open or close applist</item>
+        <item>[sum]Otvorite ili zatvorite popis aplikacija</item>
         <item>[sid]applist</item>
     </string-array>
     <string-array name="lab_item_open_nfc">
@@ -33,13 +33,13 @@
         <item>[sid]btsnoop</item>
     </string-array>
     <string-array name="lab_item_power_test">
-        <item>[prim]Power consumption test in flight mode</item>
-        <item>[sum]Detect power consumption in flight mode</item>
+        <item>[prim]Potrošnja energije u Zrakoplovnom načinu</item>
+        <item>[sum]Otkrijte potrošnju energije u Zrakoplovnom načinu</item>
         <item>[sid]power_test</item>
     </string-array>
     <string-array name="lab_item_long_sitting_timer_plus">
-        <item>[prim]Time of sedentary reminder</item>
-        <item>[sum]Set the time of sedentary reminder (in min)</item>
+        <item>[prim]Vrijeme sjedećeg podsjetnika</item>
+        <item>[sum]Postavi vrijeme sjedećeg podsjetnika (u min)</item>
         <item>[pkg]com.huami.mobile.watchsettings</item>
         <item>[clazz]com.huami.moblie.watchsettings.actions.lab.labUI.LongSittingTimeActivity</item>
     </string-array>
