@@ -20,7 +20,7 @@
     <string name="mode_random">Перемішати</string>
     <string name="music_list_title">Налаштування відтворення</string>
     <string name="music_volumn_control">Гучність</string>
-    <string name="music_douban_offline">Douban FM offline</string>
+    <string name="music_douban_offline">Douban FM офлайн</string>
     <string name="music_play_mode">Режими відтворення</string>
     <string name="music_play_source">Змінити музичну бібліотеку</string>
     <string name="music_source_douban">Douban FM</string>
@@ -33,7 +33,7 @@
     <string name="music_no_douban_resource">Немає пісень. Завантажити пісні зараз?</string>
     <string name="music_no_local_resource">Немає пісень. Під\'єднайте USB пристрій для імпорту.</string>
     <string name="music_start_tips">Під\'єднайте блютуз навушники щоб слухати музику. Під\'єднати зараз?</string>
-    <string name="music_down_not_complete_content">You can update songs in Music settings &gt; Douban FM offline after you sign out.</string>
+    <string name="music_down_not_complete_content">Ви можете оновити пісні в налаштуваннях музики &gt; Douban FM офлайн після виходу.</string>
     <string name="cancel">Закрити</string>
     <string name="enter">OK</string>
     <string name="music_download" formatted="false">%1d/%2d</string>
@@ -48,9 +48,9 @@
     <string name="error_no_connection">Не вдалося під\'єднатися до сервера. Будь ласка, перевірте підключення до Інтернету.</string>
     <string name="error_loading_media">Помилка завантаження медіа</string>
     <string name="casting_to_device">Відтворення на %1$s</string>
-    <string name="currently_playing_song">Song currently playing</string>
-    <string name="currently_playing_artist">Artist of currently playing song</string>
-    <string name="currently_playing_extra_info">Extra info for currently playing song</string>
+    <string name="currently_playing_song">Пісня грає в даний час</string>
+    <string name="currently_playing_artist">Виконавець пісні, яка зараз грає</string>
+    <string name="currently_playing_extra_info">Додаткова інформація про пісню, яка зараз відтворюється</string>
     <string name="play_item">Грати елемент</string>
     <string name="play_pause">відтворення або пауза</string>
     <string name="skip_next">перейти до наступного</string>
@@ -60,7 +60,7 @@
     <string name="action_listen">Прослухати</string>
     <string name="open_content_drawer">Відкрити головне меню</string>
     <string name="close_content_drawer">Закрити головне меню</string>
-    <string name="placeholder_message">This is a placeholder for your application code.</string>
+    <string name="placeholder_message">Це заповнення коду вашої програми.</string>
     <string name="drawer_allmusic_title">Вся музика</string>
     <string name="drawer_playlists_title">Списки відтворення</string>
     <string name="now_playing">Зараз грає</string>
