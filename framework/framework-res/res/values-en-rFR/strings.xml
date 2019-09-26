@@ -9,11 +9,11 @@
     <string name="permlab_shutdown">Extinction partielle</string>
     <string name="granularity_label_word">mot</string>
     <string name="factorytest_reboot">Redémarrer</string>
-    <string name="aerr_application">Unfortunately, %1$s has stopped.</string>
-    <string name="aerr_process">Unfortunately, the process %1$s has stopped.</string>
-    <string name="anr_activity_application">"%2$s isn\'t responding.
+    <string name="aerr_application">Malheureusement, %1$s a cessé de fonctionner.</string>
+    <string name="aerr_process">Malheureusement, le processus %1$s s\'est arrêté.</string>
+    <string name="anr_activity_application">"%2$s ne répond pas.
 
-Do you want to close it?"</string>
+Voulez-vous la quitter ?"</string>
     <string name="anr_activity_process">L\'activité %1$s ne répond pas.
 
 Voulez-vous quitter ?</string>
@@ -22,21 +22,21 @@ Voulez-vous quitter ?</string>
 
 Voulez-vous le quitter ?</string>
     <string name="force_close">OK</string>
-    <string name="report">Report</string>
-    <string name="wait">Wait</string>
+    <string name="report">Rapport</string>
+    <string name="wait">Attendre</string>
     <string name="android_upgrading_title">Mise à jour...</string>
     <string name="android_start_title">Redémarrage...</string>
     <string name="android_upgrading_apk">" Optimisation de l'app %1$d Total %2$d"</string>
     <string name="android_upgrading_starting_apps">Démarrage des apps...</string>
     <string name="android_upgrading_complete">Redémarrage presque terminé</string>
-    <string name="wifi_available_sign_in">Sign into Wi-Fi network</string>
-    <string name="wifi_watchdog_network_disabled">"Couldn't connect to Wi-Fi"</string>
+    <string name="wifi_available_sign_in">Connectez-vous au réseau Wi-Fi</string>
+    <string name="wifi_watchdog_network_disabled">"Impossible de se connecter au Wi-Fi"</string>
     <string name="sim_restart_button">Redémarrer</string>
     <string name="back_button_label">Retour</string>
-    <string name="activity_resolver_use_always">Always</string>
-    <string name="activity_resolver_use_once">Just once</string>
-    <string name="whichApplication">Complete action using</string>
-    <string name="whichApplicationNamed">Complete action using %1$s</string>
-    <string name="whichViewApplication">Open with</string>
-    <string name="whichViewApplicationNamed">Open with %1$s</string>
+    <string name="activity_resolver_use_always">Toujours</string>
+    <string name="activity_resolver_use_once">Une seule fois</string>
+    <string name="whichApplication">Terminer l\'action avec</string>
+    <string name="whichApplicationNamed">Terminer l\'action avec %1$s</string>
+    <string name="whichViewApplication">Ouvrir avec</string>
+    <string name="whichViewApplicationNamed">Ouvrir avec %1$s</string>
 </resources>
