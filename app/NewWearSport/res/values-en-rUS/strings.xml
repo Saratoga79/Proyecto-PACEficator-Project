@@ -37,10 +37,10 @@
     <string name="crossing_history_detail_low_altitude">Min Altitude</string>
     <string name="crossing_history_detail_ave_altitude">Average Altitude</string>
     <string name="crossing_history_detail_altituede_graph_desc">Altitude (feet)</string>
-    <string name="crossing_history_detail_individual_km">%1$s mile for a single loop</string>
+    <string name="crossing_history_detail_individual_km"><font color="#ff09ff00"><b>%1$s</b></font> km for a single loop</string>
     <string name="crossing_setting_unit">Mile</string>
     <string name="crossing_settings_item_title_individual_remind">Single Lap Distance</string>
-    <string name="crossing_settings_item_value_individual">%1s kms</string>
+    <string name="crossing_settings_item_value_individual">%1s km</string>
     <string name="crossing_remind_target_individual_title">Lap %1d</string>
     <string name="crossing_remind_target_individual_cost_time">Elapsed Time</string>
     <string name="crossing_remind_target_individual_pace">Pace</string>
@@ -156,7 +156,7 @@
     <string name="settings_item_value_swim_length">%1$sm</string>
     <string name="settings_item_value_swim_length_imperial">%1$sft</string>
     <string name="settings_cal_unit">kCal</string>
-    <string name="setting_auto_pause_speed">"&lt;%1$s km/h"</string>
+    <string name="setting_auto_pause_speed">"When it's slower than &lt;%1$s km/h"</string>
     <string name="setting_auto_pause_pace">"when slower than %1$s"</string>
     <string name="setting_no_set_target">Not Set</string>
     <string name="sport_settings_by_te">Training Effect</string>
@@ -599,7 +599,7 @@
     <string name="not_testing_speed_data">"Speed data not detected"</string>
     <string name="con_leqi_table_title">Watch has support LEQI cycling table, is Connected now?</string>
     <string name="con_leqi_table_subtitle">(Bind in System settings-Bluetooth device)</string>
-    <string name="remind_target_riding_km_title_format">Completed %1$d mi</string>
+    <string name="remind_target_riding_km_title_format">Completed %1$d km</string>
     <string name="indoor_riding_time_too_short">Exercise time is too short to save. Are you sure to stop?</string>
     <string name="outdoor_climb_down_altitude">Cumulative Elevation Loss</string>
     <string name="outdoor_climb_down_distance">Downhill Distance</string>
@@ -817,11 +817,11 @@
     <string name="title_medal_list_header">Achievements</string>
     <string name="time_picker_hour">h</string>
     <string name="time_picker_minute">min</string>
-    <string name="distance_picker_km">mi</string>
+    <string name="distance_picker_km">km</string>
     <string name="sport_notification_view_detail">Open Sports</string>
     <string name="sport_notification_stop">End the exercise</string>
     <string name="sport_notification_title">Sports</string>
-    <string name="sport_notification_content">%s mile</string>
+    <string name="sport_notification_content">%s km</string>
     <string name="notification_title_medal">Achievements</string>
     <string name="history_heart_rate_graph_desc">Heart-rate(bpm)</string>
     <string name="sport_medal_desc_first_sport">Complete a running workout the 1st time</string>
@@ -852,8 +852,8 @@
     <string name="running_in_progress">Running...</string>
     <string name="walking_in_progress">Walking...</string>
     <string name="remind_target_distance_title_format">Target %1$d mi</string>
-    <string name="remind_target_km_title_format">Completed %1$d mi</string>
-    <string name="remind_target_km_walking_title_format">Completed %1$d mi</string>
+    <string name="remind_target_km_title_format">Completed: %1$d km</string>
+    <string name="remind_target_km_walking_title_format">Completed: %1$d km</string>
     <string name="remind_target_distance_finished">Completed</string>
     <string name="remind_target_cost_time_desc">Elapsed Time</string>
     <string name="remind_target_pace_desc">Pace</string>
