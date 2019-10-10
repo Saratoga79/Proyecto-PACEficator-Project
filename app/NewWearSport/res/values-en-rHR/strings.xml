@@ -442,7 +442,7 @@
     <string name="lap_dis_title">Segmentirana udaljenost</string>
     <string name="back_to_continue_sport">Povratak</string>
     <string name="first_modify_tips">Kalibracija s kilometražom većom od 0,5 km omogućuje satu da nauči vaše navike u vožnji i učini kilometražu točnijom.</string>
-    <string name="modify_big_dis_tips">The calibration value %1$s is quite different from the measured value %2$s. Is the calibration confirmed?</string>
+    <string name="modify_big_dis_tips">Vrijednost kalibracije %1$s dosta se razlikuje od izmjerene vrijednosti %2$s. Potvrđujete kalibraciju?</string>
     <string name="modify_big_dis_regain">Promijeni</string>
     <string name="modify_big_dis_confirm">Potvrdite kalibraciju</string>
     <string name="re_modify_dis">Ponovno kalibriranje</string>
@@ -467,10 +467,10 @@
     <string name="time_unit_hour">Sat</string>
     <string name="train_load_medium">Srednje</string>
     <string name="train_load_near_seven_days">Približno 7 dana</string>
-    <string name="train_load_suggess_status_no_record">"Please use the watch for a week first.
- We will evaluate your training load for 7 days"</string>
-    <string name="train_load_suggess_status_less">Insufficient training intensity</string>
-    <string name="train_load_suggess_status_good">Good training status</string>
+    <string name="train_load_suggess_status_no_record">"Prvo koristite sat tjedan dana.
+  Procijenit ćemo vaše opterećenje treninga tijekom 7 dana "</string>
+    <string name="train_load_suggess_status_less">Nedovoljan intenzitet treninga</string>
+    <string name="train_load_suggess_status_good">Dobar status treninga</string>
     <string name="train_load_suggess_status_recovery">"Intenzitet treninga je previsok,
   Izbjegavajte pretjerano treniranje. "</string>
     <string name="train_load_suggess_status_over">Pažnja! Pretjerano treniranje!</string>
@@ -628,7 +628,7 @@
     <string name="real_time_guide_desc_32">Kardiopulmonalna sposobnost za poboljšanje!</string>
     <string name="real_time_guide_desc_33">Ova vježba možda je bila prezahtjevna za vaše tijelo.</string>
     <string name="real_time_guide_desc_34">Ciljani raspon otkucaja srca je %1$s-%2$s BPM!</string>
-    <string name="real_time_guide_desc_35">Time to relax!</string>
+    <string name="real_time_guide_desc_35">Vrijeme za odmor!</string>
     <string name="aleary_finish_group">Grupa br. %1$s je završila</string>
     <string name="this_group_count">Broj grupe</string>
     <string name="group_cost_time">Vrijeme grupe</string>
@@ -637,11 +637,11 @@
     <string name="next_group">Sljedeća grupa</string>
     <string name="rope_skip_times">%1$s times</string>
     <string name="rope_skip_frequency">Frekvencija</string>
-    <string name="rope_skip_currnet_frequency">Current freq</string>
-    <string name="rope_skip_max_frequency">Maximum frequency</string>
-    <string name="rope_skip_total_count">Total Counts</string>
-    <string name="rope_skip_average_frequency">Average Frequency</string>
-    <string name="rope_skip_current_group_count">Current Group No.</string>
+    <string name="rope_skip_currnet_frequency">Trenutna frekvencija</string>
+    <string name="rope_skip_max_frequency">Max. frekvencija</string>
+    <string name="rope_skip_total_count">Ukupno</string>
+    <string name="rope_skip_average_frequency">Prosj. frekvencija</string>
+    <string name="rope_skip_current_group_count">Trenutni br. grupe</string>
     <string name="rope_skip_this_group_count">Counts of the Group</string>
     <string name="rope_skip_this_group_cost_time">Time of the Group</string>
     <string name="rope_skip_this_group_average_frequency">Average Frequency of the Group</string>
@@ -652,14 +652,14 @@
     <string name="settings_sport_arrive_goal_reminder">Reminding for Achieving the Goal</string>
     <string name="alert_skip_you_finish">You Have Completed</string>
     <string name="finish_index_count">No. %1$s</string>
-    <string name="sport_widget_title_rope_skip">Rope Skipping</string>
-    <string name="rope_frequency_unit">Times/ Minute</string>
-    <string name="rope_total_count_remind_title">Total Counting Has Been Completed</string>
+    <string name="sport_widget_title_rope_skip">Preskakanje užeta</string>
+    <string name="rope_frequency_unit">Put(a)/min.</string>
+    <string name="rope_total_count_remind_title">Ukupno brojanje je završeno</string>
     <string name="rope_remind_test_time">2500</string>
-    <string name="setting_rope_skip_total_count">Total Counts (Times)</string>
-    <string name="sport_pause_normal_rope_skip_unit">Number of Rope Skipping</string>
-    <string name="sport_pause_last_min_times_reminder">The Number of Rope Skipping Is Too Less And Cannot Be Saved. Make Sure to End It?</string>
-    <string name="rope_skip_this_frequency">Frequency of the Group</string>
+    <string name="setting_rope_skip_total_count">Ukupno brojanja (puta)</string>
+    <string name="sport_pause_normal_rope_skip_unit">Broj preskakanja užeta</string>
+    <string name="sport_pause_last_min_times_reminder">Broj preskakanja užeta je premali i ne može se spremiti. Sigurno želite završiti?</string>
+    <string name="rope_skip_this_frequency">Frekv. grupe</string>
     <string name="rope_skip_aleary_group"><Data>Have Completed No. &lt;font color=#00ff00&gt;%1$s&lt;/font&gt; Group</Data></string>
     <string name="sport_remind_total_times">Total Times :  %1$s Times</string>
     <string name="sport_main_graph_title_rope_skip">Nearest (s)</string>
