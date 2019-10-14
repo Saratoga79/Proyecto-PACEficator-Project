@@ -315,18 +315,18 @@ kg"</string>
   Vraćanje sata na tvorničke postavke će ukloniti karticu UnionPay i prijevoznu karticu.
   Uklonjena kartica UnionPay: više ne može biti povezana na sat. Ako se ponovno trebate povezati, obratite se službi za korisnike vaše banke.
   Uklonjena prijevozna kartica: trajno će biti uništena i ne može se ponovno platiti. "</string>
-    <string name="reset_factory_conncet_msg">Watch and Amazfit watch App will Remove the Bound UnionPay Card. The Watch will Retain the Payment Function of the Transportation Card.</string>
+    <string name="reset_factory_conncet_msg">Aplikacija Watch i Amazfit ukloniti će Bound UnionPay karticu. Sat će zadržati funkciju plaćanja prijevozne kartice.</string>
     <string name="reset_factory_positive">Vraćanje na tvorničke postavke</string>
     <string name="reset_factory_negative">Odustani</string>
     <string name="reset_factory_fail_title">Vraćanje na tvorničke postavke nije uspjelo</string>
-    <string name="reset_factory_fail_msg">If the UnionPay Card Is Not Successfully Removed, Please Try Again.</string>
+    <string name="reset_factory_fail_msg">Ako UnionPay kartica nije uspješno uklonjena, pokušajte ponovo.</string>
     <string name="reset_factory_fail_positive">U redu</string>
-    <string name="reset_factory_doing1">Factory Reset Is Being Made</string>
-    <string name="reset_factory_doing2">UnionPay Card Is Being Removed</string>
-    <string name="reset_factory_hint_cn">Disconnect from Your Mobile Phone and Delete All Data in Your Watch after Factory Reset. After Binding The Watch the Next Time, the Current Opened Transportation Card Can Continue to Be Used.</string>
-    <string name="reset_factory_bank_title">Please Remove the UnionPay Card at First</string>
-    <string name="reset_factory_bank_msg">"If Reset the Watch without Removing the UnionPay Card, It will Cause the UnionPay Card: 
- 1. Cannot be Removed from the Watch, Occupying Chip Space;  2. Cannot Use the Payment Function in the Watch;  3. Cannot Be Bound by Other Devices; For Payment Security, Please First Remove the UnionPay Card from Amazfit Watch App."</string>
+    <string name="reset_factory_doing1">Vraćanje na tvorničke postavke u tijeku</string>
+    <string name="reset_factory_doing2">Uklanja se UnionPay kartica</string>
+    <string name="reset_factory_hint_cn">Prekinite vezu s mobilnim telefonom i izbrišite sve podatke u svom satu nakon vraćanja na tvorničke postavke. Nakon što sljedeći put povežete sat, trenutno otvorena transportna kartica može se i dalje koristiti.</string>
+    <string name="reset_factory_bank_title">Prvo uklonite UnionPay karticu</string>
+    <string name="reset_factory_bank_msg">"Ako resetirate sat bez uklanjanja UnionPay kartice, uzrokovat će da se UnionPay kartica:
+ 1. Ne može ukloniti iz sata, zauzimajući prostor; 2. Ne može se koristiti funkcija plaćanja u satu; 3. Ne mogu se povezati drugi uređaji; Za sigurnost plaćanja prvo uklonite UnionPay karticu iz aplikacije Amazfit Watch. "</string>
     <string name="reset_factory_bank_yes">Nastavi s vraćanjem na tvorničke postavke</string>
     <string name="reset_factory_bank_no">Odustani</string>
     <string name="reset_factory_bank_msg_again">Sat će prekinuti vezu s vašim mobilnim telefonom i izbrisati sve podatke na satu. Nakon što se sat ponovo poveže, trenutno otvorena transportna kartica može se i dalje koristiti.</string>
