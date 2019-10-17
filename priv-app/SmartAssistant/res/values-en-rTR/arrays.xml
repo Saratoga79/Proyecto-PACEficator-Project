@@ -5,24 +5,24 @@
         <item>com.huami.watch.assistant/com.huami.watch.assistant.widget.SmartAssistantWidget</item>
     </string-array>
     <string-array name="card_date">
-        <item>Dünden önceki gün</item>
-        <item>dün</item>
-        <item>bugün</item>
-        <item>yarın</item>
-        <item>Yarından sonraki gün</item>
+        <item>The day before yesterday</item>
+        <item>Yesterday</item>
+        <item>Today</item>
+        <item>Tomorrow</item>
+        <item>Acquired</item>
     </string-array>
     <string-array name="week_days_short">
-        <item>bir</item>
-        <item>iki</item>
-        <item>üç</item>
-        <item>dört</item>
-        <item>beş</item>
-        <item>altı</item>
-        <item>gün</item>
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thu</item>
+        <item>Fri</item>
+        <item>Sat</item>
+        <item>Sun</item>
     </string-array>
     <string-array name="alarm_repeat_type">
-        <item>Sadece bir kez</item>
-        <item>Her gün</item>
-        <item>Çalışma günü</item>
+        <item>Only once</item>
+        <item>Every day</item>
+        <item>Working days</item>
     </string-array>
 </resources>
