@@ -5,24 +5,24 @@
         <item>com.huami.watch.assistant/com.huami.watch.assistant.widget.SmartAssistantWidget</item>
     </string-array>
     <string-array name="card_date">
-        <item>The day before yesterday</item>
-        <item>Yesterday</item>
-        <item>Today</item>
-        <item>Tomorrow</item>
-        <item>Acquired</item>
+        <item>Przedwczoraj</item>
+        <item>Wczoraj</item>
+        <item>Dzisiaj</item>
+        <item>Jutro</item>
+        <item>Pobrany</item>
     </string-array>
     <string-array name="week_days_short">
-        <item>Mon</item>
-        <item>Tue</item>
-        <item>Wed</item>
-        <item>Thu</item>
-        <item>Fri</item>
-        <item>Sat</item>
-        <item>Sun</item>
+        <item>Pon</item>
+        <item>Wt</item>
+        <item>Śro</item>
+        <item>Czw</item>
+        <item>Pią</item>
+        <item>Sob</item>
+        <item>Niedz</item>
     </string-array>
     <string-array name="alarm_repeat_type">
-        <item>Only once</item>
-        <item>Every day</item>
-        <item>Working days</item>
+        <item>Tylko raz</item>
+        <item>Codziennie</item>
+        <item>Dni robocze</item>
     </string-array>
 </resources>
