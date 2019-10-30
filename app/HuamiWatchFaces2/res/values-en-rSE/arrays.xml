@@ -96,10 +96,10 @@
         <item>Tot. nedstigning</item>
         <item>Nedgång</item>
         <item>Slag</item>
-        <item>Varvtid</item>
-        <item>Gen. varvtid</item>
-        <item>Hastighet per varv</item>
-        <item>Gen. hastighet varv</item>
+        <item>L.L. tid</item>
+        <item>L.L. tempo</item>
+        <item>L.L. hastighet</item>
+        <item>L.L. hjärtrytm</item>
         <item>Kadens Varv</item>
         <item>Tempo</item>
         <item>Nuvarande frekvens</item>
@@ -109,29 +109,29 @@
         <item>Gruppräkning</item>
         <item>Grupptid</item>
         <item>Gruppfrekvens</item>
-        <item>C.L. Time</item>
-        <item>C.L. Distance</item>
-        <item>C.L. Pace</item>
-        <item>C.L. Speed</item>
-        <item>C.L. HR</item>
-        <item>C.L. Cadence</item>
+        <item>C.L Tid</item>
+        <item>C.L. Distans</item>
+        <item>C.L. Tempo</item>
+        <item>C.L. Tempo</item>
+        <item>C.L. Puls</item>
+        <item>C.L. Kadens</item>
     </string-array>
     <string-array name="sport_train_item">
-        <item>Remaining distance</item>
-        <item>Total distance</item>
-        <item>Total time</item>
-        <item>Remaining time</item>
-        <item>Distance</item>
-        <item>Remaining</item>
-        <item>Rested</item>
+        <item>Återstående avstånd</item>
+        <item>Total distans</item>
+        <item>Total tid</item>
+        <item>Återstående tid</item>
+        <item>Avstånd</item>
+        <item>Återstående</item>
+        <item>Vilat</item>
     </string-array>
     <string-array name="weekdays">
-        <item>Sun</item>
-        <item>Mon</item>
-        <item>Tue</item>
-        <item>Wed</item>
-        <item>Thu</item>
-        <item>Fri</item>
-        <item>Sat</item>
+        <item>Sön</item>
+        <item>Mån</item>
+        <item>Tis</item>
+        <item>Ons</item>
+        <item>Tor</item>
+        <item>Fre</item>
+        <item>Lör</item>
     </string-array>
 </resources>
