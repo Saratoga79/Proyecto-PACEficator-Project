@@ -3,7 +3,7 @@
 <resources>
     <string name="permlab_bluetoothShareManager">Downloadbeheer weergeven.</string>
     <string name="permdesc_bluetoothShareManager">Hiermee krijgt de app toegang tot de beheerfunctie voor delen via Bluetooth om deze functie te gebruiken voor het overdragen van bestanden.</string>
-    <string name="permlab_bluetoothWhitelist">Whitelist bluetooth device access.</string>
+    <string name="permlab_bluetoothWhitelist">Toegang tot bluetooth-apparaat, whitelist.</string>
     <string name="permdesc_bluetoothWhitelist">Hiermee kan de app tijdelijk een Bluetooth-apparaat op de witte lijst plaatsen, waardoor dat apparaat bestanden kan verzenden naar dit apparaat zonder bevestiging van de gebruiker.</string>
     <string name="bt_share_picker_label">Bluetooth</string>
     <string name="unknown_device">Onbekend apparaat</string>
@@ -26,7 +26,7 @@
     <string name="incoming_file_toast_msg">Er is een inkomend bestand van een ander apparaat beschikbaar. Bevestig dat u dit bestand wilt ontvangen.</string>
     <string name="notification_receiving">Bluetooth-del: Ontvangen %1$s</string>
     <string name="notification_received">Bluetooth-deel: %1$s ontvangen</string>
-    <string name="notification_received_fail">Bluetooth share: File %1$s not received</string>
+    <string name="notification_received_fail">Bluetooth-delen: bestand %1$s niet ontvangen</string>
     <string name="notification_sending">Bluetooth-del: Verzenden %1$s</string>
     <string name="notification_sent">Bluetooth-deel: Verzonden %1$s</string>
     <string name="notification_sent_complete">100% voltooid</string>
@@ -68,7 +68,7 @@
     <string name="bt_toast_2">"Het bestand kan niet worden ontvangen."</string>
     <string name="bt_toast_3">Gestopt met het ontvangen van bestand van \"%1$s\"</string>
     <string name="bt_toast_4">Bestand verzenden naar \"%1$s\"</string>
-    <string name="bt_toast_5">Sending %1$s files to \"%2$s\"</string>
+    <string name="bt_toast_5">Verzend %1$s naar \"%2$s\"</string>
     <string name="bt_toast_6">Bestand verzenden naar \"%1$s\"</string>
     <string name="bt_sm_2_1">"Er is niet genoeg ruimte op de SD-kaart om het bestand op te slaan van \"%1$s\""</string>
     <string name="bt_sm_2_2">Opslagruimte nodig: %1$s</string>
@@ -91,7 +91,7 @@
     <string name="outbound_history_title">Uitgaande overdrachten</string>
     <string name="no_transfers">Overdrachtsgeschiedenis is leeg.</string>
     <string name="transfer_clear_dlg_msg">Alle items worden gewist uit de lijst.</string>
-    <string name="outbound_noti_title">Bluetooth share: Sent files</string>
+    <string name="outbound_noti_title">Bluetooth-delen: verzonden bestanden</string>
     <string name="inbound_noti_title">Bluetooth-share: ontvangen bestanden</string>
     <string name="noti_caption">%1$s succesvol, %2$s mislukt.</string>
     <string name="transfer_menu_clear_all">Lijst wissen</string>
@@ -129,15 +129,15 @@
     <string name="delete_record">Verwijder</string>
     <string name="start_server">Start TCP server</string>
     <string name="notify_server">Informeer TCP-server</string>
-    <string name="map_session_key_dialog_title">输入“%1$s”的会话密钥</string>
-    <string name="map_session_key_dialog_header">需要提供蓝牙会话密钥</string>
-    <string name="map_acceptance_timeout_message">接受与“%1$s”的连接时超时</string>
-    <string name="map_authentication_timeout_message">输入“%1$s”的会话密钥时超时</string>
-    <string name="map_auth_notif_ticker">OBEX 身份验证请求</string>
-    <string name="map_auth_notif_title">会话密钥</string>
-    <string name="map_auth_notif_message">输入“%1$s”的会话密钥</string>
-    <string name="map_defaultname">车用套件</string>
-    <string name="map_unknownName">未知名称</string>
-    <string name="map_localPhoneName">我的名字</string>
+    <string name="map_session_key_dialog_title">Voer de sessiesleutel in voor \"%1$s\"</string>
+    <string name="map_session_key_dialog_header">Bluetooth-sessiesleutel opgeven</string>
+    <string name="map_acceptance_timeout_message">Time-out bij accepteren van verbinding met \"%1$s\"</string>
+    <string name="map_authentication_timeout_message">Time-out bij het invoeren van sessiesleutel voor \"%1$s\"</string>
+    <string name="map_auth_notif_ticker">OBEX authenticatieverzoek</string>
+    <string name="map_auth_notif_title">Sessiesleutel</string>
+    <string name="map_auth_notif_message">Voer de sessiesleutel in voor \"%1$s\"</string>
+    <string name="map_defaultname">Carkit</string>
+    <string name="map_unknownName">Onbekende naam</string>
+    <string name="map_localPhoneName">Mijn naam</string>
     <string name="map_defaultnumber">000000</string>
 </resources>
