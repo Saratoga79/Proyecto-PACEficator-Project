@@ -861,7 +861,7 @@
     <string name="remind_heart_rate_value_after">bpm</string>
     <string name="remind_heart_rate_suggestion">Gelieve langzaam te vertragen om aan te passen</string>
     <string name="remind_pace_too_low">Tempo is te langzaam</string>
-    <string name="remind_pace_too_fast">Snelheid te hoog</string>
+    <string name="remind_pace_too_fast">Tempo te hoog</string>
     <string name="remind_pace_current">Huidige</string>
     <string name="remind_pace_target">Doel</string>
     <string name="remind_pace_pace_unit">/mi</string>
@@ -1003,17 +1003,17 @@
     <string name="widget_currentstep_activity_no">Geen activiteit vandaag?</string>
     <string name="this_time_need_rest_total_time">本次需休息%1$s</string>
     <string name="data_item_surplus_rest">本次剩余休息</string>
-    <string name="click_finsh_this_train_unit_rest">单击下键完成休息</string>
+    <string name="click_finsh_this_train_unit_rest">Tik op omlaag om de pauze te beëindigen</string>
     <string name="data_item_surplus_rest_keypress">本次已休息</string>
-    <string name="lap_time_title">分段用时</string>
-    <string name="lap_pace_title">分段配速</string>
-    <string name="lap_speed_title">分段速度</string>
+    <string name="lap_time_title">Rondetijd</string>
+    <string name="lap_pace_title">Rondetempo</string>
+    <string name="lap_speed_title">Rondesnelheid</string>
     <string name="lap_sub_type_title">Pauze</string>
-    <string name="cur_lap_stepfreq">本段步频</string>
-    <string name="cur_lap_duration">本段用时</string>
-    <string name="cur_lap_distance">本段里程</string>
-    <string name="cur_lap_hr">本段心率</string>
-    <string name="cur_lap_speed">本段速度</string>
-    <string name="cur_lap_pace">本段配速</string>
+    <string name="cur_lap_stepfreq">Ronde frequentie</string>
+    <string name="cur_lap_duration">Rondeduur</string>
+    <string name="cur_lap_distance">Rondeafstand</string>
+    <string name="cur_lap_hr">Ronde BPM</string>
+    <string name="cur_lap_speed">Rondesnelheid</string>
+    <string name="cur_lap_pace">Rondetempo</string>
     <string name="on_foot_progress">Trekking</string>
 </resources>
