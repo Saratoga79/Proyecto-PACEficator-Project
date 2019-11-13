@@ -14,8 +14,8 @@
     <string name="notification_click_open">Meer</string>
     <string name="delete_all_notifications">Wis alle meldingen</string>
     <string name="delete_all_notifications_confrim_content">Verwijderde meldingen kunnen later op het horloge niet worden opgehaald, verder gaan?</string>
-    <string name="notification_time_day">HH:mm</string>
-    <string name="notification_time_month">MM/dd HH:mm</string>
+    <string name="notification_time_day">UU:mm</string>
+    <string name="notification_time_month">MM/dd UU:mm</string>
     <string name="notification_time_year">yyyy/MM/dd HH:mm</string>
     <string name="action_delete">Verwijder</string>
     <string name="action_shield">Blokkeer</string>
@@ -77,7 +77,7 @@ sinds opgeladen"</string>
     <string name="header_incomming_call_unicom_virtual">Unicom Virtual Carriers</string>
     <string name="header_incomming_call_telecom_virtual">Telecom Virtual Carriers</string>
     <string name="header_incomming_call_other_virtual">Other Mobile Virtual Carriers</string>
-    <string name="header_incomming_call_service_hotline">Service hotline</string>
+    <string name="header_incomming_call_service_hotline">Service Nummer</string>
     <string name="header_incomming_call_localcall">Lokaal gesprek</string>
     <string name="header_incomming_call_unknowncall">Onbekend gesprek</string>
     <string name="call_phone_off">Ring off</string>
@@ -91,7 +91,7 @@ sinds opgeladen"</string>
     <string name="action_failure">"Sorry, dit werkt niet"</string>
     <string name="action_success">Succesvol!</string>
     <string name="action_working">Onderweg...</string>
-    <string name="activity_not_found">There was a problem completing the requested action.</string>
+    <string name="activity_not_found">Er was een probleem met het voltooien van de gevraagde actie.</string>
     <string name="wathc_disconnection_content">Verbroken van telefoon</string>
     <string name="wathc_disconnection_title">Verbroken</string>
     <string name="notification_block">Blokkeer</string>
@@ -189,14 +189,14 @@ sinds opgeladen"</string>
     <string name="retail_36_mins">36 min</string>
     <string name="retail_to_home">naar huis</string>
     <string name="retail_light_traffic">Weinig verkeer op de A12</string>
-    <string name="retail_navigate">Navigate</string>
+    <string name="retail_navigate">Navigeer</string>
     <string name="retail_turn_by_turn">Turn-by-turn aanwijzingen om je pols.</string>
     <string name="retail_slideshow_traffic">Krijg verkeersinformatie voor uw route naar uw werk.</string>
     <string name="retail_british_airways">British Airways 873</string>
     <string name="retail_departs_in">Vertrek in 4 uur</string>
     <string name="retail_gate_loc">Terminal 4, Gate 25</string>
     <string name="retail_slideshow_music">Beheer muziek op je telefoon.</string>
-    <string name="retail_loading">Loading retail mode…</string>
+    <string name="retail_loading">Laad retailmodus…</string>
     <string name="retail_step_count">%1$s stappen</string>
     <string name="retail_pedometer_action">Behaal je fitnessdoelen met Andoird Wear.</string>
     <string name="retail_slideshow_pedometer">Bereik uw fitnessdoelen met dagelijkse statistieken.</string>
@@ -235,14 +235,14 @@ dag"</string>
 dagen"</string>
     <string name="cal_mail_all">Email all guests</string>
     <string name="cal_navigate_to">Navigeer naar %s</string>
-    <string name="cal_navigate">Navigate</string>
+    <string name="cal_navigate">Navigeer</string>
     <string name="cal_where">Waar</string>
     <string name="cal_when">Wanneer</string>
-    <string name="cal_notes">Notes</string>
+    <string name="cal_notes">Notities</string>
     <string name="cal_who">Wie</string>
     <string name="cal_status_accepted">Going</string>
-    <string name="cal_status_declined">Declined</string>
-    <string name="cal_status_invited">No response</string>
+    <string name="cal_status_declined">Afgewezen</string>
+    <string name="cal_status_invited">Geen antwoord</string>
     <string name="cal_status_tentative">Misschien</string>
     <string name="cal_min">min</string>
     <string name="cal_plus_x_more">+ %s meer</string>
