@@ -16,17 +16,17 @@
     <string name="delete_all_notifications_confrim_content">Verwijderde meldingen kunnen later op het horloge niet worden opgehaald, verder gaan?</string>
     <string name="notification_time_day">UU:mm</string>
     <string name="notification_time_month">MM/dd UU:mm</string>
-    <string name="notification_time_year">yyyy/MM/dd HH:mm</string>
+    <string name="notification_time_year">jjjj/MM/dd UU:mm</string>
     <string name="action_delete">Verwijder</string>
     <string name="action_shield">Blokkeer</string>
     <string name="notification_none">Helemaal klaar</string>
     <string name="notification_allclear">Wis alles</string>
     <string name="notification_allclear_confirm">Gewiste meldingen kunnen later niet meer bekeken worden, doorgaan?</string>
     <string name="notification_checking_bluetooth">Bluetooth-verbindingen controleren...</string>
-    <string name="notification_detail_content_title">信息详情</string>
-    <string name="notification_fix_message_action1">固定此消息</string>
-    <string name="notification_fix_message_reset">重新设定时间</string>
-    <string name="notification_fix_message_cancel">取消固定</string>
+    <string name="notification_detail_content_title">Informatie details</string>
+    <string name="notification_fix_message_action1">Pin bericht vast</string>
+    <string name="notification_fix_message_reset">Reset tijd</string>
+    <string name="notification_fix_message_cancel">Loskoppelen</string>
     <string name="quick_settings_airplane_mode">Airplane: %1$s</string>
     <string name="quick_settings_no_disturb_mode">Stil: %1$s</string>
     <string name="quick_settings_auto_light_mode">Backlight: %1$s</string>
@@ -49,8 +49,8 @@
     <string name="quick_settings_date_chinese">yyyy-MM-dd</string>
     <string name="quick_settings_date_format">1900-1-31</string>
     <string name="quick_settings_date_yeareve">Oudejaarsavond</string>
-    <string name="seconed_confirm_nodisturb">"Silent Mode On
-New notification will not show any more."</string>
+    <string name="seconed_confirm_nodisturb">"Stille modus Aan
+zal geen nieuwe melding meer tonen."</string>
     <string name="quick_settings_battery_charging_full">Volledig opgeladen</string>
     <string name="quick_settings_battery_is_charging">Aan het opladen...</string>
     <string name="quick_settings_battery_hasnot_charged">Niet opgeladen</string>
@@ -114,7 +114,7 @@ sinds opgeladen"</string>
     <string name="hm_watch_sports_notification_sports">Sport</string>
     <string name="hm_generic_notification_iconified_content_line">Hallo, ik ben een Huami-fan</string>
     <string name="notification_action_more">Meer</string>
-    <string name="notification_wechat_red_envelop_title">微信红包提醒</string>
+    <string name="notification_wechat_red_envelop_title">Herinnering WeChat</string>
     <string name="notification_alipay_red_envelop_title">支付宝红包提醒</string>
     <string name="notification_qq_red_envelop_title">QQ红包提醒</string>
     <string name="notification_red_envelop_content">%s的红包，快打开手机领取吧!</string>
