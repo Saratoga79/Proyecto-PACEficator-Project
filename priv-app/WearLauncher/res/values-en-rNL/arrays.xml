@@ -11,18 +11,18 @@
         <item>com.android.mms</item>
     </string-array>
     <string-array name="quick_settings_status_week">
-        <item>Sun</item>
-        <item>Mon</item>
-        <item>Tue</item>
-        <item>Wed</item>
-        <item>Thu</item>
-        <item>Fri</item>
-        <item>Sat</item>
-        <item>Today</item>
+        <item>Zon</item>
+        <item>Maa</item>
+        <item>Din</item>
+        <item>Woe</item>
+        <item>Don</item>
+        <item>Vrij</item>
+        <item>Zat</item>
+        <item>Vandaag</item>
     </string-array>
     <string-array name="quick_settings_status_principleTerm">
-        <item>Great cold</item>
-        <item>The rains</item>
+        <item>Geweldige kou</item>
+        <item>De regen</item>
         <item>Vernal Equinox</item>
         <item>Grain rain</item>
         <item>Grain buds</item>
@@ -140,41 +140,41 @@
     </string-array>
     <string-array name="weather_card_aqilevel">
         <item>Excellent</item>
-        <item>Fine</item>
+        <item>Fijn</item>
         <item>Light Pollution</item>
         <item>Moderate Pollution</item>
         <item>Heavy Pollution</item>
-        <item>Severe pollution</item>
+        <item>Ernstige vervuiling</item>
         <item></item>
     </string-array>
     <string-array name="weather_card_quality">
         <item>Suitable for Sports</item>
-        <item>Not suitable for sports</item>
+        <item>Niet geschikt voor sport</item>
         <item></item>
     </string-array>
     <string-array name="quick_settings_status_weather">
-        <item>Clear</item>
-        <item>Cloudy</item>
-        <item>Overcast</item>
-        <item>Fog</item>
-        <item>Haze</item>
-        <item>Showers</item>
-        <item>Thunderstorm</item>
-        <item>Light rain</item>
-        <item>Moderate rain</item>
-        <item>Heavy rain</item>
-        <item>Rainstorm</item>
-        <item>Heavy rainstorm</item>
-        <item>Rain and snow mixed</item>
-        <item>Freezing rain</item>
-        <item>Hail</item>
-        <item>Light snow</item>
-        <item>Moderate snow</item>
-        <item>Heavy snow</item>
-        <item>Blizzard</item>
-        <item>Snow</item>
-        <item>Dust</item>
-        <item>Sandstorm</item>
+        <item>Helder</item>
+        <item>Bewolkt</item>
+        <item>Betrokken</item>
+        <item>Mist</item>
+        <item>Nevel</item>
+        <item>Buien</item>
+        <item>Onweersbui</item>
+        <item>Lichte regenval</item>
+        <item>Matige regenval</item>
+        <item>Zware regenval</item>
+        <item>Regenstorm</item>
+        <item>Zware regenstorm</item>
+        <item>Regen en sneeuw gemengd</item>
+        <item>Vriezende regen</item>
+        <item>Hagel</item>
+        <item>Lichte sneeuw</item>
+        <item>Matige sneeuwval</item>
+        <item>Zware sneeuw</item>
+        <item>Sneeuwstorm</item>
+        <item>Sneeuw</item>
+        <item>Stof</item>
+        <item>Zandstorm</item>
         <item>Sand storm</item>
         <item>Strong sand storm</item>
         <item>No Data</item>
@@ -183,8 +183,8 @@
         <item>sport_te_desc_level_01</item>
         <item>sport_te_desc_level_02</item>
         <item>sport_te_desc_level_03</item>
-        <item>sport_te_desc_level_04</item>
-        <item>sport_te_desc_level_05</item>
+        <item>sport_the_desc_level_04</item>
+        <item>sport_the_desc_level_05</item>
         <item>sport_te_desc_level_06</item>
     </string-array>
     <string-array name="first_beat_sport_guide_remind_txt_list">
@@ -196,24 +196,24 @@
         <item>sport_medal_08_grey</item>
     </string-array>
     <string-array name="sport_target_remind_title_list">
-        <item>sport_target_remind_title_01</item>
+        <item>sport_target_herinnering_title_01</item>
     </string-array>
     <string-array name="sport_target_remind_desc_list">
         <item>sport_target_remind_desc_01</item>
     </string-array>
     <string-array name="dally_performence_level_status">
-        <item>Fatigued</item>
-        <item>Average</item>
-        <item>Good</item>
+        <item>Vermoeid</item>
+        <item>Gemiddeld</item>
+        <item>Goed</item>
     </string-array>
     <string-array name="vo2_max_level_status">
-        <item>Very Poor</item>
-        <item>Fair</item>
-        <item>Poor</item>
-        <item>Average</item>
-        <item>Good</item>
-        <item>Very Good</item>
-        <item>Excellent</item>
+        <item>Zeer slecht</item>
+        <item>Redelijk</item>
+        <item>Slecht</item>
+        <item>Gemiddeld</item>
+        <item>Goed</item>
+        <item>Zeer goed</item>
+        <item>Uitstekend</item>
     </string-array>
     <string-array name="spring_depend">
         <item>com.huami.watch.newsport/com.huami.watch.newsport.widget.SportWidget</item>
@@ -221,9 +221,9 @@
         <item>com.huami.watch.newsport/com.huami.watch.newsport.widget.SportLauncherWidget</item>
     </string-array>
     <string-array name="sort_a1609">
-        <item>com.huami.watch.watchface.DigitalWatchFaceSportOne</item>
-        <item>com.huami.watch.watchface.DigitalWatchFaceSportTwo</item>
-        <item>com.huami.watch.watchface.DigitalWatchFaceSportFive</item>
+        <item>com.huami.watchface.DigitalWatchFaceSportOne</item>
+        <item>com.huami.watchface.DigitalWatchFaceSportTwo</item>
+        <item>com.huami.watchface.DigitalWatchFaceSportFive</item>
         <item>com.huami.watch.watchface.DigitalWatchFaceSportEight</item>
         <item>com.huami.watch.watchface.DigitalWatchFaceSportSeven</item>
         <item>com.huami.watch.watchface.DigitalWatchFaceSportThree</item>
