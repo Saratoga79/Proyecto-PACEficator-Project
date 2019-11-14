@@ -34,7 +34,7 @@
     <string name="label_mood_medium">Tussenin</string>
     <string name="label_mood_bad">Slecht</string>
     <string name="label_choose_when">Rust of training?</string>
-    <string name="label_when_quiet">Rust hartslag</string>
+    <string name="label_when_quiet">Rust</string>
     <string name="label_when_active">Tijdens/na Workout</string>
     <string name="label_choose_condition">Hoe voel je je?</string>
     <string name="label_condition_well">Ontspannen</string>
@@ -47,7 +47,7 @@
     <string name="label_active_fast">Anaerobisch</string>
     <string name="label_active_slow">Vetverbranding</string>
     <string name="label_active_xslow">Non-Workout</string>
-    <string name="label_quiet_normal_any">Hartslag in rusttoestand: 60-100 bpm. Matige lichaamsbeweging en een gezonde levensstijl en gemoedstoestand vergemakkelijken een normale hartslag</string>
+    <string name="label_quiet_normal_any">Hartslag in rusttoestand: 60-100 bpm. Matige lichaamsbeweging, een gezonde levensstijl en de gemoedstoestand faciliteren een normale hartslag.</string>
     <string name="label_quiet_fast_well_medium">Aanbevelingen zijn gegeven dat u uw hartslag binnen de 60-100 bpm moet houden. Matige lichaamsbeweging en een gezonde levensstijl en gemoedstoestand vergemakkelijken een normale hartslag.</string>
     <string name="label_quiet_fast_well_good">Veranderingen in de stemming, zoals nerveusheid en opwinding, kunnen een hoge hartslag veroorzaken. Gemoedsrust handhaven helpt om een normale hartslag te behouden.</string>
     <string name="label_quiet_fast_well_bad">Negatieve emoties zoals ongemak en angst kunnen een hoge hartslag veroorzaken. Gemoedsrust handhaven helpt om een normale hartslag te behouden.</string>
@@ -110,7 +110,7 @@
     <string name="label_all_day_heartrate_close">Uitschakelen</string>
     <string name="label_all_day_heartrate_cancle">Annuleer</string>
     <string name="label_all_day_recently">Laatste</string>
-    <string name="label_all_day_quite">Rust hartslag</string>
+    <string name="label_all_day_quite">Rust</string>
     <string name="label_heart_rate_bmps">bpm</string>
     <string name="heart_rate_distribution">Hartslag Zone</string>
     <string name="heart_rate_history">Laatste gemiddelde HR</string>
@@ -190,7 +190,7 @@
     <string name="weeklysports_runerrate_unit_zh">/km</string>
     <string name="weeklysports_runerrate_unit_en">/mi</string>
     <string name="weeklysports_ridingrate">Fietssnelheid</string>
-    <string name="weeklysports_outdoorriding_average">Buitenshuis fietsen gem. snelheid</string>
+    <string name="weeklysports_outdoorriding_average">Gem. snelheid voor fietsen buiten</string>
     <string name="weeklysports_outdoorriding_max">Buitenshuis fietsen max. snelheid</string>
     <string name="weeklysports_outdoorriding_unit_zh">km/u</string>
     <string name="weeklysports_outdoorriding_unit_en">mi/u</string>
@@ -198,7 +198,7 @@
     <string name="weeklysports_innerswimrate">Zwemmen binnen</string>
     <string name="weeklysports_openswimrate">Zwemmen buiten</string>
     <string name="weeklysports_triathlon">Triathlon</string>
-    <string name="weeklysports_triathlon_totaltime">Totaaltijd</string>
+    <string name="weeklysports_triathlon_totaltime">Totale tijd</string>
     <string name="weeklysports_triathlon_hour">u</string>
     <string name="weeklysports_triathlon_min">minuten</string>
     <string name="weeklysports_frequency"></string>
@@ -236,9 +236,9 @@
     <string name="currentstep_detail_activity_step_done">Doel bereikt</string>
     <string name="currentstep_detail_activity_step_notdo">"Doel niet bereikt"</string>
     <string name="currentstep_detail_activity_run_rate_av">Gem tempo</string>
-    <string name="currentstep_detail_activity_run_rate_ma">Max tempo</string>
+    <string name="currentstep_detail_activity_run_rate_ma">Beste tempo</string>
     <string name="currentstep_detail_activity_walk_ridding_rate_av">Gem snelheid</string>
-    <string name="currentstep_detail_activity_walk_ridding_rate_ma">Max snelheid</string>
+    <string name="currentstep_detail_activity_walk_ridding_rate_ma">Max. snelheid</string>
     <string name="currentstep_detail_activity_mount_total_disacend">Tot. dalen</string>
     <string name="currentstep_detail_activity_mount_total_up">Tot. stijgen</string>
     <string name="currentstep_detail_heart_rate_max_text">Max</string>
