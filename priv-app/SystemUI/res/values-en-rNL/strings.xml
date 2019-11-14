@@ -265,7 +265,7 @@ Het terugzetten van het apparaat kan leiden tot kosten van uw vervoerder."</stri
     <string name="quick_settings_cellular_detail_data_warning">%s waarschuwing</string>
     <string name="recents_empty_message">Your recent screens appear here</string>
     <string name="recents_app_info_button_label">Applicatie Info</string>
-    <string name="recents_lock_to_app_button_label">screen pinning</string>
+    <string name="recents_lock_to_app_button_label">scherm vastzetten</string>
     <string name="recents_search_bar_label">zoeken</string>
     <string name="recents_launch_error_message">Kan %s niet starten.</string>
     <string name="expanded_header_battery_charged">Opgeladen</string>
@@ -412,14 +412,14 @@ Also, you\'re connected to a VPN (\"%3$s\"). Your VPN service provider can monit
     <string name="widget_default_class_name"></string>
     <string name="abbrev_wday_month_day_no_year">EEEEMMMMd</string>
     <string name="abbrev_wday_month_day_no_year_alarm">EEEMMMd</string>
-    <string name="clock_12hr_format">hm</string>
-    <string name="clock_24hr_format">Hm</string>
+    <string name="clock_12hr_format">um</string>
+    <string name="clock_24hr_format">Um</string>
     <string name="app_name">Toetsblokkering</string>
     <string name="keyguard_password_enter_pin_code">PIN-code invoeren</string>
     <string name="keyguard_password_enter_puk_code">Geef de PUK-code en de nieuwe pincode op</string>
     <string name="keyguard_password_enter_puk_prompt">SIM-PUK-code</string>
     <string name="keyguard_password_enter_pin_prompt">Nieuwe SIM-pincode</string>
-    <string name="keyguard_password_entry_touch_hint"><font size="17">Touch to type password</font></string>
+    <string name="keyguard_password_entry_touch_hint"><font size="17">\"Geef wachtwoord\"</font></string>
     <string name="keyguard_password_enter_password_code">Typ het wachtwoord om te ontgrendelen</string>
     <string name="keyguard_password_enter_pin_password_code">Typ pincode om te ontgrendelen</string>
     <string name="keyguard_password_wrong_pin_code">Onjuiste pincode.</string>
@@ -439,14 +439,14 @@ Also, you\'re connected to a VPN (\"%3$s\"). Your VPN service provider can monit
     <string name="keyguard_sim_locked_message">SIM-kaart is vergrendeld.</string>
     <string name="keyguard_sim_puk_locked_message">SIM-kaart is vergrendeld met PUK-code.</string>
     <string name="keyguard_sim_unlock_progress_dialog_message">Simkaart ontgrendelen…</string>
-    <string name="keyguard_widget_12_hours_format">hmm</string>
+    <string name="keyguard_widget_12_hours_format">umm</string>
     <string name="keyguard_widget_24_hours_format">kkmm</string>
-    <string name="keyguard_accessibility_widget_changed">%1$s. Widget %2$d of %3$d.</string>
+    <string name="keyguard_accessibility_widget_changed">%1$s. Widget %2$dvan %3$d.</string>
     <string name="keyguard_accessibility_add_widget">Widget toevoegen.</string>
     <string name="keyguard_accessibility_widget_empty_slot">Leeg</string>
     <string name="keyguard_accessibility_unlock_area_expanded">Unlock area expanded.</string>
     <string name="keyguard_accessibility_unlock_area_collapsed">Ontgrendelingsgebied samengevouwen.</string>
-    <string name="keyguard_accessibility_widget">%1$s widget.</string>
+    <string name="keyguard_accessibility_widget">%1$s widgets</string>
     <string name="keyguard_accessibility_user_selector">Gebruikersselectie</string>
     <string name="keyguard_accessibility_camera">Camera</string>
     <string name="keygaurd_accessibility_media_controls">Mediabediening</string>
@@ -476,7 +476,7 @@ Also, you\'re connected to a VPN (\"%3$s\"). Your VPN service provider can monit
     <string name="keyguard_accessibility_hide_bouncer">Starten geannuleerd</string>
     <string name="keyguard_accessibility_delete_widget_start">Drop %1$s to delete.</string>
     <string name="keyguard_accessibility_delete_widget_end">%1$s will not be deleted.</string>
-    <string name="keyguard_accessibility_next_alarm">Next alarm set for %1$s</string>
+    <string name="keyguard_accessibility_next_alarm">Volgend alarm om %1$s</string>
     <string name="password_keyboard_label_symbol_key">\?123</string>
     <string name="password_keyboard_label_alpha_key">ABC</string>
     <string name="password_keyboard_label_alt_key">Alt</string>
@@ -510,25 +510,22 @@ Also, you\'re connected to a VPN (\"%3$s\"). Your VPN service provider can monit
     <string name="kg_puk_enter_pin_hint">Gewenste pincode opgeven</string>
     <string name="kg_enter_confirm_pin_hint">Gewenste pincode bevestigen</string>
     <string name="kg_sim_unlock_progress_dialog_message">Simkaart ontgrendelen…</string>
-    <string name="kg_invalid_sim_pin_hint">Type a PIN that is 4 to 8 numbers.</string>
-    <string name="kg_invalid_sim_puk_hint">PUK code should be 8 numbers or more.</string>
-    <string name="kg_invalid_puk">Re-enter the correct PUK code. Repeated attempts will permanently disable the SIM.</string>
+    <string name="kg_invalid_sim_pin_hint">Voer een pincode van 4 tot 8 cijfers in.</string>
+    <string name="kg_invalid_sim_puk_hint">De pukcode is minimaal acht cijfers lang.</string>
+    <string name="kg_invalid_puk">Geef de juiste PUK-code opnieuw op. Bij herhaalde pogingen wordt de simkaart permanent uitgeschakeld.</string>
     <string name="kg_invalid_confirm_pin_hint">Pincodes komen niet overeen</string>
     <string name="kg_login_too_many_attempts">Te veel patroonpogingen</string>
-    <string name="kg_login_instructions">To unlock, sign in with your Google account.</string>
+    <string name="kg_login_instructions">Als u wilt ontgrendelen, moet u inloggen op je Google-account.</string>
     <string name="kg_login_username_hint">Gebruikersnaam (e-mail)</string>
     <string name="kg_login_password_hint">Wachtwoord</string>
     <string name="kg_login_submit_button">Aanmelden</string>
     <string name="kg_login_invalid_input">Ongeldige gebruikersnaam of wachtwoord.</string>
-    <string name="kg_login_account_recovery_hint">\"Forgot your username or password?
-Visit \"<b>google.com/accounts/recovery</b>.</string>
+    <string name="kg_login_account_recovery_hint">Bent u je gebruikersnaam of wachtwoord vergeten?\nGa naar \"<b>"https://www.google.com/accounts/recovery"</b>\".</string>
     <string name="kg_login_checking_password">Account controleren…</string>
-    <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"You have incorrectly typed your PIN %d times. 
-
-Try again in %d seconds."</string>
-    <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"You have incorrectly typed your password %d times. 
-
-Try again in %d seconds."</string>
+    <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"PIN- %d keer onjuist ingevoerd. 
+Probeer opnieuw in %d seconden."</string>
+    <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Wachtwoord %d keer onjuist ingevoerd. 
+Probeer opnieuw in %d seconden."</string>
     <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"You have incorrectly drawn your unlock pattern %d times. 
 
 Try again in %d seconds."</string>
