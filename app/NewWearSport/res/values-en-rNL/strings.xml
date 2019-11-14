@@ -54,8 +54,8 @@
     <string name="achive_share_sport">Share Activity</string>
     <string name="achive_get_record_time">17-05-25</string>
     <string name="achive_person_record">Personal Record</string>
-    <string name="remind_target_calorie_title">Reached set calorie goal</string>
-    <string name="remind_target_time_title">Reached set time goal</string>
+    <string name="remind_target_calorie_title">Caloriedoel bereikt</string>
+    <string name="remind_target_time_title">Tijdsdoel bereikt</string>
     <string name="remind_target_calorie_title_format">kCal</string>
     <string name="remind_target_time_h_unit">u</string>
     <string name="remind_target_time_m_unit">m</string>
@@ -102,7 +102,7 @@
     <string name="battery_continue_imperial_distance_unit"> mi</string>
     <string name="battery_continue_time_unit">u</string>
     <string name="battery_split"> / </string>
-    <string name="suggest_reset_time">Time to full recovery %1$s hrs</string>
+    <string name="suggest_reset_time">Tijd tot volledig herstel: %1$su</string>
     <string name="remain_time_recovery"><Data>tijd om volledig herstel&amp;nbsp;&lt;font color=#00ff00&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;/font&gt;&amp;nbsp; h</Data></string>
     <string name="more_sport_tint">Meer</string>
     <string name="zh_space">　</string>
@@ -151,7 +151,7 @@
     <string name="settings_sport_bg_type_white">Wit</string>
     <string name="setting_on">Aan</string>
     <string name="setting_off">Uit</string>
-    <string name="settings_item_title_target_calorie_remind">Calorie Goal</string>
+    <string name="settings_item_title_target_calorie_remind">Caloriedoel</string>
     <string name="settings_item_value_target_calorie">%1$dkCal</string>
     <string name="settings_item_value_swim_length">%1$sm</string>
     <string name="settings_item_value_swim_length_imperial">%1$sft</string>
@@ -161,7 +161,7 @@
     <string name="setting_no_set_target">Not Set</string>
     <string name="sport_settings_by_te">Taining Effect</string>
     <string name="sport_settings_by_sport_data">Andere metingen</string>
-    <string name="sport_settings_no_set">Doelstelling niet instellen</string>
+    <string name="sport_settings_no_set">Doel niet instellen</string>
     <string name="sport_settings_te_title">Selecteer</string>
     <string name="sport_settings_current_target_te_title">Huidig doel</string>
     <string name="sport_select_more_setting_content">Wijzig</string>
@@ -188,8 +188,8 @@
     <string name="history_title">Activiteiten</string>
     <string name="history_detail_info">Details</string>
     <string name="hitory_rest_command">Tijd tot volledig herstel </string>
-    <string name="hitory_rest_command_time"> hrs</string>
-    <string name="history_month_target_title">Monthly Goal</string>
+    <string name="hitory_rest_command_time"> u</string>
+    <string name="history_month_target_title">Maandelijks doel</string>
     <string name="history_month_dis">%1$s/%2$dkm</string>
     <string name="history_month_dis_imperial">%1$s/%2$dmi</string>
     <string name="history_month_cost">%1$s/%2$s</string>
@@ -618,15 +618,15 @@
     <string name="real_time_guide_title_10">Good pace！</string>
     <string name="real_time_guide_title_11">\"Verhoog het tempo
  voor effectieve oefening!\"</string>
-    <string name="real_time_guide_title_14">Well done!</string>
+    <string name="real_time_guide_title_14">Hou dit tempo aan</string>
     <string name="real_time_guide_title_22">Good pace！</string>
     <string name="real_time_guide_title_25">Increase the pace.</string>
     <string name="real_time_guide_title_26">Increase the pace!</string>
-    <string name="real_time_guide_title_27">Well done!</string>
+    <string name="real_time_guide_title_27">Je doel is bereikt</string>
     <string name="real_time_guide_title_28">Guided exercise has ended!</string>
     <string name="real_time_guide_title_30">Good work!</string>
-    <string name="real_time_guide_title_31">Well done!</string>
-    <string name="real_time_guide_title_32">Well done!</string>
+    <string name="real_time_guide_title_31">Zeer goed</string>
+    <string name="real_time_guide_title_32">Zeer goed</string>
     <string name="real_time_guide_title_33">Take it easy!</string>
     <string name="real_time_guide_title_34">Slow down!</string>
     <string name="real_time_guide_title_35">Take it easy!</string>
@@ -670,8 +670,8 @@
     <string name="total_counting">Aantal</string>
     <string name="skiing_lap_rope_skip_title">Skip group details</string>
     <string name="setting_item_totla_count_reminder">Total count</string>
-    <string name="settings_sport_arrive_goal_reminder">Goal reached</string>
-    <string name="alert_skip_you_finish">You are done</string>
+    <string name="settings_sport_arrive_goal_reminder">Doel bereikt</string>
+    <string name="alert_skip_you_finish">Klaar</string>
     <string name="finish_index_count">Count:%1$s</string>
     <string name="sport_widget_title_rope_skip">Springtouw</string>
     <string name="rope_frequency_unit">Sprongen/min</string>
@@ -746,7 +746,7 @@
     <string name="sport_widget_title_interval_run">Lopend (interval)</string>
     <string name="sport_app_name">Sporten</string>
     <string name="sport_item_running_title">Lopen</string>
-    <string name="sport_item_walking_title">Wantelen</string>
+    <string name="sport_item_walking_title">Wandelen</string>
     <string name="title_sport_list">Outdoor Activities</string>
     <string name="title_sport_gps_available">GPS beschikbaar</string>
     <string name="title_sport_gps_unavailable">Wachten op GPS</string>
@@ -783,7 +783,7 @@
     <string name="history_info_cost_time_desc">Elapsed Time</string>
     <string name="history_detail_paused_time">Pauzeer tijd</string>
     <string name="history_detail_running_title">Lopen</string>
-    <string name="history_detail_walking_title">Wantelen</string>
+    <string name="history_detail_walking_title">Wandelen</string>
     <string name="history_detail_indoor_running_title">Indoor lopen</string>
     <string name="history_detail_cost_time">Totale tijd</string>
     <string name="history_detail_pace_desc">Tempo (min/km)</string>
@@ -944,7 +944,7 @@
     <string name="km_metric_pace_unit">/km</string>
     <string name="km_metric_speed_unit">km/u</string>
     <string name="km_metric_distance">Afstand (km)</string>
-    <string name="km_metric_remind_target_distance_title_format">Doel %1$d km</string>
+    <string name="km_metric_remind_target_distance_title_format">Doel: %1$d km</string>
     <string name="km_metric_remind_target_km_title_format">%1$d km afgelegd</string>
     <string name="km_metric_remind_target_km_walking_title_format">%1$d km afgelegd</string>
     <string name="km_metric_remind_target_distance_training_title_format">%1$d km afgelegd</string>
@@ -959,7 +959,7 @@
     <string name="km_imperial_pace_unit">/mi</string>
     <string name="km_imperial_speed_unit">mi/h</string>
     <string name="km_imperial_distance">Distance(mi)</string>
-    <string name="km_imperial_remind_target_distance_title_format">Doel %1$d mi</string>
+    <string name="km_imperial_remind_target_distance_title_format">Doel: %1$d km</string>
     <string name="km_imperial_remind_target_km_title_format">%1$d mi afgelegd</string>
     <string name="km_imperial_remind_target_km_walking_title_format">%1$d mi afgelegd</string>
     <string name="km_imperial_remind_target_riding_km_title_format">%1$d mi afgelegd</string>
