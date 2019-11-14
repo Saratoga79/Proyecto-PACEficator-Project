@@ -125,7 +125,7 @@
     <string name="picker_heart_region_content">zone %1$d</string>
     <string name="settings_sport_target">Trainingsdoel</string>
     <string name="settings_sport_remind">Activiteit herinneringen</string>
-    <string name="settings_sport_control">More Settings</string>
+    <string name="settings_sport_control">Meer instellingen</string>
     <string name="settings_sport_auto_pause">Auto Pause</string>
     <string name="settings_sport_auto_pause_triathlon">Auto-pauzeren</string>
     <string name="settings_sport_cadence_link">Toebehoren</string>
@@ -164,7 +164,7 @@
     <string name="sport_settings_no_set">Do Not Set Target</string>
     <string name="sport_settings_te_title">Set Targets</string>
     <string name="sport_settings_current_target_te_title">Current Target</string>
-    <string name="sport_select_more_setting_content">More Settings</string>
+    <string name="sport_select_more_setting_content">Wijzig</string>
     <string name="sport_cur_tar_dis_km">Afstand: %1$skm</string>
     <string name="sport_cur_tar_dis_mi">Distance: %1$smi</string>
     <string name="sport_cur_tar_dis_meter">Distance: %1$sm</string>
@@ -229,7 +229,7 @@
     <string name="exchange_anim_title">Switch Activity</string>
     <string name="sport_pause_swim_type">Swim Distance </string>
     <string name="sport_pause_swim_dis_unit">Afstand</string>
-    <string name="sport_pause_normal_dis_type">Distance </string>
+    <string name="sport_pause_normal_dis_type">Afstand </string>
     <string name="sport_pause_normal_dis_unit">Afstand</string>
     <string name="sport_pause_normal_stroke_unit">Slagen</string>
     <string name="sport_auto_lap_dis">%1$s km in</string>
@@ -343,7 +343,7 @@
     <string name="pace_swim_unit_yd">/100yards</string>
     <string name="settings_item_value_swim_length_yd">%1$s yards</string>
     <string name="title_custom_swim_length">Customize Pool Size</string>
-    <string name="swim_unit_title">Distance Unit</string>
+    <string name="swim_unit_title">Afstandseenheid</string>
     <string name="gps_close_notification_title">Shutting down GPS</string>
     <string name="gps_close_notification_content">Due to inactivity, GPS will be shutdown in one minute.</string>
     <string name="per_correspond_km">Elke %1$d km</string>
@@ -367,21 +367,21 @@
     <string name="interval_segment_details">Interval details</string>
     <string name="test_html_txt" formatted="false">%1sminc%2ssecc/%3smin</string>
     <string name="sport_widget_title_skiing">Skiën</string>
-    <string name="sport_widget_title_in_skiing">In Skiing</string>
-    <string name="skiing_history_downhill_title">Lopen</string>
-    <string name="skiing_downhill_max_elev_loss">Max Descent</string>
-    <string name="skiing_downhill_total_elev_loss">Total Descent</string>
-    <string name="skiing_downhill_desecnd">Total Mileage</string>
-    <string name="skiing_cur_lat_lng_title">Lat Long</string>
+    <string name="sport_widget_title_in_skiing">Skiën</string>
+    <string name="skiing_history_downhill_title">Bergaf</string>
+    <string name="skiing_downhill_max_elev_loss">Max. afdaling</string>
+    <string name="skiing_downhill_total_elev_loss">Totaal afdaling</string>
+    <string name="skiing_downhill_desecnd">Total bergaf</string>
+    <string name="skiing_cur_lat_lng_title">Breedte/Lengte</string>
     <string name="speed_remind_title">Speed Alert</string>
     <string name="speed_too_fast_remind_title">Too Fast</string>
-    <string name="skiing_lap_title">Laps</string>
-    <string name="skiing_remind_next_interval_train">Next Interval</string>
+    <string name="skiing_lap_title">Rondedetails</string>
+    <string name="skiing_remind_next_interval_train">Volgende interval</string>
     <string name="skiing_remind_click_finsh_this_train_unit">Press Lap Key</string>
-    <string name="skiing_interval_train_complete">Interval Complete</string>
-    <string name="skiing_interval_train_complete_pause_tip">Pausing the Activity</string>
-    <string name="skiing_above_skiing_spped">Alert when speed &gt; %1$s</string>
-    <string name="skiing_lap_downhill_dis_title">Afstand</string>
+    <string name="skiing_interval_train_complete">Afgeronde interval training</string>
+    <string name="skiing_interval_train_complete_pause_tip">Activiteit pauzeren</string>
+    <string name="skiing_above_skiing_spped">Melden wanneer sneller dan %1$s</string>
+    <string name="skiing_lap_downhill_dis_title">Bergaf</string>
     <string name="sport_history_total_stokes">Total Strokes</string>
     <string name="sport_tennis_forehand">Forehand</string>
     <string name="sport_tennis_backhand">Backhand</string>
@@ -390,7 +390,7 @@
     <string name="sport_setting_left_hand">Links</string>
     <string name="sport_setting_right_hand">Rechts</string>
     <string name="sport_please_select_clap_hand">Please choose racket hand</string>
-    <string name="skiing_stop_dialog_msg_not_reach_minimum_distance">Activity with too few runs cannot be saved. Continue?</string>
+    <string name="skiing_stop_dialog_msg_not_reach_minimum_distance">Meer vensters nodig om gegevens op te slaan. Toch afsluiten?</string>
     <string name="sport_soccer_sec_half">Start Second-half</string>
     <string name="tennic_strokes_times_too_short">A game with too few strokes can’t be saved, continue?</string>
     <string name="dialog_tennic_select_hand_title">Please choose racket hand</string>
@@ -515,7 +515,7 @@
     <string name="first_beat_help_te">&lt;font color=#00FF00&gt;What is this？&lt;/font&gt;&lt;br/&gt; Training Effect (TE) measures the accumulated load during a workout and interprets its impact on your aerobic fitness. TE starts from level 0.0. As the workout progresses successfully, TE value increases (from 0 towards 5), telling you how the workout effects your fitness. &lt;br/&gt;&lt;font color=#00FF00&gt;How is it calculated? &lt;/font&gt;&lt;br/&gt; TE is calculated based on your user profile, heart beat data and difficulty of the workout.&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; The watch will show realtime TE measurement during a workout as well as final TE result at the end of the workout. A&amp;lt;2.0 TE simply indicates that the workout has little effect on cardiorespiratory fitness and is useful only for building an endurance base and recovery. &lt;br/&gt;&lt;small&gt;For more details, please see Help in Amazfit Watch app.&lt;/small&gt;</string>
     <string name="first_beat_help_train_load">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Het horloge zal de trainingsbelasting berekenen op basis van EPOC-waarden (zuurstofverbruik na training) die zijn verzameld uit hartslaggegevens tijdens trainingen geregistreerd, in een 7-dagen rollend venster. De gebruiker kan het trainingsschema aanpassen om een ​​optimale belasting te bereiken. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;Zie Amazfit-app voor meer informatie.&lt;/small&gt;</string>
     <string name="first_beat_help_run_target_and_real_time_guide">The watch will provide workout recommendation based on a your VO2Max fitness level, recent Training Load and recovery status from previous workout. &lt;br/&gt; If you enable realtime coaching feature in settings and set a TE target or choose one of the recommended workouts, the watch will guide you through the workout and prompt to adjust pace and heart rate in order to achieve set goals. &lt;br/&gt; &lt;small&gt;For more details, please see Help in Amazfit Watch app.&lt;/small&gt;</string>
-    <string name="first_beat_help_daily_perpormence">"&lt;font color=#00FF00&gt;What is this？&lt;/font&gt;&lt;br/&gt;Realtime Performance Condition indicates if you are above or below your average performance level, and how accumulating fatigue affects your performance during a workout. &lt;br/&gt;&lt;font color=#00FF00&gt;How is it used？&lt;/font&gt;&lt;br/&gt;The watch will evaluate your performance condition automatically after ~6 minutes of running. A higher-than-avarage value indicates that you can make a harder workout than you'd normally do. A lower value suggests that you should take a easier workout. &lt;br/&gt;After completing a workout, you can analyze the performance by looking at the result at each km/mile on the graph. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;For more details, please see Help in Amazfit Watch app.&lt;/small&gt;"</string>
+    <string name="first_beat_help_daily_perpormence">"&lt;font color=#00FF00&gt;What is this？&lt;/font&gt;&lt;br/&gt;Realtime prestatieconditie geeft aan of u boven of onder uw gemiddelde prestatieniveau bent en hoe accumulerende vermoeidheid uw prestaties beïnvloedt. &amp; lt; br / &amp; gt; &amp; lt; lettertypekleur = # 00FF00 &amp; gt; Hoe werkt het？ &amp; lt; / font &amp; gt; &amp; lt; br / &amp; gt; Het horloge evalueert uw prestaties automatisch na ~ 6 minuten hardlopen. Een hogere waarde dan gemiddeld geeft aan dat u een zwaardere training aankunt dan u normaal zou doen. Een lagere waarde suggereert dat u een gemakkelijkere training moet nemen. &amp; lt; br / &amp; gt; Na het voltooien van een training kunt u de prestaties analyseren door naar het resultaat bij elke km / mijl in de grafiek te bekijken. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;For more details, please see Help in Amazfit Watch app.&lt;/small&gt;"</string>
     <string name="first_beat_help_recovery_time">After completing a workout, you will be provided with time in minutes to full recovery. Between workouts recovery time is linearly decreased towards zero if there is no new workout data available. The user is encouraged to have some low intensiy workouts to help with recovery. &lt;br/&gt;&lt;small&gt;For more details, please see Help in Amazfit Watch app.&lt;/small&gt;</string>
     <string name="vo2max_unit">ml / kg / min</string>
     <string name="run_vo2max_unit">ml / kg / min</string>
@@ -600,9 +600,9 @@
     <string name="remind_target_riding_km_title_format">%1$d mi afgelegd</string>
     <string name="indoor_riding_time_too_short">Oefentijd is te kort om op te slaan. Weet je zeker dat je stopt?</string>
     <string name="outdoor_climb_down_altitude">Cumulative Elevation Loss</string>
-    <string name="outdoor_climb_down_distance">Downhill Distance</string>
-    <string name="outdoor_climb_down_distance_time">Downhill Time</string>
-    <string name="outdoor_climb_distance_time">Uphill Slope Time</string>
+    <string name="outdoor_climb_down_distance">Afstand afname</string>
+    <string name="outdoor_climb_down_distance_time">Tijd bergaf</string>
+    <string name="outdoor_climb_distance_time">Uphill piste tijd</string>
     <string name="real_time_keep_speed">Keep current pace</string>
     <string name="real_time_run_faster">Versnel</string>
     <string name="real_time_every_good">Zeer goed</string>
@@ -613,11 +613,11 @@
     <string name="real_time_guide_title_3">\"Increase the pace 
  for effective exercise!\"</string>
     <string name="real_time_guide_title_6">Good pace！</string>
-    <string name="real_time_guide_title_7">\"Increase the pace 
- for more effective exercise!\"</string>
+    <string name="real_time_guide_title_7">\"Verhoog het tempo
+ voor effectieve oefening!\"</string>
     <string name="real_time_guide_title_10">Good pace！</string>
-    <string name="real_time_guide_title_11">\"Increase the pace
- for more effective exercise!\"</string>
+    <string name="real_time_guide_title_11">\"Verhoog het tempo
+ voor effectieve oefening!\"</string>
     <string name="real_time_guide_title_14">Well done!</string>
     <string name="real_time_guide_title_22">Good pace！</string>
     <string name="real_time_guide_title_25">Increase the pace.</string>
@@ -712,11 +712,11 @@
     <string name="swim_stroke_speed">Stroke Rate</string>
     <string name="rt_swim_trips">Trip</string>
     <string name="swim_dps">DPS</string>
-    <string name="skiing_downhill_num">Run(s)</string>
-    <string name="skiing_downhill_single_descend">Afstand</string>
+    <string name="skiing_downhill_num">Rondes</string>
+    <string name="skiing_downhill_single_descend">Bergaf</string>
     <string name="skiing_downhill_max_speed">Max. snelheid</string>
     <string name="skiing_downhill_elev_loss">Dalend</string>
-    <string name="skiing_rt_downhill_desecnd">Total Mileage</string>
+    <string name="skiing_rt_downhill_desecnd">Total bergaf</string>
     <string name="sport_tennis_strokes">Slagen</string>
     <string name="last_lap_pace">Last lap Pace</string>
     <string name="last_lap_stepfreq">Last lap Step frecuency</string>
@@ -943,7 +943,7 @@
     <string name="metre_metric">meter</string>
     <string name="km_metric_pace_unit">/km</string>
     <string name="km_metric_speed_unit">km/u</string>
-    <string name="km_metric_distance">Afstand(km)</string>
+    <string name="km_metric_distance">Afstand (km)</string>
     <string name="km_metric_remind_target_distance_title_format">Doel %1$d km</string>
     <string name="km_metric_remind_target_km_title_format">%1$d km afgelegd</string>
     <string name="km_metric_remind_target_km_walking_title_format">%1$d km afgelegd</string>
