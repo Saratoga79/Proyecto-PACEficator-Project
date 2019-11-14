@@ -123,7 +123,7 @@
     <string name="picker_sub_title_te_three">(verbeterend)</string>
     <string name="picker_sub_title_te_four">(verbeterend)</string>
     <string name="picker_heart_region_content">zone %1$d</string>
-    <string name="settings_sport_target">Training Target</string>
+    <string name="settings_sport_target">Trainingsdoel</string>
     <string name="settings_sport_remind">Activiteit herinneringen</string>
     <string name="settings_sport_control">More Settings</string>
     <string name="settings_sport_auto_pause">Auto Pause</string>
@@ -229,7 +229,7 @@
     <string name="exchange_anim_title">Switch Activity</string>
     <string name="sport_pause_swim_type">Swim Distance </string>
     <string name="sport_pause_swim_dis_unit">Afstand</string>
-    <string name="sport_pause_normal_dis_type">Total Distance </string>
+    <string name="sport_pause_normal_dis_type">Distance </string>
     <string name="sport_pause_normal_dis_unit">Afstand</string>
     <string name="sport_pause_normal_stroke_unit">Slagen</string>
     <string name="sport_auto_lap_dis">%1$s km in</string>
@@ -775,7 +775,7 @@
     <string name="running_stop_dialog_msg_not_reach_minimum_distance">De afstand is te kort om op te slaan. Weet je zeker dat je stopt?</string>
     <string name="running_stop_dialog_positive_text">Stop</string>
     <string name="running_stop_dialog_negative_text">Annuleer</string>
-    <string name="sport_history_total_distance_desc">Totale Afstand</string>
+    <string name="sport_history_total_distance_desc">Afstand</string>
     <string name="sport_history_header_total_count_desc">Total Times</string>
     <string name="sport_history_header_calorie_desc">Calorieën</string>
     <string name="history_heart_rate_desc">Heart Rate:</string>
@@ -934,7 +934,7 @@
     <string name="reminder_speed_unit">/u</string>
     <string name="remind_target_distance_training_title_format">Loop%1sKm</string>
     <string name="remind_target_time_training_title_format">Rijden%1$dMin</string>
-    <string name="remind_target_time_training_title_swim_format">Swim%1$dMin</string>
+    <string name="remind_target_time_training_title_swim_format">Zwemmen: %1$d min</string>
     <string name="complete_training_target_tips">"Sla deze loop op naar het trainingsprogramma van vandaag?"</string>
     <string name="complete_training_outdoor_riding_target_tips">"Fietsen opslaan in het trainingsprogramma van vandaag?"</string>
     <string name="complete_training_swim_target_tips">"Save this swim to today's training program?"</string>
