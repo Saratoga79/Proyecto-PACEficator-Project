@@ -9,8 +9,8 @@
         <item>sport_te_desc_level_01</item>
         <item>sport_te_desc_level_02</item>
         <item>sport_te_desc_level_03</item>
-        <item>sport_te_desc_level_04</item>
-        <item>sport_te_desc_level_05</item>
+        <item>sport_the_desc_level_04</item>
+        <item>sport_the_desc_level_05</item>
         <item>sport_te_desc_level_06</item>
     </string-array>
     <string-array name="first_beat_sport_guide_remind_txt_list">
@@ -28,27 +28,27 @@
         <item>sport_target_remind_desc_01</item>
     </string-array>
     <string-array name="support_sport">
-        <item>RUNNING</item>
-        <item>WALKING</item>
+        <item>LOPEN</item>
+        <item>WANDELEN</item>
         <item>CROSSING</item>
-        <item>INDOOR_RUN</item>
-        <item>OUTDOOR_RIDING</item>
-        <item>INDOOR_RIDING</item>
-        <item>ELLIPTICAL_MACHINE</item>
+        <item>INDOOR_LOPEN</item>
+        <item>FIETSEN_OUTDOOR</item>
+        <item>INDOOR_FIETSEN</item>
+        <item>ELLIPTISCHE TRAINER</item>
     </string-array>
     <string-array name="dally_performence_level_status">
-        <item>Fatigued</item>
+        <item>Vermoeid</item>
         <item>Average</item>
-        <item>Good</item>
+        <item>Goed</item>
     </string-array>
     <string-array name="vo2_max_level_status">
         <item>Very Poor</item>
         <item>Fair</item>
         <item>Poor</item>
-        <item>Average</item>
-        <item>Good</item>
+        <item>Gemiddeld</item>
+        <item>Goed</item>
         <item>Very Good</item>
-        <item>Excellent</item>
+        <item>Uitstekend</item>
     </string-array>
     <string-array name="spring_depend">
         <item>com.huami.watch.newsport/com.huami.watch.newsport.widget.SportWidget</item>

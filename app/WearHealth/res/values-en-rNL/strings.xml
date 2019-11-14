@@ -234,7 +234,7 @@
     <string name="currentstep_detail_activity_chart">Activiteiten</string>
     <string name="currentstep_detail_activity_chart_unit">Eenheid: uur</string>
     <string name="currentstep_detail_activity_step_done">Doel bereikt</string>
-    <string name="currentstep_detail_activity_step_notdo">"Didn't reach goal"</string>
+    <string name="currentstep_detail_activity_step_notdo">"Doel niet bereikt"</string>
     <string name="currentstep_detail_activity_run_rate_av">Gem tempo</string>
     <string name="currentstep_detail_activity_run_rate_ma">Max tempo</string>
     <string name="currentstep_detail_activity_walk_ridding_rate_av">Gem snelheid</string>
@@ -284,7 +284,7 @@
     <string name="currentstep_detail_activities_title">Huidige stappen</string>
     <string name="currentstep_detail_activities_others">Overig</string>
     <string name="label_heartrate_unit">bpm</string>
-    <string name="average_text">Avg</string>
+    <string name="average_text">Gem</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Bevestig</string>
     <string name="picker_default_nagetive_text">Uit</string>
@@ -292,8 +292,8 @@
     <string name="no_altitude_hint">"Hoogtegegevens niet gedetecteerd"</string>
     <string name="title_settings">Instellingen</string>
     <string name="sport_music_settings">Sportmuziek</string>
-    <string name="heart_rate_quite">Resting HR</string>
-    <string name="widget_weeklyreports_heart_rate_min_reset_text">Min HR</string>
+    <string name="heart_rate_quite">Rust HR</string>
+    <string name="widget_weeklyreports_heart_rate_min_reset_text">Min. HR</string>
     <string name="widget_weeklyreports_heart_rate_max_reset_text">Max HR</string>
-    <string name="widget_weeklyreports_average_reset_title">Avg resting</string>
+    <string name="widget_weeklyreports_average_reset_title">Gem in rust</string>
 </resources>
