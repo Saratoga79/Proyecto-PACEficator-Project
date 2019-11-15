@@ -333,66 +333,65 @@ Het terugzetten van het apparaat kan leiden tot kosten van uw vervoerder."</stri
 Uw beheerder kan activiteiten van uw apparaat en netwerk monitoren, met inbegrip van e-mails, apps ...
 
 Meer informatie? Neem contact op met beheerder."</string>
-    <string name="monitoring_description_vpn">"You gave \"%1$s\" permission to set up a VPN connection.
+    <string name="monitoring_description_vpn">Je gaf \"%1$s\" toestemming voor het instellen van een VPN-verbinding.
+Deze app kan je apparaat- en netwerkactiviteit worden gecontroleerd, inclusief e-mails, apps en websites.</string>
+    <string name="monitoring_description_legacy_vpn">"Je bent verbonden met een VPN (\"%1$s\").
 
-This app can monitor your device and network activity, including emails, apps and secure websites."</string>
-    <string name="monitoring_description_legacy_vpn">"You\'re connected to a VPN (\"%1$s\").
-
-Your VPN service provider can monitor your device and network activity including emails, apps, and secure websites."</string>
-    <string name="monitoring_description_vpn_device_owned">"This device is managed by:
+Uw VPN-serviceprovider kan uw apparaat- en netwerkactiviteit volgen, inclusief e-mails, apps en beveiligde websites."</string>
+    <string name="monitoring_description_vpn_device_owned">"Dit apparaat wordt beheerd door:
 %1$s
 
-Your administrator is capable of monitoring your network activity including emails, apps, and secure websites. For more information, contact your administrator.
+Uw beheerder is in staat om uw netwerkactiviteit te monitoren, inclusief e-mails, apps en beveiligde websites. Voor meer informatie, neem contact op met uw beheerder.
 
-Also, you gave \"%2$s\" permission to set up a VPN connection. This app can monitor network activity too."</string>
-    <string name="monitoring_description_legacy_vpn_device_owned">"This device is managed by:
+Ook gaf je \"%2$s\" toestemming om een VPN-verbinding op te zetten. Deze app kan de netwerkactiviteit ook volgen."</string>
+    <string name="monitoring_description_legacy_vpn_device_owned">"Dit apparaat wordt beheerd door:
 %1$s
 
-Your administrator is capable of monitoring your network activity including emails, apps, and secure websites. For more information, contact your administrator.
+Uw beheerder is in staat om uw netwerkactiviteit te monitoren, inclusief e-mails, apps en beveiligde websites. Neem voor meer informatie contact op met uw beheerder.
 
-Also, you\'re connected to a VPN (\"%2$s\"). Your VPN service provider can monitor network activity too."</string>
-    <string name="monitoring_description_profile_owned">"This profile is managed by:
+En u bent verbonden met een VPN (\"%2$s\"). Uw VPN-serviceprovider kan de netwerkactiviteit ook volgen."</string>
+    <string name="monitoring_description_profile_owned">"Dit profiel wordt beheerd door:
 %1$s
 
-Your administrator can monitor your device and network activity, including emails, apps and secure websites.
+Uw beheerder kan de activiteiten van uw apparaat en netwerk monitoren, met inbegrip van e-mails, apps en beveiligde websites.
 
-For more information, contact your administrator."</string>
-    <string name="monitoring_description_device_and_profile_owned">"This device is managed by:
+Voor meer informatie, neem contact op met uw beheerder."</string>
+    <string name="monitoring_description_device_and_profile_owned">"Dit apparaat wordt beheerd door:
 %1$s
-Your profile is managed by:
+Uw profiel wordt beheerd door:
 %2$s
 
-Your administrator can monitor your device and network activity, including emails, apps and secure websites.
+Uw beheerder kan de activiteiten van uw apparaat en netwerk volgen inclusief e-mails, apps en veilige websites.
 
-For more information, contact your administrator."</string>
-    <string name="monitoring_description_vpn_profile_owned">"This profile is managed by:
+Voor meer informatie, neem contact op met uw beheerder."</string>
+    <string name="monitoring_description_vpn_profile_owned">"Dit profiel wordt beheerd door:
 %1$s
 
-Your administrator is capable of monitoring your network activity including emails, apps, and secure websites. For more information, contact your administrator.
+Uw beheerder is in staat om uw netwerkactiviteit te monitoren, inclusief e-mails, apps en beveiligde websites. Voor meer informatie, neem contact op met uw beheerder.
 
-Also, you gave \"%2$s\" permission to set up a VPN connection. This app can monitor network activity too."</string>
-    <string name="monitoring_description_legacy_vpn_profile_owned">"This profile is managed by:
+Ook gaf je \"%2$s\" toestemming om een VPN-verbinding op te zetten. Deze app kan de netwerkactiviteit ook volgen."</string>
+    <string name="monitoring_description_legacy_vpn_profile_owned">"Dit profiel wordt beheerd door:
 %1$s
 
-Your administrator is capable of monitoring your network activity including emails, apps, and secure websites. For more information, contact your administrator.
+Uw beheerder is in staat om uw netwerkactiviteit te monitoren, inclusief e-mails, apps en beveiligde websites. Neem voor meer informatie contact op met uw beheerder.
 
-Also, you\'re connected to a VPN (\"%2$s\"). Your VPN service provider can monitor network activity too."</string>
-    <string name="monitoring_description_vpn_device_and_profile_owned">"This device is managed by:
+En u bent verbonden met een VPN (\"%2$s\"). Uw VPN-serviceprovider kan de netwerkactiviteit ook volgen."</string>
+    <string name="monitoring_description_vpn_device_and_profile_owned">"Dit apparaat wordt beheerd door:
 %1$s
-Your profile is managed by:
+Uw profiel wordt beheerd door:
 %2$s
 
-Your administrator is capable of monitoring your network activity including emails, apps, and secure websites. For more information, contact your administrator.
+Uw beheerder kan uw netwerkactiviteit volgen, inclusief e-mails, apps en veilige websites. Voor meer informatie, neem contact op met uw beheerder.
 
-Also, you gave \"%3$s\" permission to set up a VPN connection. This app can monitor network activity too."</string>
-    <string name="monitoring_description_legacy_vpn_device_and_profile_owned">"This device is managed by:
+Ook gaf je \"%3$s\" toestemming om een VPN-verbinding op te zetten. Deze app kan de netwerkactiviteit ook volgen."</string>
+    <string name="monitoring_description_legacy_vpn_device_and_profile_owned">"Dit apparaat wordt beheerd door:
 %1$s
-Your profile is managed by:
+Uw profiel wordt beheerd door:
 %2$s
 
-Your administrator is capable of monitoring your network activity including emails, apps, and secure websites. For more information, contact your administrator.
+Uw beheerder kan uw netwerkactiviteit volgen, inclusief e-mails, apps en veilige websites. Neem voor meer informatie contact op met uw beheerder.
 
-Also, you\'re connected to a VPN (\"%3$s\"). Your VPN service provider can monitor network activity too."</string>
+Ook ben u verbonden met een VPN (\"%3$s\"). Uw VPN-serviceprovider kan de netwerkactiviteit ook volgen."</string>
     <string name="keyguard_indication_trust_disabled">Het apparaat blijft vergrendeld totdat u het handmatig ontgrendelt</string>
     <string name="hidden_notifications_title">Sneller meldingen ontvangen</string>
     <string name="hidden_notifications_text">Weergeven voordat u ontgrendelt</string>
@@ -400,8 +399,8 @@ Also, you\'re connected to a VPN (\"%3$s\"). Your VPN service provider can monit
     <string name="hidden_notifications_setup">Instellen</string>
     <string name="zen_mode_and_condition">%1$s. %2$s</string>
     <string name="screen_pinning_title">Scherm is vastgezet</string>
-    <string name="screen_pinning_description">This keeps it in view until you unpin. Touch and hold Back and Overview at the same time to unpin.</string>
-    <string name="screen_pinning_description_accessible">This keeps it in view until you unpin. Touch and hold Overview to unpin.</string>
+    <string name="screen_pinning_description">Het scherm blijft zichtbaar totdat u het losmaakt. Houd \'Terug\' en \'Overzicht\' tegelijk aangeraakt om het los te maken.</string>
+    <string name="screen_pinning_description_accessible">Het scherm blijft zichtbaar totdat u het losmaakt. Houd het overzicht ingedrukt om het los te maken.</string>
     <string name="screen_pinning_positive">Ik snap het</string>
     <string name="screen_pinning_negative">Nee, bedankt</string>
     <string name="quick_settings_reset_confirmation_title">Verberg %1$s?</string>
@@ -526,18 +525,18 @@ Also, you\'re connected to a VPN (\"%3$s\"). Your VPN service provider can monit
 Probeer opnieuw in %d seconden."</string>
     <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Wachtwoord %d keer onjuist ingevoerd. 
 Probeer opnieuw in %d seconden."</string>
-    <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"You have incorrectly drawn your unlock pattern %d times. 
+    <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Je hebt je ontgrendelingspatroon %d keer ten onrechte getekend 
 
-Try again in %d seconds."</string>
-    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">You have incorrectly attempted to unlock the tablet %d times. After %d more unsuccessful attempts, this tablet will be reset, which will delete all its data.</string>
-    <string name="kg_failed_attempts_now_wiping">You have incorrectly attempted to unlock the tablet %d times. This tablet will be reset, which will delete all its data.</string>
-    <string name="kg_failed_attempts_almost_at_erase_user" formatted="false">You have incorrectly attempted to unlock the tablet %d times. After %d more unsuccessful attempts, this user will be removed, which will delete all user data.</string>
-    <string name="kg_failed_attempts_now_erasing_user">You have incorrectly attempted to unlock the tablet %d times. This user will be removed, which will delete all user data.</string>
-    <string name="kg_failed_attempts_almost_at_erase_profile" formatted="false">You have incorrectly attempted to unlock the tablet %d times. After %d more unsuccessful attempts, the work profile will be removed, which will delete all profile data.</string>
-    <string name="kg_failed_attempts_now_erasing_profile">You have incorrectly attempted to unlock the tablet %d times. The work profile will be removed, which will delete all profile data.</string>
-    <string name="kg_failed_attempts_almost_at_login" formatted="false">"You have incorrectly drawn your unlock pattern %d times. After %d more unsuccessful attempts, you will be asked to unlock your tablet using an email account.
+Probeer het opnieuw in %d seconden."</string>
+    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">U heeft ten onrechte geprobeerd de tablet %d keer te ontgrendelen. Na %d meer mislukte pogingen, wordt deze tablet gereset, welke al zijn gegevens zal verwijderen.</string>
+    <string name="kg_failed_attempts_now_wiping">U heeft ten onrechte geprobeerd de tablet %d keer te ontgrendelen. Deze tablet zal worden gereset, welke al zijn gegevens zal verwijderen.</string>
+    <string name="kg_failed_attempts_almost_at_erase_user" formatted="false">U heeft ten onrechte geprobeerd de tablet %d keer te ontgrendelen. Na %d meer mislukte pogingen, zal deze gebruiker worden verwijderd, welke alle gebruikersgegevens zal verwijderen.</string>
+    <string name="kg_failed_attempts_now_erasing_user">U heeft ten onrechte geprobeerd de tablet %d keer te ontgrendelen. Deze gebruiker wordt verwijderd, wat alle gebruikersgegevens zal verwijderen.</string>
+    <string name="kg_failed_attempts_almost_at_erase_profile" formatted="false">U heeft ten onrechte geprobeerd de tablet %d keer te ontgrendelen. Na %d meer mislukte pogingen zal het werkprofiel worden verwijderd, wat alle profielgegevens zal verwijderen.</string>
+    <string name="kg_failed_attempts_now_erasing_profile">U heeft ten onrechte geprobeerd de tablet %d keer te ontgrendelen. Het werkprofiel zal worden verwijderd, dit zal alle profielgegevens verwijderen.</string>
+    <string name="kg_failed_attempts_almost_at_login" formatted="false">"Je hebt ten onrechte je ontgrendelingspatroon %d keer getrokken. Na %d meer mislukte pogingen wordt u gevraagd uw tablet te ontgrendelen met een e-mailaccount.
 
- Try again in %d seconds."</string>
+ Probeer het over %d seconden."</string>
     <string name="kg_reordering_delete_drop_target_text">Verwijder</string>
     <string name="kg_password_wrong_pin_code_pukked">Onjuiste pincode voor simkaart. Je moet nu contact opnemen met je provider om je apparaat te ontgrendelen.</string>
     <string name="kg_password_wrong_puk_code_dead">Simkaart is onbruikbaar. Neem contact op met je provider.</string>
