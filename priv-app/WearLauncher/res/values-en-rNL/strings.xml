@@ -40,7 +40,7 @@
     <string name="quick_settings_toast_off">Uitgeschakeld</string>
     <string name="quick_settings_status">Verbroken</string>
     <string name="quick_settings_no_disturb_toast">Melding wordt niet getoond</string>
-    <string name="quick_settings_auto_light_toast">Screen highlighting, will increase the power consumption</string>
+    <string name="quick_settings_auto_light_toast">Scherm oplichten zal het stroomverbruik verhogen</string>
     <string name="quick_settings_status_month">-</string>
     <string name="quick_settings_status_day">  </string>
     <string name="quick_settings_connected">Verbonden</string>
@@ -180,11 +180,11 @@ sinds opgeladen"</string>
     <string name="retail_sunny">Zonnig</string>
     <string name="retail_windspeed">0 mph</string>
     <string name="retail_slideshow_weather">Glance at the weather when you wake up.</string>
-    <string name="retail_ask_questions">Ask questions by saying \"Ok Google\"</string>
-    <string name="retail_send_messages">Send messages by saying \"Ok Google\"</string>
-    <string name="retail_set_reminders">Set reminders by saying \"Ok Google\"</string>
-    <string name="retail_take_notes">Take notes by saying \"Ok Google\"</string>
-    <string name="retail_say_ok_google">Try saying \"Ok Google\"</string>
+    <string name="retail_ask_questions">Stel vragen door \"Ok Google\" te zeggen</string>
+    <string name="retail_send_messages">Stuur berichten door \"Ok Google\" te zeggen</string>
+    <string name="retail_set_reminders">Stel herinneringen in door \"Ok Google\" te zeggen</string>
+    <string name="retail_take_notes">Neem notities door \"Ok Google\" te zeggen</string>
+    <string name="retail_say_ok_google">Probeer \"Ok Google\" te zeggen</string>
     <string name="retail_say_ok_google_again">Zeg nog een keer \"Ok Google\"</string>
     <string name="retail_36_mins">36 min</string>
     <string name="retail_to_home">naar huis</string>
@@ -202,7 +202,7 @@ sinds opgeladen"</string>
     <string name="retail_slideshow_pedometer">Bereik uw fitnessdoelen met dagelijkse statistieken.</string>
     <string name="retail_cal_event_title">Koffie met Alex</string>
     <string name="retail_cal_event_location">Gem Cafe</string>
-    <string name="retail_cal_response">"I'm running 10 minutes late"</string>
+    <string name="retail_cal_response">"Ik zal 10min later zijn."</string>
     <string name="retail_voice_reminder">herinner mij om mijn moeder te bellen als ik thuis ben</string>
     <string name="retail_voice_note">take a note the dining table is 30 inches wide</string>
     <string name="retail_voice_message">send a text to Max barbeque this weekend?</string>
@@ -210,7 +210,7 @@ sinds opgeladen"</string>
     <string name="retail_slideshow_send_texts">Verzend teksten met stem.</string>
     <string name="retail_slideshow_just_ask">Just ask for the information you need.</string>
     <string name="retail_slideshow_set_reminder">Easily set reminders by time and location.</string>
-    <string name="retail_slideshow_take_notes">Take notes just by talking.</string>
+    <string name="retail_slideshow_take_notes">Neem notities alleen door te praten.</string>
     <string name="retail_now_weather_short_peek">%1$s - %2$s</string>
     <string name="perm_label_setup_defaults">Standaardwaarden instellen</string>
     <string name="perm_description_setup_defaults">Deze app kan standaardvoorkeuren voor uw apparaat weergeven.</string>
@@ -399,16 +399,16 @@ dagen"</string>
     <string name="reminder_at_home">Thuis</string>
     <string name="reminder_at_work">Op het werk</string>
     <string name="disambiguation_app_to_complete">Actie voltooien met</string>
-    <string name="sent_via_voice">Sent via voice</string>
+    <string name="sent_via_voice">Verzonden via spraak</string>
     <string name="speak_now">Spreek nu</string>
     <string name="speak_now_help">Spreek nu of veeg omhoog voor meer</string>
     <string name="contact_no_phone_number">Geen telefoonnummer voor deze contactpersoon</string>
     <string name="contact_no_email">Geen email adres voor deze contactpersoon</string>
-    <string name="no_match">"Didn't catch that"</string>
+    <string name="no_match">"Dat heb ik niet begrepen."</string>
     <string name="network_error">"Kan Google op dit moment niet bereiken."</string>
     <string name="server_error">"Kan Google op dit moment niet bereiken."</string>
     <string name="audio_error">"Kan de microfoon niet openen."</string>
-    <string name="null_result_error">Your search did not match any documents</string>
+    <string name="null_result_error">Je zoekopdracht geeft geen resultaat</string>
     <string name="no_answer_error">"%s
 
 Sorry, Google can\'t help you with that"</string>
@@ -418,10 +418,10 @@ Sorry, Google can\'t help you with that"</string>
     <string name="companion_reinstall_required">Installeer Android Wear opnieuw op uw telefoon of tablet.</string>
     <string name="cant_connect_to_companion">Kan geen verbinding maken met de telefoon</string>
     <string name="no_connection">Geen verbinding</string>
-    <string name="search_local_data_attribution_prefix">Business listings data provided by</string>
-    <string name="search_local_data_attribution">Business listings data provided by %s</string>
+    <string name="search_local_data_attribution_prefix">Bedrijfsgegevens geleverd door</string>
+    <string name="search_local_data_attribution">Bedrijfsgegevens geleverd door %s</string>
     <string name="search_disclaimer">Disclaimer</string>
-    <string name="search_sources_include">Sources include: %s</string>
+    <string name="search_sources_include">Bronnen inclusief: %s</string>
     <string name="search_dictionary_pronunciation">/%s/</string>
     <string name="search_dictionary_number">%d.</string>
     <string name="search_map_address_join">%1$s, %2$s</string>
@@ -470,7 +470,7 @@ Sorry, Google can\'t help you with that"</string>
     <string name="now_second_half">Tweede helft</string>
     <string name="now_current_period">Periode %1$d</string>
     <string name="now_sports_in_progress">%1$s, %2$s:%3$s</string>
-    <string name="now_overtime">Overtime</string>
+    <string name="now_overtime">Overuren</string>
     <string name="now_tomorrow_at_time">Morgen on %1$s</string>
     <string name="now_today_at_time">Vandaag om %1$s</string>
     <string name="now_yesterday_at_time">Gisteren om %1$s</string>
@@ -558,13 +558,13 @@ Aan"</string>
     <string name="example_query_navigate_3">Navigate to the Museum of Modern Art</string>
     <string name="example_query_set_timer">Een timer voor 10 minuten instellen</string>
     <string name="unread_count_watchface_name">Toename</string>
-    <string name="showtimes_for_place">showtimes for %s</string>
+    <string name="showtimes_for_place">Aanvangstijden voor %s</string>
     <string name="movie_type_standard">Standard</string>
     <string name="movie_type_3D">3D</string>
     <string name="movie_type_IMAX">IMAX</string>
     <string name="movie_type_IMAX_3D">IMAX 3D</string>
     <string name="perm_label_notify_gps_activity">Notificatie over GPS-activiteit</string>
-    <string name="perm_description_notify_gps_activity">This app can send broadcast with notification about GPS activity</string>
+    <string name="perm_description_notify_gps_activity">Deze app kan meldingen uitzenden over GPS-activiteit</string>
     <string name="contact_type_home">Thuis</string>
     <string name="contact_type_work">Werk</string>
     <string name="contact_type_mobile">Mobiel</string>
