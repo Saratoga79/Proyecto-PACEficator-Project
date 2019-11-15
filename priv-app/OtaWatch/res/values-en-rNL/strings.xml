@@ -10,17 +10,16 @@
     <string name="wifi_add_item">Please connect the Amazfit Watch App to add new Wi-Fi hotspot for the watch</string>
     <string name="add_wifi">Voeg Wi-Fi toe</string>
     <string name="please_update_rom">Nieuwe software-versie gevonden, updaten a.u.b.</string>
-    <string name="checking_rom">Controleer op nieuwe versies</string>
+    <string name="checking_rom">Zoeken naar updates...</string>
     <string name="checking_rom_failed">"Netwerkverbinding time out,
 probeer opnieuw"</string>
-    <string name="current_is_new">Laatste versie</string>
+    <string name="current_is_new">Huidige versie is up-to-date.</string>
     <string name="has_new_rom">"Nieuwe versie gevonden,
 updaten naar versie %1$s ?"</string>
     <string name="has_new_rom_all">An update is available. Firmware on this watch is out of date and upgrading to the latest may take a while, continue?</string>
     <string name="input_passwor_on_mobile">Please input Wi-Fi password in the Amazfit Watch APP</string>
     <string name="processbar_downloading_rom">Downloading...</string>
-    <string name="please_keep_wifi_connect">"\"Houd het horloge 
-verbonden met  WiFi\""</string>
+    <string name="please_keep_wifi_connect">"Wi-Fi niet verbreken"</string>
     <string name="processbar_downloading_tips">%</string>
     <string name="processbar_downloading_default">0</string>
     <string name="download_rom_faild">"Downloaden van update pack
@@ -28,7 +27,7 @@ mislukt. Probeer opnieuw."</string>
     <string name="download_rom_success">ROM succesvol gedownload, a.u.b installeren</string>
     <string name="low_battery_message">Update pack gedownload, de batterij moet boven de %1$s%% blijven om te installeren</string>
     <string name="low_battery_title">A.u.b. eerst opladen</string>
-    <string name="progressbar_tips">Controleer op nieuwe versies...</string>
+    <string name="progressbar_tips">Controleren…</string>
     <string name="progressbar_percent">%1$d%%</string>
     <string name="low_mem">Vrij opslagcapaciteit is onvoldoende voor de upgrade, er is %1$sM meer nodig. A.u.b. vrije ruimte maken</string>
     <string name="update_network_error">"Update check mislukt.
@@ -43,7 +42,7 @@ a.u.b. upgraden"</string>
     <string name="wifi_no_password">Ongecodeerd</string>
     <string name="wifi_has_password">Gecodeerd</string>
     <string name="wifi_password_error">Wachtwoord onjuist</string>
-    <string name="wifi_connecting">Verbinding aan het maken...</string>
+    <string name="wifi_connecting">Bezig met verbinden...</string>
     <string name="wifi_auth">Wachtwoord aan het controleren...</string>
     <string name="wifi_get_ip">IP adres verkrijgen...</string>
     <string name="wifi_link_fail">"Verbinden mislukt..."</string>
@@ -80,7 +79,7 @@ horloge verwijderen, doorgaan?"</string>
     <string name="yes">Ja</string>
     <string name="no">Nee</string>
     <string name="enter">OK</string>
-    <string name="cancel">Annuleren</string>
+    <string name="cancel">Annuleer</string>
     <string name="update_tips_0">Updating</string>
     <string name="update_tips_1">"Please do not power off the watch"</string>
     <string name="average_text">Avg</string>
