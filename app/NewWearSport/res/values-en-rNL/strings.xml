@@ -15,7 +15,7 @@
     <string name="crossing_title">Trail Lopen</string>
     <string name="crossing_end_sport">Stop trail loop eerst</string>
     <string name="crossing_in_progress">Trail Lopen...</string>
-    <string name="crossing_max_step_freq_desc">Max Kadans</string>
+    <string name="crossing_max_step_freq_desc">Max Cadans</string>
     <string name="crossing_climb_up">Dist. Gain</string>
     <string name="crossing_climb_down">Elev. Loss</string>
     <string name="crossing_individual_pen_dis">Single Lap Distance</string>
@@ -67,7 +67,7 @@
     <string name="not_pace_data">"Pace is n/a"</string>
     <string name="not_step_freq_data">"Cadence is n/a"</string>
     <string name="not_stroke_speed_data">"Stroke data is n/a"</string>
-    <string name="not_cadence_data">"Cadence is n/a"</string>
+    <string name="not_cadence_data">"Cadans data n/a"</string>
     <string name="stroke_speed_curve_title">Stroke Rate (SPM)</string>
     <string name="stroke_unit">" slagen"</string>
     <string name="cadence_curve_title">Cadence(times/min)</string>
@@ -184,7 +184,7 @@
     <string name="history_speed_graph_desc_imperial">Snelheid (mph)</string>
     <string name="history_altitude_graph_desc">Altitude(m)</string>
     <string name="history_altitude_graph_desc_imperial">Altitude(ft)</string>
-    <string name="history_step_freq_graph_desc">Kadans (stappen/min)</string>
+    <string name="history_step_freq_graph_desc">Cadans (stappen/min)</string>
     <string name="history_title">Activiteiten</string>
     <string name="history_detail_info">Details</string>
     <string name="hitory_rest_command">Tijd tot volledig herstel </string>
@@ -590,8 +590,8 @@
     <string name="indoor_riding_progressing">Aan het fietsen</string>
     <string name="outdoor_climb_distance">Ground Speed Distance</string>
     <string name="outdoor_climb_altitude">Hoogtewinst</string>
-    <string name="outdoor_max_cadence">Max Kadans</string>
-    <string name="outdoor_ave_cadence">Gemiddelde Kadans</string>
+    <string name="outdoor_max_cadence">Max Cadans</string>
+    <string name="outdoor_ave_cadence">Gemiddelde Cadans</string>
     <string name="outdoor_graph_unit">Afstand (km)</string>
     <string name="outdoor_speed_graph_title">Snelheid (km/h)</string>
     <string name="not_testing_speed_data">"Snelheidsgegevens niet gedetecteerd"</string>
@@ -704,7 +704,7 @@
     <string name="hard_cardio">Hard cardio</string>
     <string name="very_hard_cardio">Very hard cardio</string>
     <string name="route_cur_altitude">Hoogte</string>
-    <string name="outdoor_cadence">Kadans</string>
+    <string name="outdoor_cadence">Cadans</string>
     <string name="sport_main_climb_al">Elev. Gain</string>
     <string name="sport_main_descend_al">Elev. Loss</string>
     <string name="sport_main_climb_dis">Dist. Gain</string>
@@ -719,14 +719,14 @@
     <string name="skiing_rt_downhill_desecnd">Total bergaf</string>
     <string name="sport_tennis_strokes">Slagen</string>
     <string name="last_lap_pace">Last lap Pace</string>
-    <string name="last_lap_stepfreq">Last lap Step frecuency</string>
+    <string name="last_lap_stepfreq">Ronde Cadans</string>
     <string name="last_lap_duration">Last lap time</string>
     <string name="last_lap_hr">Last lap Heart Rate</string>
     <string name="last_lap_speed">Last lap Speed</string>
     <string name="running_cost_time_desc">Tijd</string>
     <string name="running_pace_desc">Tempo</string>
     <string name="running_calorie_desc">Calorieën</string>
-    <string name="running_step_freq_desc">Kadans</string>
+    <string name="running_step_freq_desc">Cadans</string>
     <string name="running_speed_desc">Snelheid</string>
     <string name="running_distance_desc">Afstand</string>
     <string name="running_heartrate_desc">HR</string>
@@ -770,7 +770,7 @@
     <string name="running_control_paused_des">Gepauzeerd</string>
     <string name="sport_history_item_distance_desc">Afstand (km)</string>
     <string name="sport_history_item_cost_time_desc">Tijd</string>
-    <string name="running_avg_step_freq_desc">Gemiddelde Kadans</string>
+    <string name="running_avg_step_freq_desc">Gemiddelde Cadans</string>
     <string name="running_stop_dialog_msg_reach_minimum_distance">Activiteit stoppen?</string>
     <string name="running_stop_dialog_msg_not_reach_minimum_distance">De afstand is te kort om op te slaan. Weet je zeker dat je stopt?</string>
     <string name="running_stop_dialog_positive_text">Stop</string>
@@ -788,7 +788,7 @@
     <string name="history_detail_cost_time">Totale tijd</string>
     <string name="history_detail_pace_desc">Tempo (min/km)</string>
     <string name="history_detail_calorie_desc">Calorieën (kCal)</string>
-    <string name="history_detail_step_freq">Kadans (stappen/min)</string>
+    <string name="history_detail_step_freq">Cadans (stappen/min)</string>
     <string name="history_detail_speed">Snelheid (km/u)</string>
     <string name="waiting_gps_gps_unavailable">Wachten op GPS signaal</string>
     <string name="waiting_gps_gps_available">GPS nu beschikbaar</string>
@@ -806,7 +806,7 @@
     <string name="settings_item_title_target_use_time_remind">Doeltijd</string>
     <string name="settings_item_title_target_distance_remind">Doelafstand</string>
     <string name="settings_item_title_pace_remind">Tempo Alarm</string>
-    <string name="settings_item_title_Leqi_remind">Kadans Alarm</string>
+    <string name="settings_item_title_Leqi_remind">Verbindingsalarm</string>
     <string name="settings_item_value_open">Aan</string>
     <string name="settings_item_value_closed">Uit</string>
     <string name="settings_item_value_target_use_time">%1$d h %2$d min</string>
