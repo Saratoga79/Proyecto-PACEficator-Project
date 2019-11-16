@@ -4,8 +4,8 @@
     <string name="locale_title">Selecteer taal</string>
     <string name="data_check_log">" +------------------------+▂▃▄▅▆▇█▉  Verificatiefout weersgegevens!     %1$s▉█▇▆▅▄▃▂+------------------------+"</string>
     <string name="data_checkfail_type">"Kan het weertype niet herkennen"</string>
-    <string name="data_checkfail_temp">Weather temperature out of range</string>
-    <string name="data_checkfail_match">"Weather type fields do not match"</string>
+    <string name="data_checkfail_temp">De temperatuur is buiten bereik.</string>
+    <string name="data_checkfail_match">"Weerinfo is onjuist."</string>
     <string name="data_checkfail_json">JSON format fout</string>
     <string name="generic_notification_more">Meer(%s)</string>
     <string name="notification_unread_num">Ongelezen %s</string>
@@ -58,7 +58,7 @@ zal geen nieuwe melding meer tonen."</string>
     <string name="quick_settings_battery_charging_intervalDay_lessHour">%d dagen sinds opgeladen</string>
     <string name="quick_settings_battery_charging_intervalDayLess">%d uur sinds opgeladen</string>
     <string name="quick_settings_battery_charging_intervalLessHour">"Minder dan 1 uur
-sinds opgeladen"</string>
+sinds opladen"</string>
     <string name="quick_settings_battery_sportString">Levensduur batterij in sports modus</string>
     <string name="quick_settings_battery_sporttime_hour_unit">uur</string>
     <string name="quick_settings_battery_sporttime_KM_unit">km</string>
@@ -78,7 +78,7 @@ sinds opgeladen"</string>
     <string name="header_incomming_call_telecom_virtual">Telecom Virtual Carriers</string>
     <string name="header_incomming_call_other_virtual">Other Mobile Virtual Carriers</string>
     <string name="header_incomming_call_service_hotline">Service Nummer</string>
-    <string name="header_incomming_call_localcall">Lokal Nummer</string>
+    <string name="header_incomming_call_localcall">Lokaal Nummer</string>
     <string name="header_incomming_call_unknowncall">Onbekend nummer</string>
     <string name="call_phone_off">Ring off</string>
     <string name="call_sound_off">Silence</string>
@@ -294,10 +294,10 @@ dagen"</string>
     <string name="cue_menu_reminder">Herinner mij</string>
     <string name="cue_menu_reminder_help">gaan lopen om 7u</string>
     <string name="cue_menu_show_steps">Laat me mijn stappen zien</string>
-    <string name="cue_menu_track_bike_ride">Start een fietsrit</string>
+    <string name="cue_menu_track_bike_ride">Start fietsrit</string>
     <string name="cue_menu_track_run">Start looptocht</string>
     <string name="cue_menu_track_workout">Start een workout</string>
-    <string name="cue_menu_show_heart_rate">Laat me mijn hartslag zien</string>
+    <string name="cue_menu_show_heart_rate">Toon mijn hartslag</string>
     <string name="cue_menu_make_request">Maak een verzoek</string>
     <string name="cue_menu_text">Verstuur een bericht</string>
     <string name="cue_menu_text_help_male1">naar Jim, ben je in de buurt?</string>
@@ -331,7 +331,7 @@ dagen"</string>
     <string name="cue_menu_apps">Start...</string>
     <string name="cue_launch_error">"Sorry, Google kan dat nu niet doen."</string>
     <string name="voice_action_edit">Bewerk</string>
-    <string name="voice_action_save">Save</string>
+    <string name="voice_action_save">Opslaan</string>
     <string name="voice_action_saving">Saving...</string>
     <string name="voice_action_navigate">Navigeer</string>
     <string name="voice_action_navigating">Aan het navigeren...</string>
@@ -352,7 +352,7 @@ dagen"</string>
     <string name="voice_action_navigate_title_mode_walk">Navigeer (wandelen)</string>
     <string name="voice_action_navigate_mode_bike">Fietsen</string>
     <string name="voice_action_navigate_mode_drive">Rijden</string>
-    <string name="voice_action_navigate_mode_walk">Lopen</string>
+    <string name="voice_action_navigate_mode_walk">Wandelen</string>
     <string name="voice_action_note_title">Notitie</string>
     <string name="voice_action_call_title">Bellen</string>
     <string name="voice_action_set_reminder_title">Stel herinnering in</string>
@@ -429,8 +429,8 @@ Sorry, Google kan u daar niet mee helpen."</string>
     <string name="search_temperature_in_celsius">%s°C</string>
     <string name="search_temperature_in_fahrenheit">%s°F</string>
     <string name="search_temperature_no_units">%s°</string>
-    <string name="search_wind_in_mph">%smph</string>
-    <string name="search_wind_in_kph">%skph</string>
+    <string name="search_wind_in_mph">%s mph</string>
+    <string name="search_wind_in_kph">%s km/u</string>
     <string name="search_precipitation_percent">%s%%</string>
     <string name="search_calculator_left">%s =</string>
     <string name="search_currency_left">%s is gelijk aan</string>
@@ -440,7 +440,7 @@ Sorry, Google kan u daar niet mee helpen."</string>
     <string name="search_when_is_start_evening">%s begint in de avond van</string>
     <string name="search_when_is_end_evening">en stopt in de avond van</string>
     <string name="search_call">Bellen</string>
-    <string name="stock_last_update" formatted="false">Updated: %s - %s</string>
+    <string name="stock_last_update" formatted="false">Geüpdated: %s - %s</string>
     <string name="local_closed">Gesloten</string>
     <string name="monday">Maandag</string>
     <string name="tuesday">Dinsdag</string>
@@ -590,9 +590,9 @@ Aan"</string>
     <string name="power_charging_duration_wireless">%1$d%% - %2$s tot volledige opgeladen via draadloos</string>
     <string name="battery_info_status_unknown">Onbekend</string>
     <string name="battery_info_status_charging">Aan het opladen</string>
-    <string name="battery_info_status_charging_ac">Aan het opladen via stroomnet</string>
-    <string name="battery_info_status_charging_usb">Aan het opladen via USB</string>
-    <string name="battery_info_status_charging_wireless">Draadloos aan het opladen</string>
+    <string name="battery_info_status_charging_ac">Opladen via stroomnet</string>
+    <string name="battery_info_status_charging_usb">Opladen via USB</string>
+    <string name="battery_info_status_charging_wireless">Draadloos opladen</string>
     <string name="battery_info_status_discharging">Niet aan het opladen</string>
     <string name="battery_info_status_not_charging">Niet aan het opladen</string>
     <string name="battery_info_status_full">Vol</string>
@@ -618,14 +618,14 @@ Aan"</string>
     <string name="temp_to">~</string>
     <string name="temp_to_card">/</string>
     <string name="type_to"> naar </string>
-    <string name="not_avalible_type">Geen data</string>
+    <string name="not_avalible_type">Geen gegevens</string>
     <string name="not_avalible_temp">--</string>
     <string name="air_quality">Luchtkwaliteit </string>
     <string name="weather_title">Weer vandaag</string>
     <string name="dot"> </string>
     <string name="forecast_today">Vandaag</string>
     <string name="forecast_tomorrow">Morgen</string>
-    <string name="weather_warning">Voorwaarschuwing</string>
+    <string name="weather_warning">Waarschuwing</string>
     <string name="weather_warning_level_blue">Blauw</string>
     <string name="weather_warning_level_orange">Oranje</string>
     <string name="weather_warning_level_red">Rood</string>
@@ -654,7 +654,7 @@ Aan"</string>
     <string name="air_moderate_polluted">Normale vervuiling</string>
     <string name="air_heavily_polluted">Zware vervuiling</string>
     <string name="air_severely_polluted">Ernstige vervuiling</string>
-    <string name="no_outdoor_info">Geen data</string>
+    <string name="no_outdoor_info">Geen gegevens</string>
     <string name="outdoor_info_notsuit">Ongeschikt voor sporten</string>
     <string name="outdoor_info_suit">Geschikt voor sporten</string>
     <string name="wind_strength">Windkracht</string>
@@ -665,18 +665,18 @@ Aan"</string>
     <string name="fetching">Ophalen</string>
     <string name="fetch_failed">"Kan het weer niet updaten"</string>
     <string name="fetch_failed_title">"Kan geen weersinformatie ophalen"</string>
-    <string name="fetch_failed_msg">Please make sure the watch is connected to the Amazfit Watch App and a valid location is selected in the app.</string>
+    <string name="fetch_failed_msg">Zorg ervoor dat je horloge verbonden is met de Amazfit Watch app en een geldige locatie is geselecteerd in de app.</string>
     <string name="date_time_format">MM-dd</string>
-    <string name="average_text">Gem.</string>
+    <string name="average_text">Gemiddeld</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">OK</string>
     <string name="picker_default_nagetive_text">Uit</string>
     <string name="no_heartrate_data_hint">"Hartslaggegevens niet gevonden"</string>
     <string name="no_altitude_hint">"Hoogtegegevens niet gevonden"</string>
     <string name="title_settings">Instellingen</string>
-    <string name="sport_music_settings">Sportmuziek</string>
-    <string name="widget_currentstep_title">Daily Overview</string>
-    <string name="widget_currentstep_activities">"Activities"</string>
+    <string name="sport_music_settings">Muziek</string>
+    <string name="widget_currentstep_title">Gegevens</string>
+    <string name="widget_currentstep_activities">"Vandaag"</string>
     <string name="widget_currentstep_sleep_hour">u</string>
     <string name="widget_currentstep_sleep_min">min</string>
     <string name="widget_currentstep_sleep_title">Sleep</string>
