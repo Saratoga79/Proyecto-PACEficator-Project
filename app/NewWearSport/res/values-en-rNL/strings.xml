@@ -327,7 +327,7 @@
     <string name="swim_trips_unit">(%1$d m/trip)</string>
     <string name="swim_trips_unit_yd">(%1$d yards/trip)</string>
     <string name="heart_region_title">Heart Rate Zone</string>
-    <string name="heart_region_anaerobic＿limit">Maximum</string>
+    <string name="heart_region_anaerobic＿limit">VO₂ max</string>
     <string name="heart_region_endurance_enhancement">Anaerobisch</string>
     <string name="heart_region_heart_and_lung_enhancement">Cardio Training</string>
     <string name="heart_region_fat_burning">Fat Burning</string>
@@ -481,7 +481,7 @@
     <string name="train_load_suggess_status_over">Overdadig</string>
     <string name="real_time_perpormance_level_very_good">Goed</string>
     <string name="real_time_perpormance_level_good">Goed</string>
-    <string name="real_time_perpormance_level_average">Average</string>
+    <string name="real_time_perpormance_level_average">Normaal</string>
     <string name="real_time_perpormance_level_fatigued">Vermoeid</string>
     <string name="real_time_perpormance_level_very_fatigued">Vermoeid</string>
     <string name="sport_target_remind_head_title">Aanbevolen</string>
@@ -495,31 +495,31 @@
     <string name="sport_target_remind_time_min">Minute</string>
     <string name="sport_tartget_tips">Target TE: %1$s</string>
     <string name="sport_target_remind_desc_01">Maak een workout aan op basis van je huidige training om je fitness te verbeteren.</string>
-    <string name="sport_te_desc_level_01">This exercise has no fitness benefit</string>
+    <string name="sport_te_desc_level_01">Deze oefening heeft geen effect op je conditie.</string>
     <string name="sport_te_desc_level_02">Beperkt effect op fitheid.</string>
     <string name="sport_te_desc_level_03">Licht trainingseffect</string>
     <string name="sport_te_desc_level_04">Gemiddeld trainingseffect</string>
-    <string name="sport_te_desc_level_05">Sterk verbeterende training</string>
+    <string name="sport_te_desc_level_05">Sterk verbeterende fitheid</string>
     <string name="sport_te_desc_level_06">Overbelasting van het lichaam.</string>
     <string name="first_beat_remind_txt_01">This is a good pace。</string>
     <string name="first_beat_remind_txt_02">This is a good pace.more minutes to keep you fit。</string>
     <string name="sport_history_recovery_remind">"Het is aanbevolen om goede onderhoudende workouts te hebben om volledig herstel te bereiken."</string>
     <string name="daily_propermance_has_no_data">Geen gegevens</string>
-    <string name="first_beat_help_title_vo2_max">VO2Max</string>
+    <string name="first_beat_help_title_vo2_max">VO₂ max</string>
     <string name="first_beat_help_title_train_efffect">Training Effect (TE)</string>
     <string name="first_beat_help_title_train_load">Training Load</string>
     <string name="first_beat_help_title_sport_target_or_real_time_guide">Next Workout Recommendation&amp;Realtime Coaching</string>
     <string name="first_beat_help_title_daily_perpormence">Lichaamsstatus</string>
     <string name="first_beat_help_title_recovery_time">Recovery Time</string>
-    <string name="first_beat_help_vo2_max">"&lt;font color=#00FF00&gt;What is this？&lt;/font&gt;&lt;br/&gt; VO2Max represents the maximum volume of oxygen the body can consume in one minute as measured in ml/kg/min. It evaluates the state of users ' cardiorespiratory fitness which is important for overall health, well-being and sports performace. &lt;br/&gt;The watch will automatically evaluate your VO2Max based on heartrate, speed etc. during a moderate intensity running workout and compare that to a reference group of same age and gender to determine your fitness level. &lt;br/&gt;&lt;font color=#00FF00&gt;How to evaluate？&lt;/font&gt;&lt;br/&gt; 1. Provide accurate profile information like age and gender in Amazfit Watch app during setup； &lt;br/&gt; 2. Take a brisk 15 minutes or more outdoor run with the watch on and make sure heartrate is at or above 75% of your maxHR for at least 10 minutes. &lt;br/&gt; 3. After completing the run, you can check current VO2Max in the sports activities app on the watch or personal status page in Amazift Watch app. &lt;br/&gt;&lt;small&gt;For more details, please see Help in Amazfit Watch app.&lt;/small&gt;"</string>
+    <string name="first_beat_help_vo2_max">"&lt;font color=#00FF00&gt;What is this？&lt;/font&gt;&lt;br/&gt; VO₂ max represents the maximum volume of oxygen the body can consume in one minute as measured in ml/kg/min. It evaluates the state of users ' cardiorespiratory fitness which is important for overall health, well-being and sports performace. &lt;br/&gt;The watch will automatically evaluate your VO2Max based on heartrate, speed etc. during a moderate intensity running workout and compare that to a reference group of same age and gender to determine your fitness level. &lt;br/&gt;&lt;font color=#00FF00&gt;How to evaluate？&lt;/font&gt;&lt;br/&gt; 1. Provide accurate profile information like age and gender in Amazfit Watch app during setup； &lt;br/&gt; 2. Take a brisk 15 minutes or more outdoor run with the watch on and make sure heartrate is at or above 75% of your maxHR for at least 10 minutes. &lt;br/&gt; 3. After completing the run, you can check current VO₂ max in the sports activities app on the watch or personal status page in Amazift Watch app. &lt;br/&gt;&lt;small&gt;For more details, please see Help in Amazfit Watch app.&lt;/small&gt;"</string>
     <string name="first_beat_help_te">&lt;font color=#00FF00&gt;What is this？&lt;/font&gt;&lt;br/&gt; Training Effect (TE) measures the accumulated load during a workout and interprets its impact on your aerobic fitness. TE starts from level 0.0. As the workout progresses successfully, TE value increases (from 0 towards 5), telling you how the workout effects your fitness. &lt;br/&gt;&lt;font color=#00FF00&gt;How is it calculated? &lt;/font&gt;&lt;br/&gt; TE is calculated based on your user profile, heart beat data and difficulty of the workout.&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; The watch will show realtime TE measurement during a workout as well as final TE result at the end of the workout. A&amp;lt;2.0 TE simply indicates that the workout has little effect on cardiorespiratory fitness and is useful only for building an endurance base and recovery. &lt;br/&gt;&lt;small&gt;For more details, please see Help in Amazfit Watch app.&lt;/small&gt;</string>
     <string name="first_beat_help_train_load">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Het horloge zal de trainingsbelasting berekenen op basis van EPOC-waarden (zuurstofverbruik na training) die zijn verzameld uit hartslaggegevens tijdens trainingen geregistreerd, in een 7-dagen rollend venster. De gebruiker kan het trainingsschema aanpassen om een ​​optimale belasting te bereiken. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;Zie Amazfit-app voor meer informatie.&lt;/small&gt;</string>
-    <string name="first_beat_help_run_target_and_real_time_guide">The watch will provide workout recommendation based on a your VO2Max fitness level, recent Training Load and recovery status from previous workout. &lt;br/&gt; If you enable realtime coaching feature in settings and set a TE target or choose one of the recommended workouts, the watch will guide you through the workout and prompt to adjust pace and heart rate in order to achieve set goals. &lt;br/&gt; &lt;small&gt;For more details, please see Help in Amazfit Watch app.&lt;/small&gt;</string>
+    <string name="first_beat_help_run_target_and_real_time_guide">The watch will provide workout recommendation based on a your VO₂ max fitness level, recent Training Load and recovery status from previous workout. &lt;br/&gt; If you enable realtime coaching feature in settings and set a TE target or choose one of the recommended workouts, the watch will guide you through the workout and prompt to adjust pace and heart rate in order to achieve set goals. &lt;br/&gt; &lt;small&gt;For more details, please see Help in Amazfit Watch app.&lt;/small&gt;</string>
     <string name="first_beat_help_daily_perpormence">"&lt;font color=#00FF00&gt;What is this？&lt;/font&gt;&lt;br/&gt;Realtime prestatieconditie geeft aan of u boven of onder uw gemiddelde prestatieniveau bent en hoe accumulerende vermoeidheid uw prestaties beïnvloedt. &amp; lt; br / &amp; gt; &amp; lt; lettertypekleur = # 00FF00 &amp; gt; Hoe werkt het？ &amp; lt; / font &amp; gt; &amp; lt; br / &amp; gt; Het horloge evalueert uw prestaties automatisch na ~ 6 minuten hardlopen. Een hogere waarde dan gemiddeld geeft aan dat u een zwaardere training aankunt dan u normaal zou doen. Een lagere waarde suggereert dat u een gemakkelijkere training moet nemen. &amp; lt; br / &amp; gt; Na het voltooien van een training kunt u de prestaties analyseren door naar het resultaat bij elke km / mijl in de grafiek te bekijken. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;For more details, please see Help in Amazfit Watch app.&lt;/small&gt;"</string>
     <string name="first_beat_help_recovery_time">After completing a workout, you will be provided with time in minutes to full recovery. Between workouts recovery time is linearly decreased towards zero if there is no new workout data available. The user is encouraged to have some low intensiy workouts to help with recovery. &lt;br/&gt;&lt;small&gt;For more details, please see Help in Amazfit Watch app.&lt;/small&gt;</string>
-    <string name="vo2max_unit">ml / kg / min</string>
-    <string name="run_vo2max_unit">ml / kg / min</string>
-    <string name="vo2_max_has_no_data">No Data</string>
+    <string name="vo2max_unit">ml/kg/min</string>
+    <string name="run_vo2max_unit">ml/kg/min</string>
+    <string name="vo2_max_has_no_data">Geen data</string>
     <string name="sport_setting_gpx_route_selected">Track Selected</string>
     <string name="sport_setting_gpx_route_selectd_remind">"Outdoor functies worden genavigeerd met behulp van dit traject. Als dit niet nodig is, selecteert u Sluiten"</string>
     <string name="confirm">OK</string>
@@ -969,9 +969,9 @@
     <string name="km_imperial_outdoor_speed_graph_title">Snelheid(mi/h)</string>
     <string name="km_imperial_settings_item_value_target_distance">%1$smi</string>
     <string name="meter_imperial_settings_item_value_target_distance">%1$sfeet</string>
-    <string name="vo2_max_title">VO2Max</string>
-    <string name="vo2_max_level_very_good">Very Good</string>
-    <string name="vo2_max_level_middle">Average</string>
+    <string name="vo2_max_title">VO₂ max</string>
+    <string name="vo2_max_level_very_good">Zeer goed</string>
+    <string name="vo2_max_level_middle">Nomaal</string>
     <string name="vo2_max_text_nunber">50</string>
     <string name="vo2_max_sport_unit">ml/kg/min</string>
     <string name="export_gpx">Exporteer GPX bestand</string>
