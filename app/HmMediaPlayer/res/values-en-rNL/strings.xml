@@ -35,7 +35,7 @@
     <string name="music_start_tips">Sluit Bluetooth-koptelefoon voor muziek te luisteren. Nu verbinden?</string>
     <string name="music_down_not_complete_content">After logging out, songs can be updated in the Music settings - Watercress FM offline.</string>
     <string name="cancel">cancel</string>
-    <string name="enter">Enter</string>
+    <string name="enter">OK</string>
     <string name="music_download" formatted="false">%1d/%2d</string>
     <string name="music_downloading_noting">-/-</string>
     <string name="app_name">HM Media Player</string>
@@ -51,6 +51,10 @@
     <string name="currently_playing_song">Huidige muziek</string>
     <string name="currently_playing_artist">Artiest van de huidige muziek</string>
     <string name="currently_playing_extra_info">Extra informatie van huidige muziek</string>
+    <string name="play_mode_ordered">Ordered</string>
+    <string name="play_mode_random">Random</string>
+    <string name="play_mode_album_loop">Loop</string>
+    <string name="play_mode_single_loop">Single loop</string>
     <string name="play_item">Item afspelen</string>
     <string name="play_pause">afspelen of onderbreken</string>
     <string name="skip_next">ga naar de volgende</string>
@@ -78,7 +82,7 @@
     <string name="label_next">Volgende</string>
     <string name="average_text">Avg</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
-    <string name="picker_default_positive_text">Confirm</string>
+    <string name="picker_default_positive_text">OK</string>
     <string name="picker_default_nagetive_text">Uit</string>
     <string name="no_heartrate_data_hint">"Heart rate data not detected"</string>
     <string name="no_altitude_hint">"Altitude data not detected"</string>
