@@ -6,16 +6,16 @@
     <string name="picker_default_positive_text">OK</string>
     <string name="picker_default_nagetive_text">Uit</string>
     <string name="no_heartrate_data_hint">"Hartslaggegevens niet gevonden"</string>
-    <string name="no_altitude_hint">"Hoogtegegevens niet gevonden"</string>
+    <string name="no_altitude_hint">"Geen hoogtegegevens"</string>
     <string name="title_settings">Instellingen</string>
     <string name="sport_music_settings">Muziek</string>
     <string name="widget_currentstep_title">Gegevens</string>
     <string name="widget_currentstep_activities">"Vandaag"</string>
     <string name="widget_currentstep_sleep_hour">u</string>
     <string name="widget_currentstep_sleep_min">min</string>
-    <string name="widget_currentstep_sleep_title">Sleep</string>
+    <string name="widget_currentstep_sleep_title">Geslapen vannacht</string>
     <string name="widget_currentstep_sleep_no">Geen slaapgegevens</string>
-    <string name="widget_currentstep_activity_no">Geen activiteit vandaag?</string>
+    <string name="widget_currentstep_activity_no">Geen beweging vandaag?</string>
     <string name="settings_item_high_light_scale_factor">0.5</string>
     <string name="locale_title">Taal</string>
     <string name="double_click_wakeup_open">Aan</string>
@@ -125,7 +125,7 @@
     <string name="yinyue">Muziek</string>
     <string name="rebond_title">Pairing herinnering</string>
     <string name="rebond_desc_air_plane">Vliegtuigmodus van het horloge is aan, schakelt het uit en probeer opnieuw te koppelen</string>
-    <string name="rebong_unbond_desc">Let op: deze functie alleen gebruiken als het horloge niet gekoppeld is aan de Amazfit app, anders wordt het gekoppelde horloge ontkoppeld.</string>
+    <string name="rebong_unbond_desc">Let op: Enkel gebruiken als het horloge niet gekoppeld is aan de Amazfit app, anders wordt het gekoppelde horloge ontkoppeld.</string>
     <string name="rebond_go_on">Doorgaan</string>
     <string name="rebond_quit">Verlaat</string>
     <string name="report_bug_dialog_title">Terugkoppeling</string>
@@ -175,8 +175,8 @@
     <string name="nodisturb_close_string">Uit</string>
     <string name="nodisturb_timepicker_connect_symbol">:</string>
     <string name="auto_nodisturb_title_string">Auto niet storen</string>
-    <string name="auto_nodisturb_start_time_string">Begin tijd</string>
-    <string name="auto_nodisturb_end_time_string">Eind tijd</string>
+    <string name="auto_nodisturb_start_time_string">Start</string>
+    <string name="auto_nodisturb_end_time_string">Eind</string>
     <string name="time_to">" tot "</string>
     <string name="auto_wifi_trans_on_string">Aan</string>
     <string name="auto_wifi_trans_off_string">Uit</string>
@@ -209,7 +209,7 @@ en in de buurt is"</string>
     <string name="blt_hint_connect">"%1s
 Verbinden?"</string>
     <string name="blt_confirm_ignore">Weet u zeker dat u dit apparaat wil negeren?</string>
-    <string name="bluetooth_pairing_error_message">"Kon %1$s niet koppelen"</string>
+    <string name="bluetooth_pairing_error_message">"Koppelen %1$s mislukt"</string>
     <string name="bluetooth_connected">Verbonden</string>
     <string name="bluetooth_disconnected">Verbroken</string>
     <string name="bluetooth_connecting_error_message">"Kon niet verbinden met %1$s."</string>
