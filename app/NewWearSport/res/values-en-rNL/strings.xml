@@ -140,7 +140,7 @@
     <string name="settings_sport_target_TE">Doel TE</string>
     <string name="settings_sport_swim_length">Badlengte</string>
     <string name="settings_sport_swim_title">Badlengte (m)</string>
-    <string name="settings_sport_swim_tips">Het horloge zal lengtes tellen op basis van zwembadlengte</string>
+    <string name="settings_sport_swim_tips">Lengtes geteld op basis van zwembadlengte</string>
     <string name="settings_sport_measure_heart">PPG aan/uit</string>
     <string name="settings_sport_rt_guide">Begeleiding</string>
     <string name="settings_sport_auto_pace_title">Pauze op tempo</string>
@@ -279,7 +279,7 @@
     <string name="sport_stride_unit_imperial">in</string>
     <string name="end_last_sport_tips">Stop activiteit \"%1$s\" eerst</string>
     <string name="export_route_trail">Exporteer</string>
-    <string name="sport_dlg_msg_hint_cancel">"Deze export annuleren?"</string>
+    <string name="sport_dlg_msg_hint_cancel">"Export annuleren?"</string>
     <string name="exchange_prepare_riding">Volgende: Fietsen</string>
     <string name="exchange_prepare_running">Volgende: Lopen</string>
     <string name="count_down_swim_tint">Scherm zal worden vergrendeld</string>
@@ -982,12 +982,12 @@ op basis van de oefeningen die in de afgelopen
     <string name="dlg_msg_hint_cancel">Export annuleren?</string>
     <string name="dlg_btn_l_msg">Nee</string>
     <string name="dlg_btn_r_msg">Ja</string>
-    <string name="hint_cancelling">Bezig met annuleren...</string>
+    <string name="hint_cancelling">Annuleren…</string>
     <string name="hint_success_exported_title">Succesvol geëxporteerd naar GPX bestand</string>
     <string name="hint_failed_exported_title">"Exporteren mislukt"</string>
     <string name="hint_where">"Het gpx-bestand is in de map \'/sdcard/gpxdata\' geplaatst.
  Je kunt het via USB naar een computer kopiëren."</string>
-    <string name="hint_failed">"Kan niet exporteren, probeer het opnieuw."</string>
+    <string name="hint_failed">"Kan niet exporteren, probeer opnieuw."</string>
     <string name="app_name">gpx-recorder</string>
     <string name="average_text">Gemiddeld</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
