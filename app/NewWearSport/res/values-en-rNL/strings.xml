@@ -60,7 +60,7 @@
     <string name="remind_target_time_h_unit">u</string>
     <string name="remind_target_time_m_unit">m</string>
     <string name="remind_target_time_default_value">00</string>
-    <string name="no_altitude_hint">"Hoogtegegevens niet gevonden"</string>
+    <string name="no_altitude_hint">"Geen hoogtegegevens"</string>
     <string name="no_heartrate_data_hint">"Hartslaggegevens niet gevonden"</string>
     <string name="no_chart_data_hint">Geen gegevens</string>
     <string name="not_speed_data">"Snelheidsgegevens niet gevonden"</string>
@@ -102,7 +102,7 @@
     <string name="battery_continue_imperial_distance_unit"> mi</string>
     <string name="battery_continue_time_unit">u</string>
     <string name="battery_split"> / </string>
-    <string name="suggest_reset_time">Tijd tot volledig herstel: %1$su</string>
+    <string name="suggest_reset_time">Totale recuperatie: %1$su</string>
     <string name="remain_time_recovery"><Data>tijd tot volledig herstel&amp;nbsp;&lt;font color=#00ff00&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;/font&gt;&amp;nbsp; h</Data></string>
     <string name="more_sport_tint">Meer</string>
     <string name="zh_space">　</string>
@@ -187,7 +187,7 @@
     <string name="history_step_freq_graph_desc">Cadans (stappen/min)</string>
     <string name="history_title">Activiteiten</string>
     <string name="history_detail_info">Details</string>
-    <string name="hitory_rest_command">Tijd tot volledige recup</string>
+    <string name="hitory_rest_command">Tijdsduur recuperatie</string>
     <string name="hitory_rest_command_time"> u</string>
     <string name="history_month_target_title">Maandelijks doel</string>
     <string name="history_month_dis">%1$s/%2$d km</string>
@@ -215,7 +215,7 @@
     <string name="sport_main_am">AM</string>
     <string name="sport_main_pm">PM</string>
     <string name="sport_main_recovery_title">Aanbevolen recuperatie</string>
-    <string name="sport_history_full_recovery">Volledige recuperatie</string>
+    <string name="sport_history_full_recovery">Totale recuperatie</string>
     <string name="sport_main_avg_stride">Gem. staplengte</string>
     <string name="sport_main_stride">Staplengte</string>
     <string name="sport_main_total_kcal">Calorieën</string>
@@ -301,12 +301,12 @@
     <string name="sport_child_riding">Fietsen</string>
     <string name="sport_child_running">Lopen</string>
     <string name="sport_month_settings">Instellingen</string>
-    <string name="sport_month_target">Maandelijkse activiteit doel</string>
+    <string name="sport_month_target">Maandelijks doel</string>
     <string name="sport_month_sport_title">Selecteer activiteit</string>
     <string name="start_mix_sport">Multisport activiteit starten</string>
     <string name="start_single_sport">Start activiteit</string>
     <string name="pause_sport">Pauzeer activiteit</string>
-    <string name="continue_sport">Verdergaan met activiteit</string>
+    <string name="continue_sport">Activiteit verderzetten</string>
     <string name="stop_sport">Stop activiteit</string>
     <string name="swim_avg_stroke_speed">GEM. slagfrequentie</string>
     <string name="swim_max_stroke_speed">Max slagfrequentie</string>
@@ -345,7 +345,7 @@
     <string name="title_custom_swim_length">Badlengte aanpassen</string>
     <string name="swim_unit_title">Afstandseenheid</string>
     <string name="gps_close_notification_title">GPS uitschakelen</string>
-    <string name="gps_close_notification_content">Als gevolg van inactiviteit, wordt GPS uitgeschakeld over 1 minuut.</string>
+    <string name="gps_close_notification_content">Door inactiviteit, wordt GPS over 1min. uitgeschakeld.</string>
     <string name="per_correspond_km">Elke %1$d km</string>
     <string name="per_correspond_mi">Elke %1$d mi</string>
     <string name="more_operation">Meer</string>
@@ -999,9 +999,9 @@ op basis van de oefeningen die in de afgelopen
     <string name="widget_currentstep_activities">"Vandaag"</string>
     <string name="widget_currentstep_sleep_hour">u</string>
     <string name="widget_currentstep_sleep_min">min</string>
-    <string name="widget_currentstep_sleep_title">Sleep</string>
+    <string name="widget_currentstep_sleep_title">Geslapen vannacht</string>
     <string name="widget_currentstep_sleep_no">Geen slaapgegevens</string>
-    <string name="widget_currentstep_activity_no">Geen activiteit vandaag?</string>
+    <string name="widget_currentstep_activity_no">Geen beweging vandaag?</string>
     <string name="this_time_need_rest_total_time">%1$s rust</string>
     <string name="data_item_surplus_rest">De rest</string>
     <string name="click_finsh_this_train_unit_rest">Tik op omlaag om de pauze te beëindigen</string>
