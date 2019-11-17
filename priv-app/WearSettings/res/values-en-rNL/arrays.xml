@@ -28,29 +28,29 @@
         <item>Atlantic/South_Georgia</item>
         <item>Atlantic/Azoren</item>
         <item>Atlantic/Kaap_Verdie</item>
-        <item>Africa/Casablanca</item>
-        <item>Europe/Londen</item>
-        <item>Europe/Amsterdam</item>
-        <item>Europe/Belgrado</item>
-        <item>Europe/Brussel</item>
-        <item>Europe/Sarajevo</item>
+        <item>Afrika/Casablanca</item>
+        <item>Europa/Londen</item>
+        <item>Europa/Amsterdam</item>
+        <item>Europa/Belgrado</item>
+        <item>Europa/Brussel</item>
+        <item>Europa/Sarajevo</item>
         <item>Afrika/Brazzaville</item>
-        <item>Africa/Windhoek</item>
+        <item>Afrika/Windhoek</item>
         <item>Asia/Amman</item>
-        <item>Europe/Athene</item>
+        <item>Europa/Athene</item>
         <item>Asia/Beirut</item>
-        <item>Africa/Cairo</item>
-        <item>Europe/Helsinki</item>
+        <item>Afrika/Cairo</item>
+        <item>Europa/Helsinki</item>
         <item>Asia/Jerusalem</item>
-        <item>Africa/Harare</item>
-        <item>Europe/Minsk</item>
+        <item>Afrika/Harare</item>
+        <item>Europa/Minsk</item>
         <item>Asia/Baghdad</item>
-        <item>Europe/Moskou</item>
+        <item>Europa/Moskou</item>
         <item>Asia/Kuwait</item>
-        <item>Africa/Nairobi</item>
+        <item>Afrika/Nairobi</item>
         <item>Asia/Tehran</item>
         <item>Asia/Baku</item>
-        <item>Asia/Tbilisi</item>
+        <item>Azië/Tbilisi</item>
         <item>Asia/Yerevan</item>
         <item>Asia/Dubai</item>
         <item>Asia/Kabul</item>
@@ -65,7 +65,7 @@
         <item>Asia/Krasnoyarsk</item>
         <item>Asia/Bangkok</item>
         <item>Asia/Shanghai</item>
-        <item>Asia/Hong_Kong</item>
+        <item>Azië/Hong_Kong</item>
         <item>Asia/Irkutsk</item>
         <item>Asia/Kuala_Lumpur</item>
         <item>Australia/Perth</item>
@@ -79,7 +79,7 @@
         <item>Pacific/Guam</item>
         <item>Asia/Magadan</item>
         <item>Australia/Adelaide</item>
-        <item>Australia/Hobart</item>
+        <item>Australië/Hobart</item>
         <item>Australia/Sydney</item>
         <item>Pacific/Majuro</item>
         <item>Pacific/Auckland</item>
@@ -99,12 +99,12 @@
     </string-array>
     <string-array name="lab_item_selftest">
         <item>[action]com.huami.watch.selftest.START</item>
-        <item>[sum]start selftest by yourself</item>
+        <item>[sum] Start zelftest</item>
         <item>[action]com.huami.watch.selftest.START</item>
     </string-array>
     <string-array name="lab_item_open_applist">
         <item>[prim]Launcher Applist</item>
-        <item>[sum]打开或关闭applist</item>
+        <item>[sum] applijst aan/uit</item>
         <item>[sid]applist</item>
     </string-array>
     <string-array name="lab_item_bt_hci_snoop_log">
@@ -113,13 +113,13 @@
         <item>[sid]btsnoop</item>
     </string-array>
     <string-array name="lab_item_power_test">
-        <item>[prim] Test power consumption when Airplane mode is on</item>
-        <item>[sum] Test power consumption when Airplane mode is on</item>
+        <item>[prim] Test stroomverbruik in vliegtuigmode</item>
+        <item>[sum] Test stroomverbruik in vliegtuigmode</item>
         <item>[sid]power_test</item>
     </string-array>
     <string-array name="lab_item_long_sitting_timer_plus">
-        <item>[prim]久坐提醒时间</item>
-        <item>[sum]设置久坐提醒时间分钟数</item>
+        <item>[prim] Inactiviteitstimer</item>
+        <item>[sum] Inactiviteitstimer</item>
         <item>[pkg]com.huami.mobile.watchsettings</item>
         <item>[clazz]com.huami.moblie.watchsettings.actions.lab.labUI.LongSittingTimeActivity</item>
     </string-array>
@@ -135,10 +135,10 @@
         <item>[sid]pointer_location</item>
     </string-array>
     <string-array name="time_zone_item">
-        <item>-11 Midway</item>
-        <item>-10 Honolulu</item>
-        <item>-9 Anchorage</item>
-        <item>-8 Los_Angeles</item>
+        <item>UTC−11:00 Midway Atoll</item>
+        <item>UTC−10:00 Honolulu</item>
+        <item>UTC−9:00 Anchorage</item>
+        <item>UTC−8:00 Los Angeles</item>
         <item>-8 Tijuana</item>
         <item>-7 Phoenix</item>
         <item>-7 Chihuahua</item>
@@ -155,14 +155,14 @@
         <item>"-3:30 St_Johns"</item>
         <item>-3 Santiago</item>
         <item>-3 Buenos_Aires</item>
-        <item>-3 Godthab</item>
+        <item>UTC−3:00 Nuuk</item>
         <item>-2 Sao_Paulo</item>
         <item>-2 Montevideo</item>
         <item>-2 South_Georgia</item>
         <item>-1 Azoren</item>
         <item>-1 Kaap_Verdie</item>
-        <item>+0 Casablanca</item>
-        <item>+0 Londen</item>
+        <item>UTC Casablanca</item>
+        <item>UTC London</item>
         <item>+1 Amsterdam</item>
         <item>+1 Belgrado</item>
         <item>+1 Brussel</item>

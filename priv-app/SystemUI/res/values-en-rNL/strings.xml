@@ -10,12 +10,12 @@
     <string name="lland">L Land</string>
     <string name="app_label">System UI</string>
     <string name="status_bar_clear_all_button">Wissen</string>
-    <string name="status_bar_recent_remove_item_title">Verwijderen uit de lijst</string>
-    <string name="status_bar_recent_inspect_item_title">App-informatie</string>
+    <string name="status_bar_recent_remove_item_title">Verwijderen uit lijst</string>
+    <string name="status_bar_recent_inspect_item_title">App-info</string>
     <string name="status_bar_no_recent_apps">Je recente schermen worden hier weergegeven</string>
     <string name="status_bar_accessibility_dismiss_recents">Sluit recente apps</string>
     <string name="status_bar_no_notifications_title">Geen meldingen</string>
-    <string name="status_bar_ongoing_events_title">Vanaf nu</string>
+    <string name="status_bar_ongoing_events_title">Bezig</string>
     <string name="status_bar_latest_events_title">Meldingen</string>
     <string name="battery_low_title">Batterij bijna leeg</string>
     <string name="battery_low_percent_format">%s over</string>
@@ -32,12 +32,12 @@ Gebruik een geschikte oplader"</string>
     <string name="status_bar_settings_wifi_button">Wi-Fi</string>
     <string name="status_bar_settings_airplane">Vliegtuigmodus</string>
     <string name="status_bar_settings_auto_rotation">Scherm autom. draaien</string>
-    <string name="status_bar_settings_mute_label">MUTE</string>
+    <string name="status_bar_settings_mute_label">STIL</string>
     <string name="status_bar_settings_auto_brightness_label">AUTO</string>
     <string name="status_bar_settings_notifications">Meldingen</string>
     <string name="status_bar_network_name_separator">|</string>
     <string name="bluetooth_tethered">Bluetooth tethered</string>
-    <string name="status_bar_input_method_settings_configure_input_methods">Definieer invoermethoden</string>
+    <string name="status_bar_input_method_settings_configure_input_methods">Invoermethode</string>
     <string name="status_bar_use_physical_keyboard">Fysiek toetsenbord</string>
     <string name="usb_device_permission_prompt">Toestaan dat app %1$s toegang krijgt tot het USB-apparaat?</string>
     <string name="usb_accessory_permission_prompt">Toestaan dat app %1$s toegang krijgt tot USB-accessoire?</string>
@@ -58,9 +58,9 @@ Gebruik een geschikte oplader"</string>
     <string name="screenshot_saving_title">Screenshot opslaan...</string>
     <string name="screenshot_saving_text">Screenshot wordt opgeslagen.</string>
     <string name="screenshot_saved_title">Screenshot gemaakt.</string>
-    <string name="screenshot_saved_text">Tik om je screenshot te bekijken.</string>
+    <string name="screenshot_saved_text">Tik om screenshot te bekijken.</string>
     <string name="screenshot_failed_title">"Screenshot maken mislukt."</string>
-    <string name="screenshot_failed_text">"Kan geen screenshot maken wegens beperkte opslagruimte of omdat de app of je organisatie dit niet toestaat."</string>
+    <string name="screenshot_failed_text">"Kan geen screenshot maken wegens beperkte opslagruimte of omdat app of organisatie dit niet toestaat."</string>
     <string name="usb_preference_title">Opties USB-bestandsoverdracht</string>
     <string name="use_mtp_button_title">Koppelen als mediaspeler (MTP)</string>
     <string name="use_ptp_button_title">Koppelen als camera (PTP)</string>
@@ -90,13 +90,13 @@ Gebruik een geschikte oplader"</string>
     <string name="accessibility_phone_one_bar">Telefoon: één streepje.</string>
     <string name="accessibility_phone_two_bars">Telefoon: twee streepjes.</string>
     <string name="accessibility_phone_three_bars">Telefoon: drie streepjes.</string>
-    <string name="accessibility_phone_signal_full">Telefoonsignaal is op volle sterkte.</string>
+    <string name="accessibility_phone_signal_full">Telefoonsignaal op volle sterkte.</string>
     <string name="accessibility_no_data">Geen gegevens.</string>
-    <string name="accessibility_data_one_bar">Gegevens: één streepje.</string>
-    <string name="accessibility_data_two_bars">Gegevens: twee streepjes.</string>
-    <string name="accessibility_data_three_bars">Gegevens: drie streepjes.</string>
-    <string name="accessibility_data_signal_full">Gegevenssignaal is op volle sterkte.</string>
-    <string name="accessibility_wifi_off">Wifi: uitgeschakeld.</string>
+    <string name="accessibility_data_one_bar">Data: één streepje.</string>
+    <string name="accessibility_data_two_bars">Data: twee streepjes.</string>
+    <string name="accessibility_data_three_bars">Data: drie streepjes.</string>
+    <string name="accessibility_data_signal_full">Datasignaal op volle sterkte.</string>
+    <string name="accessibility_wifi_off">Wi-Fi: uitgeschakeld.</string>
     <string name="accessibility_no_wifi">Wi-Fi verbroken.</string>
     <string name="accessibility_wifi_one_bar">Wi-Fi-signaalbalk.</string>
     <string name="accessibility_wifi_two_bars">Twee Wi-Fi-signaal bars.</string>
@@ -141,7 +141,7 @@ Gebruik een geschikte oplader"</string>
     <string name="accessibility_gps_enabled">GPS ingeschakeld.</string>
     <string name="accessibility_gps_acquiring">Verbinding maken met GPS.</string>
     <string name="accessibility_tty_enabled">TeleTypewriter ingeschakeld.</string>
-    <string name="accessibility_ringer_vibrate">Trilapparaat.</string>
+    <string name="accessibility_ringer_vibrate">Trillen.</string>
     <string name="accessibility_ringer_silent">Beltoon stil.</string>
     <string name="accessibility_casting">@string/quick_settings_casting</string>
     <string name="accessibility_recents_item_will_be_dismissed">Afwijzen %s.</string>
@@ -155,8 +155,8 @@ Gebruik een geschikte oplader"</string>
     <string name="accessibility_desc_recent_apps">Overzicht.</string>
     <string name="accessibility_quick_settings_user">Gebruiker %s.</string>
     <string name="accessibility_quick_settings_wifi">%1$s.</string>
-    <string name="accessibility_quick_settings_wifi_changed_off">Wifi uitgeschakeld.</string>
-    <string name="accessibility_quick_settings_wifi_changed_on">Wifi ingeschakeld.</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">Wi-Fi: uitgeschakeld.</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">Wi-Fi ingeschakeld.</string>
     <string name="accessibility_quick_settings_mobile">Mobiel %1$s. %2$s. %3$s.</string>
     <string name="accessibility_quick_settings_battery">Batterij %s.</string>
     <string name="accessibility_quick_settings_airplane_off">Vliegtuigmodus uit.</string>
@@ -187,28 +187,28 @@ Gebruik een geschikte oplader"</string>
     <string name="accessibility_quick_settings_hotspot_changed_on">Mobiele hotspot ingeschakeld.</string>
     <string name="accessibility_casting_turned_off">Casten van scherm gestopt.</string>
     <string name="accessibility_brightness">Helderheid van het scherm</string>
-    <string name="data_usage_disabled_dialog_3g_title">2G/3G-gegevens uitgeschakeld</string>
-    <string name="data_usage_disabled_dialog_4g_title">4G-gegevens staan uit</string>
+    <string name="data_usage_disabled_dialog_3g_title">2G/3G-data uitgeschakeld</string>
+    <string name="data_usage_disabled_dialog_4g_title">4G-data uit</string>
     <string name="data_usage_disabled_dialog_mobile_title">Mobiele data uit</string>
-    <string name="data_usage_disabled_dialog_title">Gegevens uit</string>
+    <string name="data_usage_disabled_dialog_title">Data uit</string>
     <string name="data_usage_disabled_dialog">"Uw apparaat heeft de gegevens uitgeschakeld omdat het de limiet heeft bereikt die u hebt ingesteld.
 
 Het terugzetten van het apparaat kan leiden tot kosten van uw vervoerder."</string>
-    <string name="data_usage_disabled_dialog_enable">Gegevens inschakelen</string>
+    <string name="data_usage_disabled_dialog_enable">Data inschakelen</string>
     <string name="status_bar_settings_signal_meter_disconnected">Geen internetverbinding</string>
-    <string name="status_bar_settings_signal_meter_wifi_nossid">Wifi verbonden</string>
+    <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi verbonden</string>
     <string name="gps_notification_searching_text">Zoeken naar GPS</string>
     <string name="gps_notification_found_text">Locatie bepaald met GPS</string>
     <string name="accessibility_location_active">Locatieverzoeken actief</string>
     <string name="accessibility_clear_all">Alle meldingen verwijderen.</string>
     <string name="status_bar_notification_inspect_item_title">Meldingsinstellingen</string>
-    <string name="status_bar_notification_app_settings_title">Instellingen voor %s</string>
+    <string name="status_bar_notification_app_settings_title">%s Instellingen</string>
     <string name="accessibility_rotation_lock_off">Scherm wordt automatisch geroteerd.</string>
-    <string name="accessibility_rotation_lock_on_landscape">Het scherm is nu vergrendeld in liggende stand.</string>
-    <string name="accessibility_rotation_lock_on_portrait">Het scherm is nu vergrendeld in staande stand.</string>
-    <string name="accessibility_rotation_lock_off_changed">Het scherm wordt nu automatisch gedraaid.</string>
-    <string name="accessibility_rotation_lock_on_landscape_changed">Het scherm is nu vergrendeld in liggende stand.</string>
-    <string name="accessibility_rotation_lock_on_portrait_changed">Het scherm is nu vergrendeld in staande stand.</string>
+    <string name="accessibility_rotation_lock_on_landscape">Scherm vergrendeld in liggende stand.</string>
+    <string name="accessibility_rotation_lock_on_portrait">Scherm vergrendeld in staande stand.</string>
+    <string name="accessibility_rotation_lock_off_changed">Het scherm wordt automatisch gedraaid.</string>
+    <string name="accessibility_rotation_lock_on_landscape_changed">Scherm vergrendeld in liggende stand.</string>
+    <string name="accessibility_rotation_lock_on_portrait_changed">Scherm vergrendeld in staande stand.</string>
     <string name="dessert_case">Dessert Case</string>
     <string name="start_dreams">Dagdroom</string>
     <string name="ethernet_label">Ethernet</string>
@@ -236,7 +236,7 @@ Het terugzetten van het apparaat kan leiden tot kosten van uw vervoerder."</stri
     <string name="quick_settings_wifi_label">Wi-Fi</string>
     <string name="quick_settings_wifi_not_connected">Niet verbonden</string>
     <string name="quick_settings_wifi_no_network">Geen netwerk</string>
-    <string name="quick_settings_wifi_off_label">Wifi uit</string>
+    <string name="quick_settings_wifi_off_label">Wi-Fi uit</string>
     <string name="quick_settings_wifi_detail_empty_text">Geen opgeslagen netwerken beschikbaar</string>
     <string name="quick_settings_cast_title">Scherm casten</string>
     <string name="quick_settings_casting">Casten</string>
@@ -256,7 +256,7 @@ Het terugzetten van het apparaat kan leiden tot kosten van uw vervoerder."</stri
     <string name="quick_settings_hotspot_label">Hotspot</string>
     <string name="quick_settings_notifications_label">Meldingen</string>
     <string name="quick_settings_flashlight_label">Zaklamp</string>
-    <string name="quick_settings_cellular_detail_title">Mobiele gegevens</string>
+    <string name="quick_settings_cellular_detail_title">Mobiele data</string>
     <string name="quick_settings_cellular_detail_data_usage">Datagebruik</string>
     <string name="quick_settings_cellular_detail_remaining_data">Resterende gegevens</string>
     <string name="quick_settings_cellular_detail_over_limit">Over limiet</string>
@@ -280,8 +280,8 @@ Het terugzetten van het apparaat kan leiden tot kosten van uw vervoerder."</stri
     <string name="zen_no_interruptions_with_warning">Zonder onderbrekingen. Zelfs geen alarmen.</string>
     <string name="zen_no_interruptions">Niet storen</string>
     <string name="zen_important_interruptions">Alleen prioriteit onderbrekingen</string>
-    <string name="zen_alarm_information_time">Uw volgende alarm is om %s</string>
-    <string name="zen_alarm_information_day_time">Uw volgende alarm is om %s</string>
+    <string name="zen_alarm_information_time">Volgende alarm is om %s</string>
+    <string name="zen_alarm_information_day_time">Volgende alarm is om %s</string>
     <string name="zen_alarm_warning">"Je hoort je alarm niet om %s"</string>
     <string name="keyguard_more_overflow_text">+%d</string>
     <string name="speed_bump_explanation">Minder urgente meldingen onderaan</string>
@@ -305,14 +305,14 @@ Het terugzetten van het apparaat kan leiden tot kosten van uw vervoerder."</stri
     <string name="guest_exit_guest_dialog_message">Alle apps en gegevens in deze sessie worden verwijderd.</string>
     <string name="guest_exit_guest_dialog_remove">Verwijder</string>
     <string name="guest_wipe_session_title">Welkom terug, gast!</string>
-    <string name="guest_wipe_session_message">Wilt u doorgaan met je sessie?</string>
+    <string name="guest_wipe_session_message">Doorgaan met sessie?</string>
     <string name="guest_wipe_session_wipe">Begin opnieuw</string>
     <string name="guest_wipe_session_dontwipe">Ja, doorgaan</string>
     <string name="user_add_user_title">Nieuwe gebruiker toevoegen?</string>
     <string name="user_add_user_message_short">Wanneer je een nieuwe gebruiker toevoegt, moet die persoon zijn eigen profiel instellen.\n\nElke gebruiker kan apps updaten voor alle andere gebruikers</string>
-    <string name="battery_saver_notification_title">Accubesparing is ingeschakeld</string>
+    <string name="battery_saver_notification_title">Batterijbesparing ingeschakeld</string>
     <string name="battery_saver_notification_text">Vermindert prestaties en achtergrondgegevens</string>
-    <string name="battery_saver_notification_action_text">Accubesparing uitschakelen</string>
+    <string name="battery_saver_notification_action_text">Batterijbesparing uitschakelen</string>
     <string name="notification_hidden_text">Inhoud verborgen</string>
     <string name="media_projection_dialog_text">"%s zal beginnen met het vastleggen van alles wat op je scherm wordt weergegeven."</string>
     <string name="media_projection_remember_text">"Niet opnieuw weergeven"</string>
@@ -398,7 +398,7 @@ Ook ben u verbonden met een VPN (\"%3$s\"). Uw VPN-serviceprovider kan de netwer
     <string name="hidden_notifications_cancel">Nee, bedankt</string>
     <string name="hidden_notifications_setup">Instellen</string>
     <string name="zen_mode_and_condition">%1$s. %2$s</string>
-    <string name="screen_pinning_title">Scherm is vastgezet</string>
+    <string name="screen_pinning_title">Scherm vastgezet</string>
     <string name="screen_pinning_description">Het scherm blijft zichtbaar totdat u het losmaakt. Houd \'Terug\' en \'Overzicht\' tegelijk aangeraakt om het los te maken.</string>
     <string name="screen_pinning_description_accessible">Het scherm blijft zichtbaar totdat u het losmaakt. Houd het overzicht ingedrukt om het los te maken.</string>
     <string name="screen_pinning_positive">Ik snap het</string>
@@ -419,7 +419,7 @@ Ook ben u verbonden met een VPN (\"%3$s\"). Uw VPN-serviceprovider kan de netwer
     <string name="keyguard_password_enter_puk_prompt">SIM-PUK-code</string>
     <string name="keyguard_password_enter_pin_prompt">Nieuwe SIM-pincode</string>
     <string name="keyguard_password_entry_touch_hint"><font size="17">\"Geef wachtwoord\"</font></string>
-    <string name="keyguard_password_enter_password_code">Typ het wachtwoord om te ontgrendelen</string>
+    <string name="keyguard_password_enter_password_code">Typ wachtwoord om te ontgrendelen</string>
     <string name="keyguard_password_enter_pin_password_code">Typ pincode om te ontgrendelen</string>
     <string name="keyguard_password_wrong_pin_code">Onjuiste pincode.</string>
     <string name="keyguard_label_text">Druk op \'Menu\' en vervolgens op 0 om te ontgrendelen.</string>
@@ -431,12 +431,12 @@ Ook ben u verbonden met een VPN (\"%3$s\"). Uw VPN-serviceprovider kan de netwer
     <string name="keyguard_network_locked_message">Netwerk vergrendeld</string>
     <string name="keyguard_missing_sim_message_short">Geen simkaart</string>
     <string name="keyguard_missing_sim_message">Geen SIM-kaart in tablet.</string>
-    <string name="keyguard_missing_sim_instructions">Plaats een simkaart.</string>
+    <string name="keyguard_missing_sim_instructions">Plaats simkaart.</string>
     <string name="keyguard_missing_sim_instructions_long">De simkaart ontbreekt of kan niet worden gelezen. Plaats een simkaart.</string>
     <string name="keyguard_permanent_disabled_sim_message_short">Onbruikbare simkaart.</string>
     <string name="keyguard_permanent_disabled_sim_instructions">Je simkaart is permanent uitgeschakeld.\n Neem contact op met je mobiele serviceprovider voor een nieuwe simkaart</string>
-    <string name="keyguard_sim_locked_message">SIM-kaart is vergrendeld.</string>
-    <string name="keyguard_sim_puk_locked_message">SIM-kaart is vergrendeld met PUK-code.</string>
+    <string name="keyguard_sim_locked_message">SIM-kaart vergrendeld.</string>
+    <string name="keyguard_sim_puk_locked_message">SIM-kaart vergrendeld met PUK-code.</string>
     <string name="keyguard_sim_unlock_progress_dialog_message">Simkaart ontgrendelen…</string>
     <string name="keyguard_widget_12_hours_format">umm</string>
     <string name="keyguard_widget_24_hours_format">kkmm</string>
@@ -463,8 +463,8 @@ Ook ben u verbonden met een VPN (\"%3$s\"). Uw VPN-serviceprovider kan de netwer
     <string name="keyguard_accessibility_pin_area">Gebied voor pincode</string>
     <string name="keyguard_accessibility_sim_pin_area">Gebied voor pincode van simkaart</string>
     <string name="keyguard_accessibility_sim_puk_area">Gebied voor pukcode van simkaart</string>
-    <string name="keyguard_accessibility_transport_prev_description">Knop vorig nummer</string>
-    <string name="keyguard_accessibility_transport_next_description">Volgend nummer knop</string>
+    <string name="keyguard_accessibility_transport_prev_description">Vorig nummer</string>
+    <string name="keyguard_accessibility_transport_next_description">Volgend nummer</string>
     <string name="keyguard_accessibility_transport_pause_description">Pauzeer knop</string>
     <string name="keyguard_accessibility_transport_play_description">Afspeelknop</string>
     <string name="keyguard_accessibility_transport_stop_description">Stop knop</string>
@@ -478,7 +478,7 @@ Ook ben u verbonden met een VPN (\"%3$s\"). Uw VPN-serviceprovider kan de netwer
     <string name="keyguard_accessibility_next_alarm">Volgend alarm om %1$s</string>
     <string name="password_keyboard_label_symbol_key">\?123</string>
     <string name="password_keyboard_label_alpha_key">ABC</string>
-    <string name="password_keyboard_label_alt_key">Alt</string>
+    <string name="password_keyboard_label_alt_key">ALT</string>
     <string name="keyboardview_keycode_alt">Alt</string>
     <string name="keyboardview_keycode_cancel">Annuleer</string>
     <string name="keyboardview_keycode_delete">Verwijderen</string>
@@ -498,13 +498,13 @@ Ook ben u verbonden met een VPN (\"%3$s\"). Uw VPN-serviceprovider kan de netwer
     <string name="kg_wrong_pattern">Onjuist patroon</string>
     <string name="kg_wrong_password">Wachtwoord onjuist</string>
     <string name="kg_wrong_pin">Onjuiste PIN</string>
-    <string name="kg_too_many_failed_attempts_countdown">Probeer het over %d seconden.</string>
+    <string name="kg_too_many_failed_attempts_countdown">Probeer opnieuw na %d seconden.</string>
     <string name="kg_pattern_instructions">Teken je patroon</string>
     <string name="kg_sim_pin_instructions">SIM pincode invoeren</string>
     <string name="kg_sim_pin_instructions_multi">Voer SIM pincode in voor \"%1$s\"</string>
     <string name="kg_pin_instructions">PIN Invoeren</string>
-    <string name="kg_password_instructions">Voer uw wachtwoord in</string>
-    <string name="kg_puk_enter_puk_hint">De simkaart is nu uitgeschakeld. Geef de pukcode op om door te gaan. Neem contact op met de provider voor informatie.</string>
+    <string name="kg_password_instructions">Voer wachtwoord in</string>
+    <string name="kg_puk_enter_puk_hint">De simkaart uitgeschakeld. Geef de pukcode op om door te gaan. Neem contact op met de provider voor informatie.</string>
     <string name="kg_puk_enter_puk_hint_multi">SIM \"%1$s\" is nu uitgeschakeld. Voer de PUK-code in om door te gaan. Contacteer de provider voor meer informatie.</string>
     <string name="kg_puk_enter_pin_hint">Gewenste pincode opgeven</string>
     <string name="kg_enter_confirm_pin_hint">Gewenste pincode bevestigen</string>
@@ -522,12 +522,12 @@ Ook ben u verbonden met een VPN (\"%3$s\"). Uw VPN-serviceprovider kan de netwer
     <string name="kg_login_account_recovery_hint">Bent u je gebruikersnaam of wachtwoord vergeten?\nGa naar \"<b>"https://www.google.com/accounts/recovery"</b>\".</string>
     <string name="kg_login_checking_password">Account controleren…</string>
     <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"PIN- %d keer onjuist ingevoerd. 
-Probeer opnieuw in %d seconden."</string>
+Probeer opnieuw na %d seconden."</string>
     <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Wachtwoord %d keer onjuist ingevoerd. 
-Probeer opnieuw in %d seconden."</string>
+Probeer opnieuw na %d seconden."</string>
     <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Je hebt je ontgrendelingspatroon %d keer ten onrechte getekend 
 
-Probeer het opnieuw in %d seconden."</string>
+Probeer het opnieuw na %d seconden."</string>
     <string name="kg_failed_attempts_almost_at_wipe" formatted="false">U heeft ten onrechte geprobeerd de tablet %d keer te ontgrendelen. Na %d meer mislukte pogingen, wordt deze tablet gereset, welke al zijn gegevens zal verwijderen.</string>
     <string name="kg_failed_attempts_now_wiping">U heeft ten onrechte geprobeerd de tablet %d keer te ontgrendelen. Deze tablet zal worden gereset, welke al zijn gegevens zal verwijderen.</string>
     <string name="kg_failed_attempts_almost_at_erase_user" formatted="false">U heeft ten onrechte geprobeerd de tablet %d keer te ontgrendelen. Na %d meer mislukte pogingen, zal deze gebruiker worden verwijderd, welke alle gebruikersgegevens zal verwijderen.</string>
@@ -539,12 +539,12 @@ Probeer het opnieuw in %d seconden."</string>
  Probeer het over %d seconden."</string>
     <string name="kg_reordering_delete_drop_target_text">Verwijder</string>
     <string name="kg_password_wrong_pin_code_pukked">Onjuiste pincode voor simkaart. Je moet nu contact opnemen met je provider om je apparaat te ontgrendelen.</string>
-    <string name="kg_password_wrong_puk_code_dead">Simkaart is onbruikbaar. Neem contact op met je provider.</string>
+    <string name="kg_password_wrong_puk_code_dead">Simkaart onbruikbaar. Neem contact op met provider.</string>
     <string name="kg_password_pin_failed">SIM PIN-bewerking mislukt!</string>
     <string name="kg_password_puk_failed">SIM PUK-bewerking mislukt!</string>
     <string name="kg_pin_accepted">PIN geaccepteerd!</string>
-    <string name="keyguard_transport_prev_description">Knop vorig nummer</string>
-    <string name="keyguard_transport_next_description">Volgend nummer knop</string>
+    <string name="keyguard_transport_prev_description">Vorig nummer</string>
+    <string name="keyguard_transport_next_description">Volgend nummer</string>
     <string name="keyguard_transport_pause_description">Pauzeer knop</string>
     <string name="keyguard_transport_play_description">Afspeelknop</string>
     <string name="keyguard_transport_stop_description">Stop knop</string>

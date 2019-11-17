@@ -3,11 +3,11 @@
 <resources>
     <string name="app_name">otawatch</string>
     <string name="action_settings">Instellingen</string>
-    <string name="watch_ota">Watch Update</string>
-    <string name="wifi_disconnect">Please connect the Amazfit Watch APP to help the watch check for update</string>
-    <string name="connect_phone_wifi">"Please check the phone network to help the watch check for update"</string>
-    <string name="connect_phone_input_wifi">Please connect the Amazfit Watch APP to input Wi-Fi password for the watch</string>
-    <string name="wifi_add_item">Please connect the Amazfit Watch App to add new Wi-Fi hotspot for the watch</string>
+    <string name="watch_ota">Horloge updates</string>
+    <string name="wifi_disconnect">Verbind met Amazfit app om te controleren op updates</string>
+    <string name="connect_phone_wifi">"Controleer de netwerkverbinding van uw telefoon om te controleren op updates"</string>
+    <string name="connect_phone_input_wifi">Verbind met Amazfit app om Wi-Fi wachtwoord in te voeren</string>
+    <string name="wifi_add_item">Verbind met Amazfit app om Wi-Fi wachtwoord in te voeren</string>
     <string name="add_wifi">Voeg Wi-Fi toe</string>
     <string name="please_update_rom">Nieuwe software-versie gevonden, updaten a.u.b.</string>
     <string name="checking_rom">Zoeken naar updates...</string>
@@ -16,9 +16,11 @@ probeer opnieuw"</string>
     <string name="current_is_new">Huidige versie is up-to-date.</string>
     <string name="has_new_rom">"Nieuwe versie gevonden,
 updaten naar versie %1$s ?"</string>
-    <string name="has_new_rom_all">An update is available. Firmware on this watch is out of date and upgrading to the latest may take a while, continue?</string>
-    <string name="input_passwor_on_mobile">Please input Wi-Fi password in the Amazfit Watch APP</string>
-    <string name="processbar_downloading_rom">Downloading...</string>
+    <string name="has_new_rom_all">"Er is een update beschikbaar.
+Firmware op dit horloge is oud. Updaten kan een tijdje duren."</string>
+    <string name="input_passwor_on_mobile">"Voer Wi-Fi wachtwoord in
+in Amazfit app"</string>
+    <string name="processbar_downloading_rom">Downloaden...</string>
     <string name="please_keep_wifi_connect">"Wi-Fi niet verbreken"</string>
     <string name="processbar_downloading_tips">%</string>
     <string name="processbar_downloading_default">0</string>
@@ -43,7 +45,7 @@ a.u.b. upgraden"</string>
     <string name="wifi_has_password">Gecodeerd</string>
     <string name="wifi_password_error">Wachtwoord onjuist</string>
     <string name="wifi_connecting">Bezig met verbinden...</string>
-    <string name="wifi_auth">Wachtwoord aan het controleren...</string>
+    <string name="wifi_auth">Wachtwoord controleren...</string>
     <string name="wifi_get_ip">IP adres verkrijgen...</string>
     <string name="wifi_link_fail">"Verbinden mislukt..."</string>
     <string name="wifi_connected">Verbonden</string>
@@ -65,12 +67,12 @@ een ander Wi-Fi hotspot"</string>
     <string name="update_title">Kies a.u.b. een van de volgende</string>
     <string name="update_online">Over-the-Air update</string>
     <string name="update_local">Update van een lokaal zip-bestand</string>
-    <string name="local_update_confirm_1_title">Lees a.u.b.</string>
-    <string name="local_update_invalid_zip">该卡刷包系统版本过低,建议使用最新版本升级</string>
-    <string name="local_update_confirm_1_msg">"To ensure the new version 
-works properly, we\'ll erase all 
-user data after update. Please connect 
-to the Amazfit Watch APP and back up all data before update."</string>
+    <string name="local_update_confirm_1_title">Let op</string>
+    <string name="local_update_invalid_zip">Update naar de meest recente versie van de app</string>
+    <string name="local_update_confirm_1_msg">"Om zeker te zijn dat de nieuwe versie
+goed werkt, worden alle gebruikersgegevens van
+voor de update gewist.
+Maak een back-up van uw gegevens in de Amazfit app."</string>
     <string name="local_update_confirm_2_msg">"Zorg er voor dat alle gegevens
 geback-upt zijn. Installatie van de
 update zal alle gegevens op het 
@@ -81,21 +83,21 @@ horloge verwijderen, doorgaan?"</string>
     <string name="enter">OK</string>
     <string name="cancel">Annuleer</string>
     <string name="update_tips_0">Updating</string>
-    <string name="update_tips_1">"Please do not power off the watch"</string>
-    <string name="average_text">Avg</string>
+    <string name="update_tips_1">"Schakel het apparaat niet uit"</string>
+    <string name="average_text">Gemiddeld</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
-    <string name="picker_default_positive_text">Confirm</string>
+    <string name="picker_default_positive_text">OK</string>
     <string name="picker_default_nagetive_text">Uit</string>
-    <string name="no_heartrate_data_hint">"Heart rate data not detected"</string>
-    <string name="no_altitude_hint">"Altitude data not detected"</string>
+    <string name="no_heartrate_data_hint">"Hartslaggegevens niet gevonden"</string>
+    <string name="no_altitude_hint">"Hoogte gegevens niet gedetecteerd"</string>
     <string name="title_settings">Instellingen</string>
     <string name="sport_music_settings">Sports music</string>
-    <string name="widget_currentstep_title">Daily Overview</string>
-    <string name="widget_currentstep_activities">"Activities"</string>
+    <string name="widget_currentstep_title">Gegevens</string>
+    <string name="widget_currentstep_activities">"Vandaag"</string>
     <string name="widget_currentstep_sleep_hour">u</string>
     <string name="widget_currentstep_sleep_min">min</string>
     <string name="widget_currentstep_sleep_title">Sleep</string>
     <string name="widget_currentstep_sleep_no">Geen slaapgegevens</string>
     <string name="widget_currentstep_activity_no">Geen activiteit vandaag?</string>
-    <string name="locale_title">Kies taal</string>
+    <string name="locale_title">Selecteer taal</string>
 </resources>
