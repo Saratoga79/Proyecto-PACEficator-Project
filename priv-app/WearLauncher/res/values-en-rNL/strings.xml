@@ -80,9 +80,9 @@ sinds opladen"</string>
     <string name="header_incomming_call_service_hotline">Service Nummer</string>
     <string name="header_incomming_call_localcall">Lokaal Nummer</string>
     <string name="header_incomming_call_unknowncall">Onbekend nummer</string>
-    <string name="call_phone_off">Ring off</string>
+    <string name="call_phone_off">Beëindig oproep</string>
     <string name="call_sound_off">Silence</string>
-    <string name="call_phone_ignore">Ignore</string>
+    <string name="call_phone_ignore">Vergeet</string>
     <string name="world_cup_begin_to_start">The match gaat beginnen</string>
     <string name="dialog_close">Afsluiten</string>
     <string name="amazing_dialog_btn_confirm_text">Bevestig</string>
@@ -171,7 +171,7 @@ sinds opladen"</string>
     <string name="common_signin_button_text">Log in</string>
     <string name="common_signin_button_text_long">Log in met Google</string>
     <string name="pre_release_do_not_ship">waar</string>
-    <string name="common_open_on_phone">Open op de telefoon</string>
+    <string name="common_open_on_phone">Open op telefoon</string>
     <string name="wallet_buy_button_place_holder">Koop met Google</string>
     <string name="retail_hangout_text">Hey, wil je vanavond dineren?</string>
     <string name="retail_hangout_response">OK, waar denkt u aan?</string>
@@ -195,7 +195,7 @@ sinds opladen"</string>
     <string name="retail_british_airways">Brussels Airlines SN873</string>
     <string name="retail_departs_in">Vertrek in 4 uur</string>
     <string name="retail_gate_loc">Terminal 4, Gate 25</string>
-    <string name="retail_slideshow_music">Beheer muziek op je telefoon.</string>
+    <string name="retail_slideshow_music">Beheer muziek op telefoon.</string>
     <string name="retail_loading">Laad retailmodus…</string>
     <string name="retail_step_count">%1$s stappen</string>
     <string name="retail_pedometer_action">Behaal je fitnessdoelen met Andoird Wear.</string>
@@ -284,7 +284,7 @@ dagen"</string>
     <string name="perm_label_set_watch_face_privileged">Stel horloge in geprivilegieerd</string>
     <string name="perm_description_set_watch_face_privileged">Deze app kan het horloge zonder bevestiging instellen.</string>
     <string name="open">Open</string>
-    <string name="open_on_phone">Open op de telefoon</string>
+    <string name="open_on_phone">Open op telefoon</string>
     <string name="title_mute_app">Blokkeer app</string>
     <string name="mute_app_confirmation">Toon nooit kaarten van deze app</string>
     <string name="reply">Antwoorden</string>
@@ -360,7 +360,7 @@ dagen"</string>
     <string name="voice_action_timer_title">Timer</string>
     <string name="voice_action_sms_title">SMS</string>
     <string name="voice_action_remote_app_title">Open app</string>
-    <string name="voice_action_play_music_title">Speel muziek af op telefoon</string>
+    <string name="voice_action_play_music_title">Speel muziek op telefoon</string>
     <string name="voice_action_field_destination_description">Bestemming</string>
     <string name="voice_action_field_destination_address">Adres</string>
     <string name="voice_action_field_message">Bericht</string>
@@ -378,13 +378,13 @@ dagen"</string>
     <string name="voice_action_field_ask_note">Notitie?</string>
     <string name="note_creation_success">Notitie gemaakt</string>
     <string name="voice_action_done">Klaar</string>
-    <string name="voice_action_go_to_phone">Ga naar de telefoon</string>
+    <string name="voice_action_go_to_phone">Ga naar telefoon</string>
     <string name="voice_action_remote_error">"Sorry, dat lukte niet. Probeer opnieuw."</string>
-    <string name="voice_action_remote_unkown">Probeer opnieuw op uw telefoon.</string>
-    <string name="voice_action_remote_disambig">Open uw telefoon om te selecteren welke app vanaf nu voor deze actie moet worden gebruikt.</string>
-    <string name="voice_action_remote_favorite">Kies favoriete app voor het uitvoeren van deze actie op uw telefoon.</string>
+    <string name="voice_action_remote_unkown">Probeer opnieuw op telefoon.</string>
+    <string name="voice_action_remote_disambig">Open telefoon om te selecteren welke app hiervoor moet worden gebruikt.</string>
+    <string name="voice_action_remote_favorite">Kies op telefoon de app voor het uitvoeren van deze actie.</string>
     <string name="voice_action_error_completing_title">Probleem bij het voltooien van uw actie</string>
-    <string name="voice_action_error_completing_text">Open uw telefoon en probeer het opnieuw</string>
+    <string name="voice_action_error_completing_text">Open telefoon en probeer het opnieuw</string>
     <string name="contact_confirmation_format">%1$s (%2$s)</string>
     <string name="reminder_creation_success">Herinnering toegevoegd</string>
     <string name="voice_action_cancel">Annuleer</string>
@@ -402,12 +402,12 @@ dagen"</string>
     <string name="sent_via_voice">Verzonden via spraak</string>
     <string name="speak_now">Spreek nu</string>
     <string name="speak_now_help">Spreek nu of veeg omhoog voor meer</string>
-    <string name="contact_no_phone_number">Geen telefoonnummer voor deze contactpersoon</string>
+    <string name="contact_no_phone_number">Geen telefoonnummer voor dit contact</string>
     <string name="contact_no_email">Geen email adres voor deze contactpersoon</string>
     <string name="no_match">"Dat heb ik niet begrepen."</string>
     <string name="network_error">"Kan Google op dit moment niet bereiken."</string>
     <string name="server_error">"Kan Google op dit moment niet bereiken."</string>
-    <string name="audio_error">"Kan de microfoon niet openen."</string>
+    <string name="audio_error">"Kan microfoon niet openen."</string>
     <string name="null_result_error">Zoekopdracht geeft geen resultaat</string>
     <string name="no_answer_error">"%s 
 
@@ -671,7 +671,7 @@ Aan"</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">OK</string>
     <string name="picker_default_nagetive_text">Uit</string>
-    <string name="no_heartrate_data_hint">"Hartslaggegevens niet gevonden"</string>
+    <string name="no_heartrate_data_hint">"Geen hartslaggegevens"</string>
     <string name="no_altitude_hint">"Geen hoogtegegevens"</string>
     <string name="title_settings">Instellingen</string>
     <string name="sport_music_settings">Muziek</string>
