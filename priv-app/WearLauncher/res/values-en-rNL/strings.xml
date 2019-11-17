@@ -59,7 +59,7 @@ zal geen nieuwe melding meer tonen."</string>
     <string name="quick_settings_battery_charging_intervalDayLess">%d uur sinds opgeladen</string>
     <string name="quick_settings_battery_charging_intervalLessHour">"Minder dan 1 uur
 sinds opladen"</string>
-    <string name="quick_settings_battery_sportString">Levensduur batterij in sports modus</string>
+    <string name="quick_settings_battery_sportString">Batterij in sport modus</string>
     <string name="quick_settings_battery_sporttime_hour_unit">uur</string>
     <string name="quick_settings_battery_sporttime_KM_unit">km</string>
     <string name="quick_settings_battery_level_unit">%</string>
@@ -83,8 +83,8 @@ sinds opladen"</string>
     <string name="call_phone_off">Ring off</string>
     <string name="call_sound_off">Silence</string>
     <string name="call_phone_ignore">Ignore</string>
-    <string name="world_cup_begin_to_start">The match is about to begin</string>
-    <string name="dialog_close">Shut down</string>
+    <string name="world_cup_begin_to_start">The match gaat beginnen</string>
+    <string name="dialog_close">Afsluiten</string>
     <string name="amazing_dialog_btn_confirm_text">Bevestig</string>
     <string name="amazing_dialog_btn_cancel_text">Annuleer</string>
     <string name="accept">Accepteer</string>
@@ -293,7 +293,7 @@ dagen"</string>
     <string name="cue_menu_take_a_note_help">drink meer water</string>
     <string name="cue_menu_reminder">Herinner mij</string>
     <string name="cue_menu_reminder_help">gaan lopen om 7u</string>
-    <string name="cue_menu_show_steps">Laat me mijn stappen zien</string>
+    <string name="cue_menu_show_steps">Laat mijn stappen zien</string>
     <string name="cue_menu_track_bike_ride">Start fietsrit</string>
     <string name="cue_menu_track_run">Start looptocht</string>
     <string name="cue_menu_track_workout">Start workout</string>
@@ -500,8 +500,8 @@ Aan"</string>
     <string name="disambiguate_action">Ondubbelzinnige actie</string>
     <string name="status_bar_date_format">d MMM</string>
     <string name="battery_is_at">Batterij is op</string>
-    <string name="battery_saver_enabled">Batterijbesparing is aan</string>
-    <string name="battery_saver_disabled">Batterijbesparing is uit</string>
+    <string name="battery_saver_enabled">Batterijbesparing aan</string>
+    <string name="battery_saver_disabled">Batterijbesparing uit</string>
     <string name="disable_battery_saver">Zet batterijbesparing uit</string>
     <string name="enable_battery_saver">Zet batterijbesparing aan</string>
     <string name="storage_space_low">Wearable opslagruimte laag</string>
@@ -526,7 +526,7 @@ Aan"</string>
     <string name="tutorial_got_it">Oké, ik snap het</string>
     <string name="tutorial_touch_clock">Raak horloge aan of zeg \"Ok Google\"</string>
     <string name="tutorial_say_what_time">Zeg: \"Wanneer gaat de zon onder?\"</string>
-    <string name="tutorial_touch_clock_what_time">Raak overal op de klok aan en zeg een actie zoals \"Laat me mijn stappen zien\"</string>
+    <string name="tutorial_touch_clock_what_time">Raak horloge aan en zeg een actie zoals \"Laat me mijn stappen zien\"</string>
     <string name="tutorial_one_last_thing">Nog één iets…</string>
     <string name="tutorial_dim_lights">Om het scherm te dimmen, bedek met je hand.</string>
     <string name="tutorial_tap_to_read_more">Tik voor meer</string>
@@ -672,14 +672,14 @@ Aan"</string>
     <string name="picker_default_positive_text">OK</string>
     <string name="picker_default_nagetive_text">Uit</string>
     <string name="no_heartrate_data_hint">"Hartslaggegevens niet gevonden"</string>
-    <string name="no_altitude_hint">"Hoogtegegevens niet gevonden"</string>
+    <string name="no_altitude_hint">"Geen hoogtegegevens"</string>
     <string name="title_settings">Instellingen</string>
     <string name="sport_music_settings">Muziek</string>
     <string name="widget_currentstep_title">Gegevens</string>
     <string name="widget_currentstep_activities">"Vandaag"</string>
     <string name="widget_currentstep_sleep_hour">u</string>
     <string name="widget_currentstep_sleep_min">min</string>
-    <string name="widget_currentstep_sleep_title">Sleep</string>
+    <string name="widget_currentstep_sleep_title">Geslapen vannacht</string>
     <string name="widget_currentstep_sleep_no">Geen slaapgegevens</string>
-    <string name="widget_currentstep_activity_no">Geen activiteit vandaag?</string>
+    <string name="widget_currentstep_activity_no">Geen beweging vandaag?</string>
 </resources>
