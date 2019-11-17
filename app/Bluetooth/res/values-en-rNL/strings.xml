@@ -59,7 +59,7 @@
     <string name="upload_fail_cancel">Sluit</string>
     <string name="bt_error_btn_ok">OK</string>
     <string name="unknown_file">Onbekend bestand</string>
-    <string name="unknown_file_desc">"Geen app om dit type bestand af te handelen."</string>
+    <string name="unknown_file_desc">"Geen app om dit type bestand te openen."</string>
     <string name="not_exist_file">Geen bestand</string>
     <string name="not_exist_file_desc">Bestand bestaat niet</string>
     <string name="enabling_progress_title">Even geduld…</string>
@@ -80,7 +80,7 @@
     <string name="status_forbidden">Overdracht wordt niet toegestaan door het doelapparaat.</string>
     <string name="status_canceled">Overdracht geannuleerd door gebruiker.</string>
     <string name="status_file_error">Probleem met opslagruimte.</string>
-    <string name="status_no_sd_card">Geen SD-kaart. Plaats een SD-kaart om overgedragen bestanden op te slaan.</string>
+    <string name="status_no_sd_card">Geen SD-kaart. Plaats SD-kaart om bestanden op te slaan.</string>
     <string name="status_connection_error">Verbinding mislukt.</string>
     <string name="status_protocol_error">"Het verzoek kan niet correct worden verwerkt."</string>
     <string name="status_unknown_error">Onbekende fout.</string>
@@ -89,7 +89,7 @@
     <string name="upload_success">%1$s verzonden compleet.</string>
     <string name="inbound_history_title">Inkomende overdrachten</string>
     <string name="outbound_history_title">Uitgaande overdrachten</string>
-    <string name="no_transfers">Overdrachtshistoriek is leeg.</string>
+    <string name="no_transfers">Overdrachtshistoriek leeg.</string>
     <string name="transfer_clear_dlg_msg">Alle items worden gewist uit de lijst.</string>
     <string name="outbound_noti_title">Bluetooth-delen: verzonden bestanden</string>
     <string name="inbound_noti_title">Bluetooth-share: ontvangen bestanden</string>
@@ -129,9 +129,9 @@
     <string name="delete_record">Verwijder</string>
     <string name="start_server">Start TCP server</string>
     <string name="notify_server">Informeer TCP-server</string>
-    <string name="map_session_key_dialog_title">Voer de sessiesleutel in voor \"%1$s\"</string>
-    <string name="map_session_key_dialog_header">Bluetooth-sessiesleutel opgeven</string>
-    <string name="map_acceptance_timeout_message">Time-out bij accepteren van verbinding met \"%1$s\"</string>
+    <string name="map_session_key_dialog_title">Geef sessiesleutel voor \"%1$s\"</string>
+    <string name="map_session_key_dialog_header">Bluetooth-sessiesleutel</string>
+    <string name="map_acceptance_timeout_message">Time-out verbinding \"%1$s\"</string>
     <string name="map_authentication_timeout_message">Time-out bij het invoeren van sessiesleutel voor \"%1$s\"</string>
     <string name="map_auth_notif_ticker">OBEX authenticatieverzoek</string>
     <string name="map_auth_notif_title">Sessiesleutel</string>
