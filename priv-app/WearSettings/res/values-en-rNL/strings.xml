@@ -5,7 +5,7 @@
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">OK</string>
     <string name="picker_default_nagetive_text">Uit</string>
-    <string name="no_heartrate_data_hint">"Hartslaggegevens niet gevonden"</string>
+    <string name="no_heartrate_data_hint">"Geen hartslaggegevens"</string>
     <string name="no_altitude_hint">"Geen hoogtegegevens"</string>
     <string name="title_settings">Instellingen</string>
     <string name="sport_music_settings">Muziek</string>
@@ -189,7 +189,7 @@
     <string name="blt_bound_stat_none">Beschikbaar</string>
     <string name="blt_default_name">Naamloos</string>
     <string name="blt_hint_disconnect">"%1s
-Verbreken?"</string>
+verwijderen?"</string>
     <string name="blt_hint_connect_fail">"Verbinding mislukt, maak opnieuw verbinding"</string>
     <string name="blt_type_ear">Headset</string>
     <string name="blt_speaker">Audio</string>
@@ -208,7 +208,7 @@ koppelen?"</string>
 en in de buurt is"</string>
     <string name="blt_hint_connect">"%1s
 Verbinden?"</string>
-    <string name="blt_confirm_ignore">Weet u zeker dat u dit apparaat wil negeren?</string>
+    <string name="blt_confirm_ignore">Toestel verwijderen?</string>
     <string name="bluetooth_pairing_error_message">"Koppelen %1$s mislukt"</string>
     <string name="bluetooth_connected">Verbonden</string>
     <string name="bluetooth_disconnected">Verbroken</string>
@@ -279,7 +279,7 @@ kg"</string>
     <string name="confirm_reboot">Opnieuw opstarten?</string>
     <string name="app_name">Watch instellingen</string>
     <string name="blt_hint_connect_device">Verbind</string>
-    <string name="blt_hint_ignore_device">Negeer</string>
+    <string name="blt_hint_ignore_device">Vergeet</string>
     <string name="blt_hint_disconnect_device">Verbreek</string>
     <string name="lab_desc">Collect part of the debugging tools</string>
     <string name="unknown">Onbekend apparaat</string>
