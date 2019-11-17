@@ -5,12 +5,12 @@
     <string name="main_title">Huami lab</string>
     <string name="agreement_title">PPG-opname</string>
     <string name="orig_data_collect">Gegevensverzameling</string>
-    <string name="message">"We zullen ruwe PPG gegevens verzamelen wanneer je het horloge draagt.
+    <string name="message">"We zullen PPG-gegevens verzamelen wanneer je het horloge draagt.
 De gegevens worden uitsluitend gebruikt voor onderzoeksdoeleinden.
 Deze functie kan een negatieve invloed hebben op de levensduur van de batterij. "</string>
     <string name="allow">Toestaan</string>
     <string name="exit">Sluiten</string>
-    <string name="message_everest">"\"We zullen ruwe PPG gegevens verzamelen wanneer je het horloge draagt.
+    <string name="message_everest">"\"We zullen PPG-gegevens verzamelen wanneer je het horloge draagt.
 De gegevens worden uitsluitend gebruikt voor onderzoeksdoeleinden.
 Deze functie kan een negatieve invloed hebben op de levensduur van de batterij."</string>
     <string name="heart_rate_collection_on">Aan</string>
@@ -18,13 +18,13 @@ Deze functie kan een negatieve invloed hebben op de levensduur van de batterij."
     <string name="hbeacon_on">Aan</string>
     <string name="hbeacon_off">Uit</string>
     <string name="hbeacon_on_confirm_message">Tik op om de HBeacon functie inte schakelen, zodat de batterij van je horloge enigszins verlaagd kan worden, en je koppelt je telefoon met het horloge opnieuw wellicht na het opnieuw wordt opgestart.</string>
-    <string name="hbeacon_off_confirm_message">Tik om te HBeacon functie uit te schakelen, en wellicht moet je je telefoon met het horloge opnieuw verbinden na opnieuw opstarten.</string>
+    <string name="hbeacon_off_confirm_message">Tik om te HBeacon functie uit te schakelen, wellicht moet de telefoon met het horloge opnieuw verbinden na opnieuw opstarten.</string>
     <string name="saving_data">Opslaan data</string>
     <string name="upload_data">Gegevens uploaden</string>
     <string name="upload_success">Klaar</string>
     <string name="upload_failed">"Kon niet uploaden. Opnieuw."</string>
     <string name="air_mode_alert_title">"Verbinden mislukt"</string>
-    <string name="air_mode_alert_message">Vliegtuigmodus uitzetten en probeer het opnieuw.</string>
+    <string name="air_mode_alert_message">Vliegtuigmodus uitzetten en probeer opnieuw.</string>
     <string name="report_sensor_capture_dialog_title">Gegevensverzameling</string>
     <string name="report_sensor_capture_dialog_desc">Nadat de acquisitie van de bewegingsgegevens is ingeschakeld, verzamelen we de originele informatie van de sensor na het begin van de oefening en stoppen we de acquisitie onmiddellijk na de oefening. Deze gegevens worden naar de server verzonden wanneer u feedback over het horlogeprobleem verstrekt voor analyse door onze klantenservice. Tijdens dit proces worden de eerder gegenereerde logboeken op het horloge automatisch verzameld en geüpload. Deze logboeken worden alleen gebruikt voor probleemanalyse en zullen niet als andere middelen worden gebruikt en zullen onmiddellijk na de analyse worden vernietigd. Het hele proces voldoet aan ons privacybeleid. Raadpleeg het privacybeleid van de Amazfit Watch-app voor meer informatie.</string>
     <string name="dialog_agree">Akkoord</string>
@@ -33,16 +33,16 @@ Deze functie kan een negatieve invloed hebben op de levensduur van de batterij."
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">OK</string>
     <string name="picker_default_nagetive_text">Uit</string>
-    <string name="no_heartrate_data_hint">"Hartslaggegevens niet gevonden"</string>
-    <string name="no_altitude_hint">"Hoogtegegevens niet gevonden"</string>
+    <string name="no_heartrate_data_hint">"Geen hartslaggegevens"</string>
+    <string name="no_altitude_hint">"Geen hoogtegegevens"</string>
     <string name="title_settings">Instellingen</string>
     <string name="sport_music_settings">Muziek</string>
     <string name="widget_currentstep_title">Gegevens</string>
     <string name="widget_currentstep_activities">"Vandaag"</string>
     <string name="widget_currentstep_sleep_hour">u</string>
     <string name="widget_currentstep_sleep_min">min</string>
-    <string name="widget_currentstep_sleep_title">Sleep</string>
+    <string name="widget_currentstep_sleep_title">Geslapen vannacht</string>
     <string name="widget_currentstep_sleep_no">Geen slaapgegevens</string>
-    <string name="widget_currentstep_activity_no">Geen activiteit vandaag?</string>
+    <string name="widget_currentstep_activity_no">Geen beweging vandaag?</string>
     <string name="locale_title">Selecteer Taal</string>
 </resources>

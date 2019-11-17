@@ -21,7 +21,7 @@
     <string name="custom_title_date">Datum</string>
     <string name="custom_data_widget_title_default">Gegevens</string>
     <string name="custom_data_widget_title_nothing">"Niet weergeven"</string>
-    <string name="custom_data_widget_title_step">Stappen</string>
+    <string name="custom_data_widget_title_step">Stappen vandaag</string>
     <string name="custom_data_widget_title_today_dis">"Afstand vandaag"</string>
     <string name="custom_data_widget_title_total_dis">Totale afstand</string>
     <string name="custom_data_widget_title_calorie">"Calorieën"</string>
@@ -44,7 +44,7 @@
     <string name="digital_sport_twelve_week_path">guard/huanyingMC/en/week_%d.png</string>
     <string name="quick_settings_date_yeareve">Oudejaarsavond</string>
     <string name="quick_settings_status_month">Maand</string>
-    <string name="quick_settings_status_leaf">Blad</string>
+    <string name="quick_settings_status_leaf">Schrikkeljaar</string>
     <string name="quick_settings_date_chinese">dd/MM/yyyy</string>
     <string name="quick_settings_date_format">31/1/1900</string>
     <string name="custom_data_widget_date_3">datawidget/date_3/en/week_%d.png</string>
@@ -68,7 +68,7 @@
     <string name="golf">Golf</string>
     <string name="complex_sport">Multisport</string>
     <string name="rope_skipping">Springtouw</string>
-    <string name="sport_total_time">Totale tijd</string>
+    <string name="sport_total_time">Tijdsduur</string>
     <string name="current_altitude">Hoogte</string>
     <string name="speed">Snelheid</string>
     <string name="stroke_speed">Slagfrequentie</string>
@@ -131,7 +131,7 @@
     <string name="press_up_key_wake_up">Press power key</string>
     <string name="need_run_kilometer">Interval afstand:</string>
     <string name="need_run_time">Interval tijd:</string>
-    <string name="low_battery_protect">Lage batterijbescherming</string>
+    <string name="low_battery_protect">Lage accubescherming</string>
     <string name="low_battery_tips">Lage batterij</string>
     <string name="low_battery_please_charging">Laad je horloge op.</string>
     <string name="virtual_rabbit">Virtueel konijn</string>
@@ -197,18 +197,18 @@
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">OK</string>
     <string name="picker_default_nagetive_text">Uit</string>
-    <string name="no_heartrate_data_hint">"Hartslaggegevens niet gevonden"</string>
-    <string name="no_altitude_hint">"Hoogtegegevens niet gevonden"</string>
+    <string name="no_heartrate_data_hint">"Geen hartslaggegevens"</string>
+    <string name="no_altitude_hint">"Geen hoogtegegevens"</string>
     <string name="title_settings">Instellingen</string>
     <string name="sport_music_settings">Muziek</string>
     <string name="widget_currentstep_title">Gegevens</string>
     <string name="widget_currentstep_activities">"Vandaag"</string>
     <string name="widget_currentstep_sleep_hour">u</string>
     <string name="widget_currentstep_sleep_min">min</string>
-    <string name="widget_currentstep_sleep_title">Sleep</string>
+    <string name="widget_currentstep_sleep_title">Geslapen vannacht</string>
     <string name="widget_currentstep_sleep_no">Geen slaapgegevens</string>
-    <string name="widget_currentstep_activity_no">Geen activiteit vandaag?</string>
+    <string name="widget_currentstep_activity_no">Geen beweging vandaag?</string>
     <string name="on_foot">Trekking</string>
-    <string name="need_rest_time">Moet deze keer rusten</string>
-    <string name="need_rest_by_keypress">Tik op omlaag om de pauze te beëindigen</string>
+    <string name="need_rest_time">Rust</string>
+    <string name="need_rest_by_keypress">Tik omlaag om pauze te beëindigen</string>
 </resources>
