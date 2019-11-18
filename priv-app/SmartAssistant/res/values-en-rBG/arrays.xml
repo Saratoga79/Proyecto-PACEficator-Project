@@ -5,11 +5,11 @@
         <item>com.huami.watch.assistant/com.huami.watch.assistant.widget.SmartAssistantWidget</item>
     </string-array>
     <string-array name="card_date">
-        <item>前天</item>
-        <item>昨天</item>
-        <item>今天</item>
-        <item>明天</item>
-        <item>后天</item>
+        <item>Онзи ден</item>
+        <item>Вчера</item>
+        <item>Днес</item>
+        <item>Утре</item>
+        <item>Зададена</item>
     </string-array>
     <string-array name="week_days_short">
         <item>1</item>
@@ -18,11 +18,11 @@
         <item>4</item>
         <item>5</item>
         <item>6</item>
-        <item>日</item>
+        <item>7</item>
     </string-array>
     <string-array name="alarm_repeat_type">
-        <item>只响一次</item>
-        <item>每天</item>
-        <item>工作日</item>
+        <item>Само веднъж</item>
+        <item>Ежедневно</item>
+        <item>Работни дни</item>
     </string-array>
 </resources>
