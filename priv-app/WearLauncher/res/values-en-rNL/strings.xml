@@ -7,7 +7,7 @@
     <string name="data_checkfail_temp">Temperatuur buiten bereik.</string>
     <string name="data_checkfail_match">"Weerinfo onjuist."</string>
     <string name="data_checkfail_json">JSON format fout</string>
-    <string name="generic_notification_more">Meer(%s)</string>
+    <string name="generic_notification_more">Meer (%s)</string>
     <string name="notification_unread_num">Ongelezen %s</string>
     <string name="notification_click_upgrade">Update</string>
     <string name="notification_click_download">Download</string>
@@ -115,8 +115,8 @@ sinds opladen"</string>
     <string name="hm_generic_notification_iconified_content_line">Hallo, ik ben een Huami-fan</string>
     <string name="notification_action_more">Meer</string>
     <string name="notification_wechat_red_envelop_title">Herinnering WeChat</string>
-    <string name="notification_alipay_red_envelop_title">Alipay herinnering</string>
-    <string name="notification_qq_red_envelop_title">Rode envelopherinnering</string>
+    <string name="notification_alipay_red_envelop_title">Herinnering Alipay</string>
+    <string name="notification_qq_red_envelop_title">Herinnering Rode envelop</string>
     <string name="notification_red_envelop_content">%s melding_rode_brief_inhoud</string>
     <string name="notification_red_envelop_default_content">notification_red_envelop_default_content!</string>
     <string name="notification_alipay_default_group">notification_alipay_default_group</string>
@@ -274,7 +274,7 @@ dagen"</string>
     <string name="operating_airline_info">Uitgevoerd door %1$s</string>
     <string name="skip_activity">SKIP_ACTIVITY</string>
     <string name="clockwork_home_enable_notifications">Zet notificaties voor Android Wear aan</string>
-    <string name="clockwork_home_no_notif_settings">"Dit apparaat kan geen notificaties naar uw horloge versturen"</string>
+    <string name="clockwork_home_no_notif_settings">"Apparaat kan geen notificaties naar horloge versturen"</string>
     <string name="perm_label_provide_background">Custom watch face</string>
     <string name="perm_description_provide_background">Deze app kan fungeren als een aangepast horloge.</string>
     <string name="perm_label_secure_adb_confirmation">Bevestig beveiligde ADB-verbindingen</string>
