@@ -7,8 +7,8 @@
     <string name="music_download_fail_title">"Kan niet downloaden"</string>
     <string name="music_download_not_complete_title">"Nummers niet volledig gedownload"</string>
     <string name="music_no_wifi_content">"Kan geen nummers downloaden als horloge niet verbonden is met Wi-Fi. Ga naar Instellingen &gt; Wi-Fi op je horloge om te verbinden."</string>
-    <string name="music_download_fail_content">"Kan nummers niet downloaden vanwege een netwerkfout. Maak verbinding met het netwerk en probeer het opnieuw."</string>
-    <string name="music_download_not_complete_content">"Nummers zijn niet volledig gedownload vanwege een netwerkfout. Alleen volledig gedownloade nummers worden afgespeeld. Maak verbinding met Wi-Fi om de downloads te hervatten."</string>
+    <string name="music_download_fail_content">"Kan nummers niet downloaden door netwerkfout. Verbind met netwerk en probeer opnieuw."</string>
+    <string name="music_download_not_complete_content">"Nummers niet volledig gedownload vanwege netwerkfout. Alleen volledige nummers worden afgespeeld. Maak verbinding om downloads te hervatten."</string>
     <string name="music_download_success">Muziek updaten gelukt</string>
     <string name="music_downloading">Muziek downloaden...</string>
     <string name="music_fetch_list">Info ophalen…</string>
@@ -45,7 +45,7 @@
     <string name="browse_genre_subtitle">Nummers op genre</string>
     <string name="browse_musics_by_genre_subtitle">%1$s nummers</string>
     <string name="random_queue_title">Willekeurige muziek</string>
-    <string name="error_no_connection">Cannot connect to server. Please, check your Internet connectivity.</string>
+    <string name="error_no_connection">Kan geen verbinding maken met server. Controleer internetverbinding.</string>
     <string name="error_loading_media">Fout bij afspelen media</string>
     <string name="casting_to_device">Afspelen op %1$s</string>
     <string name="currently_playing_song">Huidige muziek</string>
@@ -64,7 +64,7 @@
     <string name="action_listen">Luisteren</string>
     <string name="open_content_drawer">Open hoofdmenu</string>
     <string name="close_content_drawer">Sluit hoofdmenu</string>
-    <string name="placeholder_message">Dit is een aanduiding voor uw toepassingscode.</string>
+    <string name="placeholder_message">Dit is een placegikder voor uw toepassingscode.</string>
     <string name="drawer_allmusic_title">Alle muziek</string>
     <string name="drawer_playlists_title">Afspeellijsten</string>
     <string name="now_playing">Huidig nummer</string>
@@ -96,5 +96,5 @@ sluit af?"</string>
     <string name="widget_currentstep_sleep_title">Geslapen vannacht</string>
     <string name="widget_currentstep_sleep_no">Geen slaapgegevens</string>
     <string name="widget_currentstep_activity_no">Geen beweging vandaag?</string>
-    <string name="locale_title">Kies taal</string>
+    <string name="locale_title">Taal kiezen</string>
 </resources>
