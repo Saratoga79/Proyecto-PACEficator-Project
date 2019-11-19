@@ -16,7 +16,7 @@
     <string name="temp_unit_degree">°</string>
     <string name="temp_to">~</string>
     <string name="temp_to_card">/</string>
-    <string name="type_to"> naar </string>
+    <string name="type_to"> tot </string>
     <string name="not_avalible_type">Geen gegevens</string>
     <string name="not_avalible_temp">--</string>
     <string name="air_quality">Luchtkwaliteit </string>
@@ -63,7 +63,7 @@
     <string name="fetch_failed">"Ophalen mislukt"</string>
     <string name="unknown">--</string>
     <string name="fetch_failed_title">"Kan geen weerinfo ophalen"</string>
-    <string name="fetch_failed_msg">Zorg ervoor dat het horloge is verbonden met de Amazfit Watch-app en een geldige locatie is geselecteerd in de app.</string>
+    <string name="fetch_failed_msg">Zorg ervoor dat het horloge is verbonden met de Amazfit-app en er een geldige locatie is geselecteerd.</string>
     <string name="date_time_format">dd/MM</string>
     <string name="forecast_today">Vandaag</string>
     <string name="forecast_tomorrow">Morgen</string>
@@ -101,5 +101,5 @@
     <string name="widget_currentstep_sleep_title">Geslapen vannacht</string>
     <string name="widget_currentstep_sleep_no">Geen slaapgegevens</string>
     <string name="widget_currentstep_activity_no">Geen beweging vandaag?</string>
-    <string name="locale_title">Kies taal</string>
+    <string name="locale_title">Taal kiezen</string>
 </resources>
