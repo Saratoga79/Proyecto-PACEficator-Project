@@ -55,18 +55,18 @@ a.u.b. upgraden"</string>
     <string name="wifi_turnon_going">Wi-Fi inschakelen...</string>
     <string name="system_update_title">Update succesvol</string>
     <string name="system_update_content">Het systeem is geüpgraded naar versie %1$s</string>
-    <string name="password_error">"Wi-Fi wachtwoord niet correct,
-voer a.u.b. opnieuw in"</string>
+    <string name="password_error">"Wi-Fi wachtwoord fout.
+Probeer opnieuw."</string>
     <string name="wifi_connect_fail">"Kan geen verbinding maken
-met die Wi-Fi netwerk. Probeer
-een ander Wi-Fi hotspot"</string>
+met Wi-Fi netwerk. Probeer
+een ander netwerk"</string>
     <string name="searching">Zoeken...</string>
     <string name="hasNewUpdateTitle">Systeem updates</string>
     <string name="hasNewUpdateInstallContent">Versie %1$s kan worden geïnstalleerd. Nu installeren?</string>
     <string name="hasNewUpdateCheckContent">Versie %1$s kan worden bijgewerkt. Nu updaten?</string>
-    <string name="update_title">Kies a.u.b. een van de volgende</string>
+    <string name="update_title">Selecteer update methode</string>
     <string name="update_online">Over-the-Air update</string>
-    <string name="update_local">Update van een lokaal zip-bestand</string>
+    <string name="update_local">Update van lokaal zip-bestand</string>
     <string name="local_update_confirm_1_title">Let op</string>
     <string name="local_update_invalid_zip">Update naar de meest recente versie van de app</string>
     <string name="local_update_confirm_1_msg">"Om zeker te zijn dat de nieuwe versie
@@ -99,5 +99,5 @@ horloge verwijderen, doorgaan?"</string>
     <string name="widget_currentstep_sleep_title">Geslapen vannacht</string>
     <string name="widget_currentstep_sleep_no">Geen slaapgegevens</string>
     <string name="widget_currentstep_activity_no">Geen beweging vandaag?</string>
-    <string name="locale_title">Kies taal</string>
+    <string name="locale_title">Taal kiezen</string>
 </resources>
