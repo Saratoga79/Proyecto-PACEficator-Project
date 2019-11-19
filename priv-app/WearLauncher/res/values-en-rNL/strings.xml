@@ -72,12 +72,12 @@ sinds opladen"</string>
     <string name="header_incomming_call_hint">Inkomend gesprek</string>
     <string name="header_incomming_call_mobilephone">Telefoon</string>
     <string name="header_incomming_call_landlinephone">Vaste lijn</string>
-    <string name="header_incomming_call_searchinglocation">Attribution querying...</string>
-    <string name="header_incomming_call_mobile_virtual">Mobile Virtual Carriers</string>
+    <string name="header_incomming_call_searchinglocation">Locatie opvragen...</string>
+    <string name="header_incomming_call_mobile_virtual">Mobiele Virtual Carriers</string>
     <string name="header_incomming_call_unicom_virtual">Unicom Virtual Carriers</string>
     <string name="header_incomming_call_telecom_virtual">Telecom Virtual Carriers</string>
     <string name="header_incomming_call_other_virtual">Other Mobile Virtual Carriers</string>
-    <string name="header_incomming_call_service_hotline">Service Nummer</string>
+    <string name="header_incomming_call_service_hotline">Servicehotline</string>
     <string name="header_incomming_call_localcall">Lokaal Nummer</string>
     <string name="header_incomming_call_unknowncall">Onbekend nummer</string>
     <string name="call_phone_off">Beëindig oproep</string>
@@ -91,7 +91,7 @@ sinds opladen"</string>
     <string name="action_failure">"Sorry, dit werkt niet"</string>
     <string name="action_success">Succesvol!</string>
     <string name="action_working">Onderweg...</string>
-    <string name="activity_not_found">Er was een probleem met het voltooien van de gevraagde actie.</string>
+    <string name="activity_not_found">De gevraagde actie kon niet voltooid worden.</string>
     <string name="wathc_disconnection_content">Losgekoppeld van telefoon</string>
     <string name="wathc_disconnection_title">Verbroken</string>
     <string name="notification_block">Blokkeer</string>
@@ -146,9 +146,9 @@ sinds opladen"</string>
     <string name="create_calendar_message">Advertentie toestaan kalendergebeurtenis aan te maken?</string>
     <string name="common_google_play_services_notification_ticker">Google Play services fout</string>
     <string name="common_google_play_services_notification_needs_installation_title">App vereist de installatie van Google Play services.</string>
-    <string name="common_google_play_services_notification_needs_update_title">Een app vereist een update van Google Play services.</string>
-    <string name="common_android_wear_notification_needs_update_text">Een app vereist een update van de Android Wear app.</string>
-    <string name="common_google_play_services_needs_enabling_title">Een app vereist dat Google Play services ingeschakeld is.</string>
+    <string name="common_google_play_services_notification_needs_update_title">App vereist de installatie van Google Play services.</string>
+    <string name="common_android_wear_notification_needs_update_text">App vereist een update van de Android Wear app.</string>
+    <string name="common_google_play_services_needs_enabling_title">App vereist dat Google Play services ingeschakeld is.</string>
     <string name="common_google_play_services_error_notification_requested_by_msg">Vereist door %1$s</string>
     <string name="common_google_play_services_install_title">Google Play services downloaden</string>
     <string name="common_google_play_services_install_text_phone">"Deze app kan niet worden uitgevoerd zonder Google Play-services, welke ontbreken op uw telefoon."</string>
@@ -162,9 +162,9 @@ sinds opladen"</string>
     <string name="common_google_play_services_update_text">"Deze app zal niet werken, tenzij u Google Pay services bijwerkt."</string>
     <string name="common_android_wear_update_text">"Deze app zal niet werken, tenzij u de Android Wear app bijwerkt."</string>
     <string name="common_google_play_services_network_error_title">Netwerkfout</string>
-    <string name="common_google_play_services_network_error_text">Een data-verbinding is vereist om verbinding te maken met Google Play-services.</string>
+    <string name="common_google_play_services_network_error_text">Data-verbinding vereist om te verbinding met Google Play-services.</string>
     <string name="common_google_play_services_invalid_account_title">Ongeldig account</string>
-    <string name="common_google_play_services_invalid_account_text">Het opgegeven account bestaat niet op dit apparaat. Kies een ander account.</string>
+    <string name="common_google_play_services_invalid_account_text">Opgegeven account bestaat niet op dit apparaat. Kies een ander account.</string>
     <string name="common_google_play_services_unknown_issue">Onbekend probleem met Google Play-services.</string>
     <string name="common_google_play_services_unsupported_title">Google Play services</string>
     <string name="common_google_play_services_unsupported_text">Google Play-services wordt niet ondersteund door uw apparaat. Neem voor hulp contact op met de fabrikant.</string>
@@ -191,7 +191,7 @@ sinds opladen"</string>
     <string name="retail_to_home">naar huis</string>
     <string name="retail_light_traffic">Weinig verkeer op de A12</string>
     <string name="retail_navigate">Navigeer</string>
-    <string name="retail_turn_by_turn">Turn-by-turn aanwijzingen om je pols.</string>
+    <string name="retail_turn_by_turn">Turn-by-turn aanwijzingen aan je pols.</string>
     <string name="retail_slideshow_traffic">Krijg verkeersinformatie voor route naar werk.</string>
     <string name="retail_british_airways">Brussels Airlines SN873</string>
     <string name="retail_departs_in">Vertrek in 4 uur</string>
@@ -256,12 +256,12 @@ dagen"</string>
     <string name="just_a_sec">Een ogenblikje...</string>
     <string name="paired">Gekoppeld!</string>
     <string name="tutorial_activity_text">Je kunt ook vegen om te sluiten wanneer in een app</string>
-    <string name="troubleshoot_somethings_wrong">"Kan geen verbinding maken met het internet. Veeg voor tips."</string>
+    <string name="troubleshoot_somethings_wrong">"Kan geen verbinding maken met internet. Veeg voor tips."</string>
     <string name="troubleshoot_somethings_wrong_paired">"Kan geen verbinding maken met de Android Wear app op uw telefoon. Veeg voor tips."</string>
     <string name="troubleshoot_use_android_wear">Installeer de Android Wear app uit de Play Store. Start vervolgens de Android Wear app om verbinding te maken met uw telefoon.</string>
     <string name="troubleshoot_internet">Zorg ervoor dat uw telefoon verbonden is met internet</string>
     <string name="troubleshoot_tethering">Zet Bluetooth tethering aan op uw telefoon.</string>
-    <string name="troubleshoot_online_help">"Om meer hulp te krijgen, ga naar 
+    <string name="troubleshoot_online_help">"Om meer hulp te krijgen, ga naar:
 %s
 "</string>
     <string name="troubleshoot_help_url">g.co/AWhelp</string>
@@ -301,10 +301,10 @@ dagen"</string>
     <string name="cue_menu_show_heart_rate">Toon hartslag</string>
     <string name="cue_menu_make_request">Maak verzoek</string>
     <string name="cue_menu_text">Verstuur bericht</string>
-    <string name="cue_menu_text_help_male1">naar Gert, ben je in de buurt?</string>
-    <string name="cue_menu_text_help_male2">naar Gert, zie je later</string>
-    <string name="cue_menu_text_help_female1">naar Eve, ben je in de buurt?</string>
-    <string name="cue_menu_text_help_female2">naar te Eve, tot later</string>
+    <string name="cue_menu_text_help_male1">Aan Gert, ben je in de buurt?</string>
+    <string name="cue_menu_text_help_male2">Aan Gert, zie je later</string>
+    <string name="cue_menu_text_help_female1">Aan Eve, ben je in de buurt?</string>
+    <string name="cue_menu_text_help_female2">Aan Eve, tot later</string>
     <string name="cue_menu_navigate">Navigeer</string>
     <string name="cue_menu_navigate_help">naar tankstation in de buurt</string>
     <string name="cue_menu_hangout">Hangout</string>
@@ -385,7 +385,7 @@ dagen"</string>
     <string name="voice_action_remote_disambig">Open telefoon om te selecteren welke app hiervoor moet worden gebruikt.</string>
     <string name="voice_action_remote_favorite">Kies op telefoon de app voor het uitvoeren van deze actie.</string>
     <string name="voice_action_error_completing_title">Probleem bij het voltooien van uw actie</string>
-    <string name="voice_action_error_completing_text">Open telefoon en probeer het opnieuw</string>
+    <string name="voice_action_error_completing_text">Open telefoon en probeer opnieuw</string>
     <string name="contact_confirmation_format">%1$s (%2$s)</string>
     <string name="reminder_creation_success">Herinnering toegevoegd</string>
     <string name="voice_action_cancel">Annuleer</string>
@@ -607,7 +607,7 @@ Aan"</string>
     <string name="state_off">Uit</string>
     <string name="quick_settings_sunlight_title">Daglicht modus</string>
     <string name="theater_mode">Stilte modus</string>
-    <string name="theater_mode_toast_button">Om het scherm weer aan te zetten druk op de zijknop</string>
+    <string name="theater_mode_toast_button">Om het scherm weer aan te zetten, druk op een knop</string>
     <string name="theater_mode_toast_no_button">Om het scherm terug aan te zetten dubbeltik je op het scherm</string>
     <string name="more_on_weather_domain">Meer over %s</string>
     <string name="batteryLevelUnit">%</string>
