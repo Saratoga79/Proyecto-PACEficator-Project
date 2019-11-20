@@ -83,7 +83,7 @@ sinds opladen"</string>
     <string name="call_phone_off">Beëindig oproep</string>
     <string name="call_sound_off">Stil</string>
     <string name="call_phone_ignore">Vergeet</string>
-    <string name="world_cup_begin_to_start">The match gaat beginnen</string>
+    <string name="world_cup_begin_to_start">De match gaat beginnen</string>
     <string name="dialog_close">Afsluiten</string>
     <string name="amazing_dialog_btn_confirm_text">Bevestig</string>
     <string name="amazing_dialog_btn_cancel_text">Annuleer</string>
@@ -434,12 +434,12 @@ Sorry, Google kan u daar niet mee helpen."</string>
     <string name="search_wind_in_kph">%s km/u</string>
     <string name="search_precipitation_percent">%s%%</string>
     <string name="search_calculator_left">%s =</string>
-    <string name="search_currency_left">%s is gelijk aan</string>
+    <string name="search_currency_left">%s =</string>
     <string name="search_translation_title">\"%1$s\" in %2$s</string>
     <string name="search_when_is_start">%s begint</string>
     <string name="search_when_is_end">en eindigt</string>
-    <string name="search_when_is_start_evening">%s begint in de avond van</string>
-    <string name="search_when_is_end_evening">en stopt in de avond van</string>
+    <string name="search_when_is_start_evening">%s begint de avond van</string>
+    <string name="search_when_is_end_evening">en stopt de avond van</string>
     <string name="search_call">Bellen</string>
     <string name="stock_last_update" formatted="false">Geüpdated: %s - %s</string>
     <string name="local_closed">Gesloten</string>
@@ -451,7 +451,7 @@ Sorry, Google kan u daar niet mee helpen."</string>
     <string name="saturday">Zaterdag</string>
     <string name="sunday">Zondag</string>
     <string name="search_flight_departure_location">Vertrek %s</string>
-    <string name="search_flight_arrival_location">Arriveer %s</string>
+    <string name="search_flight_arrival_location">Aankomst %s</string>
     <string name="search_flight_originally_scheduled_time">(Gepland %s)</string>
     <string name="search_flight_terminal_gate">Terminal %1$s, Gate %2$s</string>
     <string name="search_flight_name">%1$s %2$s</string>
@@ -564,7 +564,7 @@ Aan"</string>
     <string name="movie_type_3D">3D</string>
     <string name="movie_type_IMAX">IMAX</string>
     <string name="movie_type_IMAX_3D">IMAX 3D</string>
-    <string name="perm_label_notify_gps_activity">Notificatie over GPS-activiteit</string>
+    <string name="perm_label_notify_gps_activity">Notificatie GPS-activiteit</string>
     <string name="perm_description_notify_gps_activity">Deze app kan meldingen uitzenden over GPS-activiteit</string>
     <string name="contact_type_home">Thuis</string>
     <string name="contact_type_work">Werk</string>
@@ -622,7 +622,7 @@ Aan"</string>
     <string name="not_avalible_type">Geen gegevens</string>
     <string name="not_avalible_temp">--</string>
     <string name="air_quality">Luchtkwaliteit </string>
-    <string name="weather_title">Weer vandaag</string>
+    <string name="weather_title">Weerbericht</string>
     <string name="dot"> </string>
     <string name="forecast_today">Vandaag</string>
     <string name="forecast_tomorrow">Morgen</string>
@@ -648,7 +648,7 @@ Aan"</string>
     <string name="weather_warning_smog">Smog</string>
     <string name="weather_warning_ice">IJzige wegen</string>
     <string name="weather_warning_snowstorm">Sneeuwstorm</string>
-    <string name="no_aqi">"Kan geen luchtkwaliteit verkrijgen"</string>
+    <string name="no_aqi">"Luchtkwaliteit opvragen mislukt"</string>
     <string name="air_perfect">Geweldige luchtkwaliteit</string>
     <string name="air_good">Goede luchtkwaliteit</string>
     <string name="air_lightly_polluted">Matige vervuiling</string>
@@ -664,7 +664,7 @@ Aan"</string>
     <string name="detailed">Weerdetails</string>
     <string name="forecast">Weerbericht</string>
     <string name="fetching">Ophalen</string>
-    <string name="fetch_failed">"Kan het weer niet updaten"</string>
+    <string name="fetch_failed">"Weerinfo opvragen mislukt"</string>
     <string name="fetch_failed_title">"Kan geen weersinformatie ophalen"</string>
     <string name="fetch_failed_msg">Zorg ervoor dat je horloge verbonden is met de Amazfit app en een geldige locatie is geselecteerd in de app.</string>
     <string name="date_time_format">dd-MM</string>
