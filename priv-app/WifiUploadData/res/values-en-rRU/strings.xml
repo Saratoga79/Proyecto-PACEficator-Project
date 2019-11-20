@@ -18,11 +18,11 @@
     <string name="widget_currentstep_activity_no">No activity today?</string>
     <string name="locale_title">Select Language</string>
     <string name="app_name">Wi-Fi sync</string>
-    <string name="notice_text_success_top">Synced data successfully</string>
-    <string name="notice_text_success_bottom">You can view data in the Amazfit Watch app</string>
+    <string name="notice_text_success_top">Синхронизация была успешно завершена</string>
+    <string name="notice_text_success_bottom">Вы можете просмотреть данные в приложении Amazfit Watch</string>
     <string name="notice_text_failed_top">"Couldn't sync data"</string>
     <string name="net_failed">Check your network connection and try again</string>
-    <string name="date">Time:</string>
+    <string name="date">Время:</string>
     <string name="am">AM</string>
     <string name="pm">PM</string>
     <string name="date_">/</string>
@@ -34,9 +34,10 @@
     <string name="did_not_connect_assist">Connect to the Amazfit Watch app to refresh access token in order to sync data</string>
     <string name="upload_failed_full">Interrupt the ongoing sync?</string>
     <string name="percent_sign">%</string>
-    <string name="please_keep_wifi_connected">"Don't disconnect from Wi-Fi"</string>
-    <string name="init_wifi">Connecting to Wi-Fi…</string>
-    <string name="init_user">Verifying…</string>
+    <string name="please_keep_wifi_connected">"Пожалуйста, держите часы
+подключенными к Wi-Fi"</string>
+    <string name="init_wifi">Подключение к Wi-Fi…</string>
+    <string name="init_user">Проверка…</string>
     <string name="init_app">Connecting to the Amazfit Watch app…</string>
     <string name="init_update_user">Updating…</string>
     <string name="zero">0</string>
