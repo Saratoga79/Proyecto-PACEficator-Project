@@ -36,7 +36,7 @@
     <string name="reboot">Перезагрузка</string>
     <string name="about">О программе</string>
     <string name="wifi_dev">Wi-Fi</string>
-    <string name="wear_habit">Wear Habit</string>
+    <string name="wear_habit">Место крепления</string>
     <string name="bugreport">Сообщить об ошибке</string>
     <string name="light_change">Подсветка</string>
     <string name="wrist_up">Активировать при поднятии</string>
@@ -62,14 +62,14 @@
     <string name="wifi_auto_upload_switch">Автозагрузка</string>
     <string name="hand_upload">Ручная синхронизация</string>
     <string name="auto_upload">Авто синхронизация</string>
-    <string name="app_item_phone_anti_lost">Отключить оповещение</string>
+    <string name="app_item_phone_anti_lost">Найти телефон</string>
     <string name="app_item_anti_lost_remind">Отключить оповещение</string>
     <string name="app_item_far_away_remind">Предупреждение о путешествии</string>
     <string name="remind_aleary_open">Alert is on already</string>
     <string name="phone_far_away_remind_to_you">Часы будут предупреждать вас, когда они находятся далеко от вашего телефона.</string>
     <string name="dialog_confire">Подтверждение</string>
     <string name="applications">Приложения</string>
-    <string name="long_sit">Остановить</string>
+    <string name="long_sit">Напоминание о разминке</string>
     <string name="datacenter">Ежедневный обзор</string>
     <string name="auto_bg">Автоподсветка</string>
     <string name="auto_hint_title">Автоподсветка</string>
@@ -306,6 +306,6 @@
     <string name="bind_tips_title">"Пожалуйста привяжите 
  для более надежной защиты ваших данных"</string>
     <string name="upgrade_checking">Проверка обновлений...</string>
-    <string name="left_hand">Левая</string>
-    <string name="right_hand">Правильно</string>
+    <string name="left_hand">Левая рука</string>
+    <string name="right_hand">Правая рука</string>
 </resources>

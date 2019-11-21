@@ -77,14 +77,14 @@
     <string name="gps_searching">Wachten op GPS...</string>
     <string name="gps_search_success">GPS beschikbaar</string>
     <string name="gps_search_failed_title">"GPS niet beschikbaaar"</string>
-    <string name="gps_search_failed_content">GPS-signaal niet beschikbaar, probeer opnieuw in een open ruimte.</string>
+    <string name="gps_search_failed_content">GPS niet beschikbaar, probeer buiten opnieuw.</string>
     <string name="gps_search_success_title">GPS beschikbaar</string>
     <string name="gps_search_success_content">GPS beschikbaar, u kunt beginnen.</string>
     <string name="gps_search_timeout_title">GPS verlopen</string>
     <string name="gps_search_timeout_content">AGPS is verlopen. GPS-zoeken zal traag zijn. Sluit de Amazfit Watch-app aan om deze bij te werken.</string>
     <string name="gps_notify_success">GPS beschikbaar</string>
     <string name="gps_notify_loss">GPS signaal verloren</string>
-    <string name="gps_search_time_out_content">GPS is uitgeschakeld vanwege inactiviteit.</string>
+    <string name="gps_search_time_out_content">GPS uitgeschakeld vanwege inactiviteit.</string>
     <string name="detail_route_title">Routetijd</string>
     <string name="detail_route_total_dis">Totale Afstand</string>
     <string name="detail_route_detail_lap_title">Lap Details</string>
@@ -193,7 +193,7 @@
     <string name="history_month_dis">%1$s/%2$d km</string>
     <string name="history_month_dis_imperial">%1$s/%2$dmi</string>
     <string name="history_month_cost">%1$s/%2$s</string>
-    <string name="history_sport">Activiteiten historiek</string>
+    <string name="history_sport">Historiek</string>
     <string name="history_no_sport_tips">Nog geen activiteiten, nu beginnen.</string>
     <string name="history_start_sport_tips">Start activiteit.</string>
     <string name="sport_main_percent">%</string>
@@ -216,7 +216,7 @@
     <string name="sport_main_pm">PM</string>
     <string name="sport_main_recovery_title">Aanbevolen recuperatie</string>
     <string name="sport_history_full_recovery">Totale recuperatie</string>
-    <string name="sport_main_avg_stride">Gem. staplengte</string>
+    <string name="sport_main_avg_stride">Gemiddelde staplengte</string>
     <string name="sport_main_stride">Staplengte</string>
     <string name="sport_main_total_kcal">Calorieën</string>
     <string name="sport_main_avg_stride_unit">cm/stap</string>
@@ -731,8 +731,8 @@ op basis van de oefeningen die in de afgelopen
     <string name="running_speed_desc">Snelheid</string>
     <string name="running_distance_desc">Afstand</string>
     <string name="running_heartrate_desc">Hartslag</string>
-    <string name="running_avg_pace_desc">Gem. tempo</string>
-    <string name="running_avg_speed_desc">Gem. snelheid</string>
+    <string name="running_avg_pace_desc">Gemiddeld tempo</string>
+    <string name="running_avg_speed_desc">Gemiddelde snelheid</string>
     <string name="walking_step_count">Stappen</string>
     <string name="crossing_vertical_speed">Vertikale Snelheid</string>
     <string name="sport_widget_title">Sporten</string>
@@ -758,7 +758,7 @@ op basis van de oefeningen die in de afgelopen
     <string name="sport_continue">Hervat</string>
     <string name="sport_stop">Stop</string>
     <string name="running_kilometers">km</string>
-    <string name="running_avg_pace_desc_simple">Gem. tempo</string>
+    <string name="running_avg_pace_desc_simple">Gemiddeld tempo</string>
     <string name="running_avg_speed_desc_simple">Gem. snelheid</string>
     <string name="running_pace_unit">/km</string>
     <string name="running_calorie_unit">kCal</string>
