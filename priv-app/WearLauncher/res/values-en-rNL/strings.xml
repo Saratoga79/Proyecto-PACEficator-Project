@@ -47,7 +47,7 @@
     <string name="quick_settings_connected">Verbonden</string>
     <string name="quick_settings_disconnect">Verbroken</string>
     <string name="quick_settings_unbound">Pair eerst a.u.b.</string>
-    <string name="quick_settings_date_chinese">dd-MM-yyyy</string>
+    <string name="quick_settings_date_chinese">dd/MM/yyyy</string>
     <string name="quick_settings_date_format">31-1-1900</string>
     <string name="quick_settings_date_yeareve">Oudejaarsavond</string>
     <string name="seconed_confirm_nodisturb">"Stille modus Aan
@@ -199,7 +199,7 @@ sinds opladen"</string>
     <string name="retail_gate_loc">Terminal 4, Gate 25</string>
     <string name="retail_slideshow_music">Beheer muziek op telefoon.</string>
     <string name="retail_loading">Laad retailmodus…</string>
-    <string name="retail_step_count">%1$s stappen</string>
+    <string name="retail_step_count">%1$spassen</string>
     <string name="retail_pedometer_action">Behaal je fitnessdoelen met Andoird Wear.</string>
     <string name="retail_slideshow_pedometer">Bereik uw fitnessdoelen met dagelijkse statistieken.</string>
     <string name="retail_cal_event_title">Koffie met Alex</string>
@@ -295,7 +295,7 @@ dagen"</string>
     <string name="cue_menu_take_a_note_help">drink meer water</string>
     <string name="cue_menu_reminder">Herinner mij</string>
     <string name="cue_menu_reminder_help">gaan lopen om 7u</string>
-    <string name="cue_menu_show_steps">Laat mijn stappen zien</string>
+    <string name="cue_menu_show_steps">Laat mijn passen zien</string>
     <string name="cue_menu_track_bike_ride">Start fietsrit</string>
     <string name="cue_menu_track_run">Start looptocht</string>
     <string name="cue_menu_track_workout">Start workout</string>
@@ -473,7 +473,7 @@ Sorry, Google kan u daar niet mee helpen."</string>
     <string name="now_current_period">Periode %1$d</string>
     <string name="now_sports_in_progress">%1$s, %2$s:%3$s</string>
     <string name="now_overtime">Overuren</string>
-    <string name="now_tomorrow_at_time">Morgen on %1$s</string>
+    <string name="now_tomorrow_at_time">Morgen om %1$s</string>
     <string name="now_today_at_time">Vandaag om %1$s</string>
     <string name="now_yesterday_at_time">Gisteren om %1$s</string>
     <string name="now_date_at_time">%1$s om %2$s</string>
@@ -500,7 +500,7 @@ Aan"</string>
     <string name="offline_state">Offline</string>
     <string name="no_items">Geen items.</string>
     <string name="disambiguate_action">Ondubbelzinnige actie</string>
-    <string name="status_bar_date_format">d MMM</string>
+    <string name="status_bar_date_format">dd/MMM</string>
     <string name="battery_is_at">Batterij is op</string>
     <string name="battery_saver_enabled">Accubesparing aan</string>
     <string name="battery_saver_disabled">Accubesparing uit</string>
@@ -528,7 +528,7 @@ Aan"</string>
     <string name="tutorial_got_it">Oké, ik snap het</string>
     <string name="tutorial_touch_clock">Raak horloge aan of zeg \"Ok Google\"</string>
     <string name="tutorial_say_what_time">Zeg: \"Wanneer gaat de zon onder?\"</string>
-    <string name="tutorial_touch_clock_what_time">Raak horloge aan en zeg een actie zoals \"Laat me mijn stappen zien\"</string>
+    <string name="tutorial_touch_clock_what_time">Raak horloge aan en zeg een actie zoals \"Laat me mijn passen zien\"</string>
     <string name="tutorial_one_last_thing">Nog één iets…</string>
     <string name="tutorial_dim_lights">Om het scherm te dimmen, bedek met je hand.</string>
     <string name="tutorial_tap_to_read_more">Tik voor meer</string>
@@ -668,7 +668,7 @@ Aan"</string>
     <string name="fetch_failed">"Weerinfo opvragen mislukt"</string>
     <string name="fetch_failed_title">"Kan geen weersinformatie ophalen"</string>
     <string name="fetch_failed_msg">Zorg ervoor dat je horloge verbonden is met de Amazfit app en een geldige locatie is geselecteerd in de app.</string>
-    <string name="date_time_format">dd-MM</string>
+    <string name="date_time_format">dd/MM</string>
     <string name="weather_card_temperature">%1$s , %2$s</string>
     <string name="average_text">Gemiddeld</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>

@@ -5,8 +5,8 @@
     <string name="action_badge_activated">com.huami.watch.health.BADGE_ACTIVATED</string>
     <string name="action_badge_dumped">com.huami.watch.health.BADGE_DUMPED</string>
     <string name="app_name">Gezondheid</string>
-    <string name="settings_step_unit">stappen</string>
-    <string name="settings_step_target">Stappendoel</string>
+    <string name="settings_step_unit">passen</string>
+    <string name="settings_step_target">Passendoel</string>
     <string name="settings_target_reach_reminder">Doel alarm</string>
     <string name="settings_long_sit_reminder">Bewegingsalarm</string>
     <string name="settings_on">Aan</string>
@@ -14,16 +14,16 @@
     <string name="notif_long_sit_title">Opstaan!</string>
     <string name="notif_long_sit_desc">"Je zit te lang. Laten we opstaan en bewegen."</string>
     <string name="notif_target_reach_title">Dagdoel behaald</string>
-    <string name="notif_target_reach_desc">"Stappendoel bereikt!"</string>
+    <string name="notif_target_reach_desc">"Passendoel bereikt."</string>
     <string name="notif_target_half_reach_title">Ga zo door</string>
-    <string name="notif_target_half_reach_desc">Halverwege stappendoel!</string>
+    <string name="notif_target_half_reach_desc">Halverwege passendoel.</string>
     <string name="notif_detail_view">Bekijk details</string>
     <string name="notif_target_set">Bewerk doel</string>
     <string name="label_heartrate_today">Hartslagcurve</string>
     <string name="heartrate_wear_before_gauging">Draag het horloge voordat je de meting begint</string>
     <string name="label_subject_ratio_today">Activiteitsratio</string>
     <string name="label_burning_ratio_today">Verbruiksratio</string>
-    <string name="label_step_unit">stappen</string>
+    <string name="label_step_unit">passen</string>
     <string name="label_calory_unit">kCal</string>
     <string name="label_subject_active">Actief</string>
     <string name="label_subject_sit">Stil</string>
@@ -89,8 +89,8 @@
     <string name="awake_duration">Tijd wakker</string>
     <string name="sleep_unit_minute">min</string>
     <string name="sleep_uniti_hour">u</string>
-    <string name="sleep_duration">%1$su %2$smin</string>
-    <string name="sleep_duration_diff">%1$s &lt;font size=\"12\"&gt; u&lt;/font&gt; %2$s m</string>
+    <string name="sleep_duration">%1$su %2$sm</string>
+    <string name="sleep_duration_diff">%1$s &lt;font size=\"12\"&gt;u&lt;/font&gt; %2$sm</string>
     <string name="date_m_d">%1$s/%2$s</string>
     <string name="date_today">Vandaag</string>
     <string name="sleep_detail_title">Historiek</string>
@@ -115,7 +115,7 @@
     <string name="heart_rate_distribution">Hartslag Zone</string>
     <string name="heart_rate_history">Gem. hartsnelheid opnames</string>
     <string name="label_all_day_heartrate_waring">Continue HR verbruikt meer batterij, doorgaan?</string>
-    <string name="measure_heartrate_button_text">Meten</string>
+    <string name="measure_heartrate_button_text">Meet nu</string>
     <string name="high_strength_heart_rate">Anaerobisch</string>
     <string name="aerobic_heart_rate">Aerobisch</string>
     <string name="burning_fat_heart_rate">Vet verbranden</string>
@@ -137,7 +137,7 @@
     <string name="climbed_floors">Geklommen:</string>
     <string name="widget_label_step">Vandaag</string>
     <string name="widget_heart_analysis">Analiseer</string>
-    <string name="widget_step_target_txt">Doel:  <liff>%d</liff> stappen</string>
+    <string name="widget_step_target_txt">Doel:  <liff>%d</liff>passen</string>
     <string name="widget_step_target_complete">Doel bereikt</string>
     <string name="widget_step_target_second_tips"><liff>%d</liff> sec geleden</string>
     <string name="widget_step_target_min_tips"><liff>%d</liff> min geleden</string>
@@ -145,7 +145,7 @@
     <string name="widget_step_target_day_tips"><liff>%d</liff> dagen geleden</string>
     <string name="widget_step_target_month_tips"><liff>%d</liff> maanden geleden</string>
     <string name="widget_step_target_year_tips"><liff>%d</liff> jaar geleden</string>
-    <string name="widget_label_step_unit">stappen</string>
+    <string name="widget_label_step_unit">passen</string>
     <string name="widget_label_heartrate">Hartslag</string>
     <string name="widget_label_heartrate_unit">BPM</string>
     <string name="widget_heartrate_gauging">Meten...</string>
@@ -168,7 +168,7 @@
     <string name="widget_sleep_leak">"Gebrek aan slaap"</string>
     <string name="widget_sleep_easyawake">Gemakkelijk wakker worden</string>
     <string name="widget_sleep_average_calories">Dagelijks gemiddeld %1$s Cal</string>
-    <string name="widget_sleep_totaltime">Totale slaap %1$su %2$smin</string>
+    <string name="widget_sleep_totaltime">Totale slaap %1$su %2$sm</string>
     <string name="widget_sleep_attained_unit">Score</string>
     <string name="widget_sleep_conment">Heerlijk geslapen deze week, ga zo door!</string>
     <string name="weeklysports_title">Wekelijkse activiteit</string>
@@ -207,7 +207,7 @@
     <string name="weeklysports_running">Lopen</string>
     <string name="weeklysports_walking">Wandelen</string>
     <string name="weeklysports_riding">Fietsen</string>
-    <string name="weekly_step_attained_rate">Dagen om stappendoel te bereiken</string>
+    <string name="weekly_step_attained_rate">om passendoel te bereiken</string>
     <string name="weekly_sports_notification_content">Overzicht vorige week is beschikbaar.</string>
     <string name="weekly_sports_notification_action">Meer</string>
     <string name="weeklysports_date_format">dd/MM</string>
@@ -239,8 +239,8 @@
     <string name="currentstep_detail_activity_run_rate_ma">Beste tempo</string>
     <string name="currentstep_detail_activity_walk_ridding_rate_av">Gem snelheid</string>
     <string name="currentstep_detail_activity_walk_ridding_rate_ma">Max. snelheid</string>
-    <string name="currentstep_detail_activity_mount_total_disacend">Tot. dalen</string>
-    <string name="currentstep_detail_activity_mount_total_up">Tot. stijgen</string>
+    <string name="currentstep_detail_activity_mount_total_disacend">Hoogtewinst</string>
+    <string name="currentstep_detail_activity_mount_total_up">Hoogtewinst</string>
     <string name="currentstep_detail_heart_rate_max_text">Max</string>
     <string name="currentstep_detail_heart_rate_min_text">Min</string>
     <string name="currentstep_detail_heart_rate_quiet_text">Rustend</string>
@@ -295,5 +295,5 @@
     <string name="heart_rate_quite">Rust HR</string>
     <string name="widget_weeklyreports_heart_rate_min_reset_text">Min. HR</string>
     <string name="widget_weeklyreports_heart_rate_max_reset_text">Max HR</string>
-    <string name="widget_weeklyreports_average_reset_title">Gem in rust</string>
+    <string name="widget_weeklyreports_average_reset_title">Rust HR</string>
 </resources>
