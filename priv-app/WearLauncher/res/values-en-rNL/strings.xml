@@ -46,7 +46,7 @@
     <string name="quick_settings_status_day">  </string>
     <string name="quick_settings_connected">Verbonden</string>
     <string name="quick_settings_disconnect">Verbroken</string>
-    <string name="quick_settings_unbound">Pair eerst a.u.b.</string>
+    <string name="quick_settings_unbound">Koppel eerst a.u.b.</string>
     <string name="quick_settings_date_chinese">dd/MM/yyyy</string>
     <string name="quick_settings_date_format">31-1-1900</string>
     <string name="quick_settings_date_yeareve">Oudejaarsavond</string>
@@ -55,7 +55,7 @@ zal geen nieuwe melding meer tonen."</string>
     <string name="quick_settings_battery_charging_full">Volledig opgeladen</string>
     <string name="quick_settings_battery_is_charging">Aan het opladen...</string>
     <string name="quick_settings_battery_hasnot_charged">Niet opgeladen</string>
-    <string name="quick_settings_battery_charging_intervalDay">%1$d d %2$d u sinds opladen</string>
+    <string name="quick_settings_battery_charging_intervalDay">%1$dd %2$du sinds opladen</string>
     <string name="quick_settings_battery_charging_intervalDay_lessHour">%d dagen sinds opgeladen</string>
     <string name="quick_settings_battery_charging_intervalDayLess">%d uur sinds opgeladen</string>
     <string name="quick_settings_battery_charging_intervalLessHour">"Minder dan 1 uur
@@ -90,7 +90,7 @@ sinds opladen"</string>
     <string name="amazing_dialog_btn_cancel_text">Annuleer</string>
     <string name="accept">Accepteer</string>
     <string name="action_failure">"Sorry, dit werkt niet"</string>
-    <string name="action_success">Succesvol!</string>
+    <string name="action_success">Succes！</string>
     <string name="action_working">Onderweg...</string>
     <string name="activity_not_found">De gevraagde actie kon niet voltooid worden.</string>
     <string name="wathc_disconnection_content">Losgekoppeld van telefoon</string>
@@ -109,7 +109,7 @@ sinds opladen"</string>
     <string name="music_stop_status">Gepauzeerd</string>
     <string name="music_play_status">Spelen</string>
     <string name="music_bulethooth_disconnect">Verbinding maken met Bluetooth...</string>
-    <string name="music_peek_content">"Your phone is using the %s app to play music. You can control music playback through the notification on the watch."</string>
+    <string name="music_peek_content">"Je speelt muziek in %s op je telefoon. Je kan dit beheren via de notificaties op het horloge."</string>
     <string name="alone_before_open">Onlangs geopend</string>
     <string name="launcher_app_name">Launcher</string>
     <string name="hm_watch_sports_notification_km">Kilometers</string>
@@ -132,7 +132,7 @@ sinds opladen"</string>
     <string name="notification_alipay_default_title">AliPay</string>
     <string name="notification_alipay_default_pattern">AliPay</string>
     <string name="notification_alipay_group_red_pattern">Rode envelop in de groepchat $</string>
-    <string name="notification_alipay_red_pattern">notification_alipay_red_pattern</string>
+    <string name="notification_alipay_red_pattern">notification_alipay_red_pattern$</string>
     <string name="notification_red_envelop">[notification_red_envelop]</string>
     <string name="notitification_ios_wechat_red_content_pattern">: \\[Rode envelop\\]</string>
     <string name="notification_ios_qq_red_content_pattern">:\\[QQrode envelop\\]</string>
@@ -151,14 +151,14 @@ sinds opladen"</string>
     <string name="common_android_wear_notification_needs_update_text">App vereist een update van de Android Wear app.</string>
     <string name="common_google_play_services_needs_enabling_title">App vereist dat Google Play services ingeschakeld is.</string>
     <string name="common_google_play_services_error_notification_requested_by_msg">Vereist door %1$s</string>
-    <string name="common_google_play_services_install_title">Google Play services downloaden</string>
-    <string name="common_google_play_services_install_text_phone">"Deze app kan niet worden uitgevoerd zonder Google Play-services, welke ontbreken op uw telefoon."</string>
-    <string name="common_google_play_services_install_text_tablet">"Deze app kan niet worden uitgevoerd zonder Google Play-services, welke ontbreken op uw tablet."</string>
+    <string name="common_google_play_services_install_title">Google Play downloaden</string>
+    <string name="common_google_play_services_install_text_phone">"Deze app kan niet worden uitgevoerd zonder Google Play-services."</string>
+    <string name="common_google_play_services_install_text_tablet">"Deze app kan niet worden uitgevoerd zonder Google Play-services."</string>
     <string name="common_google_play_services_install_button">Google Play services downloaden</string>
-    <string name="common_google_play_services_enable_title">Google Play services inschakelen</string>
+    <string name="common_google_play_services_enable_title">Google Play inschakelen</string>
     <string name="common_google_play_services_enable_text">"Deze app zal niet werken, tenzij u Google Pay services inschakelt."</string>
-    <string name="common_google_play_services_enable_button">Google Play services inschakelen</string>
-    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_enable_button">Google Play inschakelen</string>
+    <string name="common_google_play_services_update_title">Google Play updaten</string>
     <string name="common_android_wear_update_title">Update Android Wear</string>
     <string name="common_google_play_services_update_text">"Deze app zal niet werken, tenzij u Google Pay services bijwerkt."</string>
     <string name="common_android_wear_update_text">"Deze app zal niet werken, tenzij u de Android Wear app bijwerkt."</string>
@@ -166,7 +166,7 @@ sinds opladen"</string>
     <string name="common_google_play_services_network_error_text">Data-verbinding vereist om te verbinding met Google Play-services.</string>
     <string name="common_google_play_services_invalid_account_title">Ongeldig account</string>
     <string name="common_google_play_services_invalid_account_text">Opgegeven account bestaat niet op dit apparaat. Kies een ander account.</string>
-    <string name="common_google_play_services_unknown_issue">Onbekend probleem met Google Play-services.</string>
+    <string name="common_google_play_services_unknown_issue">Onbekend probleem met Google Play.</string>
     <string name="common_google_play_services_unsupported_title">Google Play services</string>
     <string name="common_google_play_services_unsupported_text">Google Play-services wordt niet ondersteund door uw apparaat. Neem voor hulp contact op met de fabrikant.</string>
     <string name="common_google_play_services_update_button">Update</string>
@@ -216,7 +216,7 @@ sinds opladen"</string>
     <string name="retail_now_weather_short_peek">%1$s - %2$s</string>
     <string name="perm_label_setup_defaults">Standaardwaarden instellen</string>
     <string name="perm_description_setup_defaults">Deze app kan standaardvoorkeuren voor uw apparaat weergeven.</string>
-    <string name="now_stock_price">"%1$s    %2$s   %3$s"</string>
+    <string name="now_stock_price">"%1$s %2$s %3$s"</string>
     <string name="now_stock_title">Aandelen vandaag</string>
     <string name="now_time_to_leave_by">Vertrek om %1$s</string>
     <string name="now_time_to_leave_now">Vertrek nu</string>
@@ -255,7 +255,7 @@ dagen"</string>
     <string name="cal_dummy_count_down">60</string>
     <string name="checking_for_updates">Controleren op updates...</string>
     <string name="just_a_sec">Een ogenblikje...</string>
-    <string name="paired">Gekoppeld!</string>
+    <string name="paired">Verbonden!</string>
     <string name="tutorial_activity_text">Je kunt ook vegen om te sluiten wanneer in een app</string>
     <string name="troubleshoot_somethings_wrong">"Kan geen verbinding maken met internet. Veeg voor tips."</string>
     <string name="troubleshoot_somethings_wrong_paired">"Kan geen verbinding maken met de Android Wear app op uw telefoon. Veeg voor tips."</string>
@@ -269,7 +269,7 @@ dagen"</string>
     <string name="retry_action">Opnieuw</string>
     <string name="restart_action">Herstart</string>
     <string name="reset_action">Reset apparaat</string>
-    <string name="arrive_title">Arriveer</string>
+    <string name="arrive_title">Aankomst</string>
     <string name="depart_title">Vertrek</string>
     <string name="flight_reservation_number">Reservering #</string>
     <string name="flight_information">%1$s %2$s</string>
@@ -334,7 +334,7 @@ dagen"</string>
     <string name="cue_launch_error">"Sorry, Google kan dat nu niet doen."</string>
     <string name="voice_action_edit">Bewerk</string>
     <string name="voice_action_save">Opslaan</string>
-    <string name="voice_action_saving">Saving...</string>
+    <string name="voice_action_saving">Opslaan...</string>
     <string name="voice_action_navigate">Navigeer</string>
     <string name="voice_action_navigating">Aan het navigeren...</string>
     <string name="voice_action_open">Open</string>
@@ -492,9 +492,9 @@ Sorry, Google kan u daar niet mee helpen."</string>
     <string name="watchface_picker_more">Meer</string>
     <string name="watchface_picker_recent">Recent</string>
     <string name="watchface_picker_all">Alle</string>
-    <string name="airplane_mode">"Airplane modus
+    <string name="airplane_mode">"Vliegtuig modus
 Aan"</string>
-    <string name="airplane_mode_cue_card">Airplane modus</string>
+    <string name="airplane_mode_cue_card">Vliegtuigmodus</string>
     <string name="disconnected">Verbroken</string>
     <string name="timed_out_state">Time-out</string>
     <string name="offline_state">Offline</string>
@@ -512,7 +512,7 @@ Aan"</string>
     <string name="secure_adb_instructions_text">Open je metgezel apparaat om foutopsporing toe te staan.</string>
     <string name="mute">Mute</string>
     <string name="unmute">Unmute</string>
-    <string name="tutorial_all_set">"Je bent klaar!"</string>
+    <string name="tutorial_all_set">"Je bent klaar！"</string>
     <string name="tutorial_swipe_up">Veeg omhoog om te starten.</string>
     <string name="tutorial_great">Geweldig!</string>
     <string name="tutorial_swipe_again">Probeer opnieuw te swipen.</string>
@@ -601,8 +601,8 @@ Aan"</string>
     <string name="battery_info_status_percentage">%</string>
     <string name="quick_settings_notification_title">Onderbrekingen</string>
     <string name="quick_settings_notifications_none">Geen</string>
-    <string name="quick_settings_notifications_not_even_alarms">Niet eens alarmen</string>
-    <string name="quick_settings_notifications_priority">Alleen prioriteit</string>
+    <string name="quick_settings_notifications_not_even_alarms">Zelfs geen alarmen</string>
+    <string name="quick_settings_notifications_priority">Alleen prioritaire</string>
     <string name="quick_settings_notifications_all">Alles tonen</string>
     <string name="state_on">Aan</string>
     <string name="state_off">Uit</string>
@@ -681,7 +681,7 @@ Aan"</string>
     <string name="widget_currentstep_title">Gegevens</string>
     <string name="widget_currentstep_activities">"Vandaag"</string>
     <string name="widget_currentstep_sleep_hour">u</string>
-    <string name="widget_currentstep_sleep_min">min</string>
+    <string name="widget_currentstep_sleep_min">m</string>
     <string name="widget_currentstep_sleep_title">Geslapen vannacht</string>
     <string name="widget_currentstep_sleep_no">Geen slaapgegevens</string>
     <string name="widget_currentstep_activity_no">Geen beweging vandaag?</string>
