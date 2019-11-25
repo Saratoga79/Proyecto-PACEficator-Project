@@ -11,7 +11,7 @@
     <string name="settings_long_sit_reminder">Bewegingsalarm</string>
     <string name="settings_on">Aan</string>
     <string name="settings_off">Uit</string>
-    <string name="notif_long_sit_title">Opstaan!</string>
+    <string name="notif_long_sit_title">Opstaan！</string>
     <string name="notif_long_sit_desc">"Je zit te lang. Laten we opstaan en bewegen."</string>
     <string name="notif_target_reach_title">Dagdoel behaald</string>
     <string name="notif_target_reach_desc">"Passendoel bereikt."</string>
@@ -90,7 +90,7 @@
     <string name="sleep_unit_minute">min</string>
     <string name="sleep_uniti_hour">u</string>
     <string name="sleep_duration">%1$su %2$sm</string>
-    <string name="sleep_duration_diff">%1$s &lt;font size=\"12\"&gt;u&lt;/font&gt; %2$sm</string>
+    <string name="sleep_duration_diff">%1$s &lt;font size=\"12\"&gt;u &lt;/font&gt; %2$sm</string>
     <string name="date_m_d">%1$s/%2$s</string>
     <string name="date_today">Vandaag</string>
     <string name="sleep_detail_title">Historiek</string>
@@ -101,7 +101,7 @@
     <string name="label_heart_rate_text">Hartslag</string>
     <string name="today_heart_rate_title_text">Details</string>
     <string name="today_heart_rate_ave_text">Gemiddeld</string>
-    <string name="today_heart_rate_max_text">Max (BPM)</string>
+    <string name="today_heart_rate_max_text">Max. (BPM)</string>
     <string name="today_heart_rate_min_text">Min (BPM)</string>
     <string name="today_heart_rate_quite_text">Rust (BPM)</string>
     <string name="today_heart_rate_value_def">--</string>
@@ -112,8 +112,8 @@
     <string name="label_all_day_recently">Recent(e)</string>
     <string name="label_all_day_quite">Rustend</string>
     <string name="label_heart_rate_bmps">BPM</string>
-    <string name="heart_rate_distribution">Hartslag Zone</string>
-    <string name="heart_rate_history">Gem. hartsnelheid opnames</string>
+    <string name="heart_rate_distribution">Hartslagzone</string>
+    <string name="heart_rate_history">AVG hartsnelheid opnames</string>
     <string name="label_all_day_heartrate_waring">Continue HR verbruikt meer batterij, doorgaan?</string>
     <string name="measure_heartrate_button_text">Meet nu</string>
     <string name="high_strength_heart_rate">Anaerobisch</string>
@@ -155,7 +155,7 @@
     <string name="widget_heart_gauged_err">"Kan niet meten"</string>
     <string name="widget_heart_gauged_err_tips">Draag het horloge boven de pols.</string>
     <string name="widget_weeklyreports_heart_rate_min_text">Min (BPM)</string>
-    <string name="widget_weeklyreports_heart_rate_max_text">Max (BPM)</string>
+    <string name="widget_weeklyreports_heart_rate_max_text">Max. (BPM)</string>
     <string name="widget_weeklyreports_heart_rate_title">Hartslag</string>
     <string name="widget_weeklyreports_average_title">Gemiddeld</string>
     <string name="widget_weeklyreports_totalcalory_front">Totaal Calorieën</string>
@@ -167,10 +167,10 @@
     <string name="widget_sleep_deep_leak">Te weinig diepe slaap</string>
     <string name="widget_sleep_leak">"Gebrek aan slaap"</string>
     <string name="widget_sleep_easyawake">Gemakkelijk wakker worden</string>
-    <string name="widget_sleep_average_calories">Dagelijks gemiddeld %1$s Cal</string>
+    <string name="widget_sleep_average_calories">Dagelijks gemiddeld %1$sCal</string>
     <string name="widget_sleep_totaltime">Totale slaap %1$su %2$sm</string>
     <string name="widget_sleep_attained_unit">Score</string>
-    <string name="widget_sleep_conment">Heerlijk geslapen deze week, ga zo door!</string>
+    <string name="widget_sleep_conment">Heerlijk geslapen deze week, ga zo door！</string>
     <string name="weeklysports_title">Wekelijkse activiteit</string>
     <string name="weeklysports_totalnumber_front"># trainingen:</string>
     <string name="weeklysports_totalstep_front">Gewandeld</string>
@@ -184,13 +184,13 @@
     <string name="weeklysports_averageheart">Gemiddelde HR</string>
     <string name="weeklysports_averageheart_unit">BPM</string>
     <string name="weeklysports_runerrate">Looptempo</string>
-    <string name="weeklysports_outdoorrunrate">Lopen gem. tempo</string>
-    <string name="weeklysports_insiderunrate">Loopband gem. tempo</string>
-    <string name="weeklysports_crossrunrate">Cross-country gem. tempo</string>
+    <string name="weeklysports_outdoorrunrate">Lopen AVG tempo</string>
+    <string name="weeklysports_insiderunrate">Loopband AVG tempo</string>
+    <string name="weeklysports_crossrunrate">Cross-country AVG tempo</string>
     <string name="weeklysports_runerrate_unit_zh">/km</string>
     <string name="weeklysports_runerrate_unit_en">/mi</string>
     <string name="weeklysports_ridingrate">Fietssnelheid</string>
-    <string name="weeklysports_outdoorriding_average">Gem. snelheid voor fietsen buiten</string>
+    <string name="weeklysports_outdoorriding_average">AVG snelheid voor fietsen buiten</string>
     <string name="weeklysports_outdoorriding_max">Max. snelheid voor fietsen buiten</string>
     <string name="weeklysports_outdoorriding_unit_zh">km/u</string>
     <string name="weeklysports_outdoorriding_unit_en">mi/u</string>
@@ -214,16 +214,16 @@
     <string name="widget_currentstep_title">Gegevens</string>
     <string name="widget_currentstep_activities">"Vandaag"</string>
     <string name="widget_currentstep_sleep_hour">u</string>
-    <string name="widget_currentstep_sleep_min">min</string>
+    <string name="widget_currentstep_sleep_min">m</string>
     <string name="widget_currentstep_sleep_title">Geslapen vannacht</string>
     <string name="widget_currentstep_sleep_no">Geen slaapgegevens</string>
     <string name="widget_currentstep_activity_no">Geen beweging vandaag?</string>
     <string name="currentstep_detail_activity">Activiteit</string>
     <string name="currentstep_detail_running">Lopen</string>
-    <string name="currentstep_detail_walking">Wandelen</string>
+    <string name="currentstep_detail_walking">Wandel</string>
     <string name="currentstep_detail_riding">Fietsen</string>
-    <string name="currentstep_detail_swimming">Zwemmen</string>
-    <string name="currentstep_detail_mountain">Klimmen</string>
+    <string name="currentstep_detail_swimming">Zwem</string>
+    <string name="currentstep_detail_mountain">Klim</string>
     <string name="currentstep_detail_triathlon">Triathlon</string>
     <string name="currentstep_detail_triathlon_short">Triathlon</string>
     <string name="currentstep_detail_calories">Calorieën</string>
@@ -241,12 +241,12 @@
     <string name="currentstep_detail_activity_walk_ridding_rate_ma">Max. snelheid</string>
     <string name="currentstep_detail_activity_mount_total_disacend">Hoogtewinst</string>
     <string name="currentstep_detail_activity_mount_total_up">Hoogtewinst</string>
-    <string name="currentstep_detail_heart_rate_max_text">Max</string>
+    <string name="currentstep_detail_heart_rate_max_text">Max.</string>
     <string name="currentstep_detail_heart_rate_min_text">Min</string>
     <string name="currentstep_detail_heart_rate_quiet_text">Rustend</string>
     <string name="currentstep_detail_calories_unit">kCal</string>
     <string name="currentstep_detail_sleep_hour">u</string>
-    <string name="currentstep_detail_sleep_min">min</string>
+    <string name="currentstep_detail_sleep_min">m</string>
     <string name="currentstep_detail_heart_unit">BPM</string>
     <string name="currentstep_detail_walk_ridding_rate_unit_zh">km/u</string>
     <string name="currentstep_detail_walk_ridding_rate_unit_en">mi/u</string>
@@ -271,7 +271,7 @@
     <string name="stretch_connection_failed_content">Zorg ervoor dat het horloge is verbonden met je telefoon en dat de Amazfit Watch-app is gelanceerd</string>
     <string name="stretch_connection_failed_title">"Kan geen verbinding maken met telefoon"</string>
     <string name="stretch_dialog_button">Start rekoefeningen</string>
-    <string name="stretch_dialog_content">Rekoefeningen helpen stijve spieren los te maken na te veel te zitten, volg de instructies in de video om te rekken!</string>
+    <string name="stretch_dialog_content">Rekoefeningen helpen stijve spieren los te maken na te veel te zitten, volg de instructies in de video!</string>
     <string name="stretch_dialog_start">Start</string>
     <string name="stretch_dialog_subtitle">Je zit te veel vandaag</string>
     <string name="stretch_dialog_title">Tijd om te stretchen</string>
@@ -294,6 +294,6 @@
     <string name="sport_music_settings">Muziek</string>
     <string name="heart_rate_quite">Rust HR</string>
     <string name="widget_weeklyreports_heart_rate_min_reset_text">Min. HR</string>
-    <string name="widget_weeklyreports_heart_rate_max_reset_text">Max HR</string>
+    <string name="widget_weeklyreports_heart_rate_max_reset_text">Max. HR</string>
     <string name="widget_weeklyreports_average_reset_title">Rust HR</string>
 </resources>

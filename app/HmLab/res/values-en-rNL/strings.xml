@@ -9,7 +9,7 @@
 De gegevens worden uitsluitend gebruikt voor onderzoeksdoeleinden.
 Deze functie kan een negatieve invloed hebben op de levensduur van de batterij. "</string>
     <string name="allow">Toestaan</string>
-    <string name="exit">Sluiten</string>
+    <string name="exit">Sluit</string>
     <string name="message_everest">"We zullen PPG-gegevens verzamelen wanneer je het horloge draagt.
 De gegevens worden uitsluitend gebruikt voor onderzoeksdoeleinden.
 Deze functie kan een negatieve invloed hebben op de levensduur van de batterij."</string>
@@ -26,9 +26,9 @@ Deze functie kan een negatieve invloed hebben op de levensduur van de batterij."
     <string name="air_mode_alert_title">"Verbinden mislukt"</string>
     <string name="air_mode_alert_message">Vliegtuigmodus uitzetten en probeer opnieuw.</string>
     <string name="report_sensor_capture_dialog_title">Gegevensverzameling</string>
-    <string name="report_sensor_capture_dialog_desc">Nadat de acquisitie van de bewegingsgegevens is ingeschakeld, verzamelen we de originele informatie van de sensor na het begin van de oefening en stoppen we de acquisitie onmiddellijk na de oefening. Deze gegevens worden naar de server verzonden wanneer u feedback over het horlogeprobleem verstrekt voor analyse door onze klantenservice. Tijdens dit proces worden de eerder gegenereerde logboeken op het horloge automatisch verzameld en geüpload. Deze logboeken worden alleen gebruikt voor probleemanalyse en zullen niet als andere middelen worden gebruikt en zullen onmiddellijk na de analyse worden vernietigd. Het hele proces voldoet aan ons privacybeleid. Raadpleeg het privacybeleid van de Amazfit Watch-app voor meer informatie.</string>
+    <string name="report_sensor_capture_dialog_desc">Nadat de acquisitie van de bewegingsgegevens is ingeschakeld, start de opnamen en stopt deze onmiddellijk na de oefening. De gegevens worden naar de server verzonden wanneer u feedback over het horlogeprobleem verstrekt voor analyse. Tijdens dit proces worden eerder gegenereerde logboeken op het horloge automatisch verzameld en geüploaded. Deze logboeken worden alleen gebruikt voor probleemanalyse en zullen onmiddellijk na de analyse worden vernietigd.</string>
     <string name="dialog_agree">Akkoord</string>
-    <string name="dialog_quit">Quit</string>
+    <string name="dialog_quit">Sluit</string>
     <string name="average_text">Gemiddeld</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">OK</string>
@@ -40,7 +40,7 @@ Deze functie kan een negatieve invloed hebben op de levensduur van de batterij."
     <string name="widget_currentstep_title">Gegevens</string>
     <string name="widget_currentstep_activities">"Vandaag"</string>
     <string name="widget_currentstep_sleep_hour">u</string>
-    <string name="widget_currentstep_sleep_min">min</string>
+    <string name="widget_currentstep_sleep_min">m</string>
     <string name="widget_currentstep_sleep_title">Geslapen vannacht</string>
     <string name="widget_currentstep_sleep_no">Geen slaapgegevens</string>
     <string name="widget_currentstep_activity_no">Geen beweging vandaag?</string>

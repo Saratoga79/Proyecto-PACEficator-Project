@@ -44,12 +44,12 @@ Gebruik een geschikte oplader"</string>
     <string name="usb_device_confirm_prompt">%1$s openen wanneer een USB-apparaat is aangesloten?</string>
     <string name="usb_accessory_confirm_prompt">%1$s openen wanneer dit USB-accessoire is aangesloten?</string>
     <string name="usb_accessory_uri_prompt">Er werken geen geïnstalleerde apps met dit USB-accessoir. Lees meer over dit accessoire op %1$s</string>
-    <string name="title_usb_accessory">USB-accessoire</string>
+    <string name="title_usb_accessory">USB-toebehoren</string>
     <string name="label_view">Bekijk</string>
     <string name="always_use_device">Gebruik standaard voor dit USB-apparaat</string>
-    <string name="always_use_accessory">Gebruik standaard voor dit USB-accessoire</string>
+    <string name="always_use_accessory">Gebruik standaard voor dit USB-toebehoren</string>
     <string name="usb_debugging_title">Accepteer USB-foutopsporing?</string>
-    <string name="usb_debugging_message">"De vingerafdruk van de navigatietoets is als volgt:
+    <string name="usb_debugging_message">"De RSA vingerafdruk is:
 %1$s"</string>
     <string name="usb_debugging_always">Accepteer altijd van deze computer</string>
     <string name="compat_mode_on">Vergroot het scherm om te voltooien</string>
@@ -187,8 +187,8 @@ Gebruik een geschikte oplader"</string>
     <string name="accessibility_quick_settings_hotspot_changed_on">Mobiele hotspot ingeschakeld.</string>
     <string name="accessibility_casting_turned_off">Casten van scherm gestopt.</string>
     <string name="accessibility_brightness">Scherm helderheid</string>
-    <string name="data_usage_disabled_dialog_3g_title">2G/3G-data uitgeschakeld</string>
-    <string name="data_usage_disabled_dialog_4g_title">4G-data uit</string>
+    <string name="data_usage_disabled_dialog_3g_title">2G/3G uitgeschakeld</string>
+    <string name="data_usage_disabled_dialog_4g_title">4G uitgeschakeld</string>
     <string name="data_usage_disabled_dialog_mobile_title">Mobiele data uit</string>
     <string name="data_usage_disabled_dialog_title">Data uit</string>
     <string name="data_usage_disabled_dialog">"Uw apparaat heeft de gegevens uitgeschakeld omdat het de limiet heeft bereikt die u hebt ingesteld.
@@ -314,7 +314,7 @@ Het terugzetten van het apparaat kan leiden tot kosten van uw vervoerder."</stri
     <string name="battery_saver_notification_text">Vermindert prestaties en achtergrondgegevens</string>
     <string name="battery_saver_notification_action_text">Zet accubesparing uit</string>
     <string name="notification_hidden_text">Inhoud verborgen</string>
-    <string name="media_projection_dialog_text">"%s zal beginnen met het vastleggen van alles wat op je scherm wordt weergegeven."</string>
+    <string name="media_projection_dialog_text">"%s zal alles opnemen wat op het scherm wordt weergegeven."</string>
     <string name="media_projection_remember_text">"Niet opnieuw tonen"</string>
     <string name="clear_all_notifications_text">Alles wissen</string>
     <string name="media_projection_action_text">Start nu</string>
@@ -440,7 +440,7 @@ Ook ben u verbonden met een VPN (\"%3$s\"). Uw VPN-serviceprovider kan de netwer
     <string name="keyguard_sim_unlock_progress_dialog_message">Simkaart ontgrendelen…</string>
     <string name="keyguard_widget_12_hours_format">umm</string>
     <string name="keyguard_widget_24_hours_format">kkmm</string>
-    <string name="keyguard_accessibility_widget_changed">%1$s. Widget %2$dvan %3$d.</string>
+    <string name="keyguard_accessibility_widget_changed">%1$s. Widget %2$d van %3$d.</string>
     <string name="keyguard_accessibility_add_widget">Widget toevoegen.</string>
     <string name="keyguard_accessibility_widget_empty_slot">Leeg</string>
     <string name="keyguard_accessibility_unlock_area_expanded">Ontgrendelingsgebied uitgevouwen.</string>
