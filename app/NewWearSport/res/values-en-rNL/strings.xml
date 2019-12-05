@@ -35,14 +35,14 @@
     <string name="crossing_history_detail_absolute_altitude">Hoogte</string>
     <string name="crossing_history_detail_high_altitude">Max. Hoogte</string>
     <string name="crossing_history_detail_low_altitude">Min Hoogte</string>
-    <string name="crossing_history_detail_ave_altitude">Gemiddelde hoogte</string>
+    <string name="crossing_history_detail_ave_altitude">AVG hoogte</string>
     <string name="crossing_history_detail_altituede_graph_desc">Hoogte (meter)</string>
     <string name="crossing_history_detail_individual_km"><font color="#ff09ff00"><b>%1$s</b></font>km/ronde</string>
     <string name="crossing_setting_unit">km</string>
     <string name="crossing_settings_item_title_individual_remind">Rondelengte</string>
     <string name="crossing_settings_item_value_individual">%1s km</string>
     <string name="crossing_remind_target_individual_title">Ronde %1d</string>
-    <string name="crossing_remind_target_individual_cost_time">Elapsed Time</string>
+    <string name="crossing_remind_target_individual_cost_time">Tijdsdoel</string>
     <string name="crossing_remind_target_individual_pace">Tempo</string>
     <string name="agps_time_out">AGPS verlopen. GPS-zoeken zal traag verlopen. Verbind met Amazfit app om te updaten.</string>
     <string name="safe_hearate_remind_content">Indien boven %1d BPM</string>
@@ -102,7 +102,7 @@
     <string name="battery_continue_imperial_distance_unit"> mi</string>
     <string name="battery_continue_time_unit">u</string>
     <string name="battery_split"> / </string>
-    <string name="suggest_reset_time">Recuperatie: %1$su</string>
+    <string name="suggest_reset_time">Herstel: %1$su</string>
     <string name="remain_time_recovery"><Data>Volledig herstel&amp;nbsp;&lt;font color=#00ff00&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;/font&gt;&amp;nbsp;u</Data></string>
     <string name="more_sport_tint">Meer</string>
     <string name="zh_space">　</string>
@@ -110,7 +110,7 @@
     <string name="picker_title_auto_pause">Tempo (m:s/%1$s)</string>
     <string name="picker_title_auto_pause_speed">Snelheid (%1$s/u)</string>
     <string name="picker_title_target_dis">Afstand (%1$s)</string>
-    <string name="picker_title_target_time">Verstreken tijd (u/m)</string>
+    <string name="picker_title_target_time">Tijd (u/m)</string>
     <string name="picker_title_target_calorie">Calorieën (kCal)</string>
     <string name="picker_title_target_te">TE-Doel</string>
     <string name="picker_title_target_heart_rate">Hartslag (BPM)</string>
@@ -145,7 +145,7 @@
     <string name="settings_sport_rt_guide">Begeleiding</string>
     <string name="settings_sport_auto_pace_title">Pauzeer op tempo</string>
     <string name="settings_sport_auto_speed_title">Pauzeer op snelheid</string>
-    <string name="settings_content_stand_still">Standing Still</string>
+    <string name="settings_content_stand_still">Bij stilstaan</string>
     <string name="settings_sport_bg_type">Achtergrondkleur</string>
     <string name="settings_sport_bg_type_normal">Zwart</string>
     <string name="settings_sport_bg_type_white">Wit</string>
@@ -159,7 +159,7 @@
     <string name="setting_auto_pause_speed">"Indien langzamer dan &lt;%1$skm/u"</string>
     <string name="setting_auto_pause_pace">"Wanneer langzamer dan %1$s"</string>
     <string name="setting_no_set_target">Niet ingesteld</string>
-    <string name="sport_settings_by_te">Taining Effect (TE)</string>
+    <string name="sport_settings_by_te">Trainingseffect (TE)</string>
     <string name="sport_settings_by_sport_data">Andere metingen</string>
     <string name="sport_settings_no_set">Doel niet instellen</string>
     <string name="sport_settings_te_title">Selecteer</string>
@@ -187,7 +187,7 @@
     <string name="history_step_freq_graph_desc">Cadans (passen/min)</string>
     <string name="history_title">Activiteiten</string>
     <string name="history_detail_info">Details</string>
-    <string name="hitory_rest_command">Duur recuperatie</string>
+    <string name="hitory_rest_command">Duur herstel</string>
     <string name="hitory_rest_command_time"> u</string>
     <string name="history_month_target_title">Maandelijks doel</string>
     <string name="history_month_dis">%1$s/%2$dkm</string>
@@ -214,13 +214,13 @@
     <string name="sport_confirm_not_stop_sport">Nee</string>
     <string name="sport_main_am">AM</string>
     <string name="sport_main_pm">PM</string>
-    <string name="sport_main_recovery_title">Aanbevolen recuperatie</string>
-    <string name="sport_history_full_recovery">Totale recuperatie</string>
-    <string name="sport_main_avg_stride">Gemiddelde paslengte</string>
+    <string name="sport_main_recovery_title">Aanbevolen herstel</string>
+    <string name="sport_history_full_recovery">Volledig herstel</string>
+    <string name="sport_main_avg_stride">AVG paslengte</string>
     <string name="sport_main_stride">Paslengte</string>
     <string name="sport_main_total_kcal">Calorieën</string>
     <string name="sport_main_avg_stride_unit">cm/pas</string>
-    <string name="sport_main_avg_heart_rate">Gemiddelde HR</string>
+    <string name="sport_main_avg_heart_rate">AVG HR</string>
     <string name="sport_main_max_heart_rate">Max. HR</string>
     <string name="sport_main_min_heart_rate">Min HR</string>
     <string name="sport_main_graph_title">Recentste (min)</string>
@@ -327,12 +327,12 @@
     <string name="swim_trips_unit">lengtes (%1$dm/lengte)</string>
     <string name="swim_trips_unit_yd">(%1$d yards/trip)</string>
     <string name="heart_region_title">Hartslagzone</string>
-    <string name="heart_region_anaerobic＿limit">VO₂ max</string>
+    <string name="heart_region_anaerobic＿limit">Maximum</string>
     <string name="heart_region_endurance_enhancement">Anaerobisch</string>
     <string name="heart_region_heart_and_lung_enhancement">Aerobisch</string>
     <string name="heart_region_fat_burning">Intensief</string>
     <string name="heart_region_warm_up_and_relax">Opwarmen</string>
-    <string name="sport_te_title">Training Effect (TE)</string>
+    <string name="sport_te_title">Trainingseffect (TE)</string>
     <string name="sport_te_desc"><Data>"Het effect van de workout is &lt;font color=#FFFF00&gt;gemiddeld&lt;/font&gt;, waardoor cardiorespiratore conditie behouden blijft."</Data></string>
     <string name="last_kilo_meters_times">Tijd laatste km</string>
     <string name="last_mi_times">Tijd van laatste mijl</string>
@@ -505,19 +505,19 @@ op basis van de oefeningen die in de afgelopen
     <string name="sport_te_desc_level_06">Overbelasting van het lichaam.</string>
     <string name="first_beat_remind_txt_01">Dit is een goed tempo.</string>
     <string name="first_beat_remind_txt_02">Dit is een goed tempo. Hou dit enkele minuten aan.</string>
-    <string name="sport_history_recovery_remind">"Plan onderhoudende workouts om volledig herstel te bespoedigen."</string>
+    <string name="sport_history_recovery_remind">"Plan onderhoudende workouts om het herstel te bespoedigen."</string>
     <string name="daily_propermance_has_no_data">Geen gegevens</string>
     <string name="first_beat_help_title_vo2_max">VO₂ max</string>
-    <string name="first_beat_help_title_train_efffect">Training Effect (TE)</string>
+    <string name="first_beat_help_title_train_efffect">Trainingseffect (TE)</string>
     <string name="first_beat_help_title_train_load">Training Load</string>
     <string name="first_beat_help_title_sport_target_or_real_time_guide">Aanbevolen loopdoelen &amp; Realtime Coaching</string>
     <string name="first_beat_help_title_daily_perpormence">Lichaamsstatus</string>
-    <string name="first_beat_help_title_recovery_time">Recuperatie</string>
+    <string name="first_beat_help_title_recovery_time">Herstel</string>
     <string name="first_beat_help_vo2_max">"&lt;font color=#00FF00&gt;Wat is dit？&lt;/font&gt;&lt;br/&gt; VO₂max staat voor het maximale zuurstofvolume dat het lichaam in één minuut kan consumeren, gemeten in ml/kg/min. Het geeft de toestand van de cardiorespiratoire fitheid weer, wat belangrijk is voor de algehele gezondheid, welzijn en sportprestatie.&lt;br/&gt;Het horloge evalueert automatisch uw VO₂max op basis van hartslag, snelheid enz. tijdens een hardlooptraining van matige intensiteit en vergelijkt die met een referentiegroep van dezelfde leeftijd en geslacht om uw fitnessniveau te bepalen.&lt;br/&gt;&lt;font color=#00FF00&gt;Hoe gebruiken?&lt;/font&gt;&lt;br/&gt; 1. Geef nauwkeurige profielinformatie zoals leeftijd en geslacht in de Amazfit Watch-app； &lt;br/&gt; 2. Neem een ​​stevige (15 minuten of meer) hardloopsessie en zorg ervoor dat de hartslag gedurende minstens 10 minuten op of boven 75% van uw maxHR ligt.&lt;br/&gt; 3. Na het voltooien van de run, kun je de huidige VO₂max bekijken in de sportactiviteiten-app op het horloge of persoonlijke statuspagina in de Amazift Watch-app."</string>
-    <string name="first_beat_help_te">&lt;font color=#00FF00&gt;What is dit?&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Training Effect (TE) meet de geaccumuleerde belasting tijdens een training en interpreteert de impact ervan op uw aerobe conditie. TE begint vanaf niveau 0.0. Naarmate de training met succes vordert, neemt de TE-waarde toe (van 0 naar 5), en vertelt u hoe de training uw conditie beïnvloedt.&lt;br/&gt;&lt;font color=#00FF00&gt;Hoe wordt dit berekend? &lt;/font&gt;&lt;br/&gt; TE wordt berekend op basis van uw gebruikersprofiel, hartslaggegevens en moeilijkheidsgraad van de training.&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Het horloge toont realtime TE-meting tijdens een training en het uiteindelijke TE-resultaat aan het einde van de training. Een &lt;2,0 TE geeft gewoon aan dat de training weinig effect heeft op de cardiorespiratoire conditie en alleen nuttig is voor het opbouwen van een uithoudingsvermogen en herstel.&lt;br/&gt;&lt;small&amp;gt</string>
+    <string name="first_beat_help_te">&lt;font color=#00FF00&gt;Wat is dit? &lt;/font&gt;&lt;br/&gt; Meting van de geaccumuleerde belasting tijdens een training en interpretatie van de impact ervan op uw aerobe conditie. TE begint vanaf niveau 0.0. Naarmate de training met succes vordert, neemt de TE-waarde toe (van 0 tot 5) en vertelt u hoe de training uw conditie beïnvloedt.&lt;br/&gt;&lt;font color=#00FF00&gt;Hoe wordt dit berekend? &lt;/font&gt;&lt;br/&gt; TE wordt berekend op basis van uw gebruikersprofiel, hartslaggegevens en moeilijkheidsgraad van de training. Het horloge toont realtime TE-meting tijdens een training en het uiteindelijke TE-resultaat aan het einde van de training. Een &lt;2,0 TE geeft gewoon aan dat de training weinig effect heeft op de cardiorespiratoire conditie en alleen nuttig is voor het opbouwen van uithoudingsvermogen en herstel.&lt;br/&gt;&lt;small&amp;gt</string>
     <string name="first_beat_help_train_load">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Het horloge zal de trainingsbelasting berekenen op basis van EPOC-waarden (zuurstofverbruik na training) die zijn verzameld uit hartslaggegevens tijdens trainingen geregistreerd, in een 7-dagen rollend venster. De gebruiker kan het trainingsschema aanpassen om een ​​optimale belasting te bereiken. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&amp;gt</string>
-    <string name="first_beat_help_run_target_and_real_time_guide">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Het horloge geeft een trainingsaanbeveling op basis van uw VO₂ max fitnessniveau, recente trainingsbelasting en herstelstatus van vorige training. 
-&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Indien u de realtime coachingsfunctie in de instellingen inschakelt en een TE-doel instelt of een van de aanbevolen trainingen kiest, zal het horloge u door de training leiden en u waarschuwen om het tempo en de hartslag aan te passen om vastgestelde doelen te bereiken.&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;small&gt;For more details, view Help in Amazfit Watch app.&lt;/small&gt;</string>
+    <string name="first_beat_help_run_target_and_real_time_guide">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Het horloge geeft een trainingsaanbeveling op basis van uw VO₂ max -niveau, recente trainingsbelasting en herstelstatus van vorige training. 
+&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Indien u de realtime coachingsfunctie in de instellingen inschakelt en een TE-doel instelt of een van de aanbevolen trainingen kiest, zal het horloge u door de training leiden en u waarschuwen om het tempo en de hartslag aan te passen om vastgestelde doelen te bereiken.</string>
     <string name="first_beat_help_daily_perpormence">"&lt;font color=#00FF00&gt;What is this?&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Realtime prestatieconditie geeft aan of u boven of onder uw gemiddelde prestatieniveau bent en hoe accumulerende vermoeidheid uw prestaties beïnvloedt.
 &lt;br/&gt;&lt;font color=#00FF00&gt;Hoe werkt het？ &lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Het horloge evalueert uw prestaties automatisch na ~6minuten hardlopen. Een hogere waarde dan gemiddeld geeft aan dat u een zwaardere training aankunt dan u normaal zou doen. Een lagere waarde suggereert dat u een gemakkelijkere training moet nemen.
 &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Na het voltooien van een training kunt u de prestaties analyseren door naar het resultaat bij elke km in de grafiek te bekijken. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;"</string>
@@ -548,9 +548,9 @@ op basis van de oefeningen die in de afgelopen
     <string name="dialog_remind_to_look_route">Route bekijken</string>
     <string name="gpx_offset_route">Afwijkende route</string>
     <string name="gpx_back_route">Terug naar route</string>
-    <string name="gpx_alreay_offset">Wijk af</string>
-    <string name="gpx_no_find_route">Geen spoor gevonden</string>
-    <string name="gpx_no_route_guide">"Sluit horloge aan op de computer, kopieer GPX-bestand naar map 'gpxdata' en probeer opnieuw"</string>
+    <string name="gpx_alreay_offset">Afgeweken</string>
+    <string name="gpx_no_find_route">Geen route gevonden</string>
+    <string name="gpx_no_route_guide">"Sluit horloge aan op een computer, kopieer GPX-bestand naar map 'gpxdata' en probeer opnieuw"</string>
     <string name="bpm_to">BPM tot</string>
     <string name="indoor_run_progressing">Loopband</string>
     <string name="run_train_title">Loop training</string>
@@ -597,7 +597,7 @@ op basis van de oefeningen die in de afgelopen
     <string name="outdoor_climb_distance">Grondsnelheid</string>
     <string name="outdoor_climb_altitude">Hoogtewinst</string>
     <string name="outdoor_max_cadence">Max. cadans</string>
-    <string name="outdoor_ave_cadence">Gemiddelde cadans</string>
+    <string name="outdoor_ave_cadence">AVG cadans</string>
     <string name="outdoor_graph_unit">Afstand (km)</string>
     <string name="outdoor_speed_graph_title">Snelheid (km/u)</string>
     <string name="not_testing_speed_data">"Snelheidsgegevens niet gedetecteerd"</string>
@@ -734,7 +734,7 @@ op basis van de oefeningen die in de afgelopen
     <string name="running_distance_desc">Afstand</string>
     <string name="running_heartrate_desc">Hartslag</string>
     <string name="running_avg_pace_desc">Gemiddeld tempo</string>
-    <string name="running_avg_speed_desc">Gemiddelde snelheid</string>
+    <string name="running_avg_speed_desc">AVG snelheid</string>
     <string name="walking_step_count">Passen</string>
     <string name="crossing_vertical_speed">Vertikale Snelheid</string>
     <string name="sport_widget_title">Sporten</string>
@@ -768,12 +768,12 @@ op basis van de oefeningen die in de afgelopen
     <string name="running_speed_unit">km/u</string>
     <string name="running_distance_unit">km</string>
     <string name="running_heartrate_unit">BPM</string>
-    <string name="running_realtime_trail_desc">Routes</string>
+    <string name="running_realtime_trail_desc">Route</string>
     <string name="running_control_title">Lopen</string>
     <string name="running_control_paused_des">Gepauzeerd</string>
     <string name="sport_history_item_distance_desc">Afstand (km)</string>
     <string name="sport_history_item_cost_time_desc">Tijd</string>
-    <string name="running_avg_step_freq_desc">Gemiddelde cadans</string>
+    <string name="running_avg_step_freq_desc">AVG cadans</string>
     <string name="running_stop_dialog_msg_reach_minimum_distance">Activiteit stoppen?</string>
     <string name="running_stop_dialog_msg_not_reach_minimum_distance">De afstand is te kort om op te slaan. Weet je zeker dat je stopt?</string>
     <string name="running_stop_dialog_positive_text">Stop</string>
@@ -783,7 +783,7 @@ op basis van de oefeningen die in de afgelopen
     <string name="sport_history_header_calorie_desc">Calorieën</string>
     <string name="history_heart_rate_desc">Hartslag:</string>
     <string name="history_heart_rate_unit">BPM</string>
-    <string name="history_info_cost_time_desc">Elapsed Time</string>
+    <string name="history_info_cost_time_desc">Tijd</string>
     <string name="history_detail_paused_time">Pauze</string>
     <string name="history_detail_running_title">Lopen</string>
     <string name="history_detail_walking_title">Wandelen</string>
@@ -856,7 +856,7 @@ op basis van de oefeningen die in de afgelopen
     <string name="remind_target_km_title_format">%1$dkm afgelegd</string>
     <string name="remind_target_km_walking_title_format">%1$dkm afgelegd</string>
     <string name="remind_target_distance_finished">Voltooid</string>
-    <string name="remind_target_cost_time_desc">Elapsed Time</string>
+    <string name="remind_target_cost_time_desc">Tijd</string>
     <string name="remind_target_pace_desc">Tempo</string>
     <string name="remind_target_distance_pace_unit">/km</string>
     <string name="remind_heart_rate_too_high">Hartslag te hoog</string>
