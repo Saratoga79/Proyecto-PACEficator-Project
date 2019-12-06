@@ -521,8 +521,8 @@ op basis van de oefeningen die in de afgelopen
     <string name="first_beat_help_daily_perpormence">"&lt;font color=#00FF00&gt;What is this?&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Realtime prestatieconditie geeft aan of u boven of onder uw gemiddelde prestatieniveau bent en hoe accumulerende vermoeidheid uw prestaties beïnvloedt.
 &lt;br/&gt;&lt;font color=#00FF00&gt;Hoe werkt het？ &lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Het horloge evalueert uw prestaties automatisch na ~6minuten hardlopen. Een hogere waarde dan gemiddeld geeft aan dat u een zwaardere training aankunt dan u normaal zou doen. Een lagere waarde suggereert dat u een gemakkelijkere training moet nemen.
 &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Na het voltooien van een training kunt u de prestaties analyseren door naar het resultaat bij elke km in de grafiek te bekijken. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;"</string>
-    <string name="first_beat_help_recovery_time">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Na het voltooien van een workout zal je de tijd in minuten krijgen voor volledig herstel. De gebruiker wordt aangemoedigd om enkele laag-intensieve workouts te hebben om het herstel te bespoedigen.
-&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;</string>
+    <string name="first_beat_help_recovery_time">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Na een voltooide workout zal je de tijd in minuten krijgen voor volledig herstel. De gebruiker wordt aangemoedigd om enkele laag-intensieve workouts te houden om het herstel te bespoedigen.
+&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;Zie ook Amazfit app.&lt;/small&gt;</string>
     <string name="vo2max_unit">ml/kg/min</string>
     <string name="run_vo2max_unit">ml/kg/min</string>
     <string name="vo2_max_has_no_data">Geen gegevens</string>
@@ -880,7 +880,7 @@ op basis van de oefeningen die in de afgelopen
     <string name="wait_gps_no_gps_signal">GPS niet beschikbaar, probeer in open ruimte</string>
     <string name="wait_gps_search_retry">Opnieuw proberen</string>
     <string name="wait_gps_hint">Het GPS-signaal is beter in de open ruimte, ver weg van gebouwen</string>
-    <string name="wait_gps_success">GPS beschikbaar, u kunt nu met de training beginnen</string>
+    <string name="wait_gps_success">GPS beschikbaar, training kan beginnen</string>
     <string name="lock_screen">Scherm vergrendeld</string>
     <string name="txt_unlock_screen">Houd het scherm ingedrukt om te ontgrendelen</string>
     <string name="sport_screen_un_lock">Ontgrendeld</string>
