@@ -118,8 +118,8 @@
     <string name="dlg_cancel">Cancelar</string>
     <string name="am">AM</string>
     <string name="pm">PM</string>
-    <string name="all_day_hearte_rate_button_open">Habilitar RC contínuo</string>
-    <string name="all_day_hearte_rate_button_close">Desactivar RC contínuo</string>
+    <string name="all_day_hearte_rate_button_open">Habilitar RC continuo</string>
+    <string name="all_day_hearte_rate_button_close">Desactivar RC continuo</string>
     <string name="heart_rate_no_data">N/A</string>
     <string name="label_heart_rate_text">Ritmo Cardíaco</string>
     <string name="today_heart_rate_title_text">Detalles</string>
@@ -128,7 +128,7 @@
     <string name="today_heart_rate_min_text">Min (ppm)</string>
     <string name="today_heart_rate_quite_text">En reposo (ppm)</string>
     <string name="today_heart_rate_value_def">--</string>
-    <string name="label_all_day_heartrate">RC contínuo</string>
+    <string name="label_all_day_heartrate">RC continuo</string>
     <string name="label_all_day_heartrate_open">Habilitado</string>
     <string name="label_all_day_heartrate_close">Inhabilitado</string>
     <string name="label_all_day_heartrate_cancle">Cancelar</string>
@@ -305,8 +305,8 @@
     <string name="abnormal_heart_sure">OK</string>
     <string name="abnormal_heart_today_no_hint">No avisarme más hoy</string>
     <string name="label_afib_alert">Monitoreo de RC anormal</string>
-    <string name="label_afib_alert_hint">Monitoreo contúnuo del RC anormal</string>
-    <string name="label_afib_waring">The monitoring results are for reference only and are not used for medical purposes. If you feel unwell, consult your doctor. Enabling this feature will monitor continuous HR, which will greatly reduce battery life. Are you sure you want to enable it?</string>
-    <string name="abnormal_heart_sure_know">Do you agree?</string>
-    <string name="abnormal_heart_all_day_heartrate_waring">Enabling continuous HR will reduce battery life, make sure to turn on？</string>
+    <string name="label_afib_alert_hint">Monitoreo continuo del RC anormal</string>
+    <string name="label_afib_waring">Los resultados monitoreados son como referencia y no se usarán para propósitos médicos. Si te sientes indispuesto, consulta a tu médico. Si lo activas, monitoreará continuamente el RC y hará que la batería dure menos ¿estás seguro?</string>
+    <string name="abnormal_heart_sure_know">¿Aceptas?</string>
+    <string name="abnormal_heart_all_day_heartrate_waring">Activar el RC continuo gastará más batería ¿estás seguro?</string>
 </resources>
