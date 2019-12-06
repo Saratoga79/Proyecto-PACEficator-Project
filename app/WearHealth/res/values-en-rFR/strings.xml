@@ -306,4 +306,9 @@
     <string name="abnormal_heart_hint">Abnormal heart-beat detected</string>
     <string name="abnormal_heart_sure">OK</string>
     <string name="abnormal_heart_today_no_hint">No more reminders today</string>
+    <string name="label_afib_alert">Abnormal HR monitoring</string>
+    <string name="label_afib_alert_hint">Continuous monitoring of abnormal HR after turning on</string>
+    <string name="label_afib_waring">The monitoring results are for reference only and are not used for medical purposes. If you feel unwell, consult your doctor. Enabling this feature will monitor continuous HR, which will greatly reduce battery life. Are you sure you want to enable it?</string>
+    <string name="abnormal_heart_sure_know">Do you agree?</string>
+    <string name="abnormal_heart_all_day_heartrate_waring">Enabling continuous HR will reduce battery life, make sure to turn on？</string>
 </resources>
