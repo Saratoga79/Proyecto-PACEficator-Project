@@ -1,13 +1,85 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="sport_data_item_array">
+        <item></item>
+        <item>Time</item>
+        <item>Distance</item>
+        <item>Pace</item>
+        <item>Avg pace</item>
+        <item>Heart rate</item>
+        <item>Calories</item>
+        <item>Altitude</item>
+        <item>Elev gain</item>
+        <item>Elev loss</item>
+        <item>Speed</item>
+        <item>Avg speed</item>
+        <item>Cadence</item>
+        <item>Dist gain</item>
+        <item>Steps</item>
+        <item>Cadence</item>
+        <item>Laps</item>
+        <item>DPS</item>
+        <item>Stroke rate</item>
+        <item>Avg SPM</item>
+        <item>Pace</item>
+        <item>Avg pace</item>
+        <item>Distance</item>
+        <item>TE</item>
+        <item>Vert speed</item>
+        <item>Avg speed</item>
+        <item>Max speed</item>
+        <item>Laps</item>
+        <item>Downhill</item>
+        <item>Total downhill</item>
+        <item>Descent</item>
+        <item>Strokes</item>
+        <item>Lap time</item>
+        <item>Lap pace</item>
+        <item>Lap speed</item>
+        <item>Lap HR</item>
+        <item>Lap cadence</item>
+        <item>Lap pace</item>
+        <item>Current freq</item>
+        <item>Total count</item>
+        <item>Avg freq</item>
+        <item>Groups</item>
+        <item>Lap count</item>
+        <item>Lap time</item>
+        <item>Lap freq</item>
+        <item>Lap time</item>
+        <item>Lap dist.</item>
+        <item>Lap pace</item>
+        <item>Speed for this lap</item>
+        <item>Heart rate in this lap</item>
+        <item>Lap freq.</item>
+        <item>slope</item>
+        <item>Calories</item>
+        <item>Avg. HR</item>
+        <item>Paddles of this set</item>
+        <item>Frequency</item>
+        <item>Total paddles</item>
+        <item>Paddle frequency</item>
+        <item>Pulling duration</item>
+        <item>Pushing duration</item>
+        <item>Avg. Freq.</item>
+    </string-array>
+    <string-array name="sport_train_item">
+        <item>Remaining distance</item>
+        <item>Total distance</item>
+        <item>Total time</item>
+        <item>Remaining time</item>
+        <item>Distance</item>
+        <item>Remaining</item>
+        <item>Has rested</item>
+    </string-array>
     <string-array name="lab_item_android_settings">
-        <item>[prim]原系统设置</item>
-        <item>[sum]Android的设置</item>
+        <item>[prim]Original system settings</item>
+        <item>[sum]Settings of Android</item>
         <item>[pkg]com.android.settings</item>
     </string-array>
     <string-array name="lab_item_logger">
         <item>[prim]WearLogger</item>
-        <item>[sum]一键抓log ^_^</item>
+        <item>[sum]One-click crawling log ^_^</item>
         <item>[pkg]com.huami.watch.wearlogger</item>
         <item>[clazz]com.huami.watch.wearlogger.AllLogActivityLab</item>
     </string-array>
@@ -18,7 +90,7 @@
     </string-array>
     <string-array name="lab_item_open_applist">
         <item>[prim]Launcher Applist</item>
-        <item>[sum]打开或关闭applist</item>
+        <item>[sum]Open or close applist</item>
         <item>[sid]applist</item>
     </string-array>
     <string-array name="lab_item_bt_hci_snoop_log">
@@ -26,9 +98,14 @@
         <item>[sum]Capture Bluetooth HCI log</item>
         <item>[sid]btsnoop</item>
     </string-array>
+    <string-array name="lab_item_power_test">
+        <item>[prim]Power consumption test in flight mode</item>
+        <item>[sum]Detect power consumption in flight mode</item>
+        <item>[sid]power_test</item>
+    </string-array>
     <string-array name="lab_item_long_sitting_timer_plus">
-        <item>[prim]久坐提醒时间</item>
-        <item>[sum]设置久坐提醒时间分钟数</item>
+        <item>[prim]Time of sedentary reminder</item>
+        <item>[sum]Set the time of sedentary reminder (in min)</item>
         <item>[pkg]com.huami.mobile.watchsettings</item>
         <item>[clazz]com.huami.moblie.watchsettings.actions.lab.labUI.LongSittingTimeActivity</item>
     </string-array>
@@ -42,6 +119,16 @@
         <item>[prim]pointer location</item>
         <item>[sum]open/close pointer</item>
         <item>[sid]pointer_location</item>
+    </string-array>
+    <string-array name="lab_item_open_show_model">
+        <item>[prim]Demo Mode</item>
+        <item>[sum]on/off</item>
+        <item>[sid]show_model</item>
+    </string-array>
+    <string-array name="lab_item_update_mcu_resource">
+        <item>[prim]Update MCU Resources</item>
+        <item>[sum]Press to update</item>
+        <item>[sid]update_mcu</item>
     </string-array>
     <string-array name="time_zone_ids">
         <item>Pacific/Midway</item>
@@ -222,31 +309,5 @@
         <item>Brightness: 3</item>
         <item>Brightness: 4</item>
         <item>Brightness: 5</item>
-    </string-array>
-    <string-array name="sport_array">
-        <item>跑 步</item>
-        <item>健 走</item>
-        <item>越野跑</item>
-        <item>室内跑</item>
-        <item>户外骑行</item>
-        <item>泳池游泳</item>
-        <item>公开水域游泳</item>
-        <item>室内骑行</item>
-        <item>椭圆机</item>
-        <item>登 山</item>
-        <item>铁人三项</item>
-    </string-array>
-    <string-array name="plugins_array">
-        <item>跑 步</item>
-        <item>健 走</item>
-        <item>越野跑</item>
-        <item>室内跑</item>
-        <item>户外骑行</item>
-        <item>泳池游泳</item>
-        <item>公开水域游泳</item>
-        <item>室内骑行</item>
-        <item>椭圆机</item>
-        <item>登 山</item>
-        <item>铁人三项</item>
     </string-array>
 </resources>
