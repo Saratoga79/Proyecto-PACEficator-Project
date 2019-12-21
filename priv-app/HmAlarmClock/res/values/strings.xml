@@ -31,8 +31,8 @@
     <string name="hour_unit">Hour</string>
     <string name="minute_unit">Minute</string>
     <string name="snooze_button">Snooze</string>
-    <string name="snooze_10_min_button">10 min later</string>
-    <string name="dimiss_button">Turn off</string>
+    <string name="snooze_10_min_button">Snooze</string>
+    <string name="dimiss_button">Stop</string>
     <string name="stop_watch_left_button_positive">Lap</string>
     <string name="stop_watch_left_button_negative">Reset</string>
     <string name="stop_watch_right_button_positive">Resume</string>
@@ -54,8 +54,8 @@
     <string name="count_down_wrong_time_tips">Set a valid time</string>
     <string name="count_down_del_time">Delete this timer?</string>
     <string name="title_unit">Unit (h:m)</string>
-    <string name="clock_max_limit_title">Max number of alarms reached</string>
-    <string name="clock_max_limit_content">A maximum of 10 alarms are allowed. Please edit or delete some alarms.</string>
+    <string name="clock_max_limit_title">Alarm full</string>
+    <string name="clock_max_limit_content">It can hold up to 10 alarms.</string>
     <string name="missed_clock">"You've missed the alarm at %1$s"</string>
     <string name="snooze_clock_time_arrival">Sound again in %1$d min</string>
     <string name="average_text">Average</string>
@@ -110,11 +110,11 @@
     <string name="gps_close_1">No movement for a long time,</string>
     <string name="gps_close_2">GPS has been turned off.</string>
     <string name="heartrate">Heart rate</string>
-    <string name="warmup">Light</string>
-    <string name="fatburn">Intensive</string>
+    <string name="warmup">Warm Up</string>
+    <string name="fatburn">Fat Burning</string>
     <string name="heartlung">Aerobic</string>
     <string name="strength">Anaerobic</string>
-    <string name="anaerobic">VO₂ max</string>
+    <string name="anaerobic">Anaerobic limit</string>
     <string name="zone_one">Zone 1</string>
     <string name="zone_two">Zone 2</string>
     <string name="zone_three">Zone 3</string>
