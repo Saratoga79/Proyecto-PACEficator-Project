@@ -28,18 +28,18 @@
         <item>24</item>
     </string-array>
     <string-array name="weekday_names">
-        <item>Mon</item>
-        <item>Tue</item>
-        <item>Wed</item>
-        <item>Thu</item>
-        <item>Fri</item>
-        <item>Sat</item>
-        <item>Sun</item>
+        <item>Lun</item>
+        <item>Mar</item>
+        <item>Mié</item>
+        <item>Jue</item>
+        <item>Vie</item>
+        <item>Sáb</item>
+        <item>Dom</item>
     </string-array>
     <string-array name="subject_typenfreqs">
-        <item>Today</item>
+        <item>Hoy</item>
         <item>This week</item>
-        <item>Today</item>
+        <item>Hoy</item>
         <item>This week</item>
     </string-array>
     <string-array name="chart_x_titles">
@@ -53,20 +53,20 @@
     </string-array>
     <string-array name="sport_data_item_array">
         <item></item>
-        <item>Time</item>
+        <item>Hora</item>
         <item>Distance</item>
         <item>Pace</item>
         <item>Avg pace</item>
         <item>Heart rate</item>
         <item>Calories</item>
-        <item>Altitude</item>
+        <item>Altitud</item>
         <item>Elev gain</item>
         <item>Elev loss</item>
         <item>Speed</item>
         <item>Avg speed</item>
         <item>Cadence</item>
         <item>Dist gain</item>
-        <item>Steps</item>
+        <item>Pasos</item>
         <item>Cadence</item>
         <item>Laps</item>
         <item>DPS</item>
@@ -120,7 +120,7 @@
         <item>Total time</item>
         <item>Remaining time</item>
         <item>Distance</item>
-        <item>Remaining</item>
+        <item>Restante</item>
         <item>Has rested</item>
     </string-array>
 </resources>
