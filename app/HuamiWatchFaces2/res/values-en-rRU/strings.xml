@@ -133,6 +133,8 @@
     <string name="press_up_key_wake_up">Включить питание</string>
     <string name="need_run_kilometer">Интервал Расстояния:</string>
     <string name="need_run_time">Интервал времени:</string>
+    <string name="need_rest_time">Rest needing this time</string>
+    <string name="need_rest_by_keypress">Click DOWN to resume</string>
     <string name="low_battery_protect">Низкий заряд батареи</string>
     <string name="low_battery_tips">Низкий заряд батареи</string>
     <string name="low_battery_please_charging">Батарея разряжена. Пожалуйста зарядите.</string>
@@ -168,6 +170,8 @@
     <string name="sport_auto_pause_end1">"Похоже, вы закончили"</string>
     <string name="sport_auto_pause_end2">сохранить данные?</string>
     <string name="sport_auto_pause_end3"></string>
+    <string name="need_rest_by_keypress1"></string>
+    <string name="need_rest_by_keypress2"></string>
     <string name="app_name">Циферблаты</string>
     <string name="watch_label_sport_one">Marathon life</string>
     <string name="watch_label_sport_two">"I’m Runner"</string>
@@ -211,7 +215,5 @@
     <string name="widget_currentstep_sleep_title">Сон</string>
     <string name="widget_currentstep_sleep_no">Нет данных о сне</string>
     <string name="widget_currentstep_activity_no">Сегодня нет тренировок?</string>
-    <string name="on_foot">Треккинг</string>
     <string name="need_rest_time">Нужно отдохнуть в этот раз</string>
-    <string name="need_rest_by_keypress">Нажмите кнопку вниз, чтобы завершить перерыв</string>
 </resources>
