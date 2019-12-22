@@ -130,6 +130,8 @@
     <string name="press_up_key_wake_up">Press the Up button to unlock</string>
     <string name="need_run_kilometer">Interval distance:</string>
     <string name="need_run_time">Interval time:</string>
+    <string name="need_rest_time">Rest needing this time</string>
+    <string name="need_rest_by_keypress">Click DOWN to resume</string>
     <string name="low_battery_protect">Low battery protection</string>
     <string name="low_battery_tips">Low battery</string>
     <string name="low_battery_please_charging">Charge your watch.</string>
@@ -165,6 +167,8 @@
     <string name="sport_auto_pause_end1">"Looks like you've ended"</string>
     <string name="sport_auto_pause_end2">save the data?</string>
     <string name="sport_auto_pause_end3" />
+    <string name="need_rest_by_keypress1" />
+    <string name="need_rest_by_keypress2" />
     <string name="app_name">Huami watch faces</string>
     <string name="watch_label_sport_one">Marathon life</string>
     <string name="watch_label_sport_two">"I'm a runner"</string>
@@ -208,7 +212,5 @@
     <string name="widget_currentstep_sleep_title">Slept last night</string>
     <string name="widget_currentstep_sleep_no">No sleep data</string>
     <string name="widget_currentstep_activity_no">No activity today?</string>
-    <string name="on_foot">Trekking</string>
     <string name="need_rest_time">本次需休息</string>
-    <string name="need_rest_by_keypress">单击下键完成休息</string>
 </resources>
