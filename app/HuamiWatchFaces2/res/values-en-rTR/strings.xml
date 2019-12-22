@@ -131,6 +131,8 @@
     <string name="press_up_key_wake_up">Press power key</string>
     <string name="need_run_kilometer">Interval distance: km</string>
     <string name="need_run_time">Zaman aralığı</string>
+    <string name="need_rest_time">Rest needing this time</string>
+    <string name="need_rest_by_keypress">Click DOWN to resume</string>
     <string name="low_battery_protect">Low battery</string>
     <string name="low_battery_tips">Düşük pil</string>
     <string name="low_battery_please_charging">Battery is low. Please charge.</string>
@@ -166,6 +168,8 @@
     <string name="sport_auto_pause_end1">"Görünüşe göre bitirmiş"</string>
     <string name="sport_auto_pause_end2">verileri kaydedecek misiniz?</string>
     <string name="sport_auto_pause_end3"></string>
+    <string name="need_rest_by_keypress1"></string>
+    <string name="need_rest_by_keypress2"></string>
     <string name="app_name">HuamiWatchFaces</string>
     <string name="watch_label_sport_one">Maraton süresi</string>
     <string name="watch_label_sport_two">"Koşucuyum"</string>
@@ -208,7 +212,5 @@
     <string name="widget_currentstep_sleep_title">Sleep</string>
     <string name="widget_currentstep_sleep_no">Uyku verisi yok</string>
     <string name="widget_currentstep_activity_no">Aktiviten yok mu?</string>
-    <string name="on_foot">Yürüyüş</string>
     <string name="need_rest_time">Bu sefer dinlenmen gerekiyor</string>
-    <string name="need_rest_by_keypress">Arayı tamamlamak için aşağı düğmesine tıklayın</string>
 </resources>
