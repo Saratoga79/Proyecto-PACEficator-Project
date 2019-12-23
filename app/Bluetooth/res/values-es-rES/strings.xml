@@ -6,14 +6,14 @@
     <string name="permlab_bluetoothWhitelist">Whitelist bluetooth device access.</string>
     <string name="permdesc_bluetoothWhitelist">Allows the app to temporarily whitelist a Bluetooth device, allowing that device to send files to this device without user confirmation.</string>
     <string name="bt_share_picker_label">Bluetooth</string>
-    <string name="unknown_device">Unknown device</string>
-    <string name="unknownNumber">Unknown</string>
+    <string name="unknown_device">Dispositivo desconocido</string>
+    <string name="unknownNumber">Desconocida</string>
     <string name="airplane_error_title">Airplane mode</string>
     <string name="airplane_error_msg">"You can't use Bluetooth in Airplane mode."</string>
     <string name="bt_enable_title"></string>
     <string name="bt_enable_line1">To use Bluetooth services, you must first turn on Bluetooth.</string>
     <string name="bt_enable_line2">Turn on Bluetooth now?</string>
-    <string name="bt_enable_cancel">Cancel</string>
+    <string name="bt_enable_cancel">Cancelar</string>
     <string name="bt_enable_ok">Turn on</string>
     <string name="incoming_file_confirm_title">File transfer</string>
     <string name="incoming_file_confirm_content">Accept incoming file?</string>
@@ -39,7 +39,7 @@
     <string name="download_line5">Receiving file…</string>
     <string name="download_cancel">Stop</string>
     <string name="download_ok">Hide</string>
-    <string name="incoming_line1">From</string>
+    <string name="incoming_line1">Inicio</string>
     <string name="incoming_line2">Filename</string>
     <string name="incoming_line3">Size</string>
     <string name="download_fail_line1">File not received</string>
@@ -59,10 +59,10 @@
     <string name="upload_fail_cancel">Close</string>
     <string name="bt_error_btn_ok">OK</string>
     <string name="unknown_file">Unknown file</string>
-    <string name="unknown_file_desc">"There\'s no app to handle this type of file. 
+    <string name="unknown_file_desc">"No hay ninguna aplicación que pueda abrir este tipo de archivo.
 "</string>
     <string name="not_exist_file">No file</string>
-    <string name="not_exist_file_desc">"The file doesn\'t exist. 
+    <string name="not_exist_file_desc">"El archivo no existe. 
 "</string>
     <string name="enabling_progress_title">Please wait…</string>
     <string name="enabling_progress_content">Turning on Bluetooth…</string>
@@ -104,7 +104,7 @@
     <string name="sharedUserId"></string>
     <string name="process"></string>
     <string name="bluetooth_map_email_settings_save">Save</string>
-    <string name="bluetooth_map_email_settings_cancel">Cancel</string>
+    <string name="bluetooth_map_email_settings_cancel">Cancelar</string>
     <string name="bluetooth_map_email_settings_intro">Select the email accounts you want to share through Bluetooth. You still have to accept any acceess to the accounts when connecting.</string>
     <string name="bluetooth_map_email_settings_count">Slots left:</string>
     <string name="bluetooth_map_email_settings_app_icon">Application Icon</string>

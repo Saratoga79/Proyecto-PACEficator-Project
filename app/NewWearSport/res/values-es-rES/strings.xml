@@ -4,13 +4,13 @@
     <string name="auto_recoginition_title_running">"You're running now"</string>
     <string name="auto_recoginition_title_walking">"You're walking now"</string>
     <string name="auto_recoginition_sub_title">Continue the session?</string>
-    <string name="auto_recoginition_continue_run">Continue</string>
-    <string name="auto_recoginition_continue_walk">Continue</string>
-    <string name="auto_recoginition_continue_indoor_run">Continue</string>
+    <string name="auto_recoginition_continue_run">Continuar</string>
+    <string name="auto_recoginition_continue_walk">Continuar</string>
+    <string name="auto_recoginition_continue_indoor_run">Continuar</string>
     <string name="auto_recoginition_other_sport">Other sports</string>
     <string name="auto_recoginition_not_remind">"Don't show again today"</string>
     <string name="auto_recoginition_save">Save</string>
-    <string name="auto_recoginition_end_title">Session ended, save the data?</string>
+    <string name="auto_recoginition_end_title">Actividad terminada ¿guardar los datos?</string>
     <string name="crossing_title">Trail run</string>
     <string name="crossing_end_sport">End trail run first</string>
     <string name="crossing_in_progress">Trail running…</string>
@@ -31,7 +31,7 @@
     <string name="crossing_history_detail_max_speed">Max speed</string>
     <string name="crossing_history_detail_climb_up">Elev gain</string>
     <string name="crossing_history_detail_climb_down">Elev loss</string>
-    <string name="crossing_history_detail_absolute_altitude">Altitude</string>
+    <string name="crossing_history_detail_absolute_altitude">Altitud</string>
     <string name="crossing_history_detail_high_altitude">Highest altitude</string>
     <string name="crossing_history_detail_low_altitude">Lowest altitude</string>
     <string name="crossing_history_detail_ave_altitude">Avg altitude</string>
@@ -41,7 +41,7 @@
     <string name="crossing_settings_item_title_individual_remind">Single lap distance</string>
     <string name="crossing_settings_item_value_individual">%1s km</string>
     <string name="crossing_remind_target_individual_title">Lap %1d</string>
-    <string name="crossing_remind_target_individual_cost_time">Time</string>
+    <string name="crossing_remind_target_individual_cost_time">Hora</string>
     <string name="crossing_remind_target_individual_pace">Pace</string>
     <string name="agps_time_out">AGPS has expired. GPS searching will be slow. Connect to the Amazfit App to update it.</string>
     <string name="safe_hearate_remind_content">Notify when higher than %1d BPM</string>
@@ -59,9 +59,9 @@
     <string name="remind_target_time_h_unit">h</string>
     <string name="remind_target_time_m_unit">m</string>
     <string name="remind_target_time_default_value">00</string>
-    <string name="no_altitude_hint">"Couldn't find altitude data"</string>
-    <string name="no_heartrate_data_hint">"Couldn't find heart rate data"</string>
-    <string name="no_chart_data_hint">No data</string>
+    <string name="no_altitude_hint">"Sin datos de altitud"</string>
+    <string name="no_heartrate_data_hint">"Sin datos de RC"</string>
+    <string name="no_chart_data_hint">Sin datos</string>
     <string name="not_speed_data">"Couldn't find speed data"</string>
     <string name="not_pace_data">"Couldn't find pace data"</string>
     <string name="not_step_freq_data">"Couldn't find cadence data"</string>
@@ -92,8 +92,8 @@
     <string name="detail_route_detail_manual_lap_title">Manual laps</string>
     <string name="detail_route_detail_auto_lap_title">Auto laps</string>
     <string name="detail_lap_num">Lap</string>
-    <string name="detail_lap_serial_number">Serial number</string>
-    <string name="detail_lap_time">Time</string>
+    <string name="detail_lap_serial_number">Número de serie</string>
+    <string name="detail_lap_time">Hora</string>
     <string name="detail_total_distance_desc">Total distance</string>
     <string name="detail_lap_dis">Distance</string>
     <string name="detail_lap_avg_pace">Avg pace</string>
@@ -187,7 +187,7 @@
     <string name="history_altitude_graph_desc">Altitude (m)</string>
     <string name="history_altitude_graph_desc_imperial">Altitude (ft)</string>
     <string name="history_step_freq_graph_desc">Cadence (SPM)</string>
-    <string name="history_title">Activities</string>
+    <string name="history_title">Actividades</string>
     <string name="history_detail_info">Details</string>
     <string name="hitory_rest_command">Time to full recovery </string>
     <string name="hitory_rest_command_time"> hr</string>
@@ -208,7 +208,7 @@ start now."</string>
     <string name="sport_motion_state_prediction_full_maraton">Full marathon</string>
     <string name="sport_main_percent">%</string>
     <string name="unit_cadence">rpm</string>
-    <string name="sport_main_heart_info_title">Heartrate</string>
+    <string name="sport_main_heart_info_title">RC</string>
     <string name="sport_main_beyond_heart_info_title">Beyond heart rate</string>
     <string name="sport_main_pace_info_title">Pace</string>
     <string name="heartrate_x_axis_time_format">HH:mm:ss</string>
@@ -221,7 +221,7 @@ start now."</string>
     <string name="sport_history_delete_dialog_title">"Delete this activity? You can't restore it after deleting."</string>
     <string name="sport_main_give_up_this_sport">"Discard this activity?
 "</string>
-    <string name="sport_confirm_stop_sport">Yes</string>
+    <string name="sport_confirm_stop_sport">Sí</string>
     <string name="sport_confirm_not_stop_sport">No</string>
     <string name="sport_main_am">AM</string>
     <string name="sport_main_pm">PM</string>
@@ -245,7 +245,7 @@ start now."</string>
     <string name="sport_pause_normal_stroke_unit">Strokes</string>
     <string name="sport_auto_lap_dis">Time for %1$s km</string>
     <string name="sport_auto_lap_dis_imperial">Time for %1$s mi</string>
-    <string name="sport_graph_title_ave">Average</string>
+    <string name="sport_graph_title_ave">Media</string>
     <string name="sport_graph_title_max">Max</string>
     <string name="sport_graph_title_min">Min</string>
     <string name="sport_graph_title_fast">Fastest</string>
@@ -295,16 +295,16 @@ start now."</string>
     <string name="exchange_prepare_riding">Next: Cycling</string>
     <string name="exchange_prepare_running">Next: Run</string>
     <string name="count_down_swim_tint">To prevent accidental touch, screen will be locked.</string>
-    <string name="sport_widget_title_history_record">Activities</string>
+    <string name="sport_widget_title_history_record">Actividades</string>
     <string name="sport_widget_title_elliptical">Elliptical</string>
     <string name="sport_widget_title_rowing_machine">Rower</string>
     <string name="sport_widget_title_rowing_machineing">Rowing</string>
     <string name="sport_widget_title_indoor_swim">Pool swim</string>
     <string name="sport_widget_title_open_water_swim">Open water</string>
-    <string name="sport_widget_title_triathlon">Triathlon</string>
+    <string name="sport_widget_title_triathlon">Triatlón</string>
     <string name="sport_widget_title_mountaineer">Climb</string>
     <string name="sport_widget_title_mountaineering">Climb…</string>
-    <string name="sport_widget_title_tennis">Tennis</string>
+    <string name="sport_widget_title_tennis">Tenis</string>
     <string name="sport_widget_title_tennising">Playing tennis</string>
     <string name="sport_widget_title_soccer">Soccer</string>
     <string name="sport_widget_title_soccering">Playing soccer</string>
@@ -314,7 +314,7 @@ start now."</string>
     <string name="sport_child_swim">Swimming</string>
     <string name="sport_child_riding">Cycling</string>
     <string name="sport_child_running">Run</string>
-    <string name="sport_month_settings">Settings</string>
+    <string name="sport_month_settings">Ajustes</string>
     <string name="sport_month_target">Monthly activity goal</string>
     <string name="sport_month_sport_title">Select activity</string>
     <string name="start_mix_sport">Start multisport activity</string>
@@ -377,7 +377,7 @@ start now."</string>
     <string name="data_item_train_total_times">Total time</string>
     <string name="data_item_surplus_distance">Remaining distance</string>
     <string name="data_item_surplus_time">Remaining time</string>
-    <string name="data_item_surplus_rest">Remaining</string>
+    <string name="data_item_surplus_rest">Restante</string>
     <string name="click_finsh_this_train_unit_rest">Press BACK to continue</string>
     <string name="data_item_surplus_rest_keypress">Has rested</string>
     <string name="start_change_item">Start change item</string>
@@ -464,11 +464,11 @@ start now."</string>
     <string name="modify_big_dis_regain">Edit</string>
     <string name="modify_big_dis_confirm">Continue calibration</string>
     <string name="re_modify_dis">Calibrate again</string>
-    <string name="re_modify_dis_tips">"1. To calibrate the distance result of a running session (must be longer than 0.5 km) helps the watch to generate a more accurate result.
-2. If you still aren\'t satisfied with the result after several calibration attempts, try to calibrate again.
-3. If you calibrate the result again, all previous calibration records will be deleted."</string>
+    <string name="re_modify_dis_tips">"1. para calibrar el resultado de la distancia de una sesión corriente (debe ser más de 0,5 km) ayuda al reloj para generar un resultado más exacto.
+2. Si todavía no estás satisfechos con el resultado después de calibración de varios intentos, intente calibrar de nuevo.
+3. Si calibra el resultado otra vez, todos los registros de calibración anterior se eliminará."</string>
     <string name="give_up_re_modify_dis">Give up</string>
-    <string name="confirm_re_modify_dis">Confirm</string>
+    <string name="confirm_re_modify_dis">Confirmar</string>
     <string name="re_modify_dis_successful">Re-modify successful</string>
     <string name="lap_sub_type_title">Rest</string>
     <string name="new_pb_record">New personal record</string>
@@ -499,8 +499,8 @@ start now."</string>
     <string name="gps_data_interval">Data interval</string>
     <string name="gps_interval_time">%1$d secs</string>
     <string name="group_rowing_freq">Frequency</string>
-    <string name="group_rowing_count">Times</string>
-    <string name="group_rowing_avg_hr">Average heart rate</string>
+    <string name="group_rowing_count">Veces</string>
+    <string name="group_rowing_avg_hr">RC Promedio</string>
     <string name="group_rowing_calorie">Calorie consumption</string>
     <string name="group_lap_title">Groups</string>
     <string name="battery_life_settings">Battery mode</string>
@@ -522,8 +522,8 @@ start now."</string>
     <string name="smart_coach_recommand">Smart coach recommend</string>
     <string name="shown_settings">Display setting</string>
     <string name="gps_target_count_sub_content">Count</string>
-    <string name="shown_settings_sub_title">Display</string>
-    <string name="data_control_sub_title">Data</string>
+    <string name="shown_settings_sub_title">Mostrar</string>
+    <string name="data_control_sub_title">Datos</string>
     <string name="sport_remind_sub_title">Reminder</string>
     <string name="settings_sport_cadence_link_sub_title">Sport cadence setting</string>
     <string name="settings_sport_swim_length_sub_title">Sport swim length setting</string>
@@ -538,7 +538,7 @@ start now."</string>
     <string name="moutaineer_max_altitude_down_no_unit">Max total descent</string>
     <string name="moutaineer_max_altitude_climb_no_unit">Max total climb</string>
     <string name="pb_introduction_content">If there is any inconsistency between personal records in the watch and that in the app, the records in the app will be used for data synchronization.</string>
-    <string name="pb_confirm">Noted</string>
+    <string name="pb_confirm">Anotado</string>
     <string name="huanghe_pause_continue_title">Activity actions</string>
     <string name="virtual_rabbit_back_distance">Lag distance</string>
     <string name="experience_title">Set up personal information, or data will have a large deviation</string>
@@ -552,15 +552,15 @@ start now."</string>
     <string name="sport_ability_up">Improving</string>
     <string name="sport_ability_down">Declining</string>
     <string name="time_unit_hour">h</string>
-    <string name="train_load_medium">Medium</string>
+    <string name="train_load_medium">Mediana</string>
     <string name="train_load_near_seven_days">Last 7 days</string>
     <string name="train_load_suggess_status_no_record">"We'll evaluate your training load from exercises recorded in the past 7 days"</string>
     <string name="train_load_suggess_status_less">Low</string>
     <string name="train_load_suggess_status_good">Optimal</string>
     <string name="train_load_suggess_status_recovery">High</string>
     <string name="train_load_suggess_status_over">Overreaching</string>
-    <string name="real_time_perpormance_level_very_good">Good</string>
-    <string name="real_time_perpormance_level_good">Good</string>
+    <string name="real_time_perpormance_level_very_good">Buena</string>
+    <string name="real_time_perpormance_level_good">Buena</string>
     <string name="real_time_perpormance_level_average">Normal</string>
     <string name="real_time_perpormance_level_fatigued">Fatigued</string>
     <string name="real_time_perpormance_level_very_fatigued">Fatigued</string>
@@ -585,7 +585,7 @@ start now."</string>
     <string name="first_beat_remind_txt_02">This is a good pace. Exercise for more minutes to keep you fit.</string>
     <string name="sport_history_recovery_remind">"It\'s recommended to have proper maintaining workouts 
 to reach full recovery."</string>
-    <string name="daily_propermance_has_no_data">No data</string>
+    <string name="daily_propermance_has_no_data">Sin datos</string>
     <string name="first_beat_help_title_vo2_max">VO₂ max</string>
     <string name="first_beat_help_title_train_efffect">Training effect (TE)</string>
     <string name="first_beat_help_title_train_load">Training load</string>
@@ -600,17 +600,17 @@ to reach full recovery."</string>
     <string name="first_beat_help_recovery_time">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;After completing a workout, you will be provided with time in minutes to full recovery. Between workouts recovery time is linearly decreased towards zero if there is no new workout data available. The user is encouraged to have some low intensity workouts to help with recovery. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;For more details, view Help in Amazfit app.&lt;/small&gt;</string>
     <string name="vo2max_unit">ml/kg/min</string>
     <string name="run_vo2max_unit">ml/kg/min</string>
-    <string name="vo2_max_has_no_data">No data</string>
+    <string name="vo2_max_has_no_data">Sin datos</string>
     <string name="sport_setting_gpx_route_selected">Route selected</string>
     <string name="sport_setting_gpx_route_selectd_remind">"Outdoor features are navigated by using this route. If you don't need, select \"Turn off\"."</string>
     <string name="confirm">OK</string>
-    <string name="decision_yes">Yes</string>
+    <string name="decision_yes">Sí</string>
     <string name="decision_no">No</string>
     <string name="use_sport_route_remind">Does this activity use the %1$s route for navigation?</string>
     <string name="please_start_sport_from_route_start">In order to ensure the accuracy of route guidance, start the motion at the true geographic location of the track origin</string>
     <string name="please_become_bigger">Zoom in</string>
     <string name="please_become_smaller">Zoom out</string>
-    <string name="current_altitude">Altitude</string>
+    <string name="current_altitude">Altitud</string>
     <string name="cumulative_climb">Elev gain</string>
     <string name="sport_route_out_of">Deviated route</string>
     <string name="sport_back_to_route">Back to the route</string>
@@ -627,22 +627,22 @@ to reach full recovery."</string>
     <string name="gpx_no_find_route">No routes available</string>
     <string name="gpx_no_route_guide">"Connect your watch to the computer and copy the GPX file to the 'GPXData' folder and try again"</string>
     <string name="bpm_to">BPM to</string>
-    <string name="indoor_run_progressing">Indoor running</string>
+    <string name="indoor_run_progressing">Correr en cinta</string>
     <string name="run_train_title">Running training</string>
     <string name="run_train_recommend">Recommended</string>
     <string name="run_train_intermittent">Interval</string>
     <string name="run_train_intermittent_select_train">Select</string>
     <string name="run_train_vo2max_test">VO2Max test</string>
     <string name="run_train_vo2max_test_tips">Wear watch for at least 10 minutes of outdoor running and generate heart rate value reaching %1$dbpm</string>
-    <string name="music_title">Music</string>
-    <string name="music_local_title">Sports music</string>
+    <string name="music_title">Música</string>
+    <string name="music_local_title">Música deportiva</string>
     <string name="music_no_resource">No songs available</string>
     <string name="music_no_local_resource">No songs to play. Connect a USB device to import.</string>
     <string name="music_open_fm">Turn on the music function to listen to music during workout.</string>
     <string name="music_explain_title">Instruction</string>
     <string name="music_explain_content">It is necessary to download songs locally and connect to the Bluetooth headset for listening.</string>
     <string name="music_start_tips">Connect a Bluetooth headset to listen to music. Connect now?</string>
-    <string name="music_not_known">Unknown</string>
+    <string name="music_not_known">Desconocida</string>
     <string name="music_update_content">Song update</string>
     <string name="music_update_tips_content">Douban FM updates songs regularly. Updating songs will replace the music library. Update now?</string>
     <string name="music_pause">Paused</string>
@@ -691,26 +691,32 @@ to reach full recovery."</string>
     <string name="outdoor_climb_down_distance_time">Downhill time</string>
     <string name="outdoor_climb_distance_time">Uphill time</string>
     <string name="real_time_keep_speed">Keep the pace</string>
-    <string name="real_time_run_faster">Speed up</string>
-    <string name="real_time_every_good">Very good</string>
+    <string name="real_time_run_faster">\"Aumenta el ritmo
+para un ejercicio más efectivo\"</string>
+    <string name="real_time_every_good">Muy buena</string>
     <string name="real_time_run_slower">Slow down</string>
     <string name="real_time_target_finish">Reached your goal</string>
     <string name="real_time_guide_title_1">Keep the pace</string>
     <string name="real_time_guide_title_2">Keep the pace</string>
-    <string name="real_time_guide_title_3">Speed up</string>
+    <string name="real_time_guide_title_3">\"Aumenta el ritmo
+para un ejercicio más efectivo\"</string>
     <string name="real_time_guide_title_6">Keep the pace</string>
-    <string name="real_time_guide_title_7">Speed up</string>
+    <string name="real_time_guide_title_7">\"Aumenta el ritmo
+para un ejercicio más efectivo\"</string>
     <string name="real_time_guide_title_10">Keep the pace</string>
-    <string name="real_time_guide_title_11">Speed up</string>
+    <string name="real_time_guide_title_11">\"Aumenta el ritmo
+para un ejercicio más efectivo\"</string>
     <string name="real_time_guide_title_14">Keep the pace</string>
     <string name="real_time_guide_title_22">Keep the pace</string>
-    <string name="real_time_guide_title_25">Speed up</string>
-    <string name="real_time_guide_title_26">Speed up</string>
+    <string name="real_time_guide_title_25">\"Aumenta el ritmo
+para un ejercicio más efectivo\"</string>
+    <string name="real_time_guide_title_26">\"Aumenta el ritmo
+para un ejercicio más efectivo\"</string>
     <string name="real_time_guide_title_27">Reached your goal</string>
-    <string name="real_time_guide_title_28">Very good</string>
-    <string name="real_time_guide_title_30">Very good</string>
-    <string name="real_time_guide_title_31">Very good</string>
-    <string name="real_time_guide_title_32">Very good</string>
+    <string name="real_time_guide_title_28">Muy buena</string>
+    <string name="real_time_guide_title_30">Muy buena</string>
+    <string name="real_time_guide_title_31">Muy buena</string>
+    <string name="real_time_guide_title_32">Muy buena</string>
     <string name="real_time_guide_title_33">Slow down</string>
     <string name="real_time_guide_title_34">Slow down</string>
     <string name="real_time_guide_title_35">Slow down</string>
@@ -736,10 +742,10 @@ to reach full recovery."</string>
     <string name="rope_arrive_goal_unit">s/jump</string>
     <string name="aleary_finish_group">Group %1$s</string>
     <string name="this_group_count">Count</string>
-    <string name="group_cost_time">Time</string>
+    <string name="group_cost_time">Hora</string>
     <string name="group_frequency">Frequency</string>
     <string name="aleary_rest">Has rested</string>
-    <string name="next_group">Next</string>
+    <string name="next_group">Siguiente</string>
     <string name="rope_skip_times">%1$s jumps</string>
     <string name="rope_skip_frequency">Frequency</string>
     <string name="rope_skip_currnet_frequency">Current freq</string>
@@ -791,7 +797,7 @@ to reach full recovery."</string>
     <string name="endurance_cardio">Endurance cardio</string>
     <string name="hard_cardio">Intense cardio</string>
     <string name="very_hard_cardio">Extreme cardio</string>
-    <string name="route_cur_altitude">Altitude</string>
+    <string name="route_cur_altitude">Altitud</string>
     <string name="outdoor_cadence">Cadence</string>
     <string name="sport_main_climb_al">Elev gain</string>
     <string name="sport_main_descend_al">Elev loss</string>
@@ -817,7 +823,7 @@ to reach full recovery."</string>
     <string name="cur_lap_hr">Heart rate in this lap</string>
     <string name="cur_lap_speed">Speed for this lap</string>
     <string name="cur_lap_pace">Pace for this lap</string>
-    <string name="running_cost_time_desc">Time</string>
+    <string name="running_cost_time_desc">Hora</string>
     <string name="running_pace_desc">Pace</string>
     <string name="running_calorie_desc">Calories</string>
     <string name="running_step_freq_desc">Cadence</string>
@@ -826,7 +832,7 @@ to reach full recovery."</string>
     <string name="running_heartrate_desc">Heart rate</string>
     <string name="running_avg_pace_desc">Avg pace</string>
     <string name="running_avg_speed_desc">Avg speed</string>
-    <string name="walking_step_count">Steps</string>
+    <string name="walking_step_count">Pasos</string>
     <string name="crossing_vertical_speed">Vert speed</string>
     <string name="slope">Slope</string>
     <string name="sport_widget_title">Sports</string>
@@ -836,10 +842,10 @@ to reach full recovery."</string>
     <string name="sport_widget_title_on_foot">Hike</string>
     <string name="sport_widget_title_indoor_fitness">Fitness</string>
     <string name="sport_widget_title_indoor_run">Treadmill</string>
-    <string name="sport_widget_title_record">Activities</string>
+    <string name="sport_widget_title_record">Actividades</string>
     <string name="sport_widget_title_achieve">Badges</string>
-    <string name="sport_widget_title_setting">Settings</string>
-    <string name="sport_widget_title_music">Music</string>
+    <string name="sport_widget_title_setting">Ajustes</string>
+    <string name="sport_widget_title_music">Música</string>
     <string name="sport_widget_title_interval_run">Run (intervals)</string>
     <string name="sport_app_name">Sports</string>
     <string name="sport_item_running_title">Run</string>
@@ -850,7 +856,7 @@ to reach full recovery."</string>
     <string name="title_sport_control_runnning">Run</string>
     <string name="title_sport_control_walking">Walk</string>
     <string name="start_sport_tips">Start %1$s</string>
-    <string name="sport_start">Start</string>
+    <string name="sport_start">Comenzar</string>
     <string name="sport_pause">Pause</string>
     <string name="sport_continue">Resume</string>
     <string name="sport_stop">Stop</string>
@@ -859,7 +865,7 @@ to reach full recovery."</string>
     <string name="running_avg_speed_desc_simple">Avg speed</string>
     <string name="running_pace_unit">/km</string>
     <string name="running_calorie_unit">kcal</string>
-    <string name="running_step_freq_unit">steps/min</string>
+    <string name="running_step_freq_unit">pasos/min</string>
     <string name="running_speed_unit">km/h</string>
     <string name="running_distance_unit">km</string>
     <string name="running_heartrate_unit">BPM</string>
@@ -867,18 +873,18 @@ to reach full recovery."</string>
     <string name="running_control_title">Run</string>
     <string name="running_control_paused_des">Paused</string>
     <string name="sport_history_item_distance_desc">Distance (km)</string>
-    <string name="sport_history_item_cost_time_desc">Time</string>
+    <string name="sport_history_item_cost_time_desc">Hora</string>
     <string name="running_avg_step_freq_desc">Avg cadence</string>
     <string name="running_stop_dialog_msg_reach_minimum_distance">Stop this activity?</string>
     <string name="running_stop_dialog_msg_not_reach_minimum_distance">The distance is too short to save. Stop anyway?</string>
     <string name="running_stop_dialog_positive_text">Stop</string>
-    <string name="running_stop_dialog_negative_text">Cancel</string>
+    <string name="running_stop_dialog_negative_text">Cancelar</string>
     <string name="sport_history_total_distance_desc">Distance</string>
     <string name="sport_history_header_total_count_desc">Total sessions</string>
     <string name="sport_history_header_calorie_desc">Total calories</string>
     <string name="history_heart_rate_desc">Heart rate:</string>
     <string name="history_heart_rate_unit">BPM</string>
-    <string name="history_info_cost_time_desc">Time</string>
+    <string name="history_info_cost_time_desc">Hora</string>
     <string name="history_detail_paused_time">Paused time</string>
     <string name="history_detail_running_title">Run</string>
     <string name="history_detail_walking_title">Walk</string>
@@ -891,7 +897,7 @@ to reach full recovery."</string>
     <string name="waiting_gps_gps_unavailable">Waiting for GPS signal</string>
     <string name="waiting_gps_gps_available">GPS available now</string>
     <string name="waiting_gps_gps_available_button_text">OK</string>
-    <string name="waiting_gps_gps_unavailable_button_text">Continue</string>
+    <string name="waiting_gps_gps_unavailable_button_text">Continuar</string>
     <string name="no_gps_title">GPS unavailable</string>
     <string name="no_gps_content">"Couldn't record distance accurately. Try again outdoors."</string>
     <string name="no_gps_button_text">OK</string>
@@ -942,7 +948,7 @@ to reach full recovery."</string>
     <string name="running_button_save">Save</string>
     <string name="running_achivement">Achievements</string>
     <string name="running_record">Records</string>
-    <string name="running_setting">Settings</string>
+    <string name="running_setting">Ajustes</string>
     <string name="running_end_sport">Stop activity first</string>
     <string name="walking_end_sport">Stop activity first</string>
     <string name="running_in_progress">Run…</string>
@@ -953,10 +959,10 @@ to reach full recovery."</string>
     <string name="remind_target_km_title_format">Completed: %1$d km</string>
     <string name="remind_target_km_walking_title_format">Completed: %1$d km</string>
     <string name="remind_target_distance_finished">Completed</string>
-    <string name="remind_target_cost_time_desc">Time</string>
+    <string name="remind_target_cost_time_desc">Hora</string>
     <string name="remind_target_pace_desc">Pace</string>
     <string name="remind_target_distance_pace_unit">/km</string>
-    <string name="remind_heart_rate_too_high">Heart rate is too high</string>
+    <string name="remind_heart_rate_too_high">RC muy alto</string>
     <string name="remind_heart_rate_value_before">Current</string>
     <string name="remind_heart_rate_value_after">BPM</string>
     <string name="remind_heart_rate_suggestion">Slow down gradually to adjust</string>
@@ -980,7 +986,7 @@ to reach full recovery."</string>
     <string name="wait_gps_success">GPS available, you can start workout now</string>
     <string name="lock_screen">Screen locked</string>
     <string name="txt_unlock_screen">Press and hold the screen to unlock</string>
-    <string name="sport_screen_un_lock">Unlocked</string>
+    <string name="sport_screen_un_lock">Desbloqueado</string>
     <string name="lock_status_locked">Locked</string>
     <string name="lock_status_unlock_ing">Unlocking…</string>
     <string name="lock_status_unlock_fail">"Couldn't unlock"</string>
@@ -1012,8 +1018,8 @@ to reach full recovery."</string>
     <string name="reminder_wear_not_tight_0">Wear the watch above the wrist</string>
     <string name="reminder_wear_not_tight_1">And fasten the device</string>
     <string name="gps_time_out_re_rearch">GPS has expired, search again.</string>
-    <string name="walking_step">steps</string>
-    <string name="waling_steps">steps</string>
+    <string name="walking_step">pasos</string>
+    <string name="waling_steps">pasos</string>
     <string name="date_am">"'AM'"</string>
     <string name="date_pm">"'PM'"</string>
     <string name="setting_sport_remind_region">Alert zone</string>
@@ -1027,11 +1033,11 @@ to reach full recovery."</string>
     <string name="setting_sport_heart_region_text_aerobic">Aerobic</string>
     <string name="setting_sport_heart_region_text_high＿intensity_exercise">Intensive exercise</string>
     <string name="setting_sport_heart_region_text_custom">Custom</string>
-    <string name="remind_heart_rate_region_over">Heart rate is too high</string>
-    <string name="remind_heart_rate_region_less">Heart rate is too low</string>
+    <string name="remind_heart_rate_region_over">RC muy alto</string>
+    <string name="remind_heart_rate_region_less">RC muy bajo</string>
     <string name="remind_heart_rate_current_heart_rate">Current　%1$d BPM</string>
-    <string name="tennic_wear_hand_guide">"Make sure you wear the watch
- on the wrist of racket hand"</string>
+    <string name="tennic_wear_hand_guide">Use el reloj en la misma
+ muñeca que use la raqueta</string>
     <string name="sport_time_seconds">s</string>
     <string name="complete_training_project">The training program has been completed</string>
     <string name="reminder_speed_unit">/h</string>
@@ -1075,17 +1081,17 @@ to reach full recovery."</string>
     <string name="swim_meter_remind_target_distance_title_format">Goal%1$dm</string>
     <string name="swim_yard_remind_target_distance_title_format">Goal%1$dyd</string>
     <string name="vo2_max_title">VO₂ max</string>
-    <string name="vo2_max_level_very_good">Very good</string>
-    <string name="vo2_max_level_middle">Medium</string>
+    <string name="vo2_max_level_very_good">Muy buena</string>
+    <string name="vo2_max_level_middle">Mediana</string>
     <string name="vo2_max_text_nunber">50</string>
     <string name="vo2_max_sport_unit">ml/kg/min</string>
     <string name="export_gpx">Export GPX file</string>
-    <string name="btn_cancel">Cancel</string>
+    <string name="btn_cancel">Cancelar</string>
     <string name="btn_confirm">OK</string>
     <string name="hint_rolling">Exporting…</string>
     <string name="dlg_msg_hint_cancel">Cancel exporting file?</string>
     <string name="dlg_btn_l_msg">No</string>
-    <string name="dlg_btn_r_msg">Yes</string>
+    <string name="dlg_btn_r_msg">Sí</string>
     <string name="hint_cancelling">Canceling…</string>
     <string name="hint_success_exported_title">"Exported GPX file
 successfully"</string>
@@ -1095,10 +1101,10 @@ successfully"</string>
 You can copy it to a computer via USB."</string>
     <string name="hint_failed">"Couldn't export, try again."</string>
     <string name="app_name">gpx-recorder</string>
-    <string name="average_text">Average</string>
+    <string name="average_text">Media</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
-    <string name="running">Running</string>
-    <string name="waking">Walking</string>
+    <string name="running">Ejecutando</string>
+    <string name="waking">Caminar</string>
     <string name="indoor_running">Treadmill</string>
     <string name="outdoor_riding">Outdoor cycling</string>
     <string name="indoor_riding">Indoor cycling</string>
@@ -1106,12 +1112,12 @@ You can copy it to a computer via USB."</string>
     <string name="eppitical">Elliptical</string>
     <string name="indoor_swimming">Pool swimming</string>
     <string name="outdoor_swimming">Open water</string>
-    <string name="triathlon">Triathlon</string>
-    <string name="mountain">Climbing</string>
+    <string name="triathlon">Triatlón</string>
+    <string name="mountain">Montañismo</string>
     <string name="riding">Cycling</string>
     <string name="swimming">Swimming</string>
-    <string name="skiing">Skiing</string>
-    <string name="tennis">Tennis</string>
+    <string name="skiing">Esquiar</string>
+    <string name="tennis">Tenis</string>
     <string name="soccer">Soccer</string>
     <string name="golf">Golf</string>
     <string name="complex_sport">Multisport</string>
@@ -1176,7 +1182,7 @@ You can copy it to a computer via USB."</string>
     <string name="minute">m</string>
     <string name="minute_clock">m</string>
     <string name="second">s</string>
-    <string name="altitude">Altitude</string>
+    <string name="altitude">Altitud</string>
     <string name="longitude_and_latitude">Lat/Long</string>
     <string name="press_key_finish_train">Press BACK to finish</string>
     <string name="press_up_key_wake_up">Press the Up button to unlock</string>
@@ -1189,7 +1195,7 @@ You can copy it to a computer via USB."</string>
     <string name="low_battery_please_charging">Charge your watch.</string>
     <string name="virtual_rabbit">Virtual rabbit</string>
     <string name="virtual_rabbit_back_time">Lag time</string>
-    <string name="rope_skip_group_time">Time</string>
+    <string name="rope_skip_group_time">Hora</string>
     <string name="rope_skip_group_count">Count</string>
     <string name="rope_skip_group_freq">Frequency</string>
     <string name="rope_skip_reset_tips">Has rested</string>
@@ -1198,20 +1204,20 @@ You can copy it to a computer via USB."</string>
     <string name="rope_skip_tips2">set has been completed</string>
     <string name="rope_skip_avg_heartrate">Avg. heart rate</string>
     <string name="rope_skip_group_calories">Calories</string>
-    <string name="music">Music</string>
+    <string name="music">Música</string>
     <string name="press_long_power_key_wake_up">Press a physical button to exit</string>
-    <string name="sport_auto_pause_end">Session ended, save the data?</string>
-    <string name="sport_slpt_stop_next_group">Next</string>
+    <string name="sport_auto_pause_end">Actividad terminada ¿guardar los datos?</string>
+    <string name="sport_slpt_stop_next_group">Siguiente</string>
     <string name="picker_default_positive_text">OK</string>
     <string name="picker_default_nagetive_text">Off</string>
-    <string name="title_settings">Settings</string>
-    <string name="sport_music_settings">Music</string>
-    <string name="widget_currentstep_title">Data</string>
-    <string name="widget_currentstep_activities">"Today's activity"</string>
+    <string name="title_settings">Ajustes</string>
+    <string name="sport_music_settings">Música</string>
+    <string name="widget_currentstep_title">Datos</string>
+    <string name="widget_currentstep_activities">"Actividades de hoy"</string>
     <string name="widget_currentstep_sleep_hour">h</string>
     <string name="widget_currentstep_sleep_min">m</string>
-    <string name="widget_currentstep_sleep_title">Slept last night</string>
-    <string name="widget_currentstep_sleep_no">No sleep data</string>
-    <string name="widget_currentstep_activity_no">No activity today?</string>
-    <string name="locale_title">Select Language</string>
+    <string name="widget_currentstep_sleep_title">Datos de Sueño de anoche</string>
+    <string name="widget_currentstep_sleep_no">No hay datos de sueño</string>
+    <string name="widget_currentstep_activity_no">¿No entrenas hoy?</string>
+    <string name="locale_title">Selecciona Idioma</string>
 </resources>

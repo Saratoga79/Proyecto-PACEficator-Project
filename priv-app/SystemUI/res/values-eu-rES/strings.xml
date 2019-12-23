@@ -20,15 +20,15 @@
     <string name="battery_low_title">Battery is low</string>
     <string name="battery_low_percent_format">%s remaining</string>
     <string name="battery_low_percent_format_saver_started">%s remaining. Battery saver is on.</string>
-    <string name="invalid_charger">"USB charging not supported.
-Use only the supplied charger."</string>
+    <string name="invalid_charger">"USB kargatzea ez da onartzen.
+Erabili kargagailu egokia soilik"</string>
     <string name="invalid_charger_title">USB charging not supported.</string>
     <string name="invalid_charger_text">Use only the supplied charger.</string>
-    <string name="battery_low_why">Settings</string>
+    <string name="battery_low_why">Ezarpenak</string>
     <string name="battery_saver_confirmation_title">Turn on battery saver?</string>
     <string name="battery_saver_confirmation_ok">Turn on</string>
     <string name="battery_saver_start_action">Turn on battery saver</string>
-    <string name="status_bar_settings_settings_button">Settings</string>
+    <string name="status_bar_settings_settings_button">Ezarpenak</string>
     <string name="status_bar_settings_wifi_button">Wi-Fi</string>
     <string name="status_bar_settings_airplane">Airplane mode</string>
     <string name="status_bar_settings_auto_rotation">Auto-rotate screen</string>
@@ -49,7 +49,7 @@ Use only the supplied charger."</string>
     <string name="always_use_device">Use by default for this USB device</string>
     <string name="always_use_accessory">Use by default for this USB accessory</string>
     <string name="usb_debugging_title">Allow USB debugging?</string>
-    <string name="usb_debugging_message">"The computer\'s RSA key fingerprint is:
+    <string name="usb_debugging_message">"Kontrol teklaren hatz-marka honako hau da:
 %1$s"</string>
     <string name="usb_debugging_always">Always allow from this computer</string>
     <string name="compat_mode_on">Zoom to fill screen</string>
@@ -91,7 +91,7 @@ Use only the supplied charger."</string>
     <string name="accessibility_phone_two_bars">Phone two bars.</string>
     <string name="accessibility_phone_three_bars">Phone three bars.</string>
     <string name="accessibility_phone_signal_full">Phone signal full.</string>
-    <string name="accessibility_no_data">No data.</string>
+    <string name="accessibility_no_data">Daturik ez.</string>
     <string name="accessibility_data_one_bar">Data one bar.</string>
     <string name="accessibility_data_two_bars">Data two bars.</string>
     <string name="accessibility_data_three_bars">Data three bars.</string>
@@ -151,7 +151,7 @@ Use only the supplied charger."</string>
     <string name="accessibility_desc_notification_shade">Notification shade.</string>
     <string name="accessibility_desc_quick_settings">Quick settings.</string>
     <string name="accessibility_desc_lock_screen">Lock screen.</string>
-    <string name="accessibility_desc_settings">Settings</string>
+    <string name="accessibility_desc_settings">Ezarpenak</string>
     <string name="accessibility_desc_recent_apps">Overview.</string>
     <string name="accessibility_quick_settings_user">User %s.</string>
     <string name="accessibility_quick_settings_wifi">%1$s.</string>
@@ -186,14 +186,14 @@ Use only the supplied charger."</string>
     <string name="accessibility_quick_settings_hotspot_changed_off">Mobile hotspot turned off.</string>
     <string name="accessibility_quick_settings_hotspot_changed_on">Mobile hotspot turned on.</string>
     <string name="accessibility_casting_turned_off">Screen casting stopped.</string>
-    <string name="accessibility_brightness">Display brightness</string>
+    <string name="accessibility_brightness">Pantailaren argitasuna</string>
     <string name="data_usage_disabled_dialog_3g_title">2G-3G data is off</string>
     <string name="data_usage_disabled_dialog_4g_title">4G data is off</string>
     <string name="data_usage_disabled_dialog_mobile_title">Cellular data is off</string>
     <string name="data_usage_disabled_dialog_title">Data is off</string>
-    <string name="data_usage_disabled_dialog">"Your device turned off data because it reached the limit you set.
-
-Turning it back on may lead to charges from your carrier."</string>
+    <string name="data_usage_disabled_dialog">"Seu dispositivo desligou os dados pois chegou ao limite que você definiu.
+ 
+Ligar novamente pode levar à cobranças por parte de sua operadora."</string>
     <string name="data_usage_disabled_dialog_enable">Turn on data</string>
     <string name="status_bar_settings_signal_meter_disconnected">No Internet connection</string>
     <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi connected</string>
@@ -217,19 +217,19 @@ Turning it back on may lead to charges from your carrier."</string>
     <string name="quick_settings_bluetooth_multiple_devices_label">Bluetooth (%d Devices)</string>
     <string name="quick_settings_bluetooth_off_label">Bluetooth Off</string>
     <string name="quick_settings_bluetooth_detail_empty_text">No paired devices available</string>
-    <string name="quick_settings_brightness_label">Brightness</string>
+    <string name="quick_settings_brightness_label">Argitasuna</string>
     <string name="quick_settings_rotation_unlocked_label">Auto-rotate</string>
     <string name="quick_settings_rotation_locked_label">Rotation locked</string>
     <string name="quick_settings_rotation_locked_portrait_label">Portrait</string>
     <string name="quick_settings_rotation_locked_landscape_label">Landscape</string>
     <string name="quick_settings_ime_label">Input Method</string>
-    <string name="quick_settings_location_label">Location</string>
+    <string name="quick_settings_location_label">Kokapena</string>
     <string name="quick_settings_location_off_label">Location Off</string>
     <string name="quick_settings_media_device_label">Media device</string>
     <string name="quick_settings_rssi_label">RSSI</string>
     <string name="quick_settings_rssi_emergency_only">Emergency Calls Only</string>
-    <string name="quick_settings_settings_label">Settings</string>
-    <string name="quick_settings_time_label">Time</string>
+    <string name="quick_settings_settings_label">Ezarpenak</string>
+    <string name="quick_settings_time_label">Denbora</string>
     <string name="quick_settings_user_label">Me</string>
     <string name="quick_settings_user_title">User</string>
     <string name="quick_settings_user_new_user">New user</string>
@@ -243,7 +243,7 @@ Turning it back on may lead to charges from your carrier."</string>
     <string name="quick_settings_cast_device_default_name">Unnamed device</string>
     <string name="quick_settings_cast_device_default_description">Ready to cast</string>
     <string name="quick_settings_cast_detail_empty_text">No devices available</string>
-    <string name="quick_settings_brightness_dialog_title">Brightness</string>
+    <string name="quick_settings_brightness_dialog_title">Argitasuna</string>
     <string name="quick_settings_brightness_dialog_auto_brightness_label">AUTO</string>
     <string name="quick_settings_inversion_label">Invert colors</string>
     <string name="quick_settings_color_space_label">Color correction mode</string>
@@ -273,8 +273,8 @@ Turning it back on may lead to charges from your carrier."</string>
     <string name="expanded_header_battery_charging_with_time">%s until full</string>
     <string name="expanded_header_battery_not_charging">Not charging</string>
     <string name="battery_meter_very_low_overlay_symbol">!</string>
-    <string name="ssl_ca_cert_warning">"Network may
-be monitored"</string>
+    <string name="ssl_ca_cert_warning">"Rede pode
+ser monitorada"</string>
     <string name="description_target_search">Search</string>
     <string name="description_direction_up">Slide up for %s.</string>
     <string name="description_direction_left">Slide left for %s.</string>
@@ -290,7 +290,7 @@ be monitored"</string>
     <string name="keyguard_unlock">Swipe up to unlock</string>
     <string name="phone_hint">Swipe right for phone</string>
     <string name="camera_hint">Swipe left for camera</string>
-    <string name="interruption_level_none">None</string>
+    <string name="interruption_level_none">Ezer ez</string>
     <string name="interruption_level_priority">Priority</string>
     <string name="interruption_level_all">All</string>
     <string name="keyguard_indication_charging_time">Charging (%s until full)</string>
@@ -310,9 +310,9 @@ be monitored"</string>
     <string name="guest_wipe_session_wipe">Start over</string>
     <string name="guest_wipe_session_dontwipe">Yes, continue</string>
     <string name="user_add_user_title">Add new user?</string>
-    <string name="user_add_user_message_short">"When you add a new user, that person needs to set up their space.
-
-Any user can update apps for all other users."</string>
+    <string name="user_add_user_message_short">"Quando você adicionar um novo usuário, essa pessoa precisa configurar o seu espaço.
+ 
+Qualquer usuário pode atualizar app para os outros usuários."</string>
     <string name="battery_saver_notification_title">Battery saver is on</string>
     <string name="battery_saver_notification_text">Reduces performance and background data</string>
     <string name="battery_saver_notification_action_text">Turn off battery saver</string>
@@ -330,72 +330,72 @@ Any user can update apps for all other users."</string>
     <string name="monitoring_title">Network monitoring</string>
     <string name="disable_vpn">Disable VPN</string>
     <string name="disconnect_vpn">Disconnect VPN</string>
-    <string name="monitoring_description_device_owned">"This device is managed by:
+    <string name="monitoring_description_device_owned">"Este dispositivo é gerenciado por:
 %1$s
-
-Your administrator can monitor your device and network activity, including emails, apps and secure websites.
-
-For more information, contact your administrator."</string>
-    <string name="monitoring_description_vpn">"You gave \"%1$s\" permission to set up a VPN connection.
-
-This app can monitor your device and network activity, including emails, apps and secure websites."</string>
-    <string name="monitoring_description_legacy_vpn">"You\'re connected to a VPN (\"%1$s\").
-
-Your VPN service provider can monitor your device and network activity including emails, apps, and secure websites."</string>
-    <string name="monitoring_description_vpn_device_owned">"This device is managed by:
+ 
+Seu administrador pode monitorar seu dispositivo e atividade de rede, inclusive emails, apps e sites seguros.
+ 
+Para mais informações, contate o administrador."</string>
+    <string name="monitoring_description_vpn">"Você concedeu à(ao) \"%1$s\" permissão para confugurar uma coneão VPN.
+ 
+Este app pode monitorar a atividade do seu dispositivo e a atividade de rede, inclusive emails, apps e sites seguros."</string>
+    <string name="monitoring_description_legacy_vpn">"Você está conectado à uma VPN (\"%1$s\").
+ 
+Seu provedor de VPN pode monitorar seu dispositivo e atividade de rede incluindo emails, apps, e sites seguros."</string>
+    <string name="monitoring_description_vpn_device_owned">"Este dispositivo é gerenciado por:
 %1$s
-
-Your administrator is capable of monitoring your network activity including emails, apps, and secure websites. For more information, contact your administrator.
-
-Also, you gave \"%2$s\" permission to set up a VPN connection. This app can monitor network activity too."</string>
-    <string name="monitoring_description_legacy_vpn_device_owned">"This device is managed by:
+ 
+Seu administrador tem capacidade para monitorar sua atividade de rede inclusive emails, apps, e sites seguros. Para mais informações, contate seu administrador.
+ 
+Além disso, você concedeu à(ao) \"%2$s\" permissão de configurar uma conexão VPN. Este app pode monitorar atividade de rede também."</string>
+    <string name="monitoring_description_legacy_vpn_device_owned">"Este dispositivo é gerenciado por:
 %1$s
-
-Your administrator is capable of monitoring your network activity including emails, apps, and secure websites. For more information, contact your administrator.
-
-Also, you\'re connected to a VPN (\"%2$s\"). Your VPN service provider can monitor network activity too."</string>
-    <string name="monitoring_description_profile_owned">"This profile is managed by:
+ 
+Seu administrador é capaz de monitorar sua atividade de rede inclusive emails, apps, e sites seguros. Para mais informações, contate seu administrador.
+ 
+Além disso, você está conectado a uma VPN (\"%2$s\"). Seu provedor de VPN pode monitorar sua atividade de rede também."</string>
+    <string name="monitoring_description_profile_owned">"Este perfil é gerenciado por:
 %1$s
-
-Your administrator can monitor your device and network activity, including emails, apps and secure websites.
-
-For more information, contact your administrator."</string>
-    <string name="monitoring_description_device_and_profile_owned">"This device is managed by:
+ 
+Seu administrador pode monitorar seu dispositivo e atividade de rede, inclusive emails, apps e sites seguros.
+ 
+Para mais informações, contate seu administrador."</string>
+    <string name="monitoring_description_device_and_profile_owned">"Este dispositivo é gerenciado por:
 %1$s
-Your profile is managed by:
+Seu perfil é gerenciado por:
 %2$s
-
-Your administrator can monitor your device and network activity, including emails, apps and secure websites.
-
-For more information, contact your administrator."</string>
-    <string name="monitoring_description_vpn_profile_owned">"This profile is managed by:
+ 
+Seu administrador pode monitorar seu disositivo e atividade de rede, inclusive emails, apps e sites seguros.
+ 
+Para mais informações, contate seu administrador."</string>
+    <string name="monitoring_description_vpn_profile_owned">"Este perfil é gerenciado por:
 %1$s
-
-Your administrator is capable of monitoring your network activity including emails, apps, and secure websites. For more information, contact your administrator.
-
-Also, you gave \"%2$s\" permission to set up a VPN connection. This app can monitor network activity too."</string>
-    <string name="monitoring_description_legacy_vpn_profile_owned">"This profile is managed by:
+ 
+Seu administrador tem capacidade para monitorar sua atividade de rede inclusive emails, apps, e sites seguros. Para mais informações, contate seu administrador.
+ 
+Além disso, você concedeu à(ao) \"%2$s\" permissão de configurar uma conexão VPN. Este app pode monitorar atividade de rede também."</string>
+    <string name="monitoring_description_legacy_vpn_profile_owned">"Este perfil é gerenciado por:
 %1$s
-
-Your administrator is capable of monitoring your network activity including emails, apps, and secure websites. For more information, contact your administrator.
-
-Also, you\'re connected to a VPN (\"%2$s\"). Your VPN service provider can monitor network activity too."</string>
-    <string name="monitoring_description_vpn_device_and_profile_owned">"This device is managed by:
+ 
+Seu administrador tem a capacidade de monitorar sua atividade de rede inclusive emails, apps, e sites seguros. Para mais informações, contate seu administrador.
+ 
+Além disso, você está conectado à uma VPN (\"%2$s\"). Seu provedor de VPN pode monitorar atividade de rede também."</string>
+    <string name="monitoring_description_vpn_device_and_profile_owned">"Este dispositivo é gerenciado por:
 %1$s
-Your profile is managed by:
+Seu perfil é gerenciado por:
 %2$s
-
-Your administrator is capable of monitoring your network activity including emails, apps, and secure websites. For more information, contact your administrator.
-
-Also, you gave \"%3$s\" permission to set up a VPN connection. This app can monitor network activity too."</string>
-    <string name="monitoring_description_legacy_vpn_device_and_profile_owned">"This device is managed by:
+ 
+Seu administrador é capaz de monitorar sua atividade de rede inclusive emails, apps, e sites seguros. Para mais informações, contate seu administrador.
+ 
+Além disso, você condeu à(ao) \"%3$s\" permissão de configurar uma conexão VPN. Este app pode monitorar atividade de rede também."</string>
+    <string name="monitoring_description_legacy_vpn_device_and_profile_owned">"Este dispositivo é gerenciado por:
 %1$s
-Your profile is managed by:
+Seu perfil é gerenciado por:
 %2$s
-
-Your administrator is capable of monitoring your network activity including emails, apps, and secure websites. For more information, contact your administrator.
-
-Also, you\'re connected to a VPN (\"%3$s\"). Your VPN service provider can monitor network activity too."</string>
+ 
+Seu administrador tem a capacidade de monitorar sua atividade de rede, incluindo emails, apps, e sites seguros. Para mais informações, contate seu administrador.
+ 
+Além disso, você está conectado à uma VPN (\"%3$s\"). Seu provedor VPN pode monitorar sua atividade de rede também."</string>
     <string name="keyguard_indication_trust_disabled">Device will stay locked until you manually unlock</string>
     <string name="hidden_notifications_title">Get notifications faster</string>
     <string name="hidden_notifications_text">See them before you unlock</string>
@@ -438,8 +438,8 @@ Also, you\'re connected to a VPN (\"%3$s\"). Your VPN service provider can monit
     <string name="keyguard_missing_sim_instructions">Insert a SIM card.</string>
     <string name="keyguard_missing_sim_instructions_long">The SIM card is missing or not readable. Insert a SIM card.</string>
     <string name="keyguard_permanent_disabled_sim_message_short">Unusable SIM card.</string>
-    <string name="keyguard_permanent_disabled_sim_instructions">"Your SIM card has been permanently disabled.
- Contact your wireless service provider for another SIM card."</string>
+    <string name="keyguard_permanent_disabled_sim_instructions">"Seu cartão SIM foi permanentemente desabilitado.
+ Contate sua operadora para outro cartão SIM."</string>
     <string name="keyguard_sim_locked_message">SIM card is locked.</string>
     <string name="keyguard_sim_puk_locked_message">SIM card is PUK-locked.</string>
     <string name="keyguard_sim_unlock_progress_dialog_message">Unlocking SIM card…</string>
@@ -485,8 +485,8 @@ Also, you\'re connected to a VPN (\"%3$s\"). Your VPN service provider can monit
     <string name="password_keyboard_label_alpha_key">ABC</string>
     <string name="password_keyboard_label_alt_key">ALT</string>
     <string name="keyboardview_keycode_alt">Alt</string>
-    <string name="keyboardview_keycode_cancel">Cancel</string>
-    <string name="keyboardview_keycode_delete">Delete</string>
+    <string name="keyboardview_keycode_cancel">Ezeztatu</string>
+    <string name="keyboardview_keycode_delete">Ezabatu</string>
     <string name="keyboardview_keycode_done">Done</string>
     <string name="keyboardview_keycode_mode_change">Mode change</string>
     <string name="keyboardview_keycode_shift">Shift</string>
@@ -524,27 +524,27 @@ Also, you\'re connected to a VPN (\"%3$s\"). Your VPN service provider can monit
     <string name="kg_login_password_hint">Password</string>
     <string name="kg_login_submit_button">Sign in</string>
     <string name="kg_login_invalid_input">Invalid username or password.</string>
-    <string name="kg_login_account_recovery_hint">\"Forgot your username or password?
-Visit \"<b>google.com/accounts/recovery</b>.</string>
+    <string name="kg_login_account_recovery_hint">\"Esqueceu seu usuário ou senha?
+Visite \"<b>google.com/accounts/recovery</b>.</string>
     <string name="kg_login_checking_password">Checking account…</string>
-    <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"You have incorrectly typed your PIN %d times. 
-
-Try again in %d seconds."</string>
-    <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"You have incorrectly typed your password %d times. 
-
-Try again in %d seconds."</string>
-    <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"You have incorrectly drawn your unlock pattern %d times. 
-
-Try again in %d seconds."</string>
+    <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"Você digitou incorretamente seu PIN %d vezes.
+ 
+Tente novamente em %d segundos."</string>
+    <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Você digitou sua senha incorretamente %d vezes.
+ 
+Tente novamente em %d segundos."</string>
+    <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Você desenhou seu padrão incorretamente %d vezes.
+ 
+Tente novamente em %d segundos."</string>
     <string name="kg_failed_attempts_almost_at_wipe" formatted="false">You have incorrectly attempted to unlock the tablet %d times. After %d more unsuccessful attempts, this tablet will be reset, which will delete all its data.</string>
     <string name="kg_failed_attempts_now_wiping">You have incorrectly attempted to unlock the tablet %d times. This tablet will be reset, which will delete all its data.</string>
     <string name="kg_failed_attempts_almost_at_erase_user" formatted="false">You have incorrectly attempted to unlock the tablet %d times. After %d more unsuccessful attempts, this user will be removed, which will delete all user data.</string>
     <string name="kg_failed_attempts_now_erasing_user">You have incorrectly attempted to unlock the tablet %d times. This user will be removed, which will delete all user data.</string>
     <string name="kg_failed_attempts_almost_at_erase_profile" formatted="false">You have incorrectly attempted to unlock the tablet %d times. After %d more unsuccessful attempts, the work profile will be removed, which will delete all profile data.</string>
     <string name="kg_failed_attempts_now_erasing_profile">You have incorrectly attempted to unlock the tablet %d times. The work profile will be removed, which will delete all profile data.</string>
-    <string name="kg_failed_attempts_almost_at_login" formatted="false">"You have incorrectly drawn your unlock pattern %d times. After %d more unsuccessful attempts, you will be asked to unlock your tablet using an email account.
-
- Try again in %d seconds."</string>
+    <string name="kg_failed_attempts_almost_at_login" formatted="false">"Você desenhou seu padrão incorretamente %d vezes. Após mais %d tentativas, você será solicitado para desbloquear seu tablet utilizando uma conta de email.
+ 
+ Tente novamente em %d segundos."</string>
     <string name="kg_reordering_delete_drop_target_text">Remove</string>
     <string name="kg_password_wrong_pin_code_pukked">Incorrect SIM PIN code you must now contact your carrier to unlock your device.</string>
     <string name="kg_password_wrong_puk_code_dead">SIM is unusable. Contact your carrier.</string>

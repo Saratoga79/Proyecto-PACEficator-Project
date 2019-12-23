@@ -28,26 +28,26 @@
     <item>Alarm will go off in %1$s, %2$s, and %3$s.</item>
   </string-array>
   <string-array name="repeat_description">
-    <item>Every day</item>
+    <item>Diario</item>
     <item>Working day</item>
     <item>Weekend</item>
-    <item>Mon</item>
-    <item>Tue</item>
-    <item>Wed</item>
-    <item>Thu</item>
-    <item>Fri</item>
-    <item>Sat</item>
-    <item>Sun</item>
+    <item>Lun</item>
+    <item>Mar</item>
+    <item>Mié</item>
+    <item>Jue</item>
+    <item>Vie</item>
+    <item>Sáb</item>
+    <item>Dom</item>
   </string-array>
   <string-array name="short_week_days">
     <item></item>
-    <item>Sun</item>
-    <item>Mon</item>
-    <item>Tue</item>
-    <item>Wed</item>
-    <item>Thu</item>
-    <item>Fri</item>
-    <item>Sat</item>
+    <item>Dom</item>
+    <item>Lun</item>
+    <item>Mar</item>
+    <item>Mié</item>
+    <item>Jue</item>
+    <item>Vie</item>
+    <item>Sáb</item>
   </string-array>
   <string-array name="am_pm">
     <item>AM</item>
@@ -55,20 +55,20 @@
   </string-array>
   <string-array name="sport_data_item_array">
     <item></item>
-    <item>Time</item>
+    <item>Hora</item>
     <item>Distance</item>
     <item>Pace</item>
     <item>Avg pace</item>
     <item>Heart rate</item>
     <item>Calories</item>
-    <item>Altitude</item>
+    <item>Altitud</item>
     <item>Elev gain</item>
     <item>Elev loss</item>
     <item>Speed</item>
     <item>Avg speed</item>
     <item>Cadence</item>
     <item>Dist gain</item>
-    <item>Steps</item>
+    <item>Pasos</item>
     <item>Cadence</item>
     <item>Laps</item>
     <item>DPS</item>
@@ -122,7 +122,7 @@
     <item>Total time</item>
     <item>Remaining time</item>
     <item>Distance</item>
-    <item>Remaining</item>
+    <item>Restante</item>
     <item>Has rested</item>
   </string-array>
 </resources>
