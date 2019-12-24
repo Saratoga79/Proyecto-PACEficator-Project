@@ -147,14 +147,14 @@
         <item>60063.wfz</item>
     </string-array>
     <string-array name="quick_settings_status_week">
-        <item>Sun</item>
-        <item>Mon</item>
-        <item>Tue</item>
-        <item>Wed</item>
-        <item>Thu</item>
-        <item>Fri</item>
-        <item>Sat</item>
-        <item>Today</item>
+        <item>Niedz</item>
+        <item>Pon</item>
+        <item>Wt</item>
+        <item>Śro</item>
+        <item>Czw</item>
+        <item>Pią</item>
+        <item>Sob</item>
+        <item>Dzisiaj</item>
     </string-array>
     <string-array name="quick_settings_status_principleTerm">
         <item>Major Cold</item>
@@ -275,17 +275,17 @@
         <item>Severe haze</item>
         <item>Dense fog</item>
         <item>Extremely dense fog</item>
-        <item>No data</item>
+        <item>Brak danych</item>
     </string-array>
     <string-array name="sport_data_item_array">
         <item></item>
-        <item>Time</item>
-        <item>Distance</item>
+        <item>Czas</item>
+        <item>Dystans</item>
         <item>Pace</item>
         <item>Avg pace</item>
         <item>Heart rate</item>
         <item>Calories</item>
-        <item>Altitude</item>
+        <item>Wysokość</item>
         <item>Elev gain</item>
         <item>Elev loss</item>
         <item>Speed</item>
@@ -300,7 +300,7 @@
         <item>Avg SPM</item>
         <item>Pace</item>
         <item>Avg pace</item>
-        <item>Distance</item>
+        <item>Dystans</item>
         <item>TE</item>
         <item>Vert speed</item>
         <item>Avg speed</item>
@@ -345,8 +345,8 @@
         <item>Total distance</item>
         <item>Total time</item>
         <item>Remaining time</item>
-        <item>Distance</item>
-        <item>Remaining</item>
+        <item>Dystans</item>
+        <item>Pozostałe</item>
         <item>Has rested</item>
     </string-array>
 </resources>
