@@ -3,32 +3,32 @@
 <resources>
     <string name="config_statusBarComponent">com.android.systemui.statusbar.phone.PhoneStatusBar</string>
     <string name="quick_settings_tiles_default">wifi,bt,inversion,cell,airplane,rotation,flashlight,location,cast,hotspot</string>
-    <string name="quick_settings_tiles">default</string>
+    <string name="quick_settings_tiles">predvolené</string>
     <string name="velocity_tracker_impl">platform</string>
     <string name="doze_pulse_schedule">1s,10s,30s,60s</string>
     <string name="system_ui_date_pattern">@android:string/system_ui_date_pattern</string>
     <string name="lland">L Land</string>
     <string name="app_label">System UI</string>
-    <string name="status_bar_clear_all_button">Clear</string>
+    <string name="status_bar_clear_all_button">Vyčistiť</string>
     <string name="status_bar_recent_remove_item_title">Remove from list</string>
     <string name="status_bar_recent_inspect_item_title">App info</string>
     <string name="status_bar_no_recent_apps">Your recent screens appear here</string>
     <string name="status_bar_accessibility_dismiss_recents">Dismiss recent apps</string>
-    <string name="status_bar_no_notifications_title">No notifications</string>
+    <string name="status_bar_no_notifications_title">Žiadne upozornenia</string>
     <string name="status_bar_ongoing_events_title">Ongoing</string>
     <string name="status_bar_latest_events_title">Notifications</string>
     <string name="battery_low_title">Battery is low</string>
     <string name="battery_low_percent_format">%s remaining</string>
     <string name="battery_low_percent_format_saver_started">%s remaining. Battery saver is on.</string>
-    <string name="invalid_charger">"USB charging not supported.
-Use only the supplied charger."</string>
+    <string name="invalid_charger">"Nabíjanie cez USB nie je podporované.
+Používajte iba dodávanú nabíjačku."</string>
     <string name="invalid_charger_title">USB charging not supported.</string>
     <string name="invalid_charger_text">Use only the supplied charger.</string>
     <string name="battery_low_why">Settings</string>
     <string name="battery_saver_confirmation_title">Turn on battery saver?</string>
     <string name="battery_saver_confirmation_ok">Turn on</string>
     <string name="battery_saver_start_action">Turn on battery saver</string>
-    <string name="status_bar_settings_settings_button">Settings</string>
+    <string name="status_bar_settings_settings_button">Nastavenia</string>
     <string name="status_bar_settings_wifi_button">Wi-Fi</string>
     <string name="status_bar_settings_airplane">Airplane mode</string>
     <string name="status_bar_settings_auto_rotation">Auto-rotate screen</string>
@@ -49,7 +49,7 @@ Use only the supplied charger."</string>
     <string name="always_use_device">Use by default for this USB device</string>
     <string name="always_use_accessory">Use by default for this USB accessory</string>
     <string name="usb_debugging_title">Allow USB debugging?</string>
-    <string name="usb_debugging_message">"The computer\'s RSA key fingerprint is:
+    <string name="usb_debugging_message">"Počítačový odtlačok kľúča RSA je:
 %1$s"</string>
     <string name="usb_debugging_always">Always allow from this computer</string>
     <string name="compat_mode_on">Zoom to fill screen</string>
@@ -71,7 +71,7 @@ Use only the supplied charger."</string>
     <string name="accessibility_recent">Overview</string>
     <string name="accessibility_search_light">Search</string>
     <string name="accessibility_camera_button">Camera</string>
-    <string name="accessibility_phone_button">Phone</string>
+    <string name="accessibility_phone_button">Telefón</string>
     <string name="accessibility_unlock_button">Unlock</string>
     <string name="unlock_label">unlock</string>
     <string name="phone_label">open phone</string>
@@ -91,7 +91,7 @@ Use only the supplied charger."</string>
     <string name="accessibility_phone_two_bars">Phone two bars.</string>
     <string name="accessibility_phone_three_bars">Phone three bars.</string>
     <string name="accessibility_phone_signal_full">Phone signal full.</string>
-    <string name="accessibility_no_data">No data.</string>
+    <string name="accessibility_no_data">Žiadne údaje.</string>
     <string name="accessibility_data_one_bar">Data one bar.</string>
     <string name="accessibility_data_two_bars">Data two bars.</string>
     <string name="accessibility_data_three_bars">Data three bars.</string>
@@ -116,10 +116,10 @@ Use only the supplied charger."</string>
     <string name="accessibility_two_bars">Two bars.</string>
     <string name="accessibility_three_bars">Three bars.</string>
     <string name="accessibility_signal_full">Signal full.</string>
-    <string name="accessibility_desc_on">On.</string>
-    <string name="accessibility_desc_off">Off.</string>
-    <string name="accessibility_desc_connected">Connected.</string>
-    <string name="accessibility_desc_connecting">Connecting.</string>
+    <string name="accessibility_desc_on">Zapnuté.</string>
+    <string name="accessibility_desc_off">Vypnuté.</string>
+    <string name="accessibility_desc_connected">Pripojené k.</string>
+    <string name="accessibility_desc_connecting">Pripájanie k.</string>
     <string name="accessibility_data_connection_gprs">GPRS</string>
     <string name="accessibility_data_connection_1x">1 X</string>
     <string name="accessibility_data_connection_hspa">HSPA</string>
@@ -191,9 +191,9 @@ Use only the supplied charger."</string>
     <string name="data_usage_disabled_dialog_4g_title">4G data is off</string>
     <string name="data_usage_disabled_dialog_mobile_title">Cellular data is off</string>
     <string name="data_usage_disabled_dialog_title">Data is off</string>
-    <string name="data_usage_disabled_dialog">"Your device turned off data because it reached the limit you set.
+    <string name="data_usage_disabled_dialog">"Váš prístroj vypol údaje, pretože dosiahol limit, ktorý ste nastavili.
 
-Turning it back on may lead to charges from your carrier."</string>
+Opätovné zapnutie môže viesť k poplatkom od vášho operátora."</string>
     <string name="data_usage_disabled_dialog_enable">Turn on data</string>
     <string name="status_bar_settings_signal_meter_disconnected">No Internet connection</string>
     <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi connected</string>
@@ -217,19 +217,19 @@ Turning it back on may lead to charges from your carrier."</string>
     <string name="quick_settings_bluetooth_multiple_devices_label">Bluetooth (%d Devices)</string>
     <string name="quick_settings_bluetooth_off_label">Bluetooth Off</string>
     <string name="quick_settings_bluetooth_detail_empty_text">No paired devices available</string>
-    <string name="quick_settings_brightness_label">Brightness</string>
+    <string name="quick_settings_brightness_label">Jas</string>
     <string name="quick_settings_rotation_unlocked_label">Auto-rotate</string>
     <string name="quick_settings_rotation_locked_label">Rotation locked</string>
     <string name="quick_settings_rotation_locked_portrait_label">Portrait</string>
     <string name="quick_settings_rotation_locked_landscape_label">Landscape</string>
     <string name="quick_settings_ime_label">Input Method</string>
-    <string name="quick_settings_location_label">Location</string>
+    <string name="quick_settings_location_label">miesto</string>
     <string name="quick_settings_location_off_label">Location Off</string>
     <string name="quick_settings_media_device_label">Media device</string>
     <string name="quick_settings_rssi_label">RSSI</string>
     <string name="quick_settings_rssi_emergency_only">Emergency Calls Only</string>
-    <string name="quick_settings_settings_label">Settings</string>
-    <string name="quick_settings_time_label">Time</string>
+    <string name="quick_settings_settings_label">Nastavenia</string>
+    <string name="quick_settings_time_label">Čas</string>
     <string name="quick_settings_user_label">Me</string>
     <string name="quick_settings_user_title">User</string>
     <string name="quick_settings_user_new_user">New user</string>
@@ -243,15 +243,15 @@ Turning it back on may lead to charges from your carrier."</string>
     <string name="quick_settings_cast_device_default_name">Unnamed device</string>
     <string name="quick_settings_cast_device_default_description">Ready to cast</string>
     <string name="quick_settings_cast_detail_empty_text">No devices available</string>
-    <string name="quick_settings_brightness_dialog_title">Brightness</string>
+    <string name="quick_settings_brightness_dialog_title">Jas</string>
     <string name="quick_settings_brightness_dialog_auto_brightness_label">AUTO</string>
     <string name="quick_settings_inversion_label">Invert colors</string>
     <string name="quick_settings_color_space_label">Color correction mode</string>
     <string name="quick_settings_more_settings">More settings</string>
-    <string name="quick_settings_done">Done</string>
-    <string name="quick_settings_connected">Connected</string>
+    <string name="quick_settings_done">Hotovo</string>
+    <string name="quick_settings_connected">Pripojené k</string>
     <string name="quick_settings_connected_via_wfa">Connected via Wi‑Fi assistant</string>
-    <string name="quick_settings_connecting">Connecting...</string>
+    <string name="quick_settings_connecting">Pripájanie k...</string>
     <string name="quick_settings_tethering_label">Tethering</string>
     <string name="quick_settings_hotspot_label">Hotspot</string>
     <string name="quick_settings_notifications_label">Notifications</string>
@@ -273,8 +273,8 @@ Turning it back on may lead to charges from your carrier."</string>
     <string name="expanded_header_battery_charging_with_time">%s until full</string>
     <string name="expanded_header_battery_not_charging">Not charging</string>
     <string name="battery_meter_very_low_overlay_symbol">!</string>
-    <string name="ssl_ca_cert_warning">"Network may
-be monitored"</string>
+    <string name="ssl_ca_cert_warning">"Sieť môže
+byť monitorovaná"</string>
     <string name="description_target_search">Search</string>
     <string name="description_direction_up">Slide up for %s.</string>
     <string name="description_direction_left">Slide left for %s.</string>
@@ -290,7 +290,7 @@ be monitored"</string>
     <string name="keyguard_unlock">Swipe up to unlock</string>
     <string name="phone_hint">Swipe right for phone</string>
     <string name="camera_hint">Swipe left for camera</string>
-    <string name="interruption_level_none">None</string>
+    <string name="interruption_level_none">žiadny</string>
     <string name="interruption_level_priority">Priority</string>
     <string name="interruption_level_all">All</string>
     <string name="keyguard_indication_charging_time">Charging (%s until full)</string>
@@ -310,9 +310,9 @@ be monitored"</string>
     <string name="guest_wipe_session_wipe">Start over</string>
     <string name="guest_wipe_session_dontwipe">Yes, continue</string>
     <string name="user_add_user_title">Add new user?</string>
-    <string name="user_add_user_message_short">"When you add a new user, that person needs to set up their space.
+    <string name="user_add_user_message_short">"Keď pridáte nového používateľa, táto osoba potrebuje nastaviť svoje miesto.
 
-Any user can update apps for all other users."</string>
+Každý používateľ môže aktualizovať aplikácie pre všetkých ostatných používateľov."</string>
     <string name="battery_saver_notification_title">Battery saver is on</string>
     <string name="battery_saver_notification_text">Reduces performance and background data</string>
     <string name="battery_saver_notification_action_text">Turn off battery saver</string>
@@ -321,7 +321,7 @@ Any user can update apps for all other users."</string>
     <string name="media_projection_remember_text">"Don't show again"</string>
     <string name="clear_all_notifications_text">Clear all</string>
     <string name="media_projection_action_text">Start now</string>
-    <string name="empty_shade_text">No notifications</string>
+    <string name="empty_shade_text">Žiadne upozornenia</string>
     <string name="device_owned_footer">Device may be monitored</string>
     <string name="profile_owned_footer">Profile may be monitored</string>
     <string name="vpn_footer">Network may be monitored</string>
@@ -330,72 +330,72 @@ Any user can update apps for all other users."</string>
     <string name="monitoring_title">Network monitoring</string>
     <string name="disable_vpn">Disable VPN</string>
     <string name="disconnect_vpn">Disconnect VPN</string>
-    <string name="monitoring_description_device_owned">"This device is managed by:
+    <string name="monitoring_description_device_owned">"Toto zariadenie je riadené:
 %1$s
 
-Your administrator can monitor your device and network activity, including emails, apps and secure websites.
+Váš správca môže monitorovať aktivity vášho zariadenia a siete, vrátane e-mailov, aplikácií a zabezpečených webových stránok.
 
-For more information, contact your administrator."</string>
-    <string name="monitoring_description_vpn">"You gave \"%1$s\" permission to set up a VPN connection.
+Ďalšie informácie získate od svojho správcu."</string>
+    <string name="monitoring_description_vpn">"Dali ste \"%1$s\" povolenie na nastavenie pripojenia VPN.
 
-This app can monitor your device and network activity, including emails, apps and secure websites."</string>
-    <string name="monitoring_description_legacy_vpn">"You\'re connected to a VPN (\"%1$s\").
+Táto aplikácia môže sledovať vaše zariadenie a sieťovú aktivitu vrátane e-mailov, aplikácií a zabezpečených webových stránok."</string>
+    <string name="monitoring_description_legacy_vpn">"Ste pripojení k VPN (\"%1$s\").
 
-Your VPN service provider can monitor your device and network activity including emails, apps, and secure websites."</string>
-    <string name="monitoring_description_vpn_device_owned">"This device is managed by:
+PPoskytovateľ služieb VPN môže monitorovať aktivity vášho zariadenia a siete vrátane e-mailov, aplikácií a zabezpečených webových stránok."</string>
+    <string name="monitoring_description_vpn_device_owned">"Toto zariadenie spravuje:
 %1$s
 
-Your administrator is capable of monitoring your network activity including emails, apps, and secure websites. For more information, contact your administrator.
+Váš správca je schopný monitorovať sieťovú aktivitu vrátane e-mailov, aplikácií a zabezpečených webových stránok. Ďalšie informácie získate od svojho správcu.
 
-Also, you gave \"%2$s\" permission to set up a VPN connection. This app can monitor network activity too."</string>
-    <string name="monitoring_description_legacy_vpn_device_owned">"This device is managed by:
+Tiež ste dali \"%2$s\" oprávnenie nastaviť pripojenie k sieti VPN. Táto aplikácia môže sledovať sieťovú aktivitu taky."</string>
+    <string name="monitoring_description_legacy_vpn_device_owned">"Toto zariadenie spravuje:
 %1$s
 
-Your administrator is capable of monitoring your network activity including emails, apps, and secure websites. For more information, contact your administrator.
+Administrátor může monitorovat vaši síťovou aktivitu, včetně e-mailů, aplikací a zabezpečených webových stránek. Pro více informací, obraťte se na správce.
 
-Also, you\'re connected to a VPN (\"%2$s\"). Your VPN service provider can monitor network activity too."</string>
-    <string name="monitoring_description_profile_owned">"This profile is managed by:
+Také jste připojeni k a VPN (\"%2$s\"). Poskytovatel služby VPN lze sledovat síťovou aktivitu taky."</string>
+    <string name="monitoring_description_profile_owned">"Tento profil spravuje:
 %1$s
 
-Your administrator can monitor your device and network activity, including emails, apps and secure websites.
+Váš správca môže sledovať vaše zariadenie a sieťovú aktivitu, vrátane e-mailov, aplikácií a zabezpečených webových stránok.
 
-For more information, contact your administrator."</string>
-    <string name="monitoring_description_device_and_profile_owned">"This device is managed by:
+Ďalšie informácie získate od svojho správcu."</string>
+    <string name="monitoring_description_device_and_profile_owned">"Toto zariadenie spravuje:
 %1$s
-Your profile is managed by:
+Váš profil je riadený:
 %2$s
 
-Your administrator can monitor your device and network activity, including emails, apps and secure websites.
+Váš správca môže monitorovať aktivity vášho zariadenia a siete, vrátane e-mailov, aplikácií a zabezpečených webových stránok.
 
-For more information, contact your administrator."</string>
-    <string name="monitoring_description_vpn_profile_owned">"This profile is managed by:
+Ďalšie informácie získate od svojho správcu."</string>
+    <string name="monitoring_description_vpn_profile_owned">"Tento profil spravuje:
 %1$s
 
-Your administrator is capable of monitoring your network activity including emails, apps, and secure websites. For more information, contact your administrator.
+Váš správca je schopný monitorovať sieťovú aktivitu vrátane e-mailov, aplikácií a zabezpečených webových stránok. Ďalšie informácie získate od svojho správcu.
 
-Also, you gave \"%2$s\" permission to set up a VPN connection. This app can monitor network activity too."</string>
-    <string name="monitoring_description_legacy_vpn_profile_owned">"This profile is managed by:
+Tiež ste dali \"%2$s\" povolenie na nastavenie pripojenia VPN. Táto aplikácia môže tiež sledovať aktivitu siete."</string>
+    <string name="monitoring_description_legacy_vpn_profile_owned">"Tento profil spravuje:
 %1$s
 
-Your administrator is capable of monitoring your network activity including emails, apps, and secure websites. For more information, contact your administrator.
+Váš správca je schopný monitorovať sieťovú aktivitu vrátane e-mailov, aplikácií a zabezpečených webových stránok. Ďalšie informácie získate od svojho správcu.
 
-Also, you\'re connected to a VPN (\"%2$s\"). Your VPN service provider can monitor network activity too."</string>
-    <string name="monitoring_description_vpn_device_and_profile_owned">"This device is managed by:
+Tiež ste pripojení k VPN (\"%2$s\"). PPoskytovateľ služieb VPN môže tiež sledovať aktivitu siete."</string>
+    <string name="monitoring_description_vpn_device_and_profile_owned">"Toto zariadenie spravuje:
 %1$s
-Your profile is managed by:
+Váš profil je riadený:
 %2$s
 
-Your administrator is capable of monitoring your network activity including emails, apps, and secure websites. For more information, contact your administrator.
+Váš správca je schopný monitorovať sieťovú aktivitu vrátane e-mailov, aplikácií a zabezpečených webových stránok. Ďalšie informácie získate od svojho správcu.
 
-Also, you gave \"%3$s\" permission to set up a VPN connection. This app can monitor network activity too."</string>
-    <string name="monitoring_description_legacy_vpn_device_and_profile_owned">"This device is managed by:
+Tiež ste to dali \"%3$s\" povolenie na nastavenie pripojenia VPN. Táto aplikácia môže tiež sledovať aktivitu siete."</string>
+    <string name="monitoring_description_legacy_vpn_device_and_profile_owned">"Toto zariadenie spravuje:
 %1$s
-Your profile is managed by:
+Váš profil je riadený:
 %2$s
 
-Your administrator is capable of monitoring your network activity including emails, apps, and secure websites. For more information, contact your administrator.
+Váš správca je schopný monitorovať sieťovú aktivitu vrátane e-mailov, aplikácií a zabezpečených webových stránok. Ďalšie informácie získate od svojho správcu.
 
-Also, you\'re connected to a VPN (\"%3$s\"). Your VPN service provider can monitor network activity too."</string>
+Tiež ste pripojení k VPN (\"%3$s\"). Poskytovateľ služieb VPN môže tiež sledovať aktivitu siete."</string>
     <string name="keyguard_indication_trust_disabled">Device will stay locked until you manually unlock</string>
     <string name="hidden_notifications_title">Get notifications faster</string>
     <string name="hidden_notifications_text">See them before you unlock</string>
@@ -438,8 +438,8 @@ Also, you\'re connected to a VPN (\"%3$s\"). Your VPN service provider can monit
     <string name="keyguard_missing_sim_instructions">Insert a SIM card.</string>
     <string name="keyguard_missing_sim_instructions_long">The SIM card is missing or not readable. Insert a SIM card.</string>
     <string name="keyguard_permanent_disabled_sim_message_short">Unusable SIM card.</string>
-    <string name="keyguard_permanent_disabled_sim_instructions">"Your SIM card has been permanently disabled.
- Contact your wireless service provider for another SIM card."</string>
+    <string name="keyguard_permanent_disabled_sim_instructions">"Vaša SIM karta bola natrvalo vypnutá.
+ Požiadajte svojho poskytovateľa služieb o novú SIM kartu."</string>
     <string name="keyguard_sim_locked_message">SIM card is locked.</string>
     <string name="keyguard_sim_puk_locked_message">SIM card is PUK-locked.</string>
     <string name="keyguard_sim_unlock_progress_dialog_message">Unlocking SIM card…</string>
@@ -447,7 +447,7 @@ Also, you\'re connected to a VPN (\"%3$s\"). Your VPN service provider can monit
     <string name="keyguard_widget_24_hours_format">kkmm</string>
     <string name="keyguard_accessibility_widget_changed">%1$s. Widget %2$d of %3$d.</string>
     <string name="keyguard_accessibility_add_widget">Add widget.</string>
-    <string name="keyguard_accessibility_widget_empty_slot">Empty</string>
+    <string name="keyguard_accessibility_widget_empty_slot">Prázdne</string>
     <string name="keyguard_accessibility_unlock_area_expanded">Unlock area expanded.</string>
     <string name="keyguard_accessibility_unlock_area_collapsed">Unlock area collapsed.</string>
     <string name="keyguard_accessibility_widget">%1$s widget.</string>
@@ -485,9 +485,9 @@ Also, you\'re connected to a VPN (\"%3$s\"). Your VPN service provider can monit
     <string name="password_keyboard_label_alpha_key">ABC</string>
     <string name="password_keyboard_label_alt_key">ALT</string>
     <string name="keyboardview_keycode_alt">Alt</string>
-    <string name="keyboardview_keycode_cancel">Cancel</string>
-    <string name="keyboardview_keycode_delete">Delete</string>
-    <string name="keyboardview_keycode_done">Done</string>
+    <string name="keyboardview_keycode_cancel">Zrušiť</string>
+    <string name="keyboardview_keycode_delete">Vymazať</string>
+    <string name="keyboardview_keycode_done">Hotovo</string>
     <string name="keyboardview_keycode_mode_change">Mode change</string>
     <string name="keyboardview_keycode_shift">Shift</string>
     <string name="keyboardview_keycode_enter">Enter</string>
@@ -524,27 +524,27 @@ Also, you\'re connected to a VPN (\"%3$s\"). Your VPN service provider can monit
     <string name="kg_login_password_hint">Password</string>
     <string name="kg_login_submit_button">Sign in</string>
     <string name="kg_login_invalid_input">Invalid username or password.</string>
-    <string name="kg_login_account_recovery_hint">\"Forgot your username or password?
-Visit \"<b>google.com/accounts/recovery</b>.</string>
+    <string name="kg_login_account_recovery_hint">\"Zabudli ste svoje používateľské meno alebo heslo?
+Návštívte \"<b>google.com/accounts/recovery</b>.</string>
     <string name="kg_login_checking_password">Checking account…</string>
-    <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"You have incorrectly typed your PIN %d times. 
+    <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"%d krát ste nesprávne zadali PIN kód. 
 
-Try again in %d seconds."</string>
-    <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"You have incorrectly typed your password %d times. 
+Opakujte o %d sekúnd."</string>
+    <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"%d krát ste nesprávne ste zadali heslo. 
 
-Try again in %d seconds."</string>
-    <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"You have incorrectly drawn your unlock pattern %d times. 
+Opakujte o %d sekúnd."</string>
+    <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"%d krát ste nesprávne ste nakreslili vzor pre odomknutie. 
 
-Try again in %d seconds."</string>
+Opakujte o %d sekúnd."</string>
     <string name="kg_failed_attempts_almost_at_wipe" formatted="false">You have incorrectly attempted to unlock the tablet %d times. After %d more unsuccessful attempts, this tablet will be reset, which will delete all its data.</string>
     <string name="kg_failed_attempts_now_wiping">You have incorrectly attempted to unlock the tablet %d times. This tablet will be reset, which will delete all its data.</string>
     <string name="kg_failed_attempts_almost_at_erase_user" formatted="false">You have incorrectly attempted to unlock the tablet %d times. After %d more unsuccessful attempts, this user will be removed, which will delete all user data.</string>
     <string name="kg_failed_attempts_now_erasing_user">You have incorrectly attempted to unlock the tablet %d times. This user will be removed, which will delete all user data.</string>
     <string name="kg_failed_attempts_almost_at_erase_profile" formatted="false">You have incorrectly attempted to unlock the tablet %d times. After %d more unsuccessful attempts, the work profile will be removed, which will delete all profile data.</string>
     <string name="kg_failed_attempts_now_erasing_profile">You have incorrectly attempted to unlock the tablet %d times. The work profile will be removed, which will delete all profile data.</string>
-    <string name="kg_failed_attempts_almost_at_login" formatted="false">"You have incorrectly drawn your unlock pattern %d times. After %d more unsuccessful attempts, you will be asked to unlock your tablet using an email account.
+    <string name="kg_failed_attempts_almost_at_login" formatted="false">"Neúspešne ste nakreslili vzhľad odomknutia %d krát. Po ďalších %d neúspešných pokusoch budete požiadaní o odblokovanie tabletu pomocou e-mailového konta.
 
- Try again in %d seconds."</string>
+ Opakujte o %d sekúnd."</string>
     <string name="kg_reordering_delete_drop_target_text">Remove</string>
     <string name="kg_password_wrong_pin_code_pukked">Incorrect SIM PIN code you must now contact your carrier to unlock your device.</string>
     <string name="kg_password_wrong_puk_code_dead">SIM is unusable. Contact your carrier.</string>
