@@ -29,17 +29,17 @@
     </string-array>
     <string-array name="weekday_names">
         <item>Mon</item>
-        <item>Tue</item>
-        <item>Wed</item>
-        <item>Thu</item>
-        <item>Fri</item>
-        <item>Sat</item>
-        <item>Sun</item>
+        <item>Die</item>
+        <item>Mit</item>
+        <item>Don</item>
+        <item>Fre</item>
+        <item>Sam</item>
+        <item>Son</item>
     </string-array>
     <string-array name="subject_typenfreqs">
-        <item>Today</item>
+        <item>Heute</item>
         <item>This week</item>
-        <item>Today</item>
+        <item>Heute</item>
         <item>This week</item>
     </string-array>
     <string-array name="chart_x_titles">
@@ -53,13 +53,13 @@
     </string-array>
     <string-array name="sport_data_item_array">
         <item></item>
-        <item>Time</item>
+        <item>Zeit</item>
         <item>Distance</item>
         <item>Pace</item>
         <item>Avg pace</item>
         <item>Heart rate</item>
         <item>Calories</item>
-        <item>Altitude</item>
+        <item>Höhe über Meer</item>
         <item>Elev gain</item>
         <item>Elev loss</item>
         <item>Speed</item>
@@ -120,7 +120,7 @@
         <item>Total time</item>
         <item>Remaining time</item>
         <item>Distance</item>
-        <item>Remaining</item>
+        <item>Verbleibend</item>
         <item>Has rested</item>
     </string-array>
 </resources>
