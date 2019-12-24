@@ -38,16 +38,16 @@
     </string-array>
     <string-array name="dally_performence_level_status">
         <item>Fatigued</item>
-        <item>Normal</item>
+        <item>พอใช้</item>
         <item>Good</item>
     </string-array>
     <string-array name="vo2_max_level_status">
-        <item>Very poor</item>
-        <item>Poor</item>
-        <item>Fair</item>
+        <item>เริ่มดี</item>
+        <item>ดีขึ้น</item>
+        <item>ดีมาก</item>
         <item>Average</item>
         <item>Good</item>
-        <item>Very good</item>
+        <item>เยี่ยมยอด</item>
         <item>Excellent</item>
     </string-array>
     <string-array name="spring_depend">
@@ -58,35 +58,35 @@
     </string-array>
     <string-array name="sport_data_item_array">
         <item></item>
-        <item>Time</item>
-        <item>Distance</item>
+        <item>เวลา</item>
+        <item>ระยะทาง</item>
         <item>Pace</item>
-        <item>Avg pace</item>
+        <item>เพชเฉลี่ย</item>
         <item>Heart rate</item>
         <item>Calories</item>
         <item>Altitude</item>
-        <item>Elev gain</item>
-        <item>Elev loss</item>
+        <item>ความชัน</item>
+        <item>ระดับต่ำสุด</item>
         <item>Speed</item>
-        <item>Avg speed</item>
+        <item>ความเร็วเฉลี่ย(กม/ชม.)</item>
         <item>Cadence</item>
-        <item>Dist gain</item>
+        <item>ระยะความสูงทั้งหมด</item>
         <item>Steps</item>
         <item>Cadence</item>
-        <item>Laps</item>
+        <item>รอบ</item>
         <item>DPS</item>
         <item>Stroke rate</item>
-        <item>Avg SPM</item>
+        <item>รอบขาเฉลี่ย</item>
         <item>Pace</item>
-        <item>Avg pace</item>
-        <item>Distance</item>
+        <item>เพชเฉลี่ย</item>
+        <item>ระยะทาง</item>
         <item>TE</item>
-        <item>Vert speed</item>
-        <item>Avg speed</item>
+        <item>Vert ความเร็ว</item>
+        <item>ความเร็วเฉลี่ย(กม/ชม.)</item>
         <item>Max speed</item>
-        <item>Laps</item>
-        <item>Downhill</item>
-        <item>Total downhill</item>
+        <item>รอบ</item>
+        <item>ลงเขา</item>
+        <item>รวมการลงเขา</item>
         <item>Descent</item>
         <item>Strokes</item>
         <item>Lap time</item>
@@ -96,9 +96,9 @@
         <item>Lap cadence</item>
         <item>Lap pace</item>
         <item>Current freq</item>
-        <item>Total count</item>
-        <item>Avg freq</item>
-        <item>Groups</item>
+        <item>นับรวม</item>
+        <item>ความถี่เฉลี่ย</item>
+        <item>กลุ่ม</item>
         <item>Lap count</item>
         <item>Lap time</item>
         <item>Lap freq</item>
@@ -112,7 +112,7 @@
         <item>Calories</item>
         <item>Avg. HR</item>
         <item>Paddles of this set</item>
-        <item>Frequency</item>
+        <item>ความถี่</item>
         <item>Total paddles</item>
         <item>Paddle frequency</item>
         <item>Pulling duration</item>
@@ -120,12 +120,12 @@
         <item>Avg. Freq.</item>
     </string-array>
     <string-array name="sport_train_item">
-        <item>Remaining distance</item>
-        <item>Total distance</item>
+        <item>ระยะทางที่เหลือ</item>
+        <item>ระยะทางรวมทั้งหมด</item>
         <item>Total time</item>
-        <item>Remaining time</item>
-        <item>Distance</item>
-        <item>Remaining</item>
-        <item>Has rested</item>
+        <item>เวลาที่เหลือ</item>
+        <item>ระยะทาง</item>
+        <item>ที่เหลืออยู่</item>
+        <item>ควรพักผ่อน</item>
     </string-array>
 </resources>
