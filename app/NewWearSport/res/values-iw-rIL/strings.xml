@@ -41,7 +41,7 @@
     <string name="crossing_settings_item_title_individual_remind">Single lap distance</string>
     <string name="crossing_settings_item_value_individual">%1s km</string>
     <string name="crossing_remind_target_individual_title">Lap %1d</string>
-    <string name="crossing_remind_target_individual_cost_time">Time</string>
+    <string name="crossing_remind_target_individual_cost_time">时间</string>
     <string name="crossing_remind_target_individual_pace">Pace</string>
     <string name="agps_time_out">AGPS has expired. GPS searching will be slow. Connect to the Amazfit App to update it.</string>
     <string name="safe_hearate_remind_content">Notify when higher than %1d BPM</string>
@@ -61,7 +61,7 @@
     <string name="remind_target_time_default_value">00</string>
     <string name="no_altitude_hint">"Couldn't find altitude data"</string>
     <string name="no_heartrate_data_hint">"Couldn't find heart rate data"</string>
-    <string name="no_chart_data_hint">No data</string>
+    <string name="no_chart_data_hint">אין נתונים</string>
     <string name="not_speed_data">"Couldn't find speed data"</string>
     <string name="not_pace_data">"Couldn't find pace data"</string>
     <string name="not_step_freq_data">"Couldn't find cadence data"</string>
@@ -93,7 +93,7 @@
     <string name="detail_route_detail_auto_lap_title">Auto laps</string>
     <string name="detail_lap_num">Lap</string>
     <string name="detail_lap_serial_number">Serial number</string>
-    <string name="detail_lap_time">Time</string>
+    <string name="detail_lap_time">时间</string>
     <string name="detail_total_distance_desc">Total distance</string>
     <string name="detail_lap_dis">Distance</string>
     <string name="detail_lap_avg_pace">Avg pace</string>
@@ -219,10 +219,10 @@ start now."</string>
     <string name="lap_add_failed">"Lap is too short, can't record"</string>
     <string name="sport_main_stop_this_sport">Stop this activity?</string>
     <string name="sport_history_delete_dialog_title">"Delete this activity? You can't restore it after deleting."</string>
-    <string name="sport_main_give_up_this_sport">"Discard this activity?
+    <string name="sport_main_give_up_this_sport">"בטל פעילות זו?
 "</string>
-    <string name="sport_confirm_stop_sport">Yes</string>
-    <string name="sport_confirm_not_stop_sport">No</string>
+    <string name="sport_confirm_stop_sport">是</string>
+    <string name="sport_confirm_not_stop_sport">否</string>
     <string name="sport_main_am">AM</string>
     <string name="sport_main_pm">PM</string>
     <string name="sport_main_recovery_title">Recommended recovery time</string>
@@ -290,7 +290,7 @@ start now."</string>
     <string name="sport_stride_unit_imperial">in</string>
     <string name="end_last_sport_tips">Stop %1$s activity first</string>
     <string name="export_route_trail">Export</string>
-    <string name="sport_dlg_msg_hint_cancel">"Cancel this export?
+    <string name="sport_dlg_msg_hint_cancel">"בטל את הייצוא?
 "</string>
     <string name="exchange_prepare_riding">Next: Cycling</string>
     <string name="exchange_prepare_running">Next: Run</string>
@@ -464,11 +464,11 @@ start now."</string>
     <string name="modify_big_dis_regain">Edit</string>
     <string name="modify_big_dis_confirm">Continue calibration</string>
     <string name="re_modify_dis">Calibrate again</string>
-    <string name="re_modify_dis_tips">"1. To calibrate the distance result of a running session (must be longer than 0.5 km) helps the watch to generate a more accurate result.
-2. If you still aren\'t satisfied with the result after several calibration attempts, try to calibrate again.
-3. If you calibrate the result again, all previous calibration records will be deleted."</string>
+    <string name="re_modify_dis_tips">"1. כדי לכייל את התוצאה מרחק של אימון ריצה (חייב להיות ארוך מ- 0.5 ק מ) מסייעת השעון כדי ליצור תוצאה מדויקת יותר.
+2. אם עדיין אינך מרוצה מהתוצאה לאחר מספר ניסיונות, יש לנסות לכייל שוב.
+3. אם תכיילו שוב את התוצאה, כל הרשומות כיול הקודמות יימחקו."</string>
     <string name="give_up_re_modify_dis">Give up</string>
-    <string name="confirm_re_modify_dis">Confirm</string>
+    <string name="confirm_re_modify_dis">确定</string>
     <string name="re_modify_dis_successful">Re-modify successful</string>
     <string name="lap_sub_type_title">Rest</string>
     <string name="new_pb_record">New personal record</string>
@@ -513,7 +513,7 @@ start now."</string>
     <string name="airplane_mode">Do not disturb while excercising</string>
     <string name="touch_screen">Touch screen</string>
     <string name="follow_system_settings">Follow system settings</string>
-    <string name="ok_button">OK</string>
+    <string name="ok_button">אישור</string>
     <string name="back_button">Back</string>
     <string name="select_wear_hand">Select wear hand</string>
     <string name="gps_interval_alert_msg">GPS interval of 60 secs will greatly extend the recording duration of sport, but the accuracy of data recording will be reduced. Functions including 1km subsection, auto subsection, and auto pause cannot be used. Confirm?</string>
@@ -585,7 +585,7 @@ start now."</string>
     <string name="first_beat_remind_txt_02">This is a good pace. Exercise for more minutes to keep you fit.</string>
     <string name="sport_history_recovery_remind">"It\'s recommended to have proper maintaining workouts 
 to reach full recovery."</string>
-    <string name="daily_propermance_has_no_data">No data</string>
+    <string name="daily_propermance_has_no_data">אין נתונים</string>
     <string name="first_beat_help_title_vo2_max">VO₂ max</string>
     <string name="first_beat_help_title_train_efffect">Training effect (TE)</string>
     <string name="first_beat_help_title_train_load">Training load</string>
@@ -600,12 +600,12 @@ to reach full recovery."</string>
     <string name="first_beat_help_recovery_time">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;After completing a workout, you will be provided with time in minutes to full recovery. Between workouts recovery time is linearly decreased towards zero if there is no new workout data available. The user is encouraged to have some low intensity workouts to help with recovery. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;For more details, view Help in Amazfit app.&lt;/small&gt;</string>
     <string name="vo2max_unit">ml/kg/min</string>
     <string name="run_vo2max_unit">ml/kg/min</string>
-    <string name="vo2_max_has_no_data">No data</string>
+    <string name="vo2_max_has_no_data">אין נתונים</string>
     <string name="sport_setting_gpx_route_selected">Route selected</string>
     <string name="sport_setting_gpx_route_selectd_remind">"Outdoor features are navigated by using this route. If you don't need, select \"Turn off\"."</string>
-    <string name="confirm">OK</string>
-    <string name="decision_yes">Yes</string>
-    <string name="decision_no">No</string>
+    <string name="confirm">אישור</string>
+    <string name="decision_yes">是</string>
+    <string name="decision_no">否</string>
     <string name="use_sport_route_remind">Does this activity use the %1$s route for navigation?</string>
     <string name="please_start_sport_from_route_start">In order to ensure the accuracy of route guidance, start the motion at the true geographic location of the track origin</string>
     <string name="please_become_bigger">Zoom in</string>
@@ -619,7 +619,7 @@ to reach full recovery."</string>
     <string name="gpx_select_empty"></string>
     <string name="gpx_details_view">Select</string>
     <string name="gpx_details_use">Use</string>
-    <string name="gpx_route_loading">Just a sec…</string>
+    <string name="gpx_route_loading">רק רגע…</string>
     <string name="dialog_remind_to_look_route">View route</string>
     <string name="gpx_offset_route">Deviated route</string>
     <string name="gpx_back_route">Back to the route</string>
@@ -642,7 +642,7 @@ to reach full recovery."</string>
     <string name="music_explain_title">Instruction</string>
     <string name="music_explain_content">It is necessary to download songs locally and connect to the Bluetooth headset for listening.</string>
     <string name="music_start_tips">Connect a Bluetooth headset to listen to music. Connect now?</string>
-    <string name="music_not_known">Unknown</string>
+    <string name="music_not_known">לא ידועה</string>
     <string name="music_update_content">Song update</string>
     <string name="music_update_tips_content">Douban FM updates songs regularly. Updating songs will replace the music library. Update now?</string>
     <string name="music_pause">Paused</string>
@@ -736,7 +736,7 @@ to reach full recovery."</string>
     <string name="rope_arrive_goal_unit">s/jump</string>
     <string name="aleary_finish_group">Group %1$s</string>
     <string name="this_group_count">Count</string>
-    <string name="group_cost_time">Time</string>
+    <string name="group_cost_time">时间</string>
     <string name="group_frequency">Frequency</string>
     <string name="aleary_rest">Has rested</string>
     <string name="next_group">Next</string>
@@ -817,7 +817,7 @@ to reach full recovery."</string>
     <string name="cur_lap_hr">Heart rate in this lap</string>
     <string name="cur_lap_speed">Speed for this lap</string>
     <string name="cur_lap_pace">Pace for this lap</string>
-    <string name="running_cost_time_desc">Time</string>
+    <string name="running_cost_time_desc">时间</string>
     <string name="running_pace_desc">Pace</string>
     <string name="running_calorie_desc">Calories</string>
     <string name="running_step_freq_desc">Cadence</string>
@@ -867,18 +867,18 @@ to reach full recovery."</string>
     <string name="running_control_title">Run</string>
     <string name="running_control_paused_des">Paused</string>
     <string name="sport_history_item_distance_desc">Distance (km)</string>
-    <string name="sport_history_item_cost_time_desc">Time</string>
+    <string name="sport_history_item_cost_time_desc">时间</string>
     <string name="running_avg_step_freq_desc">Avg cadence</string>
     <string name="running_stop_dialog_msg_reach_minimum_distance">Stop this activity?</string>
     <string name="running_stop_dialog_msg_not_reach_minimum_distance">The distance is too short to save. Stop anyway?</string>
     <string name="running_stop_dialog_positive_text">Stop</string>
-    <string name="running_stop_dialog_negative_text">Cancel</string>
+    <string name="running_stop_dialog_negative_text">取消</string>
     <string name="sport_history_total_distance_desc">Distance</string>
     <string name="sport_history_header_total_count_desc">Total sessions</string>
     <string name="sport_history_header_calorie_desc">Total calories</string>
     <string name="history_heart_rate_desc">Heart rate:</string>
     <string name="history_heart_rate_unit">BPM</string>
-    <string name="history_info_cost_time_desc">Time</string>
+    <string name="history_info_cost_time_desc">时间</string>
     <string name="history_detail_paused_time">Paused time</string>
     <string name="history_detail_running_title">Run</string>
     <string name="history_detail_walking_title">Walk</string>
@@ -890,11 +890,11 @@ to reach full recovery."</string>
     <string name="history_detail_speed">Speed (km/h)</string>
     <string name="waiting_gps_gps_unavailable">Waiting for GPS signal</string>
     <string name="waiting_gps_gps_available">GPS available now</string>
-    <string name="waiting_gps_gps_available_button_text">OK</string>
+    <string name="waiting_gps_gps_available_button_text">אישור</string>
     <string name="waiting_gps_gps_unavailable_button_text">Continue</string>
     <string name="no_gps_title">GPS unavailable</string>
     <string name="no_gps_content">"Couldn't record distance accurately. Try again outdoors."</string>
-    <string name="no_gps_button_text">OK</string>
+    <string name="no_gps_button_text">אישור</string>
     <string name="settings_item_title_km_remind">Lap alert</string>
     <string name="settings_item_title_mi_remind">Lap alert</string>
     <string name="settings_item_title_km_voice_remind">Voice notification</string>
@@ -953,7 +953,7 @@ to reach full recovery."</string>
     <string name="remind_target_km_title_format">Completed: %1$d km</string>
     <string name="remind_target_km_walking_title_format">Completed: %1$d km</string>
     <string name="remind_target_distance_finished">Completed</string>
-    <string name="remind_target_cost_time_desc">Time</string>
+    <string name="remind_target_cost_time_desc">时间</string>
     <string name="remind_target_pace_desc">Pace</string>
     <string name="remind_target_distance_pace_unit">/km</string>
     <string name="remind_heart_rate_too_high">Heart rate is too high</string>
@@ -970,7 +970,7 @@ to reach full recovery."</string>
     <string name="remind_target_time_distance_unit">km</string>
     <string name="remind_target_time_pace">Pace</string>
     <string name="remind_target_time_pace_unit">/km</string>
-    <string name="sport_in_progress_confirm">OK</string>
+    <string name="sport_in_progress_confirm">אישור</string>
     <string name="sport_modify">Calibrate</string>
     <string name="sport_history_detail_heart_unit">Unit (h:m:s)</string>
     <string name="widget_sport_item_running_title">Run</string>
@@ -1007,7 +1007,7 @@ to reach full recovery."</string>
     <string name="not_save_sport_summary">Discard</string>
     <string name="delete_sport_summary">Delete record</string>
     <string name="give_up_sport_record">Discard</string>
-    <string name="give_up_sport_record_tips">Discard this activity?</string>
+    <string name="give_up_sport_record_tips">בטל פעילות זו?</string>
     <string name="delete_sport_summary_tips">Delete this activity?</string>
     <string name="reminder_wear_not_tight_0">Wear the watch above the wrist</string>
     <string name="reminder_wear_not_tight_1">And fasten the device</string>
@@ -1080,12 +1080,12 @@ to reach full recovery."</string>
     <string name="vo2_max_text_nunber">50</string>
     <string name="vo2_max_sport_unit">ml/kg/min</string>
     <string name="export_gpx">Export GPX file</string>
-    <string name="btn_cancel">Cancel</string>
-    <string name="btn_confirm">OK</string>
+    <string name="btn_cancel">取消</string>
+    <string name="btn_confirm">אישור</string>
     <string name="hint_rolling">Exporting…</string>
     <string name="dlg_msg_hint_cancel">Cancel exporting file?</string>
-    <string name="dlg_btn_l_msg">No</string>
-    <string name="dlg_btn_r_msg">Yes</string>
+    <string name="dlg_btn_l_msg">否</string>
+    <string name="dlg_btn_r_msg">是</string>
     <string name="hint_cancelling">Canceling…</string>
     <string name="hint_success_exported_title">"Exported GPX file
 successfully"</string>
@@ -1189,7 +1189,7 @@ You can copy it to a computer via USB."</string>
     <string name="low_battery_please_charging">Charge your watch.</string>
     <string name="virtual_rabbit">Virtual rabbit</string>
     <string name="virtual_rabbit_back_time">Lag time</string>
-    <string name="rope_skip_group_time">Time</string>
+    <string name="rope_skip_group_time">时间</string>
     <string name="rope_skip_group_count">Count</string>
     <string name="rope_skip_group_freq">Frequency</string>
     <string name="rope_skip_reset_tips">Has rested</string>
@@ -1202,7 +1202,7 @@ You can copy it to a computer via USB."</string>
     <string name="press_long_power_key_wake_up">Press a physical button to exit</string>
     <string name="sport_auto_pause_end">Session ended, save the data?</string>
     <string name="sport_slpt_stop_next_group">Next</string>
-    <string name="picker_default_positive_text">OK</string>
+    <string name="picker_default_positive_text">אישור</string>
     <string name="picker_default_nagetive_text">Off</string>
     <string name="title_settings">Settings</string>
     <string name="sport_music_settings">Music</string>
