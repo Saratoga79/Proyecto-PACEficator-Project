@@ -147,14 +147,14 @@
         <item>60063.wfz</item>
     </string-array>
     <string-array name="quick_settings_status_week">
-        <item>Sun</item>
-        <item>Mon</item>
-        <item>Tue</item>
-        <item>Wed</item>
-        <item>Thu</item>
-        <item>Fri</item>
-        <item>Sat</item>
-        <item>Today</item>
+        <item>Dim</item>
+        <item>Lun</item>
+        <item>Mar</item>
+        <item>Mer</item>
+        <item>Jeu</item>
+        <item>Ven</item>
+        <item>Sam</item>
+        <item>Aujourd\'hui</item>
     </string-array>
     <string-array name="quick_settings_status_principleTerm">
         <item>Major Cold</item>
@@ -222,7 +222,7 @@
         <item>Excellent</item>
         <item>Fine</item>
         <item>Light pollution</item>
-        <item>Moderate pollution</item>
+        <item>Pollution modérée</item>
         <item>Heavy pollution</item>
         <item>Severe pollution</item>
         <item></item>
@@ -245,15 +245,15 @@
         <item>Heavy rain</item>
         <item>Rainstorm</item>
         <item>Heavy rainstorm</item>
-        <item>Extraordinary rainstorm</item>
+        <item>Tempête de pluie extraordinaire</item>
         <item>Snow shower</item>
         <item>Light snow</item>
         <item>Moderate snow</item>
         <item>Heavy snow</item>
-        <item>Blizzard</item>
+        <item>Tempête de neige</item>
         <item>Fog</item>
         <item>Freezing rain</item>
-        <item>Sandstorm</item>
+        <item>Tempête de sable</item>
         <item>Small to moderate rain</item>
         <item>Moderate to heavy rain</item>
         <item>Heavy rain to rainstorm</item>
@@ -275,16 +275,17 @@
         <item>Severe haze</item>
         <item>Dense fog</item>
         <item>Extremely dense fog</item>
-        <item>No data</item>
+        <item>Aucune donnée</item>
     </string-array>
     <string-array name="sport_data_item_array">
         <item></item>
-        <item>Time</item>
+        <item>Heure</item>
         <item>Distance</item>
         <item>Pace</item>
         <item>Avg pace</item>
         <item>Heart rate</item>
-        <item>Calories</item>
+        <item>\"Calories
+\"</item>
         <item>Altitude</item>
         <item>Elev gain</item>
         <item>Elev loss</item>
@@ -330,7 +331,8 @@
         <item>Heart rate in this lap</item>
         <item>Lap freq.</item>
         <item>slope</item>
-        <item>Calories</item>
+        <item>\"Calories
+\"</item>
         <item>Avg. HR</item>
         <item>Paddles of this set</item>
         <item>Frequency</item>
@@ -346,7 +348,7 @@
         <item>Total time</item>
         <item>Remaining time</item>
         <item>Distance</item>
-        <item>Remaining</item>
+        <item>Restant</item>
         <item>Has rested</item>
     </string-array>
 </resources>
