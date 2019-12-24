@@ -10,10 +10,10 @@
         <item>Summer Solstice</item>
         <item>Major Heat</item>
         <item>End of Heat</item>
-        <item>Autumn Equinox</item>
+        <item>Осіннє рівнодення</item>
         <item>"Frost's Descent"</item>
         <item>Minor Snow</item>
-        <item>Winter Solstice</item>
+        <item>Зимове сонцестояння</item>
     </string-array>
     <string-array name="quick_settings_status_sectionalTerm">
         <item>Minor Cold</item>
@@ -64,57 +64,57 @@
         <item>Lunar Dec</item>
     </string-array>
     <string-array name="weekdays">
-        <item>Sun</item>
-        <item>Mon</item>
-        <item>Tue</item>
-        <item>Wed</item>
-        <item>Thu</item>
-        <item>Fri</item>
-        <item>Sat</item>
+        <item>Нд</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
     </string-array>
     <string-array name="sport_data_item_array">
         <item></item>
-        <item>Time</item>
-        <item>Distance</item>
-        <item>Pace</item>
-        <item>Avg pace</item>
-        <item>Heart rate</item>
-        <item>Calories</item>
-        <item>Altitude</item>
+        <item>Час</item>
+        <item>Відстань</item>
+        <item>Темп</item>
+        <item>Середній темп</item>
+        <item>Пульс</item>
+        <item>Калорії</item>
+        <item>Висота</item>
         <item>Elev gain</item>
-        <item>Elev loss</item>
-        <item>Speed</item>
-        <item>Avg speed</item>
-        <item>Cadence</item>
-        <item>Dist gain</item>
-        <item>Steps</item>
-        <item>Cadence</item>
-        <item>Laps</item>
-        <item>DPS</item>
-        <item>Stroke rate</item>
-        <item>Avg SPM</item>
-        <item>Pace</item>
-        <item>Avg pace</item>
-        <item>Distance</item>
-        <item>TE</item>
-        <item>Vert speed</item>
-        <item>Avg speed</item>
-        <item>Max speed</item>
-        <item>Laps</item>
-        <item>Downhill</item>
-        <item>Total downhill</item>
-        <item>Descent</item>
-        <item>Strokes</item>
+        <item>Втрата висоти</item>
+        <item>Швидкість</item>
+        <item>Сер. швидкість</item>
+        <item>Ритм</item>
+        <item>Набір відстані</item>
+        <item>Кроки</item>
+        <item>Ритм</item>
+        <item>Кола</item>
+        <item>DPC</item>
+        <item>Частота скорочень</item>
+        <item>Середній SPM</item>
+        <item>Темп</item>
+        <item>Середній темп</item>
+        <item>Відстань</item>
+        <item>ТЕ</item>
+        <item>Верт швидкість</item>
+        <item>Сер. швидкість</item>
+        <item>Максимальна швидкість</item>
+        <item>Кола</item>
+        <item>Похилий</item>
+        <item>Повністю похилий</item>
+        <item>Спуск</item>
+        <item>Розряди</item>
         <item>Lap time</item>
         <item>Lap pace</item>
         <item>Lap speed</item>
         <item>Lap HR</item>
         <item>Lap cadence</item>
         <item>Lap pace</item>
-        <item>Current freq</item>
-        <item>Total count</item>
-        <item>Avg freq</item>
-        <item>Groups</item>
+        <item>Поточна частота</item>
+        <item>Загальна кількість</item>
+        <item>Середня частота</item>
+        <item>Групи</item>
         <item>Lap count</item>
         <item>Lap time</item>
         <item>Lap freq</item>
@@ -125,10 +125,10 @@
         <item>Heart rate in this lap</item>
         <item>Lap freq.</item>
         <item>slope</item>
-        <item>Calories</item>
+        <item>Калорії</item>
         <item>Avg. HR</item>
         <item>Paddles of this set</item>
-        <item>Frequency</item>
+        <item>Частота</item>
         <item>Total paddles</item>
         <item>Paddle frequency</item>
         <item>Pulling duration</item>
@@ -136,12 +136,12 @@
         <item>Avg. Freq.</item>
     </string-array>
     <string-array name="sport_train_item">
-        <item>Remaining distance</item>
-        <item>Total distance</item>
-        <item>Total time</item>
-        <item>Remaining time</item>
-        <item>Distance</item>
-        <item>Remaining</item>
-        <item>Has rested</item>
+        <item>Залишкова дистанція</item>
+        <item>Загальна відстань</item>
+        <item>Всього часу</item>
+        <item>Залишилося часу</item>
+        <item>Відстань</item>
+        <item>Залишилося</item>
+        <item>Відпочив</item>
     </string-array>
 </resources>
