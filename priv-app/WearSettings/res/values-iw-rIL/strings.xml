@@ -104,7 +104,7 @@
     <string name="oritation_sourth">S</string>
     <string name="oritation_west">W</string>
     <string name="oritation_north">N</string>
-    <string name="rope_skip_group_time">Time</string>
+    <string name="rope_skip_group_time">时间</string>
     <string name="rope_skip_group_count">Count</string>
     <string name="rope_skip_group_freq">Frequency</string>
     <string name="rope_skip_reset_tips">Has rested</string>
@@ -119,7 +119,7 @@
     <string name="sport_slpt_stop_next_group">Next</string>
     <string name="group_rowing_freq">Frequency</string>
     <string name="group_rowing_count">Times</string>
-    <string name="picker_default_positive_text">OK</string>
+    <string name="picker_default_positive_text">אישור</string>
     <string name="picker_default_nagetive_text">Off</string>
     <string name="no_heartrate_data_hint">"Couldn't find heart rate data"</string>
     <string name="no_altitude_hint">"Couldn't find altitude data"</string>
@@ -150,8 +150,8 @@
     <string name="alarm_sway">Sway</string>
     <string name="double_click_wakeup_open">On</string>
     <string name="double_click_wakeup_close">Off</string>
-    <string name="dlg_confirm">Confirm</string>
-    <string name="dlg_cancel">Cancel</string>
+    <string name="dlg_confirm">确定</string>
+    <string name="dlg_cancel">取消</string>
     <string name="gps_glon">GPS+GLONASS</string>
     <string name="gps_bd">GPS+Beidou</string>
     <string name="gps_galileo">GPS+Galileo</string>
@@ -204,7 +204,7 @@
     <string name="app_item_far_away_remind">Being far away from phone reminder</string>
     <string name="remind_aleary_open">The reminder has been enabled.</string>
     <string name="phone_far_away_remind_to_you">The watch will alert you when you are far away from your phone.</string>
-    <string name="dialog_confire">OK</string>
+    <string name="dialog_confire">אישור</string>
     <string name="auto_hint_title">Off screen time</string>
     <string name="voice">Volume adjustment</string>
     <string name="watch_mode">Watch mode</string>
@@ -309,7 +309,7 @@
  The system has been disconnected from the headsets 
  to reduce power consumption. You can:"</string>
     <string name="ble_connet_phone">Connect the headsets</string>
-    <string name="ble_connet_cancel">Cancel</string>
+    <string name="ble_connet_cancel">取消</string>
     <string name="report_bug_dialog_title">Feedback</string>
     <string name="report_bug_dialog_desc">If there is a data error or the watch works abnormally, you can upload the data through the feedback feature to our server for analysis. During this process, the previously generated logs on the watch will be automatically collected and uploaded. These logs are used only for problem analysis, and will be destroyed immediately after that. During the entire process we will comply with our Privacy Policy, view details of the policy on the Amazfit app.</string>
     <string name="dialog_agree">Agree</string>
@@ -341,8 +341,8 @@
     <string name="closed">Off</string>
     <string name="air_plane">Airplane Mode</string>
     <string name="air_plane_mode_note">Airplane mode will turn off Bluetooth and Wi-Fi on the watch to save power. If you need to use features that require BT/WiFi, please turn off airplane mode in system Settings.</string>
-    <string name="yes">Yes</string>
-    <string name="no">No</string>
+    <string name="yes">是</string>
+    <string name="no">否</string>
     <string name="settings_long_sit_reminder">Move Alert</string>
     <string name="settings_off">Off</string>
     <string name="settings_on">On</string>
@@ -381,8 +381,8 @@ Connect?"</string>
     <string name="blt_type_mabiao">MW</string>
     <string name="blt_not_support">[Only test]</string>
     <string name="bluetooth_pair_tips">Pairing code</string>
-    <string name="button_enter">OK</string>
-    <string name="button_cancel">Cancel</string>
+    <string name="button_enter">אישור</string>
+    <string name="button_cancel">取消</string>
     <string name="blt_cancel_paring">Paring canceled</string>
     <string name="bluetooth_pairing_error_message">Pairing failed</string>
     <string name="bluetooth_connecting">Connecting...</string>
@@ -445,7 +445,7 @@ all data in the watch will be deleted, and the watch will be disconnected from y
     <string name="reset_factory_hint_cn">"Once the watch is reset to factory default settings, all data in the watch will be deleted, and the watch will be disconnected from your mobile. 
  The current activated transportation card can still be used after the watch is bound with your mobile again."</string>
     <string name="reset_factory_yes">Reset</string>
-    <string name="reset_factory_no">Cancel</string>
+    <string name="reset_factory_no">取消</string>
     <string name="reset_factory_title">Factory Reset</string>
     <string name="reset_factory_noconnect_msg">"If Needing to Unbind the Watch, Please Operate Through Amazfit App. 
  Watch’s Unilateral Factory Reset Will Remove UnionPay Card and Transportation Card. 
@@ -453,7 +453,7 @@ all data in the watch will be deleted, and the watch will be disconnected from y
  A Removed Transportation Card: Will Be Destroyed Permanently and Cannot Be Paid Again."</string>
     <string name="reset_factory_conncet_msg">Watch and Amazfit App will Remove the Bound UnionPay Card. The Watch will Retain the Payment Function of the Transportation Card.</string>
     <string name="reset_factory_positive">Factory Reset</string>
-    <string name="reset_factory_negative">Cancel</string>
+    <string name="reset_factory_negative">取消</string>
     <string name="reset_factory_fail_title">Unsuccessful Factory Reset</string>
     <string name="reset_factory_fail_msg">If the UnionPay Card Is Not Successfully Removed, Please Try Again.</string>
     <string name="reset_factory_fail_positive">Ok</string>
@@ -463,7 +463,7 @@ all data in the watch will be deleted, and the watch will be disconnected from y
     <string name="reset_factory_bank_msg">"If Reset the Watch without Removing the UnionPay Card, It will Cause the UnionPay Card: 
  1. Cannot be Removed from the Watch, Occupying Chip Space;  2. Cannot Use the Payment Function in the Watch;  3. Cannot Be Bound by Other Devices; For Payment Security, Please First Remove the UnionPay Card from Amazfit App."</string>
     <string name="reset_factory_bank_yes">Continue Factory Reset</string>
-    <string name="reset_factory_bank_no">Cancel</string>
+    <string name="reset_factory_bank_no">取消</string>
     <string name="reset_factory_bank_msg_again">"Once the watch is reset to factory default settings, all data in the watch will be deleted, and the watch will be disconnected from your mobile. 
  The current activated transportation card can still be used after the watch is bound with your mobile again."</string>
     <string name="lockpassword_confirm_your_pattern_header">Confirm Your Pattern</string>
@@ -473,14 +473,14 @@ all data in the watch will be deleted, and the watch will be disconnected from y
     <string name="lockpattern_need_to_unlock_wrong_footer"></string>
     <string name="lockpattern_too_many_failed_confirmation_attempts_header">Too Many Errors！</string>
     <string name="lockpattern_too_many_failed_confirmation_attempts_footer">%d Retry after Several Seconds</string>
-    <string name="lockpattern_tutorial_cancel_label">Cancel</string>
+    <string name="lockpattern_tutorial_cancel_label">取消</string>
     <string name="lockpattern_tutorial_continue_label">Next</string>
     <string name="lockpassword_choose_your_pattern_header">Select Your Pattern</string>
     <string name="lockpattern_recording_inprogress"></string>
-    <string name="cancel">Cancel</string>
+    <string name="cancel">取消</string>
     <string name="lockpattern_retry_button_text">Retry</string>
     <string name="lockpattern_continue_button_text">Continue</string>
-    <string name="lockpattern_confirm_button_text">Confirm</string>
+    <string name="lockpattern_confirm_button_text">确定</string>
     <string name="lockpattern_recording_intro_header">Draw Unlocking Pattern</string>
     <string name="lockpattern_settings_help_how_to_record">How to Draw Unlocking Pattern？</string>
     <string name="lockpattern_recording_incorrect_too_short"></string>
@@ -495,7 +495,7 @@ all data in the watch will be deleted, and the watch will be disconnected from y
     <string name="lockpattern_exist_no">Turned Off</string>
     <string name="unlock_disable_lock_pattern_summary">Delete Unlocking Pattern</string>
     <string name="unlock_disable_frp_warning_content">The Device Protection Function Will No Longer Function.</string>
-    <string name="okay">Confirm</string>
+    <string name="okay">确定</string>
     <string name="exit">Exit</string>
     <string name="pattern_set_title">Security</string>
     <string name="watch_state">Screensaver Setting</string>
@@ -509,7 +509,7 @@ all data in the watch will be deleted, and the watch will be disconnected from y
     <string name="lockpattern_need_confirm_guide">Please Draw the Current Pattern</string>
     <string name="time_zone">Time Zone</string>
     <string name="date">Date</string>
-    <string name="time">Time</string>
+    <string name="time">时间</string>
     <string name="date_ymd">Date(Y/M/D)</string>
     <string name="time_hms">Time(H/M/S)</string>
     <string name="time_format">Time Format</string>
@@ -521,8 +521,8 @@ all data in the watch will be deleted, and the watch will be disconnected from y
     <string name="ultra_enter">Ultra Mode</string>
     <string name="sync_sport_data_before_reboot_title">Unsynchronized exercise records are found.</string>
     <string name="sync_sport_data_before_reboot_summary">Unsynchronized records cannot be viewed on your phone. Please sync the records before switching modes. Open the Amazfit app and pull down to sync. Continue to switch?</string>
-    <string name="sync_sport_data_before_reboot_dont_reboot">No</string>
-    <string name="sync_sport_data_before_reboot_reboot_now">Yes</string>
+    <string name="sync_sport_data_before_reboot_dont_reboot">否</string>
+    <string name="sync_sport_data_before_reboot_reboot_now">是</string>
     <string name="unit_metric">Metric</string>
     <string name="unit_english">Imperial</string>
     <string name="strong">Strong</string>
@@ -536,10 +536,10 @@ all data in the watch will be deleted, and the watch will be disconnected from y
     <string name="light_auto_guide_content">After Auto adjustment is on, move slider to fine tune the brightness coefficient, then the screen brightness will still change with the ambient brightness.</string>
     <string name="light_auto_guide_ok">I know it</string>
     <string name="watch_mode_title">Turn on watch mode</string>
-    <string name="watch_mode_message">"When turned on, the watch will only support time display, step counting and transportation card payment. 
- (When you turn it on, press and hold the physical key to exit this mode)"</string>
+    <string name="watch_mode_message">"\"When turned on, the watch will only support time display, step counting and transportation card payment. 
+ (When you turn it on, press and hold the physical key to exit this mode)\""</string>
     <string name="watch_mode_positive">Confirm turned on</string>
-    <string name="watch_mode_negative">Cancel</string>
+    <string name="watch_mode_negative">取消</string>
     <string name="replace_watchface">WatchFace</string>
     <string name="screen_refresh">Lockscreen seconds hand</string>
     <string name="screen_refresh_on_string">On</string>
@@ -551,8 +551,8 @@ all data in the watch will be deleted, and the watch will be disconnected from y
     <string name="setting_regulatory_japan">Japan</string>
     <string name="setting_regulatory_ukraine">Ukraine</string>
     <string name="setting_regulation_desc_us">FCC ID:2AC8UA1811</string>
-    <string name="setting_regulation_desc_canda">"IC:21806-A1811 
- ICAN ICE-3(B)/NMB-3(B)"</string>
+    <string name="setting_regulation_desc_canda">"\"IC:21806-A1811 
+ ICAN ICE-3(B)/NMB-3(B)\""</string>
     <string name="setting_regulation_model_name">Model : %1$s</string>
     <string name="confirm_shutdown">Shutdown?</string>
     <string name="confirm_reboot">Reboot?</string>
@@ -561,8 +561,8 @@ all data in the watch will be deleted, and the watch will be disconnected from y
     <string name="blt_hint_disconnect_device">Disconnect</string>
     <string name="lab_desc">Collect part of the debugging tools</string>
     <string name="unknown">Unknown device</string>
-    <string name="bind_tips_title">"Please bind 
- to protect your data more securely"</string>
+    <string name="bind_tips_title">"\"Please bind 
+ to protect your data more securely\""</string>
     <string name="upgrade_checking">Checking for update...</string>
     <string name="left_hand">Left</string>
     <string name="right_hand">Right</string>
