@@ -28,19 +28,19 @@
         <item>24</item>
     </string-array>
     <string-array name="weekday_names">
-        <item>Mon</item>
-        <item>Tue</item>
-        <item>Wed</item>
-        <item>Thu</item>
-        <item>Fri</item>
-        <item>Sat</item>
-        <item>Sun</item>
+        <item>Pon</item>
+        <item>Tuesday</item>
+        <item>Str</item>
+        <item>Štv</item>
+        <item>Pia</item>
+        <item>Saturday</item>
+        <item>Neď</item>
     </string-array>
     <string-array name="subject_typenfreqs">
-        <item>Today</item>
-        <item>This week</item>
-        <item>Today</item>
-        <item>This week</item>
+        <item>Dnešné kalórie</item>
+        <item>This Week</item>
+        <item>Dnešné kalórie</item>
+        <item>This Week</item>
     </string-array>
     <string-array name="chart_x_titles">
         <item>MON</item>
@@ -53,8 +53,8 @@
     </string-array>
     <string-array name="sport_data_item_array">
         <item></item>
-        <item>Time</item>
-        <item>Distance</item>
+        <item>Čas</item>
+        <item>Vzdialenosť</item>
         <item>Pace</item>
         <item>Avg pace</item>
         <item>Heart rate</item>
@@ -64,22 +64,22 @@
         <item>Elev loss</item>
         <item>Speed</item>
         <item>Avg speed</item>
-        <item>Cadence</item>
+        <item>Kadencia</item>
         <item>Dist gain</item>
         <item>Steps</item>
-        <item>Cadence</item>
-        <item>Laps</item>
+        <item>Kadencia</item>
+        <item>Kolá</item>
         <item>DPS</item>
         <item>Stroke rate</item>
         <item>Avg SPM</item>
         <item>Pace</item>
         <item>Avg pace</item>
-        <item>Distance</item>
+        <item>Vzdialenosť</item>
         <item>TE</item>
         <item>Vert speed</item>
         <item>Avg speed</item>
         <item>Max speed</item>
-        <item>Laps</item>
+        <item>Kolá</item>
         <item>Downhill</item>
         <item>Total downhill</item>
         <item>Descent</item>
@@ -90,7 +90,7 @@
         <item>Lap HR</item>
         <item>Lap cadence</item>
         <item>Lap pace</item>
-        <item>Current freq</item>
+        <item>Aktuálna frekv.</item>
         <item>Total count</item>
         <item>Avg freq</item>
         <item>Groups</item>
@@ -107,7 +107,7 @@
         <item>Calories</item>
         <item>Avg. HR</item>
         <item>Paddles of this set</item>
-        <item>Frequency</item>
+        <item>Frekvencia</item>
         <item>Total paddles</item>
         <item>Paddle frequency</item>
         <item>Pulling duration</item>
@@ -116,11 +116,11 @@
     </string-array>
     <string-array name="sport_train_item">
         <item>Remaining distance</item>
-        <item>Total distance</item>
+        <item>Celková vzdialenosť</item>
         <item>Total time</item>
         <item>Remaining time</item>
-        <item>Distance</item>
-        <item>Remaining</item>
+        <item>Vzdialenosť</item>
+        <item>Zostáva</item>
         <item>Has rested</item>
     </string-array>
 </resources>
