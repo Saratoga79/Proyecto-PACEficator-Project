@@ -17,8 +17,8 @@ Try again."</string>
     <string name="current_is_new">Current version is up to date.</string>
     <string name="has_new_rom">"An update is available.
 Update to version %1$s?"</string>
-    <string name="has_new_rom_all">"An update is available.
-Firmware on this watch is old. Updating may take a while."</string>
+    <string name="has_new_rom_all">עדכון זמין. הגרסה על השעון לא עדכנית, לכן השדרוג
+ עלול לקחת זמן. להמשיך?</string>
     <string name="input_passwor_on_mobile">"Enter Wi-Fi password
 in the Amazfit app"</string>
     <string name="processbar_downloading_rom">Downloading…</string>
@@ -81,11 +81,11 @@ Back up your data using the Amazfit app."</string>
 all your data.
 The update will erase all user
 data on the watch. Continue?"</string>
-    <string name="OK">OK</string>
-    <string name="yes">Yes</string>
-    <string name="no">No</string>
-    <string name="enter">OK</string>
-    <string name="cancel">Cancel</string>
+    <string name="OK">אישור</string>
+    <string name="yes">是</string>
+    <string name="no">否</string>
+    <string name="enter">אישור</string>
+    <string name="cancel">取消</string>
     <string name="update_tips_0">Updating…</string>
     <string name="update_tips_1">"Don't turn off the device"</string>
     <string name="retry">Retry</string>
@@ -192,7 +192,7 @@ data on the watch. Continue?"</string>
     <string name="oritation_sourth">S</string>
     <string name="oritation_west">W</string>
     <string name="oritation_north">N</string>
-    <string name="rope_skip_group_time">Time</string>
+    <string name="rope_skip_group_time">时间</string>
     <string name="rope_skip_group_count">Count</string>
     <string name="rope_skip_group_freq">Frequency</string>
     <string name="rope_skip_reset_tips">Has rested</string>
@@ -207,7 +207,7 @@ data on the watch. Continue?"</string>
     <string name="sport_slpt_stop_next_group">Next</string>
     <string name="group_rowing_freq">Frequency</string>
     <string name="group_rowing_count">Times</string>
-    <string name="picker_default_positive_text">OK</string>
+    <string name="picker_default_positive_text">אישור</string>
     <string name="picker_default_nagetive_text">Off</string>
     <string name="no_heartrate_data_hint">"Couldn't find heart rate data"</string>
     <string name="no_altitude_hint">"Couldn't find altitude data"</string>
