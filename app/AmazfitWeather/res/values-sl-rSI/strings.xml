@@ -17,7 +17,7 @@
     <string name="temp_to">~</string>
     <string name="temp_to_card">/</string>
     <string name="type_to"> to </string>
-    <string name="not_avalible_type">No data</string>
+    <string name="not_avalible_type">Ni podatkov</string>
     <string name="not_avalible_temp">--</string>
     <string name="air_quality">Air quality </string>
     <string name="weather_title">Weather today</string>
@@ -64,9 +64,9 @@
     <string name="unknown">Unknown</string>
     <string name="fetch_failed_title">"Couldn't get weather info"</string>
     <string name="fetch_failed_msg">Make sure your watch is connected to the Amazfit app and a valid location is selected in the app.</string>
-    <string name="date_time_format">MM/dd</string>
-    <string name="forecast_today">Today</string>
-    <string name="forecast_tomorrow">Tomorrow</string>
+    <string name="date_time_format">dd-MM</string>
+    <string name="forecast_today">Danes</string>
+    <string name="forecast_tomorrow">明天</string>
     <string name="fetch_failed_help">Stay connected with the Amazfit app to sync the weather automatically.</string>
     <string name="cancel">Close</string>
     <string name="wind_breeze">Breeze</string>
@@ -189,7 +189,7 @@
     <string name="oritation_sourth">S</string>
     <string name="oritation_west">W</string>
     <string name="oritation_north">N</string>
-    <string name="rope_skip_group_time">Time</string>
+    <string name="rope_skip_group_time">时间</string>
     <string name="rope_skip_group_count">Count</string>
     <string name="rope_skip_group_freq">Frequency</string>
     <string name="rope_skip_reset_tips">Has rested</string>
@@ -197,14 +197,15 @@
     <string name="rope_skip_tips1">The</string>
     <string name="rope_skip_tips2">set has been completed</string>
     <string name="rope_skip_avg_heartrate">Avg. heart rate</string>
-    <string name="rope_skip_group_calories">Calories</string>
+    <string name="rope_skip_group_calories">\"Kalorije
+\"</string>
     <string name="music">Music</string>
     <string name="press_long_power_key_wake_up">Press a physical button to exit</string>
     <string name="sport_auto_pause_end">Session ended, save the data?</string>
     <string name="sport_slpt_stop_next_group">Next</string>
     <string name="group_rowing_freq">Frequency</string>
     <string name="group_rowing_count">Times</string>
-    <string name="picker_default_positive_text">OK</string>
+    <string name="picker_default_positive_text">Ok</string>
     <string name="picker_default_nagetive_text">Off</string>
     <string name="no_heartrate_data_hint">"Couldn't find heart rate data"</string>
     <string name="no_altitude_hint">"Couldn't find altitude data"</string>
