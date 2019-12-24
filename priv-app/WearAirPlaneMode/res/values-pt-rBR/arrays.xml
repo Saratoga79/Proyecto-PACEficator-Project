@@ -3,12 +3,13 @@
 <resources>
     <string-array name="sport_data_item_array">
         <item></item>
-        <item>Time</item>
-        <item>Distance</item>
+        <item>Hora</item>
+        <item>Distância</item>
         <item>Pace</item>
         <item>Avg pace</item>
         <item>Heart rate</item>
-        <item>Calories</item>
+        <item>\"Calorias
+\"</item>
         <item>Altitude</item>
         <item>Elev gain</item>
         <item>Elev loss</item>
@@ -24,7 +25,7 @@
         <item>Avg SPM</item>
         <item>Pace</item>
         <item>Avg pace</item>
-        <item>Distance</item>
+        <item>Distância</item>
         <item>TE</item>
         <item>Vert speed</item>
         <item>Avg speed</item>
@@ -54,7 +55,8 @@
         <item>Heart rate in this lap</item>
         <item>Lap freq.</item>
         <item>slope</item>
-        <item>Calories</item>
+        <item>\"Calorias
+\"</item>
         <item>Avg. HR</item>
         <item>Paddles of this set</item>
         <item>Frequency</item>
@@ -69,8 +71,8 @@
         <item>Total distance</item>
         <item>Total time</item>
         <item>Remaining time</item>
-        <item>Distance</item>
-        <item>Remaining</item>
+        <item>Distância</item>
+        <item>Restante</item>
         <item>Has rested</item>
     </string-array>
 </resources>
