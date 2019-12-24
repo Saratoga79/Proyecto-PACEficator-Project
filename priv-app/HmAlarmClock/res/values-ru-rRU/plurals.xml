@@ -3,7 +3,7 @@
 <resources>
     <plurals name="Nhours_description">
         <item quantity="other">%d hours</item>
-        <item quantity="one">1 hour</item>
+        <item quantity="one">1 час</item>
         <item quantity="few">%d hours</item>
         <item quantity="many">%d hours</item>
     </plurals>
@@ -20,10 +20,10 @@
         <item quantity="many">%d seconds</item>
     </plurals>
     <plurals name="alarm_alert_snooze_set">
-        <item quantity="other">Snoozing for %d minutes.</item>
+        <item quantity="other">Отложено на 1 минут.</item>
         <item quantity="one">Snoozing for 1 minute.</item>
-        <item quantity="few">Snoozing for %d minutes.</item>
-        <item quantity="many">Snoozing for %d minutes.</item>
+        <item quantity="few">Отложено на 1 минут.</item>
+        <item quantity="many">Отложено на 1 минут.</item>
     </plurals>
     <plurals name="plurals_hours">
         <item quantity="other">%dh</item>
