@@ -147,14 +147,14 @@
         <item>60063.wfz</item>
     </string-array>
     <string-array name="quick_settings_status_week">
-        <item>Sun</item>
-        <item>Mon</item>
-        <item>Tue</item>
-        <item>Wed</item>
-        <item>Thu</item>
-        <item>Fri</item>
-        <item>Sat</item>
-        <item>Today</item>
+        <item>Neď</item>
+        <item>Pon</item>
+        <item>Tuesday</item>
+        <item>Str</item>
+        <item>Štv</item>
+        <item>Pia</item>
+        <item>Sob</item>
+        <item>Dnešné kalórie</item>
     </string-array>
     <string-array name="quick_settings_status_principleTerm">
         <item>Major Cold</item>
@@ -219,68 +219,68 @@
         <item>Accordion</item>
     </string-array>
     <string-array name="weather_card_aqilevel">
-        <item>Excellent</item>
-        <item>Fine</item>
-        <item>Light pollution</item>
-        <item>Moderate pollution</item>
-        <item>Heavy pollution</item>
-        <item>Severe pollution</item>
+        <item>Výborny</item>
+        <item>Pokuty</item>
+        <item>Svetelné znečistenie</item>
+        <item>Mierne znečistenie</item>
+        <item>Ťažké znečistenie</item>
+        <item>Ťažké znečistenie</item>
         <item></item>
     </string-array>
     <string-array name="weather_card_quality">
-        <item>Suitable for sports</item>
-        <item>Not suitable for sports</item>
+        <item>Vhodné pre šport</item>
+        <item>Nie je vhodný pre šport</item>
         <item></item>
     </string-array>
     <string-array name="quick_settings_status_weather">
-        <item>Clear</item>
+        <item>Vyčistiť</item>
         <item>Cloudy</item>
         <item>Overcast</item>
-        <item>showers</item>
+        <item>prehánky</item>
         <item>Thunder shower</item>
         <item>Hail</item>
-        <item>Rain and snow mixed</item>
+        <item>Dážď zo snehom</item>
         <item>Light rain</item>
         <item>Moderate rain</item>
         <item>Heavy rain</item>
         <item>Rainstorm</item>
-        <item>Heavy rainstorm</item>
-        <item>Extraordinary rainstorm</item>
+        <item>Silná búrka</item>
+        <item>Mimoriadna búrka</item>
         <item>Snow shower</item>
         <item>Light snow</item>
         <item>Moderate snow</item>
         <item>Heavy snow</item>
-        <item>Blizzard</item>
+        <item>Fujavica</item>
         <item>Fog</item>
         <item>Freezing rain</item>
-        <item>Sandstorm</item>
+        <item>Piesočná búrka</item>
         <item>Small to moderate rain</item>
-        <item>Moderate to heavy rain</item>
-        <item>Heavy rain to rainstorm</item>
+        <item>Stredný až silný dážď</item>
+        <item>Silný dážď až búrky</item>
         <item>Rainstorm to heavy rainstorm</item>
         <item>Heavy to severe storm</item>
         <item>Small to moderate snow</item>
-        <item>Moderate to heavy snow</item>
-        <item>Heavy snow to blizzard</item>
+        <item>Stredné až silné sneženie</item>
+        <item>Silné sneženie až búrky</item>
         <item>Dust</item>
         <item>Blowing sand</item>
-        <item>Strong sandstorm</item>
-        <item>Thick fog</item>
-        <item>Snow</item>
-        <item>Rain</item>
+        <item>Silná piesočná búrka</item>
+        <item>Hustá hmla</item>
+        <item>Sneženie</item>
+        <item>Dážď</item>
         <item>Strong fog</item>
-        <item>Haze</item>
-        <item>Moderate haze</item>
+        <item>Hmla</item>
+        <item>Mierna Hmla</item>
         <item>Heavy haze</item>
-        <item>Severe haze</item>
-        <item>Dense fog</item>
+        <item>Ťažký vychrica</item>
+        <item>Husta Hmla</item>
         <item>Extremely dense fog</item>
-        <item>No data</item>
+        <item>Žiadne údaje</item>
     </string-array>
     <string-array name="sport_data_item_array">
         <item></item>
-        <item>Time</item>
-        <item>Distance</item>
+        <item>Čas</item>
+        <item>Vzdialenosť</item>
         <item>Pace</item>
         <item>Avg pace</item>
         <item>Heart rate</item>
@@ -290,22 +290,22 @@
         <item>Elev loss</item>
         <item>Speed</item>
         <item>Avg speed</item>
-        <item>Cadence</item>
+        <item>Kadencia</item>
         <item>Dist gain</item>
         <item>Steps</item>
-        <item>Cadence</item>
-        <item>Laps</item>
+        <item>Kadencia</item>
+        <item>Kolá</item>
         <item>DPS</item>
         <item>Stroke rate</item>
         <item>Avg SPM</item>
         <item>Pace</item>
         <item>Avg pace</item>
-        <item>Distance</item>
+        <item>Vzdialenosť</item>
         <item>TE</item>
         <item>Vert speed</item>
         <item>Avg speed</item>
         <item>Max speed</item>
-        <item>Laps</item>
+        <item>Kolá</item>
         <item>Downhill</item>
         <item>Total downhill</item>
         <item>Descent</item>
@@ -316,7 +316,7 @@
         <item>Lap HR</item>
         <item>Lap cadence</item>
         <item>Lap pace</item>
-        <item>Current freq</item>
+        <item>Aktuálna frekv.</item>
         <item>Total count</item>
         <item>Avg freq</item>
         <item>Groups</item>
@@ -333,7 +333,7 @@
         <item>Calories</item>
         <item>Avg. HR</item>
         <item>Paddles of this set</item>
-        <item>Frequency</item>
+        <item>Frekvencia</item>
         <item>Total paddles</item>
         <item>Paddle frequency</item>
         <item>Pulling duration</item>
@@ -342,11 +342,11 @@
     </string-array>
     <string-array name="sport_train_item">
         <item>Remaining distance</item>
-        <item>Total distance</item>
+        <item>Celková vzdialenosť</item>
         <item>Total time</item>
         <item>Remaining time</item>
-        <item>Distance</item>
-        <item>Remaining</item>
+        <item>Vzdialenosť</item>
+        <item>Zostáva</item>
         <item>Has rested</item>
     </string-array>
 </resources>
