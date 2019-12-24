@@ -5,16 +5,16 @@
     <string name="main_title">Huami lab</string>
     <string name="agreement_title">PPG capturing</string>
     <string name="orig_data_collect">Activity data collection</string>
-    <string name="message">"We\'ll collect raw PPG data when you wear the watch.
-The data will only be used for research purposes.
-This feature will adversely impact the battery life."</string>
+    <string name="message">"سوف نقوم بجمع البيانات الخام PPG عند ارتداء الساعات.
+فقط سوف يكون استخدام البيانات لأغراض البحث.
+هذه الميزة سوف تؤثر سلبا على حياة البطارية. "</string>
     <string name="allow">Allow</string>
     <string name="exit">Exit</string>
     <string name="message_everest">"We'll collect raw PPG data when you wear the watch. The data will only be used for research purposes. This feature will adversely impact the battery life."</string>
     <string name="heart_rate_collection_on">On</string>
-    <string name="heart_rate_collection_off">Off</string>
+    <string name="heart_rate_collection_off">مغلق</string>
     <string name="hbeacon_on">On</string>
-    <string name="hbeacon_off">Off</string>
+    <string name="hbeacon_off">مغلق</string>
     <string name="hbeacon_on_confirm_message">Tap to turn the HBeacon feature on, so the watch battery may be slightly reduced, and you may need to pair your phone with the watch again after it reboots.</string>
     <string name="hbeacon_off_confirm_message">Tap to turn off the HBeacon feature, and you may need to pair your phone with the watch again after it reboots.</string>
     <string name="saving_data">Saving data</string>
@@ -131,7 +131,7 @@ This feature will adversely impact the battery life."</string>
     <string name="oritation_sourth">S</string>
     <string name="oritation_west">W</string>
     <string name="oritation_north">N</string>
-    <string name="rope_skip_group_time">Time</string>
+    <string name="rope_skip_group_time">时间</string>
     <string name="rope_skip_group_count">Count</string>
     <string name="rope_skip_group_freq">Frequency</string>
     <string name="rope_skip_reset_tips">Has rested</string>
@@ -139,25 +139,26 @@ This feature will adversely impact the battery life."</string>
     <string name="rope_skip_tips1">The</string>
     <string name="rope_skip_tips2">set has been completed</string>
     <string name="rope_skip_avg_heartrate">Avg. heart rate</string>
-    <string name="rope_skip_group_calories">Calories</string>
+    <string name="rope_skip_group_calories">\"Calories
+\"</string>
     <string name="music">Music</string>
     <string name="press_long_power_key_wake_up">Press a physical button to exit</string>
     <string name="sport_auto_pause_end">Session ended, save the data?</string>
     <string name="sport_slpt_stop_next_group">Next</string>
     <string name="group_rowing_freq">Frequency</string>
     <string name="group_rowing_count">Times</string>
-    <string name="picker_default_positive_text">OK</string>
-    <string name="picker_default_nagetive_text">Off</string>
+    <string name="picker_default_positive_text">حسناً</string>
+    <string name="picker_default_nagetive_text">مغلق</string>
     <string name="no_heartrate_data_hint">"Couldn't find heart rate data"</string>
     <string name="no_altitude_hint">"Couldn't find altitude data"</string>
-    <string name="title_settings">Settings</string>
+    <string name="title_settings">الاعدادات</string>
     <string name="sport_music_settings">Music</string>
     <string name="widget_currentstep_title">Data</string>
     <string name="widget_currentstep_activities">"Today's activity"</string>
-    <string name="widget_currentstep_sleep_hour">h</string>
+    <string name="widget_currentstep_sleep_hour">ح</string>
     <string name="widget_currentstep_sleep_min">m</string>
     <string name="widget_currentstep_sleep_title">Slept last night</string>
     <string name="widget_currentstep_sleep_no">No sleep data</string>
     <string name="widget_currentstep_activity_no">No activity today?</string>
-    <string name="locale_title">Select Language</string>
+    <string name="locale_title">اختر اللغة</string>
 </resources>
