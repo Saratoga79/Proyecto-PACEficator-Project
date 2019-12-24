@@ -3,58 +3,58 @@
 <resources>
     <string-array name="sport_data_item_array">
         <item></item>
-        <item>Time</item>
-        <item>Distance</item>
-        <item>Pace</item>
+        <item>Време</item>
+        <item>Разстояние</item>
+        <item>Темпо</item>
         <item>Avg pace</item>
         <item>Heart rate</item>
-        <item>Calories</item>
-        <item>Altitude</item>
+        <item>Калории</item>
+        <item>Надморска височина</item>
         <item>Elev gain</item>
         <item>Elev loss</item>
-        <item>Speed</item>
+        <item>Скорост</item>
         <item>Avg speed</item>
-        <item>Cadence</item>
+        <item>Каденс</item>
         <item>Dist gain</item>
-        <item>Steps</item>
-        <item>Cadence</item>
-        <item>Laps</item>
+        <item>Крачки</item>
+        <item>Каденс</item>
+        <item>Обиколки</item>
         <item>DPS</item>
-        <item>Stroke rate</item>
+        <item>Темпо на загребване</item>
         <item>Avg SPM</item>
-        <item>Pace</item>
+        <item>Темпо</item>
         <item>Avg pace</item>
-        <item>Distance</item>
+        <item>Разстояние</item>
         <item>TE</item>
         <item>Vert speed</item>
         <item>Avg speed</item>
         <item>Max speed</item>
-        <item>Laps</item>
+        <item>Обиколки</item>
         <item>Downhill</item>
         <item>Total downhill</item>
-        <item>Descent</item>
-        <item>Strokes</item>
-        <item>Lap time</item>
-        <item>Lap pace</item>
-        <item>Lap speed</item>
+        <item>Спускане</item>
+        <item>Замахвания</item>
+        <item>Време за обиколка</item>
+        <item>Темпо на обиколка</item>
+        <item>Скорост на обиколка</item>
         <item>Lap HR</item>
-        <item>Lap cadence</item>
-        <item>Lap pace</item>
-        <item>Current freq</item>
+        <item>Каденс на обиколка</item>
+        <item>Темпо на обиколка</item>
+        <item>Текуща честота</item>
         <item>Total count</item>
         <item>Avg freq</item>
         <item>Groups</item>
         <item>Lap count</item>
-        <item>Lap time</item>
+        <item>Време за обиколка</item>
         <item>Lap freq</item>
-        <item>Lap time</item>
+        <item>Време за обиколка</item>
         <item>Lap dist.</item>
-        <item>Lap pace</item>
+        <item>Темпо на обиколка</item>
         <item>Speed for this lap</item>
         <item>Heart rate in this lap</item>
         <item>Lap freq.</item>
         <item>slope</item>
-        <item>Calories</item>
+        <item>Калории</item>
         <item>Avg. HR</item>
         <item>Paddles of this set</item>
         <item>Frequency</item>
@@ -66,16 +66,16 @@
     </string-array>
     <string-array name="sport_train_item">
         <item>Remaining distance</item>
-        <item>Total distance</item>
+        <item>Общо разстояние</item>
         <item>Total time</item>
         <item>Remaining time</item>
-        <item>Distance</item>
-        <item>Remaining</item>
+        <item>Разстояние</item>
+        <item>Остава</item>
         <item>Has rested</item>
     </string-array>
     <string-array name="lab_item_android_settings">
-        <item>[prim]Original system settings</item>
-        <item>[sum]Settings of Android</item>
+        <item>[prim]Оригинални системни настройки</item>
+        <item>[sum]Настройки на Android</item>
         <item>[pkg]com.android.settings</item>
     </string-array>
     <string-array name="lab_item_logger">
@@ -91,7 +91,7 @@
     </string-array>
     <string-array name="lab_item_open_applist">
         <item>[prim]Launcher Applist</item>
-        <item>[sum]Open or close applist</item>
+        <item>[sum]Отваряне или затваряне на списъка с приложения</item>
         <item>[sid]applist</item>
     </string-array>
     <string-array name="lab_item_bt_hci_snoop_log">
@@ -100,19 +100,19 @@
         <item>[sid]btsnoop</item>
     </string-array>
     <string-array name="lab_item_power_test">
-        <item>[prim]Power consumption test in flight mode</item>
-        <item>[sum]Detect power consumption in flight mode</item>
+        <item>[prim]Тест за консумация на енергия в режим самолет</item>
+        <item>[sum]Откриване на консумацията на енергия в режим самолет</item>
         <item>[sid]power_test</item>
     </string-array>
     <string-array name="lab_item_long_sitting_timer_plus">
-        <item>[prim]Time of sedentary reminder</item>
-        <item>[sum]Set the time of sedentary reminder (in min)</item>
+        <item>[prim]Време на заседяване напомняне</item>
+        <item>[sum]Задайте времето на заседяване напомняне (в min)</item>
         <item>[pkg]com.huami.mobile.watchsettings</item>
         <item>[clazz]com.huami.moblie.watchsettings.actions.lab.labUI.LongSittingTimeActivity</item>
     </string-array>
     <string-array name="lab_item_wifi_signal_intensity">
-        <item>[prim]Signal strength</item>
-        <item>[sum]Signal strength test</item>
+        <item>[prim]Сила на сигнала</item>
+        <item>[sum]Тест на сила на сигнала</item>
         <item>[pkg]com.huami.mobile.watchsettings</item>
         <item>[clazz]com.huami.moblie.watchsettings.actions.lab.labUI.WifiTestActivity</item>
     </string-array>
@@ -132,183 +132,183 @@
         <item>[sid]update_mcu</item>
     </string-array>
     <string-array name="time_zone_ids">
-        <item>Pacific/Midway</item>
-        <item>Pacific/Honolulu</item>
-        <item>America/Anchorage</item>
-        <item>America/Los_Angeles</item>
-        <item>America/Tijuana</item>
-        <item>America/Phoenix</item>
-        <item>America/Chihuahua</item>
-        <item>America/Denver</item>
-        <item>America/Costa_Rica</item>
-        <item>America/Chicago</item>
-        <item>America/Mexico_City</item>
-        <item>America/Regina</item>
-        <item>America/Bogota</item>
-        <item>America/New_York</item>
-        <item>America/Caracas</item>
-        <item>America/Barbados</item>
-        <item>America/Manaus</item>
-        <item>America/St_Johns</item>
-        <item>America/Santiago</item>
-        <item>America/Argentina/Buenos_Aires</item>
-        <item>America/Godthab</item>
-        <item>America/Sao_Paulo</item>
-        <item>America/Montevideo</item>
-        <item>Atlantic/South_Georgia</item>
-        <item>Atlantic/Azores</item>
-        <item>Atlantic/Cape_Verde</item>
-        <item>Africa/Casablanca</item>
-        <item>Europe/London</item>
-        <item>Europe/Amsterdam</item>
-        <item>Europe/Belgrade</item>
-        <item>Europe/Brussels</item>
-        <item>Europe/Sarajevo</item>
-        <item>Africa/Brazzaville</item>
-        <item>Africa/Windhoek</item>
-        <item>Asia/Amman</item>
-        <item>Europe/Athens</item>
-        <item>Asia/Beirut</item>
-        <item>Africa/Cairo</item>
-        <item>Europe/Helsinki</item>
-        <item>Asia/Jerusalem</item>
-        <item>Africa/Harare</item>
-        <item>Europe/Minsk</item>
-        <item>Asia/Baghdad</item>
-        <item>Europe/Moscow</item>
-        <item>Asia/Kuwait</item>
-        <item>Africa/Nairobi</item>
-        <item>Asia/Tehran</item>
-        <item>Asia/Baku</item>
-        <item>Asia/Tbilisi</item>
-        <item>Asia/Yerevan</item>
-        <item>Asia/Dubai</item>
-        <item>Asia/Kabul</item>
-        <item>Asia/Karachi</item>
-        <item>Asia/Oral</item>
-        <item>Asia/Yekaterinburg</item>
-        <item>Asia/Calcutta</item>
-        <item>Asia/Colombo</item>
-        <item>Asia/Katmandu</item>
-        <item>Asia/Almaty</item>
-        <item>Asia/Rangoon</item>
-        <item>Asia/Krasnoyarsk</item>
-        <item>Asia/Bangkok</item>
-        <item>Asia/Shanghai</item>
-        <item>Asia/Hong_Kong</item>
-        <item>Asia/Irkutsk</item>
-        <item>Asia/Kuala_Lumpur</item>
-        <item>Australia/Perth</item>
-        <item>Asia/Taipei</item>
-        <item>Asia/Seoul</item>
-        <item>Asia/Tokyo</item>
-        <item>Asia/Yakutsk</item>
-        <item>Australia/Darwin</item>
-        <item>Australia/Brisbane</item>
-        <item>Asia/Vladivostok</item>
-        <item>Pacific/Guam</item>
-        <item>Asia/Magadan</item>
-        <item>Australia/Adelaide</item>
-        <item>Australia/Hobart</item>
-        <item>Australia/Sydney</item>
-        <item>Pacific/Majuro</item>
-        <item>Pacific/Auckland</item>
-        <item>Pacific/Fiji</item>
-        <item>Pacific/Tongatapu</item>
+        <item>Тих океан/Мидуей</item>
+        <item>Тих океан/Хонолулу</item>
+        <item>Америка/Анкоридж</item>
+        <item>Америка/Лос-Анджелис</item>
+        <item>Америка/Тихуана</item>
+        <item>Америка/Феникс</item>
+        <item>Америка/Чихуахуа</item>
+        <item>Америка/Денвър</item>
+        <item>Америка/Коста-Рика</item>
+        <item>Америка/Чикаго</item>
+        <item>Америка/Мексико-Сити</item>
+        <item>Америка/Реджина</item>
+        <item>Америка/Богота</item>
+        <item>Америка/Ню-Йорк</item>
+        <item>Америка/Каракас</item>
+        <item>Америка/Барбадос</item>
+        <item>Америка/Мануа</item>
+        <item>Америка/Сейнт-Джоунс</item>
+        <item>Америка/Сантяго</item>
+        <item>Америка/Аржентина/Буенос-Айрес</item>
+        <item>Америка/Готхаб</item>
+        <item>Америка/Соа-Паоло</item>
+        <item>Америка/Монтевидео</item>
+        <item>Атлантик/Южна-Джорджия</item>
+        <item>Атлантик/Азорски острови</item>
+        <item>Атлантик/Кобо-Верде</item>
+        <item>Африка/Казабланка</item>
+        <item>Европа/Лондон</item>
+        <item>Европа/Амстердам</item>
+        <item>Европа/Белград</item>
+        <item>Европа/Брюксел</item>
+        <item>Европа/Сараево</item>
+        <item>Африка/Бразавил</item>
+        <item>Африка/Виндхук</item>
+        <item>Азия/Аман</item>
+        <item>Европа/Атина</item>
+        <item>Азия/Бейрут</item>
+        <item>Африка/Кайро</item>
+        <item>Европа/Хелзинки</item>
+        <item>Азия/Йерусалим</item>
+        <item>Африка/Хараре</item>
+        <item>Европа/Минск</item>
+        <item>Азия/Багдад</item>
+        <item>Европа/Москва</item>
+        <item>Азия/Кувейт</item>
+        <item>Африка/Найроби</item>
+        <item>Азия/Техеран</item>
+        <item>Азия/Баку</item>
+        <item>Азия/Тбилиси</item>
+        <item>Азия/Ереван</item>
+        <item>Азия/Дубай</item>
+        <item>Азия/Кабул</item>
+        <item>Азия/Карачи</item>
+        <item>Азия/Урал</item>
+        <item>Азия/Екатеринбург</item>
+        <item>Азия/Калкута</item>
+        <item>Азия/Коломбо</item>
+        <item>Азия/Катманду</item>
+        <item>Азия/Алмати</item>
+        <item>Азия/Рангун</item>
+        <item>Азия/Красноярск</item>
+        <item>Азия/Банкок</item>
+        <item>Азия/Шанхай</item>
+        <item>Азия/Хонк-Конг</item>
+        <item>Азия/Иркутск</item>
+        <item>Азия/Куала-Лампур</item>
+        <item>Австралия/Пърт</item>
+        <item>Азия/Тайпей</item>
+        <item>Азия/Сеул</item>
+        <item>Азия/Токио</item>
+        <item>Азия/Якутск</item>
+        <item>Австралия/Дарвин</item>
+        <item>Австралия/Бризбейн</item>
+        <item>Азия/Владивосток</item>
+        <item>Пасифик/Гуам</item>
+        <item>Азия/Магадан</item>
+        <item>Австралия/Аделаида</item>
+        <item>Австралия/Хобърт</item>
+        <item>Австралия/Сидни</item>
+        <item>Пасифик/Маджуро</item>
+        <item>Пасифик/Оукланд</item>
+        <item>Пасифик/Фиджи</item>
+        <item>Пасифик/Тонгатупу</item>
     </string-array>
     <string-array name="time_zone_item">
-        <item>-11 Midway</item>
-        <item>-10 Honolulu</item>
-        <item>-9 Anchorage</item>
-        <item>-8 Los_Angeles</item>
-        <item>-8 Tijuana</item>
-        <item>-7 Phoenix</item>
-        <item>-7 Chihuahua</item>
-        <item>-7 Denver</item>
-        <item>-6 Costa_Rica</item>
-        <item>-6 Chicago</item>
-        <item>-6 Mexico_City</item>
-        <item>-6 Regina</item>
-        <item>-5 Bogota</item>
-        <item>-5 New_York</item>
-        <item>-4:30 Caracas</item>
-        <item>-4 Barbados</item>
-        <item>-4 Manaus</item>
-        <item>-3:30 St_Johns</item>
-        <item>-3 Santiago</item>
-        <item>-3 Buenos_Aires</item>
-        <item>-3 Godthab</item>
-        <item>-2 Sao_Paulo</item>
-        <item>-2 Montevideo</item>
-        <item>-2 South_Georgia</item>
-        <item>-1 Azores</item>
-        <item>-1 Cape_Verde</item>
-        <item>+0 Casablanca</item>
-        <item>+0 London</item>
-        <item>+1 Amsterdam</item>
-        <item>+1 Belgrade</item>
-        <item>+1 Brussels</item>
-        <item>+1 Sarajevo</item>
-        <item>+1 Brazzaville</item>
-        <item>+2 Windhoek</item>
-        <item>+2 Amman</item>
-        <item>+2 Athens</item>
-        <item>+2 Beirut</item>
-        <item>+2 Cairo</item>
-        <item>+2 Helsinki</item>
-        <item>+2 Jerusalem</item>
-        <item>+2 Harare</item>
-        <item>+3 Minsk</item>
-        <item>+3 Baghdad</item>
-        <item>+3 Moscow</item>
-        <item>+3 Kuwait</item>
-        <item>+3 Nairobi</item>
-        <item>+3:30 Tehran</item>
-        <item>+4 Baku</item>
-        <item>+4 Tbilisi</item>
-        <item>+4 Yerevan</item>
-        <item>+4 Dubai</item>
-        <item>+4:30 Kabul</item>
-        <item>+5 Karachi</item>
-        <item>+5 Oral</item>
-        <item>+5 Yekaterinburg</item>
-        <item>+5:30 Calcutta</item>
-        <item>+5:30 Colombo</item>
-        <item>+5:45 Katmandu</item>
-        <item>+6 Almaty</item>
-        <item>+6:30 Rangoon</item>
-        <item>+7 Krasnoyarsk</item>
-        <item>+7 Bangkok</item>
-        <item>+8 Beijing</item>
-        <item>+8 Hong_Kong</item>
-        <item>+8 Irkutsk</item>
-        <item>+8 Kuala_Lumpur</item>
-        <item>+8 Perth</item>
-        <item>+8 Taipei</item>
-        <item>+9 Seoul</item>
-        <item>+9 Tokyo</item>
-        <item>+9 Yakutsk</item>
-        <item>+9:30 Darwin</item>
-        <item>+10 Brisbane</item>
-        <item>+10 Vladivostok</item>
-        <item>+10 Guam</item>
-        <item>+10 Magadan</item>
-        <item>+10:30 Adelaide</item>
-        <item>+11 Hobart</item>
-        <item>+11 Sydney</item>
-        <item>+12 Majuro</item>
-        <item>+13 Auckland</item>
-        <item>+13 Fiji</item>
-        <item>+13 Tongatapu</item>
+        <item>-11 Мидуей</item>
+        <item>-10 Хонолулу</item>
+        <item>-9 Анкоридж</item>
+        <item>-8 Лос-Анджелис</item>
+        <item>-8 Тихуана</item>
+        <item>-7 Феникс</item>
+        <item>-7 Чихуахуа</item>
+        <item>-7 Денвър</item>
+        <item>-6 Коста-Рика</item>
+        <item>-6 Чикаго</item>
+        <item>-6 Мексико-Сити</item>
+        <item>-6 Реджайна</item>
+        <item>-5 Богота</item>
+        <item>-5 Ню-Йорк</item>
+        <item>-4:30 Каракас</item>
+        <item>-4 Барбадос</item>
+        <item>-4 Мануас</item>
+        <item>-3:30 Сейнт-Джоунс</item>
+        <item>-3 Сантяго</item>
+        <item>-3 Буенос-Айрес</item>
+        <item>-3 Готхаб</item>
+        <item>-2 Сао-Пауло</item>
+        <item>-2 Монтевидео</item>
+        <item>-2 Южна-Джорджия</item>
+        <item>-1 Азорски острови</item>
+        <item>-1 Кабо-Верде</item>
+        <item>+0 Казабланка</item>
+        <item>+0 Лондон</item>
+        <item>+1 Амстердам</item>
+        <item>+1 Белград</item>
+        <item>+1 Брюксел</item>
+        <item>+1 Сараево</item>
+        <item>+1 Бразавил</item>
+        <item>+2 Виндхук</item>
+        <item>+2 Аман</item>
+        <item>+2 Атина</item>
+        <item>+2 Бейрут</item>
+        <item>+2 Кайро</item>
+        <item>+2 Хелзинки</item>
+        <item>+2 Йерусалим</item>
+        <item>+2 Хараре</item>
+        <item>+3 Минск</item>
+        <item>+3 Багдад</item>
+        <item>+3 Москва</item>
+        <item>+3 Кувейт</item>
+        <item>+3 Найроби</item>
+        <item>+3:30 Техеран</item>
+        <item>+4 Баку</item>
+        <item>+4 Тблиси</item>
+        <item>+4 Ереван</item>
+        <item>+4 Дубай</item>
+        <item>+4:30 Кабул</item>
+        <item>+5 Карачи</item>
+        <item>+5 Урал</item>
+        <item>+5 Екатеринбург</item>
+        <item>+5:30 Калкута</item>
+        <item>+5:30 Коломбо</item>
+        <item>+5:45 Катманду</item>
+        <item>+6 Алмати</item>
+        <item>+6:30 Рангун</item>
+        <item>+7 Красноярск</item>
+        <item>+7 Банкок</item>
+        <item>+8 Пекин</item>
+        <item>+8 Хонк-Конг</item>
+        <item>+8 Иркутск</item>
+        <item>+8 Куала-Лумпур</item>
+        <item>+8 Пърт</item>
+        <item>+8 Тайпей</item>
+        <item>+9 Сеул</item>
+        <item>+9 Токио</item>
+        <item>+9 Якутск</item>
+        <item>+9:30 Дарвин</item>
+        <item>+10 Бризбейн</item>
+        <item>+10 Владивосток</item>
+        <item>+10 Гуам</item>
+        <item>+10 Магадан</item>
+        <item>+10:30 Аделайда</item>
+        <item>+11 Хобарт</item>
+        <item>+11 Сидни</item>
+        <item>+12 Маджуро</item>
+        <item>+13 Оукланд</item>
+        <item>+13 Фиджи</item>
+        <item>+13 Тонгтупу</item>
     </string-array>
     <string-array name="light_mode_subtitle">
         <item>Brightness: Disabled</item>
         <item>Brightness: Auto</item>
-        <item>Brightness: 2</item>
-        <item>Brightness: 2</item>
-        <item>Brightness: 1</item>
-        <item>Brightness: 3</item>
-        <item>Brightness: 4</item>
-        <item>Brightness: 5</item>
+        <item>Яркост: 2</item>
+        <item>Яркост: 2</item>
+        <item>Яркост: 1</item>
+        <item>Яркост: 3</item>
+        <item>Яркост: 4</item>
+        <item>Яркост: 5</item>
     </string-array>
 </resources>
