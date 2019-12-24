@@ -3,8 +3,8 @@
 <resources>
     <string name="analog_eleven_week_path">guard/chengshijinying/en/week_%d.png</string>
     <string name="analog_thirteen_week_path">guard/com.huami.watch.watchface.AnalogWatchFaceThirteen/android/en/week_%d.png</string>
-    <string name="custom_title">Background</string>
-    <string name="custom_confirm">Save</string>
+    <string name="custom_title">Hintergrund</string>
+    <string name="custom_confirm">Speichern</string>
     <string name="custom_header_title">Uploaded background</string>
     <string name="custom_select">Select</string>
     <string name="custom_exit">Exit</string>
@@ -14,7 +14,7 @@
     <string name="custom_none_custom_background_title">No images</string>
     <string name="custom_none_custom_background_content">Add background images in the Amazfit app.</string>
     <string name="custom_widget_preview_date">\@assets/datawidget/en/preview_6_%d.png</string>
-    <string name="custom_title_bg">Background</string>
+    <string name="custom_title_bg">Hintergrund</string>
     <string name="custom_title_graduation">Indicators</string>
     <string name="custom_title_timehand">Hands</string>
     <string name="custom_title_timedigital">Digits</string>
@@ -121,7 +121,7 @@
     <string name="indoor_fitness">Indoor fitness</string>
     <string name="row_machine">Rowing machine</string>
     <string name="sport_total_time">Total time</string>
-    <string name="current_altitude">Altitude</string>
+    <string name="current_altitude">Höhe über Meer</string>
     <string name="speed">Speed</string>
     <string name="stroke_speed">Stroke rate</string>
     <string name="pace">Pace</string>
@@ -179,7 +179,7 @@
     <string name="minute">m</string>
     <string name="minute_clock">m</string>
     <string name="second">s</string>
-    <string name="altitude">Altitude</string>
+    <string name="altitude">Höhe über Meer</string>
     <string name="longitude_and_latitude">Lat/Long</string>
     <string name="press_key_finish_train">Press BACK to finish</string>
     <string name="press_up_key_wake_up">Press the Up button to unlock</string>
@@ -199,7 +199,7 @@
     <string name="oritation_sourth">S</string>
     <string name="oritation_west">W</string>
     <string name="oritation_north">N</string>
-    <string name="rope_skip_group_time">Time</string>
+    <string name="rope_skip_group_time">Zeit</string>
     <string name="rope_skip_group_count">Count</string>
     <string name="rope_skip_group_freq">Frequency</string>
     <string name="rope_skip_reset_tips">Has rested</string>
@@ -210,22 +210,22 @@
     <string name="rope_skip_group_calories">Calories</string>
     <string name="music">Music</string>
     <string name="press_long_power_key_wake_up">Press a physical button to exit</string>
-    <string name="sport_auto_pause_end">Session ended, save the data?</string>
+    <string name="sport_auto_pause_end">Aktion beendet, Daten speichern?</string>
     <string name="sport_slpt_stop_next_group">Next</string>
     <string name="group_rowing_freq">Frequency</string>
     <string name="group_rowing_count">Times</string>
     <string name="picker_default_positive_text">OK</string>
-    <string name="picker_default_nagetive_text">Off</string>
+    <string name="picker_default_nagetive_text">Aus</string>
     <string name="no_heartrate_data_hint">"Couldn't find heart rate data"</string>
     <string name="no_altitude_hint">"Couldn't find altitude data"</string>
-    <string name="title_settings">Settings</string>
+    <string name="title_settings">Einstellungen</string>
     <string name="sport_music_settings">Music</string>
     <string name="widget_currentstep_title">Data</string>
     <string name="widget_currentstep_activities">"Today's activity"</string>
     <string name="widget_currentstep_sleep_hour">h</string>
     <string name="widget_currentstep_sleep_min">m</string>
     <string name="widget_currentstep_sleep_title">Slept last night</string>
-    <string name="widget_currentstep_sleep_no">No sleep data</string>
-    <string name="widget_currentstep_activity_no">No activity today?</string>
-    <string name="locale_title">Select Language</string>
+    <string name="widget_currentstep_sleep_no">Keine Schlafdaten</string>
+    <string name="widget_currentstep_activity_no">Keine Aktivität heute?</string>
+    <string name="locale_title">Sprache auswählen</string>
 </resources>
