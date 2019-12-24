@@ -28,27 +28,27 @@
         <item>sport_target_remind_desc_01</item>
     </string-array>
     <string-array name="support_sport">
-        <item>RUNNING</item>
+        <item>ΤΡΕΞΙΜΟ</item>
         <item>WALKING</item>
-        <item>CROSSING</item>
+        <item>ΔΙΕΛΕΥΣΗ</item>
         <item>INDOOR_RUN</item>
-        <item>OUTDOOR_RIDING</item>
-        <item>INDOOR_RIDING</item>
+        <item>ΤΡΕΞΙΜΟ_ΕΞΩΤΕΡΙΚΟΥ ΧΩΡΟΥ</item>
+        <item>ΤΡΕΞΙΜΟ_ΕΣΩΤΡΙΚΟΥ ΧΩΡΟΥ</item>
         <item>ELLIPTICAL_MACHINE</item>
     </string-array>
     <string-array name="dally_performence_level_status">
-        <item>Fatigued</item>
+        <item>Κόπωση</item>
         <item>Normal</item>
-        <item>Good</item>
+        <item>Καλό</item>
     </string-array>
     <string-array name="vo2_max_level_status">
         <item>Very poor</item>
         <item>Poor</item>
         <item>Fair</item>
-        <item>Average</item>
-        <item>Good</item>
-        <item>Very good</item>
-        <item>Excellent</item>
+        <item>Μέσος Όρος</item>
+        <item>Καλό</item>
+        <item>Πολύ καλό</item>
+        <item>Άριστο</item>
     </string-array>
     <string-array name="spring_depend">
         <item>com.huami.watch.newsport/com.huami.watch.newsport.widget.SportWidget</item>
@@ -58,58 +58,60 @@
     </string-array>
     <string-array name="sport_data_item_array">
         <item></item>
-        <item>Time</item>
-        <item>Distance</item>
-        <item>Pace</item>
+        <item>Χρόνος</item>
+        <item>Mileage</item>
+        <item>Βήμα</item>
         <item>Avg pace</item>
-        <item>Heart rate</item>
-        <item>Calories</item>
-        <item>Altitude</item>
+        <item>Καρδιακός ρυθμός</item>
+        <item>\"Calories
+\"</item>
+        <item>Υψόμετρο</item>
         <item>Elev gain</item>
         <item>Elev loss</item>
-        <item>Speed</item>
+        <item>Ταχύτητα</item>
         <item>Avg speed</item>
-        <item>Cadence</item>
+        <item>Ρυθμός</item>
         <item>Dist gain</item>
         <item>Steps</item>
-        <item>Cadence</item>
-        <item>Laps</item>
+        <item>Ρυθμός</item>
+        <item>Γύροι</item>
         <item>DPS</item>
-        <item>Stroke rate</item>
+        <item>Ρυθμός απλωτών</item>
         <item>Avg SPM</item>
-        <item>Pace</item>
+        <item>Βήμα</item>
         <item>Avg pace</item>
-        <item>Distance</item>
+        <item>Mileage</item>
         <item>TE</item>
         <item>Vert speed</item>
         <item>Avg speed</item>
         <item>Max speed</item>
-        <item>Laps</item>
+        <item>Γύροι</item>
         <item>Downhill</item>
         <item>Total downhill</item>
         <item>Descent</item>
-        <item>Strokes</item>
-        <item>Lap time</item>
-        <item>Lap pace</item>
-        <item>Lap speed</item>
+        <item>Απλωτές</item>
+        <item>Χρόνος γύρου</item>
+        <item>Ρυθμός βημάτων γύρου</item>
+        <item>Ταχύτητα γύρου</item>
         <item>Lap HR</item>
-        <item>Lap cadence</item>
-        <item>Lap pace</item>
-        <item>Current freq</item>
+        <item>Ρυθμός γύρου</item>
+        <item>Ρυθμός βημάτων γύρου</item>
+        <item>Τρέχουσα συχνότητα</item>
         <item>Total count</item>
         <item>Avg freq</item>
         <item>Groups</item>
         <item>Lap count</item>
-        <item>Lap time</item>
+        <item>Χρόνος γύρου</item>
         <item>Lap freq</item>
-        <item>Lap time</item>
+        <item>Χρόνος γύρου</item>
         <item>Lap dist.</item>
-        <item>Lap pace</item>
+        <item>Ρυθμός βημάτων γύρου</item>
         <item>Speed for this lap</item>
         <item>Heart rate in this lap</item>
         <item>Lap freq.</item>
         <item>slope</item>
-        <item>Calories</item>
+        <item>\"Calories
+\"</item>
         <item>Avg. HR</item>
         <item>Paddles of this set</item>
         <item>Frequency</item>
@@ -121,11 +123,11 @@
     </string-array>
     <string-array name="sport_train_item">
         <item>Remaining distance</item>
-        <item>Total distance</item>
-        <item>Total time</item>
+        <item>Συνολική απόσταση</item>
+        <item>Χρόνος που παρήλθε</item>
         <item>Remaining time</item>
-        <item>Distance</item>
-        <item>Remaining</item>
+        <item>Απόσταση</item>
+        <item>Απομένουν</item>
         <item>Has rested</item>
     </string-array>
 </resources>
