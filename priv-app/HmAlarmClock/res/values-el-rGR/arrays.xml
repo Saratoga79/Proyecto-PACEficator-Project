@@ -28,85 +28,87 @@
     <item>Alarm will go off in %1$s, %2$s, and %3$s.</item>
   </string-array>
   <string-array name="repeat_description">
-    <item>Every day</item>
+    <item>Καθημερινά</item>
     <item>Working day</item>
     <item>Weekend</item>
-    <item>Mon</item>
-    <item>Tue</item>
-    <item>Wed</item>
+    <item>Δευ</item>
+    <item>Τρί</item>
+    <item>Τετ</item>
     <item>Thu</item>
-    <item>Fri</item>
-    <item>Sat</item>
-    <item>Sun</item>
+    <item>Παρ</item>
+    <item>Σαβ</item>
+    <item>Κυρ</item>
   </string-array>
   <string-array name="short_week_days">
     <item></item>
-    <item>Sun</item>
-    <item>Mon</item>
-    <item>Tue</item>
-    <item>Wed</item>
+    <item>Κυρ</item>
+    <item>Δευ</item>
+    <item>Τρί</item>
+    <item>Τετ</item>
     <item>Thu</item>
-    <item>Fri</item>
-    <item>Sat</item>
+    <item>Παρ</item>
+    <item>Σαβ</item>
   </string-array>
   <string-array name="am_pm">
-    <item>AM</item>
-    <item>PM</item>
+    <item>ΠΜ</item>
+    <item>ΜΜ</item>
   </string-array>
   <string-array name="sport_data_item_array">
     <item></item>
-    <item>Time</item>
-    <item>Distance</item>
-    <item>Pace</item>
+    <item>Χρόνος</item>
+    <item>Mileage</item>
+    <item>Βήμα</item>
     <item>Avg pace</item>
-    <item>Heart rate</item>
-    <item>Calories</item>
-    <item>Altitude</item>
+    <item>Καρδιακός ρυθμός</item>
+    <item>\"Calories
+\"</item>
+    <item>Υψόμετρο</item>
     <item>Elev gain</item>
     <item>Elev loss</item>
-    <item>Speed</item>
+    <item>Ταχύτητα</item>
     <item>Avg speed</item>
-    <item>Cadence</item>
+    <item>Ρυθμός</item>
     <item>Dist gain</item>
     <item>Steps</item>
-    <item>Cadence</item>
-    <item>Laps</item>
+    <item>Ρυθμός</item>
+    <item>Γύροι</item>
     <item>DPS</item>
-    <item>Stroke rate</item>
+    <item>Ρυθμός απλωτών</item>
     <item>Avg SPM</item>
-    <item>Pace</item>
+    <item>Βήμα</item>
     <item>Avg pace</item>
-    <item>Distance</item>
+    <item>Mileage</item>
     <item>TE</item>
     <item>Vert speed</item>
     <item>Avg speed</item>
     <item>Max speed</item>
-    <item>Laps</item>
+    <item>Γύροι</item>
     <item>Downhill</item>
     <item>Total downhill</item>
     <item>Descent</item>
-    <item>Strokes</item>
-    <item>Lap time</item>
-    <item>Lap pace</item>
-    <item>Lap speed</item>
+    <item>Απλωτές</item>
+    <item>Χρόνος γύρου</item>
+    <item>Ρυθμός βημάτων γύρου</item>
+    <item>Ταχύτητα γύρου</item>
     <item>Lap HR</item>
-    <item>Lap cadence</item>
-    <item>Lap pace</item>
-    <item>Current freq</item>
+    <item>Ρυθμός γύρου</item>
+    <item>Ρυθμός βημάτων γύρου</item>
+    <item>Τρέχουσα συχνότητα</item>
     <item>Total count</item>
     <item>Avg freq</item>
     <item>Groups</item>
     <item>Lap count</item>
-    <item>Lap time</item>
+    <item>Χρόνος γύρου</item>
     <item>Lap freq</item>
-    <item>Lap time</item>
+    <item>Χρόνος γύρου</item>
     <item>Lap dist.</item>
-    <item>Lap pace</item>
+    <item>Ρυθμός βημάτων γύρου</item>
     <item>Speed for this lap</item>
     <item>Heart rate in this lap</item>
     <item>Lap freq.</item>
     <item>slope</item>
-    <item>Calories</item>
+    <item>\"Calories
+\"</item>
     <item>Avg. HR</item>
     <item>Paddles of this set</item>
     <item>Frequency</item>
@@ -118,11 +120,11 @@
   </string-array>
   <string-array name="sport_train_item">
     <item>Remaining distance</item>
-    <item>Total distance</item>
-    <item>Total time</item>
+    <item>Συνολική απόσταση</item>
+    <item>Χρόνος που παρήλθε</item>
     <item>Remaining time</item>
-    <item>Distance</item>
-    <item>Remaining</item>
+    <item>Απόσταση</item>
+    <item>Απομένουν</item>
     <item>Has rested</item>
   </string-array>
 </resources>
