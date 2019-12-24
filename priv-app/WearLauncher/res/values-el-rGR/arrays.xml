@@ -147,14 +147,14 @@
         <item>60063.wfz</item>
     </string-array>
     <string-array name="quick_settings_status_week">
-        <item>Sun</item>
-        <item>Mon</item>
-        <item>Tue</item>
-        <item>Wed</item>
-        <item>Thu</item>
-        <item>Fri</item>
-        <item>Sat</item>
-        <item>Today</item>
+        <item>Κυρ</item>
+        <item>Δευ</item>
+        <item>Τρι</item>
+        <item>Τετ</item>
+        <item>Πεμ</item>
+        <item>Παρ</item>
+        <item>Σάβ</item>
+        <item>Σήμερα</item>
     </string-array>
     <string-array name="quick_settings_status_principleTerm">
         <item>Major Cold</item>
@@ -211,126 +211,128 @@
         <item>CubeOut</item>
         <item>FlipVertical</item>
         <item>FlipHorizontal</item>
-        <item>Stack</item>
-        <item>ZoomIn</item>
-        <item>ZoomOut</item>
-        <item>RotateUp</item>
-        <item>RotateDown</item>
-        <item>Accordion</item>
+        <item>Στοίβα</item>
+        <item>Μεγέθυνση</item>
+        <item>Σμίκρυνση</item>
+        <item>Περιστροφή πάνω</item>
+        <item>Περιστροφή κάτω</item>
+        <item>Ακορντεόν</item>
     </string-array>
     <string-array name="weather_card_aqilevel">
-        <item>Excellent</item>
-        <item>Fine</item>
-        <item>Light pollution</item>
+        <item>Άριστο</item>
+        <item>Εξαιρετικό</item>
+        <item>Ελαφρά ρύπανση</item>
         <item>Moderate pollution</item>
-        <item>Heavy pollution</item>
-        <item>Severe pollution</item>
+        <item>Βαριά ρύπανση</item>
+        <item>Σοβαρή ρύπανση</item>
         <item></item>
     </string-array>
     <string-array name="weather_card_quality">
-        <item>Suitable for sports</item>
-        <item>Not suitable for sports</item>
+        <item>Κατάλληλος για άσκηση</item>
+        <item>Ακατάλληλος για άσκηση</item>
         <item></item>
     </string-array>
     <string-array name="quick_settings_status_weather">
-        <item>Clear</item>
-        <item>Cloudy</item>
-        <item>Overcast</item>
+        <item>Καθαρός</item>
+        <item>Συννεφιά</item>
+        <item>Συννεφιά</item>
         <item>showers</item>
         <item>Thunder shower</item>
-        <item>Hail</item>
+        <item>Χαλάζι</item>
         <item>Rain and snow mixed</item>
-        <item>Light rain</item>
-        <item>Moderate rain</item>
-        <item>Heavy rain</item>
-        <item>Rainstorm</item>
+        <item>Ελαφρά βροχόπτωση</item>
+        <item>Μέτρια βροχή</item>
+        <item>Βαριά βροχή</item>
+        <item>Καταιγίδα</item>
         <item>Heavy rainstorm</item>
-        <item>Extraordinary rainstorm</item>
+        <item>Ιδιαίτερη καταιγίδα</item>
         <item>Snow shower</item>
-        <item>Light snow</item>
-        <item>Moderate snow</item>
-        <item>Heavy snow</item>
-        <item>Blizzard</item>
+        <item>Ελαφρά χιονόπτωση</item>
+        <item>Μέτρια χιονόπτωση</item>
+        <item>Βαριά χιονόπτωση</item>
+        <item>Snowstorm</item>
         <item>Fog</item>
-        <item>Freezing rain</item>
-        <item>Sandstorm</item>
+        <item>Παγωμένη βροχή</item>
+        <item>Αμμοθύελλα</item>
         <item>Small to moderate rain</item>
-        <item>Moderate to heavy rain</item>
-        <item>Heavy rain to rainstorm</item>
+        <item>Μέτρια έως δυνατή βροχή</item>
+        <item>Δυνατή βροχή σε καταιγίδα</item>
         <item>Rainstorm to heavy rainstorm</item>
         <item>Heavy to severe storm</item>
         <item>Small to moderate snow</item>
-        <item>Moderate to heavy snow</item>
-        <item>Heavy snow to blizzard</item>
-        <item>Dust</item>
-        <item>Blowing sand</item>
+        <item>Μέτρια έως βαριά χιονόπτωση</item>
+        <item>Βαριά χιονόπτωση σε χιονοθύελλα</item>
+        <item>Σκόνη</item>
+        <item>Αμμοθύελλα</item>
         <item>Strong sandstorm</item>
-        <item>Thick fog</item>
-        <item>Snow</item>
-        <item>Rain</item>
+        <item>Ομίχλη</item>
+        <item>Χιόνι</item>
+        <item>Βροχή</item>
         <item>Strong fog</item>
-        <item>Haze</item>
-        <item>Moderate haze</item>
+        <item>Καταχνιά</item>
+        <item>Μέτρια καταχνιά</item>
         <item>Heavy haze</item>
-        <item>Severe haze</item>
-        <item>Dense fog</item>
+        <item>Δριμύς καταχνιά</item>
+        <item>Πυκνή ομίχλη</item>
         <item>Extremely dense fog</item>
-        <item>No data</item>
+        <item>No Data</item>
     </string-array>
     <string-array name="sport_data_item_array">
         <item></item>
-        <item>Time</item>
-        <item>Distance</item>
-        <item>Pace</item>
+        <item>Χρόνος</item>
+        <item>Mileage</item>
+        <item>Βήμα</item>
         <item>Avg pace</item>
-        <item>Heart rate</item>
-        <item>Calories</item>
-        <item>Altitude</item>
+        <item>Καρδιακός ρυθμός</item>
+        <item>\"Calories
+\"</item>
+        <item>Υψόμετρο</item>
         <item>Elev gain</item>
         <item>Elev loss</item>
-        <item>Speed</item>
+        <item>Ταχύτητα</item>
         <item>Avg speed</item>
-        <item>Cadence</item>
+        <item>Ρυθμός</item>
         <item>Dist gain</item>
         <item>Steps</item>
-        <item>Cadence</item>
-        <item>Laps</item>
+        <item>Ρυθμός</item>
+        <item>Γύροι</item>
         <item>DPS</item>
-        <item>Stroke rate</item>
+        <item>Ρυθμός απλωτών</item>
         <item>Avg SPM</item>
-        <item>Pace</item>
+        <item>Βήμα</item>
         <item>Avg pace</item>
-        <item>Distance</item>
+        <item>Mileage</item>
         <item>TE</item>
         <item>Vert speed</item>
         <item>Avg speed</item>
         <item>Max speed</item>
-        <item>Laps</item>
+        <item>Γύροι</item>
         <item>Downhill</item>
         <item>Total downhill</item>
         <item>Descent</item>
-        <item>Strokes</item>
-        <item>Lap time</item>
-        <item>Lap pace</item>
-        <item>Lap speed</item>
+        <item>Απλωτές</item>
+        <item>Χρόνος γύρου</item>
+        <item>Ρυθμός βημάτων γύρου</item>
+        <item>Ταχύτητα γύρου</item>
         <item>Lap HR</item>
-        <item>Lap cadence</item>
-        <item>Lap pace</item>
-        <item>Current freq</item>
+        <item>Ρυθμός γύρου</item>
+        <item>Ρυθμός βημάτων γύρου</item>
+        <item>Τρέχουσα συχνότητα</item>
         <item>Total count</item>
         <item>Avg freq</item>
         <item>Groups</item>
         <item>Lap count</item>
-        <item>Lap time</item>
+        <item>Χρόνος γύρου</item>
         <item>Lap freq</item>
-        <item>Lap time</item>
+        <item>Χρόνος γύρου</item>
         <item>Lap dist.</item>
-        <item>Lap pace</item>
+        <item>Ρυθμός βημάτων γύρου</item>
         <item>Speed for this lap</item>
         <item>Heart rate in this lap</item>
         <item>Lap freq.</item>
         <item>slope</item>
-        <item>Calories</item>
+        <item>\"Calories
+\"</item>
         <item>Avg. HR</item>
         <item>Paddles of this set</item>
         <item>Frequency</item>
@@ -342,11 +344,11 @@
     </string-array>
     <string-array name="sport_train_item">
         <item>Remaining distance</item>
-        <item>Total distance</item>
-        <item>Total time</item>
+        <item>Συνολική απόσταση</item>
+        <item>Χρόνος που παρήλθε</item>
         <item>Remaining time</item>
-        <item>Distance</item>
-        <item>Remaining</item>
+        <item>Απόσταση</item>
+        <item>Απομένουν</item>
         <item>Has rested</item>
     </string-array>
 </resources>
