@@ -3,9 +3,9 @@
 <resources>
     <string name="app_name">MyWatch</string>
     <string name="iterations_count">Iterations count</string>
-    <string name="send">Send</string>
+    <string name="send">Изпрати</string>
     <string name="file_not_found">File not found at </string>
-    <string name="connect">Connect</string>
+    <string name="connect">Свързване</string>
     <string name="disconnect">Disconnect</string>
     <string name="link_connected">Link connected</string>
     <string name="link_disconnected">Link disconnected</string>
@@ -18,11 +18,11 @@
     <string name="connect_again">Please connect again</string>
     <string name="consume_time">consume time</string>
     <string name="clear_log">Clear Log</string>
-    <string name="file_transfer">File transfer</string>
+    <string name="file_transfer">Прехвърляне на файлове</string>
     <string name="file_name">File name</string>
-    <string name="file_size">File size</string>
-    <string name="confirm">Confirm</string>
-    <string name="cancel">Cancel</string>
+    <string name="file_size">Размер на файла</string>
+    <string name="confirm">Потвърди</string>
+    <string name="cancel">Отказ</string>
     <string name="unable_to_send">Unable to send</string>
     <string name="install_companion_tip">请先在手机上安装Amazfit助手</string>
     <string name="simplified_chinese">中文(简体)</string>
@@ -40,11 +40,11 @@
     <string name="wp_set_nm">wp_set_nm</string>
     <string name="wp_sel">wp_sel</string>
     <string name="storage">storage</string>
-    <string name="locale">locale</string>
+    <string name="locale">местен</string>
     <string name="battery">battery</string>
-    <string name="quit">quit</string>
-    <string name="start">start</string>
-    <string name="delete">Delete</string>
+    <string name="quit">изход</string>
+    <string name="start">старт</string>
+    <string name="delete">Изтрий</string>
     <string name="desc_all_day">%s(All day)</string>
     <string name="desc_time_period">%1$s(%2$s - %3$s)</string>
     <string name="delete_successful">Event deleted</string>
@@ -60,15 +60,15 @@
     <string name="rest_time">Test: Time to move</string>
     <string name="take_a_rest">"You've been sitting for too long. Stand up and move around for a minute."</string>
     <string name="reach_goal">Test: Reached goal</string>
-    <string name="reach_goal_content">"You've reached your daily goal of 8000 steps."</string>
+    <string name="reach_goal_content">"Вие достигнахте Вашата дневна цел от 8000 крачки."</string>
     <string name="get_medal">Test: New achievement</string>
     <string name="get_medal_firstly">"Congrats on reaching your goal. Here's your badge."</string>
     <string name="schedule_reminder">Test: Calendar reminder</string>
     <string name="schedule_birthday_party">Come to my birthday party tonight.</string>
     <string name="daily_weather">Test: Weather today</string>
     <string name="daily_weather_cloudy_to_sunny">Partly cloudy 25°C/28°C</string>
-    <string name="calendar">Schedule</string>
+    <string name="calendar">График</string>
     <string name="find_watch_title">Watch has been found</string>
     <string name="find_watch_msg">Watch has been found through the Amazfit Watch App.</string>
-    <string name="find_watch_yes">OK</string>
+    <string name="find_watch_yes">ОК</string>
 </resources>
