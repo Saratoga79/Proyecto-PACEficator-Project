@@ -17,7 +17,7 @@
     <string name="temp_to">~</string>
     <string name="temp_to_card">/</string>
     <string name="type_to"> to </string>
-    <string name="not_avalible_type">No data</string>
+    <string name="not_avalible_type">אין נתונים</string>
     <string name="not_avalible_temp">--</string>
     <string name="air_quality">Air quality </string>
     <string name="weather_title">Weather today</string>
@@ -59,14 +59,14 @@
     <string name="uv">UV index</string>
     <string name="detailed">Weather details</string>
     <string name="forecast">Weather forecast</string>
-    <string name="fetching">Just a sec…</string>
-    <string name="fetch_failed">"Couldn't get info"</string>
-    <string name="unknown">Unknown</string>
+    <string name="fetching">רק רגע…</string>
+    <string name="fetch_failed">"לא ניתן היה לקבל מידע"</string>
+    <string name="unknown">לא ידועה</string>
     <string name="fetch_failed_title">"Couldn't get weather info"</string>
     <string name="fetch_failed_msg">Make sure your watch is connected to the Amazfit app and a valid location is selected in the app.</string>
-    <string name="date_time_format">MM/dd</string>
-    <string name="forecast_today">Today</string>
-    <string name="forecast_tomorrow">Tomorrow</string>
+    <string name="date_time_format">dd-MM</string>
+    <string name="forecast_today">היום</string>
+    <string name="forecast_tomorrow">明天</string>
     <string name="fetch_failed_help">Stay connected with the Amazfit app to sync the weather automatically.</string>
     <string name="cancel">Close</string>
     <string name="wind_breeze">Breeze</string>
@@ -189,7 +189,7 @@
     <string name="oritation_sourth">S</string>
     <string name="oritation_west">W</string>
     <string name="oritation_north">N</string>
-    <string name="rope_skip_group_time">Time</string>
+    <string name="rope_skip_group_time">时间</string>
     <string name="rope_skip_group_count">Count</string>
     <string name="rope_skip_group_freq">Frequency</string>
     <string name="rope_skip_reset_tips">Has rested</string>
@@ -204,7 +204,7 @@
     <string name="sport_slpt_stop_next_group">Next</string>
     <string name="group_rowing_freq">Frequency</string>
     <string name="group_rowing_count">Times</string>
-    <string name="picker_default_positive_text">OK</string>
+    <string name="picker_default_positive_text">אישור</string>
     <string name="picker_default_nagetive_text">Off</string>
     <string name="no_heartrate_data_hint">"Couldn't find heart rate data"</string>
     <string name="no_altitude_hint">"Couldn't find altitude data"</string>
