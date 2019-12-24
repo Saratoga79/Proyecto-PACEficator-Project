@@ -16,7 +16,7 @@
     <string name="music_continue_downloading">Songs will continue to be downloaded</string>
     <string name="music_service_unavalible">DouBan service is Unavailable</string>
     <string name="music_download" formatted="false">%1d/%2d</string>
-    <string name="mode_singles">Loop</string>
+    <string name="mode_singles">Smyčka</string>
     <string name="mode_loop">Play all</string>
     <string name="mode_random">Shuffle</string>
     <string name="music_list_title">Playback settings</string>
@@ -24,7 +24,7 @@
     <string name="music_play_mode">Playback modes</string>
     <string name="music_play_source">Change music library</string>
     <string name="music_source_all">All</string>
-    <string name="music_title">Music</string>
+    <string name="music_title">Hudba</string>
     <string name="music_init_not_done">The music is initializing ...</string>
     <string name="music_no_resource">No songs available</string>
     <string name="music_source_douban">Watercress FM</string>
@@ -72,7 +72,7 @@
     <string name="confirm_exit">"The listed songs have not completely downloaded. 
 Are you sure to exist?"</string>
     <string name="music_download_cancel">The songs downloading process has been stopped</string>
-    <string name="play_mode_single_loop">Single loop</string>
+    <string name="play_mode_single_loop">Jedna smyčka</string>
     <string name="play_mode_ordered">Order play</string>
     <string name="play_mode_random">Random play</string>
     <string name="play_mode_album_loop">Album loop</string>
@@ -81,7 +81,7 @@ Are you sure to exist?"</string>
     <string name="label_play">Play</string>
     <string name="label_previous">Previous</string>
     <string name="label_next">Next</string>
-    <string name="average_text">Average</string>
+    <string name="average_text">Průměr</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="running">Running</string>
     <string name="waking">Walking</string>
@@ -102,21 +102,21 @@ Are you sure to exist?"</string>
     <string name="golf">Golf</string>
     <string name="complex_sport">Multisport</string>
     <string name="rope_skipping">Jump rope</string>
-    <string name="on_foot">On foot</string>
+    <string name="on_foot">Pěšky</string>
     <string name="indoor_fitness">Indoor fitness</string>
     <string name="row_machine">Rowing machine</string>
     <string name="sport_total_time">Total time</string>
-    <string name="current_altitude">Altitude</string>
+    <string name="current_altitude">Nadmořská výška</string>
     <string name="speed">Speed</string>
     <string name="stroke_speed">Stroke rate</string>
     <string name="pace">Pace</string>
-    <string name="mileage">Distance</string>
+    <string name="mileage">Vzdálenost</string>
     <string name="rope_skip_freq">Frequency</string>
     <string name="row_stroke_freq">Frequency</string>
     <string name="sport_has_paused">Paused</string>
     <string name="sport_paused_time">Paused</string>
-    <string name="sport_distance">Distance</string>
-    <string name="sport_mileage">Distance</string>
+    <string name="sport_distance">Vzdálenost</string>
+    <string name="sport_mileage">Vzdálenost</string>
     <string name="sport_downhill_total_distance">Total downhill</string>
     <string name="sport_tennis_strokes">Strokes</string>
     <string name="sport_rope_skip_count">Count</string>
@@ -164,7 +164,7 @@ Are you sure to exist?"</string>
     <string name="minute">m</string>
     <string name="minute_clock">m</string>
     <string name="second">s</string>
-    <string name="altitude">Altitude</string>
+    <string name="altitude">Nadmořská výška</string>
     <string name="longitude_and_latitude">Lat/Long</string>
     <string name="press_key_finish_train">Press BACK to finish</string>
     <string name="press_up_key_wake_up">Press the Up button to unlock</string>
@@ -184,7 +184,7 @@ Are you sure to exist?"</string>
     <string name="oritation_sourth">S</string>
     <string name="oritation_west">W</string>
     <string name="oritation_north">N</string>
-    <string name="rope_skip_group_time">Time</string>
+    <string name="rope_skip_group_time">Čas</string>
     <string name="rope_skip_group_count">Count</string>
     <string name="rope_skip_group_freq">Frequency</string>
     <string name="rope_skip_reset_tips">Has rested</string>
@@ -192,25 +192,26 @@ Are you sure to exist?"</string>
     <string name="rope_skip_tips1">The</string>
     <string name="rope_skip_tips2">set has been completed</string>
     <string name="rope_skip_avg_heartrate">Avg. heart rate</string>
-    <string name="rope_skip_group_calories">Calories</string>
-    <string name="music">Music</string>
+    <string name="rope_skip_group_calories">\"Kalorie
+\"</string>
+    <string name="music">Hudba</string>
     <string name="press_long_power_key_wake_up">Press a physical button to exit</string>
-    <string name="sport_auto_pause_end">Session ended, save the data?</string>
+    <string name="sport_auto_pause_end">Relace skončila, uložit data?</string>
     <string name="sport_slpt_stop_next_group">Next</string>
     <string name="group_rowing_freq">Frequency</string>
-    <string name="group_rowing_count">Times</string>
+    <string name="group_rowing_count">Krát</string>
     <string name="picker_default_positive_text">OK</string>
-    <string name="picker_default_nagetive_text">Off</string>
-    <string name="no_heartrate_data_hint">"Couldn't find heart rate data"</string>
-    <string name="no_altitude_hint">"Couldn't find altitude data"</string>
-    <string name="title_settings">Settings</string>
-    <string name="sport_music_settings">Music</string>
+    <string name="picker_default_nagetive_text">Vypnuto</string>
+    <string name="no_heartrate_data_hint">"Údaje o srdečním tepu nebyly zjištěny"</string>
+    <string name="no_altitude_hint">"Údaje o nadmořské výšce nebyly zjištěny"</string>
+    <string name="title_settings">Nastavení</string>
+    <string name="sport_music_settings">Hudba</string>
     <string name="widget_currentstep_title">Data</string>
-    <string name="widget_currentstep_activities">"Today's activity"</string>
+    <string name="widget_currentstep_activities">"Dnešní aktivita"</string>
     <string name="widget_currentstep_sleep_hour">h</string>
     <string name="widget_currentstep_sleep_min">m</string>
-    <string name="widget_currentstep_sleep_title">Slept last night</string>
-    <string name="widget_currentstep_sleep_no">No sleep data</string>
-    <string name="widget_currentstep_activity_no">No activity today?</string>
-    <string name="locale_title">Select Language</string>
+    <string name="widget_currentstep_sleep_title">Spánek minulou noc</string>
+    <string name="widget_currentstep_sleep_no">Žádná data o spánku</string>
+    <string name="widget_currentstep_activity_no">Dnes žádná aktivita?</string>
+    <string name="locale_title">Zvolte jazyk</string>
 </resources>
