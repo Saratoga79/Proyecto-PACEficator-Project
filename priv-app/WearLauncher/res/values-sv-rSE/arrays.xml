@@ -147,14 +147,14 @@
         <item>60063.wfz</item>
     </string-array>
     <string-array name="quick_settings_status_week">
-        <item>Sun</item>
-        <item>Mon</item>
-        <item>Tue</item>
-        <item>Wed</item>
-        <item>Thu</item>
-        <item>Fri</item>
-        <item>Sat</item>
-        <item>Today</item>
+        <item>Sön</item>
+        <item>Mån</item>
+        <item>Tis</item>
+        <item>Ons</item>
+        <item>Tor</item>
+        <item>Fre</item>
+        <item>Lör</item>
+        <item>Idag</item>
     </string-array>
     <string-array name="quick_settings_status_principleTerm">
         <item>Major Cold</item>
@@ -219,40 +219,40 @@
         <item>Accordion</item>
     </string-array>
     <string-array name="weather_card_aqilevel">
-        <item>Excellent</item>
-        <item>Fine</item>
-        <item>Light pollution</item>
-        <item>Moderate pollution</item>
-        <item>Heavy pollution</item>
-        <item>Severe pollution</item>
+        <item>Utmärkt</item>
+        <item>Fint</item>
+        <item>Låg förorening</item>
+        <item>Medel förorening</item>
+        <item>Tung förorening</item>
+        <item>Svår luftförorening</item>
         <item></item>
     </string-array>
     <string-array name="weather_card_quality">
-        <item>Suitable for sports</item>
-        <item>Not suitable for sports</item>
+        <item>Lämpligt för sport</item>
+        <item>Olämpligt för sport</item>
         <item></item>
     </string-array>
     <string-array name="quick_settings_status_weather">
-        <item>Clear</item>
-        <item>Cloudy</item>
-        <item>Overcast</item>
-        <item>showers</item>
+        <item>Klart</item>
+        <item>Molnigt</item>
+        <item>Mulet</item>
+        <item>skurar</item>
         <item>Thunder shower</item>
-        <item>Hail</item>
-        <item>Rain and snow mixed</item>
-        <item>Light rain</item>
-        <item>Moderate rain</item>
-        <item>Heavy rain</item>
-        <item>Rainstorm</item>
-        <item>Heavy rainstorm</item>
+        <item>Hagel</item>
+        <item>Snöblandat regn</item>
+        <item>Lätt regn</item>
+        <item>Måttligt regn</item>
+        <item>Kraftigt regn</item>
+        <item>Häftigt regn</item>
+        <item>Skyfall</item>
         <item>Extraordinary rainstorm</item>
         <item>Snow shower</item>
-        <item>Light snow</item>
-        <item>Moderate snow</item>
-        <item>Heavy snow</item>
-        <item>Blizzard</item>
-        <item>Fog</item>
-        <item>Freezing rain</item>
+        <item>Lätt snöfall</item>
+        <item>Måttligt snöfall</item>
+        <item>Kraftigt snöfall</item>
+        <item>Snöstorm</item>
+        <item>Dimma</item>
+        <item>Underkylt regn</item>
         <item>Sandstorm</item>
         <item>Small to moderate rain</item>
         <item>Moderate to heavy rain</item>
@@ -262,64 +262,64 @@
         <item>Small to moderate snow</item>
         <item>Moderate to heavy snow</item>
         <item>Heavy snow to blizzard</item>
-        <item>Dust</item>
+        <item>Damm</item>
         <item>Blowing sand</item>
-        <item>Strong sandstorm</item>
+        <item>Hård sandstorm</item>
         <item>Thick fog</item>
-        <item>Snow</item>
+        <item>Snö</item>
         <item>Rain</item>
         <item>Strong fog</item>
-        <item>Haze</item>
+        <item>Dis</item>
         <item>Moderate haze</item>
         <item>Heavy haze</item>
         <item>Severe haze</item>
         <item>Dense fog</item>
         <item>Extremely dense fog</item>
-        <item>No data</item>
+        <item>Ingen data</item>
     </string-array>
     <string-array name="sport_data_item_array">
         <item></item>
-        <item>Time</item>
-        <item>Distance</item>
-        <item>Pace</item>
-        <item>Avg pace</item>
-        <item>Heart rate</item>
-        <item>Calories</item>
-        <item>Altitude</item>
-        <item>Elev gain</item>
-        <item>Elev loss</item>
-        <item>Speed</item>
-        <item>Avg speed</item>
-        <item>Cadence</item>
-        <item>Dist gain</item>
-        <item>Steps</item>
-        <item>Cadence</item>
-        <item>Laps</item>
+        <item>Tid</item>
+        <item>Avstånd</item>
+        <item>Takt</item>
+        <item>Medel tempo</item>
+        <item>Puls</item>
+        <item>Kalorier</item>
+        <item>Höjd</item>
+        <item>Ökning höjd</item>
+        <item>Minskning höjd</item>
+        <item>Hastighet</item>
+        <item>Medelhastighet</item>
+        <item>Kadens</item>
+        <item>Ökning avstånd</item>
+        <item>Steg</item>
+        <item>Kadens</item>
+        <item>Varv</item>
         <item>DPS</item>
-        <item>Stroke rate</item>
-        <item>Avg SPM</item>
-        <item>Pace</item>
-        <item>Avg pace</item>
-        <item>Distance</item>
+        <item>Slagfrekvens</item>
+        <item>Gen. SPM</item>
+        <item>Tempo</item>
+        <item>Medel tempo</item>
+        <item>Avstånd</item>
         <item>TE</item>
-        <item>Vert speed</item>
-        <item>Avg speed</item>
-        <item>Max speed</item>
-        <item>Laps</item>
-        <item>Downhill</item>
-        <item>Total downhill</item>
-        <item>Descent</item>
-        <item>Strokes</item>
+        <item>Vert hastighet</item>
+        <item>Medelhastighet</item>
+        <item>Maxhastighet</item>
+        <item>Varv</item>
+        <item>Nedstigning</item>
+        <item>Tot. nedstigning</item>
+        <item>Nedgång</item>
+        <item>Slag</item>
         <item>Lap time</item>
         <item>Lap pace</item>
         <item>Lap speed</item>
         <item>Lap HR</item>
         <item>Lap cadence</item>
         <item>Lap pace</item>
-        <item>Current freq</item>
-        <item>Total count</item>
-        <item>Avg freq</item>
-        <item>Groups</item>
+        <item>Nuvarande frekvens</item>
+        <item>Totalt antal</item>
+        <item>Gen. frekvens</item>
+        <item>Grupper</item>
         <item>Lap count</item>
         <item>Lap time</item>
         <item>Lap freq</item>
@@ -330,10 +330,10 @@
         <item>Heart rate in this lap</item>
         <item>Lap freq.</item>
         <item>slope</item>
-        <item>Calories</item>
+        <item>Kalorier</item>
         <item>Avg. HR</item>
         <item>Paddles of this set</item>
-        <item>Frequency</item>
+        <item>Frekvens</item>
         <item>Total paddles</item>
         <item>Paddle frequency</item>
         <item>Pulling duration</item>
@@ -341,12 +341,12 @@
         <item>Avg. Freq.</item>
     </string-array>
     <string-array name="sport_train_item">
-        <item>Remaining distance</item>
-        <item>Total distance</item>
-        <item>Total time</item>
-        <item>Remaining time</item>
-        <item>Distance</item>
-        <item>Remaining</item>
-        <item>Has rested</item>
+        <item>Återstående avstånd</item>
+        <item>Total distans</item>
+        <item>Total tid</item>
+        <item>Återstående tid</item>
+        <item>Avstånd</item>
+        <item>Återstående</item>
+        <item>Återställd</item>
     </string-array>
 </resources>
