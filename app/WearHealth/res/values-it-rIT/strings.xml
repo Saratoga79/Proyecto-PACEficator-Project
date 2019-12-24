@@ -91,7 +91,7 @@
     <string name="sleep_duration">%1$sh %2$sm</string>
     <string name="sleep_duration_diff">%1$s &lt;font size=\"12\"&gt;h &lt;/font&gt; %2$sm</string>
     <string name="date_m_d">%1$s/%2$s</string>
-    <string name="date_today">Today</string>
+    <string name="date_today">Oggi</string>
     <string name="sleep_detail_title">History</string>
     <string name="ratio_notworn"></string>
     <string name="am">AM</string>
@@ -107,7 +107,7 @@
     <string name="label_all_day_heartrate">Continuous HR</string>
     <string name="label_all_day_heartrate_open">Turn on</string>
     <string name="label_all_day_heartrate_close">Turn off</string>
-    <string name="label_all_day_heartrate_cancle">Cancel</string>
+    <string name="label_all_day_heartrate_cancle">Annulla</string>
     <string name="label_all_day_recently">Recent</string>
     <string name="label_all_day_quite">Resting</string>
     <string name="label_heart_rate_bmps">BPM</string>
@@ -130,7 +130,7 @@
     <string name="all_day_hearte_rate_button_close">Turn off continuous HR</string>
     <string name="all_day_hearte_rate_button_open">Turn on continuous HR</string>
     <string name="dlg_confirm">OK</string>
-    <string name="dlg_cancel">Cancel</string>
+    <string name="dlg_cancel">Annulla</string>
     <string name="heart_name">Heart Rate</string>
     <string name="step_name">Activity</string>
     <string name="sleep_name">Sleep</string>
@@ -213,13 +213,13 @@
     <string name="weekly_step_attained_rate">Reached goal</string>
     <string name="weekly_sports_notification_content">Activity summary from last week is ready.</string>
     <string name="weekly_sports_notification_action">Tap to view</string>
-    <string name="weeklysports_date_format">MM/dd</string>
+    <string name="weeklysports_date_format">dd/MM</string>
     <string name="widget_currentstep_title">Data</string>
     <string name="widget_currentstep_activities">"Today's activity"</string>
     <string name="widget_currentstep_sleep_hour">h</string>
     <string name="widget_currentstep_sleep_min">m</string>
     <string name="widget_currentstep_sleep_title">Slept last night</string>
-    <string name="widget_currentstep_sleep_no">No sleep data</string>
+    <string name="widget_currentstep_sleep_no">Nessun dato del sonno</string>
     <string name="widget_currentstep_activity_no">No activity today?</string>
     <string name="currentstep_detail_activity">Activity</string>
     <string name="currentstep_detail_running">Running</string>
@@ -234,7 +234,7 @@
     <string name="currentstep_detail_sleep_deep">Deep sleep</string>
     <string name="currentstep_detail_heart">Heart rate</string>
     <string name="currentstep_detail_title">Data details</string>
-    <string name="currentstep_detail_activity_chart">Activities</string>
+    <string name="currentstep_detail_activity_chart">Attività</string>
     <string name="currentstep_detail_activity_chart_unit">(Unit: hour)</string>
     <string name="currentstep_detail_activity_chart_unit_min">(Unit: minute)</string>
     <string name="currentstep_detail_activity_step_done">Reached goal</string>
@@ -261,13 +261,13 @@
     <string name="currentstep_detail_swim_rate_unit_zh">/100 m</string>
     <string name="currentstep_detail_swim_rate_unit_en">/100 ft</string>
     <string name="currentstep_distance">Distance</string>
-    <string name="currentstep_time">Time</string>
+    <string name="currentstep_time">Ora</string>
     <string name="currentstep_history_title">History</string>
     <string name="step_value">%1$s / %2$s</string>
     <string name="detail_date">Today %1$s</string>
     <string name="widget_weeklyreports_reports_review">Weekly review</string>
     <string name="widget_weeklyreports_nodata">Not available</string>
-    <string name="stretch_dialog_cancel">Cancel</string>
+    <string name="stretch_dialog_cancel">Annulla</string>
     <string name="floor_description">\"One floor\" is roughly 10 feet.</string>
     <string name="open_xiaom_app_failed_content">Try again after you install Mi Fit app.</string>
     <string name="open_xiaomi_app_failed_title">"Can't open Mi Fit app"</string>
@@ -276,16 +276,16 @@
     <string name="stretch_connection_failed_title">"Can't connect to your phone"</string>
     <string name="stretch_dialog_button">Start stretch exercise with me</string>
     <string name="stretch_dialog_content">Stretch exercises help loosen stiff muscles from sitting too much, follow the video to exercise.</string>
-    <string name="stretch_dialog_start">Start</string>
+    <string name="stretch_dialog_start">Avvia</string>
     <string name="stretch_dialog_subtitle">Sitting too much today</string>
     <string name="stretch_dialog_title">Time to stretch</string>
     <string name="stretch_notification_content">Stretch exercises help loosen stiff muscles from sitting too much</string>
     <string name="stretch_notification_subtitle">Sitting too much</string>
     <string name="stretch_dialog_button_retry">Try again</string>
-    <string name="date_format">MM/dd</string>
+    <string name="date_format">dd/MM</string>
     <string name="app_list_title">Health</string>
     <string name="currentstep_detail_activities">Active time</string>
-    <string name="currentstep_detail_activities_title">Activities</string>
+    <string name="currentstep_detail_activities_title">Attività</string>
     <string name="currentstep_detail_activities_others">Other</string>
     <string name="label_heartrate_unit">BPM</string>
     <string name="label_heartrate_detail_today">Heart Rate</string>
@@ -304,7 +304,7 @@
     <string name="step_distribution">Steps distribution</string>
     <string name="cal_distribution">Consumption distribution</string>
     <string name="health_detail_more">Check more in the Amazfit App.</string>
-    <string name="no_data">No data</string>
+    <string name="no_data">Nessun dato</string>
     <string name="heartrate_measure_off">HR measure off</string>
     <string name="no_data_title">Measurement result</string>
     <string name="no_data_content">No measurement result</string>
@@ -411,7 +411,7 @@
     <string name="oritation_sourth">S</string>
     <string name="oritation_west">W</string>
     <string name="oritation_north">N</string>
-    <string name="rope_skip_group_time">Time</string>
+    <string name="rope_skip_group_time">Ora</string>
     <string name="rope_skip_group_count">Count</string>
     <string name="rope_skip_group_freq">Frequency</string>
     <string name="rope_skip_reset_tips">Has rested</string>
@@ -422,7 +422,7 @@
     <string name="rope_skip_group_calories">Calories</string>
     <string name="music">Music</string>
     <string name="press_long_power_key_wake_up">Press a physical button to exit</string>
-    <string name="sport_auto_pause_end">Session ended, save the data?</string>
+    <string name="sport_auto_pause_end">Sessione terminata, salvare dati?</string>
     <string name="sport_slpt_stop_next_group">Next</string>
     <string name="group_rowing_freq">Frequency</string>
     <string name="group_rowing_count">Times</string>
@@ -430,7 +430,7 @@
     <string name="picker_default_nagetive_text">Off</string>
     <string name="no_heartrate_data_hint">"Couldn't find heart rate data"</string>
     <string name="no_altitude_hint">"Couldn't find altitude data"</string>
-    <string name="title_settings">Settings</string>
+    <string name="title_settings">Impostazioni</string>
     <string name="sport_music_settings">Music</string>
-    <string name="locale_title">Select Language</string>
+    <string name="locale_title">Seleziona una lingua</string>
 </resources>
