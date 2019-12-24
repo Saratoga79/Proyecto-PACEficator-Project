@@ -147,14 +147,14 @@
         <item>60063.wfz</item>
     </string-array>
     <string-array name="quick_settings_status_week">
-        <item>Sun</item>
-        <item>Mon</item>
-        <item>Tue</item>
-        <item>Wed</item>
-        <item>Thu</item>
-        <item>Fri</item>
-        <item>Sat</item>
-        <item>Today</item>
+        <item>Dom</item>
+        <item>Seg</item>
+        <item>Ter</item>
+        <item>Qua</item>
+        <item>Qui</item>
+        <item>Sex</item>
+        <item>Sáb</item>
+        <item>Hoje</item>
     </string-array>
     <string-array name="quick_settings_status_principleTerm">
         <item>Major Cold</item>
@@ -222,69 +222,70 @@
         <item>Excellent</item>
         <item>Fine</item>
         <item>Light pollution</item>
-        <item>Moderate pollution</item>
+        <item>Poluição moderada</item>
         <item>Heavy pollution</item>
-        <item>Severe pollution</item>
+        <item>Poluição severa</item>
         <item></item>
     </string-array>
     <string-array name="weather_card_quality">
         <item>Suitable for sports</item>
-        <item>Not suitable for sports</item>
+        <item>Inadequado para esportes</item>
         <item></item>
     </string-array>
     <string-array name="quick_settings_status_weather">
         <item>Clear</item>
         <item>Cloudy</item>
-        <item>Overcast</item>
-        <item>showers</item>
+        <item>Nublado</item>
+        <item>chuvas</item>
         <item>Thunder shower</item>
         <item>Hail</item>
-        <item>Rain and snow mixed</item>
+        <item>Chuva com neve</item>
         <item>Light rain</item>
         <item>Moderate rain</item>
         <item>Heavy rain</item>
-        <item>Rainstorm</item>
-        <item>Heavy rainstorm</item>
-        <item>Extraordinary rainstorm</item>
+        <item>Tempestade</item>
+        <item>Tempestade forte</item>
+        <item>Tempestade extra-normal</item>
         <item>Snow shower</item>
         <item>Light snow</item>
         <item>Moderate snow</item>
         <item>Heavy snow</item>
-        <item>Blizzard</item>
+        <item>Nevasca</item>
         <item>Fog</item>
-        <item>Freezing rain</item>
-        <item>Sandstorm</item>
+        <item>Chuva congelante</item>
+        <item>Tempestade de areia</item>
         <item>Small to moderate rain</item>
-        <item>Moderate to heavy rain</item>
-        <item>Heavy rain to rainstorm</item>
+        <item>Chuva forte a moderada</item>
+        <item>Chuva forte para tempestade</item>
         <item>Rainstorm to heavy rainstorm</item>
         <item>Heavy to severe storm</item>
         <item>Small to moderate snow</item>
-        <item>Moderate to heavy snow</item>
-        <item>Heavy snow to blizzard</item>
+        <item>Neve moderada a intensa</item>
+        <item>Forte Nevasca</item>
         <item>Dust</item>
         <item>Blowing sand</item>
-        <item>Strong sandstorm</item>
-        <item>Thick fog</item>
+        <item>Forte tempestade de areia</item>
+        <item>Névoa espessa</item>
         <item>Snow</item>
         <item>Rain</item>
         <item>Strong fog</item>
-        <item>Haze</item>
-        <item>Moderate haze</item>
+        <item>Neblina</item>
+        <item>Neblina moderada</item>
         <item>Heavy haze</item>
-        <item>Severe haze</item>
-        <item>Dense fog</item>
+        <item>Neblina severa</item>
+        <item>Nevoeiro denso</item>
         <item>Extremely dense fog</item>
-        <item>No data</item>
+        <item>Sem dados</item>
     </string-array>
     <string-array name="sport_data_item_array">
         <item></item>
-        <item>Time</item>
-        <item>Distance</item>
+        <item>Hora</item>
+        <item>Distância</item>
         <item>Pace</item>
         <item>Avg pace</item>
         <item>Heart rate</item>
-        <item>Calories</item>
+        <item>\"Calorias
+\"</item>
         <item>Altitude</item>
         <item>Elev gain</item>
         <item>Elev loss</item>
@@ -300,7 +301,7 @@
         <item>Avg SPM</item>
         <item>Pace</item>
         <item>Avg pace</item>
-        <item>Distance</item>
+        <item>Distância</item>
         <item>TE</item>
         <item>Vert speed</item>
         <item>Avg speed</item>
@@ -330,7 +331,8 @@
         <item>Heart rate in this lap</item>
         <item>Lap freq.</item>
         <item>slope</item>
-        <item>Calories</item>
+        <item>\"Calorias
+\"</item>
         <item>Avg. HR</item>
         <item>Paddles of this set</item>
         <item>Frequency</item>
@@ -345,8 +347,8 @@
         <item>Total distance</item>
         <item>Total time</item>
         <item>Remaining time</item>
-        <item>Distance</item>
-        <item>Remaining</item>
+        <item>Distância</item>
+        <item>Restante</item>
         <item>Has rested</item>
     </string-array>
 </resources>
