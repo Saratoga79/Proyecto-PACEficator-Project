@@ -104,7 +104,7 @@
     <string name="oritation_sourth">S</string>
     <string name="oritation_west">W</string>
     <string name="oritation_north">N</string>
-    <string name="rope_skip_group_time">Time</string>
+    <string name="rope_skip_group_time">时间</string>
     <string name="rope_skip_group_count">Count</string>
     <string name="rope_skip_group_freq">Frequency</string>
     <string name="rope_skip_reset_tips">Has rested</string>
@@ -112,15 +112,16 @@
     <string name="rope_skip_tips1">The</string>
     <string name="rope_skip_tips2">set has been completed</string>
     <string name="rope_skip_avg_heartrate">Avg. heart rate</string>
-    <string name="rope_skip_group_calories">Calories</string>
+    <string name="rope_skip_group_calories">\"Calories
+\"</string>
     <string name="music">Music</string>
     <string name="press_long_power_key_wake_up">Press a physical button to exit</string>
     <string name="sport_auto_pause_end">Session ended, save the data?</string>
     <string name="sport_slpt_stop_next_group">Next</string>
     <string name="group_rowing_freq">Frequency</string>
     <string name="group_rowing_count">Times</string>
-    <string name="picker_default_positive_text">OK</string>
-    <string name="picker_default_nagetive_text">Off</string>
+    <string name="picker_default_positive_text">تأیید</string>
+    <string name="picker_default_nagetive_text">خاموش</string>
     <string name="no_heartrate_data_hint">"Couldn't find heart rate data"</string>
     <string name="no_altitude_hint">"Couldn't find altitude data"</string>
     <string name="title_settings">Settings</string>
@@ -134,11 +135,11 @@
     <string name="widget_currentstep_activity_no">No activity today?</string>
     <string name="locale_title">Select Language</string>
     <string name="opened">On</string>
-    <string name="closed">Off</string>
+    <string name="closed">خاموش</string>
     <string name="connect_failed">Failed</string>
     <string name="air_plane_mode_note_everest">Please retry after turning off airplane mode.</string>
     <string name="air_plane_mode_note">Cannot connect to the phone. Please retry after turning off airplane mode.</string>
-    <string name="yes">yes</string>
+    <string name="yes">是</string>
     <string name="app_name">WearAirPlaneModeDialog</string>
     <string name="action_settings">Settings</string>
 </resources>

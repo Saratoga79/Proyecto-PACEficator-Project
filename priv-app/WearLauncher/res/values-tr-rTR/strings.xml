@@ -15,7 +15,7 @@
     <string name="notification_time_day">HH:mm</string>
     <string name="notification_time_month">MM/dd HH:mm</string>
     <string name="notification_time_year">yyyy/MM/dd HH:mm</string>
-    <string name="action_delete">Delete</string>
+    <string name="action_delete">Sil</string>
     <string name="action_shield">Block</string>
     <string name="notification_none">All caught up</string>
     <string name="notification_allclear">Clear all</string>
@@ -40,7 +40,7 @@
     <string name="quick_settings_switch_on">Turn on</string>
     <string name="quick_settings_switch_off">Turn off</string>
     <string name="quick_settings_toast_on">On</string>
-    <string name="quick_settings_toast_off">Off</string>
+    <string name="quick_settings_toast_off">Kapalı</string>
     <string name="quick_settings_status">Not connected</string>
     <string name="quick_settings_no_disturb_toast">"You'll no longer receive notifications."</string>
     <string name="quick_settings_auto_light_toast">Keeping the screen on reduces battery life.</string>
@@ -88,7 +88,7 @@ less than 1h ago"</string>
     <string name="world_cup_begin_to_start">The match is about to begin</string>
     <string name="dialog_close">Disable</string>
     <string name="amazing_dialog_btn_confirm_text">OK</string>
-    <string name="amazing_dialog_btn_cancel_text">Cancel</string>
+    <string name="amazing_dialog_btn_cancel_text">İptal</string>
     <string name="accept">Accept</string>
     <string name="action_failure">"Couldn't complete this action."</string>
     <string name="action_success">Done!</string>
@@ -100,12 +100,12 @@ less than 1h ago"</string>
     <string name="wathc_disconnection_content">Disconnected from the phone</string>
     <string name="wathc_disconnection_title">Not connected</string>
     <string name="notification_block">Block</string>
-    <string name="notification_block_cancel">Cancel</string>
+    <string name="notification_block_cancel">İptal</string>
     <string name="notification_block_message">Block notifications from this app</string>
     <string name="notification_block_ok">OK</string>
     <string name="notification_more_settings">Additional settings</string>
     <string name="notification_time_just">Just now</string>
-    <string name="notification_time_yesterday">Yesterday</string>
+    <string name="notification_time_yesterday">Dün</string>
     <string name="notificaton_empty_message">No notifications</string>
     <string name="music_control">Music controls</string>
     <string name="music_control_content">You can control the audio playback on your phone. These playback controls can be found by swiping right on the watch face.</string>
@@ -149,7 +149,7 @@ less than 1h ago"</string>
     <string name="notification_fireworks_content">祝大家万事如意！</string>
     <string name="battery_info_status_percentage">%</string>
     <string name="quick_settings_notification_title">Interruptions</string>
-    <string name="quick_settings_notifications_none">None</string>
+    <string name="quick_settings_notifications_none">Hiç biri</string>
     <string name="watchface_custom_btn_title">Customize</string>
     <string name="weather">Weather</string>
     <string name="temp_unit_centigrade">℃</string>
@@ -158,13 +158,13 @@ less than 1h ago"</string>
     <string name="temp_to">~</string>
     <string name="temp_to_card">/</string>
     <string name="type_to"> to </string>
-    <string name="not_avalible_type">No data</string>
+    <string name="not_avalible_type">Veri yok</string>
     <string name="not_avalible_temp">--</string>
     <string name="air_quality">Air quality </string>
     <string name="weather_title">Weather today</string>
     <string name="dot"> </string>
-    <string name="forecast_today">Today</string>
-    <string name="forecast_tomorrow">Tomorrow</string>
+    <string name="forecast_today">Bugün</string>
+    <string name="forecast_tomorrow">Yarın</string>
     <string name="weather_warning">Warning</string>
     <string name="weather_warning_level_blue">Blue</string>
     <string name="weather_warning_level_orange">Orange</string>
@@ -194,10 +194,11 @@ less than 1h ago"</string>
     <string name="air_moderate_polluted">Moderate pollution</string>
     <string name="air_heavily_polluted">Heavy pollution</string>
     <string name="air_severely_polluted">Severe pollution</string>
-    <string name="no_outdoor_info">No data</string>
+    <string name="no_outdoor_info">Veri yok</string>
     <string name="outdoor_info_notsuit">Not suitable for sports</string>
     <string name="outdoor_info_suit">Suitable for sports</string>
-    <string name="wind_strength">Wind force</string>
+    <string name="wind_strength">\"Rüzgar gücü
+\"</string>
     <string name="moisture">Humidity</string>
     <string name="uv">UV index</string>
     <string name="detailed">Weather details</string>
@@ -236,7 +237,7 @@ less than 1h ago"</string>
     <string name="current_altitude">Altitude</string>
     <string name="speed">Speed</string>
     <string name="stroke_speed">Stroke rate</string>
-    <string name="pace">Pace</string>
+    <string name="pace">Tempo</string>
     <string name="mileage">Distance</string>
     <string name="rope_skip_freq">Frequency</string>
     <string name="row_stroke_freq">Frequency</string>
@@ -311,7 +312,7 @@ less than 1h ago"</string>
     <string name="oritation_sourth">S</string>
     <string name="oritation_west">W</string>
     <string name="oritation_north">N</string>
-    <string name="rope_skip_group_time">Time</string>
+    <string name="rope_skip_group_time">Tarih</string>
     <string name="rope_skip_group_count">Count</string>
     <string name="rope_skip_group_freq">Frequency</string>
     <string name="rope_skip_reset_tips">Has rested</string>
@@ -319,14 +320,15 @@ less than 1h ago"</string>
     <string name="rope_skip_tips1">The</string>
     <string name="rope_skip_tips2">set has been completed</string>
     <string name="rope_skip_avg_heartrate">Avg. heart rate</string>
-    <string name="rope_skip_group_calories">Calories</string>
+    <string name="rope_skip_group_calories">\"Calories
+\"</string>
     <string name="press_long_power_key_wake_up">Press a physical button to exit</string>
-    <string name="sport_auto_pause_end">Session ended, save the data?</string>
+    <string name="sport_auto_pause_end">Oturum sona erdi, verileri kaydedin?</string>
     <string name="sport_slpt_stop_next_group">Next</string>
     <string name="group_rowing_freq">Frequency</string>
     <string name="group_rowing_count">Times</string>
     <string name="picker_default_positive_text">OK</string>
-    <string name="picker_default_nagetive_text">Off</string>
+    <string name="picker_default_nagetive_text">Kapalı</string>
     <string name="no_heartrate_data_hint">"Couldn't find heart rate data"</string>
     <string name="no_altitude_hint">"Couldn't find altitude data"</string>
     <string name="title_settings">Settings</string>

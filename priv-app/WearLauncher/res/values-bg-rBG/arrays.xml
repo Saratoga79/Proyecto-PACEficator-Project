@@ -147,14 +147,14 @@
         <item>60063.wfz</item>
     </string-array>
     <string-array name="quick_settings_status_week">
-        <item>Sun</item>
-        <item>Mon</item>
-        <item>Tue</item>
-        <item>Wed</item>
-        <item>Thu</item>
-        <item>Fri</item>
-        <item>Sat</item>
-        <item>Today</item>
+        <item>Нед</item>
+        <item>Пон</item>
+        <item>Вто</item>
+        <item>Сря</item>
+        <item>Чет</item>
+        <item>Пет</item>
+        <item>Съб</item>
+        <item>Днес</item>
     </string-array>
     <string-array name="quick_settings_status_principleTerm">
         <item>Major Cold</item>
@@ -165,10 +165,10 @@
         <item>Summer Solstice</item>
         <item>Major Heat</item>
         <item>End of Heat</item>
-        <item>Autumn Equinox</item>
+        <item>Есенно равноденствие</item>
         <item>"Frost's Descent"</item>
         <item>Minor Snow</item>
-        <item>Winter Solstice</item>
+        <item>Зимно слънцестоене</item>
     </string-array>
     <string-array name="quick_settings_status_sectionalTerm">
         <item>Minor Cold</item>
@@ -219,41 +219,41 @@
         <item>Accordion</item>
     </string-array>
     <string-array name="weather_card_aqilevel">
-        <item>Excellent</item>
-        <item>Fine</item>
-        <item>Light pollution</item>
-        <item>Moderate pollution</item>
-        <item>Heavy pollution</item>
-        <item>Severe pollution</item>
+        <item>Отличен</item>
+        <item>Чудесно</item>
+        <item>Леко замърсяване</item>
+        <item>Средно замърсяване</item>
+        <item>Тежко замърсяване</item>
+        <item>Сериозно замърсяване</item>
         <item></item>
     </string-array>
     <string-array name="weather_card_quality">
-        <item>Suitable for sports</item>
-        <item>Not suitable for sports</item>
+        <item>Подходящо за спорт</item>
+        <item>Неподходящо за спорт</item>
         <item></item>
     </string-array>
     <string-array name="quick_settings_status_weather">
-        <item>Clear</item>
-        <item>Cloudy</item>
-        <item>Overcast</item>
-        <item>showers</item>
+        <item>Ясно</item>
+        <item>Облачно</item>
+        <item>Променлива облачност</item>
+        <item>преваляване</item>
         <item>Thunder shower</item>
-        <item>Hail</item>
-        <item>Rain and snow mixed</item>
-        <item>Light rain</item>
-        <item>Moderate rain</item>
-        <item>Heavy rain</item>
-        <item>Rainstorm</item>
-        <item>Heavy rainstorm</item>
-        <item>Extraordinary rainstorm</item>
+        <item>Градушка</item>
+        <item>Смесени дъжд и сняг</item>
+        <item>Слаб дъжд</item>
+        <item>Умерен дъжд</item>
+        <item>Силен дъжд</item>
+        <item>Дъждовна буря</item>
+        <item>Проливен дъжд</item>
+        <item>Необикновенна дъждовна буря</item>
         <item>Snow shower</item>
-        <item>Light snow</item>
-        <item>Moderate snow</item>
-        <item>Heavy snow</item>
-        <item>Blizzard</item>
-        <item>Fog</item>
-        <item>Freezing rain</item>
-        <item>Sandstorm</item>
+        <item>Слаб снеговалеж</item>
+        <item>Умерен снеговалеж</item>
+        <item>Тежък сняг</item>
+        <item>Виелица</item>
+        <item>Мъгла</item>
+        <item>Замръзващ дъжд</item>
+        <item>Пясъчна буря</item>
         <item>Small to moderate rain</item>
         <item>Moderate to heavy rain</item>
         <item>Heavy rain to rainstorm</item>
@@ -262,75 +262,75 @@
         <item>Small to moderate snow</item>
         <item>Moderate to heavy snow</item>
         <item>Heavy snow to blizzard</item>
-        <item>Dust</item>
-        <item>Blowing sand</item>
-        <item>Strong sandstorm</item>
+        <item>Прах</item>
+        <item>Вятър с пясък</item>
+        <item>Силна пясъчна буря</item>
         <item>Thick fog</item>
-        <item>Snow</item>
+        <item>Сняг</item>
         <item>Rain</item>
         <item>Strong fog</item>
-        <item>Haze</item>
+        <item>Мараня</item>
         <item>Moderate haze</item>
         <item>Heavy haze</item>
         <item>Severe haze</item>
         <item>Dense fog</item>
         <item>Extremely dense fog</item>
-        <item>No data</item>
+        <item>Няма данни</item>
     </string-array>
     <string-array name="sport_data_item_array">
         <item></item>
-        <item>Time</item>
-        <item>Distance</item>
-        <item>Pace</item>
+        <item>Време</item>
+        <item>Разстояние</item>
+        <item>Темпо</item>
         <item>Avg pace</item>
         <item>Heart rate</item>
-        <item>Calories</item>
-        <item>Altitude</item>
+        <item>Калории</item>
+        <item>Надморска височина</item>
         <item>Elev gain</item>
         <item>Elev loss</item>
-        <item>Speed</item>
+        <item>Скорост</item>
         <item>Avg speed</item>
-        <item>Cadence</item>
+        <item>Каденс</item>
         <item>Dist gain</item>
-        <item>Steps</item>
-        <item>Cadence</item>
-        <item>Laps</item>
+        <item>Крачки</item>
+        <item>Каденс</item>
+        <item>Обиколки</item>
         <item>DPS</item>
-        <item>Stroke rate</item>
+        <item>Темпо на загребване</item>
         <item>Avg SPM</item>
-        <item>Pace</item>
+        <item>Темпо</item>
         <item>Avg pace</item>
-        <item>Distance</item>
+        <item>Разстояние</item>
         <item>TE</item>
         <item>Vert speed</item>
         <item>Avg speed</item>
         <item>Max speed</item>
-        <item>Laps</item>
+        <item>Обиколки</item>
         <item>Downhill</item>
         <item>Total downhill</item>
-        <item>Descent</item>
-        <item>Strokes</item>
-        <item>Lap time</item>
-        <item>Lap pace</item>
-        <item>Lap speed</item>
+        <item>Спускане</item>
+        <item>Замахвания</item>
+        <item>Време за обиколка</item>
+        <item>Темпо на обиколка</item>
+        <item>Скорост на обиколка</item>
         <item>Lap HR</item>
-        <item>Lap cadence</item>
-        <item>Lap pace</item>
-        <item>Current freq</item>
+        <item>Каденс на обиколка</item>
+        <item>Темпо на обиколка</item>
+        <item>Текуща честота</item>
         <item>Total count</item>
         <item>Avg freq</item>
         <item>Groups</item>
         <item>Lap count</item>
-        <item>Lap time</item>
+        <item>Време за обиколка</item>
         <item>Lap freq</item>
-        <item>Lap time</item>
+        <item>Време за обиколка</item>
         <item>Lap dist.</item>
-        <item>Lap pace</item>
+        <item>Темпо на обиколка</item>
         <item>Speed for this lap</item>
         <item>Heart rate in this lap</item>
         <item>Lap freq.</item>
         <item>slope</item>
-        <item>Calories</item>
+        <item>Калории</item>
         <item>Avg. HR</item>
         <item>Paddles of this set</item>
         <item>Frequency</item>
@@ -342,11 +342,11 @@
     </string-array>
     <string-array name="sport_train_item">
         <item>Remaining distance</item>
-        <item>Total distance</item>
+        <item>Общо разстояние</item>
         <item>Total time</item>
         <item>Remaining time</item>
-        <item>Distance</item>
-        <item>Remaining</item>
+        <item>Разстояние</item>
+        <item>Остава</item>
         <item>Has rested</item>
     </string-array>
 </resources>

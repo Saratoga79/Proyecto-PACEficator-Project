@@ -11,8 +11,8 @@
         <item>com.android.mms</item>
     </string-array>
     <string-array name="sort_a1602">
-        <item>com.huami.watch.watchface.DigitalWatchFaceSportOne</item>
-        <item>com.huami.watch.watchface.DigitalWatchFaceSportTwo</item>
+        <item>com.huami.watchface.DigitalWatchFaceSportOne</item>
+        <item>com.huami.watchface.DigitalWatchFaceSportTwo</item>
         <item>com.huami.watch.watchface.DigitalWatchFaceSportFive</item>
         <item>com.huami.watch.watchface.DigitalWatchFaceSportEight</item>
         <item>com.huami.watch.watchface.DigitalWatchFaceSportSeven</item>
@@ -37,8 +37,8 @@
         <item>wfz03c6c7.wfz</item>
     </string-array>
     <string-array name="sort_a1609">
-        <item>com.huami.watch.watchface.DigitalWatchFaceSportOne</item>
-        <item>com.huami.watch.watchface.DigitalWatchFaceSportTwo</item>
+        <item>com.huami.watchface.DigitalWatchFaceSportOne</item>
+        <item>com.huami.watchface.DigitalWatchFaceSportTwo</item>
         <item>com.huami.watch.watchface.DigitalWatchFaceSportFive</item>
         <item>com.huami.watch.watchface.DigitalWatchFaceSportEight</item>
         <item>com.huami.watch.watchface.DigitalWatchFaceSportSeven</item>
@@ -58,7 +58,7 @@
         <item>com.huami.watch.watchface.AnalogWatchFaceSixteen</item>
         <item>com.huami.watch.watchface.DigitalWatchFaceSportSeventeen</item>
         <item>wfzd0b8cb.wfz</item>
-        <item>com.huami.watch.watchface.DigitalWatchFaceSportTwo</item>
+        <item>com.huami.watchface.DigitalWatchFaceSportTwo</item>
         <item>wfz03c6c7_us.wfz</item>
         <item>wfzeacf94_us.wfz</item>
         <item>wfzb33179.wfz</item>
@@ -67,11 +67,11 @@
         <item>com.huami.watch.watchface.DigitalWatchFaceSportEighteen</item>
         <item>wfz58ac65.wfz</item>
         <item>wfz95a54c.wfz</item>
-        <item>com.huami.watch.watchface.DigitalWatchFaceSportOne</item>
+        <item>com.huami.watchface.DigitalWatchFaceSportOne</item>
         <item>wfz3897e9.wfz</item>
     </string-array>
     <string-array name="sort_a1612">
-        <item>com.huami.watch.watchface.DigitalWatchFaceSportOne</item>
+        <item>com.huami.watchface.DigitalWatchFaceSportOne</item>
         <item>com.huami.watch.watchface.DigitalWatchFaceSportTwo</item>
         <item>com.huami.watch.watchface.DigitalWatchFaceSportFive</item>
         <item>com.huami.watch.watchface.DigitalWatchFaceSportEight</item>
@@ -94,7 +94,7 @@
         <item>com.huami.watch.watchface.AnalogWatchFaceSixteen</item>
         <item>com.huami.watch.watchface.DigitalWatchFaceSportSeventeen</item>
         <item>wfzd0b8cb.wfz</item>
-        <item>com.huami.watch.watchface.DigitalWatchFaceSportTwo</item>
+        <item>com.huami.watchface.DigitalWatchFaceSportTwo</item>
         <item>wfz03c6c7_us.wfz</item>
         <item>wfzeacf94_us.wfz</item>
         <item>wfzb33179.wfz</item>
@@ -103,7 +103,7 @@
         <item>com.huami.watch.watchface.DigitalWatchFaceSportEighteen</item>
         <item>wfz58ac65.wfz</item>
         <item>wfz95a54c.wfz</item>
-        <item>com.huami.watch.watchface.DigitalWatchFaceSportOne</item>
+        <item>com.huami.watchface.DigitalWatchFaceSportOne</item>
         <item>wfz3897e9.wfz</item>
     </string-array>
     <string-array name="sort_a1916">
@@ -147,14 +147,14 @@
         <item>60063.wfz</item>
     </string-array>
     <string-array name="quick_settings_status_week">
-        <item>Sun</item>
-        <item>Mon</item>
-        <item>Tue</item>
-        <item>Wed</item>
-        <item>Thu</item>
-        <item>Fri</item>
-        <item>Sat</item>
-        <item>Today</item>
+        <item>Zo</item>
+        <item>Maa</item>
+        <item>Din</item>
+        <item>Wo</item>
+        <item>Do</item>
+        <item>Vr</item>
+        <item>Zat</item>
+        <item>Vandaag</item>
     </string-array>
     <string-array name="quick_settings_status_principleTerm">
         <item>Major Cold</item>
@@ -165,10 +165,10 @@
         <item>Summer Solstice</item>
         <item>Major Heat</item>
         <item>End of Heat</item>
-        <item>Autumn Equinox</item>
+        <item>Herfst Equinox</item>
         <item>"Frost's Descent"</item>
         <item>Minor Snow</item>
-        <item>Winter Solstice</item>
+        <item>Winter zonnewende</item>
     </string-array>
     <string-array name="quick_settings_status_sectionalTerm">
         <item>Minor Cold</item>
@@ -219,41 +219,41 @@
         <item>Accordion</item>
     </string-array>
     <string-array name="weather_card_aqilevel">
-        <item>Excellent</item>
-        <item>Fine</item>
-        <item>Light pollution</item>
-        <item>Moderate pollution</item>
-        <item>Heavy pollution</item>
-        <item>Severe pollution</item>
+        <item>Uitstekend</item>
+        <item>Mooi</item>
+        <item>Lichte vervuiling</item>
+        <item>Matige vervuiling</item>
+        <item>Zware vervuiling</item>
+        <item>Ernstige vervuiling</item>
         <item></item>
     </string-array>
     <string-array name="weather_card_quality">
-        <item>Suitable for sports</item>
-        <item>Not suitable for sports</item>
+        <item>Geschikt om te sporten</item>
+        <item>Niet geschikt om te sporten</item>
         <item></item>
     </string-array>
     <string-array name="quick_settings_status_weather">
-        <item>Clear</item>
-        <item>Cloudy</item>
-        <item>Overcast</item>
-        <item>showers</item>
+        <item>Helder</item>
+        <item>Bewolkt</item>
+        <item>Mist</item>
+        <item>buien</item>
         <item>Thunder shower</item>
-        <item>Hail</item>
-        <item>Rain and snow mixed</item>
-        <item>Light rain</item>
-        <item>Moderate rain</item>
-        <item>Heavy rain</item>
-        <item>Rainstorm</item>
-        <item>Heavy rainstorm</item>
+        <item>Hagel</item>
+        <item>Regen en sneeuw gemengd</item>
+        <item>Lichte regen</item>
+        <item>Matige regen</item>
+        <item>Zware regenval</item>
+        <item>Regenstorm</item>
+        <item>Zware regenstorm</item>
         <item>Extraordinary rainstorm</item>
         <item>Snow shower</item>
-        <item>Light snow</item>
-        <item>Moderate snow</item>
-        <item>Heavy snow</item>
-        <item>Blizzard</item>
-        <item>Fog</item>
-        <item>Freezing rain</item>
-        <item>Sandstorm</item>
+        <item>Lichte sneeuw</item>
+        <item>Matige sneeuw</item>
+        <item>Hevige sneeuw</item>
+        <item>Sneeuwstorm</item>
+        <item>Mist</item>
+        <item>Aanvriezende regen</item>
+        <item>Sand storm</item>
         <item>Small to moderate rain</item>
         <item>Moderate to heavy rain</item>
         <item>Heavy rain to rainstorm</item>
@@ -262,78 +262,78 @@
         <item>Small to moderate snow</item>
         <item>Moderate to heavy snow</item>
         <item>Heavy snow to blizzard</item>
-        <item>Dust</item>
+        <item>Stof</item>
         <item>Blowing sand</item>
-        <item>Strong sandstorm</item>
+        <item>Strong sand storm</item>
         <item>Thick fog</item>
-        <item>Snow</item>
+        <item>Sneeuw</item>
         <item>Rain</item>
         <item>Strong fog</item>
-        <item>Haze</item>
+        <item>Nevel</item>
         <item>Moderate haze</item>
         <item>Heavy haze</item>
         <item>Severe haze</item>
         <item>Dense fog</item>
         <item>Extremely dense fog</item>
-        <item>No data</item>
+        <item>Geen gegevens</item>
     </string-array>
     <string-array name="sport_data_item_array">
         <item></item>
-        <item>Time</item>
-        <item>Distance</item>
-        <item>Pace</item>
-        <item>Avg pace</item>
-        <item>Heart rate</item>
-        <item>Calories</item>
-        <item>Altitude</item>
-        <item>Elev gain</item>
-        <item>Elev loss</item>
-        <item>Speed</item>
-        <item>Avg speed</item>
-        <item>Cadence</item>
-        <item>Dist gain</item>
-        <item>Steps</item>
-        <item>Cadence</item>
-        <item>Laps</item>
+        <item>Groeptijd</item>
+        <item>Mileage</item>
+        <item>Tempo</item>
+        <item>AVG tempo</item>
+        <item>Hartslag</item>
+        <item>Calorieën</item>
+        <item>Hoogte</item>
+        <item>Hoogtewinst</item>
+        <item>Hoogteverlies</item>
+        <item>Snelheid</item>
+        <item>AVG. snelheid</item>
+        <item>Cadans</item>
+        <item>Grondsnelheid</item>
+        <item>Passen</item>
+        <item>Cadans</item>
+        <item>Rondes</item>
         <item>DPS</item>
-        <item>Stroke rate</item>
-        <item>Avg SPM</item>
-        <item>Pace</item>
-        <item>Avg pace</item>
-        <item>Distance</item>
+        <item>Slagfrequentie</item>
+        <item>AVG slagfrequentie</item>
+        <item>Tempo</item>
+        <item>AVG tempo</item>
+        <item>Mileage</item>
         <item>TE</item>
-        <item>Vert speed</item>
-        <item>Avg speed</item>
-        <item>Max speed</item>
-        <item>Laps</item>
-        <item>Downhill</item>
-        <item>Total downhill</item>
-        <item>Descent</item>
-        <item>Strokes</item>
-        <item>Lap time</item>
-        <item>Lap pace</item>
-        <item>Lap speed</item>
-        <item>Lap HR</item>
-        <item>Lap cadence</item>
-        <item>Lap pace</item>
-        <item>Current freq</item>
-        <item>Total count</item>
-        <item>Avg freq</item>
-        <item>Groups</item>
+        <item>Vert. snelheid</item>
+        <item>AVG. snelheid</item>
+        <item>Max. snelheid</item>
+        <item>Rondes</item>
+        <item>Bergaf</item>
+        <item>Totaal bergaf</item>
+        <item>Dalend</item>
+        <item>Slagen</item>
+        <item>Laatste rondetijd</item>
+        <item>Ronde tempo</item>
+        <item>Ronde snelheid</item>
+        <item>Ronde HR</item>
+        <item>Rondecadans</item>
+        <item>Ronde tempo</item>
+        <item>Huidige freq</item>
+        <item>Totaal aantal</item>
+        <item>AVG freq</item>
+        <item>Groepen</item>
         <item>Lap count</item>
-        <item>Lap time</item>
-        <item>Lap freq</item>
-        <item>Lap time</item>
+        <item>Laatste rondetijd</item>
+        <item>Groepsfrequentie</item>
+        <item>Laatste rondetijd</item>
         <item>Lap dist.</item>
-        <item>Lap pace</item>
+        <item>Ronde tempo</item>
         <item>Speed for this lap</item>
         <item>Heart rate in this lap</item>
-        <item>Lap freq.</item>
+        <item>Groepsfrequentie.</item>
         <item>slope</item>
-        <item>Calories</item>
+        <item>Calorieën</item>
         <item>Avg. HR</item>
         <item>Paddles of this set</item>
-        <item>Frequency</item>
+        <item>Frequentie</item>
         <item>Total paddles</item>
         <item>Paddle frequency</item>
         <item>Pulling duration</item>
@@ -341,12 +341,12 @@
         <item>Avg. Freq.</item>
     </string-array>
     <string-array name="sport_train_item">
-        <item>Remaining distance</item>
-        <item>Total distance</item>
-        <item>Total time</item>
-        <item>Remaining time</item>
-        <item>Distance</item>
-        <item>Remaining</item>
-        <item>Has rested</item>
+        <item>Resterende afstand</item>
+        <item>Totale afstand</item>
+        <item>Tijdsduur</item>
+        <item>Resterende tijd</item>
+        <item>Afstand</item>
+        <item>Resterend</item>
+        <item>Heeft gerust</item>
     </string-array>
 </resources>

@@ -9,7 +9,7 @@
     <string name="system_ui_date_pattern">@android:string/system_ui_date_pattern</string>
     <string name="lland">L Land</string>
     <string name="app_label">System UI</string>
-    <string name="status_bar_clear_all_button">Clear</string>
+    <string name="status_bar_clear_all_button">แจ่มใส</string>
     <string name="status_bar_recent_remove_item_title">Remove from list</string>
     <string name="status_bar_recent_inspect_item_title">App info</string>
     <string name="status_bar_no_recent_apps">Your recent screens appear here</string>
@@ -20,15 +20,15 @@
     <string name="battery_low_title">Battery is low</string>
     <string name="battery_low_percent_format">%s remaining</string>
     <string name="battery_low_percent_format_saver_started">%s remaining. Battery saver is on.</string>
-    <string name="invalid_charger">"USB charging not supported.
-Use only the supplied charger."</string>
+    <string name="invalid_charger">"ไม่รองรับการชาร์จ USB
+ใช้เฉพาะที่ชาร์จที่ให้มาเท่านั้น "</string>
     <string name="invalid_charger_title">USB charging not supported.</string>
     <string name="invalid_charger_text">Use only the supplied charger.</string>
-    <string name="battery_low_why">Settings</string>
+    <string name="battery_low_why">การตั้งค่า</string>
     <string name="battery_saver_confirmation_title">Turn on battery saver?</string>
     <string name="battery_saver_confirmation_ok">Turn on</string>
     <string name="battery_saver_start_action">Turn on battery saver</string>
-    <string name="status_bar_settings_settings_button">Settings</string>
+    <string name="status_bar_settings_settings_button">การตั้งค่า</string>
     <string name="status_bar_settings_wifi_button">Wi-Fi</string>
     <string name="status_bar_settings_airplane">Airplane mode</string>
     <string name="status_bar_settings_auto_rotation">Auto-rotate screen</string>
@@ -81,7 +81,8 @@ Use only the supplied charger."</string>
     <string name="accessibility_compatibility_zoom_example">Zoom smaller to larger screen.</string>
     <string name="accessibility_bluetooth_connected">Bluetooth connected.</string>
     <string name="accessibility_bluetooth_disconnected">Bluetooth disconnected.</string>
-    <string name="accessibility_no_battery">No battery.</string>
+    <string name="accessibility_no_battery">\"ไม่​มี
+​แบตเตอรี่\"</string>
     <string name="accessibility_battery_one_bar">Battery one bar.</string>
     <string name="accessibility_battery_two_bars">Battery two bars.</string>
     <string name="accessibility_battery_three_bars">Battery three bars.</string>
@@ -91,7 +92,7 @@ Use only the supplied charger."</string>
     <string name="accessibility_phone_two_bars">Phone two bars.</string>
     <string name="accessibility_phone_three_bars">Phone three bars.</string>
     <string name="accessibility_phone_signal_full">Phone signal full.</string>
-    <string name="accessibility_no_data">No data.</string>
+    <string name="accessibility_no_data">ไม่มีข้อมูล.</string>
     <string name="accessibility_data_one_bar">Data one bar.</string>
     <string name="accessibility_data_two_bars">Data two bars.</string>
     <string name="accessibility_data_three_bars">Data three bars.</string>
@@ -117,7 +118,7 @@ Use only the supplied charger."</string>
     <string name="accessibility_three_bars">Three bars.</string>
     <string name="accessibility_signal_full">Signal full.</string>
     <string name="accessibility_desc_on">On.</string>
-    <string name="accessibility_desc_off">Off.</string>
+    <string name="accessibility_desc_off">ปิด.</string>
     <string name="accessibility_desc_connected">Connected.</string>
     <string name="accessibility_desc_connecting">Connecting.</string>
     <string name="accessibility_data_connection_gprs">GPRS</string>
@@ -151,7 +152,7 @@ Use only the supplied charger."</string>
     <string name="accessibility_desc_notification_shade">Notification shade.</string>
     <string name="accessibility_desc_quick_settings">Quick settings.</string>
     <string name="accessibility_desc_lock_screen">Lock screen.</string>
-    <string name="accessibility_desc_settings">Settings</string>
+    <string name="accessibility_desc_settings">การตั้งค่า</string>
     <string name="accessibility_desc_recent_apps">Overview.</string>
     <string name="accessibility_quick_settings_user">User %s.</string>
     <string name="accessibility_quick_settings_wifi">%1$s.</string>
@@ -191,9 +192,9 @@ Use only the supplied charger."</string>
     <string name="data_usage_disabled_dialog_4g_title">4G data is off</string>
     <string name="data_usage_disabled_dialog_mobile_title">Cellular data is off</string>
     <string name="data_usage_disabled_dialog_title">Data is off</string>
-    <string name="data_usage_disabled_dialog">"Your device turned off data because it reached the limit you set.
+    <string name="data_usage_disabled_dialog">"อุปกรณ์ของคุณปิดข้อมูลเนื่องจากถึงขีดจำกัด ที่คุณตั้งไว้
 
-Turning it back on may lead to charges from your carrier."</string>
+การเปิดใช้งานอีกครั้งอาจนำไปสู่ค่าใช้จ่ายจากผู้ให้บริการของคุณ "</string>
     <string name="data_usage_disabled_dialog_enable">Turn on data</string>
     <string name="status_bar_settings_signal_meter_disconnected">No Internet connection</string>
     <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi connected</string>
@@ -223,13 +224,13 @@ Turning it back on may lead to charges from your carrier."</string>
     <string name="quick_settings_rotation_locked_portrait_label">Portrait</string>
     <string name="quick_settings_rotation_locked_landscape_label">Landscape</string>
     <string name="quick_settings_ime_label">Input Method</string>
-    <string name="quick_settings_location_label">Location</string>
+    <string name="quick_settings_location_label">ตำแหน่ง</string>
     <string name="quick_settings_location_off_label">Location Off</string>
     <string name="quick_settings_media_device_label">Media device</string>
     <string name="quick_settings_rssi_label">RSSI</string>
     <string name="quick_settings_rssi_emergency_only">Emergency Calls Only</string>
-    <string name="quick_settings_settings_label">Settings</string>
-    <string name="quick_settings_time_label">Time</string>
+    <string name="quick_settings_settings_label">การตั้งค่า</string>
+    <string name="quick_settings_time_label">เวลา</string>
     <string name="quick_settings_user_label">Me</string>
     <string name="quick_settings_user_title">User</string>
     <string name="quick_settings_user_new_user">New user</string>
@@ -273,8 +274,8 @@ Turning it back on may lead to charges from your carrier."</string>
     <string name="expanded_header_battery_charging_with_time">%s until full</string>
     <string name="expanded_header_battery_not_charging">Not charging</string>
     <string name="battery_meter_very_low_overlay_symbol">!</string>
-    <string name="ssl_ca_cert_warning">"Network may
-be monitored"</string>
+    <string name="ssl_ca_cert_warning">"เครือข่ายอาจ
+ได้รับการตรวจสอบ "</string>
     <string name="description_target_search">Search</string>
     <string name="description_direction_up">Slide up for %s.</string>
     <string name="description_direction_left">Slide left for %s.</string>
@@ -290,7 +291,7 @@ be monitored"</string>
     <string name="keyguard_unlock">Swipe up to unlock</string>
     <string name="phone_hint">Swipe right for phone</string>
     <string name="camera_hint">Swipe left for camera</string>
-    <string name="interruption_level_none">None</string>
+    <string name="interruption_level_none">ไม่มี</string>
     <string name="interruption_level_priority">Priority</string>
     <string name="interruption_level_all">All</string>
     <string name="keyguard_indication_charging_time">Charging (%s until full)</string>
@@ -310,9 +311,9 @@ be monitored"</string>
     <string name="guest_wipe_session_wipe">Start over</string>
     <string name="guest_wipe_session_dontwipe">Yes, continue</string>
     <string name="user_add_user_title">Add new user?</string>
-    <string name="user_add_user_message_short">"When you add a new user, that person needs to set up their space.
+    <string name="user_add_user_message_short">เมื่อคุณเพิ่มผู้ใช้ใหม่บุคคลนั้นจำเป็นต้องตั้งค่าพื้นที่ของพวกเขา
 
-Any user can update apps for all other users."</string>
+ผู้ใช้ทุกคนสามารถอัปเดตแอปสำหรับผู้ใช้อื่น ๆ ทั้งหมด \"</string>
     <string name="battery_saver_notification_title">Battery saver is on</string>
     <string name="battery_saver_notification_text">Reduces performance and background data</string>
     <string name="battery_saver_notification_action_text">Turn off battery saver</string>
@@ -330,72 +331,73 @@ Any user can update apps for all other users."</string>
     <string name="monitoring_title">Network monitoring</string>
     <string name="disable_vpn">Disable VPN</string>
     <string name="disconnect_vpn">Disconnect VPN</string>
-    <string name="monitoring_description_device_owned">"This device is managed by:
+    <string name="monitoring_description_device_owned">"อุปกรณ์นี้จัดการโดย:
 %1$s
 
-Your administrator can monitor your device and network activity, including emails, apps and secure websites.
+ผู้ดูแลระบบของคุณสามารถตรวจสอบอุปกรณ์และกิจกรรมเครือข่ายของคุณรวมถึงอีเมลแอพและเว็บไซต์ที่ปลอดภัย
 
-For more information, contact your administrator."</string>
-    <string name="monitoring_description_vpn">"You gave \"%1$s\" permission to set up a VPN connection.
+สำหรับข้อมูลเพิ่มเติมติดต่อผู้ดูแลระบบของคุณ "</string>
+    <string name="monitoring_description_vpn">"คุณให้สิทธิ์\"%1$s \"เพื่อตั้งค่าการเชื่อมต่อ VPN
 
-This app can monitor your device and network activity, including emails, apps and secure websites."</string>
-    <string name="monitoring_description_legacy_vpn">"You\'re connected to a VPN (\"%1$s\").
+แอพนี้สามารถตรวจสอบอุปกรณ์และกิจกรรมเครือข่ายของคุณรวมถึงอีเมลแอพและเว็บไซต์ที่ปลอดภัย "</string>
+    <string name="monitoring_description_legacy_vpn">"คุณเชื่อมต่อกับ VPN (\"%1$s\")
 
-Your VPN service provider can monitor your device and network activity including emails, apps, and secure websites."</string>
-    <string name="monitoring_description_vpn_device_owned">"This device is managed by:
+ผู้ให้บริการ VPN ของคุณสามารถตรวจสอบอุปกรณ์และกิจกรรมเครือข่ายของคุณรวมถึงอีเมลแอพและเว็บไซต์ที่ปลอดภัย "</string>
+    <string name="monitoring_description_vpn_device_owned">"อุปกรณ์นี้จัดการโดย:
 %1$s
 
-Your administrator is capable of monitoring your network activity including emails, apps, and secure websites. For more information, contact your administrator.
+ผู้ดูแลระบบของคุณสามารถติดตามกิจกรรมเครือข่ายของคุณรวมถึงอีเมลแอพและเว็บไซต์ที่ปลอดภัย สำหรับข้อมูลเพิ่มเติมติดต่อผู้ดูแลระบบของคุณ
 
-Also, you gave \"%2$s\" permission to set up a VPN connection. This app can monitor network activity too."</string>
-    <string name="monitoring_description_legacy_vpn_device_owned">"This device is managed by:
+นอกจากนี้คุณยังได้รับอนุญาต \"%2$s\" เพื่อตั้งค่าการเชื่อมต่อ VPN แอพนี้สามารถตรวจสอบกิจกรรมเครือข่ายได้เช่นกัน "</string>
+    <string name="monitoring_description_legacy_vpn_device_owned">"อุปกรณ์นี้จัดการโดย:
 %1$s
 
-Your administrator is capable of monitoring your network activity including emails, apps, and secure websites. For more information, contact your administrator.
+ผู้ดูแลระบบของคุณสามารถติดตามกิจกรรมเครือข่ายของคุณรวมถึงอีเมลแอพและเว็บไซต์ที่ปลอดภัย สำหรับข้อมูลเพิ่มเติมติดต่อผู้ดูแลระบบของคุณ
 
-Also, you\'re connected to a VPN (\"%2$s\"). Your VPN service provider can monitor network activity too."</string>
-    <string name="monitoring_description_profile_owned">"This profile is managed by:
+นอกจากนี้คุณกำลังเชื่อมต่อกับ VPN (\"%2$s\") ผู้ให้บริการ VPN ของคุณสามารถตรวจสอบกิจกรรมเครือข่ายได้เช่นกัน "</string>
+    <string name="monitoring_description_profile_owned">"โปรไฟล์นี้จัดการโดย:
 %1$s
 
-Your administrator can monitor your device and network activity, including emails, apps and secure websites.
+ผู้ดูแลระบบของคุณสามารถตรวจสอบอุปกรณ์และกิจกรรมเครือข่ายของคุณรวมถึงอีเมลแอพและเว็บไซต์ที่ปลอดภัย
 
-For more information, contact your administrator."</string>
-    <string name="monitoring_description_device_and_profile_owned">"This device is managed by:
+สำหรับข้อมูลเพิ่มเติมติดต่อผู้ดูแลระบบของคุณ "</string>
+    <string name="monitoring_description_device_and_profile_owned">"อุปกรณ์นี้จัดการโดย:
 %1$s
-Your profile is managed by:
+โปรไฟล์ของคุณได้รับการจัดการโดย:
 %2$s
 
-Your administrator can monitor your device and network activity, including emails, apps and secure websites.
+ผู้ดูแลระบบของคุณสามารถตรวจสอบอุปกรณ์และกิจกรรมเครือข่ายของคุณรวมถึงอีเมลแอพและเว็บไซต์ที่ปลอดภัย
 
-For more information, contact your administrator."</string>
-    <string name="monitoring_description_vpn_profile_owned">"This profile is managed by:
+สำหรับข้อมูลเพิ่มเติมติดต่อผู้ดูแลระบบของคุณ "</string>
+    <string name="monitoring_description_vpn_profile_owned">\"โปรไฟล์นี้จัดการโดย:
 %1$s
 
-Your administrator is capable of monitoring your network activity including emails, apps, and secure websites. For more information, contact your administrator.
+ผู้ดูแลระบบของคุณสามารถติดตามกิจกรรมเครือข่ายของคุณรวมถึงอีเมลแอพและเว็บไซต์ที่ปลอดภัย สำหรับข้อมูลเพิ่มเติมติดต่อผู้ดูแลระบบของคุณ
 
-Also, you gave \"%2$s\" permission to set up a VPN connection. This app can monitor network activity too."</string>
-    <string name="monitoring_description_legacy_vpn_profile_owned">"This profile is managed by:
+นอกจากนี้คุณยังได้รับอนุญาต \"%2$s\" เพื่อตั้งค่าการเชื่อมต่อ VPN แอพนี้สามารถตรวจสอบกิจกรรมเครือข่ายได้เช่นกัน \"
+\"Porfịl̒ nī̂ cạdkār doy:</string>
+    <string name="monitoring_description_legacy_vpn_profile_owned">"โปรไฟล์นี้จัดการโดย:
 %1$s
 
-Your administrator is capable of monitoring your network activity including emails, apps, and secure websites. For more information, contact your administrator.
+ผู้ดูแลระบบของคุณสามารถติดตามกิจกรรมเครือข่ายของคุณรวมถึงอีเมลแอพและเว็บไซต์ที่ปลอดภัย สำหรับข้อมูลเพิ่มเติมติดต่อผู้ดูแลระบบของคุณ
 
-Also, you\'re connected to a VPN (\"%2$s\"). Your VPN service provider can monitor network activity too."</string>
-    <string name="monitoring_description_vpn_device_and_profile_owned">"This device is managed by:
+นอกจากนี้คุณกำลังเชื่อมต่อกับ VPN (\"%2$s\") ผู้ให้บริการ VPN ของคุณสามารถตรวจสอบกิจกรรมเครือข่ายได้เช่นกัน "</string>
+    <string name="monitoring_description_vpn_device_and_profile_owned">"อุปกรณ์นี้จัดการโดย:
 %1$s
-Your profile is managed by:
+โปรไฟล์ของคุณได้รับการจัดการโดย:
 %2$s
 
-Your administrator is capable of monitoring your network activity including emails, apps, and secure websites. For more information, contact your administrator.
+ผู้ดูแลระบบของคุณสามารถติดตามกิจกรรมเครือข่ายของคุณรวมถึงอีเมลแอพและเว็บไซต์ที่ปลอดภัย สำหรับข้อมูลเพิ่มเติมติดต่อผู้ดูแลระบบของคุณ
 
-Also, you gave \"%3$s\" permission to set up a VPN connection. This app can monitor network activity too."</string>
-    <string name="monitoring_description_legacy_vpn_device_and_profile_owned">"This device is managed by:
+นอกจากนี้คุณยังได้รับอนุญาต \"%3$s\" เพื่อตั้งค่าการเชื่อมต่อ VPN แอพนี้สามารถตรวจสอบกิจกรรมเครือข่ายได้เช่นกัน "</string>
+    <string name="monitoring_description_legacy_vpn_device_and_profile_owned">"อุปกรณ์นี้จัดการโดย:
 %1$s
-Your profile is managed by:
+โปรไฟล์ของคุณได้รับการจัดการโดย:
 %2$s
 
-Your administrator is capable of monitoring your network activity including emails, apps, and secure websites. For more information, contact your administrator.
+ผู้ดูแลระบบของคุณสามารถติดตามกิจกรรมเครือข่ายของคุณรวมถึงอีเมลแอพและเว็บไซต์ที่ปลอดภัย สำหรับข้อมูลเพิ่มเติมติดต่อผู้ดูแลระบบของคุณ
 
-Also, you\'re connected to a VPN (\"%3$s\"). Your VPN service provider can monitor network activity too."</string>
+นอกจากนี้คุณกำลังเชื่อมต่อกับ VPN (\"%3$s\") ผู้ให้บริการ VPN ของคุณสามารถตรวจสอบกิจกรรมเครือข่ายได้เช่นกัน "</string>
     <string name="keyguard_indication_trust_disabled">Device will stay locked until you manually unlock</string>
     <string name="hidden_notifications_title">Get notifications faster</string>
     <string name="hidden_notifications_text">See them before you unlock</string>
@@ -438,8 +440,8 @@ Also, you\'re connected to a VPN (\"%3$s\"). Your VPN service provider can monit
     <string name="keyguard_missing_sim_instructions">Insert a SIM card.</string>
     <string name="keyguard_missing_sim_instructions_long">The SIM card is missing or not readable. Insert a SIM card.</string>
     <string name="keyguard_permanent_disabled_sim_message_short">Unusable SIM card.</string>
-    <string name="keyguard_permanent_disabled_sim_instructions">"Your SIM card has been permanently disabled.
- Contact your wireless service provider for another SIM card."</string>
+    <string name="keyguard_permanent_disabled_sim_instructions">"ซิมการ์ดของคุณถูกปิดใช้งานอย่างถาวร
+  ติดต่อผู้ให้บริการอุปกรณ์ไร้สายของคุณเพื่อรับซิมการ์ดใหม่ "</string>
     <string name="keyguard_sim_locked_message">SIM card is locked.</string>
     <string name="keyguard_sim_puk_locked_message">SIM card is PUK-locked.</string>
     <string name="keyguard_sim_unlock_progress_dialog_message">Unlocking SIM card…</string>
@@ -485,8 +487,8 @@ Also, you\'re connected to a VPN (\"%3$s\"). Your VPN service provider can monit
     <string name="password_keyboard_label_alpha_key">ABC</string>
     <string name="password_keyboard_label_alt_key">ALT</string>
     <string name="keyboardview_keycode_alt">Alt</string>
-    <string name="keyboardview_keycode_cancel">Cancel</string>
-    <string name="keyboardview_keycode_delete">Delete</string>
+    <string name="keyboardview_keycode_cancel">ยกเลิก</string>
+    <string name="keyboardview_keycode_delete">ลบ</string>
     <string name="keyboardview_keycode_done">Done</string>
     <string name="keyboardview_keycode_mode_change">Mode change</string>
     <string name="keyboardview_keycode_shift">Shift</string>
@@ -524,27 +526,27 @@ Also, you\'re connected to a VPN (\"%3$s\"). Your VPN service provider can monit
     <string name="kg_login_password_hint">Password</string>
     <string name="kg_login_submit_button">Sign in</string>
     <string name="kg_login_invalid_input">Invalid username or password.</string>
-    <string name="kg_login_account_recovery_hint">\"Forgot your username or password?
-Visit \"<b>google.com/accounts/recovery</b>.</string>
+    <string name="kg_login_account_recovery_hint">\"\"Forgot your username or password?
+Visit \"<b>google.com/accounts/recovery</b>.\"</string>
     <string name="kg_login_checking_password">Checking account…</string>
-    <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"You have incorrectly typed your PIN %d times. 
+    <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"คุณพิมพ์ PIN %d ครั้งไม่ถูกต้อง
 
-Try again in %d seconds."</string>
-    <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"You have incorrectly typed your password %d times. 
+ลองอีกครั้งใน %d วินาที "</string>
+    <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">คุณพิมพ์รหัสผ่าน %d ครั้งไม่ถูกต้อง
 
-Try again in %d seconds."</string>
-    <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"You have incorrectly drawn your unlock pattern %d times. 
+ลองอีกครั้งใน %d วินาที \"</string>
+    <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"คุณวาดรูปแบบการปลดล็อคผิดพลาด %d ครั้ง
 
-Try again in %d seconds."</string>
+ลองอีกครั้งใน %d วินาที "</string>
     <string name="kg_failed_attempts_almost_at_wipe" formatted="false">You have incorrectly attempted to unlock the tablet %d times. After %d more unsuccessful attempts, this tablet will be reset, which will delete all its data.</string>
     <string name="kg_failed_attempts_now_wiping">You have incorrectly attempted to unlock the tablet %d times. This tablet will be reset, which will delete all its data.</string>
     <string name="kg_failed_attempts_almost_at_erase_user" formatted="false">You have incorrectly attempted to unlock the tablet %d times. After %d more unsuccessful attempts, this user will be removed, which will delete all user data.</string>
     <string name="kg_failed_attempts_now_erasing_user">You have incorrectly attempted to unlock the tablet %d times. This user will be removed, which will delete all user data.</string>
     <string name="kg_failed_attempts_almost_at_erase_profile" formatted="false">You have incorrectly attempted to unlock the tablet %d times. After %d more unsuccessful attempts, the work profile will be removed, which will delete all profile data.</string>
     <string name="kg_failed_attempts_now_erasing_profile">You have incorrectly attempted to unlock the tablet %d times. The work profile will be removed, which will delete all profile data.</string>
-    <string name="kg_failed_attempts_almost_at_login" formatted="false">"You have incorrectly drawn your unlock pattern %d times. After %d more unsuccessful attempts, you will be asked to unlock your tablet using an email account.
+    <string name="kg_failed_attempts_almost_at_login" formatted="false">"คุณวาดรูปแบบการปลดล็อกผิดพลาด %d ครั้งหลังจากที่ %d พยายามไม่สำเร็จคุณจะถูกขอให้ปลดล็อคแท็บเล็ตโดยใช้บัญชีอีเมล
 
- Try again in %d seconds."</string>
+  ลองอีกครั้งใน %d วินาที "</string>
     <string name="kg_reordering_delete_drop_target_text">Remove</string>
     <string name="kg_password_wrong_pin_code_pukked">Incorrect SIM PIN code you must now contact your carrier to unlock your device.</string>
     <string name="kg_password_wrong_puk_code_dead">SIM is unusable. Contact your carrier.</string>

@@ -5,9 +5,9 @@
     <string name="title_activity_stop_watch_lap_list">StopWatchLapListActivity</string>
     <string name="day_concat">/</string>
     <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
+    <string name="action_settings">Preferències</string>
     <string name="app_name">HM Clock</string>
-    <string name="every_day">Every day</string>
+    <string name="every_day">每天</string>
     <string name="never">Never</string>
     <string name="default_label">Alarm</string>
     <string name="day">1 day</string>
@@ -23,9 +23,9 @@
     <string name="alarm_list">Alarms</string>
     <string name="edit_alarm">Edit alarm</string>
     <string name="alarm_repeat">Repeat</string>
-    <string name="alarm_off">Off</string>
+    <string name="alarm_off">Desactivat</string>
     <string name="alarm_open">On</string>
-    <string name="alarm_delete">Delete</string>
+    <string name="alarm_delete">删除</string>
     <string name="alarm_repeat_setting">Set repeats</string>
     <string name="once_time">Once</string>
     <string name="work_days">Workdays</string>
@@ -161,7 +161,7 @@
     <string name="oritation_sourth">S</string>
     <string name="oritation_west">W</string>
     <string name="oritation_north">N</string>
-    <string name="rope_skip_group_time">Time</string>
+    <string name="rope_skip_group_time">时间</string>
     <string name="rope_skip_group_count">Count</string>
     <string name="rope_skip_group_freq">Frequency</string>
     <string name="rope_skip_reset_tips">Has rested</string>
@@ -169,7 +169,8 @@
     <string name="rope_skip_tips1">The</string>
     <string name="rope_skip_tips2">set has been completed</string>
     <string name="rope_skip_avg_heartrate">Avg. heart rate</string>
-    <string name="rope_skip_group_calories">Calories</string>
+    <string name="rope_skip_group_calories">\"Calories
+\"</string>
     <string name="music">Music</string>
     <string name="press_long_power_key_wake_up">Press a physical button to exit</string>
     <string name="sport_auto_pause_end">Session ended, save the data?</string>
@@ -177,17 +178,17 @@
     <string name="group_rowing_freq">Frequency</string>
     <string name="group_rowing_count">Times</string>
     <string name="picker_default_positive_text">OK</string>
-    <string name="picker_default_nagetive_text">Off</string>
+    <string name="picker_default_nagetive_text">Desactivat</string>
     <string name="no_heartrate_data_hint">"Couldn't find heart rate data"</string>
     <string name="no_altitude_hint">"Couldn't find altitude data"</string>
-    <string name="title_settings">Settings</string>
+    <string name="title_settings">Preferències</string>
     <string name="sport_music_settings">Music</string>
     <string name="widget_currentstep_title">Data</string>
     <string name="widget_currentstep_activities">"Today's activity"</string>
     <string name="widget_currentstep_sleep_hour">h</string>
     <string name="widget_currentstep_sleep_min">m</string>
     <string name="widget_currentstep_sleep_title">Slept last night</string>
-    <string name="widget_currentstep_sleep_no">No sleep data</string>
+    <string name="widget_currentstep_sleep_no">Sense dades del son</string>
     <string name="widget_currentstep_activity_no">No activity today?</string>
-    <string name="locale_title">Select Language</string>
+    <string name="locale_title">Triar idioma</string>
 </resources>

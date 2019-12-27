@@ -28,26 +28,26 @@
     <item>Alarm will go off in %1$s, %2$s, and %3$s.</item>
   </string-array>
   <string-array name="repeat_description">
-    <item>Every day</item>
+    <item>每天</item>
     <item>Working day</item>
     <item>Weekend</item>
-    <item>Mon</item>
-    <item>Tue</item>
-    <item>Wed</item>
-    <item>Thu</item>
-    <item>Fri</item>
-    <item>Sat</item>
-    <item>Sun</item>
+    <item>一</item>
+    <item>二</item>
+    <item>三</item>
+    <item>四</item>
+    <item>五</item>
+    <item>六</item>
+    <item>日</item>
   </string-array>
   <string-array name="short_week_days">
     <item></item>
-    <item>Sun</item>
-    <item>Mon</item>
-    <item>Tue</item>
-    <item>Wed</item>
-    <item>Thu</item>
-    <item>Fri</item>
-    <item>Sat</item>
+    <item>日</item>
+    <item>一</item>
+    <item>二</item>
+    <item>三</item>
+    <item>四</item>
+    <item>五</item>
+    <item>六</item>
   </string-array>
   <string-array name="am_pm">
     <item>AM</item>
@@ -55,28 +55,29 @@
   </string-array>
   <string-array name="sport_data_item_array">
     <item></item>
-    <item>Time</item>
-    <item>Distance</item>
-    <item>Pace</item>
+    <item>时间</item>
+    <item>Distancia</item>
+    <item>Ritmo</item>
     <item>Avg pace</item>
     <item>Heart rate</item>
-    <item>Calories</item>
+    <item>\"Calorias
+\"</item>
     <item>Altitude</item>
     <item>Elev gain</item>
     <item>Elev loss</item>
     <item>Speed</item>
     <item>Avg speed</item>
-    <item>Cadence</item>
+    <item>Cadência</item>
     <item>Dist gain</item>
     <item>Steps</item>
-    <item>Cadence</item>
+    <item>Cadência</item>
     <item>Laps</item>
     <item>DPS</item>
     <item>Stroke rate</item>
     <item>Avg SPM</item>
-    <item>Pace</item>
+    <item>Ritmo</item>
     <item>Avg pace</item>
-    <item>Distance</item>
+    <item>Distancia</item>
     <item>TE</item>
     <item>Vert speed</item>
     <item>Avg speed</item>
@@ -92,7 +93,7 @@
     <item>Lap HR</item>
     <item>Lap cadence</item>
     <item>Lap pace</item>
-    <item>Current freq</item>
+    <item>Freq atual</item>
     <item>Total count</item>
     <item>Avg freq</item>
     <item>Groups</item>
@@ -106,10 +107,11 @@
     <item>Heart rate in this lap</item>
     <item>Lap freq.</item>
     <item>slope</item>
-    <item>Calories</item>
+    <item>\"Calorias
+\"</item>
     <item>Avg. HR</item>
     <item>Paddles of this set</item>
-    <item>Frequency</item>
+    <item>Frequência</item>
     <item>Total paddles</item>
     <item>Paddle frequency</item>
     <item>Pulling duration</item>
@@ -118,10 +120,10 @@
   </string-array>
   <string-array name="sport_train_item">
     <item>Remaining distance</item>
-    <item>Total distance</item>
+    <item>Distância Total</item>
     <item>Total time</item>
     <item>Remaining time</item>
-    <item>Distance</item>
+    <item>Distancia</item>
     <item>Remaining</item>
     <item>Has rested</item>
   </string-array>
