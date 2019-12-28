@@ -28,18 +28,18 @@
         <item>24</item>
     </string-array>
     <string-array name="weekday_names">
-        <item>Mon</item>
-        <item>Tue</item>
-        <item>Wed</item>
-        <item>Thu</item>
-        <item>Fri</item>
-        <item>Sat</item>
-        <item>Sun</item>
+        <item>Pr</item>
+        <item>Ot</item>
+        <item>Tr</item>
+        <item>Ce</item>
+        <item>Pk</item>
+        <item>Se</item>
+        <item>Sv</item>
     </string-array>
     <string-array name="subject_typenfreqs">
-        <item>Today</item>
+        <item>Šodien</item>
         <item>This week</item>
-        <item>Today</item>
+        <item>Šodien</item>
         <item>This week</item>
     </string-array>
     <string-array name="chart_x_titles">
@@ -54,15 +54,15 @@
     <string-array name="sport_data_item_array">
         <item></item>
         <item>Time</item>
-        <item>Distance</item>
-        <item>Pace</item>
-        <item>Avg pace</item>
-        <item>Heart rate</item>
-        <item>Calories</item>
-        <item>Altitude</item>
+        <item>Attālums</item>
+        <item>Temps</item>
+        <item>Vid. Temps</item>
+        <item>Pulss</item>
+        <item>Kalorijas</item>
+        <item>Augstums</item>
         <item>Elev gain</item>
         <item>Elev loss</item>
-        <item>Speed</item>
+        <item>Ātrums</item>
         <item>Avg speed</item>
         <item>Cadence</item>
         <item>Dist gain</item>
@@ -72,9 +72,9 @@
         <item>DPS</item>
         <item>Stroke rate</item>
         <item>Avg SPM</item>
-        <item>Pace</item>
-        <item>Avg pace</item>
-        <item>Distance</item>
+        <item>Temps</item>
+        <item>Vid. Temps</item>
+        <item>Attālums</item>
         <item>TE</item>
         <item>Vert speed</item>
         <item>Avg speed</item>
@@ -104,7 +104,7 @@
         <item>Heart rate in this lap</item>
         <item>Lap freq.</item>
         <item>slope</item>
-        <item>Calories</item>
+        <item>Kalorijas</item>
         <item>Avg. HR</item>
         <item>Paddles of this set</item>
         <item>Frequency</item>
@@ -119,7 +119,7 @@
         <item>Total distance</item>
         <item>Total time</item>
         <item>Remaining time</item>
-        <item>Distance</item>
+        <item>Attālums</item>
         <item>Remaining</item>
         <item>Has rested</item>
     </string-array>
