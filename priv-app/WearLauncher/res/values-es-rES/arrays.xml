@@ -219,69 +219,69 @@
         <item>Accordion</item>
     </string-array>
     <string-array name="weather_card_aqilevel">
-        <item>Excellent</item>
-        <item>Fine</item>
-        <item>Light pollution</item>
-        <item>Moderate pollution</item>
-        <item>Heavy pollution</item>
-        <item>Severe pollution</item>
+        <item>Excelente</item>
+        <item>Bueno</item>
+        <item>Contaminación lumínica</item>
+        <item>Contaminación moderada</item>
+        <item>Gran contaminación del aire</item>
+        <item>Contaminación severa</item>
         <item></item>
     </string-array>
     <string-array name="weather_card_quality">
-        <item>Suitable for sports</item>
-        <item>Not suitable for sports</item>
+        <item>Apto para deporte</item>
+        <item>No apto para deporte</item>
         <item></item>
     </string-array>
     <string-array name="quick_settings_status_weather">
-        <item>Clear</item>
-        <item>Cloudy</item>
-        <item>Overcast</item>
-        <item>showers</item>
-        <item>Thunder shower</item>
-        <item>Hail</item>
-        <item>Rain and snow mixed</item>
-        <item>Light rain</item>
-        <item>Moderate rain</item>
-        <item>Heavy rain</item>
-        <item>Rainstorm</item>
-        <item>Heavy rainstorm</item>
-        <item>Extraordinary rainstorm</item>
-        <item>Snow shower</item>
-        <item>Light snow</item>
-        <item>Moderate snow</item>
-        <item>Heavy snow</item>
-        <item>Blizzard</item>
-        <item>Fog</item>
-        <item>Freezing rain</item>
-        <item>Sandstorm</item>
-        <item>Small to moderate rain</item>
-        <item>Moderate to heavy rain</item>
-        <item>Heavy rain to rainstorm</item>
-        <item>Rainstorm to heavy rainstorm</item>
-        <item>Heavy to severe storm</item>
-        <item>Small to moderate snow</item>
-        <item>Moderate to heavy snow</item>
-        <item>Heavy snow to blizzard</item>
-        <item>Dust</item>
-        <item>Blowing sand</item>
-        <item>Strong sandstorm</item>
-        <item>Thick fog</item>
-        <item>Snow</item>
-        <item>Rain</item>
-        <item>Strong fog</item>
-        <item>Haze</item>
-        <item>Moderate haze</item>
-        <item>Heavy haze</item>
-        <item>Severe haze</item>
-        <item>Dense fog</item>
-        <item>Extremely dense fog</item>
+        <item>Despejado</item>
+        <item>Nublado</item>
+        <item>Cubierto</item>
+        <item>Lluvias</item>
+        <item>Tormenta</item>
+        <item>Granizo</item>
+        <item>Aguanieve </item>
+        <item>Lluvia débil</item>
+        <item>Lluvia moderada</item>
+        <item>Lluvia fuerte</item>
+        <item>Temporal de lluvia</item>
+        <item>Tormenta fuerte</item>
+        <item>Tormenta extraordinaria</item>
+        <item>Chubascos de nieve</item>
+        <item>Nevadas suaves</item>
+        <item>Nevadas moderadas</item>
+        <item>Nevadas fuertes</item>
+        <item>Ventisca</item>
+        <item>Niebla</item>
+        <item>Lluvia helada</item>
+        <item>Tormenta de arena</item>
+        <item>Lluvia pequeña a moderada</item>
+        <item>Lluvia moderada a fuerte</item>
+        <item>Lluvia fuerte a tormenta</item>
+        <item>Tormenta a fuerte tormenta</item>
+        <item>Tormenta fuerte a severa</item>
+        <item>Poca nieve a moderada</item>
+        <item>Nieve moderada a fuerte</item>
+        <item>Nevada fuerte a tormenta de nieve</item>
+        <item>Polvo</item>
+        <item>Ventisca de arena</item>
+        <item>Fuerte tormenta de arena</item>
+        <item>Niebla espesa</item>
+        <item>Nieve</item>
+        <item>Lluvia</item>
+        <item>Niebla fuerte</item>
+        <item>Neblina</item>
+        <item>Neblina moderada</item>
+        <item>Neblina fuerte</item>
+        <item>Neblina severa</item>
+        <item>Nebla densa</item>
+        <item>Niebla extremadamente densa</item>
         <item>Sin datos</item>
     </string-array>
     <string-array name="sport_data_item_array">
         <item></item>
         <item>Hora</item>
-        <item>Distance</item>
-        <item>Pace</item>
+        <item>Distancia</item>
+        <item>Ritmo</item>
         <item>Avg pace</item>
         <item>Heart rate</item>
         <item>Calories</item>
@@ -298,9 +298,9 @@
         <item>DPS</item>
         <item>Stroke rate</item>
         <item>Avg SPM</item>
-        <item>Pace</item>
+        <item>Ritmo</item>
         <item>Avg pace</item>
-        <item>Distance</item>
+        <item>Distancia</item>
         <item>TE</item>
         <item>Vert speed</item>
         <item>Avg speed</item>
@@ -327,8 +327,8 @@
         <item>Lap dist.</item>
         <item>Lap pace</item>
         <item>Speed for this lap</item>
-        <item>Heart rate in this lap</item>
-        <item>Lap freq.</item>
+        <item>RC de esta vuelta</item>
+        <item>Freq. vuelta</item>
         <item>slope</item>
         <item>Calories</item>
         <item>Avg. HR</item>
@@ -345,7 +345,7 @@
         <item>Total distance</item>
         <item>Total time</item>
         <item>Remaining time</item>
-        <item>Distance</item>
+        <item>Distancia</item>
         <item>Restante</item>
         <item>Has rested</item>
     </string-array>
