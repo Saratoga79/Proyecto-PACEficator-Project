@@ -48,7 +48,7 @@
         <item>Media</item>
         <item>Buena</item>
         <item>Muy buena</item>
-        <item>Excellent</item>
+        <item>Excelente</item>
     </string-array>
     <string-array name="spring_depend">
         <item>com.huami.watch.newsport/com.huami.watch.newsport.widget.SportWidget</item>
@@ -59,8 +59,8 @@
     <string-array name="sport_data_item_array">
         <item></item>
         <item>Hora</item>
-        <item>Distance</item>
-        <item>Pace</item>
+        <item>Distancia</item>
+        <item>Ritmo</item>
         <item>Avg pace</item>
         <item>Heart rate</item>
         <item>Calories</item>
@@ -77,9 +77,9 @@
         <item>DPS</item>
         <item>Stroke rate</item>
         <item>Avg SPM</item>
-        <item>Pace</item>
+        <item>Ritmo</item>
         <item>Avg pace</item>
-        <item>Distance</item>
+        <item>Distancia</item>
         <item>TE</item>
         <item>Vert speed</item>
         <item>Avg speed</item>
@@ -106,8 +106,8 @@
         <item>Lap dist.</item>
         <item>Lap pace</item>
         <item>Speed for this lap</item>
-        <item>Heart rate in this lap</item>
-        <item>Lap freq.</item>
+        <item>RC de esta vuelta</item>
+        <item>Freq. vuelta</item>
         <item>slope</item>
         <item>Calories</item>
         <item>Avg. HR</item>
@@ -124,7 +124,7 @@
         <item>Total distance</item>
         <item>Total time</item>
         <item>Remaining time</item>
-        <item>Distance</item>
+        <item>Distancia</item>
         <item>Restante</item>
         <item>Has rested</item>
     </string-array>
