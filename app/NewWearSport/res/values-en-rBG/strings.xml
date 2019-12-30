@@ -754,7 +754,7 @@
     <string name="running_stop_dialog_positive_text">Стоп</string>
     <string name="running_stop_dialog_negative_text">Cancel</string>
     <string name="default_double_value">0,00</string>
-    <string name="running_control_title">Run</string>
+    <string name="running_control_title">Старт</string>
     <string name="running_control_paused_des">Paused</string>
     <string name="default_time_value">00:00:00</string>
     <string name="default_int_value">0</string>
@@ -769,7 +769,7 @@
     <string name="history_heart_rate_desc">Heart Rate:</string>
     <string name="history_heart_rate_unit">bpm</string>
     <string name="history_info_cost_time_desc">Elapsed Time</string>
-    <string name="history_detail_running_title">Run</string>
+    <string name="history_detail_running_title">Старт</string>
     <string name="history_detail_walking_title">Walking</string>
     <string name="history_detail_indoor_running_title">Run Indoor</string>
     <string name="history_detail_cost_time">Total Time</string>
@@ -811,12 +811,12 @@
     <string name="remind_target_km_walking_title_format">Completed %1$d mi</string>
     <string name="remind_target_distance_finished">Completed</string>
     <string name="remind_target_cost_time_desc">Elapsed Time</string>
-    <string name="remind_target_pace_desc">Pace</string>
+    <string name="remind_target_pace_desc">Темпо</string>
     <string name="remind_target_distance_pace_unit">/mi</string>
     <string name="remind_target_time_title_format">Target at %1$d h %2$d m</string>
     <string name="remind_target_time_distance">Distance</string>
     <string name="remind_target_time_distance_unit">mi</string>
-    <string name="remind_target_time_pace">Pace</string>
+    <string name="remind_target_time_pace">Темпо</string>
     <string name="remind_target_time_pace_unit">/mi</string>
     <string name="remind_heart_rate_too_high">Heart rate is too high</string>
     <string name="remind_heart_rate_value_before">Current</string>
@@ -850,8 +850,8 @@
     <string name="sport_medal_desc_continuous_7_days_sport">7 day running streak</string>
     <string name="sport_medal_desc_continuous_30_days_sport">30 day running streak</string>
     <string name="sport_saving_record">Saving record...</string>
-    <string name="running_button_stop">Stop</string>
-    <string name="running_button_save">Save</string>
+    <string name="running_button_stop">Стоп</string>
+    <string name="running_button_save">Запази</string>
     <string name="running_button_pause">Pause</string>
     <string name="running_button_continue">Resume</string>
     <string name="title_activity_test">TestActivity</string>
@@ -905,9 +905,9 @@
     <string name="reminder_wear_not_tight_0">Wear the watch above the wrist</string>
     <string name="reminder_wear_not_tight_1">And tighten the band</string>
     <string name="gps_time_out_re_rearch">GPS has expired, please search again。</string>
-    <string name="walking_step">step</string>
+    <string name="walking_step">крачка</string>
     <string name="waling_steps">steps</string>
-    <string name="date_am">"'AM'"</string>
+    <string name="date_am">"'АМ'"</string>
     <string name="date_pm">"'PM'"</string>
     <string name="setting_sport_remind_region">Region Alert</string>
     <string name="setting_sport_heart_region_remind">HR Zone</string>
@@ -923,7 +923,7 @@
     <string name="remind_heart_rate_region_less">Heart rate is too low</string>
     <string name="remind_heart_rate_current_heart_rate">Current　%1$d bpm</string>
     <string name="sport_time_seconds">seconds</string>
-    <string name="sport_widget_title_exercise">Gym</string>
+    <string name="sport_widget_title_exercise">Тренировъчна зала</string>
     <string name="exercise_progress">Gym...</string>
     <string name="complete_training_project">The training program has been completed</string>
     <string name="reminder_speed_unit">/h</string>
@@ -950,7 +950,7 @@
     <string name="km_metric_settings_item_value_target_distance">%1$skm</string>
     <string name="meter_metric_settings_item_value_target_distance">%1$smeter</string>
     <string name="km_imperial">mi</string>
-    <string name="metre_imperial">feet</string>
+    <string name="metre_imperial">фут</string>
     <string name="km_imperial_pace_unit">/mi</string>
     <string name="km_imperial_speed_unit">mi/h</string>
     <string name="km_imperial_distance">Distance(mi)</string>
@@ -975,7 +975,7 @@
     <string name="hint_rolling">Exporting, please wait for a while ...</string>
     <string name="dlg_msg_hint_cancel">Do you want to cancel the export?</string>
     <string name="dlg_btn_l_msg">Не</string>
-    <string name="dlg_btn_r_msg">Yes</string>
+    <string name="dlg_btn_r_msg">Да</string>
     <string name="hint_cancelling">Cancelling...</string>
     <string name="hint_success_exported_title">"Exported to GPX file 
  successfully"</string>
