@@ -85,7 +85,7 @@
     <string name="gps_notify_success">GPS available</string>
     <string name="gps_notify_loss">Lost GPS signal</string>
     <string name="gps_search_time_out_content">GPS was turned off due to inactivity</string>
-    <string name="detail_route_title">Route</string>
+    <string name="detail_route_title">Маршрут</string>
     <string name="detail_route_total_dis">Total Distance</string>
     <string name="detail_route_detail_lap_title">Lap Details</string>
     <string name="detail_route_detail_manual_lap_title">Key Laps</string>
@@ -95,7 +95,7 @@
     <string name="detail_total_distance_desc">Total Distance</string>
     <string name="detail_lap_dis">Distance</string>
     <string name="detail_lap_avg_pace">Average Pace</string>
-    <string name="detail_curve_graph">Graph</string>
+    <string name="detail_curve_graph">Графика</string>
     <string name="battery_support_sport">in GPS mode</string>
     <string name="battery_continue_distance_unit"> km</string>
     <string name="battery_continue_imperial_distance_unit"> mi</string>
@@ -290,7 +290,7 @@
     <string name="sport_widget_title_indoor_swim">泳池游泳</string>
     <string name="sport_widget_title_open_water_swim">公开水域游泳</string>
     <string name="sport_widget_title_triathlon">Triathlon</string>
-    <string name="sport_widget_title_mountaineer">Climb</string>
+    <string name="sport_widget_title_mountaineer">Изкачване</string>
     <string name="sport_widget_title_mountaineering">In Climb</string>
     <string name="sport_child_riding">Riding</string>
     <string name="sport_widget_title_tennis">Tennis</string>
@@ -389,10 +389,10 @@
     <string name="sport_history_total_stokes">Total Strokes</string>
     <string name="sport_tennis_forehand">Forehand</string>
     <string name="sport_tennis_backhand">Backhand</string>
-    <string name="sport_tennis_serve">Serve</string>
+    <string name="sport_tennis_serve">Сервиз</string>
     <string name="sport_setting_clap_the_hands">Racket hand</string>
     <string name="sport_setting_left_hand">Лява</string>
-    <string name="sport_setting_right_hand">Right</string>
+    <string name="sport_setting_right_hand">Дясна</string>
     <string name="sport_please_select_clap_hand">Please choose racket hand</string>
     <string name="skiing_stop_dialog_msg_not_reach_minimum_distance">Activity with too few runs cannot be saved. Continue?</string>
     <string name="sport_soccer_sec_half">Start Second-half</string>
@@ -405,9 +405,9 @@
     <string name="tennic_wear_hand_guide">"Make sure to wear the watch 
  on the wrist of the hand holding the racket"</string>
     <string name="select_compound_sport">Select %1$s Sport</string>
-    <string name="select_compound_sport_first">First</string>
+    <string name="select_compound_sport_first">Първи</string>
     <string name="select_compound_sport_second">Second</string>
-    <string name="select_compound_sport_three">Third</string>
+    <string name="select_compound_sport_three">Трети</string>
     <string name="setting_max_heart_region">Max hr zone</string>
     <string name="setting_reserve_heart_region">Reserved hr zone</string>
     <string name="setting_not_remind">Not remind</string>
@@ -438,7 +438,7 @@
     <string name="low_mem_tips_content">Available space of the watch is too small, which may affect saving of the movement. Delete some imported files ASAP.</string>
     <string name="no_mem_tips_title">Unable to start</string>
     <string name="no_mem_tips_content">Current available space for the watch is less than the minimum required for motion (2MB). Delete some of the imported files and start moving.</string>
-    <string name="no_mem_exit">Exit</string>
+    <string name="no_mem_exit">Изход</string>
     <string name="lap_dis_title">Segmented distance</string>
     <string name="back_to_continue_sport">Return</string>
     <string name="first_modify_tips">Calibration with a mileage greater than 0.5 km allows the watch to learn your running habits and make the running mileage more accurate.</string>
@@ -456,7 +456,7 @@
     <string name="history_heart_rate_graph_desc">Heart rate (bpm)</string>
     <string name="huanghe_pause_continue_title">Movement operation</string>
     <string name="experience_title">Please set up personal information, or data will have a large deviation</string>
-    <string name="recovery_time_hour">Hour</string>
+    <string name="recovery_time_hour">Час</string>
     <string name="sport_vo2_max">VO2max</string>
     <string name="sport_ability">Training ability</string>
     <string name="sport_train_load">Training load</string>
@@ -529,7 +529,7 @@
     <string name="sport_route_out_of">Deviated Trajectory</string>
     <string name="sport_back_to_route">Has returned to the track</string>
     <string name="gpx_currnet_is_selected">Selected</string>
-    <string name="gpx_select_closed">Close</string>
+    <string name="gpx_select_closed">Затвори</string>
     <string name="gpx_select_empty"></string>
     <string name="gpx_details_view">Selected</string>
     <string name="gpx_details_use">Използван</string>
@@ -546,7 +546,7 @@
     <string name="run_train_recommend">Recommended</string>
     <string name="run_train_intermittent">Interval</string>
     <string name="run_train_intermittent_select_train">Select</string>
-    <string name="music_title">Music</string>
+    <string name="music_title">Музика</string>
     <string name="music_local_title">Sports music</string>
     <string name="music_no_resource">No songs to play</string>
     <string name="music_no_local_resource">No songs to play, please connect USB to import。</string>
@@ -689,11 +689,11 @@
     <string name="route_cur_altitude">Altitude</string>
     <string name="sport_main_climb_al">Elev. Gain</string>
     <string name="sport_main_descend_al">Elev. Loss</string>
-    <string name="running_speed_desc">Speed</string>
+    <string name="running_speed_desc">Скорост</string>
     <string name="running_avg_speed_desc">AVG. Speed</string>
     <string name="running_step_freq_desc">Cadence</string>
     <string name="sport_main_climb_dis">Dist. Gain</string>
-    <string name="walking_step_count">Steps</string>
+    <string name="walking_step_count">Крачки</string>
     <string name="outdoor_cadence">Cadence</string>
     <string name="rt_swim_trips">Пътуване</string>
     <string name="swim_dps">DPS</string>
@@ -719,7 +719,7 @@
     <string name="sport_widget_title_record">Activities</string>
     <string name="sport_widget_title_achieve">Badges</string>
     <string name="sport_widget_title_setting">Settings</string>
-    <string name="sport_widget_title_music">Music</string>
+    <string name="sport_widget_title_music">Музика</string>
     <string name="sport_widget_title_interval_run">Interval</string>
     <string name="sport_app_name">Sports</string>
     <string name="sport_item_running_title">Старт</string>
@@ -731,7 +731,7 @@
     <string name="title_sport_control_runnning">Старт</string>
     <string name="title_sport_control_walking">Walking</string>
     <string name="sport_start">Старт</string>
-    <string name="sport_pause">Pause</string>
+    <string name="sport_pause">Пауза</string>
     <string name="sport_continue">Resume</string>
     <string name="sport_stop">Стоп</string>
     <string name="sport_notification_view_detail">Open Sports</string>
@@ -754,7 +754,7 @@
     <string name="running_stop_dialog_positive_text">Стоп</string>
     <string name="running_stop_dialog_negative_text">Cancel</string>
     <string name="default_double_value">0,00</string>
-    <string name="running_control_title">Run</string>
+    <string name="running_control_title">Старт</string>
     <string name="running_control_paused_des">Paused</string>
     <string name="default_time_value">00:00:00</string>
     <string name="default_int_value">0</string>
@@ -769,7 +769,7 @@
     <string name="history_heart_rate_desc">Heart Rate:</string>
     <string name="history_heart_rate_unit">bpm</string>
     <string name="history_info_cost_time_desc">Elapsed Time</string>
-    <string name="history_detail_running_title">Run</string>
+    <string name="history_detail_running_title">Старт</string>
     <string name="history_detail_walking_title">Walking</string>
     <string name="history_detail_indoor_running_title">Run Indoor</string>
     <string name="history_detail_cost_time">Total Time</string>
@@ -811,12 +811,12 @@
     <string name="remind_target_km_walking_title_format">Completed %1$d mi</string>
     <string name="remind_target_distance_finished">Completed</string>
     <string name="remind_target_cost_time_desc">Elapsed Time</string>
-    <string name="remind_target_pace_desc">Pace</string>
+    <string name="remind_target_pace_desc">Темпо</string>
     <string name="remind_target_distance_pace_unit">/mi</string>
     <string name="remind_target_time_title_format">Target at %1$d h %2$d m</string>
     <string name="remind_target_time_distance">Distance</string>
     <string name="remind_target_time_distance_unit">mi</string>
-    <string name="remind_target_time_pace">Pace</string>
+    <string name="remind_target_time_pace">Темпо</string>
     <string name="remind_target_time_pace_unit">/mi</string>
     <string name="remind_heart_rate_too_high">Heart rate is too high</string>
     <string name="remind_heart_rate_value_before">Current</string>
@@ -850,9 +850,9 @@
     <string name="sport_medal_desc_continuous_7_days_sport">7 day running streak</string>
     <string name="sport_medal_desc_continuous_30_days_sport">30 day running streak</string>
     <string name="sport_saving_record">Saving record...</string>
-    <string name="running_button_stop">Stop</string>
-    <string name="running_button_save">Save</string>
-    <string name="running_button_pause">Pause</string>
+    <string name="running_button_stop">Стоп</string>
+    <string name="running_button_save">Запази</string>
+    <string name="running_button_pause">Пауза</string>
     <string name="running_button_continue">Resume</string>
     <string name="title_activity_test">TestActivity</string>
     <string name="count_down_one">1</string>
@@ -873,7 +873,7 @@
     <string name="wait_gps_no_gps_signal">GPS unavailable, please retry in an open space</string>
     <string name="wait_gps_hint">The GPS signal is better in open space far away from buildings</string>
     <string name="wait_gps_success">GPS available, you can start workout now</string>
-    <string name="wait_gps_search_retry">Retry</string>
+    <string name="wait_gps_search_retry">Опитай пак</string>
     <string name="sport_pause_heart_shown">--</string>
     <string name="lock_screen">Screen locked</string>
     <string name="txt_unlock_screen">Please press and hold the screen to unlock</string>
@@ -905,9 +905,9 @@
     <string name="reminder_wear_not_tight_0">Wear the watch above the wrist</string>
     <string name="reminder_wear_not_tight_1">And tighten the band</string>
     <string name="gps_time_out_re_rearch">GPS has expired, please search again。</string>
-    <string name="walking_step">step</string>
-    <string name="waling_steps">steps</string>
-    <string name="date_am">"'AM'"</string>
+    <string name="walking_step">крачка</string>
+    <string name="waling_steps">крачки</string>
+    <string name="date_am">"'АМ'"</string>
     <string name="date_pm">"'PM'"</string>
     <string name="setting_sport_remind_region">Region Alert</string>
     <string name="setting_sport_heart_region_remind">HR Zone</string>
@@ -923,7 +923,7 @@
     <string name="remind_heart_rate_region_less">Heart rate is too low</string>
     <string name="remind_heart_rate_current_heart_rate">Current　%1$d bpm</string>
     <string name="sport_time_seconds">seconds</string>
-    <string name="sport_widget_title_exercise">Gym</string>
+    <string name="sport_widget_title_exercise">Тренировъчна зала</string>
     <string name="exercise_progress">Gym...</string>
     <string name="complete_training_project">The training program has been completed</string>
     <string name="reminder_speed_unit">/h</string>
@@ -935,7 +935,7 @@
     <string name="complete_training_swim_target_tips">"Save this swim to today's training program?"</string>
     <string name="not_complete_train_task">The train is not completed. Are you sure to stop?</string>
     <string name="km_metric">km</string>
-    <string name="metre_metric">meter</string>
+    <string name="metre_metric">метър</string>
     <string name="km_metric_pace_unit">/km</string>
     <string name="km_metric_speed_unit">km/h</string>
     <string name="km_metric_distance">Distance(km)</string>
@@ -950,7 +950,7 @@
     <string name="km_metric_settings_item_value_target_distance">%1$skm</string>
     <string name="meter_metric_settings_item_value_target_distance">%1$smeter</string>
     <string name="km_imperial">mi</string>
-    <string name="metre_imperial">feet</string>
+    <string name="metre_imperial">фут</string>
     <string name="km_imperial_pace_unit">/mi</string>
     <string name="km_imperial_speed_unit">mi/h</string>
     <string name="km_imperial_distance">Distance(mi)</string>
@@ -975,7 +975,7 @@
     <string name="hint_rolling">Exporting, please wait for a while ...</string>
     <string name="dlg_msg_hint_cancel">Do you want to cancel the export?</string>
     <string name="dlg_btn_l_msg">Не</string>
-    <string name="dlg_btn_r_msg">Yes</string>
+    <string name="dlg_btn_r_msg">Да</string>
     <string name="hint_cancelling">Cancelling...</string>
     <string name="hint_success_exported_title">"Exported to GPX file 
  successfully"</string>
@@ -996,7 +996,7 @@
     <string name="widget_currentstep_activities">Activities</string>
     <string name="widget_currentstep_sleep_hour">h</string>
     <string name="widget_currentstep_sleep_min">min</string>
-    <string name="widget_currentstep_sleep_title">Sleep</string>
+    <string name="widget_currentstep_sleep_title">Сън</string>
     <string name="widget_currentstep_sleep_no">No sleep data</string>
     <string name="widget_currentstep_activity_no">No activity today?</string>
     <string name="sport_widget_title_on_foot">Trekking</string>
