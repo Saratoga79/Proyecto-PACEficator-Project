@@ -74,13 +74,13 @@
         <item>Has rested</item>
     </string-array>
     <string-array name="lab_item_android_settings">
-        <item>[prim]Original system settings</item>
-        <item>[sum]Settings of Android</item>
+        <item>[prim]Ajustes originales de sistema</item>
+        <item>[sum]Ajustes Android</item>
         <item>[pkg]com.android.settings</item>
     </string-array>
     <string-array name="lab_item_logger">
         <item>[prim]WearLogger</item>
-        <item>[sum]One-click crawling log ^_^</item>
+        <item>[sum]Informe en 1-click</item>
         <item>[pkg]com.huami.watch.wearlogger</item>
         <item>[clazz]com.huami.watch.wearlogger.AllLogActivityLab</item>
     </string-array>
@@ -90,35 +90,35 @@
         <item>[action]com.huami.watch.selftest.START</item>
     </string-array>
     <string-array name="lab_item_open_applist">
-        <item>[prim]Launcher Applist</item>
-        <item>[sum]Open or close applist</item>
+        <item>[prim]Applist del launcher</item>
+        <item>[sum] Des/Activar la Applist</item>
         <item>[sid]applist</item>
     </string-array>
     <string-array name="lab_item_bt_hci_snoop_log">
-        <item>[prim]BT HCI snoop log</item>
-        <item>[sum]Capture Bluetooth HCI log</item>
+        <item>[prim]Captura registro BT HCI snoop</item>
+        <item>[sum] Des/Activar Registro Bluetooth</item>
         <item>[sid]btsnoop</item>
     </string-array>
     <string-array name="lab_item_power_test">
-        <item>[prim]Power consumption test in flight mode</item>
-        <item>[sum]Detect power consumption in flight mode</item>
-        <item>[sid]power_test</item>
+        <item>[prim] Prueba de consumo con Modo Avión activado</item>
+        <item>[sum] Prueba de consumo con Modo Avión activado</item>
+        <item>[sid] Prueba de consumo</item>
     </string-array>
     <string-array name="lab_item_long_sitting_timer_plus">
-        <item>[prim]Time of sedentary reminder</item>
-        <item>[sum]Set the time of sedentary reminder (in min)</item>
+        <item>[prim]Tie. recordatorio sedentario</item>
+        <item>[sum]Establecer tie. recordatorio (min)</item>
         <item>[pkg]com.huami.mobile.watchsettings</item>
         <item>[clazz]com.huami.moblie.watchsettings.actions.lab.labUI.LongSittingTimeActivity</item>
     </string-array>
     <string-array name="lab_item_wifi_signal_intensity">
-        <item>[prim]Signal strength</item>
-        <item>[sum]Signal strength test</item>
+        <item>[prim]Intensidad de señal</item>
+        <item>[sum]Test de intensidad de señal</item>
         <item>[pkg]com.huami.mobile.watchsettings</item>
         <item>[clazz]com.huami.moblie.watchsettings.actions.lab.labUI.WifiTestActivity</item>
     </string-array>
     <string-array name="lab_item_pointer_location">
         <item>[prim]pointer location</item>
-        <item>[sum]open/close pointer</item>
+        <item>[sum] Mostrar puntero</item>
         <item>[sid]pointer_location</item>
     </string-array>
     <string-array name="lab_item_open_show_model">
@@ -302,13 +302,13 @@
         <item>+13 Tongatapu</item>
     </string-array>
     <string-array name="light_mode_subtitle">
-        <item>Brightness: close</item>
-        <item>Brightness: auto</item>
-        <item>Brightness: 2</item>
-        <item>Brightness: 2</item>
-        <item>Brightness: 1</item>
-        <item>Brightness: 3</item>
-        <item>Brightness: 4</item>
-        <item>Brightness: 5</item>
+        <item>Brillo: Off</item>
+        <item>Brillo: Auto</item>
+        <item>Brillo: 2</item>
+        <item>Brillo: 2</item>
+        <item>Brillo: 1</item>
+        <item>Brillo: 3</item>
+        <item>Brillo: 4</item>
+        <item>Brillo: 5</item>
     </string-array>
 </resources>
