@@ -9,13 +9,13 @@
         <item>Pr</item>
         <item>Ot</item>
         <item>Tr</item>
-        <item>Ce</item>
+        <item>Ct</item>
         <item>Pk</item>
         <item>Se</item>
         <item>Šodien</item>
     </string-array>
     <string-array name="weather_card_aqilevel">
-        <item>Teicams</item>
+        <item>Gaiss tīrs</item>
         <item>Normāls gaiss</item>
         <item>Viegls piesārņojums</item>
         <item>Vidējs piesārņojums</item>
@@ -24,8 +24,8 @@
         <item></item>
     </string-array>
     <string-array name="weather_card_quality">
-        <item>Piemērots, lai sportotu</item>
-        <item>Sportošanai nelabvēlīgs</item>
+        <item>Labi, lai sportotu</item>
+        <item>Slikti, lai sportotu</item>
         <item></item>
     </string-array>
     <string-array name="quick_settings_status_weather">
@@ -40,15 +40,15 @@
         <item>Lietus</item>
         <item>Stiprs lietus</item>
         <item>Lietusgāze</item>
-        <item>Stipra lietusgāze</item>
+        <item>Stipra lietusgāzes</item>
         <item>Lietus gāziens</item>
         <item>Sniega duša</item>
         <item>Neliels sniegs</item>
         <item>Mērens sniegs</item>
-        <item>Spēcīga snigšana</item>
+        <item>Spēcīgs sniegs</item>
         <item>Putenis</item>
         <item>Migla</item>
-        <item>Salstošs lietus</item>
+        <item>Sasalstošs lietus</item>
         <item>Smilšu vētra</item>
         <item>Neliels vai mērens lietus</item>
         <item>Mērens līdz stiprs lietus</item>
@@ -64,85 +64,85 @@
         <item>Bieza migla</item>
         <item>Sniegs</item>
         <item>Lietus</item>
-        <item>Strong fog</item>
-        <item>Haze</item>
-        <item>Moderate haze</item>
-        <item>Heavy haze</item>
-        <item>Severe haze</item>
-        <item>Dense fog</item>
-        <item>Extremely dense fog</item>
-        <item>No data</item>
+        <item>Spēcīga migla</item>
+        <item>Migla</item>
+        <item>Mērena migla</item>
+        <item>Smaga migla</item>
+        <item>Smaga migla</item>
+        <item>Blīva migla</item>
+        <item>Ļoti blīva migla</item>
+        <item>Nav datu</item>
     </string-array>
     <string-array name="sport_data_item_array">
         <item></item>
-        <item>Time</item>
+        <item>Laiks</item>
         <item>Attālums</item>
         <item>Temps</item>
-        <item>Vid. Temps</item>
+        <item>Vid. temps</item>
         <item>Pulss</item>
         <item>Kalorijas</item>
         <item>Augstums</item>
-        <item>Elev gain</item>
-        <item>Elev loss</item>
+        <item>Augst. pieaugums</item>
+        <item>Augst. kritums</item>
         <item>Ātrums</item>
-        <item>Avg speed</item>
-        <item>Cadence</item>
-        <item>Dist gain</item>
-        <item>Steps</item>
-        <item>Cadence</item>
-        <item>Laps</item>
+        <item>Vid. ātrums</item>
+        <item>Kadence</item>
+        <item>Attāluma pieaugums</item>
+        <item>Soļi</item>
+        <item>Kadence</item>
+        <item>Apļi</item>
         <item>DPS</item>
-        <item>Stroke rate</item>
-        <item>Avg SPM</item>
+        <item>Mājienu biežums</item>
+        <item>Vid. SPM</item>
         <item>Temps</item>
-        <item>Vid. Temps</item>
+        <item>Vid. temps</item>
         <item>Attālums</item>
         <item>TE</item>
-        <item>Vert speed</item>
-        <item>Avg speed</item>
-        <item>Max speed</item>
-        <item>Laps</item>
-        <item>Downhill</item>
-        <item>Total downhill</item>
-        <item>Descent</item>
-        <item>Strokes</item>
-        <item>Lap time</item>
-        <item>Lap pace</item>
-        <item>Lap speed</item>
-        <item>Lap HR</item>
-        <item>Lap cadence</item>
-        <item>Lap pace</item>
-        <item>Current freq</item>
-        <item>Total count</item>
-        <item>Avg freq</item>
-        <item>Groups</item>
-        <item>Lap count</item>
-        <item>Lap time</item>
-        <item>Lap freq</item>
-        <item>Lap time</item>
-        <item>Lap dist.</item>
-        <item>Lap pace</item>
-        <item>Speed for this lap</item>
-        <item>Heart rate in this lap</item>
-        <item>Lap freq.</item>
-        <item>slope</item>
+        <item>Vertikāls ātrums</item>
+        <item>Vidējais ātrums</item>
+        <item>Maksimālais ātrums</item>
+        <item>Apļi</item>
+        <item>Lejup</item>
+        <item>Kopējais lejupceļš</item>
+        <item>Nolaišanās</item>
+        <item>Mājieni</item>
+        <item>Apļa laiks</item>
+        <item>Apļa temps</item>
+        <item>Apļa ātrums</item>
+        <item>Apļa pulss</item>
+        <item>Apļa ritms</item>
+        <item>Apļa temps</item>
+        <item>Biežums</item>
+        <item>Kopējais skaits</item>
+        <item>Vid. biežums</item>
+        <item>Grupas</item>
+        <item>Apļu skaits</item>
+        <item>Apļa laiks</item>
+        <item>Apļa biežums</item>
+        <item>Apļa laiks</item>
+        <item>Apļa attālums</item>
+        <item>Apļa temps</item>
+        <item>Šī apļa ātrums</item>
+        <item>Pulss šajā aplī</item>
+        <item>Atkārtotā apļa ātrums</item>
+        <item>Slīpums</item>
         <item>Kalorijas</item>
-        <item>Avg. HR</item>
-        <item>Paddles of this set</item>
-        <item>Frequency</item>
-        <item>Total paddles</item>
-        <item>Paddle frequency</item>
-        <item>Pulling duration</item>
-        <item>Pushing duration</item>
-        <item>Avg. Freq.</item>
+        <item>Vid. Pulss</item>
+        <item>Piegājiena airējumi</item>
+        <item>Vid. airēšanas biežums</item>
+        <item>Airējumi kopā</item>
+        <item>Airēšanas biežums</item>
+        <item>Vilkšanas uzdevums</item>
+        <item>Atspiešanās</item>
+        <item>Vid. Biežums</item>
     </string-array>
     <string-array name="sport_train_item">
-        <item>Remaining distance</item>
-        <item>Total distance</item>
-        <item>Total time</item>
-        <item>Remaining time</item>
+        <item>Atlikušais attālums</item>
+        <item>Kopējais attālums</item>
+        <item>Kopējais laiks</item>
+        <item>Atlikušais laiks</item>
         <item>Attālums</item>
-        <item>Remaining</item>
-        <item>Has rested</item>
+        <item>Atlicis</item>
+        <item>Atpūties</item>
     </string-array>
 </resources>
