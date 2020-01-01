@@ -242,7 +242,7 @@
     <string name="ring_vibration">Vibración de llamada</string>
     <string name="natification_vibration">Vibración de notificación</string>
     <string name="alarm_vibration">Vibración de alarma</string>
-    <string name="timing_reminder_ring">Alarm sound</string>
+    <string name="timing_reminder_ring">Tono de alarma</string>
     <string name="navigation_combination">Servicios de localización</string>
     <string name="reboot_to_mcu">Reiniciar en modo Ultra (MCU)</string>
     <string name="everest2_copy_mcu_res">Copiar biblioteca de fuente</string>
@@ -305,10 +305,10 @@
     <string name="mijia">MI Home</string>
     <string name="zhinanzhen">Brújula</string>
     <string name="yinyue">Música</string>
-    <string name="music_status_long_time_no_play">"You haven\'t played music for a long time. 
- The system has been disconnected from the headsets 
- to reduce power consumption. You can:"</string>
-    <string name="ble_connet_phone">Connect the headsets</string>
+    <string name="music_status_long_time_no_play">"No has reproducido música durante mucho tiempo. 
+ El reloj ha sido desconectado de los auriculares 
+ para reducir el consumo de energía. Puedes:"</string>
+    <string name="ble_connet_phone">Conectar los auriculares</string>
     <string name="ble_connet_cancel">Cancelar</string>
     <string name="report_bug_dialog_title">Comentarios</string>
     <string name="report_bug_dialog_desc">Después de un reloj tiene errores de datos, condiciones anormales, etc., puede cargar datos en nuestro servidor a través de la función de retroalimentación de preguntas para su análisis por parte de nuestro personal de postventa. Durante este proceso, los registros generados previamente en el reloj se recopilarán y cargarán automáticamente. Estos registros se usan solo para el análisis de problemas y no se usarán como otros medios y se destruirán inmediatamente después del análisis. Todo el proceso cumplirá con nuestra política de privacidad. Para más detalles, consulte la política de privacidad en la aplicación Amazfit Watch.</string>
@@ -439,27 +439,27 @@ Nacim."</string>
     <string name="weight_unit">"Peso 
 kg"</string>
     <string name="reset_factory_hint">¿Resetear dispositivo?</string>
-    <string name="reset_factory_hint_cn">"Once the watch is reset to factory default settings, all data in the watch will be deleted, and the watch will be disconnected from your mobile. 
- The current activated transportation card can still be used after the watch is bound with your mobile again."</string>
+    <string name="reset_factory_hint_cn">"Una vez que el reloj se restablezca a la configuración predeterminada de fábrica, se eliminarán todos los datos del reloj, y el reloj se desconectará de tu móvil. 
+ La tarjeta de transporte activada actual puede ser usada después de que el reloj esté conectado de nuevo a tu móvil."</string>
     <string name="reset_factory_yes">Borrar</string>
     <string name="reset_factory_no">Cancelar</string>
     <string name="reset_factory_title">Resetear Reloj</string>
-    <string name="reset_factory_noconnect_msg">"If Needing to Unbind the Watch, Please Operate Through Amazfit App. 
- Watch’s Unilateral Factory Reset Will Remove UnionPay Card and Transportation Card. 
- A Removed UnionPay Card: It Can No Longer Be Bound to The Watch. If You Need to Bind Again, Please Consult the Bank Customer Service. 
- A Removed Transportation Card: Will Be Destroyed Permanently and Cannot Be Paid Again."</string>
-    <string name="reset_factory_conncet_msg">Watch and Amazfit App will Remove the Bound UnionPay Card. The Watch will Retain the Payment Function of the Transportation Card.</string>
+    <string name="reset_factory_noconnect_msg">"Si es necesario desvincular la valla, por favor opere a través de la aplicación Amazfit. 
+ El restablecimiento unilateral de la fábrica de Watch eliminará la tarjeta UnionPay y la tarjeta de transporte. 
+ Una Tarjeta UnionPay Eliminada: No se puede vincular más a la Watch. Si usted necesita vincular de nuevo, por favor consulte el Servicio al Cliente del Banco. 
+ Tarjeta de Transporte Eliminada: Se Destruirá Permanentemente y No Se Puede Pagar Comienzo."</string>
+    <string name="reset_factory_conncet_msg">El reloj y la aplicación Amazfit eliminarán la tarjeta UnionPay vinculada. El reloj conservará la función de pago de la tarjeta de transporte.</string>
     <string name="reset_factory_positive">Resetear Reloj</string>
     <string name="reset_factory_negative">Cancelar</string>
-    <string name="reset_factory_fail_title">Unsuccessful Factory Reset</string>
+    <string name="reset_factory_fail_title">Reset de Fábrica no realizado</string>
     <string name="reset_factory_fail_msg">If the UnionPay Card Is Not Successfully Removed, Please Try Again.</string>
     <string name="reset_factory_fail_positive">Ok</string>
-    <string name="reset_factory_doing1">Factory Reset Is Being Made</string>
+    <string name="reset_factory_doing1">Realizando Reset de Fábrica</string>
     <string name="reset_factory_doing2">UnionPay Card Is Being Removed</string>
     <string name="reset_factory_bank_title">Please Remove the UnionPay Card at First</string>
-    <string name="reset_factory_bank_msg">"If Reset the Watch without Removing the UnionPay Card, It will Cause the UnionPay Card: 
- 1. Cannot be Removed from the Watch, Occupying Chip Space;  2. Cannot Use the Payment Function in the Watch;  3. Cannot Be Bound by Other Devices; For Payment Security, Please First Remove the UnionPay Card from Amazfit App."</string>
-    <string name="reset_factory_bank_yes">Continue Factory Reset</string>
+    <string name="reset_factory_bank_msg">"Si se reinicia el reloj sin eliminar la Tarjeta UnionPay, se Causará la Tarjeta UnionPay. 
+ 1. No se puede quitar del espacio de vigilancia, ocupando el espacio de fichas; 2. No se puede usar la función de pago en la Watch; 3. No se puede vincular con otros dispositivos; para la seguridad de pago, por favor, quite primero la tarjeta UnionPay de la aplicación button."</string>
+    <string name="reset_factory_bank_yes">Continuar con el Reset de Fábrica</string>
     <string name="reset_factory_bank_no">Cancelar</string>
     <string name="reset_factory_bank_msg_again">"Once the watch is reset to factory default settings, all data in the watch will be deleted, and the watch will be disconnected from your mobile. 
  The current activated transportation card can still be used after the watch is bound with your mobile again."</string>
@@ -488,8 +488,8 @@ kg"</string>
     <string name="lockpattern_cancel">Gesture Password</string>
     <string name="lockpattern_change">Change Password</string>
     <string name="lockpattern_change_state">Change Watch Status</string>
-    <string name="lockpattern_exist">Turned on</string>
-    <string name="lockpattern_exist_no">Turned Off</string>
+    <string name="lockpattern_exist">Encendido</string>
+    <string name="lockpattern_exist_no">Apagado</string>
     <string name="unlock_disable_lock_pattern_summary">Delete Unlocking Pattern</string>
     <string name="unlock_disable_frp_warning_content">The Device Protection Function Will No Longer Function.</string>
     <string name="okay">Confirmar</string>
