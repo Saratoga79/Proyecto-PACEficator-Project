@@ -22,8 +22,8 @@
         <item>[clazz]com.huami.watch.wearlogger.AllLogActivityLab</item>
     </string-array>
     <string-array name="lab_item_selftest">
-        <item>[prim]selftest</item>
-        <item>[sum]start selftest by yourself</item>
+        <item>[prim]Prueba</item>
+        <item>[sum]Iniciar una prueba</item>
         <item>[action]com.huami.watch.selftest.START</item>
     </string-array>
     <string-array name="lab_item_open_applist">
@@ -59,13 +59,13 @@
         <item>[sid]pointer_location</item>
     </string-array>
     <string-array name="lab_item_open_show_model">
-        <item>[prim]Demo Mode</item>
+        <item>[prim]Modo demo</item>
         <item>[sum]on/off</item>
-        <item>[sid]show_model</item>
+        <item>[sid]mostrar_modelo</item>
     </string-array>
     <string-array name="lab_item_update_mcu_resource">
-        <item>[prim]Update MCU Resources</item>
-        <item>[sum]Press to update</item>
+        <item>[prim]Actualizar recursos MCU</item>
+        <item>[sum]Pulsa para actualizar</item>
         <item>[sid]update_mcu</item>
     </string-array>
     <string-array name="time_zone_ids">
@@ -202,8 +202,8 @@
         <item>+3 Nairobi</item>
         <item>+3:30 Tehran</item>
         <item>+4 Baku</item>
+        <item>+4 Baku</item>
         <item>+4 Tbilisi</item>
-        <item>+4 Yerevan</item>
         <item>+4 Dubai</item>
         <item>+4:30 Kabul</item>
         <item>+5 Karachi</item>
