@@ -239,10 +239,10 @@
     <string name="cal_when">Кога</string>
     <string name="cal_notes">Бележки</string>
     <string name="cal_who">Кого</string>
-    <string name="cal_status_accepted">Going</string>
+    <string name="cal_status_accepted">Текущ</string>
     <string name="cal_status_declined">Declined</string>
     <string name="cal_status_invited">No response</string>
-    <string name="cal_status_tentative">Maybe</string>
+    <string name="cal_status_tentative">Може би</string>
     <string name="cal_min">min</string>
     <string name="cal_plus_x_more">+ %s more</string>
     <string name="cal_email_subject">[Update] %s</string>
@@ -263,7 +263,7 @@
 %s
 "</string>
     <string name="troubleshoot_help_url">g.co/AWhelp</string>
-    <string name="retry_action">Retry</string>
+    <string name="retry_action">Опитай пак</string>
     <string name="restart_action">Restart</string>
     <string name="reset_action">Reset device</string>
     <string name="arrive_title">Arrive</string>
@@ -286,7 +286,7 @@
     <string name="open_on_phone">Open on phone</string>
     <string name="title_mute_app">Block app</string>
     <string name="mute_app_confirmation">Never show cards from this app</string>
-    <string name="reply">Reply</string>
+    <string name="reply">Отговори</string>
     <string name="dismissing">Dismissing...</string>
     <string name="cue_menu_take_a_note">Take a note</string>
     <string name="cue_menu_take_a_note_help">drink more water</string>
@@ -307,7 +307,7 @@
     <string name="cue_menu_navigate_help">to a gas station nearby</string>
     <string name="cue_menu_hangout">Hangout</string>
     <string name="cue_menu_hangout_help">with Gus and say hello</string>
-    <string name="cue_menu_email">Email</string>
+    <string name="cue_menu_email">Имейл</string>
     <string name="cue_menu_email_help_male1">Jim, you free on Friday?</string>
     <string name="cue_menu_email_help_fmale1">Eve, you free on Friday?</string>
     <string name="cue_menu_play">Play music</string>
@@ -343,7 +343,7 @@
     <string name="voice_action_call">Обаждане</string>
     <string name="voice_action_setting">Setting…</string>
     <string name="voice_action_set">Задай</string>
-    <string name="voice_action_email_title">Email</string>
+    <string name="voice_action_email_title">Имейл</string>
     <string name="voice_action_navigate_title_mode_unknown">Navigate</string>
     <string name="voice_action_navigate_title_mode_bike">Navigate (bicycle)</string>
     <string name="voice_action_navigate_title_mode_drive">Navigate (driving)</string>
@@ -355,8 +355,8 @@
     <string name="voice_action_note_title">Бележка</string>
     <string name="voice_action_call_title">Обаждане</string>
     <string name="voice_action_set_reminder_title">Set reminder</string>
-    <string name="voice_action_alarm_title">Alarm</string>
-    <string name="voice_action_timer_title">Timer</string>
+    <string name="voice_action_alarm_title">Аларма</string>
+    <string name="voice_action_timer_title">Таймер</string>
     <string name="voice_action_sms_title">SMS</string>
     <string name="voice_action_remote_app_title">Open app</string>
     <string name="voice_action_play_music_title">Play music on phone</string>
@@ -365,16 +365,16 @@
     <string name="voice_action_field_message">Message</string>
     <string name="voice_action_field_to">До</string>
     <string name="voice_action_field_when">Кога</string>
-    <string name="voice_action_field_label">Label</string>
+    <string name="voice_action_field_label">Надпис</string>
     <string name="voice_action_field_duration">Duration</string>
     <string name="voice_action_field_reminder">Reminder</string>
     <string name="voice_action_field_ask_what">About what?</string>
-    <string name="voice_action_field_ask_when">When?</string>
+    <string name="voice_action_field_ask_when">Кога?</string>
     <string name="voice_action_field_ask_to_whom">To whom?</string>
     <string name="voice_action_field_ask_which_one">Which one?</string>
     <string name="voice_action_field_ask_message">Message?</string>
     <string name="voice_action_field_no_match">"Didn't catch that"</string>
-    <string name="voice_action_field_ask_note">Note?</string>
+    <string name="voice_action_field_ask_note">Бележка?</string>
     <string name="note_creation_success">Note created</string>
     <string name="voice_action_done">Готово</string>
     <string name="voice_action_go_to_phone">Go to phone</string>
