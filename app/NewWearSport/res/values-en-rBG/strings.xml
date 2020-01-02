@@ -413,9 +413,9 @@
     <string name="setting_not_remind">Not remind</string>
     <string name="setting_reserve_heart_region_1">Zone 1</string>
     <string name="setting_reserve_heart_region_2">Zone 2</string>
-    <string name="setting_reserve_heart_region_3">Zone 3</string>
-    <string name="setting_reserve_heart_region_4">Zone 4</string>
-    <string name="setting_reserve_heart_region_5">Zone 5</string>
+    <string name="setting_reserve_heart_region_3">Зона 3</string>
+    <string name="setting_reserve_heart_region_4">Зона 4</string>
+    <string name="setting_reserve_heart_region_5">Зона 5</string>
     <string name="history_walk_exchange_title">Transition to Swimming</string>
     <string name="virtual_rabbit_title">Virtual rabbit</string>
     <string name="virtual_rabbit_backward_distance">Lag distance</string>
@@ -465,7 +465,7 @@
     <string name="sport_ability_up">Sport ability up</string>
     <string name="sport_ability_down">Sport ability down</string>
     <string name="time_unit_hour">Час</string>
-    <string name="train_load_medium">Medium</string>
+    <string name="train_load_medium">Средно</string>
     <string name="train_load_near_seven_days">Near seven days</string>
     <string name="train_load_suggess_status_no_record">"Please use the watch for a week first.
  We will evaluate your training load for 7 days"</string>
@@ -487,7 +487,7 @@
     <string name="sport_target_remind_status_count"></string>
     <string name="sport_target_remind_title_01">3.5TE|30-25 minutes |5 km</string>
     <string name="sport_target_remind_title_01_normal">%1$sTE|%2$s minutes |%3$s km</string>
-    <string name="sport_target_remind_time_min">Minute</string>
+    <string name="sport_target_remind_time_min">Минута</string>
     <string name="sport_tartget_tips">Current target: %1$s</string>
     <string name="sport_target_remind_desc_01">The watch will recommend the best method of training for you by combining your past performance.</string>
     <string name="sport_te_desc_level_01">This training has no effect on improving aerobic capacity.</string>
@@ -540,12 +540,12 @@
     <string name="gpx_alreay_offset">Deviate</string>
     <string name="gpx_no_find_route">No trace available</string>
     <string name="gpx_no_route_guide">"Please connect your watch to the computer and copy the GPX file to the 'gpxdata' folder and try again"</string>
-    <string name="bpm_to">bpm To</string>
+    <string name="bpm_to">bpm За</string>
     <string name="indoor_run_progressing">Running</string>
     <string name="run_train_title">Running Train</string>
     <string name="run_train_recommend">Recommended</string>
     <string name="run_train_intermittent">Interval</string>
-    <string name="run_train_intermittent_select_train">Select</string>
+    <string name="run_train_intermittent_select_train">Избери</string>
     <string name="music_title">Музика</string>
     <string name="music_local_title">Sports music</string>
     <string name="music_no_resource">No songs to play</string>
@@ -557,7 +557,7 @@
     <string name="music_not_known">Unknown</string>
     <string name="music_update_content">Song update</string>
     <string name="music_update_tips_content">Watercress FM updates songs regularly. Updating songs will replace the music library. Update now?</string>
-    <string name="music_pause">Paused</string>
+    <string name="music_pause">На пауза</string>
     <string name="music_fm_title">Watercress FM</string>
     <string name="music_fm_notification_content">The Sports FM has some new playlists, go and download it!</string>
     <string name="music_down_not_complete_title">The song list has not been fully downloaded, exit?</string>
@@ -667,7 +667,7 @@
     <string name="swim_total_trips_times">Total Trips : %1$s Times</string>
     <string name="route_glevation_gain">Elev. Gain</string>
     <string name="route_scale_enlarge">Увеличи</string>
-    <string name="route_scale_narrow">Narrow</string>
+    <string name="route_scale_narrow">Стесняване</string>
     <string name="route_cur_altitude_value">%1dm</string>
     <string name="route_cur_altitude_value_imperial">%1dft</string>
     <string name="route_climb_up_value">%1dm</string>
@@ -701,7 +701,7 @@
     <string name="sport_data_info_te_unit">TE</string>
     <string name="crossing_vertical_speed">Vertical Speed</string>
     <string name="skiing_downhill_max_speed">MAX Speed</string>
-    <string name="skiing_downhill_num">Run(s)</string>
+    <string name="skiing_downhill_num">Бягане(та)</string>
     <string name="skiing_downhill_single_descend">Distance</string>
     <string name="skiing_rt_downhill_desecnd">Total Distance</string>
     <string name="skiing_downhill_elev_loss">Спускане</string>
@@ -711,17 +711,17 @@
     <string name="last_lap_speed">Lap speed</string>
     <string name="last_lap_hr">Lap heart rate</string>
     <string name="last_lap_stepfreq">Lap cadence</string>
-    <string name="sport_widget_title">Sports</string>
+    <string name="sport_widget_title">Спорт</string>
     <string name="sport_widget_title_run">Старт</string>
     <string name="sport_widget_title_walk">Ходене</string>
     <string name="sport_widget_title_cross">Trail Run</string>
     <string name="sport_widget_title_indoor_run">Run Indoor</string>
     <string name="sport_widget_title_record">Activities</string>
-    <string name="sport_widget_title_achieve">Badges</string>
+    <string name="sport_widget_title_achieve">Значки</string>
     <string name="sport_widget_title_setting">Settings</string>
     <string name="sport_widget_title_music">Музика</string>
     <string name="sport_widget_title_interval_run">Interval</string>
-    <string name="sport_app_name">Sports</string>
+    <string name="sport_app_name">Спортове</string>
     <string name="sport_item_running_title">Старт</string>
     <string name="sport_item_walking_title">Ходене</string>
     <string name="title_activity_main">MainActivity</string>
@@ -732,11 +732,11 @@
     <string name="title_sport_control_walking">Ходене</string>
     <string name="sport_start">Старт</string>
     <string name="sport_pause">Пауза</string>
-    <string name="sport_continue">Resume</string>
+    <string name="sport_continue">Възобнови</string>
     <string name="sport_stop">Стоп</string>
     <string name="sport_notification_view_detail">Open Sports</string>
     <string name="sport_notification_stop">End the exercise</string>
-    <string name="sport_notification_title">Sports</string>
+    <string name="sport_notification_title">Спортове</string>
     <string name="sport_notification_content">%s mile</string>
     <string name="title_activity_running">RunningActivity</string>
     <string name="running_kilometers">km</string>
@@ -752,10 +752,10 @@
     <string name="running_stop_dialog_msg_reach_minimum_distance">Stop this activity?</string>
     <string name="running_stop_dialog_msg_not_reach_minimum_distance">The distance is too short to save. Are you sure to stop?</string>
     <string name="running_stop_dialog_positive_text">Стоп</string>
-    <string name="running_stop_dialog_negative_text">Cancel</string>
+    <string name="running_stop_dialog_negative_text">Отказ</string>
     <string name="default_double_value">0,00</string>
     <string name="running_control_title">Старт</string>
-    <string name="running_control_paused_des">Paused</string>
+    <string name="running_control_paused_des">На пауза</string>
     <string name="default_time_value">00:00:00</string>
     <string name="default_int_value">0</string>
     <string name="default_heartrate_value">0</string>
@@ -825,7 +825,7 @@
     <string name="remind_pace_too_low">Pace is too slow</string>
     <string name="remind_pace_too_fast">Pace is too fast</string>
     <string name="remind_pace_current">Текущ</string>
-    <string name="remind_pace_target">Target</string>
+    <string name="remind_pace_target">Цел</string>
     <string name="remind_pace_pace_unit">/mi</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="time_picker_hour">h</string>
@@ -853,7 +853,7 @@
     <string name="running_button_stop">Стоп</string>
     <string name="running_button_save">Запази</string>
     <string name="running_button_pause">Пауза</string>
-    <string name="running_button_continue">Resume</string>
+    <string name="running_button_continue">Възобнови</string>
     <string name="title_activity_test">TestActivity</string>
     <string name="count_down_one">1</string>
     <string name="count_down_two">2</string>
@@ -878,7 +878,7 @@
     <string name="lock_screen">Screen locked</string>
     <string name="txt_unlock_screen">Please press and hold the screen to unlock</string>
     <string name="sport_screen_un_lock">Unlocked</string>
-    <string name="lock_status_locked">Locked</string>
+    <string name="lock_status_locked">Заключен</string>
     <string name="lock_status_unlock_ing">Unlocking...</string>
     <string name="lock_status_unlock_fail">Unlocking failed</string>
     <string name="lock_status_unlock_success">Unlocking succeeded</string>
@@ -898,7 +898,7 @@
     <string name="settings_sport_four_data">4 Data Fields</string>
     <string name="settings_sport_six_data">6 Data Fields</string>
     <string name="not_save_sport_summary">Отхвърли</string>
-    <string name="delete_sport_summary">Delete</string>
+    <string name="delete_sport_summary">Изтрий</string>
     <string name="give_up_sport_record">Отхвърли</string>
     <string name="give_up_sport_record_tips">Отхвърли тази активност?</string>
     <string name="delete_sport_summary_tips">Delete this activity?</string>
@@ -918,7 +918,7 @@
     <string name="setting_sport_heart_region_text_fat_burning">FatBurning</string>
     <string name="setting_sport_heart_region_text_aerobic">Аеробика</string>
     <string name="setting_sport_heart_region_text_high＿intensity_exercise">High Intensity Exercise</string>
-    <string name="setting_sport_heart_region_text_custom">Custom</string>
+    <string name="setting_sport_heart_region_text_custom">Потребителски</string>
     <string name="remind_heart_rate_region_over">Heart rate is too high</string>
     <string name="remind_heart_rate_region_less">Heart rate is too low</string>
     <string name="remind_heart_rate_current_heart_rate">Current　%1$d bpm</string>
