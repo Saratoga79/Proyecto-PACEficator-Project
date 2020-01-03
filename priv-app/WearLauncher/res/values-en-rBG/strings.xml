@@ -31,7 +31,7 @@
     <string name="quick_settings_switch_always">Always On</string>
     <string name="quick_settings_switch_on">ВКЛ</string>
     <string name="quick_settings_switch_off">ИЗКЛ</string>
-    <string name="quick_settings_toast_on">Enabled</string>
+    <string name="quick_settings_toast_on">Разрешено</string>
     <string name="quick_settings_toast_off">Disabled</string>
     <string name="quick_settings_status">Disconnected</string>
     <string name="quick_settings_no_disturb_toast">Notification will not be shown</string>
@@ -139,7 +139,7 @@
     <string name="notification_fireworks_content">祝大家万事如意！</string>
     <string name="store_picture_title">Save image</string>
     <string name="store_picture_message">Allow Ad to store image in Picture gallery?</string>
-    <string name="decline">Decline</string>
+    <string name="decline">Откажи</string>
     <string name="create_calendar_title">Create calendar event</string>
     <string name="create_calendar_message">Allow Ad to create a calendar event?</string>
     <string name="common_google_play_services_notification_ticker">Google Play services error</string>
@@ -167,7 +167,7 @@
     <string name="common_google_play_services_unsupported_title">Google Play services</string>
     <string name="common_google_play_services_unsupported_text">Google Play services, which some of your applications rely on, is not supported by your device. Please contact the manufacturer for assistance.</string>
     <string name="common_google_play_services_update_button">Актуализация</string>
-    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text">Вписване</string>
     <string name="common_signin_button_text_long">Sign in with Google</string>
     <string name="pre_release_do_not_ship">истина</string>
     <string name="common_open_on_phone">Open on phone</string>
@@ -227,7 +227,7 @@
     <string name="cal_event_happening_now">Сега</string>
     <string name="cal_event_title">%1$s %2$s</string>
     <string name="cal_event_begin_end_time">%1$s - %2$s</string>
-    <string name="cal_all_day">All day</string>
+    <string name="cal_all_day">Цял ден</string>
     <string name="cal_all_day_line_break">"Цял
 ден"</string>
     <string name="cal_multi_day_line_break">"Мулти
@@ -252,7 +252,7 @@
     <string name="cal_dummy_count_down">60</string>
     <string name="checking_for_updates">Checking for updates…</string>
     <string name="just_a_sec">Just a minute…</string>
-    <string name="paired">Paired!</string>
+    <string name="paired">Свързано!</string>
     <string name="tutorial_activity_text">You can also swipe to dismiss when in an app</string>
     <string name="troubleshoot_somethings_wrong">"Can't connect to the Internet. Swipe for some tips."</string>
     <string name="troubleshoot_somethings_wrong_paired">"Can't connect to the Android Wear app on your phone. Swipe for some tips."</string>
@@ -264,7 +264,7 @@
 "</string>
     <string name="troubleshoot_help_url">g.co/AWhelp</string>
     <string name="retry_action">Опитай пак</string>
-    <string name="restart_action">Restart</string>
+    <string name="restart_action">Рестарт</string>
     <string name="reset_action">Reset device</string>
     <string name="arrive_title">Пристигане</string>
     <string name="depart_title">Тръгване</string>
@@ -331,7 +331,7 @@
     <string name="cue_launch_error">"Sorry, Google can't do that right now."</string>
     <string name="voice_action_edit">Промени</string>
     <string name="voice_action_save">Запази</string>
-    <string name="voice_action_saving">Saving…</string>
+    <string name="voice_action_saving">Запазване…</string>
     <string name="voice_action_navigate">Navigate</string>
     <string name="voice_action_navigating">Navigating…</string>
     <string name="voice_action_open">Отвори</string>
@@ -350,8 +350,8 @@
     <string name="voice_action_navigate_title_mode_public_transportation">Navigate (public transportation)</string>
     <string name="voice_action_navigate_title_mode_walk">Navigate (walking)</string>
     <string name="voice_action_navigate_mode_bike">Bicycling</string>
-    <string name="voice_action_navigate_mode_drive">Driving</string>
-    <string name="voice_action_navigate_mode_walk">Walking</string>
+    <string name="voice_action_navigate_mode_drive">Шофиране</string>
+    <string name="voice_action_navigate_mode_walk">Ходене</string>
     <string name="voice_action_note_title">Бележка</string>
     <string name="voice_action_call_title">Обаждане</string>
     <string name="voice_action_set_reminder_title">Set reminder</string>
@@ -361,8 +361,8 @@
     <string name="voice_action_remote_app_title">Open app</string>
     <string name="voice_action_play_music_title">Play music on phone</string>
     <string name="voice_action_field_destination_description">Destination</string>
-    <string name="voice_action_field_destination_address">Address</string>
-    <string name="voice_action_field_message">Message</string>
+    <string name="voice_action_field_destination_address">Aдрес</string>
+    <string name="voice_action_field_message">Съобщение</string>
     <string name="voice_action_field_to">До</string>
     <string name="voice_action_field_when">Кога</string>
     <string name="voice_action_field_label">Надпис</string>
@@ -395,8 +395,8 @@
     <string name="voice_action_reminder_field">Reminder?</string>
     <string name="alarm_setting_success">Alarm created</string>
     <string name="timer_setting_success">Timer started</string>
-    <string name="reminder_at_home">At home</string>
-    <string name="reminder_at_work">At work</string>
+    <string name="reminder_at_home">У дома</string>
+    <string name="reminder_at_work">На работа</string>
     <string name="disambiguation_app_to_complete">Complete action using</string>
     <string name="sent_via_voice">Sent via voice</string>
     <string name="speak_now">Speak now</string>
@@ -442,7 +442,7 @@
     <string name="stock_last_update" formatted="false">Updated: %s - %s</string>
     <string name="local_closed">Затворен</string>
     <string name="monday">Понеделник</string>
-    <string name="tuesday">Tuesday</string>
+    <string name="tuesday">Вторник</string>
     <string name="wednesday">Wednesday</string>
     <string name="thursday">Thursday</string>
     <string name="friday">Петък</string>
@@ -639,7 +639,7 @@
     <string name="weather_warning_sandstorm">Sandstorm</string>
     <string name="weather_warning_temperature">High temperature</string>
     <string name="weather_warning_drought">Drought</string>
-    <string name="weather_warning_thunder">Thunder</string>
+    <string name="weather_warning_thunder">Гръмотевична буря</string>
     <string name="weather_warning_hail">Градушка</string>
     <string name="weather_warning_frost">Мраз</string>
     <string name="weather_warning_fog">Heavy fog</string>
@@ -653,7 +653,7 @@
     <string name="air_moderate_polluted">Moderate pollution</string>
     <string name="air_heavily_polluted">Heavy Pollution</string>
     <string name="air_severely_polluted">Severe Pollution</string>
-    <string name="no_outdoor_info">No data</string>
+    <string name="no_outdoor_info">Няма данни</string>
     <string name="outdoor_info_notsuit">Not suitable for outdoor sports</string>
     <string name="outdoor_info_suit">Suitable for exercise</string>
     <string name="wind_strength">Wind power</string>
