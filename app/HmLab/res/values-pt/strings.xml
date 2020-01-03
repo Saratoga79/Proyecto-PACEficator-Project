@@ -5,21 +5,21 @@
     <string name="main_title">Huami lab</string>
     <string name="agreement_title">PPG capturing</string>
     <string name="orig_data_collect">Activity data collection</string>
-    <string name="message">"Coletaremos dados PPG brutos quando você usar o relógio.
-Os dados serão usados apenas para propósitos de pesquisa.
-Este recurso pode impactar na bateria de forma adversa."</string>
+    <string name="message">"Coletaremos dados brutos do PPG quando você usar o relógio.
+Os dados serão usados apenas para fins de pesquisa.
+Esse recurso afetará negativamente a vida útil da bateria."</string>
     <string name="allow">Allow</string>
     <string name="exit">Sair</string>
     <string name="message_everest">"We'll collect raw PPG data when you wear the watch. The data will only be used for research purposes. This feature will adversely impact the battery life."</string>
-    <string name="heart_rate_collection_on">Ligado</string>
-    <string name="heart_rate_collection_off">Desligado</string>
-    <string name="hbeacon_on">Ligado</string>
+    <string name="heart_rate_collection_on">On</string>
+    <string name="heart_rate_collection_off">Off</string>
+    <string name="hbeacon_on">On</string>
     <string name="hbeacon_off">Off</string>
     <string name="hbeacon_on_confirm_message">Tap to turn the HBeacon feature on, so the watch battery may be slightly reduced, and you may need to pair your phone with the watch again after it reboots.</string>
     <string name="hbeacon_off_confirm_message">Tap to turn off the HBeacon feature, and you may need to pair your phone with the watch again after it reboots.</string>
     <string name="saving_data">Saving data</string>
     <string name="upload_data">Upload data</string>
-    <string name="upload_success">Concluído</string>
+    <string name="upload_success">Done</string>
     <string name="upload_failed">"Couldn't upload. Try again."</string>
     <string name="air_mode_alert_title">"Couldn't connect"</string>
     <string name="air_mode_alert_message">Turn off Airplane mode then try again.</string>
@@ -36,7 +36,7 @@ Este recurso pode impactar na bateria de forma adversa."</string>
     <string name="outdoor_riding">Outdoor cycling</string>
     <string name="indoor_riding">Indoor cycling</string>
     <string name="cross_contry">Trail run</string>
-    <string name="eppitical">Elíptico</string>
+    <string name="eppitical">Elliptical</string>
     <string name="indoor_swimming">Natação em Piscina</string>
     <string name="outdoor_swimming">Open water</string>
     <string name="triathlon">Triathlon</string>
@@ -46,7 +46,7 @@ Este recurso pode impactar na bateria de forma adversa."</string>
     <string name="skiing">Skiing</string>
     <string name="tennis">Tennis</string>
     <string name="soccer">Soccer</string>
-    <string name="golf">Golfe</string>
+    <string name="golf">Golf</string>
     <string name="complex_sport">Multisport</string>
     <string name="rope_skipping">Jump rope</string>
     <string name="on_foot">A pé</string>
@@ -60,8 +60,8 @@ Este recurso pode impactar na bateria de forma adversa."</string>
     <string name="mileage">Distancia</string>
     <string name="rope_skip_freq">Frequência</string>
     <string name="row_stroke_freq">Frequência</string>
-    <string name="sport_has_paused">Em pausa</string>
-    <string name="sport_paused_time">Em pausa</string>
+    <string name="sport_has_paused">Paused</string>
+    <string name="sport_paused_time">Paused</string>
     <string name="sport_distance">Distancia</string>
     <string name="sport_mileage">Distancia</string>
     <string name="sport_downhill_total_distance">Total downhill</string>
@@ -143,21 +143,21 @@ Este recurso pode impactar na bateria de forma adversa."</string>
 \"</string>
     <string name="music">Música</string>
     <string name="press_long_power_key_wake_up">Press a physical button to exit</string>
-    <string name="sport_auto_pause_end">Sessão encerrada, salvar os dados?</string>
+    <string name="sport_auto_pause_end">Session ended, save the data?</string>
     <string name="sport_slpt_stop_next_group">Próximo</string>
     <string name="group_rowing_freq">Frequência</string>
-    <string name="group_rowing_count">Vezes</string>
+    <string name="group_rowing_count">Times</string>
     <string name="picker_default_positive_text">OK</string>
-    <string name="picker_default_nagetive_text">Desligado</string>
-    <string name="no_heartrate_data_hint">"Não foi possível encontrar dados de frequência cardíaca"</string>
+    <string name="picker_default_nagetive_text">Off</string>
+    <string name="no_heartrate_data_hint">"Não foi possível encontrar dados da frequência cardíaca"</string>
     <string name="no_altitude_hint">"Não foi possível encontrar dados de altitude"</string>
-    <string name="title_settings">Configurações</string>
+    <string name="title_settings">Definições</string>
     <string name="sport_music_settings">Música</string>
-    <string name="widget_currentstep_title">Data</string>
+    <string name="widget_currentstep_title">Dados</string>
     <string name="widget_currentstep_activities">"Atividade de hoje"</string>
     <string name="widget_currentstep_sleep_hour">h</string>
     <string name="widget_currentstep_sleep_min">m</string>
-    <string name="widget_currentstep_sleep_title">Dormiu ontem à noite</string>
+    <string name="widget_currentstep_sleep_title">Dormir ontem à noite</string>
     <string name="widget_currentstep_sleep_no">Sem dados de sono</string>
     <string name="widget_currentstep_activity_no">Nenhuma atividade hoje?</string>
     <string name="locale_title">Selecione o idioma</string>
