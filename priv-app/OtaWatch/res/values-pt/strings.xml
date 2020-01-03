@@ -16,17 +16,17 @@ atualize"</string>
 tente novamente"</string>
     <string name="current_is_new">Current version is up to date.</string>
     <string name="has_new_rom">"Nova versão encontrada,
-atualizar para a versão %1$s?"</string>
+atualizar para a versão %1$s ?"</string>
     <string name="has_new_rom_all">"An update is available.
 Firmware on this watch is old. Updating may take a while."</string>
     <string name="input_passwor_on_mobile">"Enter Wi-Fi password
 in the Amazfit app"</string>
     <string name="processbar_downloading_rom">Downloading…</string>
-    <string name="please_keep_wifi_connect">"Não desconectar do Wi-Fi"</string>
+    <string name="please_keep_wifi_connect">"Don't disconnect from Wi-Fi"</string>
     <string name="processbar_downloading_tips">%</string>
     <string name="processbar_downloading_default">0</string>
     <string name="download_rom_faild">"Falha ao baixar pacote de atualização,
- tente novamente."</string>
+tente novamente."</string>
     <string name="download_rom_success">"Downloaded ROM successfully.
 Install now."</string>
     <string name="low_battery_message">"Downloaded updates successfully.
@@ -36,10 +36,10 @@ Battery must be at least %1$s%% charged to install updates."</string>
     <string name="progressbar_percent">%1$d%%</string>
     <string name="low_mem">"Not enough storage space for an update.
 Free up %1$sMB to update."</string>
-    <string name="update_network_error">"Verificação de atualização falhou, 
+    <string name="update_network_error">"Verificação de atualização falhou,
 tente novamente mais tarde"</string>
-    <string name="cancel_download">"Baixando pacote de atualização,
- cancelar?"</string>
+    <string name="cancel_download">"Pack de atualização a descarregar,
+cancelar?"</string>
     <string name="new_rom_please_install">"Atualização de sistema está disponível,
 atualize"</string>
     <string name="btn_install_later">Remind later</string>
@@ -52,7 +52,7 @@ atualize"</string>
     <string name="wifi_auth">Verifying password…</string>
     <string name="wifi_get_ip">Obtaining IP address…</string>
     <string name="wifi_link_fail">"Couldn't connect"</string>
-    <string name="wifi_connected">Conectado a</string>
+    <string name="wifi_connected">Connected</string>
     <string name="wifi_title">Choose a network</string>
     <string name="wifi_wait_password">Waiting for password…</string>
     <string name="toast_please_update_first">Update first</string>
@@ -61,8 +61,8 @@ atualize"</string>
     <string name="system_update_content">Upgraded to version %1$s successfully</string>
     <string name="password_error">"Senha do Wi-fi incorreta,
 insira novamente"</string>
-    <string name="wifi_connect_fail">"Não é possível se conectar
-à essa rede WiFi. Tente
+    <string name="wifi_connect_fail">"Não é possível conectar-se
+a essa rede WiFi. Tente
 outro ponto Wi-Fi"</string>
     <string name="searching">Searching…</string>
     <string name="hasNewUpdateTitle">An update is available</string>
@@ -77,16 +77,16 @@ outro ponto Wi-Fi"</string>
 works properly, we\'ll erase all
 user data before the update.
 Back up your data using the Amazfit app."</string>
-    <string name="local_update_confirm_2_msg">"Tenha certeza de ter
-salvo todos os dados de usuário. Instalar
-a atualização apagará todos
-os dados do usuário no relógio, Continuar?"</string>
+    <string name="local_update_confirm_2_msg">"PF tenha a certeza que todos os dados
+do utilizador estão guardados. Instalar
+o update irá apagar todos os dados do
+utilizador no relógio, Continuar?"</string>
     <string name="OK">OK</string>
-    <string name="yes">Sim</string>
-    <string name="no">Não</string>
+    <string name="yes">是</string>
+    <string name="no">否</string>
     <string name="enter">OK</string>
-    <string name="cancel">Cancelar</string>
-    <string name="update_tips_0">Atualizando…</string>
+    <string name="cancel">取消</string>
+    <string name="update_tips_0">Updating…</string>
     <string name="update_tips_1">"Don't turn off the device"</string>
     <string name="retry">Tentar Novamente</string>
     <string name="average_text">Média</string>
@@ -97,7 +97,7 @@ os dados do usuário no relógio, Continuar?"</string>
     <string name="outdoor_riding">Outdoor cycling</string>
     <string name="indoor_riding">Indoor cycling</string>
     <string name="cross_contry">Trail run</string>
-    <string name="eppitical">Elíptico</string>
+    <string name="eppitical">Elliptical</string>
     <string name="indoor_swimming">Natação em Piscina</string>
     <string name="outdoor_swimming">Open water</string>
     <string name="triathlon">Triathlon</string>
@@ -107,7 +107,7 @@ os dados do usuário no relógio, Continuar?"</string>
     <string name="skiing">Skiing</string>
     <string name="tennis">Tennis</string>
     <string name="soccer">Soccer</string>
-    <string name="golf">Golfe</string>
+    <string name="golf">Golf</string>
     <string name="complex_sport">Multisport</string>
     <string name="rope_skipping">Jump rope</string>
     <string name="on_foot">A pé</string>
@@ -121,8 +121,8 @@ os dados do usuário no relógio, Continuar?"</string>
     <string name="mileage">Distancia</string>
     <string name="rope_skip_freq">Frequência</string>
     <string name="row_stroke_freq">Frequência</string>
-    <string name="sport_has_paused">Em pausa</string>
-    <string name="sport_paused_time">Em pausa</string>
+    <string name="sport_has_paused">Paused</string>
+    <string name="sport_paused_time">Paused</string>
     <string name="sport_distance">Distancia</string>
     <string name="sport_mileage">Distancia</string>
     <string name="sport_downhill_total_distance">Total downhill</string>
@@ -204,21 +204,21 @@ os dados do usuário no relógio, Continuar?"</string>
 \"</string>
     <string name="music">Música</string>
     <string name="press_long_power_key_wake_up">Press a physical button to exit</string>
-    <string name="sport_auto_pause_end">Sessão encerrada, salvar os dados?</string>
+    <string name="sport_auto_pause_end">Session ended, save the data?</string>
     <string name="sport_slpt_stop_next_group">Próximo</string>
     <string name="group_rowing_freq">Frequência</string>
-    <string name="group_rowing_count">Vezes</string>
+    <string name="group_rowing_count">Times</string>
     <string name="picker_default_positive_text">OK</string>
-    <string name="picker_default_nagetive_text">Desligado</string>
-    <string name="no_heartrate_data_hint">"Não foi possível encontrar dados de frequência cardíaca"</string>
+    <string name="picker_default_nagetive_text">Off</string>
+    <string name="no_heartrate_data_hint">"Não foi possível encontrar dados da frequência cardíaca"</string>
     <string name="no_altitude_hint">"Não foi possível encontrar dados de altitude"</string>
-    <string name="title_settings">Configurações</string>
+    <string name="title_settings">Definições</string>
     <string name="sport_music_settings">Música</string>
-    <string name="widget_currentstep_title">Data</string>
+    <string name="widget_currentstep_title">Dados</string>
     <string name="widget_currentstep_activities">"Atividade de hoje"</string>
     <string name="widget_currentstep_sleep_hour">h</string>
     <string name="widget_currentstep_sleep_min">m</string>
-    <string name="widget_currentstep_sleep_title">Dormiu ontem à noite</string>
+    <string name="widget_currentstep_sleep_title">Dormir ontem à noite</string>
     <string name="widget_currentstep_sleep_no">Sem dados de sono</string>
     <string name="widget_currentstep_activity_no">Nenhuma atividade hoje?</string>
     <string name="locale_title">Selecione o idioma</string>
