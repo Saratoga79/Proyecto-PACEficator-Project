@@ -6,7 +6,7 @@
     <string name="permlab_bluetoothWhitelist">Toegang tot bluetooth-apparaat, whitelist.</string>
     <string name="permdesc_bluetoothWhitelist">Hiermee kan de app tijdelijk een Bluetooth-apparaat op de witte lijst plaatsen, waardoor dat apparaat bestanden kan verzenden naar dit apparaat zonder bevestiging van de gebruiker.</string>
     <string name="bt_share_picker_label">Bluetooth</string>
-    <string name="unknown_device">Unknown device</string>
+    <string name="unknown_device">Onbekend apparaat</string>
     <string name="unknownNumber">Nummer onbekend</string>
     <string name="airplane_error_title">Vliegtuigmodus</string>
     <string name="airplane_error_msg">"U kunt Bluetooth niet gebruiken in Vliegtuigmodus."</string>
@@ -15,7 +15,7 @@
     <string name="bt_enable_line2">Bluetooth inschakelen?</string>
     <string name="bt_enable_cancel">Afbreken</string>
     <string name="bt_enable_ok">Aan</string>
-    <string name="incoming_file_confirm_title">File transfer</string>
+    <string name="incoming_file_confirm_title">Bestandsoverdracht</string>
     <string name="incoming_file_confirm_content">Inkomend bestand accepteren?</string>
     <string name="incoming_file_confirm_cancel">Weigeren</string>
     <string name="incoming_file_confirm_ok">Aanvaarden</string>
@@ -31,7 +31,7 @@
     <string name="notification_sent">Bluetooth-delen: %1$s Verzonden</string>
     <string name="notification_sent_complete">100% voltooid</string>
     <string name="notification_sent_fail">Bluetooth-delen: %1$s niet verzonden</string>
-    <string name="download_title">File transfer</string>
+    <string name="download_title">Bestandsoverdracht</string>
     <string name="download_line1">Van: \"%1$s\"</string>
     <string name="download_line2">Bestand: %1$s</string>
     <string name="download_line3">Bestandsgrootte: %1$s</string>
@@ -126,7 +126,7 @@
     <string name="ack_record">Ack opname</string>
     <string name="deleteAll_record">Alles verwijderen</string>
     <string name="ok_button">OK</string>
-    <string name="delete_record">Delete record</string>
+    <string name="delete_record">Verwijder opname</string>
     <string name="start_server">Start TCP server</string>
     <string name="notify_server">Informeer TCP-server</string>
     <string name="map_session_key_dialog_title">Geef sessiesleutel voor \"%1$s\"</string>
