@@ -210,10 +210,10 @@
     <string name="watch_mode">Watch mode</string>
     <string name="lock_screen_title">Vergrendelingsscherm</string>
     <string name="lock_screen">Vergrendelingsscherm</string>
-    <string name="lock_screen_hand">Low-light mode</string>
+    <string name="lock_screen_hand">Laag licht-modus</string>
     <string name="lock_screen_open_guide">The battery life will be reduced if you set the screen lock mode to low light.</string>
     <string name="lock_auto_screen_wristup_guide">Once the off-screen time is set successfully, the watch screen will not light up even if it is lifted or locked.</string>
-    <string name="sport_remind_title">Sport Recognition</string>
+    <string name="sport_remind_title">Sportherkenning</string>
     <string name="sport_remind_open_title">Reminding of Turning on the Sport Mode</string>
     <string name="sport_remind_end_title">Reminding of Turning off the Sport Mode</string>
     <string name="sport_remind_open_tips">When Turning On, It Will Remind You to Turn On the Motion Mode Quickly When It Detects That You Are Running or Sport Walking</string>
@@ -389,16 +389,16 @@ Verbinden?"</string>
     <string name="bluetooth_disconnecting">Verbreken...</string>
     <string name="blt_hint_paring">"%1s
  koppelen?"</string>
-    <string name="blt_paring_fail_hint">"Make sure device power on
-and is nearby"</string>
+    <string name="blt_paring_fail_hint">"Zorg dat het apparaat is ingeschakeld
+en in de buurt is"</string>
     <string name="blt_hint_ignore_device">Negeer</string>
-    <string name="blt_confirm_ignore">Are you sure you want to ignore this device?</string>
+    <string name="blt_confirm_ignore">Bent u zeker dat u dit apparaat wilt verwijderen?</string>
     <string name="bluetooth_connected">Verbonden</string>
     <string name="bluetooth_disconnected">Verbroken</string>
     <string name="bluetooth_connecting_error_message">"Kon niet verbinden met %1$s."</string>
     <string name="bluetooth_pairing_pin_error_message">"Couldn't pair with %1$s because of an incorrect PIN or passkey."</string>
     <string name="bluetooth_pairing_device_down_error_message">"Kan niet communiceren met %1$s."</string>
-    <string name="bluetooth_pairing_rejected_error_message">Pairing rejected by %1$s.</string>
+    <string name="bluetooth_pairing_rejected_error_message">Koppeling afgewezen door %1$s.</string>
     <string name="bluetooth_turning_on">Bluetooth inschakelen..</string>
     <string name="bluetooth_turning_off">Bluetooth uitschakelen…</string>
     <string name="bluetooth_enabled">Bluetooth AAN</string>
@@ -454,10 +454,10 @@ all data in the watch will be deleted, and the watch will be disconnected from y
     <string name="reset_factory_conncet_msg">Watch and Amazfit App will Remove the Bound UnionPay Card. The Watch will Retain the Payment Function of the Transportation Card.</string>
     <string name="reset_factory_positive">Fabrieksinstellingen</string>
     <string name="reset_factory_negative">Annuleer</string>
-    <string name="reset_factory_fail_title">Unsuccessful Factory Reset</string>
+    <string name="reset_factory_fail_title">Fabrieksinstellingen mislukt</string>
     <string name="reset_factory_fail_msg">If the UnionPay Card Is Not Successfully Removed, Please Try Again.</string>
     <string name="reset_factory_fail_positive">OK</string>
-    <string name="reset_factory_doing1">Factory Reset Is Being Made</string>
+    <string name="reset_factory_doing1">Fabrieksinstellingen worden teruggezet</string>
     <string name="reset_factory_doing2">UnionPay Card Is Being Removed</string>
     <string name="reset_factory_bank_title">Please Remove the UnionPay Card at First</string>
     <string name="reset_factory_bank_msg">"If Reset the Watch without Removing the UnionPay Card, It will Cause the UnionPay Card: 
@@ -541,7 +541,7 @@ all data in the watch will be deleted, and the watch will be disconnected from y
     <string name="watch_mode_positive">Confirm turned on</string>
     <string name="watch_mode_negative">Afbreken</string>
     <string name="replace_watchface">Wijzerplaat</string>
-    <string name="screen_refresh">Lockscreen seconds hand</string>
+    <string name="screen_refresh">Vergrendelscherm secondenwijzer</string>
     <string name="screen_refresh_on_string">Aan</string>
     <string name="screen_refresh_off_string">Uit</string>
     <string name="setting_regulatory_europe">Europa</string>
