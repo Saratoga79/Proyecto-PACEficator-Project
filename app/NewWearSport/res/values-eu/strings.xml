@@ -74,9 +74,9 @@
     <string name="swim_trips_complete">Swam %1$d laps</string>
     <string name="gps_search_tips">A 15-minute warm-up exercise before the running helps prevent injuries.</string>
     <string name="gps_search_swim_tips">Screen will be locked when you start swimming.</string>
-    <string name="gps_searching">Waiting for GPS…</string>
+    <string name="gps_searching">GPS-aren zain…</string>
     <string name="gps_searching_icon_title">Searching GPS</string>
-    <string name="gps_search_success">GPS is available</string>
+    <string name="gps_search_success">GPS-a eskuragarri dago</string>
     <string name="gps_search_failed_title">"GPS isn't available"</string>
     <string name="gps_search_failed_content">GPS location failure. Please try again in open space.</string>
     <string name="gps_search_success_title">GPS is ready</string>
@@ -149,8 +149,8 @@
     <string name="settings_sport_auto_speed_title">Pause at speed</string>
     <string name="settings_content_stand_still">Standing still</string>
     <string name="settings_sport_bg_type">Background color</string>
-    <string name="settings_sport_bg_type_normal">Black</string>
-    <string name="settings_sport_bg_type_white">White</string>
+    <string name="settings_sport_bg_type_normal">Beltza</string>
+    <string name="settings_sport_bg_type_white">Zuria</string>
     <string name="setting_on">On</string>
     <string name="setting_off">Off</string>
     <string name="settings_item_title_target_calorie_remind">Calorie goal</string>
@@ -292,7 +292,7 @@ start now."</string>
     <string name="export_route_trail">Export</string>
     <string name="sport_dlg_msg_hint_cancel">"Esportazioa ezeztatu nahi duzu?
 "</string>
-    <string name="exchange_prepare_riding">Next: Cycling</string>
+    <string name="exchange_prepare_riding">Hurrengoa: Txirrindularitza</string>
     <string name="exchange_prepare_running">Next: Run</string>
     <string name="count_down_swim_tint">To prevent accidental touch, screen will be locked.</string>
     <string name="sport_widget_title_history_record">Aktibitateak</string>
@@ -342,10 +342,10 @@ start now."</string>
     <string name="swim_trips_unit_yd">laps (%1$d yd/lap)</string>
     <string name="heart_region_title">Heart rate zone</string>
     <string name="heart_region_anaerobic＿limit">Anaerobic limit</string>
-    <string name="heart_region_endurance_enhancement">Anaerobic</string>
-    <string name="heart_region_heart_and_lung_enhancement">Aerobic</string>
-    <string name="heart_region_fat_burning">Fat Burning</string>
-    <string name="heart_region_warm_up_and_relax">Warm Up</string>
+    <string name="heart_region_endurance_enhancement">Anaerobikoa</string>
+    <string name="heart_region_heart_and_lung_enhancement">Aerobikoa</string>
+    <string name="heart_region_fat_burning">Koipea erretzen</string>
+    <string name="heart_region_warm_up_and_relax">Beroketa</string>
     <string name="sport_te_title">Training effect (TE)</string>
     <string name="sport_te_desc"><Data>"This workout\'s effect is &lt;font color=#FFFF00&gt;moderate&lt;/font&gt;, which maintains cardiorespiratory fitness."</Data></string>
     <string name="last_kilo_meters_times">Time for last km</string>
@@ -619,11 +619,11 @@ to reach full recovery."</string>
     <string name="sport_route_out_of">Deviated route</string>
     <string name="sport_back_to_route">Back to the route</string>
     <string name="gpx_currnet_is_selected">Selected</string>
-    <string name="gpx_select_closed">Close</string>
+    <string name="gpx_select_closed">Ezeztatu</string>
     <string name="gpx_select_empty"></string>
     <string name="gpx_details_view">Select</string>
     <string name="gpx_details_use">Use</string>
-    <string name="gpx_route_loading">Just a sec…</string>
+    <string name="gpx_route_loading">Segundutxo bat bakarrik…</string>
     <string name="dialog_remind_to_look_route">View route</string>
     <string name="gpx_offset_route">Deviated route</string>
     <string name="gpx_back_route">Back to the route</string>
@@ -646,7 +646,7 @@ to reach full recovery."</string>
     <string name="music_explain_title">Instruction</string>
     <string name="music_explain_content">It is necessary to download songs locally and connect to the Bluetooth headset for listening.</string>
     <string name="music_start_tips">Connect a Bluetooth headset to listen to music. Connect now?</string>
-    <string name="music_not_known">Unknown</string>
+    <string name="music_not_known">Ezezaguna</string>
     <string name="music_update_content">Song update</string>
     <string name="music_update_tips_content">Douban FM updates songs regularly. Updating songs will replace the music library. Update now?</string>
     <string name="music_pause">Paused</string>
@@ -833,7 +833,7 @@ jarduera eraginkorragoa lortzeko\"</string>
     <string name="running_step_freq_desc">Cadence</string>
     <string name="running_speed_desc">Speed</string>
     <string name="running_distance_desc">Distantzia</string>
-    <string name="running_heartrate_desc">Heart rate</string>
+    <string name="running_heartrate_desc">Bihotz-tasa (BT)</string>
     <string name="running_avg_pace_desc">Avg pace</string>
     <string name="running_avg_speed_desc">Avg speed</string>
     <string name="walking_step_count">Steps</string>
@@ -845,7 +845,7 @@ jarduera eraginkorragoa lortzeko\"</string>
     <string name="sport_widget_title_cross">Trail run</string>
     <string name="sport_widget_title_on_foot">Hike</string>
     <string name="sport_widget_title_indoor_fitness">Fitness</string>
-    <string name="sport_widget_title_indoor_run">Treadmill</string>
+    <string name="sport_widget_title_indoor_run">Zinta estatikoa</string>
     <string name="sport_widget_title_record">Aktibitateak</string>
     <string name="sport_widget_title_achieve">Badges</string>
     <string name="sport_widget_title_setting">Ezarpenak</string>
@@ -856,7 +856,7 @@ jarduera eraginkorragoa lortzeko\"</string>
     <string name="sport_item_walking_title">Walk</string>
     <string name="title_sport_list">Outdoor activities</string>
     <string name="title_sport_gps_available">GPS available</string>
-    <string name="title_sport_gps_unavailable">Waiting for GPS…</string>
+    <string name="title_sport_gps_unavailable">GPS-aren zain…</string>
     <string name="title_sport_control_runnning">Run</string>
     <string name="title_sport_control_walking">Walk</string>
     <string name="start_sport_tips">Start %1$s</string>
@@ -892,7 +892,7 @@ jarduera eraginkorragoa lortzeko\"</string>
     <string name="history_detail_paused_time">Paused time</string>
     <string name="history_detail_running_title">Run</string>
     <string name="history_detail_walking_title">Walk</string>
-    <string name="history_detail_indoor_running_title">Treadmill</string>
+    <string name="history_detail_indoor_running_title">Zinta estatikoa</string>
     <string name="history_detail_cost_time">Total time</string>
     <string name="history_detail_pace_desc">Pace (min/km)</string>
     <string name="history_detail_calorie_desc">Calories (kcal)</string>
@@ -996,7 +996,7 @@ jarduera eraginkorragoa lortzeko\"</string>
     <string name="lock_status_unlock_fail">"Couldn't unlock"</string>
     <string name="lock_status_unlock_success">Unlocked successfully</string>
     <string name="remind_info_stop_sport">End the exercise first</string>
-    <string name="searching_gps_in_progress">Waiting for GPS…</string>
+    <string name="searching_gps_in_progress">GPS-aren zain…</string>
     <string name="remind_current_pace">Current pace</string>
     <string name="remind_current_heart">Current</string>
     <string name="remind_last_dis_pace">Pace of last km</string>
@@ -1034,7 +1034,7 @@ jarduera eraginkorragoa lortzeko\"</string>
     <string name="setting_sport_heart_region_high＿intensity_exercise">Intensive exercise</string>
     <string name="setting_sport_heart_region_custom">Custom zone</string>
     <string name="setting_sport_heart_region_text_fat_burning">Fat burning</string>
-    <string name="setting_sport_heart_region_text_aerobic">Aerobic</string>
+    <string name="setting_sport_heart_region_text_aerobic">Aerobikoa</string>
     <string name="setting_sport_heart_region_text_high＿intensity_exercise">Intensive exercise</string>
     <string name="setting_sport_heart_region_text_custom">Custom</string>
     <string name="remind_heart_rate_region_over">Heart rate is too high</string>
@@ -1044,10 +1044,10 @@ jarduera eraginkorragoa lortzeko\"</string>
  on the wrist of racket hand"</string>
     <string name="sport_time_seconds">s</string>
     <string name="sport_type_num_text">%1$d activity types</string>
-    <string name="sport_type_runing">Running</string>
+    <string name="sport_type_runing">Korrika</string>
     <string name="sport_type_riding">Riding</string>
     <string name="sport_type_indoor">Indoor</string>
-    <string name="sport_type_snow">Snow</string>
+    <string name="sport_type_snow">Elurra</string>
     <string name="sport_type_outdoor">Outdoor</string>
     <string name="sport_type_swim">Swimming</string>
     <string name="sport_type_dance">Dancing</string>
@@ -1123,9 +1123,9 @@ jarduera eraginkorragoa lortzeko\"</string>
     <string name="app_name">gpx-recorder</string>
     <string name="average_text">Batez bestekoa</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
-    <string name="running">Running</string>
-    <string name="waking">Walking</string>
-    <string name="indoor_running">Treadmill</string>
+    <string name="running">Korrika</string>
+    <string name="waking">Oinez</string>
+    <string name="indoor_running">Zinta estatikoa</string>
     <string name="outdoor_riding">Outdoor cycling</string>
     <string name="indoor_riding">Indoor cycling</string>
     <string name="cross_contry">Trail run</string>
@@ -1226,20 +1226,20 @@ jarduera eraginkorragoa lortzeko\"</string>
     <string name="sport_row_total_count">Total paddles</string>
     <string name="sport_change">Transition</string>
     <string name="sport_change_time">Transition time</string>
-    <string name="please_get_ready_for_runnning">Next: Running</string>
-    <string name="please_get_ready_for_riding">Next: Cycling</string>
-    <string name="please_get_ready_for_swimming">Next: Swimming</string>
-    <string name="gps_ready">GPS is available</string>
-    <string name="gps_wait">Waiting for GPS…</string>
-    <string name="gps_fail">"Couldn't set location using GPS"</string>
-    <string name="gps_singal_lost">"GPS signal isn't available"</string>
-    <string name="gps_close_1">No movement for a long time,</string>
-    <string name="gps_close_2">GPS has been turned off.</string>
-    <string name="heartrate">Heart rate</string>
-    <string name="warmup">Warm Up</string>
-    <string name="fatburn">Fat Burning</string>
-    <string name="heartlung">Aerobic</string>
-    <string name="strength">Anaerobic</string>
+    <string name="please_get_ready_for_runnning">Hurrengoa: Korrika</string>
+    <string name="please_get_ready_for_riding">Hurrengoa: Txirrindularitza</string>
+    <string name="please_get_ready_for_swimming">Hurrengoa: Igeriketa</string>
+    <string name="gps_ready">GPS-a eskuragarri dago</string>
+    <string name="gps_wait">GPS-aren zain…</string>
+    <string name="gps_fail">"Ezin izan da kokapena GPS bidez ezarri"</string>
+    <string name="gps_singal_lost">"GPS seinalea ez dago erabilgarri"</string>
+    <string name="gps_close_1">Denbora luzean mugimendurik gabe</string>
+    <string name="gps_close_2">GPS-a itzali da</string>
+    <string name="heartrate">Bihotz-tasa (BT)</string>
+    <string name="warmup">Beroketa</string>
+    <string name="fatburn">Koipea erretzen</string>
+    <string name="heartlung">Aerobikoa</string>
+    <string name="strength">Anaerobikoa</string>
     <string name="anaerobic">Anaerobic limit</string>
     <string name="zone_one">Zone 1</string>
     <string name="zone_two">Zone 2</string>
