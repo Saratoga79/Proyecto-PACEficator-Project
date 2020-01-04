@@ -3,7 +3,7 @@
 <resources>
     <string name="app_name">Locatie</string>
     <string name="new_location">Nieuwe locatie</string>
-    <string name="saved_location">Saved location</string>
+    <string name="saved_location">Opgeslagen locatie</string>
     <string name="gps_searching">Zoek GPS-signaal…</string>
     <string name="gps_search_failed_title">"GPS niet beschikbaaar"</string>
     <string name="gps_search_failed_content">Probeer buitenshuis.</string>
@@ -12,7 +12,7 @@
     <string name="date_am">AM</string>
     <string name="date_pm">PM</string>
     <string name="back">Terug</string>
-    <string name="change_icon">Change icon</string>
+    <string name="change_icon">Wijzig icoon</string>
     <string name="delete">Verwijder</string>
     <string name="location_title">Coördinaten</string>
     <string name="altitude_title">Current Elevation</string>
@@ -69,7 +69,7 @@
     <string name="sport_downhill_total_distance">Total bergaf</string>
     <string name="sport_tennis_strokes">Slagen</string>
     <string name="sport_rope_skip_count">Aantal</string>
-    <string name="sport_row_total_count">Total paddles</string>
+    <string name="sport_row_total_count">Totaal batjes</string>
     <string name="sport_change">Overgang</string>
     <string name="sport_change_time">Overgangstijd</string>
     <string name="please_get_ready_for_runnning">Volgende: Lopen</string>
@@ -120,7 +120,7 @@
     <string name="need_run_kilometer">Interval afstand:</string>
     <string name="need_run_time">Interval tijd:</string>
     <string name="need_rest_time">Nodig</string>
-    <string name="need_rest_by_keypress">Press BACK to continue</string>
+    <string name="need_rest_by_keypress">Druk op (A) om door te gaan</string>
     <string name="low_battery_protect">Lage accubescherming</string>
     <string name="low_battery_tips">Lage batterij</string>
     <string name="low_battery_please_charging">Laad je horloge op.</string>
@@ -137,17 +137,17 @@
     <string name="rope_skip_group_count">Aantal</string>
     <string name="rope_skip_group_freq">Frequentie</string>
     <string name="rope_skip_reset_tips">Heeft gerust</string>
-    <string name="rope_skip_tips">Group %1$s</string>
-    <string name="rope_skip_tips1">The</string>
-    <string name="rope_skip_tips2">set has been completed</string>
-    <string name="rope_skip_avg_heartrate">Avg. heart rate</string>
+    <string name="rope_skip_tips">Groep %1$s</string>
+    <string name="rope_skip_tips1">De</string>
+    <string name="rope_skip_tips2">set is voltooid</string>
+    <string name="rope_skip_avg_heartrate">AVG Hartslag</string>
     <string name="rope_skip_group_calories">Calorieën</string>
     <string name="music">Muziek</string>
     <string name="press_long_power_key_wake_up">Druk op een fysieke knop om af te sluiten</string>
     <string name="sport_auto_pause_end">Sessie beëindigd, de gegevens opslaan?</string>
-    <string name="sport_slpt_stop_next_group">Next</string>
+    <string name="sport_slpt_stop_next_group">Volgende</string>
     <string name="group_rowing_freq">Frequentie</string>
-    <string name="group_rowing_count">Times</string>
+    <string name="group_rowing_count">Keer</string>
     <string name="picker_default_positive_text">Bevestig</string>
     <string name="picker_default_nagetive_text">Uit</string>
     <string name="no_heartrate_data_hint">"Geen hartslaggegevens"</string>
