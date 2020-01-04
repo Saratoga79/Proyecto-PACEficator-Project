@@ -191,8 +191,8 @@
     <string name="connect">Verbinding</string>
     <string name="common">Algemeen</string>
     <string name="device">Apparaat</string>
-    <string name="units_set">Unit Setting</string>
-    <string name="auto_airplane">Scheduled</string>
+    <string name="units_set">Eenheid instelling</string>
+    <string name="auto_airplane">Gepland</string>
     <string name="wifi_upload">Dag overzicht</string>
     <string name="wifi_upload_title">Gegevenssynchronisatie</string>
     <string name="watchface">Wijzerplaat</string>
@@ -223,8 +223,8 @@
     <string name="ring">Ring</string>
     <string name="volume">Volume</string>
     <string name="hint_volume">Warning Tone Volume</string>
-    <string name="media_volume">Media Volume</string>
-    <string name="alarm_volume">Alarm Clock Volume</string>
+    <string name="media_volume">Media-Volume</string>
+    <string name="alarm_volume">Alarm Klok Volume</string>
     <string name="in_call_ring">Incoming Call Ring</string>
     <string name="alarm_ring">Alarm Ring</string>
     <string name="nokia_tune">Classic Ring %1$d</string>
@@ -232,7 +232,7 @@
     <string name="phonetic_sound">Danyin Ring %1$d</string>
     <string name="auto_nodisturb">Gepland</string>
     <string name="nodisturb">Niet storen</string>
-    <string name="auto_bg">Scheduled</string>
+    <string name="auto_bg">Gepland</string>
     <string name="long_key_action">Long Press the Button to Open</string>
     <string name="recombind">Herkoppelen</string>
     <string name="lock_screen_auto">Turn Off Low Light Mode Regularly</string>
@@ -242,10 +242,10 @@
     <string name="ring_vibration">Oproep herinnering trillen</string>
     <string name="natification_vibration">Trillen bij notificatie</string>
     <string name="alarm_vibration">Tijdherinnering trillingen</string>
-    <string name="timing_reminder_ring">Alarm sound</string>
+    <string name="timing_reminder_ring">Alarmgeluid</string>
     <string name="navigation_combination">Locatiediensten</string>
-    <string name="reboot_to_mcu">reboot to MCU</string>
-    <string name="everest2_copy_mcu_res">Copy font library</string>
+    <string name="reboot_to_mcu">Herstarten naar MCU</string>
+    <string name="everest2_copy_mcu_res">Lettertypebibliotheek kopiëren</string>
     <string name="agps_sync_remind">AGPS herinnering</string>
     <string name="agps_sync_off">Uit</string>
     <string name="agps_sync_everyday">elke %s</string>
@@ -375,20 +375,20 @@ Disconnect?"</string>
     <string name="blt_hint_connect">"%1s
 Verbinden?"</string>
     <string name="blt_hint_connect_fail">Connection failed, please re-connect</string>
-    <string name="blt_type_ear">Headset</string>
-    <string name="blt_speaker">Audio</string>
+    <string name="blt_type_ear">Koptelefoon</string>
+    <string name="blt_speaker">Geluid</string>
     <string name="blt_car_system">Vehicle-mounted</string>
     <string name="blt_type_mabiao">MW</string>
     <string name="blt_not_support">[Only test]</string>
     <string name="bluetooth_pair_tips">Koppelcode</string>
     <string name="button_enter">OK</string>
     <string name="button_cancel">Annuleer</string>
-    <string name="blt_cancel_paring">Paring canceled</string>
-    <string name="bluetooth_pairing_error_message">Pairing failed</string>
+    <string name="blt_cancel_paring">Koppelen geannuleerd</string>
+    <string name="bluetooth_pairing_error_message">Koppeling mislukt</string>
     <string name="bluetooth_connecting">Verbinden...</string>
-    <string name="bluetooth_disconnecting">Disconnecting...</string>
+    <string name="bluetooth_disconnecting">Verbreken...</string>
     <string name="blt_hint_paring">"%1s
- to pair?"</string>
+ koppelen?"</string>
     <string name="blt_paring_fail_hint">"Make sure device power on
 and is nearby"</string>
     <string name="blt_hint_ignore_device">Negeer</string>
@@ -399,46 +399,46 @@ and is nearby"</string>
     <string name="bluetooth_pairing_pin_error_message">"Couldn't pair with %1$s because of an incorrect PIN or passkey."</string>
     <string name="bluetooth_pairing_device_down_error_message">"Kan niet communiceren met %1$s."</string>
     <string name="bluetooth_pairing_rejected_error_message">Pairing rejected by %1$s.</string>
-    <string name="bluetooth_turning_on">Turning Bluetooth on…</string>
-    <string name="bluetooth_turning_off">Turning Bluetooth off…</string>
+    <string name="bluetooth_turning_on">Bluetooth inschakelen..</string>
+    <string name="bluetooth_turning_off">Bluetooth uitschakelen…</string>
     <string name="bluetooth_enabled">Bluetooth AAN</string>
     <string name="bluetooth_disabled">Bluetooth UIT</string>
-    <string name="bluetooth_unknown">Unknown state</string>
+    <string name="bluetooth_unknown">Onbekende status</string>
     <string name="bluetooth_disconnect_title">Verbreken?</string>
     <string name="bluetooth_connect_title">Verbinden?</string>
-    <string name="phone_finding">Locating phone...</string>
+    <string name="phone_finding">Telefoon zoeken...</string>
     <string name="phone_found">Telefoon gevonden</string>
     <string name="phone_not_connected">Telefoon niet verbonden</string>
     <string name="phone_not_found">Phone not found</string>
     <string name="start_testing">Start</string>
-    <string name="lab_wifi_test_tip_retry">Please retry!!</string>
-    <string name="lab_wifi_test_tip_testing">Testing…</string>
-    <string name="lab_wifi_test_tip_pass">Pass!!</string>
-    <string name="lab_wifi_test_tip_fail">Fail!!</string>
-    <string name="lab_wifi_test_tip_open_wifi">Opening WIFI</string>
+    <string name="lab_wifi_test_tip_retry">Probeer opnieuw!</string>
+    <string name="lab_wifi_test_tip_testing">Testen...</string>
+    <string name="lab_wifi_test_tip_pass">Geslaag!!</string>
+    <string name="lab_wifi_test_tip_fail">Mislukt!!</string>
+    <string name="lab_wifi_test_tip_open_wifi">WIFI openen</string>
     <string name="light_off">Uit</string>
     <string name="light_auto">Auto</string>
-    <string name="light_on">Always On</string>
-    <string name="rise_no_bl_under_slpt">Unlocked Only</string>
-    <string name="subtitle_of_raise_hand_no_bl">Auto when unlocked</string>
+    <string name="light_on">Altijd aan</string>
+    <string name="rise_no_bl_under_slpt">Alleen ontgrendeld</string>
+    <string name="subtitle_of_raise_hand_no_bl">Enkel indien ontgrendeld</string>
     <string name="rise_with_bl_under_slpt">Aan</string>
     <string name="rise_without_bl_under_slpt">Uit</string>
     <string name="locale_main">Taal</string>
-    <string name="locale_applying">Language applying...</string>
+    <string name="locale_applying">Taal toepassen...</string>
     <string name="confirm_change_locale">"Wijzig taal naar 
 %1$s?"</string>
-    <string name="gender">Gender</string>
+    <string name="gender">Geslacht</string>
     <string name="birth_year">GeboorteJaar</string>
-    <string name="height">Height</string>
-    <string name="weight">Weight</string>
-    <string name="male">Male</string>
-    <string name="female">Female</string>
+    <string name="height">Lengte</string>
+    <string name="weight">Gewicht</string>
+    <string name="male">Man</string>
+    <string name="female">Vrouw</string>
     <string name="centimeter">cm</string>
     <string name="birth_year_unit">"Geboorte
 Jaar"</string>
     <string name="height_unit">"Lengte
 cm"</string>
-    <string name="weight_unit">"Weight 
+    <string name="weight_unit">"Gewicht
 kg"</string>
     <string name="reset_factory_hint">"Once the watch is reset to factory default settings, 
 all data in the watch will be deleted, and the watch will be disconnected from your mobile."</string>
@@ -446,59 +446,59 @@ all data in the watch will be deleted, and the watch will be disconnected from y
  The current activated transportation card can still be used after the watch is bound with your mobile again."</string>
     <string name="reset_factory_yes">Reset</string>
     <string name="reset_factory_no">Afbreken</string>
-    <string name="reset_factory_title">Factory Reset</string>
+    <string name="reset_factory_title">Fabrieksinstellingen</string>
     <string name="reset_factory_noconnect_msg">"If Needing to Unbind the Watch, Please Operate Through Amazfit App. 
  Watch’s Unilateral Factory Reset Will Remove UnionPay Card and Transportation Card. 
  A Removed UnionPay Card: It Can No Longer Be Bound to The Watch. If You Need to Bind Again, Please Consult the Bank Customer Service. 
  A Removed Transportation Card: Will Be Destroyed Permanently and Cannot Be Paid Again."</string>
     <string name="reset_factory_conncet_msg">Watch and Amazfit App will Remove the Bound UnionPay Card. The Watch will Retain the Payment Function of the Transportation Card.</string>
-    <string name="reset_factory_positive">Factory Reset</string>
+    <string name="reset_factory_positive">Fabrieksinstellingen</string>
     <string name="reset_factory_negative">Annuleer</string>
     <string name="reset_factory_fail_title">Unsuccessful Factory Reset</string>
     <string name="reset_factory_fail_msg">If the UnionPay Card Is Not Successfully Removed, Please Try Again.</string>
-    <string name="reset_factory_fail_positive">Ok</string>
+    <string name="reset_factory_fail_positive">OK</string>
     <string name="reset_factory_doing1">Factory Reset Is Being Made</string>
     <string name="reset_factory_doing2">UnionPay Card Is Being Removed</string>
     <string name="reset_factory_bank_title">Please Remove the UnionPay Card at First</string>
     <string name="reset_factory_bank_msg">"If Reset the Watch without Removing the UnionPay Card, It will Cause the UnionPay Card: 
  1. Cannot be Removed from the Watch, Occupying Chip Space;  2. Cannot Use the Payment Function in the Watch;  3. Cannot Be Bound by Other Devices; For Payment Security, Please First Remove the UnionPay Card from Amazfit App."</string>
-    <string name="reset_factory_bank_yes">Continue Factory Reset</string>
+    <string name="reset_factory_bank_yes">Doorgaan met fabrieksinstellingen</string>
     <string name="reset_factory_bank_no">Afbreken</string>
     <string name="reset_factory_bank_msg_again">"Once the watch is reset to factory default settings, all data in the watch will be deleted, and the watch will be disconnected from your mobile. 
  The current activated transportation card can still be used after the watch is bound with your mobile again."</string>
-    <string name="lockpassword_confirm_your_pattern_header">Confirm Your Pattern</string>
+    <string name="lockpassword_confirm_your_pattern_header">Bevestig patroon</string>
     <string name="lockpattern_need_to_unlock">Draw Unlocking Pattern</string>
     <string name="lockpattern_need_to_unlock_footer"></string>
     <string name="lockpattern_need_to_unlock_wrong"></string>
     <string name="lockpattern_need_to_unlock_wrong_footer"></string>
-    <string name="lockpattern_too_many_failed_confirmation_attempts_header">Too Many Errors！</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_header">Te veel fouten！</string>
     <string name="lockpattern_too_many_failed_confirmation_attempts_footer">%d Retry after Several Seconds</string>
     <string name="lockpattern_tutorial_cancel_label">Afbreken</string>
-    <string name="lockpattern_tutorial_continue_label">Next</string>
-    <string name="lockpassword_choose_your_pattern_header">Select Your Pattern</string>
+    <string name="lockpattern_tutorial_continue_label">Volgende</string>
+    <string name="lockpassword_choose_your_pattern_header">Selecteer uw patroon</string>
     <string name="lockpattern_recording_inprogress"></string>
     <string name="cancel">Annuleer</string>
-    <string name="lockpattern_retry_button_text">Retry</string>
+    <string name="lockpattern_retry_button_text">Opnieuw</string>
     <string name="lockpattern_continue_button_text">Doorgaan</string>
     <string name="lockpattern_confirm_button_text">Bevestig</string>
     <string name="lockpattern_recording_intro_header">Draw Unlocking Pattern</string>
     <string name="lockpattern_settings_help_how_to_record">How to Draw Unlocking Pattern？</string>
     <string name="lockpattern_recording_incorrect_too_short"></string>
-    <string name="lockpattern_pattern_entered_header">Pattern Recorded</string>
+    <string name="lockpattern_pattern_entered_header">Patroon opgeslagen</string>
     <string name="lockpattern_need_to_confirm">Confirm Unlocking Pattern</string>
     <string name="lockpattern_pattern_confirmed_header">Confirm Unlocking Pattern</string>
     <string name="app_notifications_dialog_done">Voltooid</string>
     <string name="lockpattern_cancel">Gesture Password</string>
-    <string name="lockpattern_change">Change Password</string>
+    <string name="lockpattern_change">Wachtwoord wijzigen</string>
     <string name="lockpattern_change_state">Change Watch Status</string>
-    <string name="lockpattern_exist">Turned on</string>
-    <string name="lockpattern_exist_no">Turned Off</string>
-    <string name="unlock_disable_lock_pattern_summary">Delete Unlocking Pattern</string>
+    <string name="lockpattern_exist">Ingeschakeld</string>
+    <string name="lockpattern_exist_no">Uitgeschakeld</string>
+    <string name="unlock_disable_lock_pattern_summary">Patroon verwijderen</string>
     <string name="unlock_disable_frp_warning_content">The Device Protection Function Will No Longer Function.</string>
     <string name="okay">Bevestig</string>
     <string name="exit">Sluit</string>
-    <string name="pattern_set_title">Security</string>
-    <string name="watch_state">Screensaver Setting</string>
+    <string name="pattern_set_title">Veiligheid</string>
+    <string name="watch_state">Screensaver instellingen</string>
     <string name="unwear">Watch off the Wrist</string>
     <string name="wear">Watch on the Wrist</string>
     <string name="lockpattern_need_confirm">Please Draw Again</string>
@@ -507,13 +507,13 @@ all data in the watch will be deleted, and the watch will be disconnected from y
     <string name="lockpattern_change_none">There Is No Unlocking Pattern Currently</string>
     <string name="security_lockpattern">Gesture Password</string>
     <string name="lockpattern_need_confirm_guide">Please Draw the Current Pattern</string>
-    <string name="time_zone">Time Zone</string>
-    <string name="date">Date</string>
+    <string name="time_zone">Tijdzone</string>
+    <string name="date">Datum</string>
     <string name="time">Tijdsdoel</string>
-    <string name="date_ymd">Date(Y/M/D)</string>
-    <string name="time_hms">Time(H/M/S)</string>
-    <string name="time_format">Time Format</string>
-    <string name="hour_system">%s-hour system</string>
+    <string name="date_ymd">Datum(J/M/D)</string>
+    <string name="time_hms">Tijd (U/M/S)</string>
+    <string name="time_format">Tijdnotatie</string>
+    <string name="hour_system">%s-uur systeem</string>
     <string name="am">AM</string>
     <string name="pm">PM</string>
     <string name="ultra_title">Ultra modus</string>
@@ -532,9 +532,9 @@ all data in the watch will be deleted, and the watch will be disconnected from y
     <string name="volume_value">Volume</string>
     <string name="light_value">Helderheid</string>
     <string name="light_auto_set">Auto</string>
-    <string name="light_auto_guide_title">Auto adjustment</string>
+    <string name="light_auto_guide_title">Auto aanp.</string>
     <string name="light_auto_guide_content">After Auto adjustment is on, move slider to fine tune the brightness coefficient, then the screen brightness will still change with the ambient brightness.</string>
-    <string name="light_auto_guide_ok">I know it</string>
+    <string name="light_auto_guide_ok">Ik weet het</string>
     <string name="watch_mode_title">Turn on watch mode</string>
     <string name="watch_mode_message">"\"When turned on, the watch will only support time display, step counting and transportation card payment. 
  (When you turn it on, press and hold the physical key to exit this mode)\""</string>
@@ -544,26 +544,26 @@ all data in the watch will be deleted, and the watch will be disconnected from y
     <string name="screen_refresh">Lockscreen seconds hand</string>
     <string name="screen_refresh_on_string">Aan</string>
     <string name="screen_refresh_off_string">Uit</string>
-    <string name="setting_regulatory_europe">Europe</string>
-    <string name="setting_regulatory_us">U.S.</string>
+    <string name="setting_regulatory_europe">Europa</string>
+    <string name="setting_regulatory_us">V.S.</string>
     <string name="setting_regulatory_canda">Canada</string>
-    <string name="setting_regulatory_russia">Russia</string>
+    <string name="setting_regulatory_russia">Rusland</string>
     <string name="setting_regulatory_japan">Japan</string>
-    <string name="setting_regulatory_ukraine">Ukraine</string>
+    <string name="setting_regulatory_ukraine">Oekraïne</string>
     <string name="setting_regulation_desc_us">FCC ID:2AC8UA1811</string>
     <string name="setting_regulation_desc_canda">"\"IC:21806-A1811 
  ICAN ICE-3(B)/NMB-3(B)\""</string>
     <string name="setting_regulation_model_name">Model : %1$s</string>
-    <string name="confirm_shutdown">Shutdown?</string>
+    <string name="confirm_shutdown">Uitschakelen?</string>
     <string name="confirm_reboot">Herstart?</string>
     <string name="app_name">Instellingen</string>
     <string name="blt_hint_connect_device">Verbinden</string>
     <string name="blt_hint_disconnect_device">Verbreken</string>
     <string name="lab_desc">Collect part of the debugging tools</string>
-    <string name="unknown">Unknown device</string>
+    <string name="unknown">Onbekend apparaat</string>
     <string name="bind_tips_title">"\"Please bind 
  to protect your data more securely\""</string>
-    <string name="upgrade_checking">Checking for update...</string>
+    <string name="upgrade_checking">Zoeken naar updates...</string>
     <string name="left_hand">Links</string>
     <string name="right_hand">Rechts</string>
 </resources>
