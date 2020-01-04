@@ -3,9 +3,9 @@
 <resources>
     <string name="data_check_log">+------------------------+▂▃▄▅▆▇█▉ Weather data verification error! %1$s▉█▇▆▅▄▃▂+------------------------+</string>
     <string name="data_checkfail_type">Kan weertype niet vinden</string>
-    <string name="data_checkfail_temp">Weather temperature out of range</string>
-    <string name="data_checkfail_match">Weather type fields do not match</string>
-    <string name="data_checkfail_json">JSON format error</string>
+    <string name="data_checkfail_temp">Temperatuur buiten toleranties</string>
+    <string name="data_checkfail_match">Weer type velden komen niet overeen</string>
+    <string name="data_checkfail_json">JSON formaat fout</string>
     <string name="app_name">Weer</string>
     <string name="action_settings">Instellingen</string>
     <string name="celsius">℃</string>
@@ -80,7 +80,7 @@
     <string name="wind_W">W Wind</string>
     <string name="wind_NW">NW Wind</string>
     <string name="wind_power">Windkracht %1$d</string>
-    <string name="wind_power_12">Level 12 and above</string>
+    <string name="wind_power_12">Niveau 12 en hoger</string>
     <string name="uv_power_weakest">Laag</string>
     <string name="uv_power_weak">Zwak</string>
     <string name="uv_power_litter_strong">Sterk</string>
@@ -125,7 +125,7 @@
     <string name="sport_downhill_total_distance">Total bergaf</string>
     <string name="sport_tennis_strokes">Slagen</string>
     <string name="sport_rope_skip_count">Aantal</string>
-    <string name="sport_row_total_count">Total paddles</string>
+    <string name="sport_row_total_count">Totaal batjes</string>
     <string name="sport_change">Overgang</string>
     <string name="sport_change_time">Overgangstijd</string>
     <string name="please_get_ready_for_runnning">Volgende: Lopen</string>
@@ -176,7 +176,7 @@
     <string name="need_run_kilometer">Interval afstand:</string>
     <string name="need_run_time">Interval tijd:</string>
     <string name="need_rest_time">Nodig</string>
-    <string name="need_rest_by_keypress">Press BACK to continue</string>
+    <string name="need_rest_by_keypress">Druk op (A) om door te gaan</string>
     <string name="low_battery_protect">Lage accubescherming</string>
     <string name="low_battery_tips">Lage batterij</string>
     <string name="low_battery_please_charging">Laad je horloge op.</string>
@@ -193,7 +193,7 @@
     <string name="rope_skip_group_count">Aantal</string>
     <string name="rope_skip_group_freq">Frequentie</string>
     <string name="rope_skip_reset_tips">Heeft gerust</string>
-    <string name="rope_skip_tips">Group %1$s</string>
+    <string name="rope_skip_tips">Groep %1$s</string>
     <string name="rope_skip_tips1">De</string>
     <string name="rope_skip_tips2">set is voltooid</string>
     <string name="rope_skip_avg_heartrate">AVG Hartslag</string>
