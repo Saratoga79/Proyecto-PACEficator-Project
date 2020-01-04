@@ -3,8 +3,8 @@
 <resources>
     <string name="app_name">Mijn Horloge</string>
     <string name="iterations_count">Iterations count</string>
-    <string name="send">Send</string>
-    <string name="file_not_found">File not found at </string>
+    <string name="send">Zend</string>
+    <string name="file_not_found">Bestand niet gevonden</string>
     <string name="connect">Verbinden</string>
     <string name="disconnect">Verbreken</string>
     <string name="link_connected">Link connected</string>
@@ -30,7 +30,7 @@
     <string name="low_battery">Minder dan 5% batterij, laden om door te gaan</string>
     <string name="scan_to_bind">Scan QR-code om te koppelen</string>
     <string name="function_unavailable_tip">Sommige functies niet beschikbaar, doorgaan?</string>
-    <string name="cancel_bind">取消</string>
+    <string name="cancel_bind">Annuleren</string>
     <string name="skip_bind">跳过</string>
     <string name="initial">Initieel</string>
     <string name="qr_code">qr_code</string>
@@ -39,10 +39,10 @@
     <string name="wp_set0">wp_set0</string>
     <string name="wp_set_nm">wp_set_nm</string>
     <string name="wp_sel">wp_sel</string>
-    <string name="storage">storage</string>
+    <string name="storage">opslag</string>
     <string name="locale">lokaal</string>
     <string name="battery">batterij</string>
-    <string name="quit">quit</string>
+    <string name="quit">stop</string>
     <string name="start">start</string>
     <string name="delete">Verwijderen</string>
     <string name="desc_all_day">%s(Hele dag)</string>
@@ -64,11 +64,11 @@
     <string name="get_medal">Test: Ontgrendel nieuwe badge</string>
     <string name="get_medal_firstly">"Gefeliciteerd met het bereiken van je doel. Hier is je badge."</string>
     <string name="schedule_reminder">Test: Agendaherinnering</string>
-    <string name="schedule_birthday_party">Come to my birthday party tonight.</string>
+    <string name="schedule_birthday_party">Kom vanavond naar mijn verjaardagsfeestje.</string>
     <string name="daily_weather">Test: Weerbericht</string>
-    <string name="daily_weather_cloudy_to_sunny">Partly cloudy 25°C/28°C</string>
-    <string name="calendar">Schedule</string>
-    <string name="find_watch_title">Watch has been found</string>
-    <string name="find_watch_msg">Watch has been found through the Amazfit Watch App.</string>
+    <string name="daily_weather_cloudy_to_sunny">Deels bewolkt 25°C/28°C</string>
+    <string name="calendar">Schema</string>
+    <string name="find_watch_title">Horloge gevonden</string>
+    <string name="find_watch_msg">Horloge gevonden via Amazfit App.</string>
     <string name="find_watch_yes">Bevestig</string>
 </resources>
