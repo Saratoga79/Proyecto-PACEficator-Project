@@ -68,7 +68,7 @@
     <string name="not_stroke_speed_data">"Slaggegevens niet gevonden"</string>
     <string name="not_cadence_data">"Cadansgegevens n/a"</string>
     <string name="stroke_speed_curve_title">Slagfrequentie (SPM)</string>
-    <string name="stroke_rowing_title">Rowing speed (bpm)</string>
+    <string name="stroke_rowing_title">Roeisnelheid (BPM)</string>
     <string name="stroke_unit">" slagen"</string>
     <string name="cadence_curve_title">Cadans (#/min)</string>
     <string name="swim_trips_complete">%1$d lengtes gezwommen</string>
@@ -124,7 +124,7 @@
     <string name="picker_sub_title_te_three">(verbeterend)</string>
     <string name="picker_sub_title_te_four">(verbeterend)</string>
     <string name="picker_heart_region_content">Zone %1$d</string>
-    <string name="settings_sport_coach">Sport coach</string>
+    <string name="settings_sport_coach">Sportcoach</string>
     <string name="settings_sport_target">Trainingsdoel</string>
     <string name="settings_sport_remind">Meldingen</string>
     <string name="settings_sport_control">Meer instellingen</string>
@@ -276,7 +276,7 @@ begin nu."</string>
     <string name="swim_butterfly">Vlinderslag</string>
     <string name="swim_stroke_unit">SPM</string>
     <string name="settings_item_title_km_remind_triathlon">Afstandsmelding</string>
-    <string name="setting_sport_heart_region_remind_triathlon">Running heart rate alert</string>
+    <string name="setting_sport_heart_region_remind_triathlon">Waarschuwing voor HR</string>
     <string name="device_conn_title">Chrono</string>
     <string name="heart_conn_title">Hartslagmeter</string>
     <string name="earphone_conn_title">Hoofdtelefoon</string>
@@ -292,10 +292,10 @@ begin nu."</string>
     <string name="sport_dlg_msg_hint_cancel">"Export annuleren?"</string>
     <string name="exchange_prepare_riding">Volgende: Fietsen</string>
     <string name="exchange_prepare_running">Volgende: Lopen</string>
-    <string name="count_down_swim_tint">To prevent accidental touch, screen will be locked.</string>
+    <string name="count_down_swim_tint">Om onbedoeld aanraken te voorkomen, wordt het scherm vergrendeld.</string>
     <string name="sport_widget_title_history_record">Activiteiten</string>
     <string name="sport_widget_title_elliptical">Hometrainer</string>
-    <string name="sport_widget_title_rowing_machine">Rower</string>
+    <string name="sport_widget_title_rowing_machine">Roeier</string>
     <string name="sport_widget_title_rowing_machineing">Roeien</string>
     <string name="sport_widget_title_indoor_swim">Zwembad zwemmen</string>
     <string name="sport_widget_title_open_water_swim">Open water</string>
@@ -327,7 +327,7 @@ begin nu."</string>
     <string name="swim_total_trips">Totaal lengtes</string>
     <string name="swim_stroke">Slagen</string>
     <string name="swim_stroke_times">Sessies</string>
-    <string name="swim_avg_dps">Avg DPS</string>
+    <string name="swim_avg_dps">AVG DPS</string>
     <string name="swim_swolf">SWOLF-score</string>
     <string name="swim_swolf_unit">(%1$sm)</string>
     <string name="swim_swolf_unit_default">(%1$s/100m)</string>
@@ -348,11 +348,11 @@ begin nu."</string>
     <string name="sport_te_desc"><Data>"Het effect van de workout is &lt;font color=#FFFF00&gt;gemiddeld&lt;/font&gt;, waardoor cardiorespiratore conditie behouden blijft."</Data></string>
     <string name="last_kilo_meters_times">Tijd laatste km</string>
     <string name="last_mi_times">Tijd laatste km</string>
-    <string name="last_kilo_meters_times_with_param">Last %1$s kilometer time</string>
+    <string name="last_kilo_meters_times_with_param">Laatste %1$s kilometer tijd</string>
     <string name="last_mi_times_with_param">Last %1$s mile time</string>
     <string name="running_total_distance_desc">Totale afstand</string>
     <string name="setting_sport_title_exteed_region_tips">Waarschuw wanneer buiten %1$s zone</string>
-    <string name="sport_history_bottom_remind">For more records, go to the Amazfit app</string>
+    <string name="sport_history_bottom_remind">Voor meer info, ga naar de Amazfit app</string>
     <string name="swim_unit">yd</string>
     <string name="pace_swim_unit_yd">/100 yd</string>
     <string name="settings_item_value_swim_length_yd">%1$s yards</string>
@@ -487,11 +487,11 @@ begin nu."</string>
     <string name="switch_interval_run">Switch training</string>
     <string name="continuous_hour">%1$d u</string>
     <string name="rowing_machine_this_group_count">Paddles in deze set</string>
-    <string name="rowing_machine_this_frequency">Freq. of this set</string>
+    <string name="rowing_machine_this_frequency">Freq. van deze set</string>
     <string name="rowing_machine_total_count">Totaal paddles</string>
     <string name="rowing_machine_stroke_speed">Paddle frequentie</string>
-    <string name="rowing_machine_pull_time">Pulling duration</string>
-    <string name="rowing_machine_return_time">Pushing duration</string>
+    <string name="rowing_machine_pull_time">Pulling duur</string>
+    <string name="rowing_machine_return_time">Pushing duur</string>
     <string name="rowing_machine_avg_stroke_freq">AVG freq.</string>
     <string name="gps_settings">GPS interval</string>
     <string name="gps_data_interval">Data interval</string>
@@ -872,7 +872,7 @@ to reach full recovery."</string>
     <string name="sport_history_item_cost_time_desc">Tijdsdoel</string>
     <string name="running_avg_step_freq_desc">AVG cadans</string>
     <string name="running_stop_dialog_msg_reach_minimum_distance">Activiteit stoppen?</string>
-    <string name="running_stop_dialog_msg_not_reach_minimum_distance">The distance is too short to save. Stop anyway?</string>
+    <string name="running_stop_dialog_msg_not_reach_minimum_distance">De afstand is te kort om op te slaan. Toch stoppen?</string>
     <string name="running_stop_dialog_positive_text">Stop</string>
     <string name="running_stop_dialog_negative_text">Afbreken</string>
     <string name="sport_history_total_distance_desc">Mileage</string>
