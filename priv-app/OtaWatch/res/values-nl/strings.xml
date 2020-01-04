@@ -4,10 +4,10 @@
     <string name="app_name">otawatch</string>
     <string name="action_settings">Instellingen</string>
     <string name="watch_ota">Horloge updates</string>
-    <string name="wifi_disconnect">Connect to the Amazfit app to check for updates</string>
+    <string name="wifi_disconnect">Verbind met Amazfit app om te controleren op updates</string>
     <string name="connect_phone_wifi">"Controleer de netwerkverbinding van uw telefoon om te controleren op updates"</string>
-    <string name="connect_phone_input_wifi">Connect to the Amazfit app to enter Wi-Fi password for the watch</string>
-    <string name="wifi_add_item">Connect to the Amazfit app to add a new Wi-Fi hotspot</string>
+    <string name="connect_phone_input_wifi">Verbind met Amazfit app om Wi-Fi wachtwoord in te voeren</string>
+    <string name="wifi_add_item">Verbind met Amazfit app om Wi-Fi wachtwoord in te voeren</string>
     <string name="add_wifi">Wifi toevoegen</string>
     <string name="please_update_rom">"Systeem update beschikbaar,
 Update?"</string>
@@ -19,16 +19,16 @@ probeer opnieuw"</string>
 updaten naar versie %1$s ?"</string>
     <string name="has_new_rom_all">"Er is een update beschikbaar.
 Firmware op dit horloge is oud. Updaten kan een tijdje duren."</string>
-    <string name="input_passwor_on_mobile">"Enter Wi-Fi password
-in the Amazfit app"</string>
+    <string name="input_passwor_on_mobile">"Voer Wi-Fi wachtwoord in
+in Amazfit app"</string>
     <string name="processbar_downloading_rom">Downloaden...</string>
     <string name="please_keep_wifi_connect">"Wi-Fi niet verbreken"</string>
     <string name="processbar_downloading_tips">%</string>
     <string name="processbar_downloading_default">0</string>
     <string name="download_rom_faild">"Downloaden van updatess
 mislukt. Probeer opnieuw."</string>
-    <string name="download_rom_success">"Downloaded ROM successfully.
-Install now."</string>
+    <string name="download_rom_success">"Gedownloade ROM succesvol.
+Nu installeren."</string>
     <string name="low_battery_message">Update gedownloaded, de batterij moet boven %1$s%% geladen zijn om te installeren</string>
     <string name="low_battery_title">Lader verbinden</string>
     <string name="progressbar_tips">Controleren…</string>
@@ -55,26 +55,25 @@ Update?"</string>
     <string name="wifi_wait_password">Wachten op wachtwoord…</string>
     <string name="toast_please_update_first">Eerst bijwerken</string>
     <string name="wifi_turnon_going">Wi-Fi inschakelen…</string>
-    <string name="system_update_title">Updated successfully</string>
-    <string name="system_update_content">Upgraded to version %1$s successfully</string>
+    <string name="system_update_title">Bijgewerkt</string>
+    <string name="system_update_content">Upgraden naar versie %1$s succesvol</string>
     <string name="password_error">"Wi-Fi wachtwoord fout.
 Probeer opnieuw."</string>
     <string name="wifi_connect_fail">"Kan geen verbinding maken
 met Wi-Fi netwerk. Probeer
 een ander netwerk"</string>
     <string name="searching">Zoeken…</string>
-    <string name="hasNewUpdateTitle">An update is available</string>
-    <string name="hasNewUpdateInstallContent">Version %1$s is ready to install. Install now?</string>
-    <string name="hasNewUpdateCheckContent">Version %1$s is available. Update now?</string>
+    <string name="hasNewUpdateTitle">Update beschikbaar</string>
+    <string name="hasNewUpdateInstallContent">Versie %1$s beschikbaar. Nu installeren?</string>
+    <string name="hasNewUpdateCheckContent">Versie %1$s beschikbaar. Nu bijwerken?</string>
     <string name="update_title">Selecteer update methode</string>
     <string name="update_online">OTA update</string>
     <string name="update_local">Update van lokaal zip-bestand</string>
     <string name="local_update_confirm_1_title">Let op</string>
     <string name="local_update_invalid_zip">Update naar de meest recente versie van de app</string>
-    <string name="local_update_confirm_1_msg">"To make sure the new version
-works properly, we\'ll erase all
-user data before the update.
-Back up your data using the Amazfit app."</string>
+    <string name="local_update_confirm_1_msg">"Om zeker te zijn dat de nieuwe versie
+goed werkt, worden alle gebruikersgegevens gewist.
+Maak een back-up van uw gegevens in de Amazfit app."</string>
     <string name="local_update_confirm_2_msg">"Zorg er voor dat alle gegevens
 geback-upt zijn. Installatie van de
 update zal alle gegevens op het 
