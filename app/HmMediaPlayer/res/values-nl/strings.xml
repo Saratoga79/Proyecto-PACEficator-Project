@@ -29,11 +29,11 @@
     <string name="music_no_resource">Geen nummers beschikbaar</string>
     <string name="music_source_douban">Watercress FM</string>
     <string name="music_source_local">Lokale nummers</string>
-    <string name="music_down_not_complete_title">The song list has not been fully downloaded, exit?</string>
+    <string name="music_down_not_complete_title">De lijst met nummers is nog niet volledig gedownload, afsluiten?</string>
     <string name="music_no_douban_resource">Geen nummers om te spelen, downloaden?</string>
-    <string name="music_no_local_resource">No songs to play, please connect USB to import.</string>
-    <string name="music_start_tips">Need to connect to a Bluetooth headset for music, connect now?</string>
-    <string name="music_down_not_complete_content">After logging out, songs can be updated in the Music settings - Watercress FM offline.</string>
+    <string name="music_no_local_resource">Geen nummers , sluit USB aan om te importeren.</string>
+    <string name="music_start_tips">Verbinding maken met Bluetooth-headset, nu verbinden?</string>
+    <string name="music_down_not_complete_content">Na uitloggen kunnen nummers worden bijgewerkt in de Muziek instellingen - via Watercress FM.</string>
     <string name="cancel">Sluit</string>
     <string name="enter">Enter</string>
     <string name="music_volumn_control">Volumebeheer</string>
@@ -45,7 +45,7 @@
     <string name="browse_genre_subtitle">Nummers op genre</string>
     <string name="browse_musics_by_genre_subtitle">%1$s nummers</string>
     <string name="random_queue_title">Willekeurig</string>
-    <string name="error_no_connection">Cannot connect to server. Please, check your Internet connectivity.</string>
+    <string name="error_no_connection">Kan geen verbinding maken met server. Controleer internetverbinding.</string>
     <string name="error_loading_media">Fout bij laden Media</string>
     <string name="casting_to_device">Casting naar %1$s</string>
     <string name="currently_playing_song">Huidig nummer</string>
@@ -69,9 +69,9 @@
     <string name="no_search_results">Geen zoekresultaten</string>
     <string name="loading">Laden…</string>
     <string name="media_route_menu_title">Afspelen op…</string>
-    <string name="confirm_exit">"The listed songs have not completely downloaded. 
-Are you sure to exist?"</string>
-    <string name="music_download_cancel">The songs downloading process has been stopped</string>
+    <string name="confirm_exit">"De nummers in de lijst zijn niet volledig gedownload. 
+Toch afsluiten?"</string>
+    <string name="music_download_cancel">Het downloaden van nummers is gestopt</string>
     <string name="play_mode_single_loop">Herhaal éénmaal</string>
     <string name="play_mode_ordered">Afspeelvolgorde</string>
     <string name="play_mode_random">Willekeurig spelen</string>
