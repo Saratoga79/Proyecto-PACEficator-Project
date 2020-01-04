@@ -507,13 +507,13 @@ begin nu."</string>
     <string name="battery_life_power_saving">Energiebesparing</string>
     <string name="battery_life_custom">Aangepast</string>
     <string name="battery_life_subtitle">Geschatte levensduur batterij %d uur</string>
-    <string name="wrist_up_with_bl">Wake screen on wrist raise</string>
-    <string name="airplane_mode">Do not disturb while excercising</string>
+    <string name="wrist_up_with_bl">Scherm wekken bij pols opheffen</string>
+    <string name="airplane_mode">Niet storen tijdens oefenen</string>
     <string name="touch_screen">Aanraakscherm</string>
     <string name="follow_system_settings">Volg systeeminstellingen</string>
     <string name="ok_button">OK</string>
     <string name="back_button">Terug</string>
-    <string name="select_wear_hand">Select wear hand</string>
+    <string name="select_wear_hand">Selecteer hand</string>
     <string name="gps_interval_alert_msg">GPS interval of 60 secs will greatly extend the recording duration of sport, but the accuracy of data recording will be reduced. Functions including 1km subsection, auto subsection, and auto pause cannot be used. Confirm?</string>
     <string name="power_saving_alert_msg">De opnameduur van de sport wordt aanzienlijk verlengd, maar de nauwkeurigheid van gegevensopname wordt verminderd. Functies zoals 1km subsectie, auto-subsectie en automatische pauze kunnen niet worden gebruikt. Bevestigen?</string>
     <string name="notify_agps_time_out">AGPS</string>
@@ -540,10 +540,10 @@ begin nu."</string>
     <string name="sport_add_item">Add new activity</string>
     <string name="sport_delete_item">Activiteit Verwijderen</string>
     <string name="delete_item_tips">Keep a list of at least 1 activity</string>
-    <string name="add_item_tips">The new activity has been added to the activity list</string>
+    <string name="add_item_tips">De nieuwe activiteit is toegevoegd aan de activiteitenlijst</string>
     <string name="huanghe_pause_continue_title">Activiteit acties</string>
     <string name="virtual_rabbit_back_distance">Vertraging afstand</string>
-    <string name="experience_title">Set up personal information, or data will have a large deviation</string>
+    <string name="experience_title">Stel persoonlijke informatie in of gegevens zullen een grote afwijking hebben</string>
     <string name="recovery_time_hour">u</string>
     <string name="sport_vo2_max">VO₂ max</string>
     <string name="sport_ability">Conditieniveau</string>
@@ -598,8 +598,10 @@ to reach full recovery."</string>
     <string name="first_beat_help_te">&lt;font color=#00FF00&gt;What is this?&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Training Effect (TE) measures the accumulated load during a workout and interprets its impact on your aerobic fitness. TE starts from level 0.0. As the workout progresses successfully, TE value increases (from 0 towards 5), telling you how the workout affects your fitness. &lt;br/&gt;&lt;font color=#00FF00&gt;How is it calculated?&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;TE is calculated based on your user profile, heart beat data and difficulty of the workout.&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; The watch will show real-time TE measurement during a workout as well as final TE result at the end of the workout. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;For more details, view Help in Amazfit app.&lt;/small&gt;</string>
     <string name="first_beat_help_train_load">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;The watch will calculate Training Load based on EPOC (Excess Post-exercise Oxygen Consumption) values accumulated from heart rate data recorded during workouts in last 7 days. The user can adjust the training schedule accordingly to reach optimal load. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;For more details, view Help in Amazfit app.&lt;/small&gt;</string>
     <string name="first_beat_help_run_target_and_real_time_guide">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;The watch will provide workout recommendation based on a your VO₂ max fitness level, recent Training Load and recovery status from previous workout. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;If you enable real-time coaching feature in settings and set a TE goal or choose one of the recommended workouts, the watch will guide you through the workout and prompt to adjust pace and heart rate in order to achieve set goals. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;small&gt;For more details, view Help in Amazfit app.&lt;/small&gt;</string>
-    <string name="first_beat_help_daily_perpormence">"&lt;font color=#00FF00&gt;What is this?&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Real-time Performance Condition indicates if you are above or below your average performance level, and how accumulating fatigue affects your performance during a workout. &lt;br/&gt;&lt;font color=#00FF00&gt;How is it used?&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;The watch will evaluate your performance condition automatically after 6 minutes of running. A higher-than-average value indicates that you can make a harder workout than you'd normally do. A lower value suggests that you should take an easier workout. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; After completing a workout, you can analyze the performance by looking at the result at each km/mile on the graph. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;For more details, view Help in Amazfit app.&lt;/small&gt;"</string>
-    <string name="first_beat_help_recovery_time">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;After completing a workout, you will be provided with time in minutes to full recovery. Between workouts recovery time is linearly decreased towards zero if there is no new workout data available. The user is encouraged to have some low intensity workouts to help with recovery. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;For more details, view Help in Amazfit app.&lt;/small&gt;</string>
+    <string name="first_beat_help_daily_perpormence">"&lt;font color=#00FF00&gt;What is this?&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Realtime prestatieconditie geeft aan of u boven of onder uw gemiddelde prestatieniveau bent en hoe accumulerende vermoeidheid uw prestaties beïnvloedt.
+&lt;br/&gt;&lt;font color=#00FF00&gt;Hoe werkt het？ &lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Het horloge evalueert uw prestaties automatisch na ~6minuten hardlopen. Een hogere waarde dan gemiddeld geeft aan dat u een zwaardere training aankunt dan u normaal zou doen. Een lagere waarde suggereert dat u een gemakkelijkere training moet nemen.
+&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Na het voltooien van een training kunt u de prestaties analyseren door naar het resultaat bij elke km in de grafiek te bekijken. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;"</string>
+    <string name="first_beat_help_recovery_time">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Na het voltooien van een training wordt u voorzien van tijd in minuten voor volledig herstel. De hersteltijd tussen trainingen is vervroegd naar nul gedaald als er geen nieuwe trainingsgegevens beschikbaar zijn. De gebruiker wordt aangemoedigd om wat lage intensiteit workouts te hebben om te helpen met het herstel. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;Voor meer details, bekijk Help in Amazfit app.&lt;/small&gt;</string>
     <string name="vo2max_unit">ml/kg/min</string>
     <string name="run_vo2max_unit">ml/kg/min</string>
     <string name="vo2_max_has_no_data">Geen gegevens</string>
@@ -627,7 +629,7 @@ to reach full recovery."</string>
     <string name="gpx_back_route">Terug naar route</string>
     <string name="gpx_alreay_offset">Afgeweken</string>
     <string name="gpx_no_find_route">Geen route gevonden</string>
-    <string name="gpx_no_route_guide">"Connect your watch to the computer and copy the GPX file to the 'GPXData' folder and try again"</string>
+    <string name="gpx_no_route_guide">"Sluit aan op computer en kopieer het GPX-bestand naar de map 'GPXData' en probeer het opnieuw"</string>
     <string name="bpm_to">BPM tot</string>
     <string name="indoor_run_progressing">Loopband</string>
     <string name="run_train_title">Loop training</string>
@@ -646,7 +648,7 @@ to reach full recovery."</string>
     <string name="music_start_tips">Bluetooth headset moet verbonden zijn, nu verbinden?</string>
     <string name="music_not_known">Nummer onbekend</string>
     <string name="music_update_content">Muziek updaten</string>
-    <string name="music_update_tips_content">Douban FM updates songs regularly. Updating songs will replace the music library. Update now?</string>
+    <string name="music_update_tips_content">Douban FM updatet regelmatig liedjes. Bijwerken van nummers zal de muziekbibliotheek vervangen. Nu updaten?</string>
     <string name="music_pause">Pauze</string>
     <string name="music_fm_title">Douban FM</string>
     <string name="music_fm_notification_content">Sports FM heeft een aantal nieuwe afspeellijsten, ga en download ze！</string>
@@ -817,7 +819,7 @@ to reach full recovery."</string>
     <string name="cur_lap_duration">Groep tijd</string>
     <string name="cur_lap_distance">Ronde afst.</string>
     <string name="cur_lap_hr">Heart rate in this lap</string>
-    <string name="cur_lap_speed">Speed for this lap</string>
+    <string name="cur_lap_speed">Rondesnelheid</string>
     <string name="cur_lap_pace">Tempo deze ronde</string>
     <string name="running_cost_time_desc">Groeptijd</string>
     <string name="running_pace_desc">Tempo</string>
@@ -922,7 +924,7 @@ to reach full recovery."</string>
     <string name="sport_notification_content">%skm</string>
     <string name="notification_title_medal">Prestaties</string>
     <string name="history_heart_rate_graph_desc">Hartslag (BPM)</string>
-    <string name="sport_medal_desc_first_sport">Complete a workout for the first time</string>
+    <string name="sport_medal_desc_first_sport">Voltooi de eerste training</string>
     <string name="sport_medal_desc_one_5_km">5km training</string>
     <string name="sport_medal_desc_one_10_km">10km training</string>
     <string name="sport_medal_desc_total_50_km">Totale trainingsafstand: 50km</string>
@@ -980,14 +982,14 @@ to reach full recovery."</string>
     <string name="wait_gps_search_retry">Opnieuw proberen</string>
     <string name="wait_gps_hint">Het GPS-signaal is beter in open ruimte ver van gebouwen</string>
     <string name="wait_gps_success">GPS beschikbaar, training kan beginnen</string>
-    <string name="lock_screen">Screen locked</string>
+    <string name="lock_screen">Scherm vergrendeld</string>
     <string name="txt_unlock_screen">Press and hold the screen to unlock</string>
     <string name="sport_screen_un_lock">Ontgrendeld</string>
     <string name="lock_status_locked">Geblokkeerd</string>
     <string name="lock_status_unlock_ing">Ontgrendelen</string>
     <string name="lock_status_unlock_fail">"Ontgrendelen mislukt"</string>
     <string name="lock_status_unlock_success">Succesvol ontgrendeld</string>
-    <string name="remind_info_stop_sport">End the exercise first</string>
+    <string name="remind_info_stop_sport">Beëindig oefening</string>
     <string name="searching_gps_in_progress">Wachten op GPS...</string>
     <string name="remind_current_pace">Huidig tempo</string>
     <string name="remind_current_heart">Huidig</string>
@@ -1007,12 +1009,12 @@ to reach full recovery."</string>
     <string name="settings_sport_six_data">6 items</string>
     <string name="settting_sport_gpx_route">GPX-route</string>
     <string name="not_save_sport_summary">Negeren</string>
-    <string name="delete_sport_summary">Delete record</string>
+    <string name="delete_sport_summary">Verwijder opname</string>
     <string name="give_up_sport_record">Negeren</string>
-    <string name="give_up_sport_record_tips">Discard this activity?</string>
-    <string name="delete_sport_summary_tips">Delete this activity?</string>
-    <string name="reminder_wear_not_tight_0">Wear the watch above the wrist</string>
-    <string name="reminder_wear_not_tight_1">And fasten the device</string>
+    <string name="give_up_sport_record_tips">Activiteit negeren?</string>
+    <string name="delete_sport_summary_tips">Activiteit Verwijderen?</string>
+    <string name="reminder_wear_not_tight_0">Draag het horloge boven de pols</string>
+    <string name="reminder_wear_not_tight_1">en maakt het horloge vast</string>
     <string name="gps_time_out_re_rearch">GPS verlopen, zoek opnieuw.</string>
     <string name="walking_step">passen</string>
     <string name="waling_steps">passen</string>
@@ -1034,7 +1036,7 @@ to reach full recovery."</string>
     <string name="remind_heart_rate_current_heart_rate">Actueel %1$d BPM</string>
     <string name="tennic_wear_hand_guide">Draag de horloge aub aan de racket-hand</string>
     <string name="sport_time_seconds">sec</string>
-    <string name="sport_type_num_text">%1$d activity types</string>
+    <string name="sport_type_num_text">%1$d activiteit types</string>
     <string name="sport_type_runing">Lopen</string>
     <string name="sport_type_riding">Paardrijden</string>
     <string name="sport_type_indoor">Binnen</string>
