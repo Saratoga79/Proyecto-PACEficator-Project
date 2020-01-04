@@ -6,11 +6,11 @@
         <item quantity="one">1 scherm in Overzicht</item>
     </plurals>
     <plurals name="kg_password_wrong_pin_code">
-        <item quantity="other">Incorrect SIM PIN code, you have %d remaining attempts.</item>
-        <item quantity="one">Incorrect SIM PIN code, you have %d remaining attempt before you must contact your carrier to unlock your device.</item>
+        <item quantity="other">Foute PIN code, %d resterende pogingen.</item>
+        <item quantity="one">Foute PIN code, %d resterende poging.</item>
     </plurals>
     <plurals name="kg_password_wrong_puk_code">
-        <item quantity="other">Incorrect SIM PUK code, you have %d remaining attempts before SIM becomes permanently unusable.</item>
-        <item quantity="one">Incorrect SIM PUK code, you have %d remaining attempt before SIM becomes permanently unusable.</item>
+        <item quantity="other">Foute PUK code, %d resterende pogingen.</item>
+        <item quantity="one">Foute PUK code, %d resterende poging.</item>
     </plurals>
 </resources>
