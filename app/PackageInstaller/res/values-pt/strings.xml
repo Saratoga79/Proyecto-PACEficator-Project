@@ -4,9 +4,9 @@
     <string name="app_name">Package installer</string>
     <string name="next">Próximo</string>
     <string name="install">Install</string>
-    <string name="done">Concluído</string>
+    <string name="done">Done</string>
     <string name="security_settings_desc">Allow this app to:</string>
-    <string name="cancel">Cancelar</string>
+    <string name="cancel">取消</string>
     <string name="unknown">Desconhecido</string>
     <string name="installing">Installing…</string>
     <string name="install_done">App installed.</string>
@@ -32,17 +32,17 @@
     <string name="ok">OK</string>
     <string name="settings">Definições</string>
     <string name="allow_source_dlg_title">New source for apps</string>
-    <string name="allow_source_dlg_text">"%1$s deseja instalar outros apps.
+    <string name="allow_source_dlg_text">"%1$s quer instalar outras aplicações.
 
-Permitir isso agora e no futuro?"</string>
+Permitir isto agora e no futuro?"</string>
     <string name="manage_applications">Manage apps</string>
     <string name="dlg_app_replacement_title">Replace app?</string>
-    <string name="dlg_app_replacement_statement">"O app que você está instalando substitui outro app. 
+    <string name="dlg_app_replacement_statement">"A app que vais instalar substituirá a outra.
 
-Todos os seus dados anteriores serão salvos."</string>
-    <string name="dlg_sys_app_replacement_statement">"Este é um app do sistema.
+Todos os dados serão guardados."</string>
+    <string name="dlg_sys_app_replacement_statement">"Isto é uma aplicação de sistema.
 
-Todos os seus dados de usuário anteriores serão salvos."</string>
+Todos os dados serão guardados."</string>
     <string name="out_of_space_dlg_title">Out of space</string>
     <string name="out_of_space_dlg_text">"%1$s couldn't be installed. Free up some space and try again."</string>
     <string name="dlg_ok">OK</string>
