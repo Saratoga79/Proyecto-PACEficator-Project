@@ -12,12 +12,12 @@
     <string name="lang_it_it">Italiano</string>
     <string name="lang_fr_fr">Francês</string>
     <string name="lang_pl_pl">Polaco</string>
-    <string name="lang_ko_kr">한국의</string>
+    <string name="lang_ko_kr">Coreano</string>
     <string name="lang_tr_tr">Türk dili</string>
-    <string name="lang_ja_jp">日本語</string>
+    <string name="lang_ja_jp">Japonês</string>
     <string name="cmiit_id">"\"CMIIT ID
 %s\""</string>
-    <string name="app_name">SetupWizard</string>
+    <string name="app_name">Assistente de instalação</string>
     <string name="locale_title">Selecione o idioma</string>
     <string name="tip_install_wear_companion">Install the Amazfit app on your phone first.</string>
     <string name="tip_low_battery">Battery must be at least 5% charged to pair.</string>
@@ -44,7 +44,7 @@
     <string name="outdoor_riding">Outdoor cycling</string>
     <string name="indoor_riding">Indoor cycling</string>
     <string name="cross_contry">Trail run</string>
-    <string name="eppitical">Elliptical</string>
+    <string name="eppitical">Elíptico</string>
     <string name="indoor_swimming">Natação em Piscina</string>
     <string name="outdoor_swimming">Open water</string>
     <string name="triathlon">Triathlon</string>
@@ -54,7 +54,7 @@
     <string name="skiing">Skiing</string>
     <string name="tennis">Tennis</string>
     <string name="soccer">Soccer</string>
-    <string name="golf">Golf</string>
+    <string name="golf">Golfe</string>
     <string name="complex_sport">Multisport</string>
     <string name="rope_skipping">Jump rope</string>
     <string name="on_foot">A pé</string>
@@ -68,8 +68,8 @@
     <string name="mileage">Distancia</string>
     <string name="rope_skip_freq">Frequência</string>
     <string name="row_stroke_freq">Frequência</string>
-    <string name="sport_has_paused">Paused</string>
-    <string name="sport_paused_time">Paused</string>
+    <string name="sport_has_paused">Em pausa</string>
+    <string name="sport_paused_time">Em pausa</string>
     <string name="sport_distance">Distancia</string>
     <string name="sport_mileage">Distancia</string>
     <string name="sport_downhill_total_distance">Total downhill</string>
@@ -151,21 +151,21 @@
 \"</string>
     <string name="music">Música</string>
     <string name="press_long_power_key_wake_up">Press a physical button to exit</string>
-    <string name="sport_auto_pause_end">Session ended, save the data?</string>
+    <string name="sport_auto_pause_end">Sessão encerrada, salvar os dados?</string>
     <string name="sport_slpt_stop_next_group">Próximo</string>
     <string name="group_rowing_freq">Frequência</string>
-    <string name="group_rowing_count">Times</string>
+    <string name="group_rowing_count">Vezes</string>
     <string name="picker_default_positive_text">OK</string>
-    <string name="picker_default_nagetive_text">Off</string>
-    <string name="no_heartrate_data_hint">"Não foi possível encontrar dados da frequência cardíaca"</string>
+    <string name="picker_default_nagetive_text">Desligado</string>
+    <string name="no_heartrate_data_hint">"Não foi possível encontrar dados de frequência cardíaca"</string>
     <string name="no_altitude_hint">"Não foi possível encontrar dados de altitude"</string>
-    <string name="title_settings">Definições</string>
+    <string name="title_settings">Configurações</string>
     <string name="sport_music_settings">Música</string>
-    <string name="widget_currentstep_title">Dados</string>
+    <string name="widget_currentstep_title">Data</string>
     <string name="widget_currentstep_activities">"Atividade de hoje"</string>
     <string name="widget_currentstep_sleep_hour">h</string>
     <string name="widget_currentstep_sleep_min">m</string>
-    <string name="widget_currentstep_sleep_title">Dormir ontem à noite</string>
+    <string name="widget_currentstep_sleep_title">Dormiu ontem à noite</string>
     <string name="widget_currentstep_sleep_no">Sem dados de sono</string>
     <string name="widget_currentstep_activity_no">Nenhuma atividade hoje?</string>
 </resources>
