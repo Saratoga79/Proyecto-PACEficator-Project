@@ -37,10 +37,10 @@
     <string name="double_click_wakeup_open">Вкл</string>
     <string name="double_click_wakeup_close">Изкл</string>
     <string name="dlg_confirm">Потвърди</string>
-    <string name="dlg_cancel">Cancel</string>
+    <string name="dlg_cancel">Отказ</string>
     <string name="sport">Спорт</string>
-    <string name="small_plugins">Widget</string>
-    <string name="long_key_sport_title">Select</string>
+    <string name="small_plugins">Добавка</string>
+    <string name="long_key_sport_title">Избери</string>
     <string name="long_key_plugins_title">Добавка</string>
     <string name="more">Settings</string>
     <string name="find_phone">Find My Phone</string>
@@ -103,7 +103,7 @@
     <string name="sport_remind_end_title">Reminding of Turning off the Sport Mode</string>
     <string name="sport_remind_open_tips">When Turning On, It Will Remind You to Turn On the Motion Mode Quickly When It Detects That You Are Running or Sport Walking .</string>
     <string name="sport_remind_end_tips">After Turning On, It Will Remind You to End and Save When It Detects That You Have Finished The Sport</string>
-    <string name="sport_remind_open">Turn On</string>
+    <string name="sport_remind_open">Включи</string>
     <string name="voice_set">Sound Setting</string>
     <string name="ring">Звън</string>
     <string name="volume">Сила на звука</string>
@@ -147,19 +147,19 @@
     <string name="en">English(U.S.)</string>
     <string name="zh_hk">繁體中文(香港)</string>
     <string name="zh_tw">繁體中文(台灣)</string>
-    <string name="ru_ru">Русский</string>
-    <string name="es_es">Español</string>
-    <string name="de_de">Deutsch</string>
+    <string name="ru_ru">Руски</string>
+    <string name="es_es">Испански</string>
+    <string name="de_de">Немски</string>
     <string name="it_it">Italiano</string>
     <string name="fr_fr">Français</string>
     <string name="pl_pl">Полски</string>
     <string name="ko_kr">한국의</string>
     <string name="ja_jp">日本語</string>
-    <string name="paobu">Running</string>
-    <string name="jianzou">Walking</string>
+    <string name="paobu">Бягане</string>
+    <string name="jianzou">Ходене</string>
     <string name="yueye">Trail Run</string>
     <string name="shineipao">Run Indoor</string>
-    <string name="huwaiqi">Cycling</string>
+    <string name="huwaiqi">Колоездене</string>
     <string name="tuoyuanji">Elliptical</string>
     <string name="dengshan">Изкачване</string>
     <string name="tierensan">Triathlon</string>
@@ -175,7 +175,7 @@
     <string name="zhifubao">Alipay</string>
     <string name="jishiqi">Таймер</string>
     <string name="mijia">Mi Home</string>
-    <string name="zhinanzhen">Compass</string>
+    <string name="zhinanzhen">Компас</string>
     <string name="yinyue">Музика</string>
     <string name="report_bug_dialog_title">Feedback</string>
     <string name="report_bug_dialog_desc">If there is a data error or the watch works abnormally, you can upload the data through the feedback feature to our server for analysis. During this process, the previously generated logs on the watch will be automatically collected and uploaded. These logs are used only for problem analysis, and will be destroyed immediately after that. During the entire process we will comply with our Privacy Policy, view details of the policy on the Amazfit Watch app.</string>
@@ -234,13 +234,13 @@
     <string name="blt_bound_stat_disconnect">Disconnected</string>
     <string name="blt_bound_stat_bonding">Pairing...</string>
     <string name="blt_bound_stat_none">Available</string>
-    <string name="blt_default_name">Unnamed</string>
+    <string name="blt_default_name">Без име</string>
     <string name="blt_hint_disconnect">"%1s
 Disconnect?"</string>
     <string name="blt_hint_connect">"%1s
 Свързване?"</string>
     <string name="blt_hint_connect_fail">Connection failed, please re-connect</string>
-    <string name="blt_type_ear">Headset</string>
+    <string name="blt_type_ear">Cлушалки</string>
     <string name="blt_speaker">Аудио</string>
     <string name="blt_car_system">Vehicle-mounted</string>
     <string name="blt_type_mabiao">MW</string>
@@ -410,7 +410,7 @@ kg"</string>
  ICAN ICE-3(B)/NMB-3(B)"</string>
     <string name="setting_regulation_model_name">Model : %1$s</string>
     <string name="confirm_shutdown">Shutdown?</string>
-    <string name="confirm_reboot">Reboot?</string>
+    <string name="confirm_reboot">Рестарт?</string>
     <string name="app_name">Settings</string>
     <string name="lab_desc">Collect part of the debugging tools</string>
     <string name="unknown">Unknown device</string>
