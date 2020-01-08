@@ -79,7 +79,7 @@
     <string name="gps_search_success">GPS disponible</string>
     <string name="gps_search_failed_title">"GPS no dispobible"</string>
     <string name="gps_search_failed_content">No pueden adquirir satélites GPS, inténtalo de nuevo al aire libre</string>
-    <string name="gps_search_success_title">GPS disponible ahora</string>
+    <string name="gps_search_success_title">GPS disponible</string>
     <string name="gps_search_success_content">¡Sigamos y empecemos la actividad!</string>
     <string name="gps_search_timeout_title">El GPS ha expirado</string>
     <string name="gps_search_timeout_content">AGPS caducado, el GPS tardará en conectar. Sincroniza los datos en la app de Amazfit para actualizarlo</string>
@@ -543,7 +543,7 @@
     <string name="huanghe_pause_continue_title">Pausar/continuar</string>
     <string name="virtual_rabbit_back_distance">D. Perdida</string>
     <string name="experience_title">Por favor, configure la información personal, o los datos tendrán una gran desviación</string>
-    <string name="recovery_time_hour">Horas</string>
+    <string name="recovery_time_hour">h</string>
     <string name="sport_vo2_max">VO2max</string>
     <string name="sport_ability">Nivel estado físico VO2Max</string>
     <string name="sport_train_load">Carga de entrenamiento</string>
@@ -552,7 +552,7 @@
     <string name="currnet_daily_performance_staus">Condición actual</string>
     <string name="sport_ability_up">Mejorando</string>
     <string name="sport_ability_down">Empeorando</string>
-    <string name="time_unit_hour">Hora</string>
+    <string name="time_unit_hour">h</string>
     <string name="train_load_medium">Medio</string>
     <string name="train_load_near_seven_days">Últimos siete días</string>
     <string name="train_load_suggess_status_no_record">"Evaluaremos tu carga de entrenamiento basandonos en el ejercicio aeróbico de los últimos 7 días."</string>
@@ -741,7 +741,7 @@ para un ejercicio más efectivo\"</string>
     <string name="rope_arrive_goal_unit">veces/seg</string>
     <string name="aleary_finish_group">%1$s grupos completados</string>
     <string name="this_group_count">Conteo de grupo</string>
-    <string name="group_cost_time">Tiempo de grupo</string>
+    <string name="group_cost_time">Tiempo</string>
     <string name="group_frequency">Frecuencia de grupo</string>
     <string name="aleary_rest">Descansado</string>
     <string name="next_group">Siguiente grupo</string>
@@ -838,7 +838,7 @@ para un ejercicio más efectivo\"</string>
     <string name="sport_widget_title_run">Correr</string>
     <string name="sport_widget_title_walk">Caminar</string>
     <string name="sport_widget_title_cross">Carrera trail</string>
-    <string name="sport_widget_title_on_foot">Senderismo</string>
+    <string name="sport_widget_title_on_foot">Trekking</string>
     <string name="sport_widget_title_indoor_fitness">Gimnasio</string>
     <string name="sport_widget_title_indoor_run">Cin. estática</string>
     <string name="sport_widget_title_record">Actividades</string>
@@ -892,7 +892,7 @@ para un ejercicio más efectivo\"</string>
     <string name="history_detail_pace_desc">Ritmo (min/km)</string>
     <string name="history_detail_calorie_desc">Calorias (kcal)</string>
     <string name="history_detail_step_freq">Cadencia (pasos/min)</string>
-    <string name="history_detail_speed">Velocidad por hora (km/h)</string>
+    <string name="history_detail_speed">Velocidad (km/h)</string>
     <string name="waiting_gps_gps_unavailable">A la espera de la señal GPS</string>
     <string name="waiting_gps_gps_available">GPS disponible</string>
     <string name="waiting_gps_gps_available_button_text">OK</string>
@@ -916,7 +916,7 @@ para un ejercicio más efectivo\"</string>
     <string name="settings_item_value_target_distance">%.2f mi</string>
     <string name="settings_item_value_pace">Inferior a %s</string>
     <string name="title_medal_list_header">Logros deportivos</string>
-    <string name="time_picker_hour">Hora</string>
+    <string name="time_picker_hour">h</string>
     <string name="time_picker_minute">Minuto</string>
     <string name="distance_picker_km">km</string>
     <string name="sport_notification_view_detail">Deportes al aire libre</string>
@@ -1272,7 +1272,7 @@ para un ejercicio más efectivo\"</string>
     <string name="low_battery_please_charging">Carga tu reloj</string>
     <string name="virtual_rabbit">Liebre virtual</string>
     <string name="virtual_rabbit_back_time">T. Perdido</string>
-    <string name="rope_skip_group_time">Hora</string>
+    <string name="rope_skip_group_time">Tiempo</string>
     <string name="rope_skip_group_count">Conteo de grupo</string>
     <string name="rope_skip_group_freq">Frecuencia</string>
     <string name="rope_skip_reset_tips">Tiempo descansado</string>
