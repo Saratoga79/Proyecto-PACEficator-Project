@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:id="@id/content" android:background="@color/black" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/footer" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="10.0dip">
+        <com.huami.watch.common.widget.HmHaloButton android:textSize="14.0sp" android:textColor="@color/white" android:gravity="center" android:id="@id/button_1" android:background="@drawable/icon_dialog_button_bg_positive" android:paddingLeft="15.0dip" android:clickable="false" android:layout_width="140.0dip" android:layout_height="40.0dip" android:drawablePadding="-15.0dip" />
+        <com.huami.watch.common.widget.HmHaloButton android:textSize="14.0sp" android:textColor="@color/white" android:gravity="center" android:id="@id/button_2" android:background="@drawable/icon_dialog_button_bg_negative" android:paddingLeft="15.0dip" android:clickable="false" android:layout_width="140.0dip" android:layout_height="40.0dip" android:layout_marginTop="13.299988dip" android:drawablePadding="-15.0dip" />
+    </LinearLayout>
+</LinearLayout>
