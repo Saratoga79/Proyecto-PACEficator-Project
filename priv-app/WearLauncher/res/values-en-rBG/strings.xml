@@ -325,7 +325,7 @@
     <string name="cue_menu_stopwatch">Start stopwatch</string>
     <string name="cue_menu_agenda">Дневен ред</string>
     <string name="cue_menu_agenda_help">for today</string>
-    <string name="cue_menu_settings">Settings</string>
+    <string name="cue_menu_settings">Настройки</string>
     <string name="cue_menu_bug_report">Take bug report</string>
     <string name="cue_menu_apps">Старт…</string>
     <string name="cue_launch_error">"Sorry, Google can't do that right now."</string>
@@ -337,7 +337,7 @@
     <string name="voice_action_open">Отвори</string>
     <string name="voice_action_opening">Opening…</string>
     <string name="voice_action_contact_upload_needed">To complete this action, turn on contact recognition on your phone</string>
-    <string name="voice_action_sending">Sending…</string>
+    <string name="voice_action_sending">Изпращане…</string>
     <string name="voice_action_send">Изпрати</string>
     <string name="voice_action_calling">Calling…</string>
     <string name="voice_action_call">Обаждане</string>
@@ -358,7 +358,7 @@
     <string name="voice_action_alarm_title">Аларма</string>
     <string name="voice_action_timer_title">Таймер</string>
     <string name="voice_action_sms_title">SMS</string>
-    <string name="voice_action_remote_app_title">Open app</string>
+    <string name="voice_action_remote_app_title">Отвори приложение</string>
     <string name="voice_action_play_music_title">Play music on phone</string>
     <string name="voice_action_field_destination_description">Destination</string>
     <string name="voice_action_field_destination_address">Aдрес</string>
@@ -366,13 +366,13 @@
     <string name="voice_action_field_to">До</string>
     <string name="voice_action_field_when">Кога</string>
     <string name="voice_action_field_label">Надпис</string>
-    <string name="voice_action_field_duration">Duration</string>
-    <string name="voice_action_field_reminder">Reminder</string>
+    <string name="voice_action_field_duration">Продължителност</string>
+    <string name="voice_action_field_reminder">Напомняне</string>
     <string name="voice_action_field_ask_what">About what?</string>
     <string name="voice_action_field_ask_when">Кога?</string>
     <string name="voice_action_field_ask_to_whom">To whom?</string>
     <string name="voice_action_field_ask_which_one">Which one?</string>
-    <string name="voice_action_field_ask_message">Message?</string>
+    <string name="voice_action_field_ask_message">Съобщение?</string>
     <string name="voice_action_field_no_match">"Didn't catch that"</string>
     <string name="voice_action_field_ask_note">Бележка?</string>
     <string name="note_creation_success">Note created</string>
@@ -444,9 +444,9 @@
     <string name="monday">Понеделник</string>
     <string name="tuesday">Вторник</string>
     <string name="wednesday">Wednesday</string>
-    <string name="thursday">Thursday</string>
+    <string name="thursday">Четвъртък</string>
     <string name="friday">Петък</string>
-    <string name="saturday">Saturday</string>
+    <string name="saturday">Събота</string>
     <string name="sunday">Неделя</string>
     <string name="search_flight_departure_location">Depart %s</string>
     <string name="search_flight_arrival_location">Arrive %s</string>
@@ -477,9 +477,9 @@
     <string name="tilt_detector_notification_title">Tilt detector service running</string>
     <string name="unknown_caller">Unknown caller</string>
     <string name="incoming_call">Incoming call</string>
-    <string name="incoming_call_sending">Sending…</string>
+    <string name="incoming_call_sending">Изпращане…</string>
     <string name="av_next">Напред</string>
-    <string name="av_previous">Previous</string>
+    <string name="av_previous">Предишна</string>
     <string name="av_thumbs_up">Thumbs up</string>
     <string name="av_thumbs_down">Thumbs down</string>
     <string name="av_volume_up">Volume up</string>
@@ -588,7 +588,7 @@
     <string name="power_charging_duration_usb">%1$d%% - %2$s until full over USB</string>
     <string name="power_charging_duration_wireless">%1$d%% - %2$s until full from wireless</string>
     <string name="battery_info_status_unknown">Неизвестно</string>
-    <string name="battery_info_status_charging">Charging</string>
+    <string name="battery_info_status_charging">Зареждане</string>
     <string name="battery_info_status_charging_ac">Charging on AC</string>
     <string name="battery_info_status_charging_usb">Charging over USB</string>
     <string name="battery_info_status_charging_wireless">Charging wirelessly</string>
@@ -600,7 +600,7 @@
     <string name="quick_settings_notifications_none">Няма</string>
     <string name="quick_settings_notifications_not_even_alarms">Not even alarms</string>
     <string name="quick_settings_notifications_priority">Priority only</string>
-    <string name="quick_settings_notifications_all">Show all</string>
+    <string name="quick_settings_notifications_all">Покажи всички</string>
     <string name="state_on">Вкл</string>
     <string name="state_off">Изкл</string>
     <string name="quick_settings_sunlight_title">Sunlight mode</string>
@@ -623,7 +623,7 @@
     <string name="weather_title">"Today's weather"</string>
     <string name="dot"> </string>
     <string name="forecast_today">Днес</string>
-    <string name="forecast_tomorrow">Tomorrow</string>
+    <string name="forecast_tomorrow">Утре</string>
     <string name="weather_warning">Предупреждение</string>
     <string name="weather_warning_level_blue">Синьо</string>
     <string name="weather_warning_level_orange">Оранжево</string>
