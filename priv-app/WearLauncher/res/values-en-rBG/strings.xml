@@ -5,7 +5,7 @@
     <string name="generic_notification_more">More(%s)</string>
     <string name="notification_unread_num">Unread %s</string>
     <string name="notification_click_upgrade">Актуализация</string>
-    <string name="notification_click_download">Download</string>
+    <string name="notification_click_download">Изтегляне</string>
     <string name="notification_click_open">Още</string>
     <string name="delete_all_notifications">Clear all notifications</string>
     <string name="delete_all_notifications_confrim_content">Deleted notifications can’t be retrieved later on the watch, continue?</string>
@@ -32,7 +32,7 @@
     <string name="quick_settings_switch_on">ВКЛ</string>
     <string name="quick_settings_switch_off">ИЗКЛ</string>
     <string name="quick_settings_toast_on">Разрешено</string>
-    <string name="quick_settings_toast_off">Disabled</string>
+    <string name="quick_settings_toast_off">Забранено</string>
     <string name="quick_settings_status">Disconnected</string>
     <string name="quick_settings_no_disturb_toast">Notification will not be shown</string>
     <string name="quick_settings_auto_light_toast">Screen highlighting, will increase the power consumption</string>
@@ -84,7 +84,7 @@
     <string name="amazing_dialog_btn_cancel_text">Отказ</string>
     <string name="accept">Приемам</string>
     <string name="action_failure">"Sorry, that didn't work"</string>
-    <string name="action_success">Success!</string>
+    <string name="action_success">Успешно!</string>
     <string name="action_working">On the way...</string>
     <string name="activity_not_found">There was a problem completing the requested action.</string>
     <string name="data_checkfail_match">Weather type fields do not match</string>
@@ -97,7 +97,7 @@
     <string name="notification_block_message">No longer receive app notifications</string>
     <string name="notification_block_ok">Потвърди</string>
     <string name="notification_more_settings">More settings</string>
-    <string name="notification_time_just">Just now</string>
+    <string name="notification_time_just">Току що</string>
     <string name="notification_time_yesterday">Yesterday</string>
     <string name="notificaton_empty_message">No notifications</string>
     <string name="music">Музика</string>
@@ -188,7 +188,7 @@
     <string name="retail_36_mins">36 мин</string>
     <string name="retail_to_home">вкъщи</string>
     <string name="retail_light_traffic">Light traffic on A12</string>
-    <string name="retail_navigate">Navigate</string>
+    <string name="retail_navigate">Придвижване</string>
     <string name="retail_turn_by_turn">Turn-by-turn directions on your wrist.</string>
     <string name="retail_slideshow_traffic">Get traffic info for your route to work.</string>
     <string name="retail_british_airways">British Airways 873</string>
@@ -219,7 +219,7 @@
     <string name="now_time_to_leave_now">Leave now</string>
     <string name="now_calendar_event_address">%1$s, %2$s</string>
     <string name="now_flight_passenger">Passenger</string>
-    <string name="now_flight_ticket_number">Ticket #</string>
+    <string name="now_flight_ticket_number">Билет #</string>
     <string name="now_flight_seat">Място</string>
     <string name="now_flight_group">Група</string>
     <string name="package_first_two_items">%1$s &amp; %2$s</string>
@@ -234,7 +234,7 @@
 ден"</string>
     <string name="cal_mail_all">Email all guests</string>
     <string name="cal_navigate_to">Navigate to %s</string>
-    <string name="cal_navigate">Navigate</string>
+    <string name="cal_navigate">Придвижване</string>
     <string name="cal_where">Къде</string>
     <string name="cal_when">Кога</string>
     <string name="cal_notes">Бележки</string>
@@ -246,7 +246,7 @@
     <string name="cal_min">min</string>
     <string name="cal_plus_x_more">+ %s more</string>
     <string name="cal_email_subject">[Update] %s</string>
-    <string name="cal_no_event">No events</string>
+    <string name="cal_no_event">Няма събития</string>
     <string name="cal_no_title">(No title)</string>
     <string name="cal_event_duration" formatted="false">%s %s</string>
     <string name="cal_dummy_count_down">60</string>
@@ -290,7 +290,7 @@
     <string name="dismissing">Dismissing...</string>
     <string name="cue_menu_take_a_note">Take a note</string>
     <string name="cue_menu_take_a_note_help">drink more water</string>
-    <string name="cue_menu_reminder">Remind me</string>
+    <string name="cue_menu_reminder">Напомни ми</string>
     <string name="cue_menu_reminder_help">to go for a run at 7am</string>
     <string name="cue_menu_show_steps">Show me my steps</string>
     <string name="cue_menu_track_bike_ride">Start a bike ride</string>
@@ -325,7 +325,7 @@
     <string name="cue_menu_stopwatch">Start stopwatch</string>
     <string name="cue_menu_agenda">Дневен ред</string>
     <string name="cue_menu_agenda_help">for today</string>
-    <string name="cue_menu_settings">Settings</string>
+    <string name="cue_menu_settings">Настройки</string>
     <string name="cue_menu_bug_report">Take bug report</string>
     <string name="cue_menu_apps">Старт…</string>
     <string name="cue_launch_error">"Sorry, Google can't do that right now."</string>
@@ -337,7 +337,7 @@
     <string name="voice_action_open">Отвори</string>
     <string name="voice_action_opening">Opening…</string>
     <string name="voice_action_contact_upload_needed">To complete this action, turn on contact recognition on your phone</string>
-    <string name="voice_action_sending">Sending…</string>
+    <string name="voice_action_sending">Изпращане…</string>
     <string name="voice_action_send">Изпрати</string>
     <string name="voice_action_calling">Calling…</string>
     <string name="voice_action_call">Обаждане</string>
@@ -358,7 +358,7 @@
     <string name="voice_action_alarm_title">Аларма</string>
     <string name="voice_action_timer_title">Таймер</string>
     <string name="voice_action_sms_title">SMS</string>
-    <string name="voice_action_remote_app_title">Open app</string>
+    <string name="voice_action_remote_app_title">Отвори приложение</string>
     <string name="voice_action_play_music_title">Play music on phone</string>
     <string name="voice_action_field_destination_description">Destination</string>
     <string name="voice_action_field_destination_address">Aдрес</string>
@@ -366,13 +366,13 @@
     <string name="voice_action_field_to">До</string>
     <string name="voice_action_field_when">Кога</string>
     <string name="voice_action_field_label">Надпис</string>
-    <string name="voice_action_field_duration">Duration</string>
-    <string name="voice_action_field_reminder">Reminder</string>
+    <string name="voice_action_field_duration">Продължителност</string>
+    <string name="voice_action_field_reminder">Напомняне</string>
     <string name="voice_action_field_ask_what">About what?</string>
     <string name="voice_action_field_ask_when">Кога?</string>
     <string name="voice_action_field_ask_to_whom">To whom?</string>
     <string name="voice_action_field_ask_which_one">Which one?</string>
-    <string name="voice_action_field_ask_message">Message?</string>
+    <string name="voice_action_field_ask_message">Съобщение?</string>
     <string name="voice_action_field_no_match">"Didn't catch that"</string>
     <string name="voice_action_field_ask_note">Бележка?</string>
     <string name="note_creation_success">Note created</string>
@@ -392,7 +392,7 @@
     <string name="email_success">Email sent</string>
     <string name="call_success">Call started on your phone</string>
     <string name="open_remote_app_success">Opened on phone</string>
-    <string name="voice_action_reminder_field">Reminder?</string>
+    <string name="voice_action_reminder_field">Напомняне?</string>
     <string name="alarm_setting_success">Alarm created</string>
     <string name="timer_setting_success">Timer started</string>
     <string name="reminder_at_home">У дома</string>
@@ -443,10 +443,10 @@
     <string name="local_closed">Затворен</string>
     <string name="monday">Понеделник</string>
     <string name="tuesday">Вторник</string>
-    <string name="wednesday">Wednesday</string>
-    <string name="thursday">Thursday</string>
+    <string name="wednesday">Сряда</string>
+    <string name="thursday">Четвъртък</string>
     <string name="friday">Петък</string>
-    <string name="saturday">Saturday</string>
+    <string name="saturday">Събота</string>
     <string name="sunday">Неделя</string>
     <string name="search_flight_departure_location">Depart %s</string>
     <string name="search_flight_arrival_location">Arrive %s</string>
@@ -477,9 +477,9 @@
     <string name="tilt_detector_notification_title">Tilt detector service running</string>
     <string name="unknown_caller">Unknown caller</string>
     <string name="incoming_call">Incoming call</string>
-    <string name="incoming_call_sending">Sending…</string>
+    <string name="incoming_call_sending">Изпращане…</string>
     <string name="av_next">Напред</string>
-    <string name="av_previous">Previous</string>
+    <string name="av_previous">Предишна</string>
     <string name="av_thumbs_up">Thumbs up</string>
     <string name="av_thumbs_down">Thumbs down</string>
     <string name="av_volume_up">Volume up</string>
@@ -495,7 +495,7 @@
     <string name="disconnected">Disconnected</string>
     <string name="timed_out_state">Timed out</string>
     <string name="offline_state">Извън линия</string>
-    <string name="no_items">No items.</string>
+    <string name="no_items">Няма елементи.</string>
     <string name="disambiguate_action">Disambiguate action</string>
     <string name="status_bar_date_format">MMM d</string>
     <string name="battery_is_at">Battery is at</string>
@@ -588,7 +588,7 @@
     <string name="power_charging_duration_usb">%1$d%% - %2$s until full over USB</string>
     <string name="power_charging_duration_wireless">%1$d%% - %2$s until full from wireless</string>
     <string name="battery_info_status_unknown">Неизвестно</string>
-    <string name="battery_info_status_charging">Charging</string>
+    <string name="battery_info_status_charging">Зареждане</string>
     <string name="battery_info_status_charging_ac">Charging on AC</string>
     <string name="battery_info_status_charging_usb">Charging over USB</string>
     <string name="battery_info_status_charging_wireless">Charging wirelessly</string>
@@ -600,7 +600,7 @@
     <string name="quick_settings_notifications_none">Няма</string>
     <string name="quick_settings_notifications_not_even_alarms">Not even alarms</string>
     <string name="quick_settings_notifications_priority">Priority only</string>
-    <string name="quick_settings_notifications_all">Show all</string>
+    <string name="quick_settings_notifications_all">Покажи всички</string>
     <string name="state_on">Вкл</string>
     <string name="state_off">Изкл</string>
     <string name="quick_settings_sunlight_title">Sunlight mode</string>
@@ -623,7 +623,7 @@
     <string name="weather_title">"Today's weather"</string>
     <string name="dot"> </string>
     <string name="forecast_today">Днес</string>
-    <string name="forecast_tomorrow">Tomorrow</string>
+    <string name="forecast_tomorrow">Утре</string>
     <string name="weather_warning">Предупреждение</string>
     <string name="weather_warning_level_blue">Синьо</string>
     <string name="weather_warning_level_orange">Оранжево</string>
