@@ -5,10 +5,10 @@
     <string name="app_widget_barometer">Барометр</string>
     <string name="action_settings">Настройки</string>
     <string name="settings_item_high_light_scale_factor">0.5</string>
-    <string name="locale_title">Locale</string>
+    <string name="locale_title">Язык</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
-    <string name="latitude">Latitude</string>
-    <string name="longitude">Longitude</string>
+    <string name="latitude">Широта</string>
+    <string name="longitude">Долгота</string>
     <string name="north_latitude">Северная широта</string>
     <string name="south_latitude">Южная широта</string>
     <string name="east_longitude">Восточная долгота</string>
@@ -37,15 +37,15 @@
     <string name="unknown">--</string>
     <string name="compass_roll_tip">«Настроить часы лицом вверх
 для горизонтальной ориентации»</string>
-    <string name="widget_altitude">Altitude</string>
+    <string name="widget_altitude">Высота</string>
     <string name="widget_altitude_unit">(m)</string>
     <string name="widget_altitude_unit_imperial">(ft)</string>
     <string name="widget_bar">Давление</string>
     <string name="widget_bar_unit">(hPa)</string>
-    <string name="widget_fish_bar">Fishing pressure</string>
+    <string name="widget_fish_bar">Давление рыбалки</string>
     <string name="widget_bar_bad">Плохо</string>
     <string name="widget_bar_good">Хорошо</string>
     <string name="widget_bar_better_good">Очень хорошо</string>
     <string name="widget_bar_best">Лучшее</string>
-    <string name="widget_mofify_al">Enter current altitude</string>
+    <string name="widget_mofify_al">Введите текущую высоту</string>
 </resources>
