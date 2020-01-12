@@ -131,15 +131,15 @@
     <string name="delete_record">Delete record</string>
     <string name="start_server">Start TCP server</string>
     <string name="notify_server">Notify TCP server</string>
-    <string name="map_session_key_dialog_title">ป้อนรหัสเซสชันสำหรับ \"%1$s\"</string>
-    <string name="map_session_key_dialog_header">จำเป็นต้องระบุคีย์เซสชันบลูทูธ</string>
-    <string name="map_acceptance_timeout_message">หมดเวลาเมื่อยอมรับการเชื่อมต่อกับ \"%1$s\"</string>
-    <string name="map_authentication_timeout_message">หมดเวลาใช้งานเมื่อป้อนรหัสเซสชันสำหรับ \"%1$s\"</string>
-    <string name="map_auth_notif_ticker">คำขอตรวจสอบ OBEX</string>
-    <string name="map_auth_notif_title">กุญแจเซสชั่น</string>
-    <string name="map_auth_notif_message">ป้อนรหัสเซสชันสำหรับ\"%1$s\"</string>
-    <string name="map_defaultname">ชุดอุปกรณ์ติดรถยนต์</string>
-    <string name="map_unknownName">ชื่อที่ไม่รู้จัก</string>
-    <string name="map_localPhoneName">ฉันชื่อ</string>
+    <string name="map_session_key_dialog_title">Enter password \"%1$s</string>
+    <string name="map_session_key_dialog_header">Requires Bluetooth password</string>
+    <string name="map_acceptance_timeout_message">Timed out accepting connection to \"%1$s\"</string>
+    <string name="map_authentication_timeout_message">Timed out while entering password for \"%1$s\"</string>
+    <string name="map_auth_notif_ticker">OBEX authentication request</string>
+    <string name="map_auth_notif_title">Password</string>
+    <string name="map_auth_notif_message">Enter password for \"%1$s\"</string>
+    <string name="map_defaultname">Car kit</string>
+    <string name="map_unknownName">Unknown name</string>
+    <string name="map_localPhoneName">My name</string>
     <string name="map_defaultnumber">000000</string>
 </resources>
