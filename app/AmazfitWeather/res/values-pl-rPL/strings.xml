@@ -6,7 +6,7 @@
     <string name="data_checkfail_temp">Weather temperature out of range</string>
     <string name="data_checkfail_match">Weather type fields do not match</string>
     <string name="data_checkfail_json">JSON format error</string>
-    <string name="app_name">Weather</string>
+    <string name="app_name">Pogoda</string>
     <string name="action_settings">Ustawienia</string>
     <string name="celsius">℃</string>
     <string name="fahrenheit">℉</string>
@@ -54,12 +54,12 @@
     <string name="no_outdoor_info">"Nie można uzyskać informacji"</string>
     <string name="outdoor_info_notsuit">Nie nadaje się do sportu</string>
     <string name="outdoor_info_suit">Nadaje się do sportu</string>
-    <string name="wind_strength">Wind force</string>
-    <string name="moisture">Humidity</string>
-    <string name="uv">UV index</string>
-    <string name="detailed">Weather details</string>
-    <string name="forecast">Weather forecast</string>
-    <string name="fetching">Just a sec…</string>
+    <string name="wind_strength">Siła wiatru</string>
+    <string name="moisture">Wilgotność</string>
+    <string name="uv">Indeks UV</string>
+    <string name="detailed">Szczegóły pogody</string>
+    <string name="forecast">Prognoza pogody</string>
+    <string name="fetching">Zaczekaj…</string>
     <string name="fetch_failed">"Couldn't get info"</string>
     <string name="unknown">Unknown</string>
     <string name="fetch_failed_title">"Couldn't get weather info"</string>
@@ -68,7 +68,7 @@
     <string name="forecast_today">Dzisiaj</string>
     <string name="forecast_tomorrow">Jutro</string>
     <string name="fetch_failed_help">Stay connected with the Amazfit app to sync the weather automatically.</string>
-    <string name="cancel">Close</string>
+    <string name="cancel">Zamknij</string>
     <string name="wind_breeze">Breeze</string>
     <string name="wind_rotating">Whirlwind</string>
     <string name="wind_N">N wind</string>
