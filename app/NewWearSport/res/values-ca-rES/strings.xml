@@ -41,7 +41,7 @@
     <string name="crossing_settings_item_title_individual_remind">Single lap distance</string>
     <string name="crossing_settings_item_value_individual">%1s km</string>
     <string name="crossing_remind_target_individual_title">Lap %1d</string>
-    <string name="crossing_remind_target_individual_cost_time">时间</string>
+    <string name="crossing_remind_target_individual_cost_time">Temps</string>
     <string name="crossing_remind_target_individual_pace">Pace</string>
     <string name="agps_time_out">AGPS has expired. GPS searching will be slow. Connect to the Amazfit App to update it.</string>
     <string name="safe_hearate_remind_content">Notify when higher than %1d BPM</string>
@@ -93,7 +93,7 @@
     <string name="detail_route_detail_auto_lap_title">Auto laps</string>
     <string name="detail_lap_num">Lap</string>
     <string name="detail_lap_serial_number">Serial number</string>
-    <string name="detail_lap_time">时间</string>
+    <string name="detail_lap_time">Temps</string>
     <string name="detail_total_distance_desc">Total distance</string>
     <string name="detail_lap_dis">Distance</string>
     <string name="detail_lap_avg_pace">Avg pace</string>
@@ -746,7 +746,7 @@ to reach full recovery."</string>
     <string name="rope_arrive_goal_unit">s/jump</string>
     <string name="aleary_finish_group">Group %1$s</string>
     <string name="this_group_count">Count</string>
-    <string name="group_cost_time">时间</string>
+    <string name="group_cost_time">Temps</string>
     <string name="group_frequency">Frequency</string>
     <string name="aleary_rest">Has rested</string>
     <string name="next_group">Next</string>
@@ -828,7 +828,7 @@ to reach full recovery."</string>
     <string name="cur_lap_hr">Heart rate in this lap</string>
     <string name="cur_lap_speed">Speed for this lap</string>
     <string name="cur_lap_pace">Pace for this lap</string>
-    <string name="running_cost_time_desc">时间</string>
+    <string name="running_cost_time_desc">Temps</string>
     <string name="running_pace_desc">Pace</string>
     <string name="running_calorie_desc">\"Calories
 \"</string>
@@ -879,7 +879,7 @@ to reach full recovery."</string>
     <string name="running_control_title">Run</string>
     <string name="running_control_paused_des">Paused</string>
     <string name="sport_history_item_distance_desc">Distance (km)</string>
-    <string name="sport_history_item_cost_time_desc">时间</string>
+    <string name="sport_history_item_cost_time_desc">Temps</string>
     <string name="running_avg_step_freq_desc">Avg cadence</string>
     <string name="running_stop_dialog_msg_reach_minimum_distance">Stop this activity?</string>
     <string name="running_stop_dialog_msg_not_reach_minimum_distance">The distance is too short to save. Stop anyway?</string>
@@ -890,7 +890,7 @@ to reach full recovery."</string>
     <string name="sport_history_header_calorie_desc">Total calories</string>
     <string name="history_heart_rate_desc">Heart rate:</string>
     <string name="history_heart_rate_unit">BPM</string>
-    <string name="history_info_cost_time_desc">时间</string>
+    <string name="history_info_cost_time_desc">Temps</string>
     <string name="history_detail_paused_time">Paused time</string>
     <string name="history_detail_running_title">Run</string>
     <string name="history_detail_walking_title">Walk</string>
@@ -965,7 +965,7 @@ to reach full recovery."</string>
     <string name="remind_target_km_title_format">Completed: %1$d km</string>
     <string name="remind_target_km_walking_title_format">Completed: %1$d km</string>
     <string name="remind_target_distance_finished">Completed</string>
-    <string name="remind_target_cost_time_desc">时间</string>
+    <string name="remind_target_cost_time_desc">Temps</string>
     <string name="remind_target_pace_desc">Pace</string>
     <string name="remind_target_distance_pace_unit">/km</string>
     <string name="remind_heart_rate_too_high">Heart rate is too high</string>
@@ -1282,7 +1282,7 @@ to reach full recovery."</string>
     <string name="low_battery_please_charging">Charge your watch.</string>
     <string name="virtual_rabbit">Virtual rabbit</string>
     <string name="virtual_rabbit_back_time">Lag time</string>
-    <string name="rope_skip_group_time">时间</string>
+    <string name="rope_skip_group_time">Temps</string>
     <string name="rope_skip_group_count">Count</string>
     <string name="rope_skip_group_freq">Frequency</string>
     <string name="rope_skip_reset_tips">Has rested</string>
