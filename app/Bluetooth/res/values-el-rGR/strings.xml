@@ -72,10 +72,10 @@
     <string name="bt_toast_4">Γίνεται αποστολή του αρχείου στο \"%1$s\"</string>
     <string name="bt_toast_5">Αποστολή %1$s αρχείων στο \"%2$s\"</string>
     <string name="bt_toast_6">Διακόπηκε η αποστολή του αρχείου στο \"%1$s\"</string>
-    <string name="bt_sm_2_1">"There isn't enough space on the SD card to save the file from \"%1$s\""</string>
-    <string name="bt_sm_2_2">Space needed: %1$s</string>
-    <string name="ErrorTooManyRequests">Too many requests are being processed. Try again later.</string>
-    <string name="status_pending">File transfer not started yet.</string>
+    <string name="bt_sm_2_1">"Δεν υπάρχει αρκετός χώρος στην κάρτα SD για την αποθήκευση του αρχείου από \"%1$s\""</string>
+    <string name="bt_sm_2_2">Απαιτούμενος χώρος: %1$s</string>
+    <string name="ErrorTooManyRequests">Πραγματοποιείται επεξεργασία πάρα πολλών αιτημάτων. Προσπαθήστε ξανά αργότερα.</string>
+    <string name="status_pending">Η μεταφορά του αρχείου δεν έχει ξεκινήσει ακόμα.</string>
     <string name="status_running">File transfer is ongoing.</string>
     <string name="status_success">File transfer completed successfully.</string>
     <string name="status_not_accept">"Content isn't supported."</string>
@@ -134,12 +134,12 @@
     <string name="map_session_key_dialog_title">Enter password \"%1$s</string>
     <string name="map_session_key_dialog_header">Requires Bluetooth password</string>
     <string name="map_acceptance_timeout_message">Timed out accepting connection to \"%1$s\"</string>
-    <string name="map_authentication_timeout_message">Timed out while entering password for \"%1$s\"</string>
-    <string name="map_auth_notif_ticker">OBEX authentication request</string>
-    <string name="map_auth_notif_title">Password</string>
-    <string name="map_auth_notif_message">Enter password for \"%1$s\"</string>
-    <string name="map_defaultname">Car kit</string>
-    <string name="map_unknownName">Unknown name</string>
-    <string name="map_localPhoneName">My name</string>
+    <string name="map_authentication_timeout_message">Παρέλευση χρόνου κατά την εισαγωγή του κωδικού πρόσβασης \"%1$s\"</string>
+    <string name="map_auth_notif_ticker">Αίτημα ελέγχου ταυτότητας Obex</string>
+    <string name="map_auth_notif_title">Κωδικός πρόσβασης</string>
+    <string name="map_auth_notif_message">Εισάγετε κωδικό για \"%1$s\"</string>
+    <string name="map_defaultname">Κιτ αυτοκινήτου</string>
+    <string name="map_unknownName">Άγνωστο όνομα</string>
+    <string name="map_localPhoneName">Το όνομα μου</string>
     <string name="map_defaultnumber">000000</string>
 </resources>
