@@ -18,36 +18,36 @@
     <item>com.huami.watch.deskclock/com.huami.watch.deskclock.countdown.CountdownWidget</item>
   </string-array>
   <string-array name="alarm_set">
-    <item>Alarm will go off in less than 1 minute.</item>
-    <item>Alarm will go off in %1$s.</item>
-    <item>Alarm will go off in %2$s.</item>
-    <item>Alarm will go off in %1$s and %2$s.</item>
-    <item>Alarm will go off in %3$s.</item>
-    <item>Alarm will go off in %1$s and %3$s.</item>
-    <item>Alarm will go off in %2$s and %3$s.</item>
-    <item>Alarm will go off in %1$s, %2$s, and %3$s.</item>
+    <item>Alarma 1 min baino gutxigorako programatua</item>
+    <item>Alarma %1$s-rako programatua</item>
+    <item>Alarma %2$s-rako programatua</item>
+    <item>Alarma %1$s eta %2$s-rako programatua</item>
+    <item>Alarma %3$s-rako programatua</item>
+    <item>Alarma %1$s eta %3$s-rako programatua</item>
+    <item>Alarma %2$s eta %3$s-rako programatua</item>
+    <item>Alarma %1$s, %2$s eta %3$s-rako programatua</item>
   </string-array>
   <string-array name="repeat_description">
-    <item>Egunero</item>
-    <item>Lanegunetan</item>
-    <item>Asteburuan</item>
-    <item>Al</item>
-    <item>As</item>
-    <item>Asz</item>
-    <item>Ost</item>
-    <item>Osr</item>
+    <item>Behin bakarrik</item>
+    <item>Astelehena</item>
+    <item>Asteartea</item>
+    <item>Asteazkena</item>
+    <item>Osteguna</item>
+    <item>Ostirala</item>
+    <item>Larunbata</item>
+    <item>Igandea</item>
     <item>Lar</item>
     <item>Iga</item>
   </string-array>
   <string-array name="short_week_days">
     <item></item>
-    <item>Iga</item>
+    <item>Ig</item>
     <item>Al</item>
     <item>As</item>
-    <item>Asz</item>
-    <item>Ost</item>
-    <item>Osr</item>
-    <item>Lar</item>
+    <item>Az</item>
+    <item>Og</item>
+    <item>Or</item>
+    <item>Lr</item>
   </string-array>
   <string-array name="am_pm">
     <item>AM</item>

@@ -131,15 +131,15 @@
     <string name="delete_record">Eliminar registo</string>
     <string name="start_server">Iniciar servidor TCP</string>
     <string name="notify_server">Notificar servidor TCP</string>
-    <string name="map_session_key_dialog_title">Digite a senha para %1$s</string>
-    <string name="map_session_key_dialog_header">A senha do Bluetooth é necessária</string>
-    <string name="map_acceptance_timeout_message">Tempo esgotado ao aceitar a conexão com %1$s</string>
-    <string name="map_authentication_timeout_message">Tempo esgotado para introduzir a senha para %1$s</string>
-    <string name="map_auth_notif_ticker">Solicitação de autenticação OBEX</string>
-    <string name="map_auth_notif_title">Senha</string>
-    <string name="map_auth_notif_message">Digite a senha para %1$s</string>
-    <string name="map_defaultname">Kit mãos livres</string>
-    <string name="map_unknownName">Nome desconhecido</string>
-    <string name="map_localPhoneName">Meu nome</string>
+    <string name="map_session_key_dialog_title">Enter password \"%1$s</string>
+    <string name="map_session_key_dialog_header">Requires Bluetooth password</string>
+    <string name="map_acceptance_timeout_message">Timed out accepting connection to \"%1$s\"</string>
+    <string name="map_authentication_timeout_message">Timed out while entering password for \"%1$s\"</string>
+    <string name="map_auth_notif_ticker">OBEX authentication request</string>
+    <string name="map_auth_notif_title">Password</string>
+    <string name="map_auth_notif_message">Enter password for \"%1$s\"</string>
+    <string name="map_defaultname">Car kit</string>
+    <string name="map_unknownName">Unknown name</string>
+    <string name="map_localPhoneName">My name</string>
     <string name="map_defaultnumber">#000000</string>
 </resources>

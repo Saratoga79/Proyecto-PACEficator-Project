@@ -11,24 +11,24 @@
         <item>Has rested</item>
     </string-array>
     <string-array name="lab_item_android_settings">
-        <item>[prim]Original system settings</item>
-        <item>[sum]Settings of Android</item>
+        <item>[prim]Jatorrizko sistema ezarpenak</item>
+        <item>[sum]Android Ezarpena</item>
         <item>[pkg]com.android.settings</item>
     </string-array>
     <string-array name="lab_item_logger">
         <item>[prim]WearLogger</item>
-        <item>[sum]One-click crawling log ^_^</item>
+        <item>[sum]一 Tekla nagusiak log ^_^</item>
         <item>[pkg]com.huami.watch.wearlogger</item>
         <item>[clazz]com.huami.watch.wearlogger.AllLogActivityLab</item>
     </string-array>
     <string-array name="lab_item_selftest">
-        <item>[prim]selftest</item>
-        <item>[sum]start selftest by yourself</item>
+        <item>[prim]Auto-proba</item>
+        <item>[sum]Zeure burua egiaztatzen hasi zaitez</item>
         <item>[action]com.huami.watch.selftest.START</item>
     </string-array>
     <string-array name="lab_item_open_applist">
         <item>[prim]Launcher Applist</item>
-        <item>[sum]Open or close applist</item>
+        <item>[sum]Ireki edo itxi applist</item>
         <item>[sid]applist</item>
     </string-array>
     <string-array name="lab_item_bt_hci_snoop_log">
@@ -37,19 +37,19 @@
         <item>[sid]btsnoop</item>
     </string-array>
     <string-array name="lab_item_power_test">
-        <item>[prim]Power consumption test in flight mode</item>
-        <item>[sum]Detect power consumption in flight mode</item>
-        <item>[sid]power_test</item>
+        <item>[prim] Prueba de consumo con Modo Avión activado</item>
+        <item>[sum] Prueba de consumo con Modo Avión activado</item>
+        <item>[sid] Prueba de consumo</item>
     </string-array>
     <string-array name="lab_item_long_sitting_timer_plus">
-        <item>[prim]Time of sedentary reminder</item>
-        <item>[sum]Set the time of sedentary reminder (in min)</item>
+        <item>[prim]Sedentarioa gogorarazteko denbora</item>
+        <item>[sum]Ezarri sedent. gogorarazlearen minutuak</item>
         <item>[pkg]com.huami.mobile.watchsettings</item>
         <item>[clazz]com.huami.moblie.watchsettings.actions.lab.labUI.LongSittingTimeActivity</item>
     </string-array>
     <string-array name="lab_item_wifi_signal_intensity">
-        <item>[prim]Signal strength</item>
-        <item>[sum]Signal strength test</item>
+        <item>[prim]Seinale indarra</item>
+        <item>[sum]Seinalearen indar proba</item>
         <item>[pkg]com.huami.mobile.watchsettings</item>
         <item>[clazz]com.huami.moblie.watchsettings.actions.lab.labUI.WifiTestActivity</item>
     </string-array>
@@ -239,13 +239,13 @@
         <item>+13 Tongatapu</item>
     </string-array>
     <string-array name="light_mode_subtitle">
-        <item>Brightness: close</item>
-        <item>Argitasuna: auto</item>
-        <item>Argitasuna: 2</item>
-        <item>Argitasuna: 2</item>
-        <item>Argitasuna: 1</item>
-        <item>Argitasuna: 3</item>
-        <item>Argitasuna: 4</item>
-        <item>Argitasuna: 5</item>
+        <item>Brightness: itzalduta</item>
+        <item>Brightness: auto</item>
+        <item>Brightness: 2</item>
+        <item>Brightness: 2</item>
+        <item>Brightness: 1</item>
+        <item>Brightness: 3</item>
+        <item>Brightness: 4</item>
+        <item>Brightness: 5</item>
     </string-array>
 </resources>
