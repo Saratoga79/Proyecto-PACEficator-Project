@@ -131,15 +131,15 @@
     <string name="delete_record">Dzēst ierakstu</string>
     <string name="start_server">Sākt TCP serveri</string>
     <string name="notify_server">Paziņot TCP serveri</string>
-    <string name="map_session_key_dialog_title">Ievadiet sesijas atslēgu\"%1$s\"</string>
-    <string name="map_session_key_dialog_header">Nepieciešama Bluetooth sesijas atslēga</string>
-    <string name="map_acceptance_timeout_message">Noildze, pieņemot savienojumu ar “%1$s”</string>
-    <string name="map_authentication_timeout_message">Noildze, ievadot sesijas atslēgu \"%1$s\"</string>
-    <string name="map_auth_notif_ticker">OBEX autentifikācijas pieprasījums</string>
-    <string name="map_auth_notif_title">sesijas atslēga</string>
-    <string name="map_auth_notif_message">Ievadiet sesijas atslēgu \"%1$s\"</string>
-    <string name="map_defaultname">Automašīnu komplekti</string>
-    <string name="map_unknownName">Nezināms nosaukums</string>
-    <string name="map_localPhoneName">Mans vārds</string>
+    <string name="map_session_key_dialog_title">Enter password \"%1$s</string>
+    <string name="map_session_key_dialog_header">Requires Bluetooth password</string>
+    <string name="map_acceptance_timeout_message">Timed out accepting connection to \"%1$s\"</string>
+    <string name="map_authentication_timeout_message">Timed out while entering password for \"%1$s\"</string>
+    <string name="map_auth_notif_ticker">OBEX authentication request</string>
+    <string name="map_auth_notif_title">Password</string>
+    <string name="map_auth_notif_message">Enter password for \"%1$s\"</string>
+    <string name="map_defaultname">Car kit</string>
+    <string name="map_unknownName">Unknown name</string>
+    <string name="map_localPhoneName">My name</string>
     <string name="map_defaultnumber">000000</string>
 </resources>
