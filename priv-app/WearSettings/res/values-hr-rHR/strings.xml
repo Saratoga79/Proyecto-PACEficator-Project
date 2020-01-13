@@ -353,26 +353,26 @@
     <string name="nodisturb_open_string">Uključeno</string>
     <string name="nodisturb_close_string">Isključi</string>
     <string name="nodisturb_timepicker_connect_symbol">:</string>
-    <string name="auto_nodisturb_title_string">Auto no disturb</string>
-    <string name="auto_nodisturb_start_time_string">Turn-on time</string>
+    <string name="auto_nodisturb_title_string">Auto DND</string>
+    <string name="auto_nodisturb_start_time_string">Vrijeme uključivanja</string>
     <string name="auto_screen_wristup_start_time_string">Od</string>
-    <string name="auto_nodisturb_end_time_string">Turn-off time</string>
+    <string name="auto_nodisturb_end_time_string">Vrijeme isključivanja</string>
     <string name="auto_screen_wristup_end_time_string">Do</string>
     <string name="time_to">Do</string>
     <string name="wrist_up_hand">Podizanje zgloba</string>
     <string name="wrist_up_hand_with_bl">Uključi pozadinsko osvjetljenje</string>
-    <string name="auto_wifi_trans_on_string">On</string>
+    <string name="auto_wifi_trans_on_string">Uključeno</string>
     <string name="auto_wifi_trans_off_string">Isključi</string>
     <string name="blue_tooth_dev_in_sub_list">Bluetooth</string>
-    <string name="scanning_blt_devices">Searching...</string>
-    <string name="blt_bound_stat_bonded">Paired</string>
-    <string name="blt_bound_stat_connected">Connected</string>
-    <string name="blt_bound_stat_disconnect">Disconnected</string>
-    <string name="blt_bound_stat_bonding">Pairing...</string>
-    <string name="blt_bound_stat_none">Available</string>
-    <string name="blt_default_name">Unnamed</string>
+    <string name="scanning_blt_devices">Traženje...</string>
+    <string name="blt_bound_stat_bonded">Upareno</string>
+    <string name="blt_bound_stat_connected">Povezano</string>
+    <string name="blt_bound_stat_disconnect">Veza prekinuta</string>
+    <string name="blt_bound_stat_bonding">Uparivanje...</string>
+    <string name="blt_bound_stat_none">Dostupno</string>
+    <string name="blt_default_name">Bez naziva</string>
     <string name="blt_hint_disconnect">"%1s
-Disconnect?"</string>
+prekinuti vezu?"</string>
     <string name="blt_hint_connect">"%1s
 Povezati?"</string>
     <string name="blt_hint_connect_fail">Connection failed, please re-connect</string>
@@ -505,7 +505,7 @@ svi podaci u satu bit će izbrisani, a sat će se odspojiti s vašeg mobitela.
     <string name="unwear">Skinite sat</string>
     <string name="wear">Stavite sat</string>
     <string name="lockpattern_need_confirm">Iscrtajte ponovo</string>
-    <string name="lockpattern_pattern_short">Please Connect at Least 4 Points</string>
+    <string name="lockpattern_pattern_short">Povežite najmanje 4 točke</string>
     <string name="lockpattern_confirm_wrong">Pattern Inconformity</string>
     <string name="lockpattern_change_none">There Is No Unlocking Pattern Currently</string>
     <string name="security_lockpattern">Gesture Password</string>
