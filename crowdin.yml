@@ -1,3 +1,11 @@
 files:
   - source: /**/**/res/values/
     translation: /**/res/values-%android_code%/%file_name%.xml
+    languages_mapping:
+      android_code:
+        eu: en-rEU
+        eu: eu-rES
+    translate_content: 0
+    translate_attributes: 0
+    content_segmentation: 0
+
