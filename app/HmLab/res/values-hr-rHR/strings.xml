@@ -3,28 +3,28 @@
 <resources>
     <string name="app_name">Huami Lab</string>
     <string name="main_title">Huami lab</string>
-    <string name="agreement_title">PPG capturing</string>
-    <string name="orig_data_collect">Activity data collection</string>
-    <string name="message">"We\'ll collect raw PPG data when you wear the watch.
-The data will only be used for research purposes.
-This feature will adversely impact the battery life."</string>
+    <string name="agreement_title">PPG snimanje</string>
+    <string name="orig_data_collect">Prikupljanje podataka o aktivnostima</string>
+    <string name="message">"Prikupit ćemo raw PPG podatke kad nosite sat.
+Podaci će se koristiti samo u istraživačke svrhe.
+Ova će značajka negativno utjecati na trajanje baterije."</string>
     <string name="allow">Dopusti</string>
     <string name="exit">Izlaz</string>
-    <string name="message_everest">"We'll collect raw PPG data when you wear the watch. The data will only be used for research purposes. This feature will adversely impact the battery life."</string>
+    <string name="message_everest">"Prikupit ćemo raw PPG podatke kad nosite sat. Podaci će se koristiti samo u istraživačke svrhe. Ova će značajka negativno utjecati na trajanje baterije."</string>
     <string name="heart_rate_collection_on">Uključeno</string>
     <string name="heart_rate_collection_off">Isključi</string>
     <string name="hbeacon_on">Uključeno</string>
     <string name="hbeacon_off">Isključi</string>
-    <string name="hbeacon_on_confirm_message">Tap to turn the HBeacon feature on, so the watch battery may be slightly reduced, and you may need to pair your phone with the watch again after it reboots.</string>
-    <string name="hbeacon_off_confirm_message">Tap to turn off the HBeacon feature, and you may need to pair your phone with the watch again after it reboots.</string>
+    <string name="hbeacon_on_confirm_message">Dodirnite da biste uključili značajku HBeacon, tako da će možda biti smanjena baterija sata, a možda ćete morati ponovo upariti telefon s satom nakon što se ponovno pokrene.</string>
+    <string name="hbeacon_off_confirm_message">Dodirnite da biste isključili značajku HBeacon i možda ćete trebati upariti telefon s satom nakon što se ponovno pokrene.</string>
     <string name="saving_data">Spremanje podataka</string>
-    <string name="upload_data">Upload data</string>
+    <string name="upload_data">Pošalji podatke</string>
     <string name="upload_success">Gotovo</string>
-    <string name="upload_failed">"Couldn't upload. Try again."</string>
+    <string name="upload_failed">"Prijenos nije uspio. Pokušajte ponovo."</string>
     <string name="air_mode_alert_title">"Ne mogu se povezati"</string>
-    <string name="air_mode_alert_message">Turn off Airplane mode then try again.</string>
-    <string name="report_sensor_capture_dialog_title">Activity data collection</string>
-    <string name="report_sensor_capture_dialog_desc">When turning on activity data collection, we will collect original information of sensor after you start an exercise, and stop immediately when you end the exercise. Such data will be submitted to the server as well when you submit watch issue feedback for analysis. These logs are used only for problem analysis, and will be destroyed immediately after that. During the entire process we will comply with our Privacy Policy, view details of the policy on the Amazfit app.</string>
+    <string name="air_mode_alert_message">Isključite Zrakoplovni način i pokušajte ponovo.</string>
+    <string name="report_sensor_capture_dialog_title">Prikupljanje podataka o aktivnostima</string>
+    <string name="report_sensor_capture_dialog_desc">Kada uključimo prikupljanje podataka o aktivnostima, prikupljat ćemo originalne podatke senzora nakon što započnete vježbu i zaustaviti odmah kad završite s vježbom. Takvi će se podaci dostaviti poslužitelju i kad pošaljete povratne informacije sata na analizu. Ovi se dnevnici koriste samo za analizu problema i bit će uništeni odmah nakon toga. Tijekom cijelog postupka pridržavati ćemo se naših Pravila o privatnosti, pogledajte detalje pravila na Amazfit aplikaciji.</string>
     <string name="dialog_agree">Slažem se</string>
     <string name="dialog_quit">Izlaz</string>
     <string name="watch_demo_model">Demo način rada</string>
@@ -79,15 +79,15 @@ This feature will adversely impact the battery life."</string>
     <string name="gps_singal_lost">"GPS signal nije dostupan"</string>
     <string name="gps_close_1">Nema kretanja dugo vremena,</string>
     <string name="gps_close_2">GPS je isključen.</string>
-    <string name="heartrate">Heart rate</string>
-    <string name="warmup">Warm Up</string>
-    <string name="fatburn">Fat Burning</string>
-    <string name="heartlung">Aerobic</string>
-    <string name="strength">Anaerobic</string>
-    <string name="anaerobic">Anaerobic limit</string>
-    <string name="zone_one">Zone 1</string>
-    <string name="zone_two">Zone 2</string>
-    <string name="zone_three">Zone 3</string>
+    <string name="heartrate">Broj otkucaja srca</string>
+    <string name="warmup">Zagrijavanje</string>
+    <string name="fatburn">Sag. masnoća</string>
+    <string name="heartlung">Aerobik</string>
+    <string name="strength">Anaerobik</string>
+    <string name="anaerobic">Ograničenje</string>
+    <string name="zone_one">Zona 1</string>
+    <string name="zone_two">Zona 2</string>
+    <string name="zone_three">Zona 3</string>
     <string name="zone_four">Zona 4</string>
     <string name="zone_five">Zona 5</string>
     <string name="zone_risk">Visoki broj otkucaja</string>
