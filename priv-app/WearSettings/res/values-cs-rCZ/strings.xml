@@ -371,10 +371,8 @@
     <string name="blt_bound_stat_bonding">Pairing...</string>
     <string name="blt_bound_stat_none">Available</string>
     <string name="blt_default_name">Unnamed</string>
-    <string name="blt_hint_disconnect">"%1s
-Disconnect?"</string>
-    <string name="blt_hint_connect">"%1s 
-Připojit?"</string>
+    <string name="blt_hint_disconnect">"Odpojit %1s?"</string>
+    <string name="blt_hint_connect">"Připojit %1s?"</string>
     <string name="blt_hint_connect_fail">Connection failed, please re-connect</string>
     <string name="blt_type_ear">Headset</string>
     <string name="blt_speaker">Audio</string>
@@ -425,7 +423,7 @@ and is nearby"</string>
     <string name="rise_without_bl_under_slpt">Vypnuto</string>
     <string name="locale_main">Language</string>
     <string name="locale_applying">Language applying...</string>
-    <string name="confirm_change_locale">"Change language to 
+    <string name="confirm_change_locale">"Změnit jazyk na 
 %1$s?"</string>
     <string name="gender">Gender</string>
     <string name="birth_year">Birth Year</string>
@@ -434,8 +432,8 @@ and is nearby"</string>
     <string name="male">Male</string>
     <string name="female">Female</string>
     <string name="centimeter">cm</string>
-    <string name="birth_year_unit">"Birth 
-Year"</string>
+    <string name="birth_year_unit">"Rok 
+narození"</string>
     <string name="height_unit">"Height 
 cm"</string>
     <string name="weight_unit">"Weight 
