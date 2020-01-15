@@ -193,7 +193,7 @@ Používejte pouze dodávanou nabíječku."</string>
     <string name="data_usage_disabled_dialog_title">Data is off</string>
     <string name="data_usage_disabled_dialog">"Váš přístroj vypnul data, protože dosáhl nastaveného limitu.
 
-Jeho opětovné zapnutí může vést k poplatkům od vašeho operátora."</string>
+Jejich opětovné zapnutí může vést k poplatkům od vašeho operátora."</string>
     <string name="data_usage_disabled_dialog_enable">Turn on data</string>
     <string name="status_bar_settings_signal_meter_disconnected">No Internet connection</string>
     <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi connected</string>
@@ -439,13 +439,13 @@ Také jste připojeni k síti VPN (\"%3$s\"). Poskytovatel služby VPN může ta
     <string name="keyguard_missing_sim_instructions_long">The SIM card is missing or not readable. Insert a SIM card.</string>
     <string name="keyguard_permanent_disabled_sim_message_short">Unusable SIM card.</string>
     <string name="keyguard_permanent_disabled_sim_instructions">"Vaše SIM karta byla natrvalo zablokována.
- Obraťte se na svého operátora pro jinou SIM kartu."</string>
+ Požádejte svého operátora o jinou SIM kartu."</string>
     <string name="keyguard_sim_locked_message">SIM card is locked.</string>
     <string name="keyguard_sim_puk_locked_message">SIM card is PUK-locked.</string>
     <string name="keyguard_sim_unlock_progress_dialog_message">Unlocking SIM card…</string>
     <string name="keyguard_widget_12_hours_format">hmm</string>
     <string name="keyguard_widget_24_hours_format">kkmm</string>
-    <string name="keyguard_accessibility_widget_changed">%1$s. Widget %2$d of %3$d.</string>
+    <string name="keyguard_accessibility_widget_changed">%1$s. Widget %2$d z %3$d.</string>
     <string name="keyguard_accessibility_add_widget">Add widget.</string>
     <string name="keyguard_accessibility_widget_empty_slot">Empty</string>
     <string name="keyguard_accessibility_unlock_area_expanded">Unlock area expanded.</string>
@@ -479,7 +479,7 @@ Také jste připojeni k síti VPN (\"%3$s\"). Poskytovatel služby VPN může ta
     <string name="keyguard_accessibility_show_bouncer">Unlock to continue</string>
     <string name="keyguard_accessibility_hide_bouncer">Launch canceled</string>
     <string name="keyguard_accessibility_delete_widget_start">Drop %1$s to delete.</string>
-    <string name="keyguard_accessibility_delete_widget_end">%1$s will not be deleted.</string>
+    <string name="keyguard_accessibility_delete_widget_end">%1$s nebude smazán.</string>
     <string name="keyguard_accessibility_next_alarm">Next alarm set for %1$s</string>
     <string name="password_keyboard_label_symbol_key">\?123</string>
     <string name="password_keyboard_label_alpha_key">ABC</string>
