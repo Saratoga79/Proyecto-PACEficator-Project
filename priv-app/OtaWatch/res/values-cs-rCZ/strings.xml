@@ -9,16 +9,16 @@
     <string name="connect_phone_input_wifi">Connect to the Amazfit app to enter Wi-Fi password for the watch</string>
     <string name="wifi_add_item">Connect to the Amazfit app to add a new Wi-Fi hotspot</string>
     <string name="add_wifi">Add Wi-Fi</string>
-    <string name="please_update_rom">"Dostupná aktualizace, 
-prosím, aktualizujte"</string>
+    <string name="please_update_rom">"Aktualizace je k dispozici.
+Aktualizovat nyní."</string>
     <string name="checking_rom">Checking for updates…</string>
     <string name="checking_rom_failed">"Připojení k síti selhalo,
 připojte se prosím znovu"</string>
     <string name="current_is_new">Current version is up to date.</string>
-    <string name="has_new_rom">"Nalezena nová verze,
-aktualizovat na verzi %1$s?"</string>
-    <string name="has_new_rom_all">"An update is available.
-Firmware on this watch is old. Updating may take a while."</string>
+    <string name="has_new_rom">"Aktualizace je k dispozici.
+Aktualizovat na verzi %1$s?"</string>
+    <string name="has_new_rom_all">"Je k dispozici aktualizace.
+Firmware na těchto hodinkách je starý. Aktualizace může chvíli trvat."</string>
     <string name="input_passwor_on_mobile">"Enter Wi-Fi password
 in the Amazfit app"</string>
     <string name="processbar_downloading_rom">Downloading…</string>
@@ -27,8 +27,8 @@ in the Amazfit app"</string>
     <string name="processbar_downloading_default">0</string>
     <string name="download_rom_faild">"Stahování aktualizace se nezdařilo,
  zkuste to znovu."</string>
-    <string name="download_rom_success">"Downloaded ROM successfully.
-Install now."</string>
+    <string name="download_rom_success">"ROM stažená úspěšně.
+Instalovat nyní."</string>
     <string name="low_battery_message">"Downloaded updates successfully.
 Battery must be at least %1$s%% charged to install updates."</string>
     <string name="low_battery_title">Connect charger</string>
@@ -38,10 +38,10 @@ Battery must be at least %1$s%% charged to install updates."</string>
 Free up %1$sMB to update."</string>
     <string name="update_network_error">"Kontrola aktualizace selhala, 
 zkuste to prosím později"</string>
-    <string name="cancel_download">"Aktualizace se stahuje, 
- přerušit?"</string>
-    <string name="new_rom_please_install">"Dostupná aktualizace, 
-prosím, aktualizujte"</string>
+    <string name="cancel_download">"Zrušit stahování
+aktualizací?"</string>
+    <string name="new_rom_please_install">"Aktualizace je k dispozici.
+Aktualizovat nyní."</string>
     <string name="btn_install_later">Remind later</string>
     <string name="btn_install_now">Install now</string>
     <string name="btn_upgrade_now">Update now</string>
@@ -63,7 +63,7 @@ prosím, aktualizujte"</string>
 zadejte ho prosím znovu"</string>
     <string name="wifi_connect_fail">"Nelze se připojit k této
 WiFi síti. Prosím, 
-vyzkoušejte jinou"</string>
+vyzkoušejte jinou."</string>
     <string name="searching">Searching…</string>
     <string name="hasNewUpdateTitle">An update is available</string>
     <string name="hasNewUpdateInstallContent">Version %1$s is ready to install. Install now?</string>
