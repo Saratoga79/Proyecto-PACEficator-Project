@@ -18,39 +18,39 @@
     <item>com.huami.watch.deskclock/com.huami.watch.deskclock.countdown.CountdownWidget</item>
   </string-array>
   <string-array name="alarm_set">
-    <item>Alarm will go off in less than 1 minute.</item>
-    <item>Alarm will go off in %1$s.</item>
-    <item>Alarm will go off in %2$s.</item>
-    <item>Alarm will go off in %1$s and %2$s.</item>
-    <item>Alarm will go off in %3$s.</item>
-    <item>Alarm will go off in %1$s and %3$s.</item>
-    <item>Alarm will go off in %2$s and %3$s.</item>
-    <item>Alarm will go off in %1$s, %2$s, and %3$s.</item>
+    <item>Budík se vypne za méně než 1 minutu.</item>
+    <item>Budík se vypne za %1$s.</item>
+    <item>Budík se vypne za %2$s.</item>
+    <item>Budík se vypne za %1$s a %2$s.</item>
+    <item>Budík se vypne za %3$s.</item>
+    <item>Budík se vypne za %1$s a %3$s.</item>
+    <item>Budík se vypne za %2$s a %3$s.</item>
+    <item>Budík se vypne za %1$s, %2$sa %3$s.</item>
   </string-array>
   <string-array name="repeat_description">
     <item>Každý den</item>
     <item>Pracovní dny</item>
-    <item>Víkendy</item>
-    <item>Pon</item>
-    <item>Úte</item>
-    <item>Stř</item>
-    <item>Čtv</item>
-    <item>Pát</item>
-    <item>Sob</item>
-    <item>Ned</item>
+    <item>Víkend</item>
+    <item>Po</item>
+    <item>Út</item>
+    <item>St</item>
+    <item>Čt</item>
+    <item>Pá</item>
+    <item>So</item>
+    <item>Ne</item>
   </string-array>
   <string-array name="short_week_days">
     <item></item>
-    <item>Ned</item>
-    <item>Pon</item>
-    <item>Úte</item>
-    <item>Stř</item>
-    <item>Čtv</item>
-    <item>Pát</item>
-    <item>Sob</item>
+    <item>Ne</item>
+    <item>Po</item>
+    <item>Út</item>
+    <item>St</item>
+    <item>Čt</item>
+    <item>Pá</item>
+    <item>So</item>
   </string-array>
   <string-array name="am_pm">
-    <item>Dop.</item>
-    <item>Odp.</item>
+    <item>dop.</item>
+    <item>odp.</item>
   </string-array>
 </resources>
