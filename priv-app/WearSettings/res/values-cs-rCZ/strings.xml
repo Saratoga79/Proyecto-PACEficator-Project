@@ -111,7 +111,7 @@
     <string name="rope_skip_tips">Group %1$s</string>
     <string name="rope_skip_tips1">The</string>
     <string name="rope_skip_tips2">set has been completed</string>
-    <string name="rope_skip_avg_heartrate">Avg. heart rate</string>
+    <string name="rope_skip_avg_heartrate">Prům. tepová frekvence</string>
     <string name="rope_skip_group_calories">\"Kalorie
 \"</string>
     <string name="music">Hudba</string>
@@ -146,7 +146,7 @@
     <string name="alarm_nudge">Nudge</string>
     <string name="alarm_rise">Rise</string>
     <string name="alarm_drip">Drip</string>
-    <string name="alarm_awaken">Awaken</string>
+    <string name="alarm_awaken">Probudit</string>
     <string name="alarm_bounce">Bounce</string>
     <string name="alarm_sway">Sway</string>
     <string name="double_click_wakeup_open">On</string>
@@ -172,7 +172,7 @@
     <string name="about">Info</string>
     <string name="wear_habit">Wear Habit</string>
     <string name="bugreport">Feedback</string>
-    <string name="applications">Apps</string>
+    <string name="applications">Aplikace</string>
     <string name="long_sit">Standup Alert</string>
     <string name="datacenter">Denní přehled</string>
     <string name="security">Security</string>
@@ -197,11 +197,11 @@
     <string name="wifi_upload">Data</string>
     <string name="wifi_upload_title">Synchronizace dat</string>
     <string name="watchface">Ciferník</string>
-    <string name="wifi_auto_upload_switch">Auto-sync</string>
+    <string name="wifi_auto_upload_switch">Automatická synchronizace</string>
     <string name="hand_upload">Manuální synchronizace</string>
     <string name="auto_upload">Automatická synchronizace</string>
     <string name="app_item_phone_anti_lost">Phone anti-lost</string>
-    <string name="app_item_anti_lost_remind">Anti-lost reminder</string>
+    <string name="app_item_anti_lost_remind">Upozornění na ztrátu</string>
     <string name="app_item_far_away_remind">Being far away from phone reminder</string>
     <string name="remind_aleary_open">The reminder has been enabled.</string>
     <string name="phone_far_away_remind_to_you">The watch will alert you when you are far away from your phone.</string>
@@ -320,7 +320,7 @@
     <string name="model">Model</string>
     <string name="dev_name">Name</string>
     <string name="dev_desc">Amazfit Sports Watch</string>
-    <string name="ard_version">Android version</string>
+    <string name="ard_version">Verze systému Android</string>
     <string name="rom_version">ROM Version</string>
     <string name="rom_hint_dev">ROM (Dev Edition)</string>
     <string name="flash_capacity">Total Storage</string>
@@ -353,7 +353,7 @@
     <string name="nodisturb_open_string">On</string>
     <string name="nodisturb_close_string">Vyp</string>
     <string name="nodisturb_timepicker_connect_symbol">:</string>
-    <string name="auto_nodisturb_title_string">Auto no disturb</string>
+    <string name="auto_nodisturb_title_string">Automaticky nerušit</string>
     <string name="auto_nodisturb_start_time_string">Turn-on time</string>
     <string name="auto_screen_wristup_start_time_string">Od</string>
     <string name="auto_nodisturb_end_time_string">Turn-off time</string>
@@ -369,7 +369,7 @@
     <string name="blt_bound_stat_connected">Connected</string>
     <string name="blt_bound_stat_disconnect">Disconnected</string>
     <string name="blt_bound_stat_bonding">Pairing...</string>
-    <string name="blt_bound_stat_none">Available</string>
+    <string name="blt_bound_stat_none">Dostupné</string>
     <string name="blt_default_name">Unnamed</string>
     <string name="blt_hint_disconnect">"Odpojit %1s?"</string>
     <string name="blt_hint_connect">"Připojit %1s?"</string>
@@ -390,7 +390,7 @@
     <string name="blt_paring_fail_hint">"Ujistěte se, že je zařízení zapnuté
 a je poblíž"</string>
     <string name="blt_hint_ignore_device">Ignore</string>
-    <string name="blt_confirm_ignore">Are you sure you want to ignore this device?</string>
+    <string name="blt_confirm_ignore">Jste si jisti, že chcete ignorovat toto zařízení?</string>
     <string name="bluetooth_connected">Connected</string>
     <string name="bluetooth_disconnected">Disconnected</string>
     <string name="bluetooth_connecting_error_message">"Couldn't connect to %1$s."</string>
@@ -418,7 +418,7 @@ a je poblíž"</string>
     <string name="light_auto">Auto</string>
     <string name="light_on">Vždy zapnuto</string>
     <string name="rise_no_bl_under_slpt">Unlocked Only</string>
-    <string name="subtitle_of_raise_hand_no_bl">Auto when unlocked</string>
+    <string name="subtitle_of_raise_hand_no_bl">Auto, když je odemčeno</string>
     <string name="rise_with_bl_under_slpt">On</string>
     <string name="rise_without_bl_under_slpt">Vypnuto</string>
     <string name="locale_main">Language</string>
@@ -530,7 +530,7 @@ všechna data v hodinkách budou smazána, a hodinky budou odpojeny od vašeho m
     <string name="volume_value">Volume</string>
     <string name="light_value">Brightness</string>
     <string name="light_auto_set">Auto</string>
-    <string name="light_auto_guide_title">Auto adjustment</string>
+    <string name="light_auto_guide_title">Auto přizpůsobení</string>
     <string name="light_auto_guide_content">Po zapnutí automatického nastavení posuňte posuvník k jemnému doladění koeficientu jasu, pak se jas obrazovky změní s jasem okolí.</string>
     <string name="light_auto_guide_ok">I know it</string>
     <string name="watch_mode_title">Turn on watch mode</string>
