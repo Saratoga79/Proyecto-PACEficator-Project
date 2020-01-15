@@ -18,8 +18,8 @@
     <string name="status_bar_ongoing_events_title">Ongoing</string>
     <string name="status_bar_latest_events_title">Notifications</string>
     <string name="battery_low_title">Battery is low</string>
-    <string name="battery_low_percent_format">%s remaining</string>
-    <string name="battery_low_percent_format_saver_started">%s remaining. Battery saver is on.</string>
+    <string name="battery_low_percent_format">Zbývá %s</string>
+    <string name="battery_low_percent_format_saver_started">Zbývá %s. Spořič baterie je zapnutý.</string>
     <string name="invalid_charger">"Nabíjení přes USB není podporováno.
 Používejte pouze dodávanou nabíječku."</string>
     <string name="invalid_charger_title">USB charging not supported.</string>
@@ -145,7 +145,7 @@ Používejte pouze dodávanou nabíječku."</string>
     <string name="accessibility_ringer_silent">Ringer silent.</string>
     <string name="accessibility_casting">@string/quick_settings_casting</string>
     <string name="accessibility_recents_item_will_be_dismissed">Dismiss %s.</string>
-    <string name="accessibility_recents_item_dismissed">%s dismissed.</string>
+    <string name="accessibility_recents_item_dismissed">%s zamítnut.</string>
     <string name="accessibility_recents_item_launched">Starting %s.</string>
     <string name="accessibility_notification_dismissed">Notification dismissed.</string>
     <string name="accessibility_desc_notification_shade">Notification shade.</string>
@@ -202,7 +202,7 @@ Jejich opětovné zapnutí může vést k poplatkům od vašeho operátora."</st
     <string name="accessibility_location_active">Location requests active</string>
     <string name="accessibility_clear_all">Clear all notifications.</string>
     <string name="status_bar_notification_inspect_item_title">Notification settings</string>
-    <string name="status_bar_notification_app_settings_title">%s settings</string>
+    <string name="status_bar_notification_app_settings_title">Nastavení %s</string>
     <string name="accessibility_rotation_lock_off">Screen will rotate automatically.</string>
     <string name="accessibility_rotation_lock_on_landscape">Screen is locked in landscape orientation.</string>
     <string name="accessibility_rotation_lock_on_portrait">Screen is locked in portrait orientation.</string>
@@ -260,9 +260,9 @@ Jejich opětovné zapnutí může vést k poplatkům od vašeho operátora."</st
     <string name="quick_settings_cellular_detail_data_usage">Data usage</string>
     <string name="quick_settings_cellular_detail_remaining_data">Remaining data</string>
     <string name="quick_settings_cellular_detail_over_limit">Over limit</string>
-    <string name="quick_settings_cellular_detail_data_used">%s used</string>
+    <string name="quick_settings_cellular_detail_data_used">%s použito</string>
     <string name="quick_settings_cellular_detail_data_limit">%s limit</string>
-    <string name="quick_settings_cellular_detail_data_warning">%s warning</string>
+    <string name="quick_settings_cellular_detail_data_warning">%s varování</string>
     <string name="recents_empty_message">Your recent screens appear here</string>
     <string name="recents_app_info_button_label">Application Info</string>
     <string name="recents_lock_to_app_button_label">screen pinning</string>
@@ -270,7 +270,7 @@ Jejich opětovné zapnutí může vést k poplatkům od vašeho operátora."</st
     <string name="recents_launch_error_message">Could not start %s.</string>
     <string name="expanded_header_battery_charged">Charged</string>
     <string name="expanded_header_battery_charging">Charging</string>
-    <string name="expanded_header_battery_charging_with_time">%s until full</string>
+    <string name="expanded_header_battery_charging_with_time">%s do plného</string>
     <string name="expanded_header_battery_not_charging">Not charging</string>
     <string name="battery_meter_very_low_overlay_symbol">!</string>
     <string name="ssl_ca_cert_warning">"Síť může být
@@ -317,7 +317,7 @@ Každý uživatel může aktualizovat aplikace pro všechny ostatní uživatele.
     <string name="battery_saver_notification_text">Reduces performance and background data</string>
     <string name="battery_saver_notification_action_text">Turn off battery saver</string>
     <string name="notification_hidden_text">Contents hidden</string>
-    <string name="media_projection_dialog_text">"%s will start capturing everything that's displayed on your screen."</string>
+    <string name="media_projection_dialog_text">"%s začne zachycovat vše, co se zobrazí na vaší obrazovce."</string>
     <string name="media_projection_remember_text">"Don't show again"</string>
     <string name="clear_all_notifications_text">Clear all</string>
     <string name="media_projection_action_text">Start now</string>
