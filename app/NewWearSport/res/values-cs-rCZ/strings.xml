@@ -44,9 +44,9 @@
     <string name="crossing_remind_target_individual_cost_time">Čas</string>
     <string name="crossing_remind_target_individual_pace">Tempo</string>
     <string name="agps_time_out">AGPS vypršela. Vyhledávání GPS bude pomalé. Připojte se k aplikaci Amazfit pro její aktualizaci.</string>
-    <string name="safe_hearate_remind_content">Upozornit, když je vyšší než %1d tepů/min</string>
+    <string name="safe_hearate_remind_content">Upozornit, když je vyšší než %1d BPM</string>
     <string name="settings_safe_heart_rate_hint">(Limit tepové frekvence)</string>
-    <string name="settings_safe_heart_rate_unit">tepů/min</string>
+    <string name="settings_safe_heart_rate_unit">BPM</string>
     <string name="elliptical">Eliptický trenažér</string>
     <string name="elliptical_in_progress">Eliptický trenažér…</string>
     <string name="person_achive">Osobní rekord</string>
@@ -114,7 +114,7 @@
     <string name="picker_title_target_time">Čas (h/m)</string>
     <string name="picker_title_target_calorie">Kalorie (kcal)</string>
     <string name="picker_title_target_te">Cílové TE</string>
-    <string name="picker_title_target_heart_rate">Tepová frekvence (tepů/min)</string>
+    <string name="picker_title_target_heart_rate">Tepová frekv. (BPM)</string>
     <string name="picker_title_auto_lap">Autom. okruhy (%1$s)</string>
     <string name="picker_title_swim_length">Velikost bazénu (%1$s)</string>
     <string name="picker_title_target_trips">Cílové okruhy</string>
@@ -733,7 +733,7 @@ pro dosažení plného zotavení.“</string>
     <string name="real_time_guide_desc_11">Zrychlit znovu</string>
     <string name="real_time_guide_desc_14">Právě jste dokončili velmi dobrý trénink.</string>
     <string name="real_time_guide_desc_22">Očekává se, že dosáhnete cíle za %1$s min</string>
-    <string name="real_time_guide_desc_25">Cílový rozsah srdeční frekvence je %1$s-%2$s tepů/min.</string>
+    <string name="real_time_guide_desc_25">Cílový rozsah srdeční frekv. je %1$s-%2$s BPM.</string>
     <string name="real_time_guide_desc_26">Běž rychleji</string>
     <string name="real_time_guide_desc_27">Dosáhli jste svého cíle.</string>
     <string name="real_time_guide_desc_28">Dosáhli jste %1$s%% svého cíle.</string>
@@ -741,7 +741,7 @@ pro dosažení plného zotavení.“</string>
     <string name="real_time_guide_desc_31">Toto cvičení je dostatečně intenzivní na zlepšení vaší kondice.</string>
     <string name="real_time_guide_desc_32">Vylepšení vaší kardiopulmonární schopnosti.</string>
     <string name="real_time_guide_desc_33">Toto cvičení mohlo být pro vaše tělo příliš těžké.</string>
-    <string name="real_time_guide_desc_34">Cílový rozsah srdeční frekvence je %1$s-%2$s tepů/min.</string>
+    <string name="real_time_guide_desc_34">Cílový rozsah srdeční frekv. je %1$s-%2$s BPM.</string>
     <string name="real_time_guide_desc_35">"Je na čase odpočívat"</string>
     <string name="rope_arrive_goal_unit">s/skok</string>
     <string name="aleary_finish_group">Skupina %1$s</string>
@@ -874,7 +874,7 @@ pro dosažení plného zotavení.“</string>
     <string name="running_step_freq_unit">kroky/min</string>
     <string name="running_speed_unit">km/h</string>
     <string name="running_distance_unit">km</string>
-    <string name="running_heartrate_unit">tepů/min</string>
+    <string name="running_heartrate_unit">BPM</string>
     <string name="running_realtime_trail_desc">Trasy</string>
     <string name="running_control_title">Běh</string>
     <string name="running_control_paused_des">Pozastaveno</string>
@@ -889,7 +889,7 @@ pro dosažení plného zotavení.“</string>
     <string name="sport_history_header_total_count_desc">Celkem relací</string>
     <string name="sport_history_header_calorie_desc">Celkem kalorií</string>
     <string name="history_heart_rate_desc">Tepová frekvence:</string>
-    <string name="history_heart_rate_unit">tepů/min</string>
+    <string name="history_heart_rate_unit">BPM</string>
     <string name="history_info_cost_time_desc">Čas</string>
     <string name="history_detail_paused_time">Pozastavený čas</string>
     <string name="history_detail_running_title">Běh</string>
@@ -931,7 +931,7 @@ pro dosažení plného zotavení.“</string>
     <string name="sport_notification_title">Sporty</string>
     <string name="sport_notification_content">%s km</string>
     <string name="notification_title_medal">Úspěchy</string>
-    <string name="history_heart_rate_graph_desc">Tepová frekvence (tepů/min)</string>
+    <string name="history_heart_rate_graph_desc">Tepová frekvence (BPM)</string>
     <string name="sport_medal_desc_first_sport">Dokončete cvičení poprvé</string>
     <string name="sport_medal_desc_one_5_km">Jednotlivá vzdálenost tréninku 5 km</string>
     <string name="sport_medal_desc_one_10_km">Jednotlivá vzdálenost tréninku 10 km</string>
@@ -970,7 +970,7 @@ pro dosažení plného zotavení.“</string>
     <string name="remind_target_distance_pace_unit">/km</string>
     <string name="remind_heart_rate_too_high">Tepová frekvence je příliš vysoká</string>
     <string name="remind_heart_rate_value_before">Aktuální</string>
-    <string name="remind_heart_rate_value_after">tepů/min</string>
+    <string name="remind_heart_rate_value_after">BPM</string>
     <string name="remind_heart_rate_suggestion">Pro úpravu postupně zpomalujte</string>
     <string name="remind_pace_too_low">Tempo je příliš nízké</string>
     <string name="remind_pace_too_fast">Tempo je příliš rychlé</string>
@@ -1041,7 +1041,7 @@ pro dosažení plného zotavení.“</string>
     <string name="setting_sport_heart_region_text_custom">Vlastní</string>
     <string name="remind_heart_rate_region_over">Tepová frekvence je příliš vysoká</string>
     <string name="remind_heart_rate_region_less">Tepová frekvence je příliš nízká</string>
-    <string name="remind_heart_rate_current_heart_rate">Aktuální　%1$d tepů/min</string>
+    <string name="remind_heart_rate_current_heart_rate">Aktuální　%1$d BPM</string>
     <string name="tennic_wear_hand_guide">"Ujistěte se, že nosíte hodinky
  na zápěstí ruky s raketou"</string>
     <string name="sport_time_seconds">s</string>
@@ -1255,8 +1255,8 @@ pro dosažení plného zotavení.“</string>
     <string name="meter">m</string>
     <string name="kilometre">km</string>
     <string name="km_per_hour">km/h</string>
-    <string name="bpm">tepů/min</string>
-    <string name="times_per_minute">tepů/min</string>
+    <string name="bpm">BPM</string>
+    <string name="times_per_minute">BPM</string>
     <string name="per_km">/km</string>
     <string name="per_100m">/100 m</string>
     <string name="per_100Yard">/100 yd</string>
