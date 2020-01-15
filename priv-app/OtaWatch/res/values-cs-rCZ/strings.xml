@@ -12,8 +12,8 @@
     <string name="please_update_rom">"Aktualizace je k dispozici.
 Aktualizovat nyní."</string>
     <string name="checking_rom">Checking for updates…</string>
-    <string name="checking_rom_failed">"Připojení k síti selhalo,
-připojte se prosím znovu"</string>
+    <string name="checking_rom_failed">Vypršel časový limit pro připojení k síti.
+Zkuste to znovu.\"</string>
     <string name="current_is_new">Current version is up to date.</string>
     <string name="has_new_rom">"Aktualizace je k dispozici.
 Aktualizovat na verzi %1$s?"</string>
@@ -34,8 +34,8 @@ Baterie musí mít minimálně %1$s%% pro instalaci aktualizací."</string>
     <string name="low_battery_title">Connect charger</string>
     <string name="progressbar_tips">Checking…</string>
     <string name="progressbar_percent">%1$d%%</string>
-    <string name="low_mem">"Not enough storage space for an update.
-Free up %1$sMB to update."</string>
+    <string name="low_mem">"Nedostatek místa v úložišti pro aktualizaci.
+Uvolněte %1$sMB pro aktualizaci."</string>
     <string name="update_network_error">"Kontrola aktualizace selhala, 
 zkuste to prosím později"</string>
     <string name="cancel_download">"Zrušit stahování
