@@ -3,7 +3,7 @@
 <resources>
     <string name="new_message_down_fresh">Vymazat seznam zpráv</string>
     <string name="sport_title">Exercise</string>
-    <string name="data_check_log">" +------------------------+▂▃▄▅▆▇█▉  Weather data verification error!     %1$s▉█▇▆▅▄▃▂+------------------------+"</string>
+    <string name="data_check_log">" +------------------------+▂▃▄▅▆▇█▉  Chyba ověření údajů o počasí!     %1$s▉█▇▆▅▄▃▂+------------------------+"</string>
     <string name="data_checkfail_json">JSON format error</string>
     <string name="generic_notification_more">More (%s)</string>
     <string name="notification_unread_num">Unread (%s)</string>
@@ -16,8 +16,8 @@
     <string name="notification_time_month">MM/dd HH:mm</string>
     <string name="notification_time_year">yyyy/MM/dd HH:mm</string>
     <string name="action_delete">Odstranit</string>
-    <string name="action_shield">Block</string>
-    <string name="notification_none">All caught up</string>
+    <string name="action_shield">Blokovat</string>
+    <string name="notification_none">Vše zachyceno</string>
     <string name="notification_allclear">Clear all</string>
     <string name="notification_allclear_confirm">These notifications will be deleted permanently. Clear anyway?</string>
     <string name="notification_checking_bluetooth">Checking Bluetooth connection…</string>
@@ -25,18 +25,18 @@
     <string name="notification_fix_message_action1">Pin this message</string>
     <string name="notification_fix_message_reset">Reset time</string>
     <string name="notification_fix_message_cancel">Unpin</string>
-    <string name="quick_settings_airplane_mode">"Airplane
+    <string name="quick_settings_airplane_mode">"Letadlo
  %1$s"</string>
-    <string name="quick_settings_no_disturb_mode">"DND
+    <string name="quick_settings_no_disturb_mode">"Nerušit
  %1$s"</string>
-    <string name="quick_settings_auto_light_mode">"Backlight
+    <string name="quick_settings_auto_light_mode">Podsvícení
+ %1$s</string>
+    <string name="quick_settings_rise_up_hand_mode">"Probudit obrazovku při zvednutí zápěstí
  %1$s"</string>
-    <string name="quick_settings_rise_up_hand_mode">"Wake screen on wrist raise
- %1$s"</string>
-    <string name="quick_settings_more_settings">Additional settings</string>
-    <string name="quick_settings_switch_auto">Auto mode</string>
+    <string name="quick_settings_more_settings">Další nastavení</string>
+    <string name="quick_settings_switch_auto">Automatický režim</string>
     <string name="quick_settings_switch_awake">Wake mode</string>
-    <string name="quick_settings_switch_always">Always on</string>
+    <string name="quick_settings_switch_always">Vždy zapnuto</string>
     <string name="quick_settings_switch_on">Turn on</string>
     <string name="quick_settings_switch_off">Turn off</string>
     <string name="quick_settings_toast_on">On</string>
@@ -50,20 +50,20 @@
     <string name="quick_settings_disconnect">Not connected</string>
     <string name="quick_settings_unbound">Pair device first</string>
     <string name="quick_settings_date_chinese">MM/dd/yyyy</string>
-    <string name="quick_settings_date_format">1/31/1900</string>
+    <string name="quick_settings_date_format">31/1/1900</string>
     <string name="quick_settings_date_yeareve">"Chinese New Year's Eve"</string>
-    <string name="seconed_confirm_nodisturb">"DND mode is on.
-Can\'t receive notifications."</string>
+    <string name="seconed_confirm_nodisturb">Režim Nerušit je zapnutý.
+Nelze přijímat oznámení.\"</string>
     <string name="quick_settings_battery_charging_full">Fully charged</string>
     <string name="quick_settings_battery_is_charging">Charging</string>
     <string name="quick_settings_battery_hasnot_charged">No charging history</string>
     <string name="quick_settings_battery_charging_intervalDay">Last charged %1$dd %2$dh ago</string>
-    <string name="quick_settings_battery_charging_intervalDay_lessHour">"Last charged
-%dd ago"</string>
-    <string name="quick_settings_battery_charging_intervalDayLess">"Last charged
-%dh ago"</string>
-    <string name="quick_settings_battery_charging_intervalLessHour">"Last charged
-less than 1h ago"</string>
+    <string name="quick_settings_battery_charging_intervalDay_lessHour">"Poslední nabíjení před
+%dd"</string>
+    <string name="quick_settings_battery_charging_intervalDayLess">"Poslední nabíjení před
+%dd"</string>
+    <string name="quick_settings_battery_charging_intervalLessHour">„Poslední nabíjení
+před méně než 1 hodinou“</string>
     <string name="quick_settings_battery_sportString">You can keep running.</string>
     <string name="quick_settings_battery_sporttime_hour_unit">h</string>
     <string name="quick_settings_battery_sporttime_KM_unit">km</string>
@@ -74,7 +74,7 @@ less than 1h ago"</string>
     <string name="header_incomming_call_hint">Incoming call</string>
     <string name="header_incomming_call_mobilephone">Phone</string>
     <string name="header_incomming_call_landlinephone">Landline</string>
-    <string name="header_incomming_call_searchinglocation">Attribution querying...</string>
+    <string name="header_incomming_call_searchinglocation">Dotaz na atribut...</string>
     <string name="header_incomming_call_mobile_virtual">Mobile Virtual Carriers</string>
     <string name="header_incomming_call_unicom_virtual">Unicom Virtual Carriers</string>
     <string name="header_incomming_call_telecom_virtual">Telecom Virtual Carriers</string>
@@ -89,21 +89,21 @@ less than 1h ago"</string>
     <string name="dialog_close">Disable</string>
     <string name="amazing_dialog_btn_confirm_text">OK</string>
     <string name="amazing_dialog_btn_cancel_text">Zrušit</string>
-    <string name="accept">Accept</string>
+    <string name="accept">Přijmout</string>
     <string name="action_failure">"Couldn't complete this action."</string>
     <string name="action_success">Done!</string>
     <string name="action_working">Working…</string>
-    <string name="activity_not_found">An error occurred.</string>
+    <string name="activity_not_found">Vyskytla se chyba.</string>
     <string name="data_checkfail_match">Weather type field not matched</string>
     <string name="data_checkfail_temp">Weather temperature out of range</string>
     <string name="data_checkfail_type">Weather type not recognized</string>
     <string name="wathc_disconnection_content">Disconnected from the phone</string>
     <string name="wathc_disconnection_title">Not connected</string>
-    <string name="notification_block">Block</string>
+    <string name="notification_block">Blokovat</string>
     <string name="notification_block_cancel">Zrušit</string>
-    <string name="notification_block_message">Block notifications from this app</string>
+    <string name="notification_block_message">Blokovat oznámení z této aplikace</string>
     <string name="notification_block_ok">OK</string>
-    <string name="notification_more_settings">Additional settings</string>
+    <string name="notification_more_settings">Další nastavení</string>
     <string name="notification_time_just">Just now</string>
     <string name="notification_time_yesterday">Včera</string>
     <string name="notificaton_empty_message">No notifications</string>
@@ -126,23 +126,23 @@ less than 1h ago"</string>
     <string name="notification_wechat_red_envelop_title">微信红包提醒</string>
     <string name="notification_alipay_red_envelop_title">支付宝红包提醒</string>
     <string name="notification_qq_red_envelop_title">QQ红包提醒</string>
-    <string name="notification_red_envelop_content">%s的红包，快打开手机领取吧!</string>
+    <string name="notification_red_envelop_content">%s Červená obálka, otevřete telefon a zvedněte ji!</string>
     <string name="notification_red_envelop_default_content">快打开手机领取吧!</string>
     <string name="notification_alipay_default_group">群聊</string>
     <string name="notification_ios_envelop_content">收到QQ红包，快打开手机领取吧!</string>
     <string name="notification_red_bracket">[%s]</string>
     <string name="notitification_wechat_red_content_pattern_one">^\\[\\d{1,3}.*?条\\]</string>
-    <string name="notitification_wechat_red_content_pattern_two">: \\[微信红包\\]</string>
+    <string name="notitification_wechat_red_content_pattern_two">: \\[WeChat červená obálka\\]</string>
     <string name="notification_qq_red_title_pattern">\\(\\d{1,3}.*新消息\\)</string>
     <string name="notification_qq_red_content_pattern">^\\[QQ红包\\]</string>
-    <string name="notification_qq_group_content_red_pattern">: \\[QQ红包\\]</string>
+    <string name="notification_qq_group_content_red_pattern">: \\[QQ červená obálka\\]</string>
     <string name="notification_alipay_default_title">支付宝</string>
     <string name="notification_alipay_default_pattern">支付宝</string>
     <string name="notification_alipay_group_red_pattern">在群聊中发了一个红包$</string>
     <string name="notification_alipay_red_pattern">发来一个红包$</string>
     <string name="notification_red_envelop">[红包]</string>
-    <string name="notitification_ios_wechat_red_content_pattern">: \\[红包\\]</string>
-    <string name="notification_ios_qq_red_content_pattern">:\\[QQ红包\\]</string>
+    <string name="notitification_ios_wechat_red_content_pattern">: \\[Červená obálka\\]</string>
+    <string name="notification_ios_qq_red_content_pattern">:\\[QQ červená obálka\\]</string>
     <string name="notification_alipay_nunber_pattern">\\[\\d{1,3}.*?条\\]</string>
     <string name="notification_ios_alipay_group_red_pattern">^\\[群消息\\]</string>
     <string name="notification_fireworks_title">新春快乐！</string>
@@ -160,19 +160,19 @@ less than 1h ago"</string>
     <string name="type_to"> to </string>
     <string name="not_avalible_type">Žádná data</string>
     <string name="not_avalible_temp">--</string>
-    <string name="air_quality">Air quality </string>
+    <string name="air_quality">Kvalita vzduchu </string>
     <string name="weather_title">Weather today</string>
     <string name="dot"> </string>
     <string name="forecast_today">Dnes</string>
     <string name="forecast_tomorrow">Zítra</string>
     <string name="weather_warning">Warning</string>
-    <string name="weather_warning_level_blue">Blue</string>
+    <string name="weather_warning_level_blue">Modrá</string>
     <string name="weather_warning_level_orange">Orange</string>
     <string name="weather_warning_level_red">Red</string>
     <string name="weather_warning_level_yellow">Yellow</string>
     <string name="weather_warning_level_def">Warning</string>
     <string name="weather_warning_level_white">White</string>
-    <string name="weather_warning_level_black">Black</string>
+    <string name="weather_warning_level_black">Černá</string>
     <string name="weather_warning_typhoon">Typhoon</string>
     <string name="weather_warning_rainstorm">Rainstorm</string>
     <string name="weather_warning_cold">Cold wave</string>
@@ -186,7 +186,7 @@ less than 1h ago"</string>
     <string name="weather_warning_fog">Heavy fog</string>
     <string name="weather_warning_smog">Haze</string>
     <string name="weather_warning_ice">Icy roads</string>
-    <string name="weather_warning_snowstorm">Blizzard</string>
+    <string name="weather_warning_snowstorm">Vánice</string>
     <string name="no_aqi">"Couldn't get AQI info"</string>
     <string name="air_perfect">Excellent</string>
     <string name="air_good">Fine</string>
@@ -262,9 +262,9 @@ less than 1h ago"</string>
     <string name="heartrate">Heart rate</string>
     <string name="warmup">Warm Up</string>
     <string name="fatburn">Fat Burning</string>
-    <string name="heartlung">Aerobic</string>
-    <string name="strength">Anaerobic</string>
-    <string name="anaerobic">Anaerobic limit</string>
+    <string name="heartlung">Aerobní</string>
+    <string name="strength">Anaerobní</string>
+    <string name="anaerobic">Anaerobní limit</string>
     <string name="zone_one">Zone 1</string>
     <string name="zone_two">Zone 2</string>
     <string name="zone_three">Zone 3</string>
@@ -284,7 +284,7 @@ less than 1h ago"</string>
     <string name="per_100Yard">/100 yd</string>
     <string name="mile">mi</string>
     <string name="mile_per_hour">mph</string>
-    <string name="per_mile">/mi</string>
+    <string name="per_mile">/mil</string>
     <string name="feet">ft</string>
     <string name="per_100feet">/100 ft</string>
     <string name="yard">yd</string>
@@ -318,7 +318,7 @@ less than 1h ago"</string>
     <string name="rope_skip_tips">Group %1$s</string>
     <string name="rope_skip_tips1">The</string>
     <string name="rope_skip_tips2">set has been completed</string>
-    <string name="rope_skip_avg_heartrate">Avg. heart rate</string>
+    <string name="rope_skip_avg_heartrate">Prům. tepová frekvence</string>
     <string name="rope_skip_group_calories">\"Kalorie
 \"</string>
     <string name="press_long_power_key_wake_up">Press a physical button to exit</string>

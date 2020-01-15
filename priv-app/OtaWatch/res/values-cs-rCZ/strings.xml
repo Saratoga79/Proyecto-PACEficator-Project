@@ -8,40 +8,40 @@
     <string name="connect_phone_wifi">"Check your phone's network connection to check for updates"</string>
     <string name="connect_phone_input_wifi">Connect to the Amazfit app to enter Wi-Fi password for the watch</string>
     <string name="wifi_add_item">Connect to the Amazfit app to add a new Wi-Fi hotspot</string>
-    <string name="add_wifi">Add Wi-Fi</string>
-    <string name="please_update_rom">"Dostupná aktualizace, 
-prosím, aktualizujte"</string>
+    <string name="add_wifi">Přidat Wi-Fi</string>
+    <string name="please_update_rom">"Aktualizace je k dispozici.
+Aktualizovat nyní."</string>
     <string name="checking_rom">Checking for updates…</string>
-    <string name="checking_rom_failed">"Připojení k síti selhalo,
-připojte se prosím znovu"</string>
+    <string name="checking_rom_failed">Vypršel časový limit pro připojení k síti.
+Zkuste to znovu.\"</string>
     <string name="current_is_new">Current version is up to date.</string>
-    <string name="has_new_rom">"Nalezena nová verze,
-aktualizovat na verzi %1$s?"</string>
-    <string name="has_new_rom_all">"An update is available.
-Firmware on this watch is old. Updating may take a while."</string>
-    <string name="input_passwor_on_mobile">"Enter Wi-Fi password
-in the Amazfit app"</string>
+    <string name="has_new_rom">"Aktualizace je k dispozici.
+Aktualizovat na verzi %1$s?"</string>
+    <string name="has_new_rom_all">"Je k dispozici aktualizace.
+Firmware na těchto hodinkách je starý. Aktualizace může chvíli trvat."</string>
+    <string name="input_passwor_on_mobile">\"Zadejte heslo k Wi-Fi
+v aplikaci Amazfit</string>
     <string name="processbar_downloading_rom">Downloading…</string>
     <string name="please_keep_wifi_connect">"Neodpojujte se od Wi-Fi"</string>
     <string name="processbar_downloading_tips">%</string>
     <string name="processbar_downloading_default">0</string>
     <string name="download_rom_faild">"Stahování aktualizace se nezdařilo,
  zkuste to znovu."</string>
-    <string name="download_rom_success">"Downloaded ROM successfully.
-Install now."</string>
-    <string name="low_battery_message">"Downloaded updates successfully.
-Battery must be at least %1$s%% charged to install updates."</string>
+    <string name="download_rom_success">"ROM stažená úspěšně.
+Instalovat nyní."</string>
+    <string name="low_battery_message">"Aktualizace stažené úspěšně.
+Baterie musí mít minimálně %1$s%% pro instalaci aktualizací."</string>
     <string name="low_battery_title">Connect charger</string>
     <string name="progressbar_tips">Checking…</string>
     <string name="progressbar_percent">%1$d%%</string>
-    <string name="low_mem">"Not enough storage space for an update.
-Free up %1$sMB to update."</string>
+    <string name="low_mem">"Nedostatek místa v úložišti pro aktualizaci.
+Uvolněte %1$sMB pro aktualizaci."</string>
     <string name="update_network_error">"Kontrola aktualizace selhala, 
 zkuste to prosím později"</string>
-    <string name="cancel_download">"Aktualizace se stahuje, 
- přerušit?"</string>
-    <string name="new_rom_please_install">"Dostupná aktualizace, 
-prosím, aktualizujte"</string>
+    <string name="cancel_download">"Zrušit stahování
+aktualizací?"</string>
+    <string name="new_rom_please_install">"Aktualizace je k dispozici.
+Aktualizovat nyní."</string>
     <string name="btn_install_later">Remind later</string>
     <string name="btn_install_now">Install now</string>
     <string name="btn_upgrade_now">Update now</string>
@@ -63,20 +63,19 @@ prosím, aktualizujte"</string>
 zadejte ho prosím znovu"</string>
     <string name="wifi_connect_fail">"Nelze se připojit k této
 WiFi síti. Prosím, 
-vyzkoušejte jinou"</string>
+vyzkoušejte jinou."</string>
     <string name="searching">Searching…</string>
-    <string name="hasNewUpdateTitle">An update is available</string>
+    <string name="hasNewUpdateTitle">Aktualizace je k dispozici</string>
     <string name="hasNewUpdateInstallContent">Version %1$s is ready to install. Install now?</string>
     <string name="hasNewUpdateCheckContent">Version %1$s is available. Update now?</string>
     <string name="update_title">Select update method</string>
     <string name="update_online">OTA update</string>
     <string name="update_local">Local ZIP file</string>
-    <string name="local_update_confirm_1_title">Attention</string>
+    <string name="local_update_confirm_1_title">Upozornění</string>
     <string name="local_update_invalid_zip">Update to the latest version of the app</string>
-    <string name="local_update_confirm_1_msg">"To make sure the new version
-works properly, we\'ll erase all
-user data before the update.
-Back up your data using the Amazfit app."</string>
+    <string name="local_update_confirm_1_msg">"Chcete-li zajistit, aby nová verze 
+fungovala správně, vymažeme před aktualizací všechna 
+uživatelská data. Zálohujte vaše data pomocí aplikace Amazfit."</string>
     <string name="local_update_confirm_2_msg">"Ujistěte se prosím, že všechny uživatelská
 data jsou zálohována. Instalace 
 aktualizace vymaže všechny uživatelská 
@@ -143,9 +142,9 @@ data na hodinkách. Chcete pokračovat?"</string>
     <string name="heartrate">Heart rate</string>
     <string name="warmup">Warm Up</string>
     <string name="fatburn">Fat Burning</string>
-    <string name="heartlung">Aerobic</string>
-    <string name="strength">Anaerobic</string>
-    <string name="anaerobic">Anaerobic limit</string>
+    <string name="heartlung">Aerobní</string>
+    <string name="strength">Anaerobní</string>
+    <string name="anaerobic">Anaerobní limit</string>
     <string name="zone_one">Zone 1</string>
     <string name="zone_two">Zone 2</string>
     <string name="zone_three">Zone 3</string>
@@ -165,7 +164,7 @@ data na hodinkách. Chcete pokračovat?"</string>
     <string name="per_100Yard">/100 yd</string>
     <string name="mile">mi</string>
     <string name="mile_per_hour">mph</string>
-    <string name="per_mile">/mi</string>
+    <string name="per_mile">/mil</string>
     <string name="feet">ft</string>
     <string name="per_100feet">/100 ft</string>
     <string name="yard">yd</string>
@@ -199,7 +198,7 @@ data na hodinkách. Chcete pokračovat?"</string>
     <string name="rope_skip_tips">Group %1$s</string>
     <string name="rope_skip_tips1">The</string>
     <string name="rope_skip_tips2">set has been completed</string>
-    <string name="rope_skip_avg_heartrate">Avg. heart rate</string>
+    <string name="rope_skip_avg_heartrate">Prům. tepová frekvence</string>
     <string name="rope_skip_group_calories">\"Kalorie
 \"</string>
     <string name="music">Hudba</string>

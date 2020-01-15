@@ -45,7 +45,7 @@
     <string name="crossing_remind_target_individual_pace">Tempo</string>
     <string name="agps_time_out">AGPS vypršela. Vyhledávání GPS bude pomalé. Připojte se k aplikaci Amazfit pro její aktualizaci.</string>
     <string name="safe_hearate_remind_content">Upozornit, když je vyšší než %1d BPM</string>
-    <string name="settings_safe_heart_rate_hint">(Limit tepové frekvence)</string>
+    <string name="settings_safe_heart_rate_hint">(limit tepové frekvence)</string>
     <string name="settings_safe_heart_rate_unit">BPM</string>
     <string name="elliptical">Eliptický trenažér</string>
     <string name="elliptical_in_progress">Eliptický trenažér…</string>
@@ -126,7 +126,7 @@
     <string name="picker_heart_region_content">Zóna %1$d</string>
     <string name="settings_sport_coach">Sportovní trenér</string>
     <string name="settings_sport_target">Cíl aktivity</string>
-    <string name="settings_sport_remind">Varování</string>
+    <string name="settings_sport_remind">Výstrahy</string>
     <string name="settings_sport_control">Další nastavení</string>
     <string name="settings_sport_auto_pause">Automatické pozastavení</string>
     <string name="settings_sport_auto_pause_triathlon">Automatické pozastavení</string>
@@ -156,7 +156,7 @@
     <string name="settings_item_title_target_calorie_remind">Kalorický cíl</string>
     <string name="settings_item_value_target_calorie">%1$d kcal</string>
     <string name="settings_item_value_swim_length">%1$s m</string>
-    <string name="settings_item_value_swim_length_imperial">%1$s m</string>
+    <string name="settings_item_value_swim_length_imperial">%1$s ft</string>
     <string name="settings_cal_unit">kcal</string>
     <string name="setting_auto_pause_speed">"Když je pomalejší než &lt;%1$s km/h"</string>
     <string name="setting_auto_pause_pace">"Když je pomalejší než %1$s"</string>
@@ -223,7 +223,7 @@ začněte nyní."</string>
 "</string>
     <string name="sport_confirm_stop_sport">Ano</string>
     <string name="sport_confirm_not_stop_sport">Ne</string>
-    <string name="sport_main_am">Dop.</string>
+    <string name="sport_main_am">dop.</string>
     <string name="sport_main_pm">Odp.</string>
     <string name="sport_main_recovery_title">Doporučená doba na zotavení</string>
     <string name="sport_history_full_recovery">Doba na zotavení</string>
@@ -367,7 +367,7 @@ začněte nyní."</string>
     <string name="more_operation">Více</string>
     <string name="detail_route_detail_train_lap_title">Detaily intervalu</string>
     <string name="interval_train_tips_title">Výstrahy budou ve výchozím nastavení vypnuty během intervalů</string>
-    <string name="interval_train_tips_content">(s výjimkou upozornění na srdeční frekvence)</string>
+    <string name="interval_train_tips_content">(kromě upozornění tepové frekvence)</string>
     <string name="interval_confirm">Mám to</string>
     <string name="this_time_need_run_mileage">Interval vzdálenosti: %1$s km</string>
     <string name="this_time_need_run_mileage_mile">Interval vzdálenosti: %1$s mil</string>
@@ -464,8 +464,8 @@ začněte nyní."</string>
     <string name="modify_big_dis_regain">Upravit</string>
     <string name="modify_big_dis_confirm">Pokračovat v kalibraci</string>
     <string name="re_modify_dis">Znovu kalibrovat</string>
-    <string name="re_modify_dis_tips">"1. Chcete-li kalibrovat výsledky vzdálenosti běžícího cyklu (musí být delší než 0,5 km), pomůže to hodinkám vygenerovat přesnější výsledek.
-2. Pokud ani po několika pokusech o kalibraci stále nejste spokojeni s výsledkem, zkuste kalibrovat znovu.
+    <string name="re_modify_dis_tips">"1. Kalibrace výsledné vzdálenosti běhání (musí být delší než 0,5 km) pomůže hodinkám generovat přesnější výsledky.
+2. Pokud ani po několika kalibracích stále nejste spokojeni s výsledkem, zkuste kalibrovat znovu.
 3. Pokud znovu provedete kalibraci výsledků, všechny předchozí kalibrační záznamy budou smazány."</string>
     <string name="give_up_re_modify_dis">Vzdát</string>
     <string name="confirm_re_modify_dis">Potvrdit</string>
@@ -497,7 +497,7 @@ začněte nyní."</string>
     <string name="rowing_machine_avg_stroke_freq">Prům. frekv.</string>
     <string name="gps_settings">Interval GPS</string>
     <string name="gps_data_interval">Interval dat</string>
-    <string name="gps_interval_time">%1$d sekund</string>
+    <string name="gps_interval_time">%1$d s</string>
     <string name="group_rowing_freq">Frekvence</string>
     <string name="group_rowing_count">Krát</string>
     <string name="group_rowing_avg_hr">Prům. tepová frekvence</string>
@@ -598,7 +598,7 @@ pro dosažení plného zotavení.“</string>
     <string name="first_beat_help_title_recovery_time">Doba zotavení</string>
     <string name="first_beat_help_vo2_max">"&lt;font color=#00FF00&gt;What is this?&lt;/font&gt;&lt;br/&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; VO₂ max představuje maximální objem kyslíku, který může tělo spotřebovávat za jednu minutu měřený v ml/kg/min. Hodnotí stav kardiorespirační schopnosti uživatelů, což je důležité pro celkové zdraví, dobré životní podmínky a sportovní výkony. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Hodinky automaticky vyhodnotí vaši VO₂ max na základě srdeční frekvence, rychlosti atd. během cvičení malé intenzity a porovnají ji s referenční skupinou stejného věku a pohlaví, aby určily vaši fitness úroveň. &lt;br/&gt;&lt;font color=#00FF00&gt;Jak vyhodnotit?&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 1. Poskytněte přesné profilové informace, jako je věk a pohlaví v aplikaci Amazfit během nastavení; &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 2. Proveďte svižný běh po dobu 15 minut nebo déle se zapnutými hodinkami a ujistěte se, že srdeční frekvence je na nebo nad 75% vaší maximální srdeční frekvence po dobu nejméně 10 minut; &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 3. Po dokončení běhu můžete zkontrolovat aktuální VO₂ max v aplikaci sportovních aktivit na stránce hodinek nebo osobního stavu v aplikaci Amazift Watch. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;Další podrobnosti naleznete v aplikaci Amazfit .&lt;/small&gt;"</string>
     <string name="first_beat_help_te">&lt;font color=#00FF00&gt;Co to je?&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Tréninkový efekt (TE) měří nahromaděné zatížení během tréninku a interpretuje jeho dopad na vaši aerobní kondici. TE začíná od úrovně 0,0. Při úspěšném vývoji tréninku se zvyšuje hodnota TE (od 0 do 5), vypovídajíc, jaký vliv má trénink na vaši kondici. &lt;br/&gt;&lt;font color=#00FF00&gt;Jak je vypočítána?&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;TE se vypočítává na základě vašeho uživatelského profilu, srdečního tepu a obtížnosti tréninku.&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Hodinky zobrazí měření TE v reálném čase během tréninku i konečný výsledek TE na konci tréninku. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;Další podrobnosti naleznete v aplikaci Amazfit .&lt;/small&gt;</string>
-    <string name="first_beat_help_train_load">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Hodinky výpočítají tréninkové zatížení na základě hodnot EPOC (Excess Post-exercise Oxygen Consumption - nadměrná spotřeba kyslíku po cvičení) nahromaděných z údajů o srdeční frekvenci, zaznamenaných během cvičení za posledních 7 dnů. Uživatel může odpovídajícím způsobem upravit plán cvičení, aby dosáhl optimálního zatížení. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;Pro více informací si přečtěte nápovědu v aplikaci Amazfit&lt;/small&gt;</string>
+    <string name="first_beat_help_train_load">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Hodinky vypočítají tréninkové zatížení na základě hodnot EPOC (Excess Post-exercise Oxygen Consumption - nadměrná spotřeba kyslíku po cvičení) nahromaděných z údajů o srdeční frekvenci, zaznamenaných během cvičení za posledních 7 dnů. Uživatel může odpovídajícím způsobem upravit plán cvičení, aby dosáhl optimálního zatížení. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;Pro více informací si přečtěte nápovědu v aplikaci Amazfit&lt;/small&gt;</string>
     <string name="first_beat_help_run_target_and_real_time_guide">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Hodinky poskytnou doporučení na základě vaší VO₂ max úrovně, posledního tréninkového zatížení a stavu zotavení z předchozího tréninku.. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Když povolíte funkci trénování v reálném čase v nastavení a nastavíte cíl TE, nebo zvolíte některý z doporučených tréninků, hodinky vás povedou tréninkem a vyzvou k úpravě tempa a srdeční frekvence, aby bylo dosaženo stanovených cílů. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;small&gt;Pro více informací si přečtěte nápovědu v aplikaci Amazfit&lt;/small&gt;</string>
     <string name="first_beat_help_daily_perpormence">"&lt;font color=#00FF00&gt;Co to je?&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Stav výkonu v reálném čase ukazuje, zda jste nad nebo pod průměrnou úrovní výkonu a jak akumulační únava ovlivňuje váš výkon během tréninku. &lt;br/&gt;&lt;font color=#00FF00&gt;Jak se používá?&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Hodinky automaticky vyhodnotí stav výkonu po 6 minutách běhu. Vyšší než průměrná hodnota znamená, že můžete udělat tvrdší trénink, než byste dělali normálně. Nižší hodnota naznačuje, že byste měli mít snazší trénink. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Po dokončení tréninku můžete analyzovat výkonnost tak, že se podíváte na výsledek každého km/míle na grafu. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;Další podrobnosti naleznete v aplikaci Amazfit .&lt;/small&gt;"</string>
     <string name="first_beat_help_recovery_time">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Po dokončení cvičení vám bude poskytnut čas v minutách na úplné zotavení. Pokud nejsou k dispozici žádná nová tréninková data, doba zotavení mezi tréninkem je lineárně snížena na nulu. Uživateli se doporučuje, aby měli nějaké cvičení s nízkou intenzitou, které pomohou s zotavením. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;Pro více informací si přečtěte nápovědu v aplikaci Amazfit&lt;/small&gt;</string>
@@ -920,7 +920,7 @@ pro dosažení plného zotavení.“</string>
     <string name="settings_item_value_open">Zap.</string>
     <string name="settings_item_value_closed">Vyp</string>
     <string name="settings_item_value_target_use_time">%1$dh %2$dm</string>
-    <string name="settings_item_value_target_distance">%.2f/ km</string>
+    <string name="settings_item_value_target_distance">%.2f km</string>
     <string name="settings_item_value_pace">Upozornit, když je pomalejší než %1$s</string>
     <string name="title_medal_list_header">Úspěchy</string>
     <string name="time_picker_hour">h</string>
@@ -1026,8 +1026,8 @@ pro dosažení plného zotavení.“</string>
     <string name="gps_time_out_re_rearch">GPS vypršela, znovu hledejte.</string>
     <string name="walking_step">kroky</string>
     <string name="waling_steps">kroky</string>
-    <string name="date_am">"'AM'"</string>
-    <string name="date_pm">"'PM'"</string>
+    <string name="date_am">"'dop.'"</string>
+    <string name="date_pm">"'odp.'"</string>
     <string name="setting_sport_remind_region">Výstražná zóna</string>
     <string name="setting_sport_heart_region_remind">Upozornění na zónu TF</string>
     <string name="setting_sport_heart_region_remind_title">Zóny tepové frekvence</string>
