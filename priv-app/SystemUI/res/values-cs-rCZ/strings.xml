@@ -17,7 +17,7 @@
     <string name="status_bar_no_notifications_title">No notifications</string>
     <string name="status_bar_ongoing_events_title">Ongoing</string>
     <string name="status_bar_latest_events_title">Notifications</string>
-    <string name="battery_low_title">Battery is low</string>
+    <string name="battery_low_title">Nízký stav baterie</string>
     <string name="battery_low_percent_format">Zbývá %s</string>
     <string name="battery_low_percent_format_saver_started">Zbývá %s. Spořič baterie je zapnutý.</string>
     <string name="invalid_charger">"Nabíjení přes USB není podporováno.
@@ -82,10 +82,10 @@ Používejte pouze dodávanou nabíječku."</string>
     <string name="accessibility_bluetooth_connected">Bluetooth connected.</string>
     <string name="accessibility_bluetooth_disconnected">Bluetooth disconnected.</string>
     <string name="accessibility_no_battery">No battery.</string>
-    <string name="accessibility_battery_one_bar">Battery one bar.</string>
-    <string name="accessibility_battery_two_bars">Battery two bars.</string>
-    <string name="accessibility_battery_three_bars">Battery three bars.</string>
-    <string name="accessibility_battery_full">Battery full.</string>
+    <string name="accessibility_battery_one_bar">Jedna čárka baterie.</string>
+    <string name="accessibility_battery_two_bars">Dvě čárky baterie.</string>
+    <string name="accessibility_battery_three_bars">Tři čárky baterie.</string>
+    <string name="accessibility_battery_full">Baterie je plně nabita.</string>
     <string name="accessibility_no_phone">No phone.</string>
     <string name="accessibility_phone_one_bar">Phone one bar.</string>
     <string name="accessibility_phone_two_bars">Phone two bars.</string>
@@ -134,7 +134,7 @@ Používejte pouze dodávanou nabíječku."</string>
     <string name="accessibility_no_sim">No SIM.</string>
     <string name="accessibility_bluetooth_tether">Bluetooth tethering.</string>
     <string name="accessibility_airplane_mode">Režim letadlo.</string>
-    <string name="accessibility_battery_level">Battery %d percent.</string>
+    <string name="accessibility_battery_level">Baterie %d procent.</string>
     <string name="accessibility_settings_button">System settings.</string>
     <string name="accessibility_notifications_button">Notifications.</string>
     <string name="accessibility_remove_notification">Clear notification.</string>
@@ -158,7 +158,7 @@ Používejte pouze dodávanou nabíječku."</string>
     <string name="accessibility_quick_settings_wifi_changed_off">Wifi turned off.</string>
     <string name="accessibility_quick_settings_wifi_changed_on">Wifi turned on.</string>
     <string name="accessibility_quick_settings_mobile">Mobile %1$s. %2$s. %3$s.</string>
-    <string name="accessibility_quick_settings_battery">Battery %s.</string>
+    <string name="accessibility_quick_settings_battery">Baterie %s.</string>
     <string name="accessibility_quick_settings_airplane_off">Vypnout režim Letadlo.</string>
     <string name="accessibility_quick_settings_airplane_on">Zapnout režim Letadlo.</string>
     <string name="accessibility_quick_settings_airplane_changed_off">Režim Letadlo je vypnutý.</string>
@@ -313,7 +313,7 @@ monitorována"</string>
     <string name="user_add_user_message_short">"Když přidáte nového uživatele, musí tato osoba nastavit svůj prostor.
 
 Každý uživatel může aktualizovat aplikace pro všechny ostatní uživatele."</string>
-    <string name="battery_saver_notification_title">Battery saver is on</string>
+    <string name="battery_saver_notification_title">Spořič baterie je zapnutý</string>
     <string name="battery_saver_notification_text">Reduces performance and background data</string>
     <string name="battery_saver_notification_action_text">Turn off battery saver</string>
     <string name="notification_hidden_text">Contents hidden</string>
