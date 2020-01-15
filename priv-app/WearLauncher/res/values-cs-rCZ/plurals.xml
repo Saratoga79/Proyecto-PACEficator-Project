@@ -3,9 +3,9 @@
 <resources>
     <plurals name="notification_time_day">
         <item quantity="other">%s days ago</item>
-        <item quantity="one">%s day ago</item>
-        <item quantity="few">%s days ago</item>
-        <item quantity="many">%s days ago</item>
+        <item quantity="one">Před %s dem</item>
+        <item quantity="few">Před %s dny</item>
+        <item quantity="many">Před %s dny</item>
     </plurals>
     <plurals name="notification_time_hour">
         <item quantity="other">%s hours ago</item>
