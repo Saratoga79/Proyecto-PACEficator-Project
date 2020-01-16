@@ -70,7 +70,7 @@
     <string name="stroke_speed_curve_title">Frekvence úderů (údery/min)</string>
     <string name="stroke_rowing_title">Rychlost veslování (bpm)</string>
     <string name="stroke_unit">" záběrů"</string>
-    <string name="cadence_curve_title">Kadence (záběry/min)</string>
+    <string name="cadence_curve_title">Kadence (SPM)</string>
     <string name="swim_trips_complete">Uplaváno %1$d bazénů</string>
     <string name="gps_search_tips">15 minutová rozcvička před během pomáhá zabránit zranění.</string>
     <string name="gps_search_swim_tips">Obrazovka bude při plavání uzamčena.</string>
@@ -98,7 +98,7 @@
     <string name="detail_lap_dis">Vzdálenost</string>
     <string name="detail_lap_avg_pace">Prům. tempo</string>
     <string name="detail_curve_graph">Graf</string>
-    <string name="battery_support_sport">Může stále cvičit pro</string>
+    <string name="battery_support_sport">Stále můžete cvičit po dobu</string>
     <string name="battery_continue_distance_unit"> km</string>
     <string name="battery_continue_imperial_distance_unit"> mil</string>
     <string name="battery_continue_time_unit"> hr</string>
@@ -186,7 +186,7 @@
     <string name="history_speed_graph_desc_imperial">Rychlost (mph)</string>
     <string name="history_altitude_graph_desc">Nadmořská výška (m)</string>
     <string name="history_altitude_graph_desc_imperial">Nadmořská výška (ft)</string>
-    <string name="history_step_freq_graph_desc">Kadence (záběry/min)</string>
+    <string name="history_step_freq_graph_desc">Kadence (SPM)</string>
     <string name="history_title">Aktivity</string>
     <string name="history_detail_info">Podrobnosti</string>
     <string name="hitory_rest_command">Čas do úplného zotavení </string>
@@ -441,7 +441,7 @@ začněte nyní."</string>
     <string name="setting_reserve_heart_region">Zóna RHR</string>
     <string name="outdoor_riding_speed_alert">Rychlostní upozornění</string>
     <string name="speed_too_low_remind_title">Rychlost je příliš nízká</string>
-    <string name="running_button_save_modify">Kalibrace a uložení</string>
+    <string name="running_button_save_modify">Kalibrovat a uložit</string>
     <string name="save_cur_location">Uložit aktuální polohu</string>
     <string name="previous_page">Předchozí</string>
     <string name="back_from_coming">Ustoupit</string>
@@ -463,7 +463,7 @@ začněte nyní."</string>
     <string name="modify_big_dis_tips">Kalibrovaná hodnota %1$s je výrazně odlišná od naměřené hodnoty %2$s, přesto kalibrovat?</string>
     <string name="modify_big_dis_regain">Upravit</string>
     <string name="modify_big_dis_confirm">Pokračovat v kalibraci</string>
-    <string name="re_modify_dis">Znovu kalibrovat</string>
+    <string name="re_modify_dis">Kalibrovat znovu</string>
     <string name="re_modify_dis_tips">"1. Kalibrace výsledné vzdálenosti běhání (musí být delší než 0,5 km) pomůže hodinkám generovat přesnější výsledky.
 2. Pokud ani po několika kalibracích stále nejste spokojeni s výsledkem, zkuste kalibrovat znovu.
 3. Pokud znovu provedete kalibraci výsledků, všechny předchozí kalibrační záznamy budou smazány."</string>
@@ -781,8 +781,7 @@ pro dosažení plného zotavení.“</string>
     <string name="sport_main_graph_title_rope_skip">Poslední (s)</string>
     <string name="sport_rope_skip_requency">Frekvence (skok/min)</string>
     <string name="swim_total_trips_times">Celkem okruhů: %1$s</string>
-    <string name="rope_skip_this_group_calorie">\"Kalorie
-\"</string>
+    <string name="rope_skip_this_group_calorie">Kalorie</string>
     <string name="rope_skip_this_group_avg_hr">Prům. TF</string>
     <string name="lap_this_group_avg_hr">Tepová frekvence této sady</string>
     <string name="route_glevation_gain">Nastoupáno</string>
@@ -830,8 +829,7 @@ pro dosažení plného zotavení.“</string>
     <string name="cur_lap_pace">Tempo tohoto okruhu</string>
     <string name="running_cost_time_desc">Čas</string>
     <string name="running_pace_desc">Tempo</string>
-    <string name="running_calorie_desc">\"Kalorie
-\"</string>
+    <string name="running_calorie_desc">Kalorie</string>
     <string name="running_step_freq_desc">Kadence</string>
     <string name="running_speed_desc">Rychlost</string>
     <string name="running_distance_desc">Vzdálenost</string>
@@ -898,7 +896,7 @@ pro dosažení plného zotavení.“</string>
     <string name="history_detail_cost_time">Celkový čas</string>
     <string name="history_detail_pace_desc">Tempo (min/km)</string>
     <string name="history_detail_calorie_desc">Kalorie (kcal)</string>
-    <string name="history_detail_step_freq">Kadence (záběry/min)</string>
+    <string name="history_detail_step_freq">Kadence (SPM)</string>
     <string name="history_detail_speed">Rychlost (km/h)</string>
     <string name="waiting_gps_gps_unavailable">Čekám na signál GPS</string>
     <string name="waiting_gps_gps_available">GPS je dostupné</string>
@@ -1290,8 +1288,7 @@ pro dosažení plného zotavení.“</string>
     <string name="rope_skip_tips1">Tato</string>
     <string name="rope_skip_tips2">sada byla dokončena</string>
     <string name="rope_skip_avg_heartrate">Prům. tepová frekvence</string>
-    <string name="rope_skip_group_calories">\"Kalorie
-\"</string>
+    <string name="rope_skip_group_calories">Kalorie</string>
     <string name="music">Hudba</string>
     <string name="press_long_power_key_wake_up">Stiskněte fyzické tlačítko pro ukončení</string>
     <string name="sport_auto_pause_end">Relace skončila, uložit data?</string>
