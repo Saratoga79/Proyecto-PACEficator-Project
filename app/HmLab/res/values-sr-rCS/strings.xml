@@ -3,27 +3,29 @@
 <resources>
     <string name="app_name">Huami lab</string>
     <string name="main_title">Huami lab</string>
-    <string name="agreement_title">PPG capturing</string>
-    <string name="orig_data_collect">Activity data collection</string>
-    <string name="message">"We\'ll collect raw PPG data when you wear the watch.
-The data will only be used for research purposes.
-This feature will adversely impact the battery life."</string>
-    <string name="allow">Allow</string>
-    <string name="exit">Exit</string>
-    <string name="message_everest">"We'll collect raw PPG data when you wear the watch. The data will only be used for research purposes. This feature will adversely impact the battery life."</string>
-    <string name="heart_rate_collection_on">On</string>
-    <string name="heart_rate_collection_off">Off</string>
-    <string name="hbeacon_on">On</string>
-    <string name="hbeacon_off">Off</string>
-    <string name="hbeacon_on_confirm_message">Tap to turn the HBeacon feature on, so the watch battery may be slightly reduced, and you may need to pair your phone with the watch again after it reboots.</string>
-    <string name="hbeacon_off_confirm_message">Tap to turn off the HBeacon feature, and you may need to pair your phone with the watch again after it reboots.</string>
-    <string name="saving_data">Saving data</string>
-    <string name="upload_data">Upload data</string>
-    <string name="upload_success">Done</string>
-    <string name="upload_failed">"Couldn't upload. Try again."</string>
-    <string name="air_mode_alert_title">"Couldn't connect"</string>
-    <string name="air_mode_alert_message">Turn off Airplane mode then try again.</string>
-    <string name="report_sensor_capture_dialog_title">Activity data collection</string>
+    <string name="agreement_title">PPG beleženje</string>
+    <string name="orig_data_collect">Skup podataka o aktivnostima</string>
+    <string name="message">"Skupljaćemo sirove PPG podatke kada nosiš sat.
+Podaci će biti korišćeni u istraživačke svrhe.
+Ova funkcija će negativno uticati na trajanje baterije."</string>
+    <string name="allow">Dozvoli</string>
+    <string name="exit">Izlaz</string>
+    <string name="message_everest">"Skupljaćemo sirove PPG podatke kada nosiš sat.
+Podaci će biti korišćeni u istraživačke svrhe.
+Ova funkcija će negativno uticati na trajanje baterije."</string>
+    <string name="heart_rate_collection_on">Uključeno</string>
+    <string name="heart_rate_collection_off">Isključeno</string>
+    <string name="hbeacon_on">Uključeno</string>
+    <string name="hbeacon_off">Isključeno</string>
+    <string name="hbeacon_on_confirm_message">Dodirnite da biste uključili HBeacon funkciju, nivo baterije na satu će možda biti blago smanjen, i možda ćete morati da uparite telefon sa satom ponovo pošto se restartuje.</string>
+    <string name="hbeacon_off_confirm_message">Dodirnite da biste uključili HBeacon funkciju, i možda ćete morati da uparite telefon sa satom ponovo pošto se restartuje.</string>
+    <string name="saving_data">Čuvanje podataka</string>
+    <string name="upload_data">Slanje podataka</string>
+    <string name="upload_success">Gotovo</string>
+    <string name="upload_failed">"Ne može se poslati. Pokušajte ponovo."</string>
+    <string name="air_mode_alert_title">"Ne može se povezati"</string>
+    <string name="air_mode_alert_message">Isključite avionski režim pa pokušajte ponovo.</string>
+    <string name="report_sensor_capture_dialog_title">Skup podataka o aktivnostima</string>
     <string name="report_sensor_capture_dialog_desc">When turning on activity data collection, we will collect original information of sensor after you start an exercise, and stop immediately when you end the exercise. Such data will be submitted to the server as well when you submit watch issue feedback for analysis. These logs are used only for problem analysis, and will be destroyed immediately after that. During the entire process we will comply with our Privacy Policy, view details of the policy on the Amazfit Watch app.</string>
     <string name="dialog_agree">Agree</string>
     <string name="dialog_quit">Exit</string>
