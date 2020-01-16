@@ -539,7 +539,7 @@
     <string name="sport_add_item">Añadir nueva actividad</string>
     <string name="sport_delete_item">Eliminar la actividad</string>
     <string name="delete_item_tips">Mantén al menos 1 actividad en la lista</string>
-    <string name="add_item_tips">Nueva actividad añadida a la lista de actividades</string>
+    <string name="add_item_tips">La actividad ya existe en la lista de actividades</string>
     <string name="huanghe_pause_continue_title">Pausar/continuar</string>
     <string name="virtual_rabbit_back_distance">D. Perdida</string>
     <string name="experience_title">Por favor, configure la información personal, o los datos tendrán una gran desviación</string>
@@ -1039,15 +1039,15 @@ para un ejercicio más efectivo\"</string>
  muñeca que use la raqueta</string>
     <string name="sport_time_seconds">segundos</string>
     <string name="sport_type_num_text">%1$d actividades</string>
-    <string name="sport_type_runing">Correr</string>
-    <string name="sport_type_riding">Bici</string>
+    <string name="sport_type_runing">Correr&amp; Caminar</string>
+    <string name="sport_type_riding">Ciclismo</string>
     <string name="sport_type_indoor">Interior</string>
-    <string name="sport_type_snow">Nieve</string>
+    <string name="sport_type_snow">Invierno</string>
     <string name="sport_type_outdoor">Aire libre</string>
     <string name="sport_type_swim">Natación</string>
     <string name="sport_type_dance">Baile</string>
     <string name="sport_type_bar">Balón</string>
-    <string name="sport_type_other">Otro</string>
+    <string name="sport_type_other">Otros</string>
     <string name="sport_type_boxing">Boxeo</string>
     <string name="sport_add_title">Más Actividades</string>
     <string name="sport_list_hide_title">Actividades habituales</string>
@@ -1148,7 +1148,7 @@ para un ejercicio más efectivo\"</string>
     <string name="climbing_floor">Subir escaleras</string>
     <string name="pilates">Pilates</string>
     <string name="flexibility_training">Flexibilidad</string>
-    <string name="stepper">Paso a paso</string>
+    <string name="stepper">Subida escalera</string>
     <string name="stepping_training">Pasos</string>
     <string name="artistic_gymnastics">Gim. artística</string>
     <string name="yoga">Yoga</string>
@@ -1171,7 +1171,7 @@ para un ejercicio más efectivo\"</string>
     <string name="ballet">Ballet</string>
     <string name="belly_dance">Danza del vientre</string>
     <string name="square_dance">Baile cuadrado</string>
-    <string name="hip_hop">Hip-hop</string>
+    <string name="hip_hop">Baile callejero</string>
     <string name="social_dance">Baile de salón</string>
     <string name="dance">Dance</string>
     <string name="zun_ba">Zumba</string>
@@ -1200,7 +1200,7 @@ para un ejercicio más efectivo\"</string>
     <string name="thai_boxing">Muay Thai</string>
     <string name="taekwondo">Taekwondo</string>
     <string name="a_martial_art">Artes marciales</string>
-    <string name="free_fight">Combate libre</string>
+    <string name="free_fight">Kickboxing</string>
     <string name="double_ski">Snowboard</string>
     <string name="sport_total_time">Tiempo</string>
     <string name="speed">Velocidad</string>
@@ -1246,7 +1246,7 @@ para un ejercicio más efectivo\"</string>
     <string name="kilometre">km</string>
     <string name="km_per_hour">km/h</string>
     <string name="bpm">ppm</string>
-    <string name="times_per_minute">SPM</string>
+    <string name="times_per_minute">saltos/min</string>
     <string name="per_km">/km</string>
     <string name="per_100m">/100 m</string>
     <string name="per_100Yard">/100 yd</string>
