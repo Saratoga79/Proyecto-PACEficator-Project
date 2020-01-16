@@ -16,7 +16,7 @@
     <string name="outdoor_riding">Прогулка на велосипеде</string>
     <string name="indoor_riding">Велотренажер</string>
     <string name="cross_contry">Горный бег</string>
-    <string name="eppitical">Эллиптический</string>
+    <string name="eppitical">Орбитрек</string>
     <string name="indoor_swimming">Бассейн</string>
     <string name="outdoor_swimming">Плавание на природе</string>
     <string name="triathlon">Триатлон</string>
@@ -30,7 +30,7 @@
     <string name="complex_sport">Комплексный спорт</string>
     <string name="rope_skipping">Скакалка</string>
     <string name="on_foot">Пешком</string>
-    <string name="indoor_fitness">Фитнес в помещении</string>
+    <string name="indoor_fitness">Фитнес</string>
     <string name="row_machine">Гребной тренажер</string>
     <string name="sport_total_time">Общее время</string>
     <string name="current_altitude">Высота</string>
@@ -106,11 +106,11 @@
     <string name="virtual_rabbit_lead_time">Время подготовки</string>
     <string name="virtual_rabbit_back_time">Lag time</string>
     <string name="virtual_rabbit_lead_distance">Lead distance</string>
-    <string name="virtual_rabbit_back_distance">Lag distance</string>
-    <string name="oritation_east">E</string>
-    <string name="oritation_sourth">S</string>
-    <string name="oritation_west">W</string>
-    <string name="oritation_north">N</string>
+    <string name="virtual_rabbit_back_distance">Расстояние запаздывания</string>
+    <string name="oritation_east">В</string>
+    <string name="oritation_sourth">Ю</string>
+    <string name="oritation_west">З</string>
+    <string name="oritation_north">С</string>
     <string name="rope_skip_group_time">Время</string>
     <string name="rope_skip_group_count">Count</string>
     <string name="rope_skip_group_freq">Частота</string>
@@ -138,6 +138,6 @@
     <string name="widget_currentstep_sleep_min">мин</string>
     <string name="widget_currentstep_sleep_title">Сон</string>
     <string name="widget_currentstep_sleep_no">Нет данных о сне</string>
-    <string name="widget_currentstep_activity_no">Сегодня нет тренировок?</string>
+    <string name="widget_currentstep_activity_no">Нет активности</string>
     <string name="locale_title">Выберите язык</string>
 </resources>
