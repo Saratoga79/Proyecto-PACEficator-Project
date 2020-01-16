@@ -36,7 +36,7 @@ Používejte pouze dodávanou nabíječku."</string>
     <string name="status_bar_settings_auto_brightness_label">AUTO</string>
     <string name="status_bar_settings_notifications">Notifications</string>
     <string name="status_bar_network_name_separator">|</string>
-    <string name="bluetooth_tethered">Bluetooth tethered</string>
+    <string name="bluetooth_tethered">Bluetooth sdílen</string>
     <string name="status_bar_input_method_settings_configure_input_methods">Set up input methods</string>
     <string name="status_bar_use_physical_keyboard">Physical keyboard</string>
     <string name="usb_device_permission_prompt">Povolit aplikaci %1$s přístup k zařízení USB?</string>
@@ -132,7 +132,7 @@ Používejte pouze dodávanou nabíječku."</string>
     <string name="accessibility_data_connection_edge">Edge</string>
     <string name="accessibility_data_connection_wifi">Wi-Fi</string>
     <string name="accessibility_no_sim">No SIM.</string>
-    <string name="accessibility_bluetooth_tether">Bluetooth tethering.</string>
+    <string name="accessibility_bluetooth_tether">Sdílení Bluetooth.</string>
     <string name="accessibility_airplane_mode">Režim letadlo.</string>
     <string name="accessibility_battery_level">Baterie %d procent.</string>
     <string name="accessibility_settings_button">System settings.</string>
@@ -167,8 +167,8 @@ Používejte pouze dodávanou nabíječku."</string>
     <string name="accessibility_quick_settings_bluetooth_on">Bluetooth ZAP.</string>
     <string name="accessibility_quick_settings_bluetooth_connecting">Připojování Bluetooth.</string>
     <string name="accessibility_quick_settings_bluetooth_connected">Bluetooth připojeno.</string>
-    <string name="accessibility_quick_settings_bluetooth_changed_off">Bluetooth turned off.</string>
-    <string name="accessibility_quick_settings_bluetooth_changed_on">Bluetooth turned on.</string>
+    <string name="accessibility_quick_settings_bluetooth_changed_off">Bluetooth vypnuto.</string>
+    <string name="accessibility_quick_settings_bluetooth_changed_on">Bluetooth zapnuto.</string>
     <string name="accessibility_quick_settings_location_off">Location reporting off.</string>
     <string name="accessibility_quick_settings_location_on">Location reporting on.</string>
     <string name="accessibility_quick_settings_location_changed_off">Location reporting turned off.</string>
@@ -217,7 +217,7 @@ Jejich opětovné zapnutí může vést k poplatkům od vašeho operátora."</st
     <string name="quick_settings_bluetooth_multiple_devices_label">Bluetooth (%d zařízení)</string>
     <string name="quick_settings_bluetooth_off_label">Bluetooth VYP.</string>
     <string name="quick_settings_bluetooth_detail_empty_text">No paired devices available</string>
-    <string name="quick_settings_brightness_label">Brightness</string>
+    <string name="quick_settings_brightness_label">Jas</string>
     <string name="quick_settings_rotation_unlocked_label">Automatické otáčení</string>
     <string name="quick_settings_rotation_locked_label">Rotation locked</string>
     <string name="quick_settings_rotation_locked_portrait_label">Portrait</string>
@@ -243,7 +243,7 @@ Jejich opětovné zapnutí může vést k poplatkům od vašeho operátora."</st
     <string name="quick_settings_cast_device_default_name">Unnamed device</string>
     <string name="quick_settings_cast_device_default_description">Ready to cast</string>
     <string name="quick_settings_cast_detail_empty_text">No devices available</string>
-    <string name="quick_settings_brightness_dialog_title">Brightness</string>
+    <string name="quick_settings_brightness_dialog_title">Jas</string>
     <string name="quick_settings_brightness_dialog_auto_brightness_label">AUTO</string>
     <string name="quick_settings_inversion_label">Invert colors</string>
     <string name="quick_settings_color_space_label">Color correction mode</string>
