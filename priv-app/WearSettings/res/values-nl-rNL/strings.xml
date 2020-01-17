@@ -206,8 +206,8 @@
     <string name="phone_far_away_remind_to_you">The watch will alert you when you are far away from your phone.</string>
     <string name="dialog_confire">OK</string>
     <string name="auto_hint_title">Off screen time</string>
-    <string name="voice">Volume adjustment</string>
-    <string name="watch_mode">Watch mode</string>
+    <string name="voice">Volumeregeling</string>
+    <string name="watch_mode">Horloge modus</string>
     <string name="lock_screen_title">Vergrendelingsscherm</string>
     <string name="lock_screen">Vergrendelingsscherm</string>
     <string name="lock_screen_hand">Laag licht-modus</string>
@@ -467,12 +467,12 @@ all data in the watch will be deleted, and the watch will be disconnected from y
     <string name="reset_factory_bank_msg_again">"Once the watch is reset to factory default settings, all data in the watch will be deleted, and the watch will be disconnected from your mobile. 
  The current activated transportation card can still be used after the watch is bound with your mobile again."</string>
     <string name="lockpassword_confirm_your_pattern_header">Bevestig patroon</string>
-    <string name="lockpattern_need_to_unlock">Draw Unlocking Pattern</string>
+    <string name="lockpattern_need_to_unlock">Teken ontgrendelpatroon</string>
     <string name="lockpattern_need_to_unlock_footer"></string>
     <string name="lockpattern_need_to_unlock_wrong"></string>
     <string name="lockpattern_need_to_unlock_wrong_footer"></string>
     <string name="lockpattern_too_many_failed_confirmation_attempts_header">Te veel fouten！</string>
-    <string name="lockpattern_too_many_failed_confirmation_attempts_footer">%d Retry after Several Seconds</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_footer">%d Opnieuw proberen na enkele seconden</string>
     <string name="lockpattern_tutorial_cancel_label">Afbreken</string>
     <string name="lockpattern_tutorial_continue_label">Volgende</string>
     <string name="lockpassword_choose_your_pattern_header">Selecteer uw patroon</string>
@@ -535,10 +535,10 @@ all data in the watch will be deleted, and the watch will be disconnected from y
     <string name="light_auto_guide_title">Auto aanp.</string>
     <string name="light_auto_guide_content">After Auto adjustment is on, move slider to fine tune the brightness coefficient, then the screen brightness will still change with the ambient brightness.</string>
     <string name="light_auto_guide_ok">Ik weet het</string>
-    <string name="watch_mode_title">Turn on watch mode</string>
+    <string name="watch_mode_title">Schakel de horloge modus in</string>
     <string name="watch_mode_message">"\"When turned on, the watch will only support time display, step counting and transportation card payment. 
  (When you turn it on, press and hold the physical key to exit this mode)\""</string>
-    <string name="watch_mode_positive">Confirm turned on</string>
+    <string name="watch_mode_positive">Bevestig ingeschakeld</string>
     <string name="watch_mode_negative">Afbreken</string>
     <string name="replace_watchface">Wijzerplaat</string>
     <string name="screen_refresh">Vergrendelscherm secondenwijzer</string>
