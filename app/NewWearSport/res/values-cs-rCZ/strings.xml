@@ -80,10 +80,10 @@
     <string name="gps_search_failed_title">"GPS není dostupné"</string>
     <string name="gps_search_failed_content">GPS lokalizace se nezdařila. Zkuste to prosím znovu v otevřeném prostoru.</string>
     <string name="gps_search_success_title">GPS je připravena</string>
-    <string name="gps_search_success_content">GPS je k dispozici, nyní můžete spustit trénink.</string>
+    <string name="gps_search_success_content">GPS dostupné, nyní můžete spustit trénink.</string>
     <string name="gps_search_timeout_title">Platnost GPS vypršela</string>
     <string name="gps_search_timeout_content">AGPS vypršela. Vyhledávání GPS bude pomalé. Připojte se k aplikaci Amazfit pro její aktualizaci.</string>
-    <string name="gps_notify_success">GPS je dostupné</string>
+    <string name="gps_notify_success">GPS dostupné</string>
     <string name="gps_notify_loss">Ztracený signál GPS</string>
     <string name="gps_search_time_out_content">GPS bylo vypnuto z důvodu neaktivity.</string>
     <string name="detail_route_title">Trasa</string>
@@ -262,7 +262,7 @@ začněte nyní."</string>
     <string name="hill_default_percent">%1$d%%</string>
     <string name="sport_result_in_progress">Ukládání dat…</string>
     <string name="sport_result_invalid">Zastavování aktivity…</string>
-    <string name="sport_gps_found_success_tips">GPS je dostupné</string>
+    <string name="sport_gps_found_success_tips">GPS dostupné</string>
     <string name="sport_history_recovery">Obnovit</string>
     <string name="sport_remind_pace_unit">/km</string>
     <string name="sport_lap_manual_current">Aktuální</string>
@@ -855,7 +855,7 @@ pro dosažení plného zotavení.“</string>
     <string name="sport_item_running_title">Běh</string>
     <string name="sport_item_walking_title">Chůze</string>
     <string name="title_sport_list">Venkovní aktivity</string>
-    <string name="title_sport_gps_available">GPS je dostupné</string>
+    <string name="title_sport_gps_available">GPS dostupné</string>
     <string name="title_sport_gps_unavailable">Čekání na GPS…</string>
     <string name="title_sport_control_runnning">Běh</string>
     <string name="title_sport_control_walking">Chůze</string>
@@ -899,7 +899,7 @@ pro dosažení plného zotavení.“</string>
     <string name="history_detail_step_freq">Kadence (SPM)</string>
     <string name="history_detail_speed">Rychlost (km/h)</string>
     <string name="waiting_gps_gps_unavailable">Čekám na signál GPS</string>
-    <string name="waiting_gps_gps_available">GPS je dostupné</string>
+    <string name="waiting_gps_gps_available">GPS je nyní dostupné</string>
     <string name="waiting_gps_gps_available_button_text">OK</string>
     <string name="waiting_gps_gps_unavailable_button_text">Pokračovat</string>
     <string name="no_gps_title">GPS není dostupné</string>
@@ -987,7 +987,7 @@ pro dosažení plného zotavení.“</string>
     <string name="wait_gps_no_gps_signal">GPS není k dispozici, zkuste to znovu v otevřeném prostoru</string>
     <string name="wait_gps_search_retry">Zkusit znovu</string>
     <string name="wait_gps_hint">Signál GPS je lepší v otevřeném prostoru daleko od budov</string>
-    <string name="wait_gps_success">GPS je k dispozici, nyní můžete spustit trénink</string>
+    <string name="wait_gps_success">GPS dostupné, nyní můžete spustit trénink</string>
     <string name="lock_screen">Obrazovka uzamčena</string>
     <string name="txt_unlock_screen">Pro odemknutí stiskněte a podržte obrazovku</string>
     <string name="sport_screen_un_lock">Odemčeno</string>
@@ -1021,7 +1021,7 @@ pro dosažení plného zotavení.“</string>
     <string name="delete_sport_summary_tips">Smazat tuto aktivitu?</string>
     <string name="reminder_wear_not_tight_0">Používejte hodinky nad zápěstím</string>
     <string name="reminder_wear_not_tight_1">A zapněte zařízení</string>
-    <string name="gps_time_out_re_rearch">GPS vypršela, znovu hledejte.</string>
+    <string name="gps_time_out_re_rearch">Platnost GPS vypršela, znovu hledejte.</string>
     <string name="walking_step">kroky</string>
     <string name="waling_steps">kroky</string>
     <string name="date_am">"'dop.'"</string>
