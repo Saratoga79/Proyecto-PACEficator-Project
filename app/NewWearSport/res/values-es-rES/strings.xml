@@ -103,7 +103,7 @@
     <string name="battery_continue_imperial_distance_unit"> mi</string>
     <string name="battery_continue_time_unit"> hrs</string>
     <string name="battery_split"> / </string>
-    <string name="suggest_reset_time">%1$s hrs hasta la recuperación total</string>
+    <string name="suggest_reset_time">%1$s h para recuperación total</string>
     <string name="remain_time_recovery"><Data>Tiempo de recuperación total&amp;nbsp;&lt;font color=#00ff00&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;/font&gt;&amp;nbsp; h</Data></string>
     <string name="more_sport_tint">Más</string>
     <string name="zh_space">　</string>
@@ -115,7 +115,7 @@
     <string name="picker_title_target_calorie">Calorías (kCal)</string>
     <string name="picker_title_target_te">Objetivo TE</string>
     <string name="picker_title_target_heart_rate">RC (ppm)</string>
-    <string name="picker_title_auto_lap">Vuelta auto. (%1$s)</string>
+    <string name="picker_title_auto_lap">Vuelta Automática (%1$s)</string>
     <string name="picker_title_swim_length">Tamaño de piscina (%1$s)</string>
     <string name="picker_title_target_trips">Objetivo de largos</string>
     <string name="picker_title_fix_dis">Calibrar (%1$s)</string>
@@ -123,7 +123,7 @@
     <string name="picker_sub_title_te_two">(mejorando)</string>
     <string name="picker_sub_title_te_three">(mejorando)</string>
     <string name="picker_sub_title_te_four">(mejorando)</string>
-    <string name="picker_heart_region_content">zona %1$d</string>
+    <string name="picker_heart_region_content">Zona %1$d</string>
     <string name="settings_sport_coach">Coach deportivo</string>
     <string name="settings_sport_target">Objetivo de entrenamiento</string>
     <string name="settings_sport_remind">Avisos</string>
@@ -154,9 +154,9 @@
     <string name="setting_on">On</string>
     <string name="setting_off">Off</string>
     <string name="settings_item_title_target_calorie_remind">Objetivo de calorías</string>
-    <string name="settings_item_value_target_calorie">%1$d kCal</string>
-    <string name="settings_item_value_swim_length">%1$sm</string>
-    <string name="settings_item_value_swim_length_imperial">%1$s pies</string>
+    <string name="settings_item_value_target_calorie">%1$d kcal</string>
+    <string name="settings_item_value_swim_length">%1$s m</string>
+    <string name="settings_item_value_swim_length_imperial">%1$s ft</string>
     <string name="settings_cal_unit">kCal</string>
     <string name="setting_auto_pause_speed">"Cuando es inferior a &lt;%1$s km/h"</string>
     <string name="setting_auto_pause_pace">"Cuando sea más lento que %1$s"</string>
@@ -173,7 +173,7 @@
     <string name="sport_cur_tar_dis_ft">Distancia: %1$s ft</string>
     <string name="sport_cur_tar_dis_yd">Distancia: %1$s yd</string>
     <string name="sport_cur_tar_time">Tiempo: %1$dh %2$dm</string>
-    <string name="sport_cur_tar_cal">Calorías: %1$s kCal</string>
+    <string name="sport_cur_tar_cal">Calorías: %1$s kcal</string>
     <string name="sport_cur_tar_trips">Largos: %1$s</string>
     <string name="sport_setting_select_te_stage_title">Selecciona TE</string>
     <string name="sport_setting_te_stage_content">TE%1$s %2$sm</string>
@@ -213,7 +213,7 @@
     <string name="heartrate_x_axis_time_format">HH:mm:ss</string>
     <string name="lap_title">Vuelta %1$d</string>
     <string name="manual_lap_title">Vuelta man. %1$d</string>
-    <string name="auto_lap_title">Vuelta auto. %1$d</string>
+    <string name="auto_lap_title">Vuelta Automática %1$d</string>
     <string name="lap_total_time">Tiempo total</string>
     <string name="lap_add_failed">"Vuelta demasiado corta, no se puede grabar."</string>
     <string name="sport_main_stop_this_sport">¿Parar la actividad actual?</string>
@@ -264,8 +264,8 @@
     <string name="sport_history_recovery">Recuperación</string>
     <string name="sport_remind_pace_unit">/km</string>
     <string name="sport_lap_manual_current">Actual</string>
-    <string name="sport_lap_swim_length_time">veces/%1$s metros</string>
-    <string name="sport_lap_swim_length_time_imperial">veces/%1$s yardas</string>
+    <string name="sport_lap_swim_length_time">Tiempo para %1$s m</string>
+    <string name="sport_lap_swim_length_time_imperial">Tiempo para %1$s yd</string>
     <string name="sport_swim_style">Tipo de brazada</string>
     <string name="sport_swim_style_main">Estilo principal</string>
     <string name="swim_free_style">Estilo libre</string>
@@ -329,7 +329,7 @@
     <string name="swim_avg_dps">DPS media</string>
     <string name="swim_swolf">Swolf</string>
     <string name="swim_swolf_unit">(%1$s m)</string>
-    <string name="swim_swolf_unit_default">(%1$s 100 m)</string>
+    <string name="swim_swolf_unit_default">(100 m)</string>
     <string name="swim_swolf_unit_yd">(%1$s yards)</string>
     <string name="swim_swolf_unit_default_yd">(100 yards)</string>
     <string name="swim_pace">Ritmo</string>
