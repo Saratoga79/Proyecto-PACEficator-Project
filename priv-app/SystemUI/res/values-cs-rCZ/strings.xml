@@ -8,7 +8,7 @@
     <string name="doze_pulse_schedule">1s,10s,30s,60s</string>
     <string name="system_ui_date_pattern">@android:string/system_ui_date_pattern</string>
     <string name="lland">L Land</string>
-    <string name="app_label">System UI</string>
+    <string name="app_label">Systémové uživatelské rozhraní</string>
     <string name="status_bar_clear_all_button">Vyčistit</string>
     <string name="status_bar_recent_remove_item_title">Odebrat ze seznamu</string>
     <string name="status_bar_recent_inspect_item_title">O aplikaci</string>
@@ -76,7 +76,7 @@ Používejte pouze dodávanou nabíječku."</string>
     <string name="unlock_label">unlock</string>
     <string name="phone_label">spustit telefon</string>
     <string name="camera_label">spustit fotoaparát</string>
-    <string name="accessibility_ime_switch_button">Switch input method button.</string>
+    <string name="accessibility_ime_switch_button">Tlačítko přepnutí metody zadávání.</string>
     <string name="accessibility_compatibility_zoom_button">Tlačítko zvětšení kompatibility.</string>
     <string name="accessibility_compatibility_zoom_example">Zoom smaller to larger screen.</string>
     <string name="accessibility_bluetooth_connected">Bluetooth připojeno.</string>
@@ -135,7 +135,7 @@ Používejte pouze dodávanou nabíječku."</string>
     <string name="accessibility_bluetooth_tether">Sdílení Bluetooth.</string>
     <string name="accessibility_airplane_mode">Režim letadlo.</string>
     <string name="accessibility_battery_level">Baterie %d procent.</string>
-    <string name="accessibility_settings_button">System settings.</string>
+    <string name="accessibility_settings_button">Systémová nastavení.</string>
     <string name="accessibility_notifications_button">Oznámení.</string>
     <string name="accessibility_remove_notification">Vymazat oznámení.</string>
     <string name="accessibility_gps_enabled">GPS povoleno.</string>
@@ -287,15 +287,15 @@ monitorována"</string>
     <string name="keyguard_more_overflow_text">+%d</string>
     <string name="speed_bump_explanation">Méně naléhavá oznámení níže</string>
     <string name="notification_tap_again">Touch again to open</string>
-    <string name="keyguard_unlock">Swipe up to unlock</string>
-    <string name="phone_hint">Swipe right for phone</string>
-    <string name="camera_hint">Swipe left for camera</string>
+    <string name="keyguard_unlock">Přejetím nahoru odemknete</string>
+    <string name="phone_hint">Přejeďte doprava pro telefon</string>
+    <string name="camera_hint">Přejeďte doleva pro fotoaparát</string>
     <string name="interruption_level_none">Žádný</string>
     <string name="interruption_level_priority">Důležitost</string>
     <string name="interruption_level_all">Vše</string>
     <string name="keyguard_indication_charging_time">Nabíjení (%s do plného nabití)</string>
-    <string name="accessibility_multi_user_switch_switcher">Switch user</string>
-    <string name="accessibility_multi_user_switch_switcher_with_current">Switch user, current user %s</string>
+    <string name="accessibility_multi_user_switch_switcher">Přepnout uživatele</string>
+    <string name="accessibility_multi_user_switch_switcher_with_current">Přepnout uživatele, aktuální uživatel %s</string>
     <string name="accessibility_multi_user_switch_quick_contact">Zobrazit profil</string>
     <string name="user_add_user">Přidat uživatele</string>
     <string name="user_new_user_name">Nový uživatel</string>
