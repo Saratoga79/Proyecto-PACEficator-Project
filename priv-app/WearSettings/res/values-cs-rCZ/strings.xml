@@ -46,12 +46,12 @@
     <string name="please_get_ready_for_runnning">Next: Running</string>
     <string name="please_get_ready_for_riding">Next: Cycling</string>
     <string name="please_get_ready_for_swimming">Next: Swimming</string>
-    <string name="gps_ready">GPS is available</string>
+    <string name="gps_ready">GPS je dostupné</string>
     <string name="gps_wait">Waiting for GPS…</string>
     <string name="gps_fail">"Nelze nastavit polohu pomocí GPS"</string>
-    <string name="gps_singal_lost">"GPS signal isn't available"</string>
+    <string name="gps_singal_lost">"GPS signál není k dispozici"</string>
     <string name="gps_close_1">No movement for a long time,</string>
-    <string name="gps_close_2">GPS has been turned off.</string>
+    <string name="gps_close_2">GPS byla vypnuta.</string>
     <string name="heartrate">Heart rate</string>
     <string name="warmup">Warm Up</string>
     <string name="fatburn">Spalování tuků</string>
@@ -108,7 +108,7 @@
     <string name="rope_skip_group_count">Počet</string>
     <string name="rope_skip_group_freq">Frekvence</string>
     <string name="rope_skip_reset_tips">Has rested</string>
-    <string name="rope_skip_tips">Group %1$s</string>
+    <string name="rope_skip_tips">Skupina %1$s</string>
     <string name="rope_skip_tips1">The</string>
     <string name="rope_skip_tips2">set has been completed</string>
     <string name="rope_skip_avg_heartrate">Prům. tepová frekvence</string>
@@ -189,7 +189,7 @@
     <string name="time_zone_clock">Time Settings</string>
     <string name="setting_time_format">Time Format</string>
     <string name="connect">Připojení</string>
-    <string name="common">General</string>
+    <string name="common">Hlavní</string>
     <string name="device">Zařízení</string>
     <string name="units_set">Unit Setting</string>
     <string name="auto_airplane">Scheduled</string>
@@ -348,7 +348,7 @@
     <string name="settings_on">On</string>
     <string name="settings_step_target">Step Goal</string>
     <string name="settings_step_unit">Steps</string>
-    <string name="settings_target_reach_reminder">Goal Alert</string>
+    <string name="settings_target_reach_reminder">Upozornění na cíl</string>
     <string name="nodisturb_open_string">On</string>
     <string name="nodisturb_close_string">Vyp</string>
     <string name="nodisturb_timepicker_connect_symbol">:</string>
@@ -485,7 +485,7 @@ všechna data v hodinkách budou smazána, a hodinky budou odpojeny od vašeho m
     <string name="lockpattern_need_to_confirm">Potvrdit odemykací vzor</string>
     <string name="lockpattern_pattern_confirmed_header">Potvrdit odemykací vzor</string>
     <string name="app_notifications_dialog_done">Dokončeno</string>
-    <string name="lockpattern_cancel">Gesture Password</string>
+    <string name="lockpattern_cancel">Heslo vzorem</string>
     <string name="lockpattern_change">Změnit heslo</string>
     <string name="lockpattern_change_state">Změnit stav hodinek</string>
     <string name="lockpattern_exist">Turned on</string>
@@ -502,7 +502,7 @@ všechna data v hodinkách budou smazána, a hodinky budou odpojeny od vašeho m
     <string name="lockpattern_pattern_short">Please Connect at Least 4 Points</string>
     <string name="lockpattern_confirm_wrong">Pattern Inconformity</string>
     <string name="lockpattern_change_none">There Is No Unlocking Pattern Currently</string>
-    <string name="security_lockpattern">Gesture Password</string>
+    <string name="security_lockpattern">Heslo vzorem</string>
     <string name="lockpattern_need_confirm_guide">Please Draw the Current Pattern</string>
     <string name="time_zone">Time Zone</string>
     <string name="date">Datum</string>
