@@ -36,7 +36,7 @@
     <string name="crossing_history_detail_low_altitude">Alt. Mín.</string>
     <string name="crossing_history_detail_ave_altitude">Alt. Med.</string>
     <string name="crossing_history_detail_altituede_graph_desc">Altitud (pies)</string>
-    <string name="crossing_history_detail_individual_km">%1$s millas por circuito</string>
+    <string name="crossing_history_detail_individual_km"><font color="#ff09ff00"><b>%1$s</b></font> km por circuito</string>
     <string name="crossing_setting_unit">Millas</string>
     <string name="crossing_settings_item_title_individual_remind">Distancia vuelta única</string>
     <string name="crossing_settings_item_value_individual">%1s km</string>
@@ -44,7 +44,7 @@
     <string name="crossing_remind_target_individual_cost_time">Tiempo</string>
     <string name="crossing_remind_target_individual_pace">Ritmo</string>
     <string name="agps_time_out">AGPS caducado, el GPS tardará en conectar. Sincroniza los datos en la app de Amazfit para actualizarlo</string>
-    <string name="safe_hearate_remind_content">Si superas %1d ppm</string>
+    <string name="safe_hearate_remind_content">Avisar si superas %1d ppm</string>
     <string name="settings_safe_heart_rate_hint">R. cardíaco seguro</string>
     <string name="settings_safe_heart_rate_unit">ppm</string>
     <string name="elliptical">Elíptica</string>
@@ -158,7 +158,7 @@
     <string name="settings_item_value_swim_length">%1$sm</string>
     <string name="settings_item_value_swim_length_imperial">%1$s pies</string>
     <string name="settings_cal_unit">kCal</string>
-    <string name="setting_auto_pause_speed">"&lt;%1$s km/h"</string>
+    <string name="setting_auto_pause_speed">"Cuando es inferior a &lt;%1$s km/h"</string>
     <string name="setting_auto_pause_pace">"Cuando sea más lento que %1$s"</string>
     <string name="setting_no_set_target">Sin establecer</string>
     <string name="sport_settings_by_te">Efecto de entrenamiento (TE)</string>
@@ -914,7 +914,7 @@ para un ejercicio más efectivo\"</string>
     <string name="settings_item_value_closed">Off</string>
     <string name="settings_item_value_target_use_time">%1$d h %2$d min</string>
     <string name="settings_item_value_target_distance">%.2f mi</string>
-    <string name="settings_item_value_pace">Inferior a %s</string>
+    <string name="settings_item_value_pace">Avisar cuando sea más lento de %1$s</string>
     <string name="title_medal_list_header">Logros deportivos</string>
     <string name="time_picker_hour">h</string>
     <string name="time_picker_minute">Minuto</string>
@@ -1039,7 +1039,7 @@ para un ejercicio más efectivo\"</string>
  muñeca que use la raqueta</string>
     <string name="sport_time_seconds">segundos</string>
     <string name="sport_type_num_text">%1$d actividades</string>
-    <string name="sport_type_runing">Correr&amp; Caminar</string>
+    <string name="sport_type_runing">Running/Walking</string>
     <string name="sport_type_riding">Ciclismo</string>
     <string name="sport_type_indoor">Interior</string>
     <string name="sport_type_snow">Invierno</string>
