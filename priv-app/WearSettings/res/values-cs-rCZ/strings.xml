@@ -10,7 +10,7 @@
     <string name="indoor_riding">Sálová cyklistika</string>
     <string name="cross_contry">Trail run</string>
     <string name="eppitical">Eliptický trenažér</string>
-    <string name="indoor_swimming">Pool swimming</string>
+    <string name="indoor_swimming">Bazénové plavání</string>
     <string name="outdoor_swimming">Plavání na otevřené vodě</string>
     <string name="triathlon">Triathlon</string>
     <string name="mountain">Lezení</string>
@@ -65,8 +65,8 @@
     <string name="zone_five">Zone 5</string>
     <string name="zone_risk">Vysoká tepová frekvence</string>
     <string name="enter_sport_lock_status">Uzamknout obrazovku během aktivity</string>
-    <string name="press_any_key_wakeup">Press any key</string>
-    <string name="press_power_key_wakeup">Press a physical button to unlock</string>
+    <string name="press_any_key_wakeup">Stiskněte libovolnou klávesu</string>
+    <string name="press_power_key_wakeup">Stiskněte fyzické tlačítko pro odemknutí</string>
     <string name="meter">m</string>
     <string name="kilometre">km</string>
     <string name="km_per_hour">km/h</string>
@@ -86,12 +86,12 @@
     <string name="second">s</string>
     <string name="altitude">Nadmořská výška</string>
     <string name="longitude_and_latitude">Zem. šířka/délka</string>
-    <string name="press_key_finish_train">Press BACK to finish</string>
-    <string name="press_up_key_wake_up">Press the Up button to unlock</string>
+    <string name="press_key_finish_train">Stiskněte ZPĚT pro dokončení</string>
+    <string name="press_up_key_wake_up">Pro odemknutí stiskněte tlačítko Nahoru</string>
     <string name="need_run_kilometer">Interval vzdálenosti:</string>
     <string name="need_run_time">Časový interval:</string>
     <string name="need_rest_time">Potřeba</string>
-    <string name="need_rest_by_keypress">Press BACK to continue</string>
+    <string name="need_rest_by_keypress">Stiskněte ZPĚT pro pokračování</string>
     <string name="low_battery_protect">Ochrana nízkého stavu baterie</string>
     <string name="low_battery_tips">Nízký stav baterie</string>
     <string name="low_battery_please_charging">Nabijte hodinky.</string>
@@ -114,7 +114,7 @@
     <string name="rope_skip_avg_heartrate">Prům. tepová frekvence</string>
     <string name="rope_skip_group_calories">Kalorie</string>
     <string name="music">Hudba</string>
-    <string name="press_long_power_key_wake_up">Press a physical button to exit</string>
+    <string name="press_long_power_key_wake_up">Stiskněte fyzické tlačítko pro ukončení</string>
     <string name="sport_auto_pause_end">Relace skončila, uložit data?</string>
     <string name="sport_slpt_stop_next_group">Další</string>
     <string name="group_rowing_freq">Frekvence</string>
@@ -166,7 +166,7 @@
     <string name="check_for_update">Update</string>
     <string name="change_language">Jazyk</string>
     <string name="reset_factory">Tovární reset</string>
-    <string name="shut_down">Power off</string>
+    <string name="shut_down">Vypnout</string>
     <string name="reboot">Reboot</string>
     <string name="about">Info</string>
     <string name="wear_habit">Wear Habit</string>
@@ -185,7 +185,7 @@
     <string name="hm_lab">Huami Lab</string>
     <string name="bind_app">Spojit</string>
     <string name="amazfit_app">Aplikace Amazfit</string>
-    <string name="personal_info">Personal Info</string>
+    <string name="personal_info">Osobní informace</string>
     <string name="time_zone_clock">Time Settings</string>
     <string name="setting_time_format">Time Format</string>
     <string name="connect">Připojení</string>
@@ -199,7 +199,7 @@
     <string name="wifi_auto_upload_switch">Automatická synchronizace</string>
     <string name="hand_upload">Manuální synchronizace</string>
     <string name="auto_upload">Automatická synchronizace</string>
-    <string name="app_item_phone_anti_lost">Phone anti-lost</string>
+    <string name="app_item_phone_anti_lost">Telefon proti ztrátě</string>
     <string name="app_item_anti_lost_remind">Upozornění na ztrátu</string>
     <string name="app_item_far_away_remind">Být daleko od připomenutí telefonu</string>
     <string name="remind_aleary_open">The reminder has been enabled.</string>
@@ -250,7 +250,7 @@
     <string name="agps_sync_off">Vyp.</string>
     <string name="agps_sync_everyday">každých %s</string>
     <string name="agps_sync_am">dop.</string>
-    <string name="agps_sync_pm">Odp.</string>
+    <string name="agps_sync_pm">odp.</string>
     <string name="title_activity_long_sitting_time">LongSittingTimeActivity</string>
     <string name="product_model_qogir_oversea">Amazfit Verge</string>
     <string name="device_name_qogir_oversea">Amazfit Verge</string>
@@ -289,7 +289,7 @@
     <string name="yueye">Trail Run</string>
     <string name="shineipao">Run Indoor</string>
     <string name="huwaiqi">Cyklistika</string>
-    <string name="yongchiyou">Pool Swim</string>
+    <string name="yongchiyou">Plavání v bazénu</string>
     <string name="gongkaiyou">Plavání na otevřené vodě</string>
     <string name="tuoyuanji">Eliptický trenažér</string>
     <string name="dengshan">Stoupat</string>
@@ -334,7 +334,7 @@
     <string name="unlock">Unlocked</string>
     <string name="build_time">[DEBUG]Build time</string>
     <string name="build_desc">[DEBUG]Build description</string>
-    <string name="legal">Please check in the</string>
+    <string name="legal">Zkontrolujte prosím</string>
     <string name="legal2">Aplikace Amazfit</string>
     <string name="lab">Lab</string>
     <string name="opened">Zap.</string>
@@ -406,9 +406,9 @@ a je poblíž"</string>
     <string name="phone_finding">Hledám telefon...</string>
     <string name="phone_found">Telefon nalezen</string>
     <string name="phone_not_connected">Telefon není připojen</string>
-    <string name="phone_not_found">Phone not found</string>
+    <string name="phone_not_found">Telefon nalezen</string>
     <string name="start_testing">Start</string>
-    <string name="lab_wifi_test_tip_retry">Please retry!!</string>
+    <string name="lab_wifi_test_tip_retry">Prosím, zkuste to znovu!!</string>
     <string name="lab_wifi_test_tip_testing">Testing…</string>
     <string name="lab_wifi_test_tip_pass">Úspěšné!!</string>
     <string name="lab_wifi_test_tip_fail">Neúspěšné!!</string>
@@ -456,7 +456,7 @@ všechna data v hodinkách budou smazána, a hodinky budou odpojeny od vašeho m
     <string name="reset_factory_fail_positive">Ok</string>
     <string name="reset_factory_doing1">Obnovuje se tovární nastavení</string>
     <string name="reset_factory_doing2">UnionPay Card Is Being Removed</string>
-    <string name="reset_factory_bank_title">Please Remove the UnionPay Card at First</string>
+    <string name="reset_factory_bank_title">Nejprve odeberte kartu UnionPay</string>
     <string name="reset_factory_bank_msg">"Pokud resetujete hodinky bez odebrání karty UnionPay, způsobí to následující: 
  1. Nelze ji odstranit z hodinek, zabírá místo v čipu; 2. Nelze použít platební funkci v hodinkách; 3. Nelze být navázána s jinými zařízeními. Pro zabezpečení plateb odstraňte nejprve kartu UnionPay z aplikace Amazfit aplikace."</string>
     <string name="reset_factory_bank_yes">Pokračovat v továrním nastavení</string>
@@ -498,12 +498,12 @@ všechna data v hodinkách budou smazána, a hodinky budou odpojeny od vašeho m
     <string name="watch_state">Screensaver Setting</string>
     <string name="unwear">Watch off the Wrist</string>
     <string name="wear">Watch on the Wrist</string>
-    <string name="lockpattern_need_confirm">Please Draw Again</string>
-    <string name="lockpattern_pattern_short">Please Connect at Least 4 Points</string>
+    <string name="lockpattern_need_confirm">Prosím nakreslete znovu</string>
+    <string name="lockpattern_pattern_short">Připojte nejméně 4 body</string>
     <string name="lockpattern_confirm_wrong">Nesrovnalost vzoru</string>
     <string name="lockpattern_change_none">There Is No Unlocking Pattern Currently</string>
     <string name="security_lockpattern">Heslo vzorem</string>
-    <string name="lockpattern_need_confirm_guide">Please Draw the Current Pattern</string>
+    <string name="lockpattern_need_confirm_guide">Nakreslete aktuální vzor</string>
     <string name="time_zone">Time Zone</string>
     <string name="date">Datum</string>
     <string name="time">Čas</string>
@@ -512,7 +512,7 @@ všechna data v hodinkách budou smazána, a hodinky budou odpojeny od vašeho m
     <string name="time_format">Time Format</string>
     <string name="hour_system">%s-hodinový systém</string>
     <string name="am">dop.</string>
-    <string name="pm">Odp.</string>
+    <string name="pm">odp.</string>
     <string name="ultra_title">Ultra mód</string>
     <string name="ultra_desc">"The Ultra Mode will greatly extend the watch's battery life and support the main features of the watch."</string>
     <string name="ultra_enter">Ultra mód</string>
