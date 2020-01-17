@@ -4,7 +4,7 @@
     <string name="config_statusBarComponent">com.android.systemui.statusbar.phone.PhoneStatusBar</string>
     <string name="quick_settings_tiles_default">wifi,bt,inversion,cell,airplane,rotation,flashlight,location,cast,hotspot</string>
     <string name="quick_settings_tiles">výchozí</string>
-    <string name="velocity_tracker_impl">platform</string>
+    <string name="velocity_tracker_impl">platforma</string>
     <string name="doze_pulse_schedule">1s,10s,30s,60s</string>
     <string name="system_ui_date_pattern">@android:string/system_ui_date_pattern</string>
     <string name="lland">L Land</string>
@@ -38,7 +38,7 @@ Používejte pouze dodávanou nabíječku."</string>
     <string name="status_bar_network_name_separator">|</string>
     <string name="bluetooth_tethered">Bluetooth sdílen</string>
     <string name="status_bar_input_method_settings_configure_input_methods">Set up input methods</string>
-    <string name="status_bar_use_physical_keyboard">Physical keyboard</string>
+    <string name="status_bar_use_physical_keyboard">Fyzická klávesnice</string>
     <string name="usb_device_permission_prompt">Povolit aplikaci %1$s přístup k zařízení USB?</string>
     <string name="usb_accessory_permission_prompt">Povolit aplikaci %1$s přístup k USB příslušenství?</string>
     <string name="usb_device_confirm_prompt">Otevřít %1$s, když je toto USB zařízení připojeno?</string>
@@ -71,7 +71,7 @@ Používejte pouze dodávanou nabíječku."</string>
     <string name="accessibility_recent">Přehled</string>
     <string name="accessibility_search_light">Search</string>
     <string name="accessibility_camera_button">Fotoaparát</string>
-    <string name="accessibility_phone_button">Phone</string>
+    <string name="accessibility_phone_button">Telefon</string>
     <string name="accessibility_unlock_button">Unlock</string>
     <string name="unlock_label">unlock</string>
     <string name="phone_label">spustit telefon</string>
@@ -87,10 +87,10 @@ Používejte pouze dodávanou nabíječku."</string>
     <string name="accessibility_battery_three_bars">Tři čárky baterie.</string>
     <string name="accessibility_battery_full">Baterie je plně nabita.</string>
     <string name="accessibility_no_phone">Žádný telefon.</string>
-    <string name="accessibility_phone_one_bar">Phone one bar.</string>
-    <string name="accessibility_phone_two_bars">Phone two bars.</string>
-    <string name="accessibility_phone_three_bars">Phone three bars.</string>
-    <string name="accessibility_phone_signal_full">Phone signal full.</string>
+    <string name="accessibility_phone_one_bar">Jedna čárka signálu.</string>
+    <string name="accessibility_phone_two_bars">Dvě čárky signálu.</string>
+    <string name="accessibility_phone_three_bars">Tři čárky signálu.</string>
+    <string name="accessibility_phone_signal_full">Plný signál telefonu.</string>
     <string name="accessibility_no_data">Žádná data.</string>
     <string name="accessibility_data_one_bar">Jedna čárka datového připojení.</string>
     <string name="accessibility_data_two_bars">Dvě čárky datového připojení.</string>
@@ -220,7 +220,7 @@ Jejich opětovné zapnutí může vést k poplatkům od vašeho operátora."</st
     <string name="quick_settings_brightness_label">Jas</string>
     <string name="quick_settings_rotation_unlocked_label">Automatické otáčení</string>
     <string name="quick_settings_rotation_locked_label">Rotation locked</string>
-    <string name="quick_settings_rotation_locked_portrait_label">Portrait</string>
+    <string name="quick_settings_rotation_locked_portrait_label">Na výšku</string>
     <string name="quick_settings_rotation_locked_landscape_label">Na šířku</string>
     <string name="quick_settings_ime_label">Vstupní metoda</string>
     <string name="quick_settings_location_label">Poloha</string>
@@ -280,7 +280,7 @@ monitorována"</string>
     <string name="description_direction_left">Slide left for %s.</string>
     <string name="zen_no_interruptions_with_warning">Žádné vyrušení, ani budíky.</string>
     <string name="zen_no_interruptions">Žádné přerušení</string>
-    <string name="zen_important_interruptions">Priority interruptions only</string>
+    <string name="zen_important_interruptions">Pouze prioritní vyrušení</string>
     <string name="zen_alarm_information_time">Your next alarm is at %s</string>
     <string name="zen_alarm_information_day_time">Your next alarm is %s</string>
     <string name="zen_alarm_warning">"You won't hear your alarm at %s"</string>
@@ -291,7 +291,7 @@ monitorována"</string>
     <string name="phone_hint">Swipe right for phone</string>
     <string name="camera_hint">Swipe left for camera</string>
     <string name="interruption_level_none">Žádný</string>
-    <string name="interruption_level_priority">Priority</string>
+    <string name="interruption_level_priority">Důležitost</string>
     <string name="interruption_level_all">Vše</string>
     <string name="keyguard_indication_charging_time">Nabíjení (%s do plného nabití)</string>
     <string name="accessibility_multi_user_switch_switcher">Switch user</string>
@@ -323,10 +323,10 @@ Každý uživatel může aktualizovat aplikace pro všechny ostatní uživatele.
     <string name="media_projection_action_text">Start now</string>
     <string name="empty_shade_text">Žádná oznámení</string>
     <string name="device_owned_footer">Zařízení může být sledováno</string>
-    <string name="profile_owned_footer">Profile may be monitored</string>
+    <string name="profile_owned_footer">Profil může být sledován</string>
     <string name="vpn_footer">Síť může být sledována</string>
     <string name="monitoring_title_device_owned">Sledování zařízení</string>
-    <string name="monitoring_title_profile_owned">Profile monitoring</string>
+    <string name="monitoring_title_profile_owned">Sledování profilu</string>
     <string name="monitoring_title">Sledování sítě</string>
     <string name="disable_vpn">Deaktivovat VPN</string>
     <string name="disconnect_vpn">Odpojit VPN</string>
@@ -431,7 +431,7 @@ Také jste připojeni k síti VPN (\"%3$s\"). Poskytovatel služby VPN může ta
     <string name="keyguard_charged">Nabito</string>
     <string name="keyguard_plugged_in">Nabíjení</string>
     <string name="keyguard_low_battery">Připojte vaši nabíječku.</string>
-    <string name="keyguard_instructions_when_pattern_disabled">Press Menu to unlock.</string>
+    <string name="keyguard_instructions_when_pattern_disabled">Pro odemknutí stiskněte tlačítko Menu.</string>
     <string name="keyguard_network_locked_message">Síť uzamčena</string>
     <string name="keyguard_missing_sim_message_short">Žádná SIM karta</string>
     <string name="keyguard_missing_sim_message">V tabletu není SIM karta.</string>
@@ -461,17 +461,17 @@ Také jste připojeni k síti VPN (\"%3$s\"). Poskytovatel služby VPN může ta
     <string name="keyguard_accessibility_slide_unlock">Slide unlock.</string>
     <string name="keyguard_accessibility_pattern_unlock">Vzor odemknutí.</string>
     <string name="keyguard_accessibility_face_unlock">Odemknutí obličejem.</string>
-    <string name="keyguard_accessibility_pin_unlock">Pin unlock.</string>
+    <string name="keyguard_accessibility_pin_unlock">Odemknutí PINem.</string>
     <string name="keyguard_accessibility_password_unlock">Odemknutí heslem.</string>
     <string name="keyguard_accessibility_pattern_area">Oblast vzoru.</string>
     <string name="keyguard_accessibility_slide_area">Slide area.</string>
-    <string name="keyguard_accessibility_pin_area">PIN area</string>
+    <string name="keyguard_accessibility_pin_area">Oblast PINu</string>
     <string name="keyguard_accessibility_sim_pin_area">SIM PIN area</string>
     <string name="keyguard_accessibility_sim_puk_area">SIM PUK area</string>
-    <string name="keyguard_accessibility_transport_prev_description">Previous track button</string>
+    <string name="keyguard_accessibility_transport_prev_description">Tlačítko předchozí skladby</string>
     <string name="keyguard_accessibility_transport_next_description">Tlačítko další skladba</string>
     <string name="keyguard_accessibility_transport_pause_description">Tlačítko pozastavení</string>
-    <string name="keyguard_accessibility_transport_play_description">Play button</string>
+    <string name="keyguard_accessibility_transport_play_description">Tlačítko Přehrát</string>
     <string name="keyguard_accessibility_transport_stop_description">Stop button</string>
     <string name="keyguard_accessibility_transport_thumbs_up_description">Thumbs up</string>
     <string name="keyguard_accessibility_transport_thumbs_down_description">Thumbs down</string>
@@ -515,9 +515,9 @@ Také jste připojeni k síti VPN (\"%3$s\"). Poskytovatel služby VPN může ta
     <string name="kg_enter_confirm_pin_hint">Potvrdit požadovaný PIN kód</string>
     <string name="kg_sim_unlock_progress_dialog_message">Unlocking SIM card…</string>
     <string name="kg_invalid_sim_pin_hint">Type a PIN that is 4 to 8 numbers.</string>
-    <string name="kg_invalid_sim_puk_hint">PUK code should be 8 numbers or more.</string>
+    <string name="kg_invalid_sim_puk_hint">Kód PUK by měl mít 8 nebo více čísel.</string>
     <string name="kg_invalid_puk">Re-enter the correct PUK code. Repeated attempts will permanently disable the SIM.</string>
-    <string name="kg_invalid_confirm_pin_hint">PIN codes does not match</string>
+    <string name="kg_invalid_confirm_pin_hint">PIN kódy se neshodují</string>
     <string name="kg_login_too_many_attempts">Too many pattern attempts</string>
     <string name="kg_login_instructions">To unlock, sign in with your Google account.</string>
     <string name="kg_login_username_hint">Username (email)</string>
@@ -551,10 +551,10 @@ Zkuste znovu za %d sekund."</string>
     <string name="kg_password_pin_failed">SIM PIN operation failed!</string>
     <string name="kg_password_puk_failed">SIM PUK operation failed!</string>
     <string name="kg_pin_accepted">Kód přijat!</string>
-    <string name="keyguard_transport_prev_description">Previous track button</string>
+    <string name="keyguard_transport_prev_description">Tlačítko předchozí skladby</string>
     <string name="keyguard_transport_next_description">Tlačítko další skladba</string>
     <string name="keyguard_transport_pause_description">Tlačítko pozastavení</string>
-    <string name="keyguard_transport_play_description">Play button</string>
+    <string name="keyguard_transport_play_description">Tlačítko Přehrát</string>
     <string name="keyguard_transport_stop_description">Stop button</string>
     <string name="keyguard_carrier_default">Žádná služba.</string>
 </resources>
