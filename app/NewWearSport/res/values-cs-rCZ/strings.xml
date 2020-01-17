@@ -14,7 +14,7 @@
     <string name="crossing_title">Terénní běh</string>
     <string name="crossing_end_sport">Nejdříve ukončit terénní běh</string>
     <string name="crossing_in_progress">Terénní běh…</string>
-    <string name="crossing_max_step_freq_desc">Maximální kadence</string>
+    <string name="crossing_max_step_freq_desc">Max. kadence</string>
     <string name="crossing_climb_up">Dosaž. vzdálenost</string>
     <string name="crossing_climb_down">Naklesáno</string>
     <string name="crossing_individual_pen_dis">Vzdálenost jednoho okruhu</string>
@@ -28,7 +28,7 @@
     <string name="crossing_history_detail_ave_move_pace_unit">/km</string>
     <string name="crossing_history_detail_best_pace">Nejlepší tempo</string>
     <string name="crossing_history_detail_ave_move_speed">Prům. rychlost</string>
-    <string name="crossing_history_detail_max_speed">Maximální rychlost</string>
+    <string name="crossing_history_detail_max_speed">Max. rychlost</string>
     <string name="crossing_history_detail_climb_up">Nastoupáno</string>
     <string name="crossing_history_detail_climb_down">Naklesáno</string>
     <string name="crossing_history_detail_absolute_altitude">Nadmořská výška</string>
@@ -232,7 +232,7 @@ začněte nyní."</string>
     <string name="sport_main_total_kcal">Celkem kalorií</string>
     <string name="sport_main_avg_stride_unit">cm/krok</string>
     <string name="sport_main_avg_heart_rate">Prům. tepová frekvence</string>
-    <string name="sport_main_max_heart_rate">Maximální tepová frekvence</string>
+    <string name="sport_main_max_heart_rate">Max. tepová frekvence</string>
     <string name="sport_main_min_heart_rate">Minimální tepová frekvence</string>
     <string name="sport_main_graph_title">Poslední (min)</string>
     <string name="exchange_time_cost">Čas přechodu</string>
@@ -269,7 +269,7 @@ začněte nyní."</string>
     <string name="sport_lap_swim_length_time">Čas použitý na %1$s m</string>
     <string name="sport_lap_swim_length_time_imperial">Čas použitý pro %1$s yd</string>
     <string name="sport_swim_style">Typ úderu</string>
-    <string name="sport_swim_style_main">Hlavní typ úderu</string>
+    <string name="sport_swim_style_main">Typ hlavního úderu</string>
     <string name="swim_free_style">Volný způsob</string>
     <string name="swim_medlyrelay">Smíšený</string>
     <string name="swim_breaststroke">Prsa</string>
@@ -434,7 +434,7 @@ začněte nyní."</string>
     <string name="virtual_rabbit_lead_time">Hlavní čas</string>
     <string name="sport_main_beyond_heart_info_remind">Překročen limit tepové frekvence</string>
     <string name="setting_not_remind">Vypnout upozornění</string>
-    <string name="setting_max_heart_region">Max. zóna TF</string>
+    <string name="setting_max_heart_region">Zóna max. TF</string>
     <string name="virtual_rabbit_title">Virtuální králík</string>
     <string name="virtual_rabbit_backward_distance">Prodleva vzdálenosti</string>
     <string name="virtual_rabbit_lead_distance">Hlavní vzdálenost</string>
@@ -472,8 +472,8 @@ začněte nyní."</string>
     <string name="re_modify_dis_successful">Opakovaná změna byla úspěšná</string>
     <string name="lap_sub_type_title">Odpočinek</string>
     <string name="new_pb_record">Nový osobní záznam</string>
-    <string name="longest_distance">Maximální vzdálenost(%1$s)</string>
-    <string name="longest_time">Maximální čas</string>
+    <string name="longest_distance">Max. vzdálenost (%1$s)</string>
+    <string name="longest_time">Max. čas</string>
     <string name="_3_km_or_mi_fastest">3%1$s</string>
     <string name="_5_km_or_mi_fastest">5%1$s</string>
     <string name="_10_km_or_mi_fastest">10%1$s</string>
@@ -481,11 +481,11 @@ začněte nyní."</string>
     <string name="_40_km_or_mi_fastest">40%1$s</string>
     <string name="half_marathon_fastest">Půlmaraton</string>
     <string name="full_marathon_fastest">Maraton</string>
-    <string name="ride_max_altitude_up">Maximální šplhání(%1$s)</string>
-    <string name="moutaineer_highest_altitude">Maximální nadmořská výška(%1$s)</string>
-    <string name="moutaineer_max_altitude_up">Maximální celkový výstup(%1$s)</string>
-    <string name="moutaineer_max_altitude_down">Maximální celkový sestup(%1$s)</string>
-    <string name="moutaineer_max_altitude_climb">Max. celkové šplhání(%1$s)</string>
+    <string name="ride_max_altitude_up">Max. šplhání (%1$s)</string>
+    <string name="moutaineer_highest_altitude">Max. nadmořská výška (%1$s)</string>
+    <string name="moutaineer_max_altitude_up">Max. celkový výstup (%1$s)</string>
+    <string name="moutaineer_max_altitude_down">Max. celkový sestup (%1$s)</string>
+    <string name="moutaineer_max_altitude_climb">Max. celkové šplhání (%1$s)</string>
     <string name="switch_interval_run">Přepnout trénink</string>
     <string name="continuous_hour">%1$dh</string>
     <string name="rowing_machine_this_group_count">Záběry této sady</string>
@@ -533,9 +533,9 @@ začněte nyní."</string>
     <string name="data_refresh_wrist_raise">Obnovit při zvednutí zápěstí</string>
     <string name="longest_distance_no_unit">Max. vzdálenost</string>
     <string name="ride_max_altitude_up_no_unit">Max. šplhání</string>
-    <string name="moutaineer_highest_altitude_no_unit">Maximální nadmořská výška</string>
-    <string name="moutaineer_max_altitude_up_no_unit">Maximální celkový výstup</string>
-    <string name="moutaineer_max_altitude_down_no_unit">Maximální celkový sestup</string>
+    <string name="moutaineer_highest_altitude_no_unit">Max. nadmořská výška</string>
+    <string name="moutaineer_max_altitude_up_no_unit">Max. celkový výstup</string>
+    <string name="moutaineer_max_altitude_down_no_unit">Max. celkový sestup</string>
     <string name="moutaineer_max_altitude_climb_no_unit">Max. celkové šplhání</string>
     <string name="pb_introduction_content">Pokud existují nějaké nesrovnalosti mezi osobními záznamy v hodinkách a v aplikaci, záznamy v aplikaci budou použity pro synchronizaci dat.</string>
     <string name="pb_confirm">Poznamenáno</string>
@@ -681,7 +681,7 @@ pro dosažení plného zotavení.“</string>
     <string name="indoor_riding_progressing">Sálový cyklus</string>
     <string name="outdoor_climb_distance">Dosaž. vzdálenost</string>
     <string name="outdoor_climb_altitude">Nastoupáno</string>
-    <string name="outdoor_max_cadence">Maximální kadence</string>
+    <string name="outdoor_max_cadence">Max. kadence</string>
     <string name="outdoor_ave_cadence">Prům. kadence</string>
     <string name="outdoor_graph_unit">Vzdálenost (km)</string>
     <string name="outdoor_speed_graph_title">Rychlost (km/h)</string>
@@ -812,7 +812,7 @@ pro dosažení plného zotavení.“</string>
     <string name="swim_dps">DPS</string>
     <string name="skiing_downhill_num">Okruhy</string>
     <string name="skiing_downhill_single_descend">Sjezd</string>
-    <string name="skiing_downhill_max_speed">Maximální rychlost</string>
+    <string name="skiing_downhill_max_speed">Max. rychlost</string>
     <string name="skiing_downhill_elev_loss">Klesání</string>
     <string name="skiing_rt_downhill_desecnd">Celkové klesání</string>
     <string name="sport_tennis_strokes">Údery</string>
