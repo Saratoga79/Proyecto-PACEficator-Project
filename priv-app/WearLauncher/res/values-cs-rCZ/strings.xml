@@ -45,8 +45,8 @@
     <string name="quick_settings_no_disturb_toast">"You'll no longer receive notifications."</string>
     <string name="quick_settings_auto_light_toast">Keeping the screen on reduces battery life.</string>
     <string name="quick_settings_status_month">Month</string>
-    <string name="quick_settings_status_day">Day  </string>
-    <string name="quick_settings_connected">Connected</string>
+    <string name="quick_settings_status_day">Den </string>
+    <string name="quick_settings_connected">Připojeno</string>
     <string name="quick_settings_disconnect">Not connected</string>
     <string name="quick_settings_unbound">Pair device first</string>
     <string name="quick_settings_date_chinese">MM/dd/yyyy</string>
@@ -82,15 +82,15 @@ před méně než 1 hodinou“</string>
     <string name="header_incomming_call_service_hotline">Service hotline</string>
     <string name="header_incomming_call_localcall">Local call</string>
     <string name="header_incomming_call_unknowncall">Unknown call</string>
-    <string name="call_phone_off">Decline</string>
+    <string name="call_phone_off">Zamítnout</string>
     <string name="call_sound_off">Silence</string>
     <string name="call_phone_ignore">Ignore</string>
     <string name="world_cup_begin_to_start">The match is about to begin</string>
-    <string name="dialog_close">Disable</string>
+    <string name="dialog_close">Deaktivovat</string>
     <string name="amazing_dialog_btn_confirm_text">OK</string>
     <string name="amazing_dialog_btn_cancel_text">Zrušit</string>
     <string name="accept">Přijmout</string>
-    <string name="action_failure">"Couldn't complete this action."</string>
+    <string name="action_failure">"Tuto akci nelze dokončit."</string>
     <string name="action_success">Done!</string>
     <string name="action_working">Working…</string>
     <string name="activity_not_found">Vyskytla se chyba.</string>
@@ -150,7 +150,7 @@ před méně než 1 hodinou“</string>
     <string name="battery_info_status_percentage">%</string>
     <string name="quick_settings_notification_title">Interruptions</string>
     <string name="quick_settings_notifications_none">Žádný</string>
-    <string name="watchface_custom_btn_title">Customize</string>
+    <string name="watchface_custom_btn_title">Přizpůsobit</string>
     <string name="weather">Počasí</string>
     <string name="temp_unit_centigrade">℃</string>
     <string name="temp_unit_fahrenheit">°F</string>
@@ -187,7 +187,7 @@ před méně než 1 hodinou“</string>
     <string name="weather_warning_smog">Haze</string>
     <string name="weather_warning_ice">Icy roads</string>
     <string name="weather_warning_snowstorm">Vánice</string>
-    <string name="no_aqi">"Couldn't get AQI info"</string>
+    <string name="no_aqi">"Nelze získat informace o AQI"</string>
     <string name="air_perfect">Excellent</string>
     <string name="air_good">Fine</string>
     <string name="air_lightly_polluted">Light pollution</string>
@@ -203,7 +203,7 @@ před méně než 1 hodinou“</string>
     <string name="detailed">Weather details</string>
     <string name="forecast">Weather forecast</string>
     <string name="fetching">Just a sec…</string>
-    <string name="fetch_failed">"Couldn't get info"</string>
+    <string name="fetch_failed">"Nelze získat informace"</string>
     <string name="fetch_failed_title">"Nelze získat informace o počasí"</string>
     <string name="fetch_failed_msg">Make sure your watch is connected to the Amazfit app and a valid location is selected in the app.</string>
     <string name="date_time_format">MM/dd</string>
@@ -221,7 +221,7 @@ před méně než 1 hodinou“</string>
     <string name="outdoor_swimming">Open water</string>
     <string name="triathlon">Triathlon</string>
     <string name="mountain">Lezení</string>
-    <string name="riding">Cycling</string>
+    <string name="riding">Cyklistika</string>
     <string name="swimming">Swimming</string>
     <string name="skiing">Skiing</string>
     <string name="tennis">Tennis</string>
@@ -246,7 +246,7 @@ před méně než 1 hodinou“</string>
     <string name="sport_mileage">Vzdálenost</string>
     <string name="sport_downhill_total_distance">Total downhill</string>
     <string name="sport_tennis_strokes">Strokes</string>
-    <string name="sport_rope_skip_count">Count</string>
+    <string name="sport_rope_skip_count">Počet</string>
     <string name="sport_row_total_count">Total paddles</string>
     <string name="sport_change">Transition</string>
     <string name="sport_change_time">Transition time</string>
@@ -255,7 +255,7 @@ před méně než 1 hodinou“</string>
     <string name="please_get_ready_for_swimming">Next: Swimming</string>
     <string name="gps_ready">GPS is available</string>
     <string name="gps_wait">Waiting for GPS…</string>
-    <string name="gps_fail">"Couldn't set location using GPS"</string>
+    <string name="gps_fail">"Nelze nastavit polohu pomocí GPS"</string>
     <string name="gps_singal_lost">"GPS signal isn't available"</string>
     <string name="gps_close_1">No movement for a long time,</string>
     <string name="gps_close_2">GPS has been turned off.</string>
@@ -312,7 +312,7 @@ před méně než 1 hodinou“</string>
     <string name="oritation_west">W</string>
     <string name="oritation_north">N</string>
     <string name="rope_skip_group_time">Čas</string>
-    <string name="rope_skip_group_count">Count</string>
+    <string name="rope_skip_group_count">Počet</string>
     <string name="rope_skip_group_freq">Frequency</string>
     <string name="rope_skip_reset_tips">Has rested</string>
     <string name="rope_skip_tips">Group %1$s</string>

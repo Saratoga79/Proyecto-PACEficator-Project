@@ -89,7 +89,7 @@
     <string name="sleep_unit_minute">min</string>
     <string name="sleep_uniti_hour">h</string>
     <string name="sleep_duration">%1$s h %2$s min</string>
-    <string name="sleep_duration_diff">%1$s &lt;font size=\"12\"&gt;Hour&lt;/font&gt; %2$s Min</string>
+    <string name="sleep_duration_diff">%1$s &lt;font size=\"12\"&gt;h &lt;/font&gt; %2$sm</string>
     <string name="date_m_d">%1$s/%2$s</string>
     <string name="date_today">Hoy</string>
     <string name="sleep_detail_title">Historial</string>
@@ -126,7 +126,7 @@
     <string name="cardiopulmonary_enhancement">Cardio</string>
     <string name="burning_fat__heart_rate">Grasa quemada</string>
     <string name="warm_up_relax_heart_rate">Calentamiento</string>
-    <string name="heart_rate_zone">zona %s</string>
+    <string name="heart_rate_zone">Zona %s</string>
     <string name="all_day_hearte_rate_button_close">Desactivar RC continuo</string>
     <string name="all_day_hearte_rate_button_open">Habilitar RC continuo</string>
     <string name="dlg_confirm">OK</string>
@@ -137,11 +137,11 @@
     <string name="climbed_floors">Pisos</string>
     <string name="widget_label_step">Hoy</string>
     <string name="widget_heart_analysis">Analizar</string>
-    <string name="widget_step_target_txt">Objetivo: <liff>%d</liff></string>
+    <string name="widget_step_target_txt">Objetivo: <liff>%d</liff> pasos</string>
     <string name="widget_step_target_complete">Ha llegado a la meta</string>
-    <string name="widget_step_target_second_tips">Hace <liff>%d</liff> segundos</string>
-    <string name="widget_step_target_min_tips">Hace <liff>%d</liff> minutos</string>
-    <string name="widget_step_target_hour_tips">Hace <liff>%d</liff> horas</string>
+    <string name="widget_step_target_second_tips">Hace <liff>%d</liff> s</string>
+    <string name="widget_step_target_min_tips">Hace <liff>%d</liff> min</string>
+    <string name="widget_step_target_hour_tips">Hace <liff>%d</liff> h</string>
     <string name="widget_step_target_day_tips">Hace <liff>%d</liff> días</string>
     <string name="widget_step_target_month_tips">Hace <liff>%d</liff> meses</string>
     <string name="widget_step_target_year_tips">Hace <liff>%d</liff> años</string>
@@ -170,8 +170,8 @@
     <string name="widget_sleep_deep_leak">SueñoProfundo</string>
     <string name="widget_sleep_leak">"Falta deSueño"</string>
     <string name="widget_sleep_easyawake">FacilDespertar</string>
-    <string name="widget_sleep_average_calories">Promedio diario %1$s kCal</string>
-    <string name="widget_sleep_totaltime">Total tiempo de sueño %1$s h %2$s min</string>
+    <string name="widget_sleep_average_calories">Promedio diario %1$s Cal</string>
+    <string name="widget_sleep_totaltime">Has dormido %1$sh %2$smin</string>
     <string name="widget_sleep_attained_unit">min</string>
     <string name="widget_sleep_conment">Has dormido muy bien esta semana. Mantén ese ritmo de descanso</string>
     <string name="weeklysports_title">Actividad Semanal</string>
@@ -480,7 +480,7 @@
     <string name="rope_skip_group_count">Conteo de grupo</string>
     <string name="rope_skip_group_freq">Frecuencia</string>
     <string name="rope_skip_reset_tips">Tiempo descansado</string>
-    <string name="rope_skip_tips">Grupos completados: %1$s</string>
+    <string name="rope_skip_tips">Grupo %1$s</string>
     <string name="rope_skip_tips1">El</string>
     <string name="rope_skip_tips2">conjunto ha sido completado</string>
     <string name="rope_skip_avg_heartrate">RC Med</string>

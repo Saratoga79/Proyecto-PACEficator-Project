@@ -14,7 +14,7 @@
     <string name="outdoor_swimming">Open water</string>
     <string name="triathlon">Triathlon</string>
     <string name="mountain">Lezení</string>
-    <string name="riding">Cycling</string>
+    <string name="riding">Cyklistika</string>
     <string name="swimming">Swimming</string>
     <string name="skiing">Skiing</string>
     <string name="tennis">Tennis</string>
@@ -39,7 +39,7 @@
     <string name="sport_mileage">Vzdálenost</string>
     <string name="sport_downhill_total_distance">Total downhill</string>
     <string name="sport_tennis_strokes">Strokes</string>
-    <string name="sport_rope_skip_count">Count</string>
+    <string name="sport_rope_skip_count">Počet</string>
     <string name="sport_row_total_count">Total paddles</string>
     <string name="sport_change">Transition</string>
     <string name="sport_change_time">Transition time</string>
@@ -48,7 +48,7 @@
     <string name="please_get_ready_for_swimming">Next: Swimming</string>
     <string name="gps_ready">GPS is available</string>
     <string name="gps_wait">Waiting for GPS…</string>
-    <string name="gps_fail">"Couldn't set location using GPS"</string>
+    <string name="gps_fail">"Nelze nastavit polohu pomocí GPS"</string>
     <string name="gps_singal_lost">"GPS signal isn't available"</string>
     <string name="gps_close_1">No movement for a long time,</string>
     <string name="gps_close_2">GPS has been turned off.</string>
@@ -105,7 +105,7 @@
     <string name="oritation_west">W</string>
     <string name="oritation_north">N</string>
     <string name="rope_skip_group_time">Čas</string>
-    <string name="rope_skip_group_count">Count</string>
+    <string name="rope_skip_group_count">Počet</string>
     <string name="rope_skip_group_freq">Frequency</string>
     <string name="rope_skip_reset_tips">Has rested</string>
     <string name="rope_skip_tips">Group %1$s</string>
@@ -188,9 +188,9 @@
     <string name="personal_info">Personal Info</string>
     <string name="time_zone_clock">Time Settings</string>
     <string name="setting_time_format">Time Format</string>
-    <string name="connect">Connection</string>
+    <string name="connect">Připojení</string>
     <string name="common">General</string>
-    <string name="device">Device</string>
+    <string name="device">Zařízení</string>
     <string name="units_set">Unit Setting</string>
     <string name="auto_airplane">Scheduled</string>
     <string name="wifi_upload">Data</string>
@@ -245,7 +245,7 @@
     <string name="timing_reminder_ring">Zvuk budíku</string>
     <string name="navigation_combination">Služba určování polohy</string>
     <string name="reboot_to_mcu">reboot to MCU</string>
-    <string name="everest2_copy_mcu_res">Copy font library</string>
+    <string name="everest2_copy_mcu_res">Kopírovat knihovnu písem</string>
     <string name="agps_sync_remind">Připomenutí AGPS</string>
     <string name="agps_sync_off">Vypnuto</string>
     <string name="agps_sync_everyday">každých%s</string>
@@ -288,7 +288,7 @@
     <string name="jianzou">Walking</string>
     <string name="yueye">Trail Run</string>
     <string name="shineipao">Run Indoor</string>
-    <string name="huwaiqi">Cycling</string>
+    <string name="huwaiqi">Cyklistika</string>
     <string name="yongchiyou">Pool Swim</string>
     <string name="gongkaiyou">Open Water</string>
     <string name="tuoyuanji">Elliptical</string>
@@ -308,7 +308,7 @@
     <string name="music_status_long_time_no_play">"Již dlouho jste nepřehrávali hudbu. 
  Systém byl odpojen od sluchátek 
  pro snížení spotřeby energie. Můžete:"</string>
-    <string name="ble_connet_phone">Connect the headsets</string>
+    <string name="ble_connet_phone">Připojit sluchátka</string>
     <string name="ble_connet_cancel">Zrušit</string>
     <string name="report_bug_dialog_title">Feedback</string>
     <string name="report_bug_dialog_desc">If there is a data error or the watch works abnormally, you can upload the data through the feedback feature to our server for analysis. During this process, the previously generated logs on the watch will be automatically collected and uploaded. These logs are used only for problem analysis, and will be destroyed immediately after that. During the entire process we will comply with our Privacy Policy, view details of the policy on the Amazfit app.</string>
@@ -365,14 +365,14 @@
     <string name="blue_tooth_dev_in_sub_list">Bluetooth</string>
     <string name="scanning_blt_devices">Searching...</string>
     <string name="blt_bound_stat_bonded">Paired</string>
-    <string name="blt_bound_stat_connected">Connected</string>
+    <string name="blt_bound_stat_connected">Připojeno</string>
     <string name="blt_bound_stat_disconnect">Disconnected</string>
     <string name="blt_bound_stat_bonding">Pairing...</string>
     <string name="blt_bound_stat_none">Dostupné</string>
     <string name="blt_default_name">Unnamed</string>
     <string name="blt_hint_disconnect">"Odpojit %1s?"</string>
     <string name="blt_hint_connect">"Připojit %1s?"</string>
-    <string name="blt_hint_connect_fail">Connection failed, please re-connect</string>
+    <string name="blt_hint_connect_fail">Připojení selhalo, zkuste to prosím znovu</string>
     <string name="blt_type_ear">Headset</string>
     <string name="blt_speaker">Audio</string>
     <string name="blt_car_system">Vehicle-mounted</string>
@@ -383,17 +383,17 @@
     <string name="button_cancel">Zrušit</string>
     <string name="blt_cancel_paring">Paring canceled</string>
     <string name="bluetooth_pairing_error_message">Pairing failed</string>
-    <string name="bluetooth_connecting">Connecting...</string>
+    <string name="bluetooth_connecting">Připojování...</string>
     <string name="bluetooth_disconnecting">Disconnecting...</string>
     <string name="blt_hint_paring">"Párovat %1s?"</string>
     <string name="blt_paring_fail_hint">"Ujistěte se, že je zařízení zapnuté
 a je poblíž"</string>
     <string name="blt_hint_ignore_device">Ignore</string>
     <string name="blt_confirm_ignore">Jste si jisti, že chcete ignorovat toto zařízení?</string>
-    <string name="bluetooth_connected">Connected</string>
+    <string name="bluetooth_connected">Připojeno</string>
     <string name="bluetooth_disconnected">Disconnected</string>
-    <string name="bluetooth_connecting_error_message">"Couldn't connect to %1$s."</string>
-    <string name="bluetooth_pairing_pin_error_message">"Couldn't pair with %1$s because of an incorrect PIN or passkey."</string>
+    <string name="bluetooth_connecting_error_message">"Nelze se připojit k %1$s."</string>
+    <string name="bluetooth_pairing_pin_error_message">"Nelze spárovat s %1$s z důvodu nesprávného PIN nebo hesla."</string>
     <string name="bluetooth_pairing_device_down_error_message">"S %1$s nelze komunikovat."</string>
     <string name="bluetooth_pairing_rejected_error_message">Pairing rejected by %1$s.</string>
     <string name="bluetooth_turning_on">Turning Bluetooth on…</string>
@@ -402,7 +402,7 @@ a je poblíž"</string>
     <string name="bluetooth_disabled">Bluetooth je vypnutý</string>
     <string name="bluetooth_unknown">Unknown state</string>
     <string name="bluetooth_disconnect_title">Disconnect?</string>
-    <string name="bluetooth_connect_title">Connect?</string>
+    <string name="bluetooth_connect_title">Připojit?</string>
     <string name="phone_finding">Locating phone...</string>
     <string name="phone_found">Telefon nalezen</string>
     <string name="phone_not_connected">Telefon není připojen</string>
@@ -459,11 +459,11 @@ všechna data v hodinkách budou smazána, a hodinky budou odpojeny od vašeho m
     <string name="reset_factory_bank_title">Please Remove the UnionPay Card at First</string>
     <string name="reset_factory_bank_msg">"Pokud resetujete hodinky bez odebrání karty UnionPay, způsobí to následující: 
  1. Nelze ji odstranit z hodinek, zabírá místo v čipu; 2. Nelze použít platební funkci v hodinkách; 3. Nelze být navázána s jinými zařízeními. Pro zabezpečení plateb odstraňte nejprve kartu UnionPay z aplikace Amazfit aplikace."</string>
-    <string name="reset_factory_bank_yes">Continue Factory Reset</string>
+    <string name="reset_factory_bank_yes">Pokračovat v továrním nastavení</string>
     <string name="reset_factory_bank_no">Zrušit</string>
     <string name="reset_factory_bank_msg_again">"Jakmile se hodinky obnoví do továrního nastavení, všechna data v hodinkách budou smazána, a hodinky budou odpojeny od vašeho mobilu. 
  Aktuálně aktivovaná Transportation karta může být po novém propojení s vaším mobilem dále používána."</string>
-    <string name="lockpassword_confirm_your_pattern_header">Confirm Your Pattern</string>
+    <string name="lockpassword_confirm_your_pattern_header">Potvrďte svůj vzor</string>
     <string name="lockpattern_need_to_unlock">Draw Unlocking Pattern</string>
     <string name="lockpattern_need_to_unlock_footer"></string>
     <string name="lockpattern_need_to_unlock_wrong"></string>
@@ -476,21 +476,21 @@ všechna data v hodinkách budou smazána, a hodinky budou odpojeny od vašeho m
     <string name="lockpattern_recording_inprogress"></string>
     <string name="cancel">Zrušit</string>
     <string name="lockpattern_retry_button_text">Retry</string>
-    <string name="lockpattern_continue_button_text">Continue</string>
+    <string name="lockpattern_continue_button_text">Pokračovat</string>
     <string name="lockpattern_confirm_button_text">Potvrdit</string>
     <string name="lockpattern_recording_intro_header">Draw Unlocking Pattern</string>
     <string name="lockpattern_settings_help_how_to_record">How to Draw Unlocking Pattern？</string>
     <string name="lockpattern_recording_incorrect_too_short"></string>
     <string name="lockpattern_pattern_entered_header">Pattern Recorded</string>
-    <string name="lockpattern_need_to_confirm">Confirm Unlocking Pattern</string>
-    <string name="lockpattern_pattern_confirmed_header">Confirm Unlocking Pattern</string>
+    <string name="lockpattern_need_to_confirm">Potvrdit odemykací vzor</string>
+    <string name="lockpattern_pattern_confirmed_header">Potvrdit odemykací vzor</string>
     <string name="app_notifications_dialog_done">Dokončeno</string>
     <string name="lockpattern_cancel">Gesture Password</string>
     <string name="lockpattern_change">Změnit heslo</string>
     <string name="lockpattern_change_state">Změnit stav hodinek</string>
     <string name="lockpattern_exist">Turned on</string>
     <string name="lockpattern_exist_no">Turned Off</string>
-    <string name="unlock_disable_lock_pattern_summary">Delete Unlocking Pattern</string>
+    <string name="unlock_disable_lock_pattern_summary">Odstranit odemykací vzor</string>
     <string name="unlock_disable_frp_warning_content">The Device Protection Function Will No Longer Function.</string>
     <string name="okay">Potvrdit</string>
     <string name="exit">Exit</string>
@@ -505,9 +505,9 @@ všechna data v hodinkách budou smazána, a hodinky budou odpojeny od vašeho m
     <string name="security_lockpattern">Gesture Password</string>
     <string name="lockpattern_need_confirm_guide">Please Draw the Current Pattern</string>
     <string name="time_zone">Time Zone</string>
-    <string name="date">Date</string>
+    <string name="date">Datum</string>
     <string name="time">Čas</string>
-    <string name="date_ymd">Date(Y/M/D)</string>
+    <string name="date_ymd">Datum (D/M/R)</string>
     <string name="time_hms">Time(H/M/S)</string>
     <string name="time_format">Time Format</string>
     <string name="hour_system">%s-hodinový systém</string>
@@ -535,7 +535,7 @@ všechna data v hodinkách budou smazána, a hodinky budou odpojeny od vašeho m
     <string name="watch_mode_title">Turn on watch mode</string>
     <string name="watch_mode_message">"Když je zapnuto, hodinky pouze podporují pouze zobrazení času, počítání kroků a platbu kartou. 
  (Když jej zapnete, stiskněte a podržte fyzické tlačítko pro ukončení tohoto režimu)"</string>
-    <string name="watch_mode_positive">Confirm turned on</string>
+    <string name="watch_mode_positive">Potvrdit zapnutí</string>
     <string name="watch_mode_negative">Zrušit</string>
     <string name="replace_watchface">Ciferník</string>
     <string name="screen_refresh">Lockscreen seconds hand</string>
@@ -554,7 +554,7 @@ všechna data v hodinkách budou smazána, a hodinky budou odpojeny od vašeho m
     <string name="confirm_shutdown">Shutdown?</string>
     <string name="confirm_reboot">Reboot?</string>
     <string name="app_name">Nastavení</string>
-    <string name="blt_hint_connect_device">Connect</string>
+    <string name="blt_hint_connect_device">Připojit</string>
     <string name="blt_hint_disconnect_device">Disconnect</string>
     <string name="lab_desc">Sběrná část nástrojů pro ladění</string>
     <string name="unknown">Unknown device</string>

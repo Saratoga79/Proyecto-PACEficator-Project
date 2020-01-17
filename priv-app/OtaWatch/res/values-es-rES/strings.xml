@@ -22,8 +22,8 @@ Nuevo hotspot Wi-Fi para el reloj</string>
     <string name="checking_rom_failed">"La conexión de red se agotó,
 Vuelva a intentarlo"</string>
     <string name="current_is_new">Última versión en ejecución</string>
-    <string name="has_new_rom">"Se ha encontrado una nueva versión,
-Actualizar a %1$s versión?"</string>
+    <string name="has_new_rom">"Nueva versión encontrada.
+¿Actualizar a la versión %1$s?"</string>
     <string name="has_new_rom_all">Actualización encontrada, debido a la antigüedad
 de su versión, la actualización podrá tomar más tiempo, sea paciente.</string>
     <string name="input_passwor_on_mobile">"Por favor ingrese la contraseña de Wi-Fi
@@ -36,11 +36,11 @@ Conectado a WiFi\"\""</string>
     <string name="download_rom_faild">"La descarga del paquete de actualización falló,
  Inténtalo de nuevo."</string>
     <string name="download_rom_success">La descarga de la ROM es correcta, por favor instala</string>
-    <string name="low_battery_message">Pack de actualización descargado, la potencia debe mantenerse por encima de %1$s %% para instalar</string>
+    <string name="low_battery_message">Actualización descargada, pero la batería debe ser mayor a %1$s%% para poder instalarla</string>
     <string name="low_battery_title">Por favor cargue primero</string>
     <string name="progressbar_tips">Comprobación de nuevas versiones ....</string>
     <string name="progressbar_percent">%1$d%%</string>
-    <string name="low_mem">Capacidad necesaria para la actualización insuficiente, otro %1$sM necesario, por favor, limpie primero</string>
+    <string name="low_mem">Capacidad insuficiente para la actualización, se necesitan otros %1$sMB, libera espacio</string>
     <string name="update_network_error">"Error en la comprobación de la actualización, por favor
 Reintentar más tarde"</string>
     <string name="cancel_download">"Actualización de la descarga del paquete,
@@ -71,7 +71,7 @@ Red WiFi. Por favor, inténtalo
 Otro hotspot Wi-Fi</string>
     <string name="searching">Buscando ...</string>
     <string name="hasNewUpdateTitle">Actualizaciones del sistema</string>
-    <string name="hasNewUpdateInstallContent">La versión %1$s puede instalarse, instalar ahora?</string>
+    <string name="hasNewUpdateInstallContent">La versión %1$s lista para instalarse ¿Instalar ahora?</string>
     <string name="hasNewUpdateCheckContent">La versión %1$s se puede actualizar, actualizar ahora?</string>
     <string name="update_title">Por favor selecciona una opción</string>
     <string name="update_online">Actualización Por-el-Aire (OTA)</string>
@@ -201,7 +201,7 @@ datos de usuario en el reloj, ¿Continuar?"</string>
     <string name="rope_skip_group_count">Conteo de grupo</string>
     <string name="rope_skip_group_freq">Frecuencia</string>
     <string name="rope_skip_reset_tips">Tiempo descansado</string>
-    <string name="rope_skip_tips">Grupos completados: %1$s</string>
+    <string name="rope_skip_tips">Grupo %1$s</string>
     <string name="rope_skip_tips1">El</string>
     <string name="rope_skip_tips2">conjunto ha sido completado</string>
     <string name="rope_skip_avg_heartrate">RC Med</string>
