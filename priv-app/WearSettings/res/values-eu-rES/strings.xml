@@ -174,7 +174,7 @@
     <string name="applications">App-ak</string>
     <string name="long_sit">Mugitzeko abisua</string>
     <string name="datacenter">Helburu doiketak</string>
-    <string name="security">Security</string>
+    <string name="security">Segurtasuna</string>
     <string name="preference">Lehentasunak</string>
     <string name="preference_title">Lehentasunak</string>
     <string name="light_change">Distira</string>
@@ -206,27 +206,27 @@
     <string name="phone_far_away_remind_to_you">Erlojuak telefonoa urrun dagoela abisatuko du</string>
     <string name="dialog_confire">OK</string>
     <string name="auto_hint_title">Eskumutur bira akt.</string>
-    <string name="voice">Volume adjustment</string>
-    <string name="watch_mode">Watch mode</string>
-    <string name="lock_screen_title">Lock screen</string>
-    <string name="lock_screen">Lock screen</string>
-    <string name="lock_screen_hand">Low-light mode</string>
-    <string name="lock_screen_open_guide">The battery life will be reduced if you set the screen lock mode to low light.</string>
-    <string name="lock_auto_screen_wristup_guide">Once the off-screen time is set successfully, the watch screen will not light up even if it is lifted or locked.</string>
+    <string name="voice">Bolumen doiketak</string>
+    <string name="watch_mode">Erloju modua</string>
+    <string name="lock_screen_title">Pantaila blokeoa</string>
+    <string name="lock_screen">Pantaila blokeoa</string>
+    <string name="lock_screen_hand">Ordua ikusi</string>
+    <string name="lock_screen_open_guide">Ordua ikusteko modua aukeratu ezkero, bateria murriztuko da.</string>
+    <string name="lock_auto_screen_wristup_guide">Eskumutur mugimendu modua programatu ondoren, pantaila ez da piztuko.</string>
     <string name="sport_remind_title">Kirol alerta</string>
     <string name="sport_remind_open_title">Kirol hasieraren alerta</string>
     <string name="sport_remind_end_title">Kirol bukaeraren alerta</string>
     <string name="sport_remind_open_tips">Alerta bat jaso kirol bat detektatzen denean</string>
     <string name="sport_remind_end_tips">Alerta bat jaso kirol bat bukatu dela detektatzean, hau gorde ahal izateko</string>
     <string name="sport_remind_open">Aktibatu</string>
-    <string name="voice_set">Sound Setting</string>
-    <string name="ring">Ring</string>
-    <string name="volume">Volume</string>
-    <string name="hint_volume">Warning Tone Volume</string>
-    <string name="media_volume">Media Volume</string>
-    <string name="alarm_volume">Alarm Clock Volume</string>
-    <string name="in_call_ring">Incoming Call Ring</string>
-    <string name="alarm_ring">Alarm Ring</string>
+    <string name="voice_set">Soinu ezarpenak</string>
+    <string name="ring">Dei-doinua</string>
+    <string name="volume">Bolumena</string>
+    <string name="hint_volume">Alerta doianuaren bolumena</string>
+    <string name="media_volume">Multimedia-elementuen bolumena</string>
+    <string name="alarm_volume">Alarma bolumena</string>
+    <string name="in_call_ring">Dei doinua</string>
+    <string name="alarm_ring">Alarma soinua</string>
     <string name="nokia_tune">Classic Ring %1$d</string>
     <string name="electronic_ring_sound">Electronic Ring %1$d</string>
     <string name="phonetic_sound">Danyin Ring %1$d</string>
@@ -234,15 +234,15 @@
     <string name="nodisturb">Modu isila</string>
     <string name="auto_bg">Disdira Automatikoa</string>
     <string name="long_key_action">Mantendu Bira Botoia</string>
-    <string name="recombind">Rebinding</string>
-    <string name="lock_screen_auto">Turn Off Low Light Mode Regularly</string>
+    <string name="recombind">Berrezartzen</string>
+    <string name="lock_screen_auto">Iluminazio baxuko modua</string>
     <string name="lock_screen_open">On</string>
     <string name="lock_screen_close">Off</string>
     <string name="vibration">Bibrazioa</string>
     <string name="ring_vibration">Deien bibrazioa</string>
     <string name="natification_vibration">Jakinarazpen berrien bibrazioa</string>
     <string name="alarm_vibration">Alarma bibrazioa</string>
-    <string name="timing_reminder_ring">Alarm sound</string>
+    <string name="timing_reminder_ring">Alarma doinua</string>
     <string name="navigation_combination">Kokapen zerbitzuak</string>
     <string name="reboot_to_mcu">Ultra moduan (MCU) berrabiarazi</string>
     <string name="everest2_copy_mcu_res">Letra motak kopiatu</string>
@@ -305,9 +305,9 @@
     <string name="mijia">Nire Etxea</string>
     <string name="zhinanzhen">Iparrorratza</string>
     <string name="yinyue">Musika</string>
-    <string name="music_status_long_time_no_play">"You haven\'t played music for a long time. 
- The system has been disconnected from the headsets 
- to reduce power consumption. You can:"</string>
+    <string name="music_status_long_time_no_play">"Ez duzu musika erreproduzitu denbora luzez.
+  Sistema entzungailuetatik deskonektatu da
+  energia kontsumoa murrizteko. Egin dezakezuna:"</string>
     <string name="ble_connet_phone">Entzungailua konektatu</string>
     <string name="ble_connet_cancel">Ezeztatu</string>
     <string name="report_bug_dialog_title">Iradokizunak</string>
@@ -433,8 +433,7 @@
     <string name="height_unit">Altuera zm</string>
     <string name="weight_unit">Pisua kg</string>
     <string name="reset_factory_hint">Erlojua reseteatu?</string>
-    <string name="reset_factory_hint_cn">"Once the watch is reset to factory default settings, all data in the watch will be deleted, and the watch will be disconnected from your mobile. 
- The current activated transportation card can still be used after the watch is bound with your mobile again."</string>
+    <string name="reset_factory_hint_cn">\"Behin erlojua fabrikako balioetan ezarri ondoren, erlojuko datu guztiak ezabatu egingo dira eta erlojua zure telefonotik deskonektatuko da</string>
     <string name="reset_factory_yes">Reseta</string>
     <string name="reset_factory_no">Ezeztatu</string>
     <string name="reset_factory_title">Fabrika balioak</string>
