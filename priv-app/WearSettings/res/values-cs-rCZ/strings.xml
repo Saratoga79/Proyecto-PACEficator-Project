@@ -143,7 +143,7 @@
     <string name="alarm_rooster">Rooster</string>
     <string name="alarm_timer">Timer</string>
     <string name="alarm_nudge">Šťouchnutí</string>
-    <string name="alarm_rise">Rise</string>
+    <string name="alarm_rise">Vzestup</string>
     <string name="alarm_drip">Kapat</string>
     <string name="alarm_awaken">Probudit</string>
     <string name="alarm_bounce">Skákat</string>
@@ -214,13 +214,13 @@
     <string name="lock_screen_open_guide">The battery life will be reduced if you set the screen lock mode to low light.</string>
     <string name="lock_auto_screen_wristup_guide">Jakmile je nastaven čas vypnutí obrazovky, obrazovka hodinek se nerozsvítí ani v případě, že je zvednuta nebo uzamčena.</string>
     <string name="sport_remind_title">Sport Recognition</string>
-    <string name="sport_remind_open_title">Reminding of Turning on the Sport Mode</string>
-    <string name="sport_remind_end_title">Reminding of Turning off the Sport Mode</string>
+    <string name="sport_remind_open_title">Připomenutí vypnutí sportovního režimu</string>
+    <string name="sport_remind_end_title">Připomenutí vypnutí sportovního režimu</string>
     <string name="sport_remind_open_tips">When Turning On, It Will Remind You to Turn On the Motion Mode Quickly When It Detects That You Are Running or Sport Walking</string>
     <string name="sport_remind_end_tips">Po zapnutí vás upozorní na ukončení a uložení, když zjistí, že jste dokončili sport</string>
     <string name="sport_remind_open">Turn on</string>
     <string name="voice_set">Sound Setting</string>
-    <string name="ring">Ring</string>
+    <string name="ring">Vyzvánění</string>
     <string name="volume">Volume</string>
     <string name="hint_volume">Warning Tone Volume</string>
     <string name="media_volume">Hlasitost médií</string>
@@ -234,7 +234,7 @@
     <string name="nodisturb">Nerušit</string>
     <string name="auto_bg">Scheduled</string>
     <string name="long_key_action">Dlouze podržte tlačítko pro otevření</string>
-    <string name="recombind">Rebinding</string>
+    <string name="recombind">Opětovné spojení</string>
     <string name="lock_screen_auto">Turn Off Low Light Mode Regularly</string>
     <string name="lock_screen_open">Zap.</string>
     <string name="lock_screen_close">Vyp.</string>
@@ -244,7 +244,7 @@
     <string name="alarm_vibration">Vibrace při připomenutí času</string>
     <string name="timing_reminder_ring">Zvuk budíku</string>
     <string name="navigation_combination">Služba určování polohy</string>
-    <string name="reboot_to_mcu">reboot to MCU</string>
+    <string name="reboot_to_mcu">reboot do MCU</string>
     <string name="everest2_copy_mcu_res">Kopírovat knihovnu písem</string>
     <string name="agps_sync_remind">Připomenutí AGPS</string>
     <string name="agps_sync_off">Vyp.</string>
@@ -441,7 +441,7 @@ kg"</string>
 všechna data v hodinkách budou smazána, a hodinky budou odpojeny od vašeho mobilu.“</string>
     <string name="reset_factory_hint_cn">"Jakmile se hodinky obnoví do továrního nastavení, všechna data v hodinkách budou smazána, a hodinky budou odpojeny od vašeho mobilu. 
  Aktuálně aktivovaná Transportation karta může být po novém propojení s vaším mobilem dále používána."</string>
-    <string name="reset_factory_yes">Reset</string>
+    <string name="reset_factory_yes">Resetovat</string>
     <string name="reset_factory_no">Zrušit</string>
     <string name="reset_factory_title">Tovární reset</string>
     <string name="reset_factory_noconnect_msg">"Potřebujete-li odpojit hodinky, proveďte to v aplikaci Amazfit. 
@@ -475,7 +475,7 @@ všechna data v hodinkách budou smazána, a hodinky budou odpojeny od vašeho m
     <string name="lockpassword_choose_your_pattern_header">Select Your Pattern</string>
     <string name="lockpattern_recording_inprogress"></string>
     <string name="cancel">Zrušit</string>
-    <string name="lockpattern_retry_button_text">Retry</string>
+    <string name="lockpattern_retry_button_text">Zkusit znovu</string>
     <string name="lockpattern_continue_button_text">Pokračovat</string>
     <string name="lockpattern_confirm_button_text">Potvrdit</string>
     <string name="lockpattern_recording_intro_header">Nakreslit odemykací vzor</string>
@@ -562,5 +562,5 @@ všechna data v hodinkách budou smazána, a hodinky budou odpojeny od vašeho m
  vašich dat připojte"</string>
     <string name="upgrade_checking">Kontrola aktualizací...</string>
     <string name="left_hand">Levá</string>
-    <string name="right_hand">Right</string>
+    <string name="right_hand">Pravá</string>
 </resources>
