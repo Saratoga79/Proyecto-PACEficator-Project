@@ -54,8 +54,8 @@ Používejte pouze dodávanou nabíječku."</string>
     <string name="usb_debugging_always">Vždy povolit z tohoto počítače</string>
     <string name="compat_mode_on">Zoom to fill screen</string>
     <string name="compat_mode_off">Stretch to fill screen</string>
-    <string name="screenshot_saving_ticker">Saving screenshot…</string>
-    <string name="screenshot_saving_title">Saving screenshot…</string>
+    <string name="screenshot_saving_ticker">Ukládání snímku obrazovky…</string>
+    <string name="screenshot_saving_title">Ukládání snímku obrazovky…</string>
     <string name="screenshot_saving_text">Screenshot is being saved.</string>
     <string name="screenshot_saved_title">Screenshot captured.</string>
     <string name="screenshot_saved_text">Touch to view your screenshot.</string>
@@ -185,7 +185,7 @@ Používejte pouze dodávanou nabíječku."</string>
     <string name="accessibility_quick_settings_color_inversion_changed_on">Převrácení barev zapnuto.</string>
     <string name="accessibility_quick_settings_hotspot_changed_off">Mobilní hotspot vypnutý.</string>
     <string name="accessibility_quick_settings_hotspot_changed_on">Mobilní hotspot zapnutý.</string>
-    <string name="accessibility_casting_turned_off">Screen casting stopped.</string>
+    <string name="accessibility_casting_turned_off">Odesílání obrazovky zastaveno.</string>
     <string name="accessibility_brightness">Jas displeje</string>
     <string name="data_usage_disabled_dialog_3g_title">2G-3G data jsou vypnuta</string>
     <string name="data_usage_disabled_dialog_4g_title">4G data jsou vypnuta</string>
@@ -204,11 +204,11 @@ Jejich opětovné zapnutí může vést k poplatkům od vašeho operátora."</st
     <string name="status_bar_notification_inspect_item_title">Nastavení oznámení</string>
     <string name="status_bar_notification_app_settings_title">Nastavení %s</string>
     <string name="accessibility_rotation_lock_off">Screen will rotate automatically.</string>
-    <string name="accessibility_rotation_lock_on_landscape">Screen is locked in landscape orientation.</string>
-    <string name="accessibility_rotation_lock_on_portrait">Screen is locked in portrait orientation.</string>
+    <string name="accessibility_rotation_lock_on_landscape">Obrazovka je uzamčena v orientaci na šířku.</string>
+    <string name="accessibility_rotation_lock_on_portrait">Obrazovka je uzamčena v orientaci na výšku.</string>
     <string name="accessibility_rotation_lock_off_changed">Screen will now rotate automatically.</string>
-    <string name="accessibility_rotation_lock_on_landscape_changed">Screen is now locked in landscape orientation.</string>
-    <string name="accessibility_rotation_lock_on_portrait_changed">Screen is now locked in portrait orientation.</string>
+    <string name="accessibility_rotation_lock_on_landscape_changed">Obrazovka je nyní uzamčena v orientaci na šířku.</string>
+    <string name="accessibility_rotation_lock_on_portrait_changed">Obrazovka je nyní uzamčena v orientaci na výšku.</string>
     <string name="dessert_case">Dessert Case</string>
     <string name="start_dreams">Snění</string>
     <string name="ethernet_label">Ethernet</string>
@@ -219,7 +219,7 @@ Jejich opětovné zapnutí může vést k poplatkům od vašeho operátora."</st
     <string name="quick_settings_bluetooth_detail_empty_text">Žádná spárovaná zařízení</string>
     <string name="quick_settings_brightness_label">Jas</string>
     <string name="quick_settings_rotation_unlocked_label">Automatické otáčení</string>
-    <string name="quick_settings_rotation_locked_label">Rotation locked</string>
+    <string name="quick_settings_rotation_locked_label">Otáčení uzamčeno</string>
     <string name="quick_settings_rotation_locked_portrait_label">Na výšku</string>
     <string name="quick_settings_rotation_locked_landscape_label">Na šířku</string>
     <string name="quick_settings_ime_label">Vstupní metoda</string>
@@ -402,7 +402,7 @@ Také jste připojeni k síti VPN (\"%3$s\"). Poskytovatel služby VPN může ta
     <string name="hidden_notifications_cancel">Ne, děkuji</string>
     <string name="hidden_notifications_setup">Set up</string>
     <string name="zen_mode_and_condition">%1$s. %2$s</string>
-    <string name="screen_pinning_title">Screen is pinned</string>
+    <string name="screen_pinning_title">Obrazovka je připnuta</string>
     <string name="screen_pinning_description">This keeps it in view until you unpin. Touch and hold Back and Overview at the same time to unpin.</string>
     <string name="screen_pinning_description_accessible">This keeps it in view until you unpin. Touch and hold Overview to unpin.</string>
     <string name="screen_pinning_positive">Mám to</string>
