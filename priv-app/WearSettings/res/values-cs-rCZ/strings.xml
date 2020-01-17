@@ -9,7 +9,7 @@
     <string name="outdoor_riding">Outdoor cycling</string>
     <string name="indoor_riding">Indoor cycling</string>
     <string name="cross_contry">Trail run</string>
-    <string name="eppitical">Elliptical</string>
+    <string name="eppitical">Eliptický trenažér</string>
     <string name="indoor_swimming">Pool swimming</string>
     <string name="outdoor_swimming">Open water</string>
     <string name="triathlon">Triathlon</string>
@@ -54,7 +54,7 @@
     <string name="gps_close_2">GPS has been turned off.</string>
     <string name="heartrate">Heart rate</string>
     <string name="warmup">Warm Up</string>
-    <string name="fatburn">Fat Burning</string>
+    <string name="fatburn">Spalování tuků</string>
     <string name="heartlung">Aerobní</string>
     <string name="strength">Anaerobní</string>
     <string name="anaerobic">Anaerobní limit</string>
@@ -100,7 +100,7 @@
     <string name="virtual_rabbit_back_time">Lag time</string>
     <string name="virtual_rabbit_lead_distance">Lead distance</string>
     <string name="virtual_rabbit_back_distance">Lag distance</string>
-    <string name="oritation_east">E</string>
+    <string name="oritation_east">V</string>
     <string name="oritation_sourth">S</string>
     <string name="oritation_west">W</string>
     <string name="oritation_north">N</string>
@@ -144,7 +144,7 @@
     <string name="alarm_timer">Timer</string>
     <string name="alarm_nudge">Nudge</string>
     <string name="alarm_rise">Rise</string>
-    <string name="alarm_drip">Drip</string>
+    <string name="alarm_drip">Kapat</string>
     <string name="alarm_awaken">Probudit</string>
     <string name="alarm_bounce">Skákat</string>
     <string name="alarm_sway">Sway</string>
@@ -165,7 +165,7 @@
     <string name="wifi_dev">Wi-Fi</string>
     <string name="check_for_update">Update</string>
     <string name="change_language">Language</string>
-    <string name="reset_factory">Factory Reset</string>
+    <string name="reset_factory">Tovární reset</string>
     <string name="shut_down">Power off</string>
     <string name="reboot">Reboot</string>
     <string name="about">Info</string>
@@ -228,7 +228,7 @@
     <string name="in_call_ring">Incoming Call Ring</string>
     <string name="alarm_ring">Vyzvánění budíku</string>
     <string name="nokia_tune">Klasický prsten %1$d</string>
-    <string name="electronic_ring_sound">Electronic Ring %1$d</string>
+    <string name="electronic_ring_sound">Elektronický kruh %1$d</string>
     <string name="phonetic_sound">Danyin Ring %1$d</string>
     <string name="auto_nodisturb">Scheduled</string>
     <string name="nodisturb">Nerušit</string>
@@ -248,7 +248,7 @@
     <string name="everest2_copy_mcu_res">Kopírovat knihovnu písem</string>
     <string name="agps_sync_remind">Připomenutí AGPS</string>
     <string name="agps_sync_off">Vypnuto</string>
-    <string name="agps_sync_everyday">každých%s</string>
+    <string name="agps_sync_everyday">každých %s</string>
     <string name="agps_sync_am">dop.</string>
     <string name="agps_sync_pm">Odp.</string>
     <string name="title_activity_long_sitting_time">LongSittingTimeActivity</string>
@@ -272,7 +272,7 @@
     <string name="device_name_everest2_plus">Amazfit Stratos 3+</string>
     <string name="device_name_everest2_starwar">Star Wars Series</string>
     <string name="zh_cn">简体中文</string>
-    <string name="en">English(U.S.)</string>
+    <string name="en">English (U.S.)</string>
     <string name="zh_hk">繁體中文(香港)</string>
     <string name="zh_tw">繁體中文(台灣)</string>
     <string name="ru_ru">Русский</string>
@@ -291,7 +291,7 @@
     <string name="huwaiqi">Cyklistika</string>
     <string name="yongchiyou">Pool Swim</string>
     <string name="gongkaiyou">Open Water</string>
-    <string name="tuoyuanji">Elliptical</string>
+    <string name="tuoyuanji">Eliptický trenažér</string>
     <string name="dengshan">Stoupat</string>
     <string name="tierensan">Triathlon</string>
     <string name="multisport">Multisport</string>
@@ -313,8 +313,8 @@
     <string name="report_bug_dialog_title">Feedback</string>
     <string name="report_bug_dialog_desc">If there is a data error or the watch works abnormally, you can upload the data through the feedback feature to our server for analysis. During this process, the previously generated logs on the watch will be automatically collected and uploaded. These logs are used only for problem analysis, and will be destroyed immediately after that. During the entire process we will comply with our Privacy Policy, view details of the policy on the Amazfit app.</string>
     <string name="dialog_agree">Souhlasit</string>
-    <string name="dialog_quit">Exit</string>
-    <string name="nothing">Empty</string>
+    <string name="dialog_quit">Ukončit</string>
+    <string name="nothing">Prázdný</string>
     <string name="about_title">Info</string>
     <string name="model">Model</string>
     <string name="dev_name">Name</string>
@@ -411,7 +411,7 @@ a je poblíž"</string>
     <string name="lab_wifi_test_tip_retry">Please retry!!</string>
     <string name="lab_wifi_test_tip_testing">Testing…</string>
     <string name="lab_wifi_test_tip_pass">Pass!!</string>
-    <string name="lab_wifi_test_tip_fail">Fail!!</string>
+    <string name="lab_wifi_test_tip_fail">Neúspěšné!!</string>
     <string name="lab_wifi_test_tip_open_wifi">Opening WIFI</string>
     <string name="light_off">Vyp</string>
     <string name="light_auto">Auto</string>
@@ -429,7 +429,7 @@ a je poblíž"</string>
     <string name="height">Height</string>
     <string name="weight">Weight</string>
     <string name="male">Male</string>
-    <string name="female">Female</string>
+    <string name="female">Žena</string>
     <string name="centimeter">cm</string>
     <string name="birth_year_unit">"Rok 
 narození"</string>
@@ -443,18 +443,18 @@ všechna data v hodinkách budou smazána, a hodinky budou odpojeny od vašeho m
  Aktuálně aktivovaná Transportation karta může být po novém propojení s vaším mobilem dále používána."</string>
     <string name="reset_factory_yes">Reset</string>
     <string name="reset_factory_no">Zrušit</string>
-    <string name="reset_factory_title">Factory Reset</string>
+    <string name="reset_factory_title">Tovární reset</string>
     <string name="reset_factory_noconnect_msg">"Potřebujete-li odpojit hodinky, proveďte to v aplikaci Amazfit. 
  Jednostranné obnovení továrního nastavení odstraní karty UnionPay a Transportation. 
  Odstraněná UnionPay karta není již navázána k hodinkám. Potřebujete-li ji znovu navázat, prosím kontaktujte bankovní zákaznický servis. 
  Odstraněná Transportation karta bude trvale zničena a nemůže být znovu použita."</string>
     <string name="reset_factory_conncet_msg">Watch and Amazfit App will Remove the Bound UnionPay Card. The Watch will Retain the Payment Function of the Transportation Card.</string>
-    <string name="reset_factory_positive">Factory Reset</string>
+    <string name="reset_factory_positive">Tovární reset</string>
     <string name="reset_factory_negative">Zrušit</string>
     <string name="reset_factory_fail_title">Unsuccessful Factory Reset</string>
     <string name="reset_factory_fail_msg">If the UnionPay Card Is Not Successfully Removed, Please Try Again.</string>
     <string name="reset_factory_fail_positive">Ok</string>
-    <string name="reset_factory_doing1">Factory Reset Is Being Made</string>
+    <string name="reset_factory_doing1">Obnovuje se tovární nastavení</string>
     <string name="reset_factory_doing2">UnionPay Card Is Being Removed</string>
     <string name="reset_factory_bank_title">Please Remove the UnionPay Card at First</string>
     <string name="reset_factory_bank_msg">"Pokud resetujete hodinky bez odebrání karty UnionPay, způsobí to následující: 
@@ -464,7 +464,7 @@ všechna data v hodinkách budou smazána, a hodinky budou odpojeny od vašeho m
     <string name="reset_factory_bank_msg_again">"Jakmile se hodinky obnoví do továrního nastavení, všechna data v hodinkách budou smazána, a hodinky budou odpojeny od vašeho mobilu. 
  Aktuálně aktivovaná Transportation karta může být po novém propojení s vaším mobilem dále používána."</string>
     <string name="lockpassword_confirm_your_pattern_header">Potvrďte svůj vzor</string>
-    <string name="lockpattern_need_to_unlock">Draw Unlocking Pattern</string>
+    <string name="lockpattern_need_to_unlock">Nakreslit odemykací vzor</string>
     <string name="lockpattern_need_to_unlock_footer"></string>
     <string name="lockpattern_need_to_unlock_wrong"></string>
     <string name="lockpattern_need_to_unlock_wrong_footer"></string>
@@ -478,7 +478,7 @@ všechna data v hodinkách budou smazána, a hodinky budou odpojeny od vašeho m
     <string name="lockpattern_retry_button_text">Retry</string>
     <string name="lockpattern_continue_button_text">Pokračovat</string>
     <string name="lockpattern_confirm_button_text">Potvrdit</string>
-    <string name="lockpattern_recording_intro_header">Draw Unlocking Pattern</string>
+    <string name="lockpattern_recording_intro_header">Nakreslit odemykací vzor</string>
     <string name="lockpattern_settings_help_how_to_record">How to Draw Unlocking Pattern？</string>
     <string name="lockpattern_recording_incorrect_too_short"></string>
     <string name="lockpattern_pattern_entered_header">Pattern Recorded</string>
@@ -493,7 +493,7 @@ všechna data v hodinkách budou smazána, a hodinky budou odpojeny od vašeho m
     <string name="unlock_disable_lock_pattern_summary">Odstranit odemykací vzor</string>
     <string name="unlock_disable_frp_warning_content">The Device Protection Function Will No Longer Function.</string>
     <string name="okay">Potvrdit</string>
-    <string name="exit">Exit</string>
+    <string name="exit">Ukončit</string>
     <string name="pattern_set_title">Security</string>
     <string name="watch_state">Screensaver Setting</string>
     <string name="unwear">Watch off the Wrist</string>
