@@ -179,7 +179,7 @@
     <string name="preference_title">Předvolby</string>
     <string name="light_change">Jas</string>
     <string name="wrist_up">Wrist raise to</string>
-    <string name="double_click_wakeup">Double tap to unlock</string>
+    <string name="double_click_wakeup">Dvojitým poklepáním odemknout</string>
     <string name="vibration_intensity">Vibration Intensity</string>
     <string name="flight_mode">Řežim letadlo</string>
     <string name="hm_lab">Huami Lab</string>
@@ -231,7 +231,7 @@
     <string name="electronic_ring_sound">Electronic Ring %1$d</string>
     <string name="phonetic_sound">Danyin Ring %1$d</string>
     <string name="auto_nodisturb">Scheduled</string>
-    <string name="nodisturb">Do Not Disturb</string>
+    <string name="nodisturb">Nerušit</string>
     <string name="auto_bg">Scheduled</string>
     <string name="long_key_action">Long Press the Button to Open</string>
     <string name="recombind">Rebinding</string>
@@ -366,7 +366,7 @@
     <string name="scanning_blt_devices">Searching...</string>
     <string name="blt_bound_stat_bonded">Paired</string>
     <string name="blt_bound_stat_connected">Připojeno</string>
-    <string name="blt_bound_stat_disconnect">Disconnected</string>
+    <string name="blt_bound_stat_disconnect">Odpojeno</string>
     <string name="blt_bound_stat_bonding">Pairing...</string>
     <string name="blt_bound_stat_none">Dostupné</string>
     <string name="blt_default_name">Unnamed</string>
@@ -384,14 +384,14 @@
     <string name="blt_cancel_paring">Paring canceled</string>
     <string name="bluetooth_pairing_error_message">Pairing failed</string>
     <string name="bluetooth_connecting">Připojování...</string>
-    <string name="bluetooth_disconnecting">Disconnecting...</string>
+    <string name="bluetooth_disconnecting">Odpojování...</string>
     <string name="blt_hint_paring">"Párovat %1s?"</string>
     <string name="blt_paring_fail_hint">"Ujistěte se, že je zařízení zapnuté
 a je poblíž"</string>
     <string name="blt_hint_ignore_device">Ignore</string>
     <string name="blt_confirm_ignore">Jste si jisti, že chcete ignorovat toto zařízení?</string>
     <string name="bluetooth_connected">Připojeno</string>
-    <string name="bluetooth_disconnected">Disconnected</string>
+    <string name="bluetooth_disconnected">Odpojeno</string>
     <string name="bluetooth_connecting_error_message">"Nelze se připojit k %1$s."</string>
     <string name="bluetooth_pairing_pin_error_message">"Nelze spárovat s %1$s z důvodu nesprávného PIN nebo hesla."</string>
     <string name="bluetooth_pairing_device_down_error_message">"S %1$s nelze komunikovat."</string>
@@ -401,7 +401,7 @@ a je poblíž"</string>
     <string name="bluetooth_enabled">Bluetooth je zapnutý</string>
     <string name="bluetooth_disabled">Bluetooth je vypnutý</string>
     <string name="bluetooth_unknown">Unknown state</string>
-    <string name="bluetooth_disconnect_title">Disconnect?</string>
+    <string name="bluetooth_disconnect_title">Odpojit?</string>
     <string name="bluetooth_connect_title">Připojit?</string>
     <string name="phone_finding">Locating phone...</string>
     <string name="phone_found">Telefon nalezen</string>
@@ -555,7 +555,7 @@ všechna data v hodinkách budou smazána, a hodinky budou odpojeny od vašeho m
     <string name="confirm_reboot">Reboot?</string>
     <string name="app_name">Nastavení</string>
     <string name="blt_hint_connect_device">Připojit</string>
-    <string name="blt_hint_disconnect_device">Disconnect</string>
+    <string name="blt_hint_disconnect_device">Odpojit</string>
     <string name="lab_desc">Sběrná část nástrojů pro ladění</string>
     <string name="unknown">Unknown device</string>
     <string name="bind_tips_title">"Pro lepší ochranu 
