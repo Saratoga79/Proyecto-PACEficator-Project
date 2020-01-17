@@ -4,7 +4,7 @@
     <string name="new_message_down_fresh">Vymazat seznam zpráv</string>
     <string name="sport_title">Cvičení</string>
     <string name="data_check_log">" +------------------------+▂▃▄▅▆▇█▉  Chyba ověření údajů o počasí!     %1$s▉█▇▆▅▄▃▂+------------------------+"</string>
-    <string name="data_checkfail_json">JSON format error</string>
+    <string name="data_checkfail_json">Chyba formátu JSON</string>
     <string name="generic_notification_more">More (%s)</string>
     <string name="notification_unread_num">Unread (%s)</string>
     <string name="notification_click_upgrade">Tap to install</string>
@@ -43,7 +43,7 @@
     <string name="quick_settings_toast_off">Vypnuto</string>
     <string name="quick_settings_status">Not connected</string>
     <string name="quick_settings_no_disturb_toast">"You'll no longer receive notifications."</string>
-    <string name="quick_settings_auto_light_toast">Keeping the screen on reduces battery life.</string>
+    <string name="quick_settings_auto_light_toast">Udržování zapnuté obrazovky snižuje životnost baterie.</string>
     <string name="quick_settings_status_month">Month</string>
     <string name="quick_settings_status_day">Den </string>
     <string name="quick_settings_connected">Připojeno</string>
@@ -104,7 +104,7 @@ před méně než 1 hodinou“</string>
     <string name="notification_block_message">Blokovat oznámení z této aplikace</string>
     <string name="notification_block_ok">OK</string>
     <string name="notification_more_settings">Další nastavení</string>
-    <string name="notification_time_just">Just now</string>
+    <string name="notification_time_just">Právě teď</string>
     <string name="notification_time_yesterday">Včera</string>
     <string name="notificaton_empty_message">No notifications</string>
     <string name="music_control">Music controls</string>
@@ -119,7 +119,7 @@ před méně než 1 hodinou“</string>
     <string name="notification_title_default">Notification</string>
     <string name="music">Hudba</string>
     <string name="launcher_app_name">Launcher</string>
-    <string name="hm_watch_sports_notification_km">Kilometers</string>
+    <string name="hm_watch_sports_notification_km">Kilometry</string>
     <string name="hm_watch_sports_notification_sports">Sports</string>
     <string name="hm_generic_notification_iconified_content_line">Dobrý den, jsem fanouškem Huami</string>
     <string name="notification_action_more">More</string>
@@ -202,7 +202,7 @@ před méně než 1 hodinou“</string>
     <string name="uv">UV index</string>
     <string name="detailed">Weather details</string>
     <string name="forecast">Weather forecast</string>
-    <string name="fetching">Just a sec…</string>
+    <string name="fetching">Chvilku strpení…</string>
     <string name="fetch_failed">"Nelze získat informace"</string>
     <string name="fetch_failed_title">"Nelze získat informace o počasí"</string>
     <string name="fetch_failed_msg">Make sure your watch is connected to the Amazfit app and a valid location is selected in the app.</string>
@@ -228,7 +228,7 @@ před méně než 1 hodinou“</string>
     <string name="soccer">Soccer</string>
     <string name="golf">Golf</string>
     <string name="complex_sport">Multisport</string>
-    <string name="rope_skipping">Jump rope</string>
+    <string name="rope_skipping">Skákání přes švihadlo</string>
     <string name="on_foot">Pěšky</string>
     <string name="indoor_fitness">Sálový fitness</string>
     <string name="row_machine">Rowing machine</string>
@@ -278,7 +278,7 @@ před méně než 1 hodinou“</string>
     <string name="kilometre">km</string>
     <string name="km_per_hour">km/h</string>
     <string name="bpm">BPM</string>
-    <string name="times_per_minute">BPM</string>
+    <string name="times_per_minute">skoků/min</string>
     <string name="per_km">/km</string>
     <string name="per_100m">/100 m</string>
     <string name="per_100Yard">/100 yd</string>
@@ -306,7 +306,7 @@ před méně než 1 hodinou“</string>
     <string name="virtual_rabbit_lead_time">Lead time</string>
     <string name="virtual_rabbit_back_time">Lag time</string>
     <string name="virtual_rabbit_lead_distance">Lead distance</string>
-    <string name="virtual_rabbit_back_distance">Lag distance</string>
+    <string name="virtual_rabbit_back_distance">Prodleva vzdálenosti</string>
     <string name="oritation_east">V</string>
     <string name="oritation_sourth">S</string>
     <string name="oritation_west">W</string>
