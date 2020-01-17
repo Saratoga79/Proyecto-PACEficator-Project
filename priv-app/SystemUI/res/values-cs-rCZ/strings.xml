@@ -64,7 +64,7 @@ Používejte pouze dodávanou nabíječku."</string>
     <string name="usb_preference_title">USB file transfer options</string>
     <string name="use_mtp_button_title">Mount as a media player (MTP)</string>
     <string name="use_ptp_button_title">Mount as a camera (PTP)</string>
-    <string name="installer_cd_button_title">Install Android File Transfer app for Mac</string>
+    <string name="installer_cd_button_title">Instalovat aplikaci Android File Transfer pro Mac</string>
     <string name="accessibility_back">Zpět</string>
     <string name="accessibility_home">Domů</string>
     <string name="accessibility_menu">Menu</string>
@@ -222,7 +222,7 @@ Jejich opětovné zapnutí může vést k poplatkům od vašeho operátora."</st
     <string name="quick_settings_rotation_locked_label">Rotation locked</string>
     <string name="quick_settings_rotation_locked_portrait_label">Portrait</string>
     <string name="quick_settings_rotation_locked_landscape_label">Landscape</string>
-    <string name="quick_settings_ime_label">Input Method</string>
+    <string name="quick_settings_ime_label">Vstupní metoda</string>
     <string name="quick_settings_location_label">Poloha</string>
     <string name="quick_settings_location_off_label">Location Off</string>
     <string name="quick_settings_media_device_label">Media device</string>
@@ -245,7 +245,7 @@ Jejich opětovné zapnutí může vést k poplatkům od vašeho operátora."</st
     <string name="quick_settings_cast_detail_empty_text">No devices available</string>
     <string name="quick_settings_brightness_dialog_title">Jas</string>
     <string name="quick_settings_brightness_dialog_auto_brightness_label">AUTO</string>
-    <string name="quick_settings_inversion_label">Invert colors</string>
+    <string name="quick_settings_inversion_label">Převrátit barvy</string>
     <string name="quick_settings_color_space_label">Režim korekce barev</string>
     <string name="quick_settings_more_settings">More settings</string>
     <string name="quick_settings_done">Hotovo</string>
@@ -408,7 +408,7 @@ Také jste připojeni k síti VPN (\"%3$s\"). Poskytovatel služby VPN může ta
     <string name="screen_pinning_positive">Mám to</string>
     <string name="screen_pinning_negative">No thanks</string>
     <string name="quick_settings_reset_confirmation_title">Skrýt %1$s?</string>
-    <string name="quick_settings_reset_confirmation_message">It will reappear the next time you turn it on in settings.</string>
+    <string name="quick_settings_reset_confirmation_message">Při příštím zapnutí se znovu objeví v nastavení.</string>
     <string name="quick_settings_reset_confirmation_button">Skrýt</string>
     <string name="ok">@android:string/ok</string>
     <string name="widget_default_package_name"></string>
@@ -425,7 +425,7 @@ Také jste připojeni k síti VPN (\"%3$s\"). Poskytovatel služby VPN může ta
     <string name="keyguard_password_entry_touch_hint"><font size="17">Dotkněte se pro zadání hesla</font></string>
     <string name="keyguard_password_enter_password_code">Type password to unlock</string>
     <string name="keyguard_password_enter_pin_password_code">Type PIN to unlock</string>
-    <string name="keyguard_password_wrong_pin_code">Incorrect PIN code.</string>
+    <string name="keyguard_password_wrong_pin_code">Nesprávný PIN kód.</string>
     <string name="keyguard_label_text">To unlock, press Menu then 0.</string>
     <string name="faceunlock_multiple_failures">Maximum Face Unlock attempts exceeded</string>
     <string name="keyguard_charged">Nabito</string>
@@ -435,7 +435,7 @@ Také jste připojeni k síti VPN (\"%3$s\"). Poskytovatel služby VPN může ta
     <string name="keyguard_network_locked_message">Network locked</string>
     <string name="keyguard_missing_sim_message_short">No SIM card</string>
     <string name="keyguard_missing_sim_message">No SIM card in tablet.</string>
-    <string name="keyguard_missing_sim_instructions">Insert a SIM card.</string>
+    <string name="keyguard_missing_sim_instructions">Vložte SIM kartu.</string>
     <string name="keyguard_missing_sim_instructions_long">The SIM card is missing or not readable. Insert a SIM card.</string>
     <string name="keyguard_permanent_disabled_sim_message_short">Unusable SIM card.</string>
     <string name="keyguard_permanent_disabled_sim_instructions">"Vaše SIM karta byla natrvalo zablokována.
@@ -523,7 +523,7 @@ Také jste připojeni k síti VPN (\"%3$s\"). Poskytovatel služby VPN může ta
     <string name="kg_login_username_hint">Username (email)</string>
     <string name="kg_login_password_hint">Password</string>
     <string name="kg_login_submit_button">Sign in</string>
-    <string name="kg_login_invalid_input">Invalid username or password.</string>
+    <string name="kg_login_invalid_input">Nesprávné jméno nebo heslo.</string>
     <string name="kg_login_account_recovery_hint">\"Zapomněli jste uživatelské jméno nebo heslo?
 Návštivte \"<b>google.com/accounts/recovery</b>.</string>
     <string name="kg_login_checking_password">Kontrola účtu…</string>
@@ -546,7 +546,7 @@ Zkuste znovu za %d sekund."</string>
 
  Zkuste znovu za %d sekund."</string>
     <string name="kg_reordering_delete_drop_target_text">Remove</string>
-    <string name="kg_password_wrong_pin_code_pukked">Incorrect SIM PIN code you must now contact your carrier to unlock your device.</string>
+    <string name="kg_password_wrong_pin_code_pukked">Nesprávný PIN SIM karty, nyní musíte kontaktovat operátora pro odemknutí zařízení.</string>
     <string name="kg_password_wrong_puk_code_dead">SIM is unusable. Contact your carrier.</string>
     <string name="kg_password_pin_failed">SIM PIN operation failed!</string>
     <string name="kg_password_puk_failed">SIM PUK operation failed!</string>
