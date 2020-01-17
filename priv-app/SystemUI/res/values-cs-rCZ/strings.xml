@@ -10,7 +10,7 @@
     <string name="lland">L Land</string>
     <string name="app_label">System UI</string>
     <string name="status_bar_clear_all_button">Vyčistit</string>
-    <string name="status_bar_recent_remove_item_title">Remove from list</string>
+    <string name="status_bar_recent_remove_item_title">Odebrat ze seznamu</string>
     <string name="status_bar_recent_inspect_item_title">O aplikaci</string>
     <string name="status_bar_no_recent_apps">Your recent screens appear here</string>
     <string name="status_bar_accessibility_dismiss_recents">Zapomenout nedávné aplikace</string>
@@ -141,15 +141,15 @@ Používejte pouze dodávanou nabíječku."</string>
     <string name="accessibility_gps_enabled">GPS povoleno.</string>
     <string name="accessibility_gps_acquiring">Zaměřování GPS.</string>
     <string name="accessibility_tty_enabled">TeleTypewriter enabled.</string>
-    <string name="accessibility_ringer_vibrate">Ringer vibrate.</string>
-    <string name="accessibility_ringer_silent">Ringer silent.</string>
+    <string name="accessibility_ringer_vibrate">Vyzvánění vybracemi.</string>
+    <string name="accessibility_ringer_silent">Tiché vyzvánění.</string>
     <string name="accessibility_casting">@string/quick_settings_casting</string>
     <string name="accessibility_recents_item_will_be_dismissed">Zapomenout %s.</string>
     <string name="accessibility_recents_item_dismissed">%s zamítnut.</string>
     <string name="accessibility_recents_item_launched">Starting %s.</string>
     <string name="accessibility_notification_dismissed">Oznámení zamítnuto.</string>
     <string name="accessibility_desc_notification_shade">Stínování oznámení.</string>
-    <string name="accessibility_desc_quick_settings">Quick settings.</string>
+    <string name="accessibility_desc_quick_settings">Rychlá nastavení.</string>
     <string name="accessibility_desc_lock_screen">Zamykací obrazovka.</string>
     <string name="accessibility_desc_settings">Nastavení</string>
     <string name="accessibility_desc_recent_apps">Přehled.</string>
@@ -241,7 +241,7 @@ Jejich opětovné zapnutí může vést k poplatkům od vašeho operátora."</st
     <string name="quick_settings_cast_title">Přenášet obrazovku</string>
     <string name="quick_settings_casting">Vysílání</string>
     <string name="quick_settings_cast_device_default_name">Unnamed device</string>
-    <string name="quick_settings_cast_device_default_description">Ready to cast</string>
+    <string name="quick_settings_cast_device_default_description">Připraveno k vysílání</string>
     <string name="quick_settings_cast_detail_empty_text">Žádná zařízení nejsou k dispozici</string>
     <string name="quick_settings_brightness_dialog_title">Jas</string>
     <string name="quick_settings_brightness_dialog_auto_brightness_label">AUTO</string>
@@ -258,7 +258,7 @@ Jejich opětovné zapnutí může vést k poplatkům od vašeho operátora."</st
     <string name="quick_settings_flashlight_label">Svítilna</string>
     <string name="quick_settings_cellular_detail_title">Mobilní data</string>
     <string name="quick_settings_cellular_detail_data_usage">Využití dat</string>
-    <string name="quick_settings_cellular_detail_remaining_data">Remaining data</string>
+    <string name="quick_settings_cellular_detail_remaining_data">Zbývající data</string>
     <string name="quick_settings_cellular_detail_over_limit">Překročen limit</string>
     <string name="quick_settings_cellular_detail_data_used">%s použito</string>
     <string name="quick_settings_cellular_detail_data_limit">%s limit</string>
@@ -301,10 +301,10 @@ monitorována"</string>
     <string name="user_new_user_name">Nový uživatel</string>
     <string name="guest_nickname">Host</string>
     <string name="guest_new_guest">Přidat hosta</string>
-    <string name="guest_exit_guest">Remove guest</string>
-    <string name="guest_exit_guest_dialog_title">Remove guest?</string>
+    <string name="guest_exit_guest">Odebrat hosta</string>
+    <string name="guest_exit_guest_dialog_title">Odebrat hosta?</string>
     <string name="guest_exit_guest_dialog_message">Všechny aplikace a data v této relaci budou smazána.</string>
-    <string name="guest_exit_guest_dialog_remove">Remove</string>
+    <string name="guest_exit_guest_dialog_remove">Odstranit</string>
     <string name="guest_wipe_session_title">Welcome back, guest!</string>
     <string name="guest_wipe_session_message">Chcete pokračovat v relaci?</string>
     <string name="guest_wipe_session_wipe">Start over</string>
@@ -314,7 +314,7 @@ monitorována"</string>
 
 Každý uživatel může aktualizovat aplikace pro všechny ostatní uživatele."</string>
     <string name="battery_saver_notification_title">Spořič baterie je zapnutý</string>
-    <string name="battery_saver_notification_text">Reduces performance and background data</string>
+    <string name="battery_saver_notification_text">Sníží výkon a data na pozadí</string>
     <string name="battery_saver_notification_action_text">Turn off battery saver</string>
     <string name="notification_hidden_text">Skrytý obsah</string>
     <string name="media_projection_dialog_text">"%s začne zachycovat vše, co se zobrazí na vaší obrazovce."</string>
@@ -516,7 +516,7 @@ Také jste připojeni k síti VPN (\"%3$s\"). Poskytovatel služby VPN může ta
     <string name="kg_sim_unlock_progress_dialog_message">Unlocking SIM card…</string>
     <string name="kg_invalid_sim_pin_hint">Type a PIN that is 4 to 8 numbers.</string>
     <string name="kg_invalid_sim_puk_hint">Kód PUK by měl mít 8 nebo více čísel.</string>
-    <string name="kg_invalid_puk">Re-enter the correct PUK code. Repeated attempts will permanently disable the SIM.</string>
+    <string name="kg_invalid_puk">Znovu zadejte správný kód PUK. Opakované pokusy trvale poškodí SIM.</string>
     <string name="kg_invalid_confirm_pin_hint">PIN kódy se neshodují</string>
     <string name="kg_login_too_many_attempts">Too many pattern attempts</string>
     <string name="kg_login_instructions">To unlock, sign in with your Google account.</string>
@@ -545,7 +545,7 @@ Zkuste znovu za %d sekund."</string>
     <string name="kg_failed_attempts_almost_at_login" formatted="false">"Nesprávně jste %d krát nakreslili své gesto pro odemknutí. Po %d dalších neúspěšných pokusech budete požádáni o odemčení tabletu pomocí e-mailového účtu.
 
  Zkuste znovu za %d sekund."</string>
-    <string name="kg_reordering_delete_drop_target_text">Remove</string>
+    <string name="kg_reordering_delete_drop_target_text">Odstranit</string>
     <string name="kg_password_wrong_pin_code_pukked">Nesprávný PIN SIM karty, nyní musíte kontaktovat operátora pro odemknutí zařízení.</string>
     <string name="kg_password_wrong_puk_code_dead">SIM is unusable. Contact your carrier.</string>
     <string name="kg_password_pin_failed">SIM PIN operation failed!</string>
