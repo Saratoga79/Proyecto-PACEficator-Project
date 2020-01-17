@@ -14,9 +14,9 @@
     <string name="status_bar_recent_inspect_item_title">O aplikaci</string>
     <string name="status_bar_no_recent_apps">Your recent screens appear here</string>
     <string name="status_bar_accessibility_dismiss_recents">Zapomenout nedávné aplikace</string>
-    <string name="status_bar_no_notifications_title">No notifications</string>
+    <string name="status_bar_no_notifications_title">Žádná oznámení</string>
     <string name="status_bar_ongoing_events_title">Ongoing</string>
-    <string name="status_bar_latest_events_title">Notifications</string>
+    <string name="status_bar_latest_events_title">Oznámení</string>
     <string name="battery_low_title">Nízký stav baterie</string>
     <string name="battery_low_percent_format">Zbývá %s</string>
     <string name="battery_low_percent_format_saver_started">Zbývá %s. Spořič baterie je zapnutý.</string>
@@ -34,7 +34,7 @@ Používejte pouze dodávanou nabíječku."</string>
     <string name="status_bar_settings_auto_rotation">Automatické otočení obrazovky</string>
     <string name="status_bar_settings_mute_label">Ztlumit</string>
     <string name="status_bar_settings_auto_brightness_label">AUTO</string>
-    <string name="status_bar_settings_notifications">Notifications</string>
+    <string name="status_bar_settings_notifications">Oznámení</string>
     <string name="status_bar_network_name_separator">|</string>
     <string name="bluetooth_tethered">Bluetooth sdílen</string>
     <string name="status_bar_input_method_settings_configure_input_methods">Set up input methods</string>
@@ -43,7 +43,7 @@ Používejte pouze dodávanou nabíječku."</string>
     <string name="usb_accessory_permission_prompt">Povolit aplikaci %1$s přístup k USB příslušenství?</string>
     <string name="usb_device_confirm_prompt">Open %1$s when this USB device is connected?</string>
     <string name="usb_accessory_confirm_prompt">Open %1$s when this USB accessory is connected?</string>
-    <string name="usb_accessory_uri_prompt">No installed apps work with this USB accessory. Learn more about this accessory at %1$s</string>
+    <string name="usb_accessory_uri_prompt">Žádné nainstalované aplikace nefungují s tímto USB příslušenstvím. Více informací o tomto doplňku na %1$s</string>
     <string name="title_usb_accessory">USB accessory</string>
     <string name="label_view">View</string>
     <string name="always_use_device">Use by default for this USB device</string>
@@ -81,12 +81,12 @@ Používejte pouze dodávanou nabíječku."</string>
     <string name="accessibility_compatibility_zoom_example">Zoom smaller to larger screen.</string>
     <string name="accessibility_bluetooth_connected">Bluetooth připojeno.</string>
     <string name="accessibility_bluetooth_disconnected">Bluetooth odpojeno.</string>
-    <string name="accessibility_no_battery">No battery.</string>
+    <string name="accessibility_no_battery">Žádná baterie.</string>
     <string name="accessibility_battery_one_bar">Jedna čárka baterie.</string>
     <string name="accessibility_battery_two_bars">Dvě čárky baterie.</string>
     <string name="accessibility_battery_three_bars">Tři čárky baterie.</string>
     <string name="accessibility_battery_full">Baterie je plně nabita.</string>
-    <string name="accessibility_no_phone">No phone.</string>
+    <string name="accessibility_no_phone">Žádný telefon.</string>
     <string name="accessibility_phone_one_bar">Phone one bar.</string>
     <string name="accessibility_phone_two_bars">Phone two bars.</string>
     <string name="accessibility_phone_three_bars">Phone three bars.</string>
@@ -104,13 +104,13 @@ Používejte pouze dodávanou nabíječku."</string>
     <string name="accessibility_wifi_signal_full">Wifi signal full.</string>
     <string name="accessibility_wifi_name">Připojeno k %s.</string>
     <string name="accessibility_bluetooth_name">Připojeno k %s.</string>
-    <string name="accessibility_no_wimax">No WiMAX.</string>
+    <string name="accessibility_no_wimax">Žádný WiMAX.</string>
     <string name="accessibility_wimax_one_bar">WiMAX one bar.</string>
     <string name="accessibility_wimax_two_bars">WiMAX two bars.</string>
     <string name="accessibility_wimax_three_bars">WiMAX three bars.</string>
     <string name="accessibility_wimax_signal_full">WiMAX signal full.</string>
-    <string name="accessibility_no_signal">No signal.</string>
-    <string name="accessibility_not_connected">Not connected.</string>
+    <string name="accessibility_no_signal">Žádný signál.</string>
+    <string name="accessibility_not_connected">Nepřipojeno.</string>
     <string name="accessibility_zero_bars">Zero bars.</string>
     <string name="accessibility_one_bar">One bar.</string>
     <string name="accessibility_two_bars">Two bars.</string>
@@ -131,12 +131,12 @@ Používejte pouze dodávanou nabíječku."</string>
     <string name="accessibility_data_connection_roaming">Roaming</string>
     <string name="accessibility_data_connection_edge">Hrana</string>
     <string name="accessibility_data_connection_wifi">Wi-Fi</string>
-    <string name="accessibility_no_sim">No SIM.</string>
+    <string name="accessibility_no_sim">Žádná SIM.</string>
     <string name="accessibility_bluetooth_tether">Sdílení Bluetooth.</string>
     <string name="accessibility_airplane_mode">Režim letadlo.</string>
     <string name="accessibility_battery_level">Baterie %d procent.</string>
     <string name="accessibility_settings_button">System settings.</string>
-    <string name="accessibility_notifications_button">Notifications.</string>
+    <string name="accessibility_notifications_button">Oznámení.</string>
     <string name="accessibility_remove_notification">Vymazat oznámení.</string>
     <string name="accessibility_gps_enabled">GPS povoleno.</string>
     <string name="accessibility_gps_acquiring">Zaměřování GPS.</string>
@@ -147,8 +147,8 @@ Používejte pouze dodávanou nabíječku."</string>
     <string name="accessibility_recents_item_will_be_dismissed">Zapomenout %s.</string>
     <string name="accessibility_recents_item_dismissed">%s zamítnut.</string>
     <string name="accessibility_recents_item_launched">Starting %s.</string>
-    <string name="accessibility_notification_dismissed">Notification dismissed.</string>
-    <string name="accessibility_desc_notification_shade">Notification shade.</string>
+    <string name="accessibility_notification_dismissed">Oznámení zamítnuto.</string>
+    <string name="accessibility_desc_notification_shade">Stínování oznámení.</string>
     <string name="accessibility_desc_quick_settings">Quick settings.</string>
     <string name="accessibility_desc_lock_screen">Zamykací obrazovka.</string>
     <string name="accessibility_desc_settings">Nastavení</string>
@@ -195,13 +195,13 @@ Používejte pouze dodávanou nabíječku."</string>
 
 Jejich opětovné zapnutí může vést k poplatkům od vašeho operátora."</string>
     <string name="data_usage_disabled_dialog_enable">Turn on data</string>
-    <string name="status_bar_settings_signal_meter_disconnected">No Internet connection</string>
+    <string name="status_bar_settings_signal_meter_disconnected">Žádné připojení k Internetu</string>
     <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi connected</string>
     <string name="gps_notification_searching_text">Searching for GPS</string>
     <string name="gps_notification_found_text">Poloha nastavena pomocí GPS</string>
     <string name="accessibility_location_active">Aktivní žádosti o umístění</string>
     <string name="accessibility_clear_all">Vymazat všechna oznámení.</string>
-    <string name="status_bar_notification_inspect_item_title">Notification settings</string>
+    <string name="status_bar_notification_inspect_item_title">Nastavení oznámení</string>
     <string name="status_bar_notification_app_settings_title">Nastavení %s</string>
     <string name="accessibility_rotation_lock_off">Screen will rotate automatically.</string>
     <string name="accessibility_rotation_lock_on_landscape">Screen is locked in landscape orientation.</string>
@@ -216,7 +216,7 @@ Jejich opětovné zapnutí může vést k poplatkům od vašeho operátora."</st
     <string name="quick_settings_bluetooth_label">Bluetooth</string>
     <string name="quick_settings_bluetooth_multiple_devices_label">Bluetooth (%d zařízení)</string>
     <string name="quick_settings_bluetooth_off_label">Bluetooth VYP.</string>
-    <string name="quick_settings_bluetooth_detail_empty_text">No paired devices available</string>
+    <string name="quick_settings_bluetooth_detail_empty_text">Žádná spárovaná zařízení</string>
     <string name="quick_settings_brightness_label">Jas</string>
     <string name="quick_settings_rotation_unlocked_label">Automatické otáčení</string>
     <string name="quick_settings_rotation_locked_label">Rotation locked</string>
@@ -234,15 +234,15 @@ Jejich opětovné zapnutí může vést k poplatkům od vašeho operátora."</st
     <string name="quick_settings_user_title">User</string>
     <string name="quick_settings_user_new_user">Nový uživatel</string>
     <string name="quick_settings_wifi_label">Wi-Fi</string>
-    <string name="quick_settings_wifi_not_connected">Not Connected</string>
-    <string name="quick_settings_wifi_no_network">No Network</string>
+    <string name="quick_settings_wifi_not_connected">Nepřipojeno</string>
+    <string name="quick_settings_wifi_no_network">Žádná síť</string>
     <string name="quick_settings_wifi_off_label">Wi-Fi Off</string>
-    <string name="quick_settings_wifi_detail_empty_text">No saved networks available</string>
+    <string name="quick_settings_wifi_detail_empty_text">Žádné uložené sítě k dispozici</string>
     <string name="quick_settings_cast_title">Přenášet obrazovku</string>
     <string name="quick_settings_casting">Vysílání</string>
     <string name="quick_settings_cast_device_default_name">Unnamed device</string>
     <string name="quick_settings_cast_device_default_description">Ready to cast</string>
-    <string name="quick_settings_cast_detail_empty_text">No devices available</string>
+    <string name="quick_settings_cast_detail_empty_text">Žádná zařízení nejsou k dispozici</string>
     <string name="quick_settings_brightness_dialog_title">Jas</string>
     <string name="quick_settings_brightness_dialog_auto_brightness_label">AUTO</string>
     <string name="quick_settings_inversion_label">Převrátit barvy</string>
@@ -254,7 +254,7 @@ Jejich opětovné zapnutí může vést k poplatkům od vašeho operátora."</st
     <string name="quick_settings_connecting">Připojování...</string>
     <string name="quick_settings_tethering_label">Tethering</string>
     <string name="quick_settings_hotspot_label">Hotspot</string>
-    <string name="quick_settings_notifications_label">Notifications</string>
+    <string name="quick_settings_notifications_label">Oznámení</string>
     <string name="quick_settings_flashlight_label">Svítilna</string>
     <string name="quick_settings_cellular_detail_title">Mobilní data</string>
     <string name="quick_settings_cellular_detail_data_usage">Využití dat</string>
@@ -271,15 +271,15 @@ Jejich opětovné zapnutí může vést k poplatkům od vašeho operátora."</st
     <string name="expanded_header_battery_charged">Nabito</string>
     <string name="expanded_header_battery_charging">Nabíjení</string>
     <string name="expanded_header_battery_charging_with_time">%s do plného</string>
-    <string name="expanded_header_battery_not_charging">Not charging</string>
+    <string name="expanded_header_battery_not_charging">Nenabíjí se</string>
     <string name="battery_meter_very_low_overlay_symbol">!</string>
     <string name="ssl_ca_cert_warning">"Síť může být
 monitorována"</string>
     <string name="description_target_search">Search</string>
     <string name="description_direction_up">Slide up for %s.</string>
     <string name="description_direction_left">Slide left for %s.</string>
-    <string name="zen_no_interruptions_with_warning">No interruptions. Not even alarms.</string>
-    <string name="zen_no_interruptions">No interruptions</string>
+    <string name="zen_no_interruptions_with_warning">Žádné vyrušení, ani budíky.</string>
+    <string name="zen_no_interruptions">Žádné přerušení</string>
     <string name="zen_important_interruptions">Priority interruptions only</string>
     <string name="zen_alarm_information_time">Your next alarm is at %s</string>
     <string name="zen_alarm_information_day_time">Your next alarm is %s</string>
@@ -321,7 +321,7 @@ Každý uživatel může aktualizovat aplikace pro všechny ostatní uživatele.
     <string name="media_projection_remember_text">"Znovu nezobrazovat"</string>
     <string name="clear_all_notifications_text">Vyčistit vše</string>
     <string name="media_projection_action_text">Start now</string>
-    <string name="empty_shade_text">No notifications</string>
+    <string name="empty_shade_text">Žádná oznámení</string>
     <string name="device_owned_footer">Zařízení může být sledováno</string>
     <string name="profile_owned_footer">Profile may be monitored</string>
     <string name="vpn_footer">Síť může být sledována</string>
@@ -399,14 +399,14 @@ Také jste připojeni k síti VPN (\"%3$s\"). Poskytovatel služby VPN může ta
     <string name="keyguard_indication_trust_disabled">Zařízení zůstane uzamčeno, dokud je ručně neodemknete</string>
     <string name="hidden_notifications_title">Získat oznámení rychleji</string>
     <string name="hidden_notifications_text">See them before you unlock</string>
-    <string name="hidden_notifications_cancel">No thanks</string>
+    <string name="hidden_notifications_cancel">Ne, děkuji</string>
     <string name="hidden_notifications_setup">Set up</string>
     <string name="zen_mode_and_condition">%1$s. %2$s</string>
     <string name="screen_pinning_title">Screen is pinned</string>
     <string name="screen_pinning_description">This keeps it in view until you unpin. Touch and hold Back and Overview at the same time to unpin.</string>
     <string name="screen_pinning_description_accessible">This keeps it in view until you unpin. Touch and hold Overview to unpin.</string>
     <string name="screen_pinning_positive">Mám to</string>
-    <string name="screen_pinning_negative">No thanks</string>
+    <string name="screen_pinning_negative">Ne, děkuji</string>
     <string name="quick_settings_reset_confirmation_title">Skrýt %1$s?</string>
     <string name="quick_settings_reset_confirmation_message">Při příštím zapnutí se znovu objeví v nastavení.</string>
     <string name="quick_settings_reset_confirmation_button">Skrýt</string>
@@ -433,8 +433,8 @@ Také jste připojeni k síti VPN (\"%3$s\"). Poskytovatel služby VPN může ta
     <string name="keyguard_low_battery">Připojte vaši nabíječku.</string>
     <string name="keyguard_instructions_when_pattern_disabled">Press Menu to unlock.</string>
     <string name="keyguard_network_locked_message">Síť uzamčena</string>
-    <string name="keyguard_missing_sim_message_short">No SIM card</string>
-    <string name="keyguard_missing_sim_message">No SIM card in tablet.</string>
+    <string name="keyguard_missing_sim_message_short">Žádná SIM karta</string>
+    <string name="keyguard_missing_sim_message">V tabletu není SIM karta.</string>
     <string name="keyguard_missing_sim_instructions">Vložte SIM kartu.</string>
     <string name="keyguard_missing_sim_instructions_long">The SIM card is missing or not readable. Insert a SIM card.</string>
     <string name="keyguard_permanent_disabled_sim_message_short">Unusable SIM card.</string>
@@ -556,5 +556,5 @@ Zkuste znovu za %d sekund."</string>
     <string name="keyguard_transport_pause_description">Pause button</string>
     <string name="keyguard_transport_play_description">Play button</string>
     <string name="keyguard_transport_stop_description">Stop button</string>
-    <string name="keyguard_carrier_default">No service.</string>
+    <string name="keyguard_carrier_default">Žádná služba.</string>
 </resources>
