@@ -146,7 +146,7 @@ Používejte pouze dodávanou nabíječku."</string>
     <string name="accessibility_casting">@string/quick_settings_casting</string>
     <string name="accessibility_recents_item_will_be_dismissed">Zapomenout %s.</string>
     <string name="accessibility_recents_item_dismissed">%s zamítnut.</string>
-    <string name="accessibility_recents_item_launched">Starting %s.</string>
+    <string name="accessibility_recents_item_launched">Spuštění %s.</string>
     <string name="accessibility_notification_dismissed">Oznámení zamítnuto.</string>
     <string name="accessibility_desc_notification_shade">Stínování oznámení.</string>
     <string name="accessibility_desc_quick_settings">Rychlá nastavení.</string>
@@ -307,7 +307,7 @@ monitorována"</string>
     <string name="guest_exit_guest_dialog_remove">Odstranit</string>
     <string name="guest_wipe_session_title">Welcome back, guest!</string>
     <string name="guest_wipe_session_message">Chcete pokračovat v relaci?</string>
-    <string name="guest_wipe_session_wipe">Start over</string>
+    <string name="guest_wipe_session_wipe">Začit znovu</string>
     <string name="guest_wipe_session_dontwipe">Yes, continue</string>
     <string name="user_add_user_title">Přidat nového uživatele?</string>
     <string name="user_add_user_message_short">"Když přidáte nového uživatele, musí tato osoba nastavit svůj prostor.
@@ -320,7 +320,7 @@ Každý uživatel může aktualizovat aplikace pro všechny ostatní uživatele.
     <string name="media_projection_dialog_text">"%s začne zachycovat vše, co se zobrazí na vaší obrazovce."</string>
     <string name="media_projection_remember_text">"Znovu nezobrazovat"</string>
     <string name="clear_all_notifications_text">Vyčistit vše</string>
-    <string name="media_projection_action_text">Start now</string>
+    <string name="media_projection_action_text">Začít nyní</string>
     <string name="empty_shade_text">Žádná oznámení</string>
     <string name="device_owned_footer">Zařízení může být sledováno</string>
     <string name="profile_owned_footer">Profil může být sledován</string>
@@ -472,7 +472,7 @@ Také jste připojeni k síti VPN (\"%3$s\"). Poskytovatel služby VPN může ta
     <string name="keyguard_accessibility_transport_next_description">Tlačítko další skladba</string>
     <string name="keyguard_accessibility_transport_pause_description">Tlačítko pozastavení</string>
     <string name="keyguard_accessibility_transport_play_description">Tlačítko Přehrát</string>
-    <string name="keyguard_accessibility_transport_stop_description">Stop button</string>
+    <string name="keyguard_accessibility_transport_stop_description">Tlačítko stop</string>
     <string name="keyguard_accessibility_transport_thumbs_up_description">Thumbs up</string>
     <string name="keyguard_accessibility_transport_thumbs_down_description">Thumbs down</string>
     <string name="keyguard_accessibility_transport_heart_description">Srdce</string>
@@ -494,7 +494,7 @@ Také jste připojeni k síti VPN (\"%3$s\"). Poskytovatel služby VPN může ta
     <string name="description_target_unlock">Unlock</string>
     <string name="description_target_camera">Fotoaparát</string>
     <string name="description_target_silent">Tichý</string>
-    <string name="description_target_soundon">Sound on</string>
+    <string name="description_target_soundon">Zapnout zvuk</string>
     <string name="description_direction_down">Posuňte dolů pro %s.</string>
     <string name="description_direction_right">Posuňte vpravo pro %s.</string>
     <string name="user_switched">Aktuální uživatel %1$s.</string>
@@ -555,6 +555,6 @@ Zkuste znovu za %d sekund."</string>
     <string name="keyguard_transport_next_description">Tlačítko další skladba</string>
     <string name="keyguard_transport_pause_description">Tlačítko pozastavení</string>
     <string name="keyguard_transport_play_description">Tlačítko Přehrát</string>
-    <string name="keyguard_transport_stop_description">Stop button</string>
+    <string name="keyguard_transport_stop_description">Tlačítko stop</string>
     <string name="keyguard_carrier_default">Žádná služba.</string>
 </resources>
