@@ -40,14 +40,14 @@
     <string name="quick_settings_switch_on">Turn on</string>
     <string name="quick_settings_switch_off">Turn off</string>
     <string name="quick_settings_toast_on">On</string>
-    <string name="quick_settings_toast_off">Vypnuto</string>
-    <string name="quick_settings_status">Not connected</string>
+    <string name="quick_settings_toast_off">Vyp.</string>
+    <string name="quick_settings_status">Nepřipojeno</string>
     <string name="quick_settings_no_disturb_toast">"You'll no longer receive notifications."</string>
     <string name="quick_settings_auto_light_toast">Udržování zapnuté obrazovky snižuje životnost baterie.</string>
     <string name="quick_settings_status_month">Měsíc</string>
     <string name="quick_settings_status_day">Den </string>
     <string name="quick_settings_connected">Připojeno</string>
-    <string name="quick_settings_disconnect">Not connected</string>
+    <string name="quick_settings_disconnect">Nepřipojeno</string>
     <string name="quick_settings_unbound">Pair device first</string>
     <string name="quick_settings_date_chinese">dd/MM/rrrr</string>
     <string name="quick_settings_date_format">31/1/1900</string>
@@ -56,7 +56,7 @@
 Nelze přijímat oznámení.\"</string>
     <string name="quick_settings_battery_charging_full">Plně nabito</string>
     <string name="quick_settings_battery_is_charging">Nabíjení</string>
-    <string name="quick_settings_battery_hasnot_charged">No charging history</string>
+    <string name="quick_settings_battery_hasnot_charged">Žádná historie nabíjení</string>
     <string name="quick_settings_battery_charging_intervalDay">Naposledy nabito před %1$dd %2$dh</string>
     <string name="quick_settings_battery_charging_intervalDay_lessHour">"Poslední nabíjení před
 %dd"</string>
@@ -98,7 +98,7 @@ před méně než 1 hodinou“</string>
     <string name="data_checkfail_temp">Weather temperature out of range</string>
     <string name="data_checkfail_type">Weather type not recognized</string>
     <string name="wathc_disconnection_content">Odpojeno od telefonu</string>
-    <string name="wathc_disconnection_title">Not connected</string>
+    <string name="wathc_disconnection_title">Nepřipojeno</string>
     <string name="notification_block">Blokovat</string>
     <string name="notification_block_cancel">Zrušit</string>
     <string name="notification_block_message">Blokovat oznámení z této aplikace</string>
@@ -106,7 +106,7 @@ před méně než 1 hodinou“</string>
     <string name="notification_more_settings">Další nastavení</string>
     <string name="notification_time_just">Právě teď</string>
     <string name="notification_time_yesterday">Včera</string>
-    <string name="notificaton_empty_message">No notifications</string>
+    <string name="notificaton_empty_message">Žádná oznámení</string>
     <string name="music_control">Ovládání hudby</string>
     <string name="music_control_content">You can control the audio playback on your phone. These playback controls can be found by swiping right on the watch face.</string>
     <string name="music_title">Unknown song</string>
@@ -116,7 +116,7 @@ před méně než 1 hodinou“</string>
     <string name="music_bulethooth_disconnect">Kontrola připojení Bluetooth…</string>
     <string name="music_peek_content">"You're playing music in %s on your phone. You can control playback in the Notification shade on your watch."</string>
     <string name="alone_before_open">Naposledy otevřeno</string>
-    <string name="notification_title_default">Notification</string>
+    <string name="notification_title_default">Oznámení</string>
     <string name="music">Hudba</string>
     <string name="launcher_app_name">Spouštěč</string>
     <string name="hm_watch_sports_notification_km">Kilometry</string>
@@ -195,7 +195,7 @@ před méně než 1 hodinou“</string>
     <string name="air_heavily_polluted">Silné znečištění</string>
     <string name="air_severely_polluted">Severe pollution</string>
     <string name="no_outdoor_info">Žádná data</string>
-    <string name="outdoor_info_notsuit">Not suitable for sports</string>
+    <string name="outdoor_info_notsuit">Nevhodné pro sport</string>
     <string name="outdoor_info_suit">Suitable for sports</string>
     <string name="wind_strength">Wind force</string>
     <string name="moisture">Vlhkost</string>
@@ -252,12 +252,12 @@ před méně než 1 hodinou“</string>
     <string name="sport_change_time">Transition time</string>
     <string name="please_get_ready_for_runnning">Další: běh</string>
     <string name="please_get_ready_for_riding">Další: cyklistika</string>
-    <string name="please_get_ready_for_swimming">Další: Plavání</string>
+    <string name="please_get_ready_for_swimming">Další: plavání</string>
     <string name="gps_ready">GPS je dostupné</string>
     <string name="gps_wait">Waiting for GPS…</string>
     <string name="gps_fail">"Nelze nastavit polohu pomocí GPS"</string>
     <string name="gps_singal_lost">"GPS signál není k dispozici"</string>
-    <string name="gps_close_1">No movement for a long time,</string>
+    <string name="gps_close_1">Žádný pohyb po dlouhou dobu,</string>
     <string name="gps_close_2">GPS byla vypnuta.</string>
     <string name="heartrate">Tepová frekvence</string>
     <string name="warmup">Warm Up</string>
@@ -326,7 +326,7 @@ před méně než 1 hodinou“</string>
     <string name="group_rowing_freq">Frekvence</string>
     <string name="group_rowing_count">Krát</string>
     <string name="picker_default_positive_text">OK</string>
-    <string name="picker_default_nagetive_text">Vypnuto</string>
+    <string name="picker_default_nagetive_text">Vyp.</string>
     <string name="no_heartrate_data_hint">"Údaje o srdečním tepu nebyly zjištěny"</string>
     <string name="no_altitude_hint">"Údaje o nadmořské výšce nebyly zjištěny"</string>
     <string name="title_settings">Nastavení</string>
