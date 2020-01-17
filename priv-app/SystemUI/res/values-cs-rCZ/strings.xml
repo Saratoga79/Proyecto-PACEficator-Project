@@ -177,10 +177,10 @@ Používejte pouze dodávanou nabíječku."</string>
     <string name="accessibility_quick_settings_close">Zavřít panel.</string>
     <string name="accessibility_quick_settings_more_time">More time.</string>
     <string name="accessibility_quick_settings_less_time">Less time.</string>
-    <string name="accessibility_quick_settings_flashlight_off">Flashlight off.</string>
-    <string name="accessibility_quick_settings_flashlight_on">Flashlight on.</string>
-    <string name="accessibility_quick_settings_flashlight_changed_off">Flashlight turned off.</string>
-    <string name="accessibility_quick_settings_flashlight_changed_on">Flashlight turned on.</string>
+    <string name="accessibility_quick_settings_flashlight_off">Svítilna vyp.</string>
+    <string name="accessibility_quick_settings_flashlight_on">Svítilna zap.</string>
+    <string name="accessibility_quick_settings_flashlight_changed_off">Svítilna je vypnutá.</string>
+    <string name="accessibility_quick_settings_flashlight_changed_on">Svítilna je zapnutá.</string>
     <string name="accessibility_quick_settings_color_inversion_changed_off">Převrácení barev vypnuto.</string>
     <string name="accessibility_quick_settings_color_inversion_changed_on">Převrácení barev zapnuto.</string>
     <string name="accessibility_quick_settings_hotspot_changed_off">Mobile hotspot turned off.</string>
@@ -255,7 +255,7 @@ Jejich opětovné zapnutí může vést k poplatkům od vašeho operátora."</st
     <string name="quick_settings_tethering_label">Tethering</string>
     <string name="quick_settings_hotspot_label">Hotspot</string>
     <string name="quick_settings_notifications_label">Notifications</string>
-    <string name="quick_settings_flashlight_label">Flashlight</string>
+    <string name="quick_settings_flashlight_label">Svítilna</string>
     <string name="quick_settings_cellular_detail_title">Mobilní data</string>
     <string name="quick_settings_cellular_detail_data_usage">Využití dat</string>
     <string name="quick_settings_cellular_detail_remaining_data">Remaining data</string>
@@ -499,7 +499,7 @@ Také jste připojeni k síti VPN (\"%3$s\"). Poskytovatel služby VPN může ta
     <string name="description_direction_right">Slide right for %s.</string>
     <string name="user_switched">Aktuální uživatel %1$s.</string>
     <string name="kg_emergency_call_label">Tísňové volání</string>
-    <string name="kg_forgot_pattern_button_text">Forgot Pattern</string>
+    <string name="kg_forgot_pattern_button_text">Zapomenutý vzor</string>
     <string name="kg_wrong_pattern">Wrong Pattern</string>
     <string name="kg_wrong_password">Wrong Password</string>
     <string name="kg_wrong_pin">Wrong PIN</string>
