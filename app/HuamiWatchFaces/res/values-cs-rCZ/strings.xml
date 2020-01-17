@@ -45,7 +45,7 @@
     <string name="quick_settings_date_yeareve">"Čínský Nový rok"</string>
     <string name="quick_settings_status_month">Měsíc</string>
     <string name="quick_settings_status_leaf">Mezikalednář</string>
-    <string name="quick_settings_date_chinese">dd/MM/yyyy</string>
+    <string name="quick_settings_date_chinese">dd/MM/rrrr</string>
     <string name="quick_settings_date_format">31/1/1900</string>
     <string name="custom_data_widget_date_3">datawidget/date_3/en/week_%d.png</string>
     <string name="watch_label_nineteen">Super Avante</string>
@@ -60,7 +60,7 @@
     <string name="need_rest_by_keypress1"></string>
     <string name="need_rest_by_keypress2"></string>
     <string name="zone_risk1">Beyond the heart</string>
-    <string name="zone_risk2">Rychlostní limit</string>
+    <string name="zone_risk2">limit frekvence</string>
     <string name="sport_auto_pause_end1">Zastavili jste</string>
     <string name="sport_auto_pause_end2">Uložit data?</string>
     <string name="sport_auto_pause_end3"></string>
@@ -101,7 +101,7 @@
     <string name="running">Běh</string>
     <string name="waking">Chůze</string>
     <string name="indoor_running">Běžecký pás</string>
-    <string name="outdoor_riding">Terénní cyklistika</string>
+    <string name="outdoor_riding">Venkovní cyklistika</string>
     <string name="indoor_riding">Sálová cyklistika</string>
     <string name="cross_contry">Terénní běh</string>
     <string name="eppitical">Eliptický trenažér</string>
@@ -120,7 +120,7 @@
     <string name="on_foot">Pěšky</string>
     <string name="indoor_fitness">Sálový fitness</string>
     <string name="row_machine">Veslovací stroj</string>
-    <string name="indoor_walking">Sálová cyklistika</string>
+    <string name="indoor_walking">Sálová chůze</string>
     <string name="mountain_biking">Horské kolo</string>
     <string name="cycling_bmx">BMX</string>
     <string name="high_intensity_interval_training">Trénink s vysokou intenzitou</string>
@@ -138,7 +138,7 @@
     <string name="free_training">Volný trénink</string>
     <string name="curling">Curling</string>
     <string name="snowboarding">Snowboard</string>
-    <string name="alpine_skiing">Alpské lyžování</string>
+    <string name="alpine_skiing">Sjezdové lyžování</string>
     <string name="outdoor_skating">Venkovní bruslení</string>
     <string name="indoor_skating">Sálové bruslení</string>
     <string name="cross_country_skiing">Běh na lyžích</string>
@@ -148,7 +148,7 @@
     <string name="sailing">Plachtění</string>
     <string name="rowing">Lodě</string>
     <string name="skate">Skateboard</string>
-    <string name="paddle_surfing">Paddle surfing</string>
+    <string name="paddle_surfing">Paddleboarding</string>
     <string name="roller_skating">Kolečkové brusle</string>
     <string name="rock_climbing">Skálolezectví</string>
     <string name="ballet">Balet</string>
@@ -183,7 +183,7 @@
     <string name="thai_boxing">Thajský box</string>
     <string name="taekwondo">Taekwondo</string>
     <string name="a_martial_art">Bojová umění</string>
-    <string name="free_fight">Volný sparring</string>
+    <string name="free_fight">Kickbox</string>
     <string name="double_ski">Snowboard</string>
     <string name="sport_total_time">Celkový čas</string>
     <string name="current_altitude">Nadmořská výška</string>
@@ -203,9 +203,9 @@
     <string name="sport_row_total_count">Celkem záběrů</string>
     <string name="sport_change">Přechod</string>
     <string name="sport_change_time">Čas přechodu</string>
-    <string name="please_get_ready_for_runnning">Další: Běh</string>
+    <string name="please_get_ready_for_runnning">Další: běh</string>
     <string name="please_get_ready_for_riding">Další: cyklistika</string>
-    <string name="please_get_ready_for_swimming">Další: Plavání</string>
+    <string name="please_get_ready_for_swimming">Další: plavání</string>
     <string name="gps_ready">GPS je dostupné</string>
     <string name="gps_wait">Čekání na GPS…</string>
     <string name="gps_fail">"Nelze určit polohu pomocí GPS"</string>
@@ -247,11 +247,11 @@
     <string name="altitude">Nadmořská výška</string>
     <string name="longitude_and_latitude">Zem. šířka/délka</string>
     <string name="press_key_finish_train">Stiskněte ZPĚT pro dokončení</string>
-    <string name="press_up_key_wake_up">Pro odemknutí stiskněte tlačítko Up</string>
+    <string name="press_up_key_wake_up">Pro odemknutí stiskněte tlačítko Nahoru</string>
     <string name="need_run_kilometer">Interval vzdálenosti:</string>
     <string name="need_run_time">Časový interval:</string>
     <string name="need_rest_time">Potřeba</string>
-    <string name="need_rest_by_keypress">Stiskněte ZPĚT pro dokončení</string>
+    <string name="need_rest_by_keypress">Stiskněte ZPĚT pro pokračování</string>
     <string name="low_battery_protect">Ochrana nízkého stavu baterie</string>
     <string name="low_battery_tips">Nízký stav baterie</string>
     <string name="low_battery_please_charging">Nabijte hodinky.</string>
@@ -280,7 +280,7 @@
     <string name="group_rowing_freq">Frekvence</string>
     <string name="group_rowing_count">Krát</string>
     <string name="picker_default_positive_text">OK</string>
-    <string name="picker_default_nagetive_text">Vypnuto</string>
+    <string name="picker_default_nagetive_text">Vyp.</string>
     <string name="no_heartrate_data_hint">"Údaje o srdečním tepu nebyly zjištěny"</string>
     <string name="no_altitude_hint">"Údaje o nadmořské výšce nebyly zjištěny"</string>
     <string name="title_settings">Nastavení</string>

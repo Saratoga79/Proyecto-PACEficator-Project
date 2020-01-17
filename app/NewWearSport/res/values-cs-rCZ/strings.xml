@@ -14,7 +14,7 @@
     <string name="crossing_title">Terénní běh</string>
     <string name="crossing_end_sport">Nejdříve ukončit terénní běh</string>
     <string name="crossing_in_progress">Terénní běh…</string>
-    <string name="crossing_max_step_freq_desc">Maximální kadence</string>
+    <string name="crossing_max_step_freq_desc">Max. kadence</string>
     <string name="crossing_climb_up">Dosaž. vzdálenost</string>
     <string name="crossing_climb_down">Naklesáno</string>
     <string name="crossing_individual_pen_dis">Vzdálenost jednoho okruhu</string>
@@ -28,7 +28,7 @@
     <string name="crossing_history_detail_ave_move_pace_unit">/km</string>
     <string name="crossing_history_detail_best_pace">Nejlepší tempo</string>
     <string name="crossing_history_detail_ave_move_speed">Prům. rychlost</string>
-    <string name="crossing_history_detail_max_speed">Maximální rychlost</string>
+    <string name="crossing_history_detail_max_speed">Max. rychlost</string>
     <string name="crossing_history_detail_climb_up">Nastoupáno</string>
     <string name="crossing_history_detail_climb_down">Naklesáno</string>
     <string name="crossing_history_detail_absolute_altitude">Nadmořská výška</string>
@@ -80,10 +80,10 @@
     <string name="gps_search_failed_title">"GPS není dostupné"</string>
     <string name="gps_search_failed_content">GPS lokalizace se nezdařila. Zkuste to prosím znovu v otevřeném prostoru.</string>
     <string name="gps_search_success_title">GPS je připravena</string>
-    <string name="gps_search_success_content">GPS je k dispozici, nyní můžete spustit trénink.</string>
+    <string name="gps_search_success_content">GPS dostupné, nyní můžete spustit trénink.</string>
     <string name="gps_search_timeout_title">Platnost GPS vypršela</string>
     <string name="gps_search_timeout_content">AGPS vypršela. Vyhledávání GPS bude pomalé. Připojte se k aplikaci Amazfit pro její aktualizaci.</string>
-    <string name="gps_notify_success">GPS je dostupné</string>
+    <string name="gps_notify_success">GPS dostupné</string>
     <string name="gps_notify_loss">Ztracený signál GPS</string>
     <string name="gps_search_time_out_content">GPS bylo vypnuto z důvodu neaktivity.</string>
     <string name="detail_route_title">Trasa</string>
@@ -144,15 +144,15 @@
     <string name="settings_sport_swim_title">Velikost bazénu (m)</string>
     <string name="settings_sport_swim_tips">Hodinky počítají bazény v závislosti na velikosti</string>
     <string name="settings_sport_measure_heart">PPG zapnuto/vypnuto</string>
-    <string name="settings_sport_rt_guide">Navádění</string>
-    <string name="settings_sport_auto_pace_title">Pauza tempem</string>
-    <string name="settings_sport_auto_speed_title">Pauza rychlostí</string>
+    <string name="settings_sport_rt_guide">Vedení</string>
+    <string name="settings_sport_auto_pace_title">Pauza při tempu</string>
+    <string name="settings_sport_auto_speed_title">Pauza při rychlosti</string>
     <string name="settings_content_stand_still">Stát v klidu</string>
     <string name="settings_sport_bg_type">Barva pozadí</string>
     <string name="settings_sport_bg_type_normal">Černá</string>
     <string name="settings_sport_bg_type_white">Bílá</string>
     <string name="setting_on">Zap.</string>
-    <string name="setting_off">Vypnuto</string>
+    <string name="setting_off">Vyp.</string>
     <string name="settings_item_title_target_calorie_remind">Kalorický cíl</string>
     <string name="settings_item_value_target_calorie">%1$d kcal</string>
     <string name="settings_item_value_swim_length">%1$s m</string>
@@ -224,7 +224,7 @@ začněte nyní."</string>
     <string name="sport_confirm_stop_sport">Ano</string>
     <string name="sport_confirm_not_stop_sport">Ne</string>
     <string name="sport_main_am">dop.</string>
-    <string name="sport_main_pm">Odp.</string>
+    <string name="sport_main_pm">odp.</string>
     <string name="sport_main_recovery_title">Doporučená doba na zotavení</string>
     <string name="sport_history_full_recovery">Doba na zotavení</string>
     <string name="sport_main_avg_stride">Prům. krok</string>
@@ -232,8 +232,8 @@ začněte nyní."</string>
     <string name="sport_main_total_kcal">Celkem kalorií</string>
     <string name="sport_main_avg_stride_unit">cm/krok</string>
     <string name="sport_main_avg_heart_rate">Prům. tepová frekvence</string>
-    <string name="sport_main_max_heart_rate">Maximální tepová frekvence</string>
-    <string name="sport_main_min_heart_rate">Minimální tepová frekvence</string>
+    <string name="sport_main_max_heart_rate">Max. tepová frekvence</string>
+    <string name="sport_main_min_heart_rate">Min. tepová frekvence</string>
     <string name="sport_main_graph_title">Poslední (min)</string>
     <string name="exchange_time_cost">Čas přechodu</string>
     <string name="exchange_in_progress">V přechodu</string>
@@ -247,7 +247,7 @@ začněte nyní."</string>
     <string name="sport_auto_lap_dis_imperial">Čas pro %1$s mi</string>
     <string name="sport_graph_title_ave">Průměr</string>
     <string name="sport_graph_title_max">Max</string>
-    <string name="sport_graph_title_min">Min</string>
+    <string name="sport_graph_title_min">Min.</string>
     <string name="sport_graph_title_fast">Nejrychlejší</string>
     <string name="sport_graph_title_high">Nejvyšší</string>
     <string name="sport_graph_title_low">Nejnižší</string>
@@ -262,14 +262,14 @@ začněte nyní."</string>
     <string name="hill_default_percent">%1$d%%</string>
     <string name="sport_result_in_progress">Ukládání dat…</string>
     <string name="sport_result_invalid">Zastavování aktivity…</string>
-    <string name="sport_gps_found_success_tips">GPS je dostupné</string>
+    <string name="sport_gps_found_success_tips">GPS dostupné</string>
     <string name="sport_history_recovery">Obnovit</string>
     <string name="sport_remind_pace_unit">/km</string>
     <string name="sport_lap_manual_current">Aktuální</string>
     <string name="sport_lap_swim_length_time">Čas použitý na %1$s m</string>
     <string name="sport_lap_swim_length_time_imperial">Čas použitý pro %1$s yd</string>
     <string name="sport_swim_style">Typ úderu</string>
-    <string name="sport_swim_style_main">Hlavní typ úderu</string>
+    <string name="sport_swim_style_main">Typ hlavního úderu</string>
     <string name="swim_free_style">Volný způsob</string>
     <string name="swim_medlyrelay">Smíšený</string>
     <string name="swim_breaststroke">Prsa</string>
@@ -293,13 +293,13 @@ začněte nyní."</string>
     <string name="sport_dlg_msg_hint_cancel">"Zrušit tento export?
 "</string>
     <string name="exchange_prepare_riding">Další: cyklistika</string>
-    <string name="exchange_prepare_running">Další spuštění</string>
+    <string name="exchange_prepare_running">Další: běh</string>
     <string name="count_down_swim_tint">Aby se zabránilo náhodnému dotyku, obrazovka bude uzamčena.</string>
     <string name="sport_widget_title_history_record">Aktivity</string>
     <string name="sport_widget_title_elliptical">Eliptický trenažér</string>
     <string name="sport_widget_title_rowing_machine">Veslař</string>
     <string name="sport_widget_title_rowing_machineing">Veslování</string>
-    <string name="sport_widget_title_indoor_swim">Plavání ve bazénu</string>
+    <string name="sport_widget_title_indoor_swim">Plavání v bazénu</string>
     <string name="sport_widget_title_open_water_swim">Plavání na otevřené vodě</string>
     <string name="sport_widget_title_triathlon">Triatlon</string>
     <string name="sport_widget_title_mountaineer">Stoupat</string>
@@ -315,7 +315,7 @@ začněte nyní."</string>
     <string name="sport_child_riding">Cyklistika</string>
     <string name="sport_child_running">Běh</string>
     <string name="sport_month_settings">Nastavení</string>
-    <string name="sport_month_target">Cíl měsíční aktivity</string>
+    <string name="sport_month_target">Měsíční cíl aktivity</string>
     <string name="sport_month_sport_title">Vybrat aktivitu</string>
     <string name="start_mix_sport">Zahájit multisport aktivitu</string>
     <string name="start_single_sport">Zahájit jednotlivou aktivitu</string>
@@ -377,8 +377,8 @@ začněte nyní."</string>
     <string name="data_item_train_total_times">Celkový čas</string>
     <string name="data_item_surplus_distance">Zbývající vzdálenost</string>
     <string name="data_item_surplus_time">Zbývající čas</string>
-    <string name="data_item_surplus_rest">Zbývá</string>
-    <string name="click_finsh_this_train_unit_rest">Stiskněte ZPĚT pro dokončení</string>
+    <string name="data_item_surplus_rest">Zbývající</string>
+    <string name="click_finsh_this_train_unit_rest">Stiskněte ZPĚT pro pokračování</string>
     <string name="data_item_surplus_rest_keypress">Odpočinek</string>
     <string name="start_change_item">Začít měnit položku</string>
     <string name="near_to_finish_item">Téměř hotovo</string>
@@ -434,11 +434,11 @@ začněte nyní."</string>
     <string name="virtual_rabbit_lead_time">Hlavní čas</string>
     <string name="sport_main_beyond_heart_info_remind">Překročen limit tepové frekvence</string>
     <string name="setting_not_remind">Vypnout upozornění</string>
-    <string name="setting_max_heart_region">Max. zóna TF</string>
+    <string name="setting_max_heart_region">Zóna max. TF</string>
     <string name="virtual_rabbit_title">Virtuální králík</string>
     <string name="virtual_rabbit_backward_distance">Prodleva vzdálenosti</string>
     <string name="virtual_rabbit_lead_distance">Hlavní vzdálenost</string>
-    <string name="setting_reserve_heart_region">Zóna RHR</string>
+    <string name="setting_reserve_heart_region">Oblast RHR</string>
     <string name="outdoor_riding_speed_alert">Rychlostní upozornění</string>
     <string name="speed_too_low_remind_title">Rychlost je příliš nízká</string>
     <string name="running_button_save_modify">Kalibrovat a uložit</string>
@@ -446,7 +446,7 @@ začněte nyní."</string>
     <string name="previous_page">Předchozí</string>
     <string name="back_from_coming">Ustoupit</string>
     <string name="straight_back">Zkratka</string>
-    <string name="other_destination">Zadejte adresu</string>
+    <string name="other_destination">Zadat adresu</string>
     <string name="screen_brightness">Jas</string>
     <string name="navigation_remain_distance">Zbývající vzdálenost</string>
     <string name="lap_dis_title">Délka okruhu</string>
@@ -472,8 +472,8 @@ začněte nyní."</string>
     <string name="re_modify_dis_successful">Opakovaná změna byla úspěšná</string>
     <string name="lap_sub_type_title">Odpočinek</string>
     <string name="new_pb_record">Nový osobní záznam</string>
-    <string name="longest_distance">Maximální vzdálenost(%1$s)</string>
-    <string name="longest_time">Maximální čas</string>
+    <string name="longest_distance">Max. vzdálenost (%1$s)</string>
+    <string name="longest_time">Max. čas</string>
     <string name="_3_km_or_mi_fastest">3%1$s</string>
     <string name="_5_km_or_mi_fastest">5%1$s</string>
     <string name="_10_km_or_mi_fastest">10%1$s</string>
@@ -481,11 +481,11 @@ začněte nyní."</string>
     <string name="_40_km_or_mi_fastest">40%1$s</string>
     <string name="half_marathon_fastest">Půlmaraton</string>
     <string name="full_marathon_fastest">Maraton</string>
-    <string name="ride_max_altitude_up">Maximální šplhání(%1$s)</string>
-    <string name="moutaineer_highest_altitude">Maximální nadmořská výška(%1$s)</string>
-    <string name="moutaineer_max_altitude_up">Maximální celkový výstup(%1$s)</string>
-    <string name="moutaineer_max_altitude_down">Maximální celkový sestup(%1$s)</string>
-    <string name="moutaineer_max_altitude_climb">Max. celkové šplhání(%1$s)</string>
+    <string name="ride_max_altitude_up">Max. šplhání (%1$s)</string>
+    <string name="moutaineer_highest_altitude">Max. nadmořská výška (%1$s)</string>
+    <string name="moutaineer_max_altitude_up">Max. celkový výstup (%1$s)</string>
+    <string name="moutaineer_max_altitude_down">Max. celkový sestup (%1$s)</string>
+    <string name="moutaineer_max_altitude_climb">Max. celkové šplhání (%1$s)</string>
     <string name="switch_interval_run">Přepnout trénink</string>
     <string name="continuous_hour">%1$dh</string>
     <string name="rowing_machine_this_group_count">Záběry této sady</string>
@@ -508,7 +508,7 @@ začněte nyní."</string>
     <string name="battery_life_balanced">Vyvážený</string>
     <string name="battery_life_power_saving">Úspora energie</string>
     <string name="battery_life_custom">Vlastní</string>
-    <string name="battery_life_subtitle">Odhadovaná životnost baterie %d hodin</string>
+    <string name="battery_life_subtitle">Odhadovaná životnost baterie %d hod</string>
     <string name="wrist_up_with_bl">Probudit obrazovku při zvednutí zápěstí</string>
     <string name="airplane_mode">Nerušit při cvičení</string>
     <string name="touch_screen">Dotyková obrazovka</string>
@@ -533,9 +533,9 @@ začněte nyní."</string>
     <string name="data_refresh_wrist_raise">Obnovit při zvednutí zápěstí</string>
     <string name="longest_distance_no_unit">Max. vzdálenost</string>
     <string name="ride_max_altitude_up_no_unit">Max. šplhání</string>
-    <string name="moutaineer_highest_altitude_no_unit">Maximální nadmořská výška</string>
-    <string name="moutaineer_max_altitude_up_no_unit">Maximální celkový výstup</string>
-    <string name="moutaineer_max_altitude_down_no_unit">Maximální celkový sestup</string>
+    <string name="moutaineer_highest_altitude_no_unit">Max. nadmořská výška</string>
+    <string name="moutaineer_max_altitude_up_no_unit">Max. celkový výstup</string>
+    <string name="moutaineer_max_altitude_down_no_unit">Max. celkový sestup</string>
     <string name="moutaineer_max_altitude_climb_no_unit">Max. celkové šplhání</string>
     <string name="pb_introduction_content">Pokud existují nějaké nesrovnalosti mezi osobními záznamy v hodinkách a v aplikaci, záznamy v aplikaci budou použity pro synchronizaci dat.</string>
     <string name="pb_confirm">Poznamenáno</string>
@@ -566,8 +566,8 @@ začněte nyní."</string>
     <string name="real_time_perpormance_level_very_good">Dobrý</string>
     <string name="real_time_perpormance_level_good">Dobrý</string>
     <string name="real_time_perpormance_level_average">Normální</string>
-    <string name="real_time_perpormance_level_fatigued">Unavený</string>
-    <string name="real_time_perpormance_level_very_fatigued">Unavený</string>
+    <string name="real_time_perpormance_level_fatigued">Únava</string>
+    <string name="real_time_perpormance_level_very_fatigued">Únava</string>
     <string name="sport_target_remind_head_title">Doporučeno</string>
     <string name="sport_run_train_title">Probíhající trénink</string>
     <string name="sport_target_remind_status_rest_or_light">Zotavení</string>
@@ -595,7 +595,7 @@ pro dosažení plného zotavení.“</string>
     <string name="first_beat_help_title_train_load">Tréninkové zatížení</string>
     <string name="first_beat_help_title_sport_target_or_real_time_guide">Doporučené běžecké cíle &amp; trénování v reálném čase</string>
     <string name="first_beat_help_title_daily_perpormence">Stav těla</string>
-    <string name="first_beat_help_title_recovery_time">Doba zotavení</string>
+    <string name="first_beat_help_title_recovery_time">Doba na zotavení</string>
     <string name="first_beat_help_vo2_max">"&lt;font color=#00FF00&gt;What is this?&lt;/font&gt;&lt;br/&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; VO₂ max představuje maximální objem kyslíku, který může tělo spotřebovávat za jednu minutu měřený v ml/kg/min. Hodnotí stav kardiorespirační schopnosti uživatelů, což je důležité pro celkové zdraví, dobré životní podmínky a sportovní výkony. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Hodinky automaticky vyhodnotí vaši VO₂ max na základě srdeční frekvence, rychlosti atd. během cvičení malé intenzity a porovnají ji s referenční skupinou stejného věku a pohlaví, aby určily vaši fitness úroveň. &lt;br/&gt;&lt;font color=#00FF00&gt;Jak vyhodnotit?&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 1. Poskytněte přesné profilové informace, jako je věk a pohlaví v aplikaci Amazfit během nastavení; &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 2. Proveďte svižný běh po dobu 15 minut nebo déle se zapnutými hodinkami a ujistěte se, že srdeční frekvence je na nebo nad 75% vaší maximální srdeční frekvence po dobu nejméně 10 minut; &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 3. Po dokončení běhu můžete zkontrolovat aktuální VO₂ max v aplikaci sportovních aktivit na stránce hodinek nebo osobního stavu v aplikaci Amazift Watch. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;Další podrobnosti naleznete v aplikaci Amazfit .&lt;/small&gt;"</string>
     <string name="first_beat_help_te">&lt;font color=#00FF00&gt;Co to je?&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Tréninkový efekt (TE) měří nahromaděné zatížení během tréninku a interpretuje jeho dopad na vaši aerobní kondici. TE začíná od úrovně 0,0. Při úspěšném vývoji tréninku se zvyšuje hodnota TE (od 0 do 5), vypovídajíc, jaký vliv má trénink na vaši kondici. &lt;br/&gt;&lt;font color=#00FF00&gt;Jak je vypočítána?&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;TE se vypočítává na základě vašeho uživatelského profilu, srdečního tepu a obtížnosti tréninku.&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Hodinky zobrazí měření TE v reálném čase během tréninku i konečný výsledek TE na konci tréninku. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;Další podrobnosti naleznete v aplikaci Amazfit .&lt;/small&gt;</string>
     <string name="first_beat_help_train_load">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Hodinky vypočítají tréninkové zatížení na základě hodnot EPOC (Excess Post-exercise Oxygen Consumption - nadměrná spotřeba kyslíku po cvičení) nahromaděných z údajů o srdeční frekvenci, zaznamenaných během cvičení za posledních 7 dnů. Uživatel může odpovídajícím způsobem upravit plán cvičení, aby dosáhl optimálního zatížení. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;Pro více informací si přečtěte nápovědu v aplikaci Amazfit&lt;/small&gt;</string>
@@ -675,13 +675,13 @@ pro dosažení plného zotavení.“</string>
     <string name="count_down_two">2</string>
     <string name="count_down_three">3</string>
     <string name="sport_pause_heart_shown">--</string>
-    <string name="sport_widget_title_outdoor_riding">Terénní cyklistika</string>
-    <string name="sport_widget_title_indoor_riding">Sálová cyklistika</string>
-    <string name="outdoor_riding_progressing">Terénní cyklistika</string>
-    <string name="indoor_riding_progressing">Sálová cyklistika</string>
+    <string name="sport_widget_title_outdoor_riding">Venkovní cyklus</string>
+    <string name="sport_widget_title_indoor_riding">Sálový cyklus</string>
+    <string name="outdoor_riding_progressing">Venkovní cyklus</string>
+    <string name="indoor_riding_progressing">Sálový cyklus</string>
     <string name="outdoor_climb_distance">Dosaž. vzdálenost</string>
     <string name="outdoor_climb_altitude">Nastoupáno</string>
-    <string name="outdoor_max_cadence">Maximální kadence</string>
+    <string name="outdoor_max_cadence">Max. kadence</string>
     <string name="outdoor_ave_cadence">Prům. kadence</string>
     <string name="outdoor_graph_unit">Vzdálenost (km)</string>
     <string name="outdoor_speed_graph_title">Rychlost (km/h)</string>
@@ -734,7 +734,7 @@ pro dosažení plného zotavení.“</string>
     <string name="real_time_guide_desc_14">Právě jste dokončili velmi dobrý trénink.</string>
     <string name="real_time_guide_desc_22">Očekává se, že dosáhnete cíle za %1$s min</string>
     <string name="real_time_guide_desc_25">Cílový rozsah srdeční frekv. je %1$s-%2$s BPM.</string>
-    <string name="real_time_guide_desc_26">Běž rychleji</string>
+    <string name="real_time_guide_desc_26">Běžet rychleji</string>
     <string name="real_time_guide_desc_27">Dosáhli jste svého cíle.</string>
     <string name="real_time_guide_desc_28">Dosáhli jste %1$s%% svého cíle.</string>
     <string name="real_time_guide_desc_30">Tento typ cvičení vás udrží v kondici.</string>
@@ -759,7 +759,7 @@ pro dosažení plného zotavení.“</string>
     <string name="rope_skip_current_group_count">Skupiny</string>
     <string name="rope_skip_this_group_count">Počet okruhů</string>
     <string name="rope_skip_this_group_cost_time">Čas okruhu</string>
-    <string name="rope_skip_this_group_average_frequency">Frekvence okruhu</string>
+    <string name="rope_skip_this_group_average_frequency">Frekv. okruhu</string>
     <string name="rope_skip_group_total_rest_time">Celková doba odpočinku</string>
     <string name="total_groups">Celkový počet skupin</string>
     <string name="total_counting">Počet</string>
@@ -775,7 +775,7 @@ pro dosažení plného zotavení.“</string>
     <string name="setting_rope_skip_total_count">Celkový počet (skoků)</string>
     <string name="sport_pause_normal_rope_skip_unit">Počet</string>
     <string name="sport_pause_last_min_times_reminder">Potřebujete více aktivit pro uložení dat, přesto skončit?</string>
-    <string name="rope_skip_this_frequency">Frekvence okruhu</string>
+    <string name="rope_skip_this_frequency">Frekv. okruhu</string>
     <string name="rope_skip_aleary_group"><Data>Skupiny: &lt;font color=#00ff00&gt;%1$s&lt;/font&gt;</Data></string>
     <string name="sport_remind_total_times">Celkový počet skoků: %1$s</string>
     <string name="sport_main_graph_title_rope_skip">Poslední (s)</string>
@@ -812,7 +812,7 @@ pro dosažení plného zotavení.“</string>
     <string name="swim_dps">DPS</string>
     <string name="skiing_downhill_num">Okruhy</string>
     <string name="skiing_downhill_single_descend">Sjezd</string>
-    <string name="skiing_downhill_max_speed">Maximální rychlost</string>
+    <string name="skiing_downhill_max_speed">Max. rychlost</string>
     <string name="skiing_downhill_elev_loss">Klesání</string>
     <string name="skiing_rt_downhill_desecnd">Celkové klesání</string>
     <string name="sport_tennis_strokes">Údery</string>
@@ -823,7 +823,7 @@ pro dosažení plného zotavení.“</string>
     <string name="last_lap_speed">Rychlost okruhu</string>
     <string name="cur_lap_stepfreq">Freq. v tomto okruhu</string>
     <string name="cur_lap_duration">Čas okruhu</string>
-    <string name="cur_lap_distance">Vzdálenost okruhu</string>
+    <string name="cur_lap_distance">Vzdál. okruhu</string>
     <string name="cur_lap_hr">Tepová frekvence v tomto okruhu</string>
     <string name="cur_lap_speed">Rychlost tohoto okruhu</string>
     <string name="cur_lap_pace">Tempo tohoto okruhu</string>
@@ -855,7 +855,7 @@ pro dosažení plného zotavení.“</string>
     <string name="sport_item_running_title">Běh</string>
     <string name="sport_item_walking_title">Chůze</string>
     <string name="title_sport_list">Venkovní aktivity</string>
-    <string name="title_sport_gps_available">GPS je dostupné</string>
+    <string name="title_sport_gps_available">GPS dostupné</string>
     <string name="title_sport_gps_unavailable">Čekání na GPS…</string>
     <string name="title_sport_control_runnning">Běh</string>
     <string name="title_sport_control_walking">Chůze</string>
@@ -889,7 +889,7 @@ pro dosažení plného zotavení.“</string>
     <string name="history_heart_rate_desc">Tepová frekvence:</string>
     <string name="history_heart_rate_unit">BPM</string>
     <string name="history_info_cost_time_desc">Čas</string>
-    <string name="history_detail_paused_time">Pozastavený čas</string>
+    <string name="history_detail_paused_time">Čas pozastavení</string>
     <string name="history_detail_running_title">Běh</string>
     <string name="history_detail_walking_title">Chůze</string>
     <string name="history_detail_indoor_running_title">Běžecký pás</string>
@@ -899,10 +899,10 @@ pro dosažení plného zotavení.“</string>
     <string name="history_detail_step_freq">Kadence (SPM)</string>
     <string name="history_detail_speed">Rychlost (km/h)</string>
     <string name="waiting_gps_gps_unavailable">Čekám na signál GPS</string>
-    <string name="waiting_gps_gps_available">GPS je dostupné</string>
+    <string name="waiting_gps_gps_available">GPS je nyní dostupné</string>
     <string name="waiting_gps_gps_available_button_text">OK</string>
     <string name="waiting_gps_gps_unavailable_button_text">Pokračovat</string>
-    <string name="no_gps_title">GPS není dostupné</string>
+    <string name="no_gps_title">GPS nedostupné</string>
     <string name="no_gps_content">"Nelze zaznamenat přesnou vzdálenost. Zkuste to znovu venku."</string>
     <string name="no_gps_button_text">OK</string>
     <string name="settings_item_title_km_remind">Upozornění okruhu</string>
@@ -916,7 +916,7 @@ pro dosažení plného zotavení.“</string>
     <string name="settings_item_title_pace_remind">Upozornění na tempo</string>
     <string name="settings_item_title_Leqi_remind">Upozornění na připojení</string>
     <string name="settings_item_value_open">Zap.</string>
-    <string name="settings_item_value_closed">Vyp</string>
+    <string name="settings_item_value_closed">Vyp.</string>
     <string name="settings_item_value_target_use_time">%1$dh %2$dm</string>
     <string name="settings_item_value_target_distance">%.2f km</string>
     <string name="settings_item_value_pace">Upozornit, když je pomalejší než %1$s</string>
@@ -929,7 +929,7 @@ pro dosažení plného zotavení.“</string>
     <string name="sport_notification_title">Sporty</string>
     <string name="sport_notification_content">%s km</string>
     <string name="notification_title_medal">Úspěchy</string>
-    <string name="history_heart_rate_graph_desc">Tepová frekvence (BPM)</string>
+    <string name="history_heart_rate_graph_desc">Tepová frekv. (BPM)</string>
     <string name="sport_medal_desc_first_sport">Dokončete cvičení poprvé</string>
     <string name="sport_medal_desc_one_5_km">Jednotlivá vzdálenost tréninku 5 km</string>
     <string name="sport_medal_desc_one_10_km">Jednotlivá vzdálenost tréninku 10 km</string>
@@ -987,7 +987,7 @@ pro dosažení plného zotavení.“</string>
     <string name="wait_gps_no_gps_signal">GPS není k dispozici, zkuste to znovu v otevřeném prostoru</string>
     <string name="wait_gps_search_retry">Zkusit znovu</string>
     <string name="wait_gps_hint">Signál GPS je lepší v otevřeném prostoru daleko od budov</string>
-    <string name="wait_gps_success">GPS je k dispozici, nyní můžete spustit trénink</string>
+    <string name="wait_gps_success">GPS dostupné, nyní můžete spustit trénink</string>
     <string name="lock_screen">Obrazovka uzamčena</string>
     <string name="txt_unlock_screen">Pro odemknutí stiskněte a podržte obrazovku</string>
     <string name="sport_screen_un_lock">Odemčeno</string>
@@ -1021,7 +1021,7 @@ pro dosažení plného zotavení.“</string>
     <string name="delete_sport_summary_tips">Smazat tuto aktivitu?</string>
     <string name="reminder_wear_not_tight_0">Používejte hodinky nad zápěstím</string>
     <string name="reminder_wear_not_tight_1">A zapněte zařízení</string>
-    <string name="gps_time_out_re_rearch">GPS vypršela, znovu hledejte.</string>
+    <string name="gps_time_out_re_rearch">Platnost GPS vypršela, znovu hledejte.</string>
     <string name="walking_step">kroky</string>
     <string name="waling_steps">kroky</string>
     <string name="date_am">"'dop.'"</string>
@@ -1126,7 +1126,7 @@ pro dosažení plného zotavení.“</string>
     <string name="running">Běh</string>
     <string name="waking">Chůze</string>
     <string name="indoor_running">Běžecký pás</string>
-    <string name="outdoor_riding">Terénní cyklistika</string>
+    <string name="outdoor_riding">Venkovní cyklistika</string>
     <string name="indoor_riding">Sálová cyklistika</string>
     <string name="cross_contry">Terénní běh</string>
     <string name="eppitical">Eliptický trenažér</string>
@@ -1163,7 +1163,7 @@ pro dosažení plného zotavení.“</string>
     <string name="free_training">Volný trénink</string>
     <string name="curling">Curling</string>
     <string name="snowboarding">Snowboard</string>
-    <string name="alpine_skiing">Alpské lyžování</string>
+    <string name="alpine_skiing">Sjezdové lyžování</string>
     <string name="outdoor_skating">Venkovní bruslení</string>
     <string name="indoor_skating">Sálové bruslení</string>
     <string name="cross_country_skiing">Běh na lyžích</string>
@@ -1173,7 +1173,7 @@ pro dosažení plného zotavení.“</string>
     <string name="sailing">Plachtění</string>
     <string name="rowing">Lodě</string>
     <string name="skate">Skateboard</string>
-    <string name="paddle_surfing">Paddle surfing</string>
+    <string name="paddle_surfing">Paddleboarding</string>
     <string name="roller_skating">Kolečkové brusle</string>
     <string name="rock_climbing">Skálolezectví</string>
     <string name="ballet">Balet</string>
@@ -1208,7 +1208,7 @@ pro dosažení plného zotavení.“</string>
     <string name="thai_boxing">Thajský box</string>
     <string name="taekwondo">Taekwondo</string>
     <string name="a_martial_art">Bojová umění</string>
-    <string name="free_fight">Volný sparring</string>
+    <string name="free_fight">Kickbox</string>
     <string name="double_ski">Snowboard</string>
     <string name="sport_total_time">Celkový čas</string>
     <string name="speed">Rychlost</string>
@@ -1226,9 +1226,9 @@ pro dosažení plného zotavení.“</string>
     <string name="sport_row_total_count">Celkem záběrů</string>
     <string name="sport_change">Přechod</string>
     <string name="sport_change_time">Čas přechodu</string>
-    <string name="please_get_ready_for_runnning">Další: Běh</string>
+    <string name="please_get_ready_for_runnning">Další: běh</string>
     <string name="please_get_ready_for_riding">Další: cyklistika</string>
-    <string name="please_get_ready_for_swimming">Další: Plavání</string>
+    <string name="please_get_ready_for_swimming">Další: plavání</string>
     <string name="gps_ready">GPS je dostupné</string>
     <string name="gps_wait">Čekání na GPS…</string>
     <string name="gps_fail">"Nelze určit polohu pomocí GPS"</string>
@@ -1254,7 +1254,7 @@ pro dosažení plného zotavení.“</string>
     <string name="kilometre">km</string>
     <string name="km_per_hour">km/h</string>
     <string name="bpm">BPM</string>
-    <string name="times_per_minute">BPM</string>
+    <string name="times_per_minute">skoků/min</string>
     <string name="per_km">/km</string>
     <string name="per_100m">/100 m</string>
     <string name="per_100Yard">/100 yd</string>
@@ -1270,11 +1270,11 @@ pro dosažení plného zotavení.“</string>
     <string name="altitude">Nadmořská výška</string>
     <string name="longitude_and_latitude">Zem. šířka/délka</string>
     <string name="press_key_finish_train">Stiskněte ZPĚT pro dokončení</string>
-    <string name="press_up_key_wake_up">Pro odemknutí stiskněte tlačítko Up</string>
+    <string name="press_up_key_wake_up">Pro odemknutí stiskněte tlačítko Nahoru</string>
     <string name="need_run_kilometer">Interval vzdálenosti:</string>
     <string name="need_run_time">Časový interval:</string>
     <string name="need_rest_time">Potřeba</string>
-    <string name="need_rest_by_keypress">Stiskněte ZPĚT pro dokončení</string>
+    <string name="need_rest_by_keypress">Stiskněte ZPĚT pro pokračování</string>
     <string name="low_battery_protect">Ochrana nízkého stavu baterie</string>
     <string name="low_battery_tips">Nízký stav baterie</string>
     <string name="low_battery_please_charging">Nabijte hodinky.</string>
@@ -1294,7 +1294,7 @@ pro dosažení plného zotavení.“</string>
     <string name="sport_auto_pause_end">Relace skončila, uložit data?</string>
     <string name="sport_slpt_stop_next_group">Další</string>
     <string name="picker_default_positive_text">OK</string>
-    <string name="picker_default_nagetive_text">Vypnuto</string>
+    <string name="picker_default_nagetive_text">Vyp.</string>
     <string name="title_settings">Nastavení</string>
     <string name="sport_music_settings">Hudba</string>
     <string name="widget_currentstep_title">Data</string>

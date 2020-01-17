@@ -31,7 +31,7 @@
     <string name="weather_warning_level_white">Bílá</string>
     <string name="weather_warning_level_black">Černá</string>
     <string name="weather_warning_typhoon">Tajfun</string>
-    <string name="weather_warning_rainstorm">Bouřka</string>
+    <string name="weather_warning_rainstorm">Bouřky</string>
     <string name="weather_warning_cold">Studená fronta</string>
     <string name="weather_warning_gale">Vichřice</string>
     <string name="weather_warning_sandstorm">Písečná bouře</string>
@@ -91,7 +91,7 @@
     <string name="running">Běh</string>
     <string name="waking">Chůze</string>
     <string name="indoor_running">Běžecký pás</string>
-    <string name="outdoor_riding">Terénní cyklistika</string>
+    <string name="outdoor_riding">Venkovní cyklistika</string>
     <string name="indoor_riding">Sálová cyklistika</string>
     <string name="cross_contry">Terénní běh</string>
     <string name="eppitical">Eliptický trenažér</string>
@@ -128,9 +128,9 @@
     <string name="sport_row_total_count">Celkem záběrů</string>
     <string name="sport_change">Přechod</string>
     <string name="sport_change_time">Čas přechodu</string>
-    <string name="please_get_ready_for_runnning">Další: Běh</string>
+    <string name="please_get_ready_for_runnning">Další: běh</string>
     <string name="please_get_ready_for_riding">Další: cyklistika</string>
-    <string name="please_get_ready_for_swimming">Další: Plavání</string>
+    <string name="please_get_ready_for_swimming">Další: plavání</string>
     <string name="gps_ready">GPS je dostupné</string>
     <string name="gps_wait">Čekání na GPS…</string>
     <string name="gps_fail">"Nelze určit polohu pomocí GPS"</string>
@@ -156,7 +156,7 @@
     <string name="kilometre">km</string>
     <string name="km_per_hour">km/h</string>
     <string name="bpm">BPM</string>
-    <string name="times_per_minute">BPM</string>
+    <string name="times_per_minute">skoků/min</string>
     <string name="per_km">/km</string>
     <string name="per_100m">/100 m</string>
     <string name="per_100Yard">/100 yd</string>
@@ -176,12 +176,12 @@
     <string name="need_run_kilometer">Interval vzdálenosti:</string>
     <string name="need_run_time">Časový interval:</string>
     <string name="need_rest_time">Potřeba</string>
-    <string name="need_rest_by_keypress">Stiskněte ZPĚT pro dokončení</string>
+    <string name="need_rest_by_keypress">Stiskněte ZPĚT pro pokračování</string>
     <string name="low_battery_protect">Ochrana nízkého stavu baterie</string>
     <string name="low_battery_tips">Nízký stav baterie</string>
     <string name="low_battery_please_charging">Nabijte hodinky.</string>
     <string name="virtual_rabbit">Virtuální králík</string>
-    <string name="virtual_rabbit_lead_time">Vedoucí čas</string>
+    <string name="virtual_rabbit_lead_time">Hlavní čas</string>
     <string name="virtual_rabbit_back_time">Časová prodleva</string>
     <string name="virtual_rabbit_lead_distance">Hlavní vzdálenost</string>
     <string name="virtual_rabbit_back_distance">Prodleva vzdálenosti</string>
@@ -205,7 +205,7 @@
     <string name="group_rowing_freq">Frekvence</string>
     <string name="group_rowing_count">Krát</string>
     <string name="picker_default_positive_text">OK</string>
-    <string name="picker_default_nagetive_text">Vypnuto</string>
+    <string name="picker_default_nagetive_text">Vyp.</string>
     <string name="no_heartrate_data_hint">"Údaje o srdečním tepu nebyly zjištěny"</string>
     <string name="no_altitude_hint">"Údaje o nadmořské výšce nebyly zjištěny"</string>
     <string name="title_settings">Nastavení</string>
