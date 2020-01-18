@@ -1,4 +1,30 @@
 files:
   - source: /**/**/res/values/
     translation: /**/res/values-%android_code%/%file_name%.xml
-
+    languages_mapping:
+      android_code:
+        eu: en-rEU
+        ca: en-rCA
+        hr: en-rHR
+        cs: en-rCS
+        nl: en-rNL
+        el: en-rGR
+        he: en-rHE
+        hu: en-rHU
+        pt-PT: en-rPT
+        ru: en-rRU
+        sk: en-rSK
+        sl: en-rSI
+        tr: en-rTR
+        vi: en-rVN
+        fa: en-rAF
+        ar: en-rSA
+        th: en-rTH
+        bg: en-rBG
+        gl: en-rGL
+        uk: en-rUK
+        sv-SE: en-rSE
+	lv: en-rLV
+    translate_content: 0
+    translate_attributes: 0
+    content_segmentation: 0
