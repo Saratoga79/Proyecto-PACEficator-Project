@@ -426,7 +426,7 @@ Také jste připojeni k síti VPN (\"%3$s\"). Poskytovatel služby VPN může ta
     <string name="keyguard_password_enter_password_code">Type password to unlock</string>
     <string name="keyguard_password_enter_pin_password_code">Type PIN to unlock</string>
     <string name="keyguard_password_wrong_pin_code">Nesprávný PIN kód.</string>
-    <string name="keyguard_label_text">To unlock, press Menu then 0.</string>
+    <string name="keyguard_label_text">Chcete-li odemknout, stiskněte Menu a pak 0.</string>
     <string name="faceunlock_multiple_failures">Byl překročen maximální počet pokusů o odemknutí obličejem</string>
     <string name="keyguard_charged">Nabito</string>
     <string name="keyguard_plugged_in">Nabíjení</string>
@@ -518,8 +518,8 @@ Také jste připojeni k síti VPN (\"%3$s\"). Poskytovatel služby VPN může ta
     <string name="kg_invalid_sim_puk_hint">Kód PUK by měl mít 8 nebo více čísel.</string>
     <string name="kg_invalid_puk">Znovu zadejte správný kód PUK. Opakované pokusy trvale poškodí SIM.</string>
     <string name="kg_invalid_confirm_pin_hint">PIN kódy se neshodují</string>
-    <string name="kg_login_too_many_attempts">Too many pattern attempts</string>
-    <string name="kg_login_instructions">To unlock, sign in with your Google account.</string>
+    <string name="kg_login_too_many_attempts">Příliš mnoho pokusů o vzor</string>
+    <string name="kg_login_instructions">Chcete-li odemknout, přihlaste se pomocí svého účtu Google.</string>
     <string name="kg_login_username_hint">Username (email)</string>
     <string name="kg_login_password_hint">Heslo</string>
     <string name="kg_login_submit_button">Přihlásit se</string>
