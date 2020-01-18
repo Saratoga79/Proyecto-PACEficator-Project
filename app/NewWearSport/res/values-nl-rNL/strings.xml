@@ -43,7 +43,7 @@
     <string name="crossing_remind_target_individual_title">Ronde %1d</string>
     <string name="crossing_remind_target_individual_cost_time">Tijdsdoel</string>
     <string name="crossing_remind_target_individual_pace">Tempo</string>
-    <string name="agps_time_out">AGPS has expired. GPS searching will be slow. Connect to the Amazfit App to update it.</string>
+    <string name="agps_time_out">AGPS verlopen. GPS-zoeken zal traag verlopen. Verbind met Amazfit app om te updaten.</string>
     <string name="safe_hearate_remind_content">Indien boven %1d BPM</string>
     <string name="settings_safe_heart_rate_hint">(Hartslag limiet)</string>
     <string name="settings_safe_heart_rate_unit">BPM</string>
@@ -78,11 +78,11 @@
     <string name="gps_searching_icon_title">GPS zoeken...</string>
     <string name="gps_search_success">GPS beschikbaaar</string>
     <string name="gps_search_failed_title">"GPS niet beschikbaaar"</string>
-    <string name="gps_search_failed_content">GPS location failure. Please try again in open space.</string>
+    <string name="gps_search_failed_content">GPS locatie is mislukt. Probeer opnieuw in een open ruimte.</string>
     <string name="gps_search_success_title">GPS beschikbaar</string>
     <string name="gps_search_success_content">GPS beschikbaar, u kunt beginnen.</string>
     <string name="gps_search_timeout_title">GPS verlopen</string>
-    <string name="gps_search_timeout_content">AGPS has expired. GPS searching will be slow. Connect to the Amazfit App to update it.</string>
+    <string name="gps_search_timeout_content">AGPS verlopen. GPS-zoeken zal traag verlopen. Verbind met Amazfit app om te updaten.</string>
     <string name="gps_notify_success">GPS beschikbaaar</string>
     <string name="gps_notify_loss">GPS signaal verloren</string>
     <string name="gps_search_time_out_content">GPS uitgeschakeld vanwege inactiviteit.</string>
@@ -349,7 +349,7 @@ begin nu."</string>
     <string name="last_kilo_meters_times">Tijd laatste km</string>
     <string name="last_mi_times">Tijd laatste km</string>
     <string name="last_kilo_meters_times_with_param">Laatste %1$s kilometer tijd</string>
-    <string name="last_mi_times_with_param">Last %1$s mile time</string>
+    <string name="last_mi_times_with_param">Laatste %1$s mijl tijd</string>
     <string name="running_total_distance_desc">Totale afstand</string>
     <string name="setting_sport_title_exteed_region_tips">Waarschuw wanneer buiten %1$s zone</string>
     <string name="sport_history_bottom_remind">Voor meer info, ga naar de Amazfit app</string>
