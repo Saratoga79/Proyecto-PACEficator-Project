@@ -37,7 +37,7 @@
     <string name="sport_paused_time">Pozastaveno</string>
     <string name="sport_distance">Vzdálenost</string>
     <string name="sport_mileage">Vzdálenost</string>
-    <string name="sport_downhill_total_distance">Total downhill</string>
+    <string name="sport_downhill_total_distance">Celkové klesání</string>
     <string name="sport_tennis_strokes">Údery</string>
     <string name="sport_rope_skip_count">Počet</string>
     <string name="sport_row_total_count">Total paddles</string>
@@ -141,7 +141,7 @@
     <string name="alarm_buzzer">Bzučák</string>
     <string name="alarm_orbit">Orbit</string>
     <string name="alarm_rooster">Kohout</string>
-    <string name="alarm_timer">Timer</string>
+    <string name="alarm_timer">Časovač</string>
     <string name="alarm_nudge">Šťouchnutí</string>
     <string name="alarm_rise">Vzestup</string>
     <string name="alarm_drip">Kapat</string>
@@ -186,8 +186,8 @@
     <string name="bind_app">Spojit</string>
     <string name="amazfit_app">Aplikace Amazfit</string>
     <string name="personal_info">Osobní informace</string>
-    <string name="time_zone_clock">Time Settings</string>
-    <string name="setting_time_format">Time Format</string>
+    <string name="time_zone_clock">Nastavení času</string>
+    <string name="setting_time_format">Formát času</string>
     <string name="connect">Připojení</string>
     <string name="common">Hlavní</string>
     <string name="device">Zařízení</string>
@@ -301,7 +301,7 @@
     <string name="shujuzhongxin">Denní přehled</string>
     <string name="xiaoxizhongxin">Oznámení</string>
     <string name="zhifubao">Alipay</string>
-    <string name="jishiqi">Timer</string>
+    <string name="jishiqi">Časovač</string>
     <string name="mijia">Mi Home</string>
     <string name="zhinanzhen">Kompas</string>
     <string name="yinyue">Hudba</string>
@@ -468,7 +468,7 @@ všechna data v hodinkách budou smazána, a hodinky budou odpojeny od vašeho m
     <string name="lockpattern_need_to_unlock_footer"></string>
     <string name="lockpattern_need_to_unlock_wrong"></string>
     <string name="lockpattern_need_to_unlock_wrong_footer"></string>
-    <string name="lockpattern_too_many_failed_confirmation_attempts_header">Too Many Errors！</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_header">Příliš mnoho chyb!</string>
     <string name="lockpattern_too_many_failed_confirmation_attempts_footer">%d Opakovat po několika sekundách</string>
     <string name="lockpattern_tutorial_cancel_label">Zrušit</string>
     <string name="lockpattern_tutorial_continue_label">Další</string>
@@ -504,12 +504,12 @@ všechna data v hodinkách budou smazána, a hodinky budou odpojeny od vašeho m
     <string name="lockpattern_change_none">V současné době neexistuje žádný odemykací vzor</string>
     <string name="security_lockpattern">Heslo vzorem</string>
     <string name="lockpattern_need_confirm_guide">Nakreslete aktuální vzor</string>
-    <string name="time_zone">Time Zone</string>
+    <string name="time_zone">Časové pásmo</string>
     <string name="date">Datum</string>
     <string name="time">Čas</string>
     <string name="date_ymd">Datum (D/M/R)</string>
-    <string name="time_hms">Time(H/M/S)</string>
-    <string name="time_format">Time Format</string>
+    <string name="time_hms">Čas (H/M/S)</string>
+    <string name="time_format">Formát času</string>
     <string name="hour_system">%s-hodinový systém</string>
     <string name="am">dop.</string>
     <string name="pm">odp.</string>
