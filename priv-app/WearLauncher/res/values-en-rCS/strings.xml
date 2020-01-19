@@ -6,7 +6,7 @@
     <string name="data_check_log">" +------------------------+▂▃▄▅▆▇█▉  Chyba ověření údajů o počasí!     %1$s▉█▇▆▅▄▃▂+------------------------+"</string>
     <string name="data_checkfail_json">Chyba formátu JSON</string>
     <string name="generic_notification_more">Více (%s)</string>
-    <string name="notification_unread_num">Unread (%s)</string>
+    <string name="notification_unread_num">Nepřečtené (%s)</string>
     <string name="notification_click_upgrade">Klepněte pro instalaci</string>
     <string name="notification_click_download">Klepněte pro stažení</string>
     <string name="notification_click_open">Klepněte pro zobrazení</string>
@@ -24,7 +24,7 @@
     <string name="notification_detail_content_title">Podrobné informace</string>
     <string name="notification_fix_message_action1">Připnout tuto zprávu</string>
     <string name="notification_fix_message_reset">Obnovit čas</string>
-    <string name="notification_fix_message_cancel">Unpin</string>
+    <string name="notification_fix_message_cancel">Odepnout</string>
     <string name="quick_settings_airplane_mode">"Letadlo
  %1$s"</string>
     <string name="quick_settings_no_disturb_mode">"Nerušit
@@ -81,7 +81,7 @@ před méně než 1 hodinou“</string>
     <string name="header_incomming_call_other_virtual">Ostatní virtuální operátoři</string>
     <string name="header_incomming_call_service_hotline">Servisní linka</string>
     <string name="header_incomming_call_localcall">Místní hovor</string>
-    <string name="header_incomming_call_unknowncall">Unknown call</string>
+    <string name="header_incomming_call_unknowncall">Neznámé volání</string>
     <string name="call_phone_off">Zamítnout</string>
     <string name="call_sound_off">Ticho</string>
     <string name="call_phone_ignore">Ignorovat</string>
@@ -109,7 +109,7 @@ před méně než 1 hodinou“</string>
     <string name="notificaton_empty_message">Žádná oznámení</string>
     <string name="music_control">Ovládání hudby</string>
     <string name="music_control_content">You can control the audio playback on your phone. These playback controls can be found by swiping right on the watch face.</string>
-    <string name="music_title">Unknown song</string>
+    <string name="music_title">Neznámá skladba</string>
     <string name="music_author">Neznámý umělec</string>
     <string name="music_stop_status">Pozastaveno</string>
     <string name="music_play_status">Přehrávání</string>
