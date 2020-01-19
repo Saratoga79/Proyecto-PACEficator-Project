@@ -14,7 +14,7 @@
     <string name="delete_all_notifications_confrim_content">Tato oznámení budou trvale odstraněna. Přesto vyčistit?</string>
     <string name="notification_time_day">HH: mm</string>
     <string name="notification_time_month">dd/MM HH:mm</string>
-    <string name="notification_time_year">yyyy/MM/dd HH:mm</string>
+    <string name="notification_time_year">dd/MM/rrrr HH:mm:ss</string>
     <string name="action_delete">Odstranit</string>
     <string name="action_shield">Blokovat</string>
     <string name="notification_none">Vše zachyceno</string>
@@ -42,7 +42,7 @@
     <string name="quick_settings_toast_on">Zap.</string>
     <string name="quick_settings_toast_off">Vyp.</string>
     <string name="quick_settings_status">Nepřipojeno</string>
-    <string name="quick_settings_no_disturb_toast">"You'll no longer receive notifications."</string>
+    <string name="quick_settings_no_disturb_toast">"Již nebudete dostávat oznámení."</string>
     <string name="quick_settings_auto_light_toast">Udržování zapnuté obrazovky snižuje životnost baterie.</string>
     <string name="quick_settings_status_month">Měsíc</string>
     <string name="quick_settings_status_day">Den </string>
@@ -64,7 +64,7 @@ Nelze přijímat oznámení.\"</string>
 %dd"</string>
     <string name="quick_settings_battery_charging_intervalLessHour">„Poslední nabíjení
 před méně než 1 hodinou“</string>
-    <string name="quick_settings_battery_sportString">You can keep running.</string>
+    <string name="quick_settings_battery_sportString">Můžete pokračovat v běhu.</string>
     <string name="quick_settings_battery_sporttime_hour_unit">h</string>
     <string name="quick_settings_battery_sporttime_KM_unit">km</string>
     <string name="quick_settings_battery_level_unit">%</string>
@@ -108,13 +108,13 @@ před méně než 1 hodinou“</string>
     <string name="notification_time_yesterday">Včera</string>
     <string name="notificaton_empty_message">Žádná oznámení</string>
     <string name="music_control">Ovládání hudby</string>
-    <string name="music_control_content">You can control the audio playback on your phone. These playback controls can be found by swiping right on the watch face.</string>
+    <string name="music_control_content">Můžete ovládat přehrávání hudby na telefonu. Tyto ovládací prvky lze nalézt posunutím vpravo na ciferníku.</string>
     <string name="music_title">Neznámá skladba</string>
     <string name="music_author">Neznámý umělec</string>
     <string name="music_stop_status">Pozastaveno</string>
     <string name="music_play_status">Přehrávání</string>
     <string name="music_bulethooth_disconnect">Kontrola připojení Bluetooth…</string>
-    <string name="music_peek_content">"You're playing music in %s on your phone. You can control playback in the Notification shade on your watch."</string>
+    <string name="music_peek_content">"Přehráváte hudbu v %s na telefonu. Přehrávání můžete ovládat ve stínu oznámení na hodinkách."</string>
     <string name="alone_before_open">Naposledy otevřeno</string>
     <string name="notification_title_default">Oznámení</string>
     <string name="music">Hudba</string>
@@ -169,7 +169,7 @@ před méně než 1 hodinou“</string>
     <string name="weather_warning_level_blue">Modrá</string>
     <string name="weather_warning_level_orange">Oranžová</string>
     <string name="weather_warning_level_red">Červená</string>
-    <string name="weather_warning_level_yellow">Yellow</string>
+    <string name="weather_warning_level_yellow">Žlutá</string>
     <string name="weather_warning_level_def">Varování</string>
     <string name="weather_warning_level_white">Bílá</string>
     <string name="weather_warning_level_black">Černá</string>
@@ -265,10 +265,10 @@ před méně než 1 hodinou“</string>
     <string name="heartlung">Aerobní</string>
     <string name="strength">Anaerobní</string>
     <string name="anaerobic">Anaerobní limit</string>
-    <string name="zone_one">Zone 1</string>
-    <string name="zone_two">Zone 2</string>
-    <string name="zone_three">Zone 3</string>
-    <string name="zone_four">Zone 4</string>
+    <string name="zone_one">Zóna 1</string>
+    <string name="zone_two">Zóna 2</string>
+    <string name="zone_three">Zóna 3</string>
+    <string name="zone_four">Zóna 4</string>
     <string name="zone_five">Zone 5</string>
     <string name="zone_risk">Vysoká tepová frekvence</string>
     <string name="enter_sport_lock_status">Uzamknout obrazovku během aktivity</string>
