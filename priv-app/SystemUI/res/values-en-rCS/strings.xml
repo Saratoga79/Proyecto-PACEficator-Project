@@ -96,12 +96,12 @@ Používejte pouze dodávanou nabíječku."</string>
     <string name="accessibility_data_two_bars">Dvě čárky datového připojení.</string>
     <string name="accessibility_data_three_bars">Tři čárky datového připojení.</string>
     <string name="accessibility_data_signal_full">Plný signál datové sítě.</string>
-    <string name="accessibility_wifi_off">Wifi off.</string>
-    <string name="accessibility_no_wifi">Wifi disconnected.</string>
-    <string name="accessibility_wifi_one_bar">Wifi one bar.</string>
+    <string name="accessibility_wifi_off">Wi-Fi vyp.</string>
+    <string name="accessibility_no_wifi">WiFi odpojena.</string>
+    <string name="accessibility_wifi_one_bar">Jedna čárka Wi-Fi.</string>
     <string name="accessibility_wifi_two_bars">Wifi two bars.</string>
-    <string name="accessibility_wifi_three_bars">Wifi three bars.</string>
-    <string name="accessibility_wifi_signal_full">Wifi signal full.</string>
+    <string name="accessibility_wifi_three_bars">Tři čárky Wi-Fi.</string>
+    <string name="accessibility_wifi_signal_full">Plný Wi-fi signál.</string>
     <string name="accessibility_wifi_name">Připojeno k %s.</string>
     <string name="accessibility_bluetooth_name">Připojeno k %s.</string>
     <string name="accessibility_no_wimax">Žádný WiMAX.</string>
@@ -155,7 +155,7 @@ Používejte pouze dodávanou nabíječku."</string>
     <string name="accessibility_desc_recent_apps">Přehled.</string>
     <string name="accessibility_quick_settings_user">Uživatel %s.</string>
     <string name="accessibility_quick_settings_wifi">%1$s.</string>
-    <string name="accessibility_quick_settings_wifi_changed_off">Wifi turned off.</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">Wi-Fi vypnuta.</string>
     <string name="accessibility_quick_settings_wifi_changed_on">Wifi turned on.</string>
     <string name="accessibility_quick_settings_mobile">Mobile %1$s. %2$s. %3$s.</string>
     <string name="accessibility_quick_settings_battery">Baterie %s.</string>
@@ -196,7 +196,7 @@ Používejte pouze dodávanou nabíječku."</string>
 Jejich opětovné zapnutí může vést k poplatkům od vašeho operátora."</string>
     <string name="data_usage_disabled_dialog_enable">Zapnout data</string>
     <string name="status_bar_settings_signal_meter_disconnected">Žádné připojení k Internetu</string>
-    <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi connected</string>
+    <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi připojeno</string>
     <string name="gps_notification_searching_text">Čekání na GPS</string>
     <string name="gps_notification_found_text">Poloha nastavena pomocí GPS</string>
     <string name="accessibility_location_active">Aktivní žádosti o umístění</string>
@@ -236,7 +236,7 @@ Jejich opětovné zapnutí může vést k poplatkům od vašeho operátora."</st
     <string name="quick_settings_wifi_label">Wi-Fi</string>
     <string name="quick_settings_wifi_not_connected">Nepřipojeno</string>
     <string name="quick_settings_wifi_no_network">Žádná síť</string>
-    <string name="quick_settings_wifi_off_label">Wi-Fi Off</string>
+    <string name="quick_settings_wifi_off_label">Wi-Fi vypnuta</string>
     <string name="quick_settings_wifi_detail_empty_text">Žádné uložené sítě k dispozici</string>
     <string name="quick_settings_cast_title">Přenášet obrazovku</string>
     <string name="quick_settings_casting">Vysílání</string>
@@ -305,7 +305,7 @@ monitorována"</string>
     <string name="guest_exit_guest_dialog_title">Odebrat hosta?</string>
     <string name="guest_exit_guest_dialog_message">Všechny aplikace a data v této relaci budou smazána.</string>
     <string name="guest_exit_guest_dialog_remove">Odstranit</string>
-    <string name="guest_wipe_session_title">Welcome back, guest!</string>
+    <string name="guest_wipe_session_title">Vítejte zpět, hoste!</string>
     <string name="guest_wipe_session_message">Chcete pokračovat v relaci?</string>
     <string name="guest_wipe_session_wipe">Začit znovu</string>
     <string name="guest_wipe_session_dontwipe">Yes, continue</string>
@@ -454,9 +454,9 @@ Také jste připojeni k síti VPN (\"%3$s\"). Poskytovatel služby VPN může ta
     <string name="keyguard_accessibility_user_selector">Výběr uživatele</string>
     <string name="keyguard_accessibility_camera">Fotoaparát</string>
     <string name="keygaurd_accessibility_media_controls">Ovládání médií</string>
-    <string name="keyguard_accessibility_widget_reorder_start">Widget reordering started.</string>
-    <string name="keyguard_accessibility_widget_reorder_end">Widget reordering ended.</string>
-    <string name="keyguard_accessibility_widget_deleted">Widget %1$s deleted.</string>
+    <string name="keyguard_accessibility_widget_reorder_start">Přeuspořádání widgetů zahájeno.</string>
+    <string name="keyguard_accessibility_widget_reorder_end">Přeuspořádání widgetů dokončeno.</string>
+    <string name="keyguard_accessibility_widget_deleted">Widget %1$s smazán.</string>
     <string name="keyguard_accessibility_expand_lock_area">Rozšířit oblast odemknutí.</string>
     <string name="keyguard_accessibility_slide_unlock">Odemknutí posunutím.</string>
     <string name="keyguard_accessibility_pattern_unlock">Vzor odemknutí.</string>
