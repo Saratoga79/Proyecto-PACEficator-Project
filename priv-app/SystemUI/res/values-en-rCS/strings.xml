@@ -22,8 +22,8 @@
     <string name="battery_low_percent_format_saver_started">Zbývá %s. Spořič baterie je zapnutý.</string>
     <string name="invalid_charger">"Nabíjení přes USB není podporováno.
 Používejte pouze dodávanou nabíječku."</string>
-    <string name="invalid_charger_title">USB charging not supported.</string>
-    <string name="invalid_charger_text">Use only the supplied charger.</string>
+    <string name="invalid_charger_title">Nabíjení přes USB není podporováno.</string>
+    <string name="invalid_charger_text">Použít pouze dodávanou nabíječku.</string>
     <string name="battery_low_why">Nastavení</string>
     <string name="battery_saver_confirmation_title">Zapnout spořič baterie?</string>
     <string name="battery_saver_confirmation_ok">Zapnout</string>
@@ -44,10 +44,10 @@ Používejte pouze dodávanou nabíječku."</string>
     <string name="usb_device_confirm_prompt">Otevřít %1$s, když je toto USB zařízení připojeno?</string>
     <string name="usb_accessory_confirm_prompt">Otevřít %1$s, když je toto USB příslušenství připojeno?</string>
     <string name="usb_accessory_uri_prompt">Žádné nainstalované aplikace nefungují s tímto USB příslušenstvím. Více informací o tomto doplňku na %1$s</string>
-    <string name="title_usb_accessory">USB accessory</string>
-    <string name="label_view">View</string>
-    <string name="always_use_device">Use by default for this USB device</string>
-    <string name="always_use_accessory">Use by default for this USB accessory</string>
+    <string name="title_usb_accessory">Příslušenství USB</string>
+    <string name="label_view">Zobrazení</string>
+    <string name="always_use_device">Použít jako výchozí pro toto zařízení USB</string>
+    <string name="always_use_accessory">Použít jako výchozí pro toto USB příslušenství</string>
     <string name="usb_debugging_title">Povolit ladění USB?</string>
     <string name="usb_debugging_message">"RSA otisk počítače je:
 %1$s"</string>
@@ -61,7 +61,7 @@ Používejte pouze dodávanou nabíječku."</string>
     <string name="screenshot_saved_text">Klepnutím zobrazíte snímek obrazovky.</string>
     <string name="screenshot_failed_title">"Nelze zachytit snímek obrazovky."</string>
     <string name="screenshot_failed_text">"Snímek obrazovky nelze pořídit z důvodu omezeného místa v úložišti, nebo to není povoleno aplikací nebo vaší organizací."</string>
-    <string name="usb_preference_title">USB file transfer options</string>
+    <string name="usb_preference_title">Možnosti přenosu souborů přes USB</string>
     <string name="use_mtp_button_title">Připojit jako přehrávač médií (MTP)</string>
     <string name="use_ptp_button_title">Připojit jako fotoaparát (PTP)</string>
     <string name="installer_cd_button_title">Instalovat aplikaci Android File Transfer pro Mac</string>
@@ -72,8 +72,8 @@ Používejte pouze dodávanou nabíječku."</string>
     <string name="accessibility_search_light">Hledat</string>
     <string name="accessibility_camera_button">Fotoaparát</string>
     <string name="accessibility_phone_button">Telefon</string>
-    <string name="accessibility_unlock_button">Unlock</string>
-    <string name="unlock_label">unlock</string>
+    <string name="accessibility_unlock_button">Odemknout</string>
+    <string name="unlock_label">odemknout</string>
     <string name="phone_label">spustit telefon</string>
     <string name="camera_label">spustit fotoaparát</string>
     <string name="accessibility_ime_switch_button">Tlačítko přepnutí metody zadávání.</string>
@@ -153,7 +153,7 @@ Používejte pouze dodávanou nabíječku."</string>
     <string name="accessibility_desc_lock_screen">Zamykací obrazovka.</string>
     <string name="accessibility_desc_settings">Nastavení</string>
     <string name="accessibility_desc_recent_apps">Přehled.</string>
-    <string name="accessibility_quick_settings_user">User %s.</string>
+    <string name="accessibility_quick_settings_user">Uživatel %s.</string>
     <string name="accessibility_quick_settings_wifi">%1$s.</string>
     <string name="accessibility_quick_settings_wifi_changed_off">Wifi turned off.</string>
     <string name="accessibility_quick_settings_wifi_changed_on">Wifi turned on.</string>
@@ -231,7 +231,7 @@ Jejich opětovné zapnutí může vést k poplatkům od vašeho operátora."</st
     <string name="quick_settings_settings_label">Nastavení</string>
     <string name="quick_settings_time_label">Čas</string>
     <string name="quick_settings_user_label">Já</string>
-    <string name="quick_settings_user_title">User</string>
+    <string name="quick_settings_user_title">Uživatel</string>
     <string name="quick_settings_user_new_user">Nový uživatel</string>
     <string name="quick_settings_wifi_label">Wi-Fi</string>
     <string name="quick_settings_wifi_not_connected">Nepřipojeno</string>
@@ -240,7 +240,7 @@ Jejich opětovné zapnutí může vést k poplatkům od vašeho operátora."</st
     <string name="quick_settings_wifi_detail_empty_text">Žádné uložené sítě k dispozici</string>
     <string name="quick_settings_cast_title">Přenášet obrazovku</string>
     <string name="quick_settings_casting">Vysílání</string>
-    <string name="quick_settings_cast_device_default_name">Unnamed device</string>
+    <string name="quick_settings_cast_device_default_name">Nepojmenované zařízení</string>
     <string name="quick_settings_cast_device_default_description">Připraveno k vysílání</string>
     <string name="quick_settings_cast_detail_empty_text">Žádná zařízení nejsou k dispozici</string>
     <string name="quick_settings_brightness_dialog_title">Jas</string>
@@ -437,21 +437,21 @@ Také jste připojeni k síti VPN (\"%3$s\"). Poskytovatel služby VPN může ta
     <string name="keyguard_missing_sim_message">V tabletu není SIM karta.</string>
     <string name="keyguard_missing_sim_instructions">Vložte SIM kartu.</string>
     <string name="keyguard_missing_sim_instructions_long">SIM karta chybí nebo není čitelná. Vložte SIM kartu.</string>
-    <string name="keyguard_permanent_disabled_sim_message_short">Unusable SIM card.</string>
+    <string name="keyguard_permanent_disabled_sim_message_short">Nepoužitelná SIM karta.</string>
     <string name="keyguard_permanent_disabled_sim_instructions">"Vaše SIM karta byla natrvalo zablokována.
  Požádejte svého operátora o jinou SIM kartu."</string>
     <string name="keyguard_sim_locked_message">SIM karta je uzamčena.</string>
     <string name="keyguard_sim_puk_locked_message">SIM karta je zamčená PUKem.</string>
-    <string name="keyguard_sim_unlock_progress_dialog_message">Unlocking SIM card…</string>
+    <string name="keyguard_sim_unlock_progress_dialog_message">Odemykání SIM karty…</string>
     <string name="keyguard_widget_12_hours_format">hmm</string>
     <string name="keyguard_widget_24_hours_format">kkmm</string>
     <string name="keyguard_accessibility_widget_changed">%1$s. Widget %2$d z %3$d.</string>
     <string name="keyguard_accessibility_add_widget">Přidat widget.</string>
     <string name="keyguard_accessibility_widget_empty_slot">Prázdný</string>
-    <string name="keyguard_accessibility_unlock_area_expanded">Unlock area expanded.</string>
-    <string name="keyguard_accessibility_unlock_area_collapsed">Unlock area collapsed.</string>
+    <string name="keyguard_accessibility_unlock_area_expanded">Oblast odemknutí byla rozšířena.</string>
+    <string name="keyguard_accessibility_unlock_area_collapsed">Oblast odemknutí byla sbalena.</string>
     <string name="keyguard_accessibility_widget">%1$s widget.</string>
-    <string name="keyguard_accessibility_user_selector">User selector</string>
+    <string name="keyguard_accessibility_user_selector">Výběr uživatele</string>
     <string name="keyguard_accessibility_camera">Fotoaparát</string>
     <string name="keygaurd_accessibility_media_controls">Ovládání médií</string>
     <string name="keyguard_accessibility_widget_reorder_start">Widget reordering started.</string>
@@ -476,7 +476,7 @@ Také jste připojeni k síti VPN (\"%3$s\"). Poskytovatel služby VPN může ta
     <string name="keyguard_accessibility_transport_thumbs_up_description">Palec nahoru</string>
     <string name="keyguard_accessibility_transport_thumbs_down_description">Palec dolů</string>
     <string name="keyguard_accessibility_transport_heart_description">Srdce</string>
-    <string name="keyguard_accessibility_show_bouncer">Unlock to continue</string>
+    <string name="keyguard_accessibility_show_bouncer">Odemknout pro pokračování</string>
     <string name="keyguard_accessibility_hide_bouncer">Spuštění zrušeno</string>
     <string name="keyguard_accessibility_delete_widget_start">Pustit %1$s pro odstranění.</string>
     <string name="keyguard_accessibility_delete_widget_end">%1$s nebude smazán.</string>
@@ -491,7 +491,7 @@ Také jste připojeni k síti VPN (\"%3$s\"). Poskytovatel služby VPN může ta
     <string name="keyboardview_keycode_mode_change">Změna režimu</string>
     <string name="keyboardview_keycode_shift">Posun</string>
     <string name="keyboardview_keycode_enter">Zadat</string>
-    <string name="description_target_unlock">Unlock</string>
+    <string name="description_target_unlock">Odemknout</string>
     <string name="description_target_camera">Fotoaparát</string>
     <string name="description_target_silent">Tichý</string>
     <string name="description_target_soundon">Zapnout zvuk</string>
@@ -513,14 +513,14 @@ Také jste připojeni k síti VPN (\"%3$s\"). Poskytovatel služby VPN může ta
     <string name="kg_puk_enter_puk_hint_multi">SIM karta \"%1$s\" je nyní zakázána. Zadejte kód PUK pro pokračování. Pro podrobnosti kontaktujte operátora.</string>
     <string name="kg_puk_enter_pin_hint">Zadejte požadovaný kód PIN</string>
     <string name="kg_enter_confirm_pin_hint">Potvrdit požadovaný PIN kód</string>
-    <string name="kg_sim_unlock_progress_dialog_message">Unlocking SIM card…</string>
+    <string name="kg_sim_unlock_progress_dialog_message">Odemykání SIM karty…</string>
     <string name="kg_invalid_sim_pin_hint">Zadejte PIN2 o délce 4 až 8 číslic.</string>
     <string name="kg_invalid_sim_puk_hint">Kód PUK by měl mít 8 nebo více čísel.</string>
     <string name="kg_invalid_puk">Znovu zadejte správný kód PUK. Opakované pokusy trvale poškodí SIM.</string>
     <string name="kg_invalid_confirm_pin_hint">PIN kódy se neshodují</string>
     <string name="kg_login_too_many_attempts">Příliš mnoho pokusů o vzor</string>
     <string name="kg_login_instructions">Chcete-li odemknout, přihlaste se pomocí svého účtu Google.</string>
-    <string name="kg_login_username_hint">Username (email)</string>
+    <string name="kg_login_username_hint">Uživatelské jméno (e-mail)</string>
     <string name="kg_login_password_hint">Heslo</string>
     <string name="kg_login_submit_button">Přihlásit se</string>
     <string name="kg_login_invalid_input">Nesprávné jméno nebo heslo.</string>
