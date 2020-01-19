@@ -191,7 +191,7 @@
     <string name="connect">Připojení</string>
     <string name="common">Hlavní</string>
     <string name="device">Zařízení</string>
-    <string name="units_set">Unit Setting</string>
+    <string name="units_set">Nastavení jednotek</string>
     <string name="auto_airplane">Naplánováno</string>
     <string name="wifi_upload">Data</string>
     <string name="wifi_upload_title">Synchronizace dat</string>
@@ -353,9 +353,9 @@
     <string name="nodisturb_close_string">Vyp.</string>
     <string name="nodisturb_timepicker_connect_symbol">:</string>
     <string name="auto_nodisturb_title_string">Automaticky nerušit</string>
-    <string name="auto_nodisturb_start_time_string">Turn-on time</string>
+    <string name="auto_nodisturb_start_time_string">Čas zapnutí</string>
     <string name="auto_screen_wristup_start_time_string">Od</string>
-    <string name="auto_nodisturb_end_time_string">Turn-off time</string>
+    <string name="auto_nodisturb_end_time_string">Čas vypnutí</string>
     <string name="auto_screen_wristup_end_time_string">Do</string>
     <string name="time_to">Do</string>
     <string name="wrist_up_hand">Zvednout zápěstí</string>
@@ -396,8 +396,8 @@ a je poblíž"</string>
     <string name="bluetooth_pairing_pin_error_message">"Nelze spárovat s %1$s z důvodu nesprávného PIN nebo hesla."</string>
     <string name="bluetooth_pairing_device_down_error_message">"S %1$s nelze komunikovat."</string>
     <string name="bluetooth_pairing_rejected_error_message">Párování odmítnuto %1$s.</string>
-    <string name="bluetooth_turning_on">Turning Bluetooth on…</string>
-    <string name="bluetooth_turning_off">Turning Bluetooth off…</string>
+    <string name="bluetooth_turning_on">Zapínání Bluetooth…</string>
+    <string name="bluetooth_turning_off">Vypínání Bluetooth…</string>
     <string name="bluetooth_enabled">Bluetooth je zapnutý</string>
     <string name="bluetooth_disabled">Bluetooth je vypnutý</string>
     <string name="bluetooth_unknown">Unknown state</string>
@@ -455,7 +455,7 @@ všechna data v hodinkách budou smazána, a hodinky budou odpojeny od vašeho m
     <string name="reset_factory_fail_msg">Pokud karta UnionPay není úspěšně odstraněna, zkuste to prosím znovu.</string>
     <string name="reset_factory_fail_positive">Ok</string>
     <string name="reset_factory_doing1">Obnovuje se tovární nastavení</string>
-    <string name="reset_factory_doing2">UnionPay Card Is Being Removed</string>
+    <string name="reset_factory_doing2">Karta UnionPay je odstraněna</string>
     <string name="reset_factory_bank_title">Nejprve odeberte kartu UnionPay</string>
     <string name="reset_factory_bank_msg">"Pokud resetujete hodinky bez odebrání karty UnionPay, způsobí to následující: 
  1. Nelze ji odstranit z hodinek, zabírá místo v čipu; 2. Nelze použít platební funkci v hodinkách; 3. Nelze být navázána s jinými zařízeními. Pro zabezpečení plateb odstraňte nejprve kartu UnionPay z aplikace Amazfit aplikace."</string>
@@ -488,8 +488,8 @@ všechna data v hodinkách budou smazána, a hodinky budou odpojeny od vašeho m
     <string name="lockpattern_cancel">Heslo vzorem</string>
     <string name="lockpattern_change">Změnit heslo</string>
     <string name="lockpattern_change_state">Změnit stav hodinek</string>
-    <string name="lockpattern_exist">Turned on</string>
-    <string name="lockpattern_exist_no">Turned Off</string>
+    <string name="lockpattern_exist">Zapnuto</string>
+    <string name="lockpattern_exist_no">Vypnuto</string>
     <string name="unlock_disable_lock_pattern_summary">Odstranit odemykací vzor</string>
     <string name="unlock_disable_frp_warning_content">Funkce ochrany zařízení už nebude fungovat.</string>
     <string name="okay">Potvrdit</string>
