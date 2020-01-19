@@ -25,9 +25,9 @@ Používejte pouze dodávanou nabíječku."</string>
     <string name="invalid_charger_title">USB charging not supported.</string>
     <string name="invalid_charger_text">Use only the supplied charger.</string>
     <string name="battery_low_why">Nastavení</string>
-    <string name="battery_saver_confirmation_title">Turn on battery saver?</string>
-    <string name="battery_saver_confirmation_ok">Turn on</string>
-    <string name="battery_saver_start_action">Turn on battery saver</string>
+    <string name="battery_saver_confirmation_title">Zapnout spořič baterie?</string>
+    <string name="battery_saver_confirmation_ok">Zapnout</string>
+    <string name="battery_saver_start_action">Zapnout spořič baterie</string>
     <string name="status_bar_settings_settings_button">Nastavení</string>
     <string name="status_bar_settings_wifi_button">Wi-Fi</string>
     <string name="status_bar_settings_airplane">Režim letadlo</string>
@@ -194,7 +194,7 @@ Používejte pouze dodávanou nabíječku."</string>
     <string name="data_usage_disabled_dialog">"Váš přístroj vypnul data, protože dosáhl nastaveného limitu.
 
 Jejich opětovné zapnutí může vést k poplatkům od vašeho operátora."</string>
-    <string name="data_usage_disabled_dialog_enable">Turn on data</string>
+    <string name="data_usage_disabled_dialog_enable">Zapnout data</string>
     <string name="status_bar_settings_signal_meter_disconnected">Žádné připojení k Internetu</string>
     <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi connected</string>
     <string name="gps_notification_searching_text">Čekání na GPS</string>
@@ -315,7 +315,7 @@ monitorována"</string>
 Každý uživatel může aktualizovat aplikace pro všechny ostatní uživatele."</string>
     <string name="battery_saver_notification_title">Spořič baterie je zapnutý</string>
     <string name="battery_saver_notification_text">Sníží výkon a data na pozadí</string>
-    <string name="battery_saver_notification_action_text">Turn off battery saver</string>
+    <string name="battery_saver_notification_action_text">Vypnout spořič baterie</string>
     <string name="notification_hidden_text">Skrytý obsah</string>
     <string name="media_projection_dialog_text">"%s začne zachycovat vše, co se zobrazí na vaší obrazovce."</string>
     <string name="media_projection_remember_text">"Znovu nezobrazovat"</string>
@@ -503,7 +503,7 @@ Také jste připojeni k síti VPN (\"%3$s\"). Poskytovatel služby VPN může ta
     <string name="kg_wrong_pattern">Wrong Pattern</string>
     <string name="kg_wrong_password">Wrong Password</string>
     <string name="kg_wrong_pin">Wrong PIN</string>
-    <string name="kg_too_many_failed_attempts_countdown">Try again in %d seconds.</string>
+    <string name="kg_too_many_failed_attempts_countdown">Zkuste to znovu za %d sekund.</string>
     <string name="kg_pattern_instructions">Nakreslete svůj vzor</string>
     <string name="kg_sim_pin_instructions">Zadejte PIN SIM karty</string>
     <string name="kg_sim_pin_instructions_multi">Zadejte PIN SIM karty pro \"%1$s\"</string>
