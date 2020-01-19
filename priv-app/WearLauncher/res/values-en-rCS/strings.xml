@@ -35,7 +35,7 @@
  %1$s"</string>
     <string name="quick_settings_more_settings">Další nastavení</string>
     <string name="quick_settings_switch_auto">Automatický režim</string>
-    <string name="quick_settings_switch_awake">Wake mode</string>
+    <string name="quick_settings_switch_awake">Režim probuzení</string>
     <string name="quick_settings_switch_always">Vždy zapnuto</string>
     <string name="quick_settings_switch_on">Zapnout</string>
     <string name="quick_settings_switch_off">Vypnout</string>
@@ -94,9 +94,9 @@ před méně než 1 hodinou“</string>
     <string name="action_success">Hotovo!</string>
     <string name="action_working">Working…</string>
     <string name="activity_not_found">Vyskytla se chyba.</string>
-    <string name="data_checkfail_match">Weather type field not matched</string>
-    <string name="data_checkfail_temp">Weather temperature out of range</string>
-    <string name="data_checkfail_type">Weather type not recognized</string>
+    <string name="data_checkfail_match">Pole typu počasí neodpovídá</string>
+    <string name="data_checkfail_temp">Teplota mimo rozsah</string>
+    <string name="data_checkfail_type">Typ počasí nebyl rozpoznán</string>
     <string name="wathc_disconnection_content">Odpojeno od telefonu</string>
     <string name="wathc_disconnection_title">Nepřipojeno</string>
     <string name="notification_block">Blokovat</string>
@@ -161,16 +161,16 @@ před méně než 1 hodinou“</string>
     <string name="not_avalible_type">Žádná data</string>
     <string name="not_avalible_temp">--</string>
     <string name="air_quality">Kvalita vzduchu </string>
-    <string name="weather_title">Weather today</string>
+    <string name="weather_title">Počasí dnes</string>
     <string name="dot"> </string>
     <string name="forecast_today">Dnes</string>
     <string name="forecast_tomorrow">Zítra</string>
-    <string name="weather_warning">Warning</string>
+    <string name="weather_warning">Varování</string>
     <string name="weather_warning_level_blue">Modrá</string>
     <string name="weather_warning_level_orange">Oranžová</string>
     <string name="weather_warning_level_red">Červená</string>
     <string name="weather_warning_level_yellow">Yellow</string>
-    <string name="weather_warning_level_def">Warning</string>
+    <string name="weather_warning_level_def">Varování</string>
     <string name="weather_warning_level_white">White</string>
     <string name="weather_warning_level_black">Černá</string>
     <string name="weather_warning_typhoon">Tajfun</string>
@@ -200,8 +200,8 @@ před méně než 1 hodinou“</string>
     <string name="wind_strength">Wind force</string>
     <string name="moisture">Vlhkost</string>
     <string name="uv">UV index</string>
-    <string name="detailed">Weather details</string>
-    <string name="forecast">Weather forecast</string>
+    <string name="detailed">Podrobnosti o počasí</string>
+    <string name="forecast">Předpověď počasí</string>
     <string name="fetching">Chvilku strpení…</string>
     <string name="fetch_failed">"Nelze získat informace"</string>
     <string name="fetch_failed_title">"Nelze získat informace o počasí"</string>
@@ -211,7 +211,7 @@ před méně než 1 hodinou“</string>
     <string name="average_text">Průměr</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="running">Běh</string>
-    <string name="waking">Walking</string>
+    <string name="waking">Chůze</string>
     <string name="indoor_running">Běžecký pás</string>
     <string name="outdoor_riding">Venkovní cyklistika</string>
     <string name="indoor_riding">Sálová cyklistika</string>
@@ -254,13 +254,13 @@ před méně než 1 hodinou“</string>
     <string name="please_get_ready_for_riding">Další: cyklistika</string>
     <string name="please_get_ready_for_swimming">Další: plavání</string>
     <string name="gps_ready">GPS je dostupné</string>
-    <string name="gps_wait">Waiting for GPS…</string>
+    <string name="gps_wait">Čekání na GPS…</string>
     <string name="gps_fail">"Nelze nastavit polohu pomocí GPS"</string>
     <string name="gps_singal_lost">"GPS signál není k dispozici"</string>
     <string name="gps_close_1">Žádný pohyb po dlouhou dobu,</string>
     <string name="gps_close_2">GPS byla vypnuta.</string>
     <string name="heartrate">Tepová frekvence</string>
-    <string name="warmup">Warm Up</string>
+    <string name="warmup">Zahřátí</string>
     <string name="fatburn">Spalování tuků</string>
     <string name="heartlung">Aerobní</string>
     <string name="strength">Anaerobní</string>
