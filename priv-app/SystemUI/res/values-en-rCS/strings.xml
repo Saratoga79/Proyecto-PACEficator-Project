@@ -113,7 +113,7 @@ Používejte pouze dodávanou nabíječku."</string>
     <string name="accessibility_not_connected">Nepřipojeno.</string>
     <string name="accessibility_zero_bars">Zero bars.</string>
     <string name="accessibility_one_bar">Jedna čárka.</string>
-    <string name="accessibility_two_bars">Two bars.</string>
+    <string name="accessibility_two_bars">Dvě čárky.</string>
     <string name="accessibility_three_bars">Tři čárky.</string>
     <string name="accessibility_signal_full">Plný signál.</string>
     <string name="accessibility_desc_on">Zap.</string>
@@ -418,13 +418,13 @@ Také jste připojeni k síti VPN (\"%3$s\"). Poskytovatel služby VPN může ta
     <string name="clock_12hr_format">hm</string>
     <string name="clock_24hr_format">Hm</string>
     <string name="app_name">Keyguard</string>
-    <string name="keyguard_password_enter_pin_code">Type PIN code</string>
-    <string name="keyguard_password_enter_puk_code">Type SIM PUK and new PIN code</string>
+    <string name="keyguard_password_enter_pin_code">Zadejte PIN kód</string>
+    <string name="keyguard_password_enter_puk_code">Zadejte PUK SIM karty a nový PIN kód</string>
     <string name="keyguard_password_enter_puk_prompt">Kód PUK SIM karty</string>
     <string name="keyguard_password_enter_pin_prompt">Nový PIN SIM karty</string>
     <string name="keyguard_password_entry_touch_hint"><font size="17">Dotkněte se pro zadání hesla</font></string>
-    <string name="keyguard_password_enter_password_code">Type password to unlock</string>
-    <string name="keyguard_password_enter_pin_password_code">Type PIN to unlock</string>
+    <string name="keyguard_password_enter_password_code">Zadejte heslo pro odemknutí</string>
+    <string name="keyguard_password_enter_pin_password_code">Zadejte PIN pro odemknutí</string>
     <string name="keyguard_password_wrong_pin_code">Nesprávný PIN kód.</string>
     <string name="keyguard_label_text">Chcete-li odemknout, stiskněte Menu a pak 0.</string>
     <string name="faceunlock_multiple_failures">Byl překročen maximální počet pokusů o odemknutí obličejem</string>
@@ -514,7 +514,7 @@ Také jste připojeni k síti VPN (\"%3$s\"). Poskytovatel služby VPN může ta
     <string name="kg_puk_enter_pin_hint">Zadejte požadovaný kód PIN</string>
     <string name="kg_enter_confirm_pin_hint">Potvrdit požadovaný PIN kód</string>
     <string name="kg_sim_unlock_progress_dialog_message">Unlocking SIM card…</string>
-    <string name="kg_invalid_sim_pin_hint">Type a PIN that is 4 to 8 numbers.</string>
+    <string name="kg_invalid_sim_pin_hint">Zadejte PIN2 o délce 4 až 8 číslic.</string>
     <string name="kg_invalid_sim_puk_hint">Kód PUK by měl mít 8 nebo více čísel.</string>
     <string name="kg_invalid_puk">Znovu zadejte správný kód PUK. Opakované pokusy trvale poškodí SIM.</string>
     <string name="kg_invalid_confirm_pin_hint">PIN kódy se neshodují</string>
