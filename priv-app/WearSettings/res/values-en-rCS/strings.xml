@@ -163,7 +163,7 @@
     <string name="find_phone">Najít můj telefon</string>
     <string name="bluetooth_dev">Bluetooth</string>
     <string name="wifi_dev">Wi-Fi</string>
-    <string name="check_for_update">Update</string>
+    <string name="check_for_update">Aktualizovat</string>
     <string name="change_language">Jazyk</string>
     <string name="reset_factory">Tovární reset</string>
     <string name="shut_down">Vypnout</string>
@@ -180,7 +180,7 @@
     <string name="light_change">Jas</string>
     <string name="wrist_up">Wrist raise to</string>
     <string name="double_click_wakeup">Dvojitým poklepáním odemknout</string>
-    <string name="vibration_intensity">Vibration Intensity</string>
+    <string name="vibration_intensity">Intenzita vibrací</string>
     <string name="flight_mode">Řežim letadlo</string>
     <string name="hm_lab">Huami Lab</string>
     <string name="bind_app">Spojit</string>
@@ -331,7 +331,7 @@
     <string name="license">Právní prohlášení</string>
     <string name="regulatory">Regulatory</string>
     <string name="regulatory_summary">Zjistit více</string>
-    <string name="unlock">Unlocked</string>
+    <string name="unlock">Odemčeno</string>
     <string name="build_time">[DEBUG]Build time</string>
     <string name="build_desc">[DEBUG]Build description</string>
     <string name="legal">Zkontrolujte prosím</string>
@@ -369,13 +369,13 @@
     <string name="blt_bound_stat_disconnect">Odpojeno</string>
     <string name="blt_bound_stat_bonding">Párování...</string>
     <string name="blt_bound_stat_none">Dostupné</string>
-    <string name="blt_default_name">Unnamed</string>
+    <string name="blt_default_name">Bez názvu</string>
     <string name="blt_hint_disconnect">"Odpojit %1s?"</string>
     <string name="blt_hint_connect">"Připojit %1s?"</string>
     <string name="blt_hint_connect_fail">Připojení selhalo, zkuste to prosím znovu</string>
     <string name="blt_type_ear">Náhlavní sada</string>
     <string name="blt_speaker">Audio</string>
-    <string name="blt_car_system">Vehicle-mounted</string>
+    <string name="blt_car_system">Namontované na vozidlo</string>
     <string name="blt_type_mabiao">MW</string>
     <string name="blt_not_support">[Only test]</string>
     <string name="bluetooth_pair_tips">Kód párování</string>
@@ -400,7 +400,7 @@ a je poblíž"</string>
     <string name="bluetooth_turning_off">Vypínání Bluetooth…</string>
     <string name="bluetooth_enabled">Bluetooth je zapnutý</string>
     <string name="bluetooth_disabled">Bluetooth je vypnutý</string>
-    <string name="bluetooth_unknown">Unknown state</string>
+    <string name="bluetooth_unknown">Neznámý stav</string>
     <string name="bluetooth_disconnect_title">Odpojit?</string>
     <string name="bluetooth_connect_title">Připojit?</string>
     <string name="phone_finding">Hledám telefon...</string>
@@ -416,7 +416,7 @@ a je poblíž"</string>
     <string name="light_off">Vyp.</string>
     <string name="light_auto">Auto</string>
     <string name="light_on">Vždy zapnuto</string>
-    <string name="rise_no_bl_under_slpt">Unlocked Only</string>
+    <string name="rise_no_bl_under_slpt">Pouze odemknuté</string>
     <string name="subtitle_of_raise_hand_no_bl">Auto, když je odemčeno</string>
     <string name="rise_with_bl_under_slpt">Zap.</string>
     <string name="rise_without_bl_under_slpt">Vyp.</string>
@@ -451,7 +451,7 @@ všechna data v hodinkách budou smazána, a hodinky budou odpojeny od vašeho m
     <string name="reset_factory_conncet_msg">Watch and Amazfit App will Remove the Bound UnionPay Card. The Watch will Retain the Payment Function of the Transportation Card.</string>
     <string name="reset_factory_positive">Tovární reset</string>
     <string name="reset_factory_negative">Zrušit</string>
-    <string name="reset_factory_fail_title">Unsuccessful Factory Reset</string>
+    <string name="reset_factory_fail_title">Obnovení továrního nastavení se nezdařilo</string>
     <string name="reset_factory_fail_msg">Pokud karta UnionPay není úspěšně odstraněna, zkuste to prosím znovu.</string>
     <string name="reset_factory_fail_positive">Ok</string>
     <string name="reset_factory_doing1">Obnovuje se tovární nastavení</string>
@@ -516,8 +516,8 @@ všechna data v hodinkách budou smazána, a hodinky budou odpojeny od vašeho m
     <string name="ultra_title">Ultra mód</string>
     <string name="ultra_desc">"Režim Ultra výrazně prodlouží výdrž baterie a přitom podporuje hlavní funkce hodinek."</string>
     <string name="ultra_enter">Ultra mód</string>
-    <string name="sync_sport_data_before_reboot_title">Unsynchronized exercise records are found.</string>
-    <string name="sync_sport_data_before_reboot_summary">Unsynchronized records cannot be viewed on your phone. Please sync the records before switching modes. Open the Amazfit app and pull down to sync. Continue to switch?</string>
+    <string name="sync_sport_data_before_reboot_title">Byly nalezeny nesynchronizované záznamy cvičení.</string>
+    <string name="sync_sport_data_before_reboot_summary">Nelze zobrazit nesynchronizované záznamy v telefonu. Před přepnutím režimů prosím synchronizujte záznamy. Otevřete aplikaci Amazfit a stáhněte ji dolů pro synchronizaci. Pokračovat v přepínání?</string>
     <string name="sync_sport_data_before_reboot_dont_reboot">Ne</string>
     <string name="sync_sport_data_before_reboot_reboot_now">Ano</string>
     <string name="unit_metric">Metrický</string>
@@ -557,7 +557,7 @@ všechna data v hodinkách budou smazána, a hodinky budou odpojeny od vašeho m
     <string name="blt_hint_connect_device">Připojit</string>
     <string name="blt_hint_disconnect_device">Odpojit</string>
     <string name="lab_desc">Sběrná část nástrojů pro ladění</string>
-    <string name="unknown">Unknown device</string>
+    <string name="unknown">Neznámé zařízení</string>
     <string name="bind_tips_title">"Pro lepší ochranu 
  vašich dat připojte"</string>
     <string name="upgrade_checking">Kontrola aktualizací...</string>
