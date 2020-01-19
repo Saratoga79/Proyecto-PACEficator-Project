@@ -12,7 +12,7 @@
     <string name="status_bar_clear_all_button">Vyčistit</string>
     <string name="status_bar_recent_remove_item_title">Odebrat ze seznamu</string>
     <string name="status_bar_recent_inspect_item_title">O aplikaci</string>
-    <string name="status_bar_no_recent_apps">Your recent screens appear here</string>
+    <string name="status_bar_no_recent_apps">Zde se zobrazí vaše nedávné obrazovky</string>
     <string name="status_bar_accessibility_dismiss_recents">Zapomenout nedávné aplikace</string>
     <string name="status_bar_no_notifications_title">Žádná oznámení</string>
     <string name="status_bar_ongoing_events_title">Probíhající</string>
@@ -111,7 +111,7 @@ Používejte pouze dodávanou nabíječku."</string>
     <string name="accessibility_wimax_signal_full">Plný signál WiMAX.</string>
     <string name="accessibility_no_signal">Žádný signál.</string>
     <string name="accessibility_not_connected">Nepřipojeno.</string>
-    <string name="accessibility_zero_bars">Zero bars.</string>
+    <string name="accessibility_zero_bars">Žádná čárka.</string>
     <string name="accessibility_one_bar">Jedna čárka.</string>
     <string name="accessibility_two_bars">Dvě čárky.</string>
     <string name="accessibility_three_bars">Tři čárky.</string>
@@ -263,7 +263,7 @@ Jejich opětovné zapnutí může vést k poplatkům od vašeho operátora."</st
     <string name="quick_settings_cellular_detail_data_used">%s použito</string>
     <string name="quick_settings_cellular_detail_data_limit">%s limit</string>
     <string name="quick_settings_cellular_detail_data_warning">%s varování</string>
-    <string name="recents_empty_message">Your recent screens appear here</string>
+    <string name="recents_empty_message">Zde se zobrazí vaše nedávné obrazovky</string>
     <string name="recents_app_info_button_label">Informace o aplikaci</string>
     <string name="recents_lock_to_app_button_label">připnutí obrazovky</string>
     <string name="recents_search_bar_label">hledat</string>
@@ -281,9 +281,9 @@ monitorována"</string>
     <string name="zen_no_interruptions_with_warning">Žádné vyrušení, ani budíky.</string>
     <string name="zen_no_interruptions">Žádné přerušení</string>
     <string name="zen_important_interruptions">Pouze prioritní vyrušení</string>
-    <string name="zen_alarm_information_time">Your next alarm is at %s</string>
-    <string name="zen_alarm_information_day_time">Your next alarm is %s</string>
-    <string name="zen_alarm_warning">"You won't hear your alarm at %s"</string>
+    <string name="zen_alarm_information_time">Váš další budík je v %s</string>
+    <string name="zen_alarm_information_day_time">Váš další budík je %s</string>
+    <string name="zen_alarm_warning">"Neuslyšíte váš budík v %s"</string>
     <string name="keyguard_more_overflow_text">+%d</string>
     <string name="speed_bump_explanation">Méně naléhavá oznámení níže</string>
     <string name="notification_tap_again">Dotkněte se znovu pro otevření</string>
@@ -308,7 +308,7 @@ monitorována"</string>
     <string name="guest_wipe_session_title">Vítejte zpět, hoste!</string>
     <string name="guest_wipe_session_message">Chcete pokračovat v relaci?</string>
     <string name="guest_wipe_session_wipe">Začit znovu</string>
-    <string name="guest_wipe_session_dontwipe">Yes, continue</string>
+    <string name="guest_wipe_session_dontwipe">Ano, pokračovat</string>
     <string name="user_add_user_title">Přidat nového uživatele?</string>
     <string name="user_add_user_message_short">"Když přidáte nového uživatele, musí tato osoba nastavit svůj prostor.
 
@@ -536,12 +536,12 @@ Zkuste znovu za %d sekund."</string>
     <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Nakreslili jste %d krát nesprávně své gesto pro odemknutí.
 
 Zkuste znovu za %d sekund."</string>
-    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">You have incorrectly attempted to unlock the tablet %d times. After %d more unsuccessful attempts, this tablet will be reset, which will delete all its data.</string>
-    <string name="kg_failed_attempts_now_wiping">You have incorrectly attempted to unlock the tablet %d times. This tablet will be reset, which will delete all its data.</string>
-    <string name="kg_failed_attempts_almost_at_erase_user" formatted="false">You have incorrectly attempted to unlock the tablet %d times. After %d more unsuccessful attempts, this user will be removed, which will delete all user data.</string>
-    <string name="kg_failed_attempts_now_erasing_user">You have incorrectly attempted to unlock the tablet %d times. This user will be removed, which will delete all user data.</string>
-    <string name="kg_failed_attempts_almost_at_erase_profile" formatted="false">You have incorrectly attempted to unlock the tablet %d times. After %d more unsuccessful attempts, the work profile will be removed, which will delete all profile data.</string>
-    <string name="kg_failed_attempts_now_erasing_profile">You have incorrectly attempted to unlock the tablet %d times. The work profile will be removed, which will delete all profile data.</string>
+    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Neúspěšně jste se pokusili odemknout tablet %d krát. Po dalších %d neúspěšných pokusech bude tento tablet resetován, čímž se odstraní všechna jeho data.</string>
+    <string name="kg_failed_attempts_now_wiping">Neúspěšně jste se pokoušeli odemknout tablet %d krát. Tento tablet bude resetován, čímž se odstraní všechna data.</string>
+    <string name="kg_failed_attempts_almost_at_erase_user" formatted="false">Neúspěšně jste se pokusili odemknout tablet %d krát. Po %d neúspěšných pokusech bude tento uživatel odstraněn, čímž budou odstraněna všechna uživatelská data.</string>
+    <string name="kg_failed_attempts_now_erasing_user">Neúspěšně jste se pokusili odemknout tablet %d krát. Tento uživatel bude odstraněn, čímž se odstraní všechna uživatelská data.</string>
+    <string name="kg_failed_attempts_almost_at_erase_profile" formatted="false">Neúspěšně jste se pokusili odemknout tablet %d krát. Po dalších %d neúspěšných pokusech bude odstraněn pracovní profil, čímž se odstraní všechna data profilu.</string>
+    <string name="kg_failed_attempts_now_erasing_profile">Neúspěšně jste se pokusili odemknout tablet %d krát. Pracovní profil bude odstraněn, čímž se odstraní všechna data profilu.</string>
     <string name="kg_failed_attempts_almost_at_login" formatted="false">"Nesprávně jste %d krát nakreslili své gesto pro odemknutí. Po %d dalších neúspěšných pokusech budete požádáni o odemčení tabletu pomocí e-mailového účtu.
 
  Zkuste znovu za %d sekund."</string>
