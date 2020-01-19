@@ -5,14 +5,14 @@
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="running">Běh</string>
     <string name="waking">Walking</string>
-    <string name="indoor_running">Treadmill</string>
+    <string name="indoor_running">Běžecký pás</string>
     <string name="outdoor_riding">Venkovní cyklistika</string>
     <string name="indoor_riding">Sálová cyklistika</string>
     <string name="cross_contry">Terénní běh</string>
     <string name="eppitical">Eliptický trenažér</string>
     <string name="indoor_swimming">Bazénové plavání</string>
     <string name="outdoor_swimming">Plavání na otevřené vodě</string>
-    <string name="triathlon">Triathlon</string>
+    <string name="triathlon">Triatlon</string>
     <string name="mountain">Lezení</string>
     <string name="riding">Cyklistika</string>
     <string name="swimming">Plavání</string>
@@ -41,8 +41,8 @@
     <string name="sport_tennis_strokes">Údery</string>
     <string name="sport_rope_skip_count">Počet</string>
     <string name="sport_row_total_count">Celkem záběrů</string>
-    <string name="sport_change">Transition</string>
-    <string name="sport_change_time">Transition time</string>
+    <string name="sport_change">Přechod</string>
+    <string name="sport_change_time">Čas přechodu</string>
     <string name="please_get_ready_for_runnning">Další: běh</string>
     <string name="please_get_ready_for_riding">Další: cyklistika</string>
     <string name="please_get_ready_for_swimming">Další: plavání</string>
@@ -134,7 +134,7 @@
     <string name="widget_currentstep_activity_no">Dnes žádná aktivita?</string>
     <string name="settings_item_high_light_scale_factor">0.5</string>
     <string name="locale_title">Jazyk</string>
-    <string name="ring_turn_off">Turn off</string>
+    <string name="ring_turn_off">Vypnout</string>
     <string name="ring_hint_turn_off">Vyp.</string>
     <string name="alarm_bee">Bee</string>
     <string name="alarm_bee_bee">Bee-bee</string>
@@ -218,7 +218,7 @@
     <string name="sport_remind_end_title">Připomenutí vypnutí sportovního režimu</string>
     <string name="sport_remind_open_tips">When Turning On, It Will Remind You to Turn On the Motion Mode Quickly When It Detects That You Are Running or Sport Walking</string>
     <string name="sport_remind_end_tips">Po zapnutí vás upozorní na ukončení a uložení, když zjistí, že jste dokončili sport</string>
-    <string name="sport_remind_open">Turn on</string>
+    <string name="sport_remind_open">Zapnout</string>
     <string name="voice_set">Nastavení zvuku</string>
     <string name="ring">Vyzvánění</string>
     <string name="volume">Volume</string>
@@ -235,7 +235,7 @@
     <string name="auto_bg">Naplánováno</string>
     <string name="long_key_action">Dlouze podržte tlačítko pro otevření</string>
     <string name="recombind">Opětovné spojení</string>
-    <string name="lock_screen_auto">Turn Off Low Light Mode Regularly</string>
+    <string name="lock_screen_auto">Pravidelně vypněte režim slabého osvětlení</string>
     <string name="lock_screen_open">Zap.</string>
     <string name="lock_screen_close">Vyp.</string>
     <string name="vibration">Vibrace</string>
@@ -293,7 +293,7 @@
     <string name="gongkaiyou">Plavání na otevřené vodě</string>
     <string name="tuoyuanji">Eliptický trenažér</string>
     <string name="dengshan">Stoupat</string>
-    <string name="tierensan">Triathlon</string>
+    <string name="tierensan">Triatlon</string>
     <string name="multisport">Multisport</string>
     <string name="shineiqi">Sálová cyklistika</string>
     <string name="yundongjilu">Aktivity</string>
@@ -532,7 +532,7 @@ všechna data v hodinkách budou smazána, a hodinky budou odpojeny od vašeho m
     <string name="light_auto_guide_title">Auto přizpůsobení</string>
     <string name="light_auto_guide_content">Po zapnutí automatického nastavení posuňte posuvník k jemnému doladění koeficientu jasu, pak se jas obrazovky změní s jasem okolí.</string>
     <string name="light_auto_guide_ok">Vím to</string>
-    <string name="watch_mode_title">Turn on watch mode</string>
+    <string name="watch_mode_title">Zapnout režim hodinek</string>
     <string name="watch_mode_message">"Když je zapnuto, hodinky pouze podporují pouze zobrazení času, počítání kroků a platbu kartou. 
  (Když jej zapnete, stiskněte a podržte fyzické tlačítko pro ukončení tohoto režimu)"</string>
     <string name="watch_mode_positive">Potvrdit zapnutí</string>
