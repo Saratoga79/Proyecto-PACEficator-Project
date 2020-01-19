@@ -44,21 +44,21 @@ aktualizací?"</string>
 Aktualizovat nyní."</string>
     <string name="btn_install_later">Připomenout později</string>
     <string name="btn_install_now">Instalovat nyní</string>
-    <string name="btn_upgrade_now">Update now</string>
+    <string name="btn_upgrade_now">Aktualizovat nyní</string>
     <string name="wifi_no_password">Nešifrováno</string>
     <string name="wifi_has_password">Šifrováno</string>
     <string name="wifi_password_error">Nesprávné heslo</string>
     <string name="wifi_connecting">Připojování…</string>
-    <string name="wifi_auth">Verifying password…</string>
+    <string name="wifi_auth">Ověřování hesla…</string>
     <string name="wifi_get_ip">Načítání IP adresy…</string>
     <string name="wifi_link_fail">"Nelze se připojit"</string>
     <string name="wifi_connected">Připojeno</string>
     <string name="wifi_title">Vybrat síť</string>
     <string name="wifi_wait_password">Waiting for password…</string>
-    <string name="toast_please_update_first">Update first</string>
+    <string name="toast_please_update_first">Nejprve aktualizovat</string>
     <string name="wifi_turnon_going">Zapínání Wi-Fi…</string>
-    <string name="system_update_title">Updated successfully</string>
-    <string name="system_update_content">Upgraded to version %1$s successfully</string>
+    <string name="system_update_title">Úspěšně aktualizováno</string>
+    <string name="system_update_content">Úspěšně aktualizováno na verzi %1$s</string>
     <string name="password_error">"Nesprávné heslo k Wi-Fi,
 zadejte ho prosím znovu"</string>
     <string name="wifi_connect_fail">"Nelze se připojit k této
@@ -66,13 +66,13 @@ WiFi síti. Prosím,
 vyzkoušejte jinou."</string>
     <string name="searching">Vyhledávání…</string>
     <string name="hasNewUpdateTitle">Aktualizace je k dispozici</string>
-    <string name="hasNewUpdateInstallContent">Version %1$s is ready to install. Install now?</string>
-    <string name="hasNewUpdateCheckContent">Version %1$s is available. Update now?</string>
+    <string name="hasNewUpdateInstallContent">Verze %1$s je připravena k instalaci. Instalovat nyní?</string>
+    <string name="hasNewUpdateCheckContent">Verze %1$s je k dispozici. Aktualizovat nyní?</string>
     <string name="update_title">Vyberte metodu aktualizace</string>
     <string name="update_online">OTA aktualizace</string>
     <string name="update_local">Místní ZIP soubor</string>
     <string name="local_update_confirm_1_title">Upozornění</string>
-    <string name="local_update_invalid_zip">Update to the latest version of the app</string>
+    <string name="local_update_invalid_zip">Aktualizovat na nejnovější verzi aplikace</string>
     <string name="local_update_confirm_1_msg">"Chcete-li zajistit, aby nová verze 
 fungovala správně, vymažeme před aktualizací všechna 
 uživatelská data. Zálohujte vaše data pomocí aplikace Amazfit."</string>
