@@ -90,7 +90,7 @@
     <string name="detail_route_total_dis">Distancia Total</string>
     <string name="detail_route_detail_lap_title">Detalles de vuelta</string>
     <string name="detail_route_detail_manual_lap_title">Vuelta manual</string>
-    <string name="detail_route_detail_auto_lap_title">Vuelta automática</string>
+    <string name="detail_route_detail_auto_lap_title">Vuelta Automática</string>
     <string name="detail_lap_num">Vuelta</string>
     <string name="detail_lap_serial_number">Vuelta</string>
     <string name="detail_lap_time">Tiempo</string>
@@ -135,10 +135,10 @@
     <string name="settings_sport_items">Pantalla de datos</string>
     <string name="settings_sport_3d_data">Datos 3D</string>
     <string name="settings_sport_real_graph">Estadística en tiempo real</string>
-    <string name="settings_sport_auto_section">Vuelta auto.</string>
+    <string name="settings_sport_auto_section">Vuelta Automática</string>
     <string name="settings_sport_lap">Vuelta</string>
-    <string name="settings_sport_lap_auto">Vuelta automática</string>
-    <string name="settings_sport_lap_auto_remind">Aviso Vuelta auto.</string>
+    <string name="settings_sport_lap_auto">Vuelta Automática</string>
+    <string name="settings_sport_lap_auto_remind">Alerta Vuelta Automática</string>
     <string name="settings_sport_target_TE">Objetivo TE</string>
     <string name="settings_sport_swim_length">Tamaño de la pisciona</string>
     <string name="settings_sport_swim_title">Tamaño de la pisciona (m)</string>
@@ -250,7 +250,7 @@
     <string name="sport_graph_title_high">Mayor</string>
     <string name="sport_graph_title_low">Menor</string>
     <string name="adjust_content">%1$dm</string>
-    <string name="adjust_tips_title">Ajuste de distancia automática renombrado</string>
+    <string name="adjust_tips_title">Ajuste de distancia de vuelta automática cambiado</string>
     <string name="adjust_swim_tips">La distancia de la vuelta automática ahora es el tamaño de la piscina. Puedes cambiarla en ajustes de Natación si fuese necesario.</string>
     <string name="hill_title">Cambios de inclinación</string>
     <string name="hill_even">Plano</string>
@@ -900,9 +900,9 @@ para un ejercicio más efectivo\"</string>
     <string name="no_gps_title">GPS no disponible</string>
     <string name="no_gps_content">"La distancia no se puede medir con precisión, por favor vaya a un espacio abierto, al aire libre."</string>
     <string name="no_gps_button_text">OK</string>
-    <string name="settings_item_title_km_remind">Alerta de vuelta</string>
-    <string name="settings_item_title_mi_remind">Alerta de vuelta</string>
-    <string name="settings_item_title_km_voice_remind">Aviso por voz</string>
+    <string name="settings_item_title_km_remind">Alerta cada km</string>
+    <string name="settings_item_title_mi_remind">Alerta cada mi</string>
+    <string name="settings_item_title_km_voice_remind">Alertas de voz</string>
     <string name="settings_item_title_cal_burn_heartrate_remind">Alerta RC aeróbico</string>
     <string name="settings_item_title_safe_heartrate_remind">Alerta de RC</string>
     <string name="settings_item_title_auto_pause">Pausa automática</string>
