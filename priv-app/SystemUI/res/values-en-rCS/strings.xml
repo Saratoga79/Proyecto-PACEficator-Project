@@ -12,7 +12,7 @@
     <string name="status_bar_clear_all_button">Vyčistit</string>
     <string name="status_bar_recent_remove_item_title">Odebrat ze seznamu</string>
     <string name="status_bar_recent_inspect_item_title">O aplikaci</string>
-    <string name="status_bar_no_recent_apps">Your recent screens appear here</string>
+    <string name="status_bar_no_recent_apps">Zde se zobrazí vaše nedávné obrazovky</string>
     <string name="status_bar_accessibility_dismiss_recents">Zapomenout nedávné aplikace</string>
     <string name="status_bar_no_notifications_title">Žádná oznámení</string>
     <string name="status_bar_ongoing_events_title">Probíhající</string>
@@ -22,12 +22,12 @@
     <string name="battery_low_percent_format_saver_started">Zbývá %s. Spořič baterie je zapnutý.</string>
     <string name="invalid_charger">"Nabíjení přes USB není podporováno.
 Používejte pouze dodávanou nabíječku."</string>
-    <string name="invalid_charger_title">USB charging not supported.</string>
-    <string name="invalid_charger_text">Use only the supplied charger.</string>
+    <string name="invalid_charger_title">Nabíjení přes USB není podporováno.</string>
+    <string name="invalid_charger_text">Použít pouze dodávanou nabíječku.</string>
     <string name="battery_low_why">Nastavení</string>
-    <string name="battery_saver_confirmation_title">Turn on battery saver?</string>
-    <string name="battery_saver_confirmation_ok">Turn on</string>
-    <string name="battery_saver_start_action">Turn on battery saver</string>
+    <string name="battery_saver_confirmation_title">Zapnout spořič baterie?</string>
+    <string name="battery_saver_confirmation_ok">Zapnout</string>
+    <string name="battery_saver_start_action">Zapnout spořič baterie</string>
     <string name="status_bar_settings_settings_button">Nastavení</string>
     <string name="status_bar_settings_wifi_button">Wi-Fi</string>
     <string name="status_bar_settings_airplane">Režim letadlo</string>
@@ -44,24 +44,24 @@ Používejte pouze dodávanou nabíječku."</string>
     <string name="usb_device_confirm_prompt">Otevřít %1$s, když je toto USB zařízení připojeno?</string>
     <string name="usb_accessory_confirm_prompt">Otevřít %1$s, když je toto USB příslušenství připojeno?</string>
     <string name="usb_accessory_uri_prompt">Žádné nainstalované aplikace nefungují s tímto USB příslušenstvím. Více informací o tomto doplňku na %1$s</string>
-    <string name="title_usb_accessory">USB accessory</string>
-    <string name="label_view">View</string>
-    <string name="always_use_device">Use by default for this USB device</string>
-    <string name="always_use_accessory">Use by default for this USB accessory</string>
+    <string name="title_usb_accessory">Příslušenství USB</string>
+    <string name="label_view">Zobrazení</string>
+    <string name="always_use_device">Použít jako výchozí pro toto zařízení USB</string>
+    <string name="always_use_accessory">Použít jako výchozí pro toto USB příslušenství</string>
     <string name="usb_debugging_title">Povolit ladění USB?</string>
     <string name="usb_debugging_message">"RSA otisk počítače je:
 %1$s"</string>
     <string name="usb_debugging_always">Vždy povolit z tohoto počítače</string>
-    <string name="compat_mode_on">Zoom to fill screen</string>
+    <string name="compat_mode_on">Přiblížit pro vyplnění obrazovky</string>
     <string name="compat_mode_off">Roztáhnout pro vyplnění obrazovky</string>
     <string name="screenshot_saving_ticker">Ukládání snímku obrazovky…</string>
     <string name="screenshot_saving_title">Ukládání snímku obrazovky…</string>
     <string name="screenshot_saving_text">Snímek obrazovky se ukládá.</string>
     <string name="screenshot_saved_title">Snímek obrazovky zachycen.</string>
-    <string name="screenshot_saved_text">Touch to view your screenshot.</string>
+    <string name="screenshot_saved_text">Klepnutím zobrazíte snímek obrazovky.</string>
     <string name="screenshot_failed_title">"Nelze zachytit snímek obrazovky."</string>
     <string name="screenshot_failed_text">"Snímek obrazovky nelze pořídit z důvodu omezeného místa v úložišti, nebo to není povoleno aplikací nebo vaší organizací."</string>
-    <string name="usb_preference_title">USB file transfer options</string>
+    <string name="usb_preference_title">Možnosti přenosu souborů přes USB</string>
     <string name="use_mtp_button_title">Připojit jako přehrávač médií (MTP)</string>
     <string name="use_ptp_button_title">Připojit jako fotoaparát (PTP)</string>
     <string name="installer_cd_button_title">Instalovat aplikaci Android File Transfer pro Mac</string>
@@ -72,13 +72,13 @@ Používejte pouze dodávanou nabíječku."</string>
     <string name="accessibility_search_light">Hledat</string>
     <string name="accessibility_camera_button">Fotoaparát</string>
     <string name="accessibility_phone_button">Telefon</string>
-    <string name="accessibility_unlock_button">Unlock</string>
-    <string name="unlock_label">unlock</string>
+    <string name="accessibility_unlock_button">Odemknout</string>
+    <string name="unlock_label">odemknout</string>
     <string name="phone_label">spustit telefon</string>
     <string name="camera_label">spustit fotoaparát</string>
     <string name="accessibility_ime_switch_button">Tlačítko přepnutí metody zadávání.</string>
     <string name="accessibility_compatibility_zoom_button">Tlačítko zvětšení kompatibility.</string>
-    <string name="accessibility_compatibility_zoom_example">Zoom smaller to larger screen.</string>
+    <string name="accessibility_compatibility_zoom_example">Zvětšení menší na větší obrazovku.</string>
     <string name="accessibility_bluetooth_connected">Bluetooth připojeno.</string>
     <string name="accessibility_bluetooth_disconnected">Bluetooth odpojeno.</string>
     <string name="accessibility_no_battery">Žádná baterie.</string>
@@ -96,25 +96,25 @@ Používejte pouze dodávanou nabíječku."</string>
     <string name="accessibility_data_two_bars">Dvě čárky datového připojení.</string>
     <string name="accessibility_data_three_bars">Tři čárky datového připojení.</string>
     <string name="accessibility_data_signal_full">Plný signál datové sítě.</string>
-    <string name="accessibility_wifi_off">Wifi off.</string>
-    <string name="accessibility_no_wifi">Wifi disconnected.</string>
-    <string name="accessibility_wifi_one_bar">Wifi one bar.</string>
-    <string name="accessibility_wifi_two_bars">Wifi two bars.</string>
-    <string name="accessibility_wifi_three_bars">Wifi three bars.</string>
-    <string name="accessibility_wifi_signal_full">Wifi signal full.</string>
+    <string name="accessibility_wifi_off">Wi-Fi vyp.</string>
+    <string name="accessibility_no_wifi">WiFi odpojena.</string>
+    <string name="accessibility_wifi_one_bar">Jedna čárka Wi-Fi.</string>
+    <string name="accessibility_wifi_two_bars">Dvě čárky Wi-Fi.</string>
+    <string name="accessibility_wifi_three_bars">Tři čárky Wi-Fi.</string>
+    <string name="accessibility_wifi_signal_full">Plný Wi-fi signál.</string>
     <string name="accessibility_wifi_name">Připojeno k %s.</string>
     <string name="accessibility_bluetooth_name">Připojeno k %s.</string>
     <string name="accessibility_no_wimax">Žádný WiMAX.</string>
-    <string name="accessibility_wimax_one_bar">WiMAX one bar.</string>
-    <string name="accessibility_wimax_two_bars">WiMAX two bars.</string>
-    <string name="accessibility_wimax_three_bars">WiMAX three bars.</string>
-    <string name="accessibility_wimax_signal_full">WiMAX signal full.</string>
+    <string name="accessibility_wimax_one_bar">WiMAX jedna čárka.</string>
+    <string name="accessibility_wimax_two_bars">WiMAX dvě čárky.</string>
+    <string name="accessibility_wimax_three_bars">WiMAX tři čárky.</string>
+    <string name="accessibility_wimax_signal_full">Plný signál WiMAX.</string>
     <string name="accessibility_no_signal">Žádný signál.</string>
     <string name="accessibility_not_connected">Nepřipojeno.</string>
-    <string name="accessibility_zero_bars">Zero bars.</string>
+    <string name="accessibility_zero_bars">Žádná čárka.</string>
     <string name="accessibility_one_bar">Jedna čárka.</string>
-    <string name="accessibility_two_bars">Two bars.</string>
-    <string name="accessibility_three_bars">Three bars.</string>
+    <string name="accessibility_two_bars">Dvě čárky.</string>
+    <string name="accessibility_three_bars">Tři čárky.</string>
     <string name="accessibility_signal_full">Plný signál.</string>
     <string name="accessibility_desc_on">Zap.</string>
     <string name="accessibility_desc_off">Vyp.</string>
@@ -153,10 +153,10 @@ Používejte pouze dodávanou nabíječku."</string>
     <string name="accessibility_desc_lock_screen">Zamykací obrazovka.</string>
     <string name="accessibility_desc_settings">Nastavení</string>
     <string name="accessibility_desc_recent_apps">Přehled.</string>
-    <string name="accessibility_quick_settings_user">User %s.</string>
+    <string name="accessibility_quick_settings_user">Uživatel %s.</string>
     <string name="accessibility_quick_settings_wifi">%1$s.</string>
-    <string name="accessibility_quick_settings_wifi_changed_off">Wifi turned off.</string>
-    <string name="accessibility_quick_settings_wifi_changed_on">Wifi turned on.</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">Wi-Fi vypnuta.</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">Wi-Fi zapnuta.</string>
     <string name="accessibility_quick_settings_mobile">Mobile %1$s. %2$s. %3$s.</string>
     <string name="accessibility_quick_settings_battery">Baterie %s.</string>
     <string name="accessibility_quick_settings_airplane_off">Vypnout režim Letadlo.</string>
@@ -194,9 +194,9 @@ Používejte pouze dodávanou nabíječku."</string>
     <string name="data_usage_disabled_dialog">"Váš přístroj vypnul data, protože dosáhl nastaveného limitu.
 
 Jejich opětovné zapnutí může vést k poplatkům od vašeho operátora."</string>
-    <string name="data_usage_disabled_dialog_enable">Turn on data</string>
+    <string name="data_usage_disabled_dialog_enable">Zapnout data</string>
     <string name="status_bar_settings_signal_meter_disconnected">Žádné připojení k Internetu</string>
-    <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi connected</string>
+    <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi připojeno</string>
     <string name="gps_notification_searching_text">Čekání na GPS</string>
     <string name="gps_notification_found_text">Poloha nastavena pomocí GPS</string>
     <string name="accessibility_location_active">Aktivní žádosti o umístění</string>
@@ -231,16 +231,16 @@ Jejich opětovné zapnutí může vést k poplatkům od vašeho operátora."</st
     <string name="quick_settings_settings_label">Nastavení</string>
     <string name="quick_settings_time_label">Čas</string>
     <string name="quick_settings_user_label">Já</string>
-    <string name="quick_settings_user_title">User</string>
+    <string name="quick_settings_user_title">Uživatel</string>
     <string name="quick_settings_user_new_user">Nový uživatel</string>
     <string name="quick_settings_wifi_label">Wi-Fi</string>
     <string name="quick_settings_wifi_not_connected">Nepřipojeno</string>
     <string name="quick_settings_wifi_no_network">Žádná síť</string>
-    <string name="quick_settings_wifi_off_label">Wi-Fi Off</string>
+    <string name="quick_settings_wifi_off_label">Wi-Fi vyp.</string>
     <string name="quick_settings_wifi_detail_empty_text">Žádné uložené sítě k dispozici</string>
     <string name="quick_settings_cast_title">Přenášet obrazovku</string>
     <string name="quick_settings_casting">Vysílání</string>
-    <string name="quick_settings_cast_device_default_name">Unnamed device</string>
+    <string name="quick_settings_cast_device_default_name">Nepojmenované zařízení</string>
     <string name="quick_settings_cast_device_default_description">Připraveno k vysílání</string>
     <string name="quick_settings_cast_detail_empty_text">Žádná zařízení nejsou k dispozici</string>
     <string name="quick_settings_brightness_dialog_title">Jas</string>
@@ -263,7 +263,7 @@ Jejich opětovné zapnutí může vést k poplatkům od vašeho operátora."</st
     <string name="quick_settings_cellular_detail_data_used">%s použito</string>
     <string name="quick_settings_cellular_detail_data_limit">%s limit</string>
     <string name="quick_settings_cellular_detail_data_warning">%s varování</string>
-    <string name="recents_empty_message">Your recent screens appear here</string>
+    <string name="recents_empty_message">Zde se zobrazí vaše nedávné obrazovky</string>
     <string name="recents_app_info_button_label">Informace o aplikaci</string>
     <string name="recents_lock_to_app_button_label">připnutí obrazovky</string>
     <string name="recents_search_bar_label">hledat</string>
@@ -281,12 +281,12 @@ monitorována"</string>
     <string name="zen_no_interruptions_with_warning">Žádné vyrušení, ani budíky.</string>
     <string name="zen_no_interruptions">Žádné přerušení</string>
     <string name="zen_important_interruptions">Pouze prioritní vyrušení</string>
-    <string name="zen_alarm_information_time">Your next alarm is at %s</string>
-    <string name="zen_alarm_information_day_time">Your next alarm is %s</string>
-    <string name="zen_alarm_warning">"You won't hear your alarm at %s"</string>
+    <string name="zen_alarm_information_time">Váš další budík je v %s</string>
+    <string name="zen_alarm_information_day_time">Váš další budík je %s</string>
+    <string name="zen_alarm_warning">"Neuslyšíte váš budík v %s"</string>
     <string name="keyguard_more_overflow_text">+%d</string>
     <string name="speed_bump_explanation">Méně naléhavá oznámení níže</string>
-    <string name="notification_tap_again">Touch again to open</string>
+    <string name="notification_tap_again">Dotkněte se znovu pro otevření</string>
     <string name="keyguard_unlock">Přejetím nahoru odemknete</string>
     <string name="phone_hint">Táhněte doprava pro telefon</string>
     <string name="camera_hint">Přejeďte doleva pro fotoaparát</string>
@@ -305,17 +305,17 @@ monitorována"</string>
     <string name="guest_exit_guest_dialog_title">Odebrat hosta?</string>
     <string name="guest_exit_guest_dialog_message">Všechny aplikace a data v této relaci budou smazána.</string>
     <string name="guest_exit_guest_dialog_remove">Odstranit</string>
-    <string name="guest_wipe_session_title">Welcome back, guest!</string>
+    <string name="guest_wipe_session_title">Vítejte zpět, hoste!</string>
     <string name="guest_wipe_session_message">Chcete pokračovat v relaci?</string>
     <string name="guest_wipe_session_wipe">Začit znovu</string>
-    <string name="guest_wipe_session_dontwipe">Yes, continue</string>
+    <string name="guest_wipe_session_dontwipe">Ano, pokračovat</string>
     <string name="user_add_user_title">Přidat nového uživatele?</string>
     <string name="user_add_user_message_short">"Když přidáte nového uživatele, musí tato osoba nastavit svůj prostor.
 
 Každý uživatel může aktualizovat aplikace pro všechny ostatní uživatele."</string>
     <string name="battery_saver_notification_title">Spořič baterie je zapnutý</string>
     <string name="battery_saver_notification_text">Sníží výkon a data na pozadí</string>
-    <string name="battery_saver_notification_action_text">Turn off battery saver</string>
+    <string name="battery_saver_notification_action_text">Vypnout spořič baterie</string>
     <string name="notification_hidden_text">Skrytý obsah</string>
     <string name="media_projection_dialog_text">"%s začne zachycovat vše, co se zobrazí na vaší obrazovce."</string>
     <string name="media_projection_remember_text">"Znovu nezobrazovat"</string>
@@ -403,8 +403,8 @@ Také jste připojeni k síti VPN (\"%3$s\"). Poskytovatel služby VPN může ta
     <string name="hidden_notifications_setup">Nastavit</string>
     <string name="zen_mode_and_condition">%1$s. %2$s</string>
     <string name="screen_pinning_title">Obrazovka je připnuta</string>
-    <string name="screen_pinning_description">This keeps it in view until you unpin. Touch and hold Back and Overview at the same time to unpin.</string>
-    <string name="screen_pinning_description_accessible">This keeps it in view until you unpin. Touch and hold Overview to unpin.</string>
+    <string name="screen_pinning_description">Takhle to zůstane v zobrazení, dokud to neodepnete. Chcete-li odepnout, přidržte současně Zpět a Přehled.</string>
+    <string name="screen_pinning_description_accessible">Takhle to zůstane v zobrazení, dokud to neodepnete. Chcete-li odepnout, přidržte současně Zpět a Přehled.</string>
     <string name="screen_pinning_positive">Mám to</string>
     <string name="screen_pinning_negative">Ne, děkuji</string>
     <string name="quick_settings_reset_confirmation_title">Skrýt %1$s?</string>
@@ -418,15 +418,15 @@ Také jste připojeni k síti VPN (\"%3$s\"). Poskytovatel služby VPN může ta
     <string name="clock_12hr_format">hm</string>
     <string name="clock_24hr_format">Hm</string>
     <string name="app_name">Keyguard</string>
-    <string name="keyguard_password_enter_pin_code">Type PIN code</string>
-    <string name="keyguard_password_enter_puk_code">Type SIM PUK and new PIN code</string>
+    <string name="keyguard_password_enter_pin_code">Zadejte PIN kód</string>
+    <string name="keyguard_password_enter_puk_code">Zadejte PUK SIM karty a nový PIN kód</string>
     <string name="keyguard_password_enter_puk_prompt">Kód PUK SIM karty</string>
     <string name="keyguard_password_enter_pin_prompt">Nový PIN SIM karty</string>
     <string name="keyguard_password_entry_touch_hint"><font size="17">Dotkněte se pro zadání hesla</font></string>
-    <string name="keyguard_password_enter_password_code">Type password to unlock</string>
-    <string name="keyguard_password_enter_pin_password_code">Type PIN to unlock</string>
+    <string name="keyguard_password_enter_password_code">Zadejte heslo pro odemknutí</string>
+    <string name="keyguard_password_enter_pin_password_code">Zadejte PIN pro odemknutí</string>
     <string name="keyguard_password_wrong_pin_code">Nesprávný PIN kód.</string>
-    <string name="keyguard_label_text">To unlock, press Menu then 0.</string>
+    <string name="keyguard_label_text">Chcete-li odemknout, stiskněte Menu a pak 0.</string>
     <string name="faceunlock_multiple_failures">Byl překročen maximální počet pokusů o odemknutí obličejem</string>
     <string name="keyguard_charged">Nabito</string>
     <string name="keyguard_plugged_in">Nabíjení</string>
@@ -437,26 +437,26 @@ Také jste připojeni k síti VPN (\"%3$s\"). Poskytovatel služby VPN může ta
     <string name="keyguard_missing_sim_message">V tabletu není SIM karta.</string>
     <string name="keyguard_missing_sim_instructions">Vložte SIM kartu.</string>
     <string name="keyguard_missing_sim_instructions_long">SIM karta chybí nebo není čitelná. Vložte SIM kartu.</string>
-    <string name="keyguard_permanent_disabled_sim_message_short">Unusable SIM card.</string>
+    <string name="keyguard_permanent_disabled_sim_message_short">Nepoužitelná SIM karta.</string>
     <string name="keyguard_permanent_disabled_sim_instructions">"Vaše SIM karta byla natrvalo zablokována.
  Požádejte svého operátora o jinou SIM kartu."</string>
     <string name="keyguard_sim_locked_message">SIM karta je uzamčena.</string>
     <string name="keyguard_sim_puk_locked_message">SIM karta je zamčená PUKem.</string>
-    <string name="keyguard_sim_unlock_progress_dialog_message">Unlocking SIM card…</string>
+    <string name="keyguard_sim_unlock_progress_dialog_message">Odemykání SIM karty…</string>
     <string name="keyguard_widget_12_hours_format">hmm</string>
     <string name="keyguard_widget_24_hours_format">kkmm</string>
     <string name="keyguard_accessibility_widget_changed">%1$s. Widget %2$d z %3$d.</string>
     <string name="keyguard_accessibility_add_widget">Přidat widget.</string>
     <string name="keyguard_accessibility_widget_empty_slot">Prázdný</string>
-    <string name="keyguard_accessibility_unlock_area_expanded">Unlock area expanded.</string>
-    <string name="keyguard_accessibility_unlock_area_collapsed">Unlock area collapsed.</string>
+    <string name="keyguard_accessibility_unlock_area_expanded">Oblast odemknutí byla rozšířena.</string>
+    <string name="keyguard_accessibility_unlock_area_collapsed">Oblast odemknutí byla sbalena.</string>
     <string name="keyguard_accessibility_widget">%1$s widget.</string>
-    <string name="keyguard_accessibility_user_selector">User selector</string>
+    <string name="keyguard_accessibility_user_selector">Výběr uživatele</string>
     <string name="keyguard_accessibility_camera">Fotoaparát</string>
     <string name="keygaurd_accessibility_media_controls">Ovládání médií</string>
-    <string name="keyguard_accessibility_widget_reorder_start">Widget reordering started.</string>
-    <string name="keyguard_accessibility_widget_reorder_end">Widget reordering ended.</string>
-    <string name="keyguard_accessibility_widget_deleted">Widget %1$s deleted.</string>
+    <string name="keyguard_accessibility_widget_reorder_start">Přeuspořádání widgetů zahájeno.</string>
+    <string name="keyguard_accessibility_widget_reorder_end">Přeuspořádání widgetů dokončeno.</string>
+    <string name="keyguard_accessibility_widget_deleted">Widget %1$s smazán.</string>
     <string name="keyguard_accessibility_expand_lock_area">Rozšířit oblast odemknutí.</string>
     <string name="keyguard_accessibility_slide_unlock">Odemknutí posunutím.</string>
     <string name="keyguard_accessibility_pattern_unlock">Vzor odemknutí.</string>
@@ -473,10 +473,10 @@ Také jste připojeni k síti VPN (\"%3$s\"). Poskytovatel služby VPN může ta
     <string name="keyguard_accessibility_transport_pause_description">Tlačítko pozastavení</string>
     <string name="keyguard_accessibility_transport_play_description">Tlačítko Přehrát</string>
     <string name="keyguard_accessibility_transport_stop_description">Tlačítko stop</string>
-    <string name="keyguard_accessibility_transport_thumbs_up_description">Thumbs up</string>
-    <string name="keyguard_accessibility_transport_thumbs_down_description">Thumbs down</string>
+    <string name="keyguard_accessibility_transport_thumbs_up_description">Palec nahoru</string>
+    <string name="keyguard_accessibility_transport_thumbs_down_description">Palec dolů</string>
     <string name="keyguard_accessibility_transport_heart_description">Srdce</string>
-    <string name="keyguard_accessibility_show_bouncer">Unlock to continue</string>
+    <string name="keyguard_accessibility_show_bouncer">Odemknout pro pokračování</string>
     <string name="keyguard_accessibility_hide_bouncer">Spuštění zrušeno</string>
     <string name="keyguard_accessibility_delete_widget_start">Pustit %1$s pro odstranění.</string>
     <string name="keyguard_accessibility_delete_widget_end">%1$s nebude smazán.</string>
@@ -491,7 +491,7 @@ Také jste připojeni k síti VPN (\"%3$s\"). Poskytovatel služby VPN může ta
     <string name="keyboardview_keycode_mode_change">Změna režimu</string>
     <string name="keyboardview_keycode_shift">Posun</string>
     <string name="keyboardview_keycode_enter">Zadat</string>
-    <string name="description_target_unlock">Unlock</string>
+    <string name="description_target_unlock">Odemknout</string>
     <string name="description_target_camera">Fotoaparát</string>
     <string name="description_target_silent">Tichý</string>
     <string name="description_target_soundon">Zapnout zvuk</string>
@@ -500,10 +500,10 @@ Také jste připojeni k síti VPN (\"%3$s\"). Poskytovatel služby VPN může ta
     <string name="user_switched">Aktuální uživatel %1$s.</string>
     <string name="kg_emergency_call_label">Tísňové volání</string>
     <string name="kg_forgot_pattern_button_text">Zapomenutý vzor</string>
-    <string name="kg_wrong_pattern">Wrong Pattern</string>
-    <string name="kg_wrong_password">Wrong Password</string>
-    <string name="kg_wrong_pin">Wrong PIN</string>
-    <string name="kg_too_many_failed_attempts_countdown">Try again in %d seconds.</string>
+    <string name="kg_wrong_pattern">Nesprávný vzor</string>
+    <string name="kg_wrong_password">Nesprávné heslo</string>
+    <string name="kg_wrong_pin">Nesprávný PIN</string>
+    <string name="kg_too_many_failed_attempts_countdown">Zkuste to znovu za %d sekund.</string>
     <string name="kg_pattern_instructions">Nakreslete svůj vzor</string>
     <string name="kg_sim_pin_instructions">Zadejte PIN SIM karty</string>
     <string name="kg_sim_pin_instructions_multi">Zadejte PIN SIM karty pro \"%1$s\"</string>
@@ -513,14 +513,14 @@ Také jste připojeni k síti VPN (\"%3$s\"). Poskytovatel služby VPN může ta
     <string name="kg_puk_enter_puk_hint_multi">SIM karta \"%1$s\" je nyní zakázána. Zadejte kód PUK pro pokračování. Pro podrobnosti kontaktujte operátora.</string>
     <string name="kg_puk_enter_pin_hint">Zadejte požadovaný kód PIN</string>
     <string name="kg_enter_confirm_pin_hint">Potvrdit požadovaný PIN kód</string>
-    <string name="kg_sim_unlock_progress_dialog_message">Unlocking SIM card…</string>
-    <string name="kg_invalid_sim_pin_hint">Type a PIN that is 4 to 8 numbers.</string>
+    <string name="kg_sim_unlock_progress_dialog_message">Odemykání SIM karty…</string>
+    <string name="kg_invalid_sim_pin_hint">Zadejte PIN2 o délce 4 až 8 číslic.</string>
     <string name="kg_invalid_sim_puk_hint">Kód PUK by měl mít 8 nebo více čísel.</string>
     <string name="kg_invalid_puk">Znovu zadejte správný kód PUK. Opakované pokusy trvale poškodí SIM.</string>
     <string name="kg_invalid_confirm_pin_hint">PIN kódy se neshodují</string>
-    <string name="kg_login_too_many_attempts">Too many pattern attempts</string>
-    <string name="kg_login_instructions">To unlock, sign in with your Google account.</string>
-    <string name="kg_login_username_hint">Username (email)</string>
+    <string name="kg_login_too_many_attempts">Příliš mnoho pokusů o vzor</string>
+    <string name="kg_login_instructions">Chcete-li odemknout, přihlaste se pomocí svého účtu Google.</string>
+    <string name="kg_login_username_hint">Uživatelské jméno (e-mail)</string>
     <string name="kg_login_password_hint">Heslo</string>
     <string name="kg_login_submit_button">Přihlásit se</string>
     <string name="kg_login_invalid_input">Nesprávné jméno nebo heslo.</string>
@@ -536,12 +536,12 @@ Zkuste znovu za %d sekund."</string>
     <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Nakreslili jste %d krát nesprávně své gesto pro odemknutí.
 
 Zkuste znovu za %d sekund."</string>
-    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">You have incorrectly attempted to unlock the tablet %d times. After %d more unsuccessful attempts, this tablet will be reset, which will delete all its data.</string>
-    <string name="kg_failed_attempts_now_wiping">You have incorrectly attempted to unlock the tablet %d times. This tablet will be reset, which will delete all its data.</string>
-    <string name="kg_failed_attempts_almost_at_erase_user" formatted="false">You have incorrectly attempted to unlock the tablet %d times. After %d more unsuccessful attempts, this user will be removed, which will delete all user data.</string>
-    <string name="kg_failed_attempts_now_erasing_user">You have incorrectly attempted to unlock the tablet %d times. This user will be removed, which will delete all user data.</string>
-    <string name="kg_failed_attempts_almost_at_erase_profile" formatted="false">You have incorrectly attempted to unlock the tablet %d times. After %d more unsuccessful attempts, the work profile will be removed, which will delete all profile data.</string>
-    <string name="kg_failed_attempts_now_erasing_profile">You have incorrectly attempted to unlock the tablet %d times. The work profile will be removed, which will delete all profile data.</string>
+    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Neúspěšně jste se pokusili odemknout tablet %d krát. Po dalších %d neúspěšných pokusech bude tento tablet resetován, čímž se odstraní všechna jeho data.</string>
+    <string name="kg_failed_attempts_now_wiping">Neúspěšně jste se pokoušeli odemknout tablet %d krát. Tento tablet bude resetován, čímž se odstraní všechna data.</string>
+    <string name="kg_failed_attempts_almost_at_erase_user" formatted="false">Neúspěšně jste se pokusili odemknout tablet %d krát. Po %d neúspěšných pokusech bude tento uživatel odstraněn, čímž budou odstraněna všechna uživatelská data.</string>
+    <string name="kg_failed_attempts_now_erasing_user">Neúspěšně jste se pokusili odemknout tablet %d krát. Tento uživatel bude odstraněn, čímž se odstraní všechna uživatelská data.</string>
+    <string name="kg_failed_attempts_almost_at_erase_profile" formatted="false">Neúspěšně jste se pokusili odemknout tablet %d krát. Po dalších %d neúspěšných pokusech bude odstraněn pracovní profil, čímž se odstraní všechna data profilu.</string>
+    <string name="kg_failed_attempts_now_erasing_profile">Neúspěšně jste se pokusili odemknout tablet %d krát. Pracovní profil bude odstraněn, čímž se odstraní všechna data profilu.</string>
     <string name="kg_failed_attempts_almost_at_login" formatted="false">"Nesprávně jste %d krát nakreslili své gesto pro odemknutí. Po %d dalších neúspěšných pokusech budete požádáni o odemčení tabletu pomocí e-mailového účtu.
 
  Zkuste znovu za %d sekund."</string>
