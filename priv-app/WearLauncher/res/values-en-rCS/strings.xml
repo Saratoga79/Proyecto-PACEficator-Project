@@ -14,7 +14,7 @@
     <string name="delete_all_notifications_confrim_content">Tato oznámení budou trvale odstraněna. Přesto vyčistit?</string>
     <string name="notification_time_day">HH:mm</string>
     <string name="notification_time_month">dd/MM HH:mm</string>
-    <string name="notification_time_year">dd/MM/rrrr HH:mm:ss</string>
+    <string name="notification_time_year">dd/MM/yyyy HH:mm:ss</string>
     <string name="action_delete">Odstranit</string>
     <string name="action_shield">Blokovat</string>
     <string name="notification_none">Vše zachyceno</string>
@@ -49,7 +49,7 @@
     <string name="quick_settings_connected">Připojeno</string>
     <string name="quick_settings_disconnect">Nepřipojeno</string>
     <string name="quick_settings_unbound">Nejprve párovat zařízení</string>
-    <string name="quick_settings_date_chinese">dd/MM/rrrr</string>
+    <string name="quick_settings_date_chinese">dd/MM/yyyy</string>
     <string name="quick_settings_date_format">31/1/1900</string>
     <string name="quick_settings_date_yeareve">"Čínský Nový rok"</string>
     <string name="seconed_confirm_nodisturb">Režim Nerušit je zapnutý.
@@ -68,7 +68,7 @@ před méně než 1 hodinou“</string>
     <string name="quick_settings_battery_sporttime_hour_unit">h</string>
     <string name="quick_settings_battery_sporttime_KM_unit">km</string>
     <string name="quick_settings_battery_level_unit">%</string>
-    <string name="quick_settings_battery_sporttime_MI_unit">mil</string>
+    <string name="quick_settings_battery_sporttime_MI_unit">mi</string>
     <string name="splash_hint">Inicializuji ...</string>
     <string name="header_incomming_call_name"></string>
     <string name="header_incomming_call_hint">Příchozí hovor</string>
@@ -282,9 +282,9 @@ před méně než 1 hodinou“</string>
     <string name="per_km">/km</string>
     <string name="per_100m">/100 m</string>
     <string name="per_100Yard">/100 yd</string>
-    <string name="mile">mil</string>
+    <string name="mile">mi</string>
     <string name="mile_per_hour">mph</string>
-    <string name="per_mile">/mil</string>
+    <string name="per_mile">/mi</string>
     <string name="feet">ft</string>
     <string name="per_100feet">/100 ft</string>
     <string name="yard">yd</string>
