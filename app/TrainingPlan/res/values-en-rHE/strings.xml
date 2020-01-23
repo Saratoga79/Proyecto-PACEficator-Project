@@ -26,9 +26,9 @@ running. Let\'s get started!"</string>
     <string name="dialog_delete_history_record">Delete this record permanently?</string>
     <string name="dialog_train_plan_is_complete">Ending your workout stops tracking progress as well. End anyway?</string>
     <string name="last_day_rest_remind">The workout is about to end. | Take a day off to fully recover.</string>
-    <string name="cancel">No</string>
-    <string name="enter">Yes</string>
-    <string name="dialog_delete">Delete</string>
+    <string name="cancel">否</string>
+    <string name="enter">是</string>
+    <string name="dialog_delete">删除</string>
     <string name="day_train_plan_record_marked">Mark</string>
     <string name="train_plan_recode_finished">End</string>
     <string name="train_mileage">Total distance (km)</string>
@@ -36,7 +36,7 @@ running. Let\'s get started!"</string>
     <string name="train_days">Workout days</string>
     <string name="train_finish">Finish workout</string>
     <string name="train_finished">Finished workout</string>
-    <string name="today">Today</string>
+    <string name="today">היום</string>
     <string name="train_complete_rate">Completion rate</string>
     <string name="assing_train_plan">%1$s</string>
     <string name="train_plan_already_assgn">Customized</string>
@@ -71,7 +71,7 @@ running. Let\'s get started!"</string>
     <string name="intermittentrunlong">Interval running (long cycle)</string>
     <string name="rest">Rest day</string>
     <string name="swim">Swimming</string>
-    <string name="ride">Cycling</string>
+    <string name="ride">Riding</string>
     <string name="basetrain">Basic exercise</string>
     <string name="reductionstage">Recovery phase</string>
     <string name="targetedstage">Target phase</string>
@@ -140,7 +140,7 @@ running. Let\'s get started!"</string>
     <string name="runcopywrite12">This workout will help you raise your level and recover energy. Keep your heart rate in the %1$d-%2$d BPM zone.</string>
     <string name="average_text">Average</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
-    <string name="picker_default_positive_text">OK</string>
+    <string name="picker_default_positive_text">אישור</string>
     <string name="picker_default_nagetive_text">Off</string>
     <string name="no_heartrate_data_hint">"Couldn't find heart rate data"</string>
     <string name="no_altitude_hint">"Couldn't find altitude data"</string>
