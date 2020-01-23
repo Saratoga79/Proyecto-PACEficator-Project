@@ -28,8 +28,8 @@
         <item>sport_target_remind_desc_01</item>
     </string-array>
     <string-array name="support_sport">
-        <item>RUNNING</item>
-        <item>WALKING</item>
+        <item>TRČANJE</item>
+        <item>HODANJE</item>
         <item>CROSSING</item>
         <item>INDOOR_RUN</item>
         <item>OUTDOOR_RIDING</item>
@@ -37,18 +37,18 @@
         <item>ELLIPTICAL_MACHINE</item>
     </string-array>
     <string-array name="dally_performence_level_status">
-        <item>Fatigued</item>
-        <item>Normal</item>
+        <item>Umorno</item>
+        <item>Normalno</item>
         <item>Dobro</item>
     </string-array>
     <string-array name="vo2_max_level_status">
-        <item>Very poor</item>
-        <item>Poor</item>
-        <item>Fair</item>
+        <item>Jako loše</item>
+        <item>Loše</item>
+        <item>Dobar</item>
         <item>Prosjek</item>
         <item>Dobro</item>
         <item>Vrlo dobro</item>
-        <item>Excellent</item>
+        <item>Izvrstan</item>
     </string-array>
     <string-array name="spring_depend">
         <item>com.huami.watch.newsport/com.huami.watch.newsport.widget.SportWidget</item>
@@ -60,36 +60,36 @@
         <item></item>
         <item>Vrijeme</item>
         <item>Udaljenost</item>
-        <item>Pace</item>
-        <item>Avg pace</item>
-        <item>Heart rate</item>
+        <item>Tempo</item>
+        <item>Prosj. tempo</item>
+        <item>Broj otkucaja srca</item>
         <item>\"Kalorije
 \"</item>
         <item>Visina</item>
-        <item>Elev gain</item>
-        <item>Elev loss</item>
-        <item>Speed</item>
-        <item>Avg speed</item>
-        <item>Cadence</item>
-        <item>Dist gain</item>
-        <item>Steps</item>
-        <item>Cadence</item>
-        <item>Laps</item>
+        <item>Uspon</item>
+        <item>Pad</item>
+        <item>Brzina</item>
+        <item>Prosj. brzina</item>
+        <item>Ritam</item>
+        <item>Udaljenost uspona</item>
+        <item>Koraka</item>
+        <item>Ritam</item>
+        <item>Krugovi</item>
         <item>DPS</item>
-        <item>Stroke rate</item>
-        <item>Avg SPM</item>
-        <item>Pace</item>
-        <item>Avg pace</item>
+        <item>Omjer udaraca</item>
+        <item>Prosj. SPM</item>
+        <item>Tempo</item>
+        <item>Prosj. tempo</item>
         <item>Udaljenost</item>
         <item>TE</item>
-        <item>Vert speed</item>
-        <item>Avg speed</item>
-        <item>Max speed</item>
-        <item>Laps</item>
-        <item>Downhill</item>
-        <item>Total downhill</item>
-        <item>Descent</item>
-        <item>Strokes</item>
+        <item>Okomita brzina</item>
+        <item>Prosj. brzina</item>
+        <item>Maks. brzina</item>
+        <item>Krugovi</item>
+        <item>Spust</item>
+        <item>Ukupno spuštanja</item>
+        <item>Silazak</item>
+        <item>Udaraca</item>
         <item>Lap time</item>
         <item>Lap pace</item>
         <item>Lap speed</item>
@@ -97,9 +97,9 @@
         <item>Lap cadence</item>
         <item>Lap pace</item>
         <item>Trenutna frekvencija</item>
-        <item>Total count</item>
-        <item>Avg freq</item>
-        <item>Groups</item>
+        <item>Ukupan broj</item>
+        <item>Prosj. frekv</item>
+        <item>Grupe</item>
         <item>Lap count</item>
         <item>Lap time</item>
         <item>Lap freq</item>
@@ -112,22 +112,22 @@
         <item>slope</item>
         <item>\"Kalorije
 \"</item>
-        <item>Avg. HR</item>
-        <item>Paddles of this set</item>
-        <item>Frequency</item>
-        <item>Total paddles</item>
-        <item>Paddle frequency</item>
-        <item>Pulling duration</item>
-        <item>Pushing duration</item>
-        <item>Avg. Freq.</item>
+        <item>Prosj. BOS</item>
+        <item>Zaveslaja u ovom setu</item>
+        <item>Frekvencija</item>
+        <item>Ukupno zaveslaja</item>
+        <item>Frekvencija zaveslaja</item>
+        <item>Trajanje povlačenja</item>
+        <item>Trajanje guranja</item>
+        <item>Prosj. frekv.</item>
     </string-array>
     <string-array name="sport_train_item">
-        <item>Remaining distance</item>
-        <item>Total distance</item>
-        <item>Total time</item>
-        <item>Remaining time</item>
+        <item>Preostala udaljenost</item>
+        <item>Ukupna udaljenost</item>
+        <item>Ukupno vrijeme</item>
+        <item>Preostalo vrijeme</item>
         <item>Udaljenost</item>
         <item>Preostalo</item>
-        <item>Has rested</item>
+        <item>Odmarano</item>
     </string-array>
 </resources>
