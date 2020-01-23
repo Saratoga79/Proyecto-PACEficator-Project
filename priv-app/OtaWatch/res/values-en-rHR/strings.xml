@@ -34,44 +34,44 @@ Da biste instalirali ažuriranja, baterija mora biti punjena najmanje %1$s%%. "<
     <string name="low_battery_title">Priključite punjač</string>
     <string name="progressbar_tips">Provjera…</string>
     <string name="progressbar_percent">%1$d%%</string>
-    <string name="low_mem">"Not enough storage space for an update.
-Free up %1$sMB to update."</string>
+    <string name="low_mem">"Nema dovoljno prostora za pohranu za ažuriranje.
+Oslobodite %1$sMB da možete ažurirati."</string>
     <string name="update_network_error">"Provjera ažuriranja nije uspjela,  
 pokušajte ponovno kasnije"</string>
     <string name="cancel_download">"Preuzimanje paketa ažuriranja, 
  otkazati?"</string>
     <string name="new_rom_please_install">"Dostupno je ažuriranje sustava,
 nadogradite ga"</string>
-    <string name="btn_install_later">Remind later</string>
-    <string name="btn_install_now">Install now</string>
-    <string name="btn_upgrade_now">Update now</string>
-    <string name="wifi_no_password">Not encrypted</string>
-    <string name="wifi_has_password">Encrypted</string>
-    <string name="wifi_password_error">Password is incorrect</string>
-    <string name="wifi_connecting">Connecting…</string>
-    <string name="wifi_auth">Verifying password…</string>
-    <string name="wifi_get_ip">Obtaining IP address…</string>
-    <string name="wifi_link_fail">"Couldn't connect"</string>
-    <string name="wifi_connected">Connected</string>
-    <string name="wifi_title">Choose a network</string>
-    <string name="wifi_wait_password">Waiting for password…</string>
-    <string name="toast_please_update_first">Update first</string>
-    <string name="wifi_turnon_going">Turning on Wi-Fi…</string>
-    <string name="system_update_title">Updated successfully</string>
-    <string name="system_update_content">Upgraded to version %1$s successfully</string>
+    <string name="btn_install_later">Podsjeti kasnije</string>
+    <string name="btn_install_now">Instaliraj sada</string>
+    <string name="btn_upgrade_now">Ažuriraj sada</string>
+    <string name="wifi_no_password">Nije šifrirano</string>
+    <string name="wifi_has_password">Šifrirano</string>
+    <string name="wifi_password_error">Zaporka nije ispravna</string>
+    <string name="wifi_connecting">Povezivanje…</string>
+    <string name="wifi_auth">Provjera zaporke…</string>
+    <string name="wifi_get_ip">Dobivanje IP adrese…</string>
+    <string name="wifi_link_fail">"Ne mogu se povezati"</string>
+    <string name="wifi_connected">Povezano</string>
+    <string name="wifi_title">Odaberite mrežu</string>
+    <string name="wifi_wait_password">Čekanje zaporke…</string>
+    <string name="toast_please_update_first">Prvo ažurirajte</string>
+    <string name="wifi_turnon_going">Uključivanje Wi-Fi-ja…</string>
+    <string name="system_update_title">Uspješno ažurirano</string>
+    <string name="system_update_content">Uspješno ažurirano na %1$s verziju</string>
     <string name="password_error">"Netočna Wi-Fi zaporka,
 unesite je ponovno"</string>
     <string name="wifi_connect_fail">"Ne mogu se povezati s tom
 Wi-Fi mrežom. Pokušajte neki
 drugi Wi-Fi hotspot"</string>
-    <string name="searching">Searching…</string>
-    <string name="hasNewUpdateTitle">An update is available</string>
-    <string name="hasNewUpdateInstallContent">Version %1$s is ready to install. Install now?</string>
-    <string name="hasNewUpdateCheckContent">Version %1$s is available. Update now?</string>
-    <string name="update_title">Select update method</string>
-    <string name="update_online">OTA update</string>
-    <string name="update_local">Local ZIP file</string>
-    <string name="local_update_confirm_1_title">Attention</string>
+    <string name="searching">Pretraživanje…</string>
+    <string name="hasNewUpdateTitle">Ažuriranje je dostupno</string>
+    <string name="hasNewUpdateInstallContent">Verzija %1$s je spremna za instalaciju. Sada instalirati?</string>
+    <string name="hasNewUpdateCheckContent">Dostupna je %1$s verzija. Ažurirati sada?</string>
+    <string name="update_title">Odaberite način ažuriranja</string>
+    <string name="update_online">OTA ažuriranje</string>
+    <string name="update_local">Lokalna ZIP datoteka</string>
+    <string name="local_update_confirm_1_title">Pažnja</string>
     <string name="local_update_invalid_zip">Update to the latest version of the app</string>
     <string name="local_update_confirm_1_msg">"To make sure the new version
 works properly, we\'ll erase all
