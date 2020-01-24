@@ -200,8 +200,8 @@
 begin nu."</string>
     <string name="history_start_sport_tips">Start activiteit.</string>
     <string name="sport_motion_state">Exercise state</string>
-    <string name="sport_motion_state_prediction">Running performance prediction</string>
-    <string name="sport_motion_state_prediction_tips">It is unable to predict it now. You have to wear the watch and run more than 3 km.</string>
+    <string name="sport_motion_state_prediction">Prognose loopprestatie</string>
+    <string name="sport_motion_state_prediction_tips">Niet mogelijk om nu te voorspellen. Draag het horloge en loop minstens 3km.</string>
     <string name="sport_motion_state_prediction_5_km">5km</string>
     <string name="sport_motion_state_prediction_10_km">10km</string>
     <string name="sport_motion_state_prediction_half_maraton">Halve marathon</string>
@@ -481,9 +481,9 @@ begin nu."</string>
     <string name="full_marathon_fastest">Volledige marathon</string>
     <string name="ride_max_altitude_up">Max. klim(%1$s)</string>
     <string name="moutaineer_highest_altitude">Maximale hoogte (%1$s)</string>
-    <string name="moutaineer_max_altitude_up">Max total ascent(%1$s)</string>
-    <string name="moutaineer_max_altitude_down">Max total descent(%1$s)</string>
-    <string name="moutaineer_max_altitude_climb">Max total climb(%1$s)</string>
+    <string name="moutaineer_max_altitude_up">Max. totale stijging (%1$s)</string>
+    <string name="moutaineer_max_altitude_down">Max. totale daling (%1$s)</string>
+    <string name="moutaineer_max_altitude_climb">Max. totale klim(%1$s)</string>
     <string name="switch_interval_run">Training wijzigen</string>
     <string name="continuous_hour">%1$d u</string>
     <string name="rowing_machine_this_group_count">Paddles in deze set</string>
@@ -514,7 +514,7 @@ begin nu."</string>
     <string name="ok_button">OK</string>
     <string name="back_button">Terug</string>
     <string name="select_wear_hand">Selecteer hand</string>
-    <string name="gps_interval_alert_msg">GPS interval of 60 secs will greatly extend the recording duration of sport, but the accuracy of data recording will be reduced. Functions including 1km subsection, auto subsection, and auto pause cannot be used. Confirm?</string>
+    <string name="gps_interval_alert_msg">De opnameduur van de sport wordt aanzienlijk verlengd, maar de nauwkeurigheid van gegevensopname wordt verminderd. Functies zoals 1km subsectie, auto-subsectie en automatische pauze kunnen niet worden gebruikt. Bevestigen?</string>
     <string name="power_saving_alert_msg">De opnameduur van de sport wordt aanzienlijk verlengd, maar de nauwkeurigheid van gegevensopname wordt verminderd. Functies zoals 1km subsectie, auto-subsectie en automatische pauze kunnen niet worden gebruikt. Bevestigen?</string>
     <string name="notify_agps_time_out">AGPS</string>
     <string name="smart_coach_recommand">Slimme coach aanbevolen</string>
@@ -532,10 +532,10 @@ begin nu."</string>
     <string name="longest_distance_no_unit">Max. afstand</string>
     <string name="ride_max_altitude_up_no_unit">Max. klim</string>
     <string name="moutaineer_highest_altitude_no_unit">Maximale hoogte</string>
-    <string name="moutaineer_max_altitude_up_no_unit">Max total ascent</string>
-    <string name="moutaineer_max_altitude_down_no_unit">Max total descent</string>
+    <string name="moutaineer_max_altitude_up_no_unit">Max. totale stijging</string>
+    <string name="moutaineer_max_altitude_down_no_unit">Max. totale daling</string>
     <string name="moutaineer_max_altitude_climb_no_unit">Max totale klim</string>
-    <string name="pb_introduction_content">If there is any inconsistency between personal records in the watch and that in the app, the records in the app will be used for data synchronization.</string>
+    <string name="pb_introduction_content">Bij inconsistentie tussen persoonlijke records in het horloge en in de app, zullen de records in de app worden gebruikt.</string>
     <string name="pb_confirm">Genoteerd</string>
     <string name="sport_add_item">Activiteit toevoegen</string>
     <string name="sport_delete_item">Activiteit Verwijderen</string>
@@ -556,7 +556,8 @@ begin nu."</string>
     <string name="time_unit_hour">u</string>
     <string name="train_load_medium">Medium</string>
     <string name="train_load_near_seven_days">Voorbije week</string>
-    <string name="train_load_suggess_status_no_record">"We'll evaluate your training load from exercises recorded in the past 7 days"</string>
+    <string name="train_load_suggess_status_no_record">"Evaluatie van de trainingsintensiteit
+op basis van de trainingen in de afgelopen 7 dagen."</string>
     <string name="train_load_suggess_status_less">Laag</string>
     <string name="train_load_suggess_status_good">Optimaal</string>
     <string name="train_load_suggess_status_recovery">Hoog</string>
@@ -585,8 +586,7 @@ begin nu."</string>
     <string name="sport_te_desc_level_06">Overbelasting van het lichaam.</string>
     <string name="first_beat_remind_txt_01">Dit is een goed tempo.</string>
     <string name="first_beat_remind_txt_02">Dit is een goed tempo. Hou dit enkele minuten aan.</string>
-    <string name="sport_history_recovery_remind">"It\'s recommended to have proper maintaining workouts 
-to reach full recovery."</string>
+    <string name="sport_history_recovery_remind">"Plan onderhoudende workouts om het herstel te bespoedigen."</string>
     <string name="daily_propermance_has_no_data">Geen gegevens</string>
     <string name="first_beat_help_title_vo2_max">Maximum</string>
     <string name="first_beat_help_title_train_efffect">Trainingseffect (TE)</string>
