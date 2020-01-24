@@ -172,7 +172,7 @@
     <string name="wear_habit">Wear Habit</string>
     <string name="bugreport">Terugkoppeling</string>
     <string name="applications">Apps</string>
-    <string name="long_sit">Standup Alert</string>
+    <string name="long_sit">Bewegingsmelding</string>
     <string name="datacenter">Vandaag</string>
     <string name="security">Veiligheid</string>
     <string name="preference">Voorkeuren</string>
@@ -201,7 +201,7 @@
     <string name="auto_upload">Auto Sync</string>
     <string name="app_item_phone_anti_lost">Telefoon anti-verloren</string>
     <string name="app_item_anti_lost_remind">Anti-verloren herinnering</string>
-    <string name="app_item_far_away_remind">Being far away from phone reminder</string>
+    <string name="app_item_far_away_remind">Herinnering telefoonverbinding</string>
     <string name="remind_aleary_open">Herinnering geactiveerd.</string>
     <string name="phone_far_away_remind_to_you">Uw horloge waarschuwt wanneer het zich te ver van uw telefoon bevindt.</string>
     <string name="dialog_confire">OK</string>
@@ -214,7 +214,7 @@
     <string name="lock_screen_open_guide">De batterijduur zal worden verminderd als je de schermvergrendelingsmodus op weinig licht zet.</string>
     <string name="lock_auto_screen_wristup_guide">Zodra de scherm uit tijd succesvol is ingesteld, zal het horloge scherm niet oplichten zelfs niet wanneer het is opgeheven of vergrendeld.</string>
     <string name="sport_remind_title">Sportherkenning</string>
-    <string name="sport_remind_open_title">Reminding of Turning on the Sport Mode</string>
+    <string name="sport_remind_open_title">Herinnering aanzetten sportmodus</string>
     <string name="sport_remind_end_title">Herinnering uitzetten van sportmodus</string>
     <string name="sport_remind_open_tips">Wanneer u dit activeert, zal u herinnerd worden om de Bewegingsmodus snel in te schakelen wanneer het detecteert dat u bezig bent met lopen of sport lopen</string>
     <string name="sport_remind_end_tips">Na het aanzetten, herinnert het u om te eindigen en op te slaan als het detecteert dat u de sport voltooid heeft</string>
@@ -222,7 +222,7 @@
     <string name="voice_set">Geluidsinstellingen</string>
     <string name="ring">Beltoon</string>
     <string name="volume">Volume</string>
-    <string name="hint_volume">Warning Tone Volume</string>
+    <string name="hint_volume">Waarschuwing volume</string>
     <string name="media_volume">Media-Volume</string>
     <string name="alarm_volume">Alarm Klok Volume</string>
     <string name="in_call_ring">Beltoon inkomend gesprek</string>
@@ -235,7 +235,7 @@
     <string name="auto_bg">Gepland</string>
     <string name="long_key_action">Lang drukken om te openen</string>
     <string name="recombind">Herkoppelen</string>
-    <string name="lock_screen_auto">Turn Off Low Light Mode Regularly</string>
+    <string name="lock_screen_auto">Lage Lichte Modus regelmatig uit</string>
     <string name="lock_screen_open">Aan</string>
     <string name="lock_screen_close">Uit</string>
     <string name="vibration">Trillen</string>
@@ -305,13 +305,13 @@
     <string name="mijia">Mi Home</string>
     <string name="zhinanzhen">Kompas</string>
     <string name="yinyue">Sportmuziek</string>
-    <string name="music_status_long_time_no_play">"You haven\'t played music for a long time. 
- The system has been disconnected from the headsets 
- to reduce power consumption. You can:"</string>
+    <string name="music_status_long_time_no_play">"Je hebt lang geen muziek gespeeld. 
+ Het systeem is losgekoppeld van de koptelefoon 
+ om het energieverbruik te verminderen. Je kan:"</string>
     <string name="ble_connet_phone">Verbind koptelefoon</string>
     <string name="ble_connet_cancel">Annuleer</string>
     <string name="report_bug_dialog_title">Terugkoppeling</string>
-    <string name="report_bug_dialog_desc">If there is a data error or the watch works abnormally, you can upload the data through the feedback feature to our server for analysis. During this process, the previously generated logs on the watch will be automatically collected and uploaded. These logs are used only for problem analysis, and will be destroyed immediately after that. During the entire process we will comply with our Privacy Policy, view details of the policy on the Amazfit app.</string>
+    <string name="report_bug_dialog_desc">Als er een gegevensfout is of het horloge abnormaal werkt, kunt u de gegevens via de feedbackfunctie naar onze server uploaden. Tijdens dit proces worden de eerder gegenereerde logs op het horloge automatisch verzameld en geüpload. Deze logs worden alleen gebruikt voor probleemanalyse en zullen onmiddellijk daarna worden vernietigd. Het hele proces voldoet aan de Chineese privacy regelgeving.</string>
     <string name="dialog_agree">Akkoord</string>
     <string name="dialog_quit">Afsluiten</string>
     <string name="nothing">Leeg</string>
