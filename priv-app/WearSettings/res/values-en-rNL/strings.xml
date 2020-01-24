@@ -340,7 +340,7 @@
     <string name="opened">Aan</string>
     <string name="closed">Uit</string>
     <string name="air_plane">Vliegtuigmodus</string>
-    <string name="air_plane_mode_note">Airplane mode will turn off Bluetooth and Wi-Fi on the watch to save power. If you need to use features that require BT/WiFi, please turn off airplane mode in system Settings.</string>
+    <string name="air_plane_mode_note">Vliegtuigmodus schakelt Bluetooth en Wi-Fi uit om energie te besparen. Als u functies wil gebruiken waarvoor Bluetooth of Wi-Fi nodig is, schakel dan de vliegtuigmodus uit.</string>
     <string name="yes">Ja</string>
     <string name="no">Nee</string>
     <string name="settings_long_sit_reminder">Bewegingsalarm</string>
@@ -396,7 +396,7 @@ en in de buurt is"</string>
     <string name="bluetooth_connected">Verbonden</string>
     <string name="bluetooth_disconnected">Verbroken</string>
     <string name="bluetooth_connecting_error_message">"Kon niet verbinden met %1$s."</string>
-    <string name="bluetooth_pairing_pin_error_message">"Couldn't pair with %1$s because of an incorrect PIN or passkey."</string>
+    <string name="bluetooth_pairing_pin_error_message">"Kan niet koppelen met %1$s vanwege onjuiste pin of code."</string>
     <string name="bluetooth_pairing_device_down_error_message">"Kan niet communiceren met %1$s."</string>
     <string name="bluetooth_pairing_rejected_error_message">Koppeling afgewezen door %1$s.</string>
     <string name="bluetooth_turning_on">Bluetooth inschakelen..</string>
@@ -440,8 +440,7 @@ Jaar"</string>
 cm"</string>
     <string name="weight_unit">"Gewicht
 kg"</string>
-    <string name="reset_factory_hint">"Once the watch is reset to factory default settings, 
-all data in the watch will be deleted, and the watch will be disconnected from your mobile."</string>
+    <string name="reset_factory_hint">"Bij fabrieksinstellingen worden alle gegevens in het horloge verwijderd en het horloge wordt losgekoppeld van je mobiel."</string>
     <string name="reset_factory_hint_cn">"Once the watch is reset to factory default settings, all data in the watch will be deleted, and the watch will be disconnected from your mobile. 
  The current activated transportation card can still be used after the watch is bound with your mobile again."</string>
     <string name="reset_factory_yes">Reset</string>
@@ -481,16 +480,16 @@ all data in the watch will be deleted, and the watch will be disconnected from y
     <string name="lockpattern_retry_button_text">Opnieuw</string>
     <string name="lockpattern_continue_button_text">Doorgaan</string>
     <string name="lockpattern_confirm_button_text">Bevestig</string>
-    <string name="lockpattern_recording_intro_header">Draw Unlocking Pattern</string>
-    <string name="lockpattern_settings_help_how_to_record">How to Draw Unlocking Pattern？</string>
+    <string name="lockpattern_recording_intro_header">Teken ontgrendelpatroon</string>
+    <string name="lockpattern_settings_help_how_to_record">Hoe ontgrendelpatroon tekenen？</string>
     <string name="lockpattern_recording_incorrect_too_short"></string>
     <string name="lockpattern_pattern_entered_header">Patroon opgeslagen</string>
-    <string name="lockpattern_need_to_confirm">Confirm Unlocking Pattern</string>
-    <string name="lockpattern_pattern_confirmed_header">Confirm Unlocking Pattern</string>
+    <string name="lockpattern_need_to_confirm">Bevestig Ontgrendelpatroon</string>
+    <string name="lockpattern_pattern_confirmed_header">Bevestig Ontgrendelpatroon</string>
     <string name="app_notifications_dialog_done">Voltooid</string>
-    <string name="lockpattern_cancel">Gesture Password</string>
+    <string name="lockpattern_cancel">Gebaar wachtwoord</string>
     <string name="lockpattern_change">Wachtwoord wijzigen</string>
-    <string name="lockpattern_change_state">Change Watch Status</string>
+    <string name="lockpattern_change_state">Status horloge wijzigen</string>
     <string name="lockpattern_exist">Ingeschakeld</string>
     <string name="lockpattern_exist_no">Uitgeschakeld</string>
     <string name="unlock_disable_lock_pattern_summary">Patroon verwijderen</string>
@@ -499,14 +498,14 @@ all data in the watch will be deleted, and the watch will be disconnected from y
     <string name="exit">Sluit</string>
     <string name="pattern_set_title">Veiligheid</string>
     <string name="watch_state">Screensaver instellingen</string>
-    <string name="unwear">Watch off the Wrist</string>
-    <string name="wear">Watch on the Wrist</string>
-    <string name="lockpattern_need_confirm">Please Draw Again</string>
-    <string name="lockpattern_pattern_short">Please Connect at Least 4 Points</string>
-    <string name="lockpattern_confirm_wrong">Pattern Inconformity</string>
-    <string name="lockpattern_change_none">There Is No Unlocking Pattern Currently</string>
-    <string name="security_lockpattern">Gesture Password</string>
-    <string name="lockpattern_need_confirm_guide">Please Draw the Current Pattern</string>
+    <string name="unwear">Horloge los van pols</string>
+    <string name="wear">Horloge aan pols</string>
+    <string name="lockpattern_need_confirm">Probeer opnieuw</string>
+    <string name="lockpattern_pattern_short">Verbind minimaal 4 punten</string>
+    <string name="lockpattern_confirm_wrong">Foutief patroon</string>
+    <string name="lockpattern_change_none">Momenteel geen patroon ingesteld</string>
+    <string name="security_lockpattern">Gebaar wachtwoord</string>
+    <string name="lockpattern_need_confirm_guide">Teken huidig patroon</string>
     <string name="time_zone">Tijdzone</string>
     <string name="date">Datum</string>
     <string name="time">Tijdsdoel</string>
@@ -517,7 +516,7 @@ all data in the watch will be deleted, and the watch will be disconnected from y
     <string name="am">AM</string>
     <string name="pm">PM</string>
     <string name="ultra_title">Ultra modus</string>
-    <string name="ultra_desc">"The Ultra Mode will greatly extend the watch's battery life and support the main features of the watch."</string>
+    <string name="ultra_desc">"De Ultramodus zal de batterijduur van het horloge aanzienlijk verlengen en de belangrijkste functies van het horloge ondersteunen."</string>
     <string name="ultra_enter">Ultra modus</string>
     <string name="sync_sport_data_before_reboot_title">Unsynchronized exercise records are found.</string>
     <string name="sync_sport_data_before_reboot_summary">Unsynchronized records cannot be viewed on your phone. Please sync the records before switching modes. Open the Amazfit app and pull down to sync. Continue to switch?</string>
