@@ -67,7 +67,7 @@
     <string name="enter_sport_lock_status">Locking the screen during activity</string>
     <string name="press_any_key_wakeup">Press any key</string>
     <string name="press_power_key_wakeup">Press a physical button to unlock</string>
-    <string name="meter">min.</string>
+    <string name="meter">m</string>
     <string name="kilometre">km</string>
     <string name="km_per_hour">km/h</string>
     <string name="bpm">BPM</string>
@@ -94,7 +94,7 @@
     <string name="need_rest_by_keypress">Press BACK to continue</string>
     <string name="low_battery_protect">Low battery protection</string>
     <string name="low_battery_tips">Low battery</string>
-    <string name="low_battery_please_charging">Charge your watch.</string>
+    <string name="low_battery_please_charging">Naładuj zegarek.</string>
     <string name="virtual_rabbit">Virtual rabbit</string>
     <string name="virtual_rabbit_lead_time">Lead time</string>
     <string name="virtual_rabbit_back_time">Lag time</string>
@@ -150,7 +150,7 @@
     <string name="alarm_sway">Sway</string>
     <string name="double_click_wakeup_open">On</string>
     <string name="double_click_wakeup_close">Wył.</string>
-    <string name="dlg_confirm">Zatwierdź</string>
+    <string name="dlg_confirm">Potwierdź</string>
     <string name="dlg_cancel">Anuluj</string>
     <string name="gps_glon">GPS+GLONASS</string>
     <string name="gps_bd">GPS+Beidou</string>
@@ -175,7 +175,7 @@
     <string name="long_sit">Standup Alert</string>
     <string name="datacenter">Dzienne podsumowanie</string>
     <string name="security">Security</string>
-    <string name="preference">Ustawienia</string>
+    <string name="preference">Preferencje</string>
     <string name="preference_title">Ustawienia</string>
     <string name="light_change">Brightness</string>
     <string name="wrist_up">Wrist raise to</string>
@@ -405,7 +405,7 @@ and is nearby"</string>
     <string name="bluetooth_disabled">Bluetooth is OFF</string>
     <string name="bluetooth_unknown">Unknown state</string>
     <string name="bluetooth_disconnect_title">Disconnect?</string>
-    <string name="bluetooth_connect_title">Połączony?</string>
+    <string name="bluetooth_connect_title">Połączyć?</string>
     <string name="phone_finding">Locating phone...</string>
     <string name="phone_found">Znaleziono telefon</string>
     <string name="phone_not_connected">Telefon nie jest podłączony</string>
@@ -480,7 +480,7 @@ all data in the watch will be deleted, and the watch will be disconnected from y
     <string name="cancel">Anuluj</string>
     <string name="lockpattern_retry_button_text">Retry</string>
     <string name="lockpattern_continue_button_text">Continue</string>
-    <string name="lockpattern_confirm_button_text">Zatwierdź</string>
+    <string name="lockpattern_confirm_button_text">Potwierdź</string>
     <string name="lockpattern_recording_intro_header">Draw Unlocking Pattern</string>
     <string name="lockpattern_settings_help_how_to_record">How to Draw Unlocking Pattern？</string>
     <string name="lockpattern_recording_incorrect_too_short"></string>
@@ -495,7 +495,7 @@ all data in the watch will be deleted, and the watch will be disconnected from y
     <string name="lockpattern_exist_no">Turned Off</string>
     <string name="unlock_disable_lock_pattern_summary">Delete Unlocking Pattern</string>
     <string name="unlock_disable_frp_warning_content">The Device Protection Function Will No Longer Function.</string>
-    <string name="okay">Zatwierdź</string>
+    <string name="okay">Potwierdź</string>
     <string name="exit">Exit</string>
     <string name="pattern_set_title">Security</string>
     <string name="watch_state">Screensaver Setting</string>
@@ -557,7 +557,7 @@ all data in the watch will be deleted, and the watch will be disconnected from y
     <string name="confirm_shutdown">Shutdown?</string>
     <string name="confirm_reboot">Reboot?</string>
     <string name="app_name">Ustawienia</string>
-    <string name="blt_hint_connect_device">Połączony</string>
+    <string name="blt_hint_connect_device">Połącz</string>
     <string name="blt_hint_disconnect_device">Disconnect</string>
     <string name="lab_desc">Collect part of the debugging tools</string>
     <string name="unknown">Unknown device</string>
