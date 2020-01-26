@@ -13,8 +13,8 @@
     <string name="delete_all_notifications">Wyczyść powiadomienia</string>
     <string name="delete_all_notifications_confrim_content">Te powiadomienia zostaną trwale usunięte. Wyczyścić mimo to?</string>
     <string name="notification_time_day">HH:mm</string>
-    <string name="notification_time_month">MM/dd HH:mm</string>
-    <string name="notification_time_year">yyyy/MM/dd HH:mm</string>
+    <string name="notification_time_month">dd/MM HH:mm</string>
+    <string name="notification_time_year">dd/MM/yyyy HH:mm</string>
     <string name="action_delete">Usuń</string>
     <string name="action_shield">Zablokuj</string>
     <string name="notification_none">Brak powiadomień</string>
@@ -49,7 +49,7 @@
     <string name="quick_settings_connected">Połączono</string>
     <string name="quick_settings_disconnect">Nie podłączono</string>
     <string name="quick_settings_unbound">Najpierw sparuj urządzenie</string>
-    <string name="quick_settings_date_chinese">MM/dd/yyyy</string>
+    <string name="quick_settings_date_chinese">dd/MM/yyyy</string>
     <string name="quick_settings_date_format">1/31/1900</string>
     <string name="quick_settings_date_yeareve">"Chinese New Year's Eve"</string>
     <string name="seconed_confirm_nodisturb">"Tryb DND jest włączony.
@@ -206,7 +206,7 @@ wcześniej niż godzinę temu"</string>
     <string name="fetch_failed">"Nie można uzyskać informacji"</string>
     <string name="fetch_failed_title">"Nie można uzyskać informacji o pogodzie"</string>
     <string name="fetch_failed_msg">Upewnij się, że twój zegarek jest podłączony do aplikacji Amazfit i wybrano prawidłową lokalizację w aplikacji.</string>
-    <string name="date_time_format">MM/dd</string>
+    <string name="date_time_format">dd/MM</string>
     <string name="weather_card_temperature">%1$s , %2$s</string>
     <string name="average_text">Średnio</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
