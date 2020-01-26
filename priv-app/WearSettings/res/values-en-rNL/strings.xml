@@ -172,7 +172,7 @@
     <string name="wear_habit">Wear Habit</string>
     <string name="bugreport">Terugkoppeling</string>
     <string name="applications">Apps</string>
-    <string name="long_sit">Standup Alert</string>
+    <string name="long_sit">Bewegingsmelding</string>
     <string name="datacenter">Vandaag</string>
     <string name="security">Veiligheid</string>
     <string name="preference">Voorkeuren</string>
@@ -201,7 +201,7 @@
     <string name="auto_upload">Auto Sync</string>
     <string name="app_item_phone_anti_lost">Telefoon anti-verloren</string>
     <string name="app_item_anti_lost_remind">Anti-verloren herinnering</string>
-    <string name="app_item_far_away_remind">Being far away from phone reminder</string>
+    <string name="app_item_far_away_remind">Herinnering telefoonverbinding</string>
     <string name="remind_aleary_open">Herinnering geactiveerd.</string>
     <string name="phone_far_away_remind_to_you">Uw horloge waarschuwt wanneer het zich te ver van uw telefoon bevindt.</string>
     <string name="dialog_confire">OK</string>
@@ -214,7 +214,7 @@
     <string name="lock_screen_open_guide">De batterijduur zal worden verminderd als je de schermvergrendelingsmodus op weinig licht zet.</string>
     <string name="lock_auto_screen_wristup_guide">Zodra de scherm uit tijd succesvol is ingesteld, zal het horloge scherm niet oplichten zelfs niet wanneer het is opgeheven of vergrendeld.</string>
     <string name="sport_remind_title">Sportherkenning</string>
-    <string name="sport_remind_open_title">Reminding of Turning on the Sport Mode</string>
+    <string name="sport_remind_open_title">Herinnering aanzetten sportmodus</string>
     <string name="sport_remind_end_title">Herinnering uitzetten van sportmodus</string>
     <string name="sport_remind_open_tips">Wanneer u dit activeert, zal u herinnerd worden om de Bewegingsmodus snel in te schakelen wanneer het detecteert dat u bezig bent met lopen of sport lopen</string>
     <string name="sport_remind_end_tips">Na het aanzetten, herinnert het u om te eindigen en op te slaan als het detecteert dat u de sport voltooid heeft</string>
@@ -222,7 +222,7 @@
     <string name="voice_set">Geluidsinstellingen</string>
     <string name="ring">Beltoon</string>
     <string name="volume">Volume</string>
-    <string name="hint_volume">Warning Tone Volume</string>
+    <string name="hint_volume">Waarschuwing volume</string>
     <string name="media_volume">Media-Volume</string>
     <string name="alarm_volume">Alarm Klok Volume</string>
     <string name="in_call_ring">Beltoon inkomend gesprek</string>
@@ -235,7 +235,7 @@
     <string name="auto_bg">Gepland</string>
     <string name="long_key_action">Lang drukken om te openen</string>
     <string name="recombind">Herkoppelen</string>
-    <string name="lock_screen_auto">Turn Off Low Light Mode Regularly</string>
+    <string name="lock_screen_auto">Lage Lichte Modus regelmatig uit</string>
     <string name="lock_screen_open">Aan</string>
     <string name="lock_screen_close">Uit</string>
     <string name="vibration">Trillen</string>
@@ -305,13 +305,13 @@
     <string name="mijia">Mi Home</string>
     <string name="zhinanzhen">Kompas</string>
     <string name="yinyue">Sportmuziek</string>
-    <string name="music_status_long_time_no_play">"You haven\'t played music for a long time. 
- The system has been disconnected from the headsets 
- to reduce power consumption. You can:"</string>
+    <string name="music_status_long_time_no_play">"Je hebt lang geen muziek gespeeld. 
+ Het systeem is losgekoppeld van de koptelefoon 
+ om het energieverbruik te verminderen. Je kan:"</string>
     <string name="ble_connet_phone">Verbind koptelefoon</string>
     <string name="ble_connet_cancel">Annuleer</string>
     <string name="report_bug_dialog_title">Terugkoppeling</string>
-    <string name="report_bug_dialog_desc">If there is a data error or the watch works abnormally, you can upload the data through the feedback feature to our server for analysis. During this process, the previously generated logs on the watch will be automatically collected and uploaded. These logs are used only for problem analysis, and will be destroyed immediately after that. During the entire process we will comply with our Privacy Policy, view details of the policy on the Amazfit app.</string>
+    <string name="report_bug_dialog_desc">Als er een gegevensfout is of het horloge abnormaal werkt, kunt u de gegevens via de feedbackfunctie naar onze server uploaden. Tijdens dit proces worden de eerder gegenereerde logs op het horloge automatisch verzameld en geüpload. Deze logs worden alleen gebruikt voor probleemanalyse en zullen onmiddellijk daarna worden vernietigd. Het hele proces voldoet aan de Chineese privacy regelgeving.</string>
     <string name="dialog_agree">Akkoord</string>
     <string name="dialog_quit">Afsluiten</string>
     <string name="nothing">Leeg</string>
@@ -340,7 +340,7 @@
     <string name="opened">Aan</string>
     <string name="closed">Uit</string>
     <string name="air_plane">Vliegtuigmodus</string>
-    <string name="air_plane_mode_note">Airplane mode will turn off Bluetooth and Wi-Fi on the watch to save power. If you need to use features that require BT/WiFi, please turn off airplane mode in system Settings.</string>
+    <string name="air_plane_mode_note">Vliegtuigmodus schakelt Bluetooth en Wi-Fi uit om energie te besparen. Als u functies wil gebruiken waarvoor Bluetooth of Wi-Fi nodig is, schakel dan de vliegtuigmodus uit.</string>
     <string name="yes">Ja</string>
     <string name="no">Nee</string>
     <string name="settings_long_sit_reminder">Bewegingsalarm</string>
@@ -396,7 +396,7 @@ en in de buurt is"</string>
     <string name="bluetooth_connected">Verbonden</string>
     <string name="bluetooth_disconnected">Verbroken</string>
     <string name="bluetooth_connecting_error_message">"Kon niet verbinden met %1$s."</string>
-    <string name="bluetooth_pairing_pin_error_message">"Couldn't pair with %1$s because of an incorrect PIN or passkey."</string>
+    <string name="bluetooth_pairing_pin_error_message">"Kan niet koppelen met %1$s vanwege onjuiste pin of code."</string>
     <string name="bluetooth_pairing_device_down_error_message">"Kan niet communiceren met %1$s."</string>
     <string name="bluetooth_pairing_rejected_error_message">Koppeling afgewezen door %1$s.</string>
     <string name="bluetooth_turning_on">Bluetooth inschakelen..</string>
@@ -440,8 +440,7 @@ Jaar"</string>
 cm"</string>
     <string name="weight_unit">"Gewicht
 kg"</string>
-    <string name="reset_factory_hint">"Once the watch is reset to factory default settings, 
-all data in the watch will be deleted, and the watch will be disconnected from your mobile."</string>
+    <string name="reset_factory_hint">"Bij fabrieksinstellingen worden alle gegevens in het horloge verwijderd en het horloge wordt losgekoppeld van je mobiel."</string>
     <string name="reset_factory_hint_cn">"Once the watch is reset to factory default settings, all data in the watch will be deleted, and the watch will be disconnected from your mobile. 
  The current activated transportation card can still be used after the watch is bound with your mobile again."</string>
     <string name="reset_factory_yes">Reset</string>
@@ -481,16 +480,16 @@ all data in the watch will be deleted, and the watch will be disconnected from y
     <string name="lockpattern_retry_button_text">Opnieuw</string>
     <string name="lockpattern_continue_button_text">Doorgaan</string>
     <string name="lockpattern_confirm_button_text">Bevestig</string>
-    <string name="lockpattern_recording_intro_header">Draw Unlocking Pattern</string>
-    <string name="lockpattern_settings_help_how_to_record">How to Draw Unlocking Pattern？</string>
+    <string name="lockpattern_recording_intro_header">Teken ontgrendelpatroon</string>
+    <string name="lockpattern_settings_help_how_to_record">Hoe ontgrendelpatroon tekenen？</string>
     <string name="lockpattern_recording_incorrect_too_short"></string>
     <string name="lockpattern_pattern_entered_header">Patroon opgeslagen</string>
-    <string name="lockpattern_need_to_confirm">Confirm Unlocking Pattern</string>
-    <string name="lockpattern_pattern_confirmed_header">Confirm Unlocking Pattern</string>
+    <string name="lockpattern_need_to_confirm">Bevestig Ontgrendelpatroon</string>
+    <string name="lockpattern_pattern_confirmed_header">Bevestig Ontgrendelpatroon</string>
     <string name="app_notifications_dialog_done">Voltooid</string>
-    <string name="lockpattern_cancel">Gesture Password</string>
+    <string name="lockpattern_cancel">Gebaar wachtwoord</string>
     <string name="lockpattern_change">Wachtwoord wijzigen</string>
-    <string name="lockpattern_change_state">Change Watch Status</string>
+    <string name="lockpattern_change_state">Status horloge wijzigen</string>
     <string name="lockpattern_exist">Ingeschakeld</string>
     <string name="lockpattern_exist_no">Uitgeschakeld</string>
     <string name="unlock_disable_lock_pattern_summary">Patroon verwijderen</string>
@@ -499,14 +498,14 @@ all data in the watch will be deleted, and the watch will be disconnected from y
     <string name="exit">Sluit</string>
     <string name="pattern_set_title">Veiligheid</string>
     <string name="watch_state">Screensaver instellingen</string>
-    <string name="unwear">Watch off the Wrist</string>
-    <string name="wear">Watch on the Wrist</string>
-    <string name="lockpattern_need_confirm">Please Draw Again</string>
-    <string name="lockpattern_pattern_short">Please Connect at Least 4 Points</string>
-    <string name="lockpattern_confirm_wrong">Pattern Inconformity</string>
-    <string name="lockpattern_change_none">There Is No Unlocking Pattern Currently</string>
-    <string name="security_lockpattern">Gesture Password</string>
-    <string name="lockpattern_need_confirm_guide">Please Draw the Current Pattern</string>
+    <string name="unwear">Horloge los van pols</string>
+    <string name="wear">Horloge aan pols</string>
+    <string name="lockpattern_need_confirm">Probeer opnieuw</string>
+    <string name="lockpattern_pattern_short">Verbind minimaal 4 punten</string>
+    <string name="lockpattern_confirm_wrong">Foutief patroon</string>
+    <string name="lockpattern_change_none">Momenteel geen patroon ingesteld</string>
+    <string name="security_lockpattern">Gebaar wachtwoord</string>
+    <string name="lockpattern_need_confirm_guide">Teken huidig patroon</string>
     <string name="time_zone">Tijdzone</string>
     <string name="date">Datum</string>
     <string name="time">Tijdsdoel</string>
@@ -517,10 +516,10 @@ all data in the watch will be deleted, and the watch will be disconnected from y
     <string name="am">AM</string>
     <string name="pm">PM</string>
     <string name="ultra_title">Ultra modus</string>
-    <string name="ultra_desc">"The Ultra Mode will greatly extend the watch's battery life and support the main features of the watch."</string>
+    <string name="ultra_desc">"De Ultramodus zal de batterijduur van het horloge aanzienlijk verlengen en de belangrijkste functies van het horloge ondersteunen."</string>
     <string name="ultra_enter">Ultra modus</string>
-    <string name="sync_sport_data_before_reboot_title">Unsynchronized exercise records are found.</string>
-    <string name="sync_sport_data_before_reboot_summary">Unsynchronized records cannot be viewed on your phone. Please sync the records before switching modes. Open the Amazfit app and pull down to sync. Continue to switch?</string>
+    <string name="sync_sport_data_before_reboot_title">Niet-gesynchroniseerde opnames gevonden.</string>
+    <string name="sync_sport_data_before_reboot_summary">Niet-gesynchroniseerde opnames kunnen niet worden bekeken op uw telefoon. Synchroniseer opnames vooraleer modus te wijzigen. Open Amazfit app om te synchroniseren. Doorgaan met omschakelen?</string>
     <string name="sync_sport_data_before_reboot_dont_reboot">Nee</string>
     <string name="sync_sport_data_before_reboot_reboot_now">Ja</string>
     <string name="unit_metric">Metrisch</string>
@@ -533,7 +532,7 @@ all data in the watch will be deleted, and the watch will be disconnected from y
     <string name="light_value">Helderheid</string>
     <string name="light_auto_set">Auto</string>
     <string name="light_auto_guide_title">Auto aanp.</string>
-    <string name="light_auto_guide_content">After Auto adjustment is on, move slider to fine tune the brightness coefficient, then the screen brightness will still change with the ambient brightness.</string>
+    <string name="light_auto_guide_content">Nadat automatische aanpassing is ingeschakeld, schuifregelaar bewegen om helderheid te wijzigen. De helderheid van het scherm zal veranderen ifv de omgevingshelderheid.</string>
     <string name="light_auto_guide_ok">Ik weet het</string>
     <string name="watch_mode_title">Schakel de horloge modus in</string>
     <string name="watch_mode_message">"\"When turned on, the watch will only support time display, step counting and transportation card payment. 

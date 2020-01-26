@@ -200,8 +200,8 @@
 begin nu."</string>
     <string name="history_start_sport_tips">Start activiteit.</string>
     <string name="sport_motion_state">Exercise state</string>
-    <string name="sport_motion_state_prediction">Running performance prediction</string>
-    <string name="sport_motion_state_prediction_tips">It is unable to predict it now. You have to wear the watch and run more than 3 km.</string>
+    <string name="sport_motion_state_prediction">Prognose loopprestatie</string>
+    <string name="sport_motion_state_prediction_tips">Niet mogelijk om nu te voorspellen. Draag het horloge en loop minstens 3km.</string>
     <string name="sport_motion_state_prediction_5_km">5km</string>
     <string name="sport_motion_state_prediction_10_km">10km</string>
     <string name="sport_motion_state_prediction_half_maraton">Halve marathon</string>
@@ -481,9 +481,9 @@ begin nu."</string>
     <string name="full_marathon_fastest">Volledige marathon</string>
     <string name="ride_max_altitude_up">Max. klim(%1$s)</string>
     <string name="moutaineer_highest_altitude">Maximale hoogte (%1$s)</string>
-    <string name="moutaineer_max_altitude_up">Max total ascent(%1$s)</string>
-    <string name="moutaineer_max_altitude_down">Max total descent(%1$s)</string>
-    <string name="moutaineer_max_altitude_climb">Max total climb(%1$s)</string>
+    <string name="moutaineer_max_altitude_up">Max. totale stijging (%1$s)</string>
+    <string name="moutaineer_max_altitude_down">Max. totale daling (%1$s)</string>
+    <string name="moutaineer_max_altitude_climb">Max. totale klim(%1$s)</string>
     <string name="switch_interval_run">Training wijzigen</string>
     <string name="continuous_hour">%1$d u</string>
     <string name="rowing_machine_this_group_count">Paddles in deze set</string>
@@ -514,7 +514,7 @@ begin nu."</string>
     <string name="ok_button">OK</string>
     <string name="back_button">Terug</string>
     <string name="select_wear_hand">Selecteer hand</string>
-    <string name="gps_interval_alert_msg">GPS interval of 60 secs will greatly extend the recording duration of sport, but the accuracy of data recording will be reduced. Functions including 1km subsection, auto subsection, and auto pause cannot be used. Confirm?</string>
+    <string name="gps_interval_alert_msg">De opnameduur van de sport wordt aanzienlijk verlengd, maar de nauwkeurigheid van gegevensopname wordt verminderd. Functies zoals 1km subsectie, auto-subsectie en automatische pauze kunnen niet worden gebruikt. Bevestigen?</string>
     <string name="power_saving_alert_msg">De opnameduur van de sport wordt aanzienlijk verlengd, maar de nauwkeurigheid van gegevensopname wordt verminderd. Functies zoals 1km subsectie, auto-subsectie en automatische pauze kunnen niet worden gebruikt. Bevestigen?</string>
     <string name="notify_agps_time_out">AGPS</string>
     <string name="smart_coach_recommand">Slimme coach aanbevolen</string>
@@ -532,10 +532,10 @@ begin nu."</string>
     <string name="longest_distance_no_unit">Max. afstand</string>
     <string name="ride_max_altitude_up_no_unit">Max. klim</string>
     <string name="moutaineer_highest_altitude_no_unit">Maximale hoogte</string>
-    <string name="moutaineer_max_altitude_up_no_unit">Max total ascent</string>
-    <string name="moutaineer_max_altitude_down_no_unit">Max total descent</string>
+    <string name="moutaineer_max_altitude_up_no_unit">Max. totale stijging</string>
+    <string name="moutaineer_max_altitude_down_no_unit">Max. totale daling</string>
     <string name="moutaineer_max_altitude_climb_no_unit">Max totale klim</string>
-    <string name="pb_introduction_content">If there is any inconsistency between personal records in the watch and that in the app, the records in the app will be used for data synchronization.</string>
+    <string name="pb_introduction_content">Bij inconsistentie tussen persoonlijke records in het horloge en in de app, zullen de records in de app worden gebruikt.</string>
     <string name="pb_confirm">Genoteerd</string>
     <string name="sport_add_item">Activiteit toevoegen</string>
     <string name="sport_delete_item">Activiteit Verwijderen</string>
@@ -556,7 +556,8 @@ begin nu."</string>
     <string name="time_unit_hour">u</string>
     <string name="train_load_medium">Medium</string>
     <string name="train_load_near_seven_days">Voorbije week</string>
-    <string name="train_load_suggess_status_no_record">"We'll evaluate your training load from exercises recorded in the past 7 days"</string>
+    <string name="train_load_suggess_status_no_record">"Evaluatie van de trainingsintensiteit
+op basis van de trainingen in de afgelopen 7 dagen."</string>
     <string name="train_load_suggess_status_less">Laag</string>
     <string name="train_load_suggess_status_good">Optimaal</string>
     <string name="train_load_suggess_status_recovery">Hoog</string>
@@ -585,8 +586,7 @@ begin nu."</string>
     <string name="sport_te_desc_level_06">Overbelasting van het lichaam.</string>
     <string name="first_beat_remind_txt_01">Dit is een goed tempo.</string>
     <string name="first_beat_remind_txt_02">Dit is een goed tempo. Hou dit enkele minuten aan.</string>
-    <string name="sport_history_recovery_remind">"It\'s recommended to have proper maintaining workouts 
-to reach full recovery."</string>
+    <string name="sport_history_recovery_remind">"Plan onderhoudende workouts om het herstel te bespoedigen."</string>
     <string name="daily_propermance_has_no_data">Geen gegevens</string>
     <string name="first_beat_help_title_vo2_max">Maximum</string>
     <string name="first_beat_help_title_train_efffect">Trainingseffect (TE)</string>
@@ -652,7 +652,7 @@ to reach full recovery."</string>
     <string name="music_pause">Pauze</string>
     <string name="music_fm_title">Douban FM</string>
     <string name="music_fm_notification_content">Sports FM heeft een aantal nieuwe afspeellijsten, ga en download ze！</string>
-    <string name="music_down_not_complete_title">The song list has not been fully downloaded, exit?</string>
+    <string name="music_down_not_complete_title">Lijst met nummers is nog niet volledig gedownloaded, afsluiten?</string>
     <string name="music_down_not_complete_content">Je kunt nummers bijwerken in Muziek instellingen &gt; Douban FM offline nadat je uitlogt.</string>
     <string name="music_source_douban">Douban FM</string>
     <string name="music_source_local">Lokale nummers</string>
@@ -660,7 +660,7 @@ to reach full recovery."</string>
     <string name="music_init_not_done">Muziek initialiseren...</string>
     <string name="music_no_douban_resource">Geen nummers om te spelen, downloaden?</string>
     <string name="ximalaya_music_title">Ximalaya</string>
-    <string name="first_music_tips">Added a music control feature on watch, you can control the music on watch~</string>
+    <string name="first_music_tips">Muziek besturingsfunctie toegevoegd op horloge, u kunt de muziek op horloge bedienen~</string>
     <string name="title_activity_running">Loopactiviteit</string>
     <string name="default_time_value">00:00:00</string>
     <string name="default_time_string">--:--:--</string>
@@ -689,7 +689,7 @@ to reach full recovery."</string>
     <string name="con_leqi_table_title">LEQI fietscomputer ondersteund, nu verbinden?</string>
     <string name="con_leqi_table_subtitle">(Zie Systeeminstellingen &gt; - Bluetooth)</string>
     <string name="remind_target_riding_km_title_format">%1$dkm afgelegd</string>
-    <string name="indoor_riding_time_too_short">Exercise time is too short to save. Stop anyway?</string>
+    <string name="indoor_riding_time_too_short">Tijdsduur te kort om op te slaan. Toch stoppen?</string>
     <string name="outdoor_climb_down_altitude">Cumulatieve daling</string>
     <string name="outdoor_climb_down_distance">Afstand afname</string>
     <string name="outdoor_climb_down_distance_time">Tijd bergaf</string>
@@ -770,14 +770,14 @@ to reach full recovery."</string>
     <string name="sport_pause_normal_rope_skip_unit">Aantal</string>
     <string name="sport_pause_last_min_times_reminder">Meer data nodig om op te slaan, toch eindigen?</string>
     <string name="rope_skip_this_frequency">Groepsfrequentie</string>
-    <string name="rope_skip_aleary_group"><Data>Groups: &lt;font color=#00ff00&gt;%1$s&lt;/font&gt;</Data></string>
+    <string name="rope_skip_aleary_group"><Data>Groepen: &lt;font color=#00ff00&gt;%1$s&lt;/font&gt;</Data></string>
     <string name="sport_remind_total_times">Totaal springen:%1$s</string>
     <string name="sport_main_graph_title_rope_skip">Recentste</string>
     <string name="sport_rope_skip_requency">Frequentie (aantal/min)</string>
     <string name="swim_total_trips_times">Aantal lengtes: %1$s</string>
     <string name="rope_skip_this_group_calorie">Calorieën</string>
     <string name="rope_skip_this_group_avg_hr">AVG HR</string>
-    <string name="lap_this_group_avg_hr">Heart rate of this set</string>
+    <string name="lap_this_group_avg_hr">Hartslag deze set</string>
     <string name="route_glevation_gain">Hoogtewinst</string>
     <string name="route_scale_enlarge">Inzoomen</string>
     <string name="route_scale_narrow">Uitzoomen</string>
@@ -815,7 +815,7 @@ to reach full recovery."</string>
     <string name="last_lap_duration">Laatste rondetijd</string>
     <string name="last_lap_hr">Ronde HR</string>
     <string name="last_lap_speed">Ronde snelheid</string>
-    <string name="cur_lap_stepfreq">Freq. in this lap</string>
+    <string name="cur_lap_stepfreq">Freq. deze ronde</string>
     <string name="cur_lap_duration">Groep tijd</string>
     <string name="cur_lap_distance">Ronde afst.</string>
     <string name="cur_lap_hr">Hartslag deze ronde</string>
@@ -930,8 +930,8 @@ to reach full recovery."</string>
     <string name="sport_medal_desc_total_50_km">Totale trainingsafstand: 50km</string>
     <string name="sport_medal_desc_total_300_km">Totale trainingsafstand: 300km</string>
     <string name="sport_medal_desc_total_1000_km">Totale trainingsafstand: 1.000km</string>
-    <string name="sport_medal_desc_one_5_mi">Single workout distance of 3.1 mi</string>
-    <string name="sport_medal_desc_one_10_mi">Single workout distance of 6.2 mi</string>
+    <string name="sport_medal_desc_one_5_mi">3.1 mijl training</string>
+    <string name="sport_medal_desc_one_10_mi">6.2 mijl training</string>
     <string name="sport_medal_desc_total_50_mi">Totale trainingsafstand: 31 mijl</string>
     <string name="sport_medal_desc_total_300_mi">Totale trainingsafstand: 186 mijl</string>
     <string name="sport_medal_desc_total_1000_mi">Totale trainingsafstand: 621 mijl</string>
@@ -963,7 +963,7 @@ to reach full recovery."</string>
     <string name="remind_heart_rate_too_high">Hartslag te hoog</string>
     <string name="remind_heart_rate_value_before">Huidig</string>
     <string name="remind_heart_rate_value_after">BPM</string>
-    <string name="remind_heart_rate_suggestion">Slow down gradually to adjust</string>
+    <string name="remind_heart_rate_suggestion">Vertraag langzaam om aan te passen</string>
     <string name="remind_pace_too_low">Tempo te langzaam</string>
     <string name="remind_pace_too_fast">Tempo te hoog</string>
     <string name="remind_pace_current">Huidig</string>
@@ -983,7 +983,7 @@ to reach full recovery."</string>
     <string name="wait_gps_hint">Het GPS-signaal is beter in open ruimte ver van gebouwen</string>
     <string name="wait_gps_success">GPS beschikbaar, training kan beginnen</string>
     <string name="lock_screen">Scherm vergrendeld</string>
-    <string name="txt_unlock_screen">Press and hold the screen to unlock</string>
+    <string name="txt_unlock_screen">Houd ingedrukt om te ontgrendelen</string>
     <string name="sport_screen_un_lock">Ontgrendeld</string>
     <string name="lock_status_locked">Geblokkeerd</string>
     <string name="lock_status_unlock_ing">Ontgrendelen</string>
@@ -998,7 +998,7 @@ to reach full recovery."</string>
     <string name="count_down_tint">Draag het horloge aub nauw aansluitend voor nauwkeurige hartslagresultaten</string>
     <string name="history_detail_running_cost_time">Looptijd</string>
     <string name="history_detail_walking_cost_time">Wandelduur</string>
-    <string name="settings_sport_slpt_second_brush">Per second stats refresh</string>
+    <string name="settings_sport_slpt_second_brush">Per seconde verversen</string>
     <string name="settings_sport_music_Watercress">Sports FM</string>
     <string name="settings_sport_music_play_settings">Instellingen</string>
     <string name="settings_sport_lock_screen">Vergrendelingsscherm</string>
@@ -1144,7 +1144,7 @@ to reach full recovery."</string>
     <string name="mixed_aerobic">Gemengde aerobic</string>
     <string name="strength_training">Krachttraining</string>
     <string name="stretching">Stretchen</string>
-    <string name="climbing_floor">Floor climbing machine</string>
+    <string name="climbing_floor">Roltrap</string>
     <string name="pilates">Pilates</string>
     <string name="flexibility_training">Flexibiliteitstraining</string>
     <string name="stepper">Stepper</string>
