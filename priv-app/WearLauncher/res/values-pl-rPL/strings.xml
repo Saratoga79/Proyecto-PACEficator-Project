@@ -22,9 +22,9 @@
     <string name="notification_allclear_confirm">Te powiadomienia zostaną trwale usunięte. Wyczyścić mimo to?</string>
     <string name="notification_checking_bluetooth">Sprawdzanie połączenia Bluetooth…</string>
     <string name="notification_detail_content_title">Information details</string>
-    <string name="notification_fix_message_action1">Pin this message</string>
-    <string name="notification_fix_message_reset">Reset time</string>
-    <string name="notification_fix_message_cancel">Unpin</string>
+    <string name="notification_fix_message_action1">Przypnij tę wiadomość</string>
+    <string name="notification_fix_message_reset">Resetuj czas</string>
+    <string name="notification_fix_message_cancel">Odepnij</string>
     <string name="quick_settings_airplane_mode">"Airplane
  %1$s"</string>
     <string name="quick_settings_no_disturb_mode">"DND
@@ -33,46 +33,46 @@
  %1$s"</string>
     <string name="quick_settings_rise_up_hand_mode">"Wake screen on wrist raise
  %1$s"</string>
-    <string name="quick_settings_more_settings">Additional settings</string>
+    <string name="quick_settings_more_settings">Dodatkowe ustawienia</string>
     <string name="quick_settings_switch_auto">Auto mode</string>
     <string name="quick_settings_switch_awake">Wake mode</string>
-    <string name="quick_settings_switch_always">Always on</string>
-    <string name="quick_settings_switch_on">Turn on</string>
-    <string name="quick_settings_switch_off">Turn off</string>
-    <string name="quick_settings_toast_on">On</string>
+    <string name="quick_settings_switch_always">Zawsze wł.</string>
+    <string name="quick_settings_switch_on">Włącz</string>
+    <string name="quick_settings_switch_off">Wyłącz</string>
+    <string name="quick_settings_toast_on">Wł.</string>
     <string name="quick_settings_toast_off">Wył.</string>
-    <string name="quick_settings_status">Not connected</string>
-    <string name="quick_settings_no_disturb_toast">"You'll no longer receive notifications."</string>
+    <string name="quick_settings_status">Nie podłączono</string>
+    <string name="quick_settings_no_disturb_toast">"Nie będziesz już otrzymywać powiadomień."</string>
     <string name="quick_settings_auto_light_toast">Keeping the screen on reduces battery life.</string>
-    <string name="quick_settings_status_month">Month</string>
-    <string name="quick_settings_status_day">Day  </string>
-    <string name="quick_settings_connected">Connected</string>
-    <string name="quick_settings_disconnect">Not connected</string>
-    <string name="quick_settings_unbound">Pair device first</string>
+    <string name="quick_settings_status_month">Miesiąc</string>
+    <string name="quick_settings_status_day">Dzień  </string>
+    <string name="quick_settings_connected">Połączono</string>
+    <string name="quick_settings_disconnect">Nie podłączono</string>
+    <string name="quick_settings_unbound">Najpierw sparuj urządzenie</string>
     <string name="quick_settings_date_chinese">MM/dd/yyyy</string>
     <string name="quick_settings_date_format">1/31/1900</string>
     <string name="quick_settings_date_yeareve">"Chinese New Year's Eve"</string>
-    <string name="seconed_confirm_nodisturb">"DND mode is on.
-Can\'t receive notifications."</string>
-    <string name="quick_settings_battery_charging_full">Fully charged</string>
-    <string name="quick_settings_battery_is_charging">Charging</string>
-    <string name="quick_settings_battery_hasnot_charged">No charging history</string>
-    <string name="quick_settings_battery_charging_intervalDay">Last charged %1$dd %2$dh ago</string>
-    <string name="quick_settings_battery_charging_intervalDay_lessHour">"Last charged
+    <string name="seconed_confirm_nodisturb">"Tryb DND jest włączony.
+Nie można otrzymywać powiadomień."</string>
+    <string name="quick_settings_battery_charging_full">W pełni naładowany</string>
+    <string name="quick_settings_battery_is_charging">Ładowanie</string>
+    <string name="quick_settings_battery_hasnot_charged">Brak historii ładowania</string>
+    <string name="quick_settings_battery_charging_intervalDay">Ostatnie ładowanie %1$dd %2$dh temu</string>
+    <string name="quick_settings_battery_charging_intervalDay_lessHour">"Ostatnie ładowanie
 %dd ago"</string>
-    <string name="quick_settings_battery_charging_intervalDayLess">"Last charged
+    <string name="quick_settings_battery_charging_intervalDayLess">"Ostatnie ładowanie
 %dh ago"</string>
-    <string name="quick_settings_battery_charging_intervalLessHour">"Last charged
-less than 1h ago"</string>
-    <string name="quick_settings_battery_sportString">You can keep running.</string>
+    <string name="quick_settings_battery_charging_intervalLessHour">"Ostatnie ładowanie
+wcześniej niż godzinę temu"</string>
+    <string name="quick_settings_battery_sportString">Możesz nadal działać.</string>
     <string name="quick_settings_battery_sporttime_hour_unit">godz.</string>
     <string name="quick_settings_battery_sporttime_KM_unit">km</string>
     <string name="quick_settings_battery_level_unit">%</string>
     <string name="quick_settings_battery_sporttime_MI_unit">mi</string>
-    <string name="splash_hint">Initializing ...</string>
+    <string name="splash_hint">Inicjalizowanie ...</string>
     <string name="header_incomming_call_name"></string>
-    <string name="header_incomming_call_hint">Incoming call</string>
-    <string name="header_incomming_call_mobilephone">Phone</string>
+    <string name="header_incomming_call_hint">Połączenie przychodzące</string>
+    <string name="header_incomming_call_mobilephone">Telefon</string>
     <string name="header_incomming_call_landlinephone">Landline</string>
     <string name="header_incomming_call_searchinglocation">Attribution querying...</string>
     <string name="header_incomming_call_mobile_virtual">Mobile Virtual Carriers</string>
@@ -116,13 +116,13 @@ less than 1h ago"</string>
     <string name="music_bulethooth_disconnect">Checking Bluetooth connection…</string>
     <string name="music_peek_content">"You're playing music in %s on your phone. You can control playback in the Notification shade on your watch."</string>
     <string name="alone_before_open">Niedawno otwarte</string>
-    <string name="notification_title_default">Notification</string>
+    <string name="notification_title_default">Powiadomienie</string>
     <string name="music">Muzyka</string>
     <string name="launcher_app_name">Launcher</string>
-    <string name="hm_watch_sports_notification_km">Kilometers</string>
-    <string name="hm_watch_sports_notification_sports">Sports</string>
-    <string name="hm_generic_notification_iconified_content_line">Hello, I am a fan of Huami</string>
-    <string name="notification_action_more">More</string>
+    <string name="hm_watch_sports_notification_km">Kilometry</string>
+    <string name="hm_watch_sports_notification_sports">Sporty</string>
+    <string name="hm_generic_notification_iconified_content_line">Cześć, jestem fanem Huami</string>
+    <string name="notification_action_more">Więcej</string>
     <string name="notification_wechat_red_envelop_title">微信红包提醒</string>
     <string name="notification_alipay_red_envelop_title">支付宝红包提醒</string>
     <string name="notification_qq_red_envelop_title">QQ红包提醒</string>
