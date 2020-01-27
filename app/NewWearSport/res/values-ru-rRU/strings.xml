@@ -68,7 +68,7 @@
     <string name="not_step_freq_data">"Данные о каденсе не найдены"</string>
     <string name="not_stroke_speed_data">"Данные о взмахах не найдены"</string>
     <string name="not_cadence_data">"Данные о каденсе не найдены"</string>
-    <string name="stroke_speed_curve_title">Stroke rate (SPM)</string>
+    <string name="stroke_speed_curve_title">Частота хода (SPM)</string>
     <string name="stroke_rowing_title">Скорость гребли (bpm)</string>
     <string name="stroke_unit">" взмахи"</string>
     <string name="cadence_curve_title">Каденс (SPM)</string>
@@ -105,7 +105,7 @@
     <string name="battery_continue_time_unit">час</string>
     <string name="battery_split"> / </string>
     <string name="suggest_reset_time">Время до полного восстановления: %1$s ч</string>
-    <string name="remain_time_recovery"><Data>Time to full recovery&amp;nbsp;&lt;font color=#00ff00&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;/font&gt;&amp;nbsp; h</Data></string>
+    <string name="remain_time_recovery"><Data>Время полного восстановления&amp;nbsp;&lt;font color=#00ff00&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;/font&gt;&amp;nbsp; h</Data></string>
     <string name="more_sport_tint">Больше</string>
     <string name="zh_space">&amp;#12288;</string>
     <string name="en_space"> </string>
@@ -116,7 +116,7 @@
     <string name="picker_title_target_calorie">Калории (ккал)</string>
     <string name="picker_title_target_te">Цель TE</string>
     <string name="picker_title_target_heart_rate">Пульс (уд/м)</string>
-    <string name="picker_title_auto_lap">Auto laps (%1$s)</string>
+    <string name="picker_title_auto_lap">Авто-этапы (%1$s)</string>
     <string name="picker_title_swim_length">Размер пула (%1$s)</string>
     <string name="picker_title_target_trips">Цель этапов</string>
     <string name="picker_title_fix_dis">Калибровка (%1$s)</string>
@@ -250,7 +250,7 @@
     <string name="sport_graph_title_fast">Самый быстрый</string>
     <string name="sport_graph_title_high">Наивысший</string>
     <string name="sport_graph_title_low">Наименьший</string>
-    <string name="adjust_content">%1$dm</string>
+    <string name="adjust_content">%1$dм</string>
     <string name="adjust_tips_title">Auto lap distance has been changed</string>
     <string name="adjust_swim_tips">Расстояние автом. этапа была установлена как длина бассейна. Если вы хотите сбросить его, перейдите в настройки активности.</string>
     <string name="hill_title">Распределение откоса</string>
@@ -321,7 +321,7 @@
     <string name="continue_sport">Продолжить активность</string>
     <string name="stop_sport">Остановить активность</string>
     <string name="swim_avg_stroke_speed">Средн. SPM</string>
-    <string name="swim_max_stroke_speed">Max stroke rate</string>
+    <string name="swim_max_stroke_speed">Макс. частота хода</string>
     <string name="swim_trips">Этапов</string>
     <string name="target_swim_trips">Цель этапов</string>
     <string name="swim_total_trips">Всего этапов</string>
@@ -348,8 +348,8 @@
     <string name="sport_te_desc"><Data>"Эффект тренировки &lt;font color=#FFFF00&gt;умеренный&lt;/font&gt;, который поддерживает сердечно-сосудистую артерию."</Data></string>
     <string name="last_kilo_meters_times">Время на последние км</string>
     <string name="last_mi_times">Время на последние мили</string>
-    <string name="last_kilo_meters_times_with_param">Last %1$s kilometer time</string>
-    <string name="last_mi_times_with_param">Last %1$s mile time</string>
+    <string name="last_kilo_meters_times_with_param">Последний %1$s км</string>
+    <string name="last_mi_times_with_param">Последний %1$s мили</string>
     <string name="running_total_distance_desc">Общий путь</string>
     <string name="setting_sport_title_exteed_region_tips">Уведомлять о выходе зоны %1$s</string>
     <string name="sport_history_bottom_remind">Чтобы узнать больше записей, перейдите в приложение Amazfit</string>
@@ -383,7 +383,7 @@
     <string name="click_finsh_this_train_unit">Нажмите BACK для завершения</string>
     <string name="has_no_train_unit_remind">Добавляйте интервалы тренировок в приложении Amazfit и синхронизируйте их с часами.</string>
     <string name="interval_segment_details">Детали интервала</string>
-    <string name="test_html_txt" formatted="false">%1sm%2ss/%3sm</string>
+    <string name="test_html_txt" formatted="false">%1sм%2sс/%3sм</string>
     <string name="sport_widget_title_skiing">Лыжи</string>
     <string name="sport_widget_title_in_skiing">Лыжи</string>
     <string name="skiing_history_downhill_title">Скоростной спуск</string>
@@ -400,10 +400,10 @@
     <string name="skiing_interval_train_complete_pause_tip">Приостановка деятельности</string>
     <string name="skiing_above_skiing_spped">Уведомлять когда быстрее чем %1$s</string>
     <string name="skiing_lap_downhill_dis_title">Скоростной спуск</string>
-    <string name="sport_history_total_stokes">Total strokes</string>
-    <string name="sport_tennis_forehand">Forehand</string>
-    <string name="sport_tennis_backhand">Backhand</string>
-    <string name="sport_tennis_serve">Serve</string>
+    <string name="sport_history_total_stokes">Всего взмахов</string>
+    <string name="sport_tennis_forehand">Форхенд</string>
+    <string name="sport_tennis_backhand">Бэкхенд</string>
+    <string name="sport_tennis_serve">Подавать</string>
     <string name="sport_setting_clap_the_hands">Рука для ракетки</string>
     <string name="sport_setting_wear_hand">Рука для ношения часов</string>
     <string name="sport_setting_left_hand">Слева</string>
@@ -524,21 +524,21 @@
     <string name="data_control_sub_title">Данные</string>
     <string name="sport_remind_sub_title">Напоминание</string>
     <string name="settings_sport_cadence_link_sub_title">Настройка спортивной каденции</string>
-    <string name="settings_sport_swim_length_sub_title">Sport swim length setting</string>
-    <string name="battery_life_settings_sub_title">Battery life setting</string>
+    <string name="settings_sport_swim_length_sub_title">Спортивная настройка расстояния заплыва</string>
+    <string name="battery_life_settings_sub_title">Настройка срока службы батареи</string>
     <string name="data_refresh_per_sec">Обновлять каждые секунду</string>
     <string name="data_refresh_setting">Данные на экране блокировки</string>
-    <string name="data_refresh_wrist_raise">Refresh on wrist up</string>
+    <string name="data_refresh_wrist_raise">Обновить при запястии вверх</string>
     <string name="longest_distance_no_unit">Макс. расстояние</string>
     <string name="ride_max_altitude_up_no_unit">Макс. подъем</string>
     <string name="moutaineer_highest_altitude_no_unit">Максимальная высота</string>
-    <string name="moutaineer_max_altitude_up_no_unit">Max total ascent</string>
-    <string name="moutaineer_max_altitude_down_no_unit">Max total descent</string>
-    <string name="moutaineer_max_altitude_climb_no_unit">Max total climb</string>
-    <string name="pb_introduction_content">If there is any inconsistency between personal records in the watch and that in the app, the records in the app will be used for data synchronization.</string>
-    <string name="pb_confirm">Noted</string>
-    <string name="sport_add_item">Add new activity</string>
-    <string name="sport_delete_item">Delete activity</string>
+    <string name="moutaineer_max_altitude_up_no_unit">Макс. общее восхождение</string>
+    <string name="moutaineer_max_altitude_down_no_unit">Макс. общий спуск</string>
+    <string name="moutaineer_max_altitude_climb_no_unit">Макс. общий подъем</string>
+    <string name="pb_introduction_content">Если есть несоответствие между личными записями в часах и в приложении, записи в приложении будут использоваться для синхронизации данных.</string>
+    <string name="pb_confirm">Отмечено</string>
+    <string name="sport_add_item">Добавить новое действие</string>
+    <string name="sport_delete_item">Удалить элемент активности</string>
     <string name="delete_item_tips">Keep a list of at least 1 activity</string>
     <string name="add_item_tips">Это упражнение уже включено в учебный список</string>
     <string name="huanghe_pause_continue_title">Activity actions</string>
