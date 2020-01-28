@@ -687,19 +687,19 @@
     <string name="outdoor_speed_graph_title">Ταχύτητα(χλμ/ω)</string>
     <string name="not_testing_speed_data">"Δεν μπορούν να βρεθούν δεδομένα ταχύτητας"</string>
     <string name="con_leqi_table_title">Το τραπέζι ποδηλασίας LEQI υποστηρίζεται στο ρολόι, ζευγοποίηση τώρα;</string>
-    <string name="con_leqi_table_subtitle">(Pair device in Settings &gt; Bluetooth)</string>
+    <string name="con_leqi_table_subtitle">(Διασύνδεση συσκευής στις Ρυθμίσεις &gt; Bluetooth)</string>
     <string name="remind_target_riding_km_title_format">Ολοκληρώθηκε %1$d mi</string>
-    <string name="indoor_riding_time_too_short">Exercise time is too short to save. Stop anyway?</string>
-    <string name="outdoor_climb_down_altitude">Elev loss</string>
-    <string name="outdoor_climb_down_distance">Dist loss</string>
-    <string name="outdoor_climb_down_distance_time">Downhill time</string>
-    <string name="outdoor_climb_distance_time">Uphill time</string>
+    <string name="indoor_riding_time_too_short">Ο χρόνος άσκησης είναι πολύ μικρός για να το αποθηκεύσετε. Σταματήστε ούτως ή άλλως;</string>
+    <string name="outdoor_climb_down_altitude">Χάσιμο υψόμετρου</string>
+    <string name="outdoor_climb_down_distance">Απώλεια απόστασης</string>
+    <string name="outdoor_climb_down_distance_time">Χρόνος Κατάβασης</string>
+    <string name="outdoor_climb_distance_time">Χρόνος ανάβασης</string>
     <string name="real_time_keep_speed">Κρατήστε τον ρυθμό</string>
     <string name="real_time_run_faster">\"Increase the pace 
  for effective exercise!\"</string>
     <string name="real_time_every_good">Πολύ καλό</string>
     <string name="real_time_run_slower">Κόψτε ταχύτητα</string>
-    <string name="real_time_target_finish">Reached your goal</string>
+    <string name="real_time_target_finish">Επιτεύχθηκε στόχος</string>
     <string name="real_time_guide_title_1">Κρατήστε τον ρυθμό</string>
     <string name="real_time_guide_title_2">Κρατήστε τον ρυθμό</string>
     <string name="real_time_guide_title_3">\"Increase the pace 
@@ -716,7 +716,7 @@
  for effective exercise!\"</string>
     <string name="real_time_guide_title_26">\"Increase the pace 
  for effective exercise!\"</string>
-    <string name="real_time_guide_title_27">Reached your goal</string>
+    <string name="real_time_guide_title_27">Επιτεύχθηκε στόχος</string>
     <string name="real_time_guide_title_28">Πολύ καλό</string>
     <string name="real_time_guide_title_30">Πολύ καλό</string>
     <string name="real_time_guide_title_31">Πολύ καλό</string>
@@ -724,13 +724,13 @@
     <string name="real_time_guide_title_33">Κόψτε ταχύτητα</string>
     <string name="real_time_guide_title_34">Κόψτε ταχύτητα</string>
     <string name="real_time_guide_title_35">Κόψτε ταχύτητα</string>
-    <string name="real_time_guide_desc_1">Good job</string>
-    <string name="real_time_guide_desc_2">Running for %1$s more minutes to keep you fit.</string>
-    <string name="real_time_guide_desc_3">Speed up, try your best</string>
-    <string name="real_time_guide_desc_6">Running for %1$s more minutes will improve your fitness.</string>
-    <string name="real_time_guide_desc_7">Speed up, try your best</string>
-    <string name="real_time_guide_desc_10">Running for %1$s more minutes will have a very good effect on your fitness.</string>
-    <string name="real_time_guide_desc_11">Speed up again</string>
+    <string name="real_time_guide_desc_1">Καλή Δουλειά</string>
+    <string name="real_time_guide_desc_2">Τρέξτε για %1$s ακόμη λεπτά κράτα τη φόρμα σου.</string>
+    <string name="real_time_guide_desc_3">Επιταχύντε, κάντε το καλύτερο</string>
+    <string name="real_time_guide_desc_6">Τρέξτε για %1$s ακόμη λεπτά θα βελτιώσουν την φόρμα σας.</string>
+    <string name="real_time_guide_desc_7">Επιταχύντε, κάντε το καλύτερο</string>
+    <string name="real_time_guide_desc_10">Τρέξτε για %1$s ακόμη λεπτά για πολύ καλό αποτέλεσμα άθλησης.</string>
+    <string name="real_time_guide_desc_11">Επιταχύντε ξανά</string>
     <string name="real_time_guide_desc_14">Έχετε ήδη ολοκληρώσει μια πολύ καλή προπόνηση.</string>
     <string name="real_time_guide_desc_22">Your goal is expected to be reached in %1$s min</string>
     <string name="real_time_guide_desc_25">Ο στόχος καρδιακού ρυθμού είναι %1$s-%2$sbpm.</string>
