@@ -37,15 +37,15 @@
         <item>ELLIPTICAL_MACHINE</item>
     </string-array>
     <string-array name="dally_performence_level_status">
-        <item>Fatigued</item>
-        <item>Normal</item>
+        <item>Усталость</item>
+        <item>Нормальный</item>
         <item>Хорошо</item>
     </string-array>
     <string-array name="vo2_max_level_status">
-        <item>Very poor</item>
-        <item>Poor</item>
-        <item>Fair</item>
-        <item>Average</item>
+        <item>Очень плохо</item>
+        <item>Плохо</item>
+        <item>Ясно</item>
+        <item>Среднее</item>
         <item>Хорошо</item>
         <item>Очень хорошо</item>
         <item>Отличный</item>
@@ -60,72 +60,72 @@
         <item></item>
         <item>Время</item>
         <item>Расстояние</item>
-        <item>Pace</item>
-        <item>Avg pace</item>
-        <item>Heart rate</item>
-        <item>Calories</item>
-        <item>Altitude</item>
-        <item>Elev gain</item>
-        <item>Elev loss</item>
-        <item>Speed</item>
-        <item>Avg speed</item>
         <item>Темп</item>
-        <item>Dist gain</item>
-        <item>Steps</item>
+        <item>Средн. темп</item>
+        <item>Пульс</item>
+        <item>Калории</item>
+        <item>Высота</item>
+        <item>Повышение уровня</item>
+        <item>Понижение уровня</item>
+        <item>Скорость</item>
+        <item>Сред. скорость</item>
+        <item>Каденс</item>
+        <item>Увеличить дистанцию</item>
+        <item>Шаги</item>
         <item>Темп</item>
-        <item>Laps</item>
+        <item>Этапы</item>
         <item>DPS</item>
-        <item>Stroke rate</item>
-        <item>Avg SPM</item>
-        <item>Pace</item>
-        <item>Avg pace</item>
+        <item>Частота хода</item>
+        <item>Средн. SPM</item>
+        <item>Темп</item>
+        <item>Средн. темп</item>
         <item>Расстояние</item>
         <item>TE</item>
-        <item>Vert speed</item>
-        <item>Avg speed</item>
-        <item>Max speed</item>
-        <item>Laps</item>
-        <item>Downhill</item>
-        <item>Total downhill</item>
-        <item>Descent</item>
-        <item>Strokes</item>
-        <item>L.L. time</item>
-        <item>L.L. pace</item>
-        <item>L.L. speed</item>
+        <item>Верт. скорость</item>
+        <item>Сред. скорость</item>
+        <item>Макс. скорость:</item>
+        <item>Этапы</item>
+        <item>Скоростной спуск</item>
+        <item>Всего по скоростному спуску</item>
+        <item>Спуск</item>
+        <item>Взмахи</item>
+        <item>L.L. время</item>
+        <item>L.L. темп</item>
+        <item>L.L. скорость</item>
         <item>L.L. HR</item>
-        <item>L.L. cadence</item>
-        <item>L.L. pace</item>
+        <item>L.L. каденс</item>
+        <item>L.L. темп</item>
         <item>Текущая частота</item>
-        <item>Total count</item>
-        <item>Avg freq</item>
-        <item>Groups</item>
-        <item>C.L. count</item>
-        <item>C.L. time</item>
-        <item>C.L. freq</item>
-        <item>C.L. time</item>
-        <item>C.L. dist.</item>
-        <item>C.L. pace</item>
-        <item>C.L. speed</item>
+        <item>Общее количество</item>
+        <item>Средн. частота</item>
+        <item>Группы</item>
+        <item>C.L. кол-во</item>
+        <item>C.L. время</item>
+        <item>C.L. частота</item>
+        <item>C.L. время</item>
+        <item>C.L. расстоян.</item>
+        <item>C.L. темп</item>
+        <item>C.L. скорость</item>
         <item>C.L. HR</item>
-        <item>C.L. freq.</item>
+        <item>C.L. частота</item>
         <item>Склон</item>
-        <item>Calories</item>
-        <item>Avg. HR</item>
-        <item>Paddles of this set</item>
+        <item>Калории</item>
+        <item>Средн. HR</item>
+        <item>Гребков данного набора</item>
         <item>Частота</item>
-        <item>Total paddles</item>
-        <item>Paddle frequency</item>
-        <item>Pulling duration</item>
-        <item>Pushing duration</item>
-        <item>Avg. Freq.</item>
+        <item>Всего гребков</item>
+        <item>Частота гребков</item>
+        <item>Длительность вытягивания</item>
+        <item>Длительность нажатия</item>
+        <item>Средн. Частота</item>
     </string-array>
     <string-array name="sport_train_item">
-        <item>Remaining distance</item>
+        <item>Оставшееся расстояние</item>
         <item>Общий путь</item>
-        <item>Total time</item>
-        <item>Remaining time</item>
+        <item>Общее время</item>
+        <item>Оставшееся время</item>
         <item>Расстояние</item>
         <item>Осталось</item>
-        <item>Has rested</item>
+        <item>Отдых</item>
     </string-array>
 </resources>
