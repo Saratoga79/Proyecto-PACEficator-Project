@@ -71,7 +71,7 @@
     <string name="kilometre">km</string>
     <string name="km_per_hour">km/h</string>
     <string name="bpm">BPM</string>
-    <string name="times_per_minute">BPM</string>
+    <string name="times_per_minute">jumps/min</string>
     <string name="per_km">/km</string>
     <string name="per_100m">/100 m</string>
     <string name="per_100Yard">/100 yd</string>
@@ -112,8 +112,7 @@
     <string name="rope_skip_tips1">The</string>
     <string name="rope_skip_tips2">set has been completed</string>
     <string name="rope_skip_avg_heartrate">Avg. heart rate</string>
-    <string name="rope_skip_group_calories">\"Calories
-\"</string>
+    <string name="rope_skip_group_calories">Calories</string>
     <string name="music">Music</string>
     <string name="press_long_power_key_wake_up">Press a physical button to exit</string>
     <string name="sport_auto_pause_end">Session ended, save the data?</string>
@@ -151,8 +150,8 @@
     <string name="alarm_sway">Sway</string>
     <string name="double_click_wakeup_open">On</string>
     <string name="double_click_wakeup_close">مغلق</string>
-    <string name="dlg_confirm">确定</string>
-    <string name="dlg_cancel">取消</string>
+    <string name="dlg_confirm">Confirm</string>
+    <string name="dlg_cancel">Cancel</string>
     <string name="gps_glon">GPS+GLONASS</string>
     <string name="gps_bd">GPS+Beidou</string>
     <string name="gps_galileo">GPS+Galileo</string>
@@ -310,7 +309,7 @@
  The system has been disconnected from the headsets 
  to reduce power consumption. You can:"</string>
     <string name="ble_connet_phone">Connect the headsets</string>
-    <string name="ble_connet_cancel">取消</string>
+    <string name="ble_connet_cancel">Cancel</string>
     <string name="report_bug_dialog_title">Feedback</string>
     <string name="report_bug_dialog_desc">If there is a data error or the watch works abnormally, you can upload the data through the feedback feature to our server for analysis. During this process, the previously generated logs on the watch will be automatically collected and uploaded. These logs are used only for problem analysis, and will be destroyed immediately after that. During the entire process we will comply with our Privacy Policy, view details of the policy on the Amazfit app.</string>
     <string name="dialog_agree">Agree</string>
@@ -383,7 +382,7 @@ Connect?\""</string>
     <string name="blt_not_support">[Only test]</string>
     <string name="bluetooth_pair_tips">Pairing code</string>
     <string name="button_enter">حسناً</string>
-    <string name="button_cancel">取消</string>
+    <string name="button_cancel">Cancel</string>
     <string name="blt_cancel_paring">Paring canceled</string>
     <string name="bluetooth_pairing_error_message">Pairing failed</string>
     <string name="bluetooth_connecting">Connecting...</string>
@@ -446,7 +445,7 @@ all data in the watch will be deleted, and the watch will be disconnected from y
     <string name="reset_factory_hint_cn">"Once the watch is reset to factory default settings, all data in the watch will be deleted, and the watch will be disconnected from your mobile. 
  The current activated transportation card can still be used after the watch is bound with your mobile again."</string>
     <string name="reset_factory_yes">Reset</string>
-    <string name="reset_factory_no">取消</string>
+    <string name="reset_factory_no">Cancel</string>
     <string name="reset_factory_title">Factory Reset</string>
     <string name="reset_factory_noconnect_msg">"If Needing to Unbind the Watch, Please Operate Through Amazfit App. 
  Watch’s Unilateral Factory Reset Will Remove UnionPay Card and Transportation Card. 
@@ -454,7 +453,7 @@ all data in the watch will be deleted, and the watch will be disconnected from y
  A Removed Transportation Card: Will Be Destroyed Permanently and Cannot Be Paid Again."</string>
     <string name="reset_factory_conncet_msg">Watch and Amazfit App will Remove the Bound UnionPay Card. The Watch will Retain the Payment Function of the Transportation Card.</string>
     <string name="reset_factory_positive">Factory Reset</string>
-    <string name="reset_factory_negative">取消</string>
+    <string name="reset_factory_negative">Cancel</string>
     <string name="reset_factory_fail_title">Unsuccessful Factory Reset</string>
     <string name="reset_factory_fail_msg">If the UnionPay Card Is Not Successfully Removed, Please Try Again.</string>
     <string name="reset_factory_fail_positive">Ok</string>
@@ -464,7 +463,7 @@ all data in the watch will be deleted, and the watch will be disconnected from y
     <string name="reset_factory_bank_msg">"If Reset the Watch without Removing the UnionPay Card, It will Cause the UnionPay Card: 
  1. Cannot be Removed from the Watch, Occupying Chip Space;  2. Cannot Use the Payment Function in the Watch;  3. Cannot Be Bound by Other Devices; For Payment Security, Please First Remove the UnionPay Card from Amazfit App."</string>
     <string name="reset_factory_bank_yes">Continue Factory Reset</string>
-    <string name="reset_factory_bank_no">取消</string>
+    <string name="reset_factory_bank_no">Cancel</string>
     <string name="reset_factory_bank_msg_again">"Once the watch is reset to factory default settings, all data in the watch will be deleted, and the watch will be disconnected from your mobile. 
  The current activated transportation card can still be used after the watch is bound with your mobile again."</string>
     <string name="lockpassword_confirm_your_pattern_header">Confirm Your Pattern</string>
@@ -474,14 +473,14 @@ all data in the watch will be deleted, and the watch will be disconnected from y
     <string name="lockpattern_need_to_unlock_wrong_footer"></string>
     <string name="lockpattern_too_many_failed_confirmation_attempts_header">Too Many Errors！</string>
     <string name="lockpattern_too_many_failed_confirmation_attempts_footer">%d Retry after Several Seconds</string>
-    <string name="lockpattern_tutorial_cancel_label">取消</string>
+    <string name="lockpattern_tutorial_cancel_label">Cancel</string>
     <string name="lockpattern_tutorial_continue_label">Next</string>
     <string name="lockpassword_choose_your_pattern_header">Select Your Pattern</string>
     <string name="lockpattern_recording_inprogress"></string>
     <string name="cancel">取消</string>
     <string name="lockpattern_retry_button_text">Retry</string>
     <string name="lockpattern_continue_button_text">Continue</string>
-    <string name="lockpattern_confirm_button_text">确定</string>
+    <string name="lockpattern_confirm_button_text">Confirm</string>
     <string name="lockpattern_recording_intro_header">Draw Unlocking Pattern</string>
     <string name="lockpattern_settings_help_how_to_record">How to Draw Unlocking Pattern？</string>
     <string name="lockpattern_recording_incorrect_too_short"></string>
@@ -496,7 +495,7 @@ all data in the watch will be deleted, and the watch will be disconnected from y
     <string name="lockpattern_exist_no">Turned Off</string>
     <string name="unlock_disable_lock_pattern_summary">Delete Unlocking Pattern</string>
     <string name="unlock_disable_frp_warning_content">The Device Protection Function Will No Longer Function.</string>
-    <string name="okay">确定</string>
+    <string name="okay">Confirm</string>
     <string name="exit">Exit</string>
     <string name="pattern_set_title">Security</string>
     <string name="watch_state">Screensaver Setting</string>
@@ -522,8 +521,8 @@ all data in the watch will be deleted, and the watch will be disconnected from y
     <string name="ultra_enter">Ultra Mode</string>
     <string name="sync_sport_data_before_reboot_title">Unsynchronized exercise records are found.</string>
     <string name="sync_sport_data_before_reboot_summary">Unsynchronized records cannot be viewed on your phone. Please sync the records before switching modes. Open the Amazfit app and pull down to sync. Continue to switch?</string>
-    <string name="sync_sport_data_before_reboot_dont_reboot">否</string>
-    <string name="sync_sport_data_before_reboot_reboot_now">是</string>
+    <string name="sync_sport_data_before_reboot_dont_reboot">No</string>
+    <string name="sync_sport_data_before_reboot_reboot_now">Yes</string>
     <string name="unit_metric">Metric</string>
     <string name="unit_english">Imperial</string>
     <string name="strong">Strong</string>
@@ -540,7 +539,7 @@ all data in the watch will be deleted, and the watch will be disconnected from y
     <string name="watch_mode_message">"\"When turned on, the watch will only support time display, step counting and transportation card payment. 
  (When you turn it on, press and hold the physical key to exit this mode)\""</string>
     <string name="watch_mode_positive">Confirm turned on</string>
-    <string name="watch_mode_negative">取消</string>
+    <string name="watch_mode_negative">Cancel</string>
     <string name="replace_watchface">WatchFace</string>
     <string name="screen_refresh">Lockscreen seconds hand</string>
     <string name="screen_refresh_on_string">On</string>
