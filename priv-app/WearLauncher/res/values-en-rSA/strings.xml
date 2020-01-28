@@ -15,7 +15,7 @@
     <string name="notification_time_day">HH:mm</string>
     <string name="notification_time_month">MM/dd HH:mm</string>
     <string name="notification_time_year">yyyy/MM/dd HH:mm</string>
-    <string name="action_delete">删除</string>
+    <string name="action_delete">Delete</string>
     <string name="action_shield">Block</string>
     <string name="notification_none">All caught up</string>
     <string name="notification_allclear">Clear all</string>
@@ -88,7 +88,7 @@ less than 1h ago"</string>
     <string name="world_cup_begin_to_start">The match is about to begin</string>
     <string name="dialog_close">Disable</string>
     <string name="amazing_dialog_btn_confirm_text">حسناً</string>
-    <string name="amazing_dialog_btn_cancel_text">取消</string>
+    <string name="amazing_dialog_btn_cancel_text">إلغاء</string>
     <string name="accept">Accept</string>
     <string name="action_failure">"Couldn't complete this action."</string>
     <string name="action_success">Done!</string>
@@ -100,12 +100,12 @@ less than 1h ago"</string>
     <string name="wathc_disconnection_content">Disconnected from the phone</string>
     <string name="wathc_disconnection_title">Not connected</string>
     <string name="notification_block">Block</string>
-    <string name="notification_block_cancel">取消</string>
+    <string name="notification_block_cancel">إلغاء</string>
     <string name="notification_block_message">Block notifications from this app</string>
     <string name="notification_block_ok">حسناً</string>
     <string name="notification_more_settings">Additional settings</string>
     <string name="notification_time_just">Just now</string>
-    <string name="notification_time_yesterday">昨天</string>
+    <string name="notification_time_yesterday">Yesterday</string>
     <string name="notificaton_empty_message">No notifications</string>
     <string name="music_control">Music controls</string>
     <string name="music_control_content">You can control the audio playback on your phone. These playback controls can be found by swiping right on the watch face.</string>
@@ -149,7 +149,7 @@ less than 1h ago"</string>
     <string name="notification_fireworks_content">祝大家万事如意！</string>
     <string name="battery_info_status_percentage">%</string>
     <string name="quick_settings_notification_title">Interruptions</string>
-    <string name="quick_settings_notifications_none">无</string>
+    <string name="quick_settings_notifications_none">None</string>
     <string name="watchface_custom_btn_title">Customize</string>
     <string name="weather">Weather</string>
     <string name="temp_unit_centigrade">℃</string>
@@ -164,7 +164,7 @@ less than 1h ago"</string>
     <string name="weather_title">Weather today</string>
     <string name="dot"> </string>
     <string name="forecast_today">اليوم</string>
-    <string name="forecast_tomorrow">明天</string>
+    <string name="forecast_tomorrow">Tomorrow</string>
     <string name="weather_warning">Warning</string>
     <string name="weather_warning_level_blue">Blue</string>
     <string name="weather_warning_level_orange">Orange</string>
@@ -278,7 +278,7 @@ less than 1h ago"</string>
     <string name="kilometre">km</string>
     <string name="km_per_hour">km/h</string>
     <string name="bpm">BPM</string>
-    <string name="times_per_minute">BPM</string>
+    <string name="times_per_minute">jumps/min</string>
     <string name="per_km">/km</string>
     <string name="per_100m">/100 m</string>
     <string name="per_100Yard">/100 yd</string>
@@ -319,8 +319,7 @@ less than 1h ago"</string>
     <string name="rope_skip_tips1">The</string>
     <string name="rope_skip_tips2">set has been completed</string>
     <string name="rope_skip_avg_heartrate">Avg. heart rate</string>
-    <string name="rope_skip_group_calories">\"Calories
-\"</string>
+    <string name="rope_skip_group_calories">Calories</string>
     <string name="press_long_power_key_wake_up">Press a physical button to exit</string>
     <string name="sport_auto_pause_end">Session ended, save the data?</string>
     <string name="sport_slpt_stop_next_group">Next</string>
