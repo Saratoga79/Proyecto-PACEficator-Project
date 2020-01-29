@@ -12,10 +12,10 @@
     <string name="day_train_record_stag">%1$s | Неделя %2$d | День %3$d</string>
     <string name="day_train_record_stag_simple">Неделя %1$d | День %2$d</string>
     <string name="day_train_record_train_stage">%1$s день</string>
-    <string name="remind_train_first_text">"Guided workouts can improve your
-running. Let's get started!"</string>
+    <string name="remind_train_first_text">"\"Управляемые тренировки могут улучшить Ваш Бег.
+. Давайте начнем!\""</string>
     <string name="train_start">Старт</string>
-    <string name="hidtory_train_start_date">Start %1$s</string>
+    <string name="hidtory_train_start_date">Старт: %1$s</string>
     <string name="hidtory_train_end_date">Завершить %1$s</string>
     <string name="train_detail_number_weekly">%1$d неделя</string>
     <string name="day_train_status_done">(Завершен)</string>
@@ -27,10 +27,10 @@ running. Let's get started!"</string>
     <string name="dialog_train_plan_is_complete">Завершение ваших тренировок также прекращает отслеживать прогресс. Все равно завершить?</string>
     <string name="last_day_rest_remind">Упражнения скоро закончится. | Возьмите выходной, чтобы полностью восстановиться.</string>
     <string name="cancel">Нет</string>
-    <string name="enter">Здесь</string>
+    <string name="enter">Да</string>
     <string name="dialog_delete">Удалить</string>
     <string name="day_train_plan_record_marked">Отметить</string>
-    <string name="train_plan_recode_finished">Завершить</string>
+    <string name="train_plan_recode_finished">Конец</string>
     <string name="train_mileage">Общая дистанция (км)</string>
     <string name="train_mileage_mils">Общая дистанция (миль)</string>
     <string name="train_days">Дни тренировок</string>
@@ -121,12 +121,12 @@ running. Let's get started!"</string>
     <string name="temporun8.0km">Бег с темпом 8 км</string>
     <string name="temporun9.1km">Бег с темпом 9.1 км</string>
     <string name="temporun9.7km">Бег с темпом 9.7 км</string>
-    <string name="finish5km">Run 5 km</string>
-    <string name="finish10km">Run 10 km</string>
-    <string name="finish13.2km">Run 13.2 km</string>
-    <string name="finishbanma21.2km">Run 21.2 km</string>
-    <string name="finishbanma42.5km">Run 42.5 km</string>
-    <string name="runcopywrite1">Jog 800 m and walk 200 m to complete a cycle. Keep your heart rate in the %1$d-%2$d BPM zone.</string>
+    <string name="finish5km">Бег 5 км</string>
+    <string name="finish10km">Бег 10 км</string>
+    <string name="finish13.2km">Бег 13.2 км</string>
+    <string name="finishbanma21.2km">Бег 21.2 км</string>
+    <string name="finishbanma42.5km">Бег 42.5 км</string>
+    <string name="runcopywrite1">Пробежаться 800 м. и пройти 200 м., чтобы завершить цикл. Держите частоту сердечных сокращений в зоне %1$d-%2$d BPM.</string>
     <string name="runcopywrite2">Jog throughout your workout. Keep your heart rate in the %1$d-%2$d BPM zone.</string>
     <string name="runcopywrite3">Run at a speed you can tolerate. Keep your heart rate in the %1$d-%2$d BPM zone.</string>
     <string name="runcopywrite4">Run at a comfortable speed, then speed up. Keep your heart rate in the %1$d-%2$d BPM zone.</string>
@@ -152,5 +152,5 @@ running. Let's get started!"</string>
     <string name="widget_currentstep_sleep_min">мин</string>
     <string name="widget_currentstep_sleep_title">Сон</string>
     <string name="widget_currentstep_sleep_no">Нет данных о сне</string>
-    <string name="widget_currentstep_activity_no">Сегодня нет тренировок?</string>
+    <string name="widget_currentstep_activity_no">Нет активности?</string>
 </resources>
