@@ -219,8 +219,8 @@ start now."</string>
     <string name="lap_add_failed">"Lap is too short, can't record"</string>
     <string name="sport_main_stop_this_sport">Stop this activity?</string>
     <string name="sport_history_delete_dialog_title">"Delete this activity? You can't restore it after deleting."</string>
-    <string name="sport_main_give_up_this_sport">"\"Discard this activity?
-\""</string>
+    <string name="sport_main_give_up_this_sport">"Discard this activity?
+"</string>
     <string name="sport_confirm_stop_sport">是</string>
     <string name="sport_confirm_not_stop_sport">否</string>
     <string name="sport_main_am">AM</string>
@@ -464,9 +464,9 @@ start now."</string>
     <string name="modify_big_dis_regain">Edit</string>
     <string name="modify_big_dis_confirm">Continue calibration</string>
     <string name="re_modify_dis">Calibrate again</string>
-    <string name="re_modify_dis_tips">"\"1. To calibrate the distance result of a running session (must be longer than 0.5 km) helps the watch to generate a more accurate result.
+    <string name="re_modify_dis_tips">"1. To calibrate the distance result of a running session (must be longer than 0.5 km) helps the watch to generate a more accurate result.
 2. If you still aren\'t satisfied with the result after several calibration attempts, try to calibrate again.
-3. If you calibrate the result again, all previous calibration records will be deleted.\""</string>
+3. If you calibrate the result again, all previous calibration records will be deleted."</string>
     <string name="give_up_re_modify_dis">Give up</string>
     <string name="confirm_re_modify_dis">确定</string>
     <string name="re_modify_dis_successful">Re-modify successful</string>
@@ -702,14 +702,11 @@ to reach full recovery."</string>
     <string name="real_time_target_finish">Reached your goal</string>
     <string name="real_time_guide_title_1">Keep the pace</string>
     <string name="real_time_guide_title_2">Keep the pace</string>
-    <string name="real_time_guide_title_3">\"Increase the pace 
- for effective exercise!\"</string>
+    <string name="real_time_guide_title_3">سرعت بخشیدن</string>
     <string name="real_time_guide_title_6">Keep the pace</string>
-    <string name="real_time_guide_title_7">\"Increase the pace 
- for more effective exercise!\"</string>
+    <string name="real_time_guide_title_7">سرعت بخشیدن</string>
     <string name="real_time_guide_title_10">Keep the pace</string>
-    <string name="real_time_guide_title_11">\"Increase the pace
- for more effective exercise!\"</string>
+    <string name="real_time_guide_title_11">سرعت بخشیدن</string>
     <string name="real_time_guide_title_14">Keep the pace</string>
     <string name="real_time_guide_title_22">Keep the pace</string>
     <string name="real_time_guide_title_25">\"Increase the pace 
@@ -1115,12 +1112,12 @@ to reach full recovery."</string>
     <string name="dlg_btn_l_msg">否</string>
     <string name="dlg_btn_r_msg">是</string>
     <string name="hint_cancelling">Canceling…</string>
-    <string name="hint_success_exported_title">"Exported to GPX file 
- successfully"</string>
+    <string name="hint_success_exported_title">"Exported GPX file
+successfully"</string>
     <string name="hint_failed_exported_title">"Couldn't export"</string>
-    <string name="hint_where">"The gpx file has been placed in 
- folder \'/sdcard/gpxdata\'.
- You can copy it to a computer through USB."</string>
+    <string name="hint_where">"Saved GPX file to
+\'/sdcard/gpxdata\'.
+You can copy it to a computer via USB."</string>
     <string name="hint_failed">"Couldn't export, try again."</string>
     <string name="app_name">gpx-recorder</string>
     <string name="average_text">Average</string>
