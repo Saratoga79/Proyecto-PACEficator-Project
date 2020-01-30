@@ -380,22 +380,22 @@ Also, you gave \"%2$s\" permission to set up a VPN connection. This app can moni
 Your administrator is capable of monitoring your network activity including emails, apps, and secure websites. For more information, contact your administrator.
 
 Also, you\'re connected to a VPN (\"%2$s\"). Your VPN service provider can monitor network activity too."</string>
-    <string name="monitoring_description_vpn_device_and_profile_owned">"\"This device is managed by:
+    <string name="monitoring_description_vpn_device_and_profile_owned">"This device is managed by:
 %1$s
 Your profile is managed by:
 %2$s
 
 Your administrator is capable of monitoring your network activity including emails, apps, and secure websites. For more information, contact your administrator.
 
-Also, you gave \"%3$s\" permission to set up a VPN connection. This app can monitor network activity too.\""</string>
-    <string name="monitoring_description_legacy_vpn_device_and_profile_owned">"\"This device is managed by:
+Also, you gave \"%3$s\" permission to set up a VPN connection. This app can monitor network activity too."</string>
+    <string name="monitoring_description_legacy_vpn_device_and_profile_owned">"This device is managed by:
 %1$s
 Your profile is managed by:
 %2$s
 
 Your administrator is capable of monitoring your network activity including emails, apps, and secure websites. For more information, contact your administrator.
 
-Also, you\'re connected to a VPN (\"%3$s\"). Your VPN service provider can monitor network activity too.\""</string>
+Also, you\'re connected to a VPN (\"%3$s\"). Your VPN service provider can monitor network activity too."</string>
     <string name="keyguard_indication_trust_disabled">Device will stay locked until you manually unlock</string>
     <string name="hidden_notifications_title">Get notifications faster</string>
     <string name="hidden_notifications_text">See them before you unlock</string>
@@ -438,8 +438,8 @@ Also, you\'re connected to a VPN (\"%3$s\"). Your VPN service provider can monit
     <string name="keyguard_missing_sim_instructions">Insert a SIM card.</string>
     <string name="keyguard_missing_sim_instructions_long">The SIM card is missing or not readable. Insert a SIM card.</string>
     <string name="keyguard_permanent_disabled_sim_message_short">Unusable SIM card.</string>
-    <string name="keyguard_permanent_disabled_sim_instructions">"\"Your SIM card has been permanently disabled.
- Contact your wireless service provider for another SIM card.\""</string>
+    <string name="keyguard_permanent_disabled_sim_instructions">"Your SIM card has been permanently disabled.
+ Contact your wireless service provider for another SIM card."</string>
     <string name="keyguard_sim_locked_message">SIM card is locked.</string>
     <string name="keyguard_sim_puk_locked_message">SIM card is PUK-locked.</string>
     <string name="keyguard_sim_unlock_progress_dialog_message">Unlocking SIM card…</string>
@@ -524,27 +524,27 @@ Also, you\'re connected to a VPN (\"%3$s\"). Your VPN service provider can monit
     <string name="kg_login_password_hint">Password</string>
     <string name="kg_login_submit_button">Sign in</string>
     <string name="kg_login_invalid_input">Invalid username or password.</string>
-    <string name="kg_login_account_recovery_hint">\"\"Forgot your username or password?
-Visit \"<b>google.com/accounts/recovery</b>.\"</string>
+    <string name="kg_login_account_recovery_hint">\"Forgot your username or password?
+Visit \"<b>google.com/accounts/recovery</b>.</string>
     <string name="kg_login_checking_password">Checking account…</string>
-    <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"\"You have incorrectly typed your PIN %d times. 
+    <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"You have incorrectly typed your PIN %d times. 
 
-Try again in %d seconds.\""</string>
-    <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"\"You have incorrectly typed your password %d times. 
+Try again in %d seconds."</string>
+    <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"You have incorrectly typed your password %d times. 
 
-Try again in %d seconds.\""</string>
-    <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"\"You have incorrectly drawn your unlock pattern %d times. 
+Try again in %d seconds."</string>
+    <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"You have incorrectly drawn your unlock pattern %d times. 
 
-Try again in %d seconds.\""</string>
+Try again in %d seconds."</string>
     <string name="kg_failed_attempts_almost_at_wipe" formatted="false">You have incorrectly attempted to unlock the tablet %d times. After %d more unsuccessful attempts, this tablet will be reset, which will delete all its data.</string>
     <string name="kg_failed_attempts_now_wiping">You have incorrectly attempted to unlock the tablet %d times. This tablet will be reset, which will delete all its data.</string>
     <string name="kg_failed_attempts_almost_at_erase_user" formatted="false">You have incorrectly attempted to unlock the tablet %d times. After %d more unsuccessful attempts, this user will be removed, which will delete all user data.</string>
     <string name="kg_failed_attempts_now_erasing_user">You have incorrectly attempted to unlock the tablet %d times. This user will be removed, which will delete all user data.</string>
     <string name="kg_failed_attempts_almost_at_erase_profile" formatted="false">You have incorrectly attempted to unlock the tablet %d times. After %d more unsuccessful attempts, the work profile will be removed, which will delete all profile data.</string>
     <string name="kg_failed_attempts_now_erasing_profile">You have incorrectly attempted to unlock the tablet %d times. The work profile will be removed, which will delete all profile data.</string>
-    <string name="kg_failed_attempts_almost_at_login" formatted="false">"\"You have incorrectly drawn your unlock pattern %d times. After %d more unsuccessful attempts, you will be asked to unlock your tablet using an email account.
+    <string name="kg_failed_attempts_almost_at_login" formatted="false">"You have incorrectly drawn your unlock pattern %d times. After %d more unsuccessful attempts, you will be asked to unlock your tablet using an email account.
 
- Try again in %d seconds.\""</string>
+ Try again in %d seconds."</string>
     <string name="kg_reordering_delete_drop_target_text">Remove</string>
     <string name="kg_password_wrong_pin_code_pukked">Incorrect SIM PIN code you must now contact your carrier to unlock your device.</string>
     <string name="kg_password_wrong_puk_code_dead">SIM is unusable. Contact your carrier.</string>
