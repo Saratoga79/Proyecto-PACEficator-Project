@@ -6,8 +6,8 @@
     <string name="action_settings">Настройки</string>
     <string name="latitude">Широта</string>
     <string name="longitude">Долгота</string>
-    <string name="north_latitude">North Lat</string>
-    <string name="south_latitude">South Lat</string>
+    <string name="north_latitude">Северная широта</string>
+    <string name="south_latitude">Южная широта</string>
     <string name="east_longitude">East Long</string>
     <string name="west_longitude">West Long</string>
     <string name="altitude">Высота</string>
@@ -22,7 +22,7 @@
     <string name="ori_west">З</string>
     <string name="ori_northwest">СЗ</string>
     <string name="correcting">Калибровка</string>
-    <string name="correcting_line1">Turn your wrist to</string>
+    <string name="correcting_line1">Поверни запястье к</string>
     <string name="correcting_line2">roll the ball</string>
     <string name="value_default">-</string>
     <string name="loading">Загрузка</string>
@@ -32,13 +32,13 @@
     <string name="gps_tip">"Не удается получить данные, пожалуйста, попробуйте под открытым небом."</string>
     <string name="confirm">OK</string>
     <string name="unknown">--</string>
-    <string name="compass_roll_tip">"Adjust the watch face-up
-to the horizontal orientation"</string>
+    <string name="compass_roll_tip">"Отрегулируйте часы лицевой стороной вверх
+в горизонтальной ориентации"</string>
     <string name="widget_altitude">Высота</string>
-    <string name="widget_altitude_unit">(m)</string>
-    <string name="widget_altitude_unit_imperial">(ft)</string>
+    <string name="widget_altitude_unit">(м)</string>
+    <string name="widget_altitude_unit_imperial">(фут)</string>
     <string name="widget_bar">Давление</string>
-    <string name="widget_bar_unit">(hPa)</string>
+    <string name="widget_bar_unit">(гПа)</string>
     <string name="widget_fish_bar">Рыболовный барометр</string>
     <string name="widget_bar_bad">Плохо</string>
     <string name="widget_bar_good">Хорошо</string>
