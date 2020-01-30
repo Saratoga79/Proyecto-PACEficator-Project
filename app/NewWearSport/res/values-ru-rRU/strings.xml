@@ -44,9 +44,9 @@
     <string name="crossing_remind_target_individual_cost_time">Время</string>
     <string name="crossing_remind_target_individual_pace">Темп</string>
     <string name="agps_time_out">Срок действия AGPS истек. GPS поиск будет медленным. Подключите к приложению Amazfit для его обновления.</string>
-    <string name="safe_hearate_remind_content">Уведомлять, когда больше чем %1d уд./мин.</string>
+    <string name="safe_hearate_remind_content">Уведомлять, когда больше чем %1d ЧСС.</string>
     <string name="settings_safe_heart_rate_hint">(Лимит сердечного ритма)</string>
-    <string name="settings_safe_heart_rate_unit">уд/мин</string>
+    <string name="settings_safe_heart_rate_unit">ЧСС</string>
     <string name="elliptical">Орбитрек</string>
     <string name="elliptical_in_progress">Орбитрек…</string>
     <string name="person_achive">Личный рекорд</string>
@@ -69,7 +69,7 @@
     <string name="not_stroke_speed_data">"Данные о взмахах не найдены"</string>
     <string name="not_cadence_data">"Данные о каденсе не найдены"</string>
     <string name="stroke_speed_curve_title">Частота хода (SPM)</string>
-    <string name="stroke_rowing_title">Скорость гребли (bpm)</string>
+    <string name="stroke_rowing_title">Скорость гребли (чсс)</string>
     <string name="stroke_unit">" взмахи"</string>
     <string name="cadence_curve_title">Каденс (SPM)</string>
     <string name="swim_trips_complete">Плавание %1$d этапов</string>
@@ -115,7 +115,7 @@
     <string name="picker_title_target_time">Время (ч/м)</string>
     <string name="picker_title_target_calorie">Калории (ккал)</string>
     <string name="picker_title_target_te">Цель TE</string>
-    <string name="picker_title_target_heart_rate">Пульс (уд/м)</string>
+    <string name="picker_title_target_heart_rate">Пульс (ЧСС)</string>
     <string name="picker_title_auto_lap">Авто-этапы (%1$s)</string>
     <string name="picker_title_swim_length">Размер пула (%1$s)</string>
     <string name="picker_title_target_trips">Цель этапов</string>
@@ -628,14 +628,14 @@
     <string name="gpx_alreay_offset">Отклонение</string>
     <string name="gpx_no_find_route">Нет доступных маршрутов</string>
     <string name="gpx_no_route_guide">"Подключите часы к компьютеру, скопируйте файл GPX в папку GPXData и повторите попытку."</string>
-    <string name="bpm_to">BPM до</string>
+    <string name="bpm_to">ЧСС до</string>
     <string name="indoor_run_progressing">Бег в помещении</string>
     <string name="run_train_title">Беговая тренировка</string>
     <string name="run_train_recommend">Рекомендовано</string>
     <string name="run_train_intermittent">Интервал</string>
     <string name="run_train_intermittent_select_train">Выбор</string>
     <string name="run_train_vo2max_test">VO2Max тест</string>
-    <string name="run_train_vo2max_test_tips">Носите часы в течение не менее 10 минут бега на свежем воздухе и достигайте значения частоты пульса %1$dbpm</string>
+    <string name="run_train_vo2max_test_tips">Носите часы в течение не менее 10 минут бега на свежем воздухе и достигайте значения частоты пульса %1$d чсс</string>
     <string name="music_title">Музыка</string>
     <string name="music_local_title">Музыка для спорта</string>
     <string name="music_no_resource">Нет доступных композиций</string>
@@ -864,7 +864,7 @@
     <string name="running_step_freq_unit">шаги/мин</string>
     <string name="running_speed_unit">км/ч</string>
     <string name="running_distance_unit">км</string>
-    <string name="running_heartrate_unit">уд/мин</string>
+    <string name="running_heartrate_unit">ЧСС</string>
     <string name="running_realtime_trail_desc">Маршруты</string>
     <string name="running_control_title">Бег</string>
     <string name="running_control_paused_des">Приостановлено</string>
@@ -879,7 +879,7 @@
     <string name="sport_history_header_total_count_desc">Всего сессий</string>
     <string name="sport_history_header_calorie_desc">Всего калорий</string>
     <string name="history_heart_rate_desc">Пульс:</string>
-    <string name="history_heart_rate_unit">уд/мин</string>
+    <string name="history_heart_rate_unit">ЧСС</string>
     <string name="history_info_cost_time_desc">Время</string>
     <string name="history_detail_paused_time">Время приостановлено</string>
     <string name="history_detail_running_title">Бег</string>
@@ -921,7 +921,7 @@
     <string name="sport_notification_title">Виды спорта</string>
     <string name="sport_notification_content">%s км</string>
     <string name="notification_title_medal">Достижения</string>
-    <string name="history_heart_rate_graph_desc">Пульс (BPM)</string>
+    <string name="history_heart_rate_graph_desc">Пульс (ЧСС)</string>
     <string name="sport_medal_desc_first_sport">Выполните упражнение в первый раз</string>
     <string name="sport_medal_desc_one_5_km">Одиночное расстояние тренировки 5 км</string>
     <string name="sport_medal_desc_one_10_km">Одиночное расстояние тренировки 10 км</string>
@@ -960,7 +960,7 @@
     <string name="remind_target_distance_pace_unit">/км</string>
     <string name="remind_heart_rate_too_high">Очень высокий ЧСС</string>
     <string name="remind_heart_rate_value_before">Текущий</string>
-    <string name="remind_heart_rate_value_after">уд/мин</string>
+    <string name="remind_heart_rate_value_after">ЧСС</string>
     <string name="remind_heart_rate_suggestion">Постепенно замедляйте настройку</string>
     <string name="remind_pace_too_low">Слишком низкий темп</string>
     <string name="remind_pace_too_fast">Темп слишком быстрый</string>
@@ -1031,7 +1031,7 @@
     <string name="setting_sport_heart_region_text_custom">Настройки пользователя</string>
     <string name="remind_heart_rate_region_over">Очень высокий ЧСС</string>
     <string name="remind_heart_rate_region_less">Очень низкий ЧСС</string>
-    <string name="remind_heart_rate_current_heart_rate">Текущее%1$d BPM</string>
+    <string name="remind_heart_rate_current_heart_rate">Текущий %1$d ЧСС</string>
     <string name="tennic_wear_hand_guide">"Убедитесь, что вы носите часы
  на запястье ракетки"</string>
     <string name="sport_time_seconds">сек</string>
@@ -1242,8 +1242,8 @@
     <string name="meter">м</string>
     <string name="kilometre">км</string>
     <string name="km_per_hour">км/ч</string>
-    <string name="bpm">уд/мин</string>
-    <string name="times_per_minute">уд/мин</string>
+    <string name="bpm">ЧСС</string>
+    <string name="times_per_minute">прыжки/мин</string>
     <string name="per_km">/км</string>
     <string name="per_100m">/100 м</string>
     <string name="per_100Yard">/100 ярд</string>
