@@ -37,18 +37,18 @@
         <item>ELLIPTICAL_MACHINE</item>
     </string-array>
     <string-array name="dally_performence_level_status">
-        <item>Fatigued</item>
-        <item>Normal</item>
+        <item>Mệt mỏi</item>
+        <item>Bình thường</item>
         <item>Tốt</item>
     </string-array>
     <string-array name="vo2_max_level_status">
-        <item>Very poor</item>
-        <item>Poor</item>
-        <item>Fair</item>
+        <item>Rất tệ</item>
+        <item>Kém</item>
+        <item>Hợp lý</item>
         <item>Trung bình</item>
         <item>Tốt</item>
         <item>Rất tốt</item>
-        <item>Excellent</item>
+        <item>Tuyệt vời</item>
     </string-array>
     <string-array name="spring_depend">
         <item>com.huami.watch.newsport/com.huami.watch.newsport.widget.SportWidget</item>
@@ -59,46 +59,46 @@
     <string-array name="sport_data_item_array">
         <item></item>
         <item>Thời gian</item>
-        <item>Distance</item>
+        <item>Khoảng cách</item>
         <item>Pace</item>
-        <item>Avg pace</item>
-        <item>Heart rate</item>
-        <item>Calories</item>
+        <item>Pace Tb</item>
+        <item>Nhịp tim</item>
+        <item>Lượng Calo</item>
         <item>Độ cao</item>
-        <item>Elev gain</item>
-        <item>Elev loss</item>
-        <item>Speed</item>
-        <item>Avg speed</item>
-        <item>Cadence</item>
-        <item>Dist gain</item>
-        <item>Steps</item>
-        <item>Cadence</item>
-        <item>Laps</item>
+        <item>Độ cao tăng</item>
+        <item>Độ cao giảm</item>
+        <item>Tốc độ</item>
+        <item>T.độ T bình</item>
+        <item>Nhịp độ</item>
+        <item>K.cách tăng</item>
+        <item>Bước</item>
+        <item>Nhịp độ</item>
+        <item>Vòng</item>
         <item>DPS</item>
-        <item>Stroke rate</item>
+        <item>Guồng tay</item>
         <item>Avg SPM</item>
         <item>Pace</item>
-        <item>Avg pace</item>
-        <item>Distance</item>
+        <item>Pace Tb</item>
+        <item>Khoảng cách</item>
         <item>TE</item>
         <item>Vert speed</item>
-        <item>Avg speed</item>
-        <item>Max speed</item>
-        <item>Laps</item>
-        <item>Downhill</item>
-        <item>Total downhill</item>
-        <item>Descent</item>
-        <item>Strokes</item>
+        <item>T.độ T bình</item>
+        <item>T.độ tối đa</item>
+        <item>Vòng</item>
+        <item>Xuống dốc</item>
+        <item>Tổng xuống dốc</item>
+        <item>Giảm</item>
+        <item>Sải</item>
         <item>Lap time</item>
         <item>Lap pace</item>
         <item>Lap speed</item>
         <item>Lap HR</item>
         <item>Lap cadence</item>
         <item>Lap pace</item>
-        <item>Current freq</item>
-        <item>Total count</item>
-        <item>Avg freq</item>
-        <item>Groups</item>
+        <item>T.suất hiện tại</item>
+        <item>Tổng số lần</item>
+        <item>T.suất TB</item>
+        <item>Nhóm</item>
         <item>Lap count</item>
         <item>Lap time</item>
         <item>Lap freq</item>
@@ -109,23 +109,23 @@
         <item>Heart rate in this lap</item>
         <item>Lap freq.</item>
         <item>slope</item>
-        <item>Calories</item>
-        <item>Avg. HR</item>
-        <item>Paddles of this set</item>
-        <item>Frequency</item>
-        <item>Total paddles</item>
-        <item>Paddle frequency</item>
-        <item>Pulling duration</item>
-        <item>Pushing duration</item>
-        <item>Avg. Freq.</item>
+        <item>Lượng Calo</item>
+        <item>NT T.bình</item>
+        <item>Số lần chèo thuyền</item>
+        <item>Tần suất</item>
+        <item>Tổng số lần trèo</item>
+        <item>Tần suất chèo tay</item>
+        <item>Thời gian kéo</item>
+        <item>Thời gian đẩy</item>
+        <item>T.suất TB.</item>
     </string-array>
     <string-array name="sport_train_item">
-        <item>Remaining distance</item>
-        <item>Total distance</item>
-        <item>Total time</item>
-        <item>Remaining time</item>
-        <item>Distance</item>
+        <item>Khoảng cách còn lại</item>
+        <item>Tổng khoảng cách</item>
+        <item>Tổng thời gian</item>
+        <item>Thời gian còn lại</item>
+        <item>Khoảng cách</item>
         <item>Còn lại</item>
-        <item>Has rested</item>
+        <item>Đã nghỉ</item>
     </string-array>
 </resources>
