@@ -401,15 +401,15 @@ and is nearby"</string>
     <string name="bluetooth_pairing_rejected_error_message">Parowanie odrzucone przez %1$s.</string>
     <string name="bluetooth_turning_on">Włączanie Bluetooth…</string>
     <string name="bluetooth_turning_off">Wyłączanie Bluetooth…</string>
-    <string name="bluetooth_enabled">Bluetooth is ON</string>
-    <string name="bluetooth_disabled">Bluetooth is OFF</string>
+    <string name="bluetooth_enabled">Bluetooth włączony</string>
+    <string name="bluetooth_disabled">Bluetooth wyłączony</string>
     <string name="bluetooth_unknown">Unknown state</string>
-    <string name="bluetooth_disconnect_title">Disconnect?</string>
+    <string name="bluetooth_disconnect_title">Rozłączyć?</string>
     <string name="bluetooth_connect_title">Połączyć?</string>
-    <string name="phone_finding">Locating phone...</string>
+    <string name="phone_finding">Szukam telefonu...</string>
     <string name="phone_found">Znaleziono telefon</string>
     <string name="phone_not_connected">Telefon nie jest podłączony</string>
-    <string name="phone_not_found">Phone not found</string>
+    <string name="phone_not_found">Telefon nie znaleziony</string>
     <string name="start_testing">Start</string>
     <string name="lab_wifi_test_tip_retry">Please retry!!</string>
     <string name="lab_wifi_test_tip_testing">Testing…</string>
@@ -425,17 +425,16 @@ and is nearby"</string>
     <string name="rise_without_bl_under_slpt">Wył.</string>
     <string name="locale_main">Język</string>
     <string name="locale_applying">Language applying...</string>
-    <string name="confirm_change_locale">"Change language to 
+    <string name="confirm_change_locale">"Zmienić język na 
 %1$s?"</string>
     <string name="gender">Płeć</string>
     <string name="birth_year">Rok urodzenia</string>
     <string name="height">Height</string>
     <string name="weight">Weight</string>
-    <string name="male">Male</string>
-    <string name="female">Female</string>
+    <string name="male">Mężczyzna</string>
+    <string name="female">Kobieta</string>
     <string name="centimeter">cm</string>
-    <string name="birth_year_unit">"Birth 
-Year"</string>
+    <string name="birth_year_unit">"Rok urodzenia"</string>
     <string name="height_unit">"Height 
 cm"</string>
     <string name="weight_unit">"Weight 
@@ -446,7 +445,7 @@ all data in the watch will be deleted, and the watch will be disconnected from y
  The current activated transportation card can still be used after the watch is bound with your mobile again."</string>
     <string name="reset_factory_yes">Reset</string>
     <string name="reset_factory_no">Anuluj</string>
-    <string name="reset_factory_title">Factory Reset</string>
+    <string name="reset_factory_title">Ust. Fabryczne</string>
     <string name="reset_factory_noconnect_msg">"If Needing to Unbind the Watch, Please Operate Through Amazfit App. 
  Watch’s Unilateral Factory Reset Will Remove UnionPay Card and Transportation Card. 
  A Removed UnionPay Card: It Can No Longer Be Bound to The Watch. If You Need to Bind Again, Please Consult the Bank Customer Service. 
@@ -489,14 +488,14 @@ all data in the watch will be deleted, and the watch will be disconnected from y
     <string name="lockpattern_pattern_confirmed_header">Confirm Unlocking Pattern</string>
     <string name="app_notifications_dialog_done">Complete</string>
     <string name="lockpattern_cancel">Gesture Password</string>
-    <string name="lockpattern_change">Change Password</string>
+    <string name="lockpattern_change">Zmień Hasło</string>
     <string name="lockpattern_change_state">Change Watch Status</string>
-    <string name="lockpattern_exist">Turned on</string>
-    <string name="lockpattern_exist_no">Turned Off</string>
-    <string name="unlock_disable_lock_pattern_summary">Delete Unlocking Pattern</string>
+    <string name="lockpattern_exist">Włączony</string>
+    <string name="lockpattern_exist_no">Wyłączony</string>
+    <string name="unlock_disable_lock_pattern_summary">Usuń wzór odblokowania</string>
     <string name="unlock_disable_frp_warning_content">The Device Protection Function Will No Longer Function.</string>
     <string name="okay">Potwierdź</string>
-    <string name="exit">Exit</string>
+    <string name="exit">Wyjdź</string>
     <string name="pattern_set_title">Security</string>
     <string name="watch_state">Screensaver Setting</string>
     <string name="unwear">Watch off the Wrist</string>
@@ -507,12 +506,12 @@ all data in the watch will be deleted, and the watch will be disconnected from y
     <string name="lockpattern_change_none">There Is No Unlocking Pattern Currently</string>
     <string name="security_lockpattern">Gesture Password</string>
     <string name="lockpattern_need_confirm_guide">Please Draw the Current Pattern</string>
-    <string name="time_zone">Time Zone</string>
-    <string name="date">Date</string>
+    <string name="time_zone">Strefa czasowa</string>
+    <string name="date">Data</string>
     <string name="time">Czas</string>
-    <string name="date_ymd">Date(Y/M/D)</string>
-    <string name="time_hms">Time(H/M/S)</string>
-    <string name="time_format">Time Format</string>
+    <string name="date_ymd">Data(D/M/Y)</string>
+    <string name="time_hms">Czas(H/M/S)</string>
+    <string name="time_format">Format Czasu</string>
     <string name="hour_system">%s-hour system</string>
     <string name="am">AM</string>
     <string name="pm">PM</string>
@@ -529,8 +528,8 @@ all data in the watch will be deleted, and the watch will be disconnected from y
     <string name="mid">Mid</string>
     <string name="weak">Weak</string>
     <string name="slient">Wył.</string>
-    <string name="volume_value">Volume</string>
-    <string name="light_value">Brightness</string>
+    <string name="volume_value">Głośność</string>
+    <string name="light_value">Jasność</string>
     <string name="light_auto_set">Auto</string>
     <string name="light_auto_guide_title">Auto adjustment</string>
     <string name="light_auto_guide_content">After Auto adjustment is on, move slider to fine tune the brightness coefficient, then the screen brightness will still change with the ambient brightness.</string>
@@ -544,12 +543,12 @@ all data in the watch will be deleted, and the watch will be disconnected from y
     <string name="screen_refresh">Lockscreen seconds hand</string>
     <string name="screen_refresh_on_string">On</string>
     <string name="screen_refresh_off_string">Wył.</string>
-    <string name="setting_regulatory_europe">Europe</string>
-    <string name="setting_regulatory_us">U.S.</string>
-    <string name="setting_regulatory_canda">Canada</string>
-    <string name="setting_regulatory_russia">Russia</string>
-    <string name="setting_regulatory_japan">Japan</string>
-    <string name="setting_regulatory_ukraine">Ukraine</string>
+    <string name="setting_regulatory_europe">Europa</string>
+    <string name="setting_regulatory_us">S. Zjednoczone</string>
+    <string name="setting_regulatory_canda">Kanada</string>
+    <string name="setting_regulatory_russia">Rosja</string>
+    <string name="setting_regulatory_japan">Japonia</string>
+    <string name="setting_regulatory_ukraine">Ukraina</string>
     <string name="setting_regulation_desc_us">FCC ID:2AC8UA1811</string>
     <string name="setting_regulation_desc_canda">"IC:21806-A1811 
  ICAN ICE-3(B)/NMB-3(B)"</string>
@@ -560,7 +559,7 @@ all data in the watch will be deleted, and the watch will be disconnected from y
     <string name="blt_hint_connect_device">Połącz</string>
     <string name="blt_hint_disconnect_device">Disconnect</string>
     <string name="lab_desc">Collect part of the debugging tools</string>
-    <string name="unknown">Unknown device</string>
+    <string name="unknown">Nieznane urządzenie</string>
     <string name="bind_tips_title">"Please bind 
  to protect your data more securely"</string>
     <string name="upgrade_checking">Checking for update...</string>
