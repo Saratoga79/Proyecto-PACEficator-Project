@@ -216,36 +216,36 @@
     <string name="sport_remind_title">Nhận diện môn thể thao</string>
     <string name="sport_remind_open_title">Thông báo để Bật chế độ thể thao</string>
     <string name="sport_remind_end_title">Thông báo để Tắt chế độ thể thao</string>
-    <string name="sport_remind_open_tips">When Turning On, It Will Remind You to Turn On the Motion Mode Quickly When It Detects That You Are Running or Sport Walking</string>
-    <string name="sport_remind_end_tips">After Turning On, It Will Remind You to End and Save When It Detects That You Have Finished The Sport</string>
-    <string name="sport_remind_open">Turn on</string>
-    <string name="voice_set">Sound Setting</string>
-    <string name="ring">Ring</string>
+    <string name="sport_remind_open_tips">Khi được bật, đồng hồ sẽ nhắc bạn bật nhanh chế độ theo dõi chuyển động khi phát hiện bạn đang chạy hoặc đi bộ luyện tập</string>
+    <string name="sport_remind_end_tips">Sau khi bật, nó sẽ nhắc bạn kết thúc và lưu lại khi phát hiện ra rằng bạn đã hoàn thành một bài tập luyện</string>
+    <string name="sport_remind_open">Bật</string>
+    <string name="voice_set">Cài đặt âm thanh</string>
+    <string name="ring">Rung</string>
     <string name="volume">Âm lượng</string>
-    <string name="hint_volume">Warning Tone Volume</string>
-    <string name="media_volume">Media Volume</string>
-    <string name="alarm_volume">Alarm Clock Volume</string>
-    <string name="in_call_ring">Incoming Call Ring</string>
-    <string name="alarm_ring">Alarm Ring</string>
-    <string name="nokia_tune">Classic Ring %1$d</string>
-    <string name="electronic_ring_sound">Electronic Ring %1$d</string>
-    <string name="phonetic_sound">Danyin Ring %1$d</string>
-    <string name="auto_nodisturb">Scheduled</string>
-    <string name="nodisturb">Do Not Disturb</string>
-    <string name="auto_bg">Scheduled</string>
-    <string name="long_key_action">Long Press the Button to Open</string>
-    <string name="recombind">Rebinding</string>
-    <string name="lock_screen_auto">Turn Off Low Light Mode Regularly</string>
-    <string name="lock_screen_open">On</string>
+    <string name="hint_volume">Cảnh báo Âm lượng</string>
+    <string name="media_volume">Âm lượng mở nhạc</string>
+    <string name="alarm_volume">Âm lượng Báo thức</string>
+    <string name="in_call_ring">Âm báo Cuộc gọi</string>
+    <string name="alarm_ring">Chuông Báo thức</string>
+    <string name="nokia_tune">Chuông gốc %1$d</string>
+    <string name="electronic_ring_sound">Chuông điện tử %1$d</string>
+    <string name="phonetic_sound">Chuông Danyin %1$d</string>
+    <string name="auto_nodisturb">Đặt lịch</string>
+    <string name="nodisturb">Không làm phiền</string>
+    <string name="auto_bg">Đặt lịch</string>
+    <string name="long_key_action">Nhấn giữ nút để mở</string>
+    <string name="recombind">Ghép nối lại</string>
+    <string name="lock_screen_auto">Quy tắc tắt bỏ chế độ ánh sáng yếu</string>
+    <string name="lock_screen_open">Bật</string>
     <string name="lock_screen_close">Tắt</string>
     <string name="vibration">Báo rung</string>
     <string name="ring_vibration">Báo rung cuộc gọi</string>
     <string name="natification_vibration">Báo rung thông báo mới</string>
     <string name="alarm_vibration">Báo rung theo thời gian</string>
-    <string name="timing_reminder_ring">Alarm sound</string>
+    <string name="timing_reminder_ring">Âm báo thức</string>
     <string name="navigation_combination">Dịch vụ định vị</string>
-    <string name="reboot_to_mcu">reboot to MCU</string>
-    <string name="everest2_copy_mcu_res">Copy font library</string>
+    <string name="reboot_to_mcu">khởi động vào MCU</string>
+    <string name="everest2_copy_mcu_res">Copy thư viện font</string>
     <string name="agps_sync_remind">Nhắc về AGPS</string>
     <string name="agps_sync_off">Tắt</string>
     <string name="agps_sync_everyday">mỗi%s</string>
@@ -440,8 +440,8 @@ sinh\""</string>
 cm\""</string>
     <string name="weight_unit">"\"Nặng 
 kg\""</string>
-    <string name="reset_factory_hint">"Once the watch is reset to factory default settings, 
-all data in the watch will be deleted, and the watch will be disconnected from your mobile."</string>
+    <string name="reset_factory_hint">"Khi đồng hồ được đặt lại về trạng thái xuất xưởng, 
+toàn bộ dữ liệu trong đồng hồ bị xóa, và đồng hồ sẽ ngắt kết nối với điện thoại."</string>
     <string name="reset_factory_hint_cn">"Once the watch is reset to factory default settings, all data in the watch will be deleted, and the watch will be disconnected from your mobile. 
  The current activated transportation card can still be used after the watch is bound with your mobile again."</string>
     <string name="reset_factory_yes">Reset</string>
