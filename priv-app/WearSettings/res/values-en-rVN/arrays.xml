@@ -11,8 +11,8 @@
         <item>Đã nghỉ</item>
     </string-array>
     <string-array name="lab_item_android_settings">
-        <item>[prim]Original system settings</item>
-        <item>[sum]Settings of Android</item>
+        <item>[prim]Cài đặt hệ thống gốc</item>
+        <item>[sum]Cài đặt Android</item>
         <item>[pkg]com.android.settings</item>
     </string-array>
     <string-array name="lab_item_logger">
@@ -23,12 +23,12 @@
     </string-array>
     <string-array name="lab_item_selftest">
         <item>[prim]selftest</item>
-        <item>[sum]start selftest by yourself</item>
+        <item>[sum]Bắt đầu tự kiểm tra</item>
         <item>[action]com.huami.watch.selftest.START</item>
     </string-array>
     <string-array name="lab_item_open_applist">
         <item>[prim]Launcher Applist</item>
-        <item>[sum]Open or close applist</item>
+        <item>[sum]Mở hoặc đóng applist</item>
         <item>[sid]applist</item>
     </string-array>
     <string-array name="lab_item_bt_hci_snoop_log">
@@ -37,35 +37,35 @@
         <item>[sid]btsnoop</item>
     </string-array>
     <string-array name="lab_item_power_test">
-        <item>[prim]Power consumption test in flight mode</item>
-        <item>[sum]Detect power consumption in flight mode</item>
+        <item>[prim]Kiểm tra tiêu hao năng lượng ở chế độ bay</item>
+        <item>[sum]Xác định tiêu hao nguồn ở chế độ máy bay</item>
         <item>[sid]power_test</item>
     </string-array>
     <string-array name="lab_item_long_sitting_timer_plus">
-        <item>[prim]Time of sedentary reminder</item>
-        <item>[sum]Set the time of sedentary reminder (in min)</item>
+        <item>[prim]Thời gian thông báo ngồi lâu</item>
+        <item>[sum]Đặt thời gian thông báo ngồi lâu (số phút)</item>
         <item>[pkg]com.huami.mobile.watchsettings</item>
         <item>[clazz]com.huami.moblie.watchsettings.actions.lab.labUI.LongSittingTimeActivity</item>
     </string-array>
     <string-array name="lab_item_wifi_signal_intensity">
-        <item>[prim]Signal strength</item>
-        <item>[sum]Signal strength test</item>
+        <item>[prim]Mức tín hiệu</item>
+        <item>[sum]Kiểm tra mức tín hiệu</item>
         <item>[pkg]com.huami.mobile.watchsettings</item>
         <item>[clazz]com.huami.moblie.watchsettings.actions.lab.labUI.WifiTestActivity</item>
     </string-array>
     <string-array name="lab_item_pointer_location">
-        <item>[prim]pointer location</item>
-        <item>[sum]open/close pointer</item>
+        <item>[prim]điểm chỉ vị trí</item>
+        <item>[sum]đóng/mở điểm</item>
         <item>[sid]pointer_location</item>
     </string-array>
     <string-array name="lab_item_open_show_model">
-        <item>[prim]Demo Mode</item>
+        <item>[prim]Chế độ Demo</item>
         <item>[sum]on/off</item>
         <item>[sid]show_model</item>
     </string-array>
     <string-array name="lab_item_update_mcu_resource">
-        <item>[prim]Update MCU Resources</item>
-        <item>[sum]Press to update</item>
+        <item>[prim]Cập nhật nguồn MCU</item>
+        <item>[sum]Nhấn để cập nhật</item>
         <item>[sid]update_mcu</item>
     </string-array>
     <string-array name="lab_item_open_nfc">
