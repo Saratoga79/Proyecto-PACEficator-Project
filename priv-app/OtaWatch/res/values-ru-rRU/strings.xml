@@ -3,41 +3,41 @@
 <resources>
     <string name="app_name">otawatch</string>
     <string name="action_settings">Настройки</string>
-    <string name="watch_ota">Watch updates</string>
-    <string name="wifi_disconnect">Connect to the Amazfit app to check for updates</string>
-    <string name="connect_phone_wifi">"Check your phone's network connection to check for updates"</string>
-    <string name="connect_phone_input_wifi">Connect to the Amazfit app to enter Wi-Fi password for the watch</string>
-    <string name="wifi_add_item">Connect to the Amazfit app to add a new Wi-Fi hotspot</string>
-    <string name="add_wifi">Add Wi-Fi</string>
+    <string name="watch_ota">Обновления для часов</string>
+    <string name="wifi_disconnect">Подключитесь к приложению Amazfit для проверки обновлений</string>
+    <string name="connect_phone_wifi">"Проверьте сетевое подключение вашего телефона, чтобы проверить наличие обновлений"</string>
+    <string name="connect_phone_input_wifi">Подключитесь к приложению Amazfit, чтобы ввести пароль Wi-Fi для часов</string>
+    <string name="wifi_add_item">Подключитесь к приложению Amazfit, чтобы добавить новую точку доступа Wi-Fi</string>
+    <string name="add_wifi">Добавить Wi-Fi</string>
     <string name="please_update_rom">\"Доступно системное обновление, 
 пожалуйста обновитесь\"
  </string>
-    <string name="checking_rom">Checking for updates…</string>
+    <string name="checking_rom">Проверка обновлений…</string>
     <string name="checking_rom_failed">"Тайм-аут сети,
 повторите попытку"</string>
-    <string name="current_is_new">Current version is up to date.</string>
+    <string name="current_is_new">Текущая версия актуальна.</string>
     <string name="has_new_rom">"Найдена новая версия,
 обновить до версии %1$ s?"</string>
-    <string name="has_new_rom_all">"An update is available.
-Firmware on this watch is old. Updating may take a while."</string>
-    <string name="input_passwor_on_mobile">"Enter Wi-Fi password
-in the Amazfit app"</string>
-    <string name="processbar_downloading_rom">Downloading…</string>
+    <string name="has_new_rom_all">"Обновление доступно.
+Прошивка на этих часах старая. Обновление может занять некоторое время."</string>
+    <string name="input_passwor_on_mobile">"Введите пароль Wi-Fi
+в приложении Amazfit"</string>
+    <string name="processbar_downloading_rom">Загрузка…</string>
     <string name="please_keep_wifi_connect">"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"Пожалуйста, держите часы
 подключенными к Wi-Fi\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\""</string>
     <string name="processbar_downloading_tips">%</string>
     <string name="processbar_downloading_default">0</string>
     <string name="download_rom_faild">"Ошибка загрузки пакета обновления,
  пожалуйста, попробуйте снова."</string>
-    <string name="download_rom_success">"Downloaded ROM successfully.
-Install now."</string>
-    <string name="low_battery_message">"Downloaded updates successfully.
-Battery must be at least %1$s%% charged to install updates."</string>
-    <string name="low_battery_title">Connect charger</string>
-    <string name="progressbar_tips">Checking…</string>
+    <string name="download_rom_success">"Загрузка прошивки успешно завершена.
+Установите сейчас."</string>
+    <string name="low_battery_message">"Обновления успешно загружены.
+Для установки обновлений аккумулятор должен быть не менее %1$s%% заряжен."</string>
+    <string name="low_battery_title">Подключите зарядное устройство</string>
+    <string name="progressbar_tips">Проверка…</string>
     <string name="progressbar_percent">%1$d%%</string>
-    <string name="low_mem">"Not enough storage space for an update.
-Free up %1$sMB to update."</string>
+    <string name="low_mem">«Недостаточно места для обновления.
+Освободите до %1$sМБ, чтобы обновить.»</string>
     <string name="update_network_error">"Поиск обновлений не удался, пожалуйста
 повторите попытку позже"</string>
     <string name="cancel_download">"Загрузка пакета обновлений,
