@@ -41,8 +41,8 @@
     <string name="sport_tennis_strokes">Uderzenia</string>
     <string name="sport_rope_skip_count">Ilość</string>
     <string name="sport_row_total_count">Total paddles</string>
-    <string name="sport_change">Transition</string>
-    <string name="sport_change_time">Transition time</string>
+    <string name="sport_change">Przejście</string>
+    <string name="sport_change_time">Czas przejścia</string>
     <string name="please_get_ready_for_runnning">Następny: Bieg</string>
     <string name="please_get_ready_for_riding">Następny: Rower</string>
     <string name="please_get_ready_for_swimming">Następne: Pływanie</string>
@@ -71,7 +71,7 @@
     <string name="kilometre">km</string>
     <string name="km_per_hour">km/h</string>
     <string name="bpm">BPM</string>
-    <string name="times_per_minute">jumps/min</string>
+    <string name="times_per_minute">skoki/min</string>
     <string name="per_km">/km</string>
     <string name="per_100m">/100 m</string>
     <string name="per_100Yard">/100 yd</string>
@@ -330,7 +330,7 @@
     <string name="cmiit_id">CMIIT ID</string>
     <string name="license">Nota prawna</string>
     <string name="regulatory">Regulatory</string>
-    <string name="regulatory_summary">Learn more</string>
+    <string name="regulatory_summary">Więcej informacji</string>
     <string name="unlock">Odblokowany</string>
     <string name="build_time">[DEBUG]Build time</string>
     <string name="build_desc">[DEBUG]Build description</string>
@@ -369,7 +369,7 @@
     <string name="blt_bound_stat_disconnect">Rozłączono</string>
     <string name="blt_bound_stat_bonding">Parowanie...</string>
     <string name="blt_bound_stat_none">Dostępny</string>
-    <string name="blt_default_name">Unnamed</string>
+    <string name="blt_default_name">Bez nazwy</string>
     <string name="blt_hint_disconnect">"%1s
 Disconnect?"</string>
     <string name="blt_hint_connect">"%1s
@@ -439,10 +439,10 @@ and is nearby"</string>
 cm"</string>
     <string name="weight_unit">"Waga 
 kg"</string>
-    <string name="reset_factory_hint">"Once the watch is reset to factory default settings, 
-all data in the watch will be deleted, and the watch will be disconnected from your mobile."</string>
-    <string name="reset_factory_hint_cn">"Once the watch is reset to factory default settings, all data in the watch will be deleted, and the watch will be disconnected from your mobile. 
- The current activated transportation card can still be used after the watch is bound with your mobile again."</string>
+    <string name="reset_factory_hint">\"Kiedy zegarek zostanie przywrócony do ustawień fabrycznych, 
+wszystkie dane z zegarka zostaną usunięte, a zegarek zostanie odłączony od twojego telefonu.”</string>
+    <string name="reset_factory_hint_cn">\"Gdy zegarek zostanie przywrócony do ustawień fabrycznych, wszystkie dane w zegarku zostaną usunięte, a zegarek zostanie odłączony od twojego telefonu. 
+ Bieżąca aktywowana karta transportowa może być nadal używana po ponownym połączeniu zegarka z urządzeniem mobilnym.”</string>
     <string name="reset_factory_yes">Reset</string>
     <string name="reset_factory_no">Anuluj</string>
     <string name="reset_factory_title">Ust. Fabryczne</string>
