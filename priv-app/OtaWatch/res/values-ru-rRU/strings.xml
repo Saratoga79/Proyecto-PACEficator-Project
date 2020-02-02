@@ -45,40 +45,40 @@
     <string name="new_rom_please_install">\"Доступно системное обновление, 
 пожалуйста обновитесь\"
  </string>
-    <string name="btn_install_later">Remind later</string>
-    <string name="btn_install_now">Install now</string>
-    <string name="btn_upgrade_now">Update now</string>
-    <string name="wifi_no_password">Not encrypted</string>
-    <string name="wifi_has_password">Encrypted</string>
-    <string name="wifi_password_error">Password is incorrect</string>
-    <string name="wifi_connecting">Connecting…</string>
-    <string name="wifi_auth">Verifying password…</string>
-    <string name="wifi_get_ip">Obtaining IP address…</string>
-    <string name="wifi_link_fail">"Couldn't connect"</string>
+    <string name="btn_install_later">Напомнить позже</string>
+    <string name="btn_install_now">Установить сейчас</string>
+    <string name="btn_upgrade_now">Обновить сейчас</string>
+    <string name="wifi_no_password">Не зашифровано</string>
+    <string name="wifi_has_password">Зашифровано</string>
+    <string name="wifi_password_error">Пароль неверный</string>
+    <string name="wifi_connecting">Соединение…</string>
+    <string name="wifi_auth">Проверка пароля…</string>
+    <string name="wifi_get_ip">Получение IP-адреса…</string>
+    <string name="wifi_link_fail">"Невозможно подключиться"</string>
     <string name="wifi_connected">Подключён к</string>
-    <string name="wifi_title">Choose a network</string>
-    <string name="wifi_wait_password">Waiting for password…</string>
-    <string name="toast_please_update_first">Update first</string>
-    <string name="wifi_turnon_going">Turning on Wi-Fi…</string>
-    <string name="system_update_title">Updated successfully</string>
-    <string name="system_update_content">Upgraded to version %1$s successfully</string>
-    <string name="password_error">"Wi-Fi password is incorrect.
-Enter again."</string>
+    <string name="wifi_title">Выберите сеть</string>
+    <string name="wifi_wait_password">Ожидание пароля…</string>
+    <string name="toast_please_update_first">Сначала обновить</string>
+    <string name="wifi_turnon_going">Включение Wi-Fi…</string>
+    <string name="system_update_title">Обновление успешно завершено</string>
+    <string name="system_update_content">Обновлено до версии %1$s</string>
+    <string name="password_error">"Пароль Wi-Fi неверен.
+Введите снова."</string>
     <string name="wifi_connect_fail">«Не удается подключиться к этой сети WiFi. Пожалуйста, попробуйте 
 другой Wi-Fi hotspot»</string>
     <string name="searching">Поиск…</string>
-    <string name="hasNewUpdateTitle">An update is available</string>
-    <string name="hasNewUpdateInstallContent">Version %1$s is ready to install. Install now?</string>
-    <string name="hasNewUpdateCheckContent">Version %1$s is available. Update now?</string>
-    <string name="update_title">Select update method</string>
-    <string name="update_online">OTA update</string>
-    <string name="update_local">Local ZIP file</string>
-    <string name="local_update_confirm_1_title">Attention</string>
-    <string name="local_update_invalid_zip">Update to the latest version of the app</string>
-    <string name="local_update_confirm_1_msg">"To make sure the new version
-works properly, we\'ll erase all
-user data before the update.
-Back up your data using the Amazfit app."</string>
+    <string name="hasNewUpdateTitle">Доступно обновление</string>
+    <string name="hasNewUpdateInstallContent">Версия %1$s готова к установке. Установить сейчас?</string>
+    <string name="hasNewUpdateCheckContent">Версия %1$s доступна. Обновить сейчас?</string>
+    <string name="update_title">Выберите метод обновления</string>
+    <string name="update_online">OTA обновление</string>
+    <string name="update_local">Локальный ZIP файл</string>
+    <string name="local_update_confirm_1_title">Внимание</string>
+    <string name="local_update_invalid_zip">Обновите приложение до последней версии</string>
+    <string name="local_update_confirm_1_msg">"Чтобы убедиться, что новая версия
+работает правильно, мы сотрем все
+Пользовательские данные перед обновлением.
+Сделайте резервную копию ваших данных с помощью приложения Amazfit."</string>
     <string name="local_update_confirm_2_msg">"Пожалуйста убедитесь, что все пользовательские
 данные скопировались. Установка 
 обновления сотрет все данные 
@@ -88,12 +88,12 @@ Back up your data using the Amazfit app."</string>
     <string name="no">нет</string>
     <string name="enter">OK</string>
     <string name="cancel">Отмена</string>
-    <string name="update_tips_0">Updating…</string>
-    <string name="update_tips_1">"Don't turn off the device"</string>
+    <string name="update_tips_0">Обновление…</string>
+    <string name="update_tips_1">"Не выключайте устройство"</string>
     <string name="retry">Повторить</string>
-    <string name="average_text">Average</string>
+    <string name="average_text">Среднее</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
-    <string name="running">Running</string>
+    <string name="running">Бег</string>
     <string name="waking">Walking</string>
     <string name="indoor_running">Treadmill</string>
     <string name="outdoor_riding">Outdoor cycling</string>
