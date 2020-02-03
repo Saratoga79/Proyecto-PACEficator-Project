@@ -77,7 +77,7 @@
     <string name="phone_label">открыть телефон</string>
     <string name="camera_label">открыть камеру</string>
     <string name="accessibility_ime_switch_button">Сменить способ ввода.</string>
-    <string name="accessibility_compatibility_zoom_button">Кнопка масштабирования (режим совместимости).</string>
+    <string name="accessibility_compatibility_zoom_button">Кнопка масштабирования</string>
     <string name="accessibility_compatibility_zoom_example">Увеличить масштаб до большего экрана.</string>
     <string name="accessibility_bluetooth_connected">Bluetooth подключен.</string>
     <string name="accessibility_bluetooth_disconnected">Bluetooth отключен.</string>
@@ -246,27 +246,27 @@
     <string name="quick_settings_brightness_dialog_title">Яркость</string>
     <string name="quick_settings_brightness_dialog_auto_brightness_label">АВТО</string>
     <string name="quick_settings_inversion_label">Инвертировать цвета</string>
-    <string name="quick_settings_color_space_label">Color correction mode</string>
-    <string name="quick_settings_more_settings">More settings</string>
-    <string name="quick_settings_done">Done</string>
+    <string name="quick_settings_color_space_label">Коррекция цвета</string>
+    <string name="quick_settings_more_settings">Больше настроек</string>
+    <string name="quick_settings_done">Завершено</string>
     <string name="quick_settings_connected">Подключён к</string>
-    <string name="quick_settings_connected_via_wfa">Connected via Wi‑Fi assistant</string>
+    <string name="quick_settings_connected_via_wfa">Подключено через помощника Wi‑Fi</string>
     <string name="quick_settings_connecting">Подключение к...</string>
-    <string name="quick_settings_tethering_label">Tethering</string>
-    <string name="quick_settings_hotspot_label">Hotspot</string>
+    <string name="quick_settings_tethering_label">Режим модема</string>
+    <string name="quick_settings_hotspot_label">Точка доступа</string>
     <string name="quick_settings_notifications_label">Извещения</string>
-    <string name="quick_settings_flashlight_label">Flashlight</string>
-    <string name="quick_settings_cellular_detail_title">Cellular data</string>
-    <string name="quick_settings_cellular_detail_data_usage">Data usage</string>
-    <string name="quick_settings_cellular_detail_remaining_data">Remaining data</string>
-    <string name="quick_settings_cellular_detail_over_limit">Over limit</string>
-    <string name="quick_settings_cellular_detail_data_used">%s used</string>
-    <string name="quick_settings_cellular_detail_data_limit">%s limit</string>
-    <string name="quick_settings_cellular_detail_data_warning">%s warning</string>
-    <string name="recents_empty_message">Your recent screens appear here</string>
-    <string name="recents_app_info_button_label">Application Info</string>
-    <string name="recents_lock_to_app_button_label">screen pinning</string>
-    <string name="recents_search_bar_label">search</string>
+    <string name="quick_settings_flashlight_label">Фонарик</string>
+    <string name="quick_settings_cellular_detail_title">Передача данных</string>
+    <string name="quick_settings_cellular_detail_data_usage">Использование данных</string>
+    <string name="quick_settings_cellular_detail_remaining_data">Остальные данные</string>
+    <string name="quick_settings_cellular_detail_over_limit">Перерасход</string>
+    <string name="quick_settings_cellular_detail_data_used">%s использовано</string>
+    <string name="quick_settings_cellular_detail_data_limit">лимит %s</string>
+    <string name="quick_settings_cellular_detail_data_warning">предупреждение %s</string>
+    <string name="recents_empty_message">Здесь будут показаны недавние приложения</string>
+    <string name="recents_app_info_button_label">О приложении</string>
+    <string name="recents_lock_to_app_button_label">закрепление экрана</string>
+    <string name="recents_search_bar_label">поиск</string>
     <string name="recents_launch_error_message">Could not start %s.</string>
     <string name="expanded_header_battery_charged">Charged</string>
     <string name="expanded_header_battery_charging">Charging</string>
@@ -533,19 +533,19 @@ be monitored"</string>
     <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Вы неправильно ввели ваш графический ключ %d раз. 
 
 Попытаться снова через %d секунд(ы)."</string>
-    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">You have incorrectly attempted to unlock the tablet %d times. After %d more unsuccessful attempts, this tablet will be reset, which will delete all its data.</string>
-    <string name="kg_failed_attempts_now_wiping">You have incorrectly attempted to unlock the tablet %d times. This tablet will be reset, which will delete all its data.</string>
-    <string name="kg_failed_attempts_almost_at_erase_user" formatted="false">You have incorrectly attempted to unlock the tablet %d times. After %d more unsuccessful attempts, this user will be removed, which will delete all user data.</string>
-    <string name="kg_failed_attempts_now_erasing_user">You have incorrectly attempted to unlock the tablet %d times. This user will be removed, which will delete all user data.</string>
-    <string name="kg_failed_attempts_almost_at_erase_profile" formatted="false">You have incorrectly attempted to unlock the tablet %d times. After %d more unsuccessful attempts, the work profile will be removed, which will delete all profile data.</string>
-    <string name="kg_failed_attempts_now_erasing_profile">You have incorrectly attempted to unlock the tablet %d times. The work profile will be removed, which will delete all profile data.</string>
+    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Вы неверно пытались разблокировать устройство %d раз. После %d неудачных попыток, это устройство будет сброшено в заводские настройки, с удалением всех данных.</string>
+    <string name="kg_failed_attempts_now_wiping">Вы неверно пытались разблокировать планшет %d раз. Этот планшет будет сброшен, что удалит все его данные.</string>
+    <string name="kg_failed_attempts_almost_at_erase_user" formatted="false">Вы неверно пытались разблокировать планшет %d раз. После %d неудачных попыток этот пользователь будет удален, что удалит все данные пользователя.</string>
+    <string name="kg_failed_attempts_now_erasing_user">Вы неверно пытались разблокировать планшет %d раз. Этот пользователь будет удален, что удалит все данные пользователя.</string>
+    <string name="kg_failed_attempts_almost_at_erase_profile" formatted="false">Вы неверно пытались разблокировать планшет %d раз. После %d неудачных попыток рабочий профиль будет удален, что удалит все данные профиля.</string>
+    <string name="kg_failed_attempts_now_erasing_profile">Вы неверно пытались разблокировать планшет %d раз. Рабочий профиль будет удален, что удалит все данные профиля.</string>
     <string name="kg_failed_attempts_almost_at_login" formatted="false">\"Вы неверно ввели графический ключ %d раз. После более, чем %d неудачных попыток, вам будет предложено разблокировать планшет с использованием учетной записи электронной почты.
 
  попробовать еще раз в %d секунды.»</string>
-    <string name="kg_reordering_delete_drop_target_text">Remove</string>
-    <string name="kg_password_wrong_pin_code_pukked">Incorrect SIM PIN code you must now contact your carrier to unlock your device.</string>
-    <string name="kg_password_wrong_puk_code_dead">SIM is unusable. Contact your carrier.</string>
-    <string name="kg_password_pin_failed">SIM PIN operation failed!</string>
+    <string name="kg_reordering_delete_drop_target_text">Удалить</string>
+    <string name="kg_password_wrong_pin_code_pukked">Неверный PIN-код. Обратитесь к оператору связи, чтобы разблокировать SIM-карту.</string>
+    <string name="kg_password_wrong_puk_code_dead">SIM-карта недоступна. Свяжитесь с оператором.</string>
+    <string name="kg_password_pin_failed">Сбой операции PIN-кода SIM-карты!</string>
     <string name="kg_password_puk_failed">SIM PUK operation failed!</string>
     <string name="kg_pin_accepted">Code Accepted!</string>
     <string name="keyguard_transport_prev_description">Previous track button</string>
