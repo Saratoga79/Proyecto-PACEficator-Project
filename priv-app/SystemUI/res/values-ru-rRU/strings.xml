@@ -267,16 +267,15 @@
     <string name="recents_app_info_button_label">О приложении</string>
     <string name="recents_lock_to_app_button_label">закрепление экрана</string>
     <string name="recents_search_bar_label">поиск</string>
-    <string name="recents_launch_error_message">Could not start %s.</string>
-    <string name="expanded_header_battery_charged">Charged</string>
-    <string name="expanded_header_battery_charging">Charging</string>
-    <string name="expanded_header_battery_charging_with_time">%s until full</string>
-    <string name="expanded_header_battery_not_charging">Not charging</string>
+    <string name="recents_launch_error_message">Не удалось запустить %s.</string>
+    <string name="expanded_header_battery_charged">Заряжено</string>
+    <string name="expanded_header_battery_charging">Зарядка</string>
+    <string name="expanded_header_battery_charging_with_time">%s до полного</string>
+    <string name="expanded_header_battery_not_charging">Не заряжается</string>
     <string name="battery_meter_very_low_overlay_symbol">!</string>
-    <string name="ssl_ca_cert_warning">"Network may
-be monitored"</string>
-    <string name="description_target_search">Search</string>
-    <string name="description_direction_up">Slide up for %s.</string>
+    <string name="ssl_ca_cert_warning">"Сеть может отслеживаться"</string>
+    <string name="description_target_search">Поиск</string>
+    <string name="description_direction_up">Сдвиг вверх для %s.</string>
     <string name="description_direction_left">Slide left for %s.</string>
     <string name="zen_no_interruptions_with_warning">No interruptions. Not even alarms.</string>
     <string name="zen_no_interruptions">No interruptions</string>
