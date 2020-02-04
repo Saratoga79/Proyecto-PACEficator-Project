@@ -14,56 +14,56 @@
     <string name="delete_all_notifications_confrim_content">Эти уведомления будут удалены навсегда. Очистить в любом случае?</string>
     <string name="notification_time_day">HH:mm</string>
     <string name="notification_time_month">dd/MM HH:mm</string>
-    <string name="notification_time_year">yyyy/MM/dd HH:mm</string>
+    <string name="notification_time_year">dd/MM/yyyy HH:mm</string>
     <string name="action_delete">Удалить</string>
-    <string name="action_shield">Block</string>
+    <string name="action_shield">Блокировка</string>
     <string name="notification_none">Все догнал</string>
-    <string name="notification_allclear">Clear all</string>
-    <string name="notification_allclear_confirm">These notifications will be deleted permanently. Clear anyway?</string>
-    <string name="notification_checking_bluetooth">Checking Bluetooth connection…</string>
-    <string name="notification_detail_content_title">Information details</string>
-    <string name="notification_fix_message_action1">Pin this message</string>
-    <string name="notification_fix_message_reset">Reset time</string>
-    <string name="notification_fix_message_cancel">Unpin</string>
-    <string name="quick_settings_airplane_mode">"Airplane
+    <string name="notification_allclear">Очистить все</string>
+    <string name="notification_allclear_confirm">Эти уведомления будут удалены навсегда. Очистить в любом случае?</string>
+    <string name="notification_checking_bluetooth">Проверка соединения Bluetooth…</string>
+    <string name="notification_detail_content_title">Информация подробно</string>
+    <string name="notification_fix_message_action1">Закрепить это сообщение</string>
+    <string name="notification_fix_message_reset">Время сброса</string>
+    <string name="notification_fix_message_cancel">Открепить</string>
+    <string name="quick_settings_airplane_mode">"В самолете
  %1$s"</string>
     <string name="quick_settings_no_disturb_mode">"DND
  %1$s"</string>
-    <string name="quick_settings_auto_light_mode">"Backlight
+    <string name="quick_settings_auto_light_mode">"Подсветка
  %1$s"</string>
-    <string name="quick_settings_rise_up_hand_mode">"Wake screen on wrist raise
+    <string name="quick_settings_rise_up_hand_mode">"Пробуждение экрана при поднятии запястья
  %1$s"</string>
-    <string name="quick_settings_more_settings">Additional settings</string>
-    <string name="quick_settings_switch_auto">Auto mode</string>
-    <string name="quick_settings_switch_awake">Wake mode</string>
-    <string name="quick_settings_switch_always">Always on</string>
-    <string name="quick_settings_switch_on">Turn on</string>
+    <string name="quick_settings_more_settings">Дополнительные настройки</string>
+    <string name="quick_settings_switch_auto">Авторежим</string>
+    <string name="quick_settings_switch_awake">Режим пробуждения</string>
+    <string name="quick_settings_switch_always">Всегда вкл.</string>
+    <string name="quick_settings_switch_on">Включить</string>
     <string name="quick_settings_switch_off">Выключить</string>
     <string name="quick_settings_toast_on">Включить</string>
     <string name="quick_settings_toast_off">Выкл</string>
-    <string name="quick_settings_status">Not connected</string>
-    <string name="quick_settings_no_disturb_toast">"You'll no longer receive notifications."</string>
-    <string name="quick_settings_auto_light_toast">Keeping the screen on reduces battery life.</string>
+    <string name="quick_settings_status">Отключено</string>
+    <string name="quick_settings_no_disturb_toast">"Вы больше не будете получать уведомления."</string>
+    <string name="quick_settings_auto_light_toast">Сохранение экрана включенным, уменьшает срок службы батареи.</string>
     <string name="quick_settings_status_month">Месяц</string>
-    <string name="quick_settings_status_day">Day  </string>
+    <string name="quick_settings_status_day">День </string>
     <string name="quick_settings_connected">Подключён к</string>
-    <string name="quick_settings_disconnect">Not connected</string>
-    <string name="quick_settings_unbound">Pair device first</string>
-    <string name="quick_settings_date_chinese">MM/dd/yyyy</string>
+    <string name="quick_settings_disconnect">Отключено</string>
+    <string name="quick_settings_unbound">Сначала подключите устройство</string>
+    <string name="quick_settings_date_chinese">dd/MM/yyyy</string>
     <string name="quick_settings_date_format">1/31/1900</string>
-    <string name="quick_settings_date_yeareve">"Chinese New Year's Eve"</string>
-    <string name="seconed_confirm_nodisturb">"DND mode is on.
-Can\'t receive notifications."</string>
-    <string name="quick_settings_battery_charging_full">Fully charged</string>
-    <string name="quick_settings_battery_is_charging">Charging</string>
-    <string name="quick_settings_battery_hasnot_charged">No charging history</string>
-    <string name="quick_settings_battery_charging_intervalDay">Last charged %1$dd %2$dh ago</string>
-    <string name="quick_settings_battery_charging_intervalDay_lessHour">"Last charged
-%dd ago"</string>
-    <string name="quick_settings_battery_charging_intervalDayLess">"Last charged
-%dh ago"</string>
-    <string name="quick_settings_battery_charging_intervalLessHour">"Last charged
-less than 1h ago"</string>
+    <string name="quick_settings_date_yeareve">"Китайский Новый год"</string>
+    <string name="seconed_confirm_nodisturb">Режим DND включен.
+Невозможно получить уведомления.\"</string>
+    <string name="quick_settings_battery_charging_full">Полностью заряжен</string>
+    <string name="quick_settings_battery_is_charging">Зарядка</string>
+    <string name="quick_settings_battery_hasnot_charged">Нет истории зарядки</string>
+    <string name="quick_settings_battery_charging_intervalDay">Последняя зарядка %1$dд %2$dч назад</string>
+    <string name="quick_settings_battery_charging_intervalDay_lessHour">"Последняя зарядка
+%dд назад"</string>
+    <string name="quick_settings_battery_charging_intervalDayLess">"Последняя зарядка
+%dч назад"</string>
+    <string name="quick_settings_battery_charging_intervalLessHour">"Последняя зарядка
+меньше, чем 1 час назад"</string>
     <string name="quick_settings_battery_sportString">You can keep running.</string>
     <string name="quick_settings_battery_sporttime_hour_unit">час</string>
     <string name="quick_settings_battery_sporttime_KM_unit">км</string>
