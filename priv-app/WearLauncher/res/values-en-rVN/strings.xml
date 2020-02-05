@@ -11,31 +11,31 @@
     <string name="notification_click_download">Chạm để tải về</string>
     <string name="notification_click_open">Bấm vào để xem</string>
     <string name="delete_all_notifications">Xóa tất cả thông báo</string>
-    <string name="delete_all_notifications_confrim_content">These notifications will be deleted permanently. Clear anyway?</string>
+    <string name="delete_all_notifications_confrim_content">Các thông báo sẽ bị xóa hoàn toàn. Bạn có chắc chắn xóa?</string>
     <string name="notification_time_day">HH:mm</string>
-    <string name="notification_time_month">MM/dd HH:mm</string>
-    <string name="notification_time_year">yyyy/MM/dd HH:mm</string>
+    <string name="notification_time_month">dd/MM HH:mm</string>
+    <string name="notification_time_year">HH:mm dd/MM/yyyy</string>
     <string name="action_delete">删除</string>
-    <string name="action_shield">Block</string>
-    <string name="notification_none">All caught up</string>
-    <string name="notification_allclear">Clear all</string>
-    <string name="notification_allclear_confirm">These notifications will be deleted permanently. Clear anyway?</string>
-    <string name="notification_checking_bluetooth">Checking Bluetooth connection…</string>
-    <string name="notification_detail_content_title">Information details</string>
-    <string name="notification_fix_message_action1">Pin this message</string>
-    <string name="notification_fix_message_reset">Reset time</string>
-    <string name="notification_fix_message_cancel">Unpin</string>
-    <string name="quick_settings_airplane_mode">"Airplane
+    <string name="action_shield">Chặn</string>
+    <string name="notification_none">Đã đọc hết</string>
+    <string name="notification_allclear">Xoá tất cả</string>
+    <string name="notification_allclear_confirm">Các thông báo sẽ bị xóa hoàn toàn. Bạn có chắc chắn xóa?</string>
+    <string name="notification_checking_bluetooth">Đang kiểm tra kết nối Bluetooth…</string>
+    <string name="notification_detail_content_title">Thông tin chi tiết</string>
+    <string name="notification_fix_message_action1">Ghim tin nhắn</string>
+    <string name="notification_fix_message_reset">Đặt lại giờ</string>
+    <string name="notification_fix_message_cancel">Bỏ ghim</string>
+    <string name="quick_settings_airplane_mode">"Máy bay
  %1$s"</string>
     <string name="quick_settings_no_disturb_mode">"DND
  %1$s"</string>
-    <string name="quick_settings_auto_light_mode">"Backlight
+    <string name="quick_settings_auto_light_mode">"Đèn nền
  %1$s"</string>
-    <string name="quick_settings_rise_up_hand_mode">"Wake screen on wrist raise
+    <string name="quick_settings_rise_up_hand_mode">"Bật màn hình khi nâng cổ tay
  %1$s"</string>
-    <string name="quick_settings_more_settings">Additional settings</string>
-    <string name="quick_settings_switch_auto">Auto mode</string>
-    <string name="quick_settings_switch_awake">Wake mode</string>
+    <string name="quick_settings_more_settings">Cài đặt bổ sung</string>
+    <string name="quick_settings_switch_auto">Chế độ tự động</string>
+    <string name="quick_settings_switch_awake">Chế độ thức</string>
     <string name="quick_settings_switch_always">Always on</string>
     <string name="quick_settings_switch_on">Turn on</string>
     <string name="quick_settings_switch_off">Turn off</string>
