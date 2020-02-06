@@ -467,66 +467,66 @@ Liên hệ với nhà cung cấp dịch vụ của bạn để nhận thẻ SIM 
     <string name="keyguard_accessibility_slide_area">Khu vực trượt.</string>
     <string name="keyguard_accessibility_pin_area">Khu vực mã PIN</string>
     <string name="keyguard_accessibility_sim_pin_area">Vùng mã PIN SIM</string>
-    <string name="keyguard_accessibility_sim_puk_area">SIM PUK area</string>
-    <string name="keyguard_accessibility_transport_prev_description">Previous track button</string>
-    <string name="keyguard_accessibility_transport_next_description">Next track button</string>
-    <string name="keyguard_accessibility_transport_pause_description">Pause button</string>
-    <string name="keyguard_accessibility_transport_play_description">Play button</string>
-    <string name="keyguard_accessibility_transport_stop_description">Stop button</string>
-    <string name="keyguard_accessibility_transport_thumbs_up_description">Thumbs up</string>
-    <string name="keyguard_accessibility_transport_thumbs_down_description">Thumbs down</string>
-    <string name="keyguard_accessibility_transport_heart_description">Heart</string>
-    <string name="keyguard_accessibility_show_bouncer">Unlock to continue</string>
-    <string name="keyguard_accessibility_hide_bouncer">Launch canceled</string>
-    <string name="keyguard_accessibility_delete_widget_start">Drop %1$s to delete.</string>
-    <string name="keyguard_accessibility_delete_widget_end">%1$s will not be deleted.</string>
-    <string name="keyguard_accessibility_next_alarm">Next alarm set for %1$s</string>
+    <string name="keyguard_accessibility_sim_puk_area">Vùng mã PUK SIM</string>
+    <string name="keyguard_accessibility_transport_prev_description">Nút bài trước đó</string>
+    <string name="keyguard_accessibility_transport_next_description">Nút bài tiếp theo</string>
+    <string name="keyguard_accessibility_transport_pause_description">Nút tạm dừng</string>
+    <string name="keyguard_accessibility_transport_play_description">Nút phát nhạc</string>
+    <string name="keyguard_accessibility_transport_stop_description">Nút dừng</string>
+    <string name="keyguard_accessibility_transport_thumbs_up_description">Nút Like</string>
+    <string name="keyguard_accessibility_transport_thumbs_down_description">Nút Unlike</string>
+    <string name="keyguard_accessibility_transport_heart_description">Trái tim</string>
+    <string name="keyguard_accessibility_show_bouncer">Mở khóa để tiếp tục</string>
+    <string name="keyguard_accessibility_hide_bouncer">Đã hủy việc mở</string>
+    <string name="keyguard_accessibility_delete_widget_start">Thả %1$s để xóa.</string>
+    <string name="keyguard_accessibility_delete_widget_end">%1$s sẽ không bị xóa.</string>
+    <string name="keyguard_accessibility_next_alarm">Báo thức đặt cho %1$s</string>
     <string name="password_keyboard_label_symbol_key">\?123</string>
     <string name="password_keyboard_label_alpha_key">ABC</string>
     <string name="password_keyboard_label_alt_key">ALT</string>
     <string name="keyboardview_keycode_alt">Alt</string>
     <string name="keyboardview_keycode_cancel">Hủy bỏ</string>
     <string name="keyboardview_keycode_delete">删除</string>
-    <string name="keyboardview_keycode_done">Done</string>
-    <string name="keyboardview_keycode_mode_change">Mode change</string>
+    <string name="keyboardview_keycode_done">Xong</string>
+    <string name="keyboardview_keycode_mode_change">Đổi chế độ</string>
     <string name="keyboardview_keycode_shift">Shift</string>
     <string name="keyboardview_keycode_enter">Enter</string>
-    <string name="description_target_unlock">Unlock</string>
-    <string name="description_target_camera">Camera</string>
-    <string name="description_target_silent">Silent</string>
-    <string name="description_target_soundon">Sound on</string>
-    <string name="description_direction_down">Slide down for %s.</string>
-    <string name="description_direction_right">Slide right for %s.</string>
-    <string name="user_switched">Current user %1$s.</string>
-    <string name="kg_emergency_call_label">Emergency call</string>
-    <string name="kg_forgot_pattern_button_text">Forgot Pattern</string>
-    <string name="kg_wrong_pattern">Wrong Pattern</string>
-    <string name="kg_wrong_password">Wrong Password</string>
-    <string name="kg_wrong_pin">Wrong PIN</string>
-    <string name="kg_too_many_failed_attempts_countdown">Try again in %d seconds.</string>
-    <string name="kg_pattern_instructions">Draw your pattern</string>
-    <string name="kg_sim_pin_instructions">Enter SIM PIN</string>
-    <string name="kg_sim_pin_instructions_multi">Enter SIM PIN for \"%1$s\"</string>
-    <string name="kg_pin_instructions">Enter PIN</string>
-    <string name="kg_password_instructions">Enter Password</string>
-    <string name="kg_puk_enter_puk_hint">SIM is now disabled. Enter PUK code to continue. Contact carrier for details.</string>
-    <string name="kg_puk_enter_puk_hint_multi">SIM \"%1$s\" is now disabled. Enter PUK code to continue. Contact carrier for details.</string>
-    <string name="kg_puk_enter_pin_hint">Enter desired PIN code</string>
-    <string name="kg_enter_confirm_pin_hint">Confirm desired PIN code</string>
-    <string name="kg_sim_unlock_progress_dialog_message">Unlocking SIM card…</string>
-    <string name="kg_invalid_sim_pin_hint">Type a PIN that is 4 to 8 numbers.</string>
-    <string name="kg_invalid_sim_puk_hint">PUK code should be 8 numbers or more.</string>
-    <string name="kg_invalid_puk">Re-enter the correct PUK code. Repeated attempts will permanently disable the SIM.</string>
-    <string name="kg_invalid_confirm_pin_hint">PIN codes does not match</string>
-    <string name="kg_login_too_many_attempts">Too many pattern attempts</string>
-    <string name="kg_login_instructions">To unlock, sign in with your Google account.</string>
-    <string name="kg_login_username_hint">Username (email)</string>
-    <string name="kg_login_password_hint">Password</string>
-    <string name="kg_login_submit_button">Sign in</string>
-    <string name="kg_login_invalid_input">Invalid username or password.</string>
+    <string name="description_target_unlock">Mở khoá</string>
+    <string name="description_target_camera">Máy ảnh</string>
+    <string name="description_target_silent">Im lặng</string>
+    <string name="description_target_soundon">Bật âm thanh</string>
+    <string name="description_direction_down">Trượt xuống để %s.</string>
+    <string name="description_direction_right">Trượt phải để %s.</string>
+    <string name="user_switched">Người dùng %1$s.</string>
+    <string name="kg_emergency_call_label">Cuộc gọi khẩn cấp</string>
+    <string name="kg_forgot_pattern_button_text">Đã quên hình</string>
+    <string name="kg_wrong_pattern">Hình sai</string>
+    <string name="kg_wrong_password">Sai mật khẩu</string>
+    <string name="kg_wrong_pin">Sai mã PIN</string>
+    <string name="kg_too_many_failed_attempts_countdown">Thử lại sau %d giây.</string>
+    <string name="kg_pattern_instructions">Vẽ hình của bạn</string>
+    <string name="kg_sim_pin_instructions">Nhập PIN của SIM</string>
+    <string name="kg_sim_pin_instructions_multi">Nhập mã PIN SIM cho \"%1$s\"</string>
+    <string name="kg_pin_instructions">Nhập PIN</string>
+    <string name="kg_password_instructions">Nhập mật khẩu</string>
+    <string name="kg_puk_enter_puk_hint">SIM hiện bị vô hiệu hóa. Nhập mã PUK để tiếp tục. Liên hệ với nhà cung cấp dịch vụ để biết chi tiết.</string>
+    <string name="kg_puk_enter_puk_hint_multi">SIM \"%1$s\" hiện bị vô hiệu hóa. Nhập mã PUK để tiếp tục. Liên hệ với nhà cung cấp dịch vụ để biết chi tiết.</string>
+    <string name="kg_puk_enter_pin_hint">Nhập mã PIN mong muốn</string>
+    <string name="kg_enter_confirm_pin_hint">Xác nhận mã PIN mong muốn</string>
+    <string name="kg_sim_unlock_progress_dialog_message">Đang mở khóa thẻ SIM…</string>
+    <string name="kg_invalid_sim_pin_hint">Nhập một mã PIN có từ 4 đến 8 số.</string>
+    <string name="kg_invalid_sim_puk_hint">Mã PUK phải có từ 8 số trở lên.</string>
+    <string name="kg_invalid_puk">Hãy nhập lại mã PUK chính xác. Nhiều lần nhập sai sẽ vô hiệu hóa vĩnh viễn thẻ SIM.</string>
+    <string name="kg_invalid_confirm_pin_hint">Mã PIN không khớp</string>
+    <string name="kg_login_too_many_attempts">Quá nhiều lần nhập hình</string>
+    <string name="kg_login_instructions">Để mở khóa, hãy đăng nhập bằng tài khoản Google.</string>
+    <string name="kg_login_username_hint">Tên người dùng (email)</string>
+    <string name="kg_login_password_hint">Mật khẩu</string>
+    <string name="kg_login_submit_button">Đăng nhập</string>
+    <string name="kg_login_invalid_input">Tên hoặc mật khẩu sai.</string>
     <string name="kg_login_account_recovery_hint">\"Quên tên người dùng hoặc mật khẩu?
 Vào \"<b>google.com/accounts/recovery</b>.</string>
-    <string name="kg_login_checking_password">Checking account…</string>
+    <string name="kg_login_checking_password">Đang kiểm tra tài khoản…</string>
     <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"Bạn đã gõ sai %d lần mã PIN. 
 
 Thử lại sau %d giây. "</string>
@@ -535,25 +535,25 @@ Thử lại sau %d giây. "</string>
 Thử lại sau khi chờ %d giây. "</string>
     <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Bạn đã vẽ sai mã mở khóa %d lần.
 Thử lại sau %d giây."</string>
-    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">You have incorrectly attempted to unlock the tablet %d times. After %d more unsuccessful attempts, this tablet will be reset, which will delete all its data.</string>
-    <string name="kg_failed_attempts_now_wiping">You have incorrectly attempted to unlock the tablet %d times. This tablet will be reset, which will delete all its data.</string>
-    <string name="kg_failed_attempts_almost_at_erase_user" formatted="false">You have incorrectly attempted to unlock the tablet %d times. After %d more unsuccessful attempts, this user will be removed, which will delete all user data.</string>
-    <string name="kg_failed_attempts_now_erasing_user">You have incorrectly attempted to unlock the tablet %d times. This user will be removed, which will delete all user data.</string>
-    <string name="kg_failed_attempts_almost_at_erase_profile" formatted="false">You have incorrectly attempted to unlock the tablet %d times. After %d more unsuccessful attempts, the work profile will be removed, which will delete all profile data.</string>
-    <string name="kg_failed_attempts_now_erasing_profile">You have incorrectly attempted to unlock the tablet %d times. The work profile will be removed, which will delete all profile data.</string>
+    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Bạn đã cố gắng mở khóa máy tính bảng %d lần không chính xác. Sau %d lần thử không thành công, máy tính bảng này sẽ được đặt lại, sẽ xóa tất cả dữ liệu.</string>
+    <string name="kg_failed_attempts_now_wiping">Bạn đã cố gắng mở khóa máy tính bảng %d lần. Máy tính bảng này sẽ được đặt lại, sẽ xóa tất cả dữ liệu bên trong.</string>
+    <string name="kg_failed_attempts_almost_at_erase_user" formatted="false">Bạn đã cố gắng mở khóa máy tính bảng %d lần không chính xác. Sau %d lần thử không thành công, máy tính bảng này sẽ được đặt lại, sẽ xóa tất cả dữ liệu.</string>
+    <string name="kg_failed_attempts_now_erasing_user">Bạn đã cố gắng mở khóa máy tính bảng %d lần. Người dùng này sẽ bị gỡ bỏ, sẽ xóa tất cả dữ liệu riêng của người dùng.</string>
+    <string name="kg_failed_attempts_almost_at_erase_profile" formatted="false">Bạn đã cố gắng mở khóa máy tính bảng %d lần không chính xác. Sau %d lần thử không thành công, hồ sơ làm việc sẽ bị gỡ bỏ, sẽ xóa tất cả dữ liệu.</string>
+    <string name="kg_failed_attempts_now_erasing_profile">Bạn đã cố gắng mở khóa máy tính bảng %d lần. Hồ sơ làm việc này sẽ bị gỡ bỏ, sẽ xóa tất cả dữ liệu riêng của người dùng.</string>
     <string name="kg_failed_attempts_almost_at_login" formatted="false">"Bạn đã vẽ sai hình mở khóa %d lần. Sau %d lần thử không thành công, bạn sẽ được yêu cầu mở khóa máy tính bảng bằng email.
 
 Thử lại trong %d giây."</string>
-    <string name="kg_reordering_delete_drop_target_text">Remove</string>
-    <string name="kg_password_wrong_pin_code_pukked">Incorrect SIM PIN code you must now contact your carrier to unlock your device.</string>
-    <string name="kg_password_wrong_puk_code_dead">SIM is unusable. Contact your carrier.</string>
-    <string name="kg_password_pin_failed">SIM PIN operation failed!</string>
-    <string name="kg_password_puk_failed">SIM PUK operation failed!</string>
-    <string name="kg_pin_accepted">Code Accepted!</string>
-    <string name="keyguard_transport_prev_description">Previous track button</string>
-    <string name="keyguard_transport_next_description">Next track button</string>
-    <string name="keyguard_transport_pause_description">Pause button</string>
-    <string name="keyguard_transport_play_description">Play button</string>
-    <string name="keyguard_transport_stop_description">Stop button</string>
-    <string name="keyguard_carrier_default">No service.</string>
+    <string name="kg_reordering_delete_drop_target_text">Gỡ bỏ</string>
+    <string name="kg_password_wrong_pin_code_pukked">Mã PIN của SIM sai, bạn phải liên hệ với nhà cung cấp dịch vụ để mở khóa thiết bị.</string>
+    <string name="kg_password_wrong_puk_code_dead">SIM không thể sử dụng được. Liên hệ với nhà cung cấp.</string>
+    <string name="kg_password_pin_failed">Kích hoạt SIM của PIN lỗi!</string>
+    <string name="kg_password_puk_failed">Kích hoạt PUK của SIM lỗi!</string>
+    <string name="kg_pin_accepted">Mã được chấp nhận!</string>
+    <string name="keyguard_transport_prev_description">Nút bài trước đó</string>
+    <string name="keyguard_transport_next_description">Nút bài tiếp theo</string>
+    <string name="keyguard_transport_pause_description">Nút tạm dừng</string>
+    <string name="keyguard_transport_play_description">Nút phát nhạc</string>
+    <string name="keyguard_transport_stop_description">Nút dừng</string>
+    <string name="keyguard_carrier_default">Không có dịch vụ.</string>
 </resources>
