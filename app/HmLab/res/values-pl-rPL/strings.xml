@@ -3,8 +3,8 @@
 <resources>
     <string name="app_name">Lab. Huami</string>
     <string name="main_title">Lab. Huami</string>
-    <string name="agreement_title">PPG capturing</string>
-    <string name="orig_data_collect">Activity data collection</string>
+    <string name="agreement_title">Przechwytywanie PPG</string>
+    <string name="orig_data_collect">Zbieranie danych o aktywności</string>
     <string name="message">"We\'ll collect raw PPG data when you wear the watch.
 The data will only be used for research purposes.
 This feature will adversely impact the battery life."</string>
@@ -20,14 +20,14 @@ This feature will adversely impact the battery life."</string>
     <string name="saving_data">Zapisywanie danych</string>
     <string name="upload_data">Wyślij dane</string>
     <string name="upload_success">Gotowe</string>
-    <string name="upload_failed">"Couldn't upload. Try again."</string>
-    <string name="air_mode_alert_title">"Couldn't connect"</string>
-    <string name="air_mode_alert_message">Turn off Airplane mode then try again.</string>
-    <string name="report_sensor_capture_dialog_title">Activity data collection</string>
+    <string name="upload_failed">"Nie można przesłać. Spróbuj ponownie."</string>
+    <string name="air_mode_alert_title">"Nie można połączyć."</string>
+    <string name="air_mode_alert_message">Wyłącz tryb samolotowy i spróbuj ponownie.</string>
+    <string name="report_sensor_capture_dialog_title">Zbieranie danych o aktywności</string>
     <string name="report_sensor_capture_dialog_desc">When turning on activity data collection, we will collect original information of sensor after you start an exercise, and stop immediately when you end the exercise. Such data will be submitted to the server as well when you submit watch issue feedback for analysis. These logs are used only for problem analysis, and will be destroyed immediately after that. During the entire process we will comply with our Privacy Policy, view details of the policy on the Amazfit app.</string>
     <string name="dialog_agree">Akceptuj</string>
     <string name="dialog_quit">Wyjdź</string>
-    <string name="watch_demo_model">Demo mode</string>
+    <string name="watch_demo_model">Tryb Demo</string>
     <string name="average_text">Średnio</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="running">Bieganie</string>
