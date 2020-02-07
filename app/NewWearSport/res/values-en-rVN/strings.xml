@@ -587,15 +587,15 @@ bắt đầu ngay."</string>
     <string name="sport_te_desc_level_06">Quá mức sức khỏe cơ thể.</string>
     <string name="first_beat_remind_txt_01">Tốc độ pace tốt.</string>
     <string name="first_beat_remind_txt_02">Đây là một tốc độ tốt. Tập luyện thêm nhiều phút để giữ cho bạn khỏe.</string>
-    <string name="sport_history_recovery_remind">"It\'s recommended to have proper maintaining workouts 
-to reach full recovery."</string>
+    <string name="sport_history_recovery_remind">"Khuyến cáo bạn nên duy trì tập luyện đúng cách 
+để có thể phục hồi hoàn toàn."</string>
     <string name="daily_propermance_has_no_data">Không có dữ liệu</string>
     <string name="first_beat_help_title_vo2_max">VO₂ max</string>
     <string name="first_beat_help_title_train_efffect">Hiệu quả tập luyện</string>
-    <string name="first_beat_help_title_train_load">Training load</string>
-    <string name="first_beat_help_title_sport_target_or_real_time_guide">Recommended running goals &amp; Real-time coaching</string>
-    <string name="first_beat_help_title_daily_perpormence">Body state</string>
-    <string name="first_beat_help_title_recovery_time">Recovery time</string>
+    <string name="first_beat_help_title_train_load">Tải luyện tập</string>
+    <string name="first_beat_help_title_sport_target_or_real_time_guide">Mục tiêu chạy đã khuyến cáo &amp; HLV trực tiếp</string>
+    <string name="first_beat_help_title_daily_perpormence">Tr.thái cơ thể</string>
+    <string name="first_beat_help_title_recovery_time">Thời gian phục hồi</string>
     <string name="first_beat_help_vo2_max">"&lt;font color=#00FF00&gt;What is this?&lt;/font&gt;&lt;br/&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; VO₂ max represents the maximum volume of oxygen the body can consume in one minute as measured in ml/kg/min. It evaluates the state of users' cardiorespiratory fitness which is important for overall health, well-being and sports performance. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; The watch will automatically evaluate your VO₂ max based on heart rate, speed etc. during a moderate intensity running workout and compare that to a reference group of same age and gender to determine your fitness level. &lt;br/&gt;&lt;font color=#00FF00&gt;How to evaluate?&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 1. Provide accurate profile information like age and gender in Amazfit app during setup; &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 2. Take a brisk 15 minutes or more outdoor running with the watch on and make sure heart rate is at or above 75% of your max heart rate for at least 10 minutes; &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 3. After completing the running, you can check current VO₂ max in the sports activities app on the watch or personal status page in Amazift Watch app. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;For more details, view Help in Amazfit app.&lt;/small&gt;"</string>
     <string name="first_beat_help_te">&lt;font color=#00FF00&gt;What is this?&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Training Effect (TE) measures the accumulated load during a workout and interprets its impact on your aerobic fitness. TE starts from level 0.0. As the workout progresses successfully, TE value increases (from 0 towards 5), telling you how the workout affects your fitness. &lt;br/&gt;&lt;font color=#00FF00&gt;How is it calculated?&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;TE is calculated based on your user profile, heart beat data and difficulty of the workout.&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; The watch will show real-time TE measurement during a workout as well as final TE result at the end of the workout. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;For more details, view Help in Amazfit app.&lt;/small&gt;</string>
     <string name="first_beat_help_train_load">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;The watch will calculate Training Load based on EPOC (Excess Post-exercise Oxygen Consumption) values accumulated from heart rate data recorded during workouts in last 7 days. The user can adjust the training schedule accordingly to reach optimal load. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;For more details, view Help in Amazfit app.&lt;/small&gt;</string>
@@ -605,7 +605,7 @@ to reach full recovery."</string>
     <string name="vo2max_unit">ml/kg/min</string>
     <string name="run_vo2max_unit">ml/kg/min</string>
     <string name="vo2_max_has_no_data">Không có dữ liệu</string>
-    <string name="sport_setting_gpx_route_selected">Route selected</string>
+    <string name="sport_setting_gpx_route_selected">Chọn đường</string>
     <string name="sport_setting_gpx_route_selectd_remind">"Outdoor features are navigated by using this route. If you don't need, select \"Turn off\"."</string>
     <string name="confirm">OK</string>
     <string name="decision_yes">是</string>
@@ -960,22 +960,22 @@ tập thể dục đạt hiệu quả cao!\"</string>
     <string name="on_foot_progress">Tiến trình đi bộ</string>
     <string name="indoor_fitness_progress">Tiến trình tập thể hình</string>
     <string name="remind_target_distance_title_format">Mục tiêu: %1$d km</string>
-    <string name="remind_target_km_title_format">Completed: %1$d km</string>
-    <string name="remind_target_km_walking_title_format">Completed: %1$d km</string>
-    <string name="remind_target_distance_finished">Completed</string>
+    <string name="remind_target_km_title_format">Hoàn thành: %1$d km</string>
+    <string name="remind_target_km_walking_title_format">Hoàn thành: %1$d km</string>
+    <string name="remind_target_distance_finished">Hoàn thành</string>
     <string name="remind_target_cost_time_desc">Thời gian</string>
     <string name="remind_target_pace_desc">Pace</string>
     <string name="remind_target_distance_pace_unit">/km</string>
-    <string name="remind_heart_rate_too_high">Heart rate is too high</string>
-    <string name="remind_heart_rate_value_before">Current</string>
+    <string name="remind_heart_rate_too_high">Nhịp tim quá cao</string>
+    <string name="remind_heart_rate_value_before">Hiện tại</string>
     <string name="remind_heart_rate_value_after">BPM</string>
-    <string name="remind_heart_rate_suggestion">Slow down gradually to adjust</string>
-    <string name="remind_pace_too_low">Pace is too low</string>
-    <string name="remind_pace_too_fast">Pace is too fast</string>
-    <string name="remind_pace_current">Current</string>
-    <string name="remind_pace_target">Goal</string>
+    <string name="remind_heart_rate_suggestion">Chạy chậm dần dần để điều chỉnh</string>
+    <string name="remind_pace_too_low">Pace quá chậm</string>
+    <string name="remind_pace_too_fast">Pace quá nhanh</string>
+    <string name="remind_pace_current">Hiện tại</string>
+    <string name="remind_pace_target">Mục tiêu</string>
     <string name="remind_pace_pace_unit">/km</string>
-    <string name="remind_target_time_title_format">Target at %1$dh %2$dm</string>
+    <string name="remind_target_time_title_format">Mục tiêu %1$dh %2$dm</string>
     <string name="remind_target_time_distance">Distance</string>
     <string name="remind_target_time_distance_unit">km</string>
     <string name="remind_target_time_pace">Pace</string>
@@ -1029,7 +1029,7 @@ tập thể dục đạt hiệu quả cao!\"</string>
     <string name="setting_sport_remind_region">Alert zone</string>
     <string name="setting_sport_heart_region_remind">HR zone alert</string>
     <string name="setting_sport_heart_region_remind_title">Heart rate zones</string>
-    <string name="setting_sport_heart_region_fat_burning">Fat burning zone</string>
+    <string name="setting_sport_heart_region_fat_burning">Vùng đốt chất béo</string>
     <string name="setting_sport_heart_region_aerobic">Aerobic zone</string>
     <string name="setting_sport_heart_region_high＿intensity_exercise">Intensive exercise</string>
     <string name="setting_sport_heart_region_custom">Custom zone</string>
