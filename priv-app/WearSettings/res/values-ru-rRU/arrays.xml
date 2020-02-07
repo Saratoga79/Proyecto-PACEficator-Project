@@ -22,18 +22,18 @@
         <item>[clazz]com.huami.watch.wearlogger.AllLogActivityLab</item>
     </string-array>
     <string-array name="lab_item_selftest">
-        <item>[prim]selftest</item>
-        <item>[sum]start selftest by yourself</item>
+        <item>[prim]Тест</item>
+        <item>[sum]Начать тест</item>
         <item>[action]com.huami.watch.selftest.START</item>
     </string-array>
     <string-array name="lab_item_open_applist">
-        <item>[prim]Launcher Applist</item>
+        <item>[prim]Список приложений</item>
         <item>[sum]Открыть или закрыть список приложений</item>
         <item>[sid]applist</item>
     </string-array>
     <string-array name="lab_item_bt_hci_snoop_log">
-        <item>[prim]BT HCI snoop log</item>
-        <item>[sum]Capture Bluetooth HCI log</item>
+        <item>[prim]Захват протокола BT HCI</item>
+        <item>[sum]Захват журнала Bluetooth HCI</item>
         <item>[sid]btsnoop</item>
     </string-array>
     <string-array name="lab_item_power_test">
@@ -48,23 +48,23 @@
         <item>[clazz]com.huami.moblie.watchsettings.actions.lab.labUI.LongSittingTimeActivity</item>
     </string-array>
     <string-array name="lab_item_wifi_signal_intensity">
-        <item>[prim]Signal strength</item>
-        <item>[sum]Signal strength test</item>
+        <item>[prim]Уровень сигнала</item>
+        <item>[sum]Тест уровня сигнала</item>
         <item>[pkg]com.huami.mobile.watchsettings</item>
         <item>[clazz]com.huami.moblie.watchsettings.actions.lab.labUI.WifiTestActivity</item>
     </string-array>
     <string-array name="lab_item_pointer_location">
-        <item>[prim]pointer location</item>
-        <item>[sum]open/close pointer</item>
+        <item>[prim]положение указателя</item>
+        <item>[sum]откр./закрыть указатель</item>
         <item>[sid]pointer_location</item>
     </string-array>
     <string-array name="lab_item_open_show_model">
-        <item>[prim]Demo Mode</item>
+        <item>[prim]Демонстрация</item>
         <item>[sum]on/off</item>
         <item>[sid]show_model</item>
     </string-array>
     <string-array name="lab_item_update_mcu_resource">
-        <item>[prim]Update MCU Resources</item>
+        <item>[prim]Обновить ресурсы MCU</item>
         <item>[sum]Нажмите, для обновления</item>
         <item>[sid]update_mcu</item>
     </string-array>
