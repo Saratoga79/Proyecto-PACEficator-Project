@@ -209,7 +209,7 @@ začnite teraz."</string>
     <string name="sport_main_percent">%</string>
     <string name="unit_cadence">ot/min</string>
     <string name="sport_main_heart_info_title">Tepová frekvencia</string>
-    <string name="sport_main_beyond_heart_info_title">Okrem srdcovej frekvencie</string>
+    <string name="sport_main_beyond_heart_info_title">Mimo tepovú frekvenciu</string>
     <string name="sport_main_pace_info_title">Tempo</string>
     <string name="heartrate_x_axis_time_format">HH:mm:ss</string>
     <string name="lap_title">Okruh %1$d</string>
@@ -247,7 +247,7 @@ začnite teraz."</string>
     <string name="sport_auto_lap_dis_imperial">Čas pre %1$s mi</string>
     <string name="sport_graph_title_ave">Priemer</string>
     <string name="sport_graph_title_max">Max</string>
-    <string name="sport_graph_title_min">Minút</string>
+    <string name="sport_graph_title_min">Min</string>
     <string name="sport_graph_title_fast">Najrýchlejší</string>
     <string name="sport_graph_title_high">Najvyšší</string>
     <string name="sport_graph_title_low">Najnižší</string>
@@ -262,7 +262,7 @@ začnite teraz."</string>
     <string name="hill_default_percent">%1$d%%</string>
     <string name="sport_result_in_progress">Ukladanie dát…</string>
     <string name="sport_result_invalid">Zastavovanie aktivity…</string>
-    <string name="sport_gps_found_success_tips">GPS available</string>
+    <string name="sport_gps_found_success_tips">GPS dostupné</string>
     <string name="sport_history_recovery">Obnoviť</string>
     <string name="sport_remind_pace_unit">/KM</string>
     <string name="sport_lap_manual_current">Aktuální</string>
@@ -292,11 +292,11 @@ začnite teraz."</string>
     <string name="export_route_trail">Export</string>
     <string name="sport_dlg_msg_hint_cancel">"Zrušiť tento export?
 "</string>
-    <string name="exchange_prepare_riding">Next: Cycling</string>
+    <string name="exchange_prepare_riding">Ďalšie: Cyklistika</string>
     <string name="exchange_prepare_running">Ďalšie: Run</string>
     <string name="count_down_swim_tint">Aby sa zabránilo náhodnému dotyku, obrazovka bude uzamknutá.</string>
-    <string name="sport_widget_title_history_record">Activities</string>
-    <string name="sport_widget_title_elliptical">Eliptická</string>
+    <string name="sport_widget_title_history_record">Aktivity</string>
+    <string name="sport_widget_title_elliptical">Elipt. trenažér</string>
     <string name="sport_widget_title_rowing_machine">Veslár</string>
     <string name="sport_widget_title_rowing_machineing">Veslovanie</string>
     <string name="sport_widget_title_indoor_swim">Bazénové plávanie</string>
@@ -314,7 +314,7 @@ začnite teraz."</string>
     <string name="sport_child_swim">Plávanie</string>
     <string name="sport_child_riding">Cyklistika</string>
     <string name="sport_child_running">Beh</string>
-    <string name="sport_month_settings">Nastavenia</string>
+    <string name="sport_month_settings">Nastavenie</string>
     <string name="sport_month_target">Mesačný cieľ aktivity</string>
     <string name="sport_month_sport_title">Vybrať aktivitu</string>
     <string name="start_mix_sport">Začať multisport aktivitu</string>
@@ -344,8 +344,8 @@ začnite teraz."</string>
     <string name="heart_region_anaerobic＿limit">Anaeróbni limit</string>
     <string name="heart_region_endurance_enhancement">Anaeróbne</string>
     <string name="heart_region_heart_and_lung_enhancement">Aeróbne</string>
-    <string name="heart_region_fat_burning">Fat Burning</string>
-    <string name="heart_region_warm_up_and_relax">Warm Up</string>
+    <string name="heart_region_fat_burning">Spaľovanie tukov</string>
+    <string name="heart_region_warm_up_and_relax">Zahriatie</string>
     <string name="sport_te_title">Tréningový efekt (TE)</string>
     <string name="sport_te_desc"><Data>"Tento trénig je &lt;font color=#FFFF00&gt;mierny&lt;/font&gt;, ktorý udržuje kardiorespiračné fitness."</Data></string>
     <string name="last_kilo_meters_times">Čas na posledný km</string>
@@ -457,7 +457,7 @@ začnite teraz."</string>
     <string name="oritation_sourth">J</string>
     <string name="oritation_west">Z</string>
     <string name="oritation_north">S</string>
-    <string name="back_to_continue_sport">Back</string>
+    <string name="back_to_continue_sport">Späť</string>
     <string name="lap_swim_stroke_speed_title">Stroke rate</string>
     <string name="first_modify_tips">To calibrate the distance result of a running session (must be longer than 0.5 km) helps the watch to generate a more accurate distance result.</string>
     <string name="modify_big_dis_tips">The calibrated value %1$s is significantly different from the measured value %2$s, calibrate anyway?</string>
@@ -922,9 +922,9 @@ to reach full recovery."</string>
     <string name="settings_item_value_pace">Notify when slower than %1$s</string>
     <string name="title_medal_list_header">Achievements</string>
     <string name="time_picker_hour">hod.</string>
-    <string name="time_picker_minute"> m</string>
+    <string name="time_picker_minute"> m</string>
     <string name="distance_picker_km">KM</string>
-    <string name="sport_notification_view_detail">Open app</string>
+    <string name="sport_notification_view_detail">Otvoriť aplikáciu</string>
     <string name="sport_notification_stop">End the exercise</string>
     <string name="sport_notification_title">Sports</string>
     <string name="sport_notification_content">%s km</string>
@@ -948,10 +948,10 @@ to reach full recovery."</string>
     <string name="sport_saving_record">Saving record…</string>
     <string name="running_button_stop">Zastaviť</string>
     <string name="running_button_pause">Pozastaviť</string>
-    <string name="running_button_continue">Resume</string>
+    <string name="running_button_continue">Pokračovať</string>
     <string name="running_button_save">Uložiť</string>
-    <string name="running_achivement">Achievements</string>
-    <string name="running_record">Records</string>
+    <string name="running_achivement">Úspechy</string>
+    <string name="running_record">Záznamy</string>
     <string name="running_setting">Settings</string>
     <string name="running_end_sport">Stop activity first</string>
     <string name="walking_end_sport">Stop activity first</string>
@@ -1033,7 +1033,7 @@ to reach full recovery."</string>
     <string name="setting_sport_heart_region_aerobic">Aerobic zone</string>
     <string name="setting_sport_heart_region_high＿intensity_exercise">Intensive exercise</string>
     <string name="setting_sport_heart_region_custom">Custom zone</string>
-    <string name="setting_sport_heart_region_text_fat_burning">Fat burning</string>
+    <string name="setting_sport_heart_region_text_fat_burning">Spaľovanie tukov</string>
     <string name="setting_sport_heart_region_text_aerobic">Aerobic</string>
     <string name="setting_sport_heart_region_text_high＿intensity_exercise">Intensive exercise</string>
     <string name="setting_sport_heart_region_text_custom">Vlastné</string>
@@ -1049,11 +1049,11 @@ to reach full recovery."</string>
     <string name="sport_type_indoor">Indoor</string>
     <string name="sport_type_snow">Snow</string>
     <string name="sport_type_outdoor">Outdoor</string>
-    <string name="sport_type_swim">Swimming</string>
-    <string name="sport_type_dance">Dancing</string>
-    <string name="sport_type_bar">Ball</string>
-    <string name="sport_type_other">Other</string>
-    <string name="sport_type_boxing">Boxing</string>
+    <string name="sport_type_swim">Plávanie</string>
+    <string name="sport_type_dance">Tanec</string>
+    <string name="sport_type_bar">Lopta</string>
+    <string name="sport_type_other">Ostatné</string>
+    <string name="sport_type_boxing">Box</string>
     <string name="sport_add_title">More activities</string>
     <string name="sport_list_hide_title">Common sports</string>
     <string name="gps_interval_five_second_alert_msg">The GPS interval of 5 seconds will slightly extend the duration of the motion recording, but it will reduce the accuracy of data recording, and the automatic pause will not be available at the same time.</string>
@@ -1111,8 +1111,8 @@ to reach full recovery."</string>
     <string name="hint_rolling">Exporting…</string>
     <string name="dlg_msg_hint_cancel">Cancel exporting file?</string>
     <string name="dlg_btn_l_msg">Nie</string>
-    <string name="dlg_btn_r_msg">to je</string>
-    <string name="hint_cancelling">Canceling…</string>
+    <string name="dlg_btn_r_msg">Áno</string>
+    <string name="hint_cancelling">Rušenie…</string>
     <string name="hint_success_exported_title">"Exported GPX file
 successfully"</string>
     <string name="hint_failed_exported_title">"Couldn't export"</string>
@@ -1147,7 +1147,7 @@ Pre stiahnutie pripojte hodinky k počítaču"</string>
     <string name="indoor_walking">Halová chôdze</string>
     <string name="mountain_biking">Horský bicykel</string>
     <string name="cycling_bmx">BMX</string>
-    <string name="high_intensity_interval_training">High-intensity interval training</string>
+    <string name="high_intensity_interval_training">Tréning s vysokou intenzitou</string>
     <string name="core_training">Základný tréning</string>
     <string name="mixed_aerobic">Zmiešaný aerobik</string>
     <string name="strength_training">Silový trénink</string>
@@ -1178,7 +1178,7 @@ Pre stiahnutie pripojte hodinky k počítaču"</string>
     <string name="ballet">Balet</string>
     <string name="belly_dance">Brušný tanec</string>
     <string name="square_dance">Štvorcový tanec</string>
-    <string name="hip_hop">Hip-hop</string>
+    <string name="hip_hop">Pouličný tanec</string>
     <string name="social_dance">Spoločenský tanec</string>
     <string name="dance">Tanec</string>
     <string name="zun_ba">Zumba</string>
@@ -1197,7 +1197,7 @@ Pre stiahnutie pripojte hodinky k počítaču"</string>
     <string name="handball">Hádzaná</string>
     <string name="badminton">Bedminton</string>
     <string name="archery">Lukostreľba</string>
-    <string name="equestrian_sport">Equestrian</string>
+    <string name="equestrian_sport">Jazdectvo</string>
     <string name="swordplay">Šerm</string>
     <string name="karate">Karate</string>
     <string name="boxing">Box</string>
@@ -1207,7 +1207,7 @@ Pre stiahnutie pripojte hodinky k počítaču"</string>
     <string name="thai_boxing">Muay Thai</string>
     <string name="taekwondo">Taekwondo</string>
     <string name="a_martial_art">Bojové umenia</string>
-    <string name="free_fight">Free sparring</string>
+    <string name="free_fight">Kickbox</string>
     <string name="double_ski">Snowboard</string>
     <string name="sport_total_time">Celkový čas</string>
     <string name="speed">Rýchlosť</string>
@@ -1235,8 +1235,8 @@ Pre stiahnutie pripojte hodinky k počítaču"</string>
     <string name="gps_close_1">Žiadny pohyb dlhšiu dobu</string>
     <string name="gps_close_2">GPS bolo vypnuté.</string>
     <string name="heartrate">Tepová frekvencia</string>
-    <string name="warmup">Warm Up</string>
-    <string name="fatburn">Fat Burning</string>
+    <string name="warmup">Zahriatie</string>
+    <string name="fatburn">Spaľovanie tukov</string>
     <string name="heartlung">Aerobic</string>
     <string name="strength">Anaerobic</string>
     <string name="anaerobic">Anaerobic limit</string>
@@ -1253,7 +1253,7 @@ Pre stiahnutie pripojte hodinky k počítaču"</string>
     <string name="kilometre">KM</string>
     <string name="km_per_hour">km/h</string>
     <string name="bpm">BPM</string>
-    <string name="times_per_minute">BPM</string>
+    <string name="times_per_minute">skokov/min</string>
     <string name="per_km">/KM</string>
     <string name="per_100m">/100 m</string>
     <string name="per_100Yard">/100 yd</string>
