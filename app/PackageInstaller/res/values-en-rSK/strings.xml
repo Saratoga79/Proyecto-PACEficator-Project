@@ -61,14 +61,14 @@ Všetky predchádzajúce používateľské údaje budú uložené."</string>
     <string name="uninstall_failed_device_policy_manager">"Can't uninstall because this package is an active device administrator."</string>
     <string name="uninstall_blocked_profile_owner">"This app is needed for your %1$s profile and can't be uninstalled."</string>
     <string name="uninstall_blocked_device_owner">"This app is required by your device administrator and can't be uninstalled."</string>
-    <string name="manage_device_administrators">Manage device administrators</string>
+    <string name="manage_device_administrators">Správa správcov zariadenia</string>
     <string name="uninstall_failed_msg">"%1$s couldn't be uninstalled."</string>
-    <string name="Parse_error_dlg_title">Parse error</string>
-    <string name="Parse_error_dlg_text">There was a problem parsing the package.</string>
+    <string name="Parse_error_dlg_title">Syntaktická chyba</string>
+    <string name="Parse_error_dlg_text">Pri analýze balíčka sa vyskytla chyba.</string>
     <string name="newPerms">Nové</string>
     <string name="allPerms">Všetko</string>
     <string name="privacyPerms">Súkromie</string>
     <string name="devicePerms">Device Access</string>
-    <string name="no_new_perms">This update requires no new permissions.</string>
+    <string name="no_new_perms">Táto aplikácia nevyžaduje žiadne nové oprávnenia.</string>
     <string name="grant_confirm_question">Do you want to grant the following permissions? It will get access to:</string>
 </resources>
