@@ -3,12 +3,12 @@
 <resources>
     <string name="app_name">otawatch</string>
     <string name="action_settings">Nastavenia</string>
-    <string name="watch_ota">Watch updates</string>
-    <string name="wifi_disconnect">Connect to the Amazfit app to check for updates</string>
+    <string name="watch_ota">Aktualizácie hodiniek</string>
+    <string name="wifi_disconnect">Pre kontrolu aktualizácií sa pripojte k aplikácii Amazfit</string>
     <string name="connect_phone_wifi">"Check your phone's network connection to check for updates"</string>
     <string name="connect_phone_input_wifi">Connect to the Amazfit app to enter Wi-Fi password for the watch</string>
     <string name="wifi_add_item">Connect to the Amazfit app to add a new Wi-Fi hotspot</string>
-    <string name="add_wifi">Add Wi-Fi</string>
+    <string name="add_wifi">Pridať Wi-Fi</string>
     <string name="please_update_rom">"An update is available.
 Update now."</string>
     <string name="checking_rom">Checking for updates…</string>
@@ -21,7 +21,7 @@ Update to version %1$s?"</string>
 Firmware on this watch is old. Updating may take a while."</string>
     <string name="input_passwor_on_mobile">"Enter Wi-Fi password
 in the Amazfit app"</string>
-    <string name="processbar_downloading_rom">Downloading…</string>
+    <string name="processbar_downloading_rom">Sťahovanie…</string>
     <string name="please_keep_wifi_connect">"Neodpájajte sa od Wi-Fi"</string>
     <string name="processbar_downloading_tips">%</string>
     <string name="processbar_downloading_default">0</string>
@@ -31,8 +31,8 @@ Try again."</string>
 Install now."</string>
     <string name="low_battery_message">"Downloaded updates successfully.
 Battery must be at least %1$s%% charged to install updates."</string>
-    <string name="low_battery_title">Connect charger</string>
-    <string name="progressbar_tips">Checking…</string>
+    <string name="low_battery_title">Pripojiť nabíjačku</string>
+    <string name="progressbar_tips">Kontrola…</string>
     <string name="progressbar_percent">%1$d%%</string>
     <string name="low_mem">"Not enough storage space for an update.
 Free up %1$sMB to update."</string>
@@ -42,15 +42,15 @@ Try again later."</string>
 updates?"</string>
     <string name="new_rom_please_install">"An update is available.
 Update now."</string>
-    <string name="btn_install_later">Remind later</string>
-    <string name="btn_install_now">Install now</string>
-    <string name="btn_upgrade_now">Update now</string>
-    <string name="wifi_no_password">Not encrypted</string>
-    <string name="wifi_has_password">Encrypted</string>
-    <string name="wifi_password_error">Password is incorrect</string>
-    <string name="wifi_connecting">Connecting…</string>
-    <string name="wifi_auth">Verifying password…</string>
-    <string name="wifi_get_ip">Obtaining IP address…</string>
+    <string name="btn_install_later">Pripomenúť neskôr</string>
+    <string name="btn_install_now">Inštalovať teraz</string>
+    <string name="btn_upgrade_now">Aktualizovať teraz</string>
+    <string name="wifi_no_password">Nešifrované</string>
+    <string name="wifi_has_password">Šifrované</string>
+    <string name="wifi_password_error">Heslo je nesprávne</string>
+    <string name="wifi_connecting">Pripájanie…</string>
+    <string name="wifi_auth">Overovanie hesla…</string>
+    <string name="wifi_get_ip">Načítanie IP adresy…</string>
     <string name="wifi_link_fail">"Couldn't connect"</string>
     <string name="wifi_connected">Pripojené k</string>
     <string name="wifi_title">Choose a network</string>
@@ -69,7 +69,7 @@ Try another one."</string>
     <string name="hasNewUpdateInstallContent">Version %1$s is ready to install. Install now?</string>
     <string name="hasNewUpdateCheckContent">Version %1$s is available. Update now?</string>
     <string name="update_title">Select update method</string>
-    <string name="update_online">OTA update</string>
+    <string name="update_online">OTA aktualizácie</string>
     <string name="update_local">Local ZIP file</string>
     <string name="local_update_confirm_1_title">Attention</string>
     <string name="local_update_invalid_zip">Update to the latest version of the app</string>

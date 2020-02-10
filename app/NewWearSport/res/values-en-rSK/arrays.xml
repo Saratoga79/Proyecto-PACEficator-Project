@@ -28,8 +28,8 @@
         <item>sport_target_remind_desc_01</item>
     </string-array>
     <string-array name="support_sport">
-        <item>RUNNING</item>
-        <item>WALKING</item>
+        <item>BEH</item>
+        <item>CHÔDZA</item>
         <item>CROSSING</item>
         <item>INDOOR_RUN</item>
         <item>OUTDOOR_RIDING</item>
@@ -38,13 +38,13 @@
     </string-array>
     <string-array name="dally_performence_level_status">
         <item>Fatigued</item>
-        <item>Normal</item>
-        <item>Good</item>
+        <item>Normálna</item>
+        <item>Dobrý</item>
     </string-array>
     <string-array name="vo2_max_level_status">
-        <item>Very poor</item>
-        <item>Poor</item>
-        <item>Fair</item>
+        <item>Veľmi zlé</item>
+        <item>Zlé</item>
+        <item>Fér</item>
         <item>Average</item>
         <item>Good</item>
         <item>Veľmi dobrý</item>
@@ -60,35 +60,35 @@
         <item></item>
         <item>Čas</item>
         <item>Vzdialenosť</item>
-        <item>Pace</item>
-        <item>Avg pace</item>
-        <item>Heart rate</item>
-        <item>Calories</item>
-        <item>Altitude</item>
-        <item>Elev gain</item>
-        <item>Elev loss</item>
-        <item>Speed</item>
-        <item>Avg speed</item>
+        <item>Tempo</item>
+        <item>Priem. tempo</item>
+        <item>Tepová frekvencia</item>
+        <item>Kalórie</item>
+        <item>Nadmorská výška</item>
+        <item>Nastúpané</item>
+        <item>Pokles</item>
+        <item>Rýchlosť</item>
+        <item>Priem. rýchlosť</item>
         <item>Kadencia</item>
-        <item>Dist gain</item>
-        <item>Steps</item>
+        <item>Dos. vzdialenosť</item>
+        <item>Kroky</item>
         <item>Kadencia</item>
         <item>Kolá</item>
         <item>DPS</item>
-        <item>Stroke rate</item>
-        <item>Avg SPM</item>
-        <item>Pace</item>
-        <item>Avg pace</item>
+        <item>Frekvencia úderov</item>
+        <item>Priem. SPM</item>
+        <item>Tempo</item>
+        <item>Priem. tempo</item>
         <item>Vzdialenosť</item>
         <item>TE</item>
-        <item>Vert speed</item>
-        <item>Avg speed</item>
-        <item>Max speed</item>
+        <item>Vertikálne rýchlosť</item>
+        <item>Priem. rýchlosť</item>
+        <item>Max. rýchlosť</item>
         <item>Kolá</item>
-        <item>Downhill</item>
-        <item>Total downhill</item>
-        <item>Descent</item>
-        <item>Strokes</item>
+        <item>Zjazd</item>
+        <item>Celkové klesanie</item>
+        <item>Klesanie</item>
+        <item>Údery</item>
         <item>Lap time</item>
         <item>Lap pace</item>
         <item>Lap speed</item>
@@ -96,9 +96,9 @@
         <item>Lap cadence</item>
         <item>Lap pace</item>
         <item>Aktuálna frekv.</item>
-        <item>Total count</item>
-        <item>Avg freq</item>
-        <item>Groups</item>
+        <item>Celkový počet</item>
+        <item>Priem. frekv</item>
+        <item>Skupiny</item>
         <item>Lap count</item>
         <item>Lap time</item>
         <item>Lap freq</item>
@@ -108,24 +108,24 @@
         <item>Speed for this lap</item>
         <item>Heart rate in this lap</item>
         <item>Lap freq.</item>
-        <item>slope</item>
-        <item>Calories</item>
-        <item>Avg. HR</item>
-        <item>Paddles of this set</item>
+        <item>Sklon</item>
+        <item>Kalórie</item>
+        <item>Priem. TF</item>
+        <item>Zábery tejto sady</item>
         <item>Frekvencia</item>
-        <item>Total paddles</item>
-        <item>Paddle frequency</item>
-        <item>Pulling duration</item>
-        <item>Pushing duration</item>
-        <item>Avg. Freq.</item>
+        <item>Celkom záberov</item>
+        <item>Frekvencia záberov</item>
+        <item>Doba trvania ťahanie</item>
+        <item>Doba trvania tlačenie</item>
+        <item>Priem. frekv.</item>
     </string-array>
     <string-array name="sport_train_item">
-        <item>Remaining distance</item>
+        <item>Zostávajúca vzdialenosť</item>
         <item>Celková vzdialenosť</item>
-        <item>Total time</item>
-        <item>Remaining time</item>
+        <item>Celkový čas</item>
+        <item>Zostávajúci čas</item>
         <item>Vzdialenosť</item>
         <item>Zostáva</item>
-        <item>Has rested</item>
+        <item>Odpočinok</item>
     </string-array>
 </resources>
