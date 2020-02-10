@@ -3,7 +3,7 @@
 <resources>
     <plurals name="Nhours_description">
         <item quantity="other">%d hodín</item>
-        <item quantity="one">1 hod.</item>
+        <item quantity="one">1 hodina</item>
         <item quantity="few">%d hodiny</item>
         <item quantity="many">%d hodín</item>
     </plurals>
@@ -14,10 +14,10 @@
         <item quantity="many">%d minút</item>
     </plurals>
     <plurals name="Nseconds_description">
-        <item quantity="other">%d seconds</item>
+        <item quantity="other">%d sekúnd</item>
         <item quantity="one">1 sekunda</item>
-        <item quantity="few">%d seconds</item>
-        <item quantity="many">%d seconds</item>
+        <item quantity="few">%d sekundy</item>
+        <item quantity="many">%d sekúnd</item>
     </plurals>
     <plurals name="alarm_alert_snooze_set">
         <item quantity="other">Odložený o %d minút.</item>
