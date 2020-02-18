@@ -49,7 +49,7 @@ Wszystkie wcześniejsze dane zostaną zapisane."</string>
     <string name="app_not_found_dlg_text">" Aplikacja nie została odnaleziona na liście zainstalowanych aplikacji."</string>
     <string name="uninstall_application_title">Odinstaluj aplikację</string>
     <string name="uninstall_update_title">Odinstaluj aktualizację</string>
-    <string name="uninstall_activity_text">% 1 $ s jest częścią następującej aplikacji:</string>
+    <string name="uninstall_activity_text">%1$s jest częścią następującej aplikacji:</string>
     <string name="uninstall_application_text">Czy chcesz odinstalować tę aplikację?</string>
     <string name="uninstall_application_text_all_users">Czy chcesz odinstalować tę aplikację dla <b> wszystkich użytkowników </b>? Aplikacja i jej dane zostaną usunięte z <b> wszystkich </b> użytkowników urządzenia.</string>
     <string name="uninstall_application_text_user">Czy chcesz odinstalować tę aplikację dla użytkownika %1$s?</string>
@@ -58,7 +58,7 @@ Wszystkie wcześniejsze dane zostaną zapisane."</string>
     <string name="uninstall_done">Odinstalowywanie zakończone</string>
     <string name="uninstall_failed">Odinstalowanie nie powiodło się.</string>
     <string name="uninstall_failed_device_policy_manager">"Nie można odinstalować, ponieważ ten pakiet jest aktywnym administratorem urządzenia."</string>
-    <string name="uninstall_blocked_profile_owner">"Ta aplikacja jest potrzebna do Twojego profilu% 1 $ s i nie można jej odinstalować."</string>
+    <string name="uninstall_blocked_profile_owner">"Ta aplikacja jest potrzebna do Twojego profilu %1$s i nie można jej odinstalować."</string>
     <string name="uninstall_blocked_device_owner">"This app is required by your device administrator and can't be uninstalled."</string>
     <string name="manage_device_administrators">Manage device administrators</string>
     <string name="uninstall_failed_msg">"%1$s couldn't be uninstalled."</string>
