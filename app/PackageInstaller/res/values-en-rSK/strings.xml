@@ -21,16 +21,16 @@
     <string name="install_failed_older_sdk">Balíček funguje iba na novších verziách Android.</string>
     <string name="install_failed_cpu_abi_incompatible">"Táto aplikácia nie je kompatibilná s vaším tabletom."</string>
     <string name="install_failed_file_not_found">Vybraný balíček bol zmazaný pred dokončením inštalácie.</string>
-    <string name="install_failed_verify_failed">Vybraný balíček bol zmazaný pred dokončením inštalácie.</string>
-    <string name="install_failed_verify_timeout">A timeout occurred while trying to verify this package. Try to install it again later.</string>
-    <string name="install_failed_msg">"%1$s couldn't be installed on your tablet."</string>
+    <string name="install_failed_verify_failed">Balíček neprešiel overením a nemôže byť nainštalovaný.</string>
+    <string name="install_failed_verify_timeout">Pri overovaní tohto balíka vypršal časový limit. Skúste ho nainštalovať znova neskôr.</string>
+    <string name="install_failed_msg">"%1$s nedá nainštalovať do vášho tabletu."</string>
     <string name="launch">Otvoriť</string>
-    <string name="unknown_apps_dlg_title">Install blocked</string>
-    <string name="unknown_apps_dlg_text">For security, your tablet is set to block installation of apps obtained from unknown sources.</string>
-    <string name="unknown_apps_admin_dlg_text">"Your administrator doesn't allow installation of apps obtained from unknown sources."</string>
+    <string name="unknown_apps_dlg_title">Inštalácia zablokovaná</string>
+    <string name="unknown_apps_dlg_text">Tablet je z dôvodu zabezpečenia nastavený tak, aby blokoval inštalácie aplikácií z neznámych zdrojov.</string>
+    <string name="unknown_apps_admin_dlg_text">"Váš administrátor nedovoľuje inštaláciu aplikácií z neznámych zdrojov."</string>
     <string name="ok">OK</string>
     <string name="settings">Nastavenia</string>
-    <string name="allow_source_dlg_title">New source for apps</string>
+    <string name="allow_source_dlg_title">Nový zdroj pre aplikácie</string>
     <string name="allow_source_dlg_text">"%1$s chce inštalovať ďalšie aplikácie.
 
 Povoliť teraz aj pre budúcnosť?"</string>
@@ -43,31 +43,31 @@ Všetky predchádzajúce používateľské údaje budú uložené."</string>
 
 Všetky predchádzajúce používateľské údaje budú uložené."</string>
     <string name="out_of_space_dlg_title">Nedostatok miesta</string>
-    <string name="out_of_space_dlg_text">"%1$s couldn't be installed. Free up some space and try again."</string>
+    <string name="out_of_space_dlg_text">"%1$s nedá nainštalovať. Uvoľnite miesto a skúste to znova."</string>
     <string name="dlg_ok">OK</string>
     <string name="app_not_found_dlg_title">Aplikácia nebola nájdená</string>
-    <string name="app_not_found_dlg_text">"The app wasn't found in the list of installed apps."</string>
+    <string name="app_not_found_dlg_text">"Aplikáciu sa nepodarilo nájsť v zozname nainštalovaných aplikácií."</string>
     <string name="uninstall_application_title">Odinštalovať aplikáciu</string>
     <string name="uninstall_update_title">Odinštalovať aktualizáciu</string>
-    <string name="uninstall_activity_text">%1$s is part of the following app:</string>
-    <string name="uninstall_application_text">Do you want to uninstall this app?</string>
-    <string name="uninstall_application_text_all_users">Do you want to uninstall this app for <b>all</b> users? The application and its data will be removed from <b>all</b> users on the device.</string>
-    <string name="uninstall_application_text_user">Do you want to uninstall this app for the user %1$s?</string>
-    <string name="uninstall_update_text">Do you want to replace this app with the factory version?</string>
-    <string name="uninstalling">Uninstalling…</string>
-    <string name="uninstall_done">Uninstall finished.</string>
-    <string name="uninstall_failed">Uninstall unsuccessful.</string>
-    <string name="uninstall_failed_device_policy_manager">"Can't uninstall because this package is an active device administrator."</string>
-    <string name="uninstall_blocked_profile_owner">"This app is needed for your %1$s profile and can't be uninstalled."</string>
-    <string name="uninstall_blocked_device_owner">"This app is required by your device administrator and can't be uninstalled."</string>
+    <string name="uninstall_activity_text">%1$s je súčasťou nasledujúce aplikácie:</string>
+    <string name="uninstall_application_text">Chcete túto aplikáciu odinštalovať?</string>
+    <string name="uninstall_application_text_all_users">Chcete túto aplikáciu odinštalovať \"<b>" všetkým "</b>\" používateľom? Aplikácia a jej údaje budú odstránené \"<b>" všetkým "</b>\" užívateľom tohto zariadenia.</string>
+    <string name="uninstall_application_text_user">Chcete odinštalovať túto aplikáciu pre užívateľov %1$s?</string>
+    <string name="uninstall_update_text">Chcete nahradiť túto aplikáciu továrenskou verziou?</string>
+    <string name="uninstalling">Prebieha odinštalovanie…</string>
+    <string name="uninstall_done">Odinštalovanie bolo dokončené.</string>
+    <string name="uninstall_failed">Odinštalovanie neúspešné.</string>
+    <string name="uninstall_failed_device_policy_manager">"Nemožno odinštalovať, pretože tento balík je aktívnym správcom zariadenia."</string>
+    <string name="uninstall_blocked_profile_owner">"Táto aplikácia je potrebná pre váš profil %1$s a nemožno ju odinštalovať."</string>
+    <string name="uninstall_blocked_device_owner">"Táto aplikácia je vyžadovaná administrátorom zariadenie a nemožno ju odinštalovať."</string>
     <string name="manage_device_administrators">Správa správcov zariadenia</string>
-    <string name="uninstall_failed_msg">"%1$s couldn't be uninstalled."</string>
+    <string name="uninstall_failed_msg">"%1$s nemožno odinštalovať."</string>
     <string name="Parse_error_dlg_title">Syntaktická chyba</string>
     <string name="Parse_error_dlg_text">Pri analýze balíčka sa vyskytla chyba.</string>
     <string name="newPerms">Nové</string>
     <string name="allPerms">Všetko</string>
     <string name="privacyPerms">Súkromie</string>
-    <string name="devicePerms">Device Access</string>
+    <string name="devicePerms">Prístup k zariadeniu</string>
     <string name="no_new_perms">Táto aplikácia nevyžaduje žiadne nové oprávnenia.</string>
-    <string name="grant_confirm_question">Do you want to grant the following permissions? It will get access to:</string>
+    <string name="grant_confirm_question">Chcete udeliť nasledujúce povolenia? Bude mať prístup:</string>
 </resources>
