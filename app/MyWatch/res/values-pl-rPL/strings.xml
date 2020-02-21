@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Mój Zegarek</string>
-    <string name="iterations_count">Iterations count</string>
+    <string name="iterations_count">Liczba iteracji</string>
     <string name="send">Wyślij</string>
-    <string name="file_not_found">File not found at </string>
+    <string name="file_not_found">nie znaleziono pliku: %s</string>
     <string name="connect">Połącz</string>
     <string name="disconnect">Rozłącz</string>
-    <string name="link_connected">Link connected</string>
-    <string name="link_disconnected">Link disconnected</string>
-    <string name="send_success">send success</string>
-    <string name="send_fail">send error</string>
-    <string name="recv_success">recv success</string>
-    <string name="recv_fail">recv error</string>
-    <string name="data_channel_available">Data channel is available</string>
-    <string name="data_channel_unavailable">Data channel is unavailable</string>
+    <string name="link_connected">Połączono</string>
+    <string name="link_disconnected">Niepołączono</string>
+    <string name="send_success">Wiadomość została wysłana</string>
+    <string name="send_fail">Błąd wysyłania</string>
+    <string name="recv_success">Wysyłanie powiodło się </string>
+    <string name="recv_fail">Błąd wysyłania</string>
+    <string name="data_channel_available">Kanał danych jest dostępny</string>
+    <string name="data_channel_unavailable">Kanał danych jest niedostępny</string>
     <string name="connect_again">Połącz ponownie</string>
-    <string name="consume_time">consume time</string>
+    <string name="consume_time">czas zużycia</string>
     <string name="clear_log">Wyczyść Logi</string>
     <string name="file_transfer">Transfer plików</string>
     <string name="file_name">Nazwa pliku</string>
@@ -27,7 +27,7 @@
     <string name="simplified_chinese">中文(简体)</string>
     <string name="english_usa">English(US)</string>
     <string name="low_battery">Bateria poniżej 5%, podłącz ładowarkę.</string>
-    <string name="scan_to_bind">扫码绑定</string>
+    <string name="scan_to_bind">Oprawa skanująca</string>
     <string name="function_unavailable_tip">Niektóre funkcje będą niedostępne. Pominąć?</string>
     <string name="cancel_bind">Anuluj</string>
     <string name="skip_bind">Pomiń</string>
@@ -48,8 +48,8 @@
     <string name="desc_time_period">%1$s(%2$s - %3$s)</string>
     <string name="delete_successful">Wydarzenie usunięte</string>
     <string name="delete_unsuccessful">Nie można usunąć wydarzenia</string>
-    <string name="left_phone_title">Forgetting something?</string>
-    <string name="left_phone_content">You may have left your phone behind.</string>
+    <string name="left_phone_title">Zapomniałeś czegoś?</string>
+    <string name="left_phone_content">Być może zostawiłeś swój telefon.</string>
     <string name="turn_alarm_on">Dotknij, aby włączyć alarm na telefonie.</string>
     <string name="turn_alarm_off">Dotknij, aby zatrzymać alarm.</string>
     <string name="permission_read_user_info">permission_read_user_info</string>
