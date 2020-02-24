@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spring_depend">
+        <item>com.huami.watch.weather/com.huami.watch.weather.WeatherWidgetView</item>
+    </string-array>
+    <string-array name="quick_settings_status_week">
+        <item>Ned</item>
+        <item>Pon</item>
+        <item>Uto</item>
+        <item>Sre</item>
+        <item>Čet</item>
+        <item>Pet</item>
+        <item>Sub</item>
+        <item>Danas</item>
+    </string-array>
+    <string-array name="weather_card_aqilevel">
+        <item>Odlično</item>
+        <item>Fino</item>
+        <item>Blago zagađeno</item>
+        <item>Umereno zagađeno</item>
+        <item>Teško zagađeno</item>
+        <item>Veoma zagađeno</item>
+        <item></item>
+    </string-array>
+    <string-array name="weather_card_quality">
+        <item>Pogodno za sport</item>
+        <item>Nije pogodno za sport</item>
+        <item></item>
+    </string-array>
+    <string-array name="quick_settings_status_weather">
+        <item>Vedro</item>
+        <item>Oblačno</item>
+        <item>Tmurno</item>
+        <item>Magla</item>
+        <item>Izmaglica</item>
+        <item>Pljuskovi</item>
+        <item>Grmljavina</item>
+        <item>Blaga kiša</item>
+        <item>Umerena kiša</item>
+        <item>Jaka kiša</item>
+        <item>Kišna oluja</item>
+        <item>Jaka oluja</item>
+        <item>Mešavina kiše i snega</item>
+        <item>Ledena kiša</item>
+        <item>Grad</item>
+        <item>Slab sneg</item>
+        <item>Umeren sneg</item>
+        <item>Gust sneg</item>
+        <item>Mećava</item>
+        <item>Sneg</item>
+        <item>Prašina</item>
+        <item>Peščana oluja</item>
+        <item>Peščana oluja</item>
+        <item>Jaka peščana oluja</item>
+        <item>Nema podataka</item>
+    </string-array>
+</resources>
