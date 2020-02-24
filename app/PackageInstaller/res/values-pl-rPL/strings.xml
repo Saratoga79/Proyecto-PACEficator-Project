@@ -59,15 +59,15 @@ Wszystkie wcześniejsze dane zostaną zapisane."</string>
     <string name="uninstall_failed">Odinstalowanie nie powiodło się.</string>
     <string name="uninstall_failed_device_policy_manager">"Nie można odinstalować, ponieważ ten pakiet jest aktywnym administratorem urządzenia."</string>
     <string name="uninstall_blocked_profile_owner">"Ta aplikacja jest potrzebna do Twojego profilu %1$s i nie można jej odinstalować."</string>
-    <string name="uninstall_blocked_device_owner">"This app is required by your device administrator and can't be uninstalled."</string>
-    <string name="manage_device_administrators">Manage device administrators</string>
-    <string name="uninstall_failed_msg">"%1$s couldn't be uninstalled."</string>
-    <string name="Parse_error_dlg_title">Parse error</string>
-    <string name="Parse_error_dlg_text">There was a problem parsing the package.</string>
-    <string name="newPerms">New</string>
-    <string name="allPerms">All</string>
-    <string name="privacyPerms">Privacy</string>
-    <string name="devicePerms">Device Access</string>
-    <string name="no_new_perms">This update requires no new permissions.</string>
+    <string name="uninstall_blocked_device_owner">"Ta aplikacja jest wymagana przez administratora urządzenia i nie może być odinstalowana."</string>
+    <string name="manage_device_administrators">Zarządzanie administratorami urządzenia</string>
+    <string name="uninstall_failed_msg">"%1$s nie może zostać odinstalowana."</string>
+    <string name="Parse_error_dlg_title">Błąd przetwarzania</string>
+    <string name="Parse_error_dlg_text">Wystąpił problem podczas przetwarzania pakietu.</string>
+    <string name="newPerms">Nowe</string>
+    <string name="allPerms">Wszystkie</string>
+    <string name="privacyPerms">Prywatność</string>
+    <string name="devicePerms">Dostęp do urządzenia</string>
+    <string name="no_new_perms">Ta aktualizacja nie wymaga nowych uprawnień.</string>
     <string name="grant_confirm_question">Czy chcesz przyznać następujące uprawnienia? Otrzyma dostęp do:</string>
 </resources>
