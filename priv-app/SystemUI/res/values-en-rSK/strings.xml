@@ -84,8 +84,8 @@ Používajte iba dodávanú nabíjačku."</string>
     <string name="accessibility_battery_one_bar">Battery one bar.</string>
     <string name="accessibility_battery_two_bars">Battery two bars.</string>
     <string name="accessibility_battery_three_bars">Battery three bars.</string>
-    <string name="accessibility_battery_full">Battery full.</string>
-    <string name="accessibility_no_phone">No phone.</string>
+    <string name="accessibility_battery_full">Batéria je plne nabitá.</string>
+    <string name="accessibility_no_phone">Žiadny telefón.</string>
     <string name="accessibility_phone_one_bar">Phone one bar.</string>
     <string name="accessibility_phone_two_bars">Phone two bars.</string>
     <string name="accessibility_phone_three_bars">Phone three bars.</string>
@@ -108,7 +108,7 @@ Používajte iba dodávanú nabíjačku."</string>
     <string name="accessibility_wimax_two_bars">WiMAX two bars.</string>
     <string name="accessibility_wimax_three_bars">WiMAX three bars.</string>
     <string name="accessibility_wimax_signal_full">WiMAX signal full.</string>
-    <string name="accessibility_no_signal">No signal.</string>
+    <string name="accessibility_no_signal">Žiadny signál.</string>
     <string name="accessibility_not_connected">Not connected.</string>
     <string name="accessibility_zero_bars">Zero bars.</string>
     <string name="accessibility_one_bar">One bar.</string>
@@ -267,8 +267,8 @@ Opätovné zapnutie môže viesť k poplatkom od vášho operátora."</string>
     <string name="recents_lock_to_app_button_label">screen pinning</string>
     <string name="recents_search_bar_label">search</string>
     <string name="recents_launch_error_message">Could not start %s.</string>
-    <string name="expanded_header_battery_charged">Charged</string>
-    <string name="expanded_header_battery_charging">Charging</string>
+    <string name="expanded_header_battery_charged">Nabité</string>
+    <string name="expanded_header_battery_charging">Nabíjanie</string>
     <string name="expanded_header_battery_charging_with_time">%s until full</string>
     <string name="expanded_header_battery_not_charging">Not charging</string>
     <string name="battery_meter_very_low_overlay_symbol">!</string>
@@ -520,9 +520,9 @@ Tiež ste pripojení k VPN (\"%3$s\"). Poskytovateľ služieb VPN môže tiež s
     <string name="kg_login_too_many_attempts">Too many pattern attempts</string>
     <string name="kg_login_instructions">To unlock, sign in with your Google account.</string>
     <string name="kg_login_username_hint">Username (email)</string>
-    <string name="kg_login_password_hint">Password</string>
-    <string name="kg_login_submit_button">Sign in</string>
-    <string name="kg_login_invalid_input">Invalid username or password.</string>
+    <string name="kg_login_password_hint">Heslo</string>
+    <string name="kg_login_submit_button">Prihlásiť sa</string>
+    <string name="kg_login_invalid_input">Neplatné používateľské meno alebo heslo.</string>
     <string name="kg_login_account_recovery_hint">\"Zabudli ste svoje používateľské meno alebo heslo?
 Návštívte \"<b>google.com/accounts/recovery</b>.</string>
     <string name="kg_login_checking_password">Checking account…</string>
@@ -544,7 +544,7 @@ Opakujte o %d sekúnd."</string>
     <string name="kg_failed_attempts_almost_at_login" formatted="false">"Neúspešne ste nakreslili vzhľad odomknutia %d krát. Po ďalších %d neúspešných pokusoch budete požiadaní o odblokovanie tabletu pomocou e-mailového konta.
 
  Opakujte o %d sekúnd."</string>
-    <string name="kg_reordering_delete_drop_target_text">Remove</string>
+    <string name="kg_reordering_delete_drop_target_text">Odstrániť</string>
     <string name="kg_password_wrong_pin_code_pukked">Incorrect SIM PIN code you must now contact your carrier to unlock your device.</string>
     <string name="kg_password_wrong_puk_code_dead">SIM is unusable. Contact your carrier.</string>
     <string name="kg_password_pin_failed">SIM PIN operation failed!</string>
