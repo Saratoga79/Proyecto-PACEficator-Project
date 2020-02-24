@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Huami lab</string>
+    <string name="main_title">Huami lab</string>
+    <string name="agreement_title">PPG beleženje</string>
+    <string name="orig_data_collect">Skup podataka o aktivnostima</string>
+    <string name="message">"Skupljaćemo sirove PPG podatke kada nosiš sat.
+Podaci će biti korišćeni u istraživačke svrhe.
+Ova funkcija će negativno uticati na trajanje baterije."</string>
+    <string name="allow">Dozvoli</string>
+    <string name="exit">Izlaz</string>
+    <string name="message_everest">"Skupljaćemo sirove PPG podatke kada nosiš sat.
+Podaci će biti korišćeni u istraživačke svrhe.
+Ova funkcija će negativno uticati na trajanje baterije."</string>
+    <string name="heart_rate_collection_on">Uključeno</string>
+    <string name="heart_rate_collection_off">Isključeno</string>
+    <string name="hbeacon_on">Uključeno</string>
+    <string name="hbeacon_off">Isključeno</string>
+    <string name="hbeacon_on_confirm_message">Dodirnite da biste uključili HBeacon funkciju, nivo baterije na satu će možda biti blago smanjen, i možda ćete morati da uparite telefon sa satom ponovo pošto se restartuje.</string>
+    <string name="hbeacon_off_confirm_message">Dodirnite da biste uključili HBeacon funkciju, i možda ćete morati da uparite telefon sa satom ponovo pošto se restartuje.</string>
+    <string name="saving_data">Čuvanje podataka</string>
+    <string name="upload_data">Slanje podataka</string>
+    <string name="upload_success">Gotovo</string>
+    <string name="upload_failed">"Ne može se poslati. Pokušajte ponovo."</string>
+    <string name="air_mode_alert_title">"Ne može se povezati"</string>
+    <string name="air_mode_alert_message">Isključite avionski režim pa pokušajte ponovo.</string>
+    <string name="report_sensor_capture_dialog_title">Skup podataka o aktivnostima</string>
+    <string name="report_sensor_capture_dialog_desc">Kada se uključi skupljanje podataka o aktivnostima, skupljaćemo originalne informacije od senzora nakon što započnete sa vežbanjem, i prekinuti odmah kada završite sa vežbanjem. Takvi podaci će biti poslati serveru kao i kada pošaljete neki problem sa satom na analizu. Ovi zapisi će se koristiti samo za analizu problema, i biće uništeni odmah nakon toga. Tokom celog procesa prodržavaćemo se naše Polise o privatnosti, čije detalje možete pogledati u Amazfit Watch aplikaciji.</string>
+    <string name="dialog_agree">Slažеm sе</string>
+    <string name="dialog_quit">Izlaz</string>
+    <string name="average_text">Prosek</string>
+    <string name="menu_item_high_light_scale_factor">0.5</string>
+    <string name="picker_default_positive_text">U redu</string>
+    <string name="picker_default_nagetive_text">Isključeno</string>
+    <string name="no_heartrate_data_hint">"Ne mogu se pronaći podaci o pulsu"</string>
+    <string name="no_altitude_hint">"Ne mogu se pronaći podaci o nadmorskoj visini"</string>
+    <string name="title_settings">Podešavanja</string>
+    <string name="sport_music_settings">Muzika</string>
+    <string name="widget_currentstep_title">Podaci</string>
+    <string name="widget_currentstep_activities">"Današnja aktivnost"</string>
+    <string name="widget_currentstep_sleep_hour">h</string>
+    <string name="widget_currentstep_sleep_min">m</string>
+    <string name="widget_currentstep_sleep_title">Spavao sam sinoć</string>
+    <string name="widget_currentstep_sleep_no">Nema podataka o spavanju</string>
+    <string name="widget_currentstep_activity_no">Nema aktivnosti danas?</string>
+    <string name="locale_title">Izaberi jezik</string>
+</resources>
