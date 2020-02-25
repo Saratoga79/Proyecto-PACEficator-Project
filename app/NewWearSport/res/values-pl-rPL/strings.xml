@@ -14,7 +14,7 @@
     <string name="crossing_end_sport">Najpierw zakończ szlak</string>
     <string name="crossing_in_progress">Bieg na szlaku</string>
     <string name="crossing_max_step_freq_desc">Maks. kadencja</string>
-    <string name="crossing_climb_up">Dist gain</string>
+    <string name="crossing_climb_up">Nachylenie</string>
     <string name="crossing_climb_down">Utrata wysokości</string>
     <string name="crossing_individual_pen_dis">Pojedyncza odległość okrążenia</string>
     <string name="crossing_individual_pen_cost_time">Czas pojedynczego okrążenia</string>
@@ -137,7 +137,7 @@
     <string name="settings_sport_auto_section">Auto okrążenie</string>
     <string name="settings_sport_lap">Okrążenia</string>
     <string name="settings_sport_lap_auto">Auto okrążenie</string>
-    <string name="settings_sport_lap_auto_remind">Auto lap alert</string>
+    <string name="settings_sport_lap_auto_remind">Automatyczny alert okrążenia</string>
     <string name="settings_sport_target_TE">Docelowy TE</string>
     <string name="settings_sport_swim_length">Rozmiar basenu</string>
     <string name="settings_sport_swim_title">Rozmiar basenu (m)</string>
@@ -146,7 +146,7 @@
     <string name="settings_sport_rt_guide">Wskazówki</string>
     <string name="settings_sport_auto_pace_title">Wstrzymaj w tempie</string>
     <string name="settings_sport_auto_speed_title">Wstrzymaj przy prędkości</string>
-    <string name="settings_content_stand_still">Standing still</string>
+    <string name="settings_content_stand_still">Bezruch</string>
     <string name="settings_sport_bg_type">Kolor tła</string>
     <string name="settings_sport_bg_type_normal">Czarny</string>
     <string name="settings_sport_bg_type_white">Biały</string>
@@ -160,8 +160,8 @@
     <string name="setting_auto_pause_speed">"Kiedy jest wolniejszy niż &lt;%1$s km/h"</string>
     <string name="setting_auto_pause_pace">"Kiedy jest wolniejszy niż %1$s"</string>
     <string name="setting_no_set_target">Nie ustawiono</string>
-    <string name="sport_settings_by_te">Training effect</string>
-    <string name="sport_settings_by_sport_data">Other metrics</string>
+    <string name="sport_settings_by_te">Efekt ćwiczeń</string>
+    <string name="sport_settings_by_sport_data">Pozostałe pomiary</string>
     <string name="sport_settings_no_set">Do not set goal</string>
     <string name="sport_settings_te_title">Select</string>
     <string name="sport_settings_current_target_te_title">Current goal</string>
