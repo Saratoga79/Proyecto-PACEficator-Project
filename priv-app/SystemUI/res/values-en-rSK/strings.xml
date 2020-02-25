@@ -84,8 +84,8 @@ Používajte iba dodávanú nabíjačku."</string>
     <string name="accessibility_battery_one_bar">Battery one bar.</string>
     <string name="accessibility_battery_two_bars">Battery two bars.</string>
     <string name="accessibility_battery_three_bars">Battery three bars.</string>
-    <string name="accessibility_battery_full">Battery full.</string>
-    <string name="accessibility_no_phone">No phone.</string>
+    <string name="accessibility_battery_full">Batéria je plne nabitá.</string>
+    <string name="accessibility_no_phone">Žiadny telefón.</string>
     <string name="accessibility_phone_one_bar">Phone one bar.</string>
     <string name="accessibility_phone_two_bars">Phone two bars.</string>
     <string name="accessibility_phone_three_bars">Phone three bars.</string>
@@ -108,7 +108,7 @@ Používajte iba dodávanú nabíjačku."</string>
     <string name="accessibility_wimax_two_bars">WiMAX two bars.</string>
     <string name="accessibility_wimax_three_bars">WiMAX three bars.</string>
     <string name="accessibility_wimax_signal_full">WiMAX signal full.</string>
-    <string name="accessibility_no_signal">No signal.</string>
+    <string name="accessibility_no_signal">Žiadny signál.</string>
     <string name="accessibility_not_connected">Not connected.</string>
     <string name="accessibility_zero_bars">Zero bars.</string>
     <string name="accessibility_one_bar">One bar.</string>
@@ -185,7 +185,7 @@ Používajte iba dodávanú nabíjačku."</string>
     <string name="accessibility_quick_settings_hotspot_changed_off">Mobile hotspot turned off.</string>
     <string name="accessibility_quick_settings_hotspot_changed_on">Mobile hotspot turned on.</string>
     <string name="accessibility_casting_turned_off">Screen casting stopped.</string>
-    <string name="accessibility_brightness">Display brightness</string>
+    <string name="accessibility_brightness">Jas displeja</string>
     <string name="data_usage_disabled_dialog_3g_title">2G-3G data is off</string>
     <string name="data_usage_disabled_dialog_4g_title">4G data is off</string>
     <string name="data_usage_disabled_dialog_mobile_title">Cellular data is off</string>
@@ -222,7 +222,7 @@ Opätovné zapnutie môže viesť k poplatkom od vášho operátora."</string>
     <string name="quick_settings_rotation_locked_portrait_label">Portrait</string>
     <string name="quick_settings_rotation_locked_landscape_label">Landscape</string>
     <string name="quick_settings_ime_label">Input Method</string>
-    <string name="quick_settings_location_label">miesto</string>
+    <string name="quick_settings_location_label">Poloha</string>
     <string name="quick_settings_location_off_label">Location Off</string>
     <string name="quick_settings_media_device_label">Media device</string>
     <string name="quick_settings_rssi_label">RSSI</string>
@@ -230,8 +230,8 @@ Opätovné zapnutie môže viesť k poplatkom od vášho operátora."</string>
     <string name="quick_settings_settings_label">Nastavenia</string>
     <string name="quick_settings_time_label">Čas</string>
     <string name="quick_settings_user_label">Me</string>
-    <string name="quick_settings_user_title">User</string>
-    <string name="quick_settings_user_new_user">New user</string>
+    <string name="quick_settings_user_title">Užívateľ</string>
+    <string name="quick_settings_user_new_user">Nový uživatel</string>
     <string name="quick_settings_wifi_label">Wi-Fi</string>
     <string name="quick_settings_wifi_not_connected">Not Connected</string>
     <string name="quick_settings_wifi_no_network">No Network</string>
@@ -265,16 +265,16 @@ Opätovné zapnutie môže viesť k poplatkom od vášho operátora."</string>
     <string name="recents_empty_message">Your recent screens appear here</string>
     <string name="recents_app_info_button_label">Application Info</string>
     <string name="recents_lock_to_app_button_label">screen pinning</string>
-    <string name="recents_search_bar_label">search</string>
+    <string name="recents_search_bar_label">hľadať</string>
     <string name="recents_launch_error_message">Could not start %s.</string>
-    <string name="expanded_header_battery_charged">Charged</string>
-    <string name="expanded_header_battery_charging">Charging</string>
+    <string name="expanded_header_battery_charged">Nabité</string>
+    <string name="expanded_header_battery_charging">Nabíjanie</string>
     <string name="expanded_header_battery_charging_with_time">%s until full</string>
     <string name="expanded_header_battery_not_charging">Not charging</string>
     <string name="battery_meter_very_low_overlay_symbol">!</string>
     <string name="ssl_ca_cert_warning">"Sieť môže
 byť monitorovaná"</string>
-    <string name="description_target_search">Search</string>
+    <string name="description_target_search">Hľadať</string>
     <string name="description_direction_up">Slide up for %s.</string>
     <string name="description_direction_left">Slide left for %s.</string>
     <string name="zen_no_interruptions_with_warning">No interruptions. Not even alarms.</string>
@@ -467,7 +467,7 @@ Tiež ste pripojení k VPN (\"%3$s\"). Poskytovateľ služieb VPN môže tiež s
     <string name="keyguard_accessibility_pin_area">PIN area</string>
     <string name="keyguard_accessibility_sim_pin_area">SIM PIN area</string>
     <string name="keyguard_accessibility_sim_puk_area">SIM PUK area</string>
-    <string name="keyguard_accessibility_transport_prev_description">Previous track button</string>
+    <string name="keyguard_accessibility_transport_prev_description">Tlačidlo predošlej skladby</string>
     <string name="keyguard_accessibility_transport_next_description">Next track button</string>
     <string name="keyguard_accessibility_transport_pause_description">Pause button</string>
     <string name="keyguard_accessibility_transport_play_description">Play button</string>
@@ -475,7 +475,7 @@ Tiež ste pripojení k VPN (\"%3$s\"). Poskytovateľ služieb VPN môže tiež s
     <string name="keyguard_accessibility_transport_thumbs_up_description">Thumbs up</string>
     <string name="keyguard_accessibility_transport_thumbs_down_description">Thumbs down</string>
     <string name="keyguard_accessibility_transport_heart_description">Heart</string>
-    <string name="keyguard_accessibility_show_bouncer">Unlock to continue</string>
+    <string name="keyguard_accessibility_show_bouncer">Odomknúť pre pokračovanie</string>
     <string name="keyguard_accessibility_hide_bouncer">Launch canceled</string>
     <string name="keyguard_accessibility_delete_widget_start">Drop %1$s to delete.</string>
     <string name="keyguard_accessibility_delete_widget_end">%1$s will not be deleted.</string>
@@ -501,7 +501,7 @@ Tiež ste pripojení k VPN (\"%3$s\"). Poskytovateľ služieb VPN môže tiež s
     <string name="kg_forgot_pattern_button_text">Forgot Pattern</string>
     <string name="kg_wrong_pattern">Wrong Pattern</string>
     <string name="kg_wrong_password">Wrong Password</string>
-    <string name="kg_wrong_pin">Wrong PIN</string>
+    <string name="kg_wrong_pin">Nesprávny PIN</string>
     <string name="kg_too_many_failed_attempts_countdown">Try again in %d seconds.</string>
     <string name="kg_pattern_instructions">Draw your pattern</string>
     <string name="kg_sim_pin_instructions">Enter SIM PIN</string>
@@ -520,9 +520,9 @@ Tiež ste pripojení k VPN (\"%3$s\"). Poskytovateľ služieb VPN môže tiež s
     <string name="kg_login_too_many_attempts">Too many pattern attempts</string>
     <string name="kg_login_instructions">To unlock, sign in with your Google account.</string>
     <string name="kg_login_username_hint">Username (email)</string>
-    <string name="kg_login_password_hint">Password</string>
-    <string name="kg_login_submit_button">Sign in</string>
-    <string name="kg_login_invalid_input">Invalid username or password.</string>
+    <string name="kg_login_password_hint">Heslo</string>
+    <string name="kg_login_submit_button">Prihlásiť sa</string>
+    <string name="kg_login_invalid_input">Neplatné používateľské meno alebo heslo.</string>
     <string name="kg_login_account_recovery_hint">\"Zabudli ste svoje používateľské meno alebo heslo?
 Návštívte \"<b>google.com/accounts/recovery</b>.</string>
     <string name="kg_login_checking_password">Checking account…</string>
@@ -544,13 +544,13 @@ Opakujte o %d sekúnd."</string>
     <string name="kg_failed_attempts_almost_at_login" formatted="false">"Neúspešne ste nakreslili vzhľad odomknutia %d krát. Po ďalších %d neúspešných pokusoch budete požiadaní o odblokovanie tabletu pomocou e-mailového konta.
 
  Opakujte o %d sekúnd."</string>
-    <string name="kg_reordering_delete_drop_target_text">Remove</string>
+    <string name="kg_reordering_delete_drop_target_text">Odstrániť</string>
     <string name="kg_password_wrong_pin_code_pukked">Incorrect SIM PIN code you must now contact your carrier to unlock your device.</string>
     <string name="kg_password_wrong_puk_code_dead">SIM is unusable. Contact your carrier.</string>
     <string name="kg_password_pin_failed">SIM PIN operation failed!</string>
     <string name="kg_password_puk_failed">SIM PUK operation failed!</string>
     <string name="kg_pin_accepted">Code Accepted!</string>
-    <string name="keyguard_transport_prev_description">Previous track button</string>
+    <string name="keyguard_transport_prev_description">Tlačidlo predošlej skladby</string>
     <string name="keyguard_transport_next_description">Next track button</string>
     <string name="keyguard_transport_pause_description">Pause button</string>
     <string name="keyguard_transport_play_description">Play button</string>
