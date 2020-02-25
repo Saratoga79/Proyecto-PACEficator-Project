@@ -139,7 +139,7 @@
     <string name="widget_step_target_txt">Goal:  <liff>%d</liff> steps</string>
     <string name="widget_step_target_complete">Dosiahli ste svoj cieľ</string>
     <string name="widget_step_target_second_tips"><liff>%d</liff> sec ago</string>
-    <string name="widget_step_target_min_tips"><liff>%d</liff> min ago</string>
+    <string name="widget_step_target_min_tips">Pred<liff>%d</liff> min</string>
     <string name="widget_step_target_hour_tips"><liff>%d</liff> hr ago</string>
     <string name="widget_step_target_day_tips"><liff>%d</liff>d ago</string>
     <string name="widget_step_target_month_tips"><liff>%d</liff>m ago</string>
@@ -185,7 +185,7 @@
     <string name="weeklysports_totalmileage_unit_en">mi</string>
     <string name="weeklysports_averageheart">Priemerná srdcová frekvencia</string>
     <string name="weeklysports_averageheart_unit">BPM</string>
-    <string name="weeklysports_runerrate">Running pace</string>
+    <string name="weeklysports_runerrate">Tempo behu</string>
     <string name="weeklysports_outdoorrunrate">Vonkajší beh priem. tempo</string>
     <string name="weeklysports_insiderunrate">Priem. tempo pri behu vnútri</string>
     <string name="weeklysports_crossrunrate">Trail run avg pace</string>
@@ -271,7 +271,7 @@
     <string name="open_xiaom_app_failed_content">Try again after you install Mi Fit app.</string>
     <string name="open_xiaomi_app_failed_title">"Can't open Mi Fit app"</string>
     <string name="stretch_connection_failed_button">Skúste znova</string>
-    <string name="stretch_connection_failed_content">Make sure the watch is connected to your phone and the Amazfit app is launched.</string>
+    <string name="stretch_connection_failed_content">Uistite sa, že hodinky sú pripojené k telefónu a je spustená aplikácia Amazfit.</string>
     <string name="stretch_connection_failed_title">"Can't connect to your phone"</string>
     <string name="stretch_dialog_button">Start stretch exercise with me</string>
     <string name="stretch_dialog_content">Stretch exercises help loosen stiff muscles from sitting too much, follow the video to exercise.</string>
@@ -289,7 +289,7 @@
     <string name="label_heartrate_unit">BPM</string>
     <string name="label_heartrate_detail_today">Tepová frekvencia</string>
     <string name="label_heartrate_detail_chart_today">Heart rate chart</string>
-    <string name="label_heartrate_detail_more">Check more in the Amazfit App</string>
+    <string name="label_heartrate_detail_more">Zistite viac v aplikácii Amazfit</string>
     <string name="txt_aleary_climb">Lezenie</string>
     <string name="txt_floor">poschodia</string>
     <string name="heathe_long_remind_tip">Sitting for one hour will be counted as long-time-sitting once.</string>
@@ -302,7 +302,7 @@
     <string name="long_sit_times">krát</string>
     <string name="step_distribution">Steps distribution</string>
     <string name="cal_distribution">Consumption distribution</string>
-    <string name="health_detail_more">Check more in the Amazfit App.</string>
+    <string name="health_detail_more">Zistite viac v aplikácii Amazfit.</string>
     <string name="no_data">Žiadne údaje</string>
     <string name="heartrate_measure_off">HR measure off</string>
     <string name="no_data_title">Measurement result</string>
@@ -315,7 +315,7 @@
     <string name="outdoor_riding">Jazda na bicykli</string>
     <string name="indoor_riding">Rotoped</string>
     <string name="cross_contry">Terénni beh</string>
-    <string name="eppitical">Eliptická</string>
+    <string name="eppitical">Elipt. trenažér</string>
     <string name="indoor_swimming">Plávanie v bazéne</string>
     <string name="outdoor_swimming">Plávanie vonku</string>
     <string name="triathlon">Triatlon</string>
