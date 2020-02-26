@@ -5,8 +5,8 @@
     <string name="watch_ota">Aktualizácie hodiniek</string>
     <string name="wifi_disconnect">Pre kontrolu aktualizácií sa pripojte k aplikácii Amazfit</string>
     <string name="connect_phone_wifi">"Check your phone's network connection to check for updates"</string>
-    <string name="connect_phone_input_wifi">Connect to the Amazfit app to enter Wi-Fi password for the watch</string>
-    <string name="wifi_add_item">Connect to the Amazfit app to add a new Wi-Fi hotspot</string>
+    <string name="connect_phone_input_wifi">Pre zadanie Wi-Fi heslá v hodinkách sa pripojte k aplikácii Amazfit</string>
+    <string name="wifi_add_item">Pre pridanie nového Wi-Fi hotspotu sa pripojte k aplikácii Amazfit</string>
     <string name="add_wifi">Pridať Wi-Fi</string>
     <string name="please_update_rom">"An update is available.
 Update now."</string>
@@ -18,8 +18,8 @@ Try again."</string>
 Update to version %1$s?"</string>
     <string name="has_new_rom_all">"An update is available.
 Firmware on this watch is old. Updating may take a while."</string>
-    <string name="input_passwor_on_mobile">"Enter Wi-Fi password
-in the Amazfit app"</string>
+    <string name="input_passwor_on_mobile">\"Zadajte heslo k Wi-Fi
+v aplikácii Amazfit</string>
     <string name="processbar_downloading_rom">Sťahovanie…</string>
     <string name="please_keep_wifi_connect">"Neodpájajte sa od Wi-Fi"</string>
     <string name="processbar_downloading_tips">%</string>
@@ -72,10 +72,9 @@ Try another one."</string>
     <string name="update_local">Lokálny ZIP súbor</string>
     <string name="local_update_confirm_1_title">Upozornenie</string>
     <string name="local_update_invalid_zip">Update to the latest version of the app</string>
-    <string name="local_update_confirm_1_msg">"To make sure the new version
-works properly, we\'ll erase all
-user data before the update.
-Back up your data using the Amazfit app."</string>
+    <string name="local_update_confirm_1_msg">"Ak chcete zabezpečiť, aby nová verzia
+fungovala správne, vymažeme pred aktualizáciou všetky
+používateľské dáta. Zálohujte vaše dáta pomocou aplikácie Amazfit."</string>
     <string name="local_update_confirm_2_msg">"Make sure you backed up
 all your data.
 The update will erase all user
@@ -96,7 +95,7 @@ data on the watch. Continue?"</string>
     <string name="outdoor_riding">Jazda na bicykli</string>
     <string name="indoor_riding">Rotoped</string>
     <string name="cross_contry">Terénni beh</string>
-    <string name="eppitical">Eliptická</string>
+    <string name="eppitical">Elipt. trenažér</string>
     <string name="indoor_swimming">Plávanie v bazéne</string>
     <string name="outdoor_swimming">Plávanie vonku</string>
     <string name="triathlon">Triatlon</string>
@@ -158,7 +157,7 @@ data on the watch. Continue?"</string>
     <string name="kilometre">KM</string>
     <string name="km_per_hour">km/h</string>
     <string name="bpm">BPM</string>
-    <string name="times_per_minute">BPM</string>
+    <string name="times_per_minute">skokov/min</string>
     <string name="per_km">/KM</string>
     <string name="per_100m">/100 m</string>
     <string name="per_100Yard">/100 yd</string>
