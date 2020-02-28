@@ -311,6 +311,25 @@
     <string name="heartrate_measure_off">HR mjerenje isklj.</string>
     <string name="no_data_title">Rezultat mjerenja</string>
     <string name="no_data_content">Nema rezultata mjerenja</string>
+    <string name="widget_pressure_title">Continuous Stress</string>
+    <string name="widget_pressure_title_in_applist">Stress</string>
+    <string name="widget_pressure_single_pressure_measure">"Measuring
+Please stay relaxed"</string>
+    <string name="pressure_detail_title">Stress details</string>
+    <string name="pressure_detail_low">Low</string>
+    <string name="pressure_detail_middle">Medium</string>
+    <string name="pressure_detail_high">High</string>
+    <string name="pressure_detail_highest">Max</string>
+    <string name="pressure_detail_lowest">Min</string>
+    <string name="pressure_detail_range">Stress range</string>
+    <string name="pressure_detail_range_0">No Stress 0-39</string>
+    <string name="pressure_detail_range_1">Normal Stress 40-59</string>
+    <string name="pressure_detail_range_2">Medium Stress 60-79</string>
+    <string name="pressure_detail_range_3">High Stress 80-89</string>
+    <string name="pressure_detail_range_4">Very high Stress 90-100</string>
+    <string name="pressure_detail_recent_seven_days_title">Stress in the last seven days</string>
+    <string name="pressure_tips_title">Stress indicators</string>
+    <string name="pressure_tips_content">The Stress indicator is calculated by the change in the value of the heart rate variability, and is used to evaluate the change in physical state (the indicator is for reference only). Usually when the pressure is high, you should take appropriate rest.</string>
     <string name="average_text">Prosjek</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="running">Trčanje</string>
