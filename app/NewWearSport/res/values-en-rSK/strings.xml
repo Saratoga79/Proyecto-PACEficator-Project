@@ -100,7 +100,7 @@
     <string name="battery_support_sport">Stále môžete cvičiť po dobu</string>
     <string name="battery_continue_distance_unit"> km</string>
     <string name="battery_continue_imperial_distance_unit"> mi</string>
-    <string name="battery_continue_time_unit"> hr</string>
+    <string name="battery_continue_time_unit"> tf</string>
     <string name="battery_split"> / </string>
     <string name="suggest_reset_time">Čas do úplného zotavenia:: %1$sh</string>
     <string name="remain_time_recovery"><Data>Čas na úplné zotavenie&amp;nbsp;&lt;font color=#00ff00&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;/font&gt;&amp;nbsp; h</Data></string>
@@ -189,7 +189,7 @@
     <string name="history_title">Aktivity</string>
     <string name="history_detail_info">Podrobnosti</string>
     <string name="hitory_rest_command">Čas do úplného zotavenia </string>
-    <string name="hitory_rest_command_time"> hr</string>
+    <string name="hitory_rest_command_time"> tf</string>
     <string name="history_month_target_title">Mesačný cieľ</string>
     <string name="history_month_dis">%1$s/%2$d km</string>
     <string name="history_month_dis_imperial">%1$s/%2$d mi</string>
@@ -908,8 +908,8 @@ first_beat_help_vo2_max"</string>
     <string name="settings_item_title_km_remind">Upozornenie oruhu</string>
     <string name="settings_item_title_mi_remind">Upozornenie oruhu</string>
     <string name="settings_item_title_km_voice_remind">Hlasové oznámenia</string>
-    <string name="settings_item_title_cal_burn_heartrate_remind">Upozornenie na HR</string>
-    <string name="settings_item_title_safe_heartrate_remind">Upozornenie na HR</string>
+    <string name="settings_item_title_cal_burn_heartrate_remind">Upozornenie na TF</string>
+    <string name="settings_item_title_safe_heartrate_remind">Upozornenie na TF</string>
     <string name="settings_item_title_auto_pause">Automatické pozastavenie</string>
     <string name="settings_item_title_target_use_time_remind">Cieľový čas</string>
     <string name="settings_item_title_target_distance_remind">Cieľová vzdialenosť</string>
