@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">otawatch</string>
+    <string name="app_name">Over the Air Uhr</string>
     <string name="action_settings">Einstellungen</string>
-    <string name="watch_ota">Watch updates</string>
-    <string name="wifi_disconnect">Connect to the Amazfit app to check for updates</string>
+    <string name="watch_ota">Uhr Updates</string>
+    <string name="wifi_disconnect">Stellen Sie eine Verbindung zur Amazfit-App her, um nach Updates zu suchen</string>
     <string name="connect_phone_wifi">"Check your phone's network connection to check for updates"</string>
     <string name="connect_phone_input_wifi">Connect to the Amazfit app to enter Wi-Fi password for the watch</string>
     <string name="wifi_add_item">Connect to the Amazfit app to add a new Wi-Fi hotspot</string>
-    <string name="add_wifi">Add Wi-Fi</string>
+    <string name="add_wifi">Wi-Fi hinzufügen</string>
     <string name="please_update_rom">Neues Firmware update verfügbar,
 bitte aktualisieren</string>
-    <string name="checking_rom">Checking for updates…</string>
+    <string name="checking_rom">Nach Updates suchen...</string>
     <string name="checking_rom_failed">"WLAN Zeitüberschreitung,
 bitte versuchen Sie es erneut"</string>
-    <string name="current_is_new">Current version is up to date.</string>
+    <string name="current_is_new">Aktuelle Version ist Up2Date</string>
     <string name="has_new_rom">"Eine neue Firmware Version 
 ist verfügbar, soll die Version 
 %1$s installiert werden?"</string>
-    <string name="has_new_rom_all">"An update is available.
-Firmware on this watch is old. Updating may take a while."</string>
-    <string name="input_passwor_on_mobile">"Enter Wi-Fi password
-in the Amazfit app"</string>
-    <string name="processbar_downloading_rom">Downloading…</string>
-    <string name="please_keep_wifi_connect">"Don't disconnect from Wi-Fi"</string>
+    <string name="has_new_rom_all">"Eine Aktualisierung ist verfügbar.
+Die Firmware dieser Uhr ist alt. Das Aktualisieren kann eine Weile dauern. "</string>
+    <string name="input_passwor_on_mobile">"Geben Sie das WLAN-Passwort 
+in der Amazfit App ein"</string>
+    <string name="processbar_downloading_rom">Herunterladen...</string>
+    <string name="please_keep_wifi_connect">"Nicht vom Wi-Fi trennen"</string>
     <string name="processbar_downloading_tips">%</string>
     <string name="processbar_downloading_default">0</string>
     <string name="download_rom_faild">"Update Download fehlgeschlagen,
@@ -31,32 +31,32 @@ bitte erneut versuchen."</string>
 bitte Installation starten</string>
     <string name="low_battery_message">ROM Download erfolgreich,
 Akkustand muss mindestens %1$s%% betragen</string>
-    <string name="low_battery_title">Connect charger</string>
-    <string name="progressbar_tips">Checking…</string>
+    <string name="low_battery_title">Ladegerät anschließen</string>
+    <string name="progressbar_tips">Prüfen...</string>
     <string name="progressbar_percent">%1$d%%</string>
-    <string name="low_mem">"Not enough storage space for an update.
-Free up %1$sMB to update."</string>
+    <string name="low_mem">"Nicht genügend Speicherplatz für ein Update.
+Geben Sie %1$sMB zum Aktualisieren frei."</string>
     <string name="update_network_error">"Update Überprüfung fehlgeschlagen,
 Bitte erneut versuchen"</string>
     <string name="cancel_download">"Updatepaket wird heruntergeladen, 
 abbrechen?"</string>
     <string name="new_rom_please_install">"System Update verfügbar,
 bitte aktualisieren"</string>
-    <string name="btn_install_later">Remind later</string>
-    <string name="btn_install_now">Install now</string>
-    <string name="btn_upgrade_now">Update now</string>
-    <string name="wifi_no_password">Not encrypted</string>
-    <string name="wifi_has_password">Encrypted</string>
-    <string name="wifi_password_error">Password is incorrect</string>
-    <string name="wifi_connecting">Connecting…</string>
-    <string name="wifi_auth">Verifying password…</string>
-    <string name="wifi_get_ip">Obtaining IP address…</string>
-    <string name="wifi_link_fail">"Couldn't connect"</string>
-    <string name="wifi_connected">Connected</string>
-    <string name="wifi_title">Choose a network</string>
-    <string name="wifi_wait_password">Waiting for password…</string>
-    <string name="toast_please_update_first">Update first</string>
-    <string name="wifi_turnon_going">Turning on Wi-Fi…</string>
+    <string name="btn_install_later">Erinnere mich später</string>
+    <string name="btn_install_now">Jetzt installieren</string>
+    <string name="btn_upgrade_now">Jetzt aktualisieren</string>
+    <string name="wifi_no_password">Nicht verschlüsselt</string>
+    <string name="wifi_has_password">Verschlüsselt</string>
+    <string name="wifi_password_error">Das Passwort ist inkorrekt</string>
+    <string name="wifi_connecting">Verbinden...</string>
+    <string name="wifi_auth">Passwort überprüfen…</string>
+    <string name="wifi_get_ip">Beziehe IP Adresse</string>
+    <string name="wifi_link_fail">"Konnte keine Verbindung herstellen"</string>
+    <string name="wifi_connected">Verbunden</string>
+    <string name="wifi_title">Wähle ein Netzwerk</string>
+    <string name="wifi_wait_password">Warte auf Passwort…</string>
+    <string name="toast_please_update_first">Zuerst aktualisieren</string>
+    <string name="wifi_turnon_going">Wi-Fi einschalten…</string>
     <string name="system_update_title">Updated successfully</string>
     <string name="system_update_content">Upgraded to version %1$s successfully</string>
     <string name="password_error">"Falsches WLAN Passwort,
