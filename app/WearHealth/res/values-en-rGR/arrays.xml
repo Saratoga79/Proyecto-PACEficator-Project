@@ -38,62 +38,62 @@
     </string-array>
     <string-array name="subject_typenfreqs">
         <item>Σημερινές θερμίδες</item>
-        <item>This week</item>
+        <item>Τρέχουσα εβδομάδα</item>
         <item>Σημερινές θερμίδες</item>
-        <item>This week</item>
+        <item>Τρέχουσα εβδομάδα</item>
     </string-array>
     <string-array name="chart_x_titles">
-        <item>MON</item>
-        <item>TUE</item>
-        <item>WED</item>
-        <item>THU</item>
-        <item>FRI</item>
-        <item>SAT</item>
-        <item>SUN</item>
+        <item>ΔΕΥ</item>
+        <item>ΤΡΙ</item>
+        <item>ΤΕΤ</item>
+        <item>ΠΕΜ</item>
+        <item>ΠΑΡ</item>
+        <item>ΣΑΒ</item>
+        <item>ΚΥΡ</item>
     </string-array>
     <string-array name="sport_data_item_array">
         <item></item>
-        <item>Time</item>
-        <item>Distance</item>
-        <item>Pace</item>
-        <item>Avg pace</item>
-        <item>Heart rate</item>
-        <item>Calories</item>
-        <item>Altitude</item>
-        <item>Elev gain</item>
-        <item>Elev loss</item>
-        <item>Speed</item>
-        <item>Avg speed</item>
-        <item>Cadence</item>
+        <item>Χρόνος</item>
+        <item>Απόσταση</item>
+        <item>Βήμα</item>
+        <item>Μέσο βήμα</item>
+        <item>Καρδιακός ρυθμός</item>
+        <item>Θερμίδες</item>
+        <item>Υψόμετρο</item>
+        <item>Ανύψωση</item>
+        <item>Απώλεια υψ.</item>
+        <item>Ταχύτητα</item>
+        <item>Μέση ταχύτητα</item>
+        <item>Ρυθμός</item>
         <item>Dist gain</item>
-        <item>Steps</item>
-        <item>Cadence</item>
-        <item>Laps</item>
+        <item>Βήματα</item>
+        <item>Ρυθμός</item>
+        <item>Γύροι</item>
         <item>DPS</item>
-        <item>Stroke rate</item>
+        <item>Ρυθμός απλωτών</item>
         <item>Avg SPM</item>
-        <item>Pace</item>
-        <item>Avg pace</item>
-        <item>Distance</item>
+        <item>Βήμα</item>
+        <item>Μέσο βήμα</item>
+        <item>Απόσταση</item>
         <item>TE</item>
-        <item>Vert speed</item>
-        <item>Avg speed</item>
-        <item>Max speed</item>
-        <item>Laps</item>
-        <item>Downhill</item>
-        <item>Total downhill</item>
+        <item>Κάθ. ταχύτητα</item>
+        <item>Μέση ταχύτητα</item>
+        <item>Μέγ. ταχύτητα</item>
+        <item>Γύροι</item>
+        <item>Κατάβαση</item>
+        <item>Συνολική κατάβαση</item>
         <item>Descent</item>
-        <item>Strokes</item>
-        <item>L.L. time</item>
+        <item>Απλωτές</item>
+        <item>Χρόνος τελ.γύρ.</item>
         <item>L.L. pace</item>
-        <item>L.L. speed</item>
+        <item>Ταχύτητα τελ.γύρ.</item>
         <item>L.L. HR</item>
-        <item>L.L. cadence</item>
+        <item>Ρυθμός τελ.γύρ.</item>
         <item>L.L. pace</item>
-        <item>Current freq</item>
+        <item>Τρέχουσα συχν</item>
         <item>Total count</item>
-        <item>Avg freq</item>
-        <item>Groups</item>
+        <item>Μέση συχν</item>
+        <item>Ομάδες</item>
         <item>C.L. count</item>
         <item>C.L. time</item>
         <item>C.L. freq</item>
@@ -103,24 +103,24 @@
         <item>C.L. Speed</item>
         <item>C.L. Heart rate</item>
         <item>C.L. freq.</item>
-        <item>slope</item>
-        <item>Calories</item>
+        <item>κλίση</item>
+        <item>Θερμίδες</item>
         <item>Avg. HR</item>
-        <item>Paddles of this set</item>
-        <item>Frequency</item>
-        <item>Total paddles</item>
-        <item>Paddle frequency</item>
-        <item>Pulling duration</item>
-        <item>Pushing duration</item>
-        <item>Avg. Freq.</item>
+        <item>Πεταλιές αυτού του σετ</item>
+        <item>Συχνότητα</item>
+        <item>Συνολικές πεταλιές</item>
+        <item>Συχνότητα πεταλιών</item>
+        <item>Διάρκεια έλξης</item>
+        <item>Διάρκεια ώθησης</item>
+        <item>Μέση συχν.</item>
     </string-array>
     <string-array name="sport_train_item">
-        <item>Remaining distance</item>
-        <item>Total distance</item>
-        <item>Total time</item>
-        <item>Remaining time</item>
-        <item>Distance</item>
-        <item>Remaining</item>
-        <item>Has rested</item>
+        <item>Υπολειπόμενη απόσταση</item>
+        <item>Συνολική απόσταση</item>
+        <item>Συνολικός χρόνος</item>
+        <item>Υπολειπόμενος χρόνος</item>
+        <item>Απόσταση</item>
+        <item>Υπόλοιπο</item>
+        <item>Έχει ξεκουραστεί</item>
     </string-array>
 </resources>
