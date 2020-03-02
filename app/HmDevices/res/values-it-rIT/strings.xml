@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">FindPhone</string>
-    <string name="phone_finding">Finding phone...</string>
-    <string name="phone_found">Phone found</string>
-    <string name="phone_found_android_msg">Click \"OK\" in the AmazfitApp to end the ringing.</string>
-    <string name="phone_found_ios_msg">Click confirm in the promote box of Amazfit Watch App to stop the ring</string>
-    <string name="phone_not_connected">Phone not connected</string>
-    <string name="phone_not_found">Fail to find, please try again</string>
+    <string name="app_name">TrovaTelefono</string>
+    <string name="phone_finding">Cercando il telefono...</string>
+    <string name="phone_found">Telefono trovato</string>
+    <string name="phone_found_android_msg">Clicca su \"OK\" nell\'AmazfitApp per spegnere la suoneria.</string>
+    <string name="phone_found_ios_msg">Fare clic su Conferma nel box di Amazfit Watch App per interrompere la suoneria</string>
+    <string name="phone_not_connected">Telefono non connesso</string>
+    <string name="phone_not_found">Impossibile trovare, si prega di riprovare.</string>
     <string name="title">Trova telefono</string>
-    <string name="title_button">Start searching</string>
+    <string name="title_button">Ricerca avviata</string>
     <string name="picker_default_positive_text">Conferma</string>
     <string name="picker_default_negative_text">Annulla</string>
-    <string name="phone_not_connect">Amazfit Watch App not connected, fail to find phone</string>
+    <string name="phone_not_connect">Amazfit Watch App non connessa, impossibile trovare il telefono</string>
     <string name="ok">Conferma</string>
     <string name="average_text">Media</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_nagetive_text">Off</string>
-    <string name="no_heartrate_data_hint">Heart rate data not detected</string>
-    <string name="no_altitude_hint">Altitude data not detected</string>
+    <string name="no_heartrate_data_hint">Freq. card. non rilevata</string>
+    <string name="no_altitude_hint">Altitudine non rilevata</string>
     <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">Impostazioni</string>
-    <string name="sport_music_settings">Sports music</string>
+    <string name="sport_music_settings">Musica per sport</string>
     <string name="widget_currentstep_title">Dati giornalieri</string>
     <string name="widget_currentstep_activities">Attività</string>
     <string name="widget_currentstep_sleep_hour">h</string>
     <string name="widget_currentstep_sleep_min">min</string>
-    <string name="widget_currentstep_sleep_title">Sleep</string>
+    <string name="widget_currentstep_sleep_title">Sonno</string>
     <string name="widget_currentstep_sleep_no">Nessun dato del sonno</string>
-    <string name="widget_currentstep_activity_no">No activity today?</string>
+    <string name="widget_currentstep_activity_no">Niente movimento oggi?</string>
     <string name="locale_title">Seleziona una lingua</string>
 </resources>
