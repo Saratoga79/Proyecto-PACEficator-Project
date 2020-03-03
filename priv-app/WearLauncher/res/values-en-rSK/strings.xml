@@ -1,69 +1,69 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="new_message_down_fresh">Vymazať zoznam správ</string>
-    <string name="sport_title">Exercise</string>
+    <string name="sport_title">Cvičenie</string>
     <string name="data_check_log">" +------------------------+▂▃▄▅▆▇█▉  Chyba overenia údajov o počasí!     %1$s▉█▇▆▅▄▃▂+------------------------+"</string>
     <string name="data_checkfail_json">Chyba formátu JSON</string>
-    <string name="generic_notification_more">More (%s)</string>
-    <string name="notification_unread_num">Unread (%s)</string>
-    <string name="notification_click_upgrade">Tap to install</string>
-    <string name="notification_click_download">Tap to download</string>
-    <string name="notification_click_open">Klepnutím zobrazíte</string>
-    <string name="delete_all_notifications">Clear all notifications</string>
-    <string name="delete_all_notifications_confrim_content">These notifications will be deleted permanently. Clear anyway?</string>
+    <string name="generic_notification_more">Viac (%s)</string>
+    <string name="notification_unread_num">Neprečítané (%s)</string>
+    <string name="notification_click_upgrade">Kliknite pre inštaláciu</string>
+    <string name="notification_click_download">Kliknite pre stiahnutie</string>
+    <string name="notification_click_open">Kliknite pre zobrazenie</string>
+    <string name="delete_all_notifications">Vymazať všetky upozornenia</string>
+    <string name="delete_all_notifications_confrim_content">Tieto oznámenia budú natrvalo odstránená. Napriek tomu vyčistiť?</string>
     <string name="notification_time_day">HH:mm</string>
     <string name="notification_time_month">MM/dd HH:mm</string>
     <string name="notification_time_year">yyyy/MM/dd HH:mm</string>
     <string name="action_delete">Vymazať</string>
     <string name="action_shield">Blokovať</string>
     <string name="notification_none">Žiadne notifikácie</string>
-    <string name="notification_allclear">Clear all</string>
-    <string name="notification_allclear_confirm">These notifications will be deleted permanently. Clear anyway?</string>
-    <string name="notification_checking_bluetooth">Checking Bluetooth connection…</string>
-    <string name="notification_detail_content_title">Information details</string>
-    <string name="notification_fix_message_action1">Pin this message</string>
+    <string name="notification_allclear">Vyčistiť všetko</string>
+    <string name="notification_allclear_confirm">Tieto oznámenia budú natrvalo odstránená. Napriek tomu vyčistiť?</string>
+    <string name="notification_checking_bluetooth">Kontrola pripojenia Bluetooth...</string>
+    <string name="notification_detail_content_title">Podrobné informácie</string>
+    <string name="notification_fix_message_action1">Pripnúť túto správu</string>
     <string name="notification_fix_message_reset">Čas obnovenia</string>
     <string name="notification_fix_message_cancel">Odopni</string>
-    <string name="quick_settings_airplane_mode">"Airplane
+    <string name="quick_settings_airplane_mode">"Lietadlo
  %1$s"</string>
-    <string name="quick_settings_no_disturb_mode">"DND
+    <string name="quick_settings_no_disturb_mode">"Nerušiť
  %1$s"</string>
-    <string name="quick_settings_auto_light_mode">"Backlight
+    <string name="quick_settings_auto_light_mode">Podsvietenie
+ %1$s</string>
+    <string name="quick_settings_rise_up_hand_mode">"Prebudiť obrazovku pri zdvihnutí zápästia
  %1$s"</string>
-    <string name="quick_settings_rise_up_hand_mode">"Wake screen on wrist raise
- %1$s"</string>
-    <string name="quick_settings_more_settings">Additional settings</string>
-    <string name="quick_settings_switch_auto">Auto mode</string>
-    <string name="quick_settings_switch_awake">Wake mode</string>
+    <string name="quick_settings_more_settings">Ďalšie nastavenia</string>
+    <string name="quick_settings_switch_auto">Automatický režim</string>
+    <string name="quick_settings_switch_awake">Režim prebudenie</string>
     <string name="quick_settings_switch_always">Vždy zapnuté</string>
     <string name="quick_settings_switch_on">Zapnúť</string>
     <string name="quick_settings_switch_off">Vypnúť</string>
     <string name="quick_settings_toast_on">Zap.</string>
     <string name="quick_settings_toast_off">Vyp.</string>
     <string name="quick_settings_status">Nepripojené</string>
-    <string name="quick_settings_no_disturb_toast">"You'll no longer receive notifications."</string>
-    <string name="quick_settings_auto_light_toast">Keeping the screen on reduces battery life.</string>
+    <string name="quick_settings_no_disturb_toast">"Už nebudete dostávať oznámenia."</string>
+    <string name="quick_settings_auto_light_toast">Udržiavanie zapnutej obrazovky znižuje životnosť batérie.</string>
     <string name="quick_settings_status_month">Mesiac</string>
     <string name="quick_settings_status_day">Deň </string>
-    <string name="quick_settings_connected">Pripojené k</string>
+    <string name="quick_settings_connected">Pripojené</string>
     <string name="quick_settings_disconnect">Nepripojené</string>
-    <string name="quick_settings_unbound">Pair device first</string>
+    <string name="quick_settings_unbound">Najprv spárovať zariadenie</string>
     <string name="quick_settings_date_chinese">MM/dd/yyyy</string>
     <string name="quick_settings_date_format">31/1/1900</string>
     <string name="quick_settings_date_yeareve">"Čínsky Nový rok"</string>
-    <string name="seconed_confirm_nodisturb">"DND mode is on.
-Can\'t receive notifications."</string>
+    <string name="seconed_confirm_nodisturb">"Režim Nerušiť je zapnutý.
+Nemožno prijímať oznámenia."</string>
     <string name="quick_settings_battery_charging_full">Úplne nabitá</string>
     <string name="quick_settings_battery_is_charging">Nabíjanie</string>
-    <string name="quick_settings_battery_hasnot_charged">No charging history</string>
-    <string name="quick_settings_battery_charging_intervalDay">Last charged %1$dd %2$dh ago</string>
-    <string name="quick_settings_battery_charging_intervalDay_lessHour">"Last charged
-%dd ago"</string>
-    <string name="quick_settings_battery_charging_intervalDayLess">"Last charged
-%dh ago"</string>
-    <string name="quick_settings_battery_charging_intervalLessHour">"Last charged
-less than 1h ago"</string>
-    <string name="quick_settings_battery_sportString">You can keep running.</string>
+    <string name="quick_settings_battery_hasnot_charged">Žiadna história nabíjanie</string>
+    <string name="quick_settings_battery_charging_intervalDay">Naposledy nabité pred %1$dd %2$dh</string>
+    <string name="quick_settings_battery_charging_intervalDay_lessHour">"Posledné nabíjanie pred
+%dd"</string>
+    <string name="quick_settings_battery_charging_intervalDayLess">"Posledné nabíjanie pred
+%dh"</string>
+    <string name="quick_settings_battery_charging_intervalLessHour">„Posledné nabíjanie
+pred menej ako 1 hodinou“</string>
+    <string name="quick_settings_battery_sportString">Môžete pokračovať v behu.</string>
     <string name="quick_settings_battery_sporttime_hour_unit">hod.</string>
     <string name="quick_settings_battery_sporttime_KM_unit">KM</string>
     <string name="quick_settings_battery_level_unit">%</string>
@@ -72,48 +72,48 @@ less than 1h ago"</string>
     <string name="header_incomming_call_name"></string>
     <string name="header_incomming_call_hint">Prichádzajúci hovor</string>
     <string name="header_incomming_call_mobilephone">Telefón</string>
-    <string name="header_incomming_call_landlinephone">Landline</string>
-    <string name="header_incomming_call_searchinglocation">Attribution querying...</string>
-    <string name="header_incomming_call_mobile_virtual">Mobile Virtual Carriers</string>
-    <string name="header_incomming_call_unicom_virtual">Unicom Virtual Carriers</string>
-    <string name="header_incomming_call_telecom_virtual">Telecom Virtual Carriers</string>
-    <string name="header_incomming_call_other_virtual">Other Mobile Virtual Carriers</string>
-    <string name="header_incomming_call_service_hotline">Service hotline</string>
-    <string name="header_incomming_call_localcall">Local call</string>
+    <string name="header_incomming_call_landlinephone">Pevná linka</string>
+    <string name="header_incomming_call_searchinglocation">Otázka na atribút...</string>
+    <string name="header_incomming_call_mobile_virtual">Virtuálne operátori</string>
+    <string name="header_incomming_call_unicom_virtual">Virtuálni operátori Unicom</string>
+    <string name="header_incomming_call_telecom_virtual">Virtuálni operátori Telecom</string>
+    <string name="header_incomming_call_other_virtual">Ostatný virtuálni operátori</string>
+    <string name="header_incomming_call_service_hotline">Služba Hotline</string>
+    <string name="header_incomming_call_localcall">Miestny hovor</string>
     <string name="header_incomming_call_unknowncall">Neznámy hovor</string>
     <string name="call_phone_off">Odmietnuť</string>
     <string name="call_sound_off">Stlmenie</string>
     <string name="call_phone_ignore">Ignorovať</string>
-    <string name="world_cup_begin_to_start">The match is about to begin</string>
+    <string name="world_cup_begin_to_start">Zápas bude čoskoro zahájený</string>
     <string name="dialog_close">Zakázať</string>
     <string name="amazing_dialog_btn_confirm_text">OK</string>
     <string name="amazing_dialog_btn_cancel_text">Zrušiť</string>
     <string name="accept">Prijať</string>
-    <string name="action_failure">"Couldn't complete this action."</string>
+    <string name="action_failure">"Táto akcia sa nedá dokončiť."</string>
     <string name="action_success">Hotovo!</string>
     <string name="action_working">Pracujem…</string>
-    <string name="activity_not_found">An error occurred.</string>
-    <string name="data_checkfail_match">Weather type field not matched</string>
+    <string name="activity_not_found">Vyskytla sa chyba.</string>
+    <string name="data_checkfail_match">Pole typu počasie nezodpovedá</string>
     <string name="data_checkfail_temp">Teplota počasia mimo rozsah</string>
-    <string name="data_checkfail_type">Weather type not recognized</string>
-    <string name="wathc_disconnection_content">Disconnected from the phone</string>
+    <string name="data_checkfail_type">Typ počasie nebol rozpoznaný</string>
+    <string name="wathc_disconnection_content">Odpojené od telefónu</string>
     <string name="wathc_disconnection_title">Nepripojené</string>
     <string name="notification_block">Blokovať</string>
     <string name="notification_block_cancel">Zrušiť</string>
     <string name="notification_block_message">Blokovať upozornenia z tejto aplikácie</string>
     <string name="notification_block_ok">OK</string>
-    <string name="notification_more_settings">Additional settings</string>
+    <string name="notification_more_settings">Ďalšie nastavenia</string>
     <string name="notification_time_just">Práve teraz</string>
     <string name="notification_time_yesterday">Včera</string>
     <string name="notificaton_empty_message">Žiadne upozornenia</string>
     <string name="music_control">Ovládanie hudby</string>
     <string name="music_control_content">Môžete ovládať prehrávanie hudby na telefóne. Tieto ovládacie prvky možno nájsť posunutím vpravo na ciferníku.</string>
-    <string name="music_title">Unknown song</string>
+    <string name="music_title">Neznáma skladba</string>
     <string name="music_author">Neznámy interpret</string>
     <string name="music_stop_status">Pozastavený</string>
     <string name="music_play_status">Prehrávanie</string>
-    <string name="music_bulethooth_disconnect">Checking Bluetooth connection…</string>
-    <string name="music_peek_content">"You're playing music in %s on your phone. You can control playback in the Notification shade on your watch."</string>
+    <string name="music_bulethooth_disconnect">Kontrola pripojenia Bluetooth...</string>
+    <string name="music_peek_content">"Prehrávate hudbu v %s na telefóne. Prehrávanie môžete ovládať v tieni oznámenia na hodinkách."</string>
     <string name="alone_before_open">Nedávno otvorené</string>
     <string name="notification_title_default">Oznámenie</string>
     <string name="music">Hudba</string>
@@ -125,7 +125,7 @@ less than 1h ago"</string>
     <string name="notification_wechat_red_envelop_title">WeChat správa</string>
     <string name="notification_alipay_red_envelop_title">Alipay správa</string>
     <string name="notification_qq_red_envelop_title">QQ správa</string>
-    <string name="notification_red_envelop_content">%s message, open it on your phone to pick it up!</string>
+    <string name="notification_red_envelop_content">%s správa, pre prečítanie ju otvorte ju v telefóne!</string>
     <string name="notification_red_envelop_default_content">Rýchlo zdvihnite telefón!</string>
     <string name="notification_alipay_default_group">Skupinový chat</string>
     <string name="notification_ios_envelop_content">QQ správa, zdvihnite ho a odblokujte!</string>
@@ -147,8 +147,8 @@ less than 1h ago"</string>
     <string name="notification_fireworks_title">Šťastný nový rok!</string>
     <string name="notification_fireworks_content">Prajem ti všetko najlepšie!</string>
     <string name="battery_info_status_percentage">%</string>
-    <string name="quick_settings_notification_title">Interruptions</string>
-    <string name="quick_settings_notifications_none">None</string>
+    <string name="quick_settings_notification_title">Prerušenie</string>
+    <string name="quick_settings_notifications_none">Žiadny</string>
     <string name="watchface_custom_btn_title">Prispôsobiť</string>
     <string name="weather">Počasie</string>
     <string name="temp_unit_centigrade">℃</string>
@@ -156,7 +156,7 @@ less than 1h ago"</string>
     <string name="temp_unit_degree">°</string>
     <string name="temp_to">~</string>
     <string name="temp_to_card">/</string>
-    <string name="type_to"> to </string>
+    <string name="type_to"> až </string>
     <string name="not_avalible_type">Žiadne údaje</string>
     <string name="not_avalible_temp">--</string>
     <string name="air_quality">Kvalita vzduchu </string>
@@ -186,7 +186,7 @@ less than 1h ago"</string>
     <string name="weather_warning_smog">Hmla</string>
     <string name="weather_warning_ice">Ľadové cesty</string>
     <string name="weather_warning_snowstorm">Fujavica</string>
-    <string name="no_aqi">"Couldn't get AQI info"</string>
+    <string name="no_aqi">"Nemožno získať informácie o AQI"</string>
     <string name="air_perfect">Výborny</string>
     <string name="air_good">Pokuty</string>
     <string name="air_lightly_polluted">Svetelné znečistenie</string>
@@ -203,7 +203,7 @@ less than 1h ago"</string>
     <string name="forecast">Predpoveď počasia</string>
     <string name="fetching">Len sekundu …</string>
     <string name="fetch_failed">"Nepodarilo sa získať informácie"</string>
-    <string name="fetch_failed_title">"Can't get weather info"</string>
+    <string name="fetch_failed_title">"Nemožno získať informácie o počasí"</string>
     <string name="fetch_failed_msg">Skontrolujte, či sú hodinky pripojené k aplikácii Amazfit Watch a či je v aplikácii vybraté platné miesto.</string>
     <string name="date_time_format">MM/dd</string>
     <string name="weather_card_temperature">%1$s , %2$s</string>
