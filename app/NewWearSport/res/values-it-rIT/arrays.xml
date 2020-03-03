@@ -36,18 +36,18 @@
         <item>ELLIPTICAL_MACHINE</item>
     </string-array>
     <string-array name="dally_performence_level_status">
-        <item>Fatigued</item>
-        <item>Normal</item>
-        <item>Good</item>
+        <item>Affaticato</item>
+        <item>Normale</item>
+        <item>Buono</item>
     </string-array>
     <string-array name="vo2_max_level_status">
-        <item>Very poor</item>
-        <item>Poor</item>
-        <item>Fair</item>
-        <item>Average</item>
-        <item>Good</item>
-        <item>Very good</item>
-        <item>Excellent</item>
+        <item>Molto male</item>
+        <item>Male</item>
+        <item>Sufficiente</item>
+        <item>Media</item>
+        <item>Buono</item>
+        <item>Molto buono</item>
+        <item>Eccellente</item>
     </string-array>
     <string-array name="spring_depend">
         <item>com.huami.watch.newsport/com.huami.watch.newsport.widget.SportWidget</item>
@@ -58,21 +58,21 @@
     <string-array name="sport_data_item_array">
         <item></item>
         <item>Ora</item>
-        <item>Distance</item>
-        <item>Pace</item>
-        <item>Avg pace</item>
-        <item>Heart rate</item>
-        <item>Calories</item>
-        <item>Altitude</item>
-        <item>Elev gain</item>
-        <item>Elev loss</item>
-        <item>Speed</item>
-        <item>Avg speed</item>
-        <item>Cadence</item>
+        <item>Distanza</item>
+        <item>Ritmo</item>
+        <item>Passo medio</item>
+        <item>Battito cardiaco</item>
+        <item>Calorie</item>
+        <item>Altitudine</item>
+        <item>Aum Altitudine</item>
+        <item>Dim Altitudine</item>
+        <item>Velocità</item>
+        <item>Velocità media</item>
+        <item>Cadenza</item>
         <item>Dist gain</item>
-        <item>Steps</item>
-        <item>Cadence</item>
-        <item>Laps</item>
+        <item>Passi</item>
+        <item>Cadenza</item>
+        <item>Giri</item>
         <item>DPS</item>
         <item>Stroke rate</item>
         <item>Avg SPM</item>
@@ -116,15 +116,15 @@
         <item>Paddle frequency</item>
         <item>Pulling duration</item>
         <item>Pushing duration</item>
-        <item>Avg. Freq.</item>
+        <item>Frequenza media.</item>
     </string-array>
     <string-array name="sport_train_item">
-        <item>Remaining distance</item>
-        <item>Total distance</item>
-        <item>Total time</item>
-        <item>Remaining time</item>
-        <item>Distance</item>
+        <item>Distanza rimanente</item>
+        <item>Distanza totale</item>
+        <item>Tempo totale</item>
+        <item>Tempo restante</item>
+        <item>Distanza</item>
         <item>Restante</item>
-        <item>Has rested</item>
+        <item>Si è riposato</item>
     </string-array>
 </resources>
