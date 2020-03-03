@@ -1,57 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Package installer</string>
-    <string name="next">Next</string>
-    <string name="install">Install</string>
-    <string name="done">Done</string>
-    <string name="security_settings_desc">Allow this app to:</string>
+    <string name="app_name">Installazione pacchetti</string>
+    <string name="next">Successivo</string>
+    <string name="install">Installa</string>
+    <string name="done">Fatto</string>
+    <string name="security_settings_desc">Consenti a questa applicazione di:</string>
     <string name="cancel">Annulla</string>
-    <string name="unknown">Unknown</string>
-    <string name="installing">Installing…</string>
-    <string name="install_done">App installed.</string>
-    <string name="install_confirm_question">Do you want to install this application? It will get access to:</string>
-    <string name="install_confirm_question_no_perms">Do you want to install this application? It does not require any special access.</string>
-    <string name="install_confirm_question_update">Do you want to install an update to this existing application? Your existing data will not be lost. The updated application will get access to:</string>
-    <string name="install_confirm_question_update_system">Do you want to install an update to this built-in application? Your existing data will not be lost. The updated application will get access to:</string>
-    <string name="install_confirm_question_update_no_perms">Do you want to install an update to this existing application? Your existing data will not be lost. It does not require any special access.</string>
-    <string name="install_confirm_question_update_system_no_perms">Do you want to install an update to this built-in application? Your existing data will not be lost. It does not require any special access.</string>
-    <string name="install_failed">App not installed.</string>
-    <string name="install_failed_invalid_apk">The package appears to be corrupt.</string>
-    <string name="install_failed_inconsistent_certificates">An existing package by the same name with a conflicting signature is already installed.</string>
-    <string name="install_failed_older_sdk">The package only works on newer versions of Android.</string>
-    <string name="install_failed_cpu_abi_incompatible">"This app isn't compatible with your tablet."</string>
-    <string name="install_failed_file_not_found">The package specified was deleted before installation could be completed.</string>
-    <string name="install_failed_verify_failed">The package did not pass verification and cannot be installed.</string>
-    <string name="install_failed_verify_timeout">A timeout occurred while trying to verify this package. Try to install it again later.</string>
-    <string name="install_failed_msg">"%1$s couldn't be installed on your tablet."</string>
-    <string name="launch">Open</string>
-    <string name="unknown_apps_dlg_title">Install blocked</string>
-    <string name="unknown_apps_dlg_text">For security, your tablet is set to block installation of apps obtained from unknown sources.</string>
-    <string name="unknown_apps_admin_dlg_text">"Your administrator doesn't allow installation of apps obtained from unknown sources."</string>
+    <string name="unknown">Sconosciuto</string>
+    <string name="installing">Installazione in corso...</string>
+    <string name="install_done">App installata.</string>
+    <string name="install_confirm_question">Vuoi installare questa applicazione? Avrà accesso a:</string>
+    <string name="install_confirm_question_no_perms">Vuoi installare questa applicazione? Non richiede permessi particolari.</string>
+    <string name="install_confirm_question_update">Vuoi installare un aggiornamento per questa applicazione? I dati esistenti non andranno persi. L\'applicazione aggiornata avrà accesso a:</string>
+    <string name="install_confirm_question_update_system">Vuoi installare un aggiornamento per questa applicazione integrata? I dati esistenti non andranno persi. L\'applicazione aggiornata avrà accesso a:</string>
+    <string name="install_confirm_question_update_no_perms">Vuoi installare questa applicazione? I dati esistenti non andranno persi. Non richiede permessi particolari.</string>
+    <string name="install_confirm_question_update_system_no_perms">Vuoi installare un aggiornamento per questa applicazione integrata? I dati esistenti non andranno persi. Non richiede permessi particolari.</string>
+    <string name="install_failed">App non installata.</string>
+    <string name="install_failed_invalid_apk">Il pacchetto potrebbe essere danneggiato.</string>
+    <string name="install_failed_inconsistent_certificates">Un pacchetto esistente con lo stesso nome con una firma in conflitto è già installato.</string>
+    <string name="install_failed_older_sdk">Il pacchetto funziona soltanto su versioni più recenti di Android.</string>
+    <string name="install_failed_cpu_abi_incompatible">"Questa applicazione non è compatibile con il tuo tablet."</string>
+    <string name="install_failed_file_not_found">Il pacchetto specificato è stato eliminato prima del completamento dell\'installazione.</string>
+    <string name="install_failed_verify_failed">Il pacchetto non ha superato la verifica e non può essere installato.</string>
+    <string name="install_failed_verify_timeout">Timeout durante la verifica di questo pacchetto. Riprova più tardi.</string>
+    <string name="install_failed_msg">"Impossibile installare %1$s sul dispositivo."</string>
+    <string name="launch">Apri</string>
+    <string name="unknown_apps_dlg_title">Installazione bloccata</string>
+    <string name="unknown_apps_dlg_text">Il tablet è impostato per bloccare l\'installazione di applicazioni ottenute da origini sconosciute.</string>
+    <string name="unknown_apps_admin_dlg_text">"L'amministratore non consente l'installazione di app ottenute da origini sconosciute."</string>
     <string name="ok">OK</string>
     <string name="settings">Impostazioni</string>
-    <string name="allow_source_dlg_title">New source for apps</string>
+    <string name="allow_source_dlg_title">Nuova sorgente per le app</string>
     <string name="allow_source_dlg_text">"%1$s vuole installare altre app.
 
 Consenti ora e in futuro?"</string>
-    <string name="manage_applications">Manage apps</string>
-    <string name="dlg_app_replacement_title">Replace app?</string>
+    <string name="manage_applications">Gestisci applicazioni</string>
+    <string name="dlg_app_replacement_title">Sostituire l\'app?</string>
     <string name="dlg_app_replacement_statement">"L\'app che stai installando sostituirà un\'altra app.
 
 Tutti i tuoi dati utente precedenti verranno salvati."</string>
     <string name="dlg_sys_app_replacement_statement">"Questa è un\'app di sistema.
 
 Tutti i tuoi dati utente precedenti verranno salvati."</string>
-    <string name="out_of_space_dlg_title">Out of space</string>
-    <string name="out_of_space_dlg_text">"%1$s couldn't be installed. Free up some space and try again."</string>
+    <string name="out_of_space_dlg_title">Spazio insufficiente</string>
+    <string name="out_of_space_dlg_text">"Impossibile installare %1$s. Libera dello spazio e riprova."</string>
     <string name="dlg_ok">OK</string>
-    <string name="app_not_found_dlg_title">App not found</string>
-    <string name="app_not_found_dlg_text">"The app wasn't found in the list of installed apps."</string>
-    <string name="uninstall_application_title">Uninstall app</string>
-    <string name="uninstall_update_title">Uninstall update</string>
-    <string name="uninstall_activity_text">%1$s is part of the following app:</string>
-    <string name="uninstall_application_text">Do you want to uninstall this app?</string>
-    <string name="uninstall_application_text_all_users">Do you want to uninstall this app for <b>all</b> users? The application and its data will be removed from <b>all</b> users on the device.</string>
+    <string name="app_not_found_dlg_title">App non trovata</string>
+    <string name="app_not_found_dlg_text">"Impossibile trovare l'applicazione nell'elenco di applicazioni installate."</string>
+    <string name="uninstall_application_title">Disinstalla app</string>
+    <string name="uninstall_update_title">Disinstalla aggiornamento</string>
+    <string name="uninstall_activity_text">%1$s fa parte della seguente app:</string>
+    <string name="uninstall_application_text">Vuoi disinstallare questa applicazione?</string>
+    <string name="uninstall_application_text_all_users">Vuoi disinstallare questa applicazione per <b>all</b> gli utenti? L\'applicazione e i relativi dati verranno rimossi da <b>all</b> gli utenti configurati sul dispositivo.</string>
     <string name="uninstall_application_text_user">Do you want to uninstall this app for the user %1$s?</string>
     <string name="uninstall_update_text">Do you want to replace this app with the factory version?</string>
     <string name="uninstalling">Uninstalling…</string>
