@@ -101,7 +101,7 @@
         <item>Velocità max (km/h)</item>
         <item>Giri</item>
         <item>Discesa</item>
-        <item>Total downhill</item>
+        <item>Discesa totale</item>
         <item>Discendente</item>
         <item>Corsa</item>
         <item>Tempi sul giro</item>
@@ -114,33 +114,33 @@
         <item>Conteggio totale</item>
         <item>Frequenza media</item>
         <item>Gruppi</item>
-        <item>Lap count</item>
-        <item>Lap time</item>
-        <item>Lap freq</item>
-        <item>Lap time</item>
-        <item>Lap dist.</item>
-        <item>Lap pace</item>
-        <item>Speed for this lap</item>
-        <item>Heart rate in this lap</item>
-        <item>Lap freq.</item>
+        <item>Numero di giri</item>
+        <item>Tempo giro</item>
+        <item>Frequenza giro</item>
+        <item>Tempo giro</item>
+        <item>Distanza giro</item>
+        <item>Ritmo giro</item>
+        <item>Velocità per questo giro</item>
+        <item>Freq. Card. in questo giro</item>
+        <item>Frequenza giro.</item>
         <item>slope</item>
-        <item>Calories</item>
-        <item>Avg. HR</item>
+        <item>Calorie</item>
+        <item>Media FC</item>
         <item>Paddles of this set</item>
-        <item>Frequency</item>
+        <item>Frequenza</item>
         <item>Total paddles</item>
         <item>Paddle frequency</item>
         <item>Pulling duration</item>
         <item>Pushing duration</item>
-        <item>Avg. Freq.</item>
+        <item>Frequenza media.</item>
     </string-array>
     <string-array name="sport_train_item">
-        <item>Remaining distance</item>
-        <item>Total distance</item>
-        <item>Total time</item>
-        <item>Remaining time</item>
-        <item>Distance</item>
+        <item>Distanza rimanente</item>
+        <item>Distanza totale</item>
+        <item>Tempo totale</item>
+        <item>Tempo restante</item>
+        <item>Distanza</item>
         <item>Restante</item>
-        <item>Has rested</item>
+        <item>Si è riposato</item>
     </string-array>
 </resources>
