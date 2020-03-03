@@ -4,43 +4,43 @@
     <string name="action_settings">Nastavenia</string>
     <string name="watch_ota">Aktualizácie hodiniek</string>
     <string name="wifi_disconnect">Pre kontrolu aktualizácií sa pripojte k aplikácii Amazfit</string>
-    <string name="connect_phone_wifi">"Check your phone's network connection to check for updates"</string>
+    <string name="connect_phone_wifi">"Pre kontrolu aktualizácií overte pripojenie k sieti."</string>
     <string name="connect_phone_input_wifi">Pre zadanie Wi-Fi heslá v hodinkách sa pripojte k aplikácii Amazfit</string>
     <string name="wifi_add_item">Pre pridanie nového Wi-Fi hotspotu sa pripojte k aplikácii Amazfit</string>
     <string name="add_wifi">Pridať Wi-Fi</string>
-    <string name="please_update_rom">"An update is available.
-Update now."</string>
+    <string name="please_update_rom">"Aktualizácia je k dispozícii.
+Aktualizovať teraz."</string>
     <string name="checking_rom">Vyhľadávanie aktualizácií…</string>
-    <string name="checking_rom_failed">"Network connection timed out.
-Try again."</string>
-    <string name="current_is_new">Current version is up to date.</string>
-    <string name="has_new_rom">"An update is available.
-Update to version %1$s?"</string>
-    <string name="has_new_rom_all">"An update is available.
-Firmware on this watch is old. Updating may take a while."</string>
+    <string name="checking_rom_failed">Vypršal časový limit pre pripojenie k sieti.
+Skúste to znova.\"</string>
+    <string name="current_is_new">Súčasná verzia je aktuálna.</string>
+    <string name="has_new_rom">"Aktualizácia je k dispozícii.
+Aktualizovať na verziu %1$s?"</string>
+    <string name="has_new_rom_all">"Je k dispozícii aktualizácia.
+Firmware na týchto hodinkách je starý. Aktualizácia môže chvíľu trvať. "</string>
     <string name="input_passwor_on_mobile">\"Zadajte heslo k Wi-Fi
 v aplikácii Amazfit</string>
     <string name="processbar_downloading_rom">Sťahovanie…</string>
     <string name="please_keep_wifi_connect">"Neodpájajte sa od Wi-Fi"</string>
     <string name="processbar_downloading_tips">%</string>
     <string name="processbar_downloading_default">0</string>
-    <string name="download_rom_faild">"Couldn\'t download updates.
-Try again."</string>
-    <string name="download_rom_success">"Downloaded ROM successfully.
-Install now."</string>
-    <string name="low_battery_message">"Downloaded updates successfully.
-Battery must be at least %1$s%% charged to install updates."</string>
+    <string name="download_rom_faild">"Sťahovanie aktualizácie zlyhalo,
+ skúste to znova."</string>
+    <string name="download_rom_success">"ROM stiahnutá úspešne.
+Inštalovať teraz."</string>
+    <string name="low_battery_message">"Aktualizácia stiahnuté úspešne.
+Batérie musia mať minimálne %1$s%% pre inštaláciu aktualizácií. "</string>
     <string name="low_battery_title">Pripojiť nabíjačku</string>
     <string name="progressbar_tips">Kontrola…</string>
     <string name="progressbar_percent">%1$d%%</string>
-    <string name="low_mem">"Not enough storage space for an update.
-Free up %1$sMB to update."</string>
-    <string name="update_network_error">"Couldn\'t check for updates.
-Try again later."</string>
-    <string name="cancel_download">"Cancel downloading
-updates?"</string>
-    <string name="new_rom_please_install">"An update is available.
-Update now."</string>
+    <string name="low_mem">"Nedostatok miesta v úložisku pre aktualizáciu.
+Uvoľnite %1$sMB pre aktualizáciu. "</string>
+    <string name="update_network_error">"Kontrola aktualizácie zlyhala,
+skúste to prosím neskôr"</string>
+    <string name="cancel_download">"Zrušiť sťahovanie
+aktualizácií?"</string>
+    <string name="new_rom_please_install">"Aktualizácia je k dispozícii.
+Aktualizovať teraz."</string>
     <string name="btn_install_later">Pripomenúť neskôr</string>
     <string name="btn_install_now">Inštalovať teraz</string>
     <string name="btn_upgrade_now">Aktualizovať teraz</string>
@@ -58,14 +58,14 @@ Update now."</string>
     <string name="wifi_turnon_going">Zapínanie Wi-Fi…</string>
     <string name="system_update_title">Úspešne aktualizované</string>
     <string name="system_update_content">Úspešne aktualizované na verziu %1$s</string>
-    <string name="password_error">"Wi-Fi password is incorrect.
-Enter again."</string>
-    <string name="wifi_connect_fail">"Can\'t connect to this
-Wi-Fi network.
-Try another one."</string>
+    <string name="password_error">"Nesprávne heslo k Wi-Fi,
+zadajte ho prosím znova"</string>
+    <string name="wifi_connect_fail">"Nedá sa pripojiť k tejto
+WiFi sieti. prosím,
+vyskúšajte inú."</string>
     <string name="searching">Vyhľadávanie…</string>
     <string name="hasNewUpdateTitle">Je dostupná aktualizácia</string>
-    <string name="hasNewUpdateInstallContent">Version %1$s is ready to install. Install now?</string>
+    <string name="hasNewUpdateInstallContent">Verzia %1$s je pripravená na inštaláciu. Inštalovať teraz?</string>
     <string name="hasNewUpdateCheckContent">Version %1$s is available. Update now?</string>
     <string name="update_title">Select update method</string>
     <string name="update_online">OTA aktualizácie</string>
