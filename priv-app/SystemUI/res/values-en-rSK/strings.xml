@@ -476,10 +476,10 @@ Tiež ste pripojení k VPN (\"%3$s\"). Poskytovateľ služieb VPN môže tiež s
     <string name="keyguard_accessibility_transport_thumbs_down_description">Palec dole</string>
     <string name="keyguard_accessibility_transport_heart_description">Srdce</string>
     <string name="keyguard_accessibility_show_bouncer">Odomknúť pre pokračovanie</string>
-    <string name="keyguard_accessibility_hide_bouncer">Launch canceled</string>
-    <string name="keyguard_accessibility_delete_widget_start">Drop %1$s to delete.</string>
-    <string name="keyguard_accessibility_delete_widget_end">%1$s will not be deleted.</string>
-    <string name="keyguard_accessibility_next_alarm">Next alarm set for %1$s</string>
+    <string name="keyguard_accessibility_hide_bouncer">Spustenie zrušené</string>
+    <string name="keyguard_accessibility_delete_widget_start">Pustiť %1$s pre odstránenie.</string>
+    <string name="keyguard_accessibility_delete_widget_end">%1$s nebude zmazaný.</string>
+    <string name="keyguard_accessibility_next_alarm">Ďalšie budík nastavený na %1$s</string>
     <string name="password_keyboard_label_symbol_key">\?123</string>
     <string name="password_keyboard_label_alpha_key">ABC</string>
     <string name="password_keyboard_label_alt_key">ALT</string>
@@ -487,39 +487,39 @@ Tiež ste pripojení k VPN (\"%3$s\"). Poskytovateľ služieb VPN môže tiež s
     <string name="keyboardview_keycode_cancel">Zrušiť</string>
     <string name="keyboardview_keycode_delete">Vymazať</string>
     <string name="keyboardview_keycode_done">Hotovo</string>
-    <string name="keyboardview_keycode_mode_change">Mode change</string>
-    <string name="keyboardview_keycode_shift">Shift</string>
-    <string name="keyboardview_keycode_enter">Enter</string>
-    <string name="description_target_unlock">Unlock</string>
-    <string name="description_target_camera">Camera</string>
-    <string name="description_target_silent">Silent</string>
-    <string name="description_target_soundon">Sound on</string>
-    <string name="description_direction_down">Slide down for %s.</string>
-    <string name="description_direction_right">Slide right for %s.</string>
-    <string name="user_switched">Current user %1$s.</string>
-    <string name="kg_emergency_call_label">Emergency call</string>
-    <string name="kg_forgot_pattern_button_text">Forgot Pattern</string>
-    <string name="kg_wrong_pattern">Wrong Pattern</string>
-    <string name="kg_wrong_password">Wrong Password</string>
+    <string name="keyboardview_keycode_mode_change">Zmena režimu</string>
+    <string name="keyboardview_keycode_shift">Posun</string>
+    <string name="keyboardview_keycode_enter">Zadať</string>
+    <string name="description_target_unlock">Odomknúť</string>
+    <string name="description_target_camera">Kamera</string>
+    <string name="description_target_silent">Tichý</string>
+    <string name="description_target_soundon">Zapnúť zvuk</string>
+    <string name="description_direction_down">Posuňte dole pre %s.</string>
+    <string name="description_direction_right">Posuňte vpravo pre %s.</string>
+    <string name="user_switched">Aktuálny používateľ %1$s.</string>
+    <string name="kg_emergency_call_label">Tiesňové volanie</string>
+    <string name="kg_forgot_pattern_button_text">Zabudnutý vzor</string>
+    <string name="kg_wrong_pattern">Nesprávny vzor</string>
+    <string name="kg_wrong_password">Nesprávne heslo</string>
     <string name="kg_wrong_pin">Nesprávny PIN</string>
-    <string name="kg_too_many_failed_attempts_countdown">Try again in %d seconds.</string>
-    <string name="kg_pattern_instructions">Draw your pattern</string>
-    <string name="kg_sim_pin_instructions">Enter SIM PIN</string>
-    <string name="kg_sim_pin_instructions_multi">Enter SIM PIN for \"%1$s\"</string>
-    <string name="kg_pin_instructions">Enter PIN</string>
-    <string name="kg_password_instructions">Enter Password</string>
-    <string name="kg_puk_enter_puk_hint">SIM is now disabled. Enter PUK code to continue. Contact carrier for details.</string>
-    <string name="kg_puk_enter_puk_hint_multi">SIM \"%1$s\" is now disabled. Enter PUK code to continue. Contact carrier for details.</string>
-    <string name="kg_puk_enter_pin_hint">Enter desired PIN code</string>
-    <string name="kg_enter_confirm_pin_hint">Confirm desired PIN code</string>
-    <string name="kg_sim_unlock_progress_dialog_message">Unlocking SIM card…</string>
-    <string name="kg_invalid_sim_pin_hint">Type a PIN that is 4 to 8 numbers.</string>
-    <string name="kg_invalid_sim_puk_hint">PUK code should be 8 numbers or more.</string>
-    <string name="kg_invalid_puk">Re-enter the correct PUK code. Repeated attempts will permanently disable the SIM.</string>
-    <string name="kg_invalid_confirm_pin_hint">PIN codes does not match</string>
-    <string name="kg_login_too_many_attempts">Too many pattern attempts</string>
-    <string name="kg_login_instructions">To unlock, sign in with your Google account.</string>
-    <string name="kg_login_username_hint">Username (email)</string>
+    <string name="kg_too_many_failed_attempts_countdown">Skúste to znova o %d sekúnd.</string>
+    <string name="kg_pattern_instructions">Nakreslite svoj vzor</string>
+    <string name="kg_sim_pin_instructions">Zadajte PIN SIM karty</string>
+    <string name="kg_sim_pin_instructions_multi">Zadajte PIN SIM karty pre \"%1$s\"</string>
+    <string name="kg_pin_instructions">Zadajte PIN</string>
+    <string name="kg_password_instructions">Zadajte Heslo</string>
+    <string name="kg_puk_enter_puk_hint">SIM karta je teraz zakázaná. Zadajte kód PUK pre pokračovanie. Pre podrobnosti kontaktujte operátora.</string>
+    <string name="kg_puk_enter_puk_hint_multi">SIM karta \"%1$s\" je teraz zakázaná. Zadajte kód PUK pre pokračovanie. Pre podrobnosti kontaktujte operátora.</string>
+    <string name="kg_puk_enter_pin_hint">Zadajte požadovaný kód PIN</string>
+    <string name="kg_enter_confirm_pin_hint">Potvrdiť požadovaný PIN kód</string>
+    <string name="kg_sim_unlock_progress_dialog_message">Odomykanie SIM karty...</string>
+    <string name="kg_invalid_sim_pin_hint">Zadajte PIN2 s dĺžkou 4 až 8 číslic.</string>
+    <string name="kg_invalid_sim_puk_hint">Kód PUK by mal mať 8 alebo viac čísel.</string>
+    <string name="kg_invalid_puk">Nesprávny PIN SIM karty, teraz musíte kontaktovať operátora pre odomknutie zariadenia.</string>
+    <string name="kg_invalid_confirm_pin_hint">PIN kódy sa nezhodujú</string>
+    <string name="kg_login_too_many_attempts">Príliš veľa pokusov o vzor</string>
+    <string name="kg_login_instructions">Ak chcete odomknúť, prihláste sa pomocou svojho účtu Google.</string>
+    <string name="kg_login_username_hint">Užívateľské meno (e-mail)</string>
     <string name="kg_login_password_hint">Heslo</string>
     <string name="kg_login_submit_button">Prihlásiť sa</string>
     <string name="kg_login_invalid_input">Neplatné používateľské meno alebo heslo.</string>
@@ -535,20 +535,20 @@ Opakujte o %d sekúnd."</string>
     <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"%d krát ste nesprávne ste nakreslili vzor pre odomknutie. 
 
 Opakujte o %d sekúnd."</string>
-    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">You have incorrectly attempted to unlock the tablet %d times. After %d more unsuccessful attempts, this tablet will be reset, which will delete all its data.</string>
-    <string name="kg_failed_attempts_now_wiping">You have incorrectly attempted to unlock the tablet %d times. This tablet will be reset, which will delete all its data.</string>
-    <string name="kg_failed_attempts_almost_at_erase_user" formatted="false">You have incorrectly attempted to unlock the tablet %d times. After %d more unsuccessful attempts, this user will be removed, which will delete all user data.</string>
-    <string name="kg_failed_attempts_now_erasing_user">You have incorrectly attempted to unlock the tablet %d times. This user will be removed, which will delete all user data.</string>
-    <string name="kg_failed_attempts_almost_at_erase_profile" formatted="false">You have incorrectly attempted to unlock the tablet %d times. After %d more unsuccessful attempts, the work profile will be removed, which will delete all profile data.</string>
-    <string name="kg_failed_attempts_now_erasing_profile">You have incorrectly attempted to unlock the tablet %d times. The work profile will be removed, which will delete all profile data.</string>
+    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Neúspešne ste sa pokúsili odomknúť tablet %d krát. Po ďalších %d neúspešných pokusoch bude tento tablet resetovaný, čím sa odstránia všetky jeho dáta.</string>
+    <string name="kg_failed_attempts_now_wiping">Neúspešne ste sa pokúšali odomknúť tablet %d krát. Tento tablet bude resetovaný, čím sa odstránia všetky dáta.</string>
+    <string name="kg_failed_attempts_almost_at_erase_user" formatted="false">Neúspešne ste sa pokúsili odomknúť tablet %d krát. Po %d neúspešných pokusoch bude tento používateľ odstránený, čím sa odstránia všetky používateľské údaje.</string>
+    <string name="kg_failed_attempts_now_erasing_user">Neúspešne ste sa pokúsili odomknúť tablet %d krát. Tento užívateľ bude odstránený, čím sa odstránia všetky používateľské údaje.</string>
+    <string name="kg_failed_attempts_almost_at_erase_profile" formatted="false">Neúspešne ste sa pokúsili odomknúť tablet %d krát. Po ďalších %d neúspešných pokusoch bude odstránený pracovný profil, čím sa odstránia všetky dáta profilu.</string>
+    <string name="kg_failed_attempts_now_erasing_profile">Neúspešne ste sa pokúsili odomknúť tablet %d krát. Pracovný profil bude odstránený, čím sa odstránia všetky dáta profilu.</string>
     <string name="kg_failed_attempts_almost_at_login" formatted="false">"Neúspešne ste nakreslili vzhľad odomknutia %d krát. Po ďalších %d neúspešných pokusoch budete požiadaní o odblokovanie tabletu pomocou e-mailového konta.
 
  Opakujte o %d sekúnd."</string>
     <string name="kg_reordering_delete_drop_target_text">Odstrániť</string>
-    <string name="kg_password_wrong_pin_code_pukked">Incorrect SIM PIN code you must now contact your carrier to unlock your device.</string>
-    <string name="kg_password_wrong_puk_code_dead">SIM is unusable. Contact your carrier.</string>
-    <string name="kg_password_pin_failed">SIM PIN operation failed!</string>
-    <string name="kg_password_puk_failed">SIM PUK operation failed!</string>
+    <string name="kg_password_wrong_pin_code_pukked">Nesprávny PIN SIM karty, teraz musíte kontaktovať operátora pre odomknutie zariadenia.</string>
+    <string name="kg_password_wrong_puk_code_dead">SIM karta je nepoužiteľná. Obráťte sa na svojho operátora.</string>
+    <string name="kg_password_pin_failed">Operácia PIN SIM karty zlyhala!</string>
+    <string name="kg_password_puk_failed">Operácia PUK SIM karty zlyhala!</string>
     <string name="kg_pin_accepted">Kód prijatý!</string>
     <string name="keyguard_transport_prev_description">Tlačidlo predošlej skladby</string>
     <string name="keyguard_transport_next_description">Tlačidlo ďalšej skladby</string>
