@@ -8,7 +8,7 @@
         <item>Germogli di grano</item>
         <item>Solstizio d\'estate</item>
         <item>Caldo intenso</item>
-        <item>End of Heat</item>
+        <item>Fine del caldo</item>
         <item>Equinozio d\'autunno</item>
         <item>"Brusco calo termico"</item>
         <item>Neve Fine</item>
@@ -35,32 +35,32 @@
         <item>30° giorno del calendario lunare</item>
     </string-array>
     <string-array name="quick_settings_status_chineseNumber">
-        <item>Lunar Jan</item>
-        <item>Lunar Feb</item>
-        <item>Lunar Mar</item>
-        <item>Lunar Apr</item>
-        <item>Lunar May</item>
-        <item>Lunar Jun</item>
-        <item>Lunar Jul</item>
-        <item>Lunar Aug</item>
-        <item>Lunar Sep</item>
-        <item>Lunar Oct</item>
-        <item>Lunar Nov</item>
-        <item>Lunar Dec</item>
+        <item>Gen Lunare</item>
+        <item>Feb Lunare</item>
+        <item>Mar lunare</item>
+        <item>Apr lunare</item>
+        <item>Mag Lunare</item>
+        <item>Giu Lunare</item>
+        <item>Lug lunare</item>
+        <item>Ago lunare</item>
+        <item>Set. Lunare</item>
+        <item>Ott. Lunare</item>
+        <item>Nov. Lunare</item>
+        <item>Dic. Lunare</item>
     </string-array>
     <string-array name="quick_settings_status_chineseMonthNumber">
-        <item>Lunar Jan</item>
-        <item>Lunar Feb</item>
-        <item>Lunar Mar</item>
-        <item>Lunar Apr</item>
-        <item>Lunar May</item>
-        <item>Lunar Jun</item>
-        <item>Lunar Jul</item>
-        <item>Lunar Aug</item>
-        <item>Lunar Sep</item>
-        <item>Lunar Oct</item>
-        <item>Lunar Nov</item>
-        <item>Lunar Dec</item>
+        <item>Gen Lunare</item>
+        <item>Feb Lunare</item>
+        <item>Mar lunare</item>
+        <item>Apr lunare</item>
+        <item>Mag Lunare</item>
+        <item>Giu Lunare</item>
+        <item>Lug lunare</item>
+        <item>Ago lunare</item>
+        <item>Set. Lunare</item>
+        <item>Ott. Lunare</item>
+        <item>Nov. Lunare</item>
+        <item>Dic. Lunare</item>
     </string-array>
     <string-array name="weekdays">
         <item>Dom</item>
@@ -74,34 +74,34 @@
     <string-array name="sport_data_item_array">
         <item></item>
         <item>Ora</item>
-        <item>Distance</item>
-        <item>Pace</item>
-        <item>Avg pace</item>
-        <item>Heart rate</item>
-        <item>Calories</item>
-        <item>Altitude</item>
+        <item>Distanza</item>
+        <item>Ritmo</item>
+        <item>Passo medio</item>
+        <item>Battito cardiaco</item>
+        <item>Calorie</item>
+        <item>Altitudine</item>
         <item>Elev gain</item>
         <item>Elev loss</item>
-        <item>Speed</item>
-        <item>Avg speed</item>
-        <item>Cadence</item>
+        <item>Velocità</item>
+        <item>Velocità media</item>
+        <item>Cadenza</item>
         <item>Dist gain</item>
-        <item>Steps</item>
-        <item>Cadence</item>
-        <item>Laps</item>
+        <item>Passi</item>
+        <item>Cadenza</item>
+        <item>Giri</item>
         <item>DPS</item>
-        <item>Stroke rate</item>
-        <item>Avg SPM</item>
-        <item>Pace</item>
-        <item>Avg pace</item>
-        <item>Distance</item>
+        <item>Ritmo tratto</item>
+        <item>SPM media</item>
+        <item>Ritmo</item>
+        <item>Passo medio</item>
+        <item>Distanza</item>
         <item>TE</item>
         <item>Vert speed</item>
-        <item>Avg speed</item>
+        <item>Velocità media</item>
         <item>Velocità max (km/h)</item>
         <item>Giri</item>
         <item>Discesa</item>
-        <item>Total downhill</item>
+        <item>Discesa totale</item>
         <item>Discendente</item>
         <item>Corsa</item>
         <item>Tempi sul giro</item>
@@ -114,33 +114,33 @@
         <item>Conteggio totale</item>
         <item>Frequenza media</item>
         <item>Gruppi</item>
-        <item>Lap count</item>
-        <item>Lap time</item>
-        <item>Lap freq</item>
-        <item>Lap time</item>
-        <item>Lap dist.</item>
-        <item>Lap pace</item>
-        <item>Speed for this lap</item>
-        <item>Heart rate in this lap</item>
-        <item>Lap freq.</item>
+        <item>Numero di giri</item>
+        <item>Tempo giro</item>
+        <item>Frequenza giro</item>
+        <item>Tempo giro</item>
+        <item>Distanza giro</item>
+        <item>Ritmo giro</item>
+        <item>Velocità per questo giro</item>
+        <item>Freq. Card. in questo giro</item>
+        <item>Frequenza giro.</item>
         <item>slope</item>
-        <item>Calories</item>
-        <item>Avg. HR</item>
+        <item>Calorie</item>
+        <item>Media FC</item>
         <item>Paddles of this set</item>
-        <item>Frequency</item>
+        <item>Frequenza</item>
         <item>Total paddles</item>
         <item>Paddle frequency</item>
         <item>Pulling duration</item>
         <item>Pushing duration</item>
-        <item>Avg. Freq.</item>
+        <item>Frequenza media.</item>
     </string-array>
     <string-array name="sport_train_item">
-        <item>Remaining distance</item>
-        <item>Total distance</item>
-        <item>Total time</item>
-        <item>Remaining time</item>
-        <item>Distance</item>
+        <item>Distanza rimanente</item>
+        <item>Distanza totale</item>
+        <item>Tempo totale</item>
+        <item>Tempo restante</item>
+        <item>Distanza</item>
         <item>Restante</item>
-        <item>Has rested</item>
+        <item>Si è riposato</item>
     </string-array>
 </resources>

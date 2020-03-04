@@ -1,66 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="quick_settings_status_principleTerm">
-        <item>Major Cold</item>
-        <item>Rain Water</item>
-        <item>Spring Equinox</item>
-        <item>Grain Rain</item>
-        <item>Grain Buds</item>
-        <item>Summer Solstice</item>
-        <item>Major Heat</item>
-        <item>End of Heat</item>
-        <item>Autumn Equinox</item>
-        <item>"Frost's Descent"</item>
-        <item>Minor Snow</item>
-        <item>Winter Solstice</item>
+        <item>Große Kälte</item>
+        <item>Regenwasser</item>
+        <item>Frühjahrsanfang</item>
+        <item>Hagel</item>
+        <item>Hagel</item>
+        <item>Sommersonnenwende</item>
+        <item>Große Hitze</item>
+        <item>Ende der Hitze</item>
+        <item>Herbstanfang</item>
+        <item>"Eisheiligen"</item>
+        <item>Wenig Schnee</item>
+        <item>Winterwende</item>
     </string-array>
     <string-array name="quick_settings_status_sectionalTerm">
-        <item>Minor Cold</item>
-        <item>Start of Spring</item>
-        <item>Awakening of Insects</item>
-        <item>Clear and Bright</item>
-        <item>Start of Summer</item>
-        <item>Grain in Ear</item>
-        <item>Minor Heat</item>
-        <item>Start of Autumn</item>
-        <item>White Dew</item>
-        <item>Cold Dew</item>
-        <item>Start of Winter</item>
-        <item>Major Snow</item>
+        <item>Kleinere Erkältung</item>
+        <item>Frühjahrsanfang</item>
+        <item>Erwachen von Insekten</item>
+        <item>Klar und hell</item>
+        <item>Sommeranfang</item>
+        <item>Korn im Ohr</item>
+        <item>Geringe Hitze</item>
+        <item>Herbstanfang</item>
+        <item>Weißer Tau</item>
+        <item>Kalter Tau</item>
+        <item>Winteranfang</item>
+        <item>Großer Schnee</item>
     </string-array>
     <string-array name="quick_settings_status_chineseTen">
-        <item>The</item>
-        <item>10th of the lunar calendar</item>
-        <item>20th of the lunar calendar</item>
-        <item>30th of the lunar calendar</item>
+        <item>Die</item>
+        <item>10. des Mondkalenders</item>
+        <item>20. des Mondkalenders</item>
+        <item>30. des Mondkalenders</item>
     </string-array>
     <string-array name="quick_settings_status_chineseNumber">
-        <item>Lunar Jan</item>
-        <item>Lunar Feb</item>
-        <item>Lunar Mar</item>
-        <item>Lunar Apr</item>
-        <item>Lunar May</item>
-        <item>Lunar Jun</item>
-        <item>Lunar Jul</item>
-        <item>Lunar Aug</item>
-        <item>Lunar Sep</item>
-        <item>Lunar Oct</item>
-        <item>Lunar Nov</item>
-        <item>Lunar Dec</item>
+        <item>Jan Mond</item>
+        <item>Feb Mond</item>
+        <item>Mär Mond</item>
+        <item>Apr Mond</item>
+        <item>Mai Mond</item>
+        <item>Jun Mond</item>
+        <item>Jul Mond</item>
+        <item>Aug Mond</item>
+        <item>Sept Mond</item>
+        <item>Okt Mond</item>
+        <item>Nov Mond</item>
+        <item>Dez Mond</item>
     </string-array>
     <string-array name="quick_settings_status_chineseMonthNumber">
-        <item>Lunar Jan</item>
-        <item>Lunar Feb</item>
-        <item>Lunar Mar</item>
-        <item>Lunar Apr</item>
-        <item>Lunar May</item>
-        <item>Lunar Jun</item>
-        <item>Lunar Jul</item>
-        <item>Lunar Aug</item>
-        <item>Lunar Sep</item>
-        <item>Lunar Oct</item>
-        <item>Lunar Nov</item>
-        <item>Lunar Dec</item>
+        <item>Jan Mond</item>
+        <item>Feb Mond</item>
+        <item>Mär Mond</item>
+        <item>Apr  Mond</item>
+        <item>Mai Mond</item>
+        <item>Jun Mond</item>
+        <item>Jul Mond</item>
+        <item>Aug Mond</item>
+        <item>Sep Mond</item>
+        <item>Okt Mond</item>
+        <item>Novembermond</item>
+        <item>Dezembermond</item>
     </string-array>
     <string-array name="weekdays">
         <item>Son</item>
@@ -74,14 +74,14 @@
     <string-array name="sport_data_item_array">
         <item></item>
         <item>Zeit</item>
-        <item>Distance</item>
-        <item>Pace</item>
-        <item>Avg pace</item>
-        <item>Heart rate</item>
-        <item>Calories</item>
+        <item>Entfernung</item>
+        <item>Tempo</item>
+        <item>Durch. Tempo</item>
+        <item>Pulsschlag</item>
+        <item>Kalorien</item>
         <item>Höhe über Meer</item>
-        <item>Elev gain</item>
-        <item>Elev loss</item>
+        <item>Gewinn Erhöhen</item>
+        <item>Verlust erhöhen</item>
         <item>Speed</item>
         <item>Avg speed</item>
         <item>Cadence</item>
@@ -122,12 +122,12 @@
         <item>Lap pace</item>
         <item>Speed for this lap</item>
         <item>Heart rate in this lap</item>
-        <item>Lap freq.</item>
+        <item>Rundenfrequenz</item>
         <item>Neigung</item>
         <item>Kalorien</item>
-        <item>Avg. HR</item>
-        <item>Paddles of this set</item>
-        <item>Frequency</item>
+        <item>Durchschn. HR</item>
+        <item>Paddel dieses Sets</item>
+        <item>Frequenz</item>
         <item>Total paddles</item>
         <item>Paddle frequency</item>
         <item>Pulling duration</item>
