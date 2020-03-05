@@ -16,7 +16,7 @@
     <string name="status_bar_no_notifications_title">No notifications</string>
     <string name="status_bar_ongoing_events_title">Ongoing</string>
     <string name="status_bar_latest_events_title">Notifications</string>
-    <string name="battery_low_title">Battery is low</string>
+    <string name="battery_low_title">Niedriger Akkustand</string>
     <string name="battery_low_percent_format">%s verbleibend</string>
     <string name="battery_low_percent_format_saver_started">%s verbleibend. Energiesparmodus ist aktiv.</string>
     <string name="invalid_charger">"USB-Ladevorgang wird nicht unterstützt.
@@ -83,10 +83,10 @@ Verwenden Sie nur geeignete Ladegeräte."</string>
     <string name="accessibility_bluetooth_connected">Bluetooth connected.</string>
     <string name="accessibility_bluetooth_disconnected">Bluetooth disconnected.</string>
     <string name="accessibility_no_battery">No battery.</string>
-    <string name="accessibility_battery_one_bar">Battery one bar.</string>
-    <string name="accessibility_battery_two_bars">Battery two bars.</string>
-    <string name="accessibility_battery_three_bars">Battery three bars.</string>
-    <string name="accessibility_battery_full">Battery full.</string>
+    <string name="accessibility_battery_one_bar">Akku - ein Balken</string>
+    <string name="accessibility_battery_two_bars">Akku - zwei Balken</string>
+    <string name="accessibility_battery_three_bars">Akku - drei Balken</string>
+    <string name="accessibility_battery_full">Akku voll.</string>
     <string name="accessibility_no_phone">No phone.</string>
     <string name="accessibility_phone_one_bar">Phone one bar.</string>
     <string name="accessibility_phone_two_bars">Phone two bars.</string>
@@ -135,7 +135,7 @@ Verwenden Sie nur geeignete Ladegeräte."</string>
     <string name="accessibility_no_sim">No SIM.</string>
     <string name="accessibility_bluetooth_tether">Bluetooth tethering.</string>
     <string name="accessibility_airplane_mode">Flugmodus.</string>
-    <string name="accessibility_battery_level">Battery %d percent.</string>
+    <string name="accessibility_battery_level">Akku %d Prozent.</string>
     <string name="accessibility_settings_button">System settings.</string>
     <string name="accessibility_notifications_button">Notifications.</string>
     <string name="accessibility_remove_notification">Clear notification.</string>
@@ -159,7 +159,7 @@ Verwenden Sie nur geeignete Ladegeräte."</string>
     <string name="accessibility_quick_settings_wifi_changed_off">Wifi turned off.</string>
     <string name="accessibility_quick_settings_wifi_changed_on">Wifi turned on.</string>
     <string name="accessibility_quick_settings_mobile">Mobile %1$s. %2$s. %3$s.</string>
-    <string name="accessibility_quick_settings_battery">Battery %s.</string>
+    <string name="accessibility_quick_settings_battery">Akku %s.</string>
     <string name="accessibility_quick_settings_airplane_off">Flugmodus deaktiviert.</string>
     <string name="accessibility_quick_settings_airplane_on">Flugmodus aktiviert.</string>
     <string name="accessibility_quick_settings_airplane_changed_off">Flugmodus ist deaktiviert.</string>
@@ -218,7 +218,7 @@ Das erneute Einschalten kann zu Gebühren von Ihrem Mobilfunkanbieter führen."<
     <string name="quick_settings_bluetooth_multiple_devices_label">Bluetooth (%d Devices)</string>
     <string name="quick_settings_bluetooth_off_label">Bluetooth Off</string>
     <string name="quick_settings_bluetooth_detail_empty_text">No paired devices available</string>
-    <string name="quick_settings_brightness_label">Brightness</string>
+    <string name="quick_settings_brightness_label">Helligkeit</string>
     <string name="quick_settings_rotation_unlocked_label">Auto-rotate</string>
     <string name="quick_settings_rotation_locked_label">Rotation locked</string>
     <string name="quick_settings_rotation_locked_portrait_label">Portrait</string>
@@ -244,7 +244,7 @@ Das erneute Einschalten kann zu Gebühren von Ihrem Mobilfunkanbieter führen."<
     <string name="quick_settings_cast_device_default_name">Unnamed device</string>
     <string name="quick_settings_cast_device_default_description">Ready to cast</string>
     <string name="quick_settings_cast_detail_empty_text">No devices available</string>
-    <string name="quick_settings_brightness_dialog_title">Brightness</string>
+    <string name="quick_settings_brightness_dialog_title">Helligkeit</string>
     <string name="quick_settings_brightness_dialog_auto_brightness_label">AUTO</string>
     <string name="quick_settings_inversion_label">Invert colors</string>
     <string name="quick_settings_color_space_label">Color correction mode</string>
@@ -309,7 +309,7 @@ Das erneute Einschalten kann zu Gebühren von Ihrem Mobilfunkanbieter führen."<
     <string name="guest_wipe_session_title">Welcome back, guest!</string>
     <string name="guest_wipe_session_message">Do you want to continue your session?</string>
     <string name="guest_wipe_session_wipe">Start over</string>
-    <string name="guest_wipe_session_dontwipe">Yes, continue</string>
+    <string name="guest_wipe_session_dontwipe">Ja, fortfahren</string>
     <string name="user_add_user_title">Neuen Benutzer hinzufügen?</string>
     <string name="user_add_user_message_short">"Wenn Sie einen neuen Benutzer hinzufügen, muss diese Person ihren Speicherplatz einrichten. 
 
@@ -400,14 +400,14 @@ Außerdem sind Sie mit einem VPN verbunden (\"%3$s\"). Ihr VPN-Dienstanbieter ka
     <string name="keyguard_indication_trust_disabled">Device will stay locked until you manually unlock</string>
     <string name="hidden_notifications_title">Get notifications faster</string>
     <string name="hidden_notifications_text">See them before you unlock</string>
-    <string name="hidden_notifications_cancel">No thanks</string>
+    <string name="hidden_notifications_cancel">Nein, danke</string>
     <string name="hidden_notifications_setup">Set up</string>
     <string name="zen_mode_and_condition">%1$s. %2$s</string>
     <string name="screen_pinning_title">Screen is pinned</string>
     <string name="screen_pinning_description">This keeps it in view until you unpin. Touch and hold Back and Overview at the same time to unpin.</string>
     <string name="screen_pinning_description_accessible">This keeps it in view until you unpin. Touch and hold Overview to unpin.</string>
     <string name="screen_pinning_positive">Got it</string>
-    <string name="screen_pinning_negative">No thanks</string>
+    <string name="screen_pinning_negative">Nein, danke</string>
     <string name="quick_settings_reset_confirmation_title">Hide %1$s?</string>
     <string name="quick_settings_reset_confirmation_message">It will reappear the next time you turn it on in settings.</string>
     <string name="quick_settings_reset_confirmation_button">Hide</string>
@@ -484,7 +484,7 @@ Wenden Sie sich an Ihren Mobilfunkanbieter, um eine andere SIM-Karte zu erhalten
     <string name="keyguard_accessibility_next_alarm">Next alarm set for %1$s</string>
     <string name="password_keyboard_label_symbol_key">\?123</string>
     <string name="password_keyboard_label_alpha_key">ABC</string>
-    <string name="password_keyboard_label_alt_key">ALT</string>
+    <string name="password_keyboard_label_alt_key">Alt</string>
     <string name="keyboardview_keycode_alt">Alt</string>
     <string name="keyboardview_keycode_cancel">Abbrechen</string>
     <string name="keyboardview_keycode_delete">Löschen</string>
