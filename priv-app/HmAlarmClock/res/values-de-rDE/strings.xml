@@ -2,20 +2,20 @@
 <resources>
     <string name="title_activity_stopwatch">StopwatchActivity</string>
     <string name="title_activity_stop_watch_lap_list">StopWatchLapListActivity</string>
-    <string name="day_concat">/</string>
+    <string name="day_concat">.</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Einstellungen</string>
     <string name="app_name">HM Clock</string>
     <string name="every_day">Jeden Tag</string>
     <string name="never">Never</string>
     <string name="default_label">Alarm</string>
-    <string name="day">1 day</string>
+    <string name="day">1 Tag</string>
     <string name="days">%s Tage</string>
-    <string name="hour">1 hour</string>
+    <string name="hour">1 Stunde</string>
     <string name="hours">%s Stunden</string>
     <string name="minute">m</string>
     <string name="minutes">%s Minuten</string>
-    <string name="new_alarm">Add alarm</string>
+    <string name="new_alarm">Wecker hinzufügen</string>
     <string name="more">Alarms</string>
     <string name="please_edit_alarm">Edit time</string>
     <string name="next_alarm">Next alarm</string>
@@ -38,10 +38,10 @@
     <string name="stop_watch_right_button_positive">Resume</string>
     <string name="stop_watch_start_button">Start</string>
     <string name="stop_watch_right_button_negative">Stop</string>
-    <string name="stop_watch_lap_text">%d laps</string>
+    <string name="stop_watch_lap_text">%d Runden</string>
     <string name="stop_watch_default_lap">Stopwatch</string>
     <string name="stop_watch_default_lap_time">00:00.00</string>
-    <string name="stop_watch_lap_list_title_text">%d laps</string>
+    <string name="stop_watch_lap_list_title_text">%d Runden</string>
     <string name="count_down_title">Timer</string>
     <string name="count_down_default_new">New timer</string>
     <string name="count_down_end">Timer stopped</string>
