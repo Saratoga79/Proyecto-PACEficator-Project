@@ -159,7 +159,7 @@
     <string name="widget_weeklyreports_heart_rate_max_reset_text">Max resting HR</string>
     <string name="widget_weeklyreports_heart_rate_title">Heart rate</string>
     <string name="widget_weeklyreports_average_title">Durchschnitt</string>
-    <string name="widget_weeklyreports_average_reset_title">Average resting HR</string>
+    <string name="widget_weeklyreports_average_reset_title">⌀ Ruhe-Herz-Freq.</string>
     <string name="widget_weeklyreports_totalcalory_front">Total calories</string>
     <string name="widget_weeklyreports_totalcalory_title">Calories</string>
     <string name="widget_weeklyreports_sports_title">Sports</string>
@@ -183,7 +183,7 @@
     <string name="weeklysports_totalmileage">Total distance</string>
     <string name="weeklysports_totalmileage_unit_zh">km</string>
     <string name="weeklysports_totalmileage_unit_en">mi</string>
-    <string name="weeklysports_averageheart">Avg heart rate</string>
+    <string name="weeklysports_averageheart">⌀ Herz-Freq.</string>
     <string name="weeklysports_averageheart_unit">BPM</string>
     <string name="weeklysports_runerrate">Running pace</string>
     <string name="weeklysports_outdoorrunrate">Outdoor running avg pace</string>
@@ -239,7 +239,7 @@
     <string name="currentstep_detail_activity_step_done">Reached goal</string>
     <string name="currentstep_detail_activity_step_notdo">"Didn't reach goal"</string>
     <string name="currentstep_detail_activity_run_rate_av">⌀ Tempo</string>
-    <string name="currentstep_detail_activity_run_rate_ma">Best pace</string>
+    <string name="currentstep_detail_activity_run_rate_ma">Bestes Tempo</string>
     <string name="currentstep_detail_activity_walk_ridding_rate_av">⌀ Geschw.</string>
     <string name="currentstep_detail_activity_walk_ridding_rate_ma">Max speed</string>
     <string name="currentstep_detail_activity_mount_total_disacend">Dist gain</string>
@@ -335,8 +335,8 @@ Please stay relaxed"</string>
     <string name="indoor_riding">Indoor cycling</string>
     <string name="cross_contry">Trail run</string>
     <string name="eppitical">Elliptical</string>
-    <string name="indoor_swimming">Pool swimming</string>
-    <string name="outdoor_swimming">Open water</string>
+    <string name="indoor_swimming">Pool schwimmen</string>
+    <string name="outdoor_swimming">Offenes Gewässer</string>
     <string name="triathlon">Triathlon</string>
     <string name="mountain">Climbing</string>
     <string name="riding">Cycling</string>
@@ -381,8 +381,8 @@ Please stay relaxed"</string>
     <string name="paddle_surfing">Paddle surfing</string>
     <string name="roller_skating">Roller skating</string>
     <string name="rock_climbing">Rock climbing</string>
-    <string name="ballet">Ballet</string>
-    <string name="belly_dance">Belly dance</string>
+    <string name="ballet">Ballett</string>
+    <string name="belly_dance">Bauchtanz</string>
     <string name="square_dance">Square dance</string>
     <string name="hip_hop">Hip-hop</string>
     <string name="social_dance">Ballroom dance</string>
@@ -406,7 +406,7 @@ Please stay relaxed"</string>
     <string name="equestrian_sport">Equestrian</string>
     <string name="swordplay">Fencing</string>
     <string name="karate">Karate</string>
-    <string name="boxing">Boxing</string>
+    <string name="boxing">Boxen</string>
     <string name="judo">Judo</string>
     <string name="wrestling">Wrestling</string>
     <string name="tai_chi">Tai Chi</string>
@@ -490,7 +490,7 @@ Please stay relaxed"</string>
     <string name="virtual_rabbit_back_time">Lag time</string>
     <string name="virtual_rabbit_lead_distance">Lead distance</string>
     <string name="virtual_rabbit_back_distance">Lag distance</string>
-    <string name="oritation_east">E</string>
+    <string name="oritation_east">O</string>
     <string name="oritation_sourth">S</string>
     <string name="oritation_west">W</string>
     <string name="oritation_north">N</string>
