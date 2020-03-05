@@ -45,7 +45,7 @@
     <string name="quick_settings_auto_light_toast">Keeping the screen on reduces battery life.</string>
     <string name="quick_settings_status_month">Monat</string>
     <string name="quick_settings_status_day">Day  </string>
-    <string name="quick_settings_connected">Connected</string>
+    <string name="quick_settings_connected">Verbunden</string>
     <string name="quick_settings_disconnect">Not connected</string>
     <string name="quick_settings_unbound">Pair device first</string>
     <string name="quick_settings_date_chinese">MM/dd/yyyy</string>
@@ -54,7 +54,7 @@
     <string name="seconed_confirm_nodisturb">"DND mode is on.
 Can\'t receive notifications."</string>
     <string name="quick_settings_battery_charging_full">Fully charged</string>
-    <string name="quick_settings_battery_is_charging">Charging</string>
+    <string name="quick_settings_battery_is_charging">Wird aufgeladen</string>
     <string name="quick_settings_battery_hasnot_charged">No charging history</string>
     <string name="quick_settings_battery_charging_intervalDay">Last charged %1$dd %2$dh ago</string>
     <string name="quick_settings_battery_charging_intervalDay_lessHour">"Last charged
@@ -219,7 +219,7 @@ less than 1h ago"</string>
     <string name="indoor_swimming">Pool schwimmen</string>
     <string name="outdoor_swimming">Offenes Gewässer</string>
     <string name="triathlon">Triathlon</string>
-    <string name="mountain">Climbing</string>
+    <string name="mountain">Klettern</string>
     <string name="riding">Radfahren</string>
     <string name="swimming">Schwimmen</string>
     <string name="skiing">Skifahren</string>
@@ -236,13 +236,13 @@ less than 1h ago"</string>
     <string name="speed">Geschwindigkeit</string>
     <string name="stroke_speed">Schlagzahl</string>
     <string name="pace">Tempo</string>
-    <string name="mileage">Distance</string>
+    <string name="mileage">Entfernung</string>
     <string name="rope_skip_freq">Frequenz</string>
     <string name="row_stroke_freq">Frequenz</string>
     <string name="sport_has_paused">Pausiert</string>
     <string name="sport_paused_time">Pausiert</string>
-    <string name="sport_distance">Distance</string>
-    <string name="sport_mileage">Distance</string>
+    <string name="sport_distance">Distanz</string>
+    <string name="sport_mileage">Distanz</string>
     <string name="sport_downhill_total_distance">Total downhill</string>
     <string name="sport_tennis_strokes">Schläge</string>
     <string name="sport_rope_skip_count">Count</string>
@@ -254,7 +254,7 @@ less than 1h ago"</string>
     <string name="please_get_ready_for_swimming">Nächstes: Schwimmen</string>
     <string name="gps_ready">GPS ist verfügbar</string>
     <string name="gps_wait">Warte auf GPS…</string>
-    <string name="gps_fail">"Couldn't set location using GPS"</string>
+    <string name="gps_fail">"Standort konnte nicht per GPS festgelegt werden"</string>
     <string name="gps_singal_lost">"Kein GPS Signal"</string>
     <string name="gps_close_1">No movement for a long time,</string>
     <string name="gps_close_2">GPS wurde deaktiviert.</string>
@@ -300,7 +300,7 @@ less than 1h ago"</string>
     <string name="need_rest_by_keypress">Zum Fortfahren BACK drücken</string>
     <string name="low_battery_protect">Benachrichtigung bei geringem Akkustand</string>
     <string name="low_battery_tips">Niedriger Akkustand</string>
-    <string name="low_battery_please_charging">Charge your watch.</string>
+    <string name="low_battery_please_charging">Bitte die Uhr aufladen.</string>
     <string name="virtual_rabbit">Virtual rabbit</string>
     <string name="virtual_rabbit_lead_time">Lead time</string>
     <string name="virtual_rabbit_back_time">Lag time</string>
@@ -318,7 +318,7 @@ less than 1h ago"</string>
     <string name="rope_skip_tips1">The</string>
     <string name="rope_skip_tips2">set has been completed</string>
     <string name="rope_skip_avg_heartrate">⌀ Herz-Freq.</string>
-    <string name="rope_skip_group_calories">Calories</string>
+    <string name="rope_skip_group_calories">Kalorien</string>
     <string name="press_long_power_key_wake_up">Zum Beenden eine physische Taste drücken</string>
     <string name="sport_auto_pause_end">Aktion beendet, Daten speichern?</string>
     <string name="sport_slpt_stop_next_group">Weiter</string>
@@ -326,8 +326,8 @@ less than 1h ago"</string>
     <string name="group_rowing_count">Times</string>
     <string name="picker_default_positive_text">OK</string>
     <string name="picker_default_nagetive_text">Aus</string>
-    <string name="no_heartrate_data_hint">"Couldn't find heart rate data"</string>
-    <string name="no_altitude_hint">"Couldn't find altitude data"</string>
+    <string name="no_heartrate_data_hint">"Herzfrequenzdaten wurden nicht gefunden"</string>
+    <string name="no_altitude_hint">"Höhendaten wurden nicht gefunden"</string>
     <string name="title_settings">Einstellungen</string>
     <string name="sport_music_settings">Musik</string>
     <string name="widget_currentstep_title">Data</string>
