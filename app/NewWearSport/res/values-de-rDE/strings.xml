@@ -46,8 +46,8 @@
     <string name="safe_hearate_remind_content">Notify when higher than %1d BPM</string>
     <string name="settings_safe_heart_rate_hint">(Heart rate limit)</string>
     <string name="settings_safe_heart_rate_unit">BPM</string>
-    <string name="elliptical">Elliptical</string>
-    <string name="elliptical_in_progress">Elliptical…</string>
+    <string name="elliptical">Crosstrainer</string>
+    <string name="elliptical_in_progress">Crosstrainer…</string>
     <string name="person_achive">Personal best</string>
     <string name="achive_share_sport">Share activity</string>
     <string name="achive_get_record_time">Updated on 05/25/2017</string>
@@ -164,7 +164,7 @@
     <string name="sport_settings_by_sport_data">Other metrics</string>
     <string name="sport_settings_no_set">Do not set goal</string>
     <string name="sport_settings_te_title">Select</string>
-    <string name="sport_settings_current_target_te_title">Current goal</string>
+    <string name="sport_settings_current_target_te_title">Aktuelles Ziel</string>
     <string name="sport_select_more_setting_content">Change</string>
     <string name="sport_cur_tar_dis_km">Distanz: %1$skm</string>
     <string name="sport_cur_tar_dis_mi">Distanz: %1$s mi</string>
@@ -204,7 +204,7 @@ start now."</string>
     <string name="sport_motion_state_prediction_5_km">5 km</string>
     <string name="sport_motion_state_prediction_10_km">10 km</string>
     <string name="sport_motion_state_prediction_half_maraton">Halbmarathon</string>
-    <string name="sport_motion_state_prediction_full_maraton">Full marathon</string>
+    <string name="sport_motion_state_prediction_full_maraton">Marathon</string>
     <string name="sport_main_percent">%</string>
     <string name="unit_cadence">rpm</string>
     <string name="sport_main_heart_info_title">Herzfrequenz</string>
@@ -295,7 +295,7 @@ start now."</string>
     <string name="exchange_prepare_running">Nächstes: Laufen</string>
     <string name="count_down_swim_tint">To prevent accidental touch, screen will be locked.</string>
     <string name="sport_widget_title_history_record">Aktivitäten</string>
-    <string name="sport_widget_title_elliptical">Elliptical</string>
+    <string name="sport_widget_title_elliptical">Crosstrainer</string>
     <string name="sport_widget_title_rowing_machine">Rower</string>
     <string name="sport_widget_title_rowing_machineing">Rowing</string>
     <string name="sport_widget_title_indoor_swim">Pool schwimmen</string>
@@ -362,16 +362,16 @@ start now."</string>
     <string name="swim_unit_title">Entfernungseinheit</string>
     <string name="gps_close_notification_title">Turning off GPS</string>
     <string name="gps_close_notification_content">Due to inactivity, GPS will be turned off in 1 minute.</string>
-    <string name="per_correspond_km">Every %1$d km</string>
-    <string name="per_correspond_mi">Every %1$d mi</string>
+    <string name="per_correspond_km">Alle %1$d km</string>
+    <string name="per_correspond_mi">Alle %1$d mi</string>
     <string name="more_operation">Mehr</string>
     <string name="detail_route_detail_train_lap_title">Interval details</string>
     <string name="interval_train_tips_title">Alerts will be off by default during intervals</string>
     <string name="interval_train_tips_content">(Except for heart rate alerts)</string>
     <string name="interval_confirm">Got it</string>
-    <string name="this_time_need_run_mileage">Interval distance: %1$s km</string>
-    <string name="this_time_need_run_mileage_mile">Interval distance: %1$s mi</string>
-    <string name="this_time_need_run_total_time">Interval time: %1$s</string>
+    <string name="this_time_need_run_mileage">Intervalldistanz: %1$s km</string>
+    <string name="this_time_need_run_mileage_mile">Intervaldistanz: %1$s mi</string>
+    <string name="this_time_need_run_total_time">Intervalzeit: %1$s</string>
     <string name="this_time_need_rest_total_time">Need %1$s</string>
     <string name="data_item_train_total_mileage">Total distance</string>
     <string name="data_item_train_total_times">Gesamtzeit</string>
@@ -480,7 +480,7 @@ start now."</string>
     <string name="_20_km_or_mi_fastest">20%1$s</string>
     <string name="_40_km_or_mi_fastest">40%1$s</string>
     <string name="half_marathon_fastest">Halbmarathon</string>
-    <string name="full_marathon_fastest">Full marathon</string>
+    <string name="full_marathon_fastest">Marathon</string>
     <string name="ride_max_altitude_up">Max climb(%1$s)</string>
     <string name="moutaineer_highest_altitude">Maximum altitude(%1$s)</string>
     <string name="moutaineer_max_altitude_up">Max total ascent(%1$s)</string>
@@ -752,7 +752,7 @@ für effektives Training!\"</string>
     <string name="next_group">Weiter</string>
     <string name="rope_skip_times">%1$s Sprünge</string>
     <string name="rope_skip_frequency">Frequenz</string>
-    <string name="rope_skip_currnet_frequency">Current freq</string>
+    <string name="rope_skip_currnet_frequency">Aktuelle Freq.</string>
     <string name="rope_skip_max_frequency">Max frequency</string>
     <string name="rope_skip_total_count">Total count</string>
     <string name="rope_skip_average_frequency">⌀ Freq.</string>
@@ -997,7 +997,7 @@ für effektives Training!\"</string>
     <string name="lock_status_unlock_success">Unlocked successfully</string>
     <string name="remind_info_stop_sport">End the exercise first</string>
     <string name="searching_gps_in_progress">Warte auf GPS…</string>
-    <string name="remind_current_pace">Current pace</string>
+    <string name="remind_current_pace">Aktuelles Tempo</string>
     <string name="remind_current_heart">Current</string>
     <string name="remind_last_dis_pace">Pace of last km</string>
     <string name="remind_last_dis_speed">Speed of last km</string>
@@ -1129,7 +1129,7 @@ Sie können es über USB auf einen Computer kopieren."</string>
     <string name="outdoor_riding">Outdoor Radfahren</string>
     <string name="indoor_riding">Indoor Radfahren</string>
     <string name="cross_contry">Trail run</string>
-    <string name="eppitical">Elliptical</string>
+    <string name="eppitical">Crosstrainer</string>
     <string name="indoor_swimming">Pool schwimmen</string>
     <string name="outdoor_swimming">Offenes Gewässer</string>
     <string name="triathlon">Triathlon</string>
@@ -1199,7 +1199,7 @@ Sie können es über USB auf einen Computer kopieren."</string>
     <string name="badminton">Badminton</string>
     <string name="archery">Bogenschießen</string>
     <string name="equestrian_sport">Equestrian</string>
-    <string name="swordplay">Fencing</string>
+    <string name="swordplay">Fechten</string>
     <string name="karate">Karate</string>
     <string name="boxing">Boxen</string>
     <string name="judo">Judo</string>
@@ -1271,8 +1271,8 @@ Sie können es über USB auf einen Computer kopieren."</string>
     <string name="longitude_and_latitude">Lat/Long</string>
     <string name="press_key_finish_train">Zum Beenden BACK drücken</string>
     <string name="press_up_key_wake_up">Press the Up button to unlock</string>
-    <string name="need_run_kilometer">Interval distance:</string>
-    <string name="need_run_time">Interval time:</string>
+    <string name="need_run_kilometer">Intervalldistanz:</string>
+    <string name="need_run_time">Intervallzeit:</string>
     <string name="need_rest_time">Need</string>
     <string name="need_rest_by_keypress">Zum Fortfahren BACK drücken</string>
     <string name="low_battery_protect">Benachrichtigung bei geringem Akkustand</string>
