@@ -17,8 +17,8 @@
     <string name="status_bar_ongoing_events_title">Ongoing</string>
     <string name="status_bar_latest_events_title">Notifications</string>
     <string name="battery_low_title">Battery is low</string>
-    <string name="battery_low_percent_format">%s remaining</string>
-    <string name="battery_low_percent_format_saver_started">%s remaining. Battery saver is on.</string>
+    <string name="battery_low_percent_format">%s verbleibend</string>
+    <string name="battery_low_percent_format_saver_started">%s verbleibend. Energiesparmodus ist aktiv.</string>
     <string name="invalid_charger">"USB-Ladevorgang wird nicht unterstützt.
 Verwenden Sie nur geeignete Ladegeräte."</string>
     <string name="invalid_charger_title">USB charging not supported.</string>
@@ -188,8 +188,8 @@ Verwenden Sie nur geeignete Ladegeräte."</string>
     <string name="accessibility_quick_settings_hotspot_changed_on">Mobile hotspot turned on.</string>
     <string name="accessibility_casting_turned_off">Screen casting stopped.</string>
     <string name="accessibility_brightness">Display brightness</string>
-    <string name="data_usage_disabled_dialog_3g_title">2G-3G data is off</string>
-    <string name="data_usage_disabled_dialog_4g_title">4G data is off</string>
+    <string name="data_usage_disabled_dialog_3g_title">2G/3G Daten sind deaktiviert</string>
+    <string name="data_usage_disabled_dialog_4g_title">4G Daten sind deaktiviert</string>
     <string name="data_usage_disabled_dialog_mobile_title">Cellular data is off</string>
     <string name="data_usage_disabled_dialog_title">Data is off</string>
     <string name="data_usage_disabled_dialog">"Ihr Gerät hat Daten deaktiviert, weil das von Ihnen festgelegte Limit erreicht wurde. 
@@ -261,7 +261,7 @@ Das erneute Einschalten kann zu Gebühren von Ihrem Mobilfunkanbieter führen."<
     <string name="quick_settings_cellular_detail_data_usage">Data usage</string>
     <string name="quick_settings_cellular_detail_remaining_data">Remaining data</string>
     <string name="quick_settings_cellular_detail_over_limit">Over limit</string>
-    <string name="quick_settings_cellular_detail_data_used">%s used</string>
+    <string name="quick_settings_cellular_detail_data_used">%s verbraucht</string>
     <string name="quick_settings_cellular_detail_data_limit">%s limit</string>
     <string name="quick_settings_cellular_detail_data_warning">%s warning</string>
     <string name="recents_empty_message">Your recent screens appear here</string>
@@ -271,7 +271,7 @@ Das erneute Einschalten kann zu Gebühren von Ihrem Mobilfunkanbieter führen."<
     <string name="recents_launch_error_message">Could not start %s.</string>
     <string name="expanded_header_battery_charged">Charged</string>
     <string name="expanded_header_battery_charging">Charging</string>
-    <string name="expanded_header_battery_charging_with_time">%s until full</string>
+    <string name="expanded_header_battery_charging_with_time">Voll in %s</string>
     <string name="expanded_header_battery_not_charging">Not charging</string>
     <string name="battery_meter_very_low_overlay_symbol">!</string>
     <string name="ssl_ca_cert_warning">"Das Netzwerk kann 
@@ -298,10 +298,10 @@ Das erneute Einschalten kann zu Gebühren von Ihrem Mobilfunkanbieter führen."<
     <string name="accessibility_multi_user_switch_switcher">Switch user</string>
     <string name="accessibility_multi_user_switch_switcher_with_current">Switch user, current user %s</string>
     <string name="accessibility_multi_user_switch_quick_contact">Show profile</string>
-    <string name="user_add_user">Add user</string>
+    <string name="user_add_user">Benutzer hinzufügen</string>
     <string name="user_new_user_name">New user</string>
     <string name="guest_nickname">Guest</string>
-    <string name="guest_new_guest">Add guest</string>
+    <string name="guest_new_guest">Gast hinzufügen</string>
     <string name="guest_exit_guest">Remove guest</string>
     <string name="guest_exit_guest_dialog_title">Remove guest?</string>
     <string name="guest_exit_guest_dialog_message">All apps and data in this session will be deleted.</string>
@@ -310,7 +310,7 @@ Das erneute Einschalten kann zu Gebühren von Ihrem Mobilfunkanbieter führen."<
     <string name="guest_wipe_session_message">Do you want to continue your session?</string>
     <string name="guest_wipe_session_wipe">Start over</string>
     <string name="guest_wipe_session_dontwipe">Yes, continue</string>
-    <string name="user_add_user_title">Add new user?</string>
+    <string name="user_add_user_title">Neuen Benutzer hinzufügen?</string>
     <string name="user_add_user_message_short">"Wenn Sie einen neuen Benutzer hinzufügen, muss diese Person ihren Speicherplatz einrichten. 
 
 Jeder Benutzer kann Apps für alle anderen Benutzer aktualisieren."</string>
@@ -447,11 +447,11 @@ Wenden Sie sich an Ihren Mobilfunkanbieter, um eine andere SIM-Karte zu erhalten
     <string name="keyguard_widget_12_hours_format">hmm</string>
     <string name="keyguard_widget_24_hours_format">kkmm</string>
     <string name="keyguard_accessibility_widget_changed">%1$s. Widget %2$d of %3$d.</string>
-    <string name="keyguard_accessibility_add_widget">Add widget.</string>
+    <string name="keyguard_accessibility_add_widget">Widget hinzufügen.</string>
     <string name="keyguard_accessibility_widget_empty_slot">Empty</string>
     <string name="keyguard_accessibility_unlock_area_expanded">Unlock area expanded.</string>
     <string name="keyguard_accessibility_unlock_area_collapsed">Unlock area collapsed.</string>
-    <string name="keyguard_accessibility_widget">%1$s widget.</string>
+    <string name="keyguard_accessibility_widget">%1$s Widget.</string>
     <string name="keyguard_accessibility_user_selector">User selector</string>
     <string name="keyguard_accessibility_camera">Camera</string>
     <string name="keygaurd_accessibility_media_controls">Media controls</string>
@@ -480,7 +480,7 @@ Wenden Sie sich an Ihren Mobilfunkanbieter, um eine andere SIM-Karte zu erhalten
     <string name="keyguard_accessibility_show_bouncer">Unlock to continue</string>
     <string name="keyguard_accessibility_hide_bouncer">Launch canceled</string>
     <string name="keyguard_accessibility_delete_widget_start">Drop %1$s to delete.</string>
-    <string name="keyguard_accessibility_delete_widget_end">%1$s will not be deleted.</string>
+    <string name="keyguard_accessibility_delete_widget_end">%1$s wird nicht gelöscht.</string>
     <string name="keyguard_accessibility_next_alarm">Next alarm set for %1$s</string>
     <string name="password_keyboard_label_symbol_key">\?123</string>
     <string name="password_keyboard_label_alpha_key">ABC</string>
