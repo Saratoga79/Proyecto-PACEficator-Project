@@ -98,7 +98,7 @@
     <string name="heart_rate_no_data">No heart rate data</string>
     <string name="label_heart_rate_text">Heart rate</string>
     <string name="today_heart_rate_title_text">Details</string>
-    <string name="today_heart_rate_ave_text">Average</string>
+    <string name="today_heart_rate_ave_text">Durchschnitt</string>
     <string name="today_heart_rate_max_text">Max (BPM)</string>
     <string name="today_heart_rate_min_text">Min (BPM)</string>
     <string name="today_heart_rate_quite_text">Resting (BPM)</string>
@@ -158,7 +158,7 @@
     <string name="widget_weeklyreports_heart_rate_min_reset_text">Min resting HR</string>
     <string name="widget_weeklyreports_heart_rate_max_reset_text">Max resting HR</string>
     <string name="widget_weeklyreports_heart_rate_title">Heart rate</string>
-    <string name="widget_weeklyreports_average_title">Average</string>
+    <string name="widget_weeklyreports_average_title">Durchschnitt</string>
     <string name="widget_weeklyreports_average_reset_title">Average resting HR</string>
     <string name="widget_weeklyreports_totalcalory_front">Total calories</string>
     <string name="widget_weeklyreports_totalcalory_title">Calories</string>
@@ -238,9 +238,9 @@
     <string name="currentstep_detail_activity_chart_unit_min">(Einheit: Minute)</string>
     <string name="currentstep_detail_activity_step_done">Reached goal</string>
     <string name="currentstep_detail_activity_step_notdo">"Didn't reach goal"</string>
-    <string name="currentstep_detail_activity_run_rate_av">Avg pace</string>
+    <string name="currentstep_detail_activity_run_rate_av">⌀ Tempo</string>
     <string name="currentstep_detail_activity_run_rate_ma">Best pace</string>
-    <string name="currentstep_detail_activity_walk_ridding_rate_av">Avg speed</string>
+    <string name="currentstep_detail_activity_walk_ridding_rate_av">⌀ Geschw.</string>
     <string name="currentstep_detail_activity_walk_ridding_rate_ma">Max speed</string>
     <string name="currentstep_detail_activity_mount_total_disacend">Dist gain</string>
     <string name="currentstep_detail_activity_mount_total_up">Elev gain</string>
@@ -326,7 +326,7 @@ Please stay relaxed"</string>
     <string name="pressure_detail_recent_seven_days_title">Stress in the last seven days</string>
     <string name="pressure_tips_title">Stress indicators</string>
     <string name="pressure_tips_content">The Stress indicator is calculated by the change in the value of the heart rate variability, and is used to evaluate the change in physical state (the indicator is for reference only). Usually when the pressure is high, you should take appropriate rest.</string>
-    <string name="average_text">Average</string>
+    <string name="average_text">Durchschnitt</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="running">Running</string>
     <string name="waking">Walking</string>
@@ -402,7 +402,7 @@ Please stay relaxed"</string>
     <string name="hockey">Hockey</string>
     <string name="handball">Handball</string>
     <string name="badminton">Badminton</string>
-    <string name="archery">Archery</string>
+    <string name="archery">Bogenschießen</string>
     <string name="equestrian_sport">Equestrian</string>
     <string name="swordplay">Fencing</string>
     <string name="karate">Karate</string>
