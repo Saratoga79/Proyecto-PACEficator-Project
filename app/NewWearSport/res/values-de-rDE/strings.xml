@@ -25,7 +25,7 @@
     <string name="crossing_history_detail_move_time">Aktive Zeit</string>
     <string name="crossing_history_detail_ave_move_pace">⌀ Tempo</string>
     <string name="crossing_history_detail_ave_move_pace_unit">/km</string>
-    <string name="crossing_history_detail_best_pace">Best pace</string>
+    <string name="crossing_history_detail_best_pace">Bestes Tempo</string>
     <string name="crossing_history_detail_ave_move_speed">⌀ Geschw.</string>
     <string name="crossing_history_detail_max_speed">Max speed</string>
     <string name="crossing_history_detail_climb_up">Elev gain</string>
@@ -33,7 +33,7 @@
     <string name="crossing_history_detail_absolute_altitude">Höhe über Meer</string>
     <string name="crossing_history_detail_high_altitude">Highest altitude</string>
     <string name="crossing_history_detail_low_altitude">Lowest altitude</string>
-    <string name="crossing_history_detail_ave_altitude">Avg altitude</string>
+    <string name="crossing_history_detail_ave_altitude">⌀ Höhe</string>
     <string name="crossing_history_detail_altituede_graph_desc">Höhe (m)</string>
     <string name="crossing_history_detail_individual_km"><font color="#ff09ff00"><b>%1$s</b></font> km for a single loop</string>
     <string name="crossing_setting_unit">km</string>
@@ -99,7 +99,7 @@
     <string name="detail_curve_graph">Graph</string>
     <string name="battery_support_sport">Can still exercise for</string>
     <string name="battery_continue_distance_unit"> km</string>
-    <string name="battery_continue_imperial_distance_unit"> mi</string>
+    <string name="battery_continue_imperial_distance_unit"> mi</string>
     <string name="battery_continue_time_unit"> hr</string>
     <string name="battery_split"> / </string>
     <string name="suggest_reset_time">Time to full recovery: %1$sh</string>
@@ -148,7 +148,7 @@
     <string name="settings_sport_auto_speed_title">Pause at speed</string>
     <string name="settings_content_stand_still">Standing still</string>
     <string name="settings_sport_bg_type">Hintergrundfarbe</string>
-    <string name="settings_sport_bg_type_normal">Black</string>
+    <string name="settings_sport_bg_type_normal">Schwarz</string>
     <string name="settings_sport_bg_type_white">White</string>
     <string name="setting_on">On</string>
     <string name="setting_off">Aus</string>
@@ -271,9 +271,9 @@ start now."</string>
     <string name="sport_swim_style_main">Main stroke type</string>
     <string name="swim_free_style">Freestyle</string>
     <string name="swim_medlyrelay">Mixed</string>
-    <string name="swim_breaststroke">Breaststroke</string>
-    <string name="swim_backstroke">Backstroke</string>
-    <string name="swim_butterfly">Butterfly</string>
+    <string name="swim_breaststroke">Brustschwimmen</string>
+    <string name="swim_backstroke">Rückenschwimmen</string>
+    <string name="swim_butterfly">Schmetterlingsschwimmen</string>
     <string name="swim_stroke_unit">SPM</string>
     <string name="settings_item_title_km_remind_triathlon">Distance alert</string>
     <string name="setting_sport_heart_region_remind_triathlon">Running heart rate alert</string>
@@ -404,7 +404,7 @@ start now."</string>
     <string name="skiing_lap_downhill_dis_title">Downhill</string>
     <string name="sport_history_total_stokes">Total strokes</string>
     <string name="sport_tennis_forehand">Forehand</string>
-    <string name="sport_tennis_backhand">Backhand</string>
+    <string name="sport_tennis_backhand">Rückhand</string>
     <string name="sport_tennis_serve">Serve</string>
     <string name="sport_setting_clap_the_hands">Racket hand</string>
     <string name="sport_setting_wear_hand">Wearing hand</string>
@@ -447,7 +447,7 @@ start now."</string>
     <string name="back_from_coming">Backtrack</string>
     <string name="straight_back">Shortcut</string>
     <string name="other_destination">Enter address</string>
-    <string name="screen_brightness">Brightness</string>
+    <string name="screen_brightness">Helligkeit</string>
     <string name="navigation_remain_distance">Remaining distance</string>
     <string name="lap_dis_title">Lap distance</string>
     <string name="lap_time_title">Duration by lap</string>
@@ -500,10 +500,10 @@ start now."</string>
     <string name="gps_interval_time">%1$d Sek.</string>
     <string name="group_rowing_freq">Frequency</string>
     <string name="group_rowing_count">Times</string>
-    <string name="group_rowing_avg_hr">Average heart rate</string>
+    <string name="group_rowing_avg_hr">⌀ Herz-Freq.</string>
     <string name="group_rowing_calorie">Calorie consumption</string>
     <string name="group_lap_title">Groups</string>
-    <string name="battery_life_settings">Battery mode</string>
+    <string name="battery_life_settings">Akku-Modus</string>
     <string name="battery_life_accurate">Accurate</string>
     <string name="battery_life_balanced">Balanced</string>
     <string name="battery_life_power_saving">Power saving</string>
@@ -630,7 +630,7 @@ to reach full recovery."</string>
     <string name="gpx_alreay_offset">Deviated</string>
     <string name="gpx_no_find_route">No routes available</string>
     <string name="gpx_no_route_guide">"Connect your watch to the computer and copy the GPX file to the 'GPXData' folder and try again"</string>
-    <string name="bpm_to">BPM to</string>
+    <string name="bpm_to">BPM bis</string>
     <string name="indoor_run_progressing">Indoor running</string>
     <string name="run_train_title">Running training</string>
     <string name="run_train_recommend">Recommended</string>
@@ -682,7 +682,7 @@ to reach full recovery."</string>
     <string name="outdoor_climb_distance">Dist gain</string>
     <string name="outdoor_climb_altitude">Elev gain</string>
     <string name="outdoor_max_cadence">Max cadence</string>
-    <string name="outdoor_ave_cadence">Avg cadence</string>
+    <string name="outdoor_ave_cadence">⌀ Trittfreq.</string>
     <string name="outdoor_graph_unit">Distance (km)</string>
     <string name="outdoor_speed_graph_title">Speed (km/h)</string>
     <string name="not_testing_speed_data">"Couldn't find speed data"</string>
@@ -755,7 +755,7 @@ für effektives Training!\"</string>
     <string name="rope_skip_currnet_frequency">Current freq</string>
     <string name="rope_skip_max_frequency">Max frequency</string>
     <string name="rope_skip_total_count">Total count</string>
-    <string name="rope_skip_average_frequency">Avg freq</string>
+    <string name="rope_skip_average_frequency">⌀ Freq.</string>
     <string name="rope_skip_current_group_count">Groups</string>
     <string name="rope_skip_this_group_count">Lap count</string>
     <string name="rope_skip_this_group_cost_time">Lap time</string>
@@ -802,7 +802,7 @@ für effektives Training!\"</string>
     <string name="hard_cardio">Intense cardio</string>
     <string name="very_hard_cardio">Extreme cardio</string>
     <string name="route_cur_altitude">Höhe über Meer</string>
-    <string name="outdoor_cadence">Cadence</string>
+    <string name="outdoor_cadence">Kadenz</string>
     <string name="sport_main_climb_al">Elev gain</string>
     <string name="sport_main_descend_al">Elev loss</string>
     <string name="sport_main_climb_dis">Dist gain</string>
@@ -830,7 +830,7 @@ für effektives Training!\"</string>
     <string name="running_cost_time_desc">Zeit</string>
     <string name="running_pace_desc">Pace</string>
     <string name="running_calorie_desc">Calories</string>
-    <string name="running_step_freq_desc">Cadence</string>
+    <string name="running_step_freq_desc">Schrittfreq.</string>
     <string name="running_speed_desc">Speed</string>
     <string name="running_distance_desc">Distance</string>
     <string name="running_heartrate_desc">Heart rate</string>
@@ -878,7 +878,7 @@ für effektives Training!\"</string>
     <string name="running_control_paused_des">Paused</string>
     <string name="sport_history_item_distance_desc">Distance (km)</string>
     <string name="sport_history_item_cost_time_desc">Zeit</string>
-    <string name="running_avg_step_freq_desc">Avg cadence</string>
+    <string name="running_avg_step_freq_desc">⌀ Schrittfreq.</string>
     <string name="running_stop_dialog_msg_reach_minimum_distance">Stop this activity?</string>
     <string name="running_stop_dialog_msg_not_reach_minimum_distance">The distance is too short to save. Stop anyway?</string>
     <string name="running_stop_dialog_positive_text">Stop</string>
@@ -922,7 +922,7 @@ für effektives Training!\"</string>
     <string name="settings_item_value_pace">Notify when slower than %1$s</string>
     <string name="title_medal_list_header">Achievements</string>
     <string name="time_picker_hour">h</string>
-    <string name="time_picker_minute"> m</string>
+    <string name="time_picker_minute">m</string>
     <string name="distance_picker_km">km</string>
     <string name="sport_notification_view_detail">Open app</string>
     <string name="sport_notification_stop">End the exercise</string>
@@ -1130,8 +1130,8 @@ Sie können es über USB auf einen Computer kopieren."</string>
     <string name="indoor_riding">Indoor cycling</string>
     <string name="cross_contry">Trail run</string>
     <string name="eppitical">Elliptical</string>
-    <string name="indoor_swimming">Pool swimming</string>
-    <string name="outdoor_swimming">Open water</string>
+    <string name="indoor_swimming">Pool schwimmen</string>
+    <string name="outdoor_swimming">Offenes Gewässer</string>
     <string name="triathlon">Triathlon</string>
     <string name="mountain">Climbing</string>
     <string name="riding">Cycling</string>
@@ -1176,8 +1176,8 @@ Sie können es über USB auf einen Computer kopieren."</string>
     <string name="paddle_surfing">Paddle surfing</string>
     <string name="roller_skating">Roller skating</string>
     <string name="rock_climbing">Rock climbing</string>
-    <string name="ballet">Ballet</string>
-    <string name="belly_dance">Belly dance</string>
+    <string name="ballet">Ballett</string>
+    <string name="belly_dance">Bauchtanz</string>
     <string name="square_dance">Square dance</string>
     <string name="hip_hop">Hip-hop</string>
     <string name="social_dance">Ballroom dance</string>
@@ -1201,7 +1201,7 @@ Sie können es über USB auf einen Computer kopieren."</string>
     <string name="equestrian_sport">Equestrian</string>
     <string name="swordplay">Fencing</string>
     <string name="karate">Karate</string>
-    <string name="boxing">Boxing</string>
+    <string name="boxing">Boxen</string>
     <string name="judo">Judo</string>
     <string name="wrestling">Wrestling</string>
     <string name="tai_chi">Tai Chi</string>
