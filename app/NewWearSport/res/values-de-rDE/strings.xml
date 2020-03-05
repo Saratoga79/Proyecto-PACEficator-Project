@@ -34,7 +34,7 @@
     <string name="crossing_history_detail_high_altitude">Highest altitude</string>
     <string name="crossing_history_detail_low_altitude">Lowest altitude</string>
     <string name="crossing_history_detail_ave_altitude">Avg altitude</string>
-    <string name="crossing_history_detail_altituede_graph_desc">Altitude (m)</string>
+    <string name="crossing_history_detail_altituede_graph_desc">Höhe (m)</string>
     <string name="crossing_history_detail_individual_km"><font color="#ff09ff00"><b>%1$s</b></font> km for a single loop</string>
     <string name="crossing_setting_unit">km</string>
     <string name="crossing_settings_item_title_individual_remind">Single lap distance</string>
@@ -183,8 +183,8 @@
     <string name="history_swim_pace_graph_desc_yd">Pace (min/100 yd)</string>
     <string name="history_speed_graph_desc">Speed (km/h)</string>
     <string name="history_speed_graph_desc_imperial">Speed (mph)</string>
-    <string name="history_altitude_graph_desc">Altitude (m)</string>
-    <string name="history_altitude_graph_desc_imperial">Altitude (ft)</string>
+    <string name="history_altitude_graph_desc">Höhe (m)</string>
+    <string name="history_altitude_graph_desc_imperial">Höhe (ft)</string>
     <string name="history_step_freq_graph_desc">Cadence (SPM)</string>
     <string name="history_title">Aktivitäten</string>
     <string name="history_detail_info">Details</string>
@@ -194,7 +194,7 @@
     <string name="history_month_dis">%1$s/%2$d km</string>
     <string name="history_month_dis_imperial">%1$s/%2$d mi</string>
     <string name="history_month_cost">%1$s/%2$s</string>
-    <string name="history_sport">Activity history</string>
+    <string name="history_sport">Aktivitätsverlauf</string>
     <string name="history_no_sport_tips">"No activities yet, 
 start now."</string>
     <string name="history_start_sport_tips">Start an activity now.</string>
@@ -342,8 +342,8 @@ start now."</string>
     <string name="swim_trips_unit_yd">laps (%1$d yd/lap)</string>
     <string name="heart_region_title">Heart rate zone</string>
     <string name="heart_region_anaerobic＿limit">Anaerobic limit</string>
-    <string name="heart_region_endurance_enhancement">Anaerobic</string>
-    <string name="heart_region_heart_and_lung_enhancement">Aerobic</string>
+    <string name="heart_region_endurance_enhancement">Anaerob</string>
+    <string name="heart_region_heart_and_lung_enhancement">Aerob</string>
     <string name="heart_region_fat_burning">Fat Burning</string>
     <string name="heart_region_warm_up_and_relax">Warm Up</string>
     <string name="sport_te_title">Training effect (TE)</string>
@@ -539,7 +539,7 @@ start now."</string>
     <string name="moutaineer_max_altitude_climb_no_unit">Max total climb</string>
     <string name="pb_introduction_content">If there is any inconsistency between personal records in the watch and that in the app, the records in the app will be used for data synchronization.</string>
     <string name="pb_confirm">Noted</string>
-    <string name="sport_add_item">Add new activity</string>
+    <string name="sport_add_item">Neue Aktivität hinzufügen</string>
     <string name="sport_delete_item">Delete activity</string>
     <string name="delete_item_tips">Keep a list of at least 1 activity</string>
     <string name="add_item_tips">The new activity has been added to the activity list</string>
@@ -656,7 +656,7 @@ to reach full recovery."</string>
     <string name="music_down_not_complete_content">You can update songs in Music settings &gt; Douban FM offline after you sign out.</string>
     <string name="music_source_douban">Watercress FM</string>
     <string name="music_source_local">Local songs</string>
-    <string name="music_source_all">All</string>
+    <string name="music_source_all">Alle</string>
     <string name="music_init_not_done">Initializing Music…</string>
     <string name="music_no_douban_resource">No local songs available to play, download now?</string>
     <string name="ximalaya_music_title">Ximalaya</string>
@@ -1030,11 +1030,11 @@ für effektives Training!\"</string>
     <string name="setting_sport_heart_region_remind">HR zone alert</string>
     <string name="setting_sport_heart_region_remind_title">Heart rate zones</string>
     <string name="setting_sport_heart_region_fat_burning">Fat burning zone</string>
-    <string name="setting_sport_heart_region_aerobic">Aerobic zone</string>
+    <string name="setting_sport_heart_region_aerobic">Aerobe Zone</string>
     <string name="setting_sport_heart_region_high＿intensity_exercise">Intensive exercise</string>
     <string name="setting_sport_heart_region_custom">Custom zone</string>
     <string name="setting_sport_heart_region_text_fat_burning">Fat burning</string>
-    <string name="setting_sport_heart_region_text_aerobic">Aerobic</string>
+    <string name="setting_sport_heart_region_text_aerobic">Aerob</string>
     <string name="setting_sport_heart_region_text_high＿intensity_exercise">Intensive exercise</string>
     <string name="setting_sport_heart_region_text_custom">Custom</string>
     <string name="remind_heart_rate_region_over">Heart rate is too high</string>
@@ -1079,7 +1079,7 @@ für effektives Training!\"</string>
     <string name="km_metric_remind_target_distance_training_title_format">Completed %1s km</string>
     <string name="km_metric_remind_target_riding_km_title_format">Completed %1$d km</string>
     <string name="meter_metric_crossing_vertical_velocity_unit">m/min</string>
-    <string name="meter_metric_crossing_history_detail_altituede_graph_desc">Altitude (m)</string>
+    <string name="meter_metric_crossing_history_detail_altituede_graph_desc">Höhe (m)</string>
     <string name="km_metric_outdoor_speed_graph_title">Speed (km/h)</string>
     <string name="km_metric_settings_item_value_target_distance">%1$s km</string>
     <string name="meter_metric_settings_item_value_target_distance">%1$s m</string>
@@ -1094,7 +1094,7 @@ für effektives Training!\"</string>
     <string name="km_imperial_remind_target_riding_km_title_format">Completed %1$d mi</string>
     <string name="km_imperial_remind_target_distance_training_title_format">Completed %1s mi</string>
     <string name="meter_imperial_crossing_vertical_velocity_unit">ft/min</string>
-    <string name="meter_imperial_crossing_history_detail_altituede_graph_desc">Altitude (ft)</string>
+    <string name="meter_imperial_crossing_history_detail_altituede_graph_desc">Höhe (ft)</string>
     <string name="km_imperial_outdoor_speed_graph_title">Speed (mph)</string>
     <string name="km_imperial_settings_item_value_target_distance">%1$s mi</string>
     <string name="meter_imperial_settings_item_value_target_distance">%1$s ft</string>
@@ -1238,8 +1238,8 @@ Sie können es über USB auf einen Computer kopieren."</string>
     <string name="heartrate">Heart rate</string>
     <string name="warmup">Warm Up</string>
     <string name="fatburn">Fat Burning</string>
-    <string name="heartlung">Aerobic</string>
-    <string name="strength">Anaerobic</string>
+    <string name="heartlung">Aerob</string>
+    <string name="strength">Anaerob</string>
     <string name="anaerobic">Anaerobic limit</string>
     <string name="zone_one">Zone 1</string>
     <string name="zone_two">Zone 2</string>
