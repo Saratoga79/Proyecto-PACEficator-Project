@@ -8,7 +8,7 @@
     <string name="outdoor_riding">Outdoor Radfahren</string>
     <string name="indoor_riding">Indoor Radfahren</string>
     <string name="cross_contry">Trail run</string>
-    <string name="eppitical">Elliptical</string>
+    <string name="eppitical">Crosstrainer</string>
     <string name="indoor_swimming">Pool schwimmen</string>
     <string name="outdoor_swimming">Offenes Gewässer</string>
     <string name="triathlon">Triathlon</string>
@@ -87,8 +87,8 @@
     <string name="longitude_and_latitude">Lat/Long</string>
     <string name="press_key_finish_train">Zum Beenden BACK drücken</string>
     <string name="press_up_key_wake_up">Press the Up button to unlock</string>
-    <string name="need_run_kilometer">Interval distance:</string>
-    <string name="need_run_time">Interval time:</string>
+    <string name="need_run_kilometer">Intervalldistanz:</string>
+    <string name="need_run_time">Intervallzeit:</string>
     <string name="need_rest_time">Need</string>
     <string name="need_rest_by_keypress">Zum Fortfahren BACK drücken</string>
     <string name="low_battery_protect">Benachrichtigung bei geringem Akkustand</string>
@@ -288,14 +288,14 @@
     <string name="jianzou">Gehen</string>
     <string name="yueye">Trail Run</string>
     <string name="shineipao">Run Indoor</string>
-    <string name="huwaiqi">Cycling</string>
+    <string name="huwaiqi">Radfahren</string>
     <string name="yongchiyou">Pool schwimmen</string>
     <string name="gongkaiyou">Offenes Gewässer</string>
-    <string name="tuoyuanji">Elliptical</string>
+    <string name="tuoyuanji">Crosstrainer</string>
     <string name="dengshan">Climb</string>
     <string name="tierensan">Triathlon</string>
     <string name="multisport">Multisport</string>
-    <string name="shineiqi">Indoor Cycling</string>
+    <string name="shineiqi">Indoor Radfahren</string>
     <string name="yundongjilu">Aktivitäten</string>
     <string name="celiangxinlv">Herzfrequenz</string>
     <string name="shujuzhongxin">Tagesübersicht</string>
@@ -314,7 +314,7 @@
     <string name="report_bug_dialog_desc">If there is a data error or the watch works abnormally, you can upload the data through the feedback feature to our server for analysis. During this process, the previously generated logs on the watch will be automatically collected and uploaded. These logs are used only for problem analysis, and will be destroyed immediately after that. During the entire process we will comply with our Privacy Policy, view details of the policy on the Amazfit app.</string>
     <string name="dialog_agree">Zustimmen</string>
     <string name="dialog_quit">Beenden</string>
-    <string name="nothing">Empty</string>
+    <string name="nothing">Leer</string>
     <string name="about_title">Über</string>
     <string name="model">Model</string>
     <string name="dev_name">Name</string>
@@ -565,7 +565,7 @@ all data in the watch will be deleted, and the watch will be disconnected from y
     <string name="screen_refresh">Lockscreen seconds hand</string>
     <string name="screen_refresh_on_string">On</string>
     <string name="screen_refresh_off_string">Aus</string>
-    <string name="setting_regulatory_europe">Europe</string>
+    <string name="setting_regulatory_europe">Europa</string>
     <string name="setting_regulatory_us">U.S.</string>
     <string name="setting_regulatory_canda">Canada</string>
     <string name="setting_regulatory_russia">Russia</string>
