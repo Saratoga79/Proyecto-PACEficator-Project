@@ -23,10 +23,10 @@
     <string name="crossing_vertical_velocity_unit">ft/h</string>
     <string name="crossing_history_detail_total_time">Total time</string>
     <string name="crossing_history_detail_move_time">Aktive Zeit</string>
-    <string name="crossing_history_detail_ave_move_pace">Avg pace</string>
+    <string name="crossing_history_detail_ave_move_pace">⌀ Tempo</string>
     <string name="crossing_history_detail_ave_move_pace_unit">/km</string>
     <string name="crossing_history_detail_best_pace">Best pace</string>
-    <string name="crossing_history_detail_ave_move_speed">Avg speed</string>
+    <string name="crossing_history_detail_ave_move_speed">⌀ Geschw.</string>
     <string name="crossing_history_detail_max_speed">Max speed</string>
     <string name="crossing_history_detail_climb_up">Elev gain</string>
     <string name="crossing_history_detail_climb_down">Elev loss</string>
@@ -95,7 +95,7 @@
     <string name="detail_lap_time">Zeit</string>
     <string name="detail_total_distance_desc">Total distance</string>
     <string name="detail_lap_dis">Distance</string>
-    <string name="detail_lap_avg_pace">Avg pace</string>
+    <string name="detail_lap_avg_pace">⌀ Tempo</string>
     <string name="detail_curve_graph">Graph</string>
     <string name="battery_support_sport">Can still exercise for</string>
     <string name="battery_continue_distance_unit"> km</string>
@@ -147,7 +147,7 @@
     <string name="settings_sport_auto_pace_title">Pause at pace</string>
     <string name="settings_sport_auto_speed_title">Pause at speed</string>
     <string name="settings_content_stand_still">Standing still</string>
-    <string name="settings_sport_bg_type">Background color</string>
+    <string name="settings_sport_bg_type">Hintergrundfarbe</string>
     <string name="settings_sport_bg_type_normal">Black</string>
     <string name="settings_sport_bg_type_white">White</string>
     <string name="setting_on">On</string>
@@ -244,7 +244,7 @@ start now."</string>
     <string name="sport_pause_normal_stroke_unit">Strokes</string>
     <string name="sport_auto_lap_dis">Time for %1$s km</string>
     <string name="sport_auto_lap_dis_imperial">Time for %1$s mi</string>
-    <string name="sport_graph_title_ave">Average</string>
+    <string name="sport_graph_title_ave">Durchschnitt</string>
     <string name="sport_graph_title_max">Max</string>
     <string name="sport_graph_title_min">Min</string>
     <string name="sport_graph_title_fast">Fastest</string>
@@ -321,7 +321,7 @@ start now."</string>
     <string name="pause_sport">Pause activity</string>
     <string name="continue_sport">Continue activity</string>
     <string name="stop_sport">Stop activity</string>
-    <string name="swim_avg_stroke_speed">Avg SPM</string>
+    <string name="swim_avg_stroke_speed">⌀ SPM</string>
     <string name="swim_max_stroke_speed">Max stroke rate</string>
     <string name="swim_trips">Laps</string>
     <string name="target_swim_trips">Target laps</string>
@@ -457,7 +457,7 @@ start now."</string>
     <string name="oritation_sourth">S</string>
     <string name="oritation_west">W</string>
     <string name="oritation_north">N</string>
-    <string name="back_to_continue_sport">Back</string>
+    <string name="back_to_continue_sport">Zurück</string>
     <string name="lap_swim_stroke_speed_title">Stroke rate</string>
     <string name="first_modify_tips">To calibrate the distance result of a running session (must be longer than 0.5 km) helps the watch to generate a more accurate distance result.</string>
     <string name="modify_big_dis_tips">The calibrated value %1$s is significantly different from the measured value %2$s, calibrate anyway?</string>
@@ -494,7 +494,7 @@ start now."</string>
     <string name="rowing_machine_stroke_speed">Paddle frequency</string>
     <string name="rowing_machine_pull_time">Pulling duration</string>
     <string name="rowing_machine_return_time">Pushing duration</string>
-    <string name="rowing_machine_avg_stroke_freq">Avg. Freq.</string>
+    <string name="rowing_machine_avg_stroke_freq">⌀ Freq.</string>
     <string name="gps_settings">GPS interval</string>
     <string name="gps_data_interval">Data interval</string>
     <string name="gps_interval_time">%1$d Sek.</string>
@@ -514,7 +514,7 @@ start now."</string>
     <string name="touch_screen">Touch screen</string>
     <string name="follow_system_settings">Follow system settings</string>
     <string name="ok_button">OK</string>
-    <string name="back_button">Back</string>
+    <string name="back_button">Zurück</string>
     <string name="select_wear_hand">Select wear hand</string>
     <string name="gps_interval_alert_msg">GPS interval of 60 secs will greatly extend the recording duration of sport, but the accuracy of data recording will be reduced. Functions including 1km subsection, auto subsection, and auto pause cannot be used. Confirm?</string>
     <string name="power_saving_alert_msg">Power saving mode will greatly extend the recording duration of sport, but the accuracy of data recording will be reduced. Functions including 1km subsection, auto subsection, and auto pause cannot be used. Confirm?</string>
@@ -617,7 +617,7 @@ to reach full recovery."</string>
     <string name="current_altitude">Höhe über Meer</string>
     <string name="cumulative_climb">Elev gain</string>
     <string name="sport_route_out_of">Deviated route</string>
-    <string name="sport_back_to_route">Back to the route</string>
+    <string name="sport_back_to_route">Zurück zur Route</string>
     <string name="gpx_currnet_is_selected">Selected</string>
     <string name="gpx_select_closed">Close</string>
     <string name="gpx_select_empty"></string>
@@ -626,7 +626,7 @@ to reach full recovery."</string>
     <string name="gpx_route_loading">Just a sec…</string>
     <string name="dialog_remind_to_look_route">View route</string>
     <string name="gpx_offset_route">Deviated route</string>
-    <string name="gpx_back_route">Back to the route</string>
+    <string name="gpx_back_route">Zurück zur Route</string>
     <string name="gpx_alreay_offset">Deviated</string>
     <string name="gpx_no_find_route">No routes available</string>
     <string name="gpx_no_route_guide">"Connect your watch to the computer and copy the GPX file to the 'GPXData' folder and try again"</string>
@@ -834,8 +834,8 @@ für effektives Training!\"</string>
     <string name="running_speed_desc">Speed</string>
     <string name="running_distance_desc">Distance</string>
     <string name="running_heartrate_desc">Heart rate</string>
-    <string name="running_avg_pace_desc">Avg pace</string>
-    <string name="running_avg_speed_desc">Avg speed</string>
+    <string name="running_avg_pace_desc">⌀ Tempo</string>
+    <string name="running_avg_speed_desc">⌀ Geschw.</string>
     <string name="walking_step_count">Steps</string>
     <string name="crossing_vertical_speed">Vert speed</string>
     <string name="slope">Slope</string>
@@ -865,8 +865,8 @@ für effektives Training!\"</string>
     <string name="sport_continue">Resume</string>
     <string name="sport_stop">Stop</string>
     <string name="running_kilometers">km</string>
-    <string name="running_avg_pace_desc_simple">Avg pace</string>
-    <string name="running_avg_speed_desc_simple">Avg speed</string>
+    <string name="running_avg_pace_desc_simple">⌀ Tempo</string>
+    <string name="running_avg_speed_desc_simple">⌀ Geschw.</string>
     <string name="running_pace_unit">/km</string>
     <string name="running_calorie_unit">kcal</string>
     <string name="running_step_freq_unit">Schritte/Min</string>
@@ -1121,7 +1121,7 @@ Ordner \'/sdcard/gpxdata\'.
 Sie können es über USB auf einen Computer kopieren."</string>
     <string name="hint_failed">"Couldn't export, try again."</string>
     <string name="app_name">gpx-recorder</string>
-    <string name="average_text">Average</string>
+    <string name="average_text">Durchschnitt</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="running">Running</string>
     <string name="waking">Walking</string>
@@ -1197,7 +1197,7 @@ Sie können es über USB auf einen Computer kopieren."</string>
     <string name="hockey">Hockey</string>
     <string name="handball">Handball</string>
     <string name="badminton">Badminton</string>
-    <string name="archery">Archery</string>
+    <string name="archery">Bogenschießen</string>
     <string name="equestrian_sport">Equestrian</string>
     <string name="swordplay">Fencing</string>
     <string name="karate">Karate</string>
