@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="permlab_bluetoothShareManager">Access download manager.</string>
-    <string name="permdesc_bluetoothShareManager">Allows the app to access the BluetoothShare manager and use it to transfer files.</string>
+    <string name="permlab_bluetoothShareManager">Accéder au gestionnaire de téléchargement</string>
+    <string name="permdesc_bluetoothShareManager">Permet à l\'application d\'accéder au gestionnaire BluetoothShare et de l\'utiliser pour le transfert de fichiers.</string>
     <string name="permlab_bluetoothWhitelist">Whitelist bluetooth device access.</string>
-    <string name="permdesc_bluetoothWhitelist">Allows the app to temporarily whitelist a Bluetooth device, allowing that device to send files to this device without user confirmation.</string>
+    <string name="permdesc_bluetoothWhitelist">Permet à l\'application d\'ajouter temporairement un appareil Bluetooth à la liste blanche. Ainsi, celui-ci peut envoyer des fichiers à cet appareil sans que la confirmation de l\'utilisateur ne soit nécessaire.</string>
     <string name="bt_share_picker_label">Bluetooth</string>
-    <string name="unknown_device">Unknown device</string>
-    <string name="unknownNumber">Unknown</string>
-    <string name="airplane_error_title">Airplane mode</string>
-    <string name="airplane_error_msg">"You can't use Bluetooth in Airplane mode."</string>
+    <string name="unknown_device">Périphérique inconnu</string>
+    <string name="unknownNumber">Inconnu</string>
+    <string name="airplane_error_title">Mode Avion</string>
+    <string name="airplane_error_msg">"Bluetooth ne peut pas être utilisé en mode Avion."</string>
     <string name="bt_enable_title"></string>
-    <string name="bt_enable_line1">To use Bluetooth services, you must first turn on Bluetooth.</string>
-    <string name="bt_enable_line2">Turn on Bluetooth now?</string>
+    <string name="bt_enable_line1">Pour utiliser les services Bluetooth, vous devez d\'abord activer Bluetooth.</string>
+    <string name="bt_enable_line2">Activer le Bluetooth maintenant ?</string>
     <string name="bt_enable_cancel">Annuler</string>
-    <string name="bt_enable_ok">Turn on</string>
-    <string name="incoming_file_confirm_title">File transfer</string>
-    <string name="incoming_file_confirm_content">Accept incoming file?</string>
-    <string name="incoming_file_confirm_cancel">Decline</string>
-    <string name="incoming_file_confirm_ok">Accept</string>
+    <string name="bt_enable_ok">Activer</string>
+    <string name="incoming_file_confirm_title">Transfert de fichiers</string>
+    <string name="incoming_file_confirm_content">Accepter le fichier entrant ?</string>
+    <string name="incoming_file_confirm_cancel">Refuser</string>
+    <string name="incoming_file_confirm_ok">Accepter</string>
     <string name="incoming_file_confirm_timeout_ok">OK</string>
     <string name="incoming_file_confirm_timeout_content">There was a timeout while accepting an incoming file from \"%1$s\"</string>
     <string name="incoming_file_confirm_Notification_title">Bluetooth share: Incoming file</string>
