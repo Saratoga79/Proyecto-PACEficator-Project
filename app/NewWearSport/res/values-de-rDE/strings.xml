@@ -69,7 +69,7 @@
     <string name="stroke_speed_curve_title">Stroke rate (SPM)</string>
     <string name="stroke_rowing_title">Rowing speed (bpm)</string>
     <string name="stroke_unit">" strokes"</string>
-    <string name="cadence_curve_title">Cadence (SPM)</string>
+    <string name="cadence_curve_title">Kadenz (SPM)</string>
     <string name="swim_trips_complete">Swam %1$d laps</string>
     <string name="gps_search_tips">A 15-minute warm-up exercise before the running helps prevent injuries.</string>
     <string name="gps_search_swim_tips">Screen will be locked when you start swimming.</string>
@@ -117,7 +117,7 @@
     <string name="picker_title_auto_lap">Auto laps (%1$s)</string>
     <string name="picker_title_swim_length">Pool Länge (%1$s)</string>
     <string name="picker_title_target_trips">Target laps</string>
-    <string name="picker_title_fix_dis">Calibrate (%1$s)</string>
+    <string name="picker_title_fix_dis">Kalibrieren (%1$s)</string>
     <string name="picker_sub_title_te_one">(Improving)</string>
     <string name="picker_sub_title_te_two">(Improving)</string>
     <string name="picker_sub_title_te_three">(Improving)</string>
@@ -185,7 +185,7 @@
     <string name="history_speed_graph_desc_imperial">Geschwindigkeit (mph)</string>
     <string name="history_altitude_graph_desc">Höhe (m)</string>
     <string name="history_altitude_graph_desc_imperial">Höhe (ft)</string>
-    <string name="history_step_freq_graph_desc">Cadence (SPM)</string>
+    <string name="history_step_freq_graph_desc">Kadenz (SPM)</string>
     <string name="history_title">Aktivitäten</string>
     <string name="history_detail_info">Details</string>
     <string name="hitory_rest_command">Time to full recovery </string>
@@ -226,8 +226,8 @@ start now."</string>
     <string name="sport_main_pm">PM</string>
     <string name="sport_main_recovery_title">Recommended recovery time</string>
     <string name="sport_history_full_recovery">Recovery time</string>
-    <string name="sport_main_avg_stride">Avg stride</string>
-    <string name="sport_main_stride">Stride</string>
+    <string name="sport_main_avg_stride">⌀ Schrittlänge</string>
+    <string name="sport_main_stride">Schrittlänge</string>
     <string name="sport_main_total_kcal">Total calories</string>
     <string name="sport_main_avg_stride_unit">cm/Schritt</string>
     <string name="sport_main_avg_heart_rate">⌀ Herz-Freq.</string>
@@ -328,7 +328,7 @@ start now."</string>
     <string name="swim_total_trips">Total laps</string>
     <string name="swim_stroke">Züge</string>
     <string name="swim_stroke_times">Sessions</string>
-    <string name="swim_avg_dps">Avg DPS</string>
+    <string name="swim_avg_dps">⌀ DPS</string>
     <string name="swim_swolf">SWOLF</string>
     <string name="swim_swolf_unit">(%1$s m)</string>
     <string name="swim_swolf_unit_default">(100 m)</string>
@@ -441,7 +441,7 @@ start now."</string>
     <string name="setting_reserve_heart_region">RHR zone</string>
     <string name="outdoor_riding_speed_alert">Speed alert</string>
     <string name="speed_too_low_remind_title">The speed is too slow</string>
-    <string name="running_button_save_modify">Calibrate and save</string>
+    <string name="running_button_save_modify">Kalibrieren und speichern</string>
     <string name="save_cur_location">Save current location</string>
     <string name="previous_page">Previous</string>
     <string name="back_from_coming">Backtrack</string>
@@ -463,7 +463,7 @@ start now."</string>
     <string name="modify_big_dis_tips">The calibrated value %1$s is significantly different from the measured value %2$s, calibrate anyway?</string>
     <string name="modify_big_dis_regain">Edit</string>
     <string name="modify_big_dis_confirm">Kalibrierung fortsetzen</string>
-    <string name="re_modify_dis">Calibrate again</string>
+    <string name="re_modify_dis">Erneut kalibrieren</string>
     <string name="re_modify_dis_tips">"1. Um das Fernergebnis einer laufenden Sitzung zu kalibrieren (muss länger als 0,5 km lang sein) hilft die Uhr, ein genaueres Ergebnis zu generieren.
 2. Wenn Sie nach mehreren Kalibrierungsversuchen noch nicht zufrieden sind, versuchen Sie, erneut zu kalibrieren.
 3. Wenn Sie das Ergebnis erneut kalibrieren, werden alle vorherigen Kalibrierungsdaten gelöscht."</string>
@@ -688,7 +688,7 @@ to reach full recovery."</string>
     <string name="not_testing_speed_data">"Geschwindigkeitsdaten wurden nicht gefunden"</string>
     <string name="con_leqi_table_title">LEQI cycling table is supported on watch, pair now?</string>
     <string name="con_leqi_table_subtitle">(Pair device in Settings &gt; Bluetooth)</string>
-    <string name="remind_target_riding_km_title_format">Completed %1$d km</string>
+    <string name="remind_target_riding_km_title_format">%1$d km abgeschlossen</string>
     <string name="indoor_riding_time_too_short">Exercise time is too short to save. Stop anyway?</string>
     <string name="outdoor_climb_down_altitude">Höhenverlust</string>
     <string name="outdoor_climb_down_distance">Dist loss</string>
@@ -896,7 +896,7 @@ für effektives Training!\"</string>
     <string name="history_detail_cost_time">Gesamtzeit</string>
     <string name="history_detail_pace_desc">Tempo (min/km)</string>
     <string name="history_detail_calorie_desc">Kalorien (kCal)</string>
-    <string name="history_detail_step_freq">Cadence (SPM)</string>
+    <string name="history_detail_step_freq">Kadenz (SPM)</string>
     <string name="history_detail_speed">Geschwindigkeit (km/h)</string>
     <string name="waiting_gps_gps_unavailable">Waiting for GPS signal</string>
     <string name="waiting_gps_gps_available">GPS ist jetzt verfügbar</string>
@@ -960,8 +960,8 @@ für effektives Training!\"</string>
     <string name="on_foot_progress">On foot progress</string>
     <string name="indoor_fitness_progress">Fitness progress</string>
     <string name="remind_target_distance_title_format">Goal: %1$d km</string>
-    <string name="remind_target_km_title_format">Completed: %1$d km</string>
-    <string name="remind_target_km_walking_title_format">Completed: %1$d km</string>
+    <string name="remind_target_km_title_format">Abgeschlossen: %1$d km</string>
+    <string name="remind_target_km_walking_title_format">Abgeschlossen: %1$d km</string>
     <string name="remind_target_distance_finished">Completed</string>
     <string name="remind_target_cost_time_desc">Zeit</string>
     <string name="remind_target_pace_desc">Tempo</string>
@@ -981,7 +981,7 @@ für effektives Training!\"</string>
     <string name="remind_target_time_pace">Tempo</string>
     <string name="remind_target_time_pace_unit">/km</string>
     <string name="sport_in_progress_confirm">OK</string>
-    <string name="sport_modify">Calibrate</string>
+    <string name="sport_modify">Kalibrieren</string>
     <string name="sport_history_detail_heart_unit">Einheit (h:m:s)</string>
     <string name="widget_sport_item_running_title">Run</string>
     <string name="wait_gps_no_gps_signal">GPS is unavailable, try again in an open space</string>
@@ -1074,10 +1074,10 @@ für effektives Training!\"</string>
     <string name="km_metric_speed_unit">km/h</string>
     <string name="km_metric_distance">Distanz (km)</string>
     <string name="km_metric_remind_target_distance_title_format">Goal: %1$d km</string>
-    <string name="km_metric_remind_target_km_title_format">Completed %1$d km</string>
-    <string name="km_metric_remind_target_km_walking_title_format">Completed %1$d km</string>
-    <string name="km_metric_remind_target_distance_training_title_format">Completed %1s km</string>
-    <string name="km_metric_remind_target_riding_km_title_format">Completed %1$d km</string>
+    <string name="km_metric_remind_target_km_title_format">%1$d km abgeschlossen</string>
+    <string name="km_metric_remind_target_km_walking_title_format">%1$d km abgeschlossen</string>
+    <string name="km_metric_remind_target_distance_training_title_format">%1s km abgeschlossen</string>
+    <string name="km_metric_remind_target_riding_km_title_format">%1$d km abgeschlossen</string>
     <string name="meter_metric_crossing_vertical_velocity_unit">m/min</string>
     <string name="meter_metric_crossing_history_detail_altituede_graph_desc">Höhe (m)</string>
     <string name="km_metric_outdoor_speed_graph_title">Geschwindigkeit (km/h)</string>
@@ -1089,10 +1089,10 @@ für effektives Training!\"</string>
     <string name="km_imperial_speed_unit">mph</string>
     <string name="km_imperial_distance">Distanz (mi)</string>
     <string name="km_imperial_remind_target_distance_title_format">Goal: %1$d mi</string>
-    <string name="km_imperial_remind_target_km_title_format">Completed %1$d mi</string>
-    <string name="km_imperial_remind_target_km_walking_title_format">Completed %1$d mi</string>
-    <string name="km_imperial_remind_target_riding_km_title_format">Completed %1$d mi</string>
-    <string name="km_imperial_remind_target_distance_training_title_format">Completed %1s mi</string>
+    <string name="km_imperial_remind_target_km_title_format">%1$d mi abgeschlossen</string>
+    <string name="km_imperial_remind_target_km_walking_title_format">%1$d mi abgeschlossen</string>
+    <string name="km_imperial_remind_target_riding_km_title_format">%1$d mi abgeschlossen</string>
+    <string name="km_imperial_remind_target_distance_training_title_format">%1s mi abgeschlossen</string>
     <string name="meter_imperial_crossing_vertical_velocity_unit">ft/min</string>
     <string name="meter_imperial_crossing_history_detail_altituede_graph_desc">Höhe (ft)</string>
     <string name="km_imperial_outdoor_speed_graph_title">Geschwindigkeit (mph)</string>
