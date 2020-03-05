@@ -189,7 +189,7 @@
     <string name="history_title">Aktywność</string>
     <string name="history_detail_info">Szczegóły</string>
     <string name="hitory_rest_command">Czas do pełnej regeneracji </string>
-    <string name="hitory_rest_command_time">Godz. </string>
+    <string name="hitory_rest_command_time"> Godz. </string>
     <string name="history_month_target_title">Miesięczny cel</string>
     <string name="history_month_dis">%1$s/%2$d km</string>
     <string name="history_month_dis_imperial">%1$s/%2$d mi</string>
@@ -237,9 +237,9 @@ zacznij teraz."</string>
     <string name="exchange_time_cost">Transition time</string>
     <string name="exchange_in_progress">In transition</string>
     <string name="exchange_anim_title">Transition</string>
-    <string name="sport_pause_swim_type">Odległość pływania</string>
+    <string name="sport_pause_swim_type">Odległość pływania </string>
     <string name="sport_pause_swim_dis_unit">Dystans</string>
-    <string name="sport_pause_normal_dis_type">Dystans</string>
+    <string name="sport_pause_normal_dis_type">Dystans </string>
     <string name="sport_pause_normal_dis_unit">Dystans</string>
     <string name="sport_pause_normal_stroke_unit">Uderzenia</string>
     <string name="sport_auto_lap_dis">Czas dla %1$s km</string>
@@ -252,7 +252,7 @@ zacznij teraz."</string>
     <string name="sport_graph_title_low">Najniższy</string>
     <string name="adjust_content">%1$dm</string>
     <string name="adjust_tips_title">Odległość automatycznego okrążenia została zmieniona</string>
-    <string name="adjust_swim_tips">Odległość aautomatycznego okrążenia została ustawiona jako długość basenu. Jeśli chcesz ją zresetować, przejdź do ustawień aktywności.</string>
+    <string name="adjust_swim_tips">Odległość automatycznego okrążenia została ustawiona jako długość basenu. Jeśli chcesz ją zresetować, przejdź do ustawień aktywności.</string>
     <string name="hill_title">Rozkład nachylenia</string>
     <string name="hill_even">Płaski</string>
     <string name="hill_up">Uphill</string>
@@ -324,7 +324,7 @@ zacznij teraz."</string>
     <string name="swim_avg_stroke_speed">Avg SPM</string>
     <string name="swim_max_stroke_speed">Max stroke rate</string>
     <string name="swim_trips">Okrążenia</string>
-    <string name="target_swim_trips">Cel okrążeń </string>
+    <string name="target_swim_trips">Cel okrążeń</string>
     <string name="swim_total_trips">Całkowita liczba okrążeń</string>
     <string name="swim_stroke">Strokes</string>
     <string name="swim_stroke_times">Sessions</string>
@@ -336,9 +336,9 @@ zacznij teraz."</string>
     <string name="swim_swolf_unit_default_yd">(100 yd)</string>
     <string name="swim_pace">Tempo</string>
     <string name="swim_pace_unit">/100 m</string>
-    <string name="swim_pace_unit_imperial">/100 stóp</string>
+    <string name="swim_pace_unit_imperial">/100 ft</string>
     <string name="swim_trips_unit">okrążenia (%1$d m/okr)</string>
-    <string name="swim_trips_unit_yd">okrążenia (%1$d jard/okr)</string>
+    <string name="swim_trips_unit_yd">okrążenia (%1$d yd/okr)</string>
     <string name="heart_region_title">Strefa tętna</string>
     <string name="heart_region_anaerobic＿limit">Limit beztlenowy</string>
     <string name="heart_region_endurance_enhancement">Beztlenowy</string>
@@ -365,8 +365,8 @@ zacznij teraz."</string>
     <string name="per_correspond_mi">Co %1$d mi</string>
     <string name="more_operation">Więcej</string>
     <string name="detail_route_detail_train_lap_title">Szczegóły interwału</string>
-    <string name="interval_train_tips_title">Alerty będą domyślnie wyłączone podczas interwałów. </string>
-    <string name="interval_train_tips_content">(Z wyjątkiem alertów tętna) </string>
+    <string name="interval_train_tips_title">Alerty będą domyślnie wyłączone podczas interwałów</string>
+    <string name="interval_train_tips_content">(Z wyjątkiem alertów tętna)</string>
     <string name="interval_confirm">Zrozumiałem</string>
     <string name="this_time_need_run_mileage">Interval distance: %1$s km</string>
     <string name="this_time_need_run_mileage_mile">Interval distance: %1$s mi</string>
@@ -431,9 +431,9 @@ zacznij teraz."</string>
     <string name="virtual_rabbit_backward_time">Lag time</string>
     <string name="anti_navigation_pause_content">Head back</string>
     <string name="virtual_rabbit_lead_time">Lead time</string>
-    <string name="sport_main_beyond_heart_info_remind">Powyżej granicy tętna </string>
-    <string name="setting_not_remind">Wyłącz powiadomienie</string>
-    <string name="setting_max_heart_region">Maksymalna strefa tętna </string>
+    <string name="sport_main_beyond_heart_info_remind">Powyżej granicy tętna</string>
+    <string name="setting_not_remind">Wyłącz alert</string>
+    <string name="setting_max_heart_region">Maks. strefa tętna </string>
     <string name="virtual_rabbit_title">Virtual rabbit</string>
     <string name="virtual_rabbit_backward_distance">Lag distance</string>
     <string name="virtual_rabbit_lead_distance">Lead distance</string>
