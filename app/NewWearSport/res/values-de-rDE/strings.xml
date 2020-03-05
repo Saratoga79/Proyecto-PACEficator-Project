@@ -41,7 +41,7 @@
     <string name="crossing_settings_item_value_individual">%1s km</string>
     <string name="crossing_remind_target_individual_title">Lap %1d</string>
     <string name="crossing_remind_target_individual_cost_time">Zeit</string>
-    <string name="crossing_remind_target_individual_pace">Pace</string>
+    <string name="crossing_remind_target_individual_pace">Tempo</string>
     <string name="agps_time_out">AGPS has expired. GPS searching will be slow. Connect to the Amazfit App to update it.</string>
     <string name="safe_hearate_remind_content">Notify when higher than %1d BPM</string>
     <string name="settings_safe_heart_rate_hint">(Heart rate limit)</string>
@@ -209,7 +209,7 @@ start now."</string>
     <string name="unit_cadence">rpm</string>
     <string name="sport_main_heart_info_title">Heartrate</string>
     <string name="sport_main_beyond_heart_info_title">Beyond heart rate</string>
-    <string name="sport_main_pace_info_title">Pace</string>
+    <string name="sport_main_pace_info_title">Tempo</string>
     <string name="heartrate_x_axis_time_format">HH:mm:ss</string>
     <string name="lap_title">Lap %1$d</string>
     <string name="manual_lap_title">Manual laps %1$d</string>
@@ -284,7 +284,7 @@ start now."</string>
     <string name="device_out">Device disconnected</string>
     <string name="history_swim_exchange_title">Transition time</string>
     <string name="history_riding_exchange_title">Transition time</string>
-    <string name="sport_pause_time_tips">Paused</string>
+    <string name="sport_pause_time_tips">Pausiert</string>
     <string name="sport_stride_unit">cm</string>
     <string name="sport_stride_unit_imperial">in</string>
     <string name="end_last_sport_tips">Stop %1$s activity first</string>
@@ -334,7 +334,7 @@ start now."</string>
     <string name="swim_swolf_unit_default">(100 m)</string>
     <string name="swim_swolf_unit_yd">(%1$s yd)</string>
     <string name="swim_swolf_unit_default_yd">(100 yd)</string>
-    <string name="swim_pace">Pace</string>
+    <string name="swim_pace">Tempo</string>
     <string name="swim_pace_unit">/100 m</string>
     <string name="swim_pace_unit_imperial">/100 ft</string>
     <string name="swim_trips_unit">\"(%1$d m / Reise)
@@ -386,8 +386,8 @@ start now."</string>
     <string name="has_no_train_unit_remind">Add interval workouts in the Amazfit app and sync to this watch.</string>
     <string name="interval_segment_details">Interval details</string>
     <string name="test_html_txt" formatted="false">%1sm%2ss/%3sm</string>
-    <string name="sport_widget_title_skiing">Ski</string>
-    <string name="sport_widget_title_in_skiing">Ski</string>
+    <string name="sport_widget_title_skiing">Skifahren</string>
+    <string name="sport_widget_title_in_skiing">Skifahren</string>
     <string name="skiing_history_downhill_title">Downhill</string>
     <string name="skiing_downhill_max_elev_loss">Max descent</string>
     <string name="skiing_downhill_total_elev_loss">Total descent</string>
@@ -649,7 +649,7 @@ to reach full recovery."</string>
     <string name="music_not_known">Unknown</string>
     <string name="music_update_content">Song update</string>
     <string name="music_update_tips_content">Douban FM updates songs regularly. Updating songs will replace the music library. Update now?</string>
-    <string name="music_pause">Paused</string>
+    <string name="music_pause">Pausiert</string>
     <string name="music_fm_title">Watercress FM</string>
     <string name="music_fm_notification_content">The Sports FM has some new playlists, go and download it!</string>
     <string name="music_down_not_complete_title">The song list has not been fully downloaded, exit?</string>
@@ -828,7 +828,7 @@ für effektives Training!\"</string>
     <string name="cur_lap_speed">Speed for this lap</string>
     <string name="cur_lap_pace">Pace for this lap</string>
     <string name="running_cost_time_desc">Zeit</string>
-    <string name="running_pace_desc">Pace</string>
+    <string name="running_pace_desc">Tempo</string>
     <string name="running_calorie_desc">Calories</string>
     <string name="running_step_freq_desc">Schrittfreq.</string>
     <string name="running_speed_desc">Geschwindigkeit</string>
@@ -875,7 +875,7 @@ für effektives Training!\"</string>
     <string name="running_heartrate_unit">BPM</string>
     <string name="running_realtime_trail_desc">Routes</string>
     <string name="running_control_title">Run</string>
-    <string name="running_control_paused_des">Paused</string>
+    <string name="running_control_paused_des">Pausiert</string>
     <string name="sport_history_item_distance_desc">Distance (km)</string>
     <string name="sport_history_item_cost_time_desc">Zeit</string>
     <string name="running_avg_step_freq_desc">⌀ Schrittfreq.</string>
@@ -964,7 +964,7 @@ für effektives Training!\"</string>
     <string name="remind_target_km_walking_title_format">Completed: %1$d km</string>
     <string name="remind_target_distance_finished">Completed</string>
     <string name="remind_target_cost_time_desc">Zeit</string>
-    <string name="remind_target_pace_desc">Pace</string>
+    <string name="remind_target_pace_desc">Tempo</string>
     <string name="remind_target_distance_pace_unit">/km</string>
     <string name="remind_heart_rate_too_high">Heart rate is too high</string>
     <string name="remind_heart_rate_value_before">Current</string>
@@ -978,7 +978,7 @@ für effektives Training!\"</string>
     <string name="remind_target_time_title_format">Target at %1$dh %2$dm</string>
     <string name="remind_target_time_distance">Distance</string>
     <string name="remind_target_time_distance_unit">km</string>
-    <string name="remind_target_time_pace">Pace</string>
+    <string name="remind_target_time_pace">Tempo</string>
     <string name="remind_target_time_pace_unit">/km</string>
     <string name="sport_in_progress_confirm">OK</string>
     <string name="sport_modify">Calibrate</string>
@@ -989,7 +989,7 @@ für effektives Training!\"</string>
     <string name="wait_gps_hint">The GPS signal is better in open space far away from buildings</string>
     <string name="wait_gps_success">GPS available, you can start workout now</string>
     <string name="lock_screen">Screen locked</string>
-    <string name="txt_unlock_screen">Press and hold the screen to unlock</string>
+    <string name="txt_unlock_screen">Zum Entsperren den Bildschirm berühren und halten</string>
     <string name="sport_screen_un_lock">Unlocked</string>
     <string name="lock_status_locked">Locked</string>
     <string name="lock_status_unlock_ing">Unlocking…</string>
@@ -1123,7 +1123,7 @@ Sie können es über USB auf einen Computer kopieren."</string>
     <string name="app_name">gpx-recorder</string>
     <string name="average_text">Durchschnitt</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
-    <string name="running">Running</string>
+    <string name="running">Laufen</string>
     <string name="waking">Gehen</string>
     <string name="indoor_running">Laufband</string>
     <string name="outdoor_riding">Outdoor Radfahren</string>
@@ -1136,7 +1136,7 @@ Sie können es über USB auf einen Computer kopieren."</string>
     <string name="mountain">Climbing</string>
     <string name="riding">Radfahren</string>
     <string name="swimming">Schwimmen</string>
-    <string name="skiing">Skiing</string>
+    <string name="skiing">Skifahren</string>
     <string name="tennis">Tennis</string>
     <string name="soccer">Fußball</string>
     <string name="golf">Golf</string>
@@ -1144,7 +1144,7 @@ Sie können es über USB auf einen Computer kopieren."</string>
     <string name="rope_skipping">Jump rope</string>
     <string name="on_foot">On foot</string>
     <string name="indoor_fitness">Indoor fitness</string>
-    <string name="row_machine">Rowing machine</string>
+    <string name="row_machine">Rudergerät</string>
     <string name="indoor_walking">Indoor walking</string>
     <string name="mountain_biking">Mountain biking</string>
     <string name="cycling_bmx">BMX</string>
@@ -1209,16 +1209,16 @@ Sie können es über USB auf einen Computer kopieren."</string>
     <string name="taekwondo">Taekwondo</string>
     <string name="a_martial_art">Martial arts</string>
     <string name="free_fight">Free sparring</string>
-    <string name="double_ski">Ski</string>
+    <string name="double_ski">Skifahren</string>
     <string name="sport_total_time">Gesamtzeit</string>
     <string name="speed">Geschwindigkeit</string>
     <string name="stroke_speed">Schlagzahl</string>
-    <string name="pace">Pace</string>
+    <string name="pace">Tempo</string>
     <string name="mileage">Distance</string>
     <string name="rope_skip_freq">Frequency</string>
     <string name="row_stroke_freq">Frequency</string>
-    <string name="sport_has_paused">Paused</string>
-    <string name="sport_paused_time">Paused</string>
+    <string name="sport_has_paused">Pausiert</string>
+    <string name="sport_paused_time">Pausiert</string>
     <string name="sport_distance">Distance</string>
     <string name="sport_mileage">Distance</string>
     <string name="sport_downhill_total_distance">Total downhill</string>
@@ -1248,8 +1248,8 @@ Sie können es über USB auf einen Computer kopieren."</string>
     <string name="zone_five">Zone 5</string>
     <string name="zone_risk">High heart rate</string>
     <string name="enter_sport_lock_status">Locking the screen during activity</string>
-    <string name="press_any_key_wakeup">Press any key</string>
-    <string name="press_power_key_wakeup">Press a physical button to unlock</string>
+    <string name="press_any_key_wakeup">Beliebige Taste drücken</string>
+    <string name="press_power_key_wakeup">Zum Entsperren eine physische Taste drücken</string>
     <string name="meter">m</string>
     <string name="kilometre">km</string>
     <string name="km_per_hour">km/h</string>
@@ -1290,7 +1290,7 @@ Sie können es über USB auf einen Computer kopieren."</string>
     <string name="rope_skip_avg_heartrate">⌀ Herz-Freq.</string>
     <string name="rope_skip_group_calories">Calories</string>
     <string name="music">Music</string>
-    <string name="press_long_power_key_wake_up">Press a physical button to exit</string>
+    <string name="press_long_power_key_wake_up">Zum Beenden eine physische Taste drücken</string>
     <string name="sport_auto_pause_end">Aktion beendet, Daten speichern?</string>
     <string name="sport_slpt_stop_next_group">Next</string>
     <string name="picker_default_positive_text">OK</string>
