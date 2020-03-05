@@ -8,7 +8,7 @@
     <string name="system_ui_date_pattern">@android:string/system_ui_date_pattern</string>
     <string name="lland">L Land</string>
     <string name="app_label">System UI</string>
-    <string name="status_bar_clear_all_button">Clear</string>
+    <string name="status_bar_clear_all_button">Leeren</string>
     <string name="status_bar_recent_remove_item_title">Remove from list</string>
     <string name="status_bar_recent_inspect_item_title">App Info</string>
     <string name="status_bar_no_recent_apps">Your recent screens appear here</string>
@@ -201,7 +201,7 @@ Das erneute Einschalten kann zu Gebühren von Ihrem Mobilfunkanbieter führen."<
     <string name="gps_notification_searching_text">Searching for GPS</string>
     <string name="gps_notification_found_text">Location set by GPS</string>
     <string name="accessibility_location_active">Location requests active</string>
-    <string name="accessibility_clear_all">Clear all notifications.</string>
+    <string name="accessibility_clear_all">Alle Benachrichtigungen schließen</string>
     <string name="status_bar_notification_inspect_item_title">Notification settings</string>
     <string name="status_bar_notification_app_settings_title">%s settings</string>
     <string name="accessibility_rotation_lock_off">Screen will rotate automatically.</string>
@@ -249,7 +249,7 @@ Das erneute Einschalten kann zu Gebühren von Ihrem Mobilfunkanbieter führen."<
     <string name="quick_settings_inversion_label">Invert colors</string>
     <string name="quick_settings_color_space_label">Color correction mode</string>
     <string name="quick_settings_more_settings">More settings</string>
-    <string name="quick_settings_done">Done</string>
+    <string name="quick_settings_done">Fertig</string>
     <string name="quick_settings_connected">Verbunden</string>
     <string name="quick_settings_connected_via_wfa">Connected via Wi‑Fi assistant</string>
     <string name="quick_settings_connecting">Verbinden…</string>
@@ -314,13 +314,13 @@ Das erneute Einschalten kann zu Gebühren von Ihrem Mobilfunkanbieter führen."<
     <string name="user_add_user_message_short">"Wenn Sie einen neuen Benutzer hinzufügen, muss diese Person ihren Speicherplatz einrichten. 
 
 Jeder Benutzer kann Apps für alle anderen Benutzer aktualisieren."</string>
-    <string name="battery_saver_notification_title">Battery saver is on</string>
+    <string name="battery_saver_notification_title">Energiesparmodus aktiviert</string>
     <string name="battery_saver_notification_text">Reduces performance and background data</string>
     <string name="battery_saver_notification_action_text">Turn off battery saver</string>
     <string name="notification_hidden_text">Contents hidden</string>
     <string name="media_projection_dialog_text">"%s will start capturing everything that's displayed on your screen."</string>
     <string name="media_projection_remember_text">"Don't show again"</string>
-    <string name="clear_all_notifications_text">Clear all</string>
+    <string name="clear_all_notifications_text">Alles schließen</string>
     <string name="media_projection_action_text">Start now</string>
     <string name="empty_shade_text">No notifications</string>
     <string name="device_owned_footer">Device may be monitored</string>
@@ -431,7 +431,7 @@ Außerdem sind Sie mit einem VPN verbunden (\"%3$s\"). Ihr VPN-Dienstanbieter ka
     <string name="faceunlock_multiple_failures">Maximum Face Unlock attempts exceeded</string>
     <string name="keyguard_charged">Aufgeladen</string>
     <string name="keyguard_plugged_in">Wird aufgeladen</string>
-    <string name="keyguard_low_battery">Connect your charger.</string>
+    <string name="keyguard_low_battery">Ladegerät anschließen</string>
     <string name="keyguard_instructions_when_pattern_disabled">Press Menu to unlock.</string>
     <string name="keyguard_network_locked_message">Network locked</string>
     <string name="keyguard_missing_sim_message_short">No SIM card</string>
@@ -488,7 +488,7 @@ Wenden Sie sich an Ihren Mobilfunkanbieter, um eine andere SIM-Karte zu erhalten
     <string name="keyboardview_keycode_alt">Alt</string>
     <string name="keyboardview_keycode_cancel">Abbrechen</string>
     <string name="keyboardview_keycode_delete">Löschen</string>
-    <string name="keyboardview_keycode_done">Done</string>
+    <string name="keyboardview_keycode_done">Fertig</string>
     <string name="keyboardview_keycode_mode_change">Mode change</string>
     <string name="keyboardview_keycode_shift">Shift</string>
     <string name="keyboardview_keycode_enter">Enter</string>
