@@ -71,7 +71,7 @@ Verwenden Sie nur geeignete Ladegeräte."</string>
     <string name="accessibility_menu">Menu</string>
     <string name="accessibility_recent">Overview</string>
     <string name="accessibility_search_light">Search</string>
-    <string name="accessibility_camera_button">Camera</string>
+    <string name="accessibility_camera_button">Kamera</string>
     <string name="accessibility_phone_button">Phone</string>
     <string name="accessibility_unlock_button">Unlock</string>
     <string name="unlock_label">unlock</string>
@@ -103,8 +103,8 @@ Verwenden Sie nur geeignete Ladegeräte."</string>
     <string name="accessibility_wifi_two_bars">Wifi two bars.</string>
     <string name="accessibility_wifi_three_bars">Wifi three bars.</string>
     <string name="accessibility_wifi_signal_full">Wifi signal full.</string>
-    <string name="accessibility_wifi_name">Connected to %s.</string>
-    <string name="accessibility_bluetooth_name">Connected to %s.</string>
+    <string name="accessibility_wifi_name">Verbunden mit %s.</string>
+    <string name="accessibility_bluetooth_name">Verbunden mit %s.</string>
     <string name="accessibility_no_wimax">No WiMAX.</string>
     <string name="accessibility_wimax_one_bar">WiMAX one bar.</string>
     <string name="accessibility_wimax_two_bars">WiMAX two bars.</string>
@@ -119,8 +119,8 @@ Verwenden Sie nur geeignete Ladegeräte."</string>
     <string name="accessibility_signal_full">Signal full.</string>
     <string name="accessibility_desc_on">On.</string>
     <string name="accessibility_desc_off">Aus.</string>
-    <string name="accessibility_desc_connected">Connected.</string>
-    <string name="accessibility_desc_connecting">Connecting.</string>
+    <string name="accessibility_desc_connected">Verbunden.</string>
+    <string name="accessibility_desc_connecting">Verbinden…</string>
     <string name="accessibility_data_connection_gprs">GPRS</string>
     <string name="accessibility_data_connection_1x">1 X</string>
     <string name="accessibility_data_connection_hspa">HSPA</string>
@@ -250,9 +250,9 @@ Das erneute Einschalten kann zu Gebühren von Ihrem Mobilfunkanbieter führen."<
     <string name="quick_settings_color_space_label">Color correction mode</string>
     <string name="quick_settings_more_settings">More settings</string>
     <string name="quick_settings_done">Done</string>
-    <string name="quick_settings_connected">Connected</string>
+    <string name="quick_settings_connected">Verbunden</string>
     <string name="quick_settings_connected_via_wfa">Connected via Wi‑Fi assistant</string>
-    <string name="quick_settings_connecting">Connecting...</string>
+    <string name="quick_settings_connecting">Verbinden…</string>
     <string name="quick_settings_tethering_label">Tethering</string>
     <string name="quick_settings_hotspot_label">Hotspot</string>
     <string name="quick_settings_notifications_label">Notifications</string>
@@ -269,8 +269,8 @@ Das erneute Einschalten kann zu Gebühren von Ihrem Mobilfunkanbieter führen."<
     <string name="recents_lock_to_app_button_label">screen pinning</string>
     <string name="recents_search_bar_label">search</string>
     <string name="recents_launch_error_message">Could not start %s.</string>
-    <string name="expanded_header_battery_charged">Charged</string>
-    <string name="expanded_header_battery_charging">Charging</string>
+    <string name="expanded_header_battery_charged">Aufgeladen</string>
+    <string name="expanded_header_battery_charging">Wird aufgeladen</string>
     <string name="expanded_header_battery_charging_with_time">Voll in %s</string>
     <string name="expanded_header_battery_not_charging">Not charging</string>
     <string name="battery_meter_very_low_overlay_symbol">!</string>
@@ -294,7 +294,7 @@ Das erneute Einschalten kann zu Gebühren von Ihrem Mobilfunkanbieter führen."<
     <string name="interruption_level_none">Kein(e)</string>
     <string name="interruption_level_priority">Priority</string>
     <string name="interruption_level_all">Alle</string>
-    <string name="keyguard_indication_charging_time">Charging (%s until full)</string>
+    <string name="keyguard_indication_charging_time">Wird aufgeladen (voll in %s)</string>
     <string name="accessibility_multi_user_switch_switcher">Switch user</string>
     <string name="accessibility_multi_user_switch_switcher_with_current">Switch user, current user %s</string>
     <string name="accessibility_multi_user_switch_quick_contact">Show profile</string>
@@ -429,8 +429,8 @@ Außerdem sind Sie mit einem VPN verbunden (\"%3$s\"). Ihr VPN-Dienstanbieter ka
     <string name="keyguard_password_wrong_pin_code">Incorrect PIN code.</string>
     <string name="keyguard_label_text">To unlock, press Menu then 0.</string>
     <string name="faceunlock_multiple_failures">Maximum Face Unlock attempts exceeded</string>
-    <string name="keyguard_charged">Charged</string>
-    <string name="keyguard_plugged_in">Charging</string>
+    <string name="keyguard_charged">Aufgeladen</string>
+    <string name="keyguard_plugged_in">Wird aufgeladen</string>
     <string name="keyguard_low_battery">Connect your charger.</string>
     <string name="keyguard_instructions_when_pattern_disabled">Press Menu to unlock.</string>
     <string name="keyguard_network_locked_message">Network locked</string>
@@ -453,7 +453,7 @@ Wenden Sie sich an Ihren Mobilfunkanbieter, um eine andere SIM-Karte zu erhalten
     <string name="keyguard_accessibility_unlock_area_collapsed">Unlock area collapsed.</string>
     <string name="keyguard_accessibility_widget">%1$s Widget.</string>
     <string name="keyguard_accessibility_user_selector">User selector</string>
-    <string name="keyguard_accessibility_camera">Camera</string>
+    <string name="keyguard_accessibility_camera">Kamera</string>
     <string name="keygaurd_accessibility_media_controls">Media controls</string>
     <string name="keyguard_accessibility_widget_reorder_start">Widget reordering started.</string>
     <string name="keyguard_accessibility_widget_reorder_end">Widget reordering ended.</string>
@@ -493,7 +493,7 @@ Wenden Sie sich an Ihren Mobilfunkanbieter, um eine andere SIM-Karte zu erhalten
     <string name="keyboardview_keycode_shift">Shift</string>
     <string name="keyboardview_keycode_enter">Enter</string>
     <string name="description_target_unlock">Unlock</string>
-    <string name="description_target_camera">Camera</string>
+    <string name="description_target_camera">Kamera</string>
     <string name="description_target_silent">Silent</string>
     <string name="description_target_soundon">Sound on</string>
     <string name="description_direction_down">Slide down for %s.</string>
