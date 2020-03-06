@@ -1,66 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="quick_settings_status_principleTerm">
-        <item>Major Cold</item>
-        <item>Rain Water</item>
-        <item>Spring Equinox</item>
-        <item>Grain Rain</item>
-        <item>Grain Buds</item>
-        <item>Summer Solstice</item>
-        <item>Major Heat</item>
-        <item>End of Heat</item>
-        <item>Autumn Equinox</item>
-        <item>"Frost's Descent"</item>
-        <item>Minor Snow</item>
-        <item>Winter Solstice</item>
+        <item>מייג \' ור קר</item>
+        <item>גשם מים</item>
+        <item>יום שוויון האביב</item>
+        <item>תבואה גשם</item>
+        <item>תבואה ניצנים</item>
+        <item>היפוך הקיץ</item>
+        <item>מייג \' ור חום</item>
+        <item>בסופו של חום</item>
+        <item>שוויון סתיו</item>
+        <item>"פרוסט הירידה של"</item>
+        <item>קטין שלג</item>
+        <item>ההיפוך החורפי.</item>
     </string-array>
     <string-array name="quick_settings_status_sectionalTerm">
-        <item>Minor Cold</item>
-        <item>Start of Spring</item>
-        <item>Awakening of Insects</item>
-        <item>Clear and Bright</item>
-        <item>Start of Summer</item>
-        <item>Grain in Ear</item>
-        <item>Minor Heat</item>
-        <item>Start of Autumn</item>
-        <item>White Dew</item>
-        <item>Cold Dew</item>
-        <item>Start of Winter</item>
-        <item>Major Snow</item>
+        <item>קטין קר</item>
+        <item>תחילת האביב</item>
+        <item>התעוררות של חרקים</item>
+        <item>ברור ובהיר</item>
+        <item>בתחילת הקיץ</item>
+        <item>תבואה בתוך האוזן</item>
+        <item>קטין חום</item>
+        <item>התחלה של סתיו</item>
+        <item>לבן טל</item>
+        <item>קר טל</item>
+        <item>התחלה של חורף.</item>
+        <item>מייג \' ור שלג</item>
     </string-array>
     <string-array name="quick_settings_status_chineseTen">
-        <item>The</item>
-        <item>10th of the lunar calendar</item>
-        <item>20th of the lunar calendar</item>
-        <item>30th of the lunar calendar</item>
+        <item>את</item>
+        <item>ה-10 של לוח השנה הירחי</item>
+        <item>20 לוח השנה הירחי</item>
+        <item>ה 30-לוח השנה הירחי</item>
     </string-array>
     <string-array name="quick_settings_status_chineseNumber">
-        <item>Lunar Jan</item>
-        <item>Lunar Feb</item>
-        <item>Lunar Mar</item>
-        <item>Lunar Apr</item>
-        <item>Lunar May</item>
-        <item>Lunar Jun</item>
-        <item>Lunar Jul</item>
-        <item>Lunar Aug</item>
-        <item>Lunar Sep</item>
-        <item>Lunar Oct</item>
-        <item>Lunar Nov</item>
-        <item>Lunar Dec</item>
+        <item>ירחי ג \' אן</item>
+        <item>ירח Feb</item>
+        <item>ירח Mar</item>
+        <item>ירח אפריל</item>
+        <item>הירח עשוי</item>
+        <item>ירח יוני</item>
+        <item>ירח יולי</item>
+        <item>ירח אוגוסט</item>
+        <item>ירח ספטמבר</item>
+        <item>ירח אוקטובר</item>
+        <item>ירח נובמבר</item>
+        <item>ירח דק</item>
     </string-array>
     <string-array name="quick_settings_status_chineseMonthNumber">
-        <item>Lunar Jan</item>
-        <item>Lunar Feb</item>
-        <item>Lunar Mar</item>
-        <item>Lunar Apr</item>
-        <item>Lunar May</item>
-        <item>Lunar Jun</item>
-        <item>Lunar Jul</item>
-        <item>Lunar Aug</item>
-        <item>Lunar Sep</item>
-        <item>Lunar Oct</item>
-        <item>Lunar Nov</item>
-        <item>Lunar Dec</item>
+        <item>ירחי ג \' אן</item>
+        <item>ירח Feb</item>
+        <item>ירח Mar</item>
+        <item>ירח אפריל</item>
+        <item>הירח עשוי</item>
+        <item>ירח יוני</item>
+        <item>ירח יולי</item>
+        <item>ירח אוגוסט</item>
+        <item>ירח ספטמבר</item>
+        <item>ירח אוקטובר</item>
+        <item>ירח נובמבר</item>
+        <item>ירח דק</item>
     </string-array>
     <string-array name="weekdays">
         <item>א׳</item>
@@ -74,73 +74,73 @@
     <string-array name="sport_data_item_array">
         <item></item>
         <item>שעה</item>
-        <item>Distance</item>
-        <item>Pace</item>
-        <item>Avg pace</item>
-        <item>Heart rate</item>
-        <item>Calories</item>
-        <item>Altitude</item>
-        <item>Elev gain</item>
-        <item>Elev loss</item>
-        <item>Speed</item>
-        <item>Avg speed</item>
-        <item>Cadence</item>
-        <item>Dist gain</item>
-        <item>Steps</item>
-        <item>Cadence</item>
-        <item>Laps</item>
+        <item>מרחק</item>
+        <item>קצב</item>
+        <item>ממוצע קצב</item>
+        <item>קצב הלב.</item>
+        <item>קלוריות</item>
+        <item>גובה</item>
+        <item>מעלית רווח</item>
+        <item>מעלית אובדן</item>
+        <item>מהירות</item>
+        <item>Avg מהירות</item>
+        <item>קיידנס</item>
+        <item>Dist רווח</item>
+        <item>הצעדים</item>
+        <item>קיידנס</item>
+        <item>הקפות</item>
         <item>DPS</item>
-        <item>Stroke rate</item>
+        <item>שיעור שבץ</item>
         <item>Avg SPM</item>
-        <item>Pace</item>
-        <item>Avg pace</item>
-        <item>Distance</item>
-        <item>TE</item>
-        <item>Vert speed</item>
-        <item>Avg speed</item>
-        <item>Max speed</item>
-        <item>Laps</item>
-        <item>Downhill</item>
-        <item>Total downhill</item>
-        <item>Descent</item>
-        <item>Strokes</item>
-        <item>Lap time</item>
-        <item>Lap pace</item>
-        <item>Lap speed</item>
-        <item>Lap HR</item>
-        <item>Lap cadence</item>
-        <item>Lap pace</item>
-        <item>Current freq</item>
-        <item>Total count</item>
-        <item>Avg freq</item>
-        <item>Groups</item>
-        <item>Lap count</item>
-        <item>Lap time</item>
-        <item>Lap freq</item>
-        <item>Lap time</item>
-        <item>Lap dist.</item>
-        <item>Lap pace</item>
-        <item>Speed for this lap</item>
-        <item>Heart rate in this lap</item>
-        <item>Lap freq.</item>
+        <item>קצב</item>
+        <item>ממוצע קצב</item>
+        <item>מרחק</item>
+        <item>טה</item>
+        <item>Vert מהירות</item>
+        <item>Avg מהירות</item>
+        <item>מקס מהירות</item>
+        <item>הקפות</item>
+        <item>במורד הגבעה</item>
+        <item>סה \" כ ירידה</item>
+        <item>הירידה</item>
+        <item>קווים</item>
+        <item>הזמן Lap</item>
+        <item>הקפה קצב</item>
+        <item>הברכיים מהירות</item>
+        <item>הברכיים HR</item>
+        <item>הברכיים קיידנס</item>
+        <item>הקפה קצב</item>
+        <item>הנוכחי תדר</item>
+        <item>סה \" כ ספירת</item>
+        <item>Avg תדר</item>
+        <item>קבוצות</item>
+        <item>הקפה נחשב</item>
+        <item>הזמן Lap</item>
+        <item>הברכיים תדר</item>
+        <item>הזמן Lap</item>
+        <item>הברכיים dist.</item>
+        <item>הקפה קצב</item>
+        <item>מהירות על הברכיים</item>
+        <item>קצב הלב הזה ארוטי</item>
+        <item>הברכיים תדר.</item>
         <item>מדרון</item>
-        <item>Calories</item>
-        <item>Avg. HR</item>
-        <item>Paddles of this set</item>
-        <item>Frequency</item>
-        <item>Total paddles</item>
-        <item>Paddle frequency</item>
-        <item>Pulling duration</item>
-        <item>Pushing duration</item>
-        <item>Avg. Freq.</item>
+        <item>קלוריות</item>
+        <item>Avg. משאבי אנוש</item>
+        <item>כפות של קבוצה זו</item>
+        <item>תדירות</item>
+        <item>סה \" כ הכפות</item>
+        <item>ההנעה תדר</item>
+        <item>מושך משך</item>
+        <item>דוחפים משך</item>
+        <item>Avg. תדר.</item>
     </string-array>
     <string-array name="sport_train_item">
-        <item>Remaining distance</item>
-        <item>Total distance</item>
-        <item>Total time</item>
-        <item>Remaining time</item>
-        <item>Distance</item>
-        <item>Remaining</item>
-        <item>Has rested</item>
+        <item>יתרת מרחק</item>
+        <item>סה \" כ מרחק</item>
+        <item>סה \" כ זמן</item>
+        <item>הזמן שנותר</item>
+        <item>מרחק</item>
+        <item>הנותרים.</item>
+        <item>יש נח</item>
     </string-array>
 </resources>
