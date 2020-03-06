@@ -12,19 +12,19 @@
     <item>\# %02d</item>
   </string-array>
   <string-array name="spring_depend">
-    <item>com.huami.watch.deskclock/com.huami.watch.deskclock.AlarmClockWidget</item>
-    <item>com.huami.watch.deskclock/com.huami.watch.deskclock.stopwatch.StopWatchWidget</item>
-    <item>com.huami.watch.deskclock/com.huami.watch.deskclock.countdown.CountdownWidget</item>
+    <item>com.huami.שעון.deskclock/com.huami.שעון.deskclock.AlarmClockWidget</item>
+    <item>com.huami.שעון.deskclock/com.huami.שעון.deskclock.שעון עצר.StopWatchWidget</item>
+    <item>com.huami.שעון.deskclock/com.huami.שעון.deskclock.הספירה לאחור.CountdownWidget</item>
   </string-array>
   <string-array name="alarm_set">
-    <item>Alarm will go off in less than 1 minute.</item>
-    <item>Alarm will go off in %1$s.</item>
-    <item>Alarm will go off in %2$s.</item>
-    <item>Alarm will go off in %1$s and %2$s.</item>
-    <item>Alarm will go off in %3$s.</item>
-    <item>Alarm will go off in %1$s and %3$s.</item>
-    <item>Alarm will go off in %2$s and %3$s.</item>
-    <item>Alarm will go off in %1$s, %2$s, and %3$s.</item>
+    <item>אזעקה יגיע בעוד פחות מ-1 דקה.</item>
+    <item>האזעקה ב %1$s.</item>
+    <item>האזעקה ב %2$s.</item>
+    <item>האזעקה ב %1$s ו %2$s.</item>
+    <item>האזעקה ב %3$s.</item>
+    <item>האזעקה ב %1$s ו %3$s.</item>
+    <item>האזעקה ב %2$s ו %3$s.</item>
+    <item>האזעקה ב %1$s, %2$s, ו %3$s.</item>
   </string-array>
   <string-array name="repeat_description">
     <item>כל יום</item>
