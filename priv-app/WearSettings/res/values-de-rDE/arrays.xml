@@ -3,9 +3,9 @@
     <string-array name="sport_train_item">
         <item>Remaining distance</item>
         <item>Total distance</item>
-        <item>Total time</item>
+        <item>Gesamtzeit</item>
         <item>Remaining time</item>
-        <item>Distance</item>
+        <item>Distanz</item>
         <item>Verbleibend</item>
         <item>Has rested</item>
     </string-array>
@@ -73,165 +73,165 @@
         <item>[sid]nfc</item>
     </string-array>
     <string-array name="time_zone_ids">
-        <item>Pacific/Midway</item>
-        <item>Pacific/Honolulu</item>
-        <item>America/Anchorage</item>
-        <item>America/Los_Angeles</item>
-        <item>America/Tijuana</item>
-        <item>America/Phoenix</item>
-        <item>America/Chihuahua</item>
-        <item>America/Denver</item>
-        <item>America/Costa_Rica</item>
-        <item>America/Chicago</item>
-        <item>America/Mexico_City</item>
-        <item>America/Regina</item>
-        <item>America/Bogota</item>
-        <item>America/New_York</item>
-        <item>America/Caracas</item>
-        <item>America/Barbados</item>
-        <item>America/Manaus</item>
-        <item>America/St_Johns</item>
-        <item>America/Santiago</item>
-        <item>America/Argentina/Buenos_Aires</item>
-        <item>America/Godthab</item>
-        <item>America/Sao_Paulo</item>
-        <item>America/Montevideo</item>
-        <item>Atlantic/South_Georgia</item>
-        <item>Atlantic/Azores</item>
-        <item>Atlantic/Cape_Verde</item>
-        <item>Africa/Casablanca</item>
-        <item>Europe/London</item>
-        <item>Europe/Amsterdam</item>
-        <item>Europe/Belgrade</item>
-        <item>Europe/Brussels</item>
-        <item>Europe/Sarajevo</item>
-        <item>Africa/Brazzaville</item>
-        <item>Africa/Windhoek</item>
-        <item>Asia/Amman</item>
-        <item>Europe/Athens</item>
-        <item>Asia/Beirut</item>
-        <item>Africa/Cairo</item>
-        <item>Europe/Helsinki</item>
-        <item>Asia/Jerusalem</item>
-        <item>Africa/Harare</item>
-        <item>Europe/Minsk</item>
-        <item>Asia/Baghdad</item>
-        <item>Europe/Moscow</item>
-        <item>Asia/Kuwait</item>
-        <item>Africa/Nairobi</item>
-        <item>Asia/Tehran</item>
-        <item>Asia/Baku</item>
-        <item>Asia/Tbilisi</item>
-        <item>Asia/Yerevan</item>
-        <item>Asia/Dubai</item>
-        <item>Asia/Kabul</item>
-        <item>Asia/Karachi</item>
-        <item>Asia/Oral</item>
-        <item>Asia/Yekaterinburg</item>
-        <item>Asia/Calcutta</item>
-        <item>Asia/Colombo</item>
+        <item>Pazifik/Midway</item>
+        <item>Pazifik/Honolulu</item>
+        <item>Amerika/Anchorage</item>
+        <item>Amerika/Los Angeles</item>
+        <item>Amerika/Tijuana</item>
+        <item>Amerika/Phoenix</item>
+        <item>Amerika/Chihuahua</item>
+        <item>Amerika/Denver</item>
+        <item>Amerika/Costa Rica</item>
+        <item>Amerika/Chicago</item>
+        <item>Amerika/Mexico-City</item>
+        <item>Amerika/Regina</item>
+        <item>Amerika/Bogota</item>
+        <item>Amerika/New York</item>
+        <item>Amerika/Caracas</item>
+        <item>Amerika/Barbados</item>
+        <item>Amerika/Manaus</item>
+        <item>Amerika/St. Johns</item>
+        <item>Amerika/Santiago</item>
+        <item>Amerika/Argentinien/Buenos Aires</item>
+        <item>Amerika/Godthab</item>
+        <item>Amerika/Sao-Paulo</item>
+        <item>Amerika/Montevideo</item>
+        <item>Atlantik/Südgeorgien</item>
+        <item>Atlantik/Azoren</item>
+        <item>Atlantik/Kap Verde</item>
+        <item>Afrika/Casablanca</item>
+        <item>Europa/London</item>
+        <item>Europa/Amsterdam</item>
+        <item>Europa/Belgrad</item>
+        <item>Europa/Brüssel</item>
+        <item>Europa/Sarajevo</item>
+        <item>Afrika/Brazzaville</item>
+        <item>Afrika/Windhoek</item>
+        <item>Asien/Amman</item>
+        <item>Europa/Athen</item>
+        <item>Asien/Beirut</item>
+        <item>Afrika/Kairo</item>
+        <item>Europa/Helsinki</item>
+        <item>Asien/Jerusalem</item>
+        <item>Afrika/Harare</item>
+        <item>Europa/Minsk</item>
+        <item>Asien/Bagdad</item>
+        <item>Europa/Moskau</item>
+        <item>Asien/Kuwait</item>
+        <item>Afrika/Nairobi</item>
+        <item>Asien/Teheran</item>
+        <item>Asien/Baku</item>
+        <item>Asien/Tiflis</item>
+        <item>Asien/Jerewan</item>
+        <item>Asien/Dubai</item>
+        <item>Asien/Kabul</item>
+        <item>Asien/Karatschi</item>
+        <item>Asien/Oral</item>
+        <item>Asien/Jekaterinenburg</item>
+        <item>Asia/Kalkutta</item>
+        <item>Asien/Colombo</item>
         <item>Asia/Katmandu</item>
-        <item>Asia/Almaty</item>
-        <item>Asia/Rangoon</item>
-        <item>Asia/Krasnoyarsk</item>
-        <item>Asia/Bangkok</item>
-        <item>Asia/Shanghai</item>
-        <item>Asia/Hong_Kong</item>
-        <item>Asia/Irkutsk</item>
-        <item>Asia/Kuala_Lumpur</item>
-        <item>Australia/Perth</item>
-        <item>Asia/Taipei</item>
-        <item>Asia/Seoul</item>
-        <item>Asia/Tokyo</item>
-        <item>Asia/Yakutsk</item>
-        <item>Australia/Darwin</item>
-        <item>Australia/Brisbane</item>
-        <item>Asia/Vladivostok</item>
-        <item>Pacific/Guam</item>
-        <item>Asia/Magadan</item>
-        <item>Australia/Adelaide</item>
-        <item>Australia/Hobart</item>
-        <item>Australia/Sydney</item>
-        <item>Pacific/Majuro</item>
-        <item>Pacific/Auckland</item>
-        <item>Pacific/Fiji</item>
-        <item>Pacific/Tongatapu</item>
+        <item>Asien/Almaty</item>
+        <item>Asien/Rangun</item>
+        <item>Asien/Krasnojarsk</item>
+        <item>Asien/Bangkok</item>
+        <item>Asien/Shanghai</item>
+        <item>Asien/Hongkong</item>
+        <item>Asien/Irkutsk</item>
+        <item>Asien/Kuala Lumpur</item>
+        <item>Australien/Perth</item>
+        <item>Asien/Taipeh</item>
+        <item>Asien/Seoul</item>
+        <item>Asien/Tokio</item>
+        <item>Asien/Jakutsk</item>
+        <item>Australien/Darwin</item>
+        <item>Australien/Brisbane</item>
+        <item>Asien/Wladiwostok</item>
+        <item>Pazifik/Guam</item>
+        <item>Asien/Magadan</item>
+        <item>Australien/Adelaide</item>
+        <item>Australien/Hobart</item>
+        <item>Australien/Sydney</item>
+        <item>Pazifik/Majuro</item>
+        <item>Pazifik/Auckland</item>
+        <item>Pazifik/Fidschi</item>
+        <item>Pazifik/Tongatapu</item>
     </string-array>
     <string-array name="time_zone_item">
         <item>-11 Midway</item>
         <item>-10 Honolulu</item>
         <item>-9 Anchorage</item>
-        <item>-8 Los_Angeles</item>
+        <item>-8 Los Angeles</item>
         <item>-8 Tijuana</item>
         <item>-7 Phoenix</item>
         <item>-7 Chihuahua</item>
         <item>-7 Denver</item>
-        <item>-6 Costa_Rica</item>
+        <item>-6 Costa Rica</item>
         <item>-6 Chicago</item>
-        <item>-6 Mexico_City</item>
+        <item>-6 Mexico City</item>
         <item>-6 Regina</item>
         <item>-5 Bogota</item>
-        <item>-5 New_York</item>
+        <item>-5 New York</item>
         <item>-4:30 Caracas</item>
         <item>-4 Barbados</item>
         <item>-4 Manaus</item>
-        <item>-3:30 St_Johns</item>
+        <item>-3:30 St. Johns</item>
         <item>-3 Santiago</item>
-        <item>-3 Buenos_Aires</item>
-        <item>-3 Godthab</item>
-        <item>-2 Sao_Paulo</item>
+        <item>-3 Buenos Aires</item>
+        <item>-3 Nuuk</item>
+        <item>-2 São Paulo</item>
         <item>-2 Montevideo</item>
-        <item>-2 South_Georgia</item>
-        <item>-1 Azores</item>
-        <item>-1 Cape_Verde</item>
+        <item>-2 Südgeorgien</item>
+        <item>-1 Azoren</item>
+        <item>-1 Kap Verde</item>
         <item>+0 Casablanca</item>
         <item>+0 London</item>
         <item>+1 Amsterdam</item>
-        <item>+1 Belgrade</item>
-        <item>+1 Brussels</item>
+        <item>+1 Belgrad</item>
+        <item>+1 Brüssel</item>
         <item>+1 Sarajevo</item>
         <item>+1 Brazzaville</item>
         <item>+2 Windhoek</item>
         <item>+2 Amman</item>
-        <item>+2 Athens</item>
+        <item>+2 Athen</item>
         <item>+2 Beirut</item>
-        <item>+2 Cairo</item>
+        <item>+2 Kairo</item>
         <item>+2 Helsinki</item>
         <item>+2 Jerusalem</item>
         <item>+2 Harare</item>
         <item>+3 Minsk</item>
-        <item>+3 Baghdad</item>
-        <item>+3 Moscow</item>
+        <item>+3 Bagdad</item>
+        <item>+3 Moskau</item>
         <item>+3 Kuwait</item>
         <item>+3 Nairobi</item>
-        <item>+3:30 Tehran</item>
+        <item>+3:30 Teheran</item>
         <item>+4 Baku</item>
-        <item>+4 Tbilisi</item>
-        <item>+4 Yerevan</item>
+        <item>+4 Tiflis</item>
+        <item>+4 Jerewan</item>
         <item>+4 Dubai</item>
         <item>+4:30 Kabul</item>
-        <item>+5 Karachi</item>
+        <item>+5 Karatschi</item>
         <item>+5 Oral</item>
-        <item>+5 Yekaterinburg</item>
-        <item>+5:30 Calcutta</item>
+        <item>+5 Jekaterinburg</item>
+        <item>+5:30 Kalkutta</item>
         <item>+5:30 Colombo</item>
         <item>+5:45 Katmandu</item>
         <item>+6 Almaty</item>
-        <item>+6:30 Rangoon</item>
-        <item>+7 Krasnoyarsk</item>
+        <item>+6:30 Rangun</item>
+        <item>+7 Krasnojarsk</item>
         <item>+7 Bangkok</item>
-        <item>+8 Beijing</item>
-        <item>+8 Hong_Kong</item>
+        <item>+8 Peking</item>
+        <item>+8 Hongkong</item>
         <item>+8 Irkutsk</item>
-        <item>+8 Kuala_Lumpur</item>
+        <item>+8 Kuala Lumpur</item>
         <item>+8 Perth</item>
-        <item>+8 Taipei</item>
+        <item>+8 Taipeh</item>
         <item>+9 Seoul</item>
-        <item>+9 Tokyo</item>
-        <item>+9 Yakutsk</item>
+        <item>+9 Tokio</item>
+        <item>+9 Jakutsk</item>
         <item>+9:30 Darwin</item>
         <item>+10 Brisbane</item>
-        <item>+10 Vladivostok</item>
+        <item>+10 Wladiwostok</item>
         <item>+10 Guam</item>
         <item>+10 Magadan</item>
         <item>+10:30 Adelaide</item>
@@ -239,17 +239,17 @@
         <item>+11 Sydney</item>
         <item>+12 Majuro</item>
         <item>+13 Auckland</item>
-        <item>+13 Fiji</item>
+        <item>+13 Fidschi</item>
         <item>+13 Tongatapu</item>
     </string-array>
     <string-array name="light_mode_subtitle">
-        <item>Brightness: Disabled</item>
-        <item>Brightness: Auto</item>
-        <item>Brightness: 2</item>
-        <item>Brightness: 2</item>
-        <item>Brightness: 1</item>
-        <item>Brightness: 3</item>
-        <item>Brightness: 4</item>
-        <item>Brightness: 5</item>
+        <item>Helligkeit: Deaktiviert</item>
+        <item>Helligkeit: Auto</item>
+        <item>Helligkeit: 2</item>
+        <item>Helligkeit: 2</item>
+        <item>Helligkeit: 1</item>
+        <item>Helligkeit: 3</item>
+        <item>Helligkeit: 4</item>
+        <item>Helligkeit: 5</item>
     </string-array>
 </resources>

@@ -3,13 +3,13 @@
     <string-array name="quick_settings_status_principleTerm">
         <item>Große Kälte</item>
         <item>Regenwasser</item>
-        <item>Frühjahrsanfang</item>
+        <item>Frühjahrs-Tagundnachtgleiche</item>
         <item>Hagel</item>
         <item>Hagel</item>
         <item>Sommersonnenwende</item>
         <item>Große Hitze</item>
         <item>Ende der Hitze</item>
-        <item>Herbstanfang</item>
+        <item>Herbst-Tagundnachtgleiche</item>
         <item>"Eisheiligen"</item>
         <item>Wenig Schnee</item>
         <item>Winterwende</item>
@@ -30,37 +30,37 @@
     </string-array>
     <string-array name="quick_settings_status_chineseTen">
         <item>Die</item>
-        <item>10. des Mondkalenders</item>
-        <item>20. des Mondkalenders</item>
-        <item>30. des Mondkalenders</item>
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
     </string-array>
     <string-array name="quick_settings_status_chineseNumber">
-        <item>Jan Mond</item>
-        <item>Feb Mond</item>
-        <item>Mär Mond</item>
-        <item>Apr Mond</item>
-        <item>Mai Mond</item>
-        <item>Jun Mond</item>
-        <item>Jul Mond</item>
-        <item>Aug Mond</item>
-        <item>Sept Mond</item>
-        <item>Okt Mond</item>
-        <item>Nov Mond</item>
-        <item>Dez Mond</item>
+        <item>Jan.</item>
+        <item>Feb.</item>
+        <item>März</item>
+        <item>Apr.</item>
+        <item>Mai</item>
+        <item>Jun.</item>
+        <item>Jul.</item>
+        <item>Aug.</item>
+        <item>Sept.</item>
+        <item>Okt.</item>
+        <item>Nov.</item>
+        <item>Dez.</item>
     </string-array>
     <string-array name="quick_settings_status_chineseMonthNumber">
-        <item>Jan Mond</item>
-        <item>Feb Mond</item>
-        <item>Mär Mond</item>
-        <item>Apr  Mond</item>
-        <item>Mai Mond</item>
-        <item>Jun Mond</item>
-        <item>Jul Mond</item>
-        <item>Aug Mond</item>
-        <item>Sep Mond</item>
-        <item>Okt Mond</item>
-        <item>Novembermond</item>
-        <item>Dezembermond</item>
+        <item>Jan.</item>
+        <item>Feb.</item>
+        <item>März</item>
+        <item>Apr.</item>
+        <item>Mai</item>
+        <item>Jun.</item>
+        <item>Jul.</item>
+        <item>Aug.</item>
+        <item>Sept.</item>
+        <item>Okt.</item>
+        <item>Nov.</item>
+        <item>Dez.</item>
     </string-array>
     <string-array name="weekdays">
         <item>Son</item>
@@ -74,72 +74,72 @@
     <string-array name="sport_data_item_array">
         <item></item>
         <item>Zeit</item>
-        <item>Entfernung</item>
+        <item>Distanz</item>
         <item>Tempo</item>
-        <item>Durch. Tempo</item>
-        <item>Pulsschlag</item>
+        <item>⌀ Tempo</item>
+        <item>Herzfrequenz</item>
         <item>Kalorien</item>
         <item>Höhe über Meer</item>
-        <item>Gewinn Erhöhen</item>
-        <item>Verlust erhöhen</item>
-        <item>Speed</item>
-        <item>Avg speed</item>
-        <item>Cadence</item>
+        <item>Höhengewinn</item>
+        <item>Höhenverlust</item>
+        <item>Geschwindigkeit</item>
+        <item>⌀ Geschw.</item>
+        <item>Kadenz</item>
         <item>Dist gain</item>
-        <item>Steps</item>
-        <item>Cadence</item>
-        <item>Laps</item>
+        <item>Schritte</item>
+        <item>Kadenz</item>
+        <item>Runden</item>
         <item>DPS</item>
-        <item>Stroke rate</item>
-        <item>Avg SPM</item>
-        <item>Pace</item>
-        <item>Avg pace</item>
-        <item>Distance</item>
+        <item>Schlagzahl</item>
+        <item>⌀ SPM</item>
+        <item>Tempo</item>
+        <item>⌀ Tempo</item>
+        <item>Distanz</item>
         <item>TE</item>
         <item>Vert speed</item>
-        <item>Avg speed</item>
+        <item>⌀ Geschw.</item>
         <item>Max speed</item>
-        <item>Laps</item>
+        <item>Runden</item>
         <item>Downhill</item>
         <item>Total downhill</item>
         <item>Descent</item>
-        <item>Strokes</item>
-        <item>Lap time</item>
-        <item>Lap pace</item>
-        <item>Lap speed</item>
-        <item>Lap HR</item>
+        <item>Schläge</item>
+        <item>Rundenzeit</item>
+        <item>Rundentempo</item>
+        <item>Rundengeschw.</item>
+        <item>Runden HR</item>
         <item>Lap cadence</item>
-        <item>Lap pace</item>
-        <item>Current freq</item>
+        <item>Rundentempo</item>
+        <item>Aktuelle Freq.</item>
         <item>Total count</item>
-        <item>Avg freq</item>
+        <item>⌀ Freq.</item>
         <item>Groups</item>
         <item>Lap count</item>
-        <item>Lap time</item>
-        <item>Lap freq</item>
-        <item>Lap time</item>
+        <item>Rundenzeit</item>
+        <item>Rundenfreq.</item>
+        <item>Rundenzeit</item>
         <item>Lap dist.</item>
-        <item>Lap pace</item>
+        <item>Rundentempo</item>
         <item>Speed for this lap</item>
         <item>Heart rate in this lap</item>
-        <item>Rundenfrequenz</item>
+        <item>Rundenfreq.</item>
         <item>Neigung</item>
         <item>Kalorien</item>
-        <item>Durchschn. HR</item>
+        <item>⌀ Herz-Freq.</item>
         <item>Paddel dieses Sets</item>
         <item>Frequenz</item>
         <item>Total paddles</item>
         <item>Paddle frequency</item>
         <item>Pulling duration</item>
         <item>Pushing duration</item>
-        <item>Avg. Freq.</item>
+        <item>⌀ Freq.</item>
     </string-array>
     <string-array name="sport_train_item">
         <item>Remaining distance</item>
         <item>Total distance</item>
-        <item>Total time</item>
+        <item>Gesamtzeit</item>
         <item>Remaining time</item>
-        <item>Distance</item>
+        <item>Distanz</item>
         <item>Verbleibend</item>
         <item>Has rested</item>
     </string-array>

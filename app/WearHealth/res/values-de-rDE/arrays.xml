@@ -54,45 +54,45 @@
     <string-array name="sport_data_item_array">
         <item></item>
         <item>Zeit</item>
-        <item>Entfernung</item>
+        <item>Distanz</item>
         <item>Tempo</item>
-        <item>Durch. Geschw.</item>
-        <item>Pulsschlag</item>
+        <item>⌀ Tempo</item>
+        <item>Herzfrequenz</item>
         <item>Kalorien</item>
         <item>Höhe</item>
-        <item>gelernt</item>
-        <item>verloren</item>
+        <item>Höhengewinn</item>
+        <item>Höhenverlust</item>
         <item>Geschwindigkeit</item>
-        <item>Durch. Geschw.</item>
+        <item>⌀ Geschw.</item>
         <item>Kadenz</item>
         <item>Dist gain</item>
-        <item>Steps</item>
-        <item>Cadence</item>
-        <item>Laps</item>
+        <item>Schritte</item>
+        <item>Kadenz</item>
+        <item>Runden</item>
         <item>DPS</item>
-        <item>Stroke rate</item>
-        <item>Avg SPM</item>
-        <item>Pace</item>
-        <item>Avg pace</item>
-        <item>Distance</item>
+        <item>Schlagzahl</item>
+        <item>⌀ SPM</item>
+        <item>Tempo</item>
+        <item>⌀ Tempo</item>
+        <item>Entfernung</item>
         <item>TE</item>
         <item>Vert speed</item>
-        <item>Avg speed</item>
+        <item>⌀ Geschw.</item>
         <item>Max speed</item>
-        <item>Laps</item>
+        <item>Runden</item>
         <item>Downhill</item>
         <item>Total downhill</item>
         <item>Descent</item>
-        <item>Strokes</item>
+        <item>Schläge</item>
         <item>L.L. time</item>
         <item>L.L. pace</item>
         <item>L.L. speed</item>
         <item>L.L. HR</item>
         <item>L.L. cadence</item>
         <item>L.L. pace</item>
-        <item>Current freq</item>
+        <item>Aktuelle Freq.</item>
         <item>Total count</item>
-        <item>Avg freq</item>
+        <item>⌀ Freq.</item>
         <item>Groups</item>
         <item>C.L. count</item>
         <item>C.L. time</item>
@@ -104,22 +104,22 @@
         <item>C.L. Heart rate</item>
         <item>C.L. freq.</item>
         <item>slope</item>
-        <item>Calories</item>
-        <item>Avg. HR</item>
+        <item>Kalorien</item>
+        <item>⌀ Herz-Freq.</item>
         <item>Paddles of this set</item>
-        <item>Frequency</item>
+        <item>Frequenz</item>
         <item>Total paddles</item>
         <item>Paddle frequency</item>
         <item>Pulling duration</item>
         <item>Pushing duration</item>
-        <item>Avg. Freq.</item>
+        <item>⌀ Freq.</item>
     </string-array>
     <string-array name="sport_train_item">
         <item>Remaining distance</item>
         <item>Total distance</item>
-        <item>Total time</item>
+        <item>Gesamtzeit</item>
         <item>Remaining time</item>
-        <item>Distance</item>
+        <item>Distanz</item>
         <item>Remaining</item>
         <item>Has rested</item>
     </string-array>

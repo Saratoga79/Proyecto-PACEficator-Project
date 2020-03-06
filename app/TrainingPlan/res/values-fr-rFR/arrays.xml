@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="weekdays">
-        <item>Week 1</item>
-        <item>Week 2</item>
-        <item>Week 3</item>
-        <item>Week 4</item>
-        <item>Week 5</item>
-        <item>Week 6</item>
-        <item>Week 7</item>
-        <item>Week 8</item>
+        <item>Semaine 1</item>
+        <item>Semaine 2</item>
+        <item>Semaine 3</item>
+        <item>Semaine 4</item>
+        <item>Semaine 5</item>
+        <item>Semaine 6</item>
+        <item>Semaine 7</item>
+        <item>Semaine 8</item>
     </string-array>
     <string-array name="simple_weekdays">
         <item>Dim</item>
@@ -20,14 +20,14 @@
         <item>Sam</item>
     </string-array>
     <string-array name="train_finish_reason_strs">
-        <item>"Can't adjust as expected"</item>
-        <item>Time is too long to hold on</item>
-        <item>Poor physical condition</item>
-        <item>Too difficult</item>
-        <item>Too easy</item>
-        <item>Game canceled</item>
-        <item>"It doesn't suit me"</item>
-        <item>Other</item>
+        <item>"Impossible d'ajuster comme prévu"</item>
+        <item>Le temps est trop long pour retenir</item>
+        <item>Mauvaise condition physique</item>
+        <item>Trop difficile</item>
+        <item>Trop facile</item>
+        <item>Partie annulée</item>
+        <item>"Cela ne me convient pas"</item>
+        <item>autre</item>
     </string-array>
     <string-array name="spring_depend">
         <item>com.huami.watch.train/com.huami.watch.train.ui.activity.launch.TraintLauncherView</item>
