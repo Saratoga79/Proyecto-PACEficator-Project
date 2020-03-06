@@ -30,7 +30,7 @@
     <string name="crossing_history_detail_max_speed">Max speed</string>
     <string name="crossing_history_detail_climb_up">Höhengewinn</string>
     <string name="crossing_history_detail_climb_down">Höhenverlust</string>
-    <string name="crossing_history_detail_absolute_altitude">Höhe über Meer</string>
+    <string name="crossing_history_detail_absolute_altitude">Höhe</string>
     <string name="crossing_history_detail_high_altitude">Highest altitude</string>
     <string name="crossing_history_detail_low_altitude">Lowest altitude</string>
     <string name="crossing_history_detail_ave_altitude">⌀ Höhe</string>
@@ -337,8 +337,7 @@ start now."</string>
     <string name="swim_pace">Tempo</string>
     <string name="swim_pace_unit">/100 m</string>
     <string name="swim_pace_unit_imperial">/100 ft</string>
-    <string name="swim_trips_unit">\"(%1$d m / Reise)
-\"</string>
+    <string name="swim_trips_unit">Runden (%1$d m/Runde)</string>
     <string name="swim_trips_unit_yd">Runden (%1$d yd/Runde)</string>
     <string name="heart_region_title">Heart rate zone</string>
     <string name="heart_region_anaerobic＿limit">Anaerobe Schwelle</string>
@@ -614,7 +613,7 @@ to reach full recovery."</string>
     <string name="please_start_sport_from_route_start">In order to ensure the accuracy of route guidance, start the motion at the true geographic location of the track origin</string>
     <string name="please_become_bigger">Zoom in</string>
     <string name="please_become_smaller">Zoom out</string>
-    <string name="current_altitude">Höhe über Meer</string>
+    <string name="current_altitude">Höhe</string>
     <string name="cumulative_climb">Höhengewinn</string>
     <string name="sport_route_out_of">Deviated route</string>
     <string name="sport_back_to_route">Zurück zur Route</string>
@@ -801,7 +800,7 @@ für effektives Training!\"</string>
     <string name="endurance_cardio">Endurance cardio</string>
     <string name="hard_cardio">Intense cardio</string>
     <string name="very_hard_cardio">Extreme cardio</string>
-    <string name="route_cur_altitude">Höhe über Meer</string>
+    <string name="route_cur_altitude">Höhe</string>
     <string name="outdoor_cadence">Kadenz</string>
     <string name="sport_main_climb_al">Höhengewinn</string>
     <string name="sport_main_descend_al">Höhenverlust</string>
@@ -1171,7 +1170,7 @@ Sie können es über USB auf einen Computer kopieren."</string>
     <string name="go_hunting">Hunting</string>
     <string name="go_fishing">Fishing</string>
     <string name="sailing">Sailing</string>
-    <string name="rowing">Rowing</string>
+    <string name="rowing">Rudern</string>
     <string name="skate">Skateboard</string>
     <string name="paddle_surfing">Paddle surfing</string>
     <string name="roller_skating">Roller skating</string>
@@ -1267,7 +1266,7 @@ Sie können es über USB auf einen Computer kopieren."</string>
     <string name="minute">m</string>
     <string name="minute_clock">m</string>
     <string name="second">s</string>
-    <string name="altitude">Höhe über Meer</string>
+    <string name="altitude">Höhe</string>
     <string name="longitude_and_latitude">Lat/Long</string>
     <string name="press_key_finish_train">Zum Beenden BACK drücken</string>
     <string name="press_up_key_wake_up">Press the Up button to unlock</string>
