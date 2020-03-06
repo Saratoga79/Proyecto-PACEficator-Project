@@ -1,21 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <item type="string" name="settings_item_high_light_scale_factor">0.71</item>
     <string name="app_name">otawatch</string>
     <string name="action_settings">Iestatījumi</string>
     <string name="watch_ota">Pulksteņa atjauninājums</string>
-    <string name="wifi_disconnect">"Pievieno
+    <string name="wifi_disconnect">\"Pievieno
 Amazfit watch App ,lai palīdzētu 
-pārbaudīt atjauninājumus"</string>
-    <string name="connect_phone_wifi">"Pārbaudi tīkla sakarus
+pārbaudīt atjauninājumus\"</string>
+    <string name="connect_phone_wifi">"\"Pārbaudi tīkla sakarus
 ar telefonu,lai
-atjaunotu pulksteni"</string>
-    <string name="connect_phone_input_wifi">"Pievieno pulkseni
+atjaunotu pulksteni\""</string>
+    <string name="connect_phone_input_wifi">\"Pievieno pulkseni
 Amazfit watch lietotnei, lai
-ivadītu Wi-Fi paroli"</string>
-    <string name="wifi_add_item">"Please connect the
+ivadītu Wi-Fi paroli\"</string>
+    <string name="wifi_add_item">\"Please connect the
 Amazfit watch App to add
-new Wi-Fi hotspot for the watch"</string>
+new Wi-Fi hotspot for the watch\"</string>
     <string name="add_wifi">Pievieno Wi-Fi</string>
     <string name="please_update_rom">"Ir pieejams atjauninājums, 
 atjaunt"</string>
@@ -30,8 +29,8 @@ atjaunot uz %1$s versiju?"</string>
     <string name="input_passwor_on_mobile">"Ievadiet Wi-Fi paroli
 lietotnē Amazfit"</string>
     <string name="processbar_downloading_rom">Lejuplāde...</string>
-    <string name="please_keep_wifi_connect">"Saglabā savienojumu
-ar WiFi"</string>
+    <string name="please_keep_wifi_connect">"\"Saglabā savienojumu
+ar WiFi\""</string>
     <string name="processbar_downloading_tips">%</string>
     <string name="processbar_downloading_default">0</string>
     <string name="download_rom_faild">"Atjunojuma lejuplāde neizdevās,
@@ -57,7 +56,7 @@ atjauno"</string>
     <string name="wifi_connecting">Savienojas...</string>
     <string name="wifi_auth">Pārbauda paroli...</string>
     <string name="wifi_get_ip">Iegūst IP adresi...</string>
-    <string name="wifi_link_fail">Savienojums neizdevās...</string>
+    <string name="wifi_link_fail">"Savienojums neizdevās..."</string>
     <string name="wifi_connected">Savienots</string>
     <string name="wifi_title">Savienots ar Wi-Fi</string>
     <string name="wifi_wait_password">Gaida uz paroles ievadi...</string>
@@ -96,6 +95,7 @@ dati par pulksteni. Vai turpināt?"</string>
     <string name="update_tips_1">"Neizslēdziet ierīci"</string>
     <string name="retry"> Atkārtot </string>
     <string name="average_text">Vid.</string>
+    <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="running">Skriešana</string>
     <string name="waking">Iešana</string>
     <string name="indoor_running">Skrejceliņš</string>
@@ -225,4 +225,5 @@ dati par pulksteni. Vai turpināt?"</string>
     <string name="widget_currentstep_sleep_title">Pēdējais miegs</string>
     <string name="widget_currentstep_sleep_no">Nav miega datu</string>
     <string name="widget_currentstep_activity_no">Šodien nav aktivitātes?</string>
+    <string name="locale_title">Izvēlieties valodu</string>
 </resources>
