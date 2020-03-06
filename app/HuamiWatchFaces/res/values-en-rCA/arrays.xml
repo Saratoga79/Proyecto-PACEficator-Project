@@ -1,66 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="quick_settings_status_principleTerm">
-        <item>Major Cold</item>
-        <item>Rain Water</item>
-        <item>Spring Equinox</item>
-        <item>Grain Rain</item>
-        <item>Grain Buds</item>
-        <item>Summer Solstice</item>
-        <item>Major Heat</item>
-        <item>End of Heat</item>
-        <item>Autumn Equinox</item>
-        <item>"Frost's Descent"</item>
-        <item>Minor Snow</item>
-        <item>Winter Solstice</item>
+        <item>Principals Fred</item>
+        <item>L\'Aigua De La Pluja</item>
+        <item>Equinocci De Primavera</item>
+        <item>Gra De Pluja</item>
+        <item>Gra Brots</item>
+        <item>Solstici D\'Estiu</item>
+        <item>Principals Calor</item>
+        <item>A finals de Calor</item>
+        <item>Equinocci De Tardor</item>
+        <item>"Les gelades del Descens"</item>
+        <item>Menors De Neu</item>
+        <item>Solstici D\'Hivern</item>
     </string-array>
     <string-array name="quick_settings_status_sectionalTerm">
-        <item>Minor Cold</item>
-        <item>Start of Spring</item>
-        <item>Awakening of Insects</item>
-        <item>Clear and Bright</item>
-        <item>Start of Summer</item>
-        <item>Grain in Ear</item>
-        <item>Minor Heat</item>
-        <item>Start of Autumn</item>
-        <item>White Dew</item>
-        <item>Cold Dew</item>
-        <item>Start of Winter</item>
-        <item>Major Snow</item>
+        <item>Menors De Fred</item>
+        <item>Inici de la Primavera</item>
+        <item>Despertar d\'Insectes</item>
+        <item>Clar i Brillant</item>
+        <item>Inici de l\'Estiu</item>
+        <item>Gra en l\'Oïda</item>
+        <item>Menors De Calor</item>
+        <item>Inici de Tardor</item>
+        <item>Blanca Rosada</item>
+        <item>Freda Rosada</item>
+        <item>Inici de l\'Hivern</item>
+        <item>Grans De Neu</item>
     </string-array>
     <string-array name="quick_settings_status_chineseTen">
-        <item>The</item>
-        <item>10th of the lunar calendar</item>
-        <item>20th of the lunar calendar</item>
-        <item>30th of the lunar calendar</item>
+        <item>L\'</item>
+        <item>10 del calendari lunar</item>
+        <item>20 del calendari lunar</item>
+        <item>30 del calendari lunar</item>
     </string-array>
     <string-array name="quick_settings_status_chineseNumber">
         <item>Lunar Jan</item>
         <item>Lunar Feb</item>
         <item>Lunar Mar</item>
-        <item>Lunar Apr</item>
-        <item>Lunar May</item>
+        <item>Lunar Abr</item>
+        <item>Lunar De Maig</item>
         <item>Lunar Jun</item>
-        <item>Lunar Jul</item>
-        <item>Lunar Aug</item>
+        <item>Lunar Juliol</item>
+        <item>Lunar Ago</item>
         <item>Lunar Sep</item>
         <item>Lunar Oct</item>
         <item>Lunar Nov</item>
-        <item>Lunar Dec</item>
+        <item>Lunar Feb</item>
     </string-array>
     <string-array name="quick_settings_status_chineseMonthNumber">
         <item>Lunar Jan</item>
         <item>Lunar Feb</item>
         <item>Lunar Mar</item>
-        <item>Lunar Apr</item>
-        <item>Lunar May</item>
+        <item>Lunar Abr</item>
+        <item>Lunar De Maig</item>
         <item>Lunar Jun</item>
-        <item>Lunar Jul</item>
-        <item>Lunar Aug</item>
+        <item>Lunar Juliol</item>
+        <item>Lunar Ago</item>
         <item>Lunar Sep</item>
         <item>Lunar Oct</item>
         <item>Lunar Nov</item>
-        <item>Lunar Dec</item>
+        <item>Lunar Feb</item>
     </string-array>
     <string-array name="weekdays">
         <item>Diu</item>
@@ -74,75 +74,75 @@
     <string-array name="sport_data_item_array">
         <item></item>
         <item>Temps</item>
-        <item>Distance</item>
-        <item>Pace</item>
-        <item>Avg pace</item>
-        <item>Heart rate</item>
+        <item>Distància</item>
+        <item>Ritme</item>
+        <item>Avg ritme</item>
+        <item>La freqüència cardíaca</item>
         <item>\"Calories
 \"</item>
-        <item>Altitude</item>
-        <item>Elev gain</item>
-        <item>Elev loss</item>
-        <item>Speed</item>
-        <item>Avg speed</item>
-        <item>Cadence</item>
-        <item>Dist gain</item>
-        <item>Steps</item>
-        <item>Cadence</item>
-        <item>Laps</item>
+        <item>Altitud</item>
+        <item>Elev guanyar</item>
+        <item>Elev pèrdua</item>
+        <item>Velocitat</item>
+        <item>Avg velocitat</item>
+        <item>Cadència</item>
+        <item>Dist guanyar</item>
+        <item>Passos</item>
+        <item>Cadència</item>
+        <item>Voltes</item>
         <item>DPS</item>
-        <item>Stroke rate</item>
-        <item>Avg SPM</item>
-        <item>Pace</item>
-        <item>Avg pace</item>
-        <item>Distance</item>
+        <item>Traç taxa</item>
+        <item>Avg MES</item>
+        <item>Ritme</item>
+        <item>Avg ritme</item>
+        <item>Distància</item>
         <item>TE</item>
-        <item>Vert speed</item>
-        <item>Avg speed</item>
-        <item>Max speed</item>
-        <item>Laps</item>
-        <item>Downhill</item>
-        <item>Total downhill</item>
-        <item>Descent</item>
-        <item>Strokes</item>
-        <item>Lap time</item>
-        <item>Lap pace</item>
-        <item>Lap speed</item>
-        <item>Lap HR</item>
-        <item>Lap cadence</item>
-        <item>Lap pace</item>
-        <item>Current freq</item>
-        <item>Total count</item>
+        <item>Vert velocitat</item>
+        <item>Avg velocitat</item>
+        <item>Velocitat màxima</item>
+        <item>Voltes</item>
+        <item>Descens</item>
+        <item>Total de descens</item>
+        <item>Descens</item>
+        <item>Cops</item>
+        <item>Temps de volta</item>
+        <item>Volta ritme</item>
+        <item>Volta velocitat</item>
+        <item>Volta HR</item>
+        <item>Volta cadència</item>
+        <item>Volta ritme</item>
+        <item>Actual freq</item>
+        <item>El recompte Total</item>
         <item>Avg freq</item>
-        <item>Groups</item>
-        <item>Lap count</item>
-        <item>Lap time</item>
-        <item>Lap freq</item>
-        <item>Lap time</item>
-        <item>Lap dist.</item>
-        <item>Lap pace</item>
-        <item>Speed for this lap</item>
-        <item>Heart rate in this lap</item>
-        <item>Lap freq.</item>
+        <item>Grups</item>
+        <item>Volta comte</item>
+        <item>Temps de volta</item>
+        <item>Volta freq</item>
+        <item>Temps de volta</item>
+        <item>Volta dist.</item>
+        <item>Volta ritme</item>
+        <item>La velocitat per a aquesta volta</item>
+        <item>La freqüència cardíaca en aquesta volta</item>
+        <item>Volta freq.</item>
         <item>slope</item>
         <item>\"Calories
 \"</item>
-        <item>Avg. HR</item>
-        <item>Paddles of this set</item>
-        <item>Frequency</item>
-        <item>Total paddles</item>
-        <item>Paddle frequency</item>
-        <item>Pulling duration</item>
-        <item>Pushing duration</item>
+        <item>Avg. H</item>
+        <item>Les pales d\'aquest conjunt</item>
+        <item>Freqüència</item>
+        <item>Total de les pales</item>
+        <item>Pala freqüència</item>
+        <item>Tirant durada</item>
+        <item>Empenyent durada</item>
         <item>Avg. Freq.</item>
     </string-array>
     <string-array name="sport_train_item">
-        <item>Remaining distance</item>
-        <item>Total distance</item>
-        <item>Total time</item>
-        <item>Remaining time</item>
-        <item>Distance</item>
-        <item>Remaining</item>
-        <item>Has rested</item>
+        <item>Resta de distància</item>
+        <item>Distància Total</item>
+        <item>Temps Total</item>
+        <item>Temps restant</item>
+        <item>Distància</item>
+        <item>Resta</item>
+        <item>Ha descansat</item>
     </string-array>
 </resources>
