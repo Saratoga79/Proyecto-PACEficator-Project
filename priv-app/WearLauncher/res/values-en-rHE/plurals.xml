@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="notification_time_day">
-        <item quantity="other">%s days ago</item>
-        <item quantity="one">%s day ago</item>
-        <item quantity="two">%s days ago</item>
-        <item quantity="many">%s days ago</item>
+        <item quantity="other">%s ימים</item>
+        <item quantity="one">%s יום לפני</item>
+        <item quantity="two">%s ימים</item>
+        <item quantity="many">%s ימים</item>
     </plurals>
     <plurals name="notification_time_hour">
-        <item quantity="other">%s hours ago</item>
-        <item quantity="one">%s hour ago</item>
-        <item quantity="two">%s hours ago</item>
-        <item quantity="many">%s hours ago</item>
+        <item quantity="other">%s שעות</item>
+        <item quantity="one">%s לפני שעה</item>
+        <item quantity="two">%s שעות</item>
+        <item quantity="many">%s שעות</item>
     </plurals>
     <plurals name="notification_time_minute">
-        <item quantity="other">%s minutes ago</item>
-        <item quantity="one">%s minute ago</item>
-        <item quantity="two">%s minutes ago</item>
-        <item quantity="many">%s minutes ago</item>
+        <item quantity="other">%s דקות</item>
+        <item quantity="one">%s לפני דקה</item>
+        <item quantity="two">%s דקות</item>
+        <item quantity="many">%s דקות</item>
     </plurals>
 </resources>
