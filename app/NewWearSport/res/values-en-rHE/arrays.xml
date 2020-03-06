@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="localapps">
-        <item>com.huami.watch.launcher</item>
-        <item>com.huami.watch.sport</item>
+        <item>com.huami.שעון.משגר</item>
+        <item>com.huami.שעון.ספורט</item>
     </string-array>
     <string-array name="sport_te_desc_array">
         <item>sport_te_desc_level_01</item>
@@ -27,104 +27,104 @@
         <item>sport_target_remind_desc_01</item>
     </string-array>
     <string-array name="support_sport">
-        <item>RUNNING</item>
-        <item>WALKING</item>
-        <item>CROSSING</item>
+        <item>מנהל</item>
+        <item>הליכה</item>
+        <item>המעבר</item>
         <item>INDOOR_RUN</item>
         <item>OUTDOOR_RIDING</item>
         <item>INDOOR_RIDING</item>
         <item>ELLIPTICAL_MACHINE</item>
     </string-array>
     <string-array name="dally_performence_level_status">
-        <item>Fatigued</item>
-        <item>Normal</item>
-        <item>Good</item>
+        <item>עייף</item>
+        <item>נורמלי</item>
+        <item>טוב</item>
     </string-array>
     <string-array name="vo2_max_level_status">
-        <item>Very poor</item>
-        <item>Poor</item>
-        <item>Fair</item>
-        <item>Average</item>
-        <item>Good</item>
-        <item>Very good</item>
-        <item>Excellent</item>
+        <item>עני מאוד</item>
+        <item>המסכן.</item>
+        <item>הוגן</item>
+        <item>ממוצע</item>
+        <item>טוב</item>
+        <item>טוב מאוד</item>
+        <item>מעולה</item>
     </string-array>
     <string-array name="spring_depend">
-        <item>com.huami.watch.newsport/com.huami.watch.newsport.widget.SportWidget</item>
-        <item>com.huami.watch.newsport/com.huami.watch.newsport.widget.SportHistoryWidget</item>
-        <item>com.huami.watch.newsport/com.huami.watch.newsport.widget.SportLauncherWidget</item>
-        <item>com.huami.watch.newsport/com.huami.watch.newsport.motionstate.widget.SportMotionStateWidget</item>
+        <item>com.huami.שעון.newsport/com.huami.שעון.newsport.יישומון.SportWidget</item>
+        <item>com.huami.שעון.newsport/com.huami.שעון.newsport.יישומון.SportHistoryWidget</item>
+        <item>com.huami.שעון.newsport/com.huami.שעון.newsport.יישומון.SportLauncherWidget</item>
+        <item>com.huami.שעון.newsport/com.huami.שעון.newsport.motionstate.יישומון.SportMotionStateWidget</item>
     </string-array>
     <string-array name="sport_data_item_array">
         <item></item>
         <item>שעה</item>
-        <item>Distance</item>
-        <item>Pace</item>
-        <item>Avg pace</item>
-        <item>Heart rate</item>
-        <item>Calories</item>
-        <item>Altitude</item>
-        <item>Elev gain</item>
-        <item>Elev loss</item>
-        <item>Speed</item>
-        <item>Avg speed</item>
-        <item>Cadence</item>
-        <item>Dist gain</item>
-        <item>Steps</item>
-        <item>Cadence</item>
-        <item>Laps</item>
+        <item>מרחק</item>
+        <item>קצב</item>
+        <item>ממוצע קצב</item>
+        <item>קצב הלב.</item>
+        <item>קלוריות</item>
+        <item>גובה</item>
+        <item>מעלית רווח</item>
+        <item>מעלית אובדן</item>
+        <item>מהירות</item>
+        <item>Avg מהירות</item>
+        <item>קיידנס</item>
+        <item>Dist רווח</item>
+        <item>הצעדים</item>
+        <item>קיידנס</item>
+        <item>הקפות</item>
         <item>DPS</item>
-        <item>Stroke rate</item>
+        <item>שיעור שבץ</item>
         <item>Avg SPM</item>
-        <item>Pace</item>
-        <item>Avg pace</item>
-        <item>Distance</item>
-        <item>TE</item>
-        <item>Vert speed</item>
-        <item>Avg speed</item>
-        <item>Max speed</item>
-        <item>Laps</item>
-        <item>Downhill</item>
-        <item>Total downhill</item>
-        <item>Descent</item>
-        <item>Strokes</item>
-        <item>L.L. time</item>
-        <item>L.L. pace</item>
-        <item>L.L. speed</item>
-        <item>L.L. HR</item>
-        <item>L.L. cadence</item>
-        <item>L.L. pace</item>
-        <item>Current freq</item>
-        <item>Total count</item>
-        <item>Avg freq</item>
-        <item>Groups</item>
-        <item>C.L. count</item>
-        <item>C.L. time</item>
-        <item>C.L. freq</item>
-        <item>C.L. time</item>
-        <item>C.L. dist.</item>
-        <item>C.L. pace</item>
-        <item>C.L. speed</item>
-        <item>C.L. HR</item>
-        <item>C.L. freq.</item>
+        <item>קצב</item>
+        <item>ממוצע קצב</item>
+        <item>מרחק</item>
+        <item>טה</item>
+        <item>Vert מהירות</item>
+        <item>Avg מהירות</item>
+        <item>מקס מהירות</item>
+        <item>הקפות</item>
+        <item>במורד הגבעה</item>
+        <item>סה \" כ ירידה</item>
+        <item>הירידה</item>
+        <item>קווים</item>
+        <item>L. L. זמן</item>
+        <item>אנג \' ל פייס.</item>
+        <item>L. L. מהירות</item>
+        <item>ל \" ל משאבי אנוש</item>
+        <item>אנג \' ל קיידנס</item>
+        <item>אנג \' ל פייס.</item>
+        <item>הנוכחי תדר</item>
+        <item>סה \" כ ספירת</item>
+        <item>Avg תדר</item>
+        <item>קבוצות</item>
+        <item>ס. ל. רוזן</item>
+        <item>C. L. זמן</item>
+        <item>C. L. תדר</item>
+        <item>C. L. זמן</item>
+        <item>ס. ל. dist.</item>
+        <item>ס. ל. קצב</item>
+        <item>C. L. מהירות</item>
+        <item>סי. אל משאבי אנוש</item>
+        <item>C. L. תדר.</item>
         <item>מדרון</item>
-        <item>Calories</item>
-        <item>Avg. HR</item>
-        <item>Paddles of this set</item>
-        <item>Frequency</item>
-        <item>Total paddles</item>
-        <item>Paddle frequency</item>
-        <item>Pulling duration</item>
-        <item>Pushing duration</item>
-        <item>Avg. Freq.</item>
+        <item>קלוריות</item>
+        <item>Avg. משאבי אנוש</item>
+        <item>כפות של קבוצה זו</item>
+        <item>תדירות</item>
+        <item>סה \" כ הכפות</item>
+        <item>ההנעה תדר</item>
+        <item>מושך משך</item>
+        <item>דוחפים משך</item>
+        <item>Avg. תדר.</item>
     </string-array>
     <string-array name="sport_train_item">
-        <item>Remaining distance</item>
-        <item>Total distance</item>
-        <item>Total time</item>
-        <item>Remaining time</item>
-        <item>Distance</item>
-        <item>Remaining</item>
-        <item>Has rested</item>
+        <item>יתרת מרחק</item>
+        <item>סה \" כ מרחק</item>
+        <item>סה \" כ זמן</item>
+        <item>הזמן שנותר</item>
+        <item>מרחק</item>
+        <item>הנותרים.</item>
+        <item>יש נח</item>
     </string-array>
 </resources>
