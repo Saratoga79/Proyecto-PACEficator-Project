@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="spring_depend">
+        <item>com.huami.watch.weather/com.huami.watch.weather.Everest2WeatherWidgetView</item>
+    </string-array>
     <string-array name="quick_settings_status_week">
         <item>Sv</item>
         <item>P</item>
@@ -68,77 +71,5 @@
         <item>Blīva migla</item>
         <item>Ļoti blīva migla</item>
         <item>Nav datu</item>
-    </string-array>
-    <string-array name="sport_data_item_array">
-        <item>--</item>
-        <item>Laiks</item>
-        <item>Attālums</item>
-        <item>Temps</item>
-        <item>Vid. temps</item>
-        <item>Pulss</item>
-        <item>Kalorijas</item>
-        <item>Augstums</item>
-        <item>Augst. pieaugums</item>
-        <item>Augst. kritums</item>
-        <item>Ātrums</item>
-        <item>Vid. ātrums</item>
-        <item>Kadence</item>
-        <item>Attāluma pieaugums</item>
-        <item>Soļi</item>
-        <item>Kadence</item>
-        <item>Apļi</item>
-        <item>DPS</item>
-        <item>Vēzienu intervāls</item>
-        <item>Vid. SPM</item>
-        <item>Temps</item>
-        <item>Vid. temps</item>
-        <item>Attālums</item>
-        <item>TE</item>
-        <item>Vert. ātrums</item>
-        <item>Vid. ātrums</item>
-        <item>Maks. ātrums</item>
-        <item>Apļi</item>
-        <item>Lejup</item>
-        <item>Kopējais lejupceļš</item>
-        <item>Nolaišanās</item>
-        <item>Vēzieni</item>
-        <item>Apļa laiks</item>
-        <item>Apļa temps</item>
-        <item>Apļa ātrums</item>
-        <item>Apļa pulss</item>
-        <item>Apļa ritms</item>
-        <item>Apļa temps</item>
-        <item>Intervāls</item>
-        <item>Kopējais skaits</item>
-        <item>Vid. intervāls</item>
-        <item>Grupas</item>
-        <item>Apļu skaits</item>
-        <item>Apļa laiks</item>
-        <item>Apļa intervāls</item>
-        <item>Apļa laiks</item>
-        <item>Apļa attālums</item>
-        <item>Apļa temps</item>
-        <item>Apļa ātrums</item>
-        <item>Pulss šajā aplī</item>
-        <item>Atkārtotā apļa ātrums</item>
-        <item>Slīpums</item>
-        <item>Kalorijas</item>
-        <item>Vid. Pulss</item>
-        <item>Piegājiena airējumi</item>
-        <item>Vid. airēšanas intervāls</item>
-        <item>Airējumi kopā</item>
-        <item>Airēšanas intervāls</item>
-        <item>Vilkšana</item>
-        <item>Spiešana</item>
-        <item>Vid. intervāls</item>
-    </string-array>
-    <string-array name="sport_train_item">
-        <item>Atlikušais attālums</item>
-        <item>Kopējais attālums</item>
-        <item>Kopējais laiks</item>
-        <item>Atlikušais laiks</item>
-        <item>Attālums</item>
-        <item>Atlicis</item>
-        <item>Atpūties</item>
     </string-array>
 </resources>
