@@ -27,27 +27,27 @@
         <item>sport_target_remind_desc_01</item>
     </string-array>
     <string-array name="support_sport">
-        <item>RUNNING</item>
-        <item>WALKING</item>
-        <item>CROSSING</item>
+        <item>FUNCIONAMENT</item>
+        <item>A PEU</item>
+        <item>CRUÏLLA</item>
         <item>INDOOR_RUN</item>
         <item>OUTDOOR_RIDING</item>
         <item>INDOOR_RIDING</item>
         <item>ELLIPTICAL_MACHINE</item>
     </string-array>
     <string-array name="dally_performence_level_status">
-        <item>Fatigued</item>
+        <item>Cansats</item>
         <item>Normal</item>
-        <item>Good</item>
+        <item>Bona</item>
     </string-array>
     <string-array name="vo2_max_level_status">
-        <item>Very poor</item>
-        <item>Poor</item>
-        <item>Fair</item>
-        <item>Average</item>
-        <item>Good</item>
-        <item>Very good</item>
-        <item>Excellent</item>
+        <item>Molt pobre</item>
+        <item>Pobres</item>
+        <item>Fira</item>
+        <item>Mitjana</item>
+        <item>Bona</item>
+        <item>Molt bona</item>
+        <item>Excel·lent</item>
     </string-array>
     <string-array name="spring_depend">
         <item>com.huami.watch.newsport/com.huami.watch.newsport.widget.SportWidget</item>
@@ -58,47 +58,47 @@
     <string-array name="sport_data_item_array">
         <item></item>
         <item>Temps</item>
-        <item>Distance</item>
-        <item>Pace</item>
-        <item>Avg pace</item>
-        <item>Heart rate</item>
+        <item>Distància</item>
+        <item>Ritme</item>
+        <item>Avg ritme</item>
+        <item>La freqüència cardíaca</item>
         <item>\"Calories
 \"</item>
-        <item>Altitude</item>
-        <item>Elev gain</item>
-        <item>Elev loss</item>
-        <item>Speed</item>
-        <item>Avg speed</item>
-        <item>Cadence</item>
-        <item>Dist gain</item>
-        <item>Steps</item>
-        <item>Cadence</item>
-        <item>Laps</item>
+        <item>Altitud</item>
+        <item>Elev guanyar</item>
+        <item>Elev pèrdua</item>
+        <item>Velocitat</item>
+        <item>Avg velocitat</item>
+        <item>Cadència</item>
+        <item>Dist guanyar</item>
+        <item>Passos</item>
+        <item>Cadència</item>
+        <item>Voltes</item>
         <item>DPS</item>
-        <item>Stroke rate</item>
-        <item>Avg SPM</item>
-        <item>Pace</item>
-        <item>Avg pace</item>
-        <item>Distance</item>
+        <item>Traç taxa</item>
+        <item>Avg MES</item>
+        <item>Ritme</item>
+        <item>Avg ritme</item>
+        <item>Distància</item>
         <item>TE</item>
-        <item>Vert speed</item>
-        <item>Avg speed</item>
-        <item>Max speed</item>
-        <item>Laps</item>
-        <item>Downhill</item>
-        <item>Total downhill</item>
-        <item>Descent</item>
-        <item>Strokes</item>
+        <item>Vert velocitat</item>
+        <item>Avg velocitat</item>
+        <item>Velocitat màxima</item>
+        <item>Voltes</item>
+        <item>Descens</item>
+        <item>Total de descens</item>
+        <item>Descens</item>
+        <item>Cops</item>
         <item>Lap time</item>
         <item>Lap pace</item>
         <item>Lap speed</item>
         <item>Lap HR</item>
         <item>Lap cadence</item>
         <item>Lap pace</item>
-        <item>Current freq</item>
-        <item>Total count</item>
+        <item>Actual freq</item>
+        <item>El recompte Total</item>
         <item>Avg freq</item>
-        <item>Groups</item>
+        <item>Grups</item>
         <item>Lap count</item>
         <item>Lap time</item>
         <item>Lap freq</item>
@@ -111,22 +111,22 @@
         <item>slope</item>
         <item>\"Calories
 \"</item>
-        <item>Avg. HR</item>
-        <item>Paddles of this set</item>
-        <item>Frequency</item>
-        <item>Total paddles</item>
-        <item>Paddle frequency</item>
-        <item>Pulling duration</item>
-        <item>Pushing duration</item>
+        <item>Avg. H</item>
+        <item>Les pales d\'aquest conjunt</item>
+        <item>Freqüència</item>
+        <item>Total de les pales</item>
+        <item>Pala freqüència</item>
+        <item>Tirant durada</item>
+        <item>Empenyent durada</item>
         <item>Avg. Freq.</item>
     </string-array>
     <string-array name="sport_train_item">
-        <item>Remaining distance</item>
-        <item>Total distance</item>
-        <item>Total time</item>
-        <item>Remaining time</item>
-        <item>Distance</item>
-        <item>Remaining</item>
-        <item>Has rested</item>
+        <item>Resta de distància</item>
+        <item>Distància Total</item>
+        <item>Temps Total</item>
+        <item>Temps restant</item>
+        <item>Distància</item>
+        <item>Resta</item>
+        <item>Ha descansat</item>
     </string-array>
 </resources>
