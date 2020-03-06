@@ -12,19 +12,19 @@
     <item>\# %02d</item>
   </string-array>
   <string-array name="spring_depend">
-    <item>com.huami.watch.deskclock/com.huami.watch.deskclock.AlarmClockWidget</item>
-    <item>com.huami.watch.deskclock/com.huami.watch.deskclock.stopwatch.StopWatchWidget</item>
-    <item>com.huami.watch.deskclock/com.huami.watch.deskclock.countdown.CountdownWidget</item>
+    <item>com.huami.مشاهدة.deskclock/com.huami.مشاهدة.deskclock.AlarmClockWidget</item>
+    <item>com.huami.مشاهدة.deskclock/com.huami.مشاهدة.deskclock.ساعة توقيت.StopWatchWidget</item>
+    <item>com.huami.مشاهدة.deskclock/com.huami.مشاهدة.deskclock.العد التنازلي.CountdownWidget</item>
   </string-array>
   <string-array name="alarm_set">
-    <item>Alarm will go off in less than 1 minute.</item>
-    <item>Alarm will go off in %1$s.</item>
-    <item>Alarm will go off in %2$s.</item>
-    <item>Alarm will go off in %1$s and %2$s.</item>
-    <item>Alarm will go off in %3$s.</item>
-    <item>Alarm will go off in %1$s and %3$s.</item>
-    <item>Alarm will go off in %2$s and %3$s.</item>
-    <item>Alarm will go off in %1$s, %2$s, and %3$s.</item>
+    <item>إنذار سوف تنفجر في أقل من 1 دقيقة.</item>
+    <item>إنذار سوف تنفجر في %1$s.</item>
+    <item>إنذار سوف تنفجر في %2$s.</item>
+    <item>إنذار سوف تنفجر في %1$s و %2$s.</item>
+    <item>إنذار سوف تنفجر في %3$s.</item>
+    <item>إنذار سوف تنفجر في %1$s و %3$s.</item>
+    <item>إنذار سوف تنفجر في %2$s و %3$s.</item>
+    <item>إنذار سوف تنفجر في %1$s, %2$s، %3$s.</item>
   </string-array>
   <string-array name="repeat_description">
     <item>كل يوم</item>
