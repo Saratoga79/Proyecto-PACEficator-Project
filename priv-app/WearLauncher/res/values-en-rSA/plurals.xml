@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="notification_time_day">
-        <item quantity="zero">%s days ago</item>
-        <item quantity="other">%s days ago</item>
-        <item quantity="one">%s day ago</item>
-        <item quantity="two">%s days ago</item>
-        <item quantity="few">%s days ago</item>
-        <item quantity="many">%s days ago</item>
+        <item quantity="zero">%s أيام</item>
+        <item quantity="other">%s أيام</item>
+        <item quantity="one">%s يوم واحد</item>
+        <item quantity="two">%s أيام</item>
+        <item quantity="few">%s أيام</item>
+        <item quantity="many">%s أيام</item>
     </plurals>
     <plurals name="notification_time_hour">
-        <item quantity="zero">%s hours ago</item>
-        <item quantity="other">%s hours ago</item>
-        <item quantity="one">%s hour ago</item>
-        <item quantity="two">%s hours ago</item>
-        <item quantity="few">%s hours ago</item>
-        <item quantity="many">%s hours ago</item>
+        <item quantity="zero">%s ساعات</item>
+        <item quantity="other">%s ساعات</item>
+        <item quantity="one">%s ساعة</item>
+        <item quantity="two">%s ساعات</item>
+        <item quantity="few">%s ساعات</item>
+        <item quantity="many">%s ساعات</item>
     </plurals>
     <plurals name="notification_time_minute">
-        <item quantity="zero">%s minutes ago</item>
-        <item quantity="other">%s minutes ago</item>
-        <item quantity="one">%s minute ago</item>
-        <item quantity="two">%s minutes ago</item>
-        <item quantity="few">%s minutes ago</item>
-        <item quantity="many">%s minutes ago</item>
+        <item quantity="zero">%s دقائق</item>
+        <item quantity="other">%s دقائق</item>
+        <item quantity="one">%s دقيقة مضت</item>
+        <item quantity="two">%s دقائق</item>
+        <item quantity="few">%s دقائق</item>
+        <item quantity="many">%s دقائق</item>
     </plurals>
 </resources>
