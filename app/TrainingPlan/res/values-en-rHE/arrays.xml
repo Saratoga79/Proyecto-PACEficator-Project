@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="weekdays">
-        <item>Week 1</item>
-        <item>Week 2</item>
-        <item>Week 3</item>
-        <item>Week 4</item>
-        <item>Week 5</item>
-        <item>Week 6</item>
-        <item>Week 7</item>
-        <item>Week 8</item>
+        <item>שבוע 1</item>
+        <item>שבוע 2</item>
+        <item>שבוע 3</item>
+        <item>שבוע 4</item>
+        <item>שבוע 5</item>
+        <item>שבוע 6</item>
+        <item>שבוע 7</item>
+        <item>שבוע 8</item>
     </string-array>
     <string-array name="simple_weekdays">
         <item>א׳</item>
@@ -20,16 +20,16 @@
         <item>שבת</item>
     </string-array>
     <string-array name="train_finish_reason_strs">
-        <item>"Can't adjust as expected"</item>
-        <item>Time is too long to hold on</item>
-        <item>Poor physical condition</item>
-        <item>Too difficult</item>
-        <item>Too easy</item>
-        <item>Game canceled</item>
-        <item>"It doesn't suit me"</item>
-        <item>Other</item>
+        <item>"לא יכול להתאים כצפוי"</item>
+        <item>זמן ארוך מדי כדי לשמור על</item>
+        <item>המצב הפיזי הירוד</item>
+        <item>קשה מדי</item>
+        <item>קל מדי</item>
+        <item>המשחק בוטל</item>
+        <item>"זה לא מתאים לי"</item>
+        <item>אחרים</item>
     </string-array>
     <string-array name="spring_depend">
-        <item>com.huami.watch.train/com.huami.watch.train.ui.activity.launch.TraintLauncherView</item>
+        <item>com.huami.שעון.הרכבת/com.huami.שעון.הרכבת.ממשק המשתמש.פעילות.השיגור.TraintLauncherView</item>
     </string-array>
 </resources>
