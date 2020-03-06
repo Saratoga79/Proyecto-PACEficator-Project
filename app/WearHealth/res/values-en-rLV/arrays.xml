@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="support_category">
+        <item>DAILY</item>
+        <item>WEEKLY</item>
+    </string-array>
+    <string-array name="chart_x_titles2">
+        <item>0</item>
+        <item>4</item>
+        <item>8</item>
+        <item>12</item>
+        <item>16</item>
+        <item>20</item>
+        <item>24</item>
+    </string-array>
+    <string-array name="spring_depend">
+        <item>com.huami.watch.health/com.huami.watch.health.widget.HeartLauncherView</item>
+        <item>com.huami.watch.health/com.huami.watch.health.widget.StepLauncherView</item>
+        <item>com.huami.watch.health/com.huami.watch.health.widget.SleepWidgetView</item>
+        <item>com.huami.watch.health/com.huami.watch.health.widget.EveretStepLauncherView</item>
+        <item>com.huami.watch.health/com.huami.watch.health.pressure.widget.PressureWidget</item>
+    </string-array>
     <string-array name="hour_select_labels">
         <item>0</item>
         <item>6</item>
