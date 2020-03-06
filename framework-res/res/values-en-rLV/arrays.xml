@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>Privātais</item>
+        <item>Darba</item>
+        <item>Cits</item>
+        <item>Pielāgots</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>Darba</item>
+        <item>Cits</item>
+        <item>Pielāgots</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>Mājas</item>
+        <item>Mobīlais</item>
+        <item>Darba</item>
+        <item>Darba Fax</item>
+        <item>Mājas Fax</item>
+        <item>Peidžeris</item>
+        <item>Cits</item>
+        <item>Pielāgots</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>Mājas</item>
+        <item>Darba</item>
+        <item>Cits</item>
+        <item>Pielāgota</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>Mājas</item>
+        <item>Darba</item>
+        <item>Cits</item>
+        <item>Pielāgota</item>
+    </string-array>
+</resources>

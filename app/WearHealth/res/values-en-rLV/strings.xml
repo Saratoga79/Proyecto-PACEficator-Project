@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="action_badge_activated">com.huami.watch.health.BADGE_ACTIVATED</string>
-    <string name="action_badge_dumped">com.huami.watch.health.BADGE_DUMPED</string>
     <string name="app_name">Veselība</string>
     <string name="settings_step_unit">Soļi</string>
     <string name="settings_step_target">Soļu mērķis</string>
@@ -88,11 +86,11 @@
     <string name="sleep_unit_minute">m</string>
     <string name="sleep_uniti_hour">h</string>
     <string name="sleep_duration">%1$sh %2$sm</string>
-    <string name="sleep_duration_diff">%1$s &lt;font size=\"12\"&gt;h &lt;/font&gt; %2$sm</string>
+    <string name="sleep_duration_diff">%1$s &lt;font size=\"12\">h &lt;/font> %2$sm</string>
     <string name="date_m_d">%1$s/%2$s</string>
     <string name="date_today">Šodien</string>
     <string name="sleep_detail_title">Vēsture</string>
-    <string name="ratio_notworn"></string>
+    <string name="ratio_notworn" />
     <string name="am">AM</string>
     <string name="pm">PM</string>
     <string name="heart_rate_no_data">Nav Pulsa datu</string>
@@ -203,7 +201,7 @@
     <string name="weeklysports_triathlon_totaltime">Kopējais laiks</string>
     <string name="weeklysports_triathlon_hour">h</string>
     <string name="weeklysports_triathlon_min">m</string>
-    <string name="weeklysports_frequency"></string>
+    <string name="weeklysports_frequency" />
     <string name="weeklysports_day">d</string>
     <string name="weeklysports_activity">Treniņi</string>
     <string name="weeklysports_running">Skriešana</string>
@@ -307,27 +305,26 @@
     <string name="heartrate_measure_off">Pulsa mērīšana izslēgta</string>
     <string name="no_data_title">Mērījumu rezultāts</string>
     <string name="no_data_content">Mērīšanas rezultāta nav</string>
-    <string name="widget_pressure_title">Continuous Stress</string>
+    <string name="widget_pressure_title">Nepārteaukts stress</string>
     <string name="widget_pressure_title_in_applist">Stress</string>
-    <string name="widget_pressure_single_pressure_measure">"Measuring
-Please stay relaxed"</string>
-    <string name="pressure_detail_title">Stress details</string>
-    <string name="pressure_detail_low">Low</string>
-    <string name="pressure_detail_middle">Medium</string>
-    <string name="pressure_detail_high">High</string>
-    <string name="pressure_detail_highest">Max</string>
-    <string name="pressure_detail_lowest">Min</string>
-    <string name="pressure_detail_range">Stress range</string>
-    <string name="pressure_detail_range_0">No Stress 0-39</string>
-    <string name="pressure_detail_range_1">Normal Stress 40-59</string>
-    <string name="pressure_detail_range_2">Medium Stress 60-79</string>
-    <string name="pressure_detail_range_3">High Stress 80-89</string>
-    <string name="pressure_detail_range_4">Very high Stress 90-100</string>
-    <string name="pressure_detail_recent_seven_days_title">Stress in the last seven days</string>
-    <string name="pressure_tips_title">Stress indicators</string>
-    <string name="pressure_tips_content">The Stress indicator is calculated by the change in the value of the heart rate variability, and is used to evaluate the change in physical state (the indicator is for reference only). Usually when the pressure is high, you should take appropriate rest.</string>
+    <string name="widget_pressure_single_pressure_measure">"Mērīšana
+Lūdzu, palieciet mierīgi"</string>
+    <string name="pressure_detail_title">Stresa informācija</string>
+    <string name="pressure_detail_low">Zems</string>
+    <string name="pressure_detail_middle">Vidējs</string>
+    <string name="pressure_detail_high">Augsts</string>
+    <string name="pressure_detail_highest">maksimāls</string>
+    <string name="pressure_detail_lowest">Minimāls</string>
+    <string name="pressure_detail_range">Stresa diapazons</string>
+    <string name="pressure_detail_range_0">Bez stresa 0-39</string>
+    <string name="pressure_detail_range_1">Normāls Stress 40-59</string>
+    <string name="pressure_detail_range_2">Vidējs Stress 60-79</string>
+    <string name="pressure_detail_range_3">Augsts Stress 80-89</string>
+    <string name="pressure_detail_range_4">Ļoti augsts Stress 90-100</string>
+    <string name="pressure_detail_recent_seven_days_title">Stress pēdējās septiņās dienās</string>
+    <string name="pressure_tips_title">Stresa indikātors</string>
+    <string name="pressure_tips_content">Stresa indikatoru aprēķina pēc pulsa ātruma mainīgās vērtības, un to izmanto, lai novērtētu fiziskā stāvokļa izmaiņas (indikators ir paredzēts tikai atsaucei). Parasti, kad spiediens ir augsts, jums vajadzētu pienācīgi atpūsties.</string>
     <string name="average_text">Vid.</string>
-    <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="running">Skriešana</string>
     <string name="waking">Iešana</string>
     <string name="indoor_running">Skrejceliņš</string>
@@ -371,7 +368,7 @@ Please stay relaxed"</string>
     <string name="alpine_skiing">Kalnu slēpošana</string>
     <string name="outdoor_skating">Slidošana dabā</string>
     <string name="indoor_skating">Slidošana telpās</string>
-    <string name="cross_country_skiing">Cross country ski</string>
+    <string name="cross_country_skiing">Distanču slēpošana</string>
     <string name="surfing">Sērfošana</string>
     <string name="go_hunting">Medības</string>
     <string name="go_fishing">Makšķerēšana</string>
@@ -414,7 +411,7 @@ Please stay relaxed"</string>
     <string name="taekwondo">Taekvondo</string>
     <string name="a_martial_art">Cīņas māksla</string>
     <string name="free_fight">Brīvais sparings</string>
-    <string name="double_ski">Ski</string>
+    <string name="double_ski">Snovbords</string>
     <string name="sport_total_time">Kopējais laiks</string>
     <string name="current_altitude">Augstums</string>
     <string name="speed">Ātrums</string>
@@ -515,5 +512,4 @@ Please stay relaxed"</string>
     <string name="no_altitude_hint">"Nevarēju atrast augstuma datus"</string>
     <string name="title_settings">Iestatījumi</string>
     <string name="sport_music_settings">Mūzika</string>
-    <string name="locale_title">Izvēlies valodu</string>
 </resources>

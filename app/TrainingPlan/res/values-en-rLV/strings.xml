@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="locale_title">Izvēlieties valodu</string>
+    <string name="locale_title">Atlasīt valodu</string>
     <string name="app_name">Treniņu Centrs</string>
     <string name="app_train_center">Treniņu Centrs</string>
     <string name="my_train">Mani treniņi</string>
@@ -137,19 +137,19 @@ skriešana. Sāksim! "</string>
     <string name="runcopywrite10">Šodien paņemiet pārtraukumu. Nākamajam treniņam vajadzētu sākties pēc %1$d dienām.</string>
     <string name="runcopywrite11">Peldēšana palīdz atjaunot enerģiju. Pēc treniņa pabeigšanas pieskarieties šeit.</string>
     <string name="runcopywrite12">Šis treniņš palīdzēs paaugstināt līmeni un atgūt enerģiju. Saglabā savu pulsu %1$d-%2$d sit/min  zonā.</string>
-    <string name="average_text">Vid.</string>
+    <string name="average_text">Vidējais</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Labi</string>
     <string name="picker_default_nagetive_text">Izslēgts</string>
-    <string name="no_heartrate_data_hint">"Nevarēju atrast Pulsa datus"</string>
-    <string name="no_altitude_hint">"Nevar atrast augstuma datus"</string>
+    <string name="no_heartrate_data_hint">"Nevarēju atrast pulsa datus"</string>
+    <string name="no_altitude_hint">"Nevarēju atrast augstuma datus"</string>
     <string name="title_settings">Iestatījumi</string>
     <string name="sport_music_settings">Mūzika</string>
-    <string name="widget_currentstep_title">Pārskats</string>
-    <string name="widget_currentstep_activities">"Šodienas aktivitātes"</string>
+    <string name="widget_currentstep_title">Dati</string>
+    <string name="widget_currentstep_activities">"Šodienas treniņi"</string>
     <string name="widget_currentstep_sleep_hour">h</string>
-    <string name="widget_currentstep_sleep_min">min</string>
-    <string name="widget_currentstep_sleep_title">Gulēji</string>
+    <string name="widget_currentstep_sleep_min">m</string>
+    <string name="widget_currentstep_sleep_title">Miegs</string>
     <string name="widget_currentstep_sleep_no">Nav miega datu</string>
     <string name="widget_currentstep_activity_no">Šodien nav aktivitātes?</string>
 </resources>

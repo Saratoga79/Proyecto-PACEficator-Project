@@ -1,18 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="notification_time_day">
-        <item quantity="zero">pirms %s dienas</item>
         <item quantity="other">pirms %s dienām</item>
-        <item quantity="one">pirms %s dienām</item>
+        <item quantity="one">pirms %s dienas</item>
     </plurals>
     <plurals name="notification_time_hour">
-        <item quantity="zero">pirms %s stundas</item>
         <item quantity="other">pirms %s stundām</item>
-        <item quantity="one">pirms %s stundām</item>
+        <item quantity="one">pirms %s stundas</item>
     </plurals>
     <plurals name="notification_time_minute">
-        <item quantity="zero">pirms %s minūtes</item>
         <item quantity="other">pirms %s minūtēm</item>
-        <item quantity="one">pirms %s minūtēm</item>
+        <item quantity="one">pirms %s minūtes</item>
     </plurals>
 </resources>
