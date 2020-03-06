@@ -20,7 +20,7 @@
     <string name="upload_data">Augšupielādēt datus</string>
     <string name="upload_success">Gatavs</string>
     <string name="upload_failed">"Nevarēja augšupielādēt. Mēģiniet vēlreiz."</string>
-    <string name="air_mode_alert_title">"Nevarēju izveidot savienojumu</string>
+    <string name="air_mode_alert_title">"\"Nevarēju izveidot savienojumu"</string>
     <string name="air_mode_alert_message">Izslēdziet lidmašīnas režīmu un pēc tam mēģiniet vēlreiz.</string>
     <string name="report_sensor_capture_dialog_title">Darbības datu vākšana</string>
     <string name="report_sensor_capture_dialog_desc">Ieslēdzot aktivitāšu datu vākšanu, mēs savācam sensora oriģinālo informāciju pēc tam, kad sākat vingrinājumu, un nekavējoties pārtraucam, kad beidzat vingrinājumu. Šādi dati tiks iesniegti arī serverī, kad analīzei iesniegsit atsauksmes par pulksteņu jautājumiem. Šie žurnāli tiek izmantoti tikai problēmu analīzei, un tūlīt pēc tam tie tiks iznīcināti. Visa procesa laikā mēs ievērosim mūsu konfidencialitātes politiku, skatīsim sīkāku informāciju par politiku lietotnē Amazfit.</string>
@@ -28,6 +28,7 @@
     <string name="dialog_quit">Iziet</string>
     <string name="watch_demo_model">Demonstrācijas režīms</string>
     <string name="average_text">Vid.</string>
+    <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="running">Skriešana</string>
     <string name="waking">Iešana</string>
     <string name="indoor_running">Skrejceliņš</string>
@@ -96,7 +97,7 @@
     <string name="kilometre">km</string>
     <string name="km_per_hour">km/h</string>
     <string name="bpm">Sit/Min</string>
-    <string name="times_per_minute">Sit/Min</string>
+    <string name="times_per_minute">lec/min</string>
     <string name="per_km">/km</string>
     <string name="per_100m">/100 m</string>
     <string name="per_100Yard">/100 yd</string>
@@ -157,6 +158,5 @@
     <string name="widget_currentstep_sleep_title">Pēdējais miegs</string>
     <string name="widget_currentstep_sleep_no">Nav miega datu</string>
     <string name="widget_currentstep_activity_no">Šodien nav aktivitātes?</string>
-    <item type="string" name="settings_item_high_light_scale_factor">0.71</item>
     <string name="locale_title">Valoda</string>
 </resources>

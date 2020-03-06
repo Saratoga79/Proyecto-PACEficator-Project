@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="weeklysports_frequency">
+        <item quantity="zero">" "</item>
         <item quantity="other">" "</item>
         <item quantity="one">" "</item>
     </plurals>
     <plurals name="weeklysports_step">
+        <item quantity="zero">solis</item>
         <item quantity="other">soļi</item>
-        <item quantity="one">solis</item>
+        <item quantity="one">soļi</item>
     </plurals>
     <plurals name="floor_unit">
+        <item quantity="zero">stāvs</item>
         <item quantity="other">stāvi</item>
-        <item quantity="one">stāvs</item>
+        <item quantity="one">stāvi</item>
     </plurals>
 </resources>

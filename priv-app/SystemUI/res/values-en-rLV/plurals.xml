@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="status_bar_accessibility_recent_apps">
+        <item quantity="zero">1 ekrāns pārskatā</item>
         <item quantity="other">%d ekrāni pārskatā</item>
-        <item quantity="one">1 ekrāns pārskatā</item>
+        <item quantity="one">%d ekrāni pārskatā</item>
     </plurals>
     <plurals name="kg_password_wrong_pin_code">
+        <item quantity="zero">Nepareizs SIM PIN kods, jums ir atlikuši %d mēģinājumi, pirms jums jāsazinās ar mobilo sakaru operatoru, lai atbloķētu ierīci.</item>
         <item quantity="other">Nepareizs SIM PIN kods, jums ir %d mēģinājumi.</item>
-        <item quantity="one">Nepareizs SIM PIN kods, jums ir atlikuši %d mēģinājumi, pirms jums jāsazinās ar mobilo sakaru operatoru, lai atbloķētu ierīci.</item>
+        <item quantity="one">Nepareizs SIM PIN kods, jums ir %d mēģinājumi.</item>
     </plurals>
     <plurals name="kg_password_wrong_puk_code">
+        <item quantity="zero">Nepareizs SIM PUK kods. Jums ir atlikuši %d mēģinājumi, pirms SIM sistēma kļūst nelietojama.</item>
         <item quantity="other">Nepareizs SIM PUK kods. Jums ir %d mēģinājumi, pirms SIM kļūst  nelietojama.</item>
-        <item quantity="one">Nepareizs SIM PUK kods. Jums ir atlikuši %d mēģinājumi, pirms SIM sistēma kļūst nelietojama.</item>
+        <item quantity="one">Nepareizs SIM PUK kods. Jums ir %d mēģinājumi, pirms SIM kļūst  nelietojama.</item>
     </plurals>
 </resources>

@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="action_badge_activated">com.huami.watch.health.BADGE_ACTIVATED</string>
+    <string name="action_badge_dumped">com.huami.watch.health.BADGE_DUMPED</string>
     <string name="app_name">Veselība</string>
     <string name="settings_step_unit">Soļi</string>
     <string name="settings_step_target">Soļu mērķis</string>
@@ -86,11 +88,11 @@
     <string name="sleep_unit_minute">m</string>
     <string name="sleep_uniti_hour">h</string>
     <string name="sleep_duration">%1$sh %2$sm</string>
-    <string name="sleep_duration_diff">%1$s &lt;font size=\"12\">h &lt;/font> %2$sm</string>
+    <string name="sleep_duration_diff">%1$s &lt;font size=\"12\"&gt;h &lt;/font&gt; %2$sm</string>
     <string name="date_m_d">%1$s/%2$s</string>
     <string name="date_today">Šodien</string>
     <string name="sleep_detail_title">Vēsture</string>
-    <string name="ratio_notworn" />
+    <string name="ratio_notworn"></string>
     <string name="am">AM</string>
     <string name="pm">PM</string>
     <string name="heart_rate_no_data">Nav Pulsa datu</string>
@@ -201,7 +203,7 @@
     <string name="weeklysports_triathlon_totaltime">Kopējais laiks</string>
     <string name="weeklysports_triathlon_hour">h</string>
     <string name="weeklysports_triathlon_min">m</string>
-    <string name="weeklysports_frequency" />
+    <string name="weeklysports_frequency"></string>
     <string name="weeklysports_day">d</string>
     <string name="weeklysports_activity">Treniņi</string>
     <string name="weeklysports_running">Skriešana</string>
@@ -325,6 +327,7 @@ Lūdzu, palieciet mierīgi"</string>
     <string name="pressure_tips_title">Stresa indikātors</string>
     <string name="pressure_tips_content">Stresa indikatoru aprēķina pēc pulsa ātruma mainīgās vērtības, un to izmanto, lai novērtētu fiziskā stāvokļa izmaiņas (indikators ir paredzēts tikai atsaucei). Parasti, kad spiediens ir augsts, jums vajadzētu pienācīgi atpūsties.</string>
     <string name="average_text">Vid.</string>
+    <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="running">Skriešana</string>
     <string name="waking">Iešana</string>
     <string name="indoor_running">Skrejceliņš</string>
@@ -512,4 +515,5 @@ Lūdzu, palieciet mierīgi"</string>
     <string name="no_altitude_hint">"Nevarēju atrast augstuma datus"</string>
     <string name="title_settings">Iestatījumi</string>
     <string name="sport_music_settings">Mūzika</string>
+    <string name="locale_title">Izvēlies valodu</string>
 </resources>
