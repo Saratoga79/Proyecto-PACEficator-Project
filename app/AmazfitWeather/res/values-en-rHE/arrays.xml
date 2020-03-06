@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="spring_depend">
-        <item>com.huami.watch.weather/com.huami.watch.weather.Everest2WeatherWidgetView</item>
+        <item>com.huami.שעון.מזג אוויר/com.huami.שעון.מזג האויר.Everest2WeatherWidgetView</item>
     </string-array>
     <string-array name="quick_settings_status_week">
         <item>א׳</item>
@@ -15,61 +15,61 @@
     </string-array>
     <string-array name="weather_card_aqilevel">
         <item>מצוין</item>
-        <item>Fine</item>
-        <item>Light pollution</item>
-        <item>Moderate pollution</item>
-        <item>Heavy pollution</item>
-        <item>Severe pollution</item>
+        <item>בסדר</item>
+        <item>זיהום אור</item>
+        <item>בינוני זיהום</item>
+        <item>זיהום כבד</item>
+        <item>זיהום חמור</item>
         <item></item>
     </string-array>
     <string-array name="weather_card_quality">
-        <item>Suitable for sports</item>
-        <item>Not suitable for sports</item>
+        <item>מתאים לספורט</item>
+        <item>לא מתאים לספורט</item>
         <item></item>
     </string-array>
     <string-array name="quick_settings_status_weather">
-        <item>Clear</item>
-        <item>Cloudy</item>
-        <item>Overcast</item>
-        <item>showers</item>
-        <item>Thunder shower</item>
-        <item>Hail</item>
-        <item>Rain and snow mixed</item>
-        <item>Light rain</item>
-        <item>Moderate rain</item>
-        <item>Heavy rain</item>
-        <item>Rainstorm</item>
-        <item>Heavy rainstorm</item>
-        <item>Extraordinary rainstorm</item>
-        <item>Snow shower</item>
-        <item>Light snow</item>
-        <item>Moderate snow</item>
-        <item>Heavy snow</item>
-        <item>Blizzard</item>
-        <item>Fog</item>
-        <item>Freezing rain</item>
-        <item>Sandstorm</item>
-        <item>Small to moderate rain</item>
-        <item>Moderate to heavy rain</item>
-        <item>Heavy rain to rainstorm</item>
-        <item>Rainstorm to heavy rainstorm</item>
-        <item>Heavy to severe storm</item>
-        <item>Small to moderate snow</item>
-        <item>Moderate to heavy snow</item>
-        <item>Heavy snow to blizzard</item>
-        <item>Dust</item>
-        <item>Blowing sand</item>
-        <item>Strong sandstorm</item>
-        <item>Thick fog</item>
-        <item>Snow</item>
-        <item>Rain</item>
-        <item>Strong fog</item>
-        <item>Haze</item>
-        <item>Moderate haze</item>
-        <item>Heavy haze</item>
-        <item>Severe haze</item>
-        <item>Dense fog</item>
-        <item>Extremely dense fog</item>
+        <item>ברור</item>
+        <item>מעונן</item>
+        <item>מעונן</item>
+        <item>מקלחות</item>
+        <item>רעם מקלחת</item>
+        <item>יחי</item>
+        <item>גשם, שלג מעורב</item>
+        <item>גשם קל</item>
+        <item>גשם קל</item>
+        <item>גשם כבד</item>
+        <item>גשמים</item>
+        <item>גשמים כבדים.</item>
+        <item>יוצא דופן גשמים</item>
+        <item>שלג מקלחת</item>
+        <item>שלג קל</item>
+        <item>מתונה שלג</item>
+        <item>שלג כבד</item>
+        <item>סופת השלגים</item>
+        <item>ערפל</item>
+        <item>גשם קופא</item>
+        <item>סופת חול</item>
+        <item>קטן עד בינוני גשם</item>
+        <item>בינוני עד כבד גשם</item>
+        <item>גשם כבד כדי גשמים</item>
+        <item>גשמים כבדים גשמים</item>
+        <item>כבד חמורה סערה</item>
+        <item>קטן עד בינוני שלג</item>
+        <item>בינוני עד כבד שלג</item>
+        <item>שלג כבד כדי שלגים</item>
+        <item>אבק</item>
+        <item>פיצוץ חול</item>
+        <item>סופת חול חזקה</item>
+        <item>ערפל כבד</item>
+        <item>שלג</item>
+        <item>גשם</item>
+        <item>ערפל חזק</item>
+        <item>אובך</item>
+        <item>אובך בינוני</item>
+        <item>אובך כבד.</item>
+        <item>חמור אובך</item>
+        <item>ערפל כבד</item>
+        <item>מאוד צפוף ערפל</item>
         <item>אין נתונים</item>
     </string-array>
 </resources>
