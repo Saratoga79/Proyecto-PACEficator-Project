@@ -12,18 +12,18 @@
     <string-array name="lab_item_android_settings">
         <item>[prim]המקורי הגדרות מערכת</item>
         <item>[sum]הגדרות של אנדרואיד</item>
-        <item>[pkg]com.אנדרואיד.הגדרות</item>
+        <item>[pkg]com.android.settings</item>
     </string-array>
     <string-array name="lab_item_logger">
         <item>[prim]WearLogger</item>
         <item>[sum]אחד-לחץ זוחל יומן ^_^</item>
-        <item>[pkg]com.huami.שעון.wearlogger</item>
-        <item>[clazz]com.huami.שעון.wearlogger.AllLogActivityLab</item>
+        <item>[pkg]com.huami.watch.wearlogger</item>
+        <item>[clazz]com.huami.watch.wearlogger.AllLogActivityLab</item>
     </string-array>
     <string-array name="lab_item_selftest">
         <item>[prim]selftest</item>
         <item>[sum]להתחיל selftest על ידי עצמך.</item>
-        <item>[action]com.huami.שעון.selftest.להתחיל</item>
+        <item>[action]com.huami.watch.selftest.START</item>
     </string-array>
     <string-array name="lab_item_open_applist">
         <item>[prim]משגר Applist</item>
@@ -43,14 +43,14 @@
     <string-array name="lab_item_long_sitting_timer_plus">
         <item>[prim]זמן בישיבה תזכורת</item>
         <item>[sum]להגדיר את הזמן בישיבה תזכורת (תוך דקות)</item>
-        <item>[pkg]com.huami.נייד.watchsettings</item>
-        <item>[clazz]com.huami.מובייל.watchsettings.פעולות.המעבדה.labUI.LongSittingTimeActivity</item>
+        <item>[pkg]com.huami.mobile.watchsettings</item>
+        <item>[clazz]com.huami.moblie.watchsettings.actions.lab.labUI.LongSittingTimeActivity</item>
     </string-array>
     <string-array name="lab_item_wifi_signal_intensity">
         <item>[prim]עוצמת האות</item>
         <item>[sum]עוצמת האות מבחן</item>
-        <item>[pkg]com.huami.נייד.watchsettings</item>
-        <item>[clazz]com.huami.מובייל.watchsettings.פעולות.המעבדה.labUI.WifiTestActivity</item>
+        <item>[pkg]com.huami.mobile.watchsettings</item>
+        <item>[clazz]com.huami.moblie.watchsettings.actions.lab.labUI.WifiTestActivity</item>
     </string-array>
     <string-array name="lab_item_pointer_location">
         <item>[prim]מצביע מיקום</item>
