@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="localapps">
-        <item>com.huami.مشاهدة.قاذفة</item>
-        <item>com.huami.مشاهدة.الرياضة</item>
+        <item>com.huami.watch.launcher</item>
+        <item>com.huami.watch.sport</item>
     </string-array>
     <string-array name="sport_te_desc_array">
         <item>sport_te_desc_level_01</item>
@@ -50,10 +50,10 @@
         <item>ممتاز</item>
     </string-array>
     <string-array name="spring_depend">
-        <item>com.huami.مشاهدة.newsport/com.huami.مشاهدة.newsport.القطعة.SportWidget</item>
-        <item>com.huami.مشاهدة.newsport/com.huami.مشاهدة.newsport.القطعة.SportHistoryWidget</item>
-        <item>com.huami.مشاهدة.newsport/com.huami.مشاهدة.newsport.القطعة.SportLauncherWidget</item>
-        <item>com.huami.مشاهدة.newsport/com.huami.مشاهدة.newsport.motionstate.القطعة.SportMotionStateWidget</item>
+        <item>com.huami.watch.newsport/com.huami.watch.newsport.widget.SportWidget</item>
+        <item>com.huami.watch.newsport/com.huami.watch.newsport.widget.SportHistoryWidget</item>
+        <item>com.huami.watch.newsport/com.huami.watch.newsport.widget.SportLauncherWidget</item>
+        <item>com.huami.watch.newsport/com.huami.watch.newsport.motionstate.widget.SportMotionStateWidget</item>
     </string-array>
     <string-array name="sport_data_item_array">
         <item></item>
