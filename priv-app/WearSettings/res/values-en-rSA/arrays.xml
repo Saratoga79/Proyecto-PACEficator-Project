@@ -12,18 +12,18 @@
     <string-array name="lab_item_android_settings">
         <item>[prim]الأصلي إعدادات النظام</item>
         <item>[sum]إعدادات الروبوت</item>
-        <item>[pkg]com.الروبوت.الإعدادات</item>
+        <item>[pkg]com.android.settings</item>
     </string-array>
     <string-array name="lab_item_logger">
         <item>[prim]WearLogger</item>
         <item>[sum]بنقرة واحدة الزحف الدخول ^_^</item>
-        <item>[pkg]com.huami.مشاهدة.wearlogger</item>
-        <item>[clazz]com.huami.مشاهدة.wearlogger.AllLogActivityLab</item>
+        <item>[pkg]com.huami.watch.wearlogger</item>
+        <item>[clazz]com.huami.watch.wearlogger.AllLogActivityLab</item>
     </string-array>
     <string-array name="lab_item_selftest">
         <item>[prim]selftest</item>
         <item>[sum]تبدأ selftest بنفسك</item>
-        <item>[action]com.huami.مشاهدة.selftest.تبدأ</item>
+        <item>[action]com.huami.watch.selftest.START</item>
     </string-array>
     <string-array name="lab_item_open_applist">
         <item>[prim]قاذفة Applist</item>
@@ -43,14 +43,14 @@
     <string-array name="lab_item_long_sitting_timer_plus">
         <item>[prim]وقت تذكير المستقرة</item>
         <item>[sum]ضبط الوقت من تذكير المستقرة (في دقيقة)</item>
-        <item>[pkg]com.huami.الهاتف المحمول.watchsettings</item>
-        <item>[clazz]com.huami.تأثيرات صوتية moblie.watchsettings.إجراءات.مختبر.labUI.LongSittingTimeActivity</item>
+        <item>[pkg]com.huami.mobile.watchsettings</item>
+        <item>[clazz]com.huami.moblie.watchsettings.actions.lab.labUI.LongSittingTimeActivity</item>
     </string-array>
     <string-array name="lab_item_wifi_signal_intensity">
         <item>[prim]قوة الإشارة</item>
         <item>[sum]إشارة اختبار قوة</item>
-        <item>[pkg]com.huami.الهاتف المحمول.watchsettings</item>
-        <item>[clazz]com.huami.تأثيرات صوتية moblie.watchsettings.إجراءات.مختبر.labUI.WifiTestActivity</item>
+        <item>[pkg]com.huami.mobile.watchsettings</item>
+        <item>[clazz]com.huami.moblie.watchsettings.actions.lab.labUI.WifiTestActivity</item>
     </string-array>
     <string-array name="lab_item_pointer_location">
         <item>[prim]مؤشر الموقع</item>
