@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="localapps">
-        <item>com.huami.שעון.משגר</item>
-        <item>com.huami.שעון.ספורט</item>
+        <item>com.huami.watch.launcher</item>
+        <item>com.huami.watch.sport</item>
     </string-array>
     <string-array name="sport_te_desc_array">
         <item>sport_te_desc_level_01</item>
@@ -27,9 +27,9 @@
         <item>sport_target_remind_desc_01</item>
     </string-array>
     <string-array name="support_sport">
-        <item>מנהל</item>
-        <item>הליכה</item>
-        <item>המעבר</item>
+        <item>RUNNING</item>
+        <item>WALKING</item>
+        <item>CROSSING</item>
         <item>INDOOR_RUN</item>
         <item>OUTDOOR_RIDING</item>
         <item>INDOOR_RIDING</item>
@@ -50,10 +50,10 @@
         <item>מעולה</item>
     </string-array>
     <string-array name="spring_depend">
-        <item>com.huami.שעון.newsport/com.huami.שעון.newsport.יישומון.SportWidget</item>
-        <item>com.huami.שעון.newsport/com.huami.שעון.newsport.יישומון.SportHistoryWidget</item>
-        <item>com.huami.שעון.newsport/com.huami.שעון.newsport.יישומון.SportLauncherWidget</item>
-        <item>com.huami.שעון.newsport/com.huami.שעון.newsport.motionstate.יישומון.SportMotionStateWidget</item>
+        <item>com.huami.watch.newsport/com.huami.watch.newsport.widget.SportWidget</item>
+        <item>com.huami.watch.newsport/com.huami.watch.newsport.widget.SportHistoryWidget</item>
+        <item>com.huami.watch.newsport/com.huami.watch.newsport.widget.SportLauncherWidget</item>
+        <item>com.huami.watch.newsport/com.huami.watch.newsport.motionstate.widget.SportMotionStateWidget</item>
     </string-array>
     <string-array name="sport_data_item_array">
         <item></item>
