@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="config_statusBarComponent">com.אנדרואיד.systemui.שורת המצב.טלפון.PhoneStatusBar</string>
+    <string name="config_statusBarComponent">com.android.systemui.statusbar.phone.PhoneStatusBar</string>
     <string name="quick_settings_tiles_default">wifi,bt,היפוך,טלפונים,מטוסים,סיבוב,פנס,מיקום,גבס,נקודה חמה</string>
     <string name="quick_settings_tiles">ברירת המחדל</string>
     <string name="velocity_tracker_impl">פלטפורמה</string>
