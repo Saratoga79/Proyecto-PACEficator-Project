@@ -5,7 +5,7 @@
     <string name="quick_settings_tiles">ברירת המחדל</string>
     <string name="velocity_tracker_impl">פלטפורמה</string>
     <string name="doze_pulse_schedule">1,10,30,60</string>
-    <string name="system_ui_date_pattern">\@android:מחרוזת/system_ui_date_pattern</string>
+    <string name="system_ui_date_pattern">@android:string/system_ui_date_pattern</string>
     <string name="lland">L בארץ</string>
     <string name="app_label">ממשק המשתמש של המערכת</string>
     <string name="status_bar_clear_all_button">ברור</string>
@@ -409,7 +409,7 @@ VPN שלך. ספק השירות יכול לעקוב אחר המכשיר שלך �
     <string name="quick_settings_reset_confirmation_title">להסתיר %1$s?</string>
     <string name="quick_settings_reset_confirmation_message">זה יופיע בפעם הבאה שתפעיל את זה בהגדרות.</string>
     <string name="quick_settings_reset_confirmation_button">להסתיר</string>
-    <string name="ok">\@android:מחרוזת/אישור</string>
+    <string name="ok">@android:string/ok</string>
     <string name="widget_default_package_name"></string>
     <string name="widget_default_class_name"></string>
     <string name="abbrev_wday_month_day_no_year">EEEEMMMMd</string>
