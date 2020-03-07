@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="config_statusBarComponent">com.الروبوت.systemui.شريط الحالة.الهاتف.PhoneStatusBar</string>
+    <string name="config_statusBarComponent">com.android.systemui.statusbar.phone.PhoneStatusBar</string>
     <string name="quick_settings_tiles_default">wifi,bt,انعكاس,خلية,طائرة,دوران,مصباح يدوي,موقع,يلقي,هوت سبوت</string>
     <string name="quick_settings_tiles">الافتراضي</string>
     <string name="velocity_tracker_impl">منصة</string>
     <string name="doze_pulse_schedule">1s,10s,30s,60s</string>
-    <string name="system_ui_date_pattern">\@الروبوت:سلسلة/system_ui_date_pattern</string>
+    <string name="system_ui_date_pattern">@android:string/system_ui_date_pattern</string>
     <string name="lland">أنا الأرض</string>
     <string name="app_label">نظام واجهة المستخدم</string>
     <string name="status_bar_clear_all_button">واضح</string>
@@ -409,7 +409,7 @@ Also, you\'re connected to a VPN (\"%3$s\"). Your VPN service provider can monit
     <string name="quick_settings_reset_confirmation_title">إخفاء %1$s?</string>
     <string name="quick_settings_reset_confirmation_message">وسوف تعود الى الظهور في المرة القادمة يمكنك تشغيله في إعدادات.</string>
     <string name="quick_settings_reset_confirmation_button">إخفاء</string>
-    <string name="ok">\@الروبوت:سلسلة/موافق</string>
+    <string name="ok">@android:string/ok</string>
     <string name="widget_default_package_name"></string>
     <string name="widget_default_class_name"></string>
     <string name="abbrev_wday_month_day_no_year">EEEEMMMMd</string>
