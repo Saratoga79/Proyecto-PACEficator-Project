@@ -36,18 +36,18 @@
         <item>ELLIPTICAL_MACHINE</item>
     </string-array>
     <string-array name="dally_performence_level_status">
-        <item>Fatigued</item>
-        <item>Normal</item>
-        <item>Good</item>
+        <item>مرهق</item>
+        <item>عادي</item>
+        <item>جيد</item>
     </string-array>
     <string-array name="vo2_max_level_status">
-        <item>Very poor</item>
-        <item>Poor</item>
-        <item>Fair</item>
-        <item>Average</item>
-        <item>Good</item>
-        <item>Very good</item>
-        <item>Excellent</item>
+        <item>ضعيف جدا</item>
+        <item>الفقراء</item>
+        <item>عادل</item>
+        <item>متوسط</item>
+        <item>جيد</item>
+        <item>جيد جدا</item>
+        <item>ممتاز</item>
     </string-array>
     <string-array name="spring_depend">
         <item>com.huami.watch.newsport/com.huami.watch.newsport.widget.SportWidget</item>
@@ -58,73 +58,73 @@
     <string-array name="sport_data_item_array">
         <item></item>
         <item>الوقت</item>
-        <item>Distance</item>
-        <item>Pace</item>
-        <item>Avg pace</item>
-        <item>Heart rate</item>
-        <item>Calories</item>
-        <item>Altitude</item>
-        <item>Elev gain</item>
-        <item>Elev loss</item>
-        <item>Speed</item>
-        <item>Avg speed</item>
-        <item>Cadence</item>
-        <item>Dist gain</item>
-        <item>Steps</item>
-        <item>Cadence</item>
-        <item>Laps</item>
+        <item>المسافة</item>
+        <item>وتيرة</item>
+        <item>Avg وتيرة</item>
+        <item>معدل ضربات القلب</item>
+        <item>السعرات الحرارية</item>
+        <item>ارتفاع</item>
+        <item>Elev كسب</item>
+        <item>Elev الخسارة</item>
+        <item>السرعة</item>
+        <item>متوسط السرعة</item>
+        <item>إيقاع</item>
+        <item>حي كسب</item>
+        <item>الخطوات</item>
+        <item>إيقاع</item>
+        <item>لفات</item>
         <item>DPS</item>
-        <item>Stroke rate</item>
+        <item>معدل السكتة الدماغية</item>
         <item>Avg SPM</item>
-        <item>Pace</item>
-        <item>Avg pace</item>
-        <item>Distance</item>
+        <item>وتيرة</item>
+        <item>Avg وتيرة</item>
+        <item>المسافة</item>
         <item>TE</item>
-        <item>Vert speed</item>
-        <item>Avg speed</item>
-        <item>Max speed</item>
-        <item>Laps</item>
-        <item>Downhill</item>
-        <item>Total downhill</item>
-        <item>Descent</item>
-        <item>Strokes</item>
-        <item>L.L. time</item>
-        <item>L.L. pace</item>
-        <item>L.L. speed</item>
-        <item>L.L. HR</item>
-        <item>L.L. cadence</item>
-        <item>L.L. pace</item>
-        <item>Current freq</item>
-        <item>Total count</item>
-        <item>Avg freq</item>
-        <item>Groups</item>
-        <item>C.L. count</item>
-        <item>C.L. time</item>
-        <item>C.L. freq</item>
-        <item>C.L. time</item>
-        <item>C.L. dist.</item>
-        <item>C.L. pace</item>
-        <item>C.L. speed</item>
-        <item>C.L. HR</item>
-        <item>C.L. freq.</item>
-        <item>Slope</item>
-        <item>Calories</item>
+        <item>فير السرعة</item>
+        <item>متوسط السرعة</item>
+        <item>أقصى سرعة</item>
+        <item>لفات</item>
+        <item>انحدار</item>
+        <item>مجموع انحدار</item>
+        <item>النسب</item>
+        <item>السكتات الدماغية</item>
+        <item>L. L. الوقت</item>
+        <item>L. L. وتيرة</item>
+        <item>L. L. السرعة</item>
+        <item>L. L. الموارد البشرية</item>
+        <item>L. L. إيقاع</item>
+        <item>L. L. وتيرة</item>
+        <item>الحالي التكرار</item>
+        <item>إجمالي عدد</item>
+        <item>متوسط التكرار</item>
+        <item>المجموعات</item>
+        <item>C. L. العد</item>
+        <item>C. L. الوقت</item>
+        <item>C. L. التكرار</item>
+        <item>C. L. الوقت</item>
+        <item>C. L. dist.</item>
+        <item>C. L. وتيرة</item>
+        <item>C. L. السرعة</item>
+        <item>C. L. الموارد البشرية</item>
+        <item>C. L. التكرار.</item>
+        <item>المنحدر</item>
+        <item>السعرات الحرارية</item>
         <item>Avg. HR</item>
-        <item>Paddles of this set</item>
-        <item>Frequency</item>
-        <item>Total paddles</item>
-        <item>Paddle frequency</item>
-        <item>Pulling duration</item>
-        <item>Pushing duration</item>
-        <item>Avg. Freq.</item>
+        <item>المجاذيف من هذه المجموعة</item>
+        <item>تردد</item>
+        <item>مجموع المجاذيف</item>
+        <item>مجداف تردد</item>
+        <item>سحب مدة</item>
+        <item>دفع مدة</item>
+        <item>Avg. التكرار.</item>
     </string-array>
     <string-array name="sport_train_item">
-        <item>Remaining distance</item>
-        <item>Total distance</item>
-        <item>Total time</item>
-        <item>Remaining time</item>
-        <item>Distance</item>
-        <item>Remaining</item>
-        <item>Has rested</item>
+        <item>المسافة المتبقية</item>
+        <item>المسافة الإجمالية</item>
+        <item>إجمالي الوقت</item>
+        <item>الوقت المتبقي</item>
+        <item>المسافة</item>
+        <item>المتبقية</item>
+        <item>وقد استراح</item>
     </string-array>
 </resources>

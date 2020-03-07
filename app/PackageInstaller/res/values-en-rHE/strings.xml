@@ -1,73 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Package installer</string>
-    <string name="next">Next</string>
-    <string name="install">Install</string>
-    <string name="done">Done</string>
-    <string name="security_settings_desc">Allow this app to:</string>
+    <string name="app_name">חבילת המתקין</string>
+    <string name="next">הבא</string>
+    <string name="install">להתקין</string>
+    <string name="done">עשיתי</string>
+    <string name="security_settings_desc">לאפשר יישום זה:</string>
     <string name="cancel">取消</string>
     <string name="unknown">לא ידועה</string>
-    <string name="installing">Installing…</string>
-    <string name="install_done">App installed.</string>
-    <string name="install_confirm_question">Do you want to install this application? It will get access to:</string>
-    <string name="install_confirm_question_no_perms">Do you want to install this application? It does not require any special access.</string>
-    <string name="install_confirm_question_update">Do you want to install an update to this existing application? Your existing data will not be lost. The updated application will get access to:</string>
-    <string name="install_confirm_question_update_system">Do you want to install an update to this built-in application? Your existing data will not be lost. The updated application will get access to:</string>
-    <string name="install_confirm_question_update_no_perms">Do you want to install an update to this existing application? Your existing data will not be lost. It does not require any special access.</string>
-    <string name="install_confirm_question_update_system_no_perms">Do you want to install an update to this built-in application? Your existing data will not be lost. It does not require any special access.</string>
-    <string name="install_failed">App not installed.</string>
-    <string name="install_failed_invalid_apk">The package appears to be corrupt.</string>
-    <string name="install_failed_inconsistent_certificates">An existing package by the same name with a conflicting signature is already installed.</string>
-    <string name="install_failed_older_sdk">The package only works on newer versions of Android.</string>
-    <string name="install_failed_cpu_abi_incompatible">"This app isn't compatible with your tablet."</string>
-    <string name="install_failed_file_not_found">The package specified was deleted before installation could be completed.</string>
-    <string name="install_failed_verify_failed">The package did not pass verification and cannot be installed.</string>
-    <string name="install_failed_verify_timeout">A timeout occurred while trying to verify this package. Try to install it again later.</string>
-    <string name="install_failed_msg">"%1$s couldn't be installed on your tablet."</string>
-    <string name="launch">Open</string>
-    <string name="unknown_apps_dlg_title">Install blocked</string>
-    <string name="unknown_apps_dlg_text">For security, your tablet is set to block installation of apps obtained from unknown sources.</string>
-    <string name="unknown_apps_admin_dlg_text">"Your administrator doesn't allow installation of apps obtained from unknown sources."</string>
+    <string name="installing">התקנת…</string>
+    <string name="install_done">התקין את האפליקציה.</string>
+    <string name="install_confirm_question">אתה רוצה להתקין יישום זה? זה יקבל גישה ל:</string>
+    <string name="install_confirm_question_no_perms">אתה רוצה להתקין יישום זה? זה לא דורש שום גישה מיוחדת.</string>
+    <string name="install_confirm_question_update">האם ברצונך להתקין עדכון זה יישומים קיימים? הנתונים הקיימים שלך לא יאבדו. מעודכן יישום תקבל גישה ל:</string>
+    <string name="install_confirm_question_update_system">האם ברצונך להתקין עדכון זה יישום מובנה? הנתונים הקיימים שלך לא יאבדו. מעודכן יישום תקבל גישה ל:</string>
+    <string name="install_confirm_question_update_no_perms">האם ברצונך להתקין עדכון זה יישומים קיימים? הנתונים הקיימים שלך לא יאבדו. זה לא דורש שום גישה מיוחדת.</string>
+    <string name="install_confirm_question_update_system_no_perms">האם ברצונך להתקין עדכון זה יישום מובנה? הנתונים הקיימים שלך לא יאבדו. זה לא דורש שום גישה מיוחדת.</string>
+    <string name="install_failed">היישום לא מותקן.</string>
+    <string name="install_failed_invalid_apk">החבילה נראה לי מושחת.</string>
+    <string name="install_failed_inconsistent_certificates">קיימת חבילה באותו שם עם סותרות החתימה הוא כבר מותקן.</string>
+    <string name="install_failed_older_sdk">החבילה עובד רק על גרסאות חדשות יותר של אנדרואיד.</string>
+    <string name="install_failed_cpu_abi_incompatible">"יישום זה אינו תואם את הלוח."</string>
+    <string name="install_failed_file_not_found">החבילה שצוין נמחק לפני ההתקנה תסתיים.</string>
+    <string name="install_failed_verify_failed">החבילה לא עבר אימות יכול להיות מותקן.</string>
+    <string name="install_failed_verify_timeout">זמן קצוב אירע בעת מנסה לאמת את החבילה. תנסה להתקין אותו שוב מאוחר יותר.</string>
+    <string name="install_failed_msg">"%1$s לא יכול להיות מותקן על מחשב הלוח שלך."</string>
+    <string name="launch">פתח</string>
+    <string name="unknown_apps_dlg_title">להתקין חסם</string>
+    <string name="unknown_apps_dlg_text">עבור אבטחה, מחשב הלוח שלך מוגדר לחסום התקנה של יישומים שהתקבלו ממקורות לא ידועים.</string>
+    <string name="unknown_apps_admin_dlg_text">"מנהל המערכת שלך לא לאפשר התקנה של יישומים שהתקבלו ממקורות לא ידועים."</string>
     <string name="ok">אישור</string>
-    <string name="settings">Settings</string>
-    <string name="allow_source_dlg_title">New source for apps</string>
-    <string name="allow_source_dlg_text">"%1$s wants to install other apps.
+    <string name="settings">הגדרות</string>
+    <string name="allow_source_dlg_title">מקור חדש עבור אפליקציות</string>
+    <string name="allow_source_dlg_text">"%1$s רוצה להתקין אפליקציות אחרות.
 
-Allow this now and in the future?"</string>
-    <string name="manage_applications">Manage apps</string>
-    <string name="dlg_app_replacement_title">Replace app?</string>
-    <string name="dlg_app_replacement_statement">"The app you\'re installing will replace another app.
+לאפשר את זה עכשיו ובעתיד?"</string>
+    <string name="manage_applications">ניהול אפליקציות</string>
+    <string name="dlg_app_replacement_title">להחליף את האפליקציה?</string>
+    <string name="dlg_app_replacement_statement">"האפליקציה אתה מתקין יחליף אפליקציה אחרת.
 
-All your previous user data will be saved."</string>
-    <string name="dlg_sys_app_replacement_statement">"This is a system app.
+כל הקודם נתוני המשתמש יישמרו."</string>
+    <string name="dlg_sys_app_replacement_statement">"זו מערכת היישום.
 
-All your previous user data will be saved."</string>
-    <string name="out_of_space_dlg_title">Out of space</string>
-    <string name="out_of_space_dlg_text">"%1$s couldn't be installed. Free up some space and try again."</string>
+כל הקודם נתוני המשתמש יישמרו."</string>
+    <string name="out_of_space_dlg_title">מתוך החלל</string>
+    <string name="out_of_space_dlg_text">"%1$s לא יכול להיות מותקן. לפנות קצת מקום ולנסות שוב."</string>
     <string name="dlg_ok">אישור</string>
-    <string name="app_not_found_dlg_title">App not found</string>
-    <string name="app_not_found_dlg_text">"The app wasn't found in the list of installed apps."</string>
-    <string name="uninstall_application_title">Uninstall app</string>
-    <string name="uninstall_update_title">Uninstall update</string>
-    <string name="uninstall_activity_text">%1$s is part of the following app:</string>
-    <string name="uninstall_application_text">Do you want to uninstall this app?</string>
-    <string name="uninstall_application_text_all_users">Do you want to uninstall this app for <b>all</b> users? The application and its data will be removed from <b>all</b> users on the device.</string>
-    <string name="uninstall_application_text_user">Do you want to uninstall this app for the user %1$s?</string>
-    <string name="uninstall_update_text">Do you want to replace this app with the factory version?</string>
-    <string name="uninstalling">Uninstalling…</string>
-    <string name="uninstall_done">Uninstall finished.</string>
-    <string name="uninstall_failed">Uninstall unsuccessful.</string>
-    <string name="uninstall_failed_device_policy_manager">"Can't uninstall because this package is an active device administrator."</string>
-    <string name="uninstall_blocked_profile_owner">"This app is needed for your %1$s profile and can't be uninstalled."</string>
-    <string name="uninstall_blocked_device_owner">"This app is required by your device administrator and can't be uninstalled."</string>
-    <string name="manage_device_administrators">Manage device administrators</string>
-    <string name="uninstall_failed_msg">"%1$s couldn't be uninstalled."</string>
-    <string name="Parse_error_dlg_title">Parse error</string>
-    <string name="Parse_error_dlg_text">There was a problem parsing the package.</string>
-    <string name="newPerms">New</string>
-    <string name="allPerms">All</string>
-    <string name="privacyPerms">Privacy</string>
+    <string name="app_not_found_dlg_title">האפליקציה לא מצאתי</string>
+    <string name="app_not_found_dlg_text">"האפליקציה לא נמצא ברשימה של יישומים מותקנים."</string>
+    <string name="uninstall_application_title">הסרת התקנה של אפליקציה</string>
+    <string name="uninstall_update_title">הסר את ההתקנה של עדכון</string>
+    <string name="uninstall_activity_text">%1$s הוא חלק את האפליקציה הבאה:</string>
+    <string name="uninstall_application_text">אתה רוצה להסיר את היישום הזה?</string>
+    <string name="uninstall_application_text_all_users">אתה רוצה להסיר יישום זה עבור <b>כל</b> משתמשים? היישום והנתונים שלה יוסר <b>כל</b> משתמשים במכשיר.</string>
+    <string name="uninstall_application_text_user">אתה רוצה להסיר יישום זה עבור המשתמש %1$s?</string>
+    <string name="uninstall_update_text">אתה רוצה להחליף את היישום הזה עם מפעל גרסה?</string>
+    <string name="uninstalling">הסרת…</string>
+    <string name="uninstall_done">הסרת התקנה גמור.</string>
+    <string name="uninstall_failed">הסרת התקנה לא מוצלחת.</string>
+    <string name="uninstall_failed_device_policy_manager">"לא יכול להסיר את ההתקנה כי חבילה זו היא פעילה מנהל התקן."</string>
+    <string name="uninstall_blocked_profile_owner">"יישום זה הוא לצורך את %1$s הפרופיל. לא ניתן להסיר."</string>
+    <string name="uninstall_blocked_device_owner">"יישום זה נדרש על-ידי המכשיר שלך, מנהל לא ניתן להסיר."</string>
+    <string name="manage_device_administrators">ניהול מנהלי התקן</string>
+    <string name="uninstall_failed_msg">"%1$s לא יכול להיות מוסר."</string>
+    <string name="Parse_error_dlg_title">שגיאת ניתוח</string>
+    <string name="Parse_error_dlg_text">אירעה בעיה בניתוח החבילה.</string>
+    <string name="newPerms">חדש</string>
+    <string name="allPerms">כל</string>
+    <string name="privacyPerms">פרטיות</string>
     <string name="devicePerms">Device Access</string>
-    <string name="no_new_perms">This update requires no new permissions.</string>
-    <string name="grant_confirm_question">Do you want to grant the following permissions? It will get access to:</string>
+    <string name="no_new_perms">עדכון זה לא דורש הרשאות חדשות.</string>
+    <string name="grant_confirm_question">אתה רוצה להעניק את ההרשאות הבאות? זה יקבל גישה ל:</string>
 </resources>

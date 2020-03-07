@@ -2,7 +2,7 @@
 <resources>
     <string name="new_message_down_fresh">Nachrichtenliste säubern</string>
     <string name="sport_title">Exercise</string>
-    <string name="data_check_log">" +------------------------+▂▃▄▅▆▇█▉  Weather data verification error!     %1$s▉█▇▆▅▄▃▂+------------------------+"</string>
+    <string name="data_check_log">" +------------------------+▂▃▄▅▆▇█▉  Fehler bei der Wetter-Datenüberprüfung!     %1$s▉█▇▆▅▄▃▂+------------------------+"</string>
     <string name="data_checkfail_json">JSON-Formatfehler</string>
     <string name="generic_notification_more">More (%s)</string>
     <string name="notification_unread_num">Unread (%s)</string>
@@ -51,18 +51,18 @@
     <string name="quick_settings_date_chinese">dd/MM/yyyy</string>
     <string name="quick_settings_date_format">1/31/1900</string>
     <string name="quick_settings_date_yeareve">"Chinese New Year's Eve"</string>
-    <string name="seconed_confirm_nodisturb">"DND mode is on.
-Can\'t receive notifications."</string>
+    <string name="seconed_confirm_nodisturb">"DND-Modus ist aktiviert.
+Benachrichtigungen werden nicht empfangen."</string>
     <string name="quick_settings_battery_charging_full">Fully charged</string>
     <string name="quick_settings_battery_is_charging">Wird aufgeladen</string>
     <string name="quick_settings_battery_hasnot_charged">No charging history</string>
     <string name="quick_settings_battery_charging_intervalDay">Last charged %1$dd %2$dh ago</string>
-    <string name="quick_settings_battery_charging_intervalDay_lessHour">"Last charged
-%dd ago"</string>
-    <string name="quick_settings_battery_charging_intervalDayLess">"Last charged
-%dh ago"</string>
-    <string name="quick_settings_battery_charging_intervalLessHour">"Last charged
-less than 1h ago"</string>
+    <string name="quick_settings_battery_charging_intervalDay_lessHour">"Zuletzt vor
+%d Tagen geladen"</string>
+    <string name="quick_settings_battery_charging_intervalDayLess">"Zuletzt vor
+%dh geladen"</string>
+    <string name="quick_settings_battery_charging_intervalLessHour">"Zuletzt vor weniger
+als 1h geladen"</string>
     <string name="quick_settings_battery_sportString">You can keep running.</string>
     <string name="quick_settings_battery_sporttime_hour_unit">h</string>
     <string name="quick_settings_battery_sporttime_KM_unit">km</string>
@@ -125,7 +125,7 @@ less than 1h ago"</string>
     <string name="notification_wechat_red_envelop_title">WeChat message</string>
     <string name="notification_alipay_red_envelop_title">Alipay Nachricht</string>
     <string name="notification_qq_red_envelop_title">QQ message</string>
-    <string name="notification_red_envelop_content">%s message, open it on your phone to pick it up!</string>
+    <string name="notification_red_envelop_content">%s Nachricht, öffnen Sie diese auf Ihrem Telefon um sie abzuholen!</string>
     <string name="notification_red_envelop_default_content">Quickly pick up your phone!</string>
     <string name="notification_alipay_default_group">Group chat</string>
     <string name="notification_ios_envelop_content">QQ message, open the phone to pick it up!</string>

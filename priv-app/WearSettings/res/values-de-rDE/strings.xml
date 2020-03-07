@@ -371,7 +371,7 @@
     <string name="blt_bound_stat_none">Available</string>
     <string name="blt_default_name">Unnamed</string>
     <string name="blt_hint_disconnect">"%1s
-Disconnect?"</string>
+Getrennt?"</string>
     <string name="blt_hint_connect">"%1s
 Verbinden?"</string>
     <string name="blt_hint_connect_fail">Connection failed, please re-connect</string>
@@ -388,7 +388,7 @@ Verbinden?"</string>
     <string name="bluetooth_connecting">Verbinden…</string>
     <string name="bluetooth_disconnecting">Disconnecting...</string>
     <string name="blt_hint_paring">"%1s
- to pair?"</string>
+ zu koppeln?"</string>
     <string name="blt_paring_fail_hint">"Make sure device power on
 and is nearby"</string>
     <string name="blt_hint_ignore_device">Ignore</string>
@@ -461,10 +461,10 @@ Jahr"</string>
 cm"</string>
     <string name="weight_unit">"Gewicht 
 kg"</string>
-    <string name="reset_factory_hint">"Once the watch is reset to factory default settings, 
-all data in the watch will be deleted, and the watch will be disconnected from your mobile."</string>
-    <string name="reset_factory_hint_cn">"Once the watch is reset to factory default settings, all data in the watch will be deleted, and the watch will be disconnected from your mobile. 
- The current activated transportation card can still be used after the watch is bound with your mobile again."</string>
+    <string name="reset_factory_hint">"Sobald die Uhr auf die Werkseinstellungen zurückgesetzt wurde, werden 
+alle Daten der Uhr gelöscht, und die Uhr wird von Ihrem Handy getrennt."</string>
+    <string name="reset_factory_hint_cn">"Sobald die Uhr auf die Werkseinstellungen zurückgesetzt wurde, werden alle Daten in der Uhr gelöscht, und die Uhr wird von Ihrem Handy getrennt. 
+ Die aktuell aktivierte Transportkarte kann immer noch verwendet werden, nachdem die Uhr wieder mit Ihrem Handy verbunden ist."</string>
     <string name="reset_factory_yes">Reset</string>
     <string name="reset_factory_no">Abbrechen</string>
     <string name="reset_factory_title">Factory Reset</string>
@@ -485,8 +485,8 @@ all data in the watch will be deleted, and the watch will be disconnected from y
  1. Cannot be Removed from the Watch, Occupying Chip Space;  2. Cannot Use the Payment Function in the Watch;  3. Cannot Be Bound by Other Devices; For Payment Security, Please First Remove the UnionPay Card from Amazfit App."</string>
     <string name="reset_factory_bank_yes">Reset auf Werkseinstellungen fortsetzen</string>
     <string name="reset_factory_bank_no">Abbrechen</string>
-    <string name="reset_factory_bank_msg_again">"Once the watch is reset to factory default settings, all data in the watch will be deleted, and the watch will be disconnected from your mobile. 
- The current activated transportation card can still be used after the watch is bound with your mobile again."</string>
+    <string name="reset_factory_bank_msg_again">"Sobald die Uhr auf die Werkseinstellungen zurückgesetzt wurde, werden alle Daten in der Uhr gelöscht, und die Uhr wird von Ihrem Handy getrennt. 
+ Die aktuell aktivierte Transportkarte kann immer noch verwendet werden, nachdem die Uhr wieder mit Ihrem Handy verbunden ist."</string>
     <string name="lockpassword_confirm_your_pattern_header">Confirm Your Pattern</string>
     <string name="lockpattern_need_to_unlock">Draw Unlocking Pattern</string>
     <string name="lockpattern_need_to_unlock_footer"></string>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">FindPhone</string>
-    <string name="phone_finding">Finding phone...</string>
-    <string name="phone_found">Phone found</string>
-    <string name="phone_found_android_msg">Click \"OK\" in the AmazfitApp to end the ringing.</string>
-    <string name="phone_found_ios_msg">Click confirm in the promote box of Amazfit Watch App to stop the ring</string>
-    <string name="phone_not_connected">Phone not connected</string>
-    <string name="phone_not_found">Fail to find, please try again</string>
+    <string name="phone_finding">Trobar telèfon...</string>
+    <string name="phone_found">Telèfon trobat</string>
+    <string name="phone_found_android_msg">Feu clic a \"OK\" en la AmazfitApp per finalitzar la trucada.</string>
+    <string name="phone_found_ios_msg">Feu clic a confirmar en la promoció quadre de Amazfit Veure App per aturar l\'anell</string>
+    <string name="phone_not_connected">Telèfon no està connectat</string>
+    <string name="phone_not_found">No trobeu, si us plau provi una altra vegada</string>
     <string name="title">Cerca el telèfon</string>
-    <string name="title_button">Start searching</string>
+    <string name="title_button">Comença la cerca</string>
     <string name="picker_default_positive_text">确定</string>
     <string name="picker_default_negative_text">取消</string>
-    <string name="phone_not_connect">Amazfit Watch App not connected, fail to find phone</string>
+    <string name="phone_not_connect">Amazfit Veure l\'Aplicació no està connectat, no aconsegueix trobar telèfon</string>
     <string name="ok">确定</string>
     <string name="average_text">Mitjana</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
@@ -21,12 +21,12 @@
     <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">Preferències</string>
     <string name="sport_music_settings">Música d\'esports</string>
-    <string name="widget_currentstep_title">Daily Overview</string>
+    <string name="widget_currentstep_title">Diari Visió General</string>
     <string name="widget_currentstep_activities">Activitats</string>
     <string name="widget_currentstep_sleep_hour">h</string>
     <string name="widget_currentstep_sleep_min">min</string>
     <string name="widget_currentstep_sleep_title">Dormir</string>
     <string name="widget_currentstep_sleep_no">Sense dades del son</string>
-    <string name="widget_currentstep_activity_no">No activity today?</string>
+    <string name="widget_currentstep_activity_no">Cap activitat d\'avui?</string>
     <string name="locale_title">Triar idioma</string>
 </resources>

@@ -50,7 +50,7 @@ Verwenden Sie nur geeignete Ladegeräte."</string>
     <string name="always_use_device">Use by default for this USB device</string>
     <string name="always_use_accessory">Use by default for this USB accessory</string>
     <string name="usb_debugging_title">USB-Debugging zulassen?</string>
-    <string name="usb_debugging_message">"The computer\'s RSA key fingerprint is:
+    <string name="usb_debugging_message">"Der RSA-key-fingerprint des Computers ist:
 %1$s"</string>
     <string name="usb_debugging_always">Always allow from this computer</string>
     <string name="compat_mode_on">Zoom to fill screen</string>
@@ -146,7 +146,7 @@ Verwenden Sie nur geeignete Ladegeräte."</string>
     <string name="accessibility_ringer_silent">Ringer silent.</string>
     <string name="accessibility_casting">@string/quick_settings_casting</string>
     <string name="accessibility_recents_item_will_be_dismissed">Dismiss %s.</string>
-    <string name="accessibility_recents_item_dismissed">%s dismissed.</string>
+    <string name="accessibility_recents_item_dismissed">%s verworfen.</string>
     <string name="accessibility_recents_item_launched">Starting %s.</string>
     <string name="accessibility_notification_dismissed">Notification dismissed.</string>
     <string name="accessibility_desc_notification_shade">Notification shade.</string>
@@ -203,7 +203,7 @@ Das erneute Einschalten kann zu Gebühren von Ihrem Mobilfunkanbieter führen."<
     <string name="accessibility_location_active">Location requests active</string>
     <string name="accessibility_clear_all">Alle Benachrichtigungen schließen</string>
     <string name="status_bar_notification_inspect_item_title">Notification settings</string>
-    <string name="status_bar_notification_app_settings_title">%s settings</string>
+    <string name="status_bar_notification_app_settings_title">%s-Einstellungen</string>
     <string name="accessibility_rotation_lock_off">Screen will rotate automatically.</string>
     <string name="accessibility_rotation_lock_on_landscape">Screen is locked in landscape orientation.</string>
     <string name="accessibility_rotation_lock_on_portrait">Screen is locked in portrait orientation.</string>
@@ -262,8 +262,8 @@ Das erneute Einschalten kann zu Gebühren von Ihrem Mobilfunkanbieter führen."<
     <string name="quick_settings_cellular_detail_remaining_data">Remaining data</string>
     <string name="quick_settings_cellular_detail_over_limit">Over limit</string>
     <string name="quick_settings_cellular_detail_data_used">%s verbraucht</string>
-    <string name="quick_settings_cellular_detail_data_limit">%s limit</string>
-    <string name="quick_settings_cellular_detail_data_warning">%s warning</string>
+    <string name="quick_settings_cellular_detail_data_limit">%s Limit</string>
+    <string name="quick_settings_cellular_detail_data_warning">%s Warnung</string>
     <string name="recents_empty_message">Your recent screens appear here</string>
     <string name="recents_app_info_button_label">Anwendungs-Info</string>
     <string name="recents_lock_to_app_button_label">screen pinning</string>
@@ -318,7 +318,7 @@ Jeder Benutzer kann Apps für alle anderen Benutzer aktualisieren."</string>
     <string name="battery_saver_notification_text">Reduces performance and background data</string>
     <string name="battery_saver_notification_action_text">Turn off battery saver</string>
     <string name="notification_hidden_text">Contents hidden</string>
-    <string name="media_projection_dialog_text">"%s will start capturing everything that's displayed on your screen."</string>
+    <string name="media_projection_dialog_text">"%s wird alles erfassen, das auf Ihrem Bildschirm angezeigt wird."</string>
     <string name="media_projection_remember_text">"Don't show again"</string>
     <string name="clear_all_notifications_text">Alles schließen</string>
     <string name="media_projection_action_text">Start now</string>
