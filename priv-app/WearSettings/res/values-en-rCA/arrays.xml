@@ -12,18 +12,18 @@
     <string-array name="lab_item_android_settings">
         <item>[prim]Original arranjament del sistema</item>
         <item>[sum]Configuració del Android</item>
-        <item>[pkg]pacte.android.configuració</item>
+        <item>[pkg]com.android.settings</item>
     </string-array>
     <string-array name="lab_item_logger">
         <item>[prim]WearLogger</item>
         <item>[sum]Un clic amb el rastreig de registre ^_^</item>
-        <item>[pkg]pacte.huami.veure.wearlogger</item>
-        <item>[clazz]pacte.huami.veure.wearlogger.AllLogActivityLab</item>
+        <item>[pkg]com.huami.watch.wearlogger</item>
+        <item>[clazz]com.huami.watch.wearlogger.AllLogActivityLab</item>
     </string-array>
     <string-array name="lab_item_selftest">
         <item>[prim]aquest</item>
         <item>[sum]començar aquest mateix</item>
-        <item>[action]pacte.huami.veure.aquest.INICI</item>
+        <item>[action]com.huami.watch.selftest.START</item>
     </string-array>
     <string-array name="lab_item_open_applist">
         <item>[prim]Llançador Applist</item>
@@ -43,14 +43,14 @@
     <string-array name="lab_item_long_sitting_timer_plus">
         <item>[prim]Temps de recordatori sedentaris</item>
         <item>[sum]Establir el temps de sedentaris recordatori (en min)</item>
-        <item>[pkg]pacte.huami.mòbil.watchsettings</item>
-        <item>[clazz]pacte.huami.moblie.watchsettings.les accions.lab.labUI.LongSittingTimeActivity</item>
+        <item>[pkg]com.huami.mobile.watchsettings</item>
+        <item>[clazz]com.huami.moblie.watchsettings.actions.lab.labUI.LongSittingTimeActivity</item>
     </string-array>
     <string-array name="lab_item_wifi_signal_intensity">
         <item>[prim]força de Senyal</item>
         <item>[sum]Senyal de prova</item>
-        <item>[pkg]pacte.huami.mòbil.watchsettings</item>
-        <item>[clazz]pacte.huami.moblie.watchsettings.les accions.lab.labUI.WifiTestActivity</item>
+        <item>[pkg]com.huami.mobile.watchsettings</item>
+        <item>[clazz]com.huami.moblie.watchsettings.actions.lab.labUI.WifiTestActivity</item>
     </string-array>
     <string-array name="lab_item_pointer_location">
         <item>[prim]punter ubicació</item>
