@@ -55,7 +55,7 @@
     <string name="remind_target_calorie_title">Sasniegts kaloriju mērķis</string>
     <string name="remind_target_time_title">Sasniegts laika mērķis</string>
     <string name="remind_target_calorie_title_format">kcal</string>
-    <string name="remind_target_time_h_unit">h</string>
+    <string name="remind_target_time_h_unit">st</string>
     <string name="remind_target_time_m_unit">m</string>
     <string name="remind_target_time_default_value">00</string>
     <string name="no_altitude_hint">"Nevar atrast augstuma datus"</string>
@@ -89,7 +89,7 @@
     <string name="detail_route_total_dis">Kopējais attālums</string>
     <string name="detail_route_detail_lap_title">Apļa informācija</string>
     <string name="detail_route_detail_manual_lap_title">Manuāli apļi</string>
-    <string name="detail_route_detail_auto_lap_title">Automātiski apļi</string>
+    <string name="detail_route_detail_auto_lap_title">Automāt. apļi</string>
     <string name="detail_lap_num">Aplis</string>
     <string name="detail_lap_serial_number">Sērijas numurs</string>
     <string name="detail_lap_time">Laiks</string>
@@ -114,7 +114,7 @@
     <string name="picker_title_target_calorie">Kalorijas(kcal)</string>
     <string name="picker_title_target_te">TE mērķis</string>
     <string name="picker_title_target_heart_rate">Pulss (Sit/Min)</string>
-    <string name="picker_title_auto_lap">Auto apļi(%1$s)</string>
+    <string name="picker_title_auto_lap">Automāt. apļi(%1$s)</string>
     <string name="picker_title_swim_length">Baseina lielums(%1$s)</string>
     <string name="picker_title_target_trips">Mērķa apļi</string>
     <string name="picker_title_fix_dis">Kalibrēt(%1$s)</string>
@@ -134,9 +134,9 @@
     <string name="settings_sport_items">Sporta dati</string>
     <string name="settings_sport_3d_data">3D dati</string>
     <string name="settings_sport_real_graph">Statistika</string>
-    <string name="settings_sport_auto_section">Automātiski apļi</string>
+    <string name="settings_sport_auto_section">Automāt. apļi</string>
     <string name="settings_sport_lap">Apļi</string>
-    <string name="settings_sport_lap_auto">Auto apļi</string>
+    <string name="settings_sport_lap_auto">Automāt. apļi</string>
     <string name="settings_sport_lap_auto_remind">Auto apļa paziņojums</string>
     <string name="settings_sport_target_TE">TE mērķi</string>
     <string name="settings_sport_swim_length">Baseina lielums</string>
@@ -148,8 +148,8 @@
     <string name="settings_sport_auto_speed_title">Pauze ātrumam</string>
     <string name="settings_content_stand_still">Stāvot uz vietas</string>
     <string name="settings_sport_bg_type">Fona krāsa</string>
-    <string name="settings_sport_bg_type_normal">Melns</string>
-    <string name="settings_sport_bg_type_white">Balts</string>
+    <string name="settings_sport_bg_type_normal">Melna</string>
+    <string name="settings_sport_bg_type_white">Balta</string>
     <string name="setting_on">Ieslēgts</string>
     <string name="setting_off">Izslēgts</string>
     <string name="settings_item_title_target_calorie_remind">Kaloriju mērķis</string>
@@ -198,7 +198,7 @@
     <string name="history_no_sport_tips">"Nav neviena treniņa,
 sāciet tūlīt."</string>
     <string name="history_start_sport_tips">Sāciet savu treniņu!</string>
-    <string name="sport_motion_state">Vingrinājuma stāvoklis</string>
+    <string name="sport_motion_state">Treniņš</string>
     <string name="sport_motion_state_prediction">Rezultātu prognoze</string>
     <string name="sport_motion_state_prediction_tips">Tagad to nevar paredzēt. Jums ir jāvalkā pulkstenis un jāskrien vairāk nekā 3 km.</string>
     <string name="sport_motion_state_prediction_5_km">5 km</string>
@@ -313,7 +313,7 @@ sāciet tūlīt."</string>
     <string name="sport_child_running">Skriešanat</string>
     <string name="sport_month_settings">Iestatījumi</string>
     <string name="sport_month_target">Mēneša aktivitātes mērķis</string>
-    <string name="sport_month_sport_title">Atlasiet treniņu</string>
+    <string name="sport_month_sport_title">Izvēlies treniņu</string>
     <string name="start_mix_sport">Sāciet daudzčīņas treniņūs</string>
     <string name="start_single_sport">Sākt treniņu</string>
     <string name="pause_sport">Apturēt treniņu</string>
@@ -324,7 +324,7 @@ sāciet tūlīt."</string>
     <string name="swim_trips">Apļi</string>
     <string name="target_swim_trips">Mērķa apļi</string>
     <string name="swim_total_trips">Kopējais apļu skaits</string>
-    <string name="swim_stroke">mājiens</string>
+    <string name="swim_stroke">Mājiens</string>
     <string name="swim_stroke_times">Vēzieni</string>
     <string name="swim_avg_dps">Vid. DPS</string>
     <string name="swim_swolf">SWOLF</string>
@@ -335,19 +335,19 @@ sāciet tūlīt."</string>
     <string name="swim_pace">Temps</string>
     <string name="swim_pace_unit">/100 m</string>
     <string name="swim_pace_unit_imperial">/100 ft</string>
-    <string name="swim_trips_unit">apļi (%1$d m/aplī)</string>
-    <string name="swim_trips_unit_yd">apļi (%1$d yd/aplī)</string>
+    <string name="swim_trips_unit">Apļi (%1$d m/aplī)</string>
+    <string name="swim_trips_unit_yd">Apļi (%1$d yd/aplī)</string>
     <string name="heart_region_title">Pulsa zona</string>
     <string name="heart_region_anaerobic＿limit">VO₂ max</string>
     <string name="heart_region_endurance_enhancement">Anaerobā</string>
     <string name="heart_region_heart_and_lung_enhancement">Kardio</string>
     <string name="heart_region_fat_burning">Tauku sadedzināšana</string>
     <string name="heart_region_warm_up_and_relax">Pulss</string>
-    <string name="sport_te_title">Treniņa efekts (TE)</string>
+    <string name="sport_te_title">Treniņa Efekts (TE)</string>
     <string name="sport_te_desc"><Data>\"Šī treniņa efekts ir  &lt;font color=#FFFF00&gt;moderate&lt;/font&gt;, kas uztur kardiorespiratoro formu.\"</Data></string>
     <string name="last_kilo_meters_times">Pēdējā km laiks</string>
-    <string name="last_mi_times">Pēdējā mi laiks</string>
-    <string name="last_kilo_meters_times_with_param">Pēdējā %1$s kilometra laiks</string>
+    <string name="last_mi_times">Pēdējās jūdzes laiks</string>
+    <string name="last_kilo_meters_times_with_param">Pēdējā %1$s km laiks</string>
     <string name="last_mi_times_with_param">Pēdējās %1$s  jūdzes laiks</string>
     <string name="running_total_distance_desc">Kopējais attālums</string>
     <string name="setting_sport_title_exteed_region_tips">Paziņot, kad atrodas ārpus zonas %1$s</string>
@@ -543,16 +543,16 @@ sāciet tūlīt."</string>
     <string name="huanghe_pause_continue_title">Treniņu norise</string>
     <string name="virtual_rabbit_back_distance">Kavējuma attālums</string>
     <string name="experience_title">Iestatiet personisko informāciju, jo pretējā gadījumā datiem būs liela novirze</string>
-    <string name="recovery_time_hour">h</string>
-    <string name="sport_vo2_max">VO₂ maks</string>
+    <string name="recovery_time_hour">st</string>
+    <string name="sport_vo2_max">VO₂ max</string>
     <string name="sport_ability">Fitnesa līmenis</string>
     <string name="sport_train_load">Treniņa slodze</string>
     <string name="sport_train_load_widget">Treniņa slodze</string>
     <string name="first_beat_sport_status">Ķermeņa stāvoklis</string>
-    <string name="currnet_daily_performance_staus">Pašreizējais ķermeņa stāvoklis</string>
+    <string name="currnet_daily_performance_staus">Pašr. ķermeņa stāv.</string>
     <string name="sport_ability_up">Uzlabojas</string>
     <string name="sport_ability_down">Pasliktinās</string>
-    <string name="time_unit_hour">h</string>
+    <string name="time_unit_hour">st</string>
     <string name="train_load_medium">Vidējs</string>
     <string name="train_load_near_seven_days">Pēdējās 7 dienas</string>
     <string name="train_load_suggess_status_no_record">"Mēs novērtēsim jūsu treniņu slodzi no vingrinājumiem, kas reģistrēti pēdējo 7 dienu laikā"</string>
@@ -912,7 +912,7 @@ lai sasniegtu pilnīgu atjaunošanos."</string>
     <string name="settings_item_value_target_distance">%.2fкм</string>
     <string name="settings_item_value_pace">Paziņot, kad lēnāks par %1$s</string>
     <string name="title_medal_list_header">Sasniegumi</string>
-    <string name="time_picker_hour">h</string>
+    <string name="time_picker_hour">st</string>
     <string name="time_picker_minute"> m</string>
     <string name="distance_picker_km">km</string>
     <string name="sport_notification_view_detail">Atvērt detaļas</string>
@@ -1034,7 +1034,7 @@ lai sasniegtu pilnīgu atjaunošanos."</string>
     <string name="tennic_wear_hand_guide">\"Valkājat pulksteni uz raketes rokas</string>
     <string name="sport_time_seconds">s</string>
     <string name="sport_type_num_text">%1$d aktivitāšu veidi</string>
-    <string name="sport_type_runing">Skriešana/Iešana</string>
+    <string name="sport_type_runing">Skriešana</string>
     <string name="sport_type_riding">Riteņbraukšana</string>
     <string name="sport_type_indoor">Iekštelpās</string>
     <string name="sport_type_snow">Sniegs</string>
@@ -1289,7 +1289,7 @@ To var nokopēt datorā, izmantojot USB."</string>
     <string name="sport_music_settings">Mūzika</string>
     <string name="widget_currentstep_title">Pārskats</string>
     <string name="widget_currentstep_activities">"Šodienas aktivitātes"</string>
-    <string name="widget_currentstep_sleep_hour">h</string>
+    <string name="widget_currentstep_sleep_hour">st</string>
     <string name="widget_currentstep_sleep_min">m</string>
     <string name="widget_currentstep_sleep_title">Pēdējais miegs</string>
     <string name="widget_currentstep_sleep_no">Nav miega datu</string>

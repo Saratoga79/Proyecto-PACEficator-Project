@@ -135,14 +135,14 @@
     <string name="locale_title">Valoda</string>
     <string name="ring_turn_off">Izslēgt</string>
     <string name="ring_hint_turn_off">Izslēgts</string>
-    <string name="alarm_bee">Bite</string>
+    <string name="alarm_bee">Bee</string>
     <string name="alarm_bee_bee">Bee-bee</string>
     <string name="alarm_buzzer">Buzzer</string>
     <string name="alarm_orbit">Orbit</string>
     <string name="alarm_rooster">Rooster</string>
     <string name="alarm_timer">Taimeris</string>
     <string name="alarm_nudge">Nudge</string>
-    <string name="alarm_rise">Nudge</string>
+    <string name="alarm_rise">Rise</string>
     <string name="alarm_drip">Piliens</string>
     <string name="alarm_awaken">Awaken</string>
     <string name="alarm_bounce">Bounce</string>
@@ -168,14 +168,14 @@
     <string name="shut_down">Izslēgt</string>
     <string name="reboot">Atsāknēšana</string>
     <string name="about">Par</string>
-    <string name="wear_habit">Nēsāšanas paradums</string>
+    <string name="wear_habit">Wear Habit</string>
     <string name="bugreport">Atsauksmes</string>
     <string name="applications">Lietotnes</string>
     <string name="long_sit">Sēdēšanas brīdinājums</string>
     <string name="datacenter">Dienas pārskats</string>
     <string name="security">Drošība</string>
-    <string name="preference">Izvēĺe</string>
-    <string name="preference_title">Izvēĺe</string>
+    <string name="preference">Izvēlne</string>
+    <string name="preference_title">Izvēlne</string>
     <string name="light_change">Spilgtums</string>
     <string name="wrist_up">Plaukstas locītavas pacelšana</string>
     <string name="double_click_wakeup">Veiciet dubultskārienu, lai atbloķētu</string>
@@ -187,10 +187,10 @@
     <string name="personal_info">Personiskā informācija</string>
     <string name="time_zone_clock">Laika iestatījumi</string>
     <string name="setting_time_format">Laika formāts</string>
-    <string name="connect">Savienojums</string>
+    <string name="connect">Savienojumi</string>
     <string name="common">Vispārīgi</string>
     <string name="device">Ierīce</string>
-    <string name="units_set">vienības iestatīšana</string>
+    <string name="units_set">Vienību iest.</string>
     <string name="auto_airplane">Plānots</string>
     <string name="wifi_upload">Dati</string>
     <string name="wifi_upload_title">Datu sinhronizācija</string>
@@ -237,13 +237,13 @@
     <string name="lock_screen_auto">Regulāri izslēdziet vājā apgaismojuma režīmu</string>
     <string name="lock_screen_open">Ieslēgts</string>
     <string name="lock_screen_close">Izslēgts</string>
-    <string name="vibration">vibrācija</string>
+    <string name="vibration">Vibro</string>
     <string name="ring_vibration">Zvana atgādinājuma vibrācija</string>
     <string name="natification_vibration">Jauna paziņojumu vibrācija</string>
     <string name="alarm_vibration">Laika atgādinājuma vibrācija</string>
     <string name="timing_reminder_ring">Trauksmes signāls</string>
     <string name="navigation_combination">Vietas noteikšanas pakalpojums</string>
-    <string name="reboot_to_mcu">atsāknēšana uz MCU</string>
+    <string name="reboot_to_mcu">Atsāknēšana uz MCU</string>
     <string name="everest2_copy_mcu_res">Kopēt fontu bibliotēku</string>
     <string name="agps_sync_remind">AGPS atgādinājums</string>
     <string name="agps_sync_off">Izslēgts</string>
@@ -259,9 +259,9 @@
     <string name="product_model_everest_oversea">Amazfit Stratos</string>
     <string name="product_model_everest_2s">Amazfit Sports Watch 2S</string>
     <string name="product_model_everest_2s_oversea">Amazfit Stratos +</string>
-    <string name="device_name_huanhe">Amazfit Stratos +</string>
+    <string name="device_name_huanhe">Amazfit Sports Watch</string>
     <string name="device_name_huanghe_oversea">Amazfit Verge</string>
-    <string name="device_name_everest_oversea">Amazfit Verge</string>
+    <string name="device_name_everest_oversea">Amazfit Stratos</string>
     <string name="device_name_everest_2s_oversea">Amazfit Stratos +</string>
     <string name="device_name_default">Amazfit sport watch</string>
     <string name="device_name_huanghe">Amazfit sport watch</string>
@@ -289,8 +289,8 @@
     <string name="yueye">Taku skriešana</string>
     <string name="shineipao">Skrējceliņš</string>
     <string name="huwaiqi">Riteņbraukšana</string>
-    <string name="yongchiyou">Baseina peldēšana</string>
-    <string name="gongkaiyou">Atklāts ūdens</string>
+    <string name="yongchiyou">Peldēšana Baseinā</string>
+    <string name="gongkaiyou">Peldēšana Dabā</string>
     <string name="tuoyuanji">Orbitreks</string>
     <string name="dengshan">Kāpt</string>
     <string name="tierensan">Triatlons</string>
@@ -318,7 +318,7 @@
     <string name="about_title">Par</string>
     <string name="model">Modelis</string>
     <string name="dev_name">Vārds</string>
-    <string name="dev_desc">Amazfit Stratos +</string>
+    <string name="dev_desc">Amazfit Sports Watch</string>
     <string name="ard_version">Android versija</string>
     <string name="rom_version">ROM versija</string>
     <string name="rom_hint_dev">ROM (Dev Edition)</string>
@@ -329,15 +329,15 @@
     <string name="serial_no">Sērijas numurs</string>
     <string name="cmiit_id">CMIIT ID</string>
     <string name="license">Juridisks paziņojums</string>
-    <string name="regulatory">normatīvs</string>
+    <string name="regulatory">Normatīvs</string>
     <string name="regulatory_summary">Uzziniet vairāk</string>
-    <string name="unlock">atbloķēt</string>
+    <string name="unlock">Atbloķēts</string>
     <string name="build_time">[DEBUG] Veidot laiku</string>
     <string name="build_desc">[DEBUG] Veidot aprakstu</string>
     <string name="legal">Lūdzu, pārbaudiet</string>
     <string name="legal2">Amazfit App</string>
-    <string name="lab">Laboratorija</string>
-    <string name="opened">laboratorija</string>
+    <string name="lab">Lab</string>
+    <string name="opened">Laboratorija</string>
     <string name="closed">Ieslēgts</string>
     <string name="air_plane">Lidmašīnas režīms</string>
     <string name="air_plane_mode_note">Lai taupītu enerģiju, lidmašīnas režīmā pulkstenī tiks izslēgts Bluetooth un Wi-Fi. Ja jums jāizmanto funkcijas, kurām nepieciešams BT / WiFi, lūdzu, izslēdziet lidmašīnas režīmu sistēmas iestatījumos.</string>
@@ -358,7 +358,7 @@
     <string name="auto_nodisturb_end_time_string">Izslēgšanas laiks</string>
     <string name="auto_screen_wristup_end_time_string">līdz</string>
     <string name="time_to">līdz</string>
-    <string name="wrist_up_hand">Plaukstas locītavas pacelšana</string>
+    <string name="wrist_up_hand">Pagriezt locītavu</string>
     <string name="wrist_up_hand_with_bl">Ieslēdziet fona apgaismojumu</string>
     <string name="auto_wifi_trans_on_string">Ieslēgts</string>
     <string name="auto_wifi_trans_off_string">Izslēgts</string>
@@ -450,7 +450,7 @@ un atrodas blakus"</string>
 %1$s?"</string>
     <string name="gender">Dzimums</string>
     <string name="birth_year">Dzimšanas gads</string>
-    <string name="height">Augstums</string>
+    <string name="height">Augums</string>
     <string name="weight">Svars</string>
     <string name="male">Vīrietis</string>
     <string name="female">Sieviete</string>
@@ -582,9 +582,9 @@ visi pulksteņa dati tiks izdzēsti, un pulkstenis tiks atvienots no jūsu mobil
     <string name="blt_hint_disconnect_device">Atvienot</string>
     <string name="lab_desc">Savāc daļu atkļūdošanas rīku</string>
     <string name="unknown">Nezināma ierīce</string>
-    <string name="bind_tips_title">"Lūdzu, saistiet
- lai drošāk aizsargātu savus datus. "</string>
+    <string name="bind_tips_title">Lūdzu, saistiet
+ lai drošāk aizsargātu savus datus.</string>
     <string name="upgrade_checking">Notikumu pārbaude ...</string>
-    <string name="left_hand">pa kreisi</string>
-    <string name="right_hand">Pa labi</string>
+    <string name="left_hand">Kreisā</string>
+    <string name="right_hand">Labā</string>
 </resources>
