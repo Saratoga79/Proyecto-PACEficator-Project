@@ -2,7 +2,7 @@
 <resources>
     <string-array name="localapps">
         <item>com.huami.watch.launcher</item>
-        <item>com.huami.regarder.sport</item>
+        <item>com.huami.watch.sport</item>
     </string-array>
     <string-array name="chatlables">
         <item>com.tencent.mm</item>
@@ -158,52 +158,52 @@
         <item>Aujourd\'hui</item>
     </string-array>
     <string-array name="quick_settings_status_principleTerm">
-        <item>Major Cold</item>
-        <item>Rain Water</item>
-        <item>Spring Equinox</item>
-        <item>Grain Rain</item>
+        <item>Grand Froid</item>
+        <item>Pluie</item>
+        <item>Équinoxe de printemps</item>
+        <item>Pluie</item>
         <item>Grain Buds</item>
-        <item>Summer Solstice</item>
-        <item>Major Heat</item>
-        <item>End of Heat</item>
-        <item>Autumn Equinox</item>
-        <item>"Frost's Descent"</item>
-        <item>Minor Snow</item>
-        <item>Winter Solstice</item>
+        <item>Solstice d\'été</item>
+        <item>Chaleur majeure</item>
+        <item>Fin de la chaleur</item>
+        <item>Equinoxe d\'automne</item>
+        <item>"Descente de givre"</item>
+        <item>Neige mineure</item>
+        <item>Solstice d\'hiver</item>
     </string-array>
     <string-array name="quick_settings_status_sectionalTerm">
-        <item>Minor Cold</item>
-        <item>Start of Spring</item>
-        <item>Awakening of Insects</item>
-        <item>Clear and Bright</item>
-        <item>Start of Summer</item>
+        <item>Froid mineur</item>
+        <item>Début du Printemps</item>
+        <item>Réveil des insectes</item>
+        <item>Clair et lumineux</item>
+        <item>Début de l\'été</item>
         <item>Grain in Ear</item>
-        <item>Minor Heat</item>
-        <item>Start of Autumn</item>
-        <item>White Dew</item>
-        <item>Cold Dew</item>
-        <item>Start of Winter</item>
-        <item>Major Snow</item>
+        <item>Chaleur mineure</item>
+        <item>Début de l\'automne</item>
+        <item>Rosée blanche</item>
+        <item>Rosée glacée</item>
+        <item>Début de l\'hiver</item>
+        <item>Neige majeure</item>
     </string-array>
     <string-array name="quick_settings_status_chineseTen">
-        <item>The</item>
-        <item>10th of the lunar calenda</item>
-        <item>20th of the lunar calenda</item>
-        <item>30th of the lunar calenda</item>
+        <item>Le</item>
+        <item>10ème du calendrier lunaire</item>
+        <item>20ème du calendrier lunaire</item>
+        <item>30ème du calendrier lunaire</item>
     </string-array>
     <string-array name="quick_settings_status_chineseNumber">
-        <item>Lunar Jan</item>
-        <item>Lunar Feb</item>
-        <item>Lunar Mar</item>
-        <item>Lunar Apr</item>
-        <item>Lunar May</item>
-        <item>Lunar Jun</item>
-        <item>Lunar Jul</item>
-        <item>Lunar Aug</item>
-        <item>Lunar Sept</item>
-        <item>Lunar Oct</item>
-        <item>Lunar Nov</item>
-        <item>Lunar Dec</item>
+        <item>Janvier lunaire</item>
+        <item>Février lunaire</item>
+        <item>Mars lunaire</item>
+        <item>Avril lunaire</item>
+        <item>Mai lunaire</item>
+        <item>Juin lunaire</item>
+        <item>Juillet lunaire</item>
+        <item>Août lunaire </item>
+        <item>Septembre lunaire</item>
+        <item>Octobre lunaire</item>
+        <item>Novembre lunaire</item>
+        <item>Décembre lunaire</item>
     </string-array>
     <string-array name="jazzy_effects">
         <item>Standard</item>
@@ -221,61 +221,61 @@
     </string-array>
     <string-array name="weather_card_aqilevel">
         <item>Excellent</item>
-        <item>Fine</item>
-        <item>Light pollution</item>
+        <item>Agréable</item>
+        <item>Pollution légère</item>
         <item>Pollution modérée</item>
-        <item>Heavy pollution</item>
-        <item>Severe pollution</item>
+        <item>Forte pollution</item>
+        <item>Pollution importante</item>
         <item></item>
     </string-array>
     <string-array name="weather_card_quality">
-        <item>Suitable for sports</item>
-        <item>Not suitable for sports</item>
+        <item>Adapté pour le sport</item>
+        <item>Pas adapté pour le sport</item>
         <item></item>
     </string-array>
     <string-array name="quick_settings_status_weather">
-        <item>Clear</item>
-        <item>Cloudy</item>
-        <item>Overcast</item>
-        <item>showers</item>
-        <item>Thunder shower</item>
-        <item>Hail</item>
-        <item>Rain and snow mixed</item>
-        <item>Light rain</item>
-        <item>Moderate rain</item>
-        <item>Heavy rain</item>
-        <item>Rainstorm</item>
-        <item>Heavy rainstorm</item>
+        <item>Dégagé</item>
+        <item>Nuageux</item>
+        <item>Couvert</item>
+        <item>Averses</item>
+        <item>Éclair</item>
+        <item>Grêle</item>
+        <item>Pluie et neige</item>
+        <item>Légère pluie</item>
+        <item>Pluie modérée</item>
+        <item>Forte pluie</item>
+        <item>Pluie torrentielle</item>
+        <item>Pluie torrentielle</item>
         <item>Tempête de pluie extraordinaire</item>
-        <item>Snow shower</item>
-        <item>Light snow</item>
-        <item>Moderate snow</item>
-        <item>Heavy snow</item>
+        <item>Chutes de neige</item>
+        <item>Neige légère</item>
+        <item>Neige modérée</item>
+        <item>Neige abondante</item>
         <item>Tempête de neige</item>
-        <item>Fog</item>
-        <item>Freezing rain</item>
+        <item>Brouillard</item>
+        <item>Pluie verglaçante</item>
         <item>Tempête de sable</item>
-        <item>Small to moderate rain</item>
-        <item>Moderate to heavy rain</item>
-        <item>Heavy rain to rainstorm</item>
-        <item>Rainstorm to heavy rainstorm</item>
-        <item>Heavy to severe storm</item>
-        <item>Small to moderate snow</item>
-        <item>Moderate to heavy snow</item>
-        <item>Heavy snow to blizzard</item>
-        <item>Dust</item>
-        <item>Blowing sand</item>
-        <item>Strong sandstorm</item>
-        <item>Thick fog</item>
-        <item>Snow</item>
-        <item>Rain</item>
-        <item>Strong fog</item>
-        <item>Haze</item>
-        <item>Moderate haze</item>
-        <item>Heavy haze</item>
-        <item>Severe haze</item>
-        <item>Dense fog</item>
-        <item>Extremely dense fog</item>
+        <item>Pluie modérée</item>
+        <item>Pluie modérée à forte pluie</item>
+        <item>Pluie abondante vers tempêtes de pluie</item>
+        <item>Pluie pluvieuse orageuse</item>
+        <item>Forte à sévère tempête</item>
+        <item>Neige modérée</item>
+        <item>Neige modérée à lourde</item>
+        <item>Forte neige à blizzard</item>
+        <item>Poussière</item>
+        <item>Vents de sable</item>
+        <item>Forte tempête de sable</item>
+        <item>Brouillard épais</item>
+        <item>Neige</item>
+        <item>Pluie</item>
+        <item>Brouillard fort</item>
+        <item>Brume</item>
+        <item>Brume modérée</item>
+        <item>Brume lourde</item>
+        <item>Brume sévère</item>
+        <item>Brouillard dense</item>
+        <item>Brouillard extrêmement dense</item>
         <item>Aucune donnée</item>
     </string-array>
 </resources>
