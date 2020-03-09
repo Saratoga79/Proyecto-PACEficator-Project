@@ -43,84 +43,85 @@
         <item>This week</item>
     </string-array>
     <string-array name="chart_x_titles">
-        <item>MON</item>
-        <item>TUE</item>
-        <item>WED</item>
-        <item>THU</item>
-        <item>FRI</item>
-        <item>SAT</item>
-        <item>SUN</item>
+        <item>LUN</item>
+        <item>MAR</item>
+        <item>MER</item>
+        <item>JEU</item>
+        <item>VEN</item>
+        <item>SAM</item>
+        <item>DIM</item>
     </string-array>
     <string-array name="sport_data_item_array">
         <item></item>
-        <item>Time</item>
+        <item>Durée</item>
         <item>Distance</item>
-        <item>Pace</item>
+        <item>Rythme</item>
         <item>Rythme moyen</item>
-        <item>Heart rate</item>
-        <item>Calories</item>
+        <item>Rythme cardiaque</item>
+        <item>\"Calories
+\"</item>
         <item>Altitude</item>
-        <item>Elev gain</item>
-        <item>Elev loss</item>
-        <item>Speed</item>
+        <item>Gain d\'altitude</item>
+        <item>Perte d\'altitude</item>
+        <item>Vitesse</item>
         <item>Vitesse moyenne</item>
         <item>Cadence</item>
-        <item>Dist gain</item>
-        <item>Steps</item>
+        <item>Gain de distance</item>
+        <item>Etapes</item>
         <item>Cadence</item>
-        <item>Laps</item>
+        <item>Tours</item>
         <item>DPS</item>
-        <item>Stroke rate</item>
+        <item>AVC</item>
         <item>SPM moyen</item>
-        <item>Pace</item>
+        <item>Rythme</item>
         <item>Rythme moyen</item>
         <item>Distance</item>
         <item>TE</item>
-        <item>Vert speed</item>
+        <item>Vitesse verticale</item>
         <item>Vitesse moyenne</item>
-        <item>Max speed</item>
-        <item>Laps</item>
-        <item>Downhill</item>
-        <item>Total downhill</item>
-        <item>Descent</item>
-        <item>Strokes</item>
-        <item>L.L. time</item>
-        <item>L.L. pace</item>
-        <item>L.L. speed</item>
-        <item>L.L. HR</item>
-        <item>L.L. cadence</item>
-        <item>L.L. pace</item>
-        <item>Current freq</item>
-        <item>Total count</item>
-        <item>Avg freq</item>
-        <item>Groups</item>
-        <item>C.L. count</item>
-        <item>C.L. time</item>
-        <item>C.L. freq</item>
-        <item>C.L. time</item>
-        <item>C.L. dist.</item>
-        <item>C.L. pace</item>
-        <item>C.L. Speed</item>
-        <item>C.L. Heart rate</item>
-        <item>C.L. freq.</item>
-        <item>slope</item>
+        <item>Vitesse max</item>
+        <item>Tours</item>
+        <item>Descente</item>
+        <item>Total en descente</item>
+        <item>Descente</item>
+        <item>AVC</item>
+        <item>Temps L.L.</item>
+        <item>Rythme L.L.</item>
+        <item>Vitesse L.L.</item>
+        <item>RH L.L</item>
+        <item>Cadence L.L.</item>
+        <item>Rythme L.L.</item>
+        <item>Fréquence actuelle</item>
+        <item>Nombre total</item>
+        <item>Fréquence moyenne</item>
+        <item>Groupes</item>
+        <item>Nombre de C.L.</item>
+        <item>Temps C.L.</item>
+        <item>Fréquence C.L.</item>
+        <item>Temps C.L.</item>
+        <item>Dist. C.L.</item>
+        <item>Rythme C.L.</item>
+        <item>Vitesse C.L.</item>
+        <item>Fréquence cardiaque C.L.</item>
+        <item>Fréquence C.L.</item>
+        <item>pente</item>
         <item>Calories</item>
         <item>RH Moy.</item>
-        <item>Paddles of this set</item>
-        <item>Frequency</item>
-        <item>Total paddles</item>
-        <item>Paddle frequency</item>
-        <item>Pulling duration</item>
-        <item>Pushing duration</item>
+        <item>Paddles de cet ensemble</item>
+        <item>Fréquence</item>
+        <item>Total</item>
+        <item>Fréquence</item>
+        <item>Durée de tirage</item>
+        <item>Durée de l’envoi</item>
         <item>Fréquence moy.</item>
     </string-array>
     <string-array name="sport_train_item">
-        <item>Remaining distance</item>
-        <item>Total distance</item>
-        <item>Total time</item>
-        <item>Remaining time</item>
+        <item>Distance restante</item>
+        <item>Distance totale</item>
+        <item>Temps total</item>
+        <item>Temps restant</item>
         <item>Distance</item>
-        <item>Remaining</item>
-        <item>Has rested</item>
+        <item>Restant</item>
+        <item>Repos</item>
     </string-array>
 </resources>
