@@ -117,7 +117,7 @@
     <string name="sport_auto_pause_end">Sessione terminata, salvare dati?</string>
     <string name="sport_slpt_stop_next_group">Prossimo</string>
     <string name="group_rowing_freq">Frequenza</string>
-    <string name="group_rowing_count">Times</string>
+    <string name="group_rowing_count">Ora</string>
     <string name="picker_default_positive_text">OK</string>
     <string name="picker_default_nagetive_text">Off</string>
     <string name="no_heartrate_data_hint">"Impossibile trovare dati battito cardiaco"</string>
@@ -441,19 +441,19 @@ sia acceso e nelle vicinanze"</string>
     <string name="light_auto">Auto</string>
     <string name="light_on">Sempre attivo</string>
     <string name="rise_no_bl_under_slpt">Solo sbloccati</string>
-    <string name="subtitle_of_raise_hand_no_bl">Auto when unlocked</string>
-    <string name="rise_with_bl_under_slpt">On</string>
+    <string name="subtitle_of_raise_hand_no_bl">Automatico quando sbloccato</string>
+    <string name="rise_with_bl_under_slpt">Attivo</string>
     <string name="rise_without_bl_under_slpt">Off</string>
-    <string name="locale_main">Language</string>
-    <string name="locale_applying">Language applying...</string>
+    <string name="locale_main">Lingua</string>
+    <string name="locale_applying">Cambio lingua...</string>
     <string name="confirm_change_locale">"Impostare lingua in 
 %1$s?"</string>
-    <string name="gender">Gender</string>
+    <string name="gender">Sesso</string>
     <string name="birth_year">Annonascita</string>
-    <string name="height">Height</string>
-    <string name="weight">Weight</string>
-    <string name="male">Male</string>
-    <string name="female">Female</string>
+    <string name="height">Altezza</string>
+    <string name="weight">Peso</string>
+    <string name="male">Maschio</string>
+    <string name="female">Femmina</string>
     <string name="centimeter">cm</string>
     <string name="birth_year_unit">"Anno
 nascita"</string>
@@ -461,65 +461,65 @@ nascita"</string>
 cm"</string>
     <string name="weight_unit">"Peso 
 kg"</string>
-    <string name="reset_factory_hint">"Once the watch is reset to factory default settings, 
-all data in the watch will be deleted, and the watch will be disconnected from your mobile."</string>
-    <string name="reset_factory_hint_cn">"Once the watch is reset to factory default settings, all data in the watch will be deleted, and the watch will be disconnected from your mobile. 
- The current activated transportation card can still be used after the watch is bound with your mobile again."</string>
+    <string name="reset_factory_hint">"Una volta che l\'orologio viene ripristinato alle impostazioni di fabbrica predefinite, 
+tutti i dati nell\'orologio verranno eliminati, e l\'orologio verrà disconnesso dal tuo cellulare."</string>
+    <string name="reset_factory_hint_cn">"Una volta che l\'orologio viene ripristinato alle impostazioni di fabbrica predefinite, tutti i dati nell\'orologio verranno eliminati, e l\'orologio verrà disconnesso dal tuo cellulare. 
+ La carta di trasporto attualmente attivata può essere ancora utilizzata dopo che l\'orologio sarà nuovamente collegato al tuo cellulare."</string>
     <string name="reset_factory_yes">Reset</string>
     <string name="reset_factory_no">Annulla</string>
-    <string name="reset_factory_title">Factory Reset</string>
-    <string name="reset_factory_noconnect_msg">"If Needing to Unbind the Watch, Please Operate Through Amazfit App. 
- Watch’s Unilateral Factory Reset Will Remove UnionPay Card and Transportation Card. 
- A Removed UnionPay Card: It Can No Longer Be Bound to The Watch. If You Need to Bind Again, Please Consult the Bank Customer Service. 
- A Removed Transportation Card: Will Be Destroyed Permanently and Cannot Be Paid Again."</string>
-    <string name="reset_factory_conncet_msg">Watch and Amazfit App will Remove the Bound UnionPay Card. The Watch will Retain the Payment Function of the Transportation Card.</string>
-    <string name="reset_factory_positive">Factory Reset</string>
+    <string name="reset_factory_title">Reset di fabbrica</string>
+    <string name="reset_factory_noconnect_msg">"Se la Necessità di Separare l\'Orologio, si Prega di Operare Attraverso Amazfit App. 
+ Orologio Unilaterale ripristino di Fabbrica Rimuovere Carta UnionPay e Trasporto della Carta. 
+ Rimosso UnionPay Carta: Non Può Più Essere Legato all\'Orologio. Se Avete Bisogno di Legarsi di Nuovo, si Prega di Consultare la Banca Servizio Clienti. 
+ la rimozione di Una Scheda di Trasporto: Saranno eliminate in modo Permanente e Non può Essere Pagato di Nuovo."</string>
+    <string name="reset_factory_conncet_msg">Orologio e Amazfit App rimuoverà la Bound UnionPay Card. L\'Orologio manterrà la funzione di Pagamento della Carta Trasportata.</string>
+    <string name="reset_factory_positive">Reset di fabbrica</string>
     <string name="reset_factory_negative">Annulla</string>
-    <string name="reset_factory_fail_title">Unsuccessful Factory Reset</string>
-    <string name="reset_factory_fail_msg">If the UnionPay Card Is Not Successfully Removed, Please Try Again.</string>
+    <string name="reset_factory_fail_title">Fabbrica non riuscita ripristinata</string>
+    <string name="reset_factory_fail_msg">Se la Carta UnionPay non è stata rimossa con successo, prova di nuovo.</string>
     <string name="reset_factory_fail_positive">Ok</string>
-    <string name="reset_factory_doing1">Factory Reset Is Being Made</string>
-    <string name="reset_factory_doing2">UnionPay Card Is Being Removed</string>
-    <string name="reset_factory_bank_title">Please Remove the UnionPay Card at First</string>
-    <string name="reset_factory_bank_msg">"If Reset the Watch without Removing the UnionPay Card, It will Cause the UnionPay Card: 
- 1. Cannot be Removed from the Watch, Occupying Chip Space;  2. Cannot Use the Payment Function in the Watch;  3. Cannot Be Bound by Other Devices; For Payment Security, Please First Remove the UnionPay Card from Amazfit App."</string>
-    <string name="reset_factory_bank_yes">Continue Factory Reset</string>
+    <string name="reset_factory_doing1">Il Reset di Fabbrica è Fatto</string>
+    <string name="reset_factory_doing2">La carta UnionPay viene rimossa</string>
+    <string name="reset_factory_bank_title">Si prega di rimuovere la carta UnionPay alla prima</string>
+    <string name="reset_factory_bank_msg">"Se si Reimposta l\'Orologio senza Rimuovere la Carta UnionPay, causerà la UnionPay Scheda: 
+ 1. Non può essere Rimosso dall\'Orologio, Occupando Chip Spazio; 2. Non è possibile Utilizzare la Funzione di Pagamento dell\'Orologio; 3. Non può Essere Vincolato da Altri Dispositivi; Per la Sicurezza del Pagamento, si Prega di Rimuovere Prima la Carta UnionPay da Amazfit App."</string>
+    <string name="reset_factory_bank_yes">Continua il ripristino della fabbrica</string>
     <string name="reset_factory_bank_no">Annulla</string>
-    <string name="reset_factory_bank_msg_again">"Once the watch is reset to factory default settings, all data in the watch will be deleted, and the watch will be disconnected from your mobile. 
- The current activated transportation card can still be used after the watch is bound with your mobile again."</string>
-    <string name="lockpassword_confirm_your_pattern_header">Confirm Your Pattern</string>
-    <string name="lockpattern_need_to_unlock">Draw Unlocking Pattern</string>
+    <string name="reset_factory_bank_msg_again">"Una volta che l\'orologio viene resettato alle impostazioni di fabbrica, tutti i dati dell\'orologio verranno eliminati, e l\'orologio verrà disconnesso dal tuo cellulare. 
+ La corrente attivato il trasporto della carta, può ancora essere utilizzato dopo che l\'orologio è associato con il vostro nuovo cellulare."</string>
+    <string name="lockpassword_confirm_your_pattern_header">Conferma la tua sequenza</string>
+    <string name="lockpattern_need_to_unlock">Disegna la sequenza di sblocco</string>
     <string name="lockpattern_need_to_unlock_footer"></string>
     <string name="lockpattern_need_to_unlock_wrong"></string>
     <string name="lockpattern_need_to_unlock_wrong_footer"></string>
-    <string name="lockpattern_too_many_failed_confirmation_attempts_header">Too Many Errors！</string>
-    <string name="lockpattern_too_many_failed_confirmation_attempts_footer">%d Retry after Several Seconds</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_header">Troppi errori!</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_footer">%d Riprova dopo diversi secondi</string>
     <string name="lockpattern_tutorial_cancel_label">Annulla</string>
-    <string name="lockpattern_tutorial_continue_label">Next</string>
-    <string name="lockpassword_choose_your_pattern_header">Select Your Pattern</string>
+    <string name="lockpattern_tutorial_continue_label">Successivo</string>
+    <string name="lockpassword_choose_your_pattern_header">Scegli la tua sequenza</string>
     <string name="lockpattern_recording_inprogress"></string>
     <string name="cancel">Annulla</string>
-    <string name="lockpattern_retry_button_text">Retry</string>
-    <string name="lockpattern_continue_button_text">Continue</string>
+    <string name="lockpattern_retry_button_text">Riprova</string>
+    <string name="lockpattern_continue_button_text">Continua</string>
     <string name="lockpattern_confirm_button_text">Conferma</string>
-    <string name="lockpattern_recording_intro_header">Draw Unlocking Pattern</string>
-    <string name="lockpattern_settings_help_how_to_record">How to Draw Unlocking Pattern？</string>
+    <string name="lockpattern_recording_intro_header">Disegna la sequenza di sblocco</string>
+    <string name="lockpattern_settings_help_how_to_record">Disegna la sequenza di sblocco？</string>
     <string name="lockpattern_recording_incorrect_too_short"></string>
-    <string name="lockpattern_pattern_entered_header">Pattern Recorded</string>
-    <string name="lockpattern_need_to_confirm">Confirm Unlocking Pattern</string>
-    <string name="lockpattern_pattern_confirmed_header">Confirm Unlocking Pattern</string>
-    <string name="app_notifications_dialog_done">Complete</string>
-    <string name="lockpattern_cancel">Gesture Password</string>
-    <string name="lockpattern_change">Change Password</string>
-    <string name="lockpattern_change_state">Change Watch Status</string>
-    <string name="lockpattern_exist">Turned on</string>
-    <string name="lockpattern_exist_no">Turned Off</string>
-    <string name="unlock_disable_lock_pattern_summary">Delete Unlocking Pattern</string>
-    <string name="unlock_disable_frp_warning_content">The Device Protection Function Will No Longer Function.</string>
+    <string name="lockpattern_pattern_entered_header">Sequenza registrata</string>
+    <string name="lockpattern_need_to_confirm">Conferma la sequenza di sblocco</string>
+    <string name="lockpattern_pattern_confirmed_header">Conferma la sequenza di sblocco</string>
+    <string name="app_notifications_dialog_done">Completo</string>
+    <string name="lockpattern_cancel">Gesto Password</string>
+    <string name="lockpattern_change">Cambia Password</string>
+    <string name="lockpattern_change_state">Cambia stato dell\'orologio</string>
+    <string name="lockpattern_exist">Attivato</string>
+    <string name="lockpattern_exist_no">Disattivato</string>
+    <string name="unlock_disable_lock_pattern_summary">Disegna la sequenza di sblocco</string>
+    <string name="unlock_disable_frp_warning_content">La funzione di Protezione del Dispositivo non funzionerà più a lungo.</string>
     <string name="okay">Conferma</string>
-    <string name="exit">Exit</string>
-    <string name="pattern_set_title">Security</string>
-    <string name="watch_state">Screensaver Setting</string>
+    <string name="exit">Esci</string>
+    <string name="pattern_set_title">Sicurezza</string>
+    <string name="watch_state">Impostazioni Dello Screensaver</string>
     <string name="unwear">Orologio non al polso</string>
     <string name="wear">Orologio al polso</string>
     <string name="lockpattern_need_confirm">Riprova di nuovo</string>
@@ -540,30 +540,30 @@ all data in the watch will be deleted, and the watch will be disconnected from y
     <string name="ultra_title">Modo Ultra</string>
     <string name="ultra_desc">"La modalità Ultra estenderà notevolmente la durata della batteria dell'orologio e supporterà le principali funzionalità dell'orologio."</string>
     <string name="ultra_enter">Modo Ultra</string>
-    <string name="sync_sport_data_before_reboot_title">Unsynchronized exercise records are found.</string>
-    <string name="sync_sport_data_before_reboot_summary">Unsynchronized records cannot be viewed on your phone. Please sync the records before switching modes. Open the Amazfit app and pull down to sync. Continue to switch?</string>
+    <string name="sync_sport_data_before_reboot_title">Trovati record dell\'esercizio non sincronizzati.</string>
+    <string name="sync_sport_data_before_reboot_summary">Record non sincronizzati non possono essere visualizzati sul telefono. Si prega di sincronizzare i record prima di passare alle modalità. Aprire l\'app Amazfit e tirare giù per la sincronizzazione. Continuare a cambiare?</string>
     <string name="sync_sport_data_before_reboot_dont_reboot">No</string>
     <string name="sync_sport_data_before_reboot_reboot_now">Si</string>
-    <string name="unit_metric">Metric</string>
-    <string name="unit_english">Imperial</string>
-    <string name="strong">Strong</string>
-    <string name="mid">Mid</string>
-    <string name="weak">Weak</string>
+    <string name="unit_metric">Metrico</string>
+    <string name="unit_english">Imperiale</string>
+    <string name="strong">Forte</string>
+    <string name="mid">Media</string>
+    <string name="weak">Debole</string>
     <string name="slient">Off</string>
     <string name="volume_value">Volume</string>
-    <string name="light_value">Brightness</string>
+    <string name="light_value">Luminosità</string>
     <string name="light_auto_set">Auto</string>
-    <string name="light_auto_guide_title">Auto adjustment</string>
-    <string name="light_auto_guide_content">After Auto adjustment is on, move slider to fine tune the brightness coefficient, then the screen brightness will still change with the ambient brightness.</string>
-    <string name="light_auto_guide_ok">I know it</string>
-    <string name="watch_mode_title">Turn on watch mode</string>
+    <string name="light_auto_guide_title">Regolazione automatica</string>
+    <string name="light_auto_guide_content">Dopo che la regolazione automatica è attiva, muovi il cursore per perfezionare il coefficiente di luminosità, la luminosità dello schermo cambierà comunque con la luminosità ambientale.</string>
+    <string name="light_auto_guide_ok">Lo so</string>
+    <string name="watch_mode_title">Attiva modalità demo</string>
     <string name="watch_mode_message">"\"When turned on, the watch will only support time display, step counting and transportation card payment. 
  (When you turn it on, press and hold the physical key to exit this mode)\""</string>
-    <string name="watch_mode_positive">Confirm turned on</string>
+    <string name="watch_mode_positive">Conferma attivata</string>
     <string name="watch_mode_negative">Annulla</string>
     <string name="replace_watchface">WatchFace</string>
-    <string name="screen_refresh">Lockscreen seconds hand</string>
-    <string name="screen_refresh_on_string">On</string>
+    <string name="screen_refresh">Lockscreen lancetta dei secondi</string>
+    <string name="screen_refresh_on_string">Attivo</string>
     <string name="screen_refresh_off_string">Off</string>
     <string name="setting_regulatory_europe">Europe</string>
     <string name="setting_regulatory_us">U.S.</string>
@@ -574,17 +574,17 @@ all data in the watch will be deleted, and the watch will be disconnected from y
     <string name="setting_regulation_desc_us">FCC ID:2AC8UA1811</string>
     <string name="setting_regulation_desc_canda">"\"IC:21806-A1811 
  ICAN ICE-3(B)/NMB-3(B)\""</string>
-    <string name="setting_regulation_model_name">Model : %1$s</string>
-    <string name="confirm_shutdown">Shutdown?</string>
-    <string name="confirm_reboot">Reboot?</string>
+    <string name="setting_regulation_model_name">Modello: %1$s</string>
+    <string name="confirm_shutdown">Spegnere?</string>
+    <string name="confirm_reboot">Riavviare?</string>
     <string name="app_name">Impostazioni</string>
     <string name="blt_hint_connect_device">Collegare</string>
-    <string name="blt_hint_disconnect_device">Disconnect</string>
-    <string name="lab_desc">Collect part of the debugging tools</string>
-    <string name="unknown">Unknown device</string>
+    <string name="blt_hint_disconnect_device">Disconnetti</string>
+    <string name="lab_desc">Raccogli parte degli strumenti di debug</string>
+    <string name="unknown">Dispositivo sconosciuto</string>
     <string name="bind_tips_title">"Collegare 
  per proteggere i tuoi dati in modo più sicuro"</string>
-    <string name="upgrade_checking">Checking for update...</string>
-    <string name="left_hand">Left</string>
-    <string name="right_hand">Right</string>
+    <string name="upgrade_checking">Ricerca aggiornamenti...</string>
+    <string name="left_hand">Sinistra</string>
+    <string name="right_hand">Destra</string>
 </resources>
