@@ -36,14 +36,14 @@
         <item>ELLIPTICAL_MACHINE</item>
     </string-array>
     <string-array name="dally_performence_level_status">
-        <item>Fatigued</item>
+        <item>Fatigué</item>
         <item>Normal</item>
         <item>Bon</item>
     </string-array>
     <string-array name="vo2_max_level_status">
-        <item>Very poor</item>
-        <item>Poor</item>
-        <item>Fair</item>
+        <item>Très mauvais</item>
+        <item>Mauvais</item>
+        <item>Acceptable</item>
         <item>Moyenne</item>
         <item>Bon</item>
         <item>Très bon</item>
@@ -59,36 +59,36 @@
         <item></item>
         <item>Heure</item>
         <item>Distance</item>
-        <item>Pace</item>
-        <item>Avg pace</item>
-        <item>Heart rate</item>
+        <item>Rythme</item>
+        <item>Rythme moyen</item>
+        <item>Rythme cardiaque</item>
         <item>\"Calories
 \"</item>
         <item>Altitude</item>
-        <item>Elev gain</item>
-        <item>Elev loss</item>
-        <item>Speed</item>
-        <item>Avg speed</item>
+        <item>Gain d\'altitude</item>
+        <item>Perte d\'altitude</item>
+        <item>Vitesse</item>
+        <item>Vitesse moyenne</item>
         <item>Cadence</item>
-        <item>Dist gain</item>
-        <item>Steps</item>
+        <item>Gain de distance</item>
+        <item>Etapes</item>
         <item>Cadence</item>
-        <item>Laps</item>
+        <item>Tours</item>
         <item>DPS</item>
-        <item>Stroke rate</item>
-        <item>Avg SPM</item>
-        <item>Pace</item>
-        <item>Avg pace</item>
+        <item>Fréquence</item>
+        <item>SPM moyen</item>
+        <item>Rythme</item>
+        <item>Rythme moyen</item>
         <item>Distance</item>
         <item>TE</item>
-        <item>Vert speed</item>
-        <item>Avg speed</item>
-        <item>Max speed</item>
-        <item>Laps</item>
-        <item>Downhill</item>
-        <item>Total downhill</item>
-        <item>Descent</item>
-        <item>Strokes</item>
+        <item>Vitesse verticale</item>
+        <item>Vitesse moyenne</item>
+        <item>Vitesse max</item>
+        <item>Tours</item>
+        <item>Descente</item>
+        <item>Total en descente</item>
+        <item>Descente</item>
+        <item>AVC</item>
         <item>Lap time</item>
         <item>Lap pace</item>
         <item>Lap speed</item>
@@ -97,7 +97,7 @@
         <item>Lap pace</item>
         <item>Current freq</item>
         <item>Total count</item>
-        <item>Avg freq</item>
+        <item>Fréquence moyenne</item>
         <item>Groups</item>
         <item>Lap count</item>
         <item>Lap time</item>
@@ -111,14 +111,14 @@
         <item>slope</item>
         <item>\"Calories
 \"</item>
-        <item>Avg. HR</item>
+        <item>RH Moy.</item>
         <item>Paddles of this set</item>
         <item>Frequency</item>
         <item>Total paddles</item>
         <item>Paddle frequency</item>
         <item>Pulling duration</item>
         <item>Pushing duration</item>
-        <item>Avg. Freq.</item>
+        <item>Fréquence moy.</item>
     </string-array>
     <string-array name="sport_train_item">
         <item>Remaining distance</item>
