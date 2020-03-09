@@ -23,17 +23,17 @@
     <string name="crossing_vertical_velocity_unit">ft/h</string>
     <string name="crossing_history_detail_total_time">Total time</string>
     <string name="crossing_history_detail_move_time">Active time</string>
-    <string name="crossing_history_detail_ave_move_pace">Avg pace</string>
+    <string name="crossing_history_detail_ave_move_pace">Rythme moyen</string>
     <string name="crossing_history_detail_ave_move_pace_unit">/km</string>
     <string name="crossing_history_detail_best_pace">Best pace</string>
-    <string name="crossing_history_detail_ave_move_speed">Avg speed</string>
+    <string name="crossing_history_detail_ave_move_speed">Vitesse moyenne</string>
     <string name="crossing_history_detail_max_speed">Max speed</string>
     <string name="crossing_history_detail_climb_up">Elev gain</string>
     <string name="crossing_history_detail_climb_down">Elev loss</string>
     <string name="crossing_history_detail_absolute_altitude">Altitude</string>
     <string name="crossing_history_detail_high_altitude">Highest altitude</string>
     <string name="crossing_history_detail_low_altitude">Lowest altitude</string>
-    <string name="crossing_history_detail_ave_altitude">Avg altitude</string>
+    <string name="crossing_history_detail_ave_altitude">Altitude moyenne</string>
     <string name="crossing_history_detail_altituede_graph_desc">Altitude (m)</string>
     <string name="crossing_history_detail_individual_km"><font color="#ff09ff00"><b>%1$s</b></font> km for a single loop</string>
     <string name="crossing_setting_unit">km</string>
@@ -95,7 +95,7 @@
     <string name="detail_lap_time">Heure</string>
     <string name="detail_total_distance_desc">Total distance</string>
     <string name="detail_lap_dis">Distance</string>
-    <string name="detail_lap_avg_pace">Avg pace</string>
+    <string name="detail_lap_avg_pace">Rythme moyen</string>
     <string name="detail_curve_graph">Graph</string>
     <string name="battery_support_sport">Can still exercise for</string>
     <string name="battery_continue_distance_unit"> km</string>
@@ -226,11 +226,11 @@ start now."</string>
     <string name="sport_main_pm">PM</string>
     <string name="sport_main_recovery_title">Recommended recovery time</string>
     <string name="sport_history_full_recovery">Recovery time</string>
-    <string name="sport_main_avg_stride">Avg stride</string>
+    <string name="sport_main_avg_stride">Foulée moyenne</string>
     <string name="sport_main_stride">Stride</string>
     <string name="sport_main_total_kcal">Total calories</string>
-    <string name="sport_main_avg_stride_unit">cm/stride</string>
-    <string name="sport_main_avg_heart_rate">Avg. heart rate</string>
+    <string name="sport_main_avg_stride_unit">cm/foulée</string>
+    <string name="sport_main_avg_heart_rate">Rythme cardiaque moyen</string>
     <string name="sport_main_max_heart_rate">Max heart rate</string>
     <string name="sport_main_min_heart_rate">Min heart rate</string>
     <string name="sport_main_graph_title">Latest (min)</string>
@@ -321,14 +321,14 @@ start now."</string>
     <string name="pause_sport">Pause activity</string>
     <string name="continue_sport">Continue activity</string>
     <string name="stop_sport">Stop activity</string>
-    <string name="swim_avg_stroke_speed">Avg SPM</string>
+    <string name="swim_avg_stroke_speed">SPM moyen</string>
     <string name="swim_max_stroke_speed">Max stroke rate</string>
     <string name="swim_trips">Laps</string>
     <string name="target_swim_trips">Target laps</string>
     <string name="swim_total_trips">Total laps</string>
     <string name="swim_stroke">Strokes</string>
     <string name="swim_stroke_times">Sessions</string>
-    <string name="swim_avg_dps">Avg DPS</string>
+    <string name="swim_avg_dps">DPS Moy</string>
     <string name="swim_swolf">SWOLF</string>
     <string name="swim_swolf_unit">(%1$s m)</string>
     <string name="swim_swolf_unit_default">(100 m)</string>
@@ -493,13 +493,13 @@ start now."</string>
     <string name="rowing_machine_stroke_speed">Paddle frequency</string>
     <string name="rowing_machine_pull_time">Pulling duration</string>
     <string name="rowing_machine_return_time">Pushing duration</string>
-    <string name="rowing_machine_avg_stroke_freq">Avg. Freq.</string>
+    <string name="rowing_machine_avg_stroke_freq">Fréquence moy.</string>
     <string name="gps_settings">GPS interval</string>
     <string name="gps_data_interval">Data interval</string>
     <string name="gps_interval_time">%1$d secs</string>
     <string name="group_rowing_freq">Frequency</string>
     <string name="group_rowing_count">Times</string>
-    <string name="group_rowing_avg_hr">Average heart rate</string>
+    <string name="group_rowing_avg_hr">Rythme cardiaque moyen</string>
     <string name="group_rowing_calorie">Calorie consumption</string>
     <string name="group_lap_title">Groups</string>
     <string name="battery_life_settings">Battery mode</string>
@@ -681,7 +681,7 @@ to reach full recovery."</string>
     <string name="outdoor_climb_distance">Dist gain</string>
     <string name="outdoor_climb_altitude">Elev gain</string>
     <string name="outdoor_max_cadence">Max cadence</string>
-    <string name="outdoor_ave_cadence">Avg cadence</string>
+    <string name="outdoor_ave_cadence">Cadence moyenne</string>
     <string name="outdoor_graph_unit">Distance (km)</string>
     <string name="outdoor_speed_graph_title">Speed (km/h)</string>
     <string name="not_testing_speed_data">"Couldn't find speed data"</string>
@@ -754,7 +754,7 @@ pour un exercice efficace!\"</string>
     <string name="rope_skip_currnet_frequency">Current freq</string>
     <string name="rope_skip_max_frequency">Max frequency</string>
     <string name="rope_skip_total_count">Total count</string>
-    <string name="rope_skip_average_frequency">Avg freq</string>
+    <string name="rope_skip_average_frequency">Fréquence moyenne</string>
     <string name="rope_skip_current_group_count">Groups</string>
     <string name="rope_skip_this_group_count">Lap count</string>
     <string name="rope_skip_this_group_cost_time">Lap time</string>
@@ -782,8 +782,8 @@ pour un exercice efficace!\"</string>
     <string name="swim_total_trips_times">Total laps: %1$s</string>
     <string name="rope_skip_this_group_calorie">\"Calories
 \"</string>
-    <string name="rope_skip_this_group_avg_hr">Avg. HR</string>
-    <string name="lap_this_group_avg_hr">Heart rate of this set</string>
+    <string name="rope_skip_this_group_avg_hr">RH Moy.</string>
+    <string name="lap_this_group_avg_hr">Rythme cardiaque de cet ensemble</string>
     <string name="route_glevation_gain">Elev gain</string>
     <string name="route_scale_enlarge">Zoom in</string>
     <string name="route_scale_narrow">Zoom out</string>
@@ -835,8 +835,8 @@ pour un exercice efficace!\"</string>
     <string name="running_speed_desc">Speed</string>
     <string name="running_distance_desc">Distance</string>
     <string name="running_heartrate_desc">Heart rate</string>
-    <string name="running_avg_pace_desc">Avg pace</string>
-    <string name="running_avg_speed_desc">Avg speed</string>
+    <string name="running_avg_pace_desc">Rythme moyen</string>
+    <string name="running_avg_speed_desc">Vitesse moyenne</string>
     <string name="walking_step_count">Steps</string>
     <string name="crossing_vertical_speed">Vert speed</string>
     <string name="slope">Slope</string>
@@ -866,8 +866,8 @@ pour un exercice efficace!\"</string>
     <string name="sport_continue">Resume</string>
     <string name="sport_stop">Stop</string>
     <string name="running_kilometers">km</string>
-    <string name="running_avg_pace_desc_simple">Avg pace</string>
-    <string name="running_avg_speed_desc_simple">Avg speed</string>
+    <string name="running_avg_pace_desc_simple">Rythme moyen</string>
+    <string name="running_avg_speed_desc_simple">Vitesse moyenne</string>
     <string name="running_pace_unit">/km</string>
     <string name="running_calorie_unit">kcal</string>
     <string name="running_step_freq_unit">pas/min</string>
@@ -879,7 +879,7 @@ pour un exercice efficace!\"</string>
     <string name="running_control_paused_des">Paused</string>
     <string name="sport_history_item_distance_desc">Distance (km)</string>
     <string name="sport_history_item_cost_time_desc">Heure</string>
-    <string name="running_avg_step_freq_desc">Avg cadence</string>
+    <string name="running_avg_step_freq_desc">Cadence moyenne</string>
     <string name="running_stop_dialog_msg_reach_minimum_distance">Stop this activity?</string>
     <string name="running_stop_dialog_msg_not_reach_minimum_distance">The distance is too short to save. Stop anyway?</string>
     <string name="running_stop_dialog_positive_text">Stop</string>
@@ -1288,7 +1288,7 @@ Vous pouvez le copier sur un ordinateur via USB."</string>
     <string name="rope_skip_tips">Group %1$s</string>
     <string name="rope_skip_tips1">The</string>
     <string name="rope_skip_tips2">set has been completed</string>
-    <string name="rope_skip_avg_heartrate">Avg. heart rate</string>
+    <string name="rope_skip_avg_heartrate">Rythme cardiaque moyen</string>
     <string name="rope_skip_group_calories">\"Calories
 \"</string>
     <string name="music">Musique</string>
