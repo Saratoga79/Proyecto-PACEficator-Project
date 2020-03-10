@@ -2,69 +2,69 @@
 <resources>
     <string name="app_name">otawatch</string>
     <string name="action_settings">Réglages</string>
-    <string name="watch_ota">Watch updates</string>
-    <string name="wifi_disconnect">Connect to the Amazfit app to check for updates</string>
-    <string name="connect_phone_wifi">"Check your phone's network connection to check for updates"</string>
-    <string name="connect_phone_input_wifi">Connect to the Amazfit app to enter Wi-Fi password for the watch</string>
-    <string name="wifi_add_item">Connect to the Amazfit app to add a new Wi-Fi hotspot</string>
-    <string name="add_wifi">Add Wi-Fi</string>
+    <string name="watch_ota">Regarder les mises à jour</string>
+    <string name="wifi_disconnect">Connectez-vous à l\'application Amazfit pour vérifier les mises à jour</string>
+    <string name="connect_phone_wifi">"Vérifiez la connexion réseau de votre téléphone pour vérifier les mises à jour"</string>
+    <string name="connect_phone_input_wifi">Connectez-vous à l\'application Amazfit pour entrer le mot de passe Wi-Fi pour la montre</string>
+    <string name="wifi_add_item">Connectez-vous à l\'application Amazfit pour ajouter un nouveau point d\'accès Wi-Fi</string>
+    <string name="add_wifi">Ajouter un Wi-Fi</string>
     <string name="please_update_rom">"Une mise à jour du système est disponible,
 merci de mettre à jour"</string>
-    <string name="checking_rom">Checking for updates…</string>
+    <string name="checking_rom">Vérification des mises à jour…</string>
     <string name="checking_rom_failed">"La connexion réseau a expiré,
 veuillez réessayer"</string>
-    <string name="current_is_new">Current version is up to date.</string>
+    <string name="current_is_new">La version actuelle est à jour.</string>
     <string name="has_new_rom">"Nouvelle version trouvée,
 mettre à jour vers la version %1$s ?"</string>
-    <string name="has_new_rom_all">"An update is available.
-Firmware on this watch is old. Updating may take a while."</string>
-    <string name="input_passwor_on_mobile">"Enter Wi-Fi password
-in the Amazfit app"</string>
-    <string name="processbar_downloading_rom">Downloading…</string>
+    <string name="has_new_rom_all">« Une mise à jour est disponible.
+Le firmware de cette montre est vieux. La mise à jour peut prendre un certain temps.»</string>
+    <string name="input_passwor_on_mobile">\"Entrez le mot de passe Wi-Fi
+dans l\'application Amazfit</string>
+    <string name="processbar_downloading_rom">Téléchargement en cours…</string>
     <string name="please_keep_wifi_connect">"Ne pas se déconnecter du Wi-Fi"</string>
     <string name="processbar_downloading_tips">%</string>
     <string name="processbar_downloading_default">0</string>
     <string name="download_rom_faild">"Echec du téléchargement du pack de mise à jour
 Veuillez réessayer."</string>
-    <string name="download_rom_success">"Downloaded ROM successfully.
-Install now."</string>
-    <string name="low_battery_message">"Downloaded updates successfully.
-Battery must be at least %1$s%% charged to install updates."</string>
-    <string name="low_battery_title">Connect charger</string>
-    <string name="progressbar_tips">Checking…</string>
+    <string name="download_rom_success">"ROM téléchargée avec succès.
+Installez maintenant."</string>
+    <string name="low_battery_message">"Mises à jour téléchargées avec succès.
+La batterie doit être facturée d\'au moins %1$s%% pour installer les mises à jour."</string>
+    <string name="low_battery_title">Connecter le chargeur</string>
+    <string name="progressbar_tips">Vérification…</string>
     <string name="progressbar_percent">%1$d%%</string>
-    <string name="low_mem">"Not enough storage space for an update.
-Free up %1$sMB to update."</string>
+    <string name="low_mem">"Pas assez d\'espace de stockage pour une mise à jour.
+Libérez jusqu\'à %1$sMo pour mettre à jour."</string>
     <string name="update_network_error">"Vérification échouée, merci de
 réessayer ultérieurement"</string>
     <string name="cancel_download">"Mise à jour des paquets,
 annuler?"</string>
     <string name="new_rom_please_install">"Une mise à jour du système est disponible,
 merci de mettre à jour"</string>
-    <string name="btn_install_later">Remind later</string>
-    <string name="btn_install_now">Install now</string>
-    <string name="btn_upgrade_now">Update now</string>
-    <string name="wifi_no_password">Not encrypted</string>
-    <string name="wifi_has_password">Encrypted</string>
-    <string name="wifi_password_error">Password is incorrect</string>
-    <string name="wifi_connecting">Connecting…</string>
-    <string name="wifi_auth">Verifying password…</string>
-    <string name="wifi_get_ip">Obtaining IP address…</string>
-    <string name="wifi_link_fail">"Couldn't connect"</string>
-    <string name="wifi_connected">Connected</string>
-    <string name="wifi_title">Choose a network</string>
-    <string name="wifi_wait_password">Waiting for password…</string>
-    <string name="toast_please_update_first">Update first</string>
-    <string name="wifi_turnon_going">Turning on Wi-Fi…</string>
-    <string name="system_update_title">Updated successfully</string>
-    <string name="system_update_content">Upgraded to version %1$s successfully</string>
+    <string name="btn_install_later">Rappeler plus tard</string>
+    <string name="btn_install_now">Installer maintenant</string>
+    <string name="btn_upgrade_now">Mettre à jour maintenant</string>
+    <string name="wifi_no_password">Non chiffré</string>
+    <string name="wifi_has_password">Chiffré</string>
+    <string name="wifi_password_error">Le mot de passe est incorrect</string>
+    <string name="wifi_connecting">Connexion en cours…</string>
+    <string name="wifi_auth">Vérification du mot de passe…</string>
+    <string name="wifi_get_ip">Obtention de l\'adresse IP…</string>
+    <string name="wifi_link_fail">"Impossible de se connecter"</string>
+    <string name="wifi_connected">Connecté</string>
+    <string name="wifi_title">Choisir un réseau</string>
+    <string name="wifi_wait_password">En attente du mot de passe…</string>
+    <string name="toast_please_update_first">Mettre à jour en premier</string>
+    <string name="wifi_turnon_going">Activation du Wi-Fi…</string>
+    <string name="system_update_title">Mis à jour avec succès</string>
+    <string name="system_update_content">Mise à jour vers la version %1$s réussie</string>
     <string name="password_error">"Mot de passe WiFi incorrect,
 Merci de réessayer"</string>
-    <string name="wifi_connect_fail">"Can\'t connect to this
-Wi-Fi network.
-Try another one."</string>
-    <string name="searching">Searching…</string>
-    <string name="hasNewUpdateTitle">An update is available</string>
+    <string name="wifi_connect_fail">"Impossible de se connecter à ce réseau Wi-Fi
+.
+Essayez un autre réseau."</string>
+    <string name="searching">Recherche en cours…</string>
+    <string name="hasNewUpdateTitle">Une mise à jour est disponible</string>
     <string name="hasNewUpdateInstallContent">Version %1$s is ready to install. Install now?</string>
     <string name="hasNewUpdateCheckContent">Version %1$s is available. Update now?</string>
     <string name="update_title">Select update method</string>
