@@ -354,14 +354,14 @@
     <string name="nodisturb_close_string">Désactivé</string>
     <string name="nodisturb_timepicker_connect_symbol">:</string>
     <string name="auto_nodisturb_title_string">Ne pas déranger auto</string>
-    <string name="auto_nodisturb_start_time_string">Temps activation</string>
+    <string name="auto_nodisturb_start_time_string">Temps d’activation</string>
     <string name="auto_screen_wristup_start_time_string">De</string>
     <string name="auto_nodisturb_end_time_string">Heure de désactivation</string>
     <string name="auto_screen_wristup_end_time_string">À</string>
     <string name="time_to">À</string>
     <string name="wrist_up_hand">Levée du poignet</string>
     <string name="wrist_up_hand_with_bl">Activer le rétroéclairage</string>
-    <string name="auto_wifi_trans_on_string">On</string>
+    <string name="auto_wifi_trans_on_string">Activé</string>
     <string name="auto_wifi_trans_off_string">Désactivé</string>
     <string name="blue_tooth_dev_in_sub_list">Bluetooth</string>
     <string name="scanning_blt_devices">Recherche en cours...</string>
@@ -422,39 +422,39 @@ et se trouve à proximité"</string>
     <string name="blt_headset_set_sport_heart">Utiliser la fréquence cardiaque du casque</string>
     <string name="blt_headset_set_operation">Options</string>
     <string name="blt_headset_selected">Sélectionné</string>
-    <string name="blt_headset_set_ear_closed">Disabled</string>
-    <string name="blt_headset_first_setting_tips_title">Whether to set the headset</string>
-    <string name="blt_headset_first_setting_tips_positive">Now</string>
-    <string name="blt_headset_first_setting_tips_negitive">Later</string>
-    <string name="battery_offline">Offline</string>
-    <string name="blt_headset_set_knock_fail">Setting failed, please exit and reconnect.</string>
-    <string name="phone_finding">Locating phone...</string>
+    <string name="blt_headset_set_ear_closed">Désactivé</string>
+    <string name="blt_headset_first_setting_tips_title">Définition ou non du casque</string>
+    <string name="blt_headset_first_setting_tips_positive">Maintenant </string>
+    <string name="blt_headset_first_setting_tips_negitive">Plus tard</string>
+    <string name="battery_offline">Hors ligne</string>
+    <string name="blt_headset_set_knock_fail">La configuration a échoué, veuillez quitter et reconnecter.</string>
+    <string name="phone_finding">Localisation du téléphone...</string>
     <string name="phone_found">Téléphone trouvé</string>
     <string name="phone_not_connected">Téléphone non connecté</string>
-    <string name="phone_not_found">Phone not found</string>
+    <string name="phone_not_found">Téléphone introuvable</string>
     <string name="start_testing">Démarrer</string>
-    <string name="lab_wifi_test_tip_retry">Please retry!!</string>
-    <string name="lab_wifi_test_tip_testing">Testing…</string>
-    <string name="lab_wifi_test_tip_pass">Pass!!</string>
-    <string name="lab_wifi_test_tip_fail">Fail!!</string>
-    <string name="lab_wifi_test_tip_open_wifi">Opening WIFI</string>
+    <string name="lab_wifi_test_tip_retry">Veuillez réessayer !!</string>
+    <string name="lab_wifi_test_tip_testing">Test en cours…</string>
+    <string name="lab_wifi_test_tip_pass">Passage !!</string>
+    <string name="lab_wifi_test_tip_fail">Erreur!!</string>
+    <string name="lab_wifi_test_tip_open_wifi">Ouverture du WIFI</string>
     <string name="light_off">Désactivé</string>
     <string name="light_auto">Auto</string>
-    <string name="light_on">Always On</string>
-    <string name="rise_no_bl_under_slpt">Unlocked Only</string>
-    <string name="subtitle_of_raise_hand_no_bl">Auto when unlocked</string>
-    <string name="rise_with_bl_under_slpt">On</string>
+    <string name="light_on">Toujours allumé</string>
+    <string name="rise_no_bl_under_slpt">Déverrouillé uniquement</string>
+    <string name="subtitle_of_raise_hand_no_bl">Automatique quand déverrouillé</string>
+    <string name="rise_with_bl_under_slpt">Activé</string>
     <string name="rise_without_bl_under_slpt">Désactivé</string>
-    <string name="locale_main">Language</string>
-    <string name="locale_applying">Language applying...</string>
+    <string name="locale_main">Langue</string>
+    <string name="locale_applying">Application de la langue...</string>
     <string name="confirm_change_locale">"Changer de langue vers 
 %1$s?"</string>
-    <string name="gender">Gender</string>
+    <string name="gender">Sexe</string>
     <string name="birth_year">Année de Naissance</string>
-    <string name="height">Height</string>
-    <string name="weight">Weight</string>
-    <string name="male">Male</string>
-    <string name="female">Female</string>
+    <string name="height">Hauteur</string>
+    <string name="weight">Poids</string>
+    <string name="male">Homme</string>
+    <string name="female">Femme</string>
     <string name="centimeter">cm</string>
     <string name="birth_year_unit">"Année de 
 Naissance"</string>
@@ -462,46 +462,46 @@ Naissance"</string>
 cm"</string>
     <string name="weight_unit">"Poids 
 kg"</string>
-    <string name="reset_factory_hint">"Once the watch is reset to factory default settings, 
-all data in the watch will be deleted, and the watch will be disconnected from your mobile."</string>
-    <string name="reset_factory_hint_cn">"Once the watch is reset to factory default settings, all data in the watch will be deleted, and the watch will be disconnected from your mobile. 
- The current activated transportation card can still be used after the watch is bound with your mobile again."</string>
+    <string name="reset_factory_hint">\"Une fois que la montre sera réinitialisée aux paramètres par défaut d\'usine, 
+toutes les données de la montre seront supprimées, et la montre sera déconnectée de votre mobile. »</string>
+    <string name="reset_factory_hint_cn">\"Une fois que la montre est réinitialisée aux paramètres par défaut d\'usine, toutes les données de la montre seront supprimées, et la montre sera déconnectée de votre mobile. 
+ La carte de transport actuellement activée peut encore être utilisée après que la montre soit à nouveau liée à votre mobile! »</string>
     <string name="reset_factory_yes">Reset</string>
     <string name="reset_factory_no">Annuler</string>
-    <string name="reset_factory_title">Factory Reset</string>
-    <string name="reset_factory_noconnect_msg">"If Needing to Unbind the Watch, Please Operate Through Amazfit App. 
- Watch’s Unilateral Factory Reset Will Remove UnionPay Card and Transportation Card. 
- A Removed UnionPay Card: It Can No Longer Be Bound to The Watch. If You Need to Bind Again, Please Consult the Bank Customer Service. 
- A Removed Transportation Card: Will Be Destroyed Permanently and Cannot Be Paid Again."</string>
-    <string name="reset_factory_conncet_msg">Watch and Amazfit App will Remove the Bound UnionPay Card. The Watch will Retain the Payment Function of the Transportation Card.</string>
-    <string name="reset_factory_positive">Factory Reset</string>
+    <string name="reset_factory_title">Réinitialisation d\'usine</string>
+    <string name="reset_factory_noconnect_msg">"Si vous avez besoin de débloquer la montre, veuillez opérer via l\'application Amazfit. 
+ La montre Unilateral Factory Reset supprimera la carte UnionPay et la carte de transport. 
+ Une carte UnionPay retirée : Elle ne peut plus être liée à la montre. Si vous avez besoin de lier à nouveau, veuillez consulter le service à la clientèle de la banque. 
+ Une carte de transport retirée : sera détruite définitivement et ne pourra pas être payée à nouveau."</string>
+    <string name="reset_factory_conncet_msg">La montre et l\'application Amazfit retireront la carte UnionPay de la bordure. La montre conservera la fonction de paiement de la carte de transport.</string>
+    <string name="reset_factory_positive">Réinitialisation d\'usine</string>
     <string name="reset_factory_negative">Annuler</string>
-    <string name="reset_factory_fail_title">Unsuccessful Factory Reset</string>
-    <string name="reset_factory_fail_msg">If the UnionPay Card Is Not Successfully Removed, Please Try Again.</string>
+    <string name="reset_factory_fail_title">Échec de la réinitialisation d\'usine</string>
+    <string name="reset_factory_fail_msg">Si la carte UnionPay n\'est pas retirée avec succès, veuillez essayer à nouveau.</string>
     <string name="reset_factory_fail_positive">Ok</string>
-    <string name="reset_factory_doing1">Factory Reset Is Being Made</string>
-    <string name="reset_factory_doing2">UnionPay Card Is Being Removed</string>
-    <string name="reset_factory_bank_title">Please Remove the UnionPay Card at First</string>
-    <string name="reset_factory_bank_msg">"If Reset the Watch without Removing the UnionPay Card, It will Cause the UnionPay Card: 
- 1. Cannot be Removed from the Watch, Occupying Chip Space;  2. Cannot Use the Payment Function in the Watch;  3. Cannot Be Bound by Other Devices; For Payment Security, Please First Remove the UnionPay Card from Amazfit App."</string>
-    <string name="reset_factory_bank_yes">Continue Factory Reset</string>
+    <string name="reset_factory_doing1">La réinitialisation d\'usine est en cours de réalisation</string>
+    <string name="reset_factory_doing2">La carte UnionPay est en cours de suppression</string>
+    <string name="reset_factory_bank_title">Veuillez retirer la carte UnionPay en premier</string>
+    <string name="reset_factory_bank_msg">\"If Reset the Watch without Removing the UnionPay Card, It will Cause the UnionPay Card: 
+ 1. Ne peut pas être retiré du Guet, Occuper un espace de puces; 2. Impossible d\'utiliser la fonction de paiement dans la montre ; 3. Ne peut pas être lié par d\'autres appareils ; Pour la sécurité du paiement, veuillez d\'abord retirer la carte UnionPay de l\'application Amazfit</string>
+    <string name="reset_factory_bank_yes">Continuer la réinitialisation d\'usine</string>
     <string name="reset_factory_bank_no">Annuler</string>
-    <string name="reset_factory_bank_msg_again">"Once the watch is reset to factory default settings, all data in the watch will be deleted, and the watch will be disconnected from your mobile. 
- The current activated transportation card can still be used after the watch is bound with your mobile again."</string>
-    <string name="lockpassword_confirm_your_pattern_header">Confirm Your Pattern</string>
-    <string name="lockpattern_need_to_unlock">Draw Unlocking Pattern</string>
+    <string name="reset_factory_bank_msg_again">\"Une fois que la montre est réinitialisée aux paramètres par défaut d\'usine, toutes les données de la montre seront supprimées, et la montre sera déconnectée de votre mobile. 
+ La carte de transport actuellement activée peut encore être utilisée après que la montre soit à nouveau liée à votre mobile! »</string>
+    <string name="lockpassword_confirm_your_pattern_header">Confirmez votre schéma</string>
+    <string name="lockpattern_need_to_unlock">Dessiner le schéma de déverrouillage</string>
     <string name="lockpattern_need_to_unlock_footer"></string>
     <string name="lockpattern_need_to_unlock_wrong"></string>
     <string name="lockpattern_need_to_unlock_wrong_footer"></string>
-    <string name="lockpattern_too_many_failed_confirmation_attempts_header">Too Many Errors！</string>
-    <string name="lockpattern_too_many_failed_confirmation_attempts_footer">%d Retry after Several Seconds</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_header">Trop d\'erreurs !</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_footer">%d Réessayer après plusieurs secondes</string>
     <string name="lockpattern_tutorial_cancel_label">Annuler</string>
-    <string name="lockpattern_tutorial_continue_label">Next</string>
-    <string name="lockpassword_choose_your_pattern_header">Select Your Pattern</string>
+    <string name="lockpattern_tutorial_continue_label">Suivant</string>
+    <string name="lockpassword_choose_your_pattern_header">Sélectionnez votre modèle</string>
     <string name="lockpattern_recording_inprogress"></string>
     <string name="cancel">Annuler</string>
-    <string name="lockpattern_retry_button_text">Retry</string>
-    <string name="lockpattern_continue_button_text">Continue</string>
+    <string name="lockpattern_retry_button_text">Réessayer</string>
+    <string name="lockpattern_continue_button_text">Continuer</string>
     <string name="lockpattern_confirm_button_text">Confirmer</string>
     <string name="lockpattern_recording_intro_header">Dessiner le schéma de déverrouillage</string>
     <string name="lockpattern_settings_help_how_to_record">Comment dessiner le schéma de déverrouillage ?</string>
