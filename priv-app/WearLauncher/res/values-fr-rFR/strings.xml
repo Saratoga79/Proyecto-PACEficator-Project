@@ -23,7 +23,7 @@
     <string name="notification_detail_content_title">Détails de l\'information</string>
     <string name="notification_fix_message_action1">Épingler ce message</string>
     <string name="notification_fix_message_reset">Réinitialisation</string>
-    <string name="notification_fix_message_cancel">Unpin</string>
+    <string name="notification_fix_message_cancel">Décrocher</string>
     <string name="quick_settings_airplane_mode">"Avion
  %1$s"</string>
     <string name="quick_settings_no_disturb_mode">"DND
@@ -42,38 +42,38 @@
     <string name="quick_settings_toast_off">Désactivé</string>
     <string name="quick_settings_status">Pas connecté</string>
     <string name="quick_settings_no_disturb_toast">"Vous ne recevrez plus de notifications."</string>
-    <string name="quick_settings_auto_light_toast">Keeping the screen on reduces battery life.</string>
-    <string name="quick_settings_status_month">Month</string>
-    <string name="quick_settings_status_day">Day  </string>
-    <string name="quick_settings_connected">Connected</string>
-    <string name="quick_settings_disconnect">Not connected</string>
-    <string name="quick_settings_unbound">Pair device first</string>
-    <string name="quick_settings_date_chinese">MM/dd/yyyy</string>
+    <string name="quick_settings_auto_light_toast">Garder l\'écran allumé réduit la durée de vie de la batterie.</string>
+    <string name="quick_settings_status_month">Mois</string>
+    <string name="quick_settings_status_day">Jours</string>
+    <string name="quick_settings_connected">Connecté</string>
+    <string name="quick_settings_disconnect">Non connecté</string>
+    <string name="quick_settings_unbound">Associer l\'appareil en premier</string>
+    <string name="quick_settings_date_chinese">dd/MM/yyyy</string>
     <string name="quick_settings_date_format">1/31/1900</string>
-    <string name="quick_settings_date_yeareve">"Chinese New Year's Eve"</string>
-    <string name="seconed_confirm_nodisturb">"DND mode is on.
-Can\'t receive notifications."</string>
-    <string name="quick_settings_battery_charging_full">Fully charged</string>
-    <string name="quick_settings_battery_is_charging">Charging</string>
-    <string name="quick_settings_battery_hasnot_charged">No charging history</string>
-    <string name="quick_settings_battery_charging_intervalDay">Last charged %1$dd %2$dh ago</string>
-    <string name="quick_settings_battery_charging_intervalDay_lessHour">"Last charged
-%dd ago"</string>
-    <string name="quick_settings_battery_charging_intervalDayLess">"Last charged
-%dh ago"</string>
-    <string name="quick_settings_battery_charging_intervalLessHour">"Last charged
-less than 1h ago"</string>
-    <string name="quick_settings_battery_sportString">You can keep running.</string>
+    <string name="quick_settings_date_yeareve">"Nouvel An Chinois"</string>
+    <string name="seconed_confirm_nodisturb">Le mode \"Ne pas déranger est activé.
+Impossible de recevoir les notifications.\"</string>
+    <string name="quick_settings_battery_charging_full">Entièrement chargé</string>
+    <string name="quick_settings_battery_is_charging">Recharge en cours</string>
+    <string name="quick_settings_battery_hasnot_charged">Aucun historique de chargement</string>
+    <string name="quick_settings_battery_charging_intervalDay">Dernière charge il y a %1$dj %2$dh</string>
+    <string name="quick_settings_battery_charging_intervalDay_lessHour">"Dernière charge il y a
+%dj"</string>
+    <string name="quick_settings_battery_charging_intervalDayLess">"Dernière charge il y a
+%dheures"</string>
+    <string name="quick_settings_battery_charging_intervalLessHour">"Dernière charge
+il y a moins d\'une heure"</string>
+    <string name="quick_settings_battery_sportString">Vous pouvez continuer à fonctionner.</string>
     <string name="quick_settings_battery_sporttime_hour_unit">h</string>
     <string name="quick_settings_battery_sporttime_KM_unit">km</string>
     <string name="quick_settings_battery_level_unit">%</string>
     <string name="quick_settings_battery_sporttime_MI_unit">mi</string>
-    <string name="splash_hint">Initializing ...</string>
+    <string name="splash_hint">Initialisation ...</string>
     <string name="header_incomming_call_name"></string>
-    <string name="header_incomming_call_hint">Incoming call</string>
-    <string name="header_incomming_call_mobilephone">Phone</string>
-    <string name="header_incomming_call_landlinephone">Landline</string>
-    <string name="header_incomming_call_searchinglocation">Attribution querying...</string>
+    <string name="header_incomming_call_hint">Appel entrant</string>
+    <string name="header_incomming_call_mobilephone">Téléphone</string>
+    <string name="header_incomming_call_landlinephone">Ligne fixe</string>
+    <string name="header_incomming_call_searchinglocation">Requête d\'attribution...</string>
     <string name="header_incomming_call_mobile_virtual">Mobile Virtual Carriers</string>
     <string name="header_incomming_call_unicom_virtual">Unicom Virtual Carriers</string>
     <string name="header_incomming_call_telecom_virtual">Telecom Virtual Carriers</string>
