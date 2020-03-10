@@ -477,55 +477,55 @@ Contactez votre opérateur pour obtenir une autre carte SIM."</string>
     <string name="keyguard_accessibility_transport_heart_description">Favori</string>
     <string name="keyguard_accessibility_show_bouncer">Déverrouiller pour continuer</string>
     <string name="keyguard_accessibility_hide_bouncer">Lancement annulé</string>
-    <string name="keyguard_accessibility_delete_widget_start">Drop %1$s to delete.</string>
-    <string name="keyguard_accessibility_delete_widget_end">%1$s will not be deleted.</string>
-    <string name="keyguard_accessibility_next_alarm">Next alarm set for %1$s</string>
+    <string name="keyguard_accessibility_delete_widget_start">Déposer %1$s pour supprimer.</string>
+    <string name="keyguard_accessibility_delete_widget_end">%1$s ne seront pas supprimés.</string>
+    <string name="keyguard_accessibility_next_alarm">Prochaine alarme pour %1$s</string>
     <string name="password_keyboard_label_symbol_key">\?123</string>
     <string name="password_keyboard_label_alpha_key">ABC</string>
     <string name="password_keyboard_label_alt_key">ALT</string>
     <string name="keyboardview_keycode_alt">Alt</string>
     <string name="keyboardview_keycode_cancel">Annuler</string>
     <string name="keyboardview_keycode_delete">Supprimer</string>
-    <string name="keyboardview_keycode_done">Done</string>
-    <string name="keyboardview_keycode_mode_change">Mode change</string>
-    <string name="keyboardview_keycode_shift">Shift</string>
-    <string name="keyboardview_keycode_enter">Enter</string>
-    <string name="description_target_unlock">Unlock</string>
-    <string name="description_target_camera">Camera</string>
-    <string name="description_target_silent">Silent</string>
-    <string name="description_target_soundon">Sound on</string>
-    <string name="description_direction_down">Slide down for %s.</string>
-    <string name="description_direction_right">Slide right for %s.</string>
-    <string name="user_switched">Current user %1$s.</string>
-    <string name="kg_emergency_call_label">Emergency call</string>
-    <string name="kg_forgot_pattern_button_text">Forgot Pattern</string>
-    <string name="kg_wrong_pattern">Wrong Pattern</string>
-    <string name="kg_wrong_password">Wrong Password</string>
-    <string name="kg_wrong_pin">Wrong PIN</string>
-    <string name="kg_too_many_failed_attempts_countdown">Try again in %d seconds.</string>
-    <string name="kg_pattern_instructions">Draw your pattern</string>
-    <string name="kg_sim_pin_instructions">Enter SIM PIN</string>
-    <string name="kg_sim_pin_instructions_multi">Enter SIM PIN for \"%1$s\"</string>
-    <string name="kg_pin_instructions">Enter PIN</string>
-    <string name="kg_password_instructions">Enter Password</string>
-    <string name="kg_puk_enter_puk_hint">SIM is now disabled. Enter PUK code to continue. Contact carrier for details.</string>
-    <string name="kg_puk_enter_puk_hint_multi">SIM \"%1$s\" is now disabled. Enter PUK code to continue. Contact carrier for details.</string>
-    <string name="kg_puk_enter_pin_hint">Enter desired PIN code</string>
-    <string name="kg_enter_confirm_pin_hint">Confirm desired PIN code</string>
-    <string name="kg_sim_unlock_progress_dialog_message">Unlocking SIM card…</string>
-    <string name="kg_invalid_sim_pin_hint">Type a PIN that is 4 to 8 numbers.</string>
-    <string name="kg_invalid_sim_puk_hint">PUK code should be 8 numbers or more.</string>
-    <string name="kg_invalid_puk">Re-enter the correct PUK code. Repeated attempts will permanently disable the SIM.</string>
-    <string name="kg_invalid_confirm_pin_hint">PIN codes does not match</string>
-    <string name="kg_login_too_many_attempts">Too many pattern attempts</string>
-    <string name="kg_login_instructions">To unlock, sign in with your Google account.</string>
-    <string name="kg_login_username_hint">Username (email)</string>
-    <string name="kg_login_password_hint">Password</string>
-    <string name="kg_login_submit_button">Sign in</string>
-    <string name="kg_login_invalid_input">Invalid username or password.</string>
+    <string name="keyboardview_keycode_done">Fait</string>
+    <string name="keyboardview_keycode_mode_change">Changement de mode</string>
+    <string name="keyboardview_keycode_shift">Maj</string>
+    <string name="keyboardview_keycode_enter">Entrer</string>
+    <string name="description_target_unlock">Déverrouiller</string>
+    <string name="description_target_camera">Appareil photo</string>
+    <string name="description_target_silent">Silencieux</string>
+    <string name="description_target_soundon">Son activé</string>
+    <string name="description_direction_down">Glisser vers le bas pour %s.</string>
+    <string name="description_direction_right">Glisser vers la droite pour %s.</string>
+    <string name="user_switched">Utilisateur actuel %1$s.</string>
+    <string name="kg_emergency_call_label">Appel d\'urgence</string>
+    <string name="kg_forgot_pattern_button_text">Schéma oublié</string>
+    <string name="kg_wrong_pattern">Mauvais motif</string>
+    <string name="kg_wrong_password">Mot de passe incorrect</string>
+    <string name="kg_wrong_pin">Mauvais code PIN</string>
+    <string name="kg_too_many_failed_attempts_countdown">Réessayez dans %d secondes.</string>
+    <string name="kg_pattern_instructions">Dessinez votre schéma</string>
+    <string name="kg_sim_pin_instructions">Entrez le code PIN de la carte SIM</string>
+    <string name="kg_sim_pin_instructions_multi">Entrez le code PIN de la carte SIM pour \"%1$s\"</string>
+    <string name="kg_pin_instructions">Saisir le code PIN</string>
+    <string name="kg_password_instructions">Entrez le mot de passe</string>
+    <string name="kg_puk_enter_puk_hint">La carte SIM est maintenant désactivée. Entrez le code PUK pour continuer. Contactez votre opérateur pour plus de détails.</string>
+    <string name="kg_puk_enter_puk_hint_multi">La carte SIM \"%1$s\" est maintenant désactivée. Entrez le code PUK pour continuer. Contactez votre opérateur pour plus de détails.</string>
+    <string name="kg_puk_enter_pin_hint">Saisir le code PIN souhaité</string>
+    <string name="kg_enter_confirm_pin_hint">Confirmez le code PIN désiré</string>
+    <string name="kg_sim_unlock_progress_dialog_message">Déverrouillage de la carte SIM…</string>
+    <string name="kg_invalid_sim_pin_hint">Saisissez un code PIN de 4 à 8 chiffres.</string>
+    <string name="kg_invalid_sim_puk_hint">Le code PUK doit contenir au moins 8 chiffres.</string>
+    <string name="kg_invalid_puk">Entrez à nouveau le code PUK correct. Les tentatives répétées désactiveront définitivement la carte SIM.</string>
+    <string name="kg_invalid_confirm_pin_hint">Les codes PIN ne correspondent pas</string>
+    <string name="kg_login_too_many_attempts">Trop de tentatives ratées.</string>
+    <string name="kg_login_instructions">Pour déverrouiller, connectez-vous avec votre compte Google.</string>
+    <string name="kg_login_username_hint">Nom d\'utilisateur (email)</string>
+    <string name="kg_login_password_hint">Mot de passe</string>
+    <string name="kg_login_submit_button">Se connecter</string>
+    <string name="kg_login_invalid_input">Nom d\'utilisateur ou mot de passe invalide.</string>
     <string name="kg_login_account_recovery_hint">\"Identifiant ou mot de passe oublié?
 Allez sur \"<b>google.com/accounts/recovery</b>.</string>
-    <string name="kg_login_checking_password">Checking account…</string>
+    <string name="kg_login_checking_password">Vérification du compte…</string>
     <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"Vous avez saisi un code PIN incorrect à %d reprises. 
 
 Veuillez réessayer dans %d secondes."</string>
@@ -535,8 +535,8 @@ Veuillez réessayer dans %d secondes."</string>
     <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Vous avez reproduit un schéma de déverrouillage incorrect à %d reprises.
 
 Veuillez réessayer dans %d secondes."</string>
-    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">You have incorrectly attempted to unlock the tablet %d times. After %d more unsuccessful attempts, this tablet will be reset, which will delete all its data.</string>
-    <string name="kg_failed_attempts_now_wiping">You have incorrectly attempted to unlock the tablet %d times. This tablet will be reset, which will delete all its data.</string>
+    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Vous avez tenté de déverrouiller la tablette de façon incorrecte %d fois. Après %d tentatives infructueuses, cette tablette sera réinitialisée, ce qui supprimera toutes ses données.</string>
+    <string name="kg_failed_attempts_now_wiping">Vous avez tenté de déverrouiller la tablette de façon incorrecte %d fois. Cette tablette sera réinitialisée, ce qui supprimera toutes ses données.</string>
     <string name="kg_failed_attempts_almost_at_erase_user" formatted="false">Vous avez tenté de déverrouiller la tablette de façon incorrecte %d fois. Après %d tentatives infructueuses, cet utilisateur sera supprimé, ce qui supprimera toutes les données de l\'utilisateur.</string>
     <string name="kg_failed_attempts_now_erasing_user">Vous avez tenté de déverrouiller la tablette de manière incorrecte %d fois. Cet utilisateur sera supprimé, ce qui supprimera toutes les données de l\'utilisateur.</string>
     <string name="kg_failed_attempts_almost_at_erase_profile" formatted="false">Vous avez tenté de déverrouiller la tablette de façon incorrecte %d fois. Après %d tentatives infructueuses, le profil professionnel sera supprimé, ce qui supprimera toutes les données du profil.</string>
