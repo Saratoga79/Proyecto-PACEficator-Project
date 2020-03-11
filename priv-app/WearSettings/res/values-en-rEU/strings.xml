@@ -326,22 +326,22 @@ aldatu?</string>
     <string name="reset_factory_yes">Erlojua berrezarri</string>
     <string name="reset_factory_no">Ezeztatu</string>
     <string name="reset_factory_title">Erlojua berrezarri</string>
-    <string name="reset_factory_noconnect_msg">"If Needing to Unbind the Watch, Please Operate Through Amazfit Watch App. 
- Watch’s Unilateral Factory Reset Will Remove UnionPay Card and Transportation Card. 
- A Removed UnionPay Card: It Can No Longer Be Bound to The Watch. If You Need to Bind Again, Please Consult the Bank Customer Service. 
- A Removed Transportation Card: Will Be Destroyed Permanently and Cannot Be Paid Again."</string>
-    <string name="reset_factory_conncet_msg">Watch and Amazfit watch App will Remove the Bound UnionPay Card. The Watch will Retain the Payment Function of the Transportation Card.</string>
+    <string name="reset_factory_noconnect_msg">"Erlojua desblokeatu behar baduzu, egin eragiketa Amazfit aplikazioaren bidez.
+  Watch-ren fabrikak aldebakarreko berrezarpenak UnionPay txartela eta garraio txartela kenduko ditu.
+  Kendutako UnionPay txartela: Ezin izango da gehiago erlojuarekin lotu. Berriro lotu behar baduzu, mesedez, kontsultatu Bankuko Bezeroarentzako Arreta Zerbitzua.
+  Kendutako garraio txartela: behin betiko suntsituko da eta ezin da berriro ordaindu. "</string>
+    <string name="reset_factory_conncet_msg">Erlojua eta Amazfit App-akUnionPay txartela ezabatuko dute. Erlojuak Garraio Txartelaren Ordainketa Funtzioa mantenduko du.</string>
     <string name="reset_factory_positive">Erlojua berrezarri</string>
     <string name="reset_factory_negative">Ezeztatu</string>
-    <string name="reset_factory_fail_title">Unsuccessful Factory Reset</string>
-    <string name="reset_factory_fail_msg">If the UnionPay Card Is Not Successfully Removed, Please Try Again.</string>
+    <string name="reset_factory_fail_title">Fabrika balioak ez dira ezarri</string>
+    <string name="reset_factory_fail_msg">UnionPay txartela ez bada arrakastaz kendu, saiatu berriro.</string>
     <string name="reset_factory_fail_positive">OK</string>
     <string name="reset_factory_doing1">Fabrika baioak ezartzen</string>
-    <string name="reset_factory_doing2">UnionPay Card Is Being Removed</string>
+    <string name="reset_factory_doing2">UnionPay txartela ezabatzen</string>
     <string name="reset_factory_hint_cn">Disconnect from Your Mobile Phone and Delete All Data in Your Watch after Factory Reset. After Binding The Watch the Next Time, the Current Opened Transportation Card Can Continue to Be Used.</string>
-    <string name="reset_factory_bank_title">Please Remove the UnionPay Card at First</string>
-    <string name="reset_factory_bank_msg">"If Reset the Watch without Removing the UnionPay Card, It will Cause the UnionPay Card: 
- 1. Cannot be Removed from the Watch, Occupying Chip Space;  2. Cannot Use the Payment Function in the Watch;  3. Cannot Be Bound by Other Devices; For Payment Security, Please First Remove the UnionPay Card from Amazfit Watch App."</string>
+    <string name="reset_factory_bank_title">UnionPay txartela ezabatu</string>
+    <string name="reset_factory_bank_msg">"Erlojua berrezarri UnionPay txartela kendu gabe, UnionPay txartela eragingo du:
+  1. Ezin da Erlojutik kendu, Chip Tokia okupatuz; 2. Ezin da erlojuan Ordainketa Funtzioa erabili; 3. Ezin da beste gailu batzuekin lotu; Ordainketa segurtasuna lortzeko, Mesedez, kendu UnionPay txartela Amazfit aplikaziotik. "</string>
     <string name="reset_factory_bank_yes">Fabrika balioak ezarri</string>
     <string name="reset_factory_bank_no">Ezeztatu</string>
     <string name="reset_factory_bank_msg_again">The Watch Will Disconnect from Your Mobile Phone and Delete All Data in the Watch. After the Watch Is Re-bound, the Currently Opened Transportation Card Can Continue to Be Used.</string>
@@ -350,8 +350,8 @@ aldatu?</string>
     <string name="lockpattern_need_to_unlock_footer"></string>
     <string name="lockpattern_need_to_unlock_wrong"></string>
     <string name="lockpattern_need_to_unlock_wrong_footer"></string>
-    <string name="lockpattern_too_many_failed_confirmation_attempts_header">Too Many Errors！</string>
-    <string name="lockpattern_too_many_failed_confirmation_attempts_footer">%d Retry after Several Seconds</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_header">Akats gehiegi!</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_footer">%d berriro saiatu hainbat segundu pasa eta gero</string>
     <string name="lockpattern_tutorial_cancel_label">Ezeztatu</string>
     <string name="lockpattern_tutorial_continue_label">Hurrengoa</string>
     <string name="lockpassword_choose_your_pattern_header">Patroia ezarri</string>
@@ -369,23 +369,23 @@ aldatu?</string>
     <string name="app_notifications_dialog_done">Burututa</string>
     <string name="lockpattern_cancel">Patroia</string>
     <string name="lockpattern_change">Pasahitza aldatu</string>
-    <string name="lockpattern_change_state">Change Watch Status</string>
+    <string name="lockpattern_change_state">Erlojuaren egoera aldatu</string>
     <string name="lockpattern_exist">On</string>
     <string name="lockpattern_exist_no">Off</string>
     <string name="unlock_disable_lock_pattern_summary">Desblokeo patroia kendu</string>
-    <string name="unlock_disable_frp_warning_content">The Device Protection Function Will No Longer Function.</string>
+    <string name="unlock_disable_frp_warning_content">Gailuaren babesa ez da gehiago ibiliko</string>
     <string name="okay">Baieztatu</string>
     <string name="exit">Atera</string>
     <string name="pattern_set_title">Segurtasuna</string>
-    <string name="watch_state">Screensaver Setting</string>
+    <string name="watch_state">Pantaila babeslearen ezarpena</string>
     <string name="unwear">Eskumuturretik kendu</string>
     <string name="wear">Eskumuturrean jantzi</string>
-    <string name="lockpattern_need_confirm">Please Draw Again</string>
-    <string name="lockpattern_pattern_short">Please Connect at Least 4 Points</string>
-    <string name="lockpattern_confirm_wrong">Pattern Inconformity</string>
-    <string name="lockpattern_change_none">There Is No Unlocking Pattern Currently</string>
+    <string name="lockpattern_need_confirm">Marraztu berriro</string>
+    <string name="lockpattern_pattern_short">Gutxienez 4 puntu konektatu</string>
+    <string name="lockpattern_confirm_wrong">Patroi desadostasuna</string>
+    <string name="lockpattern_change_none">Ez dago desblokeo patroirik</string>
     <string name="security_lockpattern">Patroia</string>
-    <string name="lockpattern_need_confirm_guide">Please Draw the Current Pattern</string>
+    <string name="lockpattern_need_confirm_guide">Patroia marrazru ezazu</string>
     <string name="time_zone">Ordu gunea</string>
     <string name="date">Data</string>
     <string name="time">Ordua</string>
