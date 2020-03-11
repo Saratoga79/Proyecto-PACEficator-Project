@@ -2,81 +2,80 @@
 <resources>
     <string name="app_name">otawatch</string>
     <string name="action_settings">Impostazioni</string>
-    <string name="watch_ota">Watch updates</string>
-    <string name="wifi_disconnect">Connect to the Amazfit app to check for updates</string>
-    <string name="connect_phone_wifi">"Check your phone's network connection to check for updates"</string>
-    <string name="connect_phone_input_wifi">Connect to the Amazfit app to enter Wi-Fi password for the watch</string>
-    <string name="wifi_add_item">Connect to the Amazfit app to add a new Wi-Fi hotspot</string>
-    <string name="add_wifi">Add Wi-Fi</string>
+    <string name="watch_ota">Aggiornamenti orologio</string>
+    <string name="wifi_disconnect">Connettiti all\'app Amazfit per controllare la presenza di aggiornamenti</string>
+    <string name="connect_phone_wifi">"Controlla la connessione di rete del tuo telefono per cercare aggiornamenti"</string>
+    <string name="connect_phone_input_wifi">Connettiti all\'app Amazfit per inserire la password Wi-Fi per l\'orologio</string>
+    <string name="wifi_add_item">Connettiti all\'app Amazfit per aggiungere un nuovo hotspot Wi-Fi</string>
+    <string name="add_wifi">Aggiungi WiFi</string>
     <string name="please_update_rom">"Aggiornamento disponibile,
 aggiornare!"</string>
-    <string name="checking_rom">Checking for updates…</string>
-    <string name="checking_rom_failed">"Network connection timed out.
-Try again."</string>
-    <string name="current_is_new">Current version is up to date.</string>
+    <string name="checking_rom">Ricerca aggiornamenti...</string>
+    <string name="checking_rom_failed">Timeout della connessione di rete. Per favore riprova.</string>
+    <string name="current_is_new">La versione corrente è aggiornata</string>
     <string name="has_new_rom">"Nuova versione trovata,
 aggiornare alla versione %1$s?"</string>
     <string name="has_new_rom_all">Nuova versione disponibile,
     vuoi aggiornare?</string>
-    <string name="input_passwor_on_mobile">"Enter Wi-Fi password
-in the Amazfit app"</string>
-    <string name="processbar_downloading_rom">Downloading…</string>
-    <string name="please_keep_wifi_connect">"Don't disconnect from Wi-Fi"</string>
+    <string name="input_passwor_on_mobile">\"Inserisci la password Wi-Fi
+nell\'app Amazfit</string>
+    <string name="processbar_downloading_rom">Download…</string>
+    <string name="please_keep_wifi_connect">"Non disconnetterti dal Wi-Fi"</string>
     <string name="processbar_downloading_tips">%</string>
     <string name="processbar_downloading_default">0</string>
     <string name="download_rom_faild">"Errore nel download,
 riprova più tardi."</string>
-    <string name="download_rom_success">"Downloaded ROM successfully.
-Install now."</string>
-    <string name="low_battery_message">"Downloaded updates successfully.
-Battery must be at least %1$s%% charged to install updates."</string>
-    <string name="low_battery_title">Connect charger</string>
-    <string name="progressbar_tips">Checking…</string>
+    <string name="download_rom_success">"ROM scaricata con successo.
+Installa ora."</string>
+    <string name="low_battery_message">"Aggiornamenti scaricati correttamente.
+Batteria deve essere ricaricata almeno il %1$s%% per installare aggiornamenti."</string>
+    <string name="low_battery_title">Collega il caricabatterie</string>
+    <string name="progressbar_tips">Verifica…</string>
     <string name="progressbar_percent">%1$d%%</string>
-    <string name="low_mem">"Not enough storage space for an update.
-Free up %1$sMB to update."</string>
-    <string name="update_network_error">"Couldn\'t check for updates.
-Try again later."</string>
+    <string name="low_mem">"Spazio di archiviazione insufficiente per un aggiornamento.
+Libera %1$sMB per aggiornare."</string>
+    <string name="update_network_error">"Impossibile controllare gli aggiornamenti.
+Riprova più tardi."</string>
     <string name="cancel_download">"Download aggiornamento in corso,
 annullare?"</string>
     <string name="new_rom_please_install">"Aggiornamento disponibile,
 aggiornare!"</string>
-    <string name="btn_install_later">Remind later</string>
-    <string name="btn_install_now">Install now</string>
-    <string name="btn_upgrade_now">Update now</string>
-    <string name="wifi_no_password">Not encrypted</string>
-    <string name="wifi_has_password">Encrypted</string>
-    <string name="wifi_password_error">Password is incorrect</string>
-    <string name="wifi_connecting">Connecting…</string>
-    <string name="wifi_auth">Verifying password…</string>
-    <string name="wifi_get_ip">Obtaining IP address…</string>
-    <string name="wifi_link_fail">"Couldn't connect"</string>
-    <string name="wifi_connected">Connected</string>
-    <string name="wifi_title">Choose a network</string>
-    <string name="wifi_wait_password">Waiting for password…</string>
-    <string name="toast_please_update_first">Update first</string>
-    <string name="wifi_turnon_going">Turning on Wi-Fi…</string>
-    <string name="system_update_title">Updated successfully</string>
-    <string name="system_update_content">Upgraded to version %1$s successfully</string>
+    <string name="btn_install_later">Ricordami più tardi</string>
+    <string name="btn_install_now">Installa adesso</string>
+    <string name="btn_upgrade_now">Aggiorna ora</string>
+    <string name="wifi_no_password">Nessuna crittografia</string>
+    <string name="wifi_has_password">Crittografato</string>
+    <string name="wifi_password_error">La password non è corretta</string>
+    <string name="wifi_connecting">Connessione…</string>
+    <string name="wifi_auth">Verifica password…</string>
+    <string name="wifi_get_ip">Acquisizione indirizzo IP…</string>
+    <string name="wifi_link_fail">"Impossibile connettersi"</string>
+    <string name="wifi_connected">Connesso</string>
+    <string name="wifi_title">Scegli una rete</string>
+    <string name="wifi_wait_password">In attesa della password…</string>
+    <string name="toast_please_update_first">Aggiorna prima</string>
+    <string name="wifi_turnon_going">Attivazione Wi-Fi…</string>
+    <string name="system_update_title">Aggiornamento completato</string>
+    <string name="system_update_content">Aggiornato alla versione %1$s con successo</string>
     <string name="password_error">"Password WiFi errata,
 riprova"</string>
     <string name="wifi_connect_fail">"Non riesco a collegarmi
 alla rete WiFi. Prova 
 un\'altro hotspot WiFi"</string>
-    <string name="searching">Searching…</string>
-    <string name="hasNewUpdateTitle">An update is available</string>
-    <string name="hasNewUpdateInstallContent">Version %1$s is ready to install. Install now?</string>
-    <string name="hasNewUpdateCheckContent">Version %1$s is available. Update now?</string>
-    <string name="update_title">Select update method</string>
-    <string name="update_online">OTA update</string>
-    <string name="update_local">Local ZIP file</string>
-    <string name="local_update_confirm_1_title">Attention</string>
+    <string name="searching">Ricerca...</string>
+    <string name="hasNewUpdateTitle">È disponibile un aggiornamento</string>
+    <string name="hasNewUpdateInstallContent">La versione %1$s è pronta per l\'installazione. Installarla ora?</string>
+    <string name="hasNewUpdateCheckContent">Versione %1$s disponibile. Aggiornare ora?</string>
+    <string name="update_title">Seleziona metodo di aggiornamento</string>
+    <string name="update_online">Aggiornamenti OTA</string>
+    <string name="update_local">File ZIP locale</string>
+    <string name="local_update_confirm_1_title">Attenzione</string>
     <string name="local_update_invalid_zip">\"La versione è troppo vecchia,
 \"&lt;string name=\"local_update_confirm_1_title\"&gt;Perfavore leggi</string>
-    <string name="local_update_confirm_1_msg">"To make sure the new version
-works properly, we\'ll erase all
-user data before the update.
-Back up your data using the Amazfit app."</string>
+    <string name="local_update_confirm_1_msg">\"Per assicurarti che la nuova versione
+funzioni correttamente, cancelleremo tutti i dati utente
+prima dell\'aggiornamento.
+Esegui il backup dei tuoi dati utilizzando l\'app Amazfit</string>
     <string name="local_update_confirm_2_msg">"Assicurati che tutti 
 i dati utente hanno il backup. Installando 
 l\'aggiornamento tutti i dati utente sull\'orologio
@@ -86,9 +85,9 @@ saranno eliminati, Continuare?"</string>
     <string name="no">No</string>
     <string name="enter">OK</string>
     <string name="cancel">Annulla</string>
-    <string name="update_tips_0">Updating…</string>
-    <string name="update_tips_1">"Don't turn off the device"</string>
-    <string name="retry">Retry</string>
+    <string name="update_tips_0">Aggiornamento…</string>
+    <string name="update_tips_1">"Non spegnere il dispositivo"</string>
+    <string name="retry">Riprova</string>
     <string name="average_text">Average</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="running">Running</string>
@@ -138,30 +137,30 @@ saranno eliminati, Continuare?"</string>
     <string name="gps_wait">Waiting for GPS…</string>
     <string name="gps_fail">"Couldn't set location using GPS"</string>
     <string name="gps_singal_lost">"GPS signal isn't available"</string>
-    <string name="gps_close_1">No movement for a long time,</string>
-    <string name="gps_close_2">GPS has been turned off.</string>
-    <string name="heartrate">Heart rate</string>
-    <string name="warmup">Warm Up</string>
-    <string name="fatburn">Fat Burning</string>
-    <string name="heartlung">Aerobic</string>
-    <string name="strength">Anaerobic</string>
-    <string name="anaerobic">Anaerobic limit</string>
-    <string name="zone_one">Zone 1</string>
-    <string name="zone_two">Zone 2</string>
-    <string name="zone_three">Zone 3</string>
-    <string name="zone_four">Zone 4</string>
-    <string name="zone_five">Zone 5</string>
-    <string name="zone_risk">High heart rate</string>
-    <string name="enter_sport_lock_status">Locking the screen during activity</string>
-    <string name="press_any_key_wakeup">Press any key</string>
-    <string name="press_power_key_wakeup">Press a physical button to unlock</string>
+    <string name="gps_close_1">Nessun movimento per molto tempo,</string>
+    <string name="gps_close_2">Il GPS è stato spento.</string>
+    <string name="heartrate">Frequenza Cardiaca</string>
+    <string name="warmup">Riscaldamento</string>
+    <string name="fatburn">Brucia-grassi</string>
+    <string name="heartlung">Aerobico</string>
+    <string name="strength">Anaerobico</string>
+    <string name="anaerobic">Limite anaerobico</string>
+    <string name="zone_one">Zona 1</string>
+    <string name="zone_two">Zona 2</string>
+    <string name="zone_three">Zona 3</string>
+    <string name="zone_four">Zona 4</string>
+    <string name="zone_five">Zona 5</string>
+    <string name="zone_risk">Freq. card. alta</string>
+    <string name="enter_sport_lock_status">Bloccare lo schermo durante l\'attività</string>
+    <string name="press_any_key_wakeup">Premi un tasto</string>
+    <string name="press_power_key_wakeup">Premi un tasto fisico per sbloccare</string>
     <string name="meter">m</string>
     <string name="kilometre">km</string>
-    <string name="km_per_hour">km/h</string>
+    <string name="km_per_hour"> km/h</string>
     <string name="bpm">BPM</string>
     <string name="times_per_minute">BPM</string>
     <string name="per_km">/km</string>
-    <string name="per_100m">/100 m</string>
+    <string name="per_100m">/100m</string>
     <string name="per_100Yard">/100 yd</string>
     <string name="mile">mi</string>
     <string name="mile_per_hour">mph</string>
@@ -172,18 +171,18 @@ saranno eliminati, Continuare?"</string>
     <string name="minute">m</string>
     <string name="minute_clock">m</string>
     <string name="second">s</string>
-    <string name="altitude">Altitude</string>
+    <string name="altitude">Altitudine</string>
     <string name="longitude_and_latitude">Lat/Long</string>
-    <string name="press_key_finish_train">Press BACK to finish</string>
-    <string name="press_up_key_wake_up">Press the Up button to unlock</string>
-    <string name="need_run_kilometer">Interval distance:</string>
-    <string name="need_run_time">Interval time:</string>
+    <string name="press_key_finish_train">Premi BACK per terminare</string>
+    <string name="press_up_key_wake_up">Premere il pulsante Up per sbloccare</string>
+    <string name="need_run_kilometer">Distanza intervallo:</string>
+    <string name="need_run_time">Tempo intervallo:</string>
     <string name="need_rest_time">Need</string>
-    <string name="need_rest_by_keypress">Press BACK to continue</string>
-    <string name="low_battery_protect">Low battery protection</string>
-    <string name="low_battery_tips">Low battery</string>
-    <string name="low_battery_please_charging">Charge your watch.</string>
-    <string name="virtual_rabbit">Virtual rabbit</string>
+    <string name="need_rest_by_keypress">Premi BACK per continuare</string>
+    <string name="low_battery_protect">Protezione batteria scarica</string>
+    <string name="low_battery_tips">Batteria scarica</string>
+    <string name="low_battery_please_charging">Carica il tuo orologio.</string>
+    <string name="virtual_rabbit">Coniglio virtuale</string>
     <string name="virtual_rabbit_lead_time">Lead time</string>
     <string name="virtual_rabbit_back_time">Lag time</string>
     <string name="virtual_rabbit_lead_distance">Lead distance</string>
