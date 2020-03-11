@@ -21,7 +21,7 @@
     <string name="action_badge_activated">com.huami.watch.health.BADGE_ACTIVATED</string>
     <string name="action_badge_dumped">com.huami.watch.health.BADGE_DUMPED</string>
     <string name="app_name">Здраве</string>
-    <string name="label_heartrate">Heart rate</string>
+    <string name="label_heartrate">Пулс</string>
     <string name="label_heartrate_unit">bpm</string>
     <string name="ratio_notworn">Not wearing watch</string>
     <string name="heartrate_wear_before_gauging">Please wear the watch before gauging</string>
@@ -83,7 +83,7 @@
     <string name="notif_long_sit_desc">"You've been sitting for too long. Let's stand up and move around for a minute."</string>
     <string name="notif_long_sit_title">Time to stand up</string>
     <string name="notif_target_half_reach_desc">Вие сте на половината от вашата дневна цел крачки!</string>
-    <string name="notif_target_half_reach_title">Keep it up</string>
+    <string name="notif_target_half_reach_title">Продължавайте така</string>
     <string name="notif_target_reach_desc">"Вие достигнахте дневната Ви цел за крачки!"</string>
     <string name="notif_target_reach_title">Daily goal achieved</string>
     <string name="notif_target_set">Edit the goal</string>
@@ -101,7 +101,7 @@
     <string name="total_deep_sleep">Time in deep sleep</string>
     <string name="sleep_statistics">Подробности</string>
     <string name="whole_day_light_sleep">Light sleep</string>
-    <string name="whole_day_deep_sleep">Deep sleep</string>
+    <string name="whole_day_deep_sleep">Дълбок сън</string>
     <string name="total_sleep">Total sleep time</string>
     <string name="all_day_deep_sleep">Time in deep sleep</string>
     <string name="all_day_light_sleep">Time in light sleep</string>
@@ -219,7 +219,7 @@
     <string name="weeklysports_swimerrate">Score of swimming pace</string>
     <string name="weeklysports_innerswimrate">Average speed of swimming in the pool</string>
     <string name="weeklysports_openswimrate">Average speed of swimming in the Open Water</string>
-    <string name="weeklysports_triathlon">Triathlon</string>
+    <string name="weeklysports_triathlon">Триатлон</string>
     <string name="weeklysports_triathlon_totaltime">Total time</string>
     <string name="weeklysports_triathlon_hour">часове</string>
     <string name="weeklysports_triathlon_min">минути</string>
@@ -238,7 +238,7 @@
     <string name="currentstep_detail_walking">Ходене</string>
     <string name="currentstep_detail_riding">Велосипед</string>
     <string name="currentstep_detail_swimming">Плуване</string>
-    <string name="currentstep_detail_triathlon">Triathlon</string>
+    <string name="currentstep_detail_triathlon">Триатлон</string>
     <string name="currentstep_detail_triathlon_short">Tri</string>
     <string name="currentstep_detail_mountain">Изкачване</string>
     <string name="currentstep_detail_calories">Калории</string>
@@ -247,8 +247,8 @@
     <string name="currentstep_detail_activity_step_done">Goal achieved</string>
     <string name="currentstep_detail_activity_step_notdo"></string>
     <string name="currentstep_detail_activity_run_rate_av">AVG pace</string>
-    <string name="currentstep_detail_activity_run_rate_ma">Best pace</string>
-    <string name="currentstep_detail_activity_walk_ridding_rate_av">AVG speed</string>
+    <string name="currentstep_detail_activity_run_rate_ma">Най-добро темпо</string>
+    <string name="currentstep_detail_activity_walk_ridding_rate_av">СРД скорост</string>
     <string name="currentstep_detail_activity_walk_ridding_rate_ma">Максимална скорост</string>
     <string name="currentstep_detail_activity_mount_total_disacend">Ground speed distance</string>
     <string name="currentstep_detail_activity_mount_total_up">Elevation Gain</string>
@@ -274,7 +274,7 @@
     <string name="detail_date">Today %1$s</string>
     <string name="widget_weeklyreports_heart_rate_min_text">Min(bpm)</string>
     <string name="widget_weeklyreports_heart_rate_max_text">Max(bpm)</string>
-    <string name="widget_weeklyreports_heart_rate_title">Heart Rate</string>
+    <string name="widget_weeklyreports_heart_rate_title">Пулс</string>
     <string name="widget_weeklyreports_average_title">Average heart rate</string>
     <string name="widget_weeklyreports_totalcalory_front">Total Calories</string>
     <string name="widget_weeklyreports_totalcalory_title">"Calories
@@ -290,9 +290,9 @@
     <string name="widget_sleep_average_calories">Average daily %1$s kCal</string>
     <string name="widget_sleep_totaltime">Total sleep %1$s h %2$s min</string>
     <string name="widget_sleep_attained_unit">Резултат</string>
-    <string name="currentstep_detail_heart">Heart Rate</string>
-    <string name="currentstep_detail_activity_chart">Activities</string>
-    <string name="currentstep_detail_activity_chart_unit">Unit: hour</string>
+    <string name="currentstep_detail_heart">Пулс</string>
+    <string name="currentstep_detail_activity_chart">Активности</string>
+    <string name="currentstep_detail_activity_chart_unit">Единица: час</string>
     <string name="date_format">MM/dd</string>
     <string name="widget_weeklyreports_nodata">Not Available</string>
     <string name="app_list_title">Дейност</string>

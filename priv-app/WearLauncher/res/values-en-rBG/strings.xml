@@ -2,7 +2,7 @@
 <resources>
     <string name="locale_title">Select Language</string>
     <string name="generic_notification_more">More(%s)</string>
-    <string name="notification_unread_num">Unread %s</string>
+    <string name="notification_unread_num">Непрочетени %s</string>
     <string name="notification_click_upgrade">Актуализация</string>
     <string name="notification_click_download">Изтегляне</string>
     <string name="notification_click_open">Още</string>
@@ -14,7 +14,7 @@
     <string name="action_delete">Изтрий</string>
     <string name="action_shield">Блокирай</string>
     <string name="notification_none">All caught up</string>
-    <string name="notification_allclear">Clear all</string>
+    <string name="notification_allclear">Изчисти всичко</string>
     <string name="notification_allclear_confirm">Cleared notifications will no longer be available to read later, continue?</string>
     <string name="notification_checking_bluetooth">Checking Bluetooth connection…</string>
     <string name="notification_detail_content_title">信息详情</string>
@@ -27,7 +27,7 @@
     <string name="quick_settings_more_settings">More Settings</string>
     <string name="quick_settings_switch_auto">Авто</string>
     <string name="quick_settings_switch_awake">Бодърстване</string>
-    <string name="quick_settings_switch_always">Always On</string>
+    <string name="quick_settings_switch_always">Винаги включено</string>
     <string name="quick_settings_switch_on">ВКЛ</string>
     <string name="quick_settings_switch_off">ИЗКЛ</string>
     <string name="quick_settings_toast_on">Разрешено</string>
@@ -37,7 +37,7 @@
     <string name="quick_settings_auto_light_toast">Screen highlighting, will increase the power consumption</string>
     <string name="quick_settings_status_month">-</string>
     <string name="quick_settings_status_day">  </string>
-    <string name="quick_settings_connected">Connected</string>
+    <string name="quick_settings_connected">Свързан</string>
     <string name="quick_settings_disconnect">Disconnected</string>
     <string name="quick_settings_unbound">Please pair first</string>
     <string name="quick_settings_date_chinese">yyyy-MM-dd</string>
@@ -97,7 +97,7 @@
     <string name="notification_block_ok">Потвърди</string>
     <string name="notification_more_settings">More settings</string>
     <string name="notification_time_just">Току що</string>
-    <string name="notification_time_yesterday">Yesterday</string>
+    <string name="notification_time_yesterday">Вчера</string>
     <string name="notificaton_empty_message">No notifications</string>
     <string name="music">Музика</string>
     <string name="music_title">Непознат</string>
@@ -108,7 +108,7 @@
     <string name="music_peek_content">Your phone is using %s App to play music. Quick control of music can be done in the watch notification bar.</string>
     <string name="alone_before_open">Recently opened</string>
     <string name="launcher_app_name">Launcher</string>
-    <string name="hm_watch_sports_notification_km">Kilometers</string>
+    <string name="hm_watch_sports_notification_km">Километри</string>
     <string name="hm_watch_sports_notification_sports">Спортове</string>
     <string name="hm_generic_notification_iconified_content_line">Hello, I am a fan of Huami</string>
     <string name="notification_action_more">Още</string>
@@ -217,7 +217,7 @@
     <string name="now_time_to_leave_by">Leave by %1$s</string>
     <string name="now_time_to_leave_now">Leave now</string>
     <string name="now_calendar_event_address">%1$s, %2$s</string>
-    <string name="now_flight_passenger">Passenger</string>
+    <string name="now_flight_passenger">Пътник</string>
     <string name="now_flight_ticket_number">Билет #</string>
     <string name="now_flight_seat">Място</string>
     <string name="now_flight_group">Група</string>
@@ -246,7 +246,7 @@
     <string name="cal_plus_x_more">+ %s more</string>
     <string name="cal_email_subject">[Update] %s</string>
     <string name="cal_no_event">Няма събития</string>
-    <string name="cal_no_title">(No title)</string>
+    <string name="cal_no_title">(Без заглавие)</string>
     <string name="cal_event_duration" formatted="false">%s %s</string>
     <string name="cal_dummy_count_down">60</string>
     <string name="checking_for_updates">Checking for updates…</string>
@@ -323,7 +323,7 @@
     <string name="cue_menu_timer">Set a timer</string>
     <string name="cue_menu_stopwatch">Start stopwatch</string>
     <string name="cue_menu_agenda">Дневен ред</string>
-    <string name="cue_menu_agenda_help">for today</string>
+    <string name="cue_menu_agenda_help">за днес</string>
     <string name="cue_menu_settings">Настройки</string>
     <string name="cue_menu_bug_report">Take bug report</string>
     <string name="cue_menu_apps">Старт…</string>
@@ -348,7 +348,7 @@
     <string name="voice_action_navigate_title_mode_drive">Navigate (driving)</string>
     <string name="voice_action_navigate_title_mode_public_transportation">Navigate (public transportation)</string>
     <string name="voice_action_navigate_title_mode_walk">Navigate (walking)</string>
-    <string name="voice_action_navigate_mode_bike">Bicycling</string>
+    <string name="voice_action_navigate_mode_bike">Колоездене</string>
     <string name="voice_action_navigate_mode_drive">Шофиране</string>
     <string name="voice_action_navigate_mode_walk">Ходене</string>
     <string name="voice_action_note_title">Бележка</string>
@@ -398,7 +398,7 @@
     <string name="reminder_at_work">На работа</string>
     <string name="disambiguation_app_to_complete">Complete action using</string>
     <string name="sent_via_voice">Sent via voice</string>
-    <string name="speak_now">Speak now</string>
+    <string name="speak_now">Говори сега</string>
     <string name="speak_now_help">Speak now or swipe up for more</string>
     <string name="contact_no_phone_number">No phone number for this contact</string>
     <string name="contact_no_email">No email address for this contact</string>
@@ -644,7 +644,7 @@
     <string name="weather_warning_fog">Heavy fog</string>
     <string name="weather_warning_smog">Смог</string>
     <string name="weather_warning_ice">Road icing</string>
-    <string name="weather_warning_snowstorm">Blizzard</string>
+    <string name="weather_warning_snowstorm">Виелица</string>
     <string name="no_aqi">Unable to get air quality</string>
     <string name="air_perfect">Air quality: good</string>
     <string name="air_good">Air quality: fine</string>
