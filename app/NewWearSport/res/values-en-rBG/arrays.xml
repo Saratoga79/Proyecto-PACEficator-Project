@@ -37,13 +37,13 @@
     </string-array>
     <string-array name="dally_performence_level_status">
         <item>Уморен</item>
-        <item>Normal</item>
+        <item>Нормален</item>
         <item>Добро</item>
     </string-array>
     <string-array name="vo2_max_level_status">
-        <item>Very poor</item>
-        <item>Poor</item>
-        <item>Fair</item>
+        <item>Много лошо</item>
+        <item>Лош</item>
+        <item>Задоволителен</item>
         <item>Средно</item>
         <item>Добро</item>
         <item>Много добър</item>
@@ -60,16 +60,16 @@
         <item>Време</item>
         <item>Разстояние</item>
         <item>Темпо</item>
-        <item>Avg pace</item>
-        <item>Heart rate</item>
+        <item>Avg темпо</item>
+        <item>Пулс</item>
         <item>Калории</item>
         <item>Надморска височина</item>
-        <item>Elev gain</item>
-        <item>Elev loss</item>
+        <item>Повишение на ниво</item>
+        <item>Понижение на ниво</item>
         <item>Скорост</item>
-        <item>Avg speed</item>
+        <item>Средна скорост</item>
         <item>Каденс</item>
-        <item>Dist gain</item>
+        <item>Увеличаване на дистанцията</item>
         <item>Крачки</item>
         <item>Каденс</item>
         <item>Обиколки</item>
@@ -77,15 +77,15 @@
         <item>Темпо на загребване</item>
         <item>Avg SPM</item>
         <item>Темпо</item>
-        <item>Avg pace</item>
+        <item>Avg темпо</item>
         <item>Разстояние</item>
         <item>TE</item>
-        <item>Vert speed</item>
-        <item>Avg speed</item>
-        <item>Max speed</item>
+        <item>Верт скорост</item>
+        <item>Средна скорост</item>
+        <item>Максимална скорост</item>
         <item>Обиколки</item>
-        <item>Downhill</item>
-        <item>Total downhill</item>
+        <item>Спускане</item>
+        <item>Всичко спускане</item>
         <item>Спускане</item>
         <item>Замахвания</item>
         <item>Време за обиколка</item>
@@ -95,9 +95,9 @@
         <item>Каденс на обиколка</item>
         <item>Темпо на обиколка</item>
         <item>Текуща честота</item>
-        <item>Total count</item>
-        <item>Avg freq</item>
-        <item>Groups</item>
+        <item>Общ брой</item>
+        <item>Avg честота</item>
+        <item>Групи</item>
         <item>Lap count</item>
         <item>Време за обиколка</item>
         <item>Lap freq</item>
@@ -110,21 +110,21 @@
         <item>slope</item>
         <item>Калории</item>
         <item>Avg. HR</item>
-        <item>Paddles of this set</item>
-        <item>Frequency</item>
-        <item>Total paddles</item>
-        <item>Paddle frequency</item>
-        <item>Pulling duration</item>
-        <item>Pushing duration</item>
-        <item>Avg. Freq.</item>
+        <item>Гребла в този комплект</item>
+        <item>Честота</item>
+        <item>Всичко загребвания</item>
+        <item>Честота на загребвания</item>
+        <item>Продължителност на придърпване</item>
+        <item>Продължителност на натискане</item>
+        <item>Avg честота.</item>
     </string-array>
     <string-array name="sport_train_item">
-        <item>Remaining distance</item>
+        <item>Оставащо разстояние</item>
         <item>Общо разстояние</item>
-        <item>Total time</item>
-        <item>Remaining time</item>
+        <item>Общо време</item>
+        <item>Оставащо време</item>
         <item>Разстояние</item>
         <item>Остава</item>
-        <item>Has rested</item>
+        <item>Почивка</item>
     </string-array>
 </resources>
