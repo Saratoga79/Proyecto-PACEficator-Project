@@ -54,7 +54,7 @@
     <string name="achive_person_record">Personal record</string>
     <string name="remind_target_calorie_title">Reached Calorie goal</string>
     <string name="remind_target_time_title">Reached time goal</string>
-    <string name="remind_target_calorie_title_format">kcal</string>
+    <string name="remind_target_calorie_title_format">ккал</string>
     <string name="remind_target_time_h_unit">h</string>
     <string name="remind_target_time_m_unit">m</string>
     <string name="remind_target_time_default_value">00</string>
@@ -101,7 +101,7 @@
     <string name="battery_continue_distance_unit"> km</string>
     <string name="battery_continue_imperial_distance_unit"> mi</string>
     <string name="battery_continue_time_unit"> hr</string>
-    <string name="battery_split"> / </string>
+    <string name="battery_split">/</string>
     <string name="suggest_reset_time">Time to full recovery: %1$sh</string>
     <string name="remain_time_recovery"><Data>Time to full recovery&amp;nbsp;&lt;font color=#00ff00&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;/font&gt;&amp;nbsp; h</Data></string>
     <string name="more_sport_tint">Още</string>
@@ -125,7 +125,7 @@
     <string name="picker_heart_region_content">Zone %1$d</string>
     <string name="settings_sport_coach">Sport coach</string>
     <string name="settings_sport_target">Activity goal</string>
-    <string name="settings_sport_remind">Alerts</string>
+    <string name="settings_sport_remind">Напомняния</string>
     <string name="settings_sport_control">More settings</string>
     <string name="settings_sport_auto_pause">Auto pause</string>
     <string name="settings_sport_auto_pause_triathlon">Auto-pause</string>
@@ -156,7 +156,7 @@
     <string name="settings_item_value_target_calorie">%1$d kcal</string>
     <string name="settings_item_value_swim_length">%1$s m</string>
     <string name="settings_item_value_swim_length_imperial">%1$s ft</string>
-    <string name="settings_cal_unit">kcal</string>
+    <string name="settings_cal_unit">ккал</string>
     <string name="setting_auto_pause_speed">"When it's slower than &lt;%1$s km/h"</string>
     <string name="setting_auto_pause_pace">"When it's slower than %1$s"</string>
     <string name="setting_no_set_target">Not set</string>
@@ -165,7 +165,7 @@
     <string name="sport_settings_no_set">Do not set goal</string>
     <string name="sport_settings_te_title">Избери</string>
     <string name="sport_settings_current_target_te_title">Current goal</string>
-    <string name="sport_select_more_setting_content">Change</string>
+    <string name="sport_select_more_setting_content">Промяна</string>
     <string name="sport_cur_tar_dis_km">Distance: %1$skm</string>
     <string name="sport_cur_tar_dis_mi">Distance: %1$s mi</string>
     <string name="sport_cur_tar_dis_meter">Distance: %1$s m</string>
@@ -227,7 +227,7 @@ start now."</string>
     <string name="sport_main_recovery_title">Recommended recovery time</string>
     <string name="sport_history_full_recovery">Recovery time</string>
     <string name="sport_main_avg_stride">Avg stride</string>
-    <string name="sport_main_stride">Stride</string>
+    <string name="sport_main_stride">Крачка</string>
     <string name="sport_main_total_kcal">Total calories</string>
     <string name="sport_main_avg_stride_unit">cm/stride</string>
     <string name="sport_main_avg_heart_rate">Avg. heart rate</string>
@@ -249,7 +249,7 @@ start now."</string>
     <string name="sport_graph_title_min">Мин</string>
     <string name="sport_graph_title_fast">Fastest</string>
     <string name="sport_graph_title_high">Highest</string>
-    <string name="sport_graph_title_low">Lowest</string>
+    <string name="sport_graph_title_low">Най-ниската</string>
     <string name="adjust_content">%1$dm</string>
     <string name="adjust_tips_title">Auto lap distance has been changed</string>
     <string name="adjust_swim_tips">Auto lap distance has been set as the pool length. If you want to reset it, go to activity settings.</string>
@@ -385,8 +385,8 @@ start now."</string>
     <string name="has_no_train_unit_remind">Add interval workouts in the Amazfit app and sync to this watch.</string>
     <string name="interval_segment_details">Interval details</string>
     <string name="test_html_txt" formatted="false">%1sm%2ss/%3sm</string>
-    <string name="sport_widget_title_skiing">Ski</string>
-    <string name="sport_widget_title_in_skiing">Ski</string>
+    <string name="sport_widget_title_skiing">Ски</string>
+    <string name="sport_widget_title_in_skiing">Ски</string>
     <string name="skiing_history_downhill_title">Downhill</string>
     <string name="skiing_downhill_max_elev_loss">Max descent</string>
     <string name="skiing_downhill_total_elev_loss">Total descent</string>
@@ -469,7 +469,7 @@ start now."</string>
     <string name="give_up_re_modify_dis">Give up</string>
     <string name="confirm_re_modify_dis">Потвърди</string>
     <string name="re_modify_dis_successful">Re-modify successful</string>
-    <string name="lap_sub_type_title">Rest</string>
+    <string name="lap_sub_type_title">Останали</string>
     <string name="new_pb_record">New personal record</string>
     <string name="longest_distance">Max distance(%1$s)</string>
     <string name="longest_time">Max time</string>
@@ -558,9 +558,9 @@ start now."</string>
     <string name="train_load_medium">Средно</string>
     <string name="train_load_near_seven_days">Last 7 days</string>
     <string name="train_load_suggess_status_no_record">"We'll evaluate your training load from exercises recorded in the past 7 days"</string>
-    <string name="train_load_suggess_status_less">Low</string>
+    <string name="train_load_suggess_status_less">Ниско</string>
     <string name="train_load_suggess_status_good">Optimal</string>
-    <string name="train_load_suggess_status_recovery">High</string>
+    <string name="train_load_suggess_status_recovery">Високо</string>
     <string name="train_load_suggess_status_over">Overreaching</string>
     <string name="real_time_perpormance_level_very_good">Добро</string>
     <string name="real_time_perpormance_level_good">Добро</string>
@@ -621,7 +621,7 @@ to reach full recovery."</string>
     <string name="gpx_select_closed">Затвори</string>
     <string name="gpx_select_empty"></string>
     <string name="gpx_details_view">Избери</string>
-    <string name="gpx_details_use">Use</string>
+    <string name="gpx_details_use">Използвай</string>
     <string name="gpx_route_loading">Една секунда…</string>
     <string name="dialog_remind_to_look_route">View route</string>
     <string name="gpx_offset_route">Deviated route</string>
@@ -836,7 +836,7 @@ to reach full recovery."</string>
     <string name="sport_widget_title_run">Старт</string>
     <string name="sport_widget_title_walk">Ходене</string>
     <string name="sport_widget_title_cross">Trail run</string>
-    <string name="sport_widget_title_on_foot">Hike</string>
+    <string name="sport_widget_title_on_foot">Поход</string>
     <string name="sport_widget_title_indoor_fitness">Fitness</string>
     <string name="sport_widget_title_indoor_run">Treadmill</string>
     <string name="sport_widget_title_record">Активности</string>
@@ -948,7 +948,7 @@ to reach full recovery."</string>
     <string name="running_setting">Настройки</string>
     <string name="running_end_sport">Stop activity first</string>
     <string name="walking_end_sport">Stop activity first</string>
-    <string name="running_in_progress">Run…</string>
+    <string name="running_in_progress">Бягане…</string>
     <string name="walking_in_progress">Walk…</string>
     <string name="on_foot_progress">On foot progress</string>
     <string name="indoor_fitness_progress">Fitness progress</string>
@@ -966,7 +966,7 @@ to reach full recovery."</string>
     <string name="remind_pace_too_low">Pace is too low</string>
     <string name="remind_pace_too_fast">Pace is too fast</string>
     <string name="remind_pace_current">Current</string>
-    <string name="remind_pace_target">Goal</string>
+    <string name="remind_pace_target">Цел</string>
     <string name="remind_pace_pace_unit">/km</string>
     <string name="remind_target_time_title_format">Target at %1$dh %2$dm</string>
     <string name="remind_target_time_distance">Разстояние</string>
@@ -1044,7 +1044,7 @@ to reach full recovery."</string>
     <string name="sport_type_outdoor">Outdoor</string>
     <string name="sport_type_swim">Swimming</string>
     <string name="sport_type_dance">Танц</string>
-    <string name="sport_type_bar">Ball</string>
+    <string name="sport_type_bar">Топка</string>
     <string name="sport_type_other">Other</string>
     <string name="sport_type_boxing">Битка</string>
     <string name="sport_add_title">More activities</string>
@@ -1132,7 +1132,7 @@ to reach full recovery."</string>
     <string name="skiing">Skiing</string>
     <string name="tennis">Tennis</string>
     <string name="soccer">Soccer</string>
-    <string name="golf">Golf</string>
+    <string name="golf">Голф</string>
     <string name="complex_sport">Multisport</string>
     <string name="rope_skipping">Jump rope</string>
     <string name="on_foot">On foot</string>
@@ -1152,7 +1152,7 @@ to reach full recovery."</string>
     <string name="stepper">Stepper</string>
     <string name="stepping_training">Step training</string>
     <string name="artistic_gymnastics">Artistic gymnastics</string>
-    <string name="yoga">Yoga</string>
+    <string name="yoga">Йога</string>
     <string name="free_training">Free training</string>
     <string name="curling">Curling</string>
     <string name="snowboarding">Snowboard</string>
@@ -1235,10 +1235,10 @@ to reach full recovery."</string>
     <string name="strength">Anaerobic</string>
     <string name="anaerobic">Anaerobic limit</string>
     <string name="zone_one">Zone 1</string>
-    <string name="zone_two">Zone 2</string>
-    <string name="zone_three">Zone 3</string>
-    <string name="zone_four">Zone 4</string>
-    <string name="zone_five">Zone 5</string>
+    <string name="zone_two">Зона 2</string>
+    <string name="zone_three">Зона 3</string>
+    <string name="zone_four">Зона 4</string>
+    <string name="zone_five">Зона 5</string>
     <string name="zone_risk">High heart rate</string>
     <string name="enter_sport_lock_status">Locking the screen during activity</string>
     <string name="press_any_key_wakeup">Press any key</string>
@@ -1266,7 +1266,7 @@ to reach full recovery."</string>
     <string name="press_up_key_wake_up">Press the Up button to unlock</string>
     <string name="need_run_kilometer">Interval distance:</string>
     <string name="need_run_time">Interval time:</string>
-    <string name="need_rest_time">Need</string>
+    <string name="need_rest_time">Нужно</string>
     <string name="need_rest_by_keypress">Press BACK to continue</string>
     <string name="low_battery_protect">Low battery protection</string>
     <string name="low_battery_tips">Low battery</string>
@@ -1278,7 +1278,7 @@ to reach full recovery."</string>
     <string name="rope_skip_group_freq">Frequency</string>
     <string name="rope_skip_reset_tips">Has rested</string>
     <string name="rope_skip_tips">Group %1$s</string>
-    <string name="rope_skip_tips1">The</string>
+    <string name="rope_skip_tips1">В</string>
     <string name="rope_skip_tips2">set has been completed</string>
     <string name="rope_skip_avg_heartrate">Avg. heart rate</string>
     <string name="rope_skip_group_calories">Калории</string>
