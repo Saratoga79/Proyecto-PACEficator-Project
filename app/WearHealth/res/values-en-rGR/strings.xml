@@ -45,7 +45,7 @@
     <string name="label_active_normal">Αερόβια</string>
     <string name="label_active_fast">Αναερόβια</string>
     <string name="label_active_slow">Καύση λίπους</string>
-    <string name="label_active_xslow">Χωρίς-προπόνηση</string>
+    <string name="label_active_xslow">Μη-άθληση</string>
     <string name="label_quiet_normal_any">Καρδιακός ρυθμός σε κατάσταση ηρεμίας: 60-100 BPM. Η μέτρια άσκηση και ο υγιεινός τρόπος ζωής και η κατάσταση του νου διευκολύνουν τον φυσιολογικό καρδιακό ρυθμό.</string>
     <string name="label_quiet_fast_well_medium">Έχουν δοθεί συστάσεις ότι θα πρέπει να κρατάτε τον καρδιακό σας ρυθμό εντός: 60-100 BPM. Η μέτρια άσκηση και ο υγιεινός τρόπος ζωής και η κατάσταση του νου διευκολύνουν τον φυσιολογικό καρδιακό ρυθμό.</string>
     <string name="label_quiet_fast_well_good">Αλλαγές της διάθεσης, όπως η διέγερση και ο ενθουσιασμός μπορεί να προκαλέσουν υψηλό καρδιακό ρυθμό. Η διατήρηση της ηρεμίας του νου σας βοηθά να κρατήσετε ένα κανονικό καρδιακό ρυθμό.</string>
@@ -73,7 +73,7 @@
     <string name="label_active_fast_well_bad">Για να απαλλαγείτε από τα αρνητικά συναισθήματα, επιλέξτε χαλαρές δραστηριότητες με στοιχεία ψυχαγωγίας για να έχετε τα καλύτερα αποτελέσματα.</string>
     <string name="label_active_fast_tired_any">Η μέτρια άσκηση βοηθά στην ανακούφιση της ψυχικής κούρασης. Για σωματική κόπωση, περιμένετε μέχρι να ανακτηθεί πλήρως για να κάνετε άσκηση.</string>
     <string name="label_active_fast_sick_any">Η ένταση της άσκησης θα πρέπει να είναι χαμηλότερη από το συνηθισμένο όταν είσαστε άρρωστοι και αν παρουσιάζετε σοβαρά συμπτώματα όπως πυρετός, η άσκηση πρέπει να σταματήσει.</string>
-    <string name="no_sleep_info">Ύπνος δεν ανιχνεύτηκε</string>
+    <string name="no_sleep_info">Δεν ανιχνεύτηκε</string>
     <string name="today_sleep_info">Ύπνος</string>
     <string name="loading_sleep_info">Ένα λεπτό…</string>
     <string name="start_sleep">%1$s</string>
@@ -102,9 +102,9 @@
     <string name="today_heart_rate_ave_text">Μέσος όρος</string>
     <string name="today_heart_rate_max_text">Μέγιστος (bpm)</string>
     <string name="today_heart_rate_min_text">Ελάχιστος (bpm)</string>
-    <string name="today_heart_rate_quite_text">Ξεκούραστος (bpm)</string>
+    <string name="today_heart_rate_quite_text">Σε ηρεμία (bpm)</string>
     <string name="today_heart_rate_value_def">--</string>
-    <string name="label_all_day_heartrate">Συνεχής καρδιακός ρυθμός</string>
+    <string name="label_all_day_heartrate">Συνεχής καρδ. ρυθμός</string>
     <string name="label_all_day_heartrate_open">Ενεργοποίηση</string>
     <string name="label_all_day_heartrate_close">Κλείσιμο</string>
     <string name="label_all_day_heartrate_cancle">Άκυρο</string>
@@ -112,7 +112,7 @@
     <string name="label_all_day_quite">Ανάπαυση</string>
     <string name="label_heart_rate_bmps">bpm</string>
     <string name="heart_rate_distribution">Ζώνη καρδιακού ρυθμού</string>
-    <string name="heart_rate_history">Εγγραφές μέσου καρδιακού ρυθμού</string>
+    <string name="heart_rate_history">Μέσος καρδ. ρυθμός</string>
     <string name="label_all_day_heartrate_waring">Ενεργοποίηση συνεχούς HR (καρδιακός ρυθμός) θα μειώσει τη διάρκεια ζωής μπαταρίας, να συνεχίσει ούτως ή άλλως;</string>
     <string name="measure_heartrate_button_text">Μέτρηση</string>
     <string name="high_strength_heart_rate">Αναερόβια</string>
@@ -124,7 +124,7 @@
     <string name="power_strength_heart_rate">Αναερόβια</string>
     <string name="cardiopulmonary_enhancement">Αερόβια</string>
     <string name="burning_fat__heart_rate">Εντατική</string>
-    <string name="warm_up_relax_heart_rate">Warm Up</string>
+    <string name="warm_up_relax_heart_rate">Προθέρμανση</string>
     <string name="heart_rate_zone">zone%s</string>
     <string name="all_day_hearte_rate_button_close">Disable continuous HR</string>
     <string name="all_day_hearte_rate_button_open">Enable continuous HR</string>
@@ -284,7 +284,7 @@
     <string name="currentstep_detail_activities_title">Δραστηριότητες</string>
     <string name="currentstep_detail_activities_others">Άλλο</string>
     <string name="label_heartrate_unit">bpm</string>
-    <string name="average_text">Μέσος Όρος</string>
+    <string name="average_text">ΜΟ</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">Εντάξει</string>
     <string name="picker_default_nagetive_text">Κλειστό</string>
@@ -292,8 +292,8 @@
     <string name="no_altitude_hint">"Altitude data not detected"</string>
     <string name="title_settings">Ρυθμίσεις</string>
     <string name="sport_music_settings">Sports music</string>
-    <string name="heart_rate_quite">Ηρεμία HR</string>
+    <string name="heart_rate_quite">Σε ηρεμία</string>
     <string name="widget_weeklyreports_heart_rate_min_reset_text">Ελάχιστο HR</string>
     <string name="widget_weeklyreports_heart_rate_max_reset_text">Μέγιστος HR</string>
-    <string name="widget_weeklyreports_average_reset_title">Μέσος όρος ανάπαυσης</string>
+    <string name="widget_weeklyreports_average_reset_title">ΜΟ σε ανάπαυση</string>
 </resources>
