@@ -32,8 +32,8 @@
     <string name="mileage">Разстояние</string>
     <string name="rope_skip_freq">Frequency</string>
     <string name="row_stroke_freq">Frequency</string>
-    <string name="sport_has_paused">Paused</string>
-    <string name="sport_paused_time">Paused</string>
+    <string name="sport_has_paused">На пауза</string>
+    <string name="sport_paused_time">На пауза</string>
     <string name="sport_distance">Разстояние</string>
     <string name="sport_mileage">Разстояние</string>
     <string name="sport_downhill_total_distance">Total downhill</string>
@@ -57,11 +57,11 @@
     <string name="heartlung">Aerobic</string>
     <string name="strength">Anaerobic</string>
     <string name="anaerobic">Anaerobic limit</string>
-    <string name="zone_one">Zone 1</string>
-    <string name="zone_two">Zone 2</string>
-    <string name="zone_three">Zone 3</string>
-    <string name="zone_four">Zone 4</string>
-    <string name="zone_five">Zone 5</string>
+    <string name="zone_one">Зона 1</string>
+    <string name="zone_two">Зона 2</string>
+    <string name="zone_three">Зона 3</string>
+    <string name="zone_four">Зона 4</string>
+    <string name="zone_five">Зона 5</string>
     <string name="zone_risk">High heart rate</string>
     <string name="enter_sport_lock_status">Locking the screen during activity</string>
     <string name="press_any_key_wakeup">Press any key</string>
@@ -137,15 +137,15 @@
     <string name="ring_hint_turn_off">Изкл</string>
     <string name="alarm_bee">Bee</string>
     <string name="alarm_bee_bee">Bee-bee</string>
-    <string name="alarm_buzzer">Buzzer</string>
+    <string name="alarm_buzzer">Зумер</string>
     <string name="alarm_orbit">Orbit</string>
     <string name="alarm_rooster">Rooster</string>
     <string name="alarm_timer">Таймер</string>
     <string name="alarm_nudge">Nudge</string>
     <string name="alarm_rise">Rise</string>
     <string name="alarm_drip">Drip</string>
-    <string name="alarm_awaken">Awaken</string>
-    <string name="alarm_bounce">Bounce</string>
+    <string name="alarm_awaken">Пробуждане</string>
+    <string name="alarm_bounce">Скачащо</string>
     <string name="alarm_sway">Sway</string>
     <string name="double_click_wakeup_open">Вкл</string>
     <string name="double_click_wakeup_close">Изкл</string>
@@ -155,18 +155,18 @@
     <string name="gps_bd">GPS+Beidou</string>
     <string name="gps_galileo">GPS+Galileo</string>
     <string name="sport">Спорт</string>
-    <string name="small_plugins">Widget</string>
+    <string name="small_plugins">Добавка</string>
     <string name="long_key_sport_title">Избери</string>
-    <string name="long_key_plugins_title">Widget</string>
+    <string name="long_key_plugins_title">Добавка</string>
     <string name="more">Настройки</string>
     <string name="find_phone">Find My Phone</string>
     <string name="bluetooth_dev">Bluetooth</string>
     <string name="wifi_dev">Wi-Fi</string>
-    <string name="check_for_update">Update</string>
+    <string name="check_for_update">Актуализация</string>
     <string name="change_language">Language</string>
     <string name="reset_factory">Factory Reset</string>
     <string name="shut_down">Изключване</string>
-    <string name="reboot">Reboot</string>
+    <string name="reboot">Рестарт</string>
     <string name="about">Относно</string>
     <string name="wear_habit">Wear Habit</string>
     <string name="bugreport">Feedback</string>
@@ -189,7 +189,7 @@
     <string name="setting_time_format">Time Format</string>
     <string name="connect">Connection</string>
     <string name="common">Общо</string>
-    <string name="device">Device</string>
+    <string name="device">Устройство</string>
     <string name="units_set">Unit Setting</string>
     <string name="auto_airplane">Scheduled</string>
     <string name="wifi_upload">Данни</string>
@@ -279,7 +279,7 @@
     <string name="de_de">Deutsch</string>
     <string name="it_it">Italiano</string>
     <string name="fr_fr">Français</string>
-    <string name="pl_pl">Polski</string>
+    <string name="pl_pl">Полски</string>
     <string name="ko_kr">한국어</string>
     <string name="ja_jp">日本語</string>
     <string name="tr_tr">Türk dili</string>
@@ -364,7 +364,7 @@
     <string name="auto_wifi_trans_off_string">Изкл</string>
     <string name="blue_tooth_dev_in_sub_list">Bluetooth</string>
     <string name="scanning_blt_devices">Searching...</string>
-    <string name="blt_bound_stat_bonded">Paired</string>
+    <string name="blt_bound_stat_bonded">Свързано</string>
     <string name="blt_bound_stat_connected">Connected</string>
     <string name="blt_bound_stat_disconnect">Прекъснат</string>
     <string name="blt_bound_stat_bonding">Pairing...</string>
@@ -391,7 +391,7 @@ Disconnect?"</string>
  to pair?"</string>
     <string name="blt_paring_fail_hint">"Make sure device power on
 and is nearby"</string>
-    <string name="blt_hint_ignore_device">Ignore</string>
+    <string name="blt_hint_ignore_device">Игнорирай</string>
     <string name="blt_confirm_ignore">Are you sure you want to ignore this device?</string>
     <string name="bluetooth_connected">Connected</string>
     <string name="bluetooth_disconnected">Прекъснат</string>
@@ -434,8 +434,8 @@ and is nearby"</string>
     <string name="start_testing">Старт</string>
     <string name="lab_wifi_test_tip_retry">Please retry!!</string>
     <string name="lab_wifi_test_tip_testing">Testing…</string>
-    <string name="lab_wifi_test_tip_pass">Pass!!</string>
-    <string name="lab_wifi_test_tip_fail">Fail!!</string>
+    <string name="lab_wifi_test_tip_pass">Преминат!!</string>
+    <string name="lab_wifi_test_tip_fail">Провал!!</string>
     <string name="lab_wifi_test_tip_open_wifi">Opening WIFI</string>
     <string name="light_off">Изкл</string>
     <string name="light_auto">Авто</string>
@@ -448,12 +448,12 @@ and is nearby"</string>
     <string name="locale_applying">Language applying...</string>
     <string name="confirm_change_locale">"Change language to 
 %1$s?"</string>
-    <string name="gender">Gender</string>
+    <string name="gender">Пол</string>
     <string name="birth_year">Birth Year</string>
-    <string name="height">Height</string>
-    <string name="weight">Weight</string>
+    <string name="height">Височина</string>
+    <string name="weight">Тегло</string>
     <string name="male">Мъж</string>
-    <string name="female">Female</string>
+    <string name="female">Жена</string>
     <string name="centimeter">cm</string>
     <string name="birth_year_unit">"Birth 
 Year"</string>
@@ -544,7 +544,7 @@ all data in the watch will be deleted, and the watch will be disconnected from y
     <string name="sync_sport_data_before_reboot_summary">Unsynchronized records cannot be viewed on your phone. Please sync the records before switching modes. Open the Amazfit app and pull down to sync. Continue to switch?</string>
     <string name="sync_sport_data_before_reboot_dont_reboot">Не</string>
     <string name="sync_sport_data_before_reboot_reboot_now">Да</string>
-    <string name="unit_metric">Metric</string>
+    <string name="unit_metric">Метрична</string>
     <string name="unit_english">Imperial</string>
     <string name="strong">Силна</string>
     <string name="mid">Средно</string>
@@ -565,10 +565,10 @@ all data in the watch will be deleted, and the watch will be disconnected from y
     <string name="screen_refresh">Lockscreen seconds hand</string>
     <string name="screen_refresh_on_string">Вкл</string>
     <string name="screen_refresh_off_string">Изкл</string>
-    <string name="setting_regulatory_europe">Europe</string>
+    <string name="setting_regulatory_europe">Европа</string>
     <string name="setting_regulatory_us">U.S.</string>
-    <string name="setting_regulatory_canda">Canada</string>
-    <string name="setting_regulatory_russia">Russia</string>
+    <string name="setting_regulatory_canda">Канада </string>
+    <string name="setting_regulatory_russia">Русия</string>
     <string name="setting_regulatory_japan">Japan</string>
     <string name="setting_regulatory_ukraine">Ukraine</string>
     <string name="setting_regulation_desc_us">FCC ID:2AC8UA1811</string>
