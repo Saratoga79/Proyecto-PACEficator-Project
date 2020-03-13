@@ -2,7 +2,7 @@
 <resources>
     <string name="config_statusBarComponent">com.android.systemui.statusbar.phone.PhoneStatusBar</string>
     <string name="quick_settings_tiles_default">wifi,bt,inversion,cell,airplane,rotation,flashlight,location,cast,hotspot</string>
-    <string name="quick_settings_tiles">default</string>
+    <string name="quick_settings_tiles">по подразбиране</string>
     <string name="velocity_tracker_impl">platform</string>
     <string name="doze_pulse_schedule">1s,10s,30s,60s</string>
     <string name="system_ui_date_pattern">@android:string/system_ui_date_pattern</string>
@@ -14,7 +14,7 @@
     <string name="status_bar_no_recent_apps">Your recent screens appear here</string>
     <string name="status_bar_accessibility_dismiss_recents">Dismiss recent apps</string>
     <string name="status_bar_no_notifications_title">No notifications</string>
-    <string name="status_bar_ongoing_events_title">Ongoing</string>
+    <string name="status_bar_ongoing_events_title">Текущ</string>
     <string name="status_bar_latest_events_title">Notifications</string>
     <string name="battery_low_title">Battery is low</string>
     <string name="battery_low_percent_format">%s remaining</string>
@@ -127,7 +127,7 @@
     <string name="accessibility_data_connection_4g">4G</string>
     <string name="accessibility_data_connection_lte">LTE</string>
     <string name="accessibility_data_connection_cdma">CDMA</string>
-    <string name="accessibility_data_connection_roaming">Roaming</string>
+    <string name="accessibility_data_connection_roaming">Роуминг</string>
     <string name="accessibility_data_connection_edge">Ръб</string>
     <string name="accessibility_data_connection_wifi">Wi-Fi</string>
     <string name="accessibility_no_sim">No SIM.</string>
@@ -238,7 +238,7 @@
     <string name="quick_settings_wifi_off_label">Wi-Fi Off</string>
     <string name="quick_settings_wifi_detail_empty_text">No saved networks available</string>
     <string name="quick_settings_cast_title">Cast screen</string>
-    <string name="quick_settings_casting">Casting</string>
+    <string name="quick_settings_casting">Предаване</string>
     <string name="quick_settings_cast_device_default_name">Unnamed device</string>
     <string name="quick_settings_cast_device_default_description">Ready to cast</string>
     <string name="quick_settings_cast_detail_empty_text">No devices available</string>
@@ -252,14 +252,14 @@
     <string name="quick_settings_connected_via_wfa">Connected via Wi‑Fi assistant</string>
     <string name="quick_settings_connecting">Connecting...</string>
     <string name="quick_settings_tethering_label">Tethering</string>
-    <string name="quick_settings_hotspot_label">Hotspot</string>
+    <string name="quick_settings_hotspot_label">Точка за достъп</string>
     <string name="quick_settings_notifications_label">Notifications</string>
     <string name="quick_settings_flashlight_label">Flashlight</string>
     <string name="quick_settings_cellular_detail_title">Cellular data</string>
     <string name="quick_settings_cellular_detail_data_usage">Data usage</string>
     <string name="quick_settings_cellular_detail_remaining_data">Remaining data</string>
     <string name="quick_settings_cellular_detail_over_limit">Over limit</string>
-    <string name="quick_settings_cellular_detail_data_used">%s used</string>
+    <string name="quick_settings_cellular_detail_data_used">%s използвани</string>
     <string name="quick_settings_cellular_detail_data_limit">%s limit</string>
     <string name="quick_settings_cellular_detail_data_warning">%s warning</string>
     <string name="recents_empty_message">Your recent screens appear here</string>
@@ -267,7 +267,7 @@
     <string name="recents_lock_to_app_button_label">screen pinning</string>
     <string name="recents_search_bar_label">search</string>
     <string name="recents_launch_error_message">Could not start %s.</string>
-    <string name="expanded_header_battery_charged">Charged</string>
+    <string name="expanded_header_battery_charged">Зареден</string>
     <string name="expanded_header_battery_charging">Charging</string>
     <string name="expanded_header_battery_charging_with_time">%s until full</string>
     <string name="expanded_header_battery_not_charging">Not charging</string>
@@ -426,7 +426,7 @@
     <string name="keyguard_password_wrong_pin_code">Incorrect PIN code.</string>
     <string name="keyguard_label_text">To unlock, press Menu then 0.</string>
     <string name="faceunlock_multiple_failures">Maximum Face Unlock attempts exceeded</string>
-    <string name="keyguard_charged">Charged</string>
+    <string name="keyguard_charged">Зареден</string>
     <string name="keyguard_plugged_in">Charging</string>
     <string name="keyguard_low_battery">Connect your charger.</string>
     <string name="keyguard_instructions_when_pattern_disabled">Press Menu to unlock.</string>
@@ -520,7 +520,7 @@
     <string name="kg_login_instructions">To unlock, sign in with your Google account.</string>
     <string name="kg_login_username_hint">Username (email)</string>
     <string name="kg_login_password_hint">Password</string>
-    <string name="kg_login_submit_button">Sign in</string>
+    <string name="kg_login_submit_button">Вписване</string>
     <string name="kg_login_invalid_input">Invalid username or password.</string>
     <string name="kg_login_account_recovery_hint">\"Забравили сте потребителското име или паролата си?
 Посетете \"<b>google.com/accounts/recovery\"</b>.</string>
