@@ -247,8 +247,8 @@ start now."</string>
     <string name="sport_graph_title_ave">Средно</string>
     <string name="sport_graph_title_max">Макс</string>
     <string name="sport_graph_title_min">Мин</string>
-    <string name="sport_graph_title_fast">Fastest</string>
-    <string name="sport_graph_title_high">Highest</string>
+    <string name="sport_graph_title_fast">Най-бързо</string>
+    <string name="sport_graph_title_high">Най-висока</string>
     <string name="sport_graph_title_low">Най-ниската</string>
     <string name="adjust_content">%1$dm</string>
     <string name="adjust_tips_title">Auto lap distance has been changed</string>
@@ -262,9 +262,9 @@ start now."</string>
     <string name="sport_result_in_progress">Saving data…</string>
     <string name="sport_result_invalid">Stopping the activity…</string>
     <string name="sport_gps_found_success_tips">GPS available</string>
-    <string name="sport_history_recovery">Restore</string>
+    <string name="sport_history_recovery">Възстановяване</string>
     <string name="sport_remind_pace_unit">/km</string>
-    <string name="sport_lap_manual_current">Current</string>
+    <string name="sport_lap_manual_current">Текуща</string>
     <string name="sport_lap_swim_length_time">Time used for %1$s m</string>
     <string name="sport_lap_swim_length_time_imperial">Time used for %1$s yd</string>
     <string name="sport_swim_style">Stroke type</string>
@@ -311,7 +311,7 @@ start now."</string>
     <string name="sport_widget_title_open_water_swim_in_progress">Swimming in open water…</string>
     <string name="sport_widget_title_triathlon_in_progress">In triathlon</string>
     <string name="sport_child_swim">Плуване</string>
-    <string name="sport_child_riding">Cycling</string>
+    <string name="sport_child_riding">Колоездене</string>
     <string name="sport_child_running">Старт</string>
     <string name="sport_month_settings">Настройки</string>
     <string name="sport_month_target">Monthly activity goal</string>
@@ -342,9 +342,9 @@ start now."</string>
     <string name="heart_region_title">Heart rate zone</string>
     <string name="heart_region_anaerobic＿limit">Anaerobic limit</string>
     <string name="heart_region_endurance_enhancement">Anaerobic</string>
-    <string name="heart_region_heart_and_lung_enhancement">Aerobic</string>
+    <string name="heart_region_heart_and_lung_enhancement">Аеробика</string>
     <string name="heart_region_fat_burning">Fat Burning</string>
-    <string name="heart_region_warm_up_and_relax">Warm Up</string>
+    <string name="heart_region_warm_up_and_relax">Загрявка</string>
     <string name="sport_te_title">Training effect (TE)</string>
     <string name="sport_te_desc"><Data>\"This workout\'s effect is &lt;font color=#FFFF00&gt;moderate&lt;/font&gt;, which maintains cardiorespiratory fitness.\"</Data></string>
     <string name="last_kilo_meters_times">Time for last km</string>
@@ -416,7 +416,7 @@ start now."</string>
     <string name="dialog_tennic_select_hand_title">Избери</string>
     <string name="sport_widget_title_compound">Multisport</string>
     <string name="sport_widget_title_compounding">Compound exercise…</string>
-    <string name="sport_select_compound">Workout</string>
+    <string name="sport_select_compound">Тренировка</string>
     <string name="swimming_stop_dialog_msg_not_reach_minimum_distance">Need more swimming sessions to save the data, end anyway?</string>
     <string name="select_compound_sport">Workout %1$s</string>
     <string name="select_compound_sport_first">1</string>
@@ -466,7 +466,7 @@ start now."</string>
     <string name="re_modify_dis_tips">"1. Калибрирате резултата от разстоянието от текущата сесия (тя трябва да е по-голяма от 0,5 km), помага на часовника да генерира по-точен резултат.
 2. Ако все още не сте доволни от резултата след няколко опита за калибриране, опитайте да калибрирате отново.
 3. Ако отново калибрирате резултата, всички предишни записи за калибриране ще бъдат изтрити."</string>
-    <string name="give_up_re_modify_dis">Give up</string>
+    <string name="give_up_re_modify_dis">Отказвам</string>
     <string name="confirm_re_modify_dis">Потвърди</string>
     <string name="re_modify_dis_successful">Re-modify successful</string>
     <string name="lap_sub_type_title">Останали</string>
@@ -521,7 +521,7 @@ start now."</string>
     <string name="smart_coach_recommand">Smart coach recommend</string>
     <string name="shown_settings">Display setting</string>
     <string name="gps_target_count_sub_content">Count</string>
-    <string name="shown_settings_sub_title">Display</string>
+    <string name="shown_settings_sub_title">Дисплей</string>
     <string name="data_control_sub_title">Данни</string>
     <string name="sport_remind_sub_title">Reminder</string>
     <string name="settings_sport_cadence_link_sub_title">Sport cadence setting</string>
@@ -559,7 +559,7 @@ start now."</string>
     <string name="train_load_near_seven_days">Last 7 days</string>
     <string name="train_load_suggess_status_no_record">"We'll evaluate your training load from exercises recorded in the past 7 days"</string>
     <string name="train_load_suggess_status_less">Ниско</string>
-    <string name="train_load_suggess_status_good">Optimal</string>
+    <string name="train_load_suggess_status_good">Оптимален</string>
     <string name="train_load_suggess_status_recovery">Високо</string>
     <string name="train_load_suggess_status_over">Overreaching</string>
     <string name="real_time_perpormance_level_very_good">Добро</string>
@@ -611,7 +611,7 @@ to reach full recovery."</string>
     <string name="decision_no">Не</string>
     <string name="use_sport_route_remind">Does this activity use the %1$s route for navigation?</string>
     <string name="please_start_sport_from_route_start">In order to ensure the accuracy of route guidance, start the motion at the true geographic location of the track origin</string>
-    <string name="please_become_bigger">Zoom in</string>
+    <string name="please_become_bigger">Приближаване</string>
     <string name="please_become_smaller">Zoom out</string>
     <string name="current_altitude">Надморска височина</string>
     <string name="cumulative_climb">Elev gain</string>
