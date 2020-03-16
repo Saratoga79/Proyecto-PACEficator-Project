@@ -309,8 +309,14 @@
     <string name="no_data_content">No measurement result</string>
     <string name="widget_pressure_title">Continuous Stress</string>
     <string name="widget_pressure_title_in_applist">Stress</string>
-    <string name="widget_pressure_single_pressure_measure">"Measuring
-Please stay relaxed"</string>
+    <string name="widget_pressure_single_pressure_measure">"Messen
+ Bitte entspannen"</string>
+    <string name="widget_pressure_cur_single_pressure_measure">Aktuelle Belastung %1$d</string>
+    <string name="widget_pressure_cur_single_pressure_measure_0">Keine Belastung</string>
+    <string name="widget_pressure_cur_single_pressure_measure_1">Normale Belastung</string>
+    <string name="widget_pressure_cur_single_pressure_measure_2">Mittlere Belastung</string>
+    <string name="widget_pressure_cur_single_pressure_measure_3">Hohe Belastung</string>
+    <string name="widget_pressure_cur_single_pressure_measure_4">Sehr hohe Belastungen</string>
     <string name="pressure_detail_title">Stress details</string>
     <string name="pressure_detail_low">Low</string>
     <string name="pressure_detail_middle">Medium</string>

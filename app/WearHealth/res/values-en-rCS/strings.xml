@@ -310,7 +310,13 @@
     <string name="widget_pressure_title">Kontinuální stres</string>
     <string name="widget_pressure_title_in_applist">Stres</string>
     <string name="widget_pressure_single_pressure_measure">"Měření
-Zůstaňte prosím uvolněni"</string>
+ Zůstaňte prosím uvolnění"</string>
+    <string name="widget_pressure_cur_single_pressure_measure">Aktuální napětí %1$d</string>
+    <string name="widget_pressure_cur_single_pressure_measure_0">Žádný stres</string>
+    <string name="widget_pressure_cur_single_pressure_measure_1">Normální stres</string>
+    <string name="widget_pressure_cur_single_pressure_measure_2">Střední stres</string>
+    <string name="widget_pressure_cur_single_pressure_measure_3">Velký stres</string>
+    <string name="widget_pressure_cur_single_pressure_measure_4">Velmi velký stres</string>
     <string name="pressure_detail_title">Detaily stresu</string>
     <string name="pressure_detail_low">Malý</string>
     <string name="pressure_detail_middle">Střední</string>
