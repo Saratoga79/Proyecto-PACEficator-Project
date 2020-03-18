@@ -217,7 +217,7 @@
     <string name="lap_add_failed">"Vuelta demasiado corta, no se puede grabar."</string>
     <string name="sport_main_stop_this_sport">¿Parar la actividad actual?</string>
     <string name="sport_history_delete_dialog_title">"¿Borrar esta actividad? No podrás recuperarla una vez borrada."</string>
-    <string name="sport_main_give_up_this_sport">¿Descartar esta actividad?</string>
+    <string name="sport_main_give_up_this_sport">¿Terminar la actividad?</string>
     <string name="sport_confirm_stop_sport">Sí</string>
     <string name="sport_confirm_not_stop_sport">No</string>
     <string name="sport_main_am">AM</string>
@@ -426,7 +426,7 @@
     <string name="setting_reserve_heart_region_2">Zona 2</string>
     <string name="setting_reserve_heart_region_3">Zona 3</string>
     <string name="virtual_rabbit_backward_time">T. Perdido</string>
-    <string name="anti_navigation_pause_content">Volver a la salida</string>
+    <string name="anti_navigation_pause_content">Ubicaciones</string>
     <string name="virtual_rabbit_lead_time">T. Ganado</string>
     <string name="sport_main_beyond_heart_info_remind">RC fuera de la zona segura</string>
     <string name="setting_not_remind">No recordar</string>
@@ -463,7 +463,7 @@
     <string name="re_modify_dis_tips">"1. para calibrar el resultado de la distancia de una sesión corriente (debe ser más de 0,5 km) ayuda al reloj para generar un resultado más exacto.
 2. Si todavía no estás satisfechos con el resultado después de calibración de varios intentos, intente calibrar de nuevo.
 3. Si calibra el resultado otra vez, todos los registros de calibración anterior se eliminará."</string>
-    <string name="give_up_re_modify_dis">Descartar</string>
+    <string name="give_up_re_modify_dis">Terminar</string>
     <string name="confirm_re_modify_dis">OK</string>
     <string name="re_modify_dis_successful">Recalibración satisfactoria</string>
     <string name="lap_sub_type_title">Pausa</string>
@@ -1008,10 +1008,10 @@ para un ejercicio más efectivo\"</string>
     <string name="settings_sport_five_data">5 Campos de datos</string>
     <string name="settings_sport_six_data">6 Campos de datos</string>
     <string name="settting_sport_gpx_route">Rutas GPX</string>
-    <string name="not_save_sport_summary">Descartar</string>
+    <string name="not_save_sport_summary">Terminar</string>
     <string name="delete_sport_summary">Borrar</string>
-    <string name="give_up_sport_record">Descartar</string>
-    <string name="give_up_sport_record_tips">¿Descartar esta actividad?</string>
+    <string name="give_up_sport_record">Terminar</string>
+    <string name="give_up_sport_record_tips">¿Terminar esta actividad?</string>
     <string name="delete_sport_summary_tips">¿Eliminar esta actividad?</string>
     <string name="reminder_wear_not_tight_0">Utilice el reloj sobre la muñeca</string>
     <string name="reminder_wear_not_tight_1">Ajusta la correa del reloj</string>
