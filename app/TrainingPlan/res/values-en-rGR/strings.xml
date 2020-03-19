@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="locale_title">Select Language</string>
+    <string name="locale_title">Επιλογή γλώσσας</string>
     <string name="app_name">Κέντρο προπόνησης</string>
     <string name="app_train_center">Κέντρο προπόνησης</string>
     <string name="my_train">Οι προπονήσεις μου</string>
@@ -28,7 +28,7 @@ running. Let's get started!"</string>
     <string name="cancel">Όχι</string>
     <string name="enter">Ναι</string>
     <string name="dialog_delete">Διαγραφή</string>
-    <string name="day_train_plan_record_marked">Mark</string>
+    <string name="day_train_plan_record_marked">Σημάδι</string>
     <string name="train_plan_recode_finished">Λήξη</string>
     <string name="train_mileage">Συνολική απόσταση (χλμ)</string>
     <string name="train_mileage_mils">Συνολική απόσταση (μίλια)</string>
@@ -53,27 +53,27 @@ running. Let's get started!"</string>
     <string name="categorytitle10km">10 χλμ</string>
     <string name="categorytitlebanma">Ημιμαραθώνιος</string>
     <string name="categorytitlequanma">Μαραθώνιος</string>
-    <string name="categorycopywritenewroad">Suitable for people used to walking/jogging speed. This workout will help you get used to running gradually.</string>
-    <string name="categorycopywrite5km">Suitable for beginners. This workout will help you stay fit.</string>
-    <string name="categorycopywrite10km">Suitable for advanced runners. This workout will help you raise your aerobic threshold and build muscle strength.</string>
-    <string name="categorycopywritebanma">Suitable for half marathon runners. This workout will help you keep up your pace for a long time.</string>
-    <string name="categorycopywritequanma">Suitable for marathon runners. This workout will help you test your performance and adjust your strategy.</string>
+    <string name="categorycopywritenewroad">Κατάλληλο για άτομα που συνηθίζουν ταχύτητες πεζοπορίας / τζόκινγκ. Αυτή η προπόνηση θα σας βοηθήσει να συνηθίσετε να τρέχετε σταδιακά.</string>
+    <string name="categorycopywrite5km">Κατάλληλο για αρχάριους. Αυτή η προπόνηση θα σας βοηθήσει να μείνετε σε φόρμα.</string>
+    <string name="categorycopywrite10km">Κατάλληλο για προχωρημένους δρομείς. Αυτή η προπόνηση θα σας βοηθήσει να αυξήσετε το αερόβιο όριο και να χτίσετε τη δύναμη των μυών.</string>
+    <string name="categorycopywritebanma">Κατάλληλο για δρομείς ημίμαραθώνιου . Αυτή η προπόνηση θα σας βοηθήσει να διατηρήσετε το ρυθμό σας για μεγάλο χρονικό διάστημα.</string>
+    <string name="categorycopywritequanma">Κατάλληλο για δρομείς μαραθωνίου. Αυτή η προπόνηση θα σας βοηθήσει να δοκιμάσετε τις επιδόσεις σας και να προσαρμόσετε τη στρατηγική σας.</string>
     <string name="wirtecopyrun">Τρέξιμο</string>
     <string name="fartlek">Fartlek τρέξιμο</string>
-    <string name="joggingrun">Jogging</string>
+    <string name="joggingrun">Τζόκινγκ</string>
     <string name="baserun">Βασικό τρέξιμο</string>
     <string name="recoveryrun">Τρέξιμο αποκατάστασης</string>
     <string name="advancedrun">Προχωρημένο τρέξιμο</string>
     <string name="hillrun">Τρέξιμο σε λόφο</string>
-    <string name="temporun">Tempo running</string>
-    <string name="intermittentrunshort">Interval running (short cycle)</string>
-    <string name="intermittentrunlong">Interval running (long cycle)</string>
+    <string name="temporun">Τρέξιμο ρυθμού</string>
+    <string name="intermittentrunshort">Τρέξιμο εσωτερικού χώρου (σύντομος κύκλος)</string>
+    <string name="intermittentrunlong">Τρέξιμο εσωτερικού χώρου (παρατεταμένος κύκλος)</string>
     <string name="rest">Ημέρα ξεκούρασης</string>
     <string name="swim">Κολύμβηση</string>
-    <string name="ride">Riding</string>
+    <string name="ride">Ποδηλασία</string>
     <string name="basetrain">Βασική προπόνηση</string>
     <string name="reductionstage">Φάση ανάρρωσης</string>
-    <string name="targetedstage">Target phase</string>
+    <string name="targetedstage">Φάση στόχου</string>
     <string name="baserun3.2km">Βασικό τρέξιμο 3.2 χλμ</string>
     <string name="baserun4.8km">Βασικό τρέξιμο 4.8 χλμ</string>
     <string name="baserun6.5km">Βασικό τρέξιμο 6.5 χλμ</string>
