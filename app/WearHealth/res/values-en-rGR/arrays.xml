@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="support_category">
-        <item>DAILY</item>
-        <item>WEEKLY</item>
+        <item>ΚΑΘΗΜΕΡΙΝΆ</item>
+        <item>ΕΒΔΟΜΑΔΙΑΊΑ</item>
     </string-array>
     <string-array name="chart_x_titles2">
         <item>0</item>
@@ -37,9 +37,9 @@
         <item>Κυρ</item>
     </string-array>
     <string-array name="subject_typenfreqs">
-        <item>Σημερινές θερμίδες</item>
+        <item>Σήμερα</item>
         <item>Τρέχουσα εβδομάδα</item>
-        <item>Σημερινές θερμίδες</item>
+        <item>Σήμερα</item>
         <item>Τρέχουσα εβδομάδα</item>
     </string-array>
     <string-array name="chart_x_titles">
@@ -65,13 +65,13 @@
         <item>Ταχύτητα</item>
         <item>Μέση ταχύτητα</item>
         <item>Ρυθμός</item>
-        <item>Dist gain</item>
+        <item>Κερδισμένη απόσταση</item>
         <item>Βήματα</item>
         <item>Ρυθμός</item>
         <item>Γύροι</item>
         <item>DPS</item>
         <item>Ρυθμός απλωτών</item>
-        <item>Avg SPM</item>
+        <item>Μέσος όρος SPM</item>
         <item>Βήμα</item>
         <item>Μέσο βήμα</item>
         <item>Απόσταση</item>
@@ -82,30 +82,30 @@
         <item>Γύροι</item>
         <item>Κατάβαση</item>
         <item>Συνολική κατάβαση</item>
-        <item>Descent</item>
+        <item>Κάθοδος</item>
         <item>Απλωτές</item>
         <item>Χρόνος τελ.γύρ.</item>
-        <item>L.L. pace</item>
+        <item>Τ.Γ. ρυθμός</item>
         <item>Ταχύτητα τελ.γύρ.</item>
-        <item>L.L. HR</item>
+        <item>Τ.Γ. καρδιακός ρυθμός</item>
         <item>Ρυθμός τελ.γύρ.</item>
-        <item>L.L. pace</item>
+        <item>Τ.Γ. ρυθμός</item>
         <item>Τρέχουσα συχν</item>
-        <item>Total count</item>
+        <item>Συνολική Μέτρηση</item>
         <item>Μέση συχν</item>
         <item>Ομάδες</item>
-        <item>C.L. count</item>
-        <item>C.L. time</item>
-        <item>C.L. freq</item>
-        <item>C.L. time</item>
-        <item>C.L. dist.</item>
-        <item>C.L. pace</item>
-        <item>C.L. Speed</item>
-        <item>C.L. Heart rate</item>
-        <item>C.L. freq.</item>
+        <item>ΤΡ.Γ. μέτρηση</item>
+        <item>Τρ.Γ. χρόνος</item>
+        <item>Τρ.Γ.συχνότητα</item>
+        <item>Τρ.Γ. χρόνος</item>
+        <item>Τρ.Γ. απόσταση</item>
+        <item>Τρ.Γ. ρυθμός</item>
+        <item>Τρ.Γ. ταχύτητα</item>
+        <item>Τρ.Γ. καρδιακός ρυθμός</item>
+        <item>Τρ.Γ. συχνότητα</item>
         <item>κλίση</item>
         <item>Θερμίδες</item>
-        <item>Avg. HR</item>
+        <item>Μέσος καρδιακός ρυθμός</item>
         <item>Πεταλιές αυτού του σετ</item>
         <item>Συχνότητα</item>
         <item>Συνολικές πεταλιές</item>
