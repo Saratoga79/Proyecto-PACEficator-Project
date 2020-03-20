@@ -2,14 +2,14 @@
 <resources>
     <plurals name="notification_time_day">
         <item quantity="other">%s days ago</item>
-        <item quantity="one">%s day ago</item>
+        <item quantity="one">há %s dia(s)</item>
     </plurals>
     <plurals name="notification_time_hour">
         <item quantity="other">%s hours ago</item>
-        <item quantity="one">%s hour ago</item>
+        <item quantity="one">há %s hora(s)</item>
     </plurals>
     <plurals name="notification_time_minute">
         <item quantity="other">%s minutes ago</item>
-        <item quantity="one">%s minute ago</item>
+        <item quantity="one">há %s minuto(s)</item>
     </plurals>
 </resources>
