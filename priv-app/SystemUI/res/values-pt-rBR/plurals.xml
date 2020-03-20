@@ -2,14 +2,14 @@
 <resources>
     <plurals name="status_bar_accessibility_recent_apps">
         <item quantity="other">%d screens in Overview</item>
-        <item quantity="one">1 screen in Overview</item>
+        <item quantity="one">%d telas em \"Visão geral\"</item>
     </plurals>
     <plurals name="kg_password_wrong_pin_code">
         <item quantity="other">Incorrect SIM PIN code, you have %d remaining attempts.</item>
-        <item quantity="one">Incorrect SIM PIN code, you have %d remaining attempt before you must contact your carrier to unlock your device.</item>
+        <item quantity="one">Código PIN do SIM incorreto. Tentativas restantes: %d. Caso o código correto não seja digitado, será necessário entrar em contato com a operadora para desbloquear o dispositivo.</item>
     </plurals>
     <plurals name="kg_password_wrong_puk_code">
         <item quantity="other">Incorrect SIM PUK code, you have %d remaining attempts before SIM becomes permanently unusable.</item>
-        <item quantity="one">Incorrect SIM PUK code, you have %d remaining attempt before SIM becomes permanently unusable.</item>
+        <item quantity="one">Código PUK do SIM incorreto. Tentativas restantes: %d. Caso o código correto não seja digitado, o SIM se tornará permanentemente inutilizável.</item>
     </plurals>
 </resources>
