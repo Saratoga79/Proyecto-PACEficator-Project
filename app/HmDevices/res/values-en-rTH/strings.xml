@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">FindPhone</string>
+    <string name="app_name">ค้นหาโทรศัพท์</string>
     <string name="phone_finding">กำลังค้นหา ...Stratos 3</string>
-    <string name="phone_found">Phone found</string>
+    <string name="phone_found">พบโทรศัพท์</string>
     <string name="phone_found_android_msg">คลิกที่\"โอเค\"ใน AmazfitApp เพื่อหยุดเสียงกริ่ง</string>
-    <string name="phone_found_ios_msg">Click confirm in the promote box of Amazfit Watch App to stop the ring</string>
-    <string name="phone_not_connected">Phone not connected</string>
-    <string name="phone_not_found">Fail to find, please try again</string>
-    <string name="title">Find phone</string>
-    <string name="title_button">Start searching</string>
+    <string name="phone_found_ios_msg">กดยืนยันที่แอพนาฬิกา Amazfit เพื่อปิดเสียงกริ่ง</string>
+    <string name="phone_not_connected">โทรศัพท์ไม่มีการเชื่อมต่อ</string>
+    <string name="phone_not_found">ไม่สามารถค้นหา,โปรดลองอีกครั้ง</string>
+    <string name="title">ค้นหาโทรศัพท์</string>
+    <string name="title_button">เริ่มการค้นหา</string>
     <string name="picker_default_positive_text">ยืนยัน</string>
     <string name="picker_default_negative_text">ยกเลิก</string>
     <string name="phone_not_connect">Amazfit Watch App not connected, fail to find phone</string>
