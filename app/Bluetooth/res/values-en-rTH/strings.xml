@@ -28,7 +28,7 @@
     <string name="notification_received_fail">Bluetooth share: File %1$s not received</string>
     <string name="notification_sending">Bluetooth share: Sending %1$s</string>
     <string name="notification_sent">Bluetooth share: Sent %1$s</string>
-    <string name="notification_sent_complete">100% complete</string>
+    <string name="notification_sent_complete">100% สำเร็จ</string>
     <string name="notification_sent_fail">Bluetooth share: File %1$s not sent</string>
     <string name="download_title">การถ่ายโอนไฟล์</string>
     <string name="download_line1">จาก:\"%1$s\"</string>
@@ -45,14 +45,14 @@
     <string name="download_fail_line2">ไฟล์: %1$s</string>
     <string name="download_fail_line3">เหตุผล: %1$s</string>
     <string name="download_fail_ok">ตกลง</string>
-    <string name="download_succ_line5">File received</string>
-    <string name="download_succ_ok">Open</string>
+    <string name="download_succ_line5">รับไฟล์แล้ว</string>
+    <string name="download_succ_ok">เปิด</string>
     <string name="upload_line1">To: \"%1$s\"</string>
     <string name="upload_line3">File type: %1$s (%2$s)</string>
-    <string name="upload_line5">Sending file…</string>
+    <string name="upload_line5">กำลังส่งไฟล์…</string>
     <string name="upload_succ_line5">ส่งไฟล์แล้ว</string>
     <string name="upload_succ_ok">ตกลง</string>
-    <string name="upload_fail_line1">"The file wasn't sent to \"%1$s\"."</string>
+    <string name="upload_fail_line1">"ไฟล์ไม่ถูกส่งไปยัง\"%1$s\"."</string>
     <string name="upload_fail_line1_2">ไฟล์: %1$s</string>
     <string name="upload_fail_ok">ลองอีกครั้ง</string>
     <string name="upload_fail_cancel">ปิด</string>
@@ -63,7 +63,7 @@
     <string name="not_exist_file">No file</string>
     <string name="not_exist_file_desc">"ไฟล์ไม่มีอยู่ 
  "</string>
-    <string name="enabling_progress_title">Please wait…</string>
+    <string name="enabling_progress_title">กรุณารอสักครู่…</string>
     <string name="enabling_progress_content">Turning on Bluetooth…</string>
     <string name="bt_toast_1">The file will be received. Check progress in the Notifications panel.</string>
     <string name="bt_toast_2">"The file can't be received."</string>
@@ -74,9 +74,9 @@
     <string name="bt_sm_2_1">"There isn't enough space on the SD card to save the file from \"%1$s\""</string>
     <string name="bt_sm_2_2">Space needed: %1$s</string>
     <string name="ErrorTooManyRequests">Too many requests are being processed. Try again later.</string>
-    <string name="status_pending">File transfer not started yet.</string>
-    <string name="status_running">File transfer is ongoing.</string>
-    <string name="status_success">File transfer completed successfully.</string>
+    <string name="status_pending">การส่งไฟล์ยังไม่เริ่ม</string>
+    <string name="status_running">กำลังส่งไฟล์อยู่</string>
+    <string name="status_success">การส่งไฟล์สำเร็จเรียบร้อย</string>
     <string name="status_not_accept">"Content isn't supported."</string>
     <string name="status_forbidden">Transfer forbidden by target device.</string>
     <string name="status_canceled">การถ่ายโอนถูกยกเลิกโดยผู้ใช้</string>
@@ -85,9 +85,9 @@
     <string name="status_connection_error">Connection unsuccessful.</string>
     <string name="status_protocol_error">"Request can't be handled correctly."</string>
     <string name="status_unknown_error">ข้อผิดพลาดที่ไม่รู้จัก</string>
-    <string name="btopp_live_folder">Bluetooth received</string>
+    <string name="btopp_live_folder">บลูทูธได้รับแล้ว</string>
     <string name="download_success">%1$s Received complete.</string>
-    <string name="upload_success">%1$s Sent complete.</string>
+    <string name="upload_success">%1$s ส่งสำเร็จแล้ว</string>
     <string name="inbound_history_title">Inbound transfers</string>
     <string name="outbound_history_title">Outbound transfers</string>
     <string name="no_transfers">Transfer history is empty.</string>
