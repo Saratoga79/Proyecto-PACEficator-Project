@@ -2,8 +2,8 @@
 <resources>
     <string name="permlab_bluetoothShareManager">เข้าใช้งานตัวจัดการการดาวน์โหลด.</string>
     <string name="permdesc_bluetoothShareManager">อนุญาตให้แอพฯ เข้าใช้งานการจัดการ BluetoothShare และใช้ในการถ่ายโอนไฟล์</string>
-    <string name="permlab_bluetoothWhitelist">Whitelist bluetooth device access.</string>
-    <string name="permdesc_bluetoothWhitelist">Allows the app to temporarily whitelist a Bluetooth device, allowing that device to send files to this device without user confirmation.</string>
+    <string name="permlab_bluetoothWhitelist">อุปกรณ์บลูทูธถูกเข้าถึง</string>
+    <string name="permdesc_bluetoothWhitelist">ยินยอมให้แอพสร้าง whitelist อุปกรณ์บลูทูธชั่วคราว,อนุญาตอุปกรณ์นั้นส่งไฟล์มายังอุปกรณ์นี้โดยผู้ใช้ไม่ต้องยืนยัน</string>
     <string name="bt_share_picker_label">บลู​ทู​ธ</string>
     <string name="unknown_device">อุปกรณ์ที่ไม่รู้จัก</string>
     <string name="unknownNumber">ไม่รู้จัก</string>
@@ -20,14 +20,14 @@
     <string name="incoming_file_confirm_ok">ยอมรับ</string>
     <string name="incoming_file_confirm_timeout_ok">ตกลง</string>
     <string name="incoming_file_confirm_timeout_content">หมดเวลาในขณะที่กำลังรับไฟล์ที่เข้ามาจาก\"%1$s\"</string>
-    <string name="incoming_file_confirm_Notification_title">Bluetooth share: Incoming file</string>
+    <string name="incoming_file_confirm_Notification_title">บลูทูธแชร์:ไฟล์กำลังมา</string>
     <string name="incoming_file_confirm_Notification_caption">คุณต้องการดาวน์โหลดไฟล์นี้หรือไม่</string>
     <string name="incoming_file_toast_msg">มีไฟล์ส่งมาจากอุปกรณ์อื่น ยืนยันต้องการรับไฟล์นี้</string>
-    <string name="notification_receiving">Bluetooth share: Receiving %1$s</string>
-    <string name="notification_received">Bluetooth share: Received %1$s</string>
-    <string name="notification_received_fail">Bluetooth share: File %1$s not received</string>
-    <string name="notification_sending">Bluetooth share: Sending %1$s</string>
-    <string name="notification_sent">Bluetooth share: Sent %1$s</string>
+    <string name="notification_receiving">บลูทูธแชร์:กำลังรับ %1$s</string>
+    <string name="notification_received">บลูทูธแชร์:รับแล้ว %1$s</string>
+    <string name="notification_received_fail">บลูทูธแชร์:ไฟล์ %1$s ไม่ได้รับ</string>
+    <string name="notification_sending">บลูทูธแชร์:กำลังส่ง %1$s</string>
+    <string name="notification_sent">บลูทูธแชร์:ส่งแล้ว %1$s</string>
     <string name="notification_sent_complete">100% สำเร็จ</string>
     <string name="notification_sent_fail">บลูทูธแชร์:ไฟล์ %1$s ไม่ได้ส่ง</string>
     <string name="download_title">การถ่ายโอนไฟล์</string>
@@ -88,13 +88,13 @@
     <string name="btopp_live_folder">บลูทูธได้รับแล้ว</string>
     <string name="download_success">%1$s ได้รับเรียบร้อยแล้ว</string>
     <string name="upload_success">%1$s ส่งสำเร็จแล้ว</string>
-    <string name="inbound_history_title">Inbound transfers</string>
-    <string name="outbound_history_title">Outbound transfers</string>
+    <string name="inbound_history_title">การถ่ายโอนขาเข้า</string>
+    <string name="outbound_history_title">การถ่ายโอนขาออก</string>
     <string name="no_transfers">ไม่มีประวัติการโอนไฟล์</string>
-    <string name="transfer_clear_dlg_msg">All items will be cleared from the list.</string>
+    <string name="transfer_clear_dlg_msg">รายการทั้งหมดจะถูกลบออกจากรายการ</string>
     <string name="outbound_noti_title">บลูทูธแชร์:ส่งไฟล์</string>
     <string name="inbound_noti_title">บลูทูธแชร์:รับไฟล์</string>
-    <string name="noti_caption">%1$s successful, %2$s unsuccessful.</string>
+    <string name="noti_caption">%1$s สำเร็จ %2$s ไม่สำเร็จ</string>
     <string name="transfer_menu_clear_all">ล้างรายการ</string>
     <string name="transfer_menu_open">เปิด</string>
     <string name="transfer_menu_clear">ล้างจากรายการ</string>
@@ -113,7 +113,7 @@
     <string name="pbap_session_key_dialog_header">ต้องการบลูทูธคีย์เซสชัน</string>
     <string name="pbap_acceptance_timeout_message">หมดเวลาที่จะยอมรับการเชื่อมต่อกับ %1$s</string>
     <string name="pbap_authentication_timeout_message">หมดเวลาที่จะกรอกคีย์เซสชั่นกับ %1$s</string>
-    <string name="auth_notif_ticker">Obex authentication request</string>
+    <string name="auth_notif_ticker">ต้องการการยืนยันตัวบุคคล</string>
     <string name="auth_notif_title">คีย์เซสชั่น</string>
     <string name="auth_notif_message">พิมพ์คีย์เซสชันสำหรับ %1$s</string>
     <string name="defaultname">Carkit</string>
@@ -124,7 +124,7 @@
     <string name="app_name">แชร์บลูทูธ</string>
     <string name="insert_record">แทรกข้อมูลที่บันทึก</string>
     <string name="update_record">ยืนยันการบันทึก</string>
-    <string name="ack_record">Ack record</string>
+    <string name="ack_record">ยอมรับการบันทึก</string>
     <string name="deleteAll_record">ลบข้อมูลที่บันทึกทั้งหมด</string>
     <string name="ok_button">ตกลง</string>
     <string name="delete_record">ลบบันทึก</string>
@@ -134,7 +134,7 @@
     <string name="map_session_key_dialog_header">ต้องการรหัสผ่านบลูทูธ</string>
     <string name="map_acceptance_timeout_message">หมดเวลาการยอมรับการเชื่อมต่อ\"%1$s\"</string>
     <string name="map_authentication_timeout_message">หมดเวลาในขณะป้อนรหัสผ่านสำหรับ\"%1$s\"</string>
-    <string name="map_auth_notif_ticker">OBEX authentication request</string>
+    <string name="map_auth_notif_ticker">ต้องการการยืนยันตัวบุคคล</string>
     <string name="map_auth_notif_title">รหัสผ่าน</string>
     <string name="map_auth_notif_message">ป้อนรหัสผ่านสำหรับ\"%1$s\"</string>
     <string name="map_defaultname">Car kit</string>
