@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="notification_time_day">
-        <item quantity="other">%s days ago</item>
-        <item quantity="one">há %s dia(s)</item>
+        <item quantity="other">há %s dias</item>
+        <item quantity="one">há %s dia</item>
     </plurals>
     <plurals name="notification_time_hour">
-        <item quantity="other">%s hours ago</item>
-        <item quantity="one">há %s hora(s)</item>
+        <item quantity="other">há %s horas</item>
+        <item quantity="one">há %s hora</item>
     </plurals>
     <plurals name="notification_time_minute">
-        <item quantity="other">%s minutes ago</item>
-        <item quantity="one">há %s minuto(s)</item>
+        <item quantity="other">há %s minutos</item>
+        <item quantity="one">há %s minuto</item>
     </plurals>
 </resources>
