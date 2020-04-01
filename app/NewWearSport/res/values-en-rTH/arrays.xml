@@ -27,27 +27,27 @@
         <item>sport_target_remind_desc_01</item>
     </string-array>
     <string-array name="support_sport">
-        <item>RUNNING</item>
-        <item>WALKING</item>
+        <item>การวิ่ง</item>
+        <item>การเดิน</item>
         <item>CROSSING</item>
-        <item>INDOOR_RUN</item>
-        <item>OUTDOOR_RIDING</item>
-        <item>INDOOR_RIDING</item>
+        <item>การวิ่งในร่ม</item>
+        <item>การขี่กลางแจ้ง</item>
+        <item>การขี่ในร่ม</item>
         <item>ELLIPTICAL_MACHINE</item>
     </string-array>
     <string-array name="dally_performence_level_status">
         <item>Fatigued</item>
         <item>พอใช้</item>
-        <item>Good</item>
+        <item>ดี</item>
     </string-array>
     <string-array name="vo2_max_level_status">
         <item>เริ่มดี</item>
         <item>ดีขึ้น</item>
         <item>ดีมาก</item>
-        <item>Average</item>
-        <item>Good</item>
+        <item>เฉลี่ย</item>
+        <item>ดี</item>
         <item>เยี่ยมยอด</item>
-        <item>Excellent</item>
+        <item>ยอดเยี่ยม</item>
     </string-array>
     <string-array name="spring_depend">
         <item>com.huami.watch.newsport/com.huami.watch.newsport.widget.SportWidget</item>
@@ -61,16 +61,16 @@
         <item>ระยะทาง</item>
         <item>Pace</item>
         <item>เพชเฉลี่ย</item>
-        <item>Heart rate</item>
-        <item>Calories</item>
-        <item>Altitude</item>
+        <item>อัตราการเต้นหัวใจ</item>
+        <item>แคลอรี่</item>
+        <item>ระดับความสูง</item>
         <item>ความชัน</item>
         <item>ระดับต่ำสุด</item>
-        <item>Speed</item>
+        <item>ความเร็ว</item>
         <item>ความเร็วเฉลี่ย(กม/ชม.)</item>
         <item>Cadence</item>
         <item>ระยะความสูงทั้งหมด</item>
-        <item>Steps</item>
+        <item>ก้าว</item>
         <item>Cadence</item>
         <item>รอบ</item>
         <item>DPS</item>
@@ -82,19 +82,19 @@
         <item>TE</item>
         <item>Vert ความเร็ว</item>
         <item>ความเร็วเฉลี่ย(กม/ชม.)</item>
-        <item>Max speed</item>
+        <item>ความเร็วสูงสุด</item>
         <item>รอบ</item>
         <item>ลงเขา</item>
         <item>รวมการลงเขา</item>
         <item>Descent</item>
-        <item>Strokes</item>
+        <item>จังหวะ</item>
         <item>Lap time</item>
         <item>Lap pace</item>
         <item>Lap speed</item>
         <item>Lap HR</item>
         <item>Lap cadence</item>
         <item>Lap pace</item>
-        <item>Current freq</item>
+        <item>ความถี่ปัจจุบัน</item>
         <item>นับรวม</item>
         <item>ความถี่เฉลี่ย</item>
         <item>กลุ่ม</item>
@@ -108,7 +108,7 @@
         <item>Heart rate in this lap</item>
         <item>Lap freq.</item>
         <item>slope</item>
-        <item>Calories</item>
+        <item>แคลอรี่</item>
         <item>Avg. HR</item>
         <item>Paddles of this set</item>
         <item>ความถี่</item>
@@ -116,12 +116,12 @@
         <item>Paddle frequency</item>
         <item>Pulling duration</item>
         <item>Pushing duration</item>
-        <item>Avg. Freq.</item>
+        <item>ความถี่เฉลี่ย.</item>
     </string-array>
     <string-array name="sport_train_item">
         <item>ระยะทางที่เหลือ</item>
         <item>ระยะทางรวมทั้งหมด</item>
-        <item>Total time</item>
+        <item>เวลาทั้งหมด</item>
         <item>เวลาที่เหลือ</item>
         <item>ระยะทาง</item>
         <item>ที่เหลืออยู่</item>

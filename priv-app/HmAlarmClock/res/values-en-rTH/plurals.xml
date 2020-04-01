@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="Nhours_description">
-        <item quantity="other">%d hours</item>
+        <item quantity="other">%d ชั่วโมง</item>
     </plurals>
     <plurals name="Nminutes_description">
-        <item quantity="other">%d minutes</item>
+        <item quantity="other">%d นาที</item>
     </plurals>
     <plurals name="Nseconds_description">
-        <item quantity="other">%d seconds</item>
+        <item quantity="other">%d วินาที</item>
     </plurals>
     <plurals name="alarm_alert_snooze_set">
-        <item quantity="other">Snoozing for %d minutes.</item>
+        <item quantity="other">ปิดเสียงเตือนชั่วคราว%d นาที</item>
     </plurals>
     <plurals name="plurals_hours">
-        <item quantity="other">%dh</item>
+        <item quantity="other">%dชม.</item>
     </plurals>
     <plurals name="plurals_minutes">
         <item quantity="other">%dm</item>
     </plurals>
     <plurals name="plurals_seconds">
-        <item quantity="other">%ds</item>
+        <item quantity="other">%dวินาที</item>
     </plurals>
 </resources>
