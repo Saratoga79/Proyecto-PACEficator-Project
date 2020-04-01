@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="sport_train_item">
-        <item>Remaining distance</item>
+        <item>Distância Restante</item>
         <item>Distância Total</item>
-        <item>Total time</item>
-        <item>Remaining time</item>
+        <item>Tempo total</item>
+        <item>Tempo restante</item>
         <item>Distância</item>
         <item>Restante</item>
-        <item>Has rested</item>
+        <item>Descansou</item>
     </string-array>
     <string-array name="lab_item_android_settings">
         <item>[prim]Configurações originais do sistema</item>
@@ -21,18 +21,18 @@
         <item>[clazz]com.huami.watch.wearlogger.AllLogActivityLab</item>
     </string-array>
     <string-array name="lab_item_selftest">
-        <item>[prim]selftest</item>
-        <item>[sum]start selftest by yourself</item>
+        <item>[prim]de auto-teste</item>
+        <item>[sum]comece o autoteste sozinho</item>
         <item>[action]com.huami.watch.selftest.START</item>
     </string-array>
     <string-array name="lab_item_open_applist">
-        <item>[prim]Launcher Applist</item>
+        <item>[prim]Lançador Applist</item>
         <item>[sum]Abrir ou fechar o applist</item>
         <item>[sid]applist</item>
     </string-array>
     <string-array name="lab_item_bt_hci_snoop_log">
-        <item>[prim]BT HCI snoop log</item>
-        <item>[sum]Capture Bluetooth HCI log</item>
+        <item>[prim]Log de registro Bluetooth HCI</item>
+        <item>[sum]Captura de registro de Bluetooth HCI</item>
         <item>[sid]btsnoop</item>
     </string-array>
     <string-array name="lab_item_power_test">
@@ -243,13 +243,13 @@
         <item>+13 Tongatapu</item>
     </string-array>
     <string-array name="light_mode_subtitle">
-        <item>Brightness: Disabled</item>
-        <item>Brightness: Auto</item>
-        <item>Brightness: 2</item>
-        <item>Brightness: 2</item>
-        <item>Brightness: 1</item>
-        <item>Brightness: 3</item>
-        <item>Brightness: 4</item>
-        <item>Brightness: 5</item>
+        <item>Brilho: Desativado</item>
+        <item>Brilho: Automático</item>
+        <item>Brilho: 2</item>
+        <item>Brilho: 2</item>
+        <item>Brilho: 1</item>
+        <item>Brilho: 3</item>
+        <item>Brilho: 4</item>
+        <item>Brilho: 5</item>
     </string-array>
 </resources>
