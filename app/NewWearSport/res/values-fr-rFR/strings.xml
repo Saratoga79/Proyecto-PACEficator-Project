@@ -66,9 +66,9 @@
     <string name="not_step_freq_data">"Données de cadence introuvables"</string>
     <string name="not_stroke_speed_data">"Impossible de trouver les données du tracé"</string>
     <string name="not_cadence_data">"Données de cadence introuvables"</string>
-    <string name="stroke_speed_curve_title">AVC (SPM)</string>
+    <string name="stroke_speed_curve_title">Fréquence coups (SPM)</string>
     <string name="stroke_rowing_title">Vitesse de balancement (bpm)</string>
-    <string name="stroke_unit">"AVC"</string>
+    <string name="stroke_unit">"Coups"</string>
     <string name="cadence_curve_title">Cadence (SPM)</string>
     <string name="swim_trips_complete">Nager %1$d tours</string>
     <string name="gps_search_tips">Un exercice d\'échauffement de 15 minutes avant la course aide à prévenir les blessures.</string>
@@ -241,7 +241,7 @@ commencez maintenant. »</string>
     <string name="sport_pause_swim_dis_unit">Distance</string>
     <string name="sport_pause_normal_dis_type">Distance</string>
     <string name="sport_pause_normal_dis_unit">Distance</string>
-    <string name="sport_pause_normal_stroke_unit">AVC</string>
+    <string name="sport_pause_normal_stroke_unit">Coups</string>
     <string name="sport_auto_lap_dis">Temps pour %1$s km</string>
     <string name="sport_auto_lap_dis_imperial">Temps pour %1$s mi</string>
     <string name="sport_graph_title_ave">Moyenne</string>
@@ -253,7 +253,7 @@ commencez maintenant. »</string>
     <string name="adjust_content">%1$dm</string>
     <string name="adjust_tips_title">La distance du tour automatique a été modifiée</string>
     <string name="adjust_swim_tips">La distance du tour automatique a été définie comme la longueur de la piscine. Si vous voulez la réinitialiser, allez dans les paramètres d\'activité.</string>
-    <string name="hill_title">Répartition des étapes</string>
+    <string name="hill_title">Répartition</string>
     <string name="hill_even">Plat</string>
     <string name="hill_up">Montée</string>
     <string name="hill_down">Descente</string>
@@ -267,8 +267,8 @@ commencez maintenant. »</string>
     <string name="sport_lap_manual_current">Actuel</string>
     <string name="sport_lap_swim_length_time">Temps utilisé pour %1$s m</string>
     <string name="sport_lap_swim_length_time_imperial">Temps utilisé pour %1$s yd</string>
-    <string name="sport_swim_style">AVC</string>
-    <string name="sport_swim_style_main">Type AVC</string>
+    <string name="sport_swim_style">Type de coup</string>
+    <string name="sport_swim_style_main">Type principal</string>
     <string name="swim_free_style">Freestyle</string>
     <string name="swim_medlyrelay">Mixte</string>
     <string name="swim_breaststroke">Brasse</string>
@@ -322,11 +322,11 @@ commencez maintenant. »</string>
     <string name="continue_sport">Continuer l\'activité</string>
     <string name="stop_sport">Arrêter l\'activité</string>
     <string name="swim_avg_stroke_speed">SPM moyen</string>
-    <string name="swim_max_stroke_speed">Taux AVC max</string>
+    <string name="swim_max_stroke_speed">Taux coups max</string>
     <string name="swim_trips">Tours</string>
     <string name="target_swim_trips">Tours cible</string>
     <string name="swim_total_trips">Total de tours</string>
-    <string name="swim_stroke">AVC</string>
+    <string name="swim_stroke">Coups</string>
     <string name="swim_stroke_times">Sessions</string>
     <string name="swim_avg_dps">DPS Moy</string>
     <string name="swim_swolf">SWOLF</string>
@@ -401,7 +401,7 @@ commencez maintenant. »</string>
     <string name="skiing_interval_train_complete_pause_tip">Mise en pause de l\'activité</string>
     <string name="skiing_above_skiing_spped">Notifier lorsque plus rapide que %1$s</string>
     <string name="skiing_lap_downhill_dis_title">Descente</string>
-    <string name="sport_history_total_stokes">AVC total</string>
+    <string name="sport_history_total_stokes">Total coups</string>
     <string name="sport_tennis_forehand">Coup droit</string>
     <string name="sport_tennis_backhand">Revers</string>
     <string name="sport_tennis_serve">Service</string>
@@ -457,7 +457,7 @@ commencez maintenant. »</string>
     <string name="oritation_west">O</string>
     <string name="oritation_north">N</string>
     <string name="back_to_continue_sport">Précédent</string>
-    <string name="lap_swim_stroke_speed_title">Rythme AVC</string>
+    <string name="lap_swim_stroke_speed_title">Fréquence coups</string>
     <string name="first_modify_tips">Pour étalonner le résultat de la distance d\'une session de course (doit être plus longue que 0,5 km) aide la montre à générer un résultat de distance plus précis.</string>
     <string name="modify_big_dis_tips">La valeur calibrée %1$s est significativement différente de la valeur mesurée %2$s, calibrer quand même ?</string>
     <string name="modify_big_dis_regain">Modifier</string>
@@ -806,7 +806,7 @@ pour un exercice efficace!\"</string>
     <string name="sport_main_descend_al">Perte d\'altitude</string>
     <string name="sport_main_climb_dis">Gain de distance</string>
     <string name="sport_data_info_te_unit">TE</string>
-    <string name="swim_stroke_speed">Rythme AVC</string>
+    <string name="swim_stroke_speed">Fréquence</string>
     <string name="rt_swim_trips">Tours</string>
     <string name="swim_dps">DPS</string>
     <string name="skiing_downhill_num">Tours</string>
@@ -814,7 +814,7 @@ pour un exercice efficace!\"</string>
     <string name="skiing_downhill_max_speed">Vitesse max</string>
     <string name="skiing_downhill_elev_loss">Descente</string>
     <string name="skiing_rt_downhill_desecnd">Total en descente</string>
-    <string name="sport_tennis_strokes">AVC</string>
+    <string name="sport_tennis_strokes">Coups</string>
     <string name="last_lap_pace">Rythme du tour</string>
     <string name="last_lap_stepfreq">Cadence du tour</string>
     <string name="last_lap_duration">Durée du tour</string>
@@ -836,7 +836,7 @@ pour un exercice efficace!\"</string>
     <string name="running_heartrate_desc">Rythme cardiaque</string>
     <string name="running_avg_pace_desc">Rythme moyen</string>
     <string name="running_avg_speed_desc">Vitesse moyenne</string>
-    <string name="walking_step_count">Etapes</string>
+    <string name="walking_step_count">Pas</string>
     <string name="crossing_vertical_speed">Vitesse verticale</string>
     <string name="slope">Pente</string>
     <string name="sport_widget_title">Santé</string>
@@ -1022,8 +1022,8 @@ pour un exercice efficace!\"</string>
     <string name="reminder_wear_not_tight_0">Portez la montre au-dessus du poignet</string>
     <string name="reminder_wear_not_tight_1">Et fermez l\'appareil</string>
     <string name="gps_time_out_re_rearch">Le GPS a expiré, recherchez à nouveau.</string>
-    <string name="walking_step">étapes</string>
-    <string name="waling_steps">étapes</string>
+    <string name="walking_step">pas</string>
+    <string name="waling_steps">pas</string>
     <string name="date_am">"'AM'"</string>
     <string name="date_pm">"'PM'"</string>
     <string name="setting_sport_remind_region">Zone d\'alerte</string>
@@ -1212,7 +1212,7 @@ Vous pouvez le copier sur un ordinateur via USB."</string>
     <string name="double_ski">Ski</string>
     <string name="sport_total_time">Temps Total</string>
     <string name="speed">Vitesse</string>
-    <string name="stroke_speed">Rythme AVC</string>
+    <string name="stroke_speed">Fréquence</string>
     <string name="pace">Rythme</string>
     <string name="mileage">Distance</string>
     <string name="rope_skip_freq">Fréquence</string>
