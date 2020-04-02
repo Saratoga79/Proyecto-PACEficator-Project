@@ -236,8 +236,8 @@
     <string name="currentstep_detail_heart">Rythme cardiaque</string>
     <string name="currentstep_detail_title">Détails des données</string>
     <string name="currentstep_detail_activity_chart">Activités</string>
-    <string name="currentstep_detail_activity_chart_unit">(Unité : heure)</string>
-    <string name="currentstep_detail_activity_chart_unit_min">(Unité: minute)</string>
+    <string name="currentstep_detail_activity_chart_unit">(heure)</string>
+    <string name="currentstep_detail_activity_chart_unit_min">(minute)</string>
     <string name="currentstep_detail_activity_step_done">Objectif atteint</string>
     <string name="currentstep_detail_activity_step_notdo">"N'a pas atteint l'objectif"</string>
     <string name="currentstep_detail_activity_run_rate_av">Rythme moyen</string>
@@ -269,7 +269,7 @@
     <string name="widget_weeklyreports_reports_review">Revue hebdomadaire</string>
     <string name="widget_weeklyreports_nodata">Indisponible</string>
     <string name="stretch_dialog_cancel">Annuler</string>
-    <string name="floor_description">\"Un étage\" est d\'environ 3 mètres</string>
+    <string name="floor_description">Un étage correspond à 3 mètres</string>
     <string name="open_xiaom_app_failed_content">Réessayez après avoir installé l\'application Mi Fit.</string>
     <string name="open_xiaomi_app_failed_title">"Impossible d'ouvrir l'application Mi Fit"</string>
     <string name="stretch_connection_failed_button">Réessayez</string>
@@ -299,7 +299,7 @@
     <string name="step_number">Pas</string>
     <string name="climb_summary">Total</string>
     <string name="health_title_climb">Etages montés</string>
-    <string name="long_sit_title">Temps long assis</string>
+    <string name="long_sit_title">Temps assis</string>
     <string name="long_sit_summary">Total</string>
     <string name="long_sit_times">durée</string>
     <string name="step_distribution">Répartition des pas</string>
@@ -355,7 +355,7 @@ Veuillez rester détendu"</string>
     <string name="golf">Golf</string>
     <string name="complex_sport">Multisports</string>
     <string name="rope_skipping">Corde à sauter</string>
-    <string name="on_foot">à pied</string>
+    <string name="on_foot">Marche à pied</string>
     <string name="indoor_fitness">Fitness en salle</string>
     <string name="row_machine">Rameur</string>
     <string name="indoor_walking">Marche en intérieur</string>
@@ -423,7 +423,7 @@ Veuillez rester détendu"</string>
     <string name="a_martial_art">Arts martiaux</string>
     <string name="free_fight">Free sparring</string>
     <string name="double_ski">Ski</string>
-    <string name="sport_total_time">Temps Total</string>
+    <string name="sport_total_time">Temps total</string>
     <string name="current_altitude">Altitude</string>
     <string name="speed">Vitesse</string>
     <string name="stroke_speed">Fréquence</string>
