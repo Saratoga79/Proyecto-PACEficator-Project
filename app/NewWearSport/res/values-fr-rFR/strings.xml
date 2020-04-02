@@ -67,7 +67,7 @@
     <string name="not_stroke_speed_data">"Impossible de trouver les données du tracé"</string>
     <string name="not_cadence_data">"Données de cadence introuvables"</string>
     <string name="stroke_speed_curve_title">Fréquence coups (SPM)</string>
-    <string name="stroke_rowing_title">Vitesse de balancement (bpm)</string>
+    <string name="stroke_rowing_title">Vitesse de balancement (BPM)</string>
     <string name="stroke_unit">"Coups"</string>
     <string name="cadence_curve_title">Cadence (SPM)</string>
     <string name="swim_trips_complete">Nager %1$d tours</string>
@@ -92,7 +92,7 @@
     <string name="detail_route_detail_auto_lap_title">Tour auto.</string>
     <string name="detail_lap_num">Tour</string>
     <string name="detail_lap_serial_number">Numéro de série</string>
-    <string name="detail_lap_time">Heure</string>
+    <string name="detail_lap_time">Durée</string>
     <string name="detail_total_distance_desc">Distance totale</string>
     <string name="detail_lap_dis">Distance</string>
     <string name="detail_lap_avg_pace">Rythme moyen</string>
@@ -103,7 +103,7 @@
     <string name="battery_continue_time_unit">h</string>
     <string name="battery_split"> / </string>
     <string name="suggest_reset_time">Temps avant la récupération complète : %1$sh</string>
-    <string name="remain_time_recovery"><Data>Temps ŕ la récupération complète&amp;nbsp;&lt;font color=#00ff00&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;/font&gt;&amp;nbsp; h</Data></string>
+    <string name="remain_time_recovery"><Data>Temps de récupération complète&amp;nbsp;&lt;font color=#00ff00&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;/font&gt;&amp;nbsp; h</Data></string>
     <string name="more_sport_tint">En savoir plus</string>
     <string name="zh_space">&amp;#12288;</string>
     <string name="en_space"> </string>
@@ -498,7 +498,7 @@ commencez maintenant. »</string>
     <string name="gps_data_interval">Intervalle de données</string>
     <string name="gps_interval_time">%1$d sec</string>
     <string name="group_rowing_freq">Fréquence</string>
-    <string name="group_rowing_count">Durée</string>
+    <string name="group_rowing_count">Durées</string>
     <string name="group_rowing_avg_hr">Rythme cardiaque moyen</string>
     <string name="group_rowing_calorie">Consommation de calories</string>
     <string name="group_lap_title">Groupes</string>
@@ -744,7 +744,7 @@ pour un exercice efficace!\"</string>
     <string name="rope_arrive_goal_unit">s/saut</string>
     <string name="aleary_finish_group">Groupe %1$s</string>
     <string name="this_group_count">Nombre</string>
-    <string name="group_cost_time">Heure</string>
+    <string name="group_cost_time">Durée</string>
     <string name="group_frequency">Fréquence</string>
     <string name="aleary_rest">Repos</string>
     <string name="next_group">Suivant</string>
@@ -779,8 +779,7 @@ pour un exercice efficace!\"</string>
     <string name="sport_main_graph_title_rope_skip">Dernièr (s)</string>
     <string name="sport_rope_skip_requency">Fréquence (sauts/min)</string>
     <string name="swim_total_trips_times">Tours total:%1$s</string>
-    <string name="rope_skip_this_group_calorie">\"Calories
-\"</string>
+    <string name="rope_skip_this_group_calorie">Calories</string>
     <string name="rope_skip_this_group_avg_hr">RH moy.</string>
     <string name="lap_this_group_avg_hr">Rythme cardiaque de cet ensemble</string>
     <string name="route_glevation_gain">Gain d\'élévation</string>
@@ -826,10 +825,9 @@ pour un exercice efficace!\"</string>
     <string name="cur_lap_hr">Rythme cardiaque dans ce tour</string>
     <string name="cur_lap_speed">Vitesse pour ce tour</string>
     <string name="cur_lap_pace">Vitesse pour ce tour</string>
-    <string name="running_cost_time_desc">Heure</string>
+    <string name="running_cost_time_desc">Durée</string>
     <string name="running_pace_desc">Rythme</string>
-    <string name="running_calorie_desc">\"Calories
-\"</string>
+    <string name="running_calorie_desc">Calories</string>
     <string name="running_step_freq_desc">Cadence</string>
     <string name="running_speed_desc">Vitesse</string>
     <string name="running_distance_desc">Distance</string>
@@ -877,7 +875,7 @@ pour un exercice efficace!\"</string>
     <string name="running_control_title">Course</string>
     <string name="running_control_paused_des">En pause</string>
     <string name="sport_history_item_distance_desc">Distance (km)</string>
-    <string name="sport_history_item_cost_time_desc">Heure</string>
+    <string name="sport_history_item_cost_time_desc">Durée</string>
     <string name="running_avg_step_freq_desc">Cadence moyenne</string>
     <string name="running_stop_dialog_msg_reach_minimum_distance">Arrêter cette activité?</string>
     <string name="running_stop_dialog_msg_not_reach_minimum_distance">La distance est trop courte pour sauver. Arrêter quand même ?</string>
@@ -888,7 +886,7 @@ pour un exercice efficace!\"</string>
     <string name="sport_history_header_calorie_desc">Calories totales</string>
     <string name="history_heart_rate_desc">Rythme cardiaque:</string>
     <string name="history_heart_rate_unit">BPM</string>
-    <string name="history_info_cost_time_desc">Heure</string>
+    <string name="history_info_cost_time_desc">Durée</string>
     <string name="history_detail_paused_time">Temps de pause</string>
     <string name="history_detail_running_title">Course</string>
     <string name="history_detail_walking_title">Marche</string>
@@ -963,7 +961,7 @@ pour un exercice efficace!\"</string>
     <string name="remind_target_km_title_format">Terminé : %1$d km</string>
     <string name="remind_target_km_walking_title_format">Terminé : %1$d km</string>
     <string name="remind_target_distance_finished">Terminé</string>
-    <string name="remind_target_cost_time_desc">Heure</string>
+    <string name="remind_target_cost_time_desc">Durée</string>
     <string name="remind_target_pace_desc">Rythme</string>
     <string name="remind_target_distance_pace_unit">/km</string>
     <string name="remind_heart_rate_too_high">La fréquence cardiaque est trop élevée</string>
@@ -1043,16 +1041,16 @@ pour un exercice efficace!\"</string>
     <string name="tennic_wear_hand_guide">"Veillez à porter la montre
  sur la main de la raquette"</string>
     <string name="sport_time_seconds">s</string>
-    <string name="sport_type_num_text">%1$d activity types</string>
-    <string name="sport_type_runing">Running</string>
-    <string name="sport_type_riding">Riding</string>
+    <string name="sport_type_num_text">%1$d types d\'activités</string>
+    <string name="sport_type_runing">Course/Marche</string>
+    <string name="sport_type_riding">Vélo</string>
     <string name="sport_type_indoor">Intérieur</string>
-    <string name="sport_type_snow">Snow</string>
+    <string name="sport_type_snow">Hiver</string>
     <string name="sport_type_outdoor">Extérieur</string>
     <string name="sport_type_swim">Natation</string>
     <string name="sport_type_dance">Dance</string>
     <string name="sport_type_bar">Ballon</string>
-    <string name="sport_type_other">Other</string>
+    <string name="sport_type_other">Autres</string>
     <string name="sport_type_boxing">Combat</string>
     <string name="sport_add_title">Plus d\'activités</string>
     <string name="sport_list_hide_title">Activités communes</string>
@@ -1210,7 +1208,7 @@ Vous pouvez le copier sur un ordinateur via USB."</string>
     <string name="a_martial_art">Arts martiaux</string>
     <string name="free_fight">Kickboxing</string>
     <string name="double_ski">Ski</string>
-    <string name="sport_total_time">Temps Total</string>
+    <string name="sport_total_time">Temps total</string>
     <string name="speed">Vitesse</string>
     <string name="stroke_speed">Fréquence</string>
     <string name="pace">Rythme</string>
@@ -1280,7 +1278,7 @@ Vous pouvez le copier sur un ordinateur via USB."</string>
     <string name="low_battery_please_charging">Charger votre montre.</string>
     <string name="virtual_rabbit">Lapin virtuel</string>
     <string name="virtual_rabbit_back_time">Délai de retard</string>
-    <string name="rope_skip_group_time">Heure</string>
+    <string name="rope_skip_group_time">Durée</string>
     <string name="rope_skip_group_count">Nombre</string>
     <string name="rope_skip_group_freq">Fréquence</string>
     <string name="rope_skip_reset_tips">Repos</string>
@@ -1288,8 +1286,7 @@ Vous pouvez le copier sur un ordinateur via USB."</string>
     <string name="rope_skip_tips1">Le</string>
     <string name="rope_skip_tips2">La tâche a été terminée</string>
     <string name="rope_skip_avg_heartrate">Rythme cardiaque moyen</string>
-    <string name="rope_skip_group_calories">\"Calories
-\"</string>
+    <string name="rope_skip_group_calories">Calories</string>
     <string name="music">Musique</string>
     <string name="press_long_power_key_wake_up">Appuyez sur un bouton pour quitter</string>
     <string name="sport_auto_pause_end">Session terminée, enregistrer les données ?</string>
@@ -1303,7 +1300,7 @@ Vous pouvez le copier sur un ordinateur via USB."</string>
     <string name="widget_currentstep_sleep_hour">h</string>
     <string name="widget_currentstep_sleep_min">m</string>
     <string name="widget_currentstep_sleep_title">Dormi hier soir</string>
-    <string name="widget_currentstep_sleep_no">Aucune donnée de sommeille</string>
+    <string name="widget_currentstep_sleep_no">Aucune donnée</string>
     <string name="widget_currentstep_activity_no">Aucune activité aujourd\'hui?</string>
     <string name="locale_title">Choisir une langue</string>
 </resources>
