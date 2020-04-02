@@ -298,8 +298,8 @@ commencez maintenant. »</string>
     <string name="sport_widget_title_elliptical">Elliptique</string>
     <string name="sport_widget_title_rowing_machine">Rameur</string>
     <string name="sport_widget_title_rowing_machineing">Aviron</string>
-    <string name="sport_widget_title_indoor_swim">Piscine de natation</string>
-    <string name="sport_widget_title_open_water_swim">Eau libre</string>
+    <string name="sport_widget_title_indoor_swim">Nage en piscine</string>
+    <string name="sport_widget_title_open_water_swim">Nage en eau libre</string>
     <string name="sport_widget_title_triathlon">Triathlon</string>
     <string name="sport_widget_title_mountaineer">Montée</string>
     <string name="sport_widget_title_mountaineering">Montée…</string>
@@ -308,7 +308,7 @@ commencez maintenant. »</string>
     <string name="sport_widget_title_soccer">Football</string>
     <string name="sport_widget_title_soccering">Jouer au football</string>
     <string name="sport_widget_title_indoor_swim_in_progress">Piscine</string>
-    <string name="sport_widget_title_open_water_swim_in_progress">Natation en eau libre…</string>
+    <string name="sport_widget_title_open_water_swim_in_progress">Nage en eau libre…</string>
     <string name="sport_widget_title_triathlon_in_progress">En triathlon</string>
     <string name="sport_child_swim">Natation</string>
     <string name="sport_child_riding">Vélo</string>
@@ -548,8 +548,8 @@ commencez maintenant. »</string>
     <string name="recovery_time_hour">h</string>
     <string name="sport_vo2_max">VO₂ max</string>
     <string name="sport_ability">Niveau de fitness</string>
-    <string name="sport_train_load">Charge d\'entraînement</string>
-    <string name="sport_train_load_widget">Charge d\'entraînement</string>
+    <string name="sport_train_load">Charge entraînement</string>
+    <string name="sport_train_load_widget">Charge entraînement</string>
     <string name="first_beat_sport_status">Etat du corps</string>
     <string name="currnet_daily_performance_staus">Etat du corps actuel</string>
     <string name="sport_ability_up">Amélioration</string>
@@ -590,14 +590,14 @@ commencez maintenant. »</string>
     <string name="daily_propermance_has_no_data">Aucune donnée</string>
     <string name="first_beat_help_title_vo2_max">VO₂ max</string>
     <string name="first_beat_help_title_train_efffect">Effet d\'entraînement (TE)</string>
-    <string name="first_beat_help_title_train_load">Charge d\'entraînement</string>
+    <string name="first_beat_help_title_train_load">Charge entraînement</string>
     <string name="first_beat_help_title_sport_target_or_real_time_guide">Objectifs d\'exécution recommandés &amp; Coaching en temps réel</string>
     <string name="first_beat_help_title_daily_perpormence">Etat du corps</string>
     <string name="first_beat_help_title_recovery_time">Temps de récupération</string>
     <string name="first_beat_help_vo2_max">"&lt;font color=#00FF00&gt;Qu'est-ce que c'est?&lt;/font&gt;&lt;br/&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp; nbsp;&amp;nbsp;&amp;nbsp; VO&lt;unk&gt; max représente le volume maximal d'oxygène que le corps peut consommer en une minute tel que mesuré en ml/kg/min. Il évalue l'état de la forme cardiorespiratoire des utilisateurs, ce qui est important pour la santé globale, le bien-être et la performance sportive. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; La montre évaluera automatiquement votre VO&lt;unk&gt; max en fonction de la fréquence cardiaque, de la vitesse etc. au cours d'un exercice d'intensité modérée et comparez cela à un groupe de référence du même âge et du même sexe pour déterminer votre niveau de conditionnement physique. &lt;br/&gt;&lt;font color=#00FF00&gt;Comment évaluer ?&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 1. Fournir des informations de profil précises comme l'âge et le sexe dans l'application Amazfit pendant l'installation; &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 2. Prenez 15 minutes ou plus en plein air avec la montre et assurez-vous que la fréquence cardiaque est supérieure ou égale à 75 % de votre fréquence cardiaque maximale pendant au moins 10 minutes ; &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 3. Après avoir terminé la course, vous pouvez vérifier VO&lt;unk&gt; max actuel dans l'application d'activités sportives sur la page de montre ou de statut personnel dans l'application Amazift Watch. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;Pour plus de détails, voir l'application Aide dans Amazfit.&lt;/small&gt;"</string>
     <string name="first_beat_help_te">&lt;font color=#00FF00&gt;Qu\'est-ce que c\'est?&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; effet de pluie (TE) mesure la charge accumulée pendant une séance d\'entraînement et interprète son impact sur votre forme aérobique. TE commence à partir du niveau 0.0. Au fur et à mesure que l’entraînement progresse, la valeur de l’entraînement augmente (de 0 à 5), vous indiquant comment l’entraînement affecte votre condition physique. &lt;br/&gt;&lt;font color=#00FF00&gt;Comment est-il calculé ?&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;TE est calculé en fonction du profil de votre utilisateur, des données de temps cardiaque et de la difficulté de l\'entraînement.&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; La montre montrera la mesure en temps réel des TEP lors d\'une séance d\'entraînement ainsi que le résultat final TE à la fin de l\'entraînement. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;Pour plus de détails, voir l\'application Aide dans Amazfit.&lt;/small&gt;</string>
-    <string name="first_beat_help_train_load">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; e montre calculera la charge de formation en fonction des valeurs de la consommation d\'oxygène EPOC (Excess Post-exercise Oxygen Consumption) accumulées à partir des données de la fréquence cardiaque enregistrées au cours des séances d\'entraînement au cours des 7 derniers jours. L\'utilisateur peut ajuster le calendrier de formation en conséquence pour atteindre une charge optimale. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;Pour plus de détails, voir l\'application Aide dans Amazfit .&lt;/small&gt;</string>
-    <string name="first_beat_help_run_target_and_real_time_guide">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; he watch fournira des recommandations d\'entraînement en fonction de votre niveau de conditionnement physique VO&lt;unk&gt; maximum, de la charge d\'entraînement récente et du statut de récupération de l\'entraînement précédent. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; f vous activez la fonctionnalité de coaching en temps réel dans les paramètres et définissez un objectif TE, ou choisissez l\'un des entraînements recommandés, la montre vous guidera à travers l\'entrainement et vous incitera à ajuster le rythme et la fréquence cardiaque afin d\'atteindre les objectifs fixés. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;small&gt;Pour plus de détails, voir l\'application Aide dans Amazfit .&lt;/small&gt;</string>
+    <string name="first_beat_help_train_load">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;La montre calculera la charge de formation en fonction des valeurs de la consommation d\'oxygène EPOC (Excess Post-exercise Oxygen Consumption) accumulées à partir des données de la fréquence cardiaque enregistrées au cours des séances d\'entraînement au cours des 7 derniers jours. L\'utilisateur peut ajuster le calendrier de formation en conséquence pour atteindre une charge optimale. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;Pour plus de détails, voir l\'application Aide dans Amazfit .&lt;/small&gt;</string>
+    <string name="first_beat_help_run_target_and_real_time_guide">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;La montre fournira des recommandations d\'entraînement en fonction de votre niveau de conditionnement physique VO&lt;unk&gt; maximum, de la charge d\'entraînement récente et du statut de récupération de l\'entraînement précédent. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; f vous activez la fonctionnalité de coaching en temps réel dans les paramètres et définissez un objectif TE, ou choisissez l\'un des entraînements recommandés, la montre vous guidera à travers l\'entrainement et vous incitera à ajuster le rythme et la fréquence cardiaque afin d\'atteindre les objectifs fixés. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;small&gt;Pour plus de détails, voir l\'application Aide dans Amazfit .&lt;/small&gt;</string>
     <string name="first_beat_help_daily_perpormence">"&lt;font color=#00FF00&gt;Qu'est-ce que c'est?&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; La condition de performance en temps réel indique si vous êtes supérieur ou inférieur à votre niveau de performance moyen et que la fatigue accumulée affecte vos performances pendant une séance d'entraînement. &lt;br/&gt;&lt;font color=#00FF00&gt;Comment est-il utilisé ?&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;La montre évaluera automatiquement votre état de performance après 6 minutes de fonctionnement. Une valeur supérieure à la moyenne indique que vous pouvez faire un entraînement plus difficile que vous ne le feriez normalement. Une valeur plus faible suggère que vous devriez vous entraîner plus facilement. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Après avoir terminé un entraînement, vous pouvez analyser la performance en regardant le résultat à chaque km/mile du graphique. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;Pour plus de détails, voir l'application Aide dans Amazfit.&lt;/small&gt;"</string>
     <string name="first_beat_help_recovery_time">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Après avoir terminé une séance d\'entraînement, vous recevrez du temps en minutes pour une récupération complète. Entre les séances d\'entraînement, le temps de récupération est linéairement réduit vers zéro s\'il n\'y a pas de nouvelles données d\'entraînement disponibles. L\'utilisateur est encouragé à avoir quelques séances d\'entraînement de faible intensité pour aider à la récupération. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;Pour plus de détails, voir l\'application Aide dans Amazfit .&lt;/small&gt;</string>
     <string name="vo2max_unit">ml/kg/min</string>
@@ -1130,8 +1130,8 @@ Vous pouvez le copier sur un ordinateur via USB."</string>
     <string name="indoor_riding">Vélo en salle</string>
     <string name="cross_contry">Course Trail</string>
     <string name="eppitical">Elliptique</string>
-    <string name="indoor_swimming">Piscine de natation</string>
-    <string name="outdoor_swimming">Eau libre</string>
+    <string name="indoor_swimming">Nage en piscine</string>
+    <string name="outdoor_swimming">Nage en eau libre</string>
     <string name="triathlon">Triathlon</string>
     <string name="mountain">Escalade</string>
     <string name="riding">Vélo</string>
@@ -1143,7 +1143,7 @@ Vous pouvez le copier sur un ordinateur via USB."</string>
     <string name="complex_sport">Multisports</string>
     <string name="rope_skipping">Corde à sauter</string>
     <string name="on_foot">à pied</string>
-    <string name="indoor_fitness">Fitness intérieur</string>
+    <string name="indoor_fitness">Fitness en salle</string>
     <string name="row_machine">Rameur</string>
     <string name="indoor_walking">Marche en intérieur</string>
     <string name="mountain_biking">Vélo tout terrain</string>
