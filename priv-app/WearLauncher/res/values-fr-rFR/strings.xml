@@ -12,11 +12,11 @@
     <string name="delete_all_notifications">Effacer toutes les notifications</string>
     <string name="delete_all_notifications_confrim_content">Ces notifications seront supprimées définitivement. Effacer quand même ?</string>
     <string name="notification_time_day">HH:mm</string>
-    <string name="notification_time_month">dd/MM - HH:mm</string>
+    <string name="notification_time_month">dd/MM HH:mm</string>
     <string name="notification_time_year">dd/MM/yyyy HH:mm</string>
     <string name="action_delete">Supprimer</string>
     <string name="action_shield">Bloquer</string>
-    <string name="notification_none">Tous rattrapés</string>
+    <string name="notification_none">Pas de notifications</string>
     <string name="notification_allclear">Effacer tout</string>
     <string name="notification_allclear_confirm">Ces notifications seront supprimées définitivement. Effacer quand même ?</string>
     <string name="notification_checking_bluetooth">Vérification de la connexion Bluetooth…</string>
@@ -116,6 +116,10 @@ il y a moins d\'une heure"</string>
     <string name="music_peek_content">"Vous jouez de la musique dans %s sur votre téléphone. Vous pouvez contrôler la lecture dans l'ombre de notification de votre montre."</string>
     <string name="alone_before_open">Récemment ouvert</string>
     <string name="notification_title_default">Notification</string>
+    <string name="notice">Note</string>
+    <string name="confirm_delete">Confirmer la suppression?</string>
+    <string name="confirm">Confirmer</string>
+    <string name="cancel">Annuler</string>
     <string name="music">Musique</string>
     <string name="launcher_app_name">Lanceur</string>
     <string name="hm_watch_sports_notification_km">Kilomètres</string>
@@ -216,8 +220,8 @@ il y a moins d\'une heure"</string>
     <string name="indoor_riding">Vélo en salle</string>
     <string name="cross_contry">Course Trail</string>
     <string name="eppitical">Elliptique</string>
-    <string name="indoor_swimming">Piscine de natation</string>
-    <string name="outdoor_swimming">Eau libre</string>
+    <string name="indoor_swimming">Nage en piscine</string>
+    <string name="outdoor_swimming">Nage en eau libre</string>
     <string name="triathlon">Triathlon</string>
     <string name="mountain">Escalade</string>
     <string name="riding">Vélo</string>
@@ -228,13 +232,13 @@ il y a moins d\'une heure"</string>
     <string name="golf">Golf</string>
     <string name="complex_sport">Multisports</string>
     <string name="rope_skipping">Corde à sauter</string>
-    <string name="on_foot">A pied</string>
-    <string name="indoor_fitness">Fitness intérieur</string>
+    <string name="on_foot">Marche à pied</string>
+    <string name="indoor_fitness">Fitness en salle</string>
     <string name="row_machine">Rameur</string>
     <string name="sport_total_time">Temps total</string>
     <string name="current_altitude">Altitude</string>
     <string name="speed">Vitesse</string>
-    <string name="stroke_speed">Rythme AVC</string>
+    <string name="stroke_speed">Rythme</string>
     <string name="pace">Rythme</string>
     <string name="mileage">Distance</string>
     <string name="rope_skip_freq">Fréquence</string>
@@ -244,7 +248,7 @@ il y a moins d\'une heure"</string>
     <string name="sport_distance">Distance</string>
     <string name="sport_mileage">Distance</string>
     <string name="sport_downhill_total_distance">Total en descente</string>
-    <string name="sport_tennis_strokes">AVC</string>
+    <string name="sport_tennis_strokes">Coups</string>
     <string name="sport_rope_skip_count">Nombre</string>
     <string name="sport_row_total_count">Total</string>
     <string name="sport_change">Transition</string>
@@ -277,7 +281,7 @@ il y a moins d\'une heure"</string>
     <string name="kilometre">km</string>
     <string name="km_per_hour">km/h</string>
     <string name="bpm">BPM</string>
-    <string name="times_per_minute">BPM</string>
+    <string name="times_per_minute">sauts/min</string>
     <string name="per_km">/km</string>
     <string name="per_100m">/100 m</string>
     <string name="per_100Yard">/100 yd</string>
@@ -318,8 +322,7 @@ il y a moins d\'une heure"</string>
     <string name="rope_skip_tips1">Le</string>
     <string name="rope_skip_tips2">La tâche a été terminée</string>
     <string name="rope_skip_avg_heartrate">Rythme cardiaque moyen</string>
-    <string name="rope_skip_group_calories">\"Calories
-\"</string>
+    <string name="rope_skip_group_calories">Calories</string>
     <string name="press_long_power_key_wake_up">Appuyez sur un bouton pour quitter</string>
     <string name="sport_auto_pause_end">Session terminée, enregistrer les données ?</string>
     <string name="sport_slpt_stop_next_group">Suivant</string>

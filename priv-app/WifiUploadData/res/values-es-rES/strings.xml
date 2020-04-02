@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="average_text">Media</string>
+    <string name="menu_item_high_light_scale_factor">0.5</string>
+    <string name="low_battery_protect">Protección de batería baja</string>
+    <string name="low_battery_tips">Batería baja</string>
+    <string name="low_battery_please_charging">Carga tu reloj</string>
+    <string name="picker_default_positive_text">OK</string>
+    <string name="picker_default_nagetive_text">Off</string>
+    <string name="no_heartrate_data_hint">"Datos de RC no detectados."</string>
+    <string name="no_altitude_hint">"Datos de altitud no detectados."</string>
+    <string name="title_settings">Ajustes</string>
+    <string name="sport_music_settings">Música</string>
+    <string name="widget_currentstep_title">Centro de datos</string>
+    <string name="widget_currentstep_activities">"Actividades"</string>
+    <string name="widget_currentstep_sleep_hour">h</string>
+    <string name="widget_currentstep_sleep_min">min</string>
+    <string name="widget_currentstep_sleep_title">Sueño</string>
+    <string name="widget_currentstep_sleep_no">Sin datos de sueño</string>
+    <string name="widget_currentstep_activity_no">¿No te ejercitas hoy?</string>
+    <string name="locale_title">Seleccionar Idioma</string>
+    <string name="app_name">Sincronización Wi-Fi</string>
+    <string name="notice_text_success_top">Datos sincronizados correctamente</string>
+    <string name="notice_text_success_bottom">"Puedes ver los datos 
+en la app de Amazfit"</string>
+    <string name="notice_text_failed_top">"No se pudieron sincronizar los datos"</string>
+    <string name="net_failed">Comprueba tu conexión a internet y vuelve a intentarlo</string>
+    <string name="date">Hora:</string>
+    <string name="am">AM</string>
+    <string name="pm">PM</string>
+    <string name="date_">/</string>
+    <string name="date_m">:</string>
+    <string name="see_after_connect_app_token_faield">"No se pudo conectar a la app de Amazfit para actualizar el token de acceso"</string>
+    <string name="cannot_acess_server">"No se pudo establecer conexión con el servidor"</string>
+    <string name="cannot_upload_user">"No se pudo verificar el token de acceso"</string>
+    <string name="please_upload_assist_version">Actualiza la app de Amazfit y vuelve a intentarlo</string>
+    <string name="did_not_connect_assist">Conéctate a la app de Amazfit para actualizar el token de acceso para sincronizar datos</string>
+    <string name="upload_failed_full">¿Interrumpir la sincronización en curso?</string>
+    <string name="percent_sign">%</string>
+    <string name="please_keep_wifi_connected">"No desconectar del Wi-Fi"</string>
+    <string name="init_wifi">Conectando al Wi-Fi…</string>
+    <string name="init_user">Verificando…</string>
+    <string name="init_app">Conectando a la app de Amazfit…</string>
+    <string name="init_update_user">Actualizando…</string>
+    <string name="zero">0</string>
+    <string name="yes">Sí</string>
+    <string name="no">No</string>
+</resources>

@@ -66,9 +66,9 @@
     <string name="not_step_freq_data">"Données de cadence introuvables"</string>
     <string name="not_stroke_speed_data">"Impossible de trouver les données du tracé"</string>
     <string name="not_cadence_data">"Données de cadence introuvables"</string>
-    <string name="stroke_speed_curve_title">AVC (SPM)</string>
-    <string name="stroke_rowing_title">Vitesse de balancement (bpm)</string>
-    <string name="stroke_unit">"AVC"</string>
+    <string name="stroke_speed_curve_title">Fréquence coups (SPM)</string>
+    <string name="stroke_rowing_title">Vitesse de balancement (BPM)</string>
+    <string name="stroke_unit">"Coups"</string>
     <string name="cadence_curve_title">Cadence (SPM)</string>
     <string name="swim_trips_complete">Nager %1$d tours</string>
     <string name="gps_search_tips">Un exercice d\'échauffement de 15 minutes avant la course aide à prévenir les blessures.</string>
@@ -92,7 +92,7 @@
     <string name="detail_route_detail_auto_lap_title">Tour auto.</string>
     <string name="detail_lap_num">Tour</string>
     <string name="detail_lap_serial_number">Numéro de série</string>
-    <string name="detail_lap_time">Heure</string>
+    <string name="detail_lap_time">Durée</string>
     <string name="detail_total_distance_desc">Distance totale</string>
     <string name="detail_lap_dis">Distance</string>
     <string name="detail_lap_avg_pace">Rythme moyen</string>
@@ -103,7 +103,7 @@
     <string name="battery_continue_time_unit">h</string>
     <string name="battery_split"> / </string>
     <string name="suggest_reset_time">Temps avant la récupération complète : %1$sh</string>
-    <string name="remain_time_recovery"><Data>Temps ŕ la récupération complète&amp;nbsp;&lt;font color=#00ff00&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;/font&gt;&amp;nbsp; h</Data></string>
+    <string name="remain_time_recovery"><Data>Temps de récupération complète&amp;nbsp;&lt;font color=#00ff00&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;/font&gt;&amp;nbsp; h</Data></string>
     <string name="more_sport_tint">En savoir plus</string>
     <string name="zh_space">&amp;#12288;</string>
     <string name="en_space"> </string>
@@ -241,7 +241,7 @@ commencez maintenant. »</string>
     <string name="sport_pause_swim_dis_unit">Distance</string>
     <string name="sport_pause_normal_dis_type">Distance</string>
     <string name="sport_pause_normal_dis_unit">Distance</string>
-    <string name="sport_pause_normal_stroke_unit">AVC</string>
+    <string name="sport_pause_normal_stroke_unit">Coups</string>
     <string name="sport_auto_lap_dis">Temps pour %1$s km</string>
     <string name="sport_auto_lap_dis_imperial">Temps pour %1$s mi</string>
     <string name="sport_graph_title_ave">Moyenne</string>
@@ -253,7 +253,7 @@ commencez maintenant. »</string>
     <string name="adjust_content">%1$dm</string>
     <string name="adjust_tips_title">La distance du tour automatique a été modifiée</string>
     <string name="adjust_swim_tips">La distance du tour automatique a été définie comme la longueur de la piscine. Si vous voulez la réinitialiser, allez dans les paramètres d\'activité.</string>
-    <string name="hill_title">Répartition des étapes</string>
+    <string name="hill_title">Répartition</string>
     <string name="hill_even">Plat</string>
     <string name="hill_up">Montée</string>
     <string name="hill_down">Descente</string>
@@ -267,8 +267,8 @@ commencez maintenant. »</string>
     <string name="sport_lap_manual_current">Actuel</string>
     <string name="sport_lap_swim_length_time">Temps utilisé pour %1$s m</string>
     <string name="sport_lap_swim_length_time_imperial">Temps utilisé pour %1$s yd</string>
-    <string name="sport_swim_style">AVC</string>
-    <string name="sport_swim_style_main">Type AVC</string>
+    <string name="sport_swim_style">Type de coup</string>
+    <string name="sport_swim_style_main">Type principal</string>
     <string name="swim_free_style">Freestyle</string>
     <string name="swim_medlyrelay">Mixte</string>
     <string name="swim_breaststroke">Brasse</string>
@@ -298,8 +298,8 @@ commencez maintenant. »</string>
     <string name="sport_widget_title_elliptical">Elliptique</string>
     <string name="sport_widget_title_rowing_machine">Rameur</string>
     <string name="sport_widget_title_rowing_machineing">Aviron</string>
-    <string name="sport_widget_title_indoor_swim">Piscine de natation</string>
-    <string name="sport_widget_title_open_water_swim">Eau libre</string>
+    <string name="sport_widget_title_indoor_swim">Nage en piscine</string>
+    <string name="sport_widget_title_open_water_swim">Nage en eau libre</string>
     <string name="sport_widget_title_triathlon">Triathlon</string>
     <string name="sport_widget_title_mountaineer">Montée</string>
     <string name="sport_widget_title_mountaineering">Montée…</string>
@@ -308,7 +308,7 @@ commencez maintenant. »</string>
     <string name="sport_widget_title_soccer">Football</string>
     <string name="sport_widget_title_soccering">Jouer au football</string>
     <string name="sport_widget_title_indoor_swim_in_progress">Piscine</string>
-    <string name="sport_widget_title_open_water_swim_in_progress">Natation en eau libre…</string>
+    <string name="sport_widget_title_open_water_swim_in_progress">Nage en eau libre…</string>
     <string name="sport_widget_title_triathlon_in_progress">En triathlon</string>
     <string name="sport_child_swim">Natation</string>
     <string name="sport_child_riding">Vélo</string>
@@ -322,11 +322,11 @@ commencez maintenant. »</string>
     <string name="continue_sport">Continuer l\'activité</string>
     <string name="stop_sport">Arrêter l\'activité</string>
     <string name="swim_avg_stroke_speed">SPM moyen</string>
-    <string name="swim_max_stroke_speed">Taux AVC max</string>
+    <string name="swim_max_stroke_speed">Taux coups max</string>
     <string name="swim_trips">Tours</string>
     <string name="target_swim_trips">Tours cible</string>
     <string name="swim_total_trips">Total de tours</string>
-    <string name="swim_stroke">AVC</string>
+    <string name="swim_stroke">Coups</string>
     <string name="swim_stroke_times">Sessions</string>
     <string name="swim_avg_dps">DPS Moy</string>
     <string name="swim_swolf">SWOLF</string>
@@ -401,7 +401,7 @@ commencez maintenant. »</string>
     <string name="skiing_interval_train_complete_pause_tip">Mise en pause de l\'activité</string>
     <string name="skiing_above_skiing_spped">Notifier lorsque plus rapide que %1$s</string>
     <string name="skiing_lap_downhill_dis_title">Descente</string>
-    <string name="sport_history_total_stokes">AVC total</string>
+    <string name="sport_history_total_stokes">Total coups</string>
     <string name="sport_tennis_forehand">Coup droit</string>
     <string name="sport_tennis_backhand">Revers</string>
     <string name="sport_tennis_serve">Service</string>
@@ -457,7 +457,7 @@ commencez maintenant. »</string>
     <string name="oritation_west">O</string>
     <string name="oritation_north">N</string>
     <string name="back_to_continue_sport">Précédent</string>
-    <string name="lap_swim_stroke_speed_title">Rythme AVC</string>
+    <string name="lap_swim_stroke_speed_title">Fréquence coups</string>
     <string name="first_modify_tips">Pour étalonner le résultat de la distance d\'une session de course (doit être plus longue que 0,5 km) aide la montre à générer un résultat de distance plus précis.</string>
     <string name="modify_big_dis_tips">La valeur calibrée %1$s est significativement différente de la valeur mesurée %2$s, calibrer quand même ?</string>
     <string name="modify_big_dis_regain">Modifier</string>
@@ -498,7 +498,7 @@ commencez maintenant. »</string>
     <string name="gps_data_interval">Intervalle de données</string>
     <string name="gps_interval_time">%1$d sec</string>
     <string name="group_rowing_freq">Fréquence</string>
-    <string name="group_rowing_count">Durée</string>
+    <string name="group_rowing_count">Durées</string>
     <string name="group_rowing_avg_hr">Rythme cardiaque moyen</string>
     <string name="group_rowing_calorie">Consommation de calories</string>
     <string name="group_lap_title">Groupes</string>
@@ -542,14 +542,15 @@ commencez maintenant. »</string>
     <string name="sport_delete_item">Supprimer l\'activité</string>
     <string name="delete_item_tips">Garder une liste d\'au moins 1 activité</string>
     <string name="add_item_tips">The new activity has been added to the activity list</string>
+    <string name="begin_to_start">Démarrer l\'activité</string>
     <string name="huanghe_pause_continue_title">Actions de l\'activité</string>
     <string name="virtual_rabbit_back_distance">Distance d\'avance</string>
     <string name="experience_title">Définir les informations personnelles, ou les données auront un écart important</string>
     <string name="recovery_time_hour">h</string>
     <string name="sport_vo2_max">VO₂ max</string>
     <string name="sport_ability">Niveau de fitness</string>
-    <string name="sport_train_load">Charge d\'entraînement</string>
-    <string name="sport_train_load_widget">Charge d\'entraînement</string>
+    <string name="sport_train_load">Charge entraînement</string>
+    <string name="sport_train_load_widget">Charge entraînement</string>
     <string name="first_beat_sport_status">Etat du corps</string>
     <string name="currnet_daily_performance_staus">Etat du corps actuel</string>
     <string name="sport_ability_up">Amélioration</string>
@@ -590,14 +591,14 @@ commencez maintenant. »</string>
     <string name="daily_propermance_has_no_data">Aucune donnée</string>
     <string name="first_beat_help_title_vo2_max">VO₂ max</string>
     <string name="first_beat_help_title_train_efffect">Effet d\'entraînement (TE)</string>
-    <string name="first_beat_help_title_train_load">Charge d\'entraînement</string>
+    <string name="first_beat_help_title_train_load">Charge entraînement</string>
     <string name="first_beat_help_title_sport_target_or_real_time_guide">Objectifs d\'exécution recommandés &amp; Coaching en temps réel</string>
     <string name="first_beat_help_title_daily_perpormence">Etat du corps</string>
     <string name="first_beat_help_title_recovery_time">Temps de récupération</string>
     <string name="first_beat_help_vo2_max">"&lt;font color=#00FF00&gt;Qu'est-ce que c'est?&lt;/font&gt;&lt;br/&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp; nbsp;&amp;nbsp;&amp;nbsp; VO&lt;unk&gt; max représente le volume maximal d'oxygène que le corps peut consommer en une minute tel que mesuré en ml/kg/min. Il évalue l'état de la forme cardiorespiratoire des utilisateurs, ce qui est important pour la santé globale, le bien-être et la performance sportive. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; La montre évaluera automatiquement votre VO&lt;unk&gt; max en fonction de la fréquence cardiaque, de la vitesse etc. au cours d'un exercice d'intensité modérée et comparez cela à un groupe de référence du même âge et du même sexe pour déterminer votre niveau de conditionnement physique. &lt;br/&gt;&lt;font color=#00FF00&gt;Comment évaluer ?&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 1. Fournir des informations de profil précises comme l'âge et le sexe dans l'application Amazfit pendant l'installation; &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 2. Prenez 15 minutes ou plus en plein air avec la montre et assurez-vous que la fréquence cardiaque est supérieure ou égale à 75 % de votre fréquence cardiaque maximale pendant au moins 10 minutes ; &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 3. Après avoir terminé la course, vous pouvez vérifier VO&lt;unk&gt; max actuel dans l'application d'activités sportives sur la page de montre ou de statut personnel dans l'application Amazift Watch. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;Pour plus de détails, voir l'application Aide dans Amazfit.&lt;/small&gt;"</string>
     <string name="first_beat_help_te">&lt;font color=#00FF00&gt;Qu\'est-ce que c\'est?&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; effet de pluie (TE) mesure la charge accumulée pendant une séance d\'entraînement et interprète son impact sur votre forme aérobique. TE commence à partir du niveau 0.0. Au fur et à mesure que l’entraînement progresse, la valeur de l’entraînement augmente (de 0 à 5), vous indiquant comment l’entraînement affecte votre condition physique. &lt;br/&gt;&lt;font color=#00FF00&gt;Comment est-il calculé ?&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;TE est calculé en fonction du profil de votre utilisateur, des données de temps cardiaque et de la difficulté de l\'entraînement.&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; La montre montrera la mesure en temps réel des TEP lors d\'une séance d\'entraînement ainsi que le résultat final TE à la fin de l\'entraînement. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;Pour plus de détails, voir l\'application Aide dans Amazfit.&lt;/small&gt;</string>
-    <string name="first_beat_help_train_load">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; e montre calculera la charge de formation en fonction des valeurs de la consommation d\'oxygène EPOC (Excess Post-exercise Oxygen Consumption) accumulées à partir des données de la fréquence cardiaque enregistrées au cours des séances d\'entraînement au cours des 7 derniers jours. L\'utilisateur peut ajuster le calendrier de formation en conséquence pour atteindre une charge optimale. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;Pour plus de détails, voir l\'application Aide dans Amazfit .&lt;/small&gt;</string>
-    <string name="first_beat_help_run_target_and_real_time_guide">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; he watch fournira des recommandations d\'entraînement en fonction de votre niveau de conditionnement physique VO&lt;unk&gt; maximum, de la charge d\'entraînement récente et du statut de récupération de l\'entraînement précédent. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; f vous activez la fonctionnalité de coaching en temps réel dans les paramètres et définissez un objectif TE, ou choisissez l\'un des entraînements recommandés, la montre vous guidera à travers l\'entrainement et vous incitera à ajuster le rythme et la fréquence cardiaque afin d\'atteindre les objectifs fixés. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;small&gt;Pour plus de détails, voir l\'application Aide dans Amazfit .&lt;/small&gt;</string>
+    <string name="first_beat_help_train_load">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;La montre calculera la charge de formation en fonction des valeurs de la consommation d\'oxygène EPOC (Excess Post-exercise Oxygen Consumption) accumulées à partir des données de la fréquence cardiaque enregistrées au cours des séances d\'entraînement au cours des 7 derniers jours. L\'utilisateur peut ajuster le calendrier de formation en conséquence pour atteindre une charge optimale. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;Pour plus de détails, voir l\'application Aide dans Amazfit .&lt;/small&gt;</string>
+    <string name="first_beat_help_run_target_and_real_time_guide">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;La montre fournira des recommandations d\'entraînement en fonction de votre niveau de conditionnement physique VO&lt;unk&gt; maximum, de la charge d\'entraînement récente et du statut de récupération de l\'entraînement précédent. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; f vous activez la fonctionnalité de coaching en temps réel dans les paramètres et définissez un objectif TE, ou choisissez l\'un des entraînements recommandés, la montre vous guidera à travers l\'entrainement et vous incitera à ajuster le rythme et la fréquence cardiaque afin d\'atteindre les objectifs fixés. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;small&gt;Pour plus de détails, voir l\'application Aide dans Amazfit .&lt;/small&gt;</string>
     <string name="first_beat_help_daily_perpormence">"&lt;font color=#00FF00&gt;Qu'est-ce que c'est?&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; La condition de performance en temps réel indique si vous êtes supérieur ou inférieur à votre niveau de performance moyen et que la fatigue accumulée affecte vos performances pendant une séance d'entraînement. &lt;br/&gt;&lt;font color=#00FF00&gt;Comment est-il utilisé ?&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;La montre évaluera automatiquement votre état de performance après 6 minutes de fonctionnement. Une valeur supérieure à la moyenne indique que vous pouvez faire un entraînement plus difficile que vous ne le feriez normalement. Une valeur plus faible suggère que vous devriez vous entraîner plus facilement. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Après avoir terminé un entraînement, vous pouvez analyser la performance en regardant le résultat à chaque km/mile du graphique. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;Pour plus de détails, voir l'application Aide dans Amazfit.&lt;/small&gt;"</string>
     <string name="first_beat_help_recovery_time">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Après avoir terminé une séance d\'entraînement, vous recevrez du temps en minutes pour une récupération complète. Entre les séances d\'entraînement, le temps de récupération est linéairement réduit vers zéro s\'il n\'y a pas de nouvelles données d\'entraînement disponibles. L\'utilisateur est encouragé à avoir quelques séances d\'entraînement de faible intensité pour aider à la récupération. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;Pour plus de détails, voir l\'application Aide dans Amazfit .&lt;/small&gt;</string>
     <string name="vo2max_unit">ml/kg/min</string>
@@ -744,7 +745,7 @@ pour un exercice efficace!\"</string>
     <string name="rope_arrive_goal_unit">s/saut</string>
     <string name="aleary_finish_group">Groupe %1$s</string>
     <string name="this_group_count">Nombre</string>
-    <string name="group_cost_time">Heure</string>
+    <string name="group_cost_time">Durée</string>
     <string name="group_frequency">Fréquence</string>
     <string name="aleary_rest">Repos</string>
     <string name="next_group">Suivant</string>
@@ -779,8 +780,7 @@ pour un exercice efficace!\"</string>
     <string name="sport_main_graph_title_rope_skip">Dernièr (s)</string>
     <string name="sport_rope_skip_requency">Fréquence (sauts/min)</string>
     <string name="swim_total_trips_times">Tours total:%1$s</string>
-    <string name="rope_skip_this_group_calorie">\"Calories
-\"</string>
+    <string name="rope_skip_this_group_calorie">Calories</string>
     <string name="rope_skip_this_group_avg_hr">RH moy.</string>
     <string name="lap_this_group_avg_hr">Rythme cardiaque de cet ensemble</string>
     <string name="route_glevation_gain">Gain d\'élévation</string>
@@ -806,7 +806,7 @@ pour un exercice efficace!\"</string>
     <string name="sport_main_descend_al">Perte d\'altitude</string>
     <string name="sport_main_climb_dis">Gain de distance</string>
     <string name="sport_data_info_te_unit">TE</string>
-    <string name="swim_stroke_speed">Rythme AVC</string>
+    <string name="swim_stroke_speed">Fréquence</string>
     <string name="rt_swim_trips">Tours</string>
     <string name="swim_dps">DPS</string>
     <string name="skiing_downhill_num">Tours</string>
@@ -814,7 +814,7 @@ pour un exercice efficace!\"</string>
     <string name="skiing_downhill_max_speed">Vitesse max</string>
     <string name="skiing_downhill_elev_loss">Descente</string>
     <string name="skiing_rt_downhill_desecnd">Total en descente</string>
-    <string name="sport_tennis_strokes">AVC</string>
+    <string name="sport_tennis_strokes">Coups</string>
     <string name="last_lap_pace">Rythme du tour</string>
     <string name="last_lap_stepfreq">Cadence du tour</string>
     <string name="last_lap_duration">Durée du tour</string>
@@ -826,17 +826,16 @@ pour un exercice efficace!\"</string>
     <string name="cur_lap_hr">Rythme cardiaque dans ce tour</string>
     <string name="cur_lap_speed">Vitesse pour ce tour</string>
     <string name="cur_lap_pace">Vitesse pour ce tour</string>
-    <string name="running_cost_time_desc">Heure</string>
+    <string name="running_cost_time_desc">Durée</string>
     <string name="running_pace_desc">Rythme</string>
-    <string name="running_calorie_desc">\"Calories
-\"</string>
+    <string name="running_calorie_desc">Calories</string>
     <string name="running_step_freq_desc">Cadence</string>
     <string name="running_speed_desc">Vitesse</string>
     <string name="running_distance_desc">Distance</string>
     <string name="running_heartrate_desc">Rythme cardiaque</string>
     <string name="running_avg_pace_desc">Rythme moyen</string>
     <string name="running_avg_speed_desc">Vitesse moyenne</string>
-    <string name="walking_step_count">Etapes</string>
+    <string name="walking_step_count">Pas</string>
     <string name="crossing_vertical_speed">Vitesse verticale</string>
     <string name="slope">Pente</string>
     <string name="sport_widget_title">Santé</string>
@@ -877,7 +876,7 @@ pour un exercice efficace!\"</string>
     <string name="running_control_title">Course</string>
     <string name="running_control_paused_des">En pause</string>
     <string name="sport_history_item_distance_desc">Distance (km)</string>
-    <string name="sport_history_item_cost_time_desc">Heure</string>
+    <string name="sport_history_item_cost_time_desc">Durée</string>
     <string name="running_avg_step_freq_desc">Cadence moyenne</string>
     <string name="running_stop_dialog_msg_reach_minimum_distance">Arrêter cette activité?</string>
     <string name="running_stop_dialog_msg_not_reach_minimum_distance">La distance est trop courte pour sauver. Arrêter quand même ?</string>
@@ -888,7 +887,7 @@ pour un exercice efficace!\"</string>
     <string name="sport_history_header_calorie_desc">Calories totales</string>
     <string name="history_heart_rate_desc">Rythme cardiaque:</string>
     <string name="history_heart_rate_unit">BPM</string>
-    <string name="history_info_cost_time_desc">Heure</string>
+    <string name="history_info_cost_time_desc">Durée</string>
     <string name="history_detail_paused_time">Temps de pause</string>
     <string name="history_detail_running_title">Course</string>
     <string name="history_detail_walking_title">Marche</string>
@@ -963,7 +962,7 @@ pour un exercice efficace!\"</string>
     <string name="remind_target_km_title_format">Terminé : %1$d km</string>
     <string name="remind_target_km_walking_title_format">Terminé : %1$d km</string>
     <string name="remind_target_distance_finished">Terminé</string>
-    <string name="remind_target_cost_time_desc">Heure</string>
+    <string name="remind_target_cost_time_desc">Durée</string>
     <string name="remind_target_pace_desc">Rythme</string>
     <string name="remind_target_distance_pace_unit">/km</string>
     <string name="remind_heart_rate_too_high">La fréquence cardiaque est trop élevée</string>
@@ -1022,8 +1021,8 @@ pour un exercice efficace!\"</string>
     <string name="reminder_wear_not_tight_0">Portez la montre au-dessus du poignet</string>
     <string name="reminder_wear_not_tight_1">Et fermez l\'appareil</string>
     <string name="gps_time_out_re_rearch">Le GPS a expiré, recherchez à nouveau.</string>
-    <string name="walking_step">étapes</string>
-    <string name="waling_steps">étapes</string>
+    <string name="walking_step">pas</string>
+    <string name="waling_steps">pas</string>
     <string name="date_am">"'AM'"</string>
     <string name="date_pm">"'PM'"</string>
     <string name="setting_sport_remind_region">Zone d\'alerte</string>
@@ -1043,16 +1042,16 @@ pour un exercice efficace!\"</string>
     <string name="tennic_wear_hand_guide">"Veillez à porter la montre
  sur la main de la raquette"</string>
     <string name="sport_time_seconds">s</string>
-    <string name="sport_type_num_text">%1$d activity types</string>
-    <string name="sport_type_runing">Running</string>
-    <string name="sport_type_riding">Riding</string>
+    <string name="sport_type_num_text">%1$d types d\'activités</string>
+    <string name="sport_type_runing">Course/Marche</string>
+    <string name="sport_type_riding">Vélo</string>
     <string name="sport_type_indoor">Intérieur</string>
-    <string name="sport_type_snow">Snow</string>
+    <string name="sport_type_snow">Hiver</string>
     <string name="sport_type_outdoor">Extérieur</string>
     <string name="sport_type_swim">Natation</string>
     <string name="sport_type_dance">Dance</string>
     <string name="sport_type_bar">Ballon</string>
-    <string name="sport_type_other">Other</string>
+    <string name="sport_type_other">Autres</string>
     <string name="sport_type_boxing">Combat</string>
     <string name="sport_add_title">Plus d\'activités</string>
     <string name="sport_list_hide_title">Activités communes</string>
@@ -1130,8 +1129,8 @@ Vous pouvez le copier sur un ordinateur via USB."</string>
     <string name="indoor_riding">Vélo en salle</string>
     <string name="cross_contry">Course Trail</string>
     <string name="eppitical">Elliptique</string>
-    <string name="indoor_swimming">Piscine de natation</string>
-    <string name="outdoor_swimming">Eau libre</string>
+    <string name="indoor_swimming">Nage en piscine</string>
+    <string name="outdoor_swimming">Nage en eau libre</string>
     <string name="triathlon">Triathlon</string>
     <string name="mountain">Escalade</string>
     <string name="riding">Vélo</string>
@@ -1143,7 +1142,7 @@ Vous pouvez le copier sur un ordinateur via USB."</string>
     <string name="complex_sport">Multisports</string>
     <string name="rope_skipping">Corde à sauter</string>
     <string name="on_foot">à pied</string>
-    <string name="indoor_fitness">Fitness intérieur</string>
+    <string name="indoor_fitness">Fitness en salle</string>
     <string name="row_machine">Rameur</string>
     <string name="indoor_walking">Marche en intérieur</string>
     <string name="mountain_biking">Vélo tout terrain</string>
@@ -1210,9 +1209,9 @@ Vous pouvez le copier sur un ordinateur via USB."</string>
     <string name="a_martial_art">Arts martiaux</string>
     <string name="free_fight">Kickboxing</string>
     <string name="double_ski">Ski</string>
-    <string name="sport_total_time">Temps Total</string>
+    <string name="sport_total_time">Temps total</string>
     <string name="speed">Vitesse</string>
-    <string name="stroke_speed">Rythme AVC</string>
+    <string name="stroke_speed">Fréquence</string>
     <string name="pace">Rythme</string>
     <string name="mileage">Distance</string>
     <string name="rope_skip_freq">Fréquence</string>
@@ -1280,7 +1279,7 @@ Vous pouvez le copier sur un ordinateur via USB."</string>
     <string name="low_battery_please_charging">Charger votre montre.</string>
     <string name="virtual_rabbit">Lapin virtuel</string>
     <string name="virtual_rabbit_back_time">Délai de retard</string>
-    <string name="rope_skip_group_time">Heure</string>
+    <string name="rope_skip_group_time">Durée</string>
     <string name="rope_skip_group_count">Nombre</string>
     <string name="rope_skip_group_freq">Fréquence</string>
     <string name="rope_skip_reset_tips">Repos</string>
@@ -1288,8 +1287,7 @@ Vous pouvez le copier sur un ordinateur via USB."</string>
     <string name="rope_skip_tips1">Le</string>
     <string name="rope_skip_tips2">La tâche a été terminée</string>
     <string name="rope_skip_avg_heartrate">Rythme cardiaque moyen</string>
-    <string name="rope_skip_group_calories">\"Calories
-\"</string>
+    <string name="rope_skip_group_calories">Calories</string>
     <string name="music">Musique</string>
     <string name="press_long_power_key_wake_up">Appuyez sur un bouton pour quitter</string>
     <string name="sport_auto_pause_end">Session terminée, enregistrer les données ?</string>
@@ -1303,7 +1301,7 @@ Vous pouvez le copier sur un ordinateur via USB."</string>
     <string name="widget_currentstep_sleep_hour">h</string>
     <string name="widget_currentstep_sleep_min">m</string>
     <string name="widget_currentstep_sleep_title">Dormi hier soir</string>
-    <string name="widget_currentstep_sleep_no">Aucune donnée de sommeille</string>
+    <string name="widget_currentstep_sleep_no">Aucune donnée</string>
     <string name="widget_currentstep_activity_no">Aucune activité aujourd\'hui?</string>
     <string name="locale_title">Choisir une langue</string>
 </resources>

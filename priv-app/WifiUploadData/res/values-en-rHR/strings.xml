@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="average_text">Prosjek</string>
+    <string name="menu_item_high_light_scale_factor">0.5</string>
+    <string name="low_battery_protect">Zaštita slabe baterije</string>
+    <string name="low_battery_tips">Slaba baterija</string>
+    <string name="low_battery_please_charging">Napunite sat.</string>
+    <string name="picker_default_positive_text">U redu</string>
+    <string name="picker_default_nagetive_text">Isključeno</string>
+    <string name="no_heartrate_data_hint">"Ne mogu pronaći podatke otkucaja srca"</string>
+    <string name="no_altitude_hint">"Ne mogu pronaći podatke o visini"</string>
+    <string name="title_settings">Postavke</string>
+    <string name="sport_music_settings">Glazba</string>
+    <string name="widget_currentstep_title">Podaci</string>
+    <string name="widget_currentstep_activities">"Današnja aktivnost"</string>
+    <string name="widget_currentstep_sleep_hour">h</string>
+    <string name="widget_currentstep_sleep_min">m</string>
+    <string name="widget_currentstep_sleep_title">Spavano sinoć</string>
+    <string name="widget_currentstep_sleep_no">Nema podataka o spavanju</string>
+    <string name="widget_currentstep_activity_no">Nema aktivnosti danas?</string>
+    <string name="locale_title">Odaberi jezik</string>
+    <string name="app_name">Wi-Fi sinkronizacija</string>
+    <string name="notice_text_success_top">Podaci su uspješno sinkronizirani</string>
+    <string name="notice_text_success_bottom">"Možete pogledati podatke 
+u aplikaciji Amazfit"</string>
+    <string name="notice_text_failed_top">"Nije moguće sinkronizirati podatke"</string>
+    <string name="net_failed">Provjerite mrežnu vezu i pokušajte ponovo</string>
+    <string name="date">Vrijeme:</string>
+    <string name="am">AM</string>
+    <string name="pm">PM</string>
+    <string name="date_">/</string>
+    <string name="date_m">:</string>
+    <string name="see_after_connect_app_token_faield">"Ne mogu se povezati s aplikacijom Amazfit za osvježavanje pristupnog tokena"</string>
+    <string name="cannot_acess_server">"Povezivanje s poslužiteljem nije moguće"</string>
+    <string name="cannot_upload_user">"Nije moguće provjeriti pristupni token"</string>
+    <string name="please_upload_assist_version">Ažurirajte aplikaciju Amazfit i pokušajte ponovo</string>
+    <string name="did_not_connect_assist">Povežite se s aplikacijom Amazfit da biste osvježili pristupni token za sinkronizaciju podataka</string>
+    <string name="upload_failed_full">Prekinuti trenutnu sinkronizaciju?</string>
+    <string name="percent_sign">%</string>
+    <string name="please_keep_wifi_connected">"Ne prekidajte Wi-Fi vezu"</string>
+    <string name="init_wifi">Povezivanje s Wi-Fi-jem…</string>
+    <string name="init_user">Provjera…</string>
+    <string name="init_app">Spajanje na aplikaciju Amazfit…</string>
+    <string name="init_update_user">Ažuriranje…</string>
+    <string name="zero">0</string>
+    <string name="yes">Da</string>
+    <string name="no">Ne</string>
+</resources>

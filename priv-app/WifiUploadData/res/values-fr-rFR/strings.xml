@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="average_text">Moyenne</string>
+    <string name="menu_item_high_light_scale_factor">0.5</string>
+    <string name="low_battery_protect">Notification de batterie faible</string>
+    <string name="low_battery_tips">Batterie faible</string>
+    <string name="low_battery_please_charging">Charger votre montre.</string>
+    <string name="picker_default_positive_text">OK</string>
+    <string name="picker_default_nagetive_text">Désactivé</string>
+    <string name="no_heartrate_data_hint">"Données introuvables"</string>
+    <string name="no_altitude_hint">"Données introuvables"</string>
+    <string name="title_settings">Réglages</string>
+    <string name="sport_music_settings">Musique</string>
+    <string name="widget_currentstep_title">Donnée</string>
+    <string name="widget_currentstep_activities">"Activité du jour"</string>
+    <string name="widget_currentstep_sleep_hour">h</string>
+    <string name="widget_currentstep_sleep_min">m</string>
+    <string name="widget_currentstep_sleep_title">Nuit dernière</string>
+    <string name="widget_currentstep_sleep_no">Aucune donnée</string>
+    <string name="widget_currentstep_activity_no">Aucune activité aujourd\'hui ?</string>
+    <string name="locale_title">Choisir une langue</string>
+    <string name="app_name">Synchro Wi-Fi</string>
+    <string name="notice_text_success_top">Données synchronisées avec succès</string>
+    <string name="notice_text_success_bottom">"Vous pouvez voir les données 
+dans l'application Amazfit"</string>
+    <string name="notice_text_failed_top">"Impossible de synchroniser les données"</string>
+    <string name="net_failed">Vérifiez votre connexion réseau et réessayez</string>
+    <string name="date">Durée:</string>
+    <string name="am">AM</string>
+    <string name="pm">PM</string>
+    <string name="date_">/</string>
+    <string name="date_m">:</string>
+    <string name="see_after_connect_app_token_faield">"Impossible de se connecter à l'application Amazfit pour actualiser le jeton d'accès"</string>
+    <string name="cannot_acess_server">"Impossible de se connecter au serveur"</string>
+    <string name="cannot_upload_user">"Impossible de vérifier le jeton d'accès"</string>
+    <string name="please_upload_assist_version">Mettez à jour votre application Amazfit et réessayez</string>
+    <string name="did_not_connect_assist">Connectez-vous à l\'application Amazfit pour actualiser le jeton d\'accès afin de synchroniser les données</string>
+    <string name="upload_failed_full">Interrompre la synchronisation en cours ?</string>
+    <string name="percent_sign">%</string>
+    <string name="please_keep_wifi_connected">"Ne pas se déconnecter du Wi-Fi"</string>
+    <string name="init_wifi">Connexion au Wi-Fi…</string>
+    <string name="init_user">Vérification…</string>
+    <string name="init_app">Connexion à l\'application Amazfit…</string>
+    <string name="init_update_user">Mise à jour en cours…</string>
+    <string name="zero">0</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+</resources>
