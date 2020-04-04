@@ -27,8 +27,8 @@
         <item>sport_target_remind_desc_01</item>
     </string-array>
     <string-array name="support_sport">
-        <item>RUNNING</item>
-        <item>WALKING</item>
+        <item>LAUFEN</item>
+        <item>GEHEN</item>
         <item>CROSSING</item>
         <item>INDOOR_RUN</item>
         <item>OUTDOOR_RIDING</item>
@@ -36,18 +36,18 @@
         <item>ELLIPTICAL_MACHINE</item>
     </string-array>
     <string-array name="dally_performence_level_status">
-        <item>Fatigued</item>
+        <item>Erschöpft</item>
         <item>Normal</item>
         <item>Gut</item>
     </string-array>
     <string-array name="vo2_max_level_status">
         <item>Sehr schlecht</item>
-        <item>Poor</item>
-        <item>Fair</item>
+        <item>Schlecht</item>
+        <item>Mäßig</item>
         <item>Durchschnitt</item>
         <item>Gut</item>
         <item>Sehr gut</item>
-        <item>Excellent</item>
+        <item>Ausgezeichnet</item>
     </string-array>
     <string-array name="spring_depend">
         <item>com.huami.watch.newsport/com.huami.watch.newsport.widget.SportWidget</item>
@@ -69,7 +69,7 @@
         <item>Geschwindigkeit</item>
         <item>⌀ Geschw.</item>
         <item>Kadenz</item>
-        <item>Dist gain</item>
+        <item>Dist-Gewinn</item>
         <item>Schritte</item>
         <item>Kadenz</item>
         <item>Runden</item>
@@ -82,11 +82,11 @@
         <item>TE</item>
         <item>Vert speed</item>
         <item>⌀ Geschw.</item>
-        <item>Max speed</item>
+        <item>Höchstgeschwindigkeit</item>
         <item>Runden</item>
-        <item>Downhill</item>
-        <item>Total downhill</item>
-        <item>Descent</item>
+        <item>Bergab</item>
+        <item>Insgesamt bergab</item>
+        <item>Abstieg</item>
         <item>Schläge</item>
         <item>Lap time</item>
         <item>Lap pace</item>
@@ -95,7 +95,7 @@
         <item>Lap cadence</item>
         <item>Lap pace</item>
         <item>Aktuelle Freq.</item>
-        <item>Total count</item>
+        <item>Gesamtzahl</item>
         <item>⌀ Freq.</item>
         <item>Groups</item>
         <item>Lap count</item>
