@@ -1,75 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="sport_train_item">
-        <item>Remaining distance</item>
-        <item>Total distance</item>
+        <item>Verbleibende Entfernung</item>
+        <item>Gesamtentfernung</item>
         <item>Gesamtzeit</item>
-        <item>Remaining time</item>
+        <item>Verbleibende Zeit</item>
         <item>Distanz</item>
         <item>Verbleibend</item>
-        <item>Has rested</item>
+        <item>Hat sich ausgeruht</item>
     </string-array>
     <string-array name="lab_item_android_settings">
-        <item>[prim]Original system settings</item>
-        <item>[sum]Settings of Android</item>
+        <item>[prim]Ursprüngliche Systemeinstellungen</item>
+        <item>[sum]Einstellungen von Android</item>
         <item>[pkg]com.android.settings</item>
     </string-array>
     <string-array name="lab_item_logger">
         <item>[prim]WearLogger</item>
-        <item>[sum]One-click crawling log ^_^</item>
+        <item>[sum]Ein-Klick-Crawling-Protokoll ^_^</item>
         <item>[pkg]com.huami.watch.wearlogger</item>
         <item>[clazz]com.huami.watch.wearlogger.AllLogActivityLab</item>
     </string-array>
     <string-array name="lab_item_selftest">
-        <item>[prim]selftest</item>
-        <item>[sum]start selftest by yourself</item>
+        <item>[prim]Selbsttest</item>
+        <item>[sum]Starten Sie den selbsttest</item>
         <item>[action]com.huami.watch.selftest.START</item>
     </string-array>
     <string-array name="lab_item_open_applist">
         <item>[prim]Launcher Applist</item>
-        <item>[sum]Open or close applist</item>
+        <item>[sum]applist öffnen oder schließen</item>
         <item>[sid]applist</item>
     </string-array>
     <string-array name="lab_item_bt_hci_snoop_log">
-        <item>[prim]BT HCI snoop log</item>
-        <item>[sum]Capture Bluetooth HCI log</item>
+        <item>[prim]BT HCI snoop-Protokoll</item>
+        <item>[sum]Erfassen Bluetooth-HCI-log</item>
         <item>[sid]btsnoop</item>
     </string-array>
     <string-array name="lab_item_power_test">
-        <item>[prim]Power consumption test in flight mode</item>
-        <item>[sum]Detect power consumption in flight mode</item>
-        <item>[sid]power_test</item>
+        <item>[prim]Stromverbrauch testen im Flug-Modus</item>
+        <item>[sum]Stromverbrauch im Flugmodus erkennen</item>
+        <item>[sid]Power_Test</item>
     </string-array>
     <string-array name="lab_item_long_sitting_timer_plus">
-        <item>[prim]Time of sedentary reminder</item>
-        <item>[sum]Set the time of sedentary reminder (in min)</item>
+        <item>[prim]Zeit des sesshaften Erinnerung</item>
+        <item>[sum]stellen Sie die Zeit des sesshaften Erinnerung (in min)</item>
         <item>[pkg]com.huami.mobile.watchsettings</item>
         <item>[clazz]com.huami.moblie.watchsettings.actions.lab.labUI.LongSittingTimeActivity</item>
     </string-array>
     <string-array name="lab_item_wifi_signal_intensity">
-        <item>[prim]Signal strength</item>
-        <item>[sum]Signal strength test</item>
+        <item>[prim]Signalstärke</item>
+        <item>[sum]Signalstärke Test</item>
         <item>[pkg]com.huami.mobile.watchsettings</item>
         <item>[clazz]com.huami.moblie.watchsettings.actions.lab.labUI.WifiTestActivity</item>
     </string-array>
     <string-array name="lab_item_pointer_location">
-        <item>[prim]pointer location</item>
-        <item>[sum]open/close pointer</item>
-        <item>[sid]pointer_location</item>
+        <item>[prim]Zeigerposition</item>
+        <item>[sum]Zeiger öffnen/schließen</item>
+        <item>[sid]Zeiger_Ort</item>
     </string-array>
     <string-array name="lab_item_open_show_model">
-        <item>[prim]Demo Mode</item>
-        <item>[sum]on/off</item>
-        <item>[sid]show_model</item>
+        <item>[prim]Demo-Modus</item>
+        <item>[sum]an/aus</item>
+        <item>[sid]Modell anzeigen</item>
     </string-array>
     <string-array name="lab_item_update_mcu_resource">
-        <item>[prim]Update MCU Resources</item>
-        <item>[sum]Press to update</item>
+        <item>[prim]MCU-Ressourcen aktualisieren</item>
+        <item>[sum]Zum Aktualisieren drücken</item>
         <item>[sid]update_mcu</item>
     </string-array>
     <string-array name="lab_item_open_nfc">
-        <item>[prim]NFC switch</item>
-        <item>[sum]On/Off</item>
+        <item>[prim]NFC-Schalter</item>
+        <item>[sum]Ein/Aus</item>
         <item>[sid]nfc</item>
     </string-array>
     <string-array name="time_zone_ids">

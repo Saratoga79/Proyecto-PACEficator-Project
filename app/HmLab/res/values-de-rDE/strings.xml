@@ -2,20 +2,20 @@
 <resources>
     <string name="app_name">Huami Lab</string>
     <string name="main_title">Huami Lab</string>
-    <string name="agreement_title">PPG capturing</string>
+    <string name="agreement_title">PPG-Aufnahme</string>
     <string name="orig_data_collect">Erfassung der Aktivitäten</string>
-    <string name="message">"We\'ll collect raw PPG data when you wear the watch.
-The data will only be used for research purposes.
-This feature will adversely impact the battery life."</string>
+    <string name="message">"Wir werden Rohdaten von PPG sammeln, wenn Sie die Uhr tragen.
+Die Daten werden nur für Forschungszwecke verwendet.
+Diese Funktion wird die Batterielebensdauer beeinträchtigen."</string>
     <string name="allow">Erlauben</string>
     <string name="exit">Beenden</string>
-    <string name="message_everest">"We'll collect raw PPG data when you wear the watch. The data will only be used for research purposes. This feature will adversely impact the battery life."</string>
+    <string name="message_everest">"Wir werden Rohdaten von PPG erfassen, wenn Sie die Uhr tragen. Die Daten werden nur für Forschungszwecke verwendet. Diese Funktion wird sich negativ auf die Batterielebensdauer auswirken."</string>
     <string name="heart_rate_collection_on">Ein</string>
     <string name="heart_rate_collection_off">Aus</string>
     <string name="hbeacon_on">Ein</string>
     <string name="hbeacon_off">Aus</string>
-    <string name="hbeacon_on_confirm_message">Tap to turn the HBeacon feature on, so the watch battery may be slightly reduced, and you may need to pair your phone with the watch again after it reboots.</string>
-    <string name="hbeacon_off_confirm_message">Tap to turn off the HBeacon feature, and you may need to pair your phone with the watch again after it reboots.</string>
+    <string name="hbeacon_on_confirm_message">Tippen, um die Funktion \'HLeuchtfeuer\' einzuschalten, so dass der Uhrenakku leicht reduziert werden kann, und Sie müssen eventuell Ihr Telefon mit der Uhr nach einem Neustart wieder koppeln.</string>
+    <string name="hbeacon_off_confirm_message">Tippen Sie, um die HBeacon-Funktion auszuschalten, und Sie müssen Ihr Telefon nach dem Neustart erneut mit der Uhr verbinden.</string>
     <string name="saving_data">Speichere Daten</string>
     <string name="upload_data">Daten werden hochgeladen</string>
     <string name="upload_success">Fertig</string>
@@ -63,12 +63,12 @@ This feature will adversely impact the battery life."</string>
     <string name="sport_paused_time">Pausiert</string>
     <string name="sport_distance">Distanz</string>
     <string name="sport_mileage">Distanz</string>
-    <string name="sport_downhill_total_distance">Total downhill</string>
+    <string name="sport_downhill_total_distance">Total bergab</string>
     <string name="sport_tennis_strokes">Schläge</string>
-    <string name="sport_rope_skip_count">Count</string>
-    <string name="sport_row_total_count">Total paddles</string>
-    <string name="sport_change">Transition</string>
-    <string name="sport_change_time">Transition time</string>
+    <string name="sport_rope_skip_count">Anzahl</string>
+    <string name="sport_row_total_count">Insgesamt Paddel</string>
+    <string name="sport_change">Übergang</string>
+    <string name="sport_change_time">Übergangszeit</string>
     <string name="please_get_ready_for_runnning">Nächstes: Laufen</string>
     <string name="please_get_ready_for_riding">Nächstes: Radfahren</string>
     <string name="please_get_ready_for_swimming">Nächstes: Schwimmen</string>
@@ -76,7 +76,7 @@ This feature will adversely impact the battery life."</string>
     <string name="gps_wait">Warte auf GPS…</string>
     <string name="gps_fail">"Standort konnte nicht per GPS festgelegt werden"</string>
     <string name="gps_singal_lost">"Kein GPS Signal"</string>
-    <string name="gps_close_1">No movement for a long time,</string>
+    <string name="gps_close_1">Keine Bewegung für eine lange Zeit,</string>
     <string name="gps_close_2">GPS wurde deaktiviert.</string>
     <string name="heartrate">Herzfrequenz</string>
     <string name="warmup">Aufwärmen</string>
@@ -90,7 +90,7 @@ This feature will adversely impact the battery life."</string>
     <string name="zone_four">Zone 4</string>
     <string name="zone_five">Zone 5</string>
     <string name="zone_risk">Hohe Herzfrequenz</string>
-    <string name="enter_sport_lock_status">Locking the screen during activity</string>
+    <string name="enter_sport_lock_status">Bildschirm sperren während der Aktivität</string>
     <string name="press_any_key_wakeup">Beliebige Taste drücken</string>
     <string name="press_power_key_wakeup">Zum Entsperren eine physische Taste drücken</string>
     <string name="meter">m</string>
@@ -111,21 +111,21 @@ This feature will adversely impact the battery life."</string>
     <string name="minute_clock">m</string>
     <string name="second">s</string>
     <string name="altitude">Höhe</string>
-    <string name="longitude_and_latitude">Lat/Long</string>
+    <string name="longitude_and_latitude">Breite / Länge</string>
     <string name="press_key_finish_train">Zum Beenden BACK drücken</string>
-    <string name="press_up_key_wake_up">Press the Up button to unlock</string>
+    <string name="press_up_key_wake_up">Drücken Sie die Aufwärts-Taste zum Entsperren </string>
     <string name="need_run_kilometer">Intervalldistanz:</string>
     <string name="need_run_time">Intervallzeit:</string>
-    <string name="need_rest_time">Need</string>
+    <string name="need_rest_time">Brauchen</string>
     <string name="need_rest_by_keypress">Zum Fortfahren BACK drücken</string>
     <string name="low_battery_protect">Benachrichtigung bei geringem Akkustand</string>
     <string name="low_battery_tips">Niedriger Akkustand</string>
     <string name="low_battery_please_charging">Bitte die Uhr aufladen.</string>
-    <string name="virtual_rabbit">Virtual rabbit</string>
-    <string name="virtual_rabbit_lead_time">Lead time</string>
-    <string name="virtual_rabbit_back_time">Lag time</string>
-    <string name="virtual_rabbit_lead_distance">Lead distance</string>
-    <string name="virtual_rabbit_back_distance">Lag distance</string>
+    <string name="virtual_rabbit">Virtuelles Kaninchen</string>
+    <string name="virtual_rabbit_lead_time">Vorlaufzeit</string>
+    <string name="virtual_rabbit_back_time">Rundenzeit</string>
+    <string name="virtual_rabbit_lead_distance">Führungsentfernung</string>
+    <string name="virtual_rabbit_back_distance">Führungsentfernung</string>
     <string name="oritation_east">O</string>
     <string name="oritation_sourth">S</string>
     <string name="oritation_west">W</string>
@@ -133,10 +133,10 @@ This feature will adversely impact the battery life."</string>
     <string name="rope_skip_group_time">Zeit</string>
     <string name="rope_skip_group_count">Anzahl</string>
     <string name="rope_skip_group_freq">Frequenz</string>
-    <string name="rope_skip_reset_tips">Has rested</string>
-    <string name="rope_skip_tips">Group %1$s</string>
-    <string name="rope_skip_tips1">The</string>
-    <string name="rope_skip_tips2">set has been completed</string>
+    <string name="rope_skip_reset_tips">Hat sich ausgeruht</string>
+    <string name="rope_skip_tips">Gruppe %1$s</string>
+    <string name="rope_skip_tips1">Die</string>
+    <string name="rope_skip_tips2">Satz wurde abgeschlossen</string>
     <string name="rope_skip_avg_heartrate">⌀ Herz-Freq.</string>
     <string name="rope_skip_group_calories">Kalorien</string>
     <string name="music">Musik</string>
@@ -155,7 +155,7 @@ This feature will adversely impact the battery life."</string>
     <string name="widget_currentstep_activities">"Heutige Aktivität"</string>
     <string name="widget_currentstep_sleep_hour">h</string>
     <string name="widget_currentstep_sleep_min">m</string>
-    <string name="widget_currentstep_sleep_title">Slept last night</string>
+    <string name="widget_currentstep_sleep_title">Letzte Nacht geschlafen</string>
     <string name="widget_currentstep_sleep_no">Keine Schlafdaten</string>
     <string name="widget_currentstep_activity_no">Keine Aktivität heute?</string>
     <string name="locale_title">Sprache auswählen</string>
