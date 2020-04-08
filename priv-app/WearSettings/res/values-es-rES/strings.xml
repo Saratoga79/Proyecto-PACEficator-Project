@@ -161,7 +161,7 @@
     <string name="more">Ajustes</string>
     <string name="find_phone">Busca Mi Móvil</string>
     <string name="bluetooth_dev">Bluetooth</string>
-    <string name="wifi_dev">Wi-Fi</string>
+    <string name="wifi_dev">WiFi</string>
     <string name="check_for_update">Actualizar</string>
     <string name="change_language">Idioma</string>
     <string name="reset_factory">Resetear Reloj</string>
@@ -179,7 +179,7 @@
     <string name="light_change">Luz de fondo</string>
     <string name="wrist_up">Giro de muñeca</string>
     <string name="double_click_wakeup">Doble toque para desbloquear</string>
-    <string name="vibration_intensity">Vibración</string>
+    <string name="vibration_intensity">Intensidad de Vibración</string>
     <string name="flight_mode">Modo Avión</string>
     <string name="hm_lab">Huami Lab</string>
     <string name="bind_app">Enlazar</string>
@@ -197,7 +197,7 @@
     <string name="watchface">WatchFace</string>
     <string name="wifi_auto_upload_switch">Sincronización Automática</string>
     <string name="hand_upload">Sincronización manual</string>
-    <string name="auto_upload">Sincronización automática</string>
+    <string name="auto_upload">Programar Sincronización</string>
     <string name="app_item_phone_anti_lost">Aviso desconexión</string>
     <string name="app_item_anti_lost_remind">Aviso desconexión</string>
     <string name="app_item_far_away_remind">Aviso teléfono lejos</string>
@@ -229,8 +229,8 @@
     <string name="nokia_tune">Classic Ring %1$d</string>
     <string name="electronic_ring_sound">Electronic Ring %1$d</string>
     <string name="phonetic_sound">Danyin Ring %1$d</string>
-    <string name="auto_nodisturb">No molestar</string>
-    <string name="nodisturb">Silencio</string>
+    <string name="auto_nodisturb">Programar Modo No Molestar</string>
+    <string name="nodisturb">Modo No Molestar</string>
     <string name="auto_bg">Programar Giro de muñeca</string>
     <string name="long_key_action">Pulsación prolongada botón inferior</string>
     <string name="recombind">Reajustar</string>
@@ -245,7 +245,7 @@
     <string name="navigation_combination">Servicio de ubicación</string>
     <string name="reboot_to_mcu">Reiniciar en modo Ultra (MCU)</string>
     <string name="everest2_copy_mcu_res">Copiar biblioteca de fuente</string>
-    <string name="agps_sync_remind">Recordatorio AGPS</string>
+    <string name="agps_sync_remind">Actualización AGPS</string>
     <string name="agps_sync_off">Off</string>
     <string name="agps_sync_everyday">Diario a las %s</string>
     <string name="agps_sync_am">AM</string>
@@ -325,7 +325,7 @@
     <string name="flash_capacity">Capacidad</string>
     <string name="flash_free_capacity">Espacio disponible</string>
     <string name="blt_mac_addr">MAC Bluetooth</string>
-    <string name="wlan_addr">Dirección Wi-Fi</string>
+    <string name="wlan_addr">Dirección WiFi</string>
     <string name="serial_no">Nº Serie (SN)</string>
     <string name="cmiit_id">CMIIT ID</string>
     <string name="license">Aviso legal</string>
@@ -340,7 +340,7 @@
     <string name="opened">On</string>
     <string name="closed">Off</string>
     <string name="air_plane">Modo avión</string>
-    <string name="air_plane_mode_note">Modo Avión: Esta función desactivará Bluetooth, WiFi, Alipay y otras funciones del Reloj. Para utilizarlas, apague el modo de avión en la configuración del sistema.</string>
+    <string name="air_plane_mode_note">El Modo Avión desactivará Bluetooth y WiFi para ahorrar batería. Para utilizarlas, desactiva el Modo Avión desde los Ajustes</string>
     <string name="yes">Sí</string>
     <string name="no">No</string>
     <string name="settings_long_sit_reminder">Aviso para moverse</string>
@@ -352,7 +352,7 @@
     <string name="nodisturb_open_string">On</string>
     <string name="nodisturb_close_string">Off</string>
     <string name="nodisturb_timepicker_connect_symbol">:</string>
-    <string name="auto_nodisturb_title_string">No molestar Aut.</string>
+    <string name="auto_nodisturb_title_string">Modo No Molestar Automático</string>
     <string name="auto_nodisturb_start_time_string">Hora inicio</string>
     <string name="auto_screen_wristup_start_time_string">Inicio</string>
     <string name="auto_nodisturb_end_time_string">Hora fin</string>
@@ -434,7 +434,7 @@ encendido y esté cerca"</string>
     <string name="lab_wifi_test_tip_testing">Comprobando…</string>
     <string name="lab_wifi_test_tip_pass">¡¡Aprobado!!</string>
     <string name="lab_wifi_test_tip_fail">¡¡Fallido!!</string>
-    <string name="lab_wifi_test_tip_open_wifi">Activar Wi-Fi</string>
+    <string name="lab_wifi_test_tip_open_wifi">Activando WiFi</string>
     <string name="light_off">Desactivado</string>
     <string name="light_auto">Auto</string>
     <string name="light_on">Luz activa</string>
