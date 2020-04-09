@@ -9,13 +9,9 @@ La comprobación del reloj para la actualización</string>
     <string name="connect_phone_wifi">"\"Por favor, compruebe el teléfono
 Red para ayudar al
 Ver la actualización\""</string>
-    <string name="connect_phone_input_wifi">Por favor, conecte el
-Amazfit reloj App para la entrada
-Contraseña Wi-Fi para el reloj</string>
-    <string name="wifi_add_item">Por favor, conecte el
-Amazfit ver la aplicación para agregar
-Nuevo hotspot Wi-Fi para el reloj</string>
-    <string name="add_wifi">Añadir Wi-Fi</string>
+    <string name="connect_phone_input_wifi">Conéctate a la app de Amazfit para introducir la contraseña WiFi</string>
+    <string name="wifi_add_item">Conéctate a la app de Amazfit para añadir un nuevo hotspot WiFi</string>
+    <string name="add_wifi">Añadir WiFi</string>
     <string name="please_update_rom">Se ha encontrado una nueva versión del sistema, actualiza</string>
     <string name="checking_rom">Comprobación de nuevas versiones</string>
     <string name="checking_rom_failed">"La conexión de red se agotó,
@@ -25,11 +21,10 @@ Vuelva a intentarlo"</string>
 ¿Actualizar a la versión %1$s?"</string>
     <string name="has_new_rom_all">Actualización encontrada, debido a la antigüedad
 de su versión, la actualización podrá tomar más tiempo, sea paciente.</string>
-    <string name="input_passwor_on_mobile">"Por favor ingrese la contraseña de Wi-Fi
-En la aplicación Amazfit watch"</string>
+    <string name="input_passwor_on_mobile">Introduce la contraseña WiFi 
+en la app de Amazfit</string>
     <string name="processbar_downloading_rom">Descargando ...</string>
-    <string name="please_keep_wifi_connect">"\"\"Por favor, guarde el reloj
-Conectado a WiFi\"\""</string>
+    <string name="please_keep_wifi_connect">"No te desconectes del WiFi"</string>
     <string name="processbar_downloading_tips">%</string>
     <string name="processbar_downloading_default">0</string>
     <string name="download_rom_faild">"La descarga del paquete de actualización falló,
@@ -57,17 +52,16 @@ Actualiza por favor"</string>
     <string name="wifi_get_ip">Obtención de la dirección IP ...</string>
     <string name="wifi_link_fail">"Conexión fallida"</string>
     <string name="wifi_connected">Conectado</string>
-    <string name="wifi_title">Conectarse a Wi-Fi</string>
+    <string name="wifi_title">Selecciona una red</string>
     <string name="wifi_wait_password">Esperando la entrada de contraseña ...</string>
     <string name="toast_please_update_first">Actualice primero</string>
-    <string name="wifi_turnon_going">Activando Wi-Fi ...</string>
+    <string name="wifi_turnon_going">Activando WiFi…</string>
     <string name="system_update_title">Actualización correcta</string>
     <string name="system_update_content">El sistema se ha actualizado a la versión %1$s</string>
-    <string name="password_error">"Contraseña Wi-Fi incorrecta,
-Vuelva a ingresar"</string>
-    <string name="wifi_connect_fail">No se puede conectar a este
-Red WiFi. Por favor, inténtalo
-Otro hotspot Wi-Fi</string>
+    <string name="password_error">Contraseña WiFi incorrecta.
+Vuelva a introducirla</string>
+    <string name="wifi_connect_fail">No se puede conectar a la
+red WiFi. Inténtalo otra vez</string>
     <string name="searching">Buscando ...</string>
     <string name="hasNewUpdateTitle">Actualizaciones del sistema</string>
     <string name="hasNewUpdateInstallContent">La versión %1$s lista para instalarse ¿Instalar ahora?</string>

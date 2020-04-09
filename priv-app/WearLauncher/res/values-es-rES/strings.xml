@@ -26,7 +26,7 @@
     <string name="notification_fix_message_cancel">Cancelar</string>
     <string name="quick_settings_airplane_mode">Modo Avión: 
 %1$s</string>
-    <string name="quick_settings_no_disturb_mode">Modo Silencio: 
+    <string name="quick_settings_no_disturb_mode">Modo No Molestar: 
 %1$s</string>
     <string name="quick_settings_auto_light_mode">Luz de fondo: 
 %1$s</string>
@@ -48,10 +48,11 @@
     <string name="quick_settings_connected">Conectado</string>
     <string name="quick_settings_disconnect">Desconectado</string>
     <string name="quick_settings_unbound">Empareja primero</string>
-    <string name="quick_settings_date_chinese">dd-MM-yyyy</string>
+    <string name="quick_settings_date_chinese">dd/MM/yyyy</string>
     <string name="quick_settings_date_format">31-1-1900</string>
     <string name="quick_settings_date_yeareve">"Año Nuevo"</string>
-    <string name="seconed_confirm_nodisturb">En -Modo Silencio- las notificaciones no se mostrarán más.</string>
+    <string name="seconed_confirm_nodisturb">Modo No Molestar activado.
+No se recibirán notificaciones</string>
     <string name="quick_settings_battery_charging_full">Completamente cargado</string>
     <string name="quick_settings_battery_is_charging">Cargando ...</string>
     <string name="quick_settings_battery_hasnot_charged">No se ha cargado</string>
@@ -205,7 +206,7 @@
     <string name="fetch_failed">"No se puede actualizar el tiempo"</string>
     <string name="fetch_failed_title">"No se puede obtener información de tiempo"</string>
     <string name="fetch_failed_msg">Asegúrate de que el reloj está conectado a la App Amazfit y selecciona una ubicación válida en la aplicación.</string>
-    <string name="date_time_format">dd-MM</string>
+    <string name="date_time_format">dd/MM</string>
     <string name="weather_card_temperature">%1$s , %2$s</string>
     <string name="average_text">Promedio</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
