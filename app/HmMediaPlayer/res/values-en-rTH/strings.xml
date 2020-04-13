@@ -39,14 +39,14 @@
     <string name="music_downloading_noting">-/-</string>
     <string name="app_name">HM Media Player</string>
     <string name="favorite">รายการโปรด</string>
-    <string name="error_no_metadata">Unable to retrieve metadata.</string>
+    <string name="error_no_metadata">ไม่สามารถดึงข้อมูลได้</string>
     <string name="browse_genres">ประเภทเพลง</string>
     <string name="browse_genre_subtitle">เพลงโดยแยกประเภท</string>
     <string name="browse_musics_by_genre_subtitle">เพลง %1$s เพลง</string>
     <string name="random_queue_title">สุ่มเพลง</string>
     <string name="error_no_connection">ไม่สามารถเชื่อมต่อไปยังเซิร์ฟเวอร์. กรุณาตรวจสอบการเชื่อมต่อของคุณและลองอีกครั้ง.</string>
     <string name="error_loading_media">เกิดข้อผิดพลาดในการโหลดสื่อ</string>
-    <string name="casting_to_device">Casting to %1$s</string>
+    <string name="casting_to_device">Casting ไปที่ %1$s</string>
     <string name="currently_playing_song">เพลงที่กำลังเล่นอยู่ในปัจจุบัน</string>
     <string name="currently_playing_artist">ศิลปินของเพลงที่กำลังเล่นอยู่ในปัจจุบัน</string>
     <string name="currently_playing_extra_info">ข้อมูลเพื่มเติมสำหรับเพลงที่กำลังเล่นอยู่ในปัจจุบัน</string>
@@ -70,12 +70,12 @@
     <string name="media_route_menu_title">เล่น…</string>
     <string name="confirm_exit">"The listed songs have not completely downloaded. 
 Are you sure to exist?"</string>
-    <string name="music_download_cancel">The songs downloading process has been stopped</string>
+    <string name="music_download_cancel">การดาวน์โหลดเพลงหยุดทำงาน</string>
     <string name="play_mode_single_loop">วนรอบเดียว</string>
     <string name="play_mode_ordered">เล่นตามลำดับ</string>
     <string name="play_mode_random">เล่นแบบสุ่ม</string>
     <string name="play_mode_album_loop">วนอัลบั้ม</string>
-    <string name="stop_casting">Stop Casting</string>
+    <string name="stop_casting">หยุด Casting</string>
     <string name="label_pause">หยุดชั่วคราว</string>
     <string name="label_play">เล่น</string>
     <string name="label_previous">ก่อนหน้า</string>
