@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="time_difference_short_days">
+        <item quantity="zero">%dd</item>
+        <item quantity="other">%dd</item>
+        <item quantity="one">%dd</item>
+        <item quantity="two">%dd</item>
+        <item quantity="few">%dd</item>
+        <item quantity="many">%dd</item>
+    </plurals>
+    <plurals name="time_difference_short_hours">
+        <item quantity="zero">%dh</item>
+        <item quantity="other">%dh</item>
+        <item quantity="one">%dh</item>
+        <item quantity="two">%dh</item>
+        <item quantity="few">%dh</item>
+        <item quantity="many">%dh</item>
+    </plurals>
+    <plurals name="time_difference_short_minutes">
+        <item quantity="zero">%dm</item>
+        <item quantity="other">%dm</item>
+        <item quantity="one">%dm</item>
+        <item quantity="two">%dm</item>
+        <item quantity="few">%dm</item>
+        <item quantity="many">%dm</item>
+    </plurals>
+    <plurals name="time_difference_words_days">
+        <item quantity="zero">%d days</item>
+        <item quantity="other">%d days</item>
+        <item quantity="one">%d day</item>
+        <item quantity="two">%d days</item>
+        <item quantity="few">%d days</item>
+        <item quantity="many">%d days</item>
+    </plurals>
+    <plurals name="time_difference_words_hours">
+        <item quantity="zero">%d hours</item>
+        <item quantity="other">%d hours</item>
+        <item quantity="one">%d hour</item>
+        <item quantity="two">%d hours</item>
+        <item quantity="few">%d hours</item>
+        <item quantity="many">%d hours</item>
+    </plurals>
+    <plurals name="time_difference_words_minutes">
+        <item quantity="zero">%d mins</item>
+        <item quantity="other">%d mins</item>
+        <item quantity="one">%d min</item>
+        <item quantity="two">%d mins</item>
+        <item quantity="few">%d mins</item>
+        <item quantity="many">%d mins</item>
+    </plurals>
+</resources>
