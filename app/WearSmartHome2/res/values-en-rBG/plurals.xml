@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="plurals_hours">
+        <item quantity="one">%d Час</item>
+        <item quantity="other">%d Часа</item>
+    </plurals>
+    <plurals name="plurals_minutes">
+        <item quantity="one">%d Минута</item>
+        <item quantity="other">%d Минути</item>
+    </plurals>
+    <plurals name="Nhours_description">
+        <item quantity="other">%dчаса</item>
+        <item quantity="one">1 час</item>
+    </plurals>
+    <plurals name="Nminutes_description">
+        <item quantity="other">%d минути</item>
+        <item quantity="one">1 минута</item>
+    </plurals>
+    <plurals name="Nseconds_description">
+        <item quantity="other">%d секунди</item>
+        <item quantity="one">1 секунда</item>
+    </plurals>
+</resources>

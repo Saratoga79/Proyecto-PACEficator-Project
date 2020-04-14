@@ -88,9 +88,10 @@
     <string name="watch_label_thirtyeight">时代在召唤</string>
     <string name="watch_label_thirtynine">炫红之志</string>
     <string name="watch_label_fourty">仰望星空</string>
-    <string name="watch_label_thirteen">2017</string>
+    <string name="watch_label_fortyone">Masked knight</string>
     <string name="watch_label_fortytwo">Night Elf</string>
     <string name="watch_label_fortythree">Chiyan</string>
+    <string name="watch_label_thirteen">2017</string>
     <string name="sport_auto_pause_end3" />
     <string name="running">Run</string>
     <string name="waking">Walk</string>
@@ -112,6 +113,7 @@
     <string name="complex_sport">complex sport</string>
     <string name="rope_skipping">Rope skipping</string>
     <string name="on_foot">On foot</string>
+    <string name="exercise">Gym</string>
     <string name="sport_total_time">Total Time</string>
     <string name="current_altitude">Altitude</string>
     <string name="speed">Speed</string>
@@ -135,8 +137,8 @@
     <string name="gps_wait">Searching...</string>
     <string name="gps_fail">GPS search timed out</string>
     <string name="gps_singal_lost">Gps unavailable</string>
-    <string name="gps_close_1">由于长时间未开始运动,</string>
-    <string name="gps_close_2">已将GPS关闭。</string>
+    <string name="gps_close_1">GPS was turned off</string>
+    <string name="gps_close_2">due to inactivity</string>
     <string name="heartrate">Heart-rate</string>
     <string name="warmup">Warm Up</string>
     <string name="fatburn">Fat Burning</string>
@@ -234,6 +236,7 @@
     <item type="string" name="APKTOOL_DUMMY_8a">false</item>
     <item type="string" name="APKTOOL_DUMMY_8b">false</item>
     <item type="string" name="APKTOOL_DUMMY_8c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_d7">false</item>
     <item type="string" name="APKTOOL_DUMMY_d3">false</item>
     <item type="string" name="APKTOOL_DUMMY_d0">false</item>
     <item type="string" name="APKTOOL_DUMMY_8d">false</item>
@@ -253,4 +256,5 @@
     <item type="string" name="APKTOOL_DUMMY_cd">false</item>
     <item type="string" name="APKTOOL_DUMMY_ce">false</item>
     <item type="string" name="APKTOOL_DUMMY_d2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_d6">false</item>
 </resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="time_difference_short_days">
+        <item quantity="other">%dd</item>
+        <item quantity="one">%dd</item>
+        <item quantity="few">%dd</item>
+        <item quantity="many">%dd</item>
+    </plurals>
+    <plurals name="time_difference_short_hours">
+        <item quantity="other">%dg</item>
+        <item quantity="one">%dg</item>
+        <item quantity="few">%dg</item>
+        <item quantity="many">%dg</item>
+    </plurals>
+    <plurals name="time_difference_short_minutes">
+        <item quantity="other">%dm</item>
+        <item quantity="one">%dm</item>
+        <item quantity="few">%dm</item>
+        <item quantity="many">%dm</item>
+    </plurals>
+    <plurals name="time_difference_words_days">
+        <item quantity="other">%d dni</item>
+        <item quantity="one">%d dzień</item>
+        <item quantity="few">%d dni</item>
+        <item quantity="many">%d dni</item>
+    </plurals>
+    <plurals name="time_difference_words_hours">
+        <item quantity="other">%d godzin</item>
+        <item quantity="one">%d godz.</item>
+        <item quantity="few">%d godzin</item>
+        <item quantity="many">%d godzin</item>
+    </plurals>
+    <plurals name="time_difference_words_minutes">
+        <item quantity="other">%d minut</item>
+        <item quantity="one">%d min</item>
+        <item quantity="few">%d minut</item>
+        <item quantity="many">%d minut</item>
+    </plurals>
+</resources>
