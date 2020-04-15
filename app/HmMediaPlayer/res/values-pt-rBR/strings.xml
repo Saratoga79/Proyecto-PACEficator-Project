@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="music_name">Watercress FM</string>
-    <string name="music_download_in_progress">Song downloading...</string>
-    <string name="music_no_wifi_title">Unable to download</string>
-    <string name="music_download_fail_title">Song downloading failed</string>
-    <string name="music_download_not_complete_title">Songs not completely downloaded</string>
+    <string name="music_download_in_progress">Baixando músicas...</string>
+    <string name="music_no_wifi_title">Impossível transferir</string>
+    <string name="music_download_fail_title">Falha ao baixar música</string>
+    <string name="music_download_not_complete_title">Transferência incompleta</string>
     <string name="music_no_wifi_content">Wi-Fi is not connected, songs cannot be downloaded. Please connect to Wi-Fi by System settings - Wi-Fi on the watch.</string>
     <string name="music_download_fail_content">Network connection error. Songs unable to be downloaded. Please connect to the network and try again.</string>
     <string name="music_download_not_complete_content">Network connecting error, songs unable to finish downloading. Only play currently downloaded songs. (All songs will be downloaded automatically with Wi-Fi connection)</string>
