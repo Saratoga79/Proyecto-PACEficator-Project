@@ -38,62 +38,62 @@
     </string-array>
     <string-array name="subject_typenfreqs">
         <item>วันนี้</item>
-        <item>This week</item>
+        <item>สัปดาห์นี้</item>
         <item>วันนี้</item>
-        <item>This week</item>
+        <item>สัปดาห์นี้</item>
     </string-array>
     <string-array name="chart_x_titles">
-        <item>MON</item>
-        <item>TUE</item>
-        <item>WED</item>
-        <item>THU</item>
-        <item>FRI</item>
-        <item>SAT</item>
-        <item>SUN</item>
+        <item>จ.</item>
+        <item>อ.</item>
+        <item>พ.</item>
+        <item>พฤ.</item>
+        <item>ศ.</item>
+        <item>ส.</item>
+        <item>อา.</item>
     </string-array>
     <string-array name="sport_data_item_array">
         <item></item>
-        <item>Time</item>
-        <item>Distance</item>
-        <item>Pace</item>
-        <item>Avg pace</item>
-        <item>Heart rate</item>
-        <item>Calories</item>
-        <item>Altitude</item>
-        <item>Elev gain</item>
-        <item>Elev loss</item>
-        <item>Speed</item>
-        <item>Avg speed</item>
-        <item>Cadence</item>
+        <item>เวลา</item>
+        <item>ระยะทาง</item>
+        <item> อัตราการวิ่ง</item>
+        <item>อัตราการวิ่งเฉลี่ย</item>
+        <item>อัตราการของเต้นหัวใจ</item>
+        <item>แคลอรี่</item>
+        <item>ระดับความสูง</item>
+        <item>ความชันเพิ่ม</item>
+        <item>ความชันลดลง</item>
+        <item>ความเร็ว</item>
+        <item>ความเร็วเฉลี่ย</item>
+        <item>ช่วงก้าว</item>
         <item>Dist gain</item>
-        <item>Steps</item>
-        <item>Cadence</item>
-        <item>Laps</item>
+        <item>ก้าว</item>
+        <item>ช่วงก้าว</item>
+        <item>รอบ</item>
         <item>DPS</item>
-        <item>Stroke rate</item>
+        <item>อัตราจังหวะ</item>
         <item>Avg SPM</item>
-        <item>Pace</item>
-        <item>Avg pace</item>
-        <item>Distance</item>
+        <item> อัตราการวิ่ง</item>
+        <item>อัตราการวิ่งเฉลี่ย</item>
+        <item>ระยะทาง</item>
         <item>TE</item>
         <item>Vert speed</item>
-        <item>Avg speed</item>
-        <item>Max speed</item>
-        <item>Laps</item>
-        <item>Downhill</item>
-        <item>Total downhill</item>
-        <item>Descent</item>
-        <item>Strokes</item>
+        <item>ความเร็วเฉลี่ย</item>
+        <item>ความเร็วสูงสุด</item>
+        <item>รอบ</item>
+        <item>ลงเขา</item>
+        <item>รวมการลงเขา</item>
+        <item>ไต่ลง</item>
+        <item>จังหวะ</item>
         <item>L.L. time</item>
         <item>L.L. pace</item>
         <item>L.L. speed</item>
         <item>L.L. HR</item>
         <item>L.L. cadence</item>
         <item>L.L. pace</item>
-        <item>Current freq</item>
-        <item>Total count</item>
-        <item>Avg freq</item>
-        <item>Groups</item>
+        <item>ความถี่ปัจจุบัน</item>
+        <item>นับรวม</item>
+        <item>ความถี่เฉลี่ย</item>
+        <item>กลุ่ม</item>
         <item>C.L. count</item>
         <item>C.L. time</item>
         <item>C.L. freq</item>
@@ -103,24 +103,24 @@
         <item>C.L. Speed</item>
         <item>C.L. Heart rate</item>
         <item>C.L. freq.</item>
-        <item>slope</item>
-        <item>Calories</item>
-        <item>Avg. HR</item>
-        <item>Paddles of this set</item>
-        <item>Frequency</item>
-        <item>Total paddles</item>
-        <item>Paddle frequency</item>
-        <item>Pulling duration</item>
-        <item>Pushing duration</item>
-        <item>Avg. Freq.</item>
+        <item>ลาดชัน</item>
+        <item>แคลอรี่</item>
+        <item>ค่าเฉลี่ยอัตราการเต้นของหัวใจ</item>
+        <item>ฝีพายของชุดนี้</item>
+        <item>ความถี่</item>
+        <item>จำนวนฝีพาย</item>
+        <item>ความถี่การพาย</item>
+        <item>ระยะเวลาการดึง</item>
+        <item>ระยะเวลาการผลัก</item>
+        <item>ความถี่เฉลี่ย</item>
     </string-array>
     <string-array name="sport_train_item">
-        <item>Remaining distance</item>
-        <item>Total distance</item>
-        <item>Total time</item>
-        <item>Remaining time</item>
-        <item>Distance</item>
-        <item>Remaining</item>
-        <item>Has rested</item>
+        <item>ระยะทางที่เหลือ</item>
+        <item>ระยะทางรวมทั้งหมด</item>
+        <item>เวลาทั้งหมด</item>
+        <item>เวลาที่เหลือ</item>
+        <item>ระยะทาง</item>
+        <item>ที่เหลืออยู่</item>
+        <item>หยุดพัก</item>
     </string-array>
 </resources>
