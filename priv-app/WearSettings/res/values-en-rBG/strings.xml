@@ -3,7 +3,7 @@
     <string name="average_text">Средно</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="running">Изпълнява се</string>
-    <string name="waking">Walking</string>
+    <string name="waking">Ходене</string>
     <string name="indoor_running">Treadmill</string>
     <string name="outdoor_riding">Outdoor cycling</string>
     <string name="indoor_riding">Indoor cycling</string>
@@ -13,7 +13,7 @@
     <string name="outdoor_swimming">Open water</string>
     <string name="triathlon">Triathlon</string>
     <string name="mountain">Climbing</string>
-    <string name="riding">Cycling</string>
+    <string name="riding">Колоездене</string>
     <string name="swimming">Плуване</string>
     <string name="skiing">Каране на ски</string>
     <string name="tennis">Тенис</string>
@@ -21,7 +21,7 @@
     <string name="golf">Голф</string>
     <string name="complex_sport">Multisport</string>
     <string name="rope_skipping">Jump rope</string>
-    <string name="on_foot">On foot</string>
+    <string name="on_foot">Пеша</string>
     <string name="indoor_fitness">Indoor fitness</string>
     <string name="row_machine">Rowing machine</string>
     <string name="sport_total_time">Total time</string>
@@ -52,9 +52,9 @@
     <string name="gps_close_1">No movement for a long time,</string>
     <string name="gps_close_2">GPS has been turned off.</string>
     <string name="heartrate">Heart rate</string>
-    <string name="warmup">Warm Up</string>
+    <string name="warmup">Загряване</string>
     <string name="fatburn">Fat Burning</string>
-    <string name="heartlung">Aerobic</string>
+    <string name="heartlung">Аеробика</string>
     <string name="strength">Anaerobic</string>
     <string name="anaerobic">Anaerobic limit</string>
     <string name="zone_one">Зона 1</string>
@@ -139,7 +139,7 @@
     <string name="alarm_bee_bee">Bee-bee</string>
     <string name="alarm_buzzer">Зумер</string>
     <string name="alarm_orbit">Orbit</string>
-    <string name="alarm_rooster">Rooster</string>
+    <string name="alarm_rooster">Петел</string>
     <string name="alarm_timer">Таймер</string>
     <string name="alarm_nudge">Nudge</string>
     <string name="alarm_rise">Rise</string>
@@ -274,9 +274,9 @@
     <string name="en">English(U.S.)</string>
     <string name="zh_hk">繁體中文(香港)</string>
     <string name="zh_tw">繁體中文(台灣)</string>
-    <string name="ru_ru">Русский</string>
-    <string name="es_es">Español</string>
-    <string name="de_de">Deutsch</string>
+    <string name="ru_ru">Руски</string>
+    <string name="es_es">Испански</string>
+    <string name="de_de">Немски</string>
     <string name="it_it">Italiano</string>
     <string name="fr_fr">Français</string>
     <string name="pl_pl">Полски</string>
@@ -285,10 +285,10 @@
     <string name="tr_tr">Türk dili</string>
     <string name="pt_br">Português</string>
     <string name="paobu">Изпълнява се</string>
-    <string name="jianzou">Walking</string>
+    <string name="jianzou">Ходене</string>
     <string name="yueye">Trail Run</string>
     <string name="shineipao">Run Indoor</string>
-    <string name="huwaiqi">Cycling</string>
+    <string name="huwaiqi">Колоездене</string>
     <string name="yongchiyou">Pool Swim</string>
     <string name="gongkaiyou">Open Water</string>
     <string name="tuoyuanji">Elliptical</string>
@@ -303,7 +303,7 @@
     <string name="zhifubao">Alipay</string>
     <string name="jishiqi">Таймер</string>
     <string name="mijia">Mi Home</string>
-    <string name="zhinanzhen">Compass</string>
+    <string name="zhinanzhen">Компас</string>
     <string name="yinyue">Музика</string>
     <string name="music_status_long_time_no_play">"You haven\'t played music for a long time. 
  The system has been disconnected from the headsets 
@@ -369,13 +369,13 @@
     <string name="blt_bound_stat_disconnect">Прекъснат</string>
     <string name="blt_bound_stat_bonding">Pairing...</string>
     <string name="blt_bound_stat_none">Available</string>
-    <string name="blt_default_name">Unnamed</string>
+    <string name="blt_default_name">Без име</string>
     <string name="blt_hint_disconnect">"%1s
 Disconnect?"</string>
     <string name="blt_hint_connect">"%1s
 Свързване?"</string>
     <string name="blt_hint_connect_fail">Connection failed, please re-connect</string>
-    <string name="blt_type_ear">Headset</string>
+    <string name="blt_type_ear">Cлушалки</string>
     <string name="blt_speaker">Аудио</string>
     <string name="blt_car_system">Vehicle-mounted</string>
     <string name="blt_type_mabiao">MW</string>
@@ -572,13 +572,13 @@ all data in the watch will be deleted, and the watch will be disconnected from y
     <string name="setting_regulatory_canda">Канада </string>
     <string name="setting_regulatory_russia">Русия</string>
     <string name="setting_regulatory_japan">Япония</string>
-    <string name="setting_regulatory_ukraine">Ukraine</string>
+    <string name="setting_regulatory_ukraine">Украйна</string>
     <string name="setting_regulation_desc_us">FCC ID:2AC8UA1811</string>
     <string name="setting_regulation_desc_canda">"IC:21806-A1811 
  ICAN ICE-3(B)/NMB-3(B)"</string>
     <string name="setting_regulation_model_name">Model : %1$s</string>
     <string name="confirm_shutdown">Shutdown?</string>
-    <string name="confirm_reboot">Reboot?</string>
+    <string name="confirm_reboot">Рестарт?</string>
     <string name="app_name">Настройки</string>
     <string name="blt_hint_connect_device">Свързване</string>
     <string name="blt_hint_disconnect_device">Disconnect</string>
