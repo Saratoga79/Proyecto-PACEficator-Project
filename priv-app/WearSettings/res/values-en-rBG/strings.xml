@@ -132,8 +132,8 @@
     <string name="widget_currentstep_sleep_no">Няма данни за сън</string>
     <string name="widget_currentstep_activity_no">Днес няма активност?</string>
     <string name="settings_item_high_light_scale_factor">0.5</string>
-    <string name="locale_title">Language</string>
-    <string name="ring_turn_off">Turn off</string>
+    <string name="locale_title">Език</string>
+    <string name="ring_turn_off">Изключи</string>
     <string name="ring_hint_turn_off">Изкл</string>
     <string name="alarm_bee">Пчела</string>
     <string name="alarm_bee_bee">Bee-bee</string>
@@ -163,17 +163,17 @@
     <string name="bluetooth_dev">Bluetooth</string>
     <string name="wifi_dev">Wi-Fi</string>
     <string name="check_for_update">Актуализация</string>
-    <string name="change_language">Language</string>
+    <string name="change_language">Език</string>
     <string name="reset_factory">Factory Reset</string>
     <string name="shut_down">Изключване</string>
     <string name="reboot">Рестарт</string>
     <string name="about">Относно</string>
     <string name="wear_habit">Wear Habit</string>
-    <string name="bugreport">Feedback</string>
+    <string name="bugreport">Обратна връзка</string>
     <string name="applications">Приложения</string>
     <string name="long_sit">Standup Alert</string>
     <string name="datacenter">Обзор на деня</string>
-    <string name="security">Security</string>
+    <string name="security">Безопасност</string>
     <string name="preference">Предпочитания</string>
     <string name="preference_title">Предпочитания</string>
     <string name="light_change">Яркост</string>
@@ -277,8 +277,8 @@
     <string name="ru_ru">Руски</string>
     <string name="es_es">Испански</string>
     <string name="de_de">Немски</string>
-    <string name="it_it">Italiano</string>
-    <string name="fr_fr">Français</string>
+    <string name="it_it">Италянски</string>
+    <string name="fr_fr">Френски</string>
     <string name="pl_pl">Полски</string>
     <string name="ko_kr">한국어</string>
     <string name="ja_jp">日本語</string>
@@ -310,7 +310,7 @@
  to reduce power consumption. You can:"</string>
     <string name="ble_connet_phone">Connect the headsets</string>
     <string name="ble_connet_cancel">Отказ</string>
-    <string name="report_bug_dialog_title">Feedback</string>
+    <string name="report_bug_dialog_title">Обратна връзка</string>
     <string name="report_bug_dialog_desc">If there is a data error or the watch works abnormally, you can upload the data through the feedback feature to our server for analysis. During this process, the previously generated logs on the watch will be automatically collected and uploaded. These logs are used only for problem analysis, and will be destroyed immediately after that. During the entire process we will comply with our Privacy Policy, view details of the policy on the Amazfit app.</string>
     <string name="dialog_agree">Съгласявам се</string>
     <string name="dialog_quit">Изход</string>
@@ -331,7 +331,7 @@
     <string name="license">Legal statement</string>
     <string name="regulatory">Regulatory</string>
     <string name="regulatory_summary">Learn more</string>
-    <string name="unlock">Unlocked</string>
+    <string name="unlock">Отключен</string>
     <string name="build_time">[DEBUG]Build time</string>
     <string name="build_desc">[DEBUG]Build description</string>
     <string name="legal">Please check in the</string>
@@ -412,7 +412,7 @@ and is nearby"</string>
     <string name="blt_headset_listen_set">Thru Mode</string>
     <string name="blt_headset_set_left">Left PowerBud</string>
     <string name="blt_headset_set_right">Right PowerBud</string>
-    <string name="blt_headset_set_knock_one">Tap once</string>
+    <string name="blt_headset_set_knock_one">Чукни веднъж</string>
     <string name="blt_headset_set_knock_twice">Tap twice</string>
     <string name="blt_headset_set_knock_third">Tap three times</string>
     <string name="blt_headset_set_next">Next song</string>
@@ -420,8 +420,8 @@ and is nearby"</string>
     <string name="blt_headset_set_play">Pause/Play</string>
     <string name="blt_headset_set_sport_heart">Use PowerBuds HR sensor</string>
     <string name="blt_headset_set_operation">Опции</string>
-    <string name="blt_headset_selected">Selected</string>
-    <string name="blt_headset_set_ear_closed">Disabled</string>
+    <string name="blt_headset_selected">Избрани</string>
+    <string name="blt_headset_set_ear_closed">Изключен</string>
     <string name="blt_headset_first_setting_tips_title">Whether to set PowerBuds</string>
     <string name="blt_headset_first_setting_tips_positive">Сега</string>
     <string name="blt_headset_first_setting_tips_negitive">По-късно</string>
@@ -433,7 +433,7 @@ and is nearby"</string>
     <string name="phone_not_found">Phone not found</string>
     <string name="start_testing">Старт</string>
     <string name="lab_wifi_test_tip_retry">Please retry!!</string>
-    <string name="lab_wifi_test_tip_testing">Testing…</string>
+    <string name="lab_wifi_test_tip_testing">Тестване…</string>
     <string name="lab_wifi_test_tip_pass">Преминат!!</string>
     <string name="lab_wifi_test_tip_fail">Провал!!</string>
     <string name="lab_wifi_test_tip_open_wifi">Opening WIFI</string>
@@ -444,7 +444,7 @@ and is nearby"</string>
     <string name="subtitle_of_raise_hand_no_bl">Auto when unlocked</string>
     <string name="rise_with_bl_under_slpt">Вкл</string>
     <string name="rise_without_bl_under_slpt">Изкл</string>
-    <string name="locale_main">Language</string>
+    <string name="locale_main">Език</string>
     <string name="locale_applying">Language applying...</string>
     <string name="confirm_change_locale">"Change language to 
 %1$s?"</string>
@@ -500,7 +500,7 @@ all data in the watch will be deleted, and the watch will be disconnected from y
     <string name="lockpattern_recording_inprogress"></string>
     <string name="cancel">Отказ</string>
     <string name="lockpattern_retry_button_text">Опитай пак</string>
-    <string name="lockpattern_continue_button_text">Continue</string>
+    <string name="lockpattern_continue_button_text">Продължи</string>
     <string name="lockpattern_confirm_button_text">Потвърди</string>
     <string name="lockpattern_recording_intro_header">Draw Unlocking Pattern</string>
     <string name="lockpattern_settings_help_how_to_record">How to Draw Unlocking Pattern？</string>
@@ -518,7 +518,7 @@ all data in the watch will be deleted, and the watch will be disconnected from y
     <string name="unlock_disable_frp_warning_content">The Device Protection Function Will No Longer Function.</string>
     <string name="okay">Потвърди</string>
     <string name="exit">Изход</string>
-    <string name="pattern_set_title">Security</string>
+    <string name="pattern_set_title">Безопасност</string>
     <string name="watch_state">Screensaver Setting</string>
     <string name="unwear">Watch off the Wrist</string>
     <string name="wear">Watch on the Wrist</string>
@@ -547,7 +547,7 @@ all data in the watch will be deleted, and the watch will be disconnected from y
     <string name="ultra_upgrade_desc">Updating Ultra mode resources. This will take about 4 to 5 minutes. Please try again later.</string>
     <string name="ultra_updrade_enter">ОК</string>
     <string name="unit_metric">Метрична</string>
-    <string name="unit_english">Imperial</string>
+    <string name="unit_english">Британски</string>
     <string name="strong">Силна</string>
     <string name="mid">Средно</string>
     <string name="weak">Слаба</string>
