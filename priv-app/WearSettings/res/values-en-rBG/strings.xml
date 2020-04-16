@@ -3,7 +3,7 @@
     <string name="average_text">Средно</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="running">Изпълнява се</string>
-    <string name="waking">Walking</string>
+    <string name="waking">Ходене</string>
     <string name="indoor_running">Treadmill</string>
     <string name="outdoor_riding">Outdoor cycling</string>
     <string name="indoor_riding">Indoor cycling</string>
@@ -13,7 +13,7 @@
     <string name="outdoor_swimming">Open water</string>
     <string name="triathlon">Triathlon</string>
     <string name="mountain">Climbing</string>
-    <string name="riding">Cycling</string>
+    <string name="riding">Колоездене</string>
     <string name="swimming">Плуване</string>
     <string name="skiing">Каране на ски</string>
     <string name="tennis">Тенис</string>
@@ -21,7 +21,7 @@
     <string name="golf">Голф</string>
     <string name="complex_sport">Multisport</string>
     <string name="rope_skipping">Jump rope</string>
-    <string name="on_foot">On foot</string>
+    <string name="on_foot">Пеша</string>
     <string name="indoor_fitness">Indoor fitness</string>
     <string name="row_machine">Rowing machine</string>
     <string name="sport_total_time">Total time</string>
@@ -52,9 +52,9 @@
     <string name="gps_close_1">No movement for a long time,</string>
     <string name="gps_close_2">GPS has been turned off.</string>
     <string name="heartrate">Heart rate</string>
-    <string name="warmup">Warm Up</string>
+    <string name="warmup">Загряване</string>
     <string name="fatburn">Fat Burning</string>
-    <string name="heartlung">Aerobic</string>
+    <string name="heartlung">Аеробика</string>
     <string name="strength">Anaerobic</string>
     <string name="anaerobic">Anaerobic limit</string>
     <string name="zone_one">Зона 1</string>
@@ -108,7 +108,7 @@
     <string name="rope_skip_group_freq">Frequency</string>
     <string name="rope_skip_reset_tips">Has rested</string>
     <string name="rope_skip_tips">Group %1$s</string>
-    <string name="rope_skip_tips1">The</string>
+    <string name="rope_skip_tips1">В</string>
     <string name="rope_skip_tips2">set has been completed</string>
     <string name="rope_skip_avg_heartrate">Avg. heart rate</string>
     <string name="rope_skip_group_calories">Калории</string>
@@ -132,14 +132,14 @@
     <string name="widget_currentstep_sleep_no">Няма данни за сън</string>
     <string name="widget_currentstep_activity_no">Днес няма активност?</string>
     <string name="settings_item_high_light_scale_factor">0.5</string>
-    <string name="locale_title">Language</string>
-    <string name="ring_turn_off">Turn off</string>
+    <string name="locale_title">Език</string>
+    <string name="ring_turn_off">Изключи</string>
     <string name="ring_hint_turn_off">Изкл</string>
-    <string name="alarm_bee">Bee</string>
+    <string name="alarm_bee">Пчела</string>
     <string name="alarm_bee_bee">Bee-bee</string>
     <string name="alarm_buzzer">Зумер</string>
     <string name="alarm_orbit">Orbit</string>
-    <string name="alarm_rooster">Rooster</string>
+    <string name="alarm_rooster">Петел</string>
     <string name="alarm_timer">Таймер</string>
     <string name="alarm_nudge">Nudge</string>
     <string name="alarm_rise">Rise</string>
@@ -163,17 +163,17 @@
     <string name="bluetooth_dev">Bluetooth</string>
     <string name="wifi_dev">Wi-Fi</string>
     <string name="check_for_update">Актуализация</string>
-    <string name="change_language">Language</string>
+    <string name="change_language">Език</string>
     <string name="reset_factory">Factory Reset</string>
     <string name="shut_down">Изключване</string>
     <string name="reboot">Рестарт</string>
     <string name="about">Относно</string>
     <string name="wear_habit">Wear Habit</string>
-    <string name="bugreport">Feedback</string>
+    <string name="bugreport">Обратна връзка</string>
     <string name="applications">Приложения</string>
     <string name="long_sit">Standup Alert</string>
     <string name="datacenter">Обзор на деня</string>
-    <string name="security">Security</string>
+    <string name="security">Безопасност</string>
     <string name="preference">Предпочитания</string>
     <string name="preference_title">Предпочитания</string>
     <string name="light_change">Яркост</string>
@@ -274,21 +274,21 @@
     <string name="en">English(U.S.)</string>
     <string name="zh_hk">繁體中文(香港)</string>
     <string name="zh_tw">繁體中文(台灣)</string>
-    <string name="ru_ru">Русский</string>
-    <string name="es_es">Español</string>
-    <string name="de_de">Deutsch</string>
-    <string name="it_it">Italiano</string>
-    <string name="fr_fr">Français</string>
+    <string name="ru_ru">Руски</string>
+    <string name="es_es">Испански</string>
+    <string name="de_de">Немски</string>
+    <string name="it_it">Италянски</string>
+    <string name="fr_fr">Френски</string>
     <string name="pl_pl">Полски</string>
     <string name="ko_kr">한국어</string>
     <string name="ja_jp">日本語</string>
     <string name="tr_tr">Türk dili</string>
     <string name="pt_br">Português</string>
     <string name="paobu">Изпълнява се</string>
-    <string name="jianzou">Walking</string>
+    <string name="jianzou">Ходене</string>
     <string name="yueye">Trail Run</string>
     <string name="shineipao">Run Indoor</string>
-    <string name="huwaiqi">Cycling</string>
+    <string name="huwaiqi">Колоездене</string>
     <string name="yongchiyou">Pool Swim</string>
     <string name="gongkaiyou">Open Water</string>
     <string name="tuoyuanji">Elliptical</string>
@@ -303,20 +303,20 @@
     <string name="zhifubao">Alipay</string>
     <string name="jishiqi">Таймер</string>
     <string name="mijia">Mi Home</string>
-    <string name="zhinanzhen">Compass</string>
+    <string name="zhinanzhen">Компас</string>
     <string name="yinyue">Музика</string>
     <string name="music_status_long_time_no_play">"You haven\'t played music for a long time. 
  The system has been disconnected from the headsets 
  to reduce power consumption. You can:"</string>
     <string name="ble_connet_phone">Connect the headsets</string>
     <string name="ble_connet_cancel">Отказ</string>
-    <string name="report_bug_dialog_title">Feedback</string>
+    <string name="report_bug_dialog_title">Обратна връзка</string>
     <string name="report_bug_dialog_desc">If there is a data error or the watch works abnormally, you can upload the data through the feedback feature to our server for analysis. During this process, the previously generated logs on the watch will be automatically collected and uploaded. These logs are used only for problem analysis, and will be destroyed immediately after that. During the entire process we will comply with our Privacy Policy, view details of the policy on the Amazfit app.</string>
     <string name="dialog_agree">Съгласявам се</string>
     <string name="dialog_quit">Изход</string>
-    <string name="nothing">Empty</string>
-    <string name="about_title">About</string>
-    <string name="model">Model</string>
+    <string name="nothing">Празен</string>
+    <string name="about_title">Относно</string>
+    <string name="model">Модел</string>
     <string name="dev_name">Име</string>
     <string name="dev_desc">Amazfit Sports Watch</string>
     <string name="ard_version">Android version</string>
@@ -331,7 +331,7 @@
     <string name="license">Legal statement</string>
     <string name="regulatory">Regulatory</string>
     <string name="regulatory_summary">Learn more</string>
-    <string name="unlock">Unlocked</string>
+    <string name="unlock">Отключен</string>
     <string name="build_time">[DEBUG]Build time</string>
     <string name="build_desc">[DEBUG]Build description</string>
     <string name="legal">Please check in the</string>
@@ -369,14 +369,14 @@
     <string name="blt_bound_stat_disconnect">Прекъснат</string>
     <string name="blt_bound_stat_bonding">Pairing...</string>
     <string name="blt_bound_stat_none">Available</string>
-    <string name="blt_default_name">Unnamed</string>
+    <string name="blt_default_name">Без име</string>
     <string name="blt_hint_disconnect">"%1s
 Disconnect?"</string>
     <string name="blt_hint_connect">"%1s
 Свързване?"</string>
     <string name="blt_hint_connect_fail">Connection failed, please re-connect</string>
-    <string name="blt_type_ear">Headset</string>
-    <string name="blt_speaker">Audio</string>
+    <string name="blt_type_ear">Cлушалки</string>
+    <string name="blt_speaker">Аудио</string>
     <string name="blt_car_system">Vehicle-mounted</string>
     <string name="blt_type_mabiao">MW</string>
     <string name="blt_not_support">[Only test]</string>
@@ -412,20 +412,20 @@ and is nearby"</string>
     <string name="blt_headset_listen_set">Thru Mode</string>
     <string name="blt_headset_set_left">Left PowerBud</string>
     <string name="blt_headset_set_right">Right PowerBud</string>
-    <string name="blt_headset_set_knock_one">Tap once</string>
+    <string name="blt_headset_set_knock_one">Чукни веднъж</string>
     <string name="blt_headset_set_knock_twice">Tap twice</string>
     <string name="blt_headset_set_knock_third">Tap three times</string>
     <string name="blt_headset_set_next">Next song</string>
     <string name="blt_headset_set_last">Previous song</string>
     <string name="blt_headset_set_play">Pause/Play</string>
     <string name="blt_headset_set_sport_heart">Use PowerBuds HR sensor</string>
-    <string name="blt_headset_set_operation">Options</string>
-    <string name="blt_headset_selected">Selected</string>
-    <string name="blt_headset_set_ear_closed">Disabled</string>
+    <string name="blt_headset_set_operation">Опции</string>
+    <string name="blt_headset_selected">Избрани</string>
+    <string name="blt_headset_set_ear_closed">Изключен</string>
     <string name="blt_headset_first_setting_tips_title">Whether to set PowerBuds</string>
-    <string name="blt_headset_first_setting_tips_positive">Now</string>
-    <string name="blt_headset_first_setting_tips_negitive">Later</string>
-    <string name="battery_offline">Offline</string>
+    <string name="blt_headset_first_setting_tips_positive">Сега</string>
+    <string name="blt_headset_first_setting_tips_negitive">По-късно</string>
+    <string name="battery_offline">Офлайн</string>
     <string name="blt_headset_set_knock_fail">Инсталацията не бе успешна, моля излезте и се свържете отново.</string>
     <string name="phone_finding">Locating phone...</string>
     <string name="phone_found">Телефона е намерен</string>
@@ -433,7 +433,7 @@ and is nearby"</string>
     <string name="phone_not_found">Phone not found</string>
     <string name="start_testing">Старт</string>
     <string name="lab_wifi_test_tip_retry">Please retry!!</string>
-    <string name="lab_wifi_test_tip_testing">Testing…</string>
+    <string name="lab_wifi_test_tip_testing">Тестване…</string>
     <string name="lab_wifi_test_tip_pass">Преминат!!</string>
     <string name="lab_wifi_test_tip_fail">Провал!!</string>
     <string name="lab_wifi_test_tip_open_wifi">Opening WIFI</string>
@@ -444,7 +444,7 @@ and is nearby"</string>
     <string name="subtitle_of_raise_hand_no_bl">Auto when unlocked</string>
     <string name="rise_with_bl_under_slpt">Вкл</string>
     <string name="rise_without_bl_under_slpt">Изкл</string>
-    <string name="locale_main">Language</string>
+    <string name="locale_main">Език</string>
     <string name="locale_applying">Language applying...</string>
     <string name="confirm_change_locale">"Change language to 
 %1$s?"</string>
@@ -465,7 +465,7 @@ kg"</string>
 all data in the watch will be deleted, and the watch will be disconnected from your mobile."</string>
     <string name="reset_factory_hint_cn">"Once the watch is reset to factory default settings, all data in the watch will be deleted, and the watch will be disconnected from your mobile. 
  The current activated transportation card can still be used after the watch is bound with your mobile again."</string>
-    <string name="reset_factory_yes">Reset</string>
+    <string name="reset_factory_yes">Нулирай</string>
     <string name="reset_factory_no">Отказ</string>
     <string name="reset_factory_title">Factory Reset</string>
     <string name="reset_factory_noconnect_msg">"If Needing to Unbind the Watch, Please Operate Through Amazfit App. 
@@ -499,8 +499,8 @@ all data in the watch will be deleted, and the watch will be disconnected from y
     <string name="lockpassword_choose_your_pattern_header">Select Your Pattern</string>
     <string name="lockpattern_recording_inprogress"></string>
     <string name="cancel">Отказ</string>
-    <string name="lockpattern_retry_button_text">Retry</string>
-    <string name="lockpattern_continue_button_text">Continue</string>
+    <string name="lockpattern_retry_button_text">Опитай пак</string>
+    <string name="lockpattern_continue_button_text">Продължи</string>
     <string name="lockpattern_confirm_button_text">Потвърди</string>
     <string name="lockpattern_recording_intro_header">Draw Unlocking Pattern</string>
     <string name="lockpattern_settings_help_how_to_record">How to Draw Unlocking Pattern？</string>
@@ -518,7 +518,7 @@ all data in the watch will be deleted, and the watch will be disconnected from y
     <string name="unlock_disable_frp_warning_content">The Device Protection Function Will No Longer Function.</string>
     <string name="okay">Потвърди</string>
     <string name="exit">Изход</string>
-    <string name="pattern_set_title">Security</string>
+    <string name="pattern_set_title">Безопасност</string>
     <string name="watch_state">Screensaver Setting</string>
     <string name="unwear">Watch off the Wrist</string>
     <string name="wear">Watch on the Wrist</string>
@@ -545,9 +545,9 @@ all data in the watch will be deleted, and the watch will be disconnected from y
     <string name="sync_sport_data_before_reboot_dont_reboot">Не</string>
     <string name="sync_sport_data_before_reboot_reboot_now">Да</string>
     <string name="ultra_upgrade_desc">Updating Ultra mode resources. This will take about 4 to 5 minutes. Please try again later.</string>
-    <string name="ultra_updrade_enter">OK</string>
+    <string name="ultra_updrade_enter">ОК</string>
     <string name="unit_metric">Метрична</string>
-    <string name="unit_english">Imperial</string>
+    <string name="unit_english">Британски</string>
     <string name="strong">Силна</string>
     <string name="mid">Средно</string>
     <string name="weak">Слаба</string>
@@ -571,14 +571,14 @@ all data in the watch will be deleted, and the watch will be disconnected from y
     <string name="setting_regulatory_us">U.S.</string>
     <string name="setting_regulatory_canda">Канада </string>
     <string name="setting_regulatory_russia">Русия</string>
-    <string name="setting_regulatory_japan">Japan</string>
-    <string name="setting_regulatory_ukraine">Ukraine</string>
+    <string name="setting_regulatory_japan">Япония</string>
+    <string name="setting_regulatory_ukraine">Украйна</string>
     <string name="setting_regulation_desc_us">FCC ID:2AC8UA1811</string>
     <string name="setting_regulation_desc_canda">"IC:21806-A1811 
  ICAN ICE-3(B)/NMB-3(B)"</string>
     <string name="setting_regulation_model_name">Model : %1$s</string>
     <string name="confirm_shutdown">Shutdown?</string>
-    <string name="confirm_reboot">Reboot?</string>
+    <string name="confirm_reboot">Рестарт?</string>
     <string name="app_name">Настройки</string>
     <string name="blt_hint_connect_device">Свързване</string>
     <string name="blt_hint_disconnect_device">Disconnect</string>
@@ -588,5 +588,5 @@ all data in the watch will be deleted, and the watch will be disconnected from y
  to protect your data more securely"</string>
     <string name="upgrade_checking">Checking for update...</string>
     <string name="left_hand">Лява</string>
-    <string name="right_hand">Right</string>
+    <string name="right_hand">Дясна</string>
 </resources>
