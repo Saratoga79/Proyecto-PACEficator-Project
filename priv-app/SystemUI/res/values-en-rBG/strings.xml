@@ -68,11 +68,11 @@
     <string name="accessibility_home">Начало</string>
     <string name="accessibility_menu">Меню</string>
     <string name="accessibility_recent">Overview</string>
-    <string name="accessibility_search_light">Search</string>
-    <string name="accessibility_camera_button">Camera</string>
+    <string name="accessibility_search_light">Търсене</string>
+    <string name="accessibility_camera_button">Камера</string>
     <string name="accessibility_phone_button">Телефон</string>
-    <string name="accessibility_unlock_button">Unlock</string>
-    <string name="unlock_label">unlock</string>
+    <string name="accessibility_unlock_button">Отключи</string>
+    <string name="unlock_label">отключи</string>
     <string name="phone_label">open phone</string>
     <string name="camera_label">open camera</string>
     <string name="accessibility_ime_switch_button">Switch input method button.</string>
@@ -265,7 +265,7 @@
     <string name="recents_empty_message">Your recent screens appear here</string>
     <string name="recents_app_info_button_label">Application Info</string>
     <string name="recents_lock_to_app_button_label">screen pinning</string>
-    <string name="recents_search_bar_label">search</string>
+    <string name="recents_search_bar_label">търсене</string>
     <string name="recents_launch_error_message">Could not start %s.</string>
     <string name="expanded_header_battery_charged">Зареден</string>
     <string name="expanded_header_battery_charging">Charging</string>
@@ -274,7 +274,7 @@
     <string name="battery_meter_very_low_overlay_symbol">!</string>
     <string name="ssl_ca_cert_warning">"Мрежата май
 се наблюдава"</string>
-    <string name="description_target_search">Search</string>
+    <string name="description_target_search">Търсене</string>
     <string name="description_direction_up">Slide up for %s.</string>
     <string name="description_direction_left">Slide left for %s.</string>
     <string name="zen_no_interruptions_with_warning">No interruptions. Not even alarms.</string>
@@ -398,7 +398,7 @@
     <string name="hidden_notifications_title">Get notifications faster</string>
     <string name="hidden_notifications_text">See them before you unlock</string>
     <string name="hidden_notifications_cancel">No thanks</string>
-    <string name="hidden_notifications_setup">Set up</string>
+    <string name="hidden_notifications_setup">Настройване</string>
     <string name="zen_mode_and_condition">%1$s. %2$s</string>
     <string name="screen_pinning_title">Screen is pinned</string>
     <string name="screen_pinning_description">This keeps it in view until you unpin. Touch and hold Back and Overview at the same time to unpin.</string>
@@ -450,7 +450,7 @@
     <string name="keyguard_accessibility_unlock_area_collapsed">Unlock area collapsed.</string>
     <string name="keyguard_accessibility_widget">%1$s widget.</string>
     <string name="keyguard_accessibility_user_selector">User selector</string>
-    <string name="keyguard_accessibility_camera">Camera</string>
+    <string name="keyguard_accessibility_camera">Камера</string>
     <string name="keygaurd_accessibility_media_controls">Media controls</string>
     <string name="keyguard_accessibility_widget_reorder_start">Widget reordering started.</string>
     <string name="keyguard_accessibility_widget_reorder_end">Widget reordering ended.</string>
@@ -489,9 +489,9 @@
     <string name="keyboardview_keycode_mode_change">Mode change</string>
     <string name="keyboardview_keycode_shift">Shift</string>
     <string name="keyboardview_keycode_enter">Влизане</string>
-    <string name="description_target_unlock">Unlock</string>
-    <string name="description_target_camera">Camera</string>
-    <string name="description_target_silent">Silent</string>
+    <string name="description_target_unlock">Отключи</string>
+    <string name="description_target_camera">Камера</string>
+    <string name="description_target_silent">Безшумен</string>
     <string name="description_target_soundon">Sound on</string>
     <string name="description_direction_down">Slide down for %s.</string>
     <string name="description_direction_right">Slide right for %s.</string>
