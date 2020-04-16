@@ -108,7 +108,7 @@
     <string name="rope_skip_group_freq">Frequency</string>
     <string name="rope_skip_reset_tips">Has rested</string>
     <string name="rope_skip_tips">Group %1$s</string>
-    <string name="rope_skip_tips1">The</string>
+    <string name="rope_skip_tips1">В</string>
     <string name="rope_skip_tips2">set has been completed</string>
     <string name="rope_skip_avg_heartrate">Avg. heart rate</string>
     <string name="rope_skip_group_calories">Калории</string>
@@ -135,7 +135,7 @@
     <string name="locale_title">Language</string>
     <string name="ring_turn_off">Turn off</string>
     <string name="ring_hint_turn_off">Изкл</string>
-    <string name="alarm_bee">Bee</string>
+    <string name="alarm_bee">Пчела</string>
     <string name="alarm_bee_bee">Bee-bee</string>
     <string name="alarm_buzzer">Зумер</string>
     <string name="alarm_orbit">Orbit</string>
@@ -314,9 +314,9 @@
     <string name="report_bug_dialog_desc">If there is a data error or the watch works abnormally, you can upload the data through the feedback feature to our server for analysis. During this process, the previously generated logs on the watch will be automatically collected and uploaded. These logs are used only for problem analysis, and will be destroyed immediately after that. During the entire process we will comply with our Privacy Policy, view details of the policy on the Amazfit app.</string>
     <string name="dialog_agree">Съгласявам се</string>
     <string name="dialog_quit">Изход</string>
-    <string name="nothing">Empty</string>
-    <string name="about_title">About</string>
-    <string name="model">Model</string>
+    <string name="nothing">Празен</string>
+    <string name="about_title">Относно</string>
+    <string name="model">Модел</string>
     <string name="dev_name">Име</string>
     <string name="dev_desc">Amazfit Sports Watch</string>
     <string name="ard_version">Android version</string>
@@ -376,7 +376,7 @@ Disconnect?"</string>
 Свързване?"</string>
     <string name="blt_hint_connect_fail">Connection failed, please re-connect</string>
     <string name="blt_type_ear">Headset</string>
-    <string name="blt_speaker">Audio</string>
+    <string name="blt_speaker">Аудио</string>
     <string name="blt_car_system">Vehicle-mounted</string>
     <string name="blt_type_mabiao">MW</string>
     <string name="blt_not_support">[Only test]</string>
@@ -423,8 +423,8 @@ and is nearby"</string>
     <string name="blt_headset_selected">Selected</string>
     <string name="blt_headset_set_ear_closed">Disabled</string>
     <string name="blt_headset_first_setting_tips_title">Whether to set PowerBuds</string>
-    <string name="blt_headset_first_setting_tips_positive">Now</string>
-    <string name="blt_headset_first_setting_tips_negitive">Later</string>
+    <string name="blt_headset_first_setting_tips_positive">Сега</string>
+    <string name="blt_headset_first_setting_tips_negitive">По-късно</string>
     <string name="battery_offline">Offline</string>
     <string name="blt_headset_set_knock_fail">Инсталацията не бе успешна, моля излезте и се свържете отново.</string>
     <string name="phone_finding">Locating phone...</string>
@@ -465,7 +465,7 @@ kg"</string>
 all data in the watch will be deleted, and the watch will be disconnected from your mobile."</string>
     <string name="reset_factory_hint_cn">"Once the watch is reset to factory default settings, all data in the watch will be deleted, and the watch will be disconnected from your mobile. 
  The current activated transportation card can still be used after the watch is bound with your mobile again."</string>
-    <string name="reset_factory_yes">Reset</string>
+    <string name="reset_factory_yes">Нулирай</string>
     <string name="reset_factory_no">Отказ</string>
     <string name="reset_factory_title">Factory Reset</string>
     <string name="reset_factory_noconnect_msg">"If Needing to Unbind the Watch, Please Operate Through Amazfit App. 
@@ -499,7 +499,7 @@ all data in the watch will be deleted, and the watch will be disconnected from y
     <string name="lockpassword_choose_your_pattern_header">Select Your Pattern</string>
     <string name="lockpattern_recording_inprogress"></string>
     <string name="cancel">Отказ</string>
-    <string name="lockpattern_retry_button_text">Retry</string>
+    <string name="lockpattern_retry_button_text">Опитай пак</string>
     <string name="lockpattern_continue_button_text">Continue</string>
     <string name="lockpattern_confirm_button_text">Потвърди</string>
     <string name="lockpattern_recording_intro_header">Draw Unlocking Pattern</string>
@@ -545,7 +545,7 @@ all data in the watch will be deleted, and the watch will be disconnected from y
     <string name="sync_sport_data_before_reboot_dont_reboot">Не</string>
     <string name="sync_sport_data_before_reboot_reboot_now">Да</string>
     <string name="ultra_upgrade_desc">Updating Ultra mode resources. This will take about 4 to 5 minutes. Please try again later.</string>
-    <string name="ultra_updrade_enter">OK</string>
+    <string name="ultra_updrade_enter">ОК</string>
     <string name="unit_metric">Метрична</string>
     <string name="unit_english">Imperial</string>
     <string name="strong">Силна</string>
@@ -571,7 +571,7 @@ all data in the watch will be deleted, and the watch will be disconnected from y
     <string name="setting_regulatory_us">U.S.</string>
     <string name="setting_regulatory_canda">Канада </string>
     <string name="setting_regulatory_russia">Русия</string>
-    <string name="setting_regulatory_japan">Japan</string>
+    <string name="setting_regulatory_japan">Япония</string>
     <string name="setting_regulatory_ukraine">Ukraine</string>
     <string name="setting_regulation_desc_us">FCC ID:2AC8UA1811</string>
     <string name="setting_regulation_desc_canda">"IC:21806-A1811 
@@ -588,5 +588,5 @@ all data in the watch will be deleted, and the watch will be disconnected from y
  to protect your data more securely"</string>
     <string name="upgrade_checking">Checking for update...</string>
     <string name="left_hand">Лява</string>
-    <string name="right_hand">Right</string>
+    <string name="right_hand">Дясна</string>
 </resources>
