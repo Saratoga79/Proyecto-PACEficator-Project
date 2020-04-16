@@ -292,7 +292,7 @@ start now."</string>
     <string name="sport_dlg_msg_hint_cancel">"Отказ на този експорт?
  "</string>
     <string name="exchange_prepare_riding">Next: Cycling</string>
-    <string name="exchange_prepare_running">Next: Run</string>
+    <string name="exchange_prepare_running">Следва: Бягане</string>
     <string name="count_down_swim_tint">To prevent accidental touch, screen will be locked.</string>
     <string name="sport_widget_title_history_record">Активности</string>
     <string name="sport_widget_title_elliptical">Elliptical</string>
@@ -300,7 +300,7 @@ start now."</string>
     <string name="sport_widget_title_rowing_machineing">Rowing</string>
     <string name="sport_widget_title_indoor_swim">Pool swim</string>
     <string name="sport_widget_title_open_water_swim">Open water</string>
-    <string name="sport_widget_title_triathlon">Triathlon</string>
+    <string name="sport_widget_title_triathlon">Триатлон</string>
     <string name="sport_widget_title_mountaineer">Climb</string>
     <string name="sport_widget_title_mountaineering">Climb…</string>
     <string name="sport_widget_title_tennis">Tennis</string>
@@ -709,7 +709,7 @@ to reach full recovery."</string>
     <string name="real_time_guide_title_14">Keep the pace</string>
     <string name="real_time_guide_title_22">Keep the pace</string>
     <string name="real_time_guide_title_25">Ускоряване</string>
-    <string name="real_time_guide_title_26">Speed up</string>
+    <string name="real_time_guide_title_26">Ускоряване</string>
     <string name="real_time_guide_title_27">Reached your goal</string>
     <string name="real_time_guide_title_28">Много добър</string>
     <string name="real_time_guide_title_30">Много добър</string>
@@ -718,7 +718,7 @@ to reach full recovery."</string>
     <string name="real_time_guide_title_33">Slow down</string>
     <string name="real_time_guide_title_34">Slow down</string>
     <string name="real_time_guide_title_35">Slow down</string>
-    <string name="real_time_guide_desc_1">Good job</string>
+    <string name="real_time_guide_desc_1">Добра работа</string>
     <string name="real_time_guide_desc_2">Running for %1$s more minutes to keep you fit.</string>
     <string name="real_time_guide_desc_3">Speed up, try your best</string>
     <string name="real_time_guide_desc_6">Running for %1$s more minutes will improve your fitness.</string>
@@ -780,7 +780,7 @@ to reach full recovery."</string>
     <string name="lap_this_group_avg_hr">Heart rate of this set</string>
     <string name="route_glevation_gain">Elev gain</string>
     <string name="route_scale_enlarge">Приближаване</string>
-    <string name="route_scale_narrow">Zoom out</string>
+    <string name="route_scale_narrow">Намаляване</string>
     <string name="route_cur_altitude_value">%1d m</string>
     <string name="route_climb_up_value">%1d m</string>
     <string name="route_cur_altitude_value_imperial">%1d ft</string>
@@ -805,7 +805,7 @@ to reach full recovery."</string>
     <string name="rt_swim_trips">Обиколки</string>
     <string name="swim_dps">DPS</string>
     <string name="skiing_downhill_num">Обиколки</string>
-    <string name="skiing_downhill_single_descend">Downhill</string>
+    <string name="skiing_downhill_single_descend">Спускане</string>
     <string name="skiing_downhill_max_speed">Max speed</string>
     <string name="skiing_downhill_elev_loss">Спускане</string>
     <string name="skiing_rt_downhill_desecnd">Total downhill</string>
@@ -895,7 +895,7 @@ to reach full recovery."</string>
     <string name="waiting_gps_gps_unavailable">Waiting for GPS signal</string>
     <string name="waiting_gps_gps_available">GPS available now</string>
     <string name="waiting_gps_gps_available_button_text">ОК</string>
-    <string name="waiting_gps_gps_unavailable_button_text">Continue</string>
+    <string name="waiting_gps_gps_unavailable_button_text">Продължи</string>
     <string name="no_gps_title">GPS unavailable</string>
     <string name="no_gps_content">"Couldn't record distance accurately. Try again outdoors."</string>
     <string name="no_gps_button_text">ОК</string>
@@ -918,7 +918,7 @@ to reach full recovery."</string>
     <string name="time_picker_hour">h</string>
     <string name="time_picker_minute"> m</string>
     <string name="distance_picker_km">km</string>
-    <string name="sport_notification_view_detail">Open app</string>
+    <string name="sport_notification_view_detail">Отвори приложение</string>
     <string name="sport_notification_stop">End the exercise</string>
     <string name="sport_notification_title">Спортове</string>
     <string name="sport_notification_content">%s km</string>
@@ -984,7 +984,7 @@ to reach full recovery."</string>
     <string name="wait_gps_success">GPS available, you can start workout now</string>
     <string name="lock_screen">Screen locked</string>
     <string name="txt_unlock_screen">Press and hold the screen to unlock</string>
-    <string name="sport_screen_un_lock">Unlocked</string>
+    <string name="sport_screen_un_lock">Отключен</string>
     <string name="lock_status_locked">Заключен</string>
     <string name="lock_status_unlock_ing">Unlocking…</string>
     <string name="lock_status_unlock_fail">"Couldn't unlock"</string>
@@ -1043,7 +1043,7 @@ to reach full recovery."</string>
     <string name="sport_type_indoor">Закрито</string>
     <string name="sport_type_snow">Snow</string>
     <string name="sport_type_outdoor">Навън</string>
-    <string name="sport_type_swim">Swimming</string>
+    <string name="sport_type_swim">Плуване</string>
     <string name="sport_type_dance">Танц</string>
     <string name="sport_type_bar">Топка</string>
     <string name="sport_type_other">Other</string>
@@ -1127,7 +1127,7 @@ to reach full recovery."</string>
     <string name="indoor_swimming">Pool swimming</string>
     <string name="outdoor_swimming">Open water</string>
     <string name="triathlon">Triathlon</string>
-    <string name="mountain">Climbing</string>
+    <string name="mountain">Катерене</string>
     <string name="riding">Cycling</string>
     <string name="swimming">Плуване</string>
     <string name="skiing">Каране на ски</string>
@@ -1178,18 +1178,18 @@ to reach full recovery."</string>
     <string name="dance">Танц</string>
     <string name="zun_ba">Зумба</string>
     <string name="cricket">Крикет</string>
-    <string name="baseball">Baseball</string>
+    <string name="baseball">Бейзбол</string>
     <string name="bowling">Боулинг</string>
     <string name="squash">Скуош</string>
     <string name="rugby">Ръгби</string>
     <string name="golf_swing">Голф</string>
     <string name="basketball">Basketball</string>
-    <string name="softball">Softball</string>
+    <string name="softball">Софтбол</string>
     <string name="gate_ball">Gateball</string>
     <string name="volleyball">Volleyball</string>
     <string name="table_tennis">Ping pong</string>
     <string name="hockey">Хокей</string>
-    <string name="handball">Handball</string>
+    <string name="handball">Хандбал</string>
     <string name="badminton">Badminton</string>
     <string name="archery">Стрелба с лък</string>
     <string name="equestrian_sport">Equestrian</string>
@@ -1262,7 +1262,7 @@ to reach full recovery."</string>
     <string name="minute_clock">m</string>
     <string name="second">s</string>
     <string name="altitude">Надморска височина</string>
-    <string name="longitude_and_latitude">Lat/Long</string>
+    <string name="longitude_and_latitude">Ширина/Дължина</string>
     <string name="press_key_finish_train">Press BACK to finish</string>
     <string name="press_up_key_wake_up">Press the Up button to unlock</string>
     <string name="need_run_kilometer">Interval distance:</string>
