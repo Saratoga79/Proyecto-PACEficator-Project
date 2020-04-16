@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Pronađi telefon</string>
-    <string name="phone_finding">Tražim telefon...</string>
+    <string name="phone_finding">Traženje telefona...</string>
     <string name="phone_found">Telefon pronađen</string>
     <string name="phone_found_android_msg">Kliknite \"U redu\" u Amazfit aplikaciji da biste prekinuli zvonjenje.</string>
-    <string name="phone_found_ios_msg">Kliknite potvrdi u polju za promociju aplikacije Amazfit Watch da zaustavite zvonjenje</string>
+    <string name="phone_found_ios_msg">"Kliknite \"U redu\" 
+u Amazfit aplikaciji da 
+biste prekinuli zvonjenje."</string>
     <string name="phone_not_connected">Telefon nije povezan</string>
-    <string name="phone_not_found">Ne mogu pronaći, pokušajte ponovno</string>
+    <string name="phone_not_found">Telefon nije pronađen</string>
     <string name="title">Pronađi telefon</string>
     <string name="title_button">Započni pretragu</string>
-    <string name="picker_default_positive_text">Potvrdi</string>
+    <string name="picker_default_positive_text">U redu</string>
     <string name="picker_default_negative_text">Odustani</string>
-    <string name="phone_not_connect">Aplikacija Amazfit Watch nije povezana, ne mogu pronaći telefon</string>
+    <string name="phone_not_connect">Aplikacija Amazfit nije povezana, ne mogu pronaći telefon</string>
     <string name="ok">U redu</string>
     <string name="average_text">Prosj.</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
@@ -20,8 +22,8 @@
     <string name="no_altitude_hint">Podaci visine nisu otkriveni</string>
     <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">Postavke</string>
-    <string name="sport_music_settings">Sportska glazba</string>
-    <string name="widget_currentstep_title">Dnevni pregled</string>
+    <string name="sport_music_settings">Glazba</string>
+    <string name="widget_currentstep_title">Podaci</string>
     <string name="widget_currentstep_activities">Aktivnosti</string>
     <string name="widget_currentstep_sleep_hour">h</string>
     <string name="widget_currentstep_sleep_min">min</string>
