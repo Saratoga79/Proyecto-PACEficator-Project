@@ -148,13 +148,13 @@
         <item>60063.wfz</item>
     </string-array>
     <string-array name="quick_settings_status_week">
-        <item>Sunday</item>
-        <item>Monday</item>
-        <item>Tuesday</item>
-        <item>Wednesday</item>
-        <item>Thursday</item>
-        <item>Friday</item>
-        <item>Saturday</item>
+        <item>วันอาทิตย์</item>
+        <item>วันจันทร์</item>
+        <item>วันอังคาร</item>
+        <item>วันพุธ</item>
+        <item>วันพฤหัสบดี</item>
+        <item>วันศุกร์</item>
+        <item>วันเสาร์</item>
         <item>วันนี้</item>
     </string-array>
     <string-array name="quick_settings_status_principleTerm">
@@ -187,23 +187,23 @@
     </string-array>
     <string-array name="quick_settings_status_chineseTen">
         <item>The</item>
-        <item>10th of the lunar calenda</item>
-        <item>20th of the lunar calenda</item>
-        <item>30th of the lunar calenda</item>
+        <item>วันที่ 10 ของปฏิทินจันทรคติ</item>
+        <item>วันที่ 20 ของปฏิทินจันทรคติ</item>
+        <item>วันที่ 30 ของปฏิทินจันทรคติ</item>
     </string-array>
     <string-array name="quick_settings_status_chineseNumber">
-        <item>Lunar Jan</item>
-        <item>Lunar Feb</item>
-        <item>Lunar Mar</item>
-        <item>Lunar Apr</item>
-        <item>Lunar May</item>
-        <item>Lunar Jun</item>
-        <item>Lunar Jul</item>
-        <item>Lunar Aug</item>
-        <item>Lunar Sept</item>
-        <item>Lunar Oct</item>
-        <item>Lunar Nov</item>
-        <item>Lunar Dec</item>
+        <item>จันทรคติ ม.ค.</item>
+        <item>จันทรคติ ก.พ.</item>
+        <item>จันทรคติ มี.ค.</item>
+        <item>จันทรคติ เม.ย.</item>
+        <item>จันทรคติ พ.ค.</item>
+        <item>จันทรคติ มิ.ย.</item>
+        <item>จันทรคติ ก.ค.</item>
+        <item>จันทรคติ ส.ค.</item>
+        <item>จันทรคติ ก.ย.</item>
+        <item>จันทรคติ ต.ค.</item>
+        <item>จันทรคติ พ.ย.</item>
+        <item>จันทรคติ ธ.ค.</item>
     </string-array>
     <string-array name="jazzy_effects">
         <item>Standard</item>
@@ -220,62 +220,62 @@
         <item>Accordion</item>
     </string-array>
     <string-array name="weather_card_aqilevel">
-        <item>Excellent</item>
-        <item>Fine</item>
-        <item>Light pollution</item>
-        <item>Moderate pollution</item>
-        <item>Heavy pollution</item>
-        <item>Severe pollution</item>
+        <item>ยอดเยี่ยม</item>
+        <item>ดี</item>
+        <item>มลพิษเบาบาง</item>
+        <item>มลพิษปานกลาง</item>
+        <item>มลพิษมาก</item>
+        <item>มลพิษรุนแรง</item>
         <item></item>
     </string-array>
     <string-array name="weather_card_quality">
-        <item>Suitable for sports</item>
-        <item>Not suitable for sports</item>
+        <item>เหมาะสำหรับเล่นกีฬา</item>
+        <item>ไม่เหมาะกับการเล่นกีฬา</item>
         <item></item>
     </string-array>
     <string-array name="quick_settings_status_weather">
         <item>แจ่มใส</item>
-        <item>Cloudy</item>
-        <item>Overcast</item>
-        <item>showers</item>
-        <item>Thunder shower</item>
-        <item>Hail</item>
-        <item>Rain and snow mixed</item>
-        <item>Light rain</item>
-        <item>Moderate rain</item>
-        <item>Heavy rain</item>
-        <item>Rainstorm</item>
-        <item>Heavy rainstorm</item>
-        <item>Extraordinary rainstorm</item>
-        <item>Snow shower</item>
-        <item>Light snow</item>
-        <item>Moderate snow</item>
-        <item>Heavy snow</item>
-        <item>Blizzard</item>
-        <item>Fog</item>
-        <item>Freezing rain</item>
-        <item>Sandstorm</item>
-        <item>Small to moderate rain</item>
-        <item>Moderate to heavy rain</item>
-        <item>Heavy rain to rainstorm</item>
-        <item>Rainstorm to heavy rainstorm</item>
-        <item>Heavy to severe storm</item>
-        <item>Small to moderate snow</item>
-        <item>Moderate to heavy snow</item>
-        <item>Heavy snow to blizzard</item>
-        <item>Dust</item>
-        <item>Blowing sand</item>
-        <item>Strong sandstorm</item>
-        <item>Thick fog</item>
-        <item>Snow</item>
-        <item>Rain</item>
-        <item>Strong fog</item>
-        <item>Haze</item>
-        <item>Moderate haze</item>
-        <item>Heavy haze</item>
-        <item>Severe haze</item>
-        <item>Dense fog</item>
-        <item>Extremely dense fog</item>
+        <item>มีเมฆมาก</item>
+        <item>ฟ้าหลัว</item>
+        <item>ฝนปรอยๆ</item>
+        <item>ฝนตกฟ้าร้อง</item>
+        <item>ลูกเห็บ</item>
+        <item>มีฝนและหิมะ</item>
+        <item>ฝนเล็กน้อย</item>
+        <item>ฝนตกปานกลาง</item>
+        <item>ฝนตกหนัก</item>
+        <item>ฝนฟ้าคนอง</item>
+        <item>ฝนตกหนักมาก</item>
+        <item>พายุฝนรุนแรง</item>
+        <item>หิมะตกปรอย ๆ</item>
+        <item>หิมะตกเล็กน้อย</item>
+        <item>หิมะตกปานกลาง</item>
+        <item>หิมะตกหนัก</item>
+        <item>พายุหิมะ</item>
+        <item>หมอก</item>
+        <item>ลูกเห็บ</item>
+        <item>พายุทราย</item>
+        <item>ฝนตกเล็กน้อยถึงปานกลาง</item>
+        <item>ฝนตกปานกลางถึงหนัก</item>
+        <item>ฝนตกหนักถึงพายุฝน</item>
+        <item>พายุฝนถีงพายุฝนหนักมาก</item>
+        <item>พายุฝนหนักมากถึงพายุฝนรุนแรง</item>
+        <item>หิมะตกเล็กน้อยถึงปานกลาง</item>
+        <item>หิมะตกปานกลางถึงหนัก</item>
+        <item>หิมะตกหนักถึงพายุหิมะ</item>
+        <item>ฝุ่น</item>
+        <item>ทรายปลิวฟุ้ง</item>
+        <item>พายุทรายหนัก</item>
+        <item>หมอกหนา</item>
+        <item>หิมะตก</item>
+        <item>ฝนตก</item>
+        <item>หมอกหนามาก</item>
+        <item>มีหมอกควัน</item>
+        <item>หมอกควันปานกลาง</item>
+        <item>หมอกควันหนาแน่นมาก</item>
+        <item>หมอกควันรุนแรง</item>
+        <item>หมอกหนาแน่น</item>
+        <item>หมอกหนาทึบมาก</item>
         <item>ไม่มีข้อมูล</item>
     </string-array>
 </resources>
