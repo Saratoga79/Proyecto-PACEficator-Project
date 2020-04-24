@@ -497,7 +497,7 @@ start now."</string>
     <string name="gps_settings">GPS interval</string>
     <string name="gps_data_interval">Data interval</string>
     <string name="gps_interval_time">%1$d secs</string>
-    <string name="group_rowing_freq">Frequency</string>
+    <string name="group_rowing_freq">Честота</string>
     <string name="group_rowing_count">Времена</string>
     <string name="group_rowing_avg_hr">Average heart rate</string>
     <string name="group_rowing_calorie">Calorie consumption</string>
@@ -741,11 +741,11 @@ to reach full recovery."</string>
     <string name="aleary_finish_group">Group %1$s</string>
     <string name="this_group_count">Брой</string>
     <string name="group_cost_time">Време</string>
-    <string name="group_frequency">Frequency</string>
+    <string name="group_frequency">Честота</string>
     <string name="aleary_rest">Has rested</string>
     <string name="next_group">Напред</string>
     <string name="rope_skip_times">%1$s jumps</string>
-    <string name="rope_skip_frequency">Frequency</string>
+    <string name="rope_skip_frequency">Честота</string>
     <string name="rope_skip_currnet_frequency">Текуща честота</string>
     <string name="rope_skip_max_frequency">Max frequency</string>
     <string name="rope_skip_total_count">Total count</string>
@@ -762,8 +762,8 @@ to reach full recovery."</string>
     <string name="settings_sport_arrive_goal_reminder">Reached goal reminder</string>
     <string name="alert_skip_you_finish">"You've finished."</string>
     <string name="finish_index_count">No.%1$s</string>
-    <string name="sport_widget_title_rope_skip">Jump rope</string>
-    <string name="rope_frequency_unit">jumps/min</string>
+    <string name="sport_widget_title_rope_skip">Скачане на въже</string>
+    <string name="rope_frequency_unit">скокове/мин</string>
     <string name="rope_total_count_remind_title">Completed count</string>
     <string name="rope_remind_test_time">2500</string>
     <string name="setting_rope_skip_total_count">Total count (jumps)</string>
@@ -806,7 +806,7 @@ to reach full recovery."</string>
     <string name="swim_dps">DPS</string>
     <string name="skiing_downhill_num">Обиколки</string>
     <string name="skiing_downhill_single_descend">Спускане</string>
-    <string name="skiing_downhill_max_speed">Max speed</string>
+    <string name="skiing_downhill_max_speed">Максимална скорост</string>
     <string name="skiing_downhill_elev_loss">Спускане</string>
     <string name="skiing_rt_downhill_desecnd">Total downhill</string>
     <string name="sport_tennis_strokes">Замахвания</string>
@@ -975,7 +975,7 @@ to reach full recovery."</string>
     <string name="remind_target_time_pace">Темпо</string>
     <string name="remind_target_time_pace_unit">/km</string>
     <string name="sport_in_progress_confirm">ОК</string>
-    <string name="sport_modify">Calibrate</string>
+    <string name="sport_modify">Калибрирай</string>
     <string name="sport_history_detail_heart_unit">Unit (h:m:s)</string>
     <string name="widget_sport_item_running_title">Старт</string>
     <string name="wait_gps_no_gps_signal">GPS is unavailable, try again in an open space</string>
@@ -999,7 +999,7 @@ to reach full recovery."</string>
     <string name="history_detail_running_cost_time">Running time</string>
     <string name="history_detail_walking_cost_time">Walking time</string>
     <string name="settings_sport_slpt_second_brush">Per second stats refresh</string>
-    <string name="settings_sport_music_Watercress">Sports FM</string>
+    <string name="settings_sport_music_Watercress">Спорт FM</string>
     <string name="settings_sport_music_play_settings">Music settings</string>
     <string name="settings_sport_lock_screen">Display info on the Lock screen</string>
     <string name="settings_sport_three_data">3 елемента</string>
@@ -1092,7 +1092,7 @@ to reach full recovery."</string>
     <string name="km_imperial_outdoor_speed_graph_title">Speed (mph)</string>
     <string name="km_imperial_settings_item_value_target_distance">%1$s mi</string>
     <string name="meter_imperial_settings_item_value_target_distance">%1$s ft</string>
-    <string name="swim_meter_remind_target_distance_title_format">Goal%1$dm</string>
+    <string name="swim_meter_remind_target_distance_title_format">Целта е на%1$dм</string>
     <string name="swim_yard_remind_target_distance_title_format">Goal%1$dyd</string>
     <string name="vo2_max_title">VO₂ max</string>
     <string name="vo2_max_level_very_good">Много добър</string>
@@ -1135,7 +1135,7 @@ to reach full recovery."</string>
     <string name="soccer">Футбол</string>
     <string name="golf">Голф</string>
     <string name="complex_sport">Multisport</string>
-    <string name="rope_skipping">Jump rope</string>
+    <string name="rope_skipping">Скачане на въже</string>
     <string name="on_foot">On foot</string>
     <string name="indoor_fitness">Indoor fitness</string>
     <string name="row_machine">Rowing machine</string>
@@ -1209,8 +1209,8 @@ to reach full recovery."</string>
     <string name="stroke_speed">Темпо на загребване</string>
     <string name="pace">Темпо</string>
     <string name="mileage">Разстояние</string>
-    <string name="rope_skip_freq">Frequency</string>
-    <string name="row_stroke_freq">Frequency</string>
+    <string name="rope_skip_freq">Честота</string>
+    <string name="row_stroke_freq">Честота</string>
     <string name="sport_has_paused">На пауза</string>
     <string name="sport_paused_time">На пауза</string>
     <string name="sport_distance">Разстояние</string>
@@ -1276,7 +1276,7 @@ to reach full recovery."</string>
     <string name="virtual_rabbit_back_time">Lag time</string>
     <string name="rope_skip_group_time">Време</string>
     <string name="rope_skip_group_count">Брой</string>
-    <string name="rope_skip_group_freq">Frequency</string>
+    <string name="rope_skip_group_freq">Честота</string>
     <string name="rope_skip_reset_tips">Has rested</string>
     <string name="rope_skip_tips">Group %1$s</string>
     <string name="rope_skip_tips1">В</string>
