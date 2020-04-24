@@ -101,15 +101,15 @@
     <string name="accessibility_wifi_two_bars">Wifi two bars.</string>
     <string name="accessibility_wifi_three_bars">Wifi three bars.</string>
     <string name="accessibility_wifi_signal_full">Wifi signal full.</string>
-    <string name="accessibility_wifi_name">Connected to %s.</string>
-    <string name="accessibility_bluetooth_name">Connected to %s.</string>
+    <string name="accessibility_wifi_name">Свързани сте към %s.</string>
+    <string name="accessibility_bluetooth_name">Свързани сте към %s.</string>
     <string name="accessibility_no_wimax">No WiMAX.</string>
     <string name="accessibility_wimax_one_bar">WiMAX one bar.</string>
     <string name="accessibility_wimax_two_bars">WiMAX two bars.</string>
     <string name="accessibility_wimax_three_bars">WiMAX three bars.</string>
     <string name="accessibility_wimax_signal_full">WiMAX signal full.</string>
     <string name="accessibility_no_signal">No signal.</string>
-    <string name="accessibility_not_connected">Not connected.</string>
+    <string name="accessibility_not_connected">Не сте свързани.</string>
     <string name="accessibility_zero_bars">Zero bars.</string>
     <string name="accessibility_one_bar">Един бар.</string>
     <string name="accessibility_two_bars">Two bars.</string>
@@ -117,7 +117,7 @@
     <string name="accessibility_signal_full">Signal full.</string>
     <string name="accessibility_desc_on">Вкл.</string>
     <string name="accessibility_desc_off">Изкл.</string>
-    <string name="accessibility_desc_connected">Connected.</string>
+    <string name="accessibility_desc_connected">Свързан.</string>
     <string name="accessibility_desc_connecting">Connecting.</string>
     <string name="accessibility_data_connection_gprs">GPRS</string>
     <string name="accessibility_data_connection_1x">1 X</string>
@@ -194,8 +194,8 @@
 
 Включването им може да доведе до такси от оператора ви."</string>
     <string name="data_usage_disabled_dialog_enable">Turn on data</string>
-    <string name="status_bar_settings_signal_meter_disconnected">No Internet connection</string>
-    <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi connected</string>
+    <string name="status_bar_settings_signal_meter_disconnected">Няма връзка с интернет</string>
+    <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi е свързан</string>
     <string name="gps_notification_searching_text">Searching for GPS</string>
     <string name="gps_notification_found_text">Location set by GPS</string>
     <string name="accessibility_location_active">Location requests active</string>
@@ -233,7 +233,7 @@
     <string name="quick_settings_user_title">Потребител</string>
     <string name="quick_settings_user_new_user">Нов потребител</string>
     <string name="quick_settings_wifi_label">Wi-Fi</string>
-    <string name="quick_settings_wifi_not_connected">Not Connected</string>
+    <string name="quick_settings_wifi_not_connected">Не сте свързани</string>
     <string name="quick_settings_wifi_no_network">No Network</string>
     <string name="quick_settings_wifi_off_label">Wi-Fi Off</string>
     <string name="quick_settings_wifi_detail_empty_text">No saved networks available</string>
@@ -248,7 +248,7 @@
     <string name="quick_settings_color_space_label">Color correction mode</string>
     <string name="quick_settings_more_settings">More settings</string>
     <string name="quick_settings_done">Готово</string>
-    <string name="quick_settings_connected">Connected</string>
+    <string name="quick_settings_connected">Свързан</string>
     <string name="quick_settings_connected_via_wfa">Connected via Wi‑Fi assistant</string>
     <string name="quick_settings_connecting">Connecting...</string>
     <string name="quick_settings_tethering_label">Tethering</string>
@@ -397,14 +397,14 @@
     <string name="keyguard_indication_trust_disabled">Device will stay locked until you manually unlock</string>
     <string name="hidden_notifications_title">Get notifications faster</string>
     <string name="hidden_notifications_text">See them before you unlock</string>
-    <string name="hidden_notifications_cancel">No thanks</string>
+    <string name="hidden_notifications_cancel">Не, благодаря</string>
     <string name="hidden_notifications_setup">Настройване</string>
     <string name="zen_mode_and_condition">%1$s. %2$s</string>
     <string name="screen_pinning_title">Screen is pinned</string>
     <string name="screen_pinning_description">This keeps it in view until you unpin. Touch and hold Back and Overview at the same time to unpin.</string>
     <string name="screen_pinning_description_accessible">This keeps it in view until you unpin. Touch and hold Overview to unpin.</string>
     <string name="screen_pinning_positive">Разбрах</string>
-    <string name="screen_pinning_negative">No thanks</string>
+    <string name="screen_pinning_negative">Не, благодаря</string>
     <string name="quick_settings_reset_confirmation_title">Hide %1$s?</string>
     <string name="quick_settings_reset_confirmation_message">It will reappear the next time you turn it on in settings.</string>
     <string name="quick_settings_reset_confirmation_button">Скрий</string>
