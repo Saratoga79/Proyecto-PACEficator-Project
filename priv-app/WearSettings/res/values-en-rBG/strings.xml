@@ -11,7 +11,7 @@
     <string name="eppitical">Elliptical</string>
     <string name="indoor_swimming">Pool swimming</string>
     <string name="outdoor_swimming">Open water</string>
-    <string name="triathlon">Triathlon</string>
+    <string name="triathlon">Триатлон</string>
     <string name="mountain">Катерене</string>
     <string name="riding">Колоездене</string>
     <string name="swimming">Плуване</string>
@@ -20,7 +20,7 @@
     <string name="soccer">Футбол</string>
     <string name="golf">Голф</string>
     <string name="complex_sport">Multisport</string>
-    <string name="rope_skipping">Jump rope</string>
+    <string name="rope_skipping">Скачане на въже</string>
     <string name="on_foot">Пеша</string>
     <string name="indoor_fitness">Indoor fitness</string>
     <string name="row_machine">Rowing machine</string>
@@ -51,7 +51,7 @@
     <string name="gps_singal_lost">"GPS signal isn't available"</string>
     <string name="gps_close_1">No movement for a long time,</string>
     <string name="gps_close_2">GPS has been turned off.</string>
-    <string name="heartrate">Heart rate</string>
+    <string name="heartrate">Пулс</string>
     <string name="warmup">Загряване</string>
     <string name="fatburn">Fat Burning</string>
     <string name="heartlung">Аеробика</string>
@@ -293,11 +293,11 @@
     <string name="gongkaiyou">Open Water</string>
     <string name="tuoyuanji">Elliptical</string>
     <string name="dengshan">Изкачване</string>
-    <string name="tierensan">Triathlon</string>
+    <string name="tierensan">Триатлон</string>
     <string name="multisport">Multisport</string>
     <string name="shineiqi">Indoor Cycling</string>
     <string name="yundongjilu">Активности</string>
-    <string name="celiangxinlv">Heartrate</string>
+    <string name="celiangxinlv">Пулс</string>
     <string name="shujuzhongxin">Обзор на деня</string>
     <string name="xiaoxizhongxin">Notification</string>
     <string name="zhifubao">Alipay</string>
@@ -340,7 +340,7 @@
     <string name="opened">Вкл</string>
     <string name="closed">Изкл</string>
     <string name="air_plane">Airplane Mode</string>
-    <string name="air_plane_mode_note">Airplane mode will turn off Bluetooth and Wi-Fi on the watch to save power. If you need to use features that require BT/WiFi, please turn off airplane mode in system Settings.</string>
+    <string name="air_plane_mode_note">Самолетния режим ще изключи Bluetooth и Wi-Fi на часовника, за да спести енергия. Ако трябва да използвате функции, които изискват BT/WiFi, моля, изключете режима на самолета в системните настройки.</string>
     <string name="yes">Да</string>
     <string name="no">Не</string>
     <string name="settings_long_sit_reminder">Move Alert</string>
@@ -365,10 +365,10 @@
     <string name="blue_tooth_dev_in_sub_list">Bluetooth</string>
     <string name="scanning_blt_devices">Searching...</string>
     <string name="blt_bound_stat_bonded">Свързано</string>
-    <string name="blt_bound_stat_connected">Connected</string>
+    <string name="blt_bound_stat_connected">Свързан</string>
     <string name="blt_bound_stat_disconnect">Прекъснат</string>
     <string name="blt_bound_stat_bonding">Pairing...</string>
-    <string name="blt_bound_stat_none">Available</string>
+    <string name="blt_bound_stat_none">Наличен</string>
     <string name="blt_default_name">Без име</string>
     <string name="blt_hint_disconnect">"%1s
 Disconnect?"</string>
@@ -393,7 +393,7 @@ Disconnect?"</string>
 and is nearby"</string>
     <string name="blt_hint_ignore_device">Игнорирай</string>
     <string name="blt_confirm_ignore">Are you sure you want to ignore this device?</string>
-    <string name="bluetooth_connected">Connected</string>
+    <string name="bluetooth_connected">Свързан</string>
     <string name="bluetooth_disconnected">Прекъснат</string>
     <string name="bluetooth_connecting_error_message">"Couldn't connect to %1$s."</string>
     <string name="bluetooth_pairing_pin_error_message">"Couldn't pair with %1$s because of an incorrect PIN or passkey."</string>
@@ -439,7 +439,7 @@ and is nearby"</string>
     <string name="lab_wifi_test_tip_open_wifi">Opening WIFI</string>
     <string name="light_off">Изкл</string>
     <string name="light_auto">Авто</string>
-    <string name="light_on">Always On</string>
+    <string name="light_on">Винаги включено</string>
     <string name="rise_no_bl_under_slpt">Unlocked Only</string>
     <string name="subtitle_of_raise_hand_no_bl">Auto when unlocked</string>
     <string name="rise_with_bl_under_slpt">Вкл</string>
@@ -512,7 +512,7 @@ all data in the watch will be deleted, and the watch will be disconnected from y
     <string name="lockpattern_cancel">Gesture Password</string>
     <string name="lockpattern_change">Change Password</string>
     <string name="lockpattern_change_state">Change Watch Status</string>
-    <string name="lockpattern_exist">Turned on</string>
+    <string name="lockpattern_exist">Включено</string>
     <string name="lockpattern_exist_no">Turned Off</string>
     <string name="unlock_disable_lock_pattern_summary">Delete Unlocking Pattern</string>
     <string name="unlock_disable_frp_warning_content">The Device Protection Function Will No Longer Function.</string>
@@ -528,7 +528,7 @@ all data in the watch will be deleted, and the watch will be disconnected from y
     <string name="lockpattern_change_none">There Is No Unlocking Pattern Currently</string>
     <string name="security_lockpattern">Gesture Password</string>
     <string name="lockpattern_need_confirm_guide">Please Draw the Current Pattern</string>
-    <string name="time_zone">Time Zone</string>
+    <string name="time_zone">Часова зона</string>
     <string name="date">Дата</string>
     <string name="time">Време</string>
     <string name="date_ymd">Date(Y/M/D)</string>
@@ -557,7 +557,7 @@ all data in the watch will be deleted, and the watch will be disconnected from y
     <string name="light_auto_set">Авто</string>
     <string name="light_auto_guide_title">Auto adjustment</string>
     <string name="light_auto_guide_content">After Auto adjustment is on, move slider to fine tune the brightness coefficient, then the screen brightness will still change with the ambient brightness.</string>
-    <string name="light_auto_guide_ok">I know it</string>
+    <string name="light_auto_guide_ok">Аз знам, че това е</string>
     <string name="watch_mode_title">Turn on watch mode</string>
     <string name="watch_mode_message">"When turned on, the watch will only support time display, step counting and transportation card payment. 
  (When you turn it on, press and hold the physical key to exit this mode)"</string>
@@ -577,7 +577,7 @@ all data in the watch will be deleted, and the watch will be disconnected from y
     <string name="setting_regulation_desc_canda">"IC:21806-A1811 
  ICAN ICE-3(B)/NMB-3(B)"</string>
     <string name="setting_regulation_model_name">Model : %1$s</string>
-    <string name="confirm_shutdown">Shutdown?</string>
+    <string name="confirm_shutdown">Изключване?</string>
     <string name="confirm_reboot">Рестарт?</string>
     <string name="app_name">Настройки</string>
     <string name="blt_hint_connect_device">Свързване</string>
@@ -586,7 +586,7 @@ all data in the watch will be deleted, and the watch will be disconnected from y
     <string name="unknown">Непознато устройство</string>
     <string name="bind_tips_title">"Please bind 
  to protect your data more securely"</string>
-    <string name="upgrade_checking">Checking for update...</string>
+    <string name="upgrade_checking">Проверка за актуализация...</string>
     <string name="left_hand">Лява</string>
     <string name="right_hand">Дясна</string>
 </resources>
