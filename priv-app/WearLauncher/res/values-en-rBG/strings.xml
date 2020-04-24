@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="new_message_down_fresh">Изчистване на списъка със съобщения</string>
-    <string name="sport_title">Exercise</string>
+    <string name="sport_title">Упражнение</string>
     <string name="data_check_log">" +------------------------+▂▃▄▅▆▇█▉  Weather data verification error!     %1$s▉█▇▆▅▄▃▂+------------------------+"</string>
     <string name="data_checkfail_json">JSON format error</string>
     <string name="generic_notification_more">More (%s)</string>
@@ -37,7 +37,7 @@
     <string name="quick_settings_switch_awake">Wake mode</string>
     <string name="quick_settings_switch_always">Always on</string>
     <string name="quick_settings_switch_on">Включи</string>
-    <string name="quick_settings_switch_off">Turn off</string>
+    <string name="quick_settings_switch_off">Изключи</string>
     <string name="quick_settings_toast_on">Вкл</string>
     <string name="quick_settings_toast_off">Изкл</string>
     <string name="quick_settings_status">Not connected</string>
@@ -54,7 +54,7 @@
     <string name="seconed_confirm_nodisturb">"DND mode is on.
 Can\'t receive notifications."</string>
     <string name="quick_settings_battery_charging_full">Fully charged</string>
-    <string name="quick_settings_battery_is_charging">Charging</string>
+    <string name="quick_settings_battery_is_charging">Зареждане</string>
     <string name="quick_settings_battery_hasnot_charged">No charging history</string>
     <string name="quick_settings_battery_charging_intervalDay">Last charged %1$dd %2$dh ago</string>
     <string name="quick_settings_battery_charging_intervalDay_lessHour">"Last charged
@@ -72,7 +72,7 @@ less than 1h ago"</string>
     <string name="header_incomming_call_name"></string>
     <string name="header_incomming_call_hint">Incoming call</string>
     <string name="header_incomming_call_mobilephone">Телефон</string>
-    <string name="header_incomming_call_landlinephone">Landline</string>
+    <string name="header_incomming_call_landlinephone">Стационарен телефон</string>
     <string name="header_incomming_call_searchinglocation">Attribution querying...</string>
     <string name="header_incomming_call_mobile_virtual">Mobile Virtual Carriers</string>
     <string name="header_incomming_call_unicom_virtual">Unicom Virtual Carriers</string>
@@ -91,7 +91,7 @@ less than 1h ago"</string>
     <string name="accept">Приемам</string>
     <string name="action_failure">"Couldn't complete this action."</string>
     <string name="action_success">Готово!</string>
-    <string name="action_working">Working…</string>
+    <string name="action_working">В процес на работа…</string>
     <string name="activity_not_found">An error occurred.</string>
     <string name="data_checkfail_match">Weather type field not matched</string>
     <string name="data_checkfail_temp">Weather temperature out of range</string>
@@ -103,7 +103,7 @@ less than 1h ago"</string>
     <string name="notification_block_message">Block notifications from this app</string>
     <string name="notification_block_ok">ОК</string>
     <string name="notification_more_settings">Additional settings</string>
-    <string name="notification_time_just">Just now</string>
+    <string name="notification_time_just">Току що</string>
     <string name="notification_time_yesterday">Вчера</string>
     <string name="notificaton_empty_message">No notifications</string>
     <string name="music_control">Music controls</string>
@@ -223,7 +223,7 @@ less than 1h ago"</string>
     <string name="indoor_swimming">Pool swimming</string>
     <string name="outdoor_swimming">Open water</string>
     <string name="triathlon">Triathlon</string>
-    <string name="mountain">Climbing</string>
+    <string name="mountain">Катерене</string>
     <string name="riding">Колоездене</string>
     <string name="swimming">Плуване</string>
     <string name="skiing">Каране на ски</string>
@@ -241,8 +241,8 @@ less than 1h ago"</string>
     <string name="stroke_speed">Темпо на загребване</string>
     <string name="pace">Темпо</string>
     <string name="mileage">Разстояние</string>
-    <string name="rope_skip_freq">Frequency</string>
-    <string name="row_stroke_freq">Frequency</string>
+    <string name="rope_skip_freq">Честота</string>
+    <string name="row_stroke_freq">Честота</string>
     <string name="sport_has_paused">На пауза</string>
     <string name="sport_paused_time">На пауза</string>
     <string name="sport_distance">Разстояние</string>
@@ -295,7 +295,7 @@ less than 1h ago"</string>
     <string name="minute_clock">m</string>
     <string name="second">s</string>
     <string name="altitude">Надморска височина</string>
-    <string name="longitude_and_latitude">Lat/Long</string>
+    <string name="longitude_and_latitude">Ширина/Дължина</string>
     <string name="press_key_finish_train">Press BACK to finish</string>
     <string name="press_up_key_wake_up">Press the Up button to unlock</string>
     <string name="need_run_kilometer">Interval distance:</string>
@@ -316,7 +316,7 @@ less than 1h ago"</string>
     <string name="oritation_north">N</string>
     <string name="rope_skip_group_time">Време</string>
     <string name="rope_skip_group_count">Брой</string>
-    <string name="rope_skip_group_freq">Frequency</string>
+    <string name="rope_skip_group_freq">Честота</string>
     <string name="rope_skip_reset_tips">Has rested</string>
     <string name="rope_skip_tips">Group %1$s</string>
     <string name="rope_skip_tips1">В</string>
@@ -326,7 +326,7 @@ less than 1h ago"</string>
     <string name="press_long_power_key_wake_up">Press a physical button to exit</string>
     <string name="sport_auto_pause_end">Сесията приключи, запис на данните?</string>
     <string name="sport_slpt_stop_next_group">Напред</string>
-    <string name="group_rowing_freq">Frequency</string>
+    <string name="group_rowing_freq">Честота</string>
     <string name="group_rowing_count">Времена</string>
     <string name="picker_default_positive_text">ОК</string>
     <string name="picker_default_nagetive_text">Изкл</string>
