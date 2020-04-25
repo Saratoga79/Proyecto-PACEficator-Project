@@ -155,7 +155,7 @@
         <item>Thursday</item>
         <item>Friday</item>
         <item>Saturday</item>
-        <item>Bugün</item>
+        <item>Сьогодні</item>
     </string-array>
     <string-array name="quick_settings_status_principleTerm">
         <item>Major Cold</item>
@@ -166,10 +166,10 @@
         <item>Summer Solstice</item>
         <item>Major Heat</item>
         <item>End of Heat</item>
-        <item>Autumn Equinox</item>
+        <item>Осіннє рівнодення</item>
         <item>"Frost's Descent"</item>
         <item>Minor Snow</item>
-        <item>Winter Solstice</item>
+        <item>Зимове сонцестояння</item>
     </string-array>
     <string-array name="quick_settings_status_sectionalTerm">
         <item>Minor Cold</item>
@@ -220,41 +220,41 @@
         <item>Accordion</item>
     </string-array>
     <string-array name="weather_card_aqilevel">
-        <item>Excellent</item>
-        <item>Fine</item>
-        <item>Light pollution</item>
-        <item>Moderate pollution</item>
-        <item>Heavy pollution</item>
-        <item>Severe pollution</item>
+        <item>Прекрасно</item>
+        <item>Добре</item>
+        <item>Слабкі опади</item>
+        <item>Помірне забруднення</item>
+        <item>Сильні опади</item>
+        <item>Сильні опади</item>
         <item></item>
     </string-array>
     <string-array name="weather_card_quality">
-        <item>Suitable for sports</item>
-        <item>Not suitable for sports</item>
+        <item>Спортивна погода</item>
+        <item>Не спортивна погода</item>
         <item></item>
     </string-array>
     <string-array name="quick_settings_status_weather">
-        <item>Clear</item>
-        <item>Cloudy</item>
-        <item>Overcast</item>
-        <item>showers</item>
+        <item>Ясно</item>
+        <item>Хмарно</item>
+        <item>Похмуро</item>
+        <item>злива</item>
         <item>Thunder shower</item>
-        <item>Hail</item>
-        <item>Rain and snow mixed</item>
-        <item>Light rain</item>
-        <item>Moderate rain</item>
-        <item>Heavy rain</item>
-        <item>Rainstorm</item>
-        <item>Heavy rainstorm</item>
+        <item>Град</item>
+        <item>Сніг з дощем</item>
+        <item>Слабкий дощ</item>
+        <item>Помірний дощ</item>
+        <item>Сильний дощ</item>
+        <item>Гроза</item>
+        <item>Сильна гроза</item>
         <item>Extraordinary rainstorm</item>
         <item>Snow shower</item>
-        <item>Light snow</item>
-        <item>Moderate snow</item>
-        <item>Heavy snow</item>
-        <item>Blizzard</item>
-        <item>Fog</item>
-        <item>Freezing rain</item>
-        <item>Sandstorm</item>
+        <item>Слабкий снігопад</item>
+        <item>Помірний снігопад</item>
+        <item>Сильний снігопад</item>
+        <item>Хуртовина</item>
+        <item>Туман</item>
+        <item>Крижаний дощ</item>
+        <item>Піщана буря</item>
         <item>Small to moderate rain</item>
         <item>Moderate to heavy rain</item>
         <item>Heavy rain to rainstorm</item>
@@ -263,19 +263,19 @@
         <item>Small to moderate snow</item>
         <item>Moderate to heavy snow</item>
         <item>Heavy snow to blizzard</item>
-        <item>Dust</item>
+        <item>Пил</item>
         <item>Blowing sand</item>
-        <item>Strong sandstorm</item>
+        <item>Сильна піщана буря</item>
         <item>Thick fog</item>
-        <item>Snow</item>
+        <item>Сніг</item>
         <item>Rain</item>
         <item>Strong fog</item>
-        <item>Haze</item>
+        <item>Мряка</item>
         <item>Moderate haze</item>
         <item>Heavy haze</item>
         <item>Severe haze</item>
         <item>Dense fog</item>
         <item>Extremely dense fog</item>
-        <item>Veri yok</item>
+        <item>Немає даних</item>
     </string-array>
 </resources>
