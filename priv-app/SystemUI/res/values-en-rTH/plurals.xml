@@ -4,17 +4,9 @@
         <item quantity="other">%d หน้าจอมุมมองภาพรวม</item>
     </plurals>
     <plurals name="kg_password_wrong_pin_code">
-        <item quantity="other">หนึ่ง
-รหัส SIM PIN ไม่ถูกต้อง,คุณเหลือโอกาสอีก %d ครั้งก่อนที่คุณจะต้องติดต่อผู้ให้บริการเพื่อปลดล็อคอุปกรณ์
-
-อื่นๆ
-รหัส SIM PIN ไม่ถูกต้อง,คุณเหลือโอกาสอีก %d ครั้งก่อนที่คุณจะต้องติดต่อผู้ให้บริการเพื่อปลดล็อคอุปกรณ์</item>
+        <item quantity="other">ไม่ถูกต้อง SIM รหัสพินนายต้อง %d เหลือพยายาม.</item>
     </plurals>
     <plurals name="kg_password_wrong_puk_code">
-        <item quantity="other">หนึ่ง
-รหัส SIM PUK ไม่ถูกต้อง,คุณเหลือโอกาสอีก %d ครั้งก่อนที่ SIM จะไม่สามารถใช้งานได้อย่างถาวร
-
-อื่นๆ
-รหัส SIM PUK ไม่ถูกต้อง,คุณเหลือโอกาสอีก %d ครั้งก่อนที่ SIM จะไม่สามารถใช้งานได้อย่างถาวร</item>
+        <item quantity="other">ไม่ถูกต้อง SIM PUK รหัสเธอมี %d เหลือพยายามก่อนที่ SIM กลายเป็นอย่างถาวรที่ไม่สามารถใช้ได้.</item>
     </plurals>
 </resources>
