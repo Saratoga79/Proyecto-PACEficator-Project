@@ -67,7 +67,7 @@
     <string name="accessibility_back">Назад</string>
     <string name="accessibility_home">Начало</string>
     <string name="accessibility_menu">Меню</string>
-    <string name="accessibility_recent">Overview</string>
+    <string name="accessibility_recent">Преглед</string>
     <string name="accessibility_search_light">Търсене</string>
     <string name="accessibility_camera_button">Камера</string>
     <string name="accessibility_phone_button">Телефон</string>
@@ -101,23 +101,23 @@
     <string name="accessibility_wifi_two_bars">Wifi two bars.</string>
     <string name="accessibility_wifi_three_bars">Wifi three bars.</string>
     <string name="accessibility_wifi_signal_full">Wifi signal full.</string>
-    <string name="accessibility_wifi_name">Connected to %s.</string>
-    <string name="accessibility_bluetooth_name">Connected to %s.</string>
+    <string name="accessibility_wifi_name">Свързани сте към %s.</string>
+    <string name="accessibility_bluetooth_name">Свързани сте към %s.</string>
     <string name="accessibility_no_wimax">No WiMAX.</string>
     <string name="accessibility_wimax_one_bar">WiMAX one bar.</string>
     <string name="accessibility_wimax_two_bars">WiMAX two bars.</string>
     <string name="accessibility_wimax_three_bars">WiMAX three bars.</string>
     <string name="accessibility_wimax_signal_full">WiMAX signal full.</string>
     <string name="accessibility_no_signal">No signal.</string>
-    <string name="accessibility_not_connected">Not connected.</string>
+    <string name="accessibility_not_connected">Не сте свързани.</string>
     <string name="accessibility_zero_bars">Zero bars.</string>
-    <string name="accessibility_one_bar">One bar.</string>
+    <string name="accessibility_one_bar">Един бар.</string>
     <string name="accessibility_two_bars">Two bars.</string>
     <string name="accessibility_three_bars">Three bars.</string>
     <string name="accessibility_signal_full">Signal full.</string>
     <string name="accessibility_desc_on">Вкл.</string>
     <string name="accessibility_desc_off">Изкл.</string>
-    <string name="accessibility_desc_connected">Connected.</string>
+    <string name="accessibility_desc_connected">Свързан.</string>
     <string name="accessibility_desc_connecting">Connecting.</string>
     <string name="accessibility_data_connection_gprs">GPRS</string>
     <string name="accessibility_data_connection_1x">1 X</string>
@@ -152,7 +152,7 @@
     <string name="accessibility_desc_lock_screen">Lock screen.</string>
     <string name="accessibility_desc_settings">Настройки</string>
     <string name="accessibility_desc_recent_apps">Overview.</string>
-    <string name="accessibility_quick_settings_user">User %s.</string>
+    <string name="accessibility_quick_settings_user">Потребител %s.</string>
     <string name="accessibility_quick_settings_wifi">%1$s.</string>
     <string name="accessibility_quick_settings_wifi_changed_off">Wifi turned off.</string>
     <string name="accessibility_quick_settings_wifi_changed_on">Wifi turned on.</string>
@@ -194,8 +194,8 @@
 
 Включването им може да доведе до такси от оператора ви."</string>
     <string name="data_usage_disabled_dialog_enable">Turn on data</string>
-    <string name="status_bar_settings_signal_meter_disconnected">No Internet connection</string>
-    <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi connected</string>
+    <string name="status_bar_settings_signal_meter_disconnected">Няма връзка с интернет</string>
+    <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi е свързан</string>
     <string name="gps_notification_searching_text">Searching for GPS</string>
     <string name="gps_notification_found_text">Location set by GPS</string>
     <string name="accessibility_location_active">Location requests active</string>
@@ -209,7 +209,7 @@
     <string name="accessibility_rotation_lock_on_landscape_changed">Screen is now locked in landscape orientation.</string>
     <string name="accessibility_rotation_lock_on_portrait_changed">Screen is now locked in portrait orientation.</string>
     <string name="dessert_case">Dessert Case</string>
-    <string name="start_dreams">Daydream</string>
+    <string name="start_dreams">Мечта</string>
     <string name="ethernet_label">Ethernet</string>
     <string name="quick_settings_airplane_mode_label">Самолетен режим</string>
     <string name="quick_settings_bluetooth_label">Bluetooth</string>
@@ -219,7 +219,7 @@
     <string name="quick_settings_brightness_label">Яркост</string>
     <string name="quick_settings_rotation_unlocked_label">Auto-rotate</string>
     <string name="quick_settings_rotation_locked_label">Rotation locked</string>
-    <string name="quick_settings_rotation_locked_portrait_label">Portrait</string>
+    <string name="quick_settings_rotation_locked_portrait_label">Портрет</string>
     <string name="quick_settings_rotation_locked_landscape_label">Landscape</string>
     <string name="quick_settings_ime_label">Input Method</string>
     <string name="quick_settings_location_label">Местоположение</string>
@@ -231,9 +231,9 @@
     <string name="quick_settings_time_label">Време</string>
     <string name="quick_settings_user_label">Аз</string>
     <string name="quick_settings_user_title">Потребител</string>
-    <string name="quick_settings_user_new_user">New user</string>
+    <string name="quick_settings_user_new_user">Нов потребител</string>
     <string name="quick_settings_wifi_label">Wi-Fi</string>
-    <string name="quick_settings_wifi_not_connected">Not Connected</string>
+    <string name="quick_settings_wifi_not_connected">Не сте свързани</string>
     <string name="quick_settings_wifi_no_network">No Network</string>
     <string name="quick_settings_wifi_off_label">Wi-Fi Off</string>
     <string name="quick_settings_wifi_detail_empty_text">No saved networks available</string>
@@ -248,7 +248,7 @@
     <string name="quick_settings_color_space_label">Color correction mode</string>
     <string name="quick_settings_more_settings">More settings</string>
     <string name="quick_settings_done">Готово</string>
-    <string name="quick_settings_connected">Connected</string>
+    <string name="quick_settings_connected">Свързан</string>
     <string name="quick_settings_connected_via_wfa">Connected via Wi‑Fi assistant</string>
     <string name="quick_settings_connecting">Connecting...</string>
     <string name="quick_settings_tethering_label">Tethering</string>
@@ -268,7 +268,7 @@
     <string name="recents_search_bar_label">търсене</string>
     <string name="recents_launch_error_message">Could not start %s.</string>
     <string name="expanded_header_battery_charged">Зареден</string>
-    <string name="expanded_header_battery_charging">Charging</string>
+    <string name="expanded_header_battery_charging">Зареждане</string>
     <string name="expanded_header_battery_charging_with_time">%s until full</string>
     <string name="expanded_header_battery_not_charging">Not charging</string>
     <string name="battery_meter_very_low_overlay_symbol">!</string>
@@ -290,14 +290,14 @@
     <string name="phone_hint">Swipe right for phone</string>
     <string name="camera_hint">Swipe left for camera</string>
     <string name="interruption_level_none">Няма</string>
-    <string name="interruption_level_priority">Priority</string>
+    <string name="interruption_level_priority">Приоритет</string>
     <string name="interruption_level_all">Всички</string>
     <string name="keyguard_indication_charging_time">Charging (%s until full)</string>
     <string name="accessibility_multi_user_switch_switcher">Switch user</string>
     <string name="accessibility_multi_user_switch_switcher_with_current">Switch user, current user %s</string>
     <string name="accessibility_multi_user_switch_quick_contact">Show profile</string>
-    <string name="user_add_user">Add user</string>
-    <string name="user_new_user_name">New user</string>
+    <string name="user_add_user">Добави потребител</string>
+    <string name="user_new_user_name">Нов потребител</string>
     <string name="guest_nickname">Гост</string>
     <string name="guest_new_guest">Add guest</string>
     <string name="guest_exit_guest">Remove guest</string>
@@ -397,14 +397,14 @@
     <string name="keyguard_indication_trust_disabled">Device will stay locked until you manually unlock</string>
     <string name="hidden_notifications_title">Get notifications faster</string>
     <string name="hidden_notifications_text">See them before you unlock</string>
-    <string name="hidden_notifications_cancel">No thanks</string>
+    <string name="hidden_notifications_cancel">Не, благодаря</string>
     <string name="hidden_notifications_setup">Настройване</string>
     <string name="zen_mode_and_condition">%1$s. %2$s</string>
     <string name="screen_pinning_title">Screen is pinned</string>
     <string name="screen_pinning_description">This keeps it in view until you unpin. Touch and hold Back and Overview at the same time to unpin.</string>
     <string name="screen_pinning_description_accessible">This keeps it in view until you unpin. Touch and hold Overview to unpin.</string>
     <string name="screen_pinning_positive">Разбрах</string>
-    <string name="screen_pinning_negative">No thanks</string>
+    <string name="screen_pinning_negative">Не, благодаря</string>
     <string name="quick_settings_reset_confirmation_title">Hide %1$s?</string>
     <string name="quick_settings_reset_confirmation_message">It will reappear the next time you turn it on in settings.</string>
     <string name="quick_settings_reset_confirmation_button">Скрий</string>
@@ -427,7 +427,7 @@
     <string name="keyguard_label_text">To unlock, press Menu then 0.</string>
     <string name="faceunlock_multiple_failures">Maximum Face Unlock attempts exceeded</string>
     <string name="keyguard_charged">Зареден</string>
-    <string name="keyguard_plugged_in">Charging</string>
+    <string name="keyguard_plugged_in">Зареждане</string>
     <string name="keyguard_low_battery">Connect your charger.</string>
     <string name="keyguard_instructions_when_pattern_disabled">Press Menu to unlock.</string>
     <string name="keyguard_network_locked_message">Network locked</string>
@@ -463,7 +463,7 @@
     <string name="keyguard_accessibility_password_unlock">Password unlock.</string>
     <string name="keyguard_accessibility_pattern_area">Pattern area.</string>
     <string name="keyguard_accessibility_slide_area">Slide area.</string>
-    <string name="keyguard_accessibility_pin_area">PIN area</string>
+    <string name="keyguard_accessibility_pin_area">Област PIN</string>
     <string name="keyguard_accessibility_sim_pin_area">SIM PIN area</string>
     <string name="keyguard_accessibility_sim_puk_area">SIM PUK area</string>
     <string name="keyguard_accessibility_transport_prev_description">Previous track button</string>
@@ -492,7 +492,7 @@
     <string name="description_target_unlock">Отключи</string>
     <string name="description_target_camera">Камера</string>
     <string name="description_target_silent">Безшумен</string>
-    <string name="description_target_soundon">Sound on</string>
+    <string name="description_target_soundon">Включи звука</string>
     <string name="description_direction_down">Slide down for %s.</string>
     <string name="description_direction_right">Slide right for %s.</string>
     <string name="user_switched">Current user %1$s.</string>
@@ -519,7 +519,7 @@
     <string name="kg_login_too_many_attempts">Too many pattern attempts</string>
     <string name="kg_login_instructions">To unlock, sign in with your Google account.</string>
     <string name="kg_login_username_hint">Username (email)</string>
-    <string name="kg_login_password_hint">Password</string>
+    <string name="kg_login_password_hint">Парола</string>
     <string name="kg_login_submit_button">Вписване</string>
     <string name="kg_login_invalid_input">Invalid username or password.</string>
     <string name="kg_login_account_recovery_hint">\"Забравили сте потребителското име или паролата си?
