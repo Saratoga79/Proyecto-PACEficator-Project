@@ -1,27 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">FindPhone</string>
-    <string name="phone_finding">Finding phone...</string>
+    <string name="phone_finding">Lokalisera telefonen...</string>
     <string name="phone_found">Phone found</string>
     <string name="phone_found_android_msg">Click \"OK\" in the AmazfitApp to end the ringing.</string>
-    <string name="phone_found_ios_msg">Click confirm in the promote box of Amazfit Watch App to stop the ring</string>
+    <string name="phone_found_ios_msg">"Klicka på \"OK\" i 
+Amazfit App snabb rutan 
+till slut ringer."</string>
     <string name="phone_not_connected">Phone not connected</string>
-    <string name="phone_not_found">Fail to find, please try again</string>
+    <string name="phone_not_found">Telefonen hittades inte</string>
     <string name="title">Find phone</string>
     <string name="title_button">Start searching</string>
-    <string name="picker_default_positive_text">Confirm</string>
+    <string name="picker_default_positive_text">OK</string>
     <string name="picker_default_negative_text">Avbryt</string>
-    <string name="phone_not_connect">Amazfit Watch App not connected, fail to find phone</string>
+    <string name="phone_not_connect">Inte är ansluten till Amazfit app, kan inte hitta telefonen.</string>
     <string name="ok">Confirm</string>
-    <string name="average_text">Avg</string>
+    <string name="average_text">Medel</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_nagetive_text">Av</string>
     <string name="no_heartrate_data_hint">Heart rate data not detected</string>
     <string name="no_altitude_hint">Altitude data not detected</string>
     <string name="ui_lib_name">Hm_UILib</string>
     <string name="title_settings">Inställningar</string>
-    <string name="sport_music_settings">Sports music</string>
-    <string name="widget_currentstep_title">Daily Overview</string>
+    <string name="sport_music_settings">Musik</string>
+    <string name="widget_currentstep_title">Data</string>
     <string name="widget_currentstep_activities">Activities</string>
     <string name="widget_currentstep_sleep_hour">t</string>
     <string name="widget_currentstep_sleep_min">min</string>
