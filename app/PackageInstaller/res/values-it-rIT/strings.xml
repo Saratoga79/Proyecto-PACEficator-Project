@@ -1,73 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Installazione pacchetti</string>
-    <string name="next">Successivo</string>
-    <string name="install">Installa</string>
-    <string name="done">Fatto</string>
-    <string name="security_settings_desc">Consenti a questa applicazione di:</string>
-    <string name="cancel">Annulla</string>
-    <string name="unknown">Sconosciuto</string>
-    <string name="installing">Installazione in corso...</string>
-    <string name="install_done">App installata.</string>
-    <string name="install_confirm_question">Vuoi installare questa applicazione? Avrà accesso a:</string>
-    <string name="install_confirm_question_no_perms">Vuoi installare questa applicazione? Non richiede permessi particolari.</string>
-    <string name="install_confirm_question_update">Vuoi installare un aggiornamento per questa applicazione? I dati esistenti non andranno persi. L\'applicazione aggiornata avrà accesso a:</string>
-    <string name="install_confirm_question_update_system">Vuoi installare un aggiornamento per questa applicazione integrata? I dati esistenti non andranno persi. L\'applicazione aggiornata avrà accesso a:</string>
-    <string name="install_confirm_question_update_no_perms">Vuoi installare questa applicazione? I dati esistenti non andranno persi. Non richiede permessi particolari.</string>
-    <string name="install_confirm_question_update_system_no_perms">Vuoi installare un aggiornamento per questa applicazione integrata? I dati esistenti non andranno persi. Non richiede permessi particolari.</string>
-    <string name="install_failed">App non installata.</string>
-    <string name="install_failed_invalid_apk">Il pacchetto potrebbe essere danneggiato.</string>
-    <string name="install_failed_inconsistent_certificates">Un pacchetto esistente con lo stesso nome con una firma in conflitto è già installato.</string>
-    <string name="install_failed_older_sdk">Il pacchetto funziona soltanto su versioni più recenti di Android.</string>
-    <string name="install_failed_cpu_abi_incompatible">"Questa applicazione non è compatibile con il tuo tablet."</string>
-    <string name="install_failed_file_not_found">Il pacchetto specificato è stato eliminato prima del completamento dell\'installazione.</string>
-    <string name="install_failed_verify_failed">Il pacchetto non ha superato la verifica e non può essere installato.</string>
-    <string name="install_failed_verify_timeout">Timeout durante la verifica di questo pacchetto. Riprova più tardi.</string>
-    <string name="install_failed_msg">"Impossibile installare %1$s sul dispositivo."</string>
-    <string name="launch">Apri</string>
-    <string name="unknown_apps_dlg_title">Installazione bloccata</string>
-    <string name="unknown_apps_dlg_text">Il tablet è impostato per bloccare l\'installazione di applicazioni ottenute da origini sconosciute.</string>
-    <string name="unknown_apps_admin_dlg_text">"L'amministratore non consente l'installazione di app ottenute da origini sconosciute."</string>
+    <string name="app_name">Pakket-installatie</string>
+    <string name="next">Volgende</string>
+    <string name="install">Installeer</string>
+    <string name="done">Klaar</string>
+    <string name="security_settings_desc">Toestaan dat deze app:</string>
+    <string name="cancel">Annuleer</string>
+    <string name="unknown">Nummer onbekend</string>
+    <string name="installing">Installeren...</string>
+    <string name="install_done">App geïnstalleerd.</string>
+    <string name="install_confirm_question">Deze app installeren? Het krijgt toegang tot:</string>
+    <string name="install_confirm_question_no_perms">App installeren? Verder geen speciale toegang nodig.</string>
+    <string name="install_confirm_question_update">Wil je een update van deze ingebouwde app installeren? Je huidige gegevens gaan niet verloren. De bijgewerkte app krijgt toegang tot:</string>
+    <string name="install_confirm_question_update_system">Wil je een update van deze ingebouwde app installeren? Je huidige gegevens gaan niet verloren. De bijgewerkte app krijgt toegang tot:</string>
+    <string name="install_confirm_question_update_no_perms">Wil je een update voor deze bestaande app installeren? Je huidige gegevens gaan niet verloren. Hiervoor is geen speciale toegang vereist.</string>
+    <string name="install_confirm_question_update_system_no_perms">Wilt u een update voor deze ingebouwde app installeren? Je huidige gegevens gaan niet verloren. Hiervoor is geen speciale toegang vereist.</string>
+    <string name="install_failed">App niet geïnstalleerd.</string>
+    <string name="install_failed_invalid_apk">Pakket lijkt beschadigd.</string>
+    <string name="install_failed_inconsistent_certificates">Een bestaand pakket met dezelfde naam en een conflicterende handtekening is al geïnstalleerd.</string>
+    <string name="install_failed_older_sdk">Dit pakket werkt alleen met nieuwe versies van Android.</string>
+    <string name="install_failed_cpu_abi_incompatible">"Deze app is niet compatibel met jouw toestel."</string>
+    <string name="install_failed_file_not_found">Het pakket is verwijderd voordat de installatie werd voltooid.</string>
+    <string name="install_failed_verify_failed">Verificatie van het pakket is niet voltooid. Het pakket kan niet worden geïnstalleerd.</string>
+    <string name="install_failed_verify_timeout">Tijdens het verifiëren van dit pakket is een time-out opgetreden. Installeer het pakket later.</string>
+    <string name="install_failed_msg">"%1$s kon niet worden geïnstalleerd."</string>
+    <string name="launch">Open</string>
+    <string name="unknown_apps_dlg_title">Installatie geblokkeerd</string>
+    <string name="unknown_apps_dlg_text">Voor de veiligheid wordt de installatie van apps uit onbekende bronnen geblokkeerd.</string>
+    <string name="unknown_apps_admin_dlg_text">"Beheerder staat de installatie van apps afkomstig van onbekende bronnen niet toe."</string>
     <string name="ok">OK</string>
-    <string name="settings">Impostazioni</string>
-    <string name="allow_source_dlg_title">Nuova sorgente per le app</string>
-    <string name="allow_source_dlg_text">"%1$s vuole installare altre app.
+    <string name="settings">Instellingen</string>
+    <string name="allow_source_dlg_title">Nieuwe bron voor apps</string>
+    <string name="allow_source_dlg_text">"%1$s wil andere apps installeren.
 
-Consenti ora e in futuro?"</string>
-    <string name="manage_applications">Gestisci applicazioni</string>
-    <string name="dlg_app_replacement_title">Sostituire l\'app?</string>
-    <string name="dlg_app_replacement_statement">"L\'app che stai installando sostituirà un\'altra app.
+Dit nu en in de toekomst toestaan?"</string>
+    <string name="manage_applications">Apps beheren</string>
+    <string name="dlg_app_replacement_title">App vervangen?</string>
+    <string name="dlg_app_replacement_statement">"De app die je installeert vervangt een andere app.
 
-Tutti i tuoi dati utente precedenti verranno salvati."</string>
-    <string name="dlg_sys_app_replacement_statement">"Questa è un\'app di sistema.
+Al je vorige gebruikersgegevens worden opgeslagen."</string>
+    <string name="dlg_sys_app_replacement_statement">"Dit is een systeem app.
 
-Tutti i tuoi dati utente precedenti verranno salvati."</string>
-    <string name="out_of_space_dlg_title">Spazio insufficiente</string>
-    <string name="out_of_space_dlg_text">"Impossibile installare %1$s. Libera dello spazio e riprova."</string>
+Al uw vorige gebruikersgegevens worden opgeslagen."</string>
+    <string name="out_of_space_dlg_title">Te weinig ruimte</string>
+    <string name="out_of_space_dlg_text">"%1$s kon niet worden geïnstalleerd. Maak ruimte vrij en probeer het opnieuw."</string>
     <string name="dlg_ok">OK</string>
-    <string name="app_not_found_dlg_title">App non trovata</string>
-    <string name="app_not_found_dlg_text">"Impossibile trovare l'applicazione nell'elenco di applicazioni installate."</string>
-    <string name="uninstall_application_title">Disinstalla app</string>
-    <string name="uninstall_update_title">Disinstalla aggiornamento</string>
-    <string name="uninstall_activity_text">%1$s fa parte della seguente app:</string>
-    <string name="uninstall_application_text">Vuoi disinstallare questa applicazione?</string>
-    <string name="uninstall_application_text_all_users">Vuoi disinstallare questa applicazione per <b>all</b> gli utenti? L\'applicazione e i relativi dati verranno rimossi da <b>all</b> gli utenti configurati sul dispositivo.</string>
-    <string name="uninstall_application_text_user">Vuoi disinstallare questa app per l\'utente %1$s?</string>
-    <string name="uninstall_update_text">Vuoi sostituire questa applicazione con la versione di fabbrica?</string>
-    <string name="uninstalling">Disinstallazione…</string>
-    <string name="uninstall_done">Disinstallazione completata.</string>
-    <string name="uninstall_failed">Disinstallazione fallita.</string>
-    <string name="uninstall_failed_device_policy_manager">"Impossibile disinstallare perché questo pacchetto è un amministratore dispositivo attivo."</string>
-    <string name="uninstall_blocked_profile_owner">"Questa app è necessaria per il tuo profilo %1$s e non può essere disinstallata."</string>
-    <string name="uninstall_blocked_device_owner">"Questa app è richiesta dall'amministratore del dispositivo e non può essere disinstallata."</string>
-    <string name="manage_device_administrators">Gestisci amministratori dispositivo</string>
-    <string name="uninstall_failed_msg">"Impossibile disinstallare %1$s."</string>
-    <string name="Parse_error_dlg_title">Errore di analisi</string>
-    <string name="Parse_error_dlg_text">Errore durante l\'analisi del pacchetto.</string>
-    <string name="newPerms">Nuovo</string>
-    <string name="allPerms">Tutti</string>
+    <string name="app_not_found_dlg_title">App niet gevonden</string>
+    <string name="app_not_found_dlg_text">"De app is niet gevonden in de lijst met geïnstalleerde apps."</string>
+    <string name="uninstall_application_title">App verwijderen</string>
+    <string name="uninstall_update_title">Update verwijderen</string>
+    <string name="uninstall_activity_text">%1$s maakt deel uit van de volgende app:</string>
+    <string name="uninstall_application_text">App verwijderen?</string>
+    <string name="uninstall_application_text_all_users">Wil je deze app verwijderen voor \"<b>\"alle\"</b>\" gebruikers? Deze app en de gegevens ervan worden verwijderd voor \"<b>\"alle\"</b>\" gebruikers van het apparaat.</string>
+    <string name="uninstall_application_text_user">Wilt u deze app verwijderen voor gebruiker %1$s?</string>
+    <string name="uninstall_update_text">App vervangen door de fabrieksversie?</string>
+    <string name="uninstalling">Verwijderen...</string>
+    <string name="uninstall_done">Verwijderen voltooid.</string>
+    <string name="uninstall_failed">Verwijderen mislukt.</string>
+    <string name="uninstall_failed_device_policy_manager">"Kan niet verwijderen omdat dit pakket een actieve apparaatbeheerder is."</string>
+    <string name="uninstall_blocked_profile_owner">"Deze app is vereist voor je %1$s profiel en kan niet worden verwijderd."</string>
+    <string name="uninstall_blocked_device_owner">"Deze app is vereist door je apparaatbeheerder en kan niet worden verwijderd."</string>
+    <string name="manage_device_administrators">Apparaatbeheerders beheren</string>
+    <string name="uninstall_failed_msg">"%1$s kon niet worden gedeïnstalleerd."</string>
+    <string name="Parse_error_dlg_title">Parseerfout</string>
+    <string name="Parse_error_dlg_text">Probleem opgetreden bij het parseren.</string>
+    <string name="newPerms">Nieuw</string>
+    <string name="allPerms">Alle</string>
     <string name="privacyPerms">Privacy</string>
-    <string name="devicePerms">Accesso al dispositivo</string>
-    <string name="no_new_perms">Questo aggiornamento non richiede nessun nuovo permesso.</string>
-    <string name="grant_confirm_question">Vuoi concedere i seguenti permessi? Avrà accesso a:</string>
+    <string name="devicePerms">Apparaattoegang</string>
+    <string name="no_new_perms">Deze update vereist geen nieuwe machtigingen.</string>
+    <string name="grant_confirm_question">Wilt u de volgende machtigingen verlenen? Hiermee kan toegang worden verkregen tot:</string>
 </resources>
