@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="weekdays">
-        <item>Εβδομάδα 1</item>
-        <item>Εβδομάδα 2</item>
-        <item>Εβδομάδα 3</item>
-        <item>Εβδομάδα 4</item>
-        <item>Εβδομάδα 5</item>
-        <item>Εβδομάδα 6</item>
-        <item>Εβδομάδα 7</item>
-        <item>Εβδομάδα 8</item>
+        <item>Woche 1</item>
+        <item>Woche 2</item>
+        <item>Woche 3</item>
+        <item>Woche 4</item>
+        <item>Woche 5</item>
+        <item>Woche 6</item>
+        <item>Woche 7</item>
+        <item>Woche 8</item>
     </string-array>
     <string-array name="simple_weekdays">
-        <item>Κυρ</item>
-        <item>Δευ</item>
-        <item>Τρί</item>
-        <item>Τετ</item>
-        <item>Thu</item>
-        <item>Παρ</item>
-        <item>Σαβ</item>
+        <item>Son</item>
+        <item>Mon</item>
+        <item>Die</item>
+        <item>Mit</item>
+        <item>Don</item>
+        <item>Fre</item>
+        <item>Sam</item>
     </string-array>
     <string-array name="train_finish_reason_strs">
-        <item>"Δεν είναι δυνατή η ρύθμιση όπως αναμένεται"</item>
-        <item>Ο χρόνος είναι πολύ μεγάλος για να παραμείνει</item>
-        <item>Κακή φυσική κατάσταση</item>
-        <item>Πολύ δύσκολο</item>
-        <item>Πολύ εύκολο</item>
-        <item>Το παιχνίδι ακυρώθηκε</item>
-        <item>"Δεν μου ταιριάζει"</item>
-        <item>Άλλο</item>
+        <item>"Kann nicht wie erwartet angepasst werden"</item>
+        <item>Die Zeit ist zu lang, um sie festzuhalten</item>
+        <item>Schlechte körperliche Verfassung</item>
+        <item>Zu schwer</item>
+        <item>Zu Einfach</item>
+        <item>Spiel abgebrochen</item>
+        <item>"Es passt nicht zu mir"</item>
+        <item>Andere</item>
     </string-array>
     <string-array name="spring_depend">
         <item>com.huami.watch.train/com.huami.watch.train.ui.activity.launch.TraintLauncherView</item>

@@ -2,14 +2,14 @@
 <resources>
     <plurals name="notification_time_day">
         <item quantity="other">%s ημέρες πριν</item>
-        <item quantity="one">%s day ago</item>
+        <item quantity="one">%s ημέρα πριν</item>
     </plurals>
     <plurals name="notification_time_hour">
-        <item quantity="other">%s hours ago</item>
+        <item quantity="other">%s ώρα πριν</item>
         <item quantity="one">%s ώρα πριν</item>
     </plurals>
     <plurals name="notification_time_minute">
-        <item quantity="other">%s minutes ago</item>
+        <item quantity="other">%s λεπτό πριν</item>
         <item quantity="one">%s λεπτό πριν</item>
     </plurals>
 </resources>
