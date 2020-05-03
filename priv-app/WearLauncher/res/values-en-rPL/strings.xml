@@ -4,7 +4,7 @@
     <string name="generic_notification_more">Więcej(%s)</string>
     <string name="notification_unread_num">Nieprzeczytane %s</string>
     <string name="notification_click_upgrade">Kliknij Instaluj</string>
-    <string name="notification_click_download">Kliknij tutaj, aby pobrać</string>
+    <string name="notification_click_download">Pobierz</string>
     <string name="notification_click_open">Kliknij tutaj, aby wyświetlić</string>
     <string name="delete_all_notifications">Usuń wszystkie powiadom.</string>
     <string name="delete_all_notifications_confrim_content">Po usunięciu zgłoszenie nie może być przywrócone, kontynuować?</string>
@@ -12,7 +12,7 @@
     <string name="notification_time_month">dd/MM HH:mm</string>
     <string name="notification_time_year">dd/MM/yyyy HH:mm</string>
     <string name="action_delete">Usuń</string>
-    <string name="action_shield">Ukryj powiadom.</string>
+    <string name="action_shield">Blokuj</string>
     <string name="notification_none">Brak powiadomień</string>
     <string name="notification_allclear">Wyczyść wszystko</string>
     <string name="notification_allclear_confirm">Skasowane powiadomienia nie będą już dostępne do późniejszego odczytu, kontynuować?</string>
@@ -26,7 +26,7 @@
     <string name="quick_settings_auto_light_mode">Podświetlenie: %1$s</string>
     <string name="quick_settings_more_settings">Więcej ustawień</string>
     <string name="quick_settings_switch_auto">Auto</string>
-    <string name="quick_settings_switch_awake">Gdy wybudz.</string>
+    <string name="quick_settings_switch_awake">Obudzić</string>
     <string name="quick_settings_switch_always">Zawsze wł.</string>
     <string name="quick_settings_switch_on">Wł.</string>
     <string name="quick_settings_switch_off">Wył.</string>
@@ -34,7 +34,7 @@
     <string name="quick_settings_toast_off">Wyłączony</string>
     <string name="quick_settings_status">Odłączony</string>
     <string name="quick_settings_no_disturb_toast">Powiadom.nie będą wyświetl.</string>
-    <string name="quick_settings_auto_light_toast">Podświetlanie ekranu, zwiększa zużycie energii</string>
+    <string name="quick_settings_auto_light_toast">Podświetlenie ekranu, zwiększa zużycie energii</string>
     <string name="quick_settings_status_month">-</string>
     <string name="quick_settings_status_day">  </string>
     <string name="quick_settings_connected">Połączony</string>
@@ -43,9 +43,9 @@
     <string name="quick_settings_date_chinese">dd-MM-yyyy</string>
     <string name="quick_settings_date_format">31-1-1900</string>
     <string name="quick_settings_date_yeareve">Sylwester</string>
-    <string name="seconed_confirm_nodisturb">"Tryb Cich.wł.
-Nowe powiad.nie będą pokazywane!"</string>
-    <string name="quick_settings_battery_charging_full">W pełni naład.</string>
+    <string name="seconed_confirm_nodisturb">"Tryb Cichy Wł.
+Nowe powiadomienia nie będą pokazywane!"</string>
+    <string name="quick_settings_battery_charging_full">Naładowana</string>
     <string name="quick_settings_battery_is_charging">Ładowanie...</string>
     <string name="quick_settings_battery_hasnot_charged">Nie zost.naładowany</string>
     <string name="quick_settings_battery_charging_intervalDay">%1$d dni %2$d godz.od naład.</string>

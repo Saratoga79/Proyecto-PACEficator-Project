@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Nfc Service</string>
+    <string name="app_name">Servizio Nfc</string>
     <string name="nfcUserLabel">Nfc</string>
     <string name="inbound_me_profile_title">Contact received over NFC</string>
-    <string name="inbound_me_profile_text">Touch to add this person as a contact.</string>
+    <string name="inbound_me_profile_text">Tocca per aggiungere questa persona come contatto.</string>
     <string name="outbound_me_profile_title">NFC interaction complete</string>
-    <string name="outbound_me_profile_text">Touch to give this person your contact info.</string>
+    <string name="outbound_me_profile_text">Toccare per dare a questa persona le tue informazioni di contatto.</string>
     <string name="accessibility_nfc_enabled">NFC enabled.</string>
     <string name="touch">Touch to beam</string>
     <string name="beam_progress">Incoming beam...</string>
@@ -14,7 +14,7 @@
     <string name="beam_failed">Beam did not complete</string>
     <string name="beam_canceled">Beam canceled</string>
     <string name="cancel">Annulla</string>
-    <string name="beam_touch_to_view">Touch to view</string>
+    <string name="beam_touch_to_view">Toccare per visualizzare</string>
     <string name="beam_handover_not_supported">"The receiver's device doesn't support large file transfer via beam."</string>
     <string name="beam_try_again">Bring devices together again</string>
     <string name="beam_busy">Beam is currently busy. Try again when the previous transfer completes.</string>

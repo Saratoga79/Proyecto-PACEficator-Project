@@ -120,12 +120,12 @@
     <string name="all_day_hearte_rate_button_open">เปิดใช้งาน HR อย่างต่อเนื่อง</string>
     <string name="all_day_hearte_rate_button_close">ปิดการใช้งานของ HR อย่างต่อเนื่อง</string>
     <string name="heart_rate_no_data">ไม่มีข้อมูล</string>
-    <string name="label_heart_rate_text">อัตราหัวใจเต้น</string>
+    <string name="label_heart_rate_text">อัตราการเต้นของหัวใจ</string>
     <string name="today_heart_rate_title_text">ราย​ละเอียด</string>
     <string name="today_heart_rate_ave_text">เฉลี่ย</string>
-    <string name="today_heart_rate_max_text">สูงสุด(bpm)</string>
-    <string name="today_heart_rate_min_text">ต่ำสุด(bpm)</string>
-    <string name="today_heart_rate_quite_text">พักผ่อน(bpm)</string>
+    <string name="today_heart_rate_max_text">สูงสุด(ครั้งต่อนาที)</string>
+    <string name="today_heart_rate_min_text">ต่ำสุด(ครั้งต่อนาที)</string>
+    <string name="today_heart_rate_quite_text">พักผ่อน(ครั้งต่อนาที)</string>
     <string name="today_heart_rate_value_def">--</string>
     <string name="label_all_day_heartrate">HR ต่อเนื่อง</string>
     <string name="label_all_day_heartrate_open">เปิดใช้งาน</string>
@@ -133,7 +133,7 @@
     <string name="label_all_day_heartrate_cancle">ยกเลิก</string>
     <string name="label_all_day_recently">ล่าสุด</string>
     <string name="label_all_day_quite">พักผ่อน</string>
-    <string name="label_heart_rate_bmps">bpm</string>
+    <string name="label_heart_rate_bmps">ครั้งต่อนาที</string>
     <string name="heart_rate_distribution">โซนอัตราการเต้นของหัวใจ</string>
     <string name="heart_rate_history">HR ที่ผ่านมาโดยเฉลี่ย</string>
     <string name="label_all_day_heartrate_waring">การเปิด HR อย่างต่อเนื่องใช้พลังงานแบตเตอรี่มากขึ้น ทำต่อ?</string>
@@ -183,7 +183,7 @@
     <string name="widget_step_target_month_tips"><liff>%d</liff> เดือน ผ่านไป</string>
     <string name="widget_step_target_year_tips"><liff>%d</liff> ปี ผ่านไป</string>
     <string name="widget_label_step_unit">ก้าว</string>
-    <string name="widget_label_heartrate">อัตราหัวใจเต้น</string>
+    <string name="widget_label_heartrate">อัตราการเต้นของหัวใจ</string>
     <string name="widget_label_heartrate_unit">beat/min</string>
     <string name="widget_heartrate_gauging">กำลังตรวจสอบ...</string>
     <string name="widget_heartrate_gauge_failure">กรุณาสวมนาฬิกาอย่างถูกต้องบนข้อมือของคุณเพื่อผลลัพธ์ที่แม่นยำ</string>
@@ -191,7 +191,7 @@
     <string name="widget_err_step_shown">ERR:(-1)</string>
     <string name="widget_heart_gauged_err">ไม่สามารถรับผลลัพธ์</string>
     <string name="widget_heart_gauged_err_tips">สวมนาฬิกาบนข้อมือ</string>
-    <string name="widget_weeklysports_heartrate_unit">bpm</string>
+    <string name="widget_weeklysports_heartrate_unit">ครั้งต่อนาที</string>
     <string name="widget_sleep_conment">การนอนหลับที่ยอดเยี่ยมในสัปดาห์นี้ รักษามันไว้!</string>
     <string name="weeklysports_title">กิจกรรมประจำสัปดาห์</string>
     <string name="weeklysports_totalnumber_front">รวมการออกกำลังกาย</string>
@@ -204,10 +204,10 @@
     <string name="weeklysports_totalmileage_unit_zh">km</string>
     <string name="weeklysports_totalmileage_unit_en">mi</string>
     <string name="weeklysports_averageheart">อัตราการเต้นหัวใจเฉลี่ย</string>
-    <string name="weeklysports_averageheart_unit">bpm</string>
+    <string name="weeklysports_averageheart_unit">ครั้งต่อนาที</string>
     <string name="weeklysports_runerrate">วิ่งเร็ว</string>
     <string name="weeklysports_outdoorrunrate">วิ่งกลางแจ้ง เฉลี่ยก้าว</string>
-    <string name="weeklysports_insiderunrate">วิ่งในร่ม เฉลี่ยก้าว</string>
+    <string name="weeklysports_insiderunrate">ก้าวเฉลี่ย วิ่งในร่ม</string>
     <string name="weeklysports_crossrunrate">เฉลี่ยอัตราการ วิ่งวิบาก</string>
     <string name="weeklysports_runerrate_unit_zh">/km</string>
     <string name="weeklysports_runerrate_unit_en">/mi</string>
@@ -258,7 +258,7 @@
     <string name="currentstep_detail_calories_unit">กิโลแคลอรี</string>
     <string name="currentstep_detail_sleep_hour">h</string>
     <string name="currentstep_detail_sleep_min">min</string>
-    <string name="currentstep_detail_heart_unit">bpm</string>
+    <string name="currentstep_detail_heart_unit">ครั้งต่อนาที</string>
     <string name="currentstep_detail_walk_ridding_rate_unit_zh">km/h</string>
     <string name="currentstep_detail_walk_ridding_rate_unit_en">mi/h</string>
     <string name="currentstep_detail_distance_unit_zh">km</string>
@@ -272,9 +272,9 @@
     <string name="currentstep_history_title">ประวัติ</string>
     <string name="step_value">%1$s / %2$s</string>
     <string name="detail_date">วันนี้ %1$s</string>
-    <string name="widget_weeklyreports_heart_rate_min_text">ต่ำสุด(bpm)</string>
-    <string name="widget_weeklyreports_heart_rate_max_text">สูงสุด(bpm)</string>
-    <string name="widget_weeklyreports_heart_rate_title">อัตราหัวใจเต้น</string>
+    <string name="widget_weeklyreports_heart_rate_min_text">ต่ำสุด(ครั้งต่อนาที)</string>
+    <string name="widget_weeklyreports_heart_rate_max_text">สูงสุด(ครั้งต่อนาที)</string>
+    <string name="widget_weeklyreports_heart_rate_title">อัตราการเต้นของหัวใจ</string>
     <string name="widget_weeklyreports_average_title">เฉลี่ยอัตราการเต้นหัวใจ</string>
     <string name="widget_weeklyreports_totalcalory_front">แคลอรีรวม</string>
     <string name="widget_weeklyreports_totalcalory_title">"แคลอรี
@@ -290,7 +290,7 @@
     <string name="widget_sleep_average_calories">ค่าเฉลี่ยรายวัน %1$s กิโลแคลลอรี</string>
     <string name="widget_sleep_totaltime">การนอนหลับรวม %1$s h %2$s min</string>
     <string name="widget_sleep_attained_unit">คะแนน</string>
-    <string name="currentstep_detail_heart">อัตราหัวใจเต้น</string>
+    <string name="currentstep_detail_heart">อัตราการเต้นของหัวใจ</string>
     <string name="currentstep_detail_activity_chart">กิจกรรม</string>
     <string name="currentstep_detail_activity_chart_unit">หน่วย: ชั่วโมง</string>
     <string name="date_format">dd/MM</string>

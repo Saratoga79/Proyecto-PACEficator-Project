@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="sharedUserLabel">Android Core Apps</string>
-    <string name="app_label">Contacts Storage</string>
-    <string name="provider_label">Contacts</string>
-    <string name="upgrade_msg">Upgrading contacts database.</string>
-    <string name="upgrade_out_of_memory_notification_ticker">Contacts upgrade needs more memory.</string>
-    <string name="upgrade_out_of_memory_notification_title">Upgrading storage for contacts</string>
-    <string name="upgrade_out_of_memory_notification_text">Touch to complete the upgrade.</string>
-    <string name="default_directory">Contacts</string>
+    <string name="sharedUserLabel">Applicazioni principali di Android</string>
+    <string name="app_label">Archiviazione contatti</string>
+    <string name="provider_label">Contatti</string>
+    <string name="upgrade_msg">Aggiornamento del database dei contatti.</string>
+    <string name="upgrade_out_of_memory_notification_ticker">L\'aggiornamento dei contatti richiede più memoria.</string>
+    <string name="upgrade_out_of_memory_notification_title">Aggiornamento dell\'archivio dei contatti</string>
+    <string name="upgrade_out_of_memory_notification_text">Tocca per completare l\'aggiornamento.</string>
+    <string name="default_directory">Contatti</string>
     <string name="local_invisible_directory">Altro</string>
-    <string name="voicemail_from_column">"Voicemail from "</string>
-    <string name="debug_dump_title">Copy contacts database</string>
-    <string name="debug_dump_database_message">You are about to 1) make a copy of your database which includes all contacts related information and all call log to the internal storage, and 2) email it. Remember to delete the copy as soon as you have successfully copied it off the device or the email is received.</string>
-    <string name="debug_dump_delete_button">Delete now</string>
+    <string name="voicemail_from_column">"Messaggio vocale da "</string>
+    <string name="debug_dump_title">Copia dati contatti</string>
+    <string name="debug_dump_database_message">Stai per 1) fare una copia dei dati che includono tutti i contatti e le relative informazioni, comprensivo del registro chiamate nella memoria interna e 2) invia via mail. Ricordarsi di eliminare la copia appena è stata eseguita correttamente dal dispositivo o viene ricevuta l\'e-mail.</string>
+    <string name="debug_dump_delete_button">Cancellare adesso</string>
     <string name="debug_dump_start_button">Avvia</string>
-    <string name="debug_dump_email_sender_picker">Choose a program to send your file</string>
-    <string name="debug_dump_email_subject">Contacts Db attached</string>
-    <string name="debug_dump_email_body">Attached is my contacts database with all my contacts information. Handle with care.</string>
+    <string name="debug_dump_email_sender_picker">Scegli un programma per inviare il file</string>
+    <string name="debug_dump_email_subject">Allegato contatti Db</string>
+    <string name="debug_dump_email_body">In allegato i miei contatti incluse tutte le informazioni. Trattare con cura.</string>
 </resources>
