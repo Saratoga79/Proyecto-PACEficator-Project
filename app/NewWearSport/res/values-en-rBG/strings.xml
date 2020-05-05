@@ -239,7 +239,7 @@ start now."</string>
     <string name="exchange_anim_title">Transition</string>
     <string name="sport_pause_swim_type">Swimming distance </string>
     <string name="sport_pause_swim_dis_unit">Разстояние</string>
-    <string name="sport_pause_normal_dis_type">Distance </string>
+    <string name="sport_pause_normal_dis_type">Разстояние</string>
     <string name="sport_pause_normal_dis_unit">Разстояние</string>
     <string name="sport_pause_normal_stroke_unit">Замахвания</string>
     <string name="sport_auto_lap_dis">Time for %1$s km</string>
@@ -269,7 +269,7 @@ start now."</string>
     <string name="sport_lap_swim_length_time_imperial">Time used for %1$s yd</string>
     <string name="sport_swim_style">Stroke type</string>
     <string name="sport_swim_style_main">Main stroke type</string>
-    <string name="swim_free_style">Freestyle</string>
+    <string name="swim_free_style">Свободен стил</string>
     <string name="swim_medlyrelay">Смесен</string>
     <string name="swim_breaststroke">Breaststroke</string>
     <string name="swim_backstroke">Backstroke</string>
@@ -277,7 +277,7 @@ start now."</string>
     <string name="swim_stroke_unit">SPM</string>
     <string name="settings_item_title_km_remind_triathlon">Distance alert</string>
     <string name="setting_sport_heart_region_remind_triathlon">Running heart rate alert</string>
-    <string name="device_conn_title">Stopwatch</string>
+    <string name="device_conn_title">Хронометър</string>
     <string name="heart_conn_title">Heart rate belt</string>
     <string name="earphone_conn_title">Headphones</string>
     <string name="device_in">Устройството е свързано</string>
@@ -523,7 +523,7 @@ start now."</string>
     <string name="gps_target_count_sub_content">Брой</string>
     <string name="shown_settings_sub_title">Дисплей</string>
     <string name="data_control_sub_title">Данни</string>
-    <string name="sport_remind_sub_title">Reminder</string>
+    <string name="sport_remind_sub_title">Напомняне</string>
     <string name="settings_sport_cadence_link_sub_title">Sport cadence setting</string>
     <string name="settings_sport_swim_length_sub_title">Sport swim length setting</string>
     <string name="battery_life_settings_sub_title">Battery life setting</string>
@@ -570,7 +570,7 @@ start now."</string>
     <string name="real_time_perpormance_level_very_fatigued">Уморен</string>
     <string name="sport_target_remind_head_title">Recommended</string>
     <string name="sport_run_train_title">Running training</string>
-    <string name="sport_target_remind_status_rest_or_light">Recovery</string>
+    <string name="sport_target_remind_status_rest_or_light">Възстановяване</string>
     <string name="sport_target_remind_status_maintaining">Maintaining</string>
     <string name="sport_target_remind_status_improving">Improving</string>
     <string name="sport_target_remind_status_count"></string>
@@ -613,12 +613,12 @@ to reach full recovery."</string>
     <string name="use_sport_route_remind">Does this activity use the %1$s route for navigation?</string>
     <string name="please_start_sport_from_route_start">In order to ensure the accuracy of route guidance, start the motion at the true geographic location of the track origin</string>
     <string name="please_become_bigger">Приближаване</string>
-    <string name="please_become_smaller">Zoom out</string>
+    <string name="please_become_smaller">Намаляване</string>
     <string name="current_altitude">Надморска височина</string>
     <string name="cumulative_climb">Elev gain</string>
     <string name="sport_route_out_of">Deviated route</string>
     <string name="sport_back_to_route">Back to the route</string>
-    <string name="gpx_currnet_is_selected">Selected</string>
+    <string name="gpx_currnet_is_selected">Избрани</string>
     <string name="gpx_select_closed">Затвори</string>
     <string name="gpx_select_empty"></string>
     <string name="gpx_details_view">Избери</string>
@@ -634,7 +634,7 @@ to reach full recovery."</string>
     <string name="indoor_run_progressing">Indoor running</string>
     <string name="run_train_title">Running training</string>
     <string name="run_train_recommend">Recommended</string>
-    <string name="run_train_intermittent">Interval</string>
+    <string name="run_train_intermittent">Интервал</string>
     <string name="run_train_intermittent_select_train">Избери</string>
     <string name="run_train_vo2max_test">VO2Max test</string>
     <string name="run_train_vo2max_test_tips">Wear watch for at least 10 minutes of outdoor running and generate heart rate value reaching %1$dbpm</string>
