@@ -900,10 +900,10 @@ to reach full recovery."</string>
     <string name="no_gps_content">"ไม่สามารถบันทึกระยะทางได้ถูกต้อง ลองอีกครั้งในที่โล่งแจ้ง"</string>
     <string name="no_gps_button_text">ตกลง</string>
     <string name="settings_item_title_km_remind">Lap alert</string>
-    <string name="settings_item_title_mi_remind">Lap alert</string>
+    <string name="settings_item_title_mi_remind">แจ้งเตือนรอบ</string>
     <string name="settings_item_title_km_voice_remind">การแจ้งเตือนด้วยเสียง</string>
-    <string name="settings_item_title_cal_burn_heartrate_remind">HR alert</string>
-    <string name="settings_item_title_safe_heartrate_remind">HR alert</string>
+    <string name="settings_item_title_cal_burn_heartrate_remind">แจ้งเตือนอัตราการเต้นของหัวใจ</string>
+    <string name="settings_item_title_safe_heartrate_remind">แจ้งเตือนอัตราการเต้นของหัวใจ</string>
     <string name="settings_item_title_auto_pause">หยุดชั่วคราว</string>
     <string name="settings_item_title_target_use_time_remind">เวลาเป้าหมาย</string>
     <string name="settings_item_title_target_distance_remind">เป้าหมายระยะทาง</string>
@@ -1060,8 +1060,8 @@ to reach full recovery."</string>
     <string name="remind_target_time_training_title_swim_format">Swimming: %1$d min</string>
     <string name="complete_training_target_tips">"Save this running to today's training program?"</string>
     <string name="complete_training_outdoor_riding_target_tips">"Save this cycling to today's training program?"</string>
-    <string name="complete_training_swim_target_tips">"Save this swimming to today's workout plan?"</string>
-    <string name="not_complete_train_task">"Today's training has not been completed, end the exercise?"</string>
+    <string name="complete_training_swim_target_tips">"บันทึกการว่ายน้ำนี้ไว้ในแผนการออกกำลังกายของวันนี้?"</string>
+    <string name="not_complete_train_task">"การฝึกวันนี้ยังไม่เสร็จสมบูรณ์ ยุติการออกกำลังกาย?"</string>
     <string name="km_metric">กม.</string>
     <string name="metre_metric">นาที</string>
     <string name="km_metric_pace_unit">/กม</string>
@@ -1096,9 +1096,9 @@ to reach full recovery."</string>
     <string name="swim_yard_remind_target_distance_title_format">Goal%1$dyd</string>
     <string name="vo2_max_title">VO₂ max</string>
     <string name="vo2_max_level_very_good">เยี่ยมยอด</string>
-    <string name="vo2_max_level_middle">Medium</string>
+    <string name="vo2_max_level_middle">ปานกลาง</string>
     <string name="vo2_max_text_nunber">50</string>
-    <string name="vo2_max_sport_unit">ml/kg/min</string>
+    <string name="vo2_max_sport_unit">มล./กก./นาที</string>
     <string name="export_gpx">ส่งออกไฟล์ GPX</string>
     <string name="btn_cancel">ยกเลิก</string>
     <string name="btn_confirm">ตกลง</string>
