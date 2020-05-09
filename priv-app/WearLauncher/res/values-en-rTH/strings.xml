@@ -56,13 +56,13 @@
     <string name="quick_settings_battery_charging_full">ชาร์จเต็มแล้ว</string>
     <string name="quick_settings_battery_is_charging">กำลังชาร์จ</string>
     <string name="quick_settings_battery_hasnot_charged">ไม่มีประวัติการชาร์จ</string>
-    <string name="quick_settings_battery_charging_intervalDay">Last charged %1$dd %2$dh ago</string>
-    <string name="quick_settings_battery_charging_intervalDay_lessHour">"Last charged
-%dd ago"</string>
-    <string name="quick_settings_battery_charging_intervalDayLess">"Last charged
-%dh ago"</string>
-    <string name="quick_settings_battery_charging_intervalLessHour">"Last charged
-less than 1h ago"</string>
+    <string name="quick_settings_battery_charging_intervalDay">การชาร์จครั้งที่แล้ว %1$dd %2$dh มาแล้ว</string>
+    <string name="quick_settings_battery_charging_intervalDay_lessHour">"การชาร์จครั้งที่แล้ว
+%dd มาแล้ว"</string>
+    <string name="quick_settings_battery_charging_intervalDayLess">"การชาร์จครั้งที่แล้ว
+%dh มาแล้ว"</string>
+    <string name="quick_settings_battery_charging_intervalLessHour">"การชาร์จครั้งที่แล้ว
+น้อยกว่า 1h มาแล้ว"</string>
     <string name="quick_settings_battery_sportString">คุณสามารถวิ่งต่อไปได้</string>
     <string name="quick_settings_battery_sporttime_hour_unit">ชม.</string>
     <string name="quick_settings_battery_sporttime_KM_unit">กม.</string>
@@ -74,12 +74,12 @@ less than 1h ago"</string>
     <string name="header_incomming_call_mobilephone">โทรศัพท์</string>
     <string name="header_incomming_call_landlinephone">โทรศัพท์บ้าน</string>
     <string name="header_incomming_call_searchinglocation">กำลังค้นหา</string>
-    <string name="header_incomming_call_mobile_virtual">Mobile Virtual Carriers</string>
-    <string name="header_incomming_call_unicom_virtual">Unicom Virtual Carriers</string>
-    <string name="header_incomming_call_telecom_virtual">Telecom Virtual Carriers</string>
-    <string name="header_incomming_call_other_virtual">Other Mobile Virtual Carriers</string>
-    <string name="header_incomming_call_service_hotline">Service hotline</string>
-    <string name="header_incomming_call_localcall">Local call</string>
+    <string name="header_incomming_call_mobile_virtual">ผู้ให้บริการมือถือเสมือน</string>
+    <string name="header_incomming_call_unicom_virtual">ผู้ให้บริการเสมือนของ Unicom</string>
+    <string name="header_incomming_call_telecom_virtual">ผู้ให้บริการเสมือนของ Telecom</string>
+    <string name="header_incomming_call_other_virtual">ผู้ให้บริการมือถือเสมือนรายอื่น</string>
+    <string name="header_incomming_call_service_hotline">บริการสายด่วน</string>
+    <string name="header_incomming_call_localcall">การโทรภายใน</string>
     <string name="header_incomming_call_unknowncall">สายที่ไม่รู้จัก</string>
     <string name="call_phone_off">ปฏิเสธ</string>
     <string name="call_sound_off">ทำให้เงียบ</string>
@@ -129,10 +129,10 @@ less than 1h ago"</string>
     <string name="notification_wechat_red_envelop_title">ข้อความ WeChat</string>
     <string name="notification_alipay_red_envelop_title">ข้อความ Alipay</string>
     <string name="notification_qq_red_envelop_title">ข้อความ QQ</string>
-    <string name="notification_red_envelop_content">%s message, open it on your phone to pick it up!</string>
-    <string name="notification_red_envelop_default_content">Quickly pick up your phone!</string>
-    <string name="notification_alipay_default_group">Group chat</string>
-    <string name="notification_ios_envelop_content">QQ message, open the phone to pick it up!</string>
+    <string name="notification_red_envelop_content">%s ข้อความ เปิดโทรศัพท์เพื่ออ่าน!</string>
+    <string name="notification_red_envelop_default_content">หยิบโทรศัพท์ของคุณโดยเร็ว!</string>
+    <string name="notification_alipay_default_group">สนทนากลุ่ม</string>
+    <string name="notification_ios_envelop_content">ข้อความ QQ เปิดโทรศัพท์เพื่ออ่าน!</string>
     <string name="notification_red_bracket">[%s]</string>
     <string name="notitification_wechat_red_content_pattern_one">^\\[\\d{1,3}.*?条\\]</string>
     <string name="notitification_wechat_red_content_pattern_two">: \\[WeChat message\\]</string>
