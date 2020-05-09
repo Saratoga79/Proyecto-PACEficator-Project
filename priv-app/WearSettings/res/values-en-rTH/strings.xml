@@ -358,15 +358,15 @@
     <string name="auto_nodisturb_end_time_string">Turn-off time</string>
     <string name="auto_screen_wristup_end_time_string">ถึง</string>
     <string name="time_to">ถึง</string>
-    <string name="wrist_up_hand">Wrist raise</string>
+    <string name="wrist_up_hand">ยกข้อมือขึ้น</string>
     <string name="wrist_up_hand_with_bl">Turn on backlight</string>
-    <string name="auto_wifi_trans_on_string">On</string>
+    <string name="auto_wifi_trans_on_string">เปิด</string>
     <string name="auto_wifi_trans_off_string">ปิด</string>
-    <string name="blue_tooth_dev_in_sub_list">Bluetooth</string>
-    <string name="scanning_blt_devices">Searching...</string>
-    <string name="blt_bound_stat_bonded">Paired</string>
-    <string name="blt_bound_stat_connected">Connected</string>
-    <string name="blt_bound_stat_disconnect">Disconnected</string>
+    <string name="blue_tooth_dev_in_sub_list">บลู​ทู​ธ</string>
+    <string name="scanning_blt_devices">กำลัง​ค้น​หา...</string>
+    <string name="blt_bound_stat_bonded">จับคู่</string>
+    <string name="blt_bound_stat_connected">เชื่อมต่อแล้ว</string>
+    <string name="blt_bound_stat_disconnect">ตัดการเชื่อมต่อแล้ว</string>
     <string name="blt_bound_stat_bonding">Pairing...</string>
     <string name="blt_bound_stat_none">Available</string>
     <string name="blt_default_name">Unnamed</string>
@@ -552,16 +552,17 @@ all data in the watch will be deleted, and the watch will be disconnected from y
     <string name="mid">Mid</string>
     <string name="weak">Weak</string>
     <string name="slient">ปิด</string>
-    <string name="volume_value">Volume</string>
-    <string name="light_value">Brightness</string>
-    <string name="light_auto_set">Auto</string>
-    <string name="light_auto_guide_title">Auto adjustment</string>
-    <string name="light_auto_guide_content">After Auto adjustment is on, move slider to fine tune the brightness coefficient, then the screen brightness will still change with the ambient brightness.</string>
-    <string name="light_auto_guide_ok">I know it</string>
-    <string name="watch_mode_title">Turn on watch mode</string>
+    <string name="volume_value">ระดับเสียง</string>
+    <string name="light_value">ความสว่าง</string>
+    <string name="light_auto_set">อัตโนมัติ</string>
+    <string name="light_auto_guide_title">การปรับอัตโนมัติ</string>
+    <string name="light_auto_guide_content">หลังจากเปิดใช้งานการปรับอัตโนมัติแล้ว ให้เลื่อนตัวเลื่อนเพื่อปรับค่าความสว่างอย่าง
+ละเอียด จากนั้นความสว่างหน้าจอจะยังคงเปลี่ยนไปตามความสว่างรอบข้าง</string>
+    <string name="light_auto_guide_ok">ฉันทราบแล้ว</string>
+    <string name="watch_mode_title">เปิดโหมดนาฬิกา</string>
     <string name="watch_mode_message">"When turned on, the watch will only support time display, step counting and transportation card payment. 
  (When you turn it on, press and hold the physical key to exit this mode)"</string>
-    <string name="watch_mode_positive">Confirm turned on</string>
+    <string name="watch_mode_positive">ยืนยันการเปิด</string>
     <string name="watch_mode_negative">ยกเลิก</string>
     <string name="replace_watchface">หน้าปัดนาฬิกา</string>
     <string name="screen_refresh">Lockscreen seconds hand</string>
@@ -570,9 +571,9 @@ all data in the watch will be deleted, and the watch will be disconnected from y
     <string name="setting_regulatory_europe">ยุโรป</string>
     <string name="setting_regulatory_us">สหรัฐอเมริกา</string>
     <string name="setting_regulatory_canda">แคนาดา</string>
-    <string name="setting_regulatory_russia">Russia</string>
-    <string name="setting_regulatory_japan">Japan</string>
-    <string name="setting_regulatory_ukraine">Ukraine</string>
+    <string name="setting_regulatory_russia">รัสเซีย</string>
+    <string name="setting_regulatory_japan">ประเทศญี่ปุ่น</string>
+    <string name="setting_regulatory_ukraine">ยูเครน</string>
     <string name="setting_regulation_desc_us">FCC ID:2AC8UA1811</string>
     <string name="setting_regulation_desc_canda">"IC:21806-A1811 
  ICAN ICE-3(B)/NMB-3(B)"</string>
@@ -583,7 +584,7 @@ all data in the watch will be deleted, and the watch will be disconnected from y
     <string name="blt_hint_connect_device">เชื่อมต่อ</string>
     <string name="blt_hint_disconnect_device">ตัดการเชื่อมต่อ</string>
     <string name="lab_desc">Collect part of the debugging tools</string>
-    <string name="unknown">Unknown device</string>
+    <string name="unknown">อุปกรณ์ที่ไม่รู้จัก</string>
     <string name="bind_tips_title">"Please bind 
  to protect your data more securely"</string>
     <string name="upgrade_checking">กำลังตรวจสอบการอัพเดท...</string>
