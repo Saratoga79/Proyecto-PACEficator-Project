@@ -288,27 +288,27 @@
     <string name="paobu">Futás</string>
     <string name="jianzou">Séta</string>
     <string name="yueye">Hegyi futás</string>
-    <string name="shineipao">Run Indoor</string>
-    <string name="huwaiqi">Cycling</string>
-    <string name="yongchiyou">Pool Swim</string>
-    <string name="gongkaiyou">Open Water</string>
-    <string name="tuoyuanji">Elliptical</string>
-    <string name="dengshan">Climb</string>
-    <string name="tierensan">Triathlon</string>
+    <string name="shineipao">Fedett futás</string>
+    <string name="huwaiqi">Kerékpározás</string>
+    <string name="yongchiyou">Uszoda</string>
+    <string name="gongkaiyou">Nyílt vízi</string>
+    <string name="tuoyuanji">Elliptikus gép</string>
+    <string name="dengshan">Mászás</string>
+    <string name="tierensan">Triatlon</string>
     <string name="multisport">Multisport</string>
-    <string name="shineiqi">Indoor Cycling</string>
+    <string name="shineiqi">Szobakerékpár</string>
     <string name="yundongjilu">Aktivitások</string>
-    <string name="celiangxinlv">Heartrate</string>
+    <string name="celiangxinlv">Pulzus</string>
     <string name="shujuzhongxin">Napi áttekintő</string>
-    <string name="xiaoxizhongxin">Notification</string>
+    <string name="xiaoxizhongxin">Értesítés</string>
     <string name="zhifubao">Alipay</string>
-    <string name="jishiqi">Timer</string>
+    <string name="jishiqi">Időzítő</string>
     <string name="mijia">Mi Home</string>
-    <string name="zhinanzhen">Compass</string>
+    <string name="zhinanzhen">Iránytű</string>
     <string name="yinyue">Zene</string>
-    <string name="music_status_long_time_no_play">"You haven\'t played music for a long time. 
- The system has been disconnected from the headsets 
- to reduce power consumption. You can:"</string>
+    <string name="music_status_long_time_no_play">"Régóta nem hallgattál zenét. 
+ A rendszer leválasztotta a fülhallgatót az energia- 
+ fogyasztás csökkentése miatt. Tudod:"</string>
     <string name="ble_connet_phone">Connect the headsets</string>
     <string name="ble_connet_cancel">Mégse</string>
     <string name="report_bug_dialog_title">Feedback</string>
@@ -372,30 +372,30 @@
     <string name="blt_bound_stat_none">Available</string>
     <string name="blt_default_name">Unnamed</string>
     <string name="blt_hint_disconnect">"%1s
-Disconnect?"</string>
+Leválasztod?"</string>
     <string name="blt_hint_connect">"%1s
 Csatlakozol?"</string>
-    <string name="blt_hint_connect_fail">Connection failed, please re-connect</string>
-    <string name="blt_type_ear">Headset</string>
-    <string name="blt_speaker">Audio</string>
-    <string name="blt_car_system">Vehicle-mounted</string>
+    <string name="blt_hint_connect_fail">Kapcsolódás sikertelen, próbáld újra</string>
+    <string name="blt_type_ear">Fejhallgató</string>
+    <string name="blt_speaker">Audió</string>
+    <string name="blt_car_system">Járműre szerelt</string>
     <string name="blt_type_mabiao">MW</string>
-    <string name="blt_not_support">[Only test]</string>
-    <string name="bluetooth_pair_tips">Pairing code</string>
+    <string name="blt_not_support">[Csak teszt]</string>
+    <string name="bluetooth_pair_tips">Párosítási kód</string>
     <string name="button_enter">OK</string>
     <string name="button_cancel">Mégse</string>
-    <string name="blt_cancel_paring">Paring canceled</string>
-    <string name="bluetooth_pairing_error_message">Pairing failed</string>
-    <string name="bluetooth_connecting">Connecting...</string>
-    <string name="bluetooth_disconnecting">Disconnecting...</string>
+    <string name="blt_cancel_paring">Párosítás megszakítva</string>
+    <string name="bluetooth_pairing_error_message">Párosítás sikertelen</string>
+    <string name="bluetooth_connecting">Csatlakozás…</string>
+    <string name="bluetooth_disconnecting">Leválasztás...</string>
     <string name="blt_hint_paring">"%1s
- to pair?"</string>
-    <string name="blt_paring_fail_hint">"Make sure device power on
-and is nearby"</string>
-    <string name="blt_hint_ignore_device">Ignore</string>
-    <string name="blt_confirm_ignore">Are you sure you want to ignore this device?</string>
-    <string name="bluetooth_connected">Connected</string>
-    <string name="bluetooth_disconnected">Disconnected</string>
+ párosítod?"</string>
+    <string name="blt_paring_fail_hint">"Az eszköz legyen bekapcsolva
+és a közelben"</string>
+    <string name="blt_hint_ignore_device">Ignorál</string>
+    <string name="blt_confirm_ignore">Figyelmen kívül hagyod ezt az eszközt?</string>
+    <string name="bluetooth_connected">Csatlakozva</string>
+    <string name="bluetooth_disconnected">Leválasztva</string>
     <string name="bluetooth_connecting_error_message">"Couldn't connect to %1$s."</string>
     <string name="bluetooth_pairing_pin_error_message">"Couldn't pair with %1$s because of an incorrect PIN or passkey."</string>
     <string name="bluetooth_pairing_device_down_error_message">"Can't communicate with %1$s."</string>
