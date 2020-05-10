@@ -2,32 +2,32 @@
 <resources>
     <string name="app_name">otawatch</string>
     <string name="action_settings">Beállítások</string>
-    <string name="watch_ota">Watch updates</string>
-    <string name="wifi_disconnect">Connect to the Amazfit app to check for updates</string>
-    <string name="connect_phone_wifi">"Check your phone's network connection to check for updates"</string>
-    <string name="connect_phone_input_wifi">Connect to the Amazfit app to enter Wi-Fi password for the watch</string>
-    <string name="wifi_add_item">Connect to the Amazfit app to add a new Wi-Fi hotspot</string>
-    <string name="add_wifi">Add Wi-Fi</string>
+    <string name="watch_ota">Óra frissítések</string>
+    <string name="wifi_disconnect">Csatlakozz az Amazfit apphoz a frissítésekért</string>
+    <string name="connect_phone_wifi">"Ellenőrizd a telefon hálózati kapcsolatát a frissítésekhez"</string>
+    <string name="connect_phone_input_wifi">Az Amazfit appban add meg az óra Wifi jelszavát</string>
+    <string name="wifi_add_item">Csatlakozz az Amazfit apphoz új Wifi hotspot felvételéhez</string>
+    <string name="add_wifi">Új Wifi</string>
     <string name="please_update_rom">"Rendszer frissítés érhető el, 
 kérjük frissíts"</string>
-    <string name="checking_rom">Checking for updates…</string>
-    <string name="checking_rom_failed">"Network connection timed out.
-Try again."</string>
-    <string name="current_is_new">Current version is up to date.</string>
-    <string name="has_new_rom">"An update is available.
-Update to version %1$s?"</string>
+    <string name="checking_rom">Frissítés keresése...</string>
+    <string name="checking_rom_failed">"Hálózati kapcsolat időtúllépés.
+Próbáld újra."</string>
+    <string name="current_is_new">Az aktuális verzió naprakész.</string>
+    <string name="has_new_rom">"Van elérhető frissítés.
+Frissítesz erre %1$s?"</string>
     <string name="has_new_rom_all">Fedezd fel az új verziót.
 A verziód régebbi, így a frissítési idő hosszabb lehet, lesz türelmed hozzá?</string>
-    <string name="input_passwor_on_mobile">"Enter Wi-Fi password
-in the Amazfit app"</string>
-    <string name="processbar_downloading_rom">Downloading…</string>
+    <string name="input_passwor_on_mobile">"Add meg a Wifi jelszót
+az Amazfit appban"</string>
+    <string name="processbar_downloading_rom">Letöltés…</string>
     <string name="please_keep_wifi_connect">"Ne csatlakozz le a Wifi-ről"</string>
     <string name="processbar_downloading_tips">%</string>
     <string name="processbar_downloading_default">0</string>
     <string name="download_rom_faild">"a frissítőcsomag letöltése nem sikerült,
  próbáld újra."</string>
-    <string name="download_rom_success">"Downloaded ROM successfully.
-Install now."</string>
+    <string name="download_rom_success">"A ROM letöltése sikerült.
+Most telepítsd."</string>
     <string name="low_battery_message">"Downloaded updates successfully.
 Battery must be at least %1$s%% charged to install updates."</string>
     <string name="low_battery_title">Connect charger</string>
