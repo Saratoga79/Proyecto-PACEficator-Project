@@ -2,17 +2,19 @@
 <resources>
     <string name="app_name">Huami lab</string>
     <string name="main_title">Huami lab</string>
-    <string name="agreement_title">PPG capturing</string>
-    <string name="orig_data_collect">Activity data collection</string>
+    <string name="agreement_title">PPG rögzítés</string>
+    <string name="orig_data_collect">Tevékenység adatgyűjtés</string>
     <string name="message">"A nyers PPG adatokat összegyűjtjük, amikor az órát viseled.
 Az adatokat csak kutatási célokra használjuk fel.
 Ez a funkció hátrányosan befolyásolja az energia felhasználást."</string>
-    <string name="allow">Allow</string>
-    <string name="exit">Exit</string>
-    <string name="message_everest">"We'll collect raw PPG data when you wear the watch. The data will only be used for research purposes. This feature will adversely impact the battery life."</string>
-    <string name="heart_rate_collection_on">On</string>
+    <string name="allow">Engedélyez</string>
+    <string name="exit">Kilép</string>
+    <string name="message_everest">"A nyers PPG adatokat összegyűjtjük, amikor az órát viseled.
+Az adatokat csak kutatási célokra használjuk fel.
+Ez a funkció hátrányosan befolyásolja az energia felhasználást."</string>
+    <string name="heart_rate_collection_on">Be</string>
     <string name="heart_rate_collection_off">Ki</string>
-    <string name="hbeacon_on">On</string>
+    <string name="hbeacon_on">Be</string>
     <string name="hbeacon_off">Ki</string>
     <string name="hbeacon_on_confirm_message">Tap to turn the HBeacon feature on, so the watch battery may be slightly reduced, and you may need to pair your phone with the watch again after it reboots.</string>
     <string name="hbeacon_off_confirm_message">Tap to turn off the HBeacon feature, and you may need to pair your phone with the watch again after it reboots.</string>
