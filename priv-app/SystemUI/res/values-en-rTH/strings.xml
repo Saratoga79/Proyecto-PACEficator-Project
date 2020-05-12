@@ -102,24 +102,24 @@
     <string name="accessibility_wifi_two_bars">Wifi สองขีด</string>
     <string name="accessibility_wifi_three_bars">Wifi สามขีด</string>
     <string name="accessibility_wifi_signal_full">สัญญาณ Wi-Fi ​เต็ม</string>
-    <string name="accessibility_wifi_name">Connected to %s.</string>
-    <string name="accessibility_bluetooth_name">Connected to %s.</string>
-    <string name="accessibility_no_wimax">No WiMAX.</string>
-    <string name="accessibility_wimax_one_bar">WiMAX one bar.</string>
-    <string name="accessibility_wimax_two_bars">WiMAX two bars.</string>
-    <string name="accessibility_wimax_three_bars">WiMAX three bars.</string>
-    <string name="accessibility_wimax_signal_full">WiMAX signal full.</string>
-    <string name="accessibility_no_signal">No signal.</string>
-    <string name="accessibility_not_connected">Not connected.</string>
-    <string name="accessibility_zero_bars">Zero bars.</string>
-    <string name="accessibility_one_bar">One bar.</string>
-    <string name="accessibility_two_bars">Two bars.</string>
-    <string name="accessibility_three_bars">Three bars.</string>
-    <string name="accessibility_signal_full">Signal full.</string>
-    <string name="accessibility_desc_on">On.</string>
+    <string name="accessibility_wifi_name">เชื่อมต่อกับ %s</string>
+    <string name="accessibility_bluetooth_name">เชื่อมต่อกับ %s</string>
+    <string name="accessibility_no_wimax">ไม่มีสัญญาณ WiMAX.</string>
+    <string name="accessibility_wimax_one_bar">WiMAX หนึ่งขีด</string>
+    <string name="accessibility_wimax_two_bars">WiMAX สองขีด</string>
+    <string name="accessibility_wimax_three_bars">WiMAX สามขีด</string>
+    <string name="accessibility_wimax_signal_full">สัญญาณ WiMAX เต็ม</string>
+    <string name="accessibility_no_signal">ไม่​มี​สัญญาณ</string>
+    <string name="accessibility_not_connected">ไม่เชื่อมต่อ.</string>
+    <string name="accessibility_zero_bars">ไม่มีสัญญาณ</string>
+    <string name="accessibility_one_bar">หนึ่งขีด</string>
+    <string name="accessibility_two_bars">สองขีด</string>
+    <string name="accessibility_three_bars">สามขีด</string>
+    <string name="accessibility_signal_full">สัญญาณเต็ม</string>
+    <string name="accessibility_desc_on">เปิด.</string>
     <string name="accessibility_desc_off">ปิด.</string>
-    <string name="accessibility_desc_connected">Connected.</string>
-    <string name="accessibility_desc_connecting">Connecting.</string>
+    <string name="accessibility_desc_connected">เชื่อมต่อแล้ว.</string>
+    <string name="accessibility_desc_connecting">กำลังเชื่อมต่อ.</string>
     <string name="accessibility_data_connection_gprs">GPRS</string>
     <string name="accessibility_data_connection_1x">1 X</string>
     <string name="accessibility_data_connection_hspa">HSPA</string>
@@ -128,21 +128,21 @@
     <string name="accessibility_data_connection_4g">4G</string>
     <string name="accessibility_data_connection_lte">LTE</string>
     <string name="accessibility_data_connection_cdma">CDMA</string>
-    <string name="accessibility_data_connection_roaming">Roaming</string>
+    <string name="accessibility_data_connection_roaming">โรมมิ่ง</string>
     <string name="accessibility_data_connection_edge">Edge</string>
     <string name="accessibility_data_connection_wifi">Wi-Fi</string>
     <string name="accessibility_no_sim">ไม่มีซิม</string>
     <string name="accessibility_bluetooth_tether">Bluetooth tethering.</string>
     <string name="accessibility_airplane_mode">โหมดเครื่องบิน</string>
     <string name="accessibility_battery_level">Battery %d percent.</string>
-    <string name="accessibility_settings_button">System settings.</string>
-    <string name="accessibility_notifications_button">Notifications.</string>
-    <string name="accessibility_remove_notification">Clear notification.</string>
-    <string name="accessibility_gps_enabled">GPS enabled.</string>
-    <string name="accessibility_gps_acquiring">GPS acquiring.</string>
-    <string name="accessibility_tty_enabled">TeleTypewriter enabled.</string>
+    <string name="accessibility_settings_button">การ​ตั้ง​ค่า​ระบบ</string>
+    <string name="accessibility_notifications_button">การแจ้งเตือน.</string>
+    <string name="accessibility_remove_notification">ลบ​การ​แจ้ง​เตือน​</string>
+    <string name="accessibility_gps_enabled">GPS ​เปิด</string>
+    <string name="accessibility_gps_acquiring">กำลัง​รับ GPS...</string>
+    <string name="accessibility_tty_enabled">เปิด​ใช้​งาน TeleTypewriter</string>
     <string name="accessibility_ringer_vibrate">Ringer vibrate.</string>
-    <string name="accessibility_ringer_silent">Ringer silent.</string>
+    <string name="accessibility_ringer_silent">ปิด​เสียง​เรียก​เข้า</string>
     <string name="accessibility_casting">@string/quick_settings_casting</string>
     <string name="accessibility_recents_item_will_be_dismissed">Dismiss %s.</string>
     <string name="accessibility_recents_item_dismissed">%s dismissed.</string>
@@ -471,12 +471,12 @@
     <string name="keyguard_accessibility_sim_puk_area">SIM PUK area</string>
     <string name="keyguard_accessibility_transport_prev_description">Previous track button</string>
     <string name="keyguard_accessibility_transport_next_description">Next track button</string>
-    <string name="keyguard_accessibility_transport_pause_description">Pause button</string>
-    <string name="keyguard_accessibility_transport_play_description">Play button</string>
-    <string name="keyguard_accessibility_transport_stop_description">Stop button</string>
-    <string name="keyguard_accessibility_transport_thumbs_up_description">Thumbs up</string>
-    <string name="keyguard_accessibility_transport_thumbs_down_description">Thumbs down</string>
-    <string name="keyguard_accessibility_transport_heart_description">Heart</string>
+    <string name="keyguard_accessibility_transport_pause_description">ปุ่มหยุดชั่วคราว</string>
+    <string name="keyguard_accessibility_transport_play_description">ปุ่มเล่น</string>
+    <string name="keyguard_accessibility_transport_stop_description">ปุ่มหยุด</string>
+    <string name="keyguard_accessibility_transport_thumbs_up_description">ยกนิ้วให้เลย</string>
+    <string name="keyguard_accessibility_transport_thumbs_down_description">แย่ๆ</string>
+    <string name="keyguard_accessibility_transport_heart_description">หัวใจ</string>
     <string name="keyguard_accessibility_show_bouncer">Unlock to continue</string>
     <string name="keyguard_accessibility_hide_bouncer">Launch canceled</string>
     <string name="keyguard_accessibility_delete_widget_start">Drop %1$s to delete.</string>
@@ -522,12 +522,12 @@
     <string name="kg_login_too_many_attempts">Too many pattern attempts</string>
     <string name="kg_login_instructions">To unlock, sign in with your Google account.</string>
     <string name="kg_login_username_hint">Username (email)</string>
-    <string name="kg_login_password_hint">Password</string>
-    <string name="kg_login_submit_button">Sign in</string>
-    <string name="kg_login_invalid_input">Invalid username or password.</string>
+    <string name="kg_login_password_hint">รหัสผ่าน</string>
+    <string name="kg_login_submit_button">ลงชื่อเข้าใช้</string>
+    <string name="kg_login_invalid_input">ชื่อผู้ใช้หรือรหัสผ่านไม่ถูกต้อง</string>
     <string name="kg_login_account_recovery_hint">\"\"Forgot your username or password?
 Visit \"<b>google.com/accounts/recovery</b>.\"</string>
-    <string name="kg_login_checking_password">Checking account…</string>
+    <string name="kg_login_checking_password">กำลังตรวจสอบบัญชี...</string>
     <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"คุณพิมพ์ PIN %d ครั้งไม่ถูกต้อง
 
 ลองอีกครั้งใน %d วินาที "</string>
@@ -546,12 +546,12 @@ Visit \"<b>google.com/accounts/recovery</b>.\"</string>
     <string name="kg_failed_attempts_almost_at_login" formatted="false">"คุณวาดรูปแบบการปลดล็อกผิดพลาด %d ครั้งหลังจากที่ %d พยายามไม่สำเร็จคุณจะถูกขอให้ปลดล็อคแท็บเล็ตโดยใช้บัญชีอีเมล
 
   ลองอีกครั้งใน %d วินาที "</string>
-    <string name="kg_reordering_delete_drop_target_text">Remove</string>
+    <string name="kg_reordering_delete_drop_target_text">ลบออก</string>
     <string name="kg_password_wrong_pin_code_pukked">Incorrect SIM PIN code you must now contact your carrier to unlock your device.</string>
     <string name="kg_password_wrong_puk_code_dead">SIM is unusable. Contact your carrier.</string>
     <string name="kg_password_pin_failed">SIM PIN operation failed!</string>
     <string name="kg_password_puk_failed">SIM PUK operation failed!</string>
-    <string name="kg_pin_accepted">Code Accepted!</string>
+    <string name="kg_pin_accepted">รหัสผ่านถูกต้อง</string>
     <string name="keyguard_transport_prev_description">Previous track button</string>
     <string name="keyguard_transport_next_description">ปุ่มเพลงถัดไป</string>
     <string name="keyguard_transport_pause_description">ปุ่มหยุดชั่วคราว</string>
