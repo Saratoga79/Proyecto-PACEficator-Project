@@ -232,52 +232,52 @@
     <string name="quick_settings_time_label">เวลา</string>
     <string name="quick_settings_user_label">Me</string>
     <string name="quick_settings_user_title">User</string>
-    <string name="quick_settings_user_new_user">New user</string>
+    <string name="quick_settings_user_new_user">ผู้ใช้ใหม่</string>
     <string name="quick_settings_wifi_label">Wi-Fi</string>
-    <string name="quick_settings_wifi_not_connected">Not Connected</string>
-    <string name="quick_settings_wifi_no_network">No Network</string>
-    <string name="quick_settings_wifi_off_label">Wi-Fi Off</string>
+    <string name="quick_settings_wifi_not_connected">ไม่ได้เชื่อมต่อ</string>
+    <string name="quick_settings_wifi_no_network">ไม่มีเครือข่าย</string>
+    <string name="quick_settings_wifi_off_label">ปิด Wi-Fi</string>
     <string name="quick_settings_wifi_detail_empty_text">ไม่มีเครือข่ายที่ใช้งานได้</string>
     <string name="quick_settings_cast_title">Cast screen</string>
     <string name="quick_settings_casting">Casting</string>
     <string name="quick_settings_cast_device_default_name">Unnamed device</string>
     <string name="quick_settings_cast_device_default_description">Ready to cast</string>
     <string name="quick_settings_cast_detail_empty_text">No devices available</string>
-    <string name="quick_settings_brightness_dialog_title">Brightness</string>
+    <string name="quick_settings_brightness_dialog_title">ความสว่าง</string>
     <string name="quick_settings_brightness_dialog_auto_brightness_label">อัตโนมัติ</string>
-    <string name="quick_settings_inversion_label">Invert colors</string>
-    <string name="quick_settings_color_space_label">Color correction mode</string>
+    <string name="quick_settings_inversion_label">กลับสี</string>
+    <string name="quick_settings_color_space_label">โหมดแก้ไขสี</string>
     <string name="quick_settings_more_settings">การตั้งค่าเพิ่มเติม</string>
     <string name="quick_settings_done">เสร็จสิ้น</string>
     <string name="quick_settings_connected">เชื่อมต่อแล้ว</string>
     <string name="quick_settings_connected_via_wfa">เชื่อมต่อผ่านทางตัวช่วยไวไฟ</string>
     <string name="quick_settings_connecting">กำลังเชื่อมต่อ...</string>
-    <string name="quick_settings_tethering_label">Tethering</string>
+    <string name="quick_settings_tethering_label">การเชื่อมต่ออินเทอร์เน็ต</string>
     <string name="quick_settings_hotspot_label">ฮอตสปอต</string>
     <string name="quick_settings_notifications_label">การแจ้งเตือน</string>
     <string name="quick_settings_flashlight_label">ไฟฉาย</string>
     <string name="quick_settings_cellular_detail_title">ข้อมูลเซลลูลาร์</string>
     <string name="quick_settings_cellular_detail_data_usage">การ​ใช้​ข้อมูล</string>
     <string name="quick_settings_cellular_detail_remaining_data">Remaining data</string>
-    <string name="quick_settings_cellular_detail_over_limit">Over limit</string>
+    <string name="quick_settings_cellular_detail_over_limit">เกินขีดจำกัด</string>
     <string name="quick_settings_cellular_detail_data_used">%s used</string>
     <string name="quick_settings_cellular_detail_data_limit">%s limit</string>
     <string name="quick_settings_cellular_detail_data_warning">%s warning</string>
-    <string name="recents_empty_message">Your recent screens appear here</string>
+    <string name="recents_empty_message">หน้าจอล่าสุดของคุณอยู่ที่นี่</string>
     <string name="recents_app_info_button_label">Application Info</string>
     <string name="recents_lock_to_app_button_label">screen pinning</string>
-    <string name="recents_search_bar_label">search</string>
-    <string name="recents_launch_error_message">Could not start %s.</string>
-    <string name="expanded_header_battery_charged">Charged</string>
-    <string name="expanded_header_battery_charging">Charging</string>
-    <string name="expanded_header_battery_charging_with_time">%s until full</string>
-    <string name="expanded_header_battery_not_charging">Not charging</string>
+    <string name="recents_search_bar_label">ค้นหา</string>
+    <string name="recents_launch_error_message">ไม่สามารถเริ่ม %s.</string>
+    <string name="expanded_header_battery_charged">ชาร์จเสร็จแล้ว</string>
+    <string name="expanded_header_battery_charging">กำลังชาร์จ</string>
+    <string name="expanded_header_battery_charging_with_time">%s จนเต็ม</string>
+    <string name="expanded_header_battery_not_charging">ไม่ได้ชาร์จ</string>
     <string name="battery_meter_very_low_overlay_symbol">!</string>
     <string name="ssl_ca_cert_warning">"เครือข่ายอาจ
 ได้รับการตรวจสอบ "</string>
-    <string name="description_target_search">Search</string>
-    <string name="description_direction_up">Slide up for %s.</string>
-    <string name="description_direction_left">Slide left for %s.</string>
+    <string name="description_target_search">ค้นหา</string>
+    <string name="description_direction_up">เลื่อนขึ้นสำหรับ %s.</string>
+    <string name="description_direction_left">เลื่อนไปทางซ้ายสำหรับ %s.</string>
     <string name="zen_no_interruptions_with_warning">No interruptions. Not even alarms.</string>
     <string name="zen_no_interruptions">ไม่หยุดชะงัก</string>
     <string name="zen_important_interruptions">Priority interruptions only</string>
@@ -453,8 +453,8 @@
     <string name="keyguard_accessibility_unlock_area_collapsed">Unlock area collapsed.</string>
     <string name="keyguard_accessibility_widget">%1$s widget.</string>
     <string name="keyguard_accessibility_user_selector">User selector</string>
-    <string name="keyguard_accessibility_camera">Camera</string>
-    <string name="keygaurd_accessibility_media_controls">Media controls</string>
+    <string name="keyguard_accessibility_camera">กล้อง</string>
+    <string name="keygaurd_accessibility_media_controls">การควบคุมมีเดีย</string>
     <string name="keyguard_accessibility_widget_reorder_start">Widget reordering started.</string>
     <string name="keyguard_accessibility_widget_reorder_end">Widget reordering ended.</string>
     <string name="keyguard_accessibility_widget_deleted">Widget %1$s deleted.</string>
@@ -541,13 +541,13 @@ Visit \"<b>google.com/accounts/recovery</b>.\"</string>
     <string name="kg_failed_attempts_now_wiping">คุณพยายามปลดล็อกแท็บเล็ตไม่ถูกต้อง %d ครั้ง แท็บเล็ตนี้จะถูกรีเซ็ตซึ่งจะลบข้อมูลทั้งหมด</string>
     <string name="kg_failed_attempts_almost_at_erase_user" formatted="false">คุณพยายามปลดล็อกแท็บเล็ตไม่ถูกต้อง %d ครั้ง ถ้าพยายามไม่สำเร็จอีก %d ครั้ง ผู้ใช้รายนี้จะถูกลบซึ่งจะลบข้อมูลผู้ใช้ทั้งหมด</string>
     <string name="kg_failed_attempts_now_erasing_user">คุณพยายามปลดล็อกแท็บเล็ตไม่ถูกต้อง %d ครั้ง ผู้ใช้รายนี้จะถูกลบ ซึ่งจะลบข้อมูลผู้ใช้ทั้งหมดด้วย</string>
-    <string name="kg_failed_attempts_almost_at_erase_profile" formatted="false">You have incorrectly attempted to unlock the tablet %d times. After %d more unsuccessful attempts, the work profile will be removed, which will delete all profile data.</string>
-    <string name="kg_failed_attempts_now_erasing_profile">You have incorrectly attempted to unlock the tablet %d times. The work profile will be removed, which will delete all profile data.</string>
+    <string name="kg_failed_attempts_almost_at_erase_profile" formatted="false">คุณพยายามปลดล็อกแท็บเล็ตไม่ถูกต้อง %d ครั้ง หลังจากพยายามไม่สำเร็จอีก %d ครั้งโปรไฟล์งานจะถูกลบซึ่งจะลบข้อมูลโปรไฟล์ทั้งหมดด้วย</string>
+    <string name="kg_failed_attempts_now_erasing_profile">คุณพยายามปลดล็อกแท็บเล็ตไม่ถูกต้อง %d ครั้ง โปรไฟล์งานจะถูกลบซึ่งจะลบข้อมูลโปรไฟล์ทั้งหมดด้วย</string>
     <string name="kg_failed_attempts_almost_at_login" formatted="false">"คุณวาดรูปแบบการปลดล็อกผิดพลาด %d ครั้งหลังจากที่ %d พยายามไม่สำเร็จคุณจะถูกขอให้ปลดล็อคแท็บเล็ตโดยใช้บัญชีอีเมล
 
   ลองอีกครั้งใน %d วินาที "</string>
     <string name="kg_reordering_delete_drop_target_text">ลบออก</string>
-    <string name="kg_password_wrong_pin_code_pukked">Incorrect SIM PIN code you must now contact your carrier to unlock your device.</string>
+    <string name="kg_password_wrong_pin_code_pukked">รหัส PIN ของซิมไม่ถูกต้องคุณต้องติดต่อผู้ให้บริการของคุณเพื่อปลดล็อคอุปกรณ์</string>
     <string name="kg_password_wrong_puk_code_dead">SIM is unusable. Contact your carrier.</string>
     <string name="kg_password_pin_failed">SIM PIN operation failed!</string>
     <string name="kg_password_puk_failed">SIM PUK operation failed!</string>
