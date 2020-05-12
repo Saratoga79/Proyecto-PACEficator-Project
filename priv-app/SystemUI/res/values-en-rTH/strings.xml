@@ -515,13 +515,13 @@
     <string name="kg_puk_enter_pin_hint">ป้อนรหัส PIN ที่ต้องการ</string>
     <string name="kg_enter_confirm_pin_hint">ยืนยันรหัส PIN ที่ต้องการ</string>
     <string name="kg_sim_unlock_progress_dialog_message">กำลังปลดล็อกซิมการ์ด...</string>
-    <string name="kg_invalid_sim_pin_hint">Type a PIN that is 4 to 8 numbers.</string>
-    <string name="kg_invalid_sim_puk_hint">PUK code should be 8 numbers or more.</string>
-    <string name="kg_invalid_puk">Re-enter the correct PUK code. Repeated attempts will permanently disable the SIM.</string>
-    <string name="kg_invalid_confirm_pin_hint">PIN codes does not match</string>
-    <string name="kg_login_too_many_attempts">Too many pattern attempts</string>
-    <string name="kg_login_instructions">To unlock, sign in with your Google account.</string>
-    <string name="kg_login_username_hint">Username (email)</string>
+    <string name="kg_invalid_sim_pin_hint">พิมพ์รหัส PIN ​ที่​มี​ตัว​เลข 4 ​ถึง 8 ​หลัก</string>
+    <string name="kg_invalid_sim_puk_hint">รหัส PUK ควรมีตัวเลข 8 ตัวหรือมากกว่า</string>
+    <string name="kg_invalid_puk">ป้อนรหัส PUK ที่ถูกต้องอีกครั้ง การป้อนผิดซ้ำ ๆ จะปิดการใช้งานซิมอย่างถาวร</string>
+    <string name="kg_invalid_confirm_pin_hint">รหัส PIN ไม่ถูกต้อง</string>
+    <string name="kg_login_too_many_attempts">พยายามป้อนหลายรูปแบบมากเกินไป</string>
+    <string name="kg_login_instructions">เพื่อปลดล็อค กรุณาลงชื่อเข้าใช้ด้วยบัญชี Google ของคุณ</string>
+    <string name="kg_login_username_hint">ชื่อผู้ใช้ (อีเมล)</string>
     <string name="kg_login_password_hint">รหัสผ่าน</string>
     <string name="kg_login_submit_button">ลงชื่อเข้าใช้</string>
     <string name="kg_login_invalid_input">ชื่อผู้ใช้หรือรหัสผ่านไม่ถูกต้อง</string>
@@ -537,7 +537,7 @@ Visit \"<b>google.com/accounts/recovery</b>.\"</string>
     <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"คุณวาดรูปแบบการปลดล็อคผิดพลาด %d ครั้ง
 
 ลองอีกครั้งใน %d วินาที "</string>
-    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">You have incorrectly attempted to unlock the tablet %d times. After %d more unsuccessful attempts, this tablet will be reset, which will delete all its data.</string>
+    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">คุณพยายามปลดล็อกแท็บเล็ตจำนวน %d ครั้ง หลังจากพยายามไม่สำเร็จ %d ครั้ง แท็บเล็ตนี้จะถูกรีเซ็ตซึ่งจะลบข้อมูลทั้งหมด</string>
     <string name="kg_failed_attempts_now_wiping">You have incorrectly attempted to unlock the tablet %d times. This tablet will be reset, which will delete all its data.</string>
     <string name="kg_failed_attempts_almost_at_erase_user" formatted="false">You have incorrectly attempted to unlock the tablet %d times. After %d more unsuccessful attempts, this user will be removed, which will delete all user data.</string>
     <string name="kg_failed_attempts_now_erasing_user">You have incorrectly attempted to unlock the tablet %d times. This user will be removed, which will delete all user data.</string>
