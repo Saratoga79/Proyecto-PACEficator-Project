@@ -482,17 +482,17 @@
     <string name="reset_factory_bank_title">โปรดลบ UnionPay Card ออกก่อน</string>
     <string name="reset_factory_bank_msg">"ถ้ารีเซ็ตนาฬิกาโดยไม่ต้องถอดการ์ด UnionPay มันจะทำให้การ์ด UnionPay:
   1. ไม่สามารถลบออกจากนาฬิกา สิ้นเปลืองพื้นที่ว่างของชิป; 2. ไม่สามารถใช้ฟังก์ชั่นการชำระเงินในนาฬิกา 3. ไม่สามารถผูกกับอุปกรณ์อื่นได้ เพื่อความปลอดภัยในการชำระเงินอันดับแรกโปรดลบบัตร UnionPay ออกจากแอพ Amazfit "</string>
-    <string name="reset_factory_bank_yes">Continue Factory Reset</string>
+    <string name="reset_factory_bank_yes">ตั้งค่าเริ่มต้นจากโรงงานต่อไป</string>
     <string name="reset_factory_bank_no">ยกเลิก</string>
-    <string name="reset_factory_bank_msg_again">"Once the watch is reset to factory default settings, all data in the watch will be deleted, and the watch will be disconnected from your mobile. 
- The current activated transportation card can still be used after the watch is bound with your mobile again."</string>
-    <string name="lockpassword_confirm_your_pattern_header">Confirm Your Pattern</string>
-    <string name="lockpattern_need_to_unlock">Draw Unlocking Pattern</string>
+    <string name="reset_factory_bank_msg_again">"เมื่อรีเซ็ตนาฬิกาเป็นค่าเริ่มต้นจากโรงงานข้อมูลทั้งหมดในนาฬิกาจะถูกลบและนาฬิกาจะถูกตัดการเชื่อมต่อจากมือถือของคุณ
+  บัตรขนส่งที่เปิดใช้งานปัจจุบันยังคงสามารถใช้งานได้หลังจากที่นาฬิกาถูกเชื่อมต่อกับมือถือของคุณอีกครั้ง "</string>
+    <string name="lockpassword_confirm_your_pattern_header">ยืนยันรูปแบบของคุณ</string>
+    <string name="lockpattern_need_to_unlock">วาดรูปแบบการปลดล็อกของคุณ</string>
     <string name="lockpattern_need_to_unlock_footer"></string>
     <string name="lockpattern_need_to_unlock_wrong"></string>
     <string name="lockpattern_need_to_unlock_wrong_footer"></string>
-    <string name="lockpattern_too_many_failed_confirmation_attempts_header">Too Many Errors！</string>
-    <string name="lockpattern_too_many_failed_confirmation_attempts_footer">%d Retry after Several Seconds</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_header">เกิดข้อผิดพลาดมากเกินไป！</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_footer">%d ลองใหม่หลังจากเว้นระยะสักครู่</string>
     <string name="lockpattern_tutorial_cancel_label">ยกเลิก</string>
     <string name="lockpattern_tutorial_continue_label">ถัดไป</string>
     <string name="lockpassword_choose_your_pattern_header">เลือกรูปแบบของคุณ</string>
@@ -501,20 +501,20 @@
     <string name="lockpattern_retry_button_text">ลองใหม่</string>
     <string name="lockpattern_continue_button_text">ดำเนินการต่อ</string>
     <string name="lockpattern_confirm_button_text">ยืนยัน</string>
-    <string name="lockpattern_recording_intro_header">Draw Unlocking Pattern</string>
-    <string name="lockpattern_settings_help_how_to_record">How to Draw Unlocking Pattern？</string>
+    <string name="lockpattern_recording_intro_header">วาดรูปแบบการปลดล็อกของคุณ</string>
+    <string name="lockpattern_settings_help_how_to_record">วิธีการวาดรูปแบบการปลดล็อกของคุณ？</string>
     <string name="lockpattern_recording_incorrect_too_short"></string>
-    <string name="lockpattern_pattern_entered_header">Pattern Recorded</string>
-    <string name="lockpattern_need_to_confirm">Confirm Unlocking Pattern</string>
-    <string name="lockpattern_pattern_confirmed_header">Confirm Unlocking Pattern</string>
-    <string name="app_notifications_dialog_done">Complete</string>
-    <string name="lockpattern_cancel">Gesture Password</string>
-    <string name="lockpattern_change">Change Password</string>
-    <string name="lockpattern_change_state">Change Watch Status</string>
-    <string name="lockpattern_exist">Turned on</string>
-    <string name="lockpattern_exist_no">Turned Off</string>
-    <string name="unlock_disable_lock_pattern_summary">Delete Unlocking Pattern</string>
-    <string name="unlock_disable_frp_warning_content">The Device Protection Function Will No Longer Function.</string>
+    <string name="lockpattern_pattern_entered_header">บันทึกรูปแบบแล้ว</string>
+    <string name="lockpattern_need_to_confirm">ยืนยันรูปแบบการปลดล็อก</string>
+    <string name="lockpattern_pattern_confirmed_header">ยืนยันรูปแบบการปลดล็อก</string>
+    <string name="app_notifications_dialog_done">สำเร็จ</string>
+    <string name="lockpattern_cancel">รหัสผ่านแบบท่าทาง</string>
+    <string name="lockpattern_change">เปลี่ยนรหัสผ่าน</string>
+    <string name="lockpattern_change_state">เปลี่ยนสถานะของนาฬิกา</string>
+    <string name="lockpattern_exist">เปิดใช้งาน</string>
+    <string name="lockpattern_exist_no">ปิดใช้งาน</string>
+    <string name="unlock_disable_lock_pattern_summary">ลบรูปแบบการปลดล็อค</string>
+    <string name="unlock_disable_frp_warning_content">ฟังก์ชั่นการป้องกันอุปกรณ์จะไม่ทำงานอีกต่อไป</string>
     <string name="okay">ยืนยัน</string>
     <string name="exit">ออก</string>
     <string name="pattern_set_title">ความปลอดภัย</string>
@@ -523,33 +523,33 @@
     <string name="wear">สวมนาฬิกาแล้ว</string>
     <string name="lockpattern_need_confirm">กรุณาลองวาดอีกครั้ง</string>
     <string name="lockpattern_pattern_short">โปรดเชื่อมต่ออย่างน้อย 4 จุด</string>
-    <string name="lockpattern_confirm_wrong">Pattern Inconformity</string>
-    <string name="lockpattern_change_none">There Is No Unlocking Pattern Currently</string>
-    <string name="security_lockpattern">Gesture Password</string>
-    <string name="lockpattern_need_confirm_guide">Please Draw the Current Pattern</string>
+    <string name="lockpattern_confirm_wrong">รูปแบบไม่สอดคล้อง</string>
+    <string name="lockpattern_change_none">ไม่มีรูปแบบการปลดล็อคในขณะนี้</string>
+    <string name="security_lockpattern">รหัสผ่านแบบท่าทาง</string>
+    <string name="lockpattern_need_confirm_guide">โปรดวาดรูปแบบปัจจุบัน</string>
     <string name="time_zone">โซนเวลา</string>
     <string name="date">วันที่</string>
     <string name="time">เวลา</string>
-    <string name="date_ymd">Date(Y/M/D)</string>
-    <string name="time_hms">Time(H/M/S)</string>
-    <string name="time_format">Time Format</string>
+    <string name="date_ymd">วันที่(Y/M/D)</string>
+    <string name="time_hms">เวลา(H/M/S)</string>
+    <string name="time_format">รูปแบบเวลา</string>
     <string name="hour_system">%s-hour system</string>
     <string name="am">AM</string>
     <string name="pm">PM</string>
-    <string name="ultra_title">Ultra Mode</string>
+    <string name="ultra_title">Ultra โหมด</string>
     <string name="ultra_desc">"The Ultra Mode will greatly extend the watch's battery life and support the main features of the watch."</string>
-    <string name="ultra_enter">Ultra Mode</string>
-    <string name="sync_sport_data_before_reboot_title">Unsynchronized exercise records are found.</string>
-    <string name="sync_sport_data_before_reboot_summary">Unsynchronized records cannot be viewed on your phone. Please sync the records before switching modes. Open the Amazfit app and pull down to sync. Continue to switch?</string>
+    <string name="ultra_enter">Ultra โหมด</string>
+    <string name="sync_sport_data_before_reboot_title">พบบันทึกการฝึกซ้อมที่ยังไม่ซิงโครไนซ์</string>
+    <string name="sync_sport_data_before_reboot_summary">บันทึกที่ยังไม่ซิงโครไนซ์ไม่สามารถดูได้ในโทรศัพท์ของคุณ กรุณาซิงค์บันทึกก่อนที่จะเปลี่ยนโหมด เปิดแอพ Amazfit และดึงลงมาเพื่อซิงค์ เปลี่ยนต่อไปไหม?</string>
     <string name="sync_sport_data_before_reboot_dont_reboot">ไม่ใช่</string>
     <string name="sync_sport_data_before_reboot_reboot_now">ใช่</string>
     <string name="ultra_upgrade_desc">กำลังอัพเดททรัพยากรในโหมด Ultra ใช้เวลาประมาณ 4-5 นาที โปรดลองใหม่อีกครั้งในภายหลัง</string>
-    <string name="ultra_updrade_enter">OK</string>
-    <string name="unit_metric">Metric</string>
-    <string name="unit_english">Imperial</string>
-    <string name="strong">Strong</string>
-    <string name="mid">Mid</string>
-    <string name="weak">Weak</string>
+    <string name="ultra_updrade_enter">ตกลง</string>
+    <string name="unit_metric">เมตริก</string>
+    <string name="unit_english">อิมพีเรียล</string>
+    <string name="strong">แรง</string>
+    <string name="mid">ปานกลาง</string>
+    <string name="weak">อ่อน</string>
     <string name="slient">ปิด</string>
     <string name="volume_value">ระดับเสียง</string>
     <string name="light_value">ความสว่าง</string>
@@ -559,8 +559,8 @@
 ละเอียด จากนั้นความสว่างหน้าจอจะยังคงเปลี่ยนไปตามความสว่างรอบข้าง</string>
     <string name="light_auto_guide_ok">ฉันทราบแล้ว</string>
     <string name="watch_mode_title">เปิดโหมดนาฬิกา</string>
-    <string name="watch_mode_message">"When turned on, the watch will only support time display, step counting and transportation card payment. 
- (When you turn it on, press and hold the physical key to exit this mode)"</string>
+    <string name="watch_mode_message">"เมื่อเปิดใช้งาน นาฬิกาจะรองรับการแสดงเวลา การนับก้าวและการชำระเงินด้วยบัตรขนส่งเท่านั้น
+  (เมื่อคุณเปิดใช้งาน ให้กดปุ่มค้างไว้เพื่อออกจากโหมดนี้) "</string>
     <string name="watch_mode_positive">ยืนยันการเปิด</string>
     <string name="watch_mode_negative">ยกเลิก</string>
     <string name="replace_watchface">หน้าปัดนาฬิกา</string>
@@ -582,10 +582,10 @@
     <string name="app_name">การตั้งค่า</string>
     <string name="blt_hint_connect_device">เชื่อมต่อ</string>
     <string name="blt_hint_disconnect_device">ตัดการเชื่อมต่อ</string>
-    <string name="lab_desc">Collect part of the debugging tools</string>
+    <string name="lab_desc">รวบรวมส่วนของเครื่องมือการดีบัก</string>
     <string name="unknown">อุปกรณ์ที่ไม่รู้จัก</string>
-    <string name="bind_tips_title">"Please bind 
- to protect your data more securely"</string>
+    <string name="bind_tips_title">"กรุณาผูกการเชื่อมต่อ
+  เพื่อปกป้องข้อมูลของคุณให้ปลอดภัยยิ่งขึ้น "</string>
     <string name="upgrade_checking">กำลังตรวจสอบการอัพเดท...</string>
     <string name="left_hand">ซ้าย</string>
     <string name="right_hand">ขวา</string>
