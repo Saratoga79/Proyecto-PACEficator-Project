@@ -351,7 +351,7 @@
     <string name="last_kilo_meters_times_with_param">Last %1$s kilometer time</string>
     <string name="last_mi_times_with_param">Last %1$s mile time</string>
     <string name="running_total_distance_desc">ระยะทางรวมทั้งหมด</string>
-    <string name="setting_sport_title_exteed_region_tips">Notify when beyond %1$s zone</string>
+    <string name="setting_sport_title_exteed_region_tips">แจ้งเตือนเมื่อเกินโซน %1$s</string>
     <string name="sport_history_bottom_remind">สำหรับข้อมูลเพิ่มเติมให้ไปดูที่แอพ Amazfit</string>
     <string name="swim_unit">yd</string>
     <string name="pace_swim_unit_yd">/100 yd</string>
@@ -414,7 +414,7 @@
     <string name="tennic_strokes_times_too_short">ต้องการสโตรกเพิ่มเพื่อบันทึกข้อมูลหรือไม่</string>
     <string name="dialog_tennic_select_hand_title">เลือก</string>
     <string name="sport_widget_title_compound">กีฬาหลากชนิด</string>
-    <string name="sport_widget_title_compounding">Compound exercise…</string>
+    <string name="sport_widget_title_compounding">การออกกำลังกายแบบผสม ...</string>
     <string name="sport_select_compound">การออกกำลังกาย</string>
     <string name="swimming_stop_dialog_msg_not_reach_minimum_distance">ต้องการเวลาการว่ายน้ำให้มากกว่านี้เพื่อบันทึกข้อมูล,ต้องการจบหรือ?</string>
     <string name="select_compound_sport">ออกกำลัง %1$s</string>
@@ -546,7 +546,7 @@
     <string name="huanghe_pause_continue_title">การกระทำกิจกรรม</string>
     <string name="virtual_rabbit_back_distance">ระยะทางที่ล่าช้า</string>
     <string name="experience_title">ตั้งค่าข้อมูลส่วนบุคคลหรือข้อมูลจะมีความเบี่ยงเบนมาก</string>
-    <string name="recovery_time_hour">h</string>
+    <string name="recovery_time_hour">ชม.</string>
     <string name="sport_vo2_max">VO₂ max</string>
     <string name="sport_ability">ระดับความฟิต</string>
     <string name="sport_train_load">โหลดการฝึก</string>
@@ -587,8 +587,8 @@
     <string name="sport_te_desc_level_06">Overloading the body.</string>
     <string name="first_beat_remind_txt_01">นี่เป็นเพชที่ดี</string>
     <string name="first_beat_remind_txt_02">นี่เป็นเพชที่ดี ออกกำลังกายนานขึ้นเพื่อให้คุณฟิต</string>
-    <string name="sport_history_recovery_remind">"It\'s recommended to have proper maintaining workouts 
-to reach full recovery."</string>
+    <string name="sport_history_recovery_remind">"แนะนำให้มีการออกกำลังกายอย่างเหมาะสม
+เพื่อเข้าถึงการฟื้นฟูอย่างเต็มที่ "</string>
     <string name="daily_propermance_has_no_data">ไม่มีข้อมูล</string>
     <string name="first_beat_help_title_vo2_max">VO₂ max</string>
     <string name="first_beat_help_title_train_efffect">ผลการฝึกซ้อม (TE)</string>
@@ -653,7 +653,7 @@ to reach full recovery."</string>
     <string name="music_fm_title">Douban FM</string>
     <string name="music_fm_notification_content">The Sports FM มีเพลย์ลิสต์ใหม่ให้ไปและดาวน์โหลด!</string>
     <string name="music_down_not_complete_title">ยังดาวน์โหลดรายการเพลงไม่เสร็จ, ต้องการออก ?</string>
-    <string name="music_down_not_complete_content">You can update songs in Music settings &gt; Douban FM offline after you sign out.</string>
+    <string name="music_down_not_complete_content">คุณสามารถอัปเดตเพลงในการตั้งค่าเพลง &gt; FM Douban ออฟไลน์หลังจากคุณออกจากระบบ</string>
     <string name="music_source_douban">Douban FM</string>
     <string name="music_source_local">เพลงในเครื่อง</string>
     <string name="music_source_all">ทั้งหมด</string>
@@ -687,11 +687,11 @@ to reach full recovery."</string>
     <string name="outdoor_speed_graph_title">ความเร็ว (กม./ชม.)</string>
     <string name="not_testing_speed_data">"ไม่พบข้อมูลความเร็ว"</string>
     <string name="con_leqi_table_title">รองรับตารางการขี่จักรยาน LEQI บนนาฬิกาจับคู่ตอนนี้หรือไม่</string>
-    <string name="con_leqi_table_subtitle">(Pair device in Settings &gt; Bluetooth)</string>
-    <string name="remind_target_riding_km_title_format">Completed %1$d km</string>
+    <string name="con_leqi_table_subtitle">(จับคู่อุปกรณ์ในการตั้งค่า &gt; บลูทูธ)</string>
+    <string name="remind_target_riding_km_title_format">เสร็จสมบูรณ์ %1$d กม.</string>
     <string name="indoor_riding_time_too_short">เวลาออกกำลังกายสั้นเกินไปที่จะบันทึก หยุดอีกไหม</string>
     <string name="outdoor_climb_down_altitude">ระดับต่ำ</string>
-    <string name="outdoor_climb_down_distance">Dist loss</string>
+    <string name="outdoor_climb_down_distance">การสูญเสียระยะทาง</string>
     <string name="outdoor_climb_down_distance_time">เวลาปีนลง</string>
     <string name="outdoor_climb_distance_time">เวลาการปีนขึ้น</string>
     <string name="real_time_keep_speed">รักษาอัตราการวิ่งไว้</string>
@@ -791,10 +791,10 @@ to reach full recovery."</string>
     <string name="healthy_cardio">การออกกำลังกายแบบ Cardio</string>
     <string name="moderate_fat_burn">การเผาผลาญไขมันปานกลาง</string>
     <string name="keeps_fit_cardio">ออกกำลังกายรักษาหุ่น</string>
-    <string name="improving_cardio">Improving cardio</string>
-    <string name="endurance_cardio">Endurance cardio</string>
-    <string name="hard_cardio">Intense cardio</string>
-    <string name="very_hard_cardio">Extreme cardio</string>
+    <string name="improving_cardio">คาร์ดิโอแบบพัฒนา</string>
+    <string name="endurance_cardio">คาร์ดิโอแบบทนทาน</string>
+    <string name="hard_cardio">คาร์ดิโอแบบเข้มข้น</string>
+    <string name="very_hard_cardio">คาร์ดิโออย่างหนัก</string>
     <string name="route_cur_altitude">ระดับความสูง</string>
     <string name="outdoor_cadence">ช่วงก้าว</string>
     <string name="sport_main_climb_al">ระดับสูง</string>
@@ -841,7 +841,7 @@ to reach full recovery."</string>
     <string name="sport_widget_title_indoor_fitness">ออกกำลังกาย</string>
     <string name="sport_widget_title_indoor_run">ลู่วิ่งไฟฟ้า</string>
     <string name="sport_widget_title_record">กิจกรรม</string>
-    <string name="sport_widget_title_achieve">Badges</string>
+    <string name="sport_widget_title_achieve">แบดจ์</string>
     <string name="sport_widget_title_setting">การตั้งค่า</string>
     <string name="sport_widget_title_music">เพลง</string>
     <string name="sport_widget_title_interval_run">Run (intervals)</string>
@@ -998,8 +998,8 @@ to reach full recovery."</string>
     <string name="count_down_tint">สวมนาฬิกาให้แน่นเพื่อการวัดอัตราการเต้นหัวใจที่แม่นยำ</string>
     <string name="history_detail_running_cost_time">เวลาการวิ่ง</string>
     <string name="history_detail_walking_cost_time">เวลาการเดิน</string>
-    <string name="settings_sport_slpt_second_brush">Per second stats refresh</string>
-    <string name="settings_sport_music_Watercress">Sports FM</string>
+    <string name="settings_sport_slpt_second_brush">รีเฟรชสถิติต่อวินาที</string>
+    <string name="settings_sport_music_Watercress">กีฬา FM</string>
     <string name="settings_sport_music_play_settings">การตั้งค่าเพลง</string>
     <string name="settings_sport_lock_screen">แสดงข้อมูลตอนล็อคหน้าจอ</string>
     <string name="settings_sport_three_data">3 รายการ</string>
