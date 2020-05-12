@@ -538,9 +538,9 @@ Visit \"<b>google.com/accounts/recovery</b>.\"</string>
 
 ลองอีกครั้งใน %d วินาที "</string>
     <string name="kg_failed_attempts_almost_at_wipe" formatted="false">คุณพยายามปลดล็อกแท็บเล็ตจำนวน %d ครั้ง หลังจากพยายามไม่สำเร็จ %d ครั้ง แท็บเล็ตนี้จะถูกรีเซ็ตซึ่งจะลบข้อมูลทั้งหมด</string>
-    <string name="kg_failed_attempts_now_wiping">You have incorrectly attempted to unlock the tablet %d times. This tablet will be reset, which will delete all its data.</string>
-    <string name="kg_failed_attempts_almost_at_erase_user" formatted="false">You have incorrectly attempted to unlock the tablet %d times. After %d more unsuccessful attempts, this user will be removed, which will delete all user data.</string>
-    <string name="kg_failed_attempts_now_erasing_user">You have incorrectly attempted to unlock the tablet %d times. This user will be removed, which will delete all user data.</string>
+    <string name="kg_failed_attempts_now_wiping">คุณพยายามปลดล็อกแท็บเล็ตไม่ถูกต้อง %d ครั้ง แท็บเล็ตนี้จะถูกรีเซ็ตซึ่งจะลบข้อมูลทั้งหมด</string>
+    <string name="kg_failed_attempts_almost_at_erase_user" formatted="false">คุณพยายามปลดล็อกแท็บเล็ตไม่ถูกต้อง %d ครั้ง ถ้าพยายามไม่สำเร็จอีก %d ครั้ง ผู้ใช้รายนี้จะถูกลบซึ่งจะลบข้อมูลผู้ใช้ทั้งหมด</string>
+    <string name="kg_failed_attempts_now_erasing_user">คุณพยายามปลดล็อกแท็บเล็ตไม่ถูกต้อง %d ครั้ง ผู้ใช้รายนี้จะถูกลบ ซึ่งจะลบข้อมูลผู้ใช้ทั้งหมดด้วย</string>
     <string name="kg_failed_attempts_almost_at_erase_profile" formatted="false">You have incorrectly attempted to unlock the tablet %d times. After %d more unsuccessful attempts, the work profile will be removed, which will delete all profile data.</string>
     <string name="kg_failed_attempts_now_erasing_profile">You have incorrectly attempted to unlock the tablet %d times. The work profile will be removed, which will delete all profile data.</string>
     <string name="kg_failed_attempts_almost_at_login" formatted="false">"คุณวาดรูปแบบการปลดล็อกผิดพลาด %d ครั้งหลังจากที่ %d พยายามไม่สำเร็จคุณจะถูกขอให้ปลดล็อคแท็บเล็ตโดยใช้บัญชีอีเมล
