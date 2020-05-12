@@ -211,7 +211,7 @@
     <string name="lock_screen">ล็อคหน้าจอ</string>
     <string name="lock_screen_hand">โหมดแสงน้อย</string>
     <string name="lock_screen_open_guide">อายุการใช้งานของแบตเตอรี่จะลดลงถ้าตั้งค่าการล็อคหน้าจอในโหมดแสงสว่างน้อย</string>
-    <string name="lock_auto_screen_wristup_guide">เมื่อตั้งเวลาปิดหน้าจอเรียบร้อยแล้วหน้าจอนาฬิกาจะไม่สว่างแม้ว่าจะยกหรือล็อค</string>
+    <string name="lock_auto_screen_wristup_guide">เมื่อตั้งเวลาปิดหน้าจอเรียบร้อยแล้วหน้าจอนาฬิกาจะไม่สว่างแม้ว่าจะยกขึ้นหรือล็อค</string>
     <string name="sport_remind_title">การจดจำกีฬา</string>
     <string name="sport_remind_open_title">เตือนความจำในการเปิดโหมดกีฬา</string>
     <string name="sport_remind_end_title">เตือนความจำในการปิดโหมดกีฬา</string>
@@ -533,11 +533,11 @@
     <string name="date_ymd">วันที่(Y/M/D)</string>
     <string name="time_hms">เวลา(H/M/S)</string>
     <string name="time_format">รูปแบบเวลา</string>
-    <string name="hour_system">%s-hour system</string>
+    <string name="hour_system">%s-ชั่วโมง ระบบ</string>
     <string name="am">AM</string>
     <string name="pm">PM</string>
     <string name="ultra_title">Ultra โหมด</string>
-    <string name="ultra_desc">"The Ultra Mode will greatly extend the watch's battery life and support the main features of the watch."</string>
+    <string name="ultra_desc">"โหมด Ultra จะยืดอายุการใช้งานแบตเตอรี่ของนาฬิกาอย่างมากและรองรับคุณสมบัติหลักของนาฬิกา"</string>
     <string name="ultra_enter">Ultra โหมด</string>
     <string name="sync_sport_data_before_reboot_title">พบบันทึกการฝึกซ้อมที่ยังไม่ซิงโครไนซ์</string>
     <string name="sync_sport_data_before_reboot_summary">บันทึกที่ยังไม่ซิงโครไนซ์ไม่สามารถดูได้ในโทรศัพท์ของคุณ กรุณาซิงค์บันทึกก่อนที่จะเปลี่ยนโหมด เปิดแอพ Amazfit และดึงลงมาเพื่อซิงค์ เปลี่ยนต่อไปไหม?</string>
