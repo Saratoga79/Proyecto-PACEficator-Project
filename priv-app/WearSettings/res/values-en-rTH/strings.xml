@@ -233,7 +233,7 @@
     <string name="nodisturb">ห้ามรบกวน</string>
     <string name="auto_bg">กำหนดการ</string>
     <string name="long_key_action">กดปุ่มค้างไว้เพื่อเปิด</string>
-    <string name="recombind">Rebinding</string>
+    <string name="recombind">การเชื่อมโยง</string>
     <string name="lock_screen_auto">ปิดโหมดแสงน้อยเป็นประจำ</string>
     <string name="lock_screen_open">เปิด</string>
     <string name="lock_screen_close">ปิด</string>
@@ -353,13 +353,13 @@
     <string name="nodisturb_close_string">ปิด</string>
     <string name="nodisturb_timepicker_connect_symbol">:</string>
     <string name="auto_nodisturb_title_string">ห้ามรบกวนอัตโนมัติ</string>
-    <string name="auto_nodisturb_start_time_string">Turn-on time</string>
+    <string name="auto_nodisturb_start_time_string">เวลาเริ่มทำงาน</string>
     <string name="auto_screen_wristup_start_time_string">จาก</string>
-    <string name="auto_nodisturb_end_time_string">Turn-off time</string>
+    <string name="auto_nodisturb_end_time_string">เวลาหยุดทำงาน</string>
     <string name="auto_screen_wristup_end_time_string">ถึง</string>
     <string name="time_to">ถึง</string>
     <string name="wrist_up_hand">ยกข้อมือขึ้น</string>
-    <string name="wrist_up_hand_with_bl">Turn on backlight</string>
+    <string name="wrist_up_hand_with_bl">เปิดแสงหน้าจอ</string>
     <string name="auto_wifi_trans_on_string">เปิด</string>
     <string name="auto_wifi_trans_off_string">ปิด</string>
     <string name="blue_tooth_dev_in_sub_list">บลู​ทู​ธ</string>
@@ -367,35 +367,35 @@
     <string name="blt_bound_stat_bonded">จับคู่</string>
     <string name="blt_bound_stat_connected">เชื่อมต่อแล้ว</string>
     <string name="blt_bound_stat_disconnect">ตัดการเชื่อมต่อแล้ว</string>
-    <string name="blt_bound_stat_bonding">Pairing...</string>
-    <string name="blt_bound_stat_none">Available</string>
-    <string name="blt_default_name">Unnamed</string>
+    <string name="blt_bound_stat_bonding">กำลังจับคู่</string>
+    <string name="blt_bound_stat_none">พร้อมใช้งาน</string>
+    <string name="blt_default_name">ไม่มีชื่อ</string>
     <string name="blt_hint_disconnect">"%1s
-Disconnect?"</string>
+ตัดการเชื่อมต่อ?"</string>
     <string name="blt_hint_connect">"%1s
 เชื่อมต่อ?"</string>
-    <string name="blt_hint_connect_fail">Connection failed, please re-connect</string>
-    <string name="blt_type_ear">Headset</string>
-    <string name="blt_speaker">Audio</string>
+    <string name="blt_hint_connect_fail">เชื่อมต่อไม่สำเร็จ, โปรดลองอีกครั้ง</string>
+    <string name="blt_type_ear">หูฟัง</string>
+    <string name="blt_speaker">เสียง</string>
     <string name="blt_car_system">Vehicle-mounted</string>
     <string name="blt_type_mabiao">MW</string>
     <string name="blt_not_support">[Only test]</string>
-    <string name="bluetooth_pair_tips">Pairing code</string>
+    <string name="bluetooth_pair_tips">รหัฐการเชื่อมต่อ</string>
     <string name="button_enter">ตกลง</string>
     <string name="button_cancel">ยกเลิก</string>
-    <string name="blt_cancel_paring">Paring canceled</string>
-    <string name="bluetooth_pairing_error_message">Pairing failed</string>
-    <string name="bluetooth_connecting">Connecting...</string>
-    <string name="bluetooth_disconnecting">Disconnecting...</string>
+    <string name="blt_cancel_paring">ยกเลิกการจับคู่</string>
+    <string name="bluetooth_pairing_error_message">การจับคู่ไม่สำเร็จ</string>
+    <string name="bluetooth_connecting">กำลังเชื่อมต่อ...</string>
+    <string name="bluetooth_disconnecting">กำลังตัดการเชื่อมต่อ...</string>
     <string name="blt_hint_paring">"%1s
  to pair?"</string>
-    <string name="blt_paring_fail_hint">"Make sure device power on
-and is nearby"</string>
-    <string name="blt_hint_ignore_device">Ignore</string>
-    <string name="blt_confirm_ignore">Are you sure you want to ignore this device?</string>
-    <string name="bluetooth_connected">Connected</string>
-    <string name="bluetooth_disconnected">Disconnected</string>
-    <string name="bluetooth_connecting_error_message">"Couldn't connect to %1$s."</string>
+    <string name="blt_paring_fail_hint">"ตรวจสอบให้แน่ใจว่าอุปกรณ์เปิดอยู่
+และอยู่ใกล้ "</string>
+    <string name="blt_hint_ignore_device">ไม่สนใจ</string>
+    <string name="blt_confirm_ignore">คุณแน่ใจหรือว่าไม่สนใจอุปกรณ์นี้?</string>
+    <string name="bluetooth_connected">เชื่อมต่อแล้ว</string>
+    <string name="bluetooth_disconnected">ตัดการเชื่อมต่อแล้ว</string>
+    <string name="bluetooth_connecting_error_message">"ไม่สามารถเชื่อมต่อไปยัง %1$s."</string>
     <string name="bluetooth_pairing_pin_error_message">"Couldn't pair with %1$s because of an incorrect PIN or passkey."</string>
     <string name="bluetooth_pairing_device_down_error_message">"Can't communicate with %1$s."</string>
     <string name="bluetooth_pairing_rejected_error_message">Pairing rejected by %1$s.</string>
