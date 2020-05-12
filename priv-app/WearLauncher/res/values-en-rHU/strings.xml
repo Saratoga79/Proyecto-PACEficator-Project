@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="new_message_down_fresh">Üzenet lista törlése</string>
-    <string name="sport_title">Exercise</string>
-    <string name="data_check_log">" +------------------------+▂▃▄▅▆▇█▉  Weather data verification error!     %1$s▉█▇▆▅▄▃▂+------------------------+"</string>
-    <string name="data_checkfail_json">JSON format error</string>
-    <string name="generic_notification_more">More (%s)</string>
-    <string name="notification_unread_num">Unread (%s)</string>
-    <string name="notification_click_upgrade">Tap to install</string>
-    <string name="notification_click_download">Tap to download</string>
-    <string name="notification_click_open">Tap to view</string>
-    <string name="delete_all_notifications">Clear all notifications</string>
-    <string name="delete_all_notifications_confrim_content">These notifications will be deleted permanently. Clear anyway?</string>
-    <string name="notification_time_day">HH:mm</string>
-    <string name="notification_time_month">MM/dd HH:mm</string>
-    <string name="notification_time_year">yyyy/MM/dd HH:mm</string>
+    <string name="sport_title">Gyakorlás</string>
+    <string name="data_check_log">" +------------------------+▂▃▄▅▆▇█▉  Időjárás adatok hitelesítési hiba! %1$s▉█▇▆▅▄▃▂+------------------------+"</string>
+    <string name="data_checkfail_json">JSON formátum hiba</string>
+    <string name="generic_notification_more">További (%s)</string>
+    <string name="notification_unread_num">Olvasatlan (%s)</string>
+    <string name="notification_click_upgrade">Telepítés</string>
+    <string name="notification_click_download">Letöltés</string>
+    <string name="notification_click_open">Megtekintés</string>
+    <string name="delete_all_notifications">Minden értesítés törlése</string>
+    <string name="delete_all_notifications_confrim_content">Az értesítések véglegesen törölve lesznek. Biztosan törlöd?</string>
+    <string name="notification_time_day">ÓÓ:pp</string>
+    <string name="notification_time_month">HH/nn ÓÓ:pp</string>
+    <string name="notification_time_year">éééé/HH/nn ÓÓ:pp</string>
     <string name="action_delete">Törlés</string>
-    <string name="action_shield">Block</string>
-    <string name="notification_none">All caught up</string>
+    <string name="action_shield">Blokk</string>
+    <string name="notification_none">Minden megvan</string>
     <string name="notification_allclear">Clear all</string>
     <string name="notification_allclear_confirm">These notifications will be deleted permanently. Clear anyway?</string>
     <string name="notification_checking_bluetooth">Checking Bluetooth connection…</string>
