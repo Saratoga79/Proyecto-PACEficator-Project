@@ -379,7 +379,7 @@
     <string name="blt_speaker">เสียง</string>
     <string name="blt_car_system">ติดตั้งกับรถยนต์</string>
     <string name="blt_type_mabiao">MW</string>
-    <string name="blt_not_support">[Only test]</string>
+    <string name="blt_not_support">[ทดสอบเท่านั้น]</string>
     <string name="bluetooth_pair_tips">รหัฐการเชื่อมต่อ</string>
     <string name="button_enter">ตกลง</string>
     <string name="button_cancel">ยกเลิก</string>
@@ -388,7 +388,7 @@
     <string name="bluetooth_connecting">กำลังเชื่อมต่อ...</string>
     <string name="bluetooth_disconnecting">กำลังตัดการเชื่อมต่อ...</string>
     <string name="blt_hint_paring">"%1s
- to pair?"</string>
+จับคู่?"</string>
     <string name="blt_paring_fail_hint">"ตรวจสอบให้แน่ใจว่าอุปกรณ์เปิดอยู่
 และอยู่ใกล้ "</string>
     <string name="blt_hint_ignore_device">ไม่สนใจ</string>
@@ -418,7 +418,7 @@
     <string name="blt_headset_set_next">เพลงถัดไป</string>
     <string name="blt_headset_set_last">เพลงก่อนหน้า</string>
     <string name="blt_headset_set_play">หยุดชั่วคราว/เล่น</string>
-    <string name="blt_headset_set_sport_heart">Use PowerBuds HR sensor</string>
+    <string name="blt_headset_set_sport_heart">ใช้ PowerBuds ตัวตรวจจับอัตราการเต้นของหัวใจ</string>
     <string name="blt_headset_set_operation">ตัวเลือก</string>
     <string name="blt_headset_selected">เลือกแล้ว</string>
     <string name="blt_headset_set_ear_closed">ปิดการใช้งาน</string>
@@ -426,16 +426,16 @@
     <string name="blt_headset_first_setting_tips_positive">เดี๋ยวนี้</string>
     <string name="blt_headset_first_setting_tips_negitive">Later</string>
     <string name="battery_offline">ออฟไลน์</string>
-    <string name="blt_headset_set_knock_fail">Setup failed, please exit and reconnect.</string>
-    <string name="phone_finding">Locating phone...</string>
-    <string name="phone_found">Phone found</string>
+    <string name="blt_headset_set_knock_fail">การตั้งค่าผิดพลาด โปรดออกและเชื่อมต่อใหม่</string>
+    <string name="phone_finding">กำลังค้นหาโทรศัพท์...</string>
+    <string name="phone_found">พบโทรศัพท์</string>
     <string name="phone_not_connected">โทรศัพท์ไม่มีการเชื่อมต่อ</string>
     <string name="phone_not_found">ไม่พบโทรศัพท์</string>
     <string name="start_testing">เริ่มต้น</string>
     <string name="lab_wifi_test_tip_retry">กรุณาลองอีกครั้ง</string>
-    <string name="lab_wifi_test_tip_testing">Testing…</string>
-    <string name="lab_wifi_test_tip_pass">Pass!!</string>
-    <string name="lab_wifi_test_tip_fail">Fail!!</string>
+    <string name="lab_wifi_test_tip_testing">กำลังทดสอบ…</string>
+    <string name="lab_wifi_test_tip_pass">ผ่าน!</string>
+    <string name="lab_wifi_test_tip_fail">ล้มเหลว!</string>
     <string name="lab_wifi_test_tip_open_wifi">เปิด WIFI</string>
     <string name="light_off">ปิด</string>
     <string name="light_auto">อัตโนมัติ</string>
@@ -444,36 +444,35 @@
     <string name="subtitle_of_raise_hand_no_bl">อัตโนมัติเมื่อปลดล็อค</string>
     <string name="rise_with_bl_under_slpt">เปิด</string>
     <string name="rise_without_bl_under_slpt">ปิด</string>
-    <string name="locale_main">Language</string>
-    <string name="locale_applying">Language applying...</string>
-    <string name="confirm_change_locale">"Change language to 
+    <string name="locale_main">ภาษา</string>
+    <string name="locale_applying">กำลังติดตั้งภาษา...</string>
+    <string name="confirm_change_locale">"เปลี่ยนภาษาเป็น 
 %1$s?"</string>
-    <string name="gender">Gender</string>
-    <string name="birth_year">Birth Year</string>
-    <string name="height">Height</string>
-    <string name="weight">Weight</string>
-    <string name="male">Male</string>
-    <string name="female">Female</string>
-    <string name="centimeter">cm</string>
-    <string name="birth_year_unit">"Birth 
-Year"</string>
-    <string name="height_unit">"Height 
-cm"</string>
-    <string name="weight_unit">"Weight 
-kg"</string>
-    <string name="reset_factory_hint">"Once the watch is reset to factory default settings, 
-all data in the watch will be deleted, and the watch will be disconnected from your mobile."</string>
-    <string name="reset_factory_hint_cn">"Once the watch is reset to factory default settings, all data in the watch will be deleted, and the watch will be disconnected from your mobile. 
- The current activated transportation card can still be used after the watch is bound with your mobile again."</string>
-    <string name="reset_factory_yes">Reset</string>
+    <string name="gender">เพศ</string>
+    <string name="birth_year">ปีเกิด</string>
+    <string name="height">ความสูง</string>
+    <string name="weight">น้ำหนัก</string>
+    <string name="male">ชาย</string>
+    <string name="female">หญิง</string>
+    <string name="centimeter">ซม.</string>
+    <string name="birth_year_unit">"ปีเกิด"</string>
+    <string name="height_unit">"ความสูง 
+ซม."</string>
+    <string name="weight_unit">"น้ำหนัก 
+กก."</string>
+    <string name="reset_factory_hint">"เมื่อรีเซ็ตนาฬิกาเป็นค่าเริ่มต้นจากโรงงาน
+ข้อมูลทั้งหมดในนาฬิกาจะถูกลบและนาฬิกาจะถูกตัดการเชื่อมต่อจากมือถือของคุณ "</string>
+    <string name="reset_factory_hint_cn">"เมื่อรีเซ็ตนาฬิกาเป็นค่าเริ่มต้นจากโรงงานข้อมูลทั้งหมดในนาฬิกาจะถูกลบและนาฬิกาจะถูกตัดการเชื่อมต่อจากมือถือของคุณ
+  บัตรขนส่งที่เปิดใช้งานปัจจุบันยังคงสามารถใช้งานได้หลังจากที่นาฬิกาถูกเชื่อมต่อกับมือถือของคุณอีกครั้ง "</string>
+    <string name="reset_factory_yes">ตั้งค่าใหม่</string>
     <string name="reset_factory_no">ยกเลิก</string>
-    <string name="reset_factory_title">Factory Reset</string>
-    <string name="reset_factory_noconnect_msg">"If Needing to Unbind the Watch, Please Operate Through Amazfit App. 
- Watch’s Unilateral Factory Reset Will Remove UnionPay Card and Transportation Card. 
- A Removed UnionPay Card: It Can No Longer Be Bound to The Watch. If You Need to Bind Again, Please Consult the Bank Customer Service. 
- A Removed Transportation Card: Will Be Destroyed Permanently and Cannot Be Paid Again."</string>
-    <string name="reset_factory_conncet_msg">Watch and Amazfit App will Remove the Bound UnionPay Card. The Watch will Retain the Payment Function of the Transportation Card.</string>
-    <string name="reset_factory_positive">Factory Reset</string>
+    <string name="reset_factory_title">คืนค่าเริ่มต้นจากโรงงาน</string>
+    <string name="reset_factory_noconnect_msg">"หากต้องการเลิกจับคู่นาฬิกาให้ดำเนินการผ่านแอพ Amazfit
+  การรีเซ็ตค่าเริ่มต้นจากโรงงานฝ่ายเดียวของ Watch จะลบบัตร UnionPay และบัตรการขนส่ง
+  บัตร UnionPay ที่ถูกลบ: ไม่สามารถผูกพันกับนาฬิกาได้อีกต่อไป หากคุณต้องการผูกอีกครั้งโปรดปรึกษาฝ่ายบริการลูกค้าของธนาคาร
+  บัตรขนส่งที่ถูกลบออก: จะถูกทำลายอย่างถาวรและไม่สามารถชำระได้อีก "</string>
+    <string name="reset_factory_conncet_msg">นาฬิกาและแอพ Amazfit จะลบ Bound UnionPay Card ออก นาฬิกาจะเก็บฟังก์ชันการชำระเงินของบัตรการขนส่งไว้</string>
+    <string name="reset_factory_positive">คืนค่าเริ่มต้นจากโรงงาน</string>
     <string name="reset_factory_negative">ยกเลิก</string>
     <string name="reset_factory_fail_title">Unsuccessful Factory Reset</string>
     <string name="reset_factory_fail_msg">If the UnionPay Card Is Not Successfully Removed, Please Try Again.</string>
