@@ -313,23 +313,23 @@
     <string name="user_add_user_message_short">เมื่อคุณเพิ่มผู้ใช้ใหม่บุคคลนั้นจำเป็นต้องตั้งค่าพื้นที่ของพวกเขา
 
 ผู้ใช้ทุกคนสามารถอัปเดตแอปสำหรับผู้ใช้อื่น ๆ ทั้งหมด \"</string>
-    <string name="battery_saver_notification_title">Battery saver is on</string>
-    <string name="battery_saver_notification_text">Reduces performance and background data</string>
-    <string name="battery_saver_notification_action_text">Turn off battery saver</string>
-    <string name="notification_hidden_text">Contents hidden</string>
-    <string name="media_projection_dialog_text">"%s will start capturing everything that's displayed on your screen."</string>
-    <string name="media_projection_remember_text">"Don't show again"</string>
-    <string name="clear_all_notifications_text">Clear all</string>
-    <string name="media_projection_action_text">Start now</string>
-    <string name="empty_shade_text">No notifications</string>
-    <string name="device_owned_footer">Device may be monitored</string>
-    <string name="profile_owned_footer">Profile may be monitored</string>
-    <string name="vpn_footer">Network may be monitored</string>
-    <string name="monitoring_title_device_owned">Device monitoring</string>
-    <string name="monitoring_title_profile_owned">Profile monitoring</string>
-    <string name="monitoring_title">Network monitoring</string>
-    <string name="disable_vpn">Disable VPN</string>
-    <string name="disconnect_vpn">Disconnect VPN</string>
+    <string name="battery_saver_notification_title">การประหยัดแบตเตอรรี่ทำงานอยู่</string>
+    <string name="battery_saver_notification_text">ลดประสิทธิภาพและข้อมูลพื้นหลังลง</string>
+    <string name="battery_saver_notification_action_text">ปิดการประหยัดแบตเตอรี่</string>
+    <string name="notification_hidden_text">เนื้อหาที่ซ่อนไว้</string>
+    <string name="media_projection_dialog_text">"%s จะเริ่มจับภาพทุกอย่างที่แสดงบนหน้าจอของคุณ"</string>
+    <string name="media_projection_remember_text">"ไม่ต้องแสดงอีกครั้ง"</string>
+    <string name="clear_all_notifications_text">ลบทั้งหมด</string>
+    <string name="media_projection_action_text">เริ่มตอนนี้</string>
+    <string name="empty_shade_text">ไม่มีการแจ้งเตือน</string>
+    <string name="device_owned_footer">อุปกรณ์อาจจะถูกเฝ้าดูอยู่</string>
+    <string name="profile_owned_footer">โพรไฟล์อาจจะถูกเฝ้าดูอยู่</string>
+    <string name="vpn_footer">เครือข่ายอาจจะถูกเฝ้าดูอยู่</string>
+    <string name="monitoring_title_device_owned">การตรวจสอบอุปกรณ์</string>
+    <string name="monitoring_title_profile_owned">การติดตามดูโพรไฟล์</string>
+    <string name="monitoring_title">การตรวจสอบเครือข่าย</string>
+    <string name="disable_vpn">ปิดการใช้งาน VPN</string>
+    <string name="disconnect_vpn">ยุติการเชื่อมต่อ VPN</string>
     <string name="monitoring_description_device_owned">"อุปกรณ์นี้จัดการโดย:
 %1$s
 
@@ -397,8 +397,8 @@
 ผู้ดูแลระบบของคุณสามารถติดตามกิจกรรมเครือข่ายของคุณรวมถึงอีเมลแอพและเว็บไซต์ที่ปลอดภัย สำหรับข้อมูลเพิ่มเติมติดต่อผู้ดูแลระบบของคุณ
 
 นอกจากนี้คุณกำลังเชื่อมต่อกับ VPN (\"%3$s\") ผู้ให้บริการ VPN ของคุณสามารถตรวจสอบกิจกรรมเครือข่ายได้เช่นกัน "</string>
-    <string name="keyguard_indication_trust_disabled">Device will stay locked until you manually unlock</string>
-    <string name="hidden_notifications_title">Get notifications faster</string>
+    <string name="keyguard_indication_trust_disabled">อุปกรณ์จะล็อคอยู่จนกระทั่งคุณปลดล็อคด้วยตนเอง</string>
+    <string name="hidden_notifications_title">รับการแจ้งเตือนเร็วขึ้น</string>
     <string name="hidden_notifications_text">See them before you unlock</string>
     <string name="hidden_notifications_cancel">No thanks</string>
     <string name="hidden_notifications_setup">Set up</string>
@@ -432,11 +432,11 @@
     <string name="keyguard_charged">Charged</string>
     <string name="keyguard_plugged_in">Charging</string>
     <string name="keyguard_low_battery">Connect your charger.</string>
-    <string name="keyguard_instructions_when_pattern_disabled">Press Menu to unlock.</string>
-    <string name="keyguard_network_locked_message">Network locked</string>
-    <string name="keyguard_missing_sim_message_short">No SIM card</string>
-    <string name="keyguard_missing_sim_message">No SIM card in tablet.</string>
-    <string name="keyguard_missing_sim_instructions">Insert a SIM card.</string>
+    <string name="keyguard_instructions_when_pattern_disabled">กดเมนูเพื่อปลดล็อค</string>
+    <string name="keyguard_network_locked_message">เครือข่ายถูกล็อค</string>
+    <string name="keyguard_missing_sim_message_short">ไม่มี SIM card</string>
+    <string name="keyguard_missing_sim_message">ไม่มี SIM card ในแท็บเลต</string>
+    <string name="keyguard_missing_sim_instructions">ใส่ SIM card</string>
     <string name="keyguard_missing_sim_instructions_long">The SIM card is missing or not readable. Insert a SIM card.</string>
     <string name="keyguard_permanent_disabled_sim_message_short">Unusable SIM card.</string>
     <string name="keyguard_permanent_disabled_sim_instructions">"ซิมการ์ดของคุณถูกปิดใช้งานอย่างถาวร
