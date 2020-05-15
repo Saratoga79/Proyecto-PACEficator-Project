@@ -188,7 +188,7 @@
     <string name="widget_heartrate_gauging">Checking...</string>
     <string name="widget_heartrate_gauge_failure">Please wear the watch properly on your wrist for accurate results.</string>
     <string name="widget_heartrate_gauge_failure_title">Cannot get result</string>
-    <string name="widget_err_step_shown">ERR:(-1)</string>
+    <string name="widget_err_step_shown">Грешка:(-1)</string>
     <string name="widget_heart_gauged_err">Failed to get result</string>
     <string name="widget_heart_gauged_err_tips">Wear the watch above the wrist.</string>
     <string name="widget_weeklysports_heartrate_unit">bpm</string>
@@ -246,7 +246,7 @@
     <string name="currentstep_detail_sleep_deep">Deep Sleep</string>
     <string name="currentstep_detail_activity_step_done">Goal achieved</string>
     <string name="currentstep_detail_activity_step_notdo"></string>
-    <string name="currentstep_detail_activity_run_rate_av">AVG pace</string>
+    <string name="currentstep_detail_activity_run_rate_av">AVG темпо</string>
     <string name="currentstep_detail_activity_run_rate_ma">Най-добро темпо</string>
     <string name="currentstep_detail_activity_walk_ridding_rate_av">СРД скорост</string>
     <string name="currentstep_detail_activity_walk_ridding_rate_ma">Максимална скорост</string>
@@ -272,8 +272,8 @@
     <string name="currentstep_history_title">История</string>
     <string name="step_value">%1$s / %2$s</string>
     <string name="detail_date">Today %1$s</string>
-    <string name="widget_weeklyreports_heart_rate_min_text">Min(bpm)</string>
-    <string name="widget_weeklyreports_heart_rate_max_text">Max(bpm)</string>
+    <string name="widget_weeklyreports_heart_rate_min_text">Мин(уд/мин)</string>
+    <string name="widget_weeklyreports_heart_rate_max_text">Макс(уд/мин)</string>
     <string name="widget_weeklyreports_heart_rate_title">Пулс</string>
     <string name="widget_weeklyreports_average_title">Average heart rate</string>
     <string name="widget_weeklyreports_totalcalory_front">Total Calories</string>
