@@ -123,8 +123,8 @@
     <string name="label_heart_rate_text">Heart Rate</string>
     <string name="today_heart_rate_title_text">Подробности</string>
     <string name="today_heart_rate_ave_text">Средно</string>
-    <string name="today_heart_rate_max_text">Max(bpm)</string>
-    <string name="today_heart_rate_min_text">Min(bpm)</string>
+    <string name="today_heart_rate_max_text">Макс(уд/мин)</string>
+    <string name="today_heart_rate_min_text">Мин(уд/мин)</string>
     <string name="today_heart_rate_quite_text">Resting(bpm)</string>
     <string name="today_heart_rate_value_def">--</string>
     <string name="label_all_day_heartrate">Continuous HR</string>
@@ -184,7 +184,7 @@
     <string name="widget_step_target_year_tips"><liff>%d</liff> years ago</string>
     <string name="widget_label_step_unit">Крачки</string>
     <string name="widget_label_heartrate">Heart Rate</string>
-    <string name="widget_label_heartrate_unit">beat/min</string>
+    <string name="widget_label_heartrate_unit">удара/мин</string>
     <string name="widget_heartrate_gauging">Checking...</string>
     <string name="widget_heartrate_gauge_failure">Please wear the watch properly on your wrist for accurate results.</string>
     <string name="widget_heartrate_gauge_failure_title">Cannot get result</string>
