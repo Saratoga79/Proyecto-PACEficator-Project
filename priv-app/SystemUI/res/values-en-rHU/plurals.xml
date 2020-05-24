@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="status_bar_accessibility_recent_apps">
-        <item quantity="other">%d screens in Overview</item>
-        <item quantity="one">1 screen in Overview</item>
+        <item quantity="other">%d lap az Áttekintésben</item>
+        <item quantity="one">1 lap az Áttekintésben</item>
     </plurals>
     <plurals name="kg_password_wrong_pin_code">
-        <item quantity="other">Incorrect SIM PIN code, you have %d remaining attempts.</item>
-        <item quantity="one">Incorrect SIM PIN code, you have %d remaining attempt before you must contact your carrier to unlock your device.</item>
+        <item quantity="other">Érvénytelen SIM PIN kód, még %d kísérlet maradt.</item>
+        <item quantity="one">Érvénytelen SIM PIN kód, még %d kísérlet maradt, mielőtt a szolgáltatót kell kérned a készülék feloldáshoz.</item>
     </plurals>
     <plurals name="kg_password_wrong_puk_code">
-        <item quantity="other">Incorrect SIM PUK code, you have %d remaining attempts before SIM becomes permanently unusable.</item>
-        <item quantity="one">Incorrect SIM PUK code, you have %d remaining attempt before SIM becomes permanently unusable.</item>
+        <item quantity="other">Érvénytelen SIM PUK kód, még %d kísérlet maradt, mielőtt a SIM véglegesen használhatatlanná válik.</item>
+        <item quantity="one">Érvénytelen SIM PUK kód, még %d kísérlet maradt, mielőtt a SIM véglegesen használhatatlanná válik.</item>
     </plurals>
 </resources>
