@@ -31,8 +31,8 @@
     <string name="crossing_history_detail_climb_up">Hoogtewinst</string>
     <string name="crossing_history_detail_climb_down">Cumulatieve daling</string>
     <string name="crossing_history_detail_absolute_altitude">Hoogte</string>
-    <string name="crossing_history_detail_high_altitude">Max. Hoogte</string>
-    <string name="crossing_history_detail_low_altitude">Laagste hoogte</string>
+    <string name="crossing_history_detail_high_altitude">Max. hoogte</string>
+    <string name="crossing_history_detail_low_altitude">Min. hoogte</string>
     <string name="crossing_history_detail_ave_altitude">AVG hoogte</string>
     <string name="crossing_history_detail_altituede_graph_desc">Hoogte (m)</string>
     <string name="crossing_history_detail_individual_km"><font color="#ff09ff00"><b>%1$s</b></font>km/ronde</string>
@@ -185,7 +185,7 @@
     <string name="history_speed_graph_desc_imperial">Snelheid (mph)</string>
     <string name="history_altitude_graph_desc">Hoogte (m)</string>
     <string name="history_altitude_graph_desc_imperial">Hoogte (voet)</string>
-    <string name="history_step_freq_graph_desc">Cadans (passen/min)</string>
+    <string name="history_step_freq_graph_desc">Cadans (SPM)</string>
     <string name="history_title">Activiteiten</string>
     <string name="history_detail_info">Details</string>
     <string name="hitory_rest_command">Duur herstel</string>
@@ -479,7 +479,7 @@ begin nu."</string>
     <string name="half_marathon_fastest">Halve marathon</string>
     <string name="full_marathon_fastest">Volledige marathon</string>
     <string name="ride_max_altitude_up">Max. klim(%1$s)</string>
-    <string name="moutaineer_highest_altitude">Maximale hoogte (%1$s)</string>
+    <string name="moutaineer_highest_altitude">Max. hoogte (%1$s)</string>
     <string name="moutaineer_max_altitude_up">Max. totale stijging (%1$s)</string>
     <string name="moutaineer_max_altitude_down">Max. totale daling (%1$s)</string>
     <string name="moutaineer_max_altitude_climb">Max. totale klim(%1$s)</string>
@@ -530,7 +530,7 @@ begin nu."</string>
     <string name="data_refresh_wrist_raise">Vernieuw bij pols omhoog</string>
     <string name="longest_distance_no_unit">Max. afstand</string>
     <string name="ride_max_altitude_up_no_unit">Max. klim</string>
-    <string name="moutaineer_highest_altitude_no_unit">Maximale hoogte</string>
+    <string name="moutaineer_highest_altitude_no_unit">Max. hoogte</string>
     <string name="moutaineer_max_altitude_up_no_unit">Max. totale stijging</string>
     <string name="moutaineer_max_altitude_down_no_unit">Max. totale daling</string>
     <string name="moutaineer_max_altitude_climb_no_unit">Max totale klim</string>
@@ -586,7 +586,7 @@ op basis van de trainingen in de afgelopen 7 dagen.\""</string>
     <string name="sport_te_desc_level_06">Overbelasting van het lichaam.</string>
     <string name="first_beat_remind_txt_01">Dit is een goed tempo.</string>
     <string name="first_beat_remind_txt_02">Dit is een goed tempo. Hou dit enkele minuten aan.</string>
-    <string name="sport_history_recovery_remind">Plan onderhoudende workouts om het herstel te bespoedigen.</string>
+    <string name="sport_history_recovery_remind">Onderhoudende workouts bespoedigen het herstel.</string>
     <string name="daily_propermance_has_no_data">Geen gegevens</string>
     <string name="first_beat_help_title_vo2_max">Maximum</string>
     <string name="first_beat_help_title_train_efffect">Trainingseffect (TE)</string>
@@ -601,7 +601,8 @@ op basis van de trainingen in de afgelopen 7 dagen.\""</string>
     <string name="first_beat_help_daily_perpormence">"&lt;font color=#00FF00&gt;What is this?&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Realtime prestatieconditie geeft aan of u boven of onder uw gemiddelde prestatieniveau bent en hoe accumulerende vermoeidheid uw prestaties beïnvloedt.
 &lt;br/&gt;&lt;font color=#00FF00&gt;Hoe werkt het？ &lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Het horloge evalueert uw prestaties automatisch na ~6minuten hardlopen. Een hogere waarde dan gemiddeld geeft aan dat u een zwaardere training aankunt dan u normaal zou doen. Een lagere waarde suggereert dat u een gemakkelijkere training moet nemen.
 &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Na het voltooien van een training kunt u de prestaties analyseren door naar het resultaat bij elke km in de grafiek te bekijken. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;"</string>
-    <string name="first_beat_help_recovery_time">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Na het voltooien van een training wordt u voorzien van tijd in minuten voor volledig herstel. De hersteltijd tussen trainingen is vervroegd naar nul gedaald als er geen nieuwe trainingsgegevens beschikbaar zijn. De gebruiker wordt aangemoedigd om wat lage intensiteit workouts te hebben om te helpen met het herstel. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;Voor meer details, bekijk Help in Amazfit app.&lt;/small&gt;</string>
+    <string name="first_beat_help_recovery_time">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Na een training krijg je de tijd tot volledig herstel. De hersteltijd tussen trainingen is vervroegd naar nul gedaald als er geen nieuwe trainingsgegevens beschikbaar zijn. De gebruiker wordt aangemoedigd om wat lage intensiteit workouts tehouden om het herstel te bespoedigen.
+&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;</string>
     <string name="vo2max_unit">ml/kg/min</string>
     <string name="run_vo2max_unit">ml/kg/min</string>
     <string name="vo2_max_has_no_data">Geen gegevens</string>
@@ -863,7 +864,7 @@ op basis van de trainingen in de afgelopen 7 dagen.\""</string>
     <string name="running_avg_speed_desc_simple">AVG. snelheid</string>
     <string name="running_pace_unit">/km</string>
     <string name="running_calorie_unit">kcal</string>
-    <string name="running_step_freq_unit">passen/min</string>
+    <string name="running_step_freq_unit">SPM</string>
     <string name="running_speed_unit">km/u</string>
     <string name="running_distance_unit">km</string>
     <string name="running_heartrate_unit">BPM</string>
