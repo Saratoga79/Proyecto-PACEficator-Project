@@ -2,13 +2,13 @@
 <resources>
     <string name="locale_title">Sprache wählen</string>
     <string name="app_name">Ort</string>
-    <string name="new_location">New location</string>
+    <string name="new_location">Neuer Standort</string>
     <string name="saved_location">Standort gespeichert</string>
-    <string name="gps_searching">Searching for GPS signal…</string>
+    <string name="gps_searching">Suche nach GPS-Signal…</string>
     <string name="gps_search_failed_title">"GPS nicht verfügbar"</string>
-    <string name="gps_search_failed_content">Try again outdoors.</string>
-    <string name="wait_gps_search_retry">Try again</string>
-    <string name="gps_info_reaching">Getting location…</string>
+    <string name="gps_search_failed_content">Versuchen Sie es draußen wieder.</string>
+    <string name="wait_gps_search_retry">Erneut versuchen</string>
+    <string name="gps_info_reaching">Bestimme Standort…</string>
     <string name="date_am">AM</string>
     <string name="date_pm">PM</string>
     <string name="back">Zurück</string>
@@ -20,13 +20,13 @@
     <string name="west_lng">WL</string>
     <string name="north_lat">NL</string>
     <string name="south_lat">SL</string>
-    <string name="location_list_no_data">No locations</string>
+    <string name="location_list_no_data">Keine Standorte</string>
     <string name="icon_list_select_confirm">Auswählen</string>
-    <string name="delete_loaction_tips">Remove this location?</string>
+    <string name="delete_loaction_tips">Standort entfernen?</string>
     <string name="yes">Ja</string>
     <string name="no">Nein</string>
     <string name="location_navigation">Navigieren</string>
-    <string name="beyond_distance">"Can't navigate, because the destination you selected is 2000 km away from current location"</string>
+    <string name="beyond_distance">"Navigieren nicht möglich, da das ausgewählte Ziel 2000 km vom aktuellen Standort entfernt ist"</string>
     <string name="exteed_max_num">"Can't add more than 500 locations"</string>
     <string name="gps_save">Speichern</string>
     <string name="altitude_unit">m</string>
