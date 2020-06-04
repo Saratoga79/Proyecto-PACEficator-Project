@@ -14,7 +14,7 @@
     <string name="crossing_title">Cross-country</string>
     <string name="crossing_end_sport">Stop cross-country eerst</string>
     <string name="crossing_in_progress">Cross-country...</string>
-    <string name="crossing_max_step_freq_desc">Max. Cadans</string>
+    <string name="crossing_max_step_freq_desc">Max. cadans</string>
     <string name="crossing_climb_up">Afstandswinst</string>
     <string name="crossing_climb_down">Hoogteverlies</string>
     <string name="crossing_individual_pen_dis">Rondelengte</string>
@@ -24,7 +24,7 @@
     <string name="crossing_vertical_velocity_unit">voet/u</string>
     <string name="crossing_history_detail_total_time">Tijdsduur</string>
     <string name="crossing_history_detail_move_time">Bewegingsduur</string>
-    <string name="crossing_history_detail_ave_move_pace">Gemiddeld tempo</string>
+    <string name="crossing_history_detail_ave_move_pace">AVG tempo</string>
     <string name="crossing_history_detail_ave_move_pace_unit">/km</string>
     <string name="crossing_history_detail_best_pace">Beste tempo</string>
     <string name="crossing_history_detail_ave_move_speed">AVG snelheid</string>
@@ -33,7 +33,7 @@
     <string name="crossing_history_detail_climb_down">Hoogteverlies</string>
     <string name="crossing_history_detail_absolute_altitude">Hoogte</string>
     <string name="crossing_history_detail_high_altitude">Max. Hoogte</string>
-    <string name="crossing_history_detail_low_altitude">Min Hoogte</string>
+    <string name="crossing_history_detail_low_altitude">Min. Hoogte</string>
     <string name="crossing_history_detail_ave_altitude">AVG hoogte</string>
     <string name="crossing_history_detail_altituede_graph_desc">Hoogte (meter)</string>
     <string name="crossing_history_detail_individual_km"><font color="#ff09ff00"><b>%1$s</b></font>km/ronde</string>
@@ -94,7 +94,7 @@
     <string name="detail_lap_time">Verstreken tijd</string>
     <string name="detail_total_distance_desc">Totale Afstand</string>
     <string name="detail_lap_dis">Afstand</string>
-    <string name="detail_lap_avg_pace">Gemiddeld tempo</string>
+    <string name="detail_lap_avg_pace">AVG tempo</string>
     <string name="detail_curve_graph">Grafiek</string>
     <string name="battery_support_sport">Rest. trainingstijd</string>
     <string name="battery_continue_distance_unit"> km</string>
@@ -221,7 +221,7 @@
     <string name="sport_main_avg_stride_unit">cm/pas</string>
     <string name="sport_main_avg_heart_rate">AVG HR</string>
     <string name="sport_main_max_heart_rate">Max. HR</string>
-    <string name="sport_main_min_heart_rate">Min HR</string>
+    <string name="sport_main_min_heart_rate">Min. HR</string>
     <string name="sport_main_graph_title">Recentste (min)</string>
     <string name="exchange_time_cost">Overgangstijd</string>
     <string name="exchange_in_progress">In overgang</string>
@@ -233,8 +233,8 @@
     <string name="sport_pause_normal_stroke_unit">Slagen</string>
     <string name="sport_auto_lap_dis">Tijd voor %1$skm</string>
     <string name="sport_auto_lap_dis_imperial">Tijd voor %1$smi</string>
-    <string name="sport_graph_title_ave">Gemiddeld</string>
-    <string name="sport_graph_title_max">Max</string>
+    <string name="sport_graph_title_ave">AVG</string>
+    <string name="sport_graph_title_max">Max.</string>
     <string name="sport_graph_title_min">Min</string>
     <string name="sport_graph_title_fast">Snelste</string>
     <string name="sport_graph_title_high">Hoogste</string>
@@ -594,7 +594,7 @@ op basis van de oefeningen die in de afgelopen
     <string name="indoor_riding_progressing">Aan het fietsen</string>
     <string name="outdoor_climb_distance">Grondsnelheid</string>
     <string name="outdoor_climb_altitude">Hoogtewinst</string>
-    <string name="outdoor_max_cadence">Max Cadans</string>
+    <string name="outdoor_max_cadence">Max. cadans</string>
     <string name="outdoor_ave_cadence">AVG cadans</string>
     <string name="outdoor_graph_unit">Afstand (km)</string>
     <string name="outdoor_speed_graph_title">Snelheid (km/u)</string>
@@ -731,7 +731,7 @@ op basis van de oefeningen die in de afgelopen
     <string name="running_speed_desc">Snelheid</string>
     <string name="running_distance_desc">Afstand</string>
     <string name="running_heartrate_desc">Hartslag</string>
-    <string name="running_avg_pace_desc">Gemiddeld tempo</string>
+    <string name="running_avg_pace_desc">AVG tempo</string>
     <string name="running_avg_speed_desc">AVG snelheid</string>
     <string name="walking_step_count">Passen</string>
     <string name="crossing_vertical_speed">Vertikale Snelheid</string>
@@ -758,7 +758,7 @@ op basis van de oefeningen die in de afgelopen
     <string name="sport_continue">Hervat</string>
     <string name="sport_stop">Stop</string>
     <string name="running_kilometers">km</string>
-    <string name="running_avg_pace_desc_simple">Gemiddeld tempo</string>
+    <string name="running_avg_pace_desc_simple">AVG tempo</string>
     <string name="running_avg_speed_desc_simple">AVG snelheid</string>
     <string name="running_pace_unit">/km</string>
     <string name="running_calorie_unit">kCal</string>
@@ -991,7 +991,7 @@ op basis van de oefeningen die in de afgelopen
  Je kunt het via USB naar een computer kopiëren."</string>
     <string name="hint_failed">"Kan niet exporteren, probeer opnieuw."</string>
     <string name="app_name">GPX-recorder</string>
-    <string name="average_text">Gemiddeld</string>
+    <string name="average_text">AVG </string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">OK</string>
     <string name="picker_default_nagetive_text">Uit</string>
