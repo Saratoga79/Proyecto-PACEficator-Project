@@ -444,7 +444,7 @@
     <string name="give_up_re_modify_dis">Negeren</string>
     <string name="confirm_re_modify_dis">OK</string>
     <string name="re_modify_dis_successful">Succesvol gekalibreerd</string>
-    <string name="new_pb_record">Nieuw persoonlijk record</string>
+    <string name="new_pb_record">Persoonlijk record</string>
     <string name="longest_distance">Verste afstand (%1$s)</string>
     <string name="longest_time">Langste tijd</string>
     <string name="_3_km_or_mi_fastest">Snelste 3%1$s</string>
@@ -602,7 +602,7 @@ op basis van de oefeningen die in de afgelopen
     <string name="con_leqi_table_title">LEQI fietscomputer ondersteund, nu verbinden?</string>
     <string name="con_leqi_table_subtitle">(Zie Systeeminstellingen &gt; - Bluetooth)</string>
     <string name="remind_target_riding_km_title_format">%1$dkm afgelegd</string>
-    <string name="indoor_riding_time_too_short">Oefentijd is te kort om op te slaan. Weet je zeker dat je stopt?</string>
+    <string name="indoor_riding_time_too_short">Opname te kort om op te slaan. Weet je zeker dat je stopt?</string>
     <string name="outdoor_climb_down_altitude">Cumulatieve daling</string>
     <string name="outdoor_climb_down_distance">Afstand afname</string>
     <string name="outdoor_climb_down_distance_time">Tijd bergaf</string>
@@ -624,7 +624,7 @@ op basis van de oefeningen die in de afgelopen
     <string name="real_time_guide_title_25">Versnel</string>
     <string name="real_time_guide_title_26">Versnel</string>
     <string name="real_time_guide_title_27">Doel bereikt!</string>
-    <string name="real_time_guide_title_28">De begeleide oefening is afgelopen.</string>
+    <string name="real_time_guide_title_28">Goed gedaan！</string>
     <string name="real_time_guide_title_30">Goed gedaan！</string>
     <string name="real_time_guide_title_31">Zeer goed</string>
     <string name="real_time_guide_title_32">Zeer goed</string>
@@ -644,8 +644,8 @@ op basis van de oefeningen die in de afgelopen
     <string name="real_time_guide_desc_26">Loop sneller</string>
     <string name="real_time_guide_desc_27">Doel bereikt！</string>
     <string name="real_time_guide_desc_28">Je hebt %1$s%% van je doel bereikt.</string>
-    <string name="real_time_guide_desc_30">Dit type oefening houdt u fit.</string>
-    <string name="real_time_guide_desc_31">Deze oefening is intensief genoeg om uw conditie te verbeteren.</string>
+    <string name="real_time_guide_desc_30">Dit type oefening houdt je fit.</string>
+    <string name="real_time_guide_desc_31">Deze oefening is intensief genoeg om je conditie te verbeteren.</string>
     <string name="real_time_guide_desc_32">Verbeterde cardiopulmonaire vaardigheid.</string>
     <string name="real_time_guide_desc_33">Deze oefening was mogelijk te moeilijk voor jouw lichaam.</string>
     <string name="real_time_guide_desc_34">Doel hartslagbereik %1$s-%2$s BPM.</string>
@@ -985,7 +985,7 @@ op basis van de oefeningen die in de afgelopen
     <string name="dlg_btn_l_msg">Nee</string>
     <string name="dlg_btn_r_msg">Ja</string>
     <string name="hint_cancelling">Annuleren…</string>
-    <string name="hint_success_exported_title">Succesvol geëxporteerd naar GPX</string>
+    <string name="hint_success_exported_title">GPX export succesvol</string>
     <string name="hint_failed_exported_title">"Exporteren mislukt"</string>
     <string name="hint_where">"Het GPX-bestand is in de map \'/sdcard/gpxdata\' geplaatst.
  Je kunt het via USB naar een computer kopiëren."</string>
