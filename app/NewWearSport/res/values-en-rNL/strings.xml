@@ -87,11 +87,11 @@
     <string name="detail_route_title">Routetijd</string>
     <string name="detail_route_total_dis">Totale afstand</string>
     <string name="detail_route_detail_lap_title">Ronde details</string>
-    <string name="detail_route_detail_manual_lap_title">Handmatige rondes</string>
+    <string name="detail_route_detail_manual_lap_title">Rondes</string>
     <string name="detail_route_detail_auto_lap_title">Auto Rondes</string>
     <string name="detail_lap_num">Ronde</string>
     <string name="detail_lap_serial_number">Serienummer</string>
-    <string name="detail_lap_time">Verstreken tijd</string>
+    <string name="detail_lap_time">Tijdsduur</string>
     <string name="detail_total_distance_desc">Totale Afstand</string>
     <string name="detail_lap_dis">Afstand</string>
     <string name="detail_lap_avg_pace">AVG tempo</string>
@@ -214,7 +214,7 @@
     <string name="sport_main_am">AM</string>
     <string name="sport_main_pm">PM</string>
     <string name="sport_main_recovery_title">Aanbevolen herstel</string>
-    <string name="sport_history_full_recovery">Volledig herstel:</string>
+    <string name="sport_history_full_recovery">Recuperatie:</string>
     <string name="sport_main_avg_stride">AVG paslengte</string>
     <string name="sport_main_stride">Paslengte</string>
     <string name="sport_main_total_kcal">Calorieën</string>
@@ -465,7 +465,7 @@
     <string name="recovery_time_hour">u</string>
     <string name="sport_vo2_max">VO₂ max</string>
     <string name="sport_ability">Conditieniveau</string>
-    <string name="sport_train_load">Training Load</string>
+    <string name="sport_train_load">Intensiteit</string>
     <string name="first_beat_sport_status">Lichaamsstatus</string>
     <string name="currnet_daily_performance_staus">Huidige conditie</string>
     <string name="sport_ability_up">Verbeterend</string>
@@ -474,8 +474,8 @@
     <string name="train_load_medium">Medium</string>
     <string name="train_load_near_seven_days">Voorbije week</string>
     <string name="train_load_suggess_status_no_record">"We zullen uw trainingsintensiteit evalueren 
-op basis van de oefeningen die in de afgelopen 
-7 dagen zijn opgenomen"</string>
+op basis van de oefeningen van de voorbije
+7 dagen."</string>
     <string name="train_load_suggess_status_less">Laag</string>
     <string name="train_load_suggess_status_good">Optimaal</string>
     <string name="train_load_suggess_status_recovery">Hoog</string>
@@ -508,13 +508,13 @@ op basis van de oefeningen die in de afgelopen
     <string name="daily_propermance_has_no_data">Geen gegevens</string>
     <string name="first_beat_help_title_vo2_max">VO₂ max</string>
     <string name="first_beat_help_title_train_efffect">Trainingseffect (TE)</string>
-    <string name="first_beat_help_title_train_load">Training Load</string>
+    <string name="first_beat_help_title_train_load">Intensiteit</string>
     <string name="first_beat_help_title_sport_target_or_real_time_guide">Aanbevolen loopdoelen &amp; Realtime Coaching</string>
     <string name="first_beat_help_title_daily_perpormence">Lichaamsstatus</string>
     <string name="first_beat_help_title_recovery_time">Herstel</string>
-    <string name="first_beat_help_vo2_max">"&lt;font color=#00FF00&gt;Wat is dit？&lt;/font&gt;&lt;br/&gt; VO₂max staat voor het maximale zuurstofvolume dat het lichaam in één minuut kan consumeren, gemeten in ml/kg/min. Het geeft de toestand van de cardiorespiratoire fitheid weer, wat belangrijk is voor de algehele gezondheid, welzijn en sportprestatie.&lt;br/&gt;Het horloge evalueert automatisch uw VO₂max op basis van hartslag, snelheid enz. tijdens een hardlooptraining van matige intensiteit en vergelijkt die met een referentiegroep van dezelfde leeftijd en geslacht om uw fitnessniveau te bepalen.&lt;br/&gt;&lt;font color=#00FF00&gt;Hoe gebruiken?&lt;/font&gt;&lt;br/&gt; 1. Geef nauwkeurige profielinformatie zoals leeftijd en geslacht in de Amazfit Watch-app； &lt;br/&gt; 2. Neem een ​​stevige (15 minuten of meer) hardloopsessie en zorg ervoor dat de hartslag gedurende minstens 10 minuten op of boven 75% van uw maxHR ligt.&lt;br/&gt; 3. Na het voltooien van de run, kun je de huidige VO₂max bekijken in de sportactiviteiten-app op het horloge of persoonlijke statuspagina in de Amazift Watch-app."</string>
+    <string name="first_beat_help_vo2_max">"&lt;font color=#00FF00&gt;Wat is dit？&lt;/font&gt;&lt;br/&gt; VO₂max staat voor het maximale zuurstofvolume dat het lichaam in één minuut kan opnemen, gemeten in ml/kg/min. Het geeft de toestand van de cardiorespiratoire fitheid weer, wat belangrijk is voor de algehele gezondheid, welzijn en sportprestatie.&lt;br/&gt;Het horloge evalueert automatisch uw VO₂max op basis van hartslag, snelheid enz. tijdens een training van matige intensiteit en vergelijkt die met een referentiegroep van dezelfde leeftijd en geslacht om uw fitnessniveau te bepalen.&lt;br/&gt;&lt;font color=#00FF00&gt;Hoe gebruiken?&lt;/font&gt;&lt;br/&gt; 1. Geef nauwkeurige profielinformatie zoals leeftijd en geslacht in de Amazfit-app.； &lt;br/&gt; 2. Neem een ​​stevige (15 minuten of meer) trainingssessie en zorg ervoor dat de hartslag gedurende minstens 10 minuten op of boven 75% van uw maxHR ligt.&lt;br/&gt; 3. Na het voltooien van de training, kun je de VO₂max-waarde vinden in de sportactiviteiten op het horloge in de Amazift-app."</string>
     <string name="first_beat_help_te">&lt;font color=#00FF00&gt;Wat is dit? &lt;/font&gt;&lt;br/&gt; Meting van de geaccumuleerde belasting tijdens een training en interpretatie van de impact ervan op uw aerobe conditie. TE begint vanaf niveau 0.0. Naarmate de training met succes vordert, neemt de TE-waarde toe (van 0 tot 5) en vertelt u hoe de training uw conditie beïnvloedt.&lt;br/&gt;&lt;font color=#00FF00&gt;Hoe wordt dit berekend? &lt;/font&gt;&lt;br/&gt; TE wordt berekend op basis van uw gebruikersprofiel, hartslaggegevens en moeilijkheidsgraad van de training. Het horloge toont realtime TE-meting tijdens een training en het uiteindelijke TE-resultaat aan het einde van de training. Een &lt;2,0 TE geeft gewoon aan dat de training weinig effect heeft op de cardiorespiratoire conditie en alleen nuttig is voor het opbouwen van uithoudingsvermogen en herstel.&lt;br/&gt;&lt;small&amp;gt</string>
-    <string name="first_beat_help_train_load">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Het horloge zal de trainingsbelasting berekenen op basis van EPOC-waarden (zuurstofverbruik na training) die zijn verzameld uit hartslaggegevens tijdens trainingen geregistreerd, in een 7-dagen rollend venster. De gebruiker kan het trainingsschema aanpassen om een ​​optimale belasting te bereiken. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&amp;gt</string>
+    <string name="first_beat_help_train_load">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Het horloge zal de trainingsbelasting berekenen op basis van EPOC-waarden (zuurstofverbruik na training) die zijn verzameld uit hartslaggegevens tijdens trainingen, in een 7-dagen rollend venster. De gebruiker kan het trainingsschema aanpassen om een ​​optimale belasting te bereiken. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&amp;gt</string>
     <string name="first_beat_help_run_target_and_real_time_guide">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Het horloge geeft een trainingsaanbeveling op basis van uw VO₂ max -niveau, recente trainingsbelasting en herstelstatus van vorige training. 
 &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Indien u de realtime coachingsfunctie in de instellingen inschakelt en een TE-doel instelt of een van de aanbevolen trainingen kiest, zal het horloge u door de training leiden en u waarschuwen om het tempo en de hartslag aan te passen om vastgestelde doelen te bereiken.</string>
     <string name="first_beat_help_daily_perpormence">"&lt;font color=#00FF00&gt;What is this?&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Realtime prestatieconditie geeft aan of u boven of onder uw gemiddelde prestatieniveau bent en hoe accumulerende vermoeidheid uw prestaties beïnvloedt.
