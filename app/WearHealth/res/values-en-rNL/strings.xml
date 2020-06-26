@@ -47,12 +47,12 @@
     <string name="label_active_slow">Vetverbranding</string>
     <string name="label_active_xslow">Non-Workout</string>
     <string name="label_quiet_normal_any">Hartslag in rusttoestand: 60-100 BPM. Matige lichaamsbeweging, een gezonde levensstijl en de gemoedstoestand faciliteren een normale hartslag.</string>
-    <string name="label_quiet_fast_well_medium">Aanbevelingen hartslag binnen de 60-100 BPM. Matige lichaamsbeweging, een gezonde levensstijl en gemoedstoestand vergemakkelijken een normale hartslag.</string>
+    <string name="label_quiet_fast_well_medium">Aanbeveling: tussen 60 &amp; 100 BPM. Matige lichaamsbeweging, een gezonde levensstijl en de gemoedstoestand bevorderen een normale hartslag.</string>
     <string name="label_quiet_fast_well_good">Veranderingen in de stemming, zoals nerveusheid en opwinding, kunnen een hoge hartslag veroorzaken. Gemoedsrust handhaven helpt om een normale hartslag te behouden.</string>
     <string name="label_quiet_fast_well_bad">Negatieve emoties zoals ongemak en angst kunnen een hoge hartslag veroorzaken. Gemoedsrust handhaven helpt om een normale hartslag te behouden.</string>
     <string name="label_quiet_fast_sick_any">Aandoeningen zoals hoge koorts, bloedarmoede of infecties kunnen een hoge hartslag veroorzaken. Aandacht besteden aan dagelijkse routines die gezondheid en gezond leven bevorderen.</string>
     <string name="label_quiet_fast_tired_any">Overmatige vermoeidheid kan een hoge hartslag veroorzaken. Een goed evenwicht tussen werk en privéleven en korte pauzes houden, helpen om een normale hartslag te behouden.</string>
-    <string name="label_quiet_slow_any">Aanbevelingenhartslag binnen de 60-100 BPM-zone. Matige lichaamsbeweging en een gezonde levensstijl en gemoedstoestand vergemakkelijken een normale hartslag.</string>
+    <string name="label_quiet_slow_any">Aanbeveling is een hartslag tussen 60 &amp; 100BPM. Matige lichaamsbeweging, een gezonde levensstijl en gemoedstoestand bevorderen een normale hartslag.</string>
     <string name="label_active_xslow_well_medium">Voor de beste resultaten verhoogt u de trainingsintensiteit en -duur tot de hartslag binnen 50-85% van het maximum ligt.</string>
     <string name="label_active_xslow_well_good">Neurologische en spierfuncties zullen gesynchroniseerd zijn wanneer U in een goed humeur bent, wat dan een positieve invloed op de training zal hebben.</string>
     <string name="label_active_xslow_well_bad">Matige lichaamsbeweging kan negatieve emoties overbrengen en stress verlichten.</string>
@@ -99,7 +99,7 @@
     <string name="heart_rate_no_data">N/A</string>
     <string name="label_heart_rate_text">Hartslag</string>
     <string name="today_heart_rate_title_text">Details</string>
-    <string name="today_heart_rate_ave_text">Gemiddeld</string>
+    <string name="today_heart_rate_ave_text">AVG </string>
     <string name="today_heart_rate_max_text">Max. (BPM)</string>
     <string name="today_heart_rate_min_text">Min (BPM)</string>
     <string name="today_heart_rate_quite_text">Rust (BPM)</string>
@@ -156,7 +156,7 @@
     <string name="widget_weeklyreports_heart_rate_min_text">Min (BPM)</string>
     <string name="widget_weeklyreports_heart_rate_max_text">Max. (BPM)</string>
     <string name="widget_weeklyreports_heart_rate_title">Hartslag</string>
-    <string name="widget_weeklyreports_average_title">Gemiddeld</string>
+    <string name="widget_weeklyreports_average_title">AVG </string>
     <string name="widget_weeklyreports_totalcalory_front">Totaal Calorieën</string>
     <string name="widget_weeklyreports_totalcalory_title">Calorieën</string>
     <string name="widget_weeklyreports_sports_title">Sport</string>
