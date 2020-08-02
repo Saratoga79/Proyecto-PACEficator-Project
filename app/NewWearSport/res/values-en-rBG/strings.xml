@@ -102,12 +102,12 @@
     <string name="battery_continue_imperial_distance_unit"> mi</string>
     <string name="battery_continue_time_unit"> h</string>
     <string name="battery_split">/</string>
-    <string name="suggest_reset_time">Време за пълно възстановяване: %1$sч</string>
+    <string name="suggest_reset_time">Time to full recovery: %1$sh</string>
     <string name="remain_time_recovery"><Data>време до пълното възстановяване&amp;nbsp;&lt;font color=#00ff00&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;/font&gt;&amp;nbsp; ч</Data></string>
     <string name="more_sport_tint">Още</string>
     <string name="zh_space">　</string>
     <string name="en_space"> </string>
-    <string name="picker_title_auto_pause">Скорост (м:с/%1$s)</string>
+    <string name="picker_title_auto_pause">Pace (m:s/%1$s)</string>
     <string name="picker_title_auto_pause_speed">Скорост (%1$s/ч)</string>
     <string name="picker_title_target_dis">Разстояние (%1$s)</string>
     <string name="picker_title_target_time">Време (Ч/М)</string>
@@ -166,16 +166,16 @@
     <string name="sport_settings_te_title">Избери</string>
     <string name="sport_settings_current_target_te_title">Сегашната цел на</string>
     <string name="sport_select_more_setting_content">Промяна</string>
-    <string name="sport_cur_tar_dis_km">Разстояние:%1$sкм</string>
+    <string name="sport_cur_tar_dis_km">Distance: %1$skm</string>
     <string name="sport_cur_tar_dis_mi">Разстояние:%1$s Mi</string>
     <string name="sport_cur_tar_dis_meter">Разстояние:%1$s м</string>
     <string name="sport_cur_tar_dis_ft">Разстояние:%1$s фута</string>
     <string name="sport_cur_tar_dis_yd">Разстояние:%1$s уй</string>
-    <string name="sport_cur_tar_time">Работно време:%1$dч %2$dм</string>
+    <string name="sport_cur_tar_time">Elapsed time: %1$dh %2$dm</string>
     <string name="sport_cur_tar_cal">Калоричност: ккал%1$s</string>
     <string name="sport_cur_tar_trips">Обиколки:%1$s</string>
     <string name="sport_setting_select_te_stage_title">Изберете тези</string>
-    <string name="sport_setting_te_stage_content">Тези%1$s%2$sм</string>
+    <string name="sport_setting_te_stage_content">TE%1$s %2$sm</string>
     <string name="history_pace_graph_desc">Температура (мин/км)</string>
     <string name="history_pace_graph_desc_imperial">Температура (мин/км)</string>
     <string name="history_swim_pace_graph_desc">Скорост (мин/100 м)</string>
@@ -384,7 +384,7 @@
     <string name="click_finsh_this_train_unit">Щракнете върху бутона назад, за да завърши</string>
     <string name="has_no_train_unit_remind">Добави интервални тренировки в Amazfit приложение и синхронизиране на тези часовници.</string>
     <string name="interval_segment_details">Интервал детайли</string>
-    <string name="test_html_txt" formatted="false">%1sм%2sс/%3sм</string>
+    <string name="test_html_txt" formatted="false">%1sm%2ss/%3sm</string>
     <string name="sport_widget_title_skiing">Ски</string>
     <string name="sport_widget_title_in_skiing">Ски</string>
     <string name="skiing_history_downhill_title">Спускане</string>
@@ -637,7 +637,7 @@
     <string name="run_train_intermittent">Интервал</string>
     <string name="run_train_intermittent_select_train">Избери</string>
     <string name="run_train_vo2max_test">Иначе VO2max тест</string>
-    <string name="run_train_vo2max_test_tips">Носи часовник не по-малко от 10 минути на активно бягане и генериране на сърдечната честота достига %1$dБПМ</string>
+    <string name="run_train_vo2max_test_tips">Wear watch for at least 10 minutes of outdoor running and generate heart rate value reaching %1$dbpm</string>
     <string name="music_title">Музика</string>
     <string name="music_local_title">Музика при спортуване</string>
     <string name="music_no_resource">Няма на разположение на песни</string>
@@ -727,7 +727,7 @@
     <string name="real_time_guide_desc_11">Отново се ускори</string>
     <string name="real_time_guide_desc_14">Вие вече сте преминали много добра тренировка.</string>
     <string name="real_time_guide_desc_22">Вашата цел ще бъде постигната в %1$s мин</string>
-    <string name="real_time_guide_desc_25">Целеви диапазон на сърдечната честота е %1$s-%2$sудара в минута.</string>
+    <string name="real_time_guide_desc_25">Target heart rate range is %1$s-%2$sBPM.</string>
     <string name="real_time_guide_desc_26">Работи по-бързо</string>
     <string name="real_time_guide_desc_27">Достигнали сте целта си.</string>
     <string name="real_time_guide_desc_28">Вие сте достигнали %1$s%% вашата цел.</string>
@@ -911,7 +911,7 @@
     <string name="settings_item_title_Leqi_remind">Сигнали за комуникация</string>
     <string name="settings_item_value_open">Вкл</string>
     <string name="settings_item_value_closed">Изкл</string>
-    <string name="settings_item_value_target_use_time">%1$dч %2$dм</string>
+    <string name="settings_item_value_target_use_time">%1$dh %2$dm</string>
     <string name="settings_item_value_target_distance">%.2f km</string>
     <string name="settings_item_value_pace">Съобщете, когато по-бавно, отколкото %1$s</string>
     <string name="title_medal_list_header">Постигане на</string>
@@ -969,14 +969,14 @@
     <string name="remind_pace_current">Текущ</string>
     <string name="remind_pace_target">Цел</string>
     <string name="remind_pace_pace_unit">/km</string>
-    <string name="remind_target_time_title_format">Целта на %1$dч %2$dм</string>
+    <string name="remind_target_time_title_format">Target at %1$dh %2$dm</string>
     <string name="remind_target_time_distance">Разстояние</string>
     <string name="remind_target_time_distance_unit">km</string>
     <string name="remind_target_time_pace">Темпо</string>
     <string name="remind_target_time_pace_unit">/km</string>
     <string name="sport_in_progress_confirm">ОК</string>
     <string name="sport_modify">Калибрирай</string>
-    <string name="sport_history_detail_heart_unit">Блок (ч:м:с)</string>
+    <string name="sport_history_detail_heart_unit">Unit (h:m:s)</string>
     <string name="widget_sport_item_running_title">Старт</string>
     <string name="wait_gps_no_gps_signal">GPS не е налична, опитайте отново за открито пространство</string>
     <string name="wait_gps_search_retry">Опитай отново</string>
@@ -1093,7 +1093,7 @@
     <string name="km_imperial_settings_item_value_target_distance">%1$s mi</string>
     <string name="meter_imperial_settings_item_value_target_distance">%1$s ft</string>
     <string name="swim_meter_remind_target_distance_title_format">Целта е на%1$dм</string>
-    <string name="swim_yard_remind_target_distance_title_format">Целта на%1$dуй</string>
+    <string name="swim_yard_remind_target_distance_title_format">Goal%1$dyd</string>
     <string name="vo2_max_title">VO₂ max</string>
     <string name="vo2_max_level_very_good">Много добър</string>
     <string name="vo2_max_level_middle">Средно</string>
