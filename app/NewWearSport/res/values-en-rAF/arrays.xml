@@ -27,27 +27,27 @@
         <item>sport_target_remind_desc_01</item>
     </string-array>
     <string-array name="support_sport">
-        <item>RUNNING</item>
-        <item>WALKING</item>
-        <item>CROSSING</item>
+        <item>در حال اجرا</item>
+        <item>راه رفتن</item>
+        <item>عبور</item>
         <item>INDOOR_RUN</item>
         <item>OUTDOOR_RIDING</item>
         <item>INDOOR_RIDING</item>
         <item>ELLIPTICAL_MACHINE</item>
     </string-array>
     <string-array name="dally_performence_level_status">
-        <item>Fatigued</item>
-        <item>Normal</item>
-        <item>Good</item>
+        <item>خسته</item>
+        <item>عادی</item>
+        <item>خوب</item>
     </string-array>
     <string-array name="vo2_max_level_status">
-        <item>Very poor</item>
-        <item>Poor</item>
-        <item>Fair</item>
-        <item>Average</item>
-        <item>Good</item>
-        <item>Very good</item>
-        <item>Excellent</item>
+        <item>بسیار ضعیف</item>
+        <item>فقیر</item>
+        <item>نمایشگاه</item>
+        <item>متوسط</item>
+        <item>خوب</item>
+        <item>بسیار خوب</item>
+        <item>عالی</item>
     </string-array>
     <string-array name="spring_depend">
         <item>com.huami.watch.newsport/com.huami.watch.newsport.widget.SportWidget</item>
@@ -58,47 +58,47 @@
     <string-array name="sport_data_item_array">
         <item></item>
         <item>زمان</item>
-        <item>Distance</item>
-        <item>Pace</item>
-        <item>Avg pace</item>
-        <item>Heart rate</item>
+        <item>فاصله</item>
+        <item>سرعت</item>
+        <item>Avg سرعت</item>
+        <item>ضربان قلب</item>
         <item>\"Calories
 \"</item>
-        <item>Altitude</item>
-        <item>Elev gain</item>
-        <item>Elev loss</item>
-        <item>Speed</item>
-        <item>Avg speed</item>
-        <item>Cadence</item>
-        <item>Dist gain</item>
-        <item>Steps</item>
-        <item>Cadence</item>
-        <item>Laps</item>
+        <item>ارتفاع</item>
+        <item>ارتفاع به دست آوردن</item>
+        <item>ارتفاع از دست دادن</item>
+        <item>سرعت</item>
+        <item>میانگین سرعت</item>
+        <item>آهنگ</item>
+        <item>منطقه به دست آورید</item>
+        <item>مراحل</item>
+        <item>آهنگ</item>
+        <item>دور</item>
         <item>DPS</item>
-        <item>Stroke rate</item>
+        <item>سکته مغزی رای</item>
         <item>Avg SPM</item>
-        <item>Pace</item>
-        <item>Avg pace</item>
-        <item>Distance</item>
+        <item>سرعت</item>
+        <item>Avg سرعت</item>
+        <item>فاصله</item>
         <item>TE</item>
-        <item>Vert speed</item>
-        <item>Avg speed</item>
-        <item>Max speed</item>
-        <item>Laps</item>
-        <item>Downhill</item>
-        <item>Total downhill</item>
-        <item>Descent</item>
-        <item>Strokes</item>
+        <item>Vert سرعت</item>
+        <item>میانگین سرعت</item>
+        <item>حداکثر سرعت</item>
+        <item>دور</item>
+        <item>سراشیبی</item>
+        <item>مجموع سراشیبی</item>
+        <item>تبار</item>
+        <item>سکته مغزی</item>
         <item>Lap time</item>
         <item>Lap pace</item>
         <item>Lap speed</item>
         <item>Lap HR</item>
         <item>Lap cadence</item>
         <item>Lap pace</item>
-        <item>Current freq</item>
-        <item>Total count</item>
+        <item>زمان freq</item>
+        <item>تعداد کل</item>
         <item>Avg freq</item>
-        <item>Groups</item>
+        <item>گروه</item>
         <item>Lap count</item>
         <item>Lap time</item>
         <item>Lap freq</item>
@@ -111,22 +111,22 @@
         <item>slope</item>
         <item>\"Calories
 \"</item>
-        <item>Avg. HR</item>
-        <item>Paddles of this set</item>
-        <item>Frequency</item>
-        <item>Total paddles</item>
-        <item>Paddle frequency</item>
-        <item>Pulling duration</item>
-        <item>Pushing duration</item>
+        <item>Avg. منابع انسانی</item>
+        <item>پره از این مجموعه</item>
+        <item>فرکانس</item>
+        <item>کل تعطیل</item>
+        <item>دست و پا زدن فرکانس</item>
+        <item>کشیدن مدت</item>
+        <item>هل دادن مدت</item>
         <item>Avg. Freq.</item>
     </string-array>
     <string-array name="sport_train_item">
-        <item>Remaining distance</item>
-        <item>Total distance</item>
-        <item>Total time</item>
-        <item>Remaining time</item>
-        <item>Distance</item>
-        <item>Remaining</item>
-        <item>Has rested</item>
+        <item>فاصله باقی مانده</item>
+        <item>فاصله ها</item>
+        <item>کل زمان</item>
+        <item>زمان باقی مانده</item>
+        <item>فاصله</item>
+        <item>باقی مانده</item>
+        <item>اتحاد استراحت</item>
     </string-array>
 </resources>
