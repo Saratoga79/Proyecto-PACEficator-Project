@@ -15,15 +15,15 @@
     <string name="notification_time_month">MM/dd HH:mm</string>
     <string name="notification_time_year">yyyy/MM/dd HH:mm</string>
     <string name="action_delete">Sil</string>
-    <string name="action_shield">Block</string>
+    <string name="action_shield">Engelle</string>
     <string name="notification_none">All caught up</string>
-    <string name="notification_allclear">Clear all</string>
+    <string name="notification_allclear">Tümünü sil</string>
     <string name="notification_allclear_confirm">These notifications will be deleted permanently. Clear anyway?</string>
-    <string name="notification_checking_bluetooth">Checking Bluetooth connection…</string>
+    <string name="notification_checking_bluetooth">Bluetooth bağlantısı kontrol ediliyor…</string>
     <string name="notification_detail_content_title">Information details</string>
-    <string name="notification_fix_message_action1">Pin this message</string>
-    <string name="notification_fix_message_reset">Reset time</string>
-    <string name="notification_fix_message_cancel">Unpin</string>
+    <string name="notification_fix_message_action1">Bu mesajı sabitle</string>
+    <string name="notification_fix_message_reset">Zamanı sıfırla</string>
+    <string name="notification_fix_message_cancel">Sabitlemeyi Kaldır</string>
     <string name="quick_settings_airplane_mode">"Airplane
  %1$s"</string>
     <string name="quick_settings_no_disturb_mode">"DND
@@ -53,9 +53,9 @@
     <string name="quick_settings_date_yeareve">"Chinese New Year's Eve"</string>
     <string name="seconed_confirm_nodisturb">"DND mode is on.
 Can\'t receive notifications."</string>
-    <string name="quick_settings_battery_charging_full">Fully charged</string>
-    <string name="quick_settings_battery_is_charging">Charging</string>
-    <string name="quick_settings_battery_hasnot_charged">No charging history</string>
+    <string name="quick_settings_battery_charging_full">Tamamen şarj oldu</string>
+    <string name="quick_settings_battery_is_charging">Şarj oluyor</string>
+    <string name="quick_settings_battery_hasnot_charged">Şarj geçmişi yok.</string>
     <string name="quick_settings_battery_charging_intervalDay">Last charged %1$dd %2$dh ago</string>
     <string name="quick_settings_battery_charging_intervalDay_lessHour">"Last charged
 %dd ago"</string>
