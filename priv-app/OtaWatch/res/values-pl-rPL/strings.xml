@@ -4,9 +4,9 @@
     <string name="action_settings">Ustawienia</string>
     <string name="watch_ota">Aktualizacje zegarka</string>
     <string name="wifi_disconnect">Połącz z aplikacją Amazfit aby sprawdzić aktualizacje</string>
-    <string name="connect_phone_wifi">"Check your phone's network connection to check for updates"</string>
-    <string name="connect_phone_input_wifi">Connect to the Amazfit app to enter Wi-Fi password for the watch</string>
-    <string name="wifi_add_item">Connect to the Amazfit app to add a new Wi-Fi hotspot</string>
+    <string name="connect_phone_wifi">"Sprawdź połączenie sieciowe w telefonie, aby sprawdzić dostępność aktualizacji"</string>
+    <string name="connect_phone_input_wifi">Połącz się z aplikacją Amazfit aby wprowadzić hasło Wi-Fi dla zegarka</string>
+    <string name="wifi_add_item">Połącz się z aplikacją Amazfit aby dodać nowy hotspot Wi-Fi</string>
     <string name="add_wifi">Dodaj Wi-Fi</string>
     <string name="please_update_rom">"Aktual.systemu jest dostępna,
 prosimy o zaktual."</string>
@@ -27,12 +27,12 @@ w aplikacji Amazfit"</string>
     <string name="processbar_downloading_default">0</string>
     <string name="download_rom_faild">"Pobieranie aktual. nie powiodło się,
  proszę spróbuj ponownie."</string>
-    <string name="download_rom_success">"Downloaded ROM successfully.
-Install now."</string>
-    <string name="low_battery_message">"Downloaded updates successfully.
-Battery must be at least %1$s%% charged to install updates."</string>
-    <string name="low_battery_title">Connect charger</string>
-    <string name="progressbar_tips">Checking…</string>
+    <string name="download_rom_success">"Pobrano ROM.
+Zainstaluj teraz."</string>
+    <string name="low_battery_message">"Pobrano aktualizacje pomyślnie.
+Bateria musi być naładowana przynajmniej %1$s%% aby zainstalować aktualizacje."</string>
+    <string name="low_battery_title">Podłącz ładowarkę</string>
+    <string name="progressbar_tips">Sprawdzam…</string>
     <string name="progressbar_percent">%1$d%%</string>
     <string name="low_mem">"Not enough storage space for an update.
 Free up %1$sMB to update."</string>
