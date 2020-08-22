@@ -27,13 +27,13 @@
         <item>sport_target_remind_desc_01</item>
     </string-array>
     <string-array name="support_sport">
-        <item>การวิ่ง</item>
-        <item>การเดิน</item>
+        <item>RUNNING</item>
+        <item>WALKING</item>
         <item>CROSSING</item>
-        <item>การวิ่งในร่ม</item>
-        <item>การขี่กลางแจ้ง</item>
-        <item>การขี่ในร่ม</item>
-        <item>เครื่องเดินวงรี</item>
+        <item>INDOOR_RUN</item>
+        <item>OUTDOOR_RIDING</item>
+        <item>INDOOR_RIDING</item>
+        <item>ELLIPTICAL_MACHINE</item>
     </string-array>
     <string-array name="dally_performence_level_status">
         <item>เหนื่อยล้า</item>
