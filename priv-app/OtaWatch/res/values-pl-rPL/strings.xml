@@ -4,9 +4,9 @@
     <string name="action_settings">Ustawienia</string>
     <string name="watch_ota">Aktualizacje zegarka</string>
     <string name="wifi_disconnect">Połącz z aplikacją Amazfit aby sprawdzić aktualizacje</string>
-    <string name="connect_phone_wifi">"Check your phone's network connection to check for updates"</string>
-    <string name="connect_phone_input_wifi">Connect to the Amazfit app to enter Wi-Fi password for the watch</string>
-    <string name="wifi_add_item">Connect to the Amazfit app to add a new Wi-Fi hotspot</string>
+    <string name="connect_phone_wifi">"Sprawdź połączenie sieciowe w telefonie, aby sprawdzić dostępność aktualizacji"</string>
+    <string name="connect_phone_input_wifi">Połącz się z aplikacją Amazfit aby wprowadzić hasło Wi-Fi dla zegarka</string>
+    <string name="wifi_add_item">Połącz się z aplikacją Amazfit aby dodać nowy hotspot Wi-Fi</string>
     <string name="add_wifi">Dodaj Wi-Fi</string>
     <string name="please_update_rom">"Aktual.systemu jest dostępna,
 prosimy o zaktual."</string>
@@ -27,15 +27,15 @@ w aplikacji Amazfit"</string>
     <string name="processbar_downloading_default">0</string>
     <string name="download_rom_faild">"Pobieranie aktual. nie powiodło się,
  proszę spróbuj ponownie."</string>
-    <string name="download_rom_success">"Downloaded ROM successfully.
-Install now."</string>
-    <string name="low_battery_message">"Downloaded updates successfully.
-Battery must be at least %1$s%% charged to install updates."</string>
-    <string name="low_battery_title">Connect charger</string>
-    <string name="progressbar_tips">Checking…</string>
+    <string name="download_rom_success">"Pobrano ROM.
+Zainstaluj teraz."</string>
+    <string name="low_battery_message">"Pobrano aktualizacje pomyślnie.
+Bateria musi być naładowana przynajmniej %1$s%% aby zainstalować aktualizacje."</string>
+    <string name="low_battery_title">Podłącz ładowarkę</string>
+    <string name="progressbar_tips">Sprawdzam…</string>
     <string name="progressbar_percent">%1$d%%</string>
-    <string name="low_mem">"Not enough storage space for an update.
-Free up %1$sMB to update."</string>
+    <string name="low_mem">"Za mało miejsca na aktualizację.
+Zwolnij %1$sMB, aby zaktualizować."</string>
     <string name="update_network_error">"Sprawdzenie aktual.nie powiodło się, proszę
 spróbuj później"</string>
     <string name="cancel_download">"Pobieranie aktual, 
@@ -73,10 +73,10 @@ inną siecią Wi-Fi"</string>
     <string name="update_local">Lokalny plik ZIP</string>
     <string name="local_update_confirm_1_title">Uwaga</string>
     <string name="local_update_invalid_zip">Zaktualizuj aplikację do najnowszej wersji</string>
-    <string name="local_update_confirm_1_msg">"To make sure the new version
-works properly, we\'ll erase all
-user data before the update.
-Back up your data using the Amazfit app."</string>
+    <string name="local_update_confirm_1_msg">"Aby upewnić się, że nowa wersja
+działa poprawnie, usuniemy wszystkie
+dane użytkownika przed aktualizacją.
+Wykonaj kopię zapasową swoich danych za pomocą aplikacji Amazfit."</string>
     <string name="local_update_confirm_2_msg">"Sprawdź, czy wszystkie Dane użtkown.
 są skopiowane. Aktual.spowoduje usunięcie wszystkich 
 plików danych z zegarka, kontynuować?"</string>
@@ -92,7 +92,7 @@ plików danych z zegarka, kontynuować?"</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="running">Bieganie</string>
     <string name="waking">Spacerowanie</string>
-    <string name="indoor_running">Treadmill</string>
+    <string name="indoor_running">Bieżnia</string>
     <string name="outdoor_riding">Rower</string>
     <string name="indoor_riding">Rower Treningowy</string>
     <string name="cross_contry">Bieg Teren.</string>
@@ -109,50 +109,50 @@ plików danych z zegarka, kontynuować?"</string>
     <string name="golf">Golf</string>
     <string name="complex_sport">Multisport</string>
     <string name="rope_skipping">Skakanka</string>
-    <string name="on_foot">On foot</string>
-    <string name="indoor_fitness">Indoor fitness</string>
-    <string name="row_machine">Rowing machine</string>
-    <string name="sport_total_time">Total time</string>
+    <string name="on_foot">Pieszo</string>
+    <string name="indoor_fitness">Fitness w pomieszczeniu</string>
+    <string name="row_machine">Wioślarz</string>
+    <string name="sport_total_time">Łączny czas</string>
     <string name="current_altitude">Wysokość</string>
-    <string name="speed">Speed</string>
-    <string name="stroke_speed">Stroke rate</string>
-    <string name="pace">Pace</string>
+    <string name="speed">Prędkość</string>
+    <string name="stroke_speed">Częstość uderzeń</string>
+    <string name="pace">Tempo</string>
     <string name="mileage">Dystans</string>
-    <string name="rope_skip_freq">Frequency</string>
-    <string name="row_stroke_freq">Frequency</string>
-    <string name="sport_has_paused">Paused</string>
-    <string name="sport_paused_time">Paused</string>
+    <string name="rope_skip_freq">Częstotliwość</string>
+    <string name="row_stroke_freq">Częstotliwość</string>
+    <string name="sport_has_paused">Wstrzymano</string>
+    <string name="sport_paused_time">Wstrzymano</string>
     <string name="sport_distance">Dystans</string>
     <string name="sport_mileage">Dystans</string>
-    <string name="sport_downhill_total_distance">Total downhill</string>
-    <string name="sport_tennis_strokes">Strokes</string>
-    <string name="sport_rope_skip_count">Count</string>
-    <string name="sport_row_total_count">Total paddles</string>
-    <string name="sport_change">Transition</string>
-    <string name="sport_change_time">Transition time</string>
-    <string name="please_get_ready_for_runnning">Next: Running</string>
-    <string name="please_get_ready_for_riding">Next: Cycling</string>
-    <string name="please_get_ready_for_swimming">Next: Swimming</string>
-    <string name="gps_ready">GPS is available</string>
-    <string name="gps_wait">Waiting for GPS…</string>
-    <string name="gps_fail">"Couldn't set location using GPS"</string>
-    <string name="gps_singal_lost">"GPS signal isn't available"</string>
-    <string name="gps_close_1">No movement for a long time,</string>
-    <string name="gps_close_2">GPS has been turned off.</string>
-    <string name="heartrate">Heart rate</string>
-    <string name="warmup">Warm Up</string>
-    <string name="fatburn">Fat Burning</string>
-    <string name="heartlung">Aerobic</string>
-    <string name="strength">Anaerobic</string>
-    <string name="anaerobic">Anaerobic limit</string>
-    <string name="zone_one">Zone 1</string>
-    <string name="zone_two">Zone 2</string>
-    <string name="zone_three">Zone 3</string>
-    <string name="zone_four">Zone 4</string>
-    <string name="zone_five">Zone 5</string>
-    <string name="zone_risk">High heart rate</string>
-    <string name="enter_sport_lock_status">Locking the screen during activity</string>
-    <string name="press_any_key_wakeup">Press any key</string>
+    <string name="sport_downhill_total_distance">Łączny dystans</string>
+    <string name="sport_tennis_strokes">Uderzenia</string>
+    <string name="sport_rope_skip_count">Liczyć</string>
+    <string name="sport_row_total_count">Suma wiosłowań</string>
+    <string name="sport_change">Przejście</string>
+    <string name="sport_change_time">Czas przejścia</string>
+    <string name="please_get_ready_for_runnning">Następny: Bieg</string>
+    <string name="please_get_ready_for_riding">Następna: Jazda na rowerze</string>
+    <string name="please_get_ready_for_swimming">Następne: Pływanie</string>
+    <string name="gps_ready">GPS jest dostępny</string>
+    <string name="gps_wait">Oczekiwanie na GPS…</string>
+    <string name="gps_fail">"Nie można ustalić lokalizacji za pomocą GPS"</string>
+    <string name="gps_singal_lost">"Sygnał GPS niedostępny"</string>
+    <string name="gps_close_1">Brak ruchu przez długi czas,</string>
+    <string name="gps_close_2">GPS został wyłączony.</string>
+    <string name="heartrate">Tętno</string>
+    <string name="warmup">Rozgrzewka</string>
+    <string name="fatburn">Spalanie Tłuszczu</string>
+    <string name="heartlung">Aerobik</string>
+    <string name="strength">Beztlenowe</string>
+    <string name="anaerobic">Limit beztlenowy</string>
+    <string name="zone_one">Strefa 1</string>
+    <string name="zone_two">Strefa 2</string>
+    <string name="zone_three">Strefa 3</string>
+    <string name="zone_four">Strefa 4</string>
+    <string name="zone_five">Strefa 5</string>
+    <string name="zone_risk">Przekroczono próg bezpiecznego tętna!</string>
+    <string name="enter_sport_lock_status">Blokowanie ekranu podczas aktywności</string>
+    <string name="press_any_key_wakeup">Naciśnij dowolny klawisz</string>
     <string name="press_power_key_wakeup">Naciśnij fizyczny przycisk, aby odblokować</string>
     <string name="meter">m</string>
     <string name="kilometre">km</string>
@@ -192,12 +192,12 @@ plików danych z zegarka, kontynuować?"</string>
     <string name="oritation_west">W</string>
     <string name="oritation_north">N</string>
     <string name="rope_skip_group_time">Czas</string>
-    <string name="rope_skip_group_count">Count</string>
+    <string name="rope_skip_group_count">Liczyć</string>
     <string name="rope_skip_group_freq">Częstotliwość</string>
-    <string name="rope_skip_reset_tips">Has rested</string>
+    <string name="rope_skip_reset_tips">Wypoczęty</string>
     <string name="rope_skip_tips">Grupa %1$s</string>
-    <string name="rope_skip_tips1">The</string>
-    <string name="rope_skip_tips2">set has been completed</string>
+    <string name="rope_skip_tips1">Ten / Ta</string>
+    <string name="rope_skip_tips2">Zadanie zostało zakończone.</string>
     <string name="rope_skip_avg_heartrate">Średnie tętno</string>
     <string name="rope_skip_group_calories">Kalorie</string>
     <string name="music">Muzyka</string>
