@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="report_bug_dialog_title">문제 피드백</string>
+    <string name="report_bug_dialog_desc">시계의 비정상적인 상태나 데이터 오류가 발생하면, 저희 서버의 \"피드백\" 기능으로 판매 이후의 오류를 바로잡을 수 있어요. 이 프로세스에서는, 오류가 발생할 때 발생한 로그 파일이 저희 서버에 수집되고 업로드 될 것이에요. 이 로그들은 오류 분석에만 사용되며, 분석 후에는 삭제될 거에요. 모든 프로세스 내에서, 저희는 개인정보 처리방침을 준수해요. 자세한 정보는 Zepp 앱을 참고하세요.</string>
+    <string name="dialog_agree">동의</string>
+    <string name="dialog_quit">끝내기</string>
+    <string name="average_text">평균</string>
+    <string name="menu_item_high_light_scale_factor">0.5</string>
+    <string name="picker_default_positive_text">승인</string>
+    <string name="picker_default_nagetive_text">끄기</string>
+    <string name="no_heartrate_data_hint">심박수 정보 확인 불가</string>
+    <string name="no_altitude_hint">고도 정보 확인 불가</string>
+    <string name="ui_lib_name">Hm_UILib</string>
+    <string name="title_settings">설정</string>
+    <string name="sport_music_settings">스포츠 음악</string>
+    <string name="widget_currentstep_title">일일 개요</string>
+    <string name="widget_currentstep_activities">활동</string>
+    <string name="widget_currentstep_sleep_hour">시</string>
+    <string name="widget_currentstep_sleep_min">분</string>
+    <string name="widget_currentstep_sleep_title">수면</string>
+    <string name="widget_currentstep_sleep_no">수면 정보 없음</string>
+    <string name="widget_currentstep_activity_no">오늘 운동이 없습니까?</string>
+    <string name="locale_title">언어 선택</string>
+    <string name="app_name">Huami 연구소</string>
+    <string name="main_title">Huami 연구소</string>
+    <string name="agreement_title">24시간 심박수 수집</string>
+    <string name="orig_data_collect">모션 데이터 수집</string>
+    <string name="message">\"저희 서비스를 개선하기 위해서, 저희는 계속하여 심박수 정보를 수집할 거예요. 
+ 수집된 정보는 연구를 위해서만 사용할 거에요. 
+ 수집이 켜진 상태에서는, 배터리 사용량의 일부를 사용할 거에요.\" </string>
+    <string name="allow">허용</string>
+    <string name="exit">종료</string>
+    <string name="message_everest">저희 서비스를 개선하기 위해서, 저희는 계속하여 심박수 정보를 수집할 거예요.  수집된 정보는 연구를 위해서만 사용할 거에요.  수집이 켜진 상태에서는, 배터리 사용량의 일부를 사용할 거에요.</string>
+    <string name="heart_rate_collection_on">켜짐 </string>
+    <string name="heart_rate_collection_off">꺼짐</string>
+    <string name="hbeacon_on">사용</string>
+    <string name="hbeacon_off">사용 안함</string>
+    <string name="hbeacon_on_confirm_message">"확인을 눌러 HBeacon 기능을 실행합니다. 이는 배터리 수명을 조금 짧게 합니다. 재시작 후에는 휴대전화와 시계를 재연결 해주세요."</string>
+    <string name="hbeacon_off_confirm_message">확인을 눌러 HBeacon 기능을 종료합니다. 재시작 후에는 휴대전화와 시계를 재연결 해주세요.</string>
+    <string name="saving_data">자료 저장 중...</string>
+    <string name="upload_data">데이터 업로드</string>
+    <string name="upload_success">성공</string>
+    <string name="upload_failed">업로드에 실패했습니다. 다시 시도해 주세요.</string>
+    <string name="air_mode_alert_title">연결에 실패하였습니다</string>
+    <string name="air_mode_alert_message">비행기 모드를 끈 다음 재시도하세요.</string>
+    <string name="report_sensor_capture_dialog_title">모션 데이터 수집</string>
+    <string name="report_sensor_capture_dialog_desc">모션 데이터 수집이 켜지면, 센서의 정보를 수집하고, 모션이 끝나면 정보의 수집을 멈출 거에요. 이 로그들은 모두 피드백과 더불어 업로드되며, 추후 구매자를 위한 분석에 도움을 줍니다. 로그들은 자동으로 업로드되며, 이 로그들은 오류 분석에만 사용되며, 분석 후에는 삭제될 거에요. 모든 프로세스 내에서, 저희는 개인정보 처리방침을 준수해요. 자세한 정보는 Zepp 앱을 참고하세요.</string>
+</resources>
