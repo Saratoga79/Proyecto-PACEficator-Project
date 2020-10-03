@@ -66,71 +66,71 @@
         <item></item>
         <item>시간</item>
         <item>거리</item>
-        <item>속도</item>
-        <item>평균 속도</item>
+        <item>페이스</item>
+        <item>평균 페이스</item>
         <item>심박수</item>
         <item>칼로리</item>
         <item>고도</item>
-        <item>Elev gain</item>
-        <item>Elev loss</item>
-        <item>Speed</item>
-        <item>Avg speed</item>
-        <item>Cadence</item>
-        <item>Dist gain</item>
-        <item>Steps</item>
-        <item>Cadence</item>
-        <item>Laps</item>
+        <item>상승한 고도</item>
+        <item>하강한 고도</item>
+        <item>속도</item>
+        <item>평균 속도</item>
+        <item>케이던스</item>
+        <item>거리</item>
+        <item>걸음</item>
+        <item>케이던스</item>
+        <item>랩스</item>
         <item>DPS</item>
-        <item>Stroke rate</item>
-        <item>Avg SPM</item>
-        <item>Pace</item>
-        <item>Avg pace</item>
-        <item>Distance</item>
+        <item>스트로크 레이트</item>
+        <item>평균 SPM</item>
+        <item>페이스</item>
+        <item>평균 페이스</item>
+        <item>거리</item>
         <item>TE</item>
-        <item>Vert speed</item>
-        <item>Avg speed</item>
-        <item>Max speed</item>
-        <item>Laps</item>
-        <item>Downhill</item>
-        <item>Total downhill</item>
-        <item>Descent</item>
-        <item>Strokes</item>
-        <item>L.L. time</item>
-        <item>L.L. pace</item>
-        <item>L.L. speed</item>
-        <item>L.L. HR</item>
-        <item>L.L. cadence</item>
-        <item>Pace</item>
-        <item>Current freq</item>
-        <item>Total count</item>
-        <item>Avg freq</item>
-        <item>Groups</item>
-        <item>Group count</item>
-        <item>Group time</item>
-        <item>Group frecuency</item>
-        <item>C.L. Time</item>
-        <item>C.L. Distance</item>
-        <item>C.L. Pace</item>
-        <item>C.L. Speed</item>
-        <item>C.L. HR</item>
-        <item>C.L. Cadence</item>
+        <item>수직 속도</item>
+        <item>평균 속도</item>
+        <item>최대 속도</item>
+        <item>랩스</item>
+        <item>내리막</item>
+        <item>총 내리막</item>
+        <item>하강</item>
+        <item>스트로크</item>
+        <item>L.L. 시간</item>
+        <item>L.L. 페이스</item>
+        <item>L.L. 속도</item>
+        <item>L.L. 심박수</item>
+        <item>L.L.  케이던스</item>
+        <item>페이스</item>
+        <item>현재 주기</item>
+        <item>총 횟수</item>
+        <item>평균 주기</item>
+        <item>그룹</item>
+        <item>그룹 수</item>
+        <item>그룹 타임</item>
+        <item>그룹 주기</item>
+        <item>C.L. 시간</item>
+        <item>C.L. 거리</item>
+        <item>C.L. 페이스</item>
+        <item>C.L. 속도</item>
+        <item>C.L. 심박수</item>
+        <item>C.L. 케이던스</item>
     </string-array>
     <string-array name="sport_train_item">
-        <item>Remaining distance</item>
-        <item>Total distance</item>
-        <item>Total time</item>
-        <item>Remaining time</item>
-        <item>Distance</item>
-        <item>Remaining</item>
-        <item>Rested</item>
+        <item>남은 거리</item>
+        <item>총 거리</item>
+        <item>총 시간</item>
+        <item>남은 시간</item>
+        <item>거리</item>
+        <item>남음:</item>
+        <item>휴식함</item>
     </string-array>
     <string-array name="weekdays">
-        <item>Sun</item>
-        <item>Mon</item>
-        <item>Tue</item>
-        <item>Wed</item>
-        <item>Thu</item>
-        <item>Fri</item>
-        <item>Sat</item>
+        <item>일요일</item>
+        <item>월요일</item>
+        <item>화요일</item>
+        <item>수요일</item>
+        <item>목요일</item>
+        <item>금요일</item>
+        <item>토요일</item>
     </string-array>
 </resources>
