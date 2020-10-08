@@ -36,18 +36,18 @@
         <item>ELLIPTICAL_MACHINE</item>
     </string-array>
     <string-array name="dally_performence_level_status">
-        <item>Fatigued</item>
-        <item>Normal</item>
-        <item>Good</item>
+        <item>탈진됨</item>
+        <item>보통</item>
+        <item>좋음</item>
     </string-array>
     <string-array name="vo2_max_level_status">
-        <item>Very poor</item>
-        <item>Poor</item>
-        <item>Fair</item>
-        <item>Average</item>
-        <item>Good</item>
-        <item>Very good</item>
-        <item>Excellent</item>
+        <item>매우 나쁨</item>
+        <item>나쁨</item>
+        <item>적당함</item>
+        <item>평균</item>
+        <item>좋음</item>
+        <item>매우 좋음</item>
+        <item>훌륭함</item>
     </string-array>
     <string-array name="spring_depend">
         <item>com.huami.watch.newsport/com.huami.watch.newsport.widget.SportWidget</item>
