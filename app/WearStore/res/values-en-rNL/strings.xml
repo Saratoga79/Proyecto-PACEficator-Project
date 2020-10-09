@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="a11y_no_data">Geen data</string>
-    <string name="a11y_no_permission">No permission to access data</string>
+    <string name="a11y_no_permission">Geen toestemming voor gebruik camera</string>
     <string name="a11y_template_range">%1$f of %2$f</string>
     <string name="abc_action_bar_home_description">Home</string>
     <string name="abc_action_bar_up_description">Omhoog</string>
@@ -24,11 +24,11 @@
     <string name="abc_font_family_subhead_material">sans-serif</string>
     <string name="abc_font_family_title_material">sans-serif-medium</string>
     <string name="abc_search_hint">Zoeken…</string>
-    <string name="abc_searchview_description_clear">Clear query</string>
-    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_clear">Zoekopdracht wissen</string>
+    <string name="abc_searchview_description_query">Zoekopdracht</string>
     <string name="abc_searchview_description_search">Zoek</string>
-    <string name="abc_searchview_description_submit">Submit query</string>
-    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_searchview_description_submit">Zoekopdracht verzenden</string>
+    <string name="abc_searchview_description_voice">Spraakgestuurd zoeken</string>
     <string name="abc_shareactionprovider_share_with">Delen met</string>
     <string name="abc_shareactionprovider_share_with_application">Deel met %s</string>
     <string name="abc_toolbar_collapse_description">Samenvouwen</string>
@@ -81,9 +81,9 @@
     <string name="module_name">KeyEvent-lib</string>
     <string name="mozart_state">Geselecteerd</string>
     <string name="navigation_drawer_content_description">Navigatie menu</string>
-    <string name="net_error">Network load failed…</string>
-    <string name="no_altitude_hint">No altitude data detected</string>
-    <string name="no_heartrate_data_hint">No heart-rate data detected</string>
+    <string name="net_error">Netwerk laden mislukt…</string>
+    <string name="no_altitude_hint">Geen hoogtegegevens gevonden</string>
+    <string name="no_heartrate_data_hint">Geen hartslaggegevens gedetecteerd</string>
     <string name="no_more_data">Geen gegevens meer</string>
     <string name="no_network">Geen netwerk</string>
     <string name="picker_default_nagetive_text">Uitschakelen</string>
