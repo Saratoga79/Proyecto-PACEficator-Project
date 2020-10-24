@@ -990,7 +990,7 @@
 \'/sdcard/gpxdata\' 에 저장했습니다
 USB를 컴퓨터에 연결하여 복사가 가능합니다."</string>
     <string name="hint_failed">"내보낼 수 없습니다. 다시 시도하세요."</string>
-    <string name="app_name">GPX-기록기</string>
+    <string name="app_name">gpx-recorder</string>
     <string name="average_text">평균</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
     <string name="picker_default_positive_text">확인</string>
@@ -1010,13 +1010,13 @@ USB를 컴퓨터에 연결하여 복사가 가능합니다."</string>
     <string name="data_item_surplus_rest_keypress">휴식한 시간</string>
     <string name="lap_time_title">랩 시간</string>
     <string name="lap_pace_title">랩 페이스</string>
-    <string name="lap_speed_title">分段速度</string>
-    <string name="lap_sub_type_title">Break</string>
-    <string name="cur_lap_stepfreq">本段步频</string>
-    <string name="cur_lap_duration">本段用时</string>
-    <string name="cur_lap_distance">本段里程</string>
-    <string name="cur_lap_hr">本段心率</string>
-    <string name="cur_lap_speed">本段速度</string>
-    <string name="cur_lap_pace">本段配速</string>
-    <string name="on_foot_progress">Trekking</string>
+    <string name="lap_speed_title">랩 속도</string>
+    <string name="lap_sub_type_title">휴식</string>
+    <string name="cur_lap_stepfreq">C.L. 케이던스</string>
+    <string name="cur_lap_duration">C.L. 시간</string>
+    <string name="cur_lap_distance">C.L. 거리</string>
+    <string name="cur_lap_hr">C.L. 심박수</string>
+    <string name="cur_lap_speed">C.L. 속도</string>
+    <string name="cur_lap_pace">C.L. 페이스</string>
+    <string name="on_foot_progress">트레킹</string>
 </resources>
