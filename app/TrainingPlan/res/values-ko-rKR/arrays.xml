@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="weekdays">
-        <item>Week 1</item>
-        <item>Week 2</item>
-        <item>Week 3</item>
-        <item>Week 4</item>
-        <item>Week 5</item>
-        <item>Week 6</item>
-        <item>Week 7</item>
-        <item>Week 8</item>
+        <item>첫번째 주</item>
+        <item>둘째 주</item>
+        <item>셋째 주</item>
+        <item>넷째 주</item>
+        <item>다섯째 주</item>
+        <item>여섯째 주</item>
+        <item>일곱째 주</item>
+        <item>여덟째 주</item>
     </string-array>
     <string-array name="simple_weekdays">
-        <item>Sun</item>
-        <item>Mon</item>
-        <item>Tue</item>
-        <item>Wed</item>
-        <item>Thu</item>
-        <item>Fri</item>
-        <item>Sat</item>
+        <item>일</item>
+        <item>월</item>
+        <item>화</item>
+        <item>수</item>
+        <item>목</item>
+        <item>금</item>
+        <item>토</item>
     </string-array>
     <string-array name="train_finish_reason_strs">
-        <item>"Can't adjust as expected"</item>
-        <item>Time is too long to hold on</item>
-        <item>Poor physical condition</item>
-        <item>Too difficult</item>
-        <item>Too easy</item>
-        <item>Game canceled</item>
-        <item>"It doesn't suit me"</item>
-        <item>Other</item>
+        <item>"계획을 고수할 수 없습니다"</item>
+        <item>너무 오랜 시간이 걸립니다</item>
+        <item>건강이 좋지 않습니다</item>
+        <item>난이도가 너무 어렵습니다</item>
+        <item>난이도가 너무 쉽습니다</item>
+        <item>게임이 취소되었습니다</item>
+        <item>"제게 맞지 않습니다"</item>
+        <item>그 외</item>
     </string-array>
     <string-array name="spring_depend">
         <item>com.huami.watch.train/com.huami.watch.train.ui.activity.launch.TraintLauncherView</item>
