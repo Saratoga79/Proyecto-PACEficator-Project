@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="locale_title">Select Language</string>
+    <string name="locale_title">언어 선택</string>
     <string name="action_badge_activated">com.huami.watch.health.BADGE_ACTIVATED</string>
     <string name="action_badge_dumped">com.huami.watch.health.BADGE_DUMPED</string>
-    <string name="app_name">Health</string>
-    <string name="settings_step_unit">steps</string>
-    <string name="settings_step_target">Step goal</string>
-    <string name="settings_target_reach_reminder">Goal alert</string>
-    <string name="settings_long_sit_reminder">Idle alert</string>
-    <string name="settings_on">On</string>
-    <string name="settings_off">Off</string>
-    <string name="notif_long_sit_title">Idle alert</string>
-    <string name="notif_long_sit_desc">"You've been sitting for too long. Let's stand up and move around for a minute."</string>
-    <string name="notif_target_reach_title">Daily goal achieved</string>
+    <string name="app_name">건강</string>
+    <string name="settings_step_unit">걸음</string>
+    <string name="settings_step_target">목표 걸음 수</string>
+    <string name="settings_target_reach_reminder">목표 알림</string>
+    <string name="settings_long_sit_reminder">움직임 없음 알림</string>
+    <string name="settings_on">켜기</string>
+    <string name="settings_off">끄기</string>
+    <string name="notif_long_sit_title">움직임 없음 알림</string>
+    <string name="notif_long_sit_desc">"너무 오래 앉아있었습니다. 일어나서 잠시 움직여보세요."</string>
+    <string name="notif_target_reach_title">일일 목표를 달성했습니다.</string>
     <string name="notif_target_reach_desc">"You've reached your daily step goal."</string>
     <string name="notif_target_half_reach_title">Keep it up</string>
     <string name="notif_target_half_reach_desc">You are half-way towards your step goal today.</string>
