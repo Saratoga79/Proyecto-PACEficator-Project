@@ -8,10 +8,10 @@
     <string name="unknown_device">Neznana naprava</string>
     <string name="unknownNumber">--</string>
     <string name="airplane_error_title">Način za letalo</string>
-    <string name="airplane_error_msg">"You can't use Bluetooth in Airplane mode."</string>
+    <string name="airplane_error_msg">"V letalskem načinu ne moreš uporabljati Bluetootha"</string>
     <string name="bt_enable_title"></string>
-    <string name="bt_enable_line1">To use Bluetooth services, you must first turn on Bluetooth.</string>
-    <string name="bt_enable_line2">Turn on Bluetooth now?</string>
+    <string name="bt_enable_line1">Za uporabljanje funkcij Bluetootha, ga moraš najprej vklopiti</string>
+    <string name="bt_enable_line2">Želite vklopiti Bluetooth?</string>
     <string name="bt_enable_cancel">Prekliči</string>
     <string name="bt_enable_ok">Vključi</string>
     <string name="incoming_file_confirm_title">Prenos datotek</string>
@@ -21,7 +21,7 @@
     <string name="incoming_file_confirm_timeout_ok">V redu</string>
     <string name="incoming_file_confirm_timeout_content">There was a timeout while accepting an incoming file from \"%1$s\"</string>
     <string name="incoming_file_confirm_Notification_title">Bluetooth share: Incoming file</string>
-    <string name="incoming_file_confirm_Notification_caption">Do you want to receive this file?</string>
+    <string name="incoming_file_confirm_Notification_caption">Želite prejeti to datoteko?</string>
     <string name="incoming_file_toast_msg">Incoming file from another device. Confirm you want to receive this file.</string>
     <string name="notification_receiving">Bluetooth share: Receiving %1$s</string>
     <string name="notification_received">Bluetooth share: Received %1$s</string>

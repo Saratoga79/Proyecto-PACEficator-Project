@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="support_category">
-        <item>DAILY</item>
-        <item>WEEKLY</item>
+        <item>매일간</item>
+        <item>주간</item>
     </string-array>
     <string-array name="chart_x_titles2">
         <item>0</item>
@@ -26,27 +26,27 @@
         <item>24</item>
     </string-array>
     <string-array name="weekday_names">
-        <item>Mon</item>
-        <item>Tue</item>
-        <item>Wed</item>
-        <item>Thu</item>
-        <item>Fri</item>
-        <item>Sat</item>
-        <item>Sun</item>
+        <item>월</item>
+        <item>화</item>
+        <item>수</item>
+        <item>목</item>
+        <item>금</item>
+        <item>토</item>
+        <item>일</item>
     </string-array>
     <string-array name="subject_typenfreqs">
-        <item>Today</item>
-        <item>This week</item>
-        <item>Today</item>
-        <item>This week</item>
+        <item>오늘</item>
+        <item>이번 주</item>
+        <item>오늘</item>
+        <item>이번 주</item>
     </string-array>
     <string-array name="chart_x_titles">
-        <item>MON</item>
-        <item>TUE</item>
-        <item>WED</item>
-        <item>THU</item>
-        <item>FRI</item>
-        <item>SAT</item>
-        <item>SUN</item>
+        <item>월</item>
+        <item>화</item>
+        <item>수</item>
+        <item>목</item>
+        <item>금</item>
+        <item>토</item>
+        <item>일</item>
     </string-array>
 </resources>

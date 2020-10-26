@@ -21,16 +21,16 @@
     <string name="alarm_off">Izklop</string>
     <string name="alarm_open">Vkl.</string>
     <string name="alarm_delete">Izbriši</string>
-    <string name="alarm_repeat_setting">Repeat setting</string>
-    <string name="once_time">Once only</string>
+    <string name="alarm_repeat_setting">Ponavljaj</string>
+    <string name="once_time">Samo enkrat</string>
     <string name="work_days">Delovnik</string>
     <string name="hour_unit">Ura</string>
     <string name="minute_unit">Minuta</string>
     <string name="snooze_button">Dremež</string>
-    <string name="dimiss_button">Off</string>
+    <string name="dimiss_button">Izklopi</string>
     <string name="stop_watch_left_button_positive">Krog</string>
     <string name="stop_watch_left_button_negative">Ponastavi</string>
-    <string name="stop_watch_right_button_positive">Start</string>
+    <string name="stop_watch_right_button_positive">Začni</string>
     <string name="stop_watch_start_button">Start</string>
     <string name="stop_watch_right_button_negative">Stop</string>
     <string name="stop_watch_lap_text">%d krogi</string>
@@ -56,7 +56,7 @@
     <string name="locale_title">Izberi jezik</string>
     <string name="average_text">Povp.</string>
     <string name="menu_item_high_light_scale_factor">0.5</string>
-    <string name="picker_default_positive_text">Confirm</string>
+    <string name="picker_default_positive_text">Potrdi</string>
     <string name="picker_default_nagetive_text">Izklop</string>
     <string name="no_heartrate_data_hint">Podatki o srčnem utripu niso bili zaznani</string>
     <string name="no_altitude_hint">Podatki o višini niso bili zaznani</string>
@@ -64,10 +64,10 @@
     <string name="title_settings">Nastavitve</string>
     <string name="sport_music_settings">Športna glasba</string>
     <string name="widget_currentstep_title">Daily Overview</string>
-    <string name="widget_currentstep_activities">Activities</string>
+    <string name="widget_currentstep_activities">Aktivnosti</string>
     <string name="widget_currentstep_sleep_hour">h</string>
     <string name="widget_currentstep_sleep_min">min</string>
-    <string name="widget_currentstep_sleep_title">Sleep</string>
-    <string name="widget_currentstep_sleep_no">No sleep data</string>
-    <string name="widget_currentstep_activity_no">No activity today?</string>
+    <string name="widget_currentstep_sleep_title">Spanje</string>
+    <string name="widget_currentstep_sleep_no">Ni podatkov o spanju</string>
+    <string name="widget_currentstep_activity_no">Ni zaznane aktivnosti danes.</string>
 </resources>
