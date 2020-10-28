@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Package installer</string>
+    <string name="next">다음</string>
+    <string name="install">설치</string>
+    <string name="done">완료</string>
+    <string name="security_settings_desc">앱에 허용할 작업:</string>
+    <string name="cancel">취소</string>
+    <string name="unknown">알 수 없음</string>
+    <string name="installing">설치 중...</string>
+    <string name="install_done">앱이 설치되었습니다.</string>
+    <string name="install_confirm_question">이 애플리케이션을 설치하시겠습니까? 애플리케이션이 다음에 액세스할 수 있습니다.</string>
+    <string name="install_confirm_question_no_perms">이 앱을 설치하겠습니까? 이 앱은 특별한 권한을 필요로 하지 않습니다.</string>
+    <string name="install_confirm_question_update">기존 애플리케이션에 업데이트를 설치하시겠습니까? 기존 데이터는 손실되지 않습니다. 업데이트된 애플리케이션이 다음에 액세스할 수 있습니다.</string>
+    <string name="install_confirm_question_update_system">내장 애플리케이션에 업데이트를 설치하시겠습니까? 기존 데이터는 손실되지 않습니다. 업데이트된 애플리케이션이 다음에 액세스할 수 있습니다.</string>
+    <string name="install_confirm_question_update_no_perms">기존의 애플리케이션 업데이트를 설치하시겠습니까? 기존의 데이터는 손실되지 않으며 특별한 액세스 권한이 필요하지 않습니다.</string>
+    <string name="install_confirm_question_update_system_no_perms">기존의 애플리케이션 업데이트를 설치하시겠습니까? 기존의 데이터는 손실되지 않으며 특별한 액세스 권한이 필요하지 않습니다.</string>
+    <string name="install_failed">앱이 설치되지 않았습니다.</string>
+    <string name="install_failed_invalid_apk">패키지가 손상된 것 같습니다.</string>
+    <string name="install_failed_inconsistent_certificates">서명이 충돌하는 같은 이름의 기존 패키지가 이미 설치되어 있습니다.</string>
+    <string name="install_failed_older_sdk">패키지는 상위 버전의 Android에서만 작동합니다.</string>
+    <string name="install_failed_cpu_abi_incompatible">"이 앱은 사용자의 태블릿과 호환되지 않습니다."</string>
+    <string name="install_failed_file_not_found">설치가 완료되기 전에 지정된 패키지가 삭제되었습니다.</string>
+    <string name="install_failed_verify_failed">패키지가 인증을 통과하지 못해 설치할 수 없습니다.</string>
+    <string name="install_failed_verify_timeout">패키지를 확인하는 동안 시간이 초과했습니다. 나중에 다시 설치해 주세요.</string>
+    <string name="install_failed_msg">"%1$s 이 태블릿에 설치되지 않았습니다."</string>
+    <string name="launch">열기</string>
+    <string name="unknown_apps_dlg_title">설치가 차단됨</string>
+    <string name="unknown_apps_dlg_text">보안을 위해 알 수 없는 출처에서 구매한 앱은 태블릿에 설치되지 않도록 설정되어 있습니다.</string>
+    <string name="unknown_apps_admin_dlg_text">"관리자가 알 수 없는 출처의 앱 설치를 허용하지 않습니다."</string>
+    <string name="ok">확인</string>
+    <string name="settings">설정</string>
+    <string name="allow_source_dlg_title">앱의 새로운 소스</string>
+    <string name="allow_source_dlg_text">"%1$s 이 다른 앱을 설치하고자 합니다.
+
+이것을 앞으로 허가하겠습니까?"</string>
+    <string name="manage_applications">앱 관리</string>
+    <string name="dlg_app_replacement_title">앱을 바꾸시겠습니까?</string>
+    <string name="dlg_app_replacement_statement">"설치 중인 앱이 다른 앱을 대체합니다.
+
+이전의 사용자 데이터는 모두 저장됩니다."</string>
+    <string name="dlg_sys_app_replacement_statement">"이 앱은 시스템 앱입니다.
+
+이전의 사용자 데이터는 모두 저장됩니다."</string>
+    <string name="out_of_space_dlg_title">여유 공간이 없음</string>
+    <string name="out_of_space_dlg_text">"%1$s 이 설치되지 않았습니다. 저장 공간을 더 비운 후 다시 시도하세요."</string>
+    <string name="dlg_ok">확인</string>
+    <string name="app_not_found_dlg_title">앱을 찾을 수 없음</string>
+    <string name="app_not_found_dlg_text">"설치된 앱 목록에 앱이 없습니다."</string>
+    <string name="uninstall_application_title">앱 제거</string>
+    <string name="uninstall_update_title">업데이트 제거</string>
+    <string name="uninstall_activity_text">%1$s 은 다음 앱의 일부입니다.</string>
+    <string name="uninstall_application_text">이 앱을 제거하시겠습니까?</string>
+    <string name="uninstall_application_text_all_users"><b>\"모든\"</b>\" 사용자에 대해 이 앱을 제거하시겠습니까? 기기를 사용하는 \"<b>\"모든\"</b>\" 사용자에 대해 애플리케이션 및 데이터가 삭제됩니다.</string>
+    <string name="uninstall_application_text_user">%1$s 유저의 이 앱을 삭제하겠습니까?</string>
+    <string name="uninstall_update_text">앱을 초기 버전으로 바꾸시겠습니까?</string>
+    <string name="uninstalling">제거 중...</string>
+    <string name="uninstall_done">제거를 완료했습니다.</string>
+    <string name="uninstall_failed">제거하지 못했습니다.</string>
+    <string name="uninstall_failed_device_policy_manager">"이 패키지는 사용 중인 기기 관리자이기 때문에 제거할 수 없습니다."</string>
+    <string name="uninstall_blocked_profile_owner">"이 앱은 %1$s 프로필에 필요하므로 삭제할 수 없습니다."</string>
+    <string name="uninstall_blocked_device_owner">"이 앱은 기기 관리자에게 필요하므로 제거할 수 없습니다."</string>
+    <string name="manage_device_administrators">기기 관리자 관리</string>
+    <string name="uninstall_failed_msg">"%1$s 삭제에 실패했습니다."</string>
+    <string name="Parse_error_dlg_title">구문분석 오류</string>
+    <string name="Parse_error_dlg_text">패키지를 파싱하는 중 문제가 발생했습니다.</string>
+    <string name="newPerms">신규</string>
+    <string name="allPerms">전체</string>
+    <string name="privacyPerms">개인정보</string>
+    <string name="devicePerms">기기 액세스</string>
+    <string name="no_new_perms">이 업데이트에는 새로운 권한이 필요하지 않습니다.</string>
+    <string name="grant_confirm_question">다음 권한을 부여하시겠습니까? 권한이 부여되면 다음에 액세스할 수 있습니다.</string>
+</resources>
