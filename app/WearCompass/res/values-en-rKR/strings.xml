@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">나침반</string>
+    <string name="app_widget_barometer">기압계</string>
+    <string name="action_settings">설정</string>
+    <string name="settings_item_high_light_scale_factor">0.5</string>
+    <string name="locale_title">위치</string>
+    <string name="menu_item_high_light_scale_factor">0.5</string>
+    <string name="latitude">위도</string>
+    <string name="longitude">경도</string>
+    <string name="north_latitude">북부 위도</string>
+    <string name="south_latitude">남부 위도</string>
+    <string name="east_longitude">동부 위도</string>
+    <string name="west_longitude">서부 위도</string>
+    <string name="altitude">고도 (m)</string>
+    <string name="altitude_ft">고도 (ft)</string>
+    <string name="atmospheric_pressure">기압 (hPa)</string>
+    <string name="ori_north">북</string>
+    <string name="ori_northeast">북동</string>
+    <string name="ori_east">동</string>
+    <string name="ori_southeast">남동</string>
+    <string name="ori_south">남</string>
+    <string name="ori_southwest">남서</string>
+    <string name="ori_west">서</string>
+    <string name="ori_northwest">북서</string>
+    <string name="correcting">보정 중</string>
+    <string name="correcting_line1">다음 방향으로 손목을 돌리세요 :</string>
+    <string name="correcting_line2">공을 굴리세요</string>
+    <string name="value_default">-</string>
+    <string name="loading">로딩 중</string>
+    <string name="degree">°</string>
+    <string name="zero">0.00</string>
+    <string name="latitude_longitude_value_format_str">%1$s°%2$s′%3$s″</string>
+    <string name="gps_tip">"데이터를 불러올 수 없습니다. 야외에서 시도해주세요."</string>
+    <string name="confirm">확인</string>
+    <string name="unknown">--</string>
+    <string name="compass_roll_tip">"시계 앞면이 위로 향하도록
+수평 위치로 조정하세요."</string>
+    <string name="widget_altitude">고도</string>
+    <string name="widget_altitude_unit">(m)</string>
+    <string name="widget_altitude_unit_imperial">(ft)</string>
+    <string name="widget_bar">기압</string>
+    <string name="widget_bar_unit">(hPa)</string>
+    <string name="widget_fish_bar">물고기 기압</string>
+    <string name="widget_bar_bad">나쁨</string>
+    <string name="widget_bar_good">좋음</string>
+    <string name="widget_bar_better_good">매우 좋음</string>
+    <string name="widget_bar_best">최고</string>
+    <string name="widget_mofify_al">현재 고도를 입력</string>
+</resources>
