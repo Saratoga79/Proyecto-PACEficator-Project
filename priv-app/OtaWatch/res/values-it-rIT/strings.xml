@@ -3,10 +3,10 @@
     <string name="app_name">otawatch</string>
     <string name="action_settings">Impostazioni</string>
     <string name="watch_ota">Aggiornamenti orologio</string>
-    <string name="wifi_disconnect">Connettiti all\'app Amazfit per controllare la presenza di aggiornamenti</string>
+    <string name="wifi_disconnect">Connect to the App to check for updates</string>
     <string name="connect_phone_wifi">"Controlla la connessione di rete del tuo telefono per cercare aggiornamenti"</string>
-    <string name="connect_phone_input_wifi">Connettiti all\'app Amazfit per inserire la password Wi-Fi per l\'orologio</string>
-    <string name="wifi_add_item">Connettiti all\'app Amazfit per aggiungere un nuovo hotspot Wi-Fi</string>
+    <string name="connect_phone_input_wifi">Connect to the App to enter Wi-Fi password for the watch</string>
+    <string name="wifi_add_item">Connect to the App to add a new Wi-Fi hotspot</string>
     <string name="add_wifi">Aggiungi WiFi</string>
     <string name="please_update_rom">"Aggiornamento disponibile,
 aggiornare!"</string>
@@ -17,8 +17,8 @@ aggiornare!"</string>
 aggiornare alla versione %1$s?"</string>
     <string name="has_new_rom_all">Nuova versione disponibile,
     vuoi aggiornare?</string>
-    <string name="input_passwor_on_mobile">\"Inserisci la password Wi-Fi
-nell\'app Amazfit</string>
+    <string name="input_passwor_on_mobile">"Enter Wi-Fi password
+in the App"</string>
     <string name="processbar_downloading_rom">Download…</string>
     <string name="please_keep_wifi_connect">"Non disconnetterti dal Wi-Fi"</string>
     <string name="processbar_downloading_tips">%</string>
@@ -72,10 +72,10 @@ un\'altro hotspot WiFi"</string>
     <string name="local_update_confirm_1_title">Attenzione</string>
     <string name="local_update_invalid_zip">\"La versione è troppo vecchia,
 \"&lt;string name=\"local_update_confirm_1_title\"&gt;Perfavore leggi</string>
-    <string name="local_update_confirm_1_msg">\"Per assicurarti che la nuova versione
-funzioni correttamente, cancelleremo tutti i dati utente
-prima dell\'aggiornamento.
-Esegui il backup dei tuoi dati utilizzando l\'app Amazfit</string>
+    <string name="local_update_confirm_1_msg">"To make sure the new version
+works properly, we\'ll erase all
+user data before the update.
+Back up your data using the App."</string>
     <string name="local_update_confirm_2_msg">"Assicurati che tutti 
 i dati utente hanno il backup. Installando 
 l\'aggiornamento tutti i dati utente sull\'orologio
