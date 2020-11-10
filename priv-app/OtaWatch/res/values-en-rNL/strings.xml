@@ -3,10 +3,10 @@
     <string name="app_name">otawatch</string>
     <string name="action_settings">Instellingen</string>
     <string name="watch_ota">Horloge updates</string>
-    <string name="wifi_disconnect">Verbind met Amazfit app om te controleren op updates</string>
+    <string name="wifi_disconnect">Connect to the App to check for updates</string>
     <string name="connect_phone_wifi">"Controleer de netwerkverbinding van uw telefoon om te controleren op updates"</string>
-    <string name="connect_phone_input_wifi">Verbind met Amazfit app om Wi-Fi wachtwoord in te voeren</string>
-    <string name="wifi_add_item">Verbind met Amazfit app om Wi-Fi wachtwoord in te voeren</string>
+    <string name="connect_phone_input_wifi">Connect to the App to enter Wi-Fi password for the watch</string>
+    <string name="wifi_add_item">Connect to the App to add a new Wi-Fi hotspot</string>
     <string name="add_wifi">Wifi toevoegen</string>
     <string name="please_update_rom">"Systeem update beschikbaar,
 Update?"</string>
@@ -18,8 +18,8 @@ probeer opnieuw"</string>
 updaten naar versie %1$s ?"</string>
     <string name="has_new_rom_all">"Er is een update beschikbaar.
 Firmware op dit horloge is oud. Updaten kan een tijdje duren."</string>
-    <string name="input_passwor_on_mobile">"Voer Wi-Fi wachtwoord in
-in Amazfit app"</string>
+    <string name="input_passwor_on_mobile">"Enter Wi-Fi password
+in the App"</string>
     <string name="processbar_downloading_rom">Downloaden...</string>
     <string name="please_keep_wifi_connect">"Wi-Fi niet verbreken"</string>
     <string name="processbar_downloading_tips">%</string>
@@ -70,9 +70,10 @@ een ander netwerk"</string>
     <string name="update_local">Update van lokaal zip-bestand</string>
     <string name="local_update_confirm_1_title">Let op</string>
     <string name="local_update_invalid_zip">Update naar de meest recente versie van de app</string>
-    <string name="local_update_confirm_1_msg">"Om zeker te zijn dat de nieuwe versie
-goed werkt, worden alle gebruikersgegevens gewist.
-Maak een back-up van uw gegevens in de Amazfit app."</string>
+    <string name="local_update_confirm_1_msg">"To make sure the new version
+works properly, we\'ll erase all
+user data before the update.
+Back up your data using the App."</string>
     <string name="local_update_confirm_2_msg">"Zorg er voor dat alle gegevens
 geback-upt zijn. Installatie van de
 update zal alle gegevens op het 
