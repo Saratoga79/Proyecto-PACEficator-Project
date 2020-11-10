@@ -3,10 +3,10 @@
     <string name="app_name">Aktualizacje</string>
     <string name="action_settings">Ustawienia</string>
     <string name="watch_ota">Aktualizacje zegarka</string>
-    <string name="wifi_disconnect">Połącz z aplikacją Amazfit aby sprawdzić aktualizacje</string>
+    <string name="wifi_disconnect">Connect to the App to check for updates</string>
     <string name="connect_phone_wifi">"Sprawdź połączenie sieciowe w telefonie, aby sprawdzić dostępność aktualizacji"</string>
-    <string name="connect_phone_input_wifi">Połącz się z aplikacją Amazfit aby wprowadzić hasło Wi-Fi dla zegarka</string>
-    <string name="wifi_add_item">Połącz się z aplikacją Amazfit aby dodać nowy hotspot Wi-Fi</string>
+    <string name="connect_phone_input_wifi">Connect to the App to enter Wi-Fi password for the watch</string>
+    <string name="wifi_add_item">Connect to the App to add a new Wi-Fi hotspot</string>
     <string name="add_wifi">Dodaj Wi-Fi</string>
     <string name="please_update_rom">"Aktual.systemu jest dostępna,
 prosimy o zaktual."</string>
@@ -19,8 +19,8 @@ aktual.do wersji %1$s?"</string>
     <string name="has_new_rom_all">Znaleziono nowa wersję.
 Ponieważ masz starszą wersję, uaktualnienie
 może trwać dłużej, prosimy o cierpliwość?</string>
-    <string name="input_passwor_on_mobile">"Wprowadź hasło Wi-Fi
-w aplikacji Amazfit"</string>
+    <string name="input_passwor_on_mobile">"Enter Wi-Fi password
+in the App"</string>
     <string name="processbar_downloading_rom">Pobieranie…</string>
     <string name="please_keep_wifi_connect">"Nie odłączaj się od Wi-Fi"</string>
     <string name="processbar_downloading_tips">%</string>
@@ -73,10 +73,10 @@ inną siecią Wi-Fi"</string>
     <string name="update_local">Lokalny plik ZIP</string>
     <string name="local_update_confirm_1_title">Uwaga</string>
     <string name="local_update_invalid_zip">Zaktualizuj aplikację do najnowszej wersji</string>
-    <string name="local_update_confirm_1_msg">"Aby upewnić się, że nowa wersja
-działa poprawnie, usuniemy wszystkie
-dane użytkownika przed aktualizacją.
-Wykonaj kopię zapasową swoich danych za pomocą aplikacji Amazfit."</string>
+    <string name="local_update_confirm_1_msg">"To make sure the new version
+works properly, we\'ll erase all
+user data before the update.
+Back up your data using the App."</string>
     <string name="local_update_confirm_2_msg">"Sprawdź, czy wszystkie Dane użtkown.
 są skopiowane. Aktual.spowoduje usunięcie wszystkich 
 plików danych z zegarka, kontynuować?"</string>
