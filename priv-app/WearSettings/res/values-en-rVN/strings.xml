@@ -183,7 +183,7 @@
     <string name="flight_mode">Chế độ Máy bay</string>
     <string name="hm_lab">Huami Lab</string>
     <string name="bind_app">Ghép</string>
-    <string name="amazfit_app">Amazfit App</string>
+    <string name="amazfit_app">App</string>
     <string name="personal_info">Thông tin cá nhân</string>
     <string name="time_zone_clock">Cài đặt Giờ</string>
     <string name="setting_time_format">Định dạng Giờ</string>
@@ -311,7 +311,7 @@
     <string name="ble_connet_phone">Kết nối với tai nghe</string>
     <string name="ble_connet_cancel">取消</string>
     <string name="report_bug_dialog_title">Phản hồi</string>
-    <string name="report_bug_dialog_desc">Nếu có lỗi dữ liệu hoặc đồng hồ hoạt động bất thường, bạn có thể tải dữ liệu qua tính năng phản hồi lên máy chủ của chúng tôi để phân tích. Trong quá trình này, nhật ký được tạo trước đó trên đồng hồ sẽ được tự động thu thập và tải lên. Các nhật ký này chỉ được sử dụng để phân tích vấn đề và sẽ bị hủy ngay sau đó. Trong toàn bộ quá trình, chúng tôi sẽ tuân thủ Chính sách bảo mật của chúng tôi, xem chi tiết về chính sách trên ứng dụng Amazfit.</string>
+    <string name="report_bug_dialog_desc">If there is a data error or the watch works abnormally, you can upload the data through the feedback feature to our server for analysis. During this process, the previously generated logs on the watch will be automatically collected and uploaded. These logs are used only for problem analysis, and will be destroyed immediately after that. During the entire process we will comply with our Privacy Policy, view details of the policy on the App.</string>
     <string name="dialog_agree">Đồng ý</string>
     <string name="dialog_quit">Thoát</string>
     <string name="nothing">Trống</string>
@@ -335,7 +335,7 @@
     <string name="build_time">[DEBUG]Giờ tạo</string>
     <string name="build_desc">[DEBUG]Mô tả bản tạo</string>
     <string name="legal">Hãy kiểm tra trong</string>
-    <string name="legal2">Amazfit App</string>
+    <string name="legal2">App</string>
     <string name="lab">Lab</string>
     <string name="opened">Bật</string>
     <string name="closed">Tắt</string>
@@ -422,7 +422,7 @@ và nằm ở gần"</string>
     <string name="blt_headset_set_operation">Tùy chọn</string>
     <string name="blt_headset_selected">Đã chọn</string>
     <string name="blt_headset_set_ear_closed">Đã tắt</string>
-    <string name="blt_headset_first_setting_tips_title">Cần phải cài bộ PowerBuds</string>
+    <string name="blt_headset_first_setting_tips_title">PowerBuds setup</string>
     <string name="blt_headset_first_setting_tips_positive">Bây giờ</string>
     <string name="blt_headset_first_setting_tips_negitive">Để sau</string>
     <string name="battery_offline">Ngoại tuyến</string>
@@ -468,11 +468,11 @@ toàn bộ dữ liệu trong đồng hồ bị xóa, và đồng hồ sẽ ngắ
     <string name="reset_factory_yes">Đặt lại</string>
     <string name="reset_factory_no">Hủy bỏ</string>
     <string name="reset_factory_title">Factory Reset</string>
-    <string name="reset_factory_noconnect_msg">"Nếu cần thiết phải hủy ghép Đồng hồ, hãy thực hiện qua Amazfit App. 
- Factory Reset trên đồng hồ sẽ gỡ bỏ Thẻ UnionPay và Thẻ giao thông 
- Thẻ UnionPay đã bị gỡ: Sẽ không còn ghép với đồng hồ. Nếu bạn muốn ghép lại, Vui lòng liên hệ với nhân viên hỗ trợ Ngân hàng. 
- Thẻ giao thông bị gỡ: Sẽ bị xóa bỏ hoàn toàn và không thể ghép nối lại."</string>
-    <string name="reset_factory_conncet_msg">Ứng dụng Amazfit và đồng hồ sẽ xóa Thẻ Bound UnionPay. Đồng hồ sẽ giữ lại chức năng thanh toán của Thẻ giao thông.</string>
+    <string name="reset_factory_noconnect_msg">"If Needing to Unbind the Watch, Please Operate Through App. 
+ Watch\'s Unilateral Factory Reset Will Remove UnionPay Card and Transportation Card. 
+ A Removed UnionPay Card: It Can No Longer Be Bound to The Watch. If You Need to Bind Again, Please Consult the Bank Customer Service. 
+ A Removed Transportation Card: Will Be Destroyed Permanently and Cannot Be Paid Again."</string>
+    <string name="reset_factory_conncet_msg">Watch and App will Remove the Bound UnionPay Card. The Watch will Retain the Payment Function of the Transportation Card.</string>
     <string name="reset_factory_positive">Factory Reset</string>
     <string name="reset_factory_negative">Hủy bỏ</string>
     <string name="reset_factory_fail_title">Đặt lại không thành công</string>
@@ -481,8 +481,8 @@ toàn bộ dữ liệu trong đồng hồ bị xóa, và đồng hồ sẽ ngắ
     <string name="reset_factory_doing1">Đặt lại đang được thực hiện</string>
     <string name="reset_factory_doing2">Thẻ UnionPay đang được gỡ bỏ</string>
     <string name="reset_factory_bank_title">Hãy gỡ bỏ thẻ UnionPay trước tiên</string>
-    <string name="reset_factory_bank_msg">"Nếu Đặt lại Đồng hồ mà không xóa Thẻ UnionPay, nó sẽ khiến Thẻ UnionPay: 
- 1. Không thể xóa khỏi Đồng hồ, Chiếm không gian chip;  2. Không thể sử dụng Chức năng thanh toán trong Đồng hồ;  3. Không thể ghép nối với các thiết bị khác; Để bảo mật thanh toán, trước tiên, hãy xóa Thẻ UnionPay khỏi Ứng dụng Amazfit. "</string>
+    <string name="reset_factory_bank_msg">"If Reset the Watch without Removing the UnionPay Card, It will Cause the UnionPay Card: 
+ 1. Cannot be Removed from the Watch, Occupying Chip Space;  2. Cannot Use the Payment Function in the Watch;  3. Cannot Be Bound by Other Devices; For Payment Security, Please First Remove the UnionPay Card from App."</string>
     <string name="reset_factory_bank_yes">Tiếp tục Đặt lại</string>
     <string name="reset_factory_bank_no">Hủy bỏ</string>
     <string name="reset_factory_bank_msg_again">"Khi đồng hồ được đặt lại về cài đặt mặc định của nhà sản xuất, tất cả dữ liệu trong đồng hồ sẽ bị xóa và đồng hồ sẽ bị ngắt kết nối với điện thoại của bạn. 
@@ -541,7 +541,7 @@ toàn bộ dữ liệu trong đồng hồ bị xóa, và đồng hồ sẽ ngắ
     <string name="ultra_desc">"Chế độ Ultra sẽ giúp kéo dài đáng kể thời lượng pin của đồng hồ và vẫn hỗ trợ các tính năng chính của đồng hồ."</string>
     <string name="ultra_enter">Siêu tiết kiệm</string>
     <string name="sync_sport_data_before_reboot_title">Tìm thấy bản ghi bài tập chưa được đồng bộ.</string>
-    <string name="sync_sport_data_before_reboot_summary">Hồ sơ không đồng bộ có thể được xem trên điện thoại của bạn. Vui lòng đồng bộ hóa các hồ sơ trước khi chuyển đổi chế độ. Mở ứng dụng Amazfit và kéo xuống để đồng bộ hóa. Tiếp tục chuyển đổi?</string>
+    <string name="sync_sport_data_before_reboot_summary">Unsynchronized records cannot be viewed on your phone. Please sync the records before switching modes. Open the App and pull down to sync. Continue to switch?</string>
     <string name="sync_sport_data_before_reboot_dont_reboot">Ko</string>
     <string name="sync_sport_data_before_reboot_reboot_now">是</string>
     <string name="ultra_upgrade_desc">Đang cập nhật nguồn chế độ Ultra mod. Có thể mất từ 4 đến 5 phút. Xin hãy thử lại sau.</string>
@@ -588,8 +588,8 @@ New Zealand"</string>
     <string name="unknown">Thiết bị không rõ</string>
     <string name="bind_tips_title">"\"Xin vui lòng liên kết 
  để bảo vệ dữ liệu của bạn an toàn hơn\""</string>
+    <string name="more_sport_tint">Thêm</string>
     <string name="upgrade_checking">Kiểm tra cập nhật...</string>
     <string name="left_hand">Trái</string>
     <string name="right_hand">Phải</string>
-    <string name="more_sport_tint">Thêm</string>
 </resources>

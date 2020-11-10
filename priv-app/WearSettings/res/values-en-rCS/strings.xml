@@ -183,7 +183,7 @@
     <string name="flight_mode">Režim letadlo</string>
     <string name="hm_lab">Huami Lab</string>
     <string name="bind_app">Spojit</string>
-    <string name="amazfit_app">Aplikace Amazfit</string>
+    <string name="amazfit_app">Aplikace</string>
     <string name="personal_info">Osobní informace</string>
     <string name="time_zone_clock">Nastavení času</string>
     <string name="setting_time_format">Formát času</string>
@@ -311,7 +311,7 @@
     <string name="ble_connet_phone">Připojit sluchátka</string>
     <string name="ble_connet_cancel">Zrušit</string>
     <string name="report_bug_dialog_title">Feedback</string>
-    <string name="report_bug_dialog_desc">Pokud se vyskytne chyba dat nebo hodinky fungují abnormálně, můžete nahrát data pomocí funkce zpětné vazby na náš server k analýze. Během tohoto procesu budou dříve generované logy na hodinkách automaticky shromážděné a uploadované. Tyto protokoly se používají pouze pro analýzu problémů a ihned poté budou zničeny. Během celého procesu budeme dodržovat zásady ochrany osobních údajů, podrobnosti si zobrazíte v aplikaci Amazfit.</string>
+    <string name="report_bug_dialog_desc">Pokud se vyskytne chyba dat nebo hodinky fungují abnormálně, můžete nahrát data pomocí funkce zpětné vazby na náš server k analýze. Během tohoto procesu budou dříve generované logy na hodinkách automaticky shromažďovány a nahrávány. Tyto protokoly se používají pouze pro analýzu problémů a ihned poté budou zničeny. Během celého procesu budeme dodržovat zásady ochrany osobních údajů, zobrazíme podrobnosti zásad aplikace.</string>
     <string name="dialog_agree">Souhlasit</string>
     <string name="dialog_quit">Ukončit</string>
     <string name="nothing">Prázdný</string>
@@ -335,7 +335,7 @@
     <string name="build_time">[DEBUG]Build time</string>
     <string name="build_desc">[DEBUG]Build description</string>
     <string name="legal">Zkontrolujte prosím</string>
-    <string name="legal2">Aplikace Amazfit</string>
+    <string name="legal2">Aplikace</string>
     <string name="lab">Lab</string>
     <string name="opened">Zap.</string>
     <string name="closed">Vyp.</string>
@@ -419,7 +419,7 @@ a je poblíž"</string>
     <string name="blt_headset_set_operation">Možnosti</string>
     <string name="blt_headset_selected">Vybrané</string>
     <string name="blt_headset_set_ear_closed">Deaktivováno</string>
-    <string name="blt_headset_first_setting_tips_title">Zda nastavit PowerBuds</string>
+    <string name="blt_headset_first_setting_tips_title">Nastavení PowerBuds</string>
     <string name="blt_headset_first_setting_tips_positive">Nyní</string>
     <string name="blt_headset_first_setting_tips_negitive">Později</string>
     <string name="battery_offline">Offline</string>
@@ -465,11 +465,11 @@ všechna data v hodinkách budou smazána, a hodinky budou odpojeny od vašeho m
     <string name="reset_factory_yes">Resetovat</string>
     <string name="reset_factory_no">Zrušit</string>
     <string name="reset_factory_title">Tovární reset</string>
-    <string name="reset_factory_noconnect_msg">"Potřebujete-li odpojit hodinky, proveďte to v aplikaci Amazfit. 
- Jednostranné obnovení továrního nastavení odstraní karty UnionPay a Transportation. 
- Odstraněná UnionPay karta není již navázána k hodinkám. Potřebujete-li ji znovu navázat, prosím kontaktujte bankovní zákaznický servis. 
- Odstraněná Transportation karta bude trvale zničena a nemůže být znovu použita."</string>
-    <string name="reset_factory_conncet_msg">Hodinky a Amazfit aplikace odstraní kartu UnionPay. Hodinky zachovají platební funkci karty Transportation.</string>
+    <string name="reset_factory_noconnect_msg">"Pokud potřebujete odpojit hodinky, operujte prosím pomocí aplikace. 
+ Jednostranný reset továrního nastavení odstraní kartu UnionPay a přepravní kartu. 
+ Odstraněná UnionPay karta: Nemůže být déle navázána k hodinkám. Pokud potřebujete znovu Vázat, prosím kontaktujte bankovní zákaznickou službu. 
+ Odstraněná přepravní karta: Bude trvale zničena a nemůže být znovu zaplacena."</string>
+    <string name="reset_factory_conncet_msg">Hodinky a aplikace odstraní Bound UnionPay kartu. Hodinky zachovají platební funkci přepravní karty.</string>
     <string name="reset_factory_positive">Tovární reset</string>
     <string name="reset_factory_negative">Zrušit</string>
     <string name="reset_factory_fail_title">Obnovení továrního nastavení se nezdařilo</string>
@@ -478,8 +478,8 @@ všechna data v hodinkách budou smazána, a hodinky budou odpojeny od vašeho m
     <string name="reset_factory_doing1">Obnovuje se tovární nastavení</string>
     <string name="reset_factory_doing2">Karta UnionPay je odstraněna</string>
     <string name="reset_factory_bank_title">Nejprve odeberte kartu UnionPay</string>
-    <string name="reset_factory_bank_msg">"Pokud resetujete hodinky bez odebrání karty UnionPay, způsobí to následující: 
- 1. Nelze ji odstranit z hodinek, zabírá místo v čipu; 2. Nelze použít platební funkci v hodinkách; 3. Nelze být navázána s jinými zařízeními. Pro zabezpečení plateb odstraňte nejprve kartu UnionPay z aplikace Amazfit aplikace."</string>
+    <string name="reset_factory_bank_msg">"Pokud resetujete hodinky bez odebrání karty UnionPay, způsobí to pozastavení karty UnionPay : 
+ 1. Nelze odstranit z hodinek, obsazen prostor čipu; 2. Nelze použít platební funkci v hodinkách; 3. Nelze spojit s jinými zařízeními. Pro zabezpečení plateb nejprve odeberte kartu UnionPay z aplikace."</string>
     <string name="reset_factory_bank_yes">Pokračovat v továrním nastavení</string>
     <string name="reset_factory_bank_no">Zrušit</string>
     <string name="reset_factory_bank_msg_again">"Jakmile se hodinky obnoví do továrního nastavení, všechna data v hodinkách budou smazána, a hodinky budou odpojeny od vašeho mobilu. 
@@ -538,7 +538,7 @@ všechna data v hodinkách budou smazána, a hodinky budou odpojeny od vašeho m
     <string name="ultra_desc">"Režim Ultra výrazně prodlouží výdrž baterie a přitom podporuje hlavní funkce hodinek."</string>
     <string name="ultra_enter">Ultra mód</string>
     <string name="sync_sport_data_before_reboot_title">Byly nalezeny nesynchronizované záznamy cvičení.</string>
-    <string name="sync_sport_data_before_reboot_summary">Nelze zobrazit nesynchronizované záznamy v telefonu. Před přepnutím režimů prosím synchronizujte záznamy. Otevřete aplikaci Amazfit a stáhněte ji dolů pro synchronizaci. Pokračovat v přepínání?</string>
+    <string name="sync_sport_data_before_reboot_summary">Nelze zobrazit nesynchronizované záznamy v telefonu. Před přepnutím režimů prosím synchronizujte záznamy. Otevřít aplikaci a stáhnout dolů pro synchronizaci. Pokračovat v přepínání?</string>
     <string name="sync_sport_data_before_reboot_dont_reboot">Ne</string>
     <string name="sync_sport_data_before_reboot_reboot_now">Ano</string>
     <string name="ultra_upgrade_desc">Aktualizace zdrojů v režimu Ultra. To bude trvat asi 4 až 5 minut. Prosím zkuste to znovu později.</string>
@@ -585,8 +585,8 @@ Nový Zéland“</string>
     <string name="unknown">Neznámé zařízení</string>
     <string name="bind_tips_title">"Pro lepší ochranu 
  vašich dat připojte"</string>
+    <string name="more_sport_tint">Více</string>
     <string name="upgrade_checking">Kontrola aktualizací...</string>
     <string name="left_hand">Levá</string>
     <string name="right_hand">Pravá</string>
-    <string name="more_sport_tint">Více</string>
 </resources>

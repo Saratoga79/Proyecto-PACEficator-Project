@@ -184,7 +184,7 @@
     <string name="flight_mode">Λειτουργία πτήσης</string>
     <string name="hm_lab">Εργαστήριο Huami</string>
     <string name="bind_app">Δέσμευση</string>
-    <string name="amazfit_app">Amazfit App</string>
+    <string name="amazfit_app">App</string>
     <string name="personal_info">Προσωπικές πληροφορίες</string>
     <string name="time_zone_clock">Ρυθμίσεις Ώρας</string>
     <string name="setting_time_format">Μορφή ώρας</string>
@@ -312,7 +312,7 @@
     <string name="ble_connet_phone">Συνδέστε τα ακουστικά</string>
     <string name="ble_connet_cancel">Ακύρωση</string>
     <string name="report_bug_dialog_title">Feedback</string>
-    <string name="report_bug_dialog_desc">Αν υπάρχει ένα σφάλμα δεδομένων ή το ρολόι λειτουργεί κανονικά, μπορείτε να ανεβάσετε τα δεδομένα μέσα από την ανάδραση στον server μας για ανάλυση. Κατά τη διάρκεια αυτής της διαδικασίας, τα παλαιότερα αρχεία καταγραφής που δημιουργούνται για το ρολόι θα πρέπει να συλλέγονται αυτόματα και να φορτωθούν. Αυτά τα αρχεία χρησιμοποιούνται μόνο για την ανάλυση του προβλήματος, και θα πρέπει να καταστρέφονται αμέσως μετά από αυτό. Κατά τη διάρκεια της όλης διαδικασίας θα συμμορφώνονται με την Πολιτική Απορρήτου μας, να δείτε λεπτομέρειες της πολιτικής για την Amazfit app.</string>
+    <string name="report_bug_dialog_desc">If there is a data error or the watch works abnormally, you can upload the data through the feedback feature to our server for analysis. During this process, the previously generated logs on the watch will be automatically collected and uploaded. These logs are used only for problem analysis, and will be destroyed immediately after that. During the entire process we will comply with our Privacy Policy, view details of the policy on the App.</string>
     <string name="dialog_agree">Συμφωνώ</string>
     <string name="dialog_quit">Έξοδος</string>
     <string name="nothing">Άδειο</string>
@@ -336,7 +336,7 @@
     <string name="build_time">[DEBUG]την Κατασκευή του</string>
     <string name="build_desc">[DEBUG]Κατασκευή περιγραφή</string>
     <string name="legal">Παρακαλώ ελέγξτε το</string>
-    <string name="legal2">Amazfit App</string>
+    <string name="legal2">App</string>
     <string name="lab">Εργαστήριο</string>
     <string name="opened">Ανοιχτό</string>
     <string name="closed">Απενεργοποίηση</string>
@@ -423,7 +423,7 @@
     <string name="blt_headset_set_operation">Επιλογές</string>
     <string name="blt_headset_selected">Επιλεγμένο</string>
     <string name="blt_headset_set_ear_closed">Απενεργοποιημένο</string>
-    <string name="blt_headset_first_setting_tips_title">Αν θέλετε να ορίσετε PowerBuds</string>
+    <string name="blt_headset_first_setting_tips_title">PowerBuds setup</string>
     <string name="blt_headset_first_setting_tips_positive">Τώρα</string>
     <string name="blt_headset_first_setting_tips_negitive">Αργότερα</string>
     <string name="battery_offline">Εκτός σύνδεσης</string>
@@ -468,11 +468,11 @@ kg"</string>
     <string name="reset_factory_yes">Επαναφορά</string>
     <string name="reset_factory_no">Ακύρωση</string>
     <string name="reset_factory_title">Επαναφ. Εργοστασ. Ρυθμίσεων</string>
-    <string name="reset_factory_noconnect_msg">"Αν χρειαστεί να Αποσυνδέσετε το Ρολόι, Παρακαλούμε να Λειτουργήσει Μέσω Amazfit App. 
- να Παρακολουθήσετε τη Μονομερή Επαναφορά των Εργοστασιακών ρυθμίσεων Θα Αφαιρέσει UnionPay Κάρτα και Κάρτα Μεταφορών. 
- Μια Αφαιρεθεί UnionPay Card: Δεν Είναι Πλέον Συνδεδεμένο με Το Ρολόι. Αν Χρειαστεί να Δεσμεύσει και Πάλι, Παρακαλούμε να Συμβουλευτείτε την Τράπεζα για την Εξυπηρέτηση των Πελατών. 
- Μια Αφαιρεθεί Κάρτα Μεταφορών: Θα Καταστραφεί Μόνιμα και Δεν μπορεί Να Καταβληθεί και Πάλι."</string>
-    <string name="reset_factory_conncet_msg">Ρολόι και Amazfit App θα Αφαιρέσει τις Δεσμεύεται UnionPay Card. Το Ρολόι θα Διατηρήσει τη Λειτουργία Πληρωμής της Μεταφοράς της Κάρτας.</string>
+    <string name="reset_factory_noconnect_msg">"If Needing to Unbind the Watch, Please Operate Through App. 
+ Watch\'s Unilateral Factory Reset Will Remove UnionPay Card and Transportation Card. 
+ A Removed UnionPay Card: It Can No Longer Be Bound to The Watch. If You Need to Bind Again, Please Consult the Bank Customer Service. 
+ A Removed Transportation Card: Will Be Destroyed Permanently and Cannot Be Paid Again."</string>
+    <string name="reset_factory_conncet_msg">Watch and App will Remove the Bound UnionPay Card. The Watch will Retain the Payment Function of the Transportation Card.</string>
     <string name="reset_factory_positive">Επαναφ. Εργοστασ. Ρυθμίσεων</string>
     <string name="reset_factory_negative">Ακύρωση</string>
     <string name="reset_factory_fail_title">Ανεπιτυχής επαναφορά εργοστασιακών ρυθμίσεων</string>
@@ -481,8 +481,8 @@ kg"</string>
     <string name="reset_factory_doing1">Επαναφορά Των Εργοστασιακών Ρυθμίσεων Γίνεται</string>
     <string name="reset_factory_doing2">UnionPay Card Είναι Το Να Αφαιρεθεί</string>
     <string name="reset_factory_bank_title">Παρακαλώ Αφαιρέστε την UnionPay Card κατά την Πρώτη</string>
-    <string name="reset_factory_bank_msg">"Αν Επαναφέρετε το Ρολόι χωρίς την Αφαίρεση των Καρτών UnionPay, θα Προκαλέσει την UnionPay Card: 
- 1. Δεν μπορεί να Αφαιρεθεί από το Ρολόι, Καταλαμβάνοντας Τσιπ Χώρου * 2. Δεν μπορείτε να Χρησιμοποιήσετε τη Λειτουργία Πληρωμής στο Ρολόι 3. Δεν μπορεί Να Δεσμεύεται από Άλλες Συσκευές, Για την Ασφάλεια της Πληρωμής, Παρακαλούμε να Αφαιρέσετε Πρώτα το UnionPay Card από Amazfit App."</string>
+    <string name="reset_factory_bank_msg">"If Reset the Watch without Removing the UnionPay Card, It will Cause the UnionPay Card: 
+ 1. Cannot be Removed from the Watch, Occupying Chip Space;  2. Cannot Use the Payment Function in the Watch;  3. Cannot Be Bound by Other Devices; For Payment Security, Please First Remove the UnionPay Card from App."</string>
     <string name="reset_factory_bank_yes">Συνεχίστε Factory Reset</string>
     <string name="reset_factory_bank_no">Ακύρωση</string>
     <string name="reset_factory_bank_msg_again">"Όταν το ρολόι είναι επαναφορά στις εργοστασιακές ρυθμίσεις, όλα τα δεδομένα στο ρολόι σας θα διαγραφούν, και το ρολόι θα πρέπει να αποσυνδεθεί από το κινητό σας. 
@@ -541,7 +541,7 @@ kg"</string>
     <string name="ultra_desc">"Το Ultra Mode θα παρατείνει το ρολόι της ζωής της μπαταρίας και υποστηρίζει τα κύρια χαρακτηριστικά του ρολογιού."</string>
     <string name="ultra_enter">Υψηλή λειτουργία</string>
     <string name="sync_sport_data_before_reboot_title">Βρέθηκαν μη συγχρονισμένα αρχεία άσκησης.</string>
-    <string name="sync_sport_data_before_reboot_summary">Δεν είναι δυνατή η προβολή μη συγχρονισμένων εγγραφών στο τηλέφωνό σας. Συγχρονίστε τις εγγραφές πριν από την εναλλαγή λειτουργιών. Ανοίξτε την εφαρμογή Amazfit και τραβήξτε προς τα κάτω για συγχρονισμό. Συνέχεια εναλλαγής;</string>
+    <string name="sync_sport_data_before_reboot_summary">Unsynchronized records cannot be viewed on your phone. Please sync the records before switching modes. Open the App and pull down to sync. Continue to switch?</string>
     <string name="sync_sport_data_before_reboot_dont_reboot">Όχι</string>
     <string name="sync_sport_data_before_reboot_reboot_now">Ναι</string>
     <string name="ultra_upgrade_desc">Ενημέρωση πόρων λειτουργίας Ultra. Αυτό θα πάρει περίπου 4-5 λεπτά. Παρακαλώ προσπαθήστε ξανά αργότερα.</string>
@@ -588,8 +588,8 @@ kg"</string>
     <string name="unknown">Άγνωστη συσκευή</string>
     <string name="bind_tips_title">"Παρακαλώ δεσμεύστε
   για την ασφαλέστερη προστασία των δεδομένων σας "</string>
+    <string name="more_sport_tint">Περισσότερα</string>
     <string name="upgrade_checking">Έλεγχος για ενημερώσεις...</string>
     <string name="left_hand">Αριστερό</string>
     <string name="right_hand">Δεξί</string>
-    <string name="more_sport_tint">Περισσότερα</string>
 </resources>

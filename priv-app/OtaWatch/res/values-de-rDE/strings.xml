@@ -3,10 +3,10 @@
     <string name="app_name">Over the Air Uhr</string>
     <string name="action_settings">Einstellungen</string>
     <string name="watch_ota">Uhr Updates</string>
-    <string name="wifi_disconnect">Stellen Sie eine Verbindung zur Amazfit-App her, um nach Updates zu suchen</string>
+    <string name="wifi_disconnect">Connect to the App to check for updates</string>
     <string name="connect_phone_wifi">"Überprüfen Sie die Netzwerkverbindung Ihres Telefons, um nach Updates zu suchen"</string>
-    <string name="connect_phone_input_wifi">Stellen Sie eine Verbindung zur Amazfit-App her, um das WLAN-Passwort für die Uhr einzugeben</string>
-    <string name="wifi_add_item">Stellen Sie eine Verbindung zur Amazfit-App her, um einen neuen WLAN-Hotspot hinzuzufügen</string>
+    <string name="connect_phone_input_wifi">Connect to the App to enter Wi-Fi password for the watch</string>
+    <string name="wifi_add_item">Connect to the App to add a new Wi-Fi hotspot</string>
     <string name="add_wifi">Wi-Fi hinzufügen</string>
     <string name="please_update_rom">Neues Firmware update verfügbar,
 bitte aktualisieren</string>
@@ -19,8 +19,8 @@ ist verfügbar, soll die Version
 %1$s installiert werden?"</string>
     <string name="has_new_rom_all">"Eine Aktualisierung ist verfügbar.
 Die Firmware dieser Uhr ist alt. Das Aktualisieren kann eine Weile dauern. "</string>
-    <string name="input_passwor_on_mobile">"Geben Sie das WLAN-Passwort 
-in der Amazfit App ein"</string>
+    <string name="input_passwor_on_mobile">"Enter Wi-Fi password
+in the App"</string>
     <string name="processbar_downloading_rom">Herunterladen...</string>
     <string name="please_keep_wifi_connect">"Nicht vom Wi-Fi trennen"</string>
     <string name="processbar_downloading_tips">%</string>
@@ -75,10 +75,10 @@ jetzt aktualisieren?</string>
     <string name="update_local">Lokale ZIP-Datei</string>
     <string name="local_update_confirm_1_title">Achtung</string>
     <string name="local_update_invalid_zip">Aktualisieren Sie auf die neueste App Version</string>
-    <string name="local_update_confirm_1_msg">"Um sicherzugehen, dass die neue Version
-richtig funktioniert , werden alle Benutzerdaten
-vor dem Update gelöschen.
-Sichern Sie Ihre Daten mit der Amazfit-App. "</string>
+    <string name="local_update_confirm_1_msg">"To make sure the new version
+works properly, we\'ll erase all
+user data before the update.
+Back up your data using the App."</string>
     <string name="local_update_confirm_2_msg">"Stellen Sie sicher, dass alle Benutzerdaten 
 gesichert sind. Durch die Installation 
 des Updates werden alle Benutzerdaten 

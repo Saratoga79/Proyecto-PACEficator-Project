@@ -3,10 +3,10 @@
     <string name="app_name">otawatch</string>
     <string name="action_settings">การตั้งค่า</string>
     <string name="watch_ota">อัพเดทนาฬิกา</string>
-    <string name="wifi_disconnect">เชื่อมต่อกับแอพ Amazfit เพื่อตรวจสอบการอัพเดท</string>
+    <string name="wifi_disconnect">Connect to the App to check for updates</string>
     <string name="connect_phone_wifi">"ตรวจสอบการเชื่อมต่อเครือข่ายโทรศัพท์ของคุณเพื่อตรวจสอบการอัพเดต"</string>
-    <string name="connect_phone_input_wifi">เชื่อมต่อกับแอพ Amazfit เพื่อป้อนรหัสผ่าน Wi-Fi สำหรับนาฬิกา</string>
-    <string name="wifi_add_item">เชื่อมต่อกับแอพ Amazfit เพื่อเพิ่มฮอตสปอต Wi-Fi ใหม่</string>
+    <string name="connect_phone_input_wifi">Connect to the App to enter Wi-Fi password for the watch</string>
+    <string name="wifi_add_item">Connect to the App to add a new Wi-Fi hotspot</string>
     <string name="add_wifi">เพิ่ม Wi-Fi</string>
     <string name="please_update_rom">"มีการอัปเดต
 อัปเดตเลย "</string>
@@ -17,8 +17,8 @@
     <string name="has_new_rom">มีการอัปเดต
 อัปเดตเป็นรุ่น %1$s หรือไม่ \"</string>
     <string name="has_new_rom_all">"มีการอัปเดตพร้อมใช้งานเฟิร์มแวร์ในนาฬิกาเรือนนี้เก่าการอัปเดตอาจใช้เวลาสักครู่"</string>
-    <string name="input_passwor_on_mobile">"ป้อนรหัสผ่าน Wi-Fi
-ในแอพ Amazfit "</string>
+    <string name="input_passwor_on_mobile">"Enter Wi-Fi password
+in the App"</string>
     <string name="processbar_downloading_rom">กำลังดาวน์โหลด…</string>
     <string name="please_keep_wifi_connect">"อย่าตัดการเชื่อมต่อจาก Wi-Fi"</string>
     <string name="processbar_downloading_tips">%</string>
@@ -71,7 +71,10 @@
     <string name="update_local">ไฟล์ ZIP ในเครื่อง</string>
     <string name="local_update_confirm_1_title">โปรดทราบ</string>
     <string name="local_update_invalid_zip">คุณกำลังใช้งานเวอร์ชั่นล่าสุด</string>
-    <string name="local_update_confirm_1_msg">\"เพื่อให้แน่ใจว่าเวอร์ชั่นใหม่ทำงานได้ถูกต้อง เราจะลบข้อมูลทั้งหมดก่อนการอัพเดท สำรองข้อมูลของคุณด้วย Amazfit แอพ</string>
+    <string name="local_update_confirm_1_msg">"To make sure the new version
+works properly, we\'ll erase all
+user data before the update.
+Back up your data using the App."</string>
     <string name="local_update_confirm_2_msg">"ตรวจสอบให้แน่ใจว่าคุณได้สำรองข้อมูลแล้ว
 ข้อมูลทั้งหมดของคุณ
 การอัปเดตจะลบผู้ใช้ทั้งหมด

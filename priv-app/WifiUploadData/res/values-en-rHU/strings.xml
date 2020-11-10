@@ -21,8 +21,8 @@
     <string name="locale_title">Nyelv választás</string>
     <string name="app_name">Wifi szink.</string>
     <string name="notice_text_success_top">Sikeres szinkronizáció</string>
-    <string name="notice_text_success_bottom">"Adatok megnézhetők 
-az Amazfit appban"</string>
+    <string name="notice_text_success_bottom">"You can view data 
+in the App"</string>
     <string name="notice_text_failed_top">"Nem sikerült a szinkr."</string>
     <string name="net_failed">Ellen. a hálóz. kapcsolatot és próbáld újra</string>
     <string name="date">Idő:</string>
@@ -30,18 +30,18 @@ az Amazfit appban"</string>
     <string name="pm">PM</string>
     <string name="date_">/</string>
     <string name="date_m">:</string>
-    <string name="see_after_connect_app_token_faield">"Nem sikerült csatl. az Amazfit apphoz a token frissítéséért"</string>
+    <string name="see_after_connect_app_token_faield">"Couldn't connect to the App to refresh access token"</string>
     <string name="cannot_acess_server">"Nem sikerült csatl. a szerverhez."</string>
     <string name="cannot_upload_user">"Nem sikerült a token ellenőrzése"</string>
-    <string name="please_upload_assist_version">Frissítsd az Amazfit appot és próbáld újra</string>
-    <string name="did_not_connect_assist">Csatlakozz az Amazfit apphoz a token frissítéséhez és az adat szinkronhoz</string>
+    <string name="please_upload_assist_version">Update your App and try again</string>
+    <string name="did_not_connect_assist">Connect to the App to refresh access token in order to sync data</string>
     <string name="upload_failed_full">Megszakítod a szinkronizálást?</string>
     <string name="pleanse_connect_to_phone">Csatlakozz a társalkalmazáshoz az adatok kézi szinkronizálásához. (Húzd le a kezdőlapról)</string>
     <string name="percent_sign">%</string>
     <string name="please_keep_wifi_connected">"Ne csatlakozz le a Wifi-ről"</string>
     <string name="init_wifi">Csatlakozás Wifi-hez...</string>
     <string name="init_user">Hitelesítés...</string>
-    <string name="init_app">Csatlakozás az Amazfit apphoz...</string>
+    <string name="init_app">Connecting to the App…</string>
     <string name="init_update_user">Frissítés...</string>
     <string name="zero">0</string>
     <string name="yes">Igen</string>

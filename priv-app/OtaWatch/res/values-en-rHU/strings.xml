@@ -3,10 +3,10 @@
     <string name="app_name">otawatch</string>
     <string name="action_settings">Beállítások</string>
     <string name="watch_ota">Óra frissítések</string>
-    <string name="wifi_disconnect">Csatlakozz az Amazfit apphoz a frissítésekért</string>
+    <string name="wifi_disconnect">Connect to the App to check for updates</string>
     <string name="connect_phone_wifi">"Ellenőrizd a telefon hálózati kapcsolatát a frissítésekhez"</string>
-    <string name="connect_phone_input_wifi">Az Amazfit appban add meg az óra Wifi jelszavát</string>
-    <string name="wifi_add_item">Csatlakozz az Amazfit apphoz új Wifi hotspot felvételéhez</string>
+    <string name="connect_phone_input_wifi">Connect to the App to enter Wi-Fi password for the watch</string>
+    <string name="wifi_add_item">Connect to the App to add a new Wi-Fi hotspot</string>
     <string name="add_wifi">Új Wifi</string>
     <string name="please_update_rom">"Rendszer frissítés érhető el, 
 kérjük frissíts"</string>
@@ -18,8 +18,8 @@ Próbáld újra."</string>
 Frissítesz erre %1$s?"</string>
     <string name="has_new_rom_all">Fedezd fel az új verziót.
 A verziód régebbi, így a frissítési idő hosszabb lehet, lesz türelmed hozzá?</string>
-    <string name="input_passwor_on_mobile">"Add meg a Wifi jelszót
-az Amazfit appban"</string>
+    <string name="input_passwor_on_mobile">"Enter Wi-Fi password
+in the App"</string>
     <string name="processbar_downloading_rom">Letöltés…</string>
     <string name="please_keep_wifi_connect">"Ne csatlakozz le a Wifi-ről"</string>
     <string name="processbar_downloading_tips">%</string>
@@ -72,10 +72,10 @@ másik Wifi hotspotot"</string>
     <string name="update_local">Helyi ZIP fájl</string>
     <string name="local_update_confirm_1_title">Figyelem</string>
     <string name="local_update_invalid_zip">Frissíts az app legújabb verziójára</string>
-    <string name="local_update_confirm_1_msg">"Az új verzió megfelelő működése
-érdekében minden felh.-i adatok
-törlünk a frissítés előtt. Mentsd el
-adataid az Amazfit alkalmazásban."</string>
+    <string name="local_update_confirm_1_msg">"To make sure the new version
+works properly, we\'ll erase all
+user data before the update.
+Back up your data using the App."</string>
     <string name="local_update_confirm_2_msg">"Kérjük győződj meg róla, hogy minden felhasználói
 adatról biztonsági mentés készült. A frissítés telepítése
 törli az összes felhasználói

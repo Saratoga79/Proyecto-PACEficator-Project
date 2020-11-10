@@ -183,7 +183,7 @@
     <string name="flight_mode">Hegazkin modua</string>
     <string name="hm_lab">Huami Lab</string>
     <string name="bind_app">Lotu</string>
-    <string name="amazfit_app">Amazfit Watch App</string>
+    <string name="amazfit_app">App-a</string>
     <string name="personal_info">Informazio pertsonala</string>
     <string name="time_zone_clock">Ordu guneko esleipenak</string>
     <string name="setting_time_format">Orduaren formatoa</string>
@@ -310,7 +310,7 @@
   energia kontsumoa murrizteko. Egin dezakezuna:"</string>
     <string name="ble_connet_phone">Entzungailua konektatu</string>
     <string name="ble_connet_cancel">Ezeztatu</string>
-    <string name="report_bug_dialog_title">Iradokizunak</string>
+    <string name="report_bug_dialog_title">Akatsa erreportatu</string>
     <string name="report_bug_dialog_desc">Erloju baten ondoren datuen akatsak, baldintza anormalak, etab. Datuak zerbitzarira igo ditzakezu gure salmentako langileek aztertzeko galdera-erantzunaren bidez. Prozesu horretan, ordulariaren aurrez sortutako erregistroak automatikoki bilduko dira eta kargatuko dira. Erregistro horiek arazoaren analisietarako soilik erabiliko dira eta ez dira beste bitarteko gisa erabiliko, eta azterketaren ondoren berehala suntsituko dira. Prozesu osoa gure pribatutasun-politika beteko du. Xehetasunetarako, ikus pribatutasun-politika Amazfit Watch aplikazioan.</string>
     <string name="dialog_agree">Ados</string>
     <string name="dialog_quit">Atera</string>
@@ -335,7 +335,7 @@
     <string name="build_time">[DEBUG]Fabrikatze data</string>
     <string name="build_desc">[DEBUG]Egitura deskribapena</string>
     <string name="legal"> Datu gehiago </string>
-    <string name="legal2">Erlojuaren App-a</string>
+    <string name="legal2">App-a</string>
     <string name="lab">Lab</string>
     <string name="opened">On</string>
     <string name="closed">Off</string>
@@ -418,7 +418,7 @@
     <string name="blt_headset_set_operation">Aukerak</string>
     <string name="blt_headset_selected">Hautaturik</string>
     <string name="blt_headset_set_ear_closed">Ezgaituta</string>
-    <string name="blt_headset_first_setting_tips_title">Ezarri PowerBuds-ak</string>
+    <string name="blt_headset_first_setting_tips_title">PowerBuds konfigurazioa</string>
     <string name="blt_headset_first_setting_tips_positive">Orain</string>
     <string name="blt_headset_first_setting_tips_negitive">Geroago</string>
     <string name="battery_offline">Lineaz kanpo</string>
@@ -458,11 +458,11 @@
     <string name="reset_factory_yes">Reseta</string>
     <string name="reset_factory_no">Ezeztatu</string>
     <string name="reset_factory_title">Fabrika balioak</string>
-    <string name="reset_factory_noconnect_msg">"Erlojua desblokeatu behar baduzu, egin eragiketa Amazfit aplikazioaren bidez.
+    <string name="reset_factory_noconnect_msg">"Erlojua desblokeatu behar baduzu, egin eragiketa App-a bidez.
   Watch-ren fabrikak aldebakarreko berrezarpenak UnionPay txartela eta garraio txartela kenduko ditu.
   Kendutako UnionPay txartela: Ezin izango da gehiago erlojuarekin lotu. Berriro lotu behar baduzu, mesedez, kontsultatu Bankuko Bezeroarentzako Arreta Zerbitzua.
   Kendutako garraio txartela: behin betiko suntsituko da eta ezin da berriro ordaindu. "</string>
-    <string name="reset_factory_conncet_msg">Erlojua eta Amazfit App-akUnionPay txartela ezabatuko dute. Erlojuak Garraio Txartelaren Ordainketa Funtzioa mantenduko du.</string>
+    <string name="reset_factory_conncet_msg">Erlojua eta App-ak UnionPay txartela ezabatuko dute. Erlojuak Garraio Txartelaren Ordainketa Funtzioa mantenduko du.</string>
     <string name="reset_factory_positive">Fabrika balioak</string>
     <string name="reset_factory_negative">Ezeztatu</string>
     <string name="reset_factory_fail_title">Fabrika balioak ez dira ezarri</string>
@@ -472,7 +472,7 @@
     <string name="reset_factory_doing2">UnionPay txartela ezabatzen</string>
     <string name="reset_factory_bank_title">UnionPay txartela ezabatu</string>
     <string name="reset_factory_bank_msg">"Erlojua berrezarri UnionPay txartela kendu gabe, UnionPay txartela eragingo du:
-  1. Ezin da Erlojutik kendu, Chip Tokia okupatuz; 2. Ezin da erlojuan Ordainketa Funtzioa erabili; 3. Ezin da beste gailu batzuekin lotu; Ordainketa segurtasuna lortzeko, Mesedez, kendu UnionPay txartela Amazfit aplikaziotik. "</string>
+  1. Ezin da Erlojutik kendu, Chip Tokia okupatuz; 2. Ezin da erlojuan Ordainketa Funtzioa erabili; 3. Ezin da beste gailu batzuekin lotu; Ordainketa segurtasuna lortzeko, Mesedez, kendu UnionPay txartela App-atik. "</string>
     <string name="reset_factory_bank_yes">Fabrika balioak ezarri</string>
     <string name="reset_factory_bank_no">Ezeztatu</string>
     <string name="reset_factory_bank_msg_again">"Behin erlojua fabrikako ezarpenetara berrezarri ondoren, erlojuko datu guztiak ezabatu egingo dira eta erlojua zure mugikorretik deskonektatuko da.
@@ -577,8 +577,8 @@ New Zealand"</string>
     <string name="lab_desc">Depurazio tresnen parte batu</string>
     <string name="unknown">Gailu ezezaguna</string>
     <string name="bind_tips_title">Mesedez, lotarazi zure datuak modu seguroago batean babesteko</string>
+    <string name="more_sport_tint">Gehiago</string>
     <string name="upgrade_checking">Eguneraketaren konprobazioa...</string>
     <string name="left_hand">Ezkerra</string>
     <string name="right_hand">Eskuma</string>
-    <string name="more_sport_tint">Gehiago</string>
 </resources>

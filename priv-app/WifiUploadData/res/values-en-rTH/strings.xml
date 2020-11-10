@@ -21,8 +21,8 @@
     <string name="locale_title">เลือกภาษา</string>
     <string name="app_name">ซิ้งค์ Wi-Fi</string>
     <string name="notice_text_success_top">ซิงค์ข้อมูลเรียบร้อยแล้ว</string>
-    <string name="notice_text_success_bottom">"คุณสามารถดูข้อมูล 
-ใน Amazfit แอพ"</string>
+    <string name="notice_text_success_bottom">"You can view data 
+in the App"</string>
     <string name="notice_text_failed_top">"ไม่สามารถซิ้งค์ข้อมูล"</string>
     <string name="net_failed">ตรวจสอบการเชื่อมต่อเครือข่ายของคุณแล้วลองอีกครั้ง</string>
     <string name="date">เวลา:</string>
@@ -30,18 +30,18 @@
     <string name="pm">PM</string>
     <string name="date_">/</string>
     <string name="date_m">:</string>
-    <string name="see_after_connect_app_token_faield">"ไม่สามารถเชื่อมต่อกับแอพ Amazfit เพื่อรีเฟรช token การเข้าถึง"</string>
+    <string name="see_after_connect_app_token_faield">"Couldn't connect to the App to refresh access token"</string>
     <string name="cannot_acess_server">"เชื่อมต่อไปยังเซิร์ฟเวอร์ไม่ได้"</string>
     <string name="cannot_upload_user">"ตรวจสอบ token การเข้าถึงไม่ได้"</string>
-    <string name="please_upload_assist_version">อัปเดทแอพ Amazfit แล้วลองอีกครั้ง</string>
-    <string name="did_not_connect_assist">เชื่อมต่อกับแอพ Amazfit เพื่อรีเฟรช token การเข้าถึงเพื่อที่จะซิ้งค์ข้อมูล</string>
+    <string name="please_upload_assist_version">Update your App and try again</string>
+    <string name="did_not_connect_assist">Connect to the App to refresh access token in order to sync data</string>
     <string name="upload_failed_full">ขัดจังหวะการซิ้งค์ที่กำลังดำเนินการ?</string>
     <string name="pleanse_connect_to_phone">โปรดเชื่อมต่อกับแอพเพื่อซิ้งค์ข้อมูลด้วยตัวเอง (ลากลงจากหน้าหลัก)​</string>
     <string name="percent_sign">%</string>
     <string name="please_keep_wifi_connected">"อย่าตัดการเชื่อมต่อจาก Wi-Fi"</string>
     <string name="init_wifi">เชื่อมต่อกับ Wi-Fi...</string>
     <string name="init_user">กำลังตรวจสอบ...</string>
-    <string name="init_app">กำลังเชื่อมต่อกับแอพ Amazfit…</string>
+    <string name="init_app">Connecting to the App…</string>
     <string name="init_update_user">กำลังอัปเดต…</string>
     <string name="zero">0</string>
     <string name="yes">ใช่</string>

@@ -183,7 +183,7 @@
     <string name="flight_mode">מצב טיסה</string>
     <string name="hm_lab">Huami מעבדה</string>
     <string name="bind_app">לאגד</string>
-    <string name="amazfit_app">Amazfit App</string>
+    <string name="amazfit_app">App</string>
     <string name="personal_info">מידע אישי</string>
     <string name="time_zone_clock">הגדרות זמן</string>
     <string name="setting_time_format">תבנית השעה</string>
@@ -311,7 +311,7 @@
     <string name="ble_connet_phone">חבר את האוזניות</string>
     <string name="ble_connet_cancel">לבטל</string>
     <string name="report_bug_dialog_title">משוב</string>
-    <string name="report_bug_dialog_desc">אם יש נתונים שגיאה או את השעון פועל באופן חריג, אתה יכול להעלות את הנתונים באמצעות תכונת משוב לשרת שלנו לבדיקה. במהלך תהליך זה, בעבר שנוצר יומנים על השעון באופן אוטומטי אסף שהועלו. רישומים אלה משמשים רק עבור הבעיה ניתוח, יושמד מייד לאחר מכן. במהלך כל התהליך אנחנו לציית למדיניות הפרטיות שלנו, להציג פרטים של המדיניות על Amazfit האפליקציה.</string>
+    <string name="report_bug_dialog_desc">If there is a data error or the watch works abnormally, you can upload the data through the feedback feature to our server for analysis. During this process, the previously generated logs on the watch will be automatically collected and uploaded. These logs are used only for problem analysis, and will be destroyed immediately after that. During the entire process we will comply with our Privacy Policy, view details of the policy on the App.</string>
     <string name="dialog_agree">מסכים</string>
     <string name="dialog_quit">יציאה</string>
     <string name="nothing">ריק</string>
@@ -335,7 +335,7 @@
     <string name="build_time">[DEBUG]הזמן לבנות</string>
     <string name="build_desc">[DEBUG]לבנות תיאור</string>
     <string name="legal">אנא בדוק את</string>
-    <string name="legal2">Amazfit App</string>
+    <string name="legal2">App</string>
     <string name="lab">המעבדה</string>
     <string name="opened">על</string>
     <string name="closed">חופש</string>
@@ -422,7 +422,7 @@
     <string name="blt_headset_set_operation">אפשרויות</string>
     <string name="blt_headset_selected">נבחר</string>
     <string name="blt_headset_set_ear_closed">נכים</string>
-    <string name="blt_headset_first_setting_tips_title">Whether to set PowerBuds</string>
+    <string name="blt_headset_first_setting_tips_title">PowerBuds setup</string>
     <string name="blt_headset_first_setting_tips_positive">עכשיו</string>
     <string name="blt_headset_first_setting_tips_negitive">מאוחר יותר</string>
     <string name="battery_offline">במצב לא מקוון</string>
@@ -468,11 +468,11 @@
     <string name="reset_factory_yes">איפוס</string>
     <string name="reset_factory_no">לבטל</string>
     <string name="reset_factory_title">איפוס להגדרות יצרן</string>
-    <string name="reset_factory_noconnect_msg">"אם צורך להתיר את השעון, בבקשה לפעול דרך Amazfit האפליקציה. 
- לצפות החד-צדדי לאפס מפעל תסיר את כרטיס UnionPay ותחבורה כרטיס. 
- הוסר כרטיס UnionPay: זה כבר לא יכול להיות מחויב השעון. אם אתה צריך לאגד שוב, יש להתייעץ עם הבנק שירות לקוחות. 
- הוסר תחבורה כרטיס: יושמד באופן קבוע ולא ניתן בתשלום שוב."</string>
-    <string name="reset_factory_conncet_msg">השעון Amazfit האפליקציה תסיר את מחויב כרטיס UnionPay. השעון יהיה לשמור את פונקצית תשלום של תחבורה כרטיס.</string>
+    <string name="reset_factory_noconnect_msg">"If Needing to Unbind the Watch, Please Operate Through App. 
+ Watch\'s Unilateral Factory Reset Will Remove UnionPay Card and Transportation Card. 
+ A Removed UnionPay Card: It Can No Longer Be Bound to The Watch. If You Need to Bind Again, Please Consult the Bank Customer Service. 
+ A Removed Transportation Card: Will Be Destroyed Permanently and Cannot Be Paid Again."</string>
+    <string name="reset_factory_conncet_msg">Watch and App will Remove the Bound UnionPay Card. The Watch will Retain the Payment Function of the Transportation Card.</string>
     <string name="reset_factory_positive">איפוס להגדרות יצרן</string>
     <string name="reset_factory_negative">לבטל</string>
     <string name="reset_factory_fail_title">לא מוצלח איפוס להגדרות יצרן</string>
@@ -481,8 +481,8 @@
     <string name="reset_factory_doing1">איפוס מתבצע</string>
     <string name="reset_factory_doing2">כרטיס UnionPay מוסר</string>
     <string name="reset_factory_bank_title">אנא הסר את כרטיס UnionPay בהתחלה</string>
-    <string name="reset_factory_bank_msg">\"אם לאפס את השעון מבלי להסיר את כרטיס UnionPay, זה יגרום את כרטיס UnionPay: 
- 1. לא ניתן להסיר את השעון, כובש צ \' יפ שטח; 2. ניתן להשתמש פונקצית תשלום בשעון; 3. יכול להיות מאוגד על-ידי התקנים אחרים; תשלום עבור אבטחה, בבקשה להסיר תחילה את כרטיס UnionPay מ Amazfit האפליקציה\".</string>
+    <string name="reset_factory_bank_msg">"If Reset the Watch without Removing the UnionPay Card, It will Cause the UnionPay Card: 
+ 1. Cannot be Removed from the Watch, Occupying Chip Space;  2. Cannot Use the Payment Function in the Watch;  3. Cannot Be Bound by Other Devices; For Payment Security, Please First Remove the UnionPay Card from App."</string>
     <string name="reset_factory_bank_yes">המשך איפוס להגדרות יצרן</string>
     <string name="reset_factory_bank_no">לבטל</string>
     <string name="reset_factory_bank_msg_again">"ברגע השעון הוא לאפס את הגדרות ברירת המחדל של היצרן, כל הנתונים בשעון יימחקו, ואת השעון ינותקו מהטלפון הנייד שלך. 
@@ -541,7 +541,7 @@
     <string name="ultra_desc">"Ultra Mode יהיה מאוד להרחיב את השעון חיי הסוללה של ותמיכה התכונות העיקריות של שעון."</string>
     <string name="ultra_enter">Ultra Mode</string>
     <string name="sync_sport_data_before_reboot_title">תואם תרגיל רשומות נמצאים.</string>
-    <string name="sync_sport_data_before_reboot_summary">תואם את רישומי לא ניתן להציג בטלפון שלך. בבקשה לסנכרן את הרשומות לפני החלפת מצבי. פתח את Amazfit האפליקציה ותוריד לסנכרן. להמשיך להחליף?</string>
+    <string name="sync_sport_data_before_reboot_summary">Unsynchronized records cannot be viewed on your phone. Please sync the records before switching modes. Open the App and pull down to sync. Continue to switch?</string>
     <string name="sync_sport_data_before_reboot_dont_reboot">לא</string>
     <string name="sync_sport_data_before_reboot_reboot_now">כן</string>
     <string name="ultra_upgrade_desc">Updating Ultra mode resources. This will take about 4 to 5 minutes. Please try again later.</string>
@@ -588,8 +588,8 @@ New Zealand"</string>
     <string name="unknown">התקן לא ידוע</string>
     <string name="bind_tips_title">"\"Please bind 
  to protect your data more securely\""</string>
+    <string name="more_sport_tint">More</string>
     <string name="upgrade_checking">בדיקת עדכון...</string>
     <string name="left_hand">שמאל</string>
     <string name="right_hand">נכון</string>
-    <string name="more_sport_tint">More</string>
 </resources>

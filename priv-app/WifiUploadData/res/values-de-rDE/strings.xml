@@ -21,9 +21,8 @@
     <string name="locale_title">Sprache auswählen</string>
     <string name="app_name">WLAN-Synchronisierung</string>
     <string name="notice_text_success_top">Synchronisation erfolgreich</string>
-    <string name="notice_text_success_bottom">"Sie können die Daten in 
-der Amazfit app einsehen
-"</string>
+    <string name="notice_text_success_bottom">"You can view data 
+in the App"</string>
     <string name="notice_text_failed_top">"Fehler bei Datensynchronisierung"</string>
     <string name="net_failed">Prüfen Sie Ihre Netzwerkverbindung, und versuchen Sie es erneut</string>
     <string name="date">Zeit:</string>
@@ -31,18 +30,18 @@ der Amazfit app einsehen
     <string name="pm">PM</string>
     <string name="date_">/</string>
     <string name="date_m">:</string>
-    <string name="see_after_connect_app_token_faield">"Konnte keine Verbindung zur Amazfit-App herstellen, um Zugriffstoken zu aktualisieren"</string>
+    <string name="see_after_connect_app_token_faield">"Couldn't connect to the App to refresh access token"</string>
     <string name="cannot_acess_server">"Verbindung zum Server konnte nicht hergestellt werden."</string>
     <string name="cannot_upload_user">"Zugangs-Token konnte nicht verifiziert werden"</string>
-    <string name="please_upload_assist_version">Aktualisieren Sie Ihre Amazfit app und versuchen Sie es erneut</string>
-    <string name="did_not_connect_assist">Verbinden Sie sich mit der Amazfit-App, um Zugangs-Token zu aktualisieren, um Daten zu synchronisieren</string>
+    <string name="please_upload_assist_version">Update your App and try again</string>
+    <string name="did_not_connect_assist">Connect to the App to refresh access token in order to sync data</string>
     <string name="upload_failed_full">Laufende Synchronisation unterbrechen?</string>
     <string name="pleanse_connect_to_phone">Bitte schließen Sie die Begleiter-app zum synchronisieren von Daten manuell. (Ziehen Sie unterhalb der Startseite)</string>
     <string name="percent_sign">%</string>
     <string name="please_keep_wifi_connected">"Nicht vom Wi-Fi trennen"</string>
     <string name="init_wifi">WLAN-Verbindung wird hergestellt…</string>
     <string name="init_user">Überprüfung…</string>
-    <string name="init_app">Verbindung zur Amazfit-App…</string>
+    <string name="init_app">Connecting to the App…</string>
     <string name="init_update_user">Aktualisierung…</string>
     <string name="zero">0</string>
     <string name="yes">Ja</string>

@@ -3,14 +3,12 @@
     <string name="app_name">otawatch</string>
     <string name="action_settings">Ajustes</string>
     <string name="watch_ota">Actualizar reloj</string>
-    <string name="wifi_disconnect">Por favor, conecte el
-Reloj Amazfit app para ayudar
-La comprobación del reloj para la actualización</string>
+    <string name="wifi_disconnect">Conéctate a la App para buscar actualizaciones</string>
     <string name="connect_phone_wifi">"\"Por favor, compruebe el teléfono
 Red para ayudar al
 Ver la actualización\""</string>
-    <string name="connect_phone_input_wifi">Conéctate a la app de Amazfit para introducir la contraseña WiFi</string>
-    <string name="wifi_add_item">Conéctate a la app de Amazfit para añadir un nuevo hotspot WiFi</string>
+    <string name="connect_phone_input_wifi">Conéctate a la App  para introducir la contraseña Wi-Fi para el reloj</string>
+    <string name="wifi_add_item">Conéctate a la App para añadir un nuevo punto de acceso Wi-Fi</string>
     <string name="add_wifi">Añadir WiFi</string>
     <string name="please_update_rom">Se ha encontrado una nueva versión del sistema, actualiza</string>
     <string name="checking_rom">Comprobación de nuevas versiones</string>
@@ -21,8 +19,8 @@ Vuelva a intentarlo"</string>
 ¿Actualizar a la versión %1$s?"</string>
     <string name="has_new_rom_all">Actualización encontrada, debido a la antigüedad
 de su versión, la actualización podrá tomar más tiempo, sea paciente.</string>
-    <string name="input_passwor_on_mobile">Introduce la contraseña WiFi 
-en la app de Amazfit</string>
+    <string name="input_passwor_on_mobile">"Introduce la contraseña WiFi
+en la App "</string>
     <string name="processbar_downloading_rom">Descargando ...</string>
     <string name="please_keep_wifi_connect">"No te desconectes del WiFi"</string>
     <string name="processbar_downloading_tips">%</string>
@@ -71,10 +69,10 @@ red WiFi. Inténtalo otra vez</string>
     <string name="update_local">Actualizar desde archivo zip local</string>
     <string name="local_update_confirm_1_title">Por favor leer</string>
     <string name="local_update_invalid_zip">La versión del paquete de sistema es demasiado baja, se recomiendo actualizar a la última versión</string>
-    <string name="local_update_confirm_1_msg">"Para asegurarse que la nueva versión
-funcione correctamente, vamos a borrar
-todos los datos de usuario después de la actualización.
-Favor conecte el reloj a la app y respalde todos sus datos."</string>
+    <string name="local_update_confirm_1_msg">"Para garantizar que la nueva versión
+funciona correctamente, se borrarán todos
+los datos de usuario antes de actualizar.
+Sincroniza antes los datos desde la App."</string>
     <string name="local_update_confirm_2_msg">"Asegúrate que todos los
 datos de usuario estén respaldados.
 Instalar la actualización borrará todos los

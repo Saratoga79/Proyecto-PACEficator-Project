@@ -3,10 +3,10 @@
     <string name="app_name">cập nhật Ota</string>
     <string name="action_settings">Cài đặt</string>
     <string name="watch_ota">Cập nhật đồng hồ</string>
-    <string name="wifi_disconnect">Kết nối với ứng dụng Amazfit để kiểm tra cập nhật</string>
+    <string name="wifi_disconnect">Connect to the App to check for updates</string>
     <string name="connect_phone_wifi">"Kiểm tra kết nối mạng của điện thoại để cập nhật đồng hồ"</string>
-    <string name="connect_phone_input_wifi">Kết nối ứng dụng Amazfit để nhập mật khẩu Wifi cho đồng hồ</string>
-    <string name="wifi_add_item">Kết nối ứng dụng Amazfit để thêm mạng Wifi mới</string>
+    <string name="connect_phone_input_wifi">Connect to the App to enter Wi-Fi password for the watch</string>
+    <string name="wifi_add_item">Connect to the App to add a new Wi-Fi hotspot</string>
     <string name="add_wifi">Thêm Wifi</string>
     <string name="please_update_rom">"Có bản cập nhật hệ thống,
 hãy cập nhật"</string>
@@ -18,8 +18,8 @@ hãy thử lại"</string>
 cập nhật lên bản %1$s ?"</string>
     <string name="has_new_rom_all">"Có bản cập nhật mới.
 Rom đồng hồ đã cũ. Cập nhật sẽ mất một chút thời gian."</string>
-    <string name="input_passwor_on_mobile">"Nhập mật khẩu Wifi
-trong ứng dụng Amazfit"</string>
+    <string name="input_passwor_on_mobile">"Enter Wi-Fi password
+in the App"</string>
     <string name="processbar_downloading_rom">Đang tải về…</string>
     <string name="please_keep_wifi_connect">"Đừng ngắt kết nối Wi-Fi"</string>
     <string name="processbar_downloading_tips">%</string>
@@ -72,10 +72,10 @@ với mạng Wifi khác"</string>
     <string name="update_local">Cập nhật file Zip</string>
     <string name="local_update_confirm_1_title">Chú ý</string>
     <string name="local_update_invalid_zip">Cập nhật lên phiên bản mới nhất của ứng dụng</string>
-    <string name="local_update_confirm_1_msg">"Để đảm bảo phiên bản mới 
-hoạt động tốt, chúng tôi sẽ xóa tất cả dữ liệu 
-người dùng trước khi cập nhật. 
-Vui lòng sao lưu tất cả dữ liệu qua Amazfit App."</string>
+    <string name="local_update_confirm_1_msg">"To make sure the new version
+works properly, we\'ll erase all
+user data before the update.
+Back up your data using the App."</string>
     <string name="local_update_confirm_2_msg">"Đảm bảo tất cả dữ liệu người dùng
 đã được sao lưu. Cài đặt cập nhật sẽ
 xóa toàn bộ dữ liệu trên đồng hồ, Tiếp tục?"</string>
