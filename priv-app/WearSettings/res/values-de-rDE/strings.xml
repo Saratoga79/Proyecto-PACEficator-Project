@@ -183,7 +183,7 @@
     <string name="flight_mode">Flugmodus</string>
     <string name="hm_lab">Huami Lab</string>
     <string name="bind_app">Bind</string>
-    <string name="amazfit_app">Amazfit App</string>
+    <string name="amazfit_app">App</string>
     <string name="personal_info">Personal Info</string>
     <string name="time_zone_clock">Time Settings</string>
     <string name="setting_time_format">Time Format</string>
@@ -311,7 +311,7 @@
     <string name="ble_connet_phone">Connect the headsets</string>
     <string name="ble_connet_cancel">Abbrechen</string>
     <string name="report_bug_dialog_title">Feedback</string>
-    <string name="report_bug_dialog_desc">If there is a data error or the watch works abnormally, you can upload the data through the feedback feature to our server for analysis. During this process, the previously generated logs on the watch will be automatically collected and uploaded. These logs are used only for problem analysis, and will be destroyed immediately after that. During the entire process we will comply with our Privacy Policy, view details of the policy on the Amazfit app.</string>
+    <string name="report_bug_dialog_desc">If there is a data error or the watch works abnormally, you can upload the data through the feedback feature to our server for analysis. During this process, the previously generated logs on the watch will be automatically collected and uploaded. These logs are used only for problem analysis, and will be destroyed immediately after that. During the entire process we will comply with our Privacy Policy, view details of the policy on the App.</string>
     <string name="dialog_agree">Zustimmen</string>
     <string name="dialog_quit">Beenden</string>
     <string name="nothing">Leer</string>
@@ -335,7 +335,7 @@
     <string name="build_time">[DEBUG]Build time</string>
     <string name="build_desc">[DEBUG]Build description</string>
     <string name="legal">Please check in the</string>
-    <string name="legal2">Amazfit App</string>
+    <string name="legal2">App</string>
     <string name="lab">Lab</string>
     <string name="opened">On</string>
     <string name="closed">Aus</string>
@@ -422,7 +422,7 @@ and is nearby"</string>
     <string name="blt_headset_set_operation">Options</string>
     <string name="blt_headset_selected">Selected</string>
     <string name="blt_headset_set_ear_closed">Disabled</string>
-    <string name="blt_headset_first_setting_tips_title">Whether to set PowerBuds</string>
+    <string name="blt_headset_first_setting_tips_title">PowerBuds setup</string>
     <string name="blt_headset_first_setting_tips_positive">Now</string>
     <string name="blt_headset_first_setting_tips_negitive">Later</string>
     <string name="battery_offline">Offline</string>
@@ -468,11 +468,11 @@ alle Daten der Uhr gelöscht, und die Uhr wird von Ihrem Handy getrennt."</strin
     <string name="reset_factory_yes">Reset</string>
     <string name="reset_factory_no">Abbrechen</string>
     <string name="reset_factory_title">Factory Reset</string>
-    <string name="reset_factory_noconnect_msg">"If Needing to Unbind the Watch, Please Operate Through Amazfit App. 
- Watch’s Unilateral Factory Reset Will Remove UnionPay Card and Transportation Card. 
+    <string name="reset_factory_noconnect_msg">"If Needing to Unbind the Watch, Please Operate Through App. 
+ Watch\'s Unilateral Factory Reset Will Remove UnionPay Card and Transportation Card. 
  A Removed UnionPay Card: It Can No Longer Be Bound to The Watch. If You Need to Bind Again, Please Consult the Bank Customer Service. 
  A Removed Transportation Card: Will Be Destroyed Permanently and Cannot Be Paid Again."</string>
-    <string name="reset_factory_conncet_msg">Watch and Amazfit App will Remove the Bound UnionPay Card. The Watch will Retain the Payment Function of the Transportation Card.</string>
+    <string name="reset_factory_conncet_msg">Watch and App will Remove the Bound UnionPay Card. The Watch will Retain the Payment Function of the Transportation Card.</string>
     <string name="reset_factory_positive">Factory Reset</string>
     <string name="reset_factory_negative">Abbrechen</string>
     <string name="reset_factory_fail_title">Unsuccessful Factory Reset</string>
@@ -482,7 +482,7 @@ alle Daten der Uhr gelöscht, und die Uhr wird von Ihrem Handy getrennt."</strin
     <string name="reset_factory_doing2">UnionPay Card Is Being Removed</string>
     <string name="reset_factory_bank_title">Please Remove the UnionPay Card at First</string>
     <string name="reset_factory_bank_msg">"If Reset the Watch without Removing the UnionPay Card, It will Cause the UnionPay Card: 
- 1. Cannot be Removed from the Watch, Occupying Chip Space;  2. Cannot Use the Payment Function in the Watch;  3. Cannot Be Bound by Other Devices; For Payment Security, Please First Remove the UnionPay Card from Amazfit App."</string>
+ 1. Cannot be Removed from the Watch, Occupying Chip Space;  2. Cannot Use the Payment Function in the Watch;  3. Cannot Be Bound by Other Devices; For Payment Security, Please First Remove the UnionPay Card from App."</string>
     <string name="reset_factory_bank_yes">Reset auf Werkseinstellungen fortsetzen</string>
     <string name="reset_factory_bank_no">Abbrechen</string>
     <string name="reset_factory_bank_msg_again">"Sobald die Uhr auf die Werkseinstellungen zurückgesetzt wurde, werden alle Daten in der Uhr gelöscht, und die Uhr wird von Ihrem Handy getrennt. 
@@ -541,7 +541,7 @@ alle Daten der Uhr gelöscht, und die Uhr wird von Ihrem Handy getrennt."</strin
     <string name="ultra_desc">"The Ultra Mode will greatly extend the watch's battery life and support the main features of the watch."</string>
     <string name="ultra_enter">Ultra Modus</string>
     <string name="sync_sport_data_before_reboot_title">Unsynchronized exercise records are found.</string>
-    <string name="sync_sport_data_before_reboot_summary">Unsynchronized records cannot be viewed on your phone. Please sync the records before switching modes. Open the Amazfit app and pull down to sync. Continue to switch?</string>
+    <string name="sync_sport_data_before_reboot_summary">Unsynchronized records cannot be viewed on your phone. Please sync the records before switching modes. Open the App and pull down to sync. Continue to switch?</string>
     <string name="sync_sport_data_before_reboot_dont_reboot">Nein</string>
     <string name="sync_sport_data_before_reboot_reboot_now">Ja</string>
     <string name="ultra_upgrade_desc">Aktualisiere die Ultra-Modus Ressourcen. Dies dauert etwa 4 bis 5 Minuten. Bitte versuche es später erneut.</string>
@@ -588,8 +588,8 @@ Neuseeland"</string>
     <string name="unknown">Unknown device</string>
     <string name="bind_tips_title">"\"Please bind 
  to protect your data more securely\""</string>
+    <string name="more_sport_tint">Mehr</string>
     <string name="upgrade_checking">Checking for update...</string>
     <string name="left_hand">Left</string>
     <string name="right_hand">Right</string>
-    <string name="more_sport_tint">Mehr</string>
 </resources>
