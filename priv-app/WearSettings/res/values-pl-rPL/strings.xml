@@ -183,7 +183,7 @@
     <string name="flight_mode">Tryb Samolotowy</string>
     <string name="hm_lab">Lab. Huami</string>
     <string name="bind_app">Powiązania</string>
-    <string name="amazfit_app">Apl. Amazfit</string>
+    <string name="amazfit_app">App</string>
     <string name="personal_info">Info.osobiste</string>
     <string name="time_zone_clock">Ust. Czasu</string>
     <string name="setting_time_format">Format Czasu</string>
@@ -311,7 +311,7 @@
     <string name="ble_connet_phone">Połącz słuchawki</string>
     <string name="ble_connet_cancel">Anuluj</string>
     <string name="report_bug_dialog_title">Raport błędów</string>
-    <string name="report_bug_dialog_desc">Jeżeli zegarek ma błędy danych, działa nieprawidłowo itp., możesz przesłać dane na nasz serwer za pośrednictwem funkcji zgłaszania błędów do analizy. Podczas tego procesu wcześniej wygenerowane logi z zegarka będą automatycznie przesyłane, które są wykorzystywane wyłącznie do analizy problemu i zostaną zniszczone natychmiast po analizie. Cały proces będzie zgodny z naszą polityką prywatności. Szczegółowe informacje można znaleźć w polityce prywatności aplikacji Amazfit.</string>
+    <string name="report_bug_dialog_desc">If there is a data error or the watch works abnormally, you can upload the data through the feedback feature to our server for analysis. During this process, the previously generated logs on the watch will be automatically collected and uploaded. These logs are used only for problem analysis, and will be destroyed immediately after that. During the entire process we will comply with our Privacy Policy, view details of the policy on the App.</string>
     <string name="dialog_agree">Akceptuj</string>
     <string name="dialog_quit">Wyjdź</string>
     <string name="nothing">Pusty</string>
@@ -335,7 +335,7 @@
     <string name="build_time">[DEBUG]Build time</string>
     <string name="build_desc">[DEBUG]Build description</string>
     <string name="legal">Proszę sprawdzić w</string>
-    <string name="legal2">apl. Amazfit</string>
+    <string name="legal2">App</string>
     <string name="lab">Laboratorium</string>
     <string name="opened">Wł.</string>
     <string name="closed">Wył.</string>
@@ -421,7 +421,7 @@ i jest w pobliżu ”</string>
     <string name="blt_headset_set_operation">Opcje</string>
     <string name="blt_headset_selected">Wybrane</string>
     <string name="blt_headset_set_ear_closed">Wyłączone</string>
-    <string name="blt_headset_first_setting_tips_title">Whether to set PowerBuds</string>
+    <string name="blt_headset_first_setting_tips_title">PowerBuds setup</string>
     <string name="blt_headset_first_setting_tips_positive">Teraz</string>
     <string name="blt_headset_first_setting_tips_negitive">Później</string>
     <string name="battery_offline">Offline</string>
@@ -466,11 +466,11 @@ wszystkie dane z zegarka zostaną usunięte, a zegarek zostanie odłączony od t
     <string name="reset_factory_yes">Reset</string>
     <string name="reset_factory_no">Anuluj</string>
     <string name="reset_factory_title">Ust. Fabryczne</string>
-    <string name="reset_factory_noconnect_msg">„Jeśli chcesz odłączyć zegarek, skorzystaj z aplikacji Amazfit.
- Reset fabryczny zegarka spowoduje usunięcie karty UnionPay i karty przewozowej.
- Usunięta karta UnionPay: nie można jej związać z zegarkiem. Jeśli chcesz ponownie powiązać, skontaktuj się z obsługą klienta banku.
- Usunięta karta przewozowa: zostanie zniszczona na stałe i nie będzie można nią ponownie zapłacić ”</string>
-    <string name="reset_factory_conncet_msg">Zegarek i aplikacja Amazfit usuną Bound UnionPay Card. Zegarek zachowa funkcję płatności karty transportowej.</string>
+    <string name="reset_factory_noconnect_msg">"If Needing to Unbind the Watch, Please Operate Through App. 
+ Watch\'s Unilateral Factory Reset Will Remove UnionPay Card and Transportation Card. 
+ A Removed UnionPay Card: It Can No Longer Be Bound to The Watch. If You Need to Bind Again, Please Consult the Bank Customer Service. 
+ A Removed Transportation Card: Will Be Destroyed Permanently and Cannot Be Paid Again."</string>
+    <string name="reset_factory_conncet_msg">Watch and App will Remove the Bound UnionPay Card. The Watch will Retain the Payment Function of the Transportation Card.</string>
     <string name="reset_factory_positive">Ust. Fabryczne</string>
     <string name="reset_factory_negative">Anuluj</string>
     <string name="reset_factory_fail_title">Reset do ust. fabrycznych nieudany</string>
@@ -479,8 +479,8 @@ wszystkie dane z zegarka zostaną usunięte, a zegarek zostanie odłączony od t
     <string name="reset_factory_doing1">Reset do ust. fabrycznych w trakcie</string>
     <string name="reset_factory_doing2">Usuwanie karty UnionPay</string>
     <string name="reset_factory_bank_title">Proszę wcześniej usunąć kartę UnionPay</string>
-    <string name="reset_factory_bank_msg">\"Jeśli zresetuj zegarek bez usuwania karty UnionPay Card: 
- 1. Nie można usunąć ze Zegarki, Okupowanej Przestrzeni Chip; 2. Nie można użyć funkcji płatności w zegarku; 3. Nie można powiązać z innymi urządzeniami; Dla zabezpieczenia płatności, najpierw usuń kartę UnionPay z aplikacji Amazfit</string>
+    <string name="reset_factory_bank_msg">"If Reset the Watch without Removing the UnionPay Card, It will Cause the UnionPay Card: 
+ 1. Cannot be Removed from the Watch, Occupying Chip Space;  2. Cannot Use the Payment Function in the Watch;  3. Cannot Be Bound by Other Devices; For Payment Security, Please First Remove the UnionPay Card from App."</string>
     <string name="reset_factory_bank_yes">Kontynuuj przywracanie ust. fabrycznych</string>
     <string name="reset_factory_bank_no">Anuluj</string>
     <string name="reset_factory_bank_msg_again">\"Gdy zegarek zostanie przywrócony do ustawień fabrycznych, wszystkie dane w zegarku zostaną usunięte, a zegarek zostanie odłączony od twojego telefonu. 
@@ -539,7 +539,7 @@ wszystkie dane z zegarka zostaną usunięte, a zegarek zostanie odłączony od t
     <string name="ultra_desc">"Tryb Ultra znacznie wydłuży żywotność baterii zegarka i wesprze główne funkcje zegarka."</string>
     <string name="ultra_enter">Tryb Ultra</string>
     <string name="sync_sport_data_before_reboot_title">Znaleziono niezsynchronizowane rekordy ćwiczeń.</string>
-    <string name="sync_sport_data_before_reboot_summary">Niezsynchronizowane rekordy nie mogą być przeglądane w telefonie. Zsynchronizuj rekordy przed przełączeniem trybów. Otwórz aplikację Amazfit i pociągnij w dół, aby zsynchronizować. Kontynuować przełączanie?</string>
+    <string name="sync_sport_data_before_reboot_summary">Unsynchronized records cannot be viewed on your phone. Please sync the records before switching modes. Open the App and pull down to sync. Continue to switch?</string>
     <string name="sync_sport_data_before_reboot_dont_reboot">Nie</string>
     <string name="sync_sport_data_before_reboot_reboot_now">Tak</string>
     <string name="ultra_upgrade_desc">Updating Ultra mode resources. This will take about 4 to 5 minutes. Please try again later.</string>
@@ -586,8 +586,8 @@ New Zealand"</string>
     <string name="unknown">Nieznane urządzenie</string>
     <string name="bind_tips_title">Proszę powiązać
  w celu bezpieczniejszej ochrony danych</string>
+    <string name="more_sport_tint">More</string>
     <string name="upgrade_checking">Szukanie aktualizacji...</string>
     <string name="left_hand">Lewa</string>
     <string name="right_hand">Prawa</string>
-    <string name="more_sport_tint">More</string>
 </resources>
