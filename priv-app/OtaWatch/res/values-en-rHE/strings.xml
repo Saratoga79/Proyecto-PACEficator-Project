@@ -3,10 +3,10 @@
     <string name="app_name">otawatch</string>
     <string name="action_settings">הגדרות</string>
     <string name="watch_ota">לצפות עדכונים</string>
-    <string name="wifi_disconnect">להתחבר Amazfit אפליקציה כדי לבדוק אם יש עדכונים</string>
+    <string name="wifi_disconnect">Connect to the App to check for updates</string>
     <string name="connect_phone_wifi">"בדוק את הטלפון שלך חיבור לרשת כדי לבדוק אם יש עדכונים"</string>
-    <string name="connect_phone_input_wifi">להתחבר Amazfit app כדי להזין סיסמא Wi-Fi עבור השעון</string>
-    <string name="wifi_add_item">להתחבר Amazfit app כדי להוסיף חדש Wi-Fi hotspot</string>
+    <string name="connect_phone_input_wifi">Connect to the App to enter Wi-Fi password for the watch</string>
+    <string name="wifi_add_item">Connect to the App to add a new Wi-Fi hotspot</string>
     <string name="add_wifi">להוסיף Wi-Fi</string>
     <string name="please_update_rom">"קיים עדכון זמין.
 עדכון עכשיו."</string>
@@ -18,8 +18,8 @@
 עדכון גרסה %1$s?"</string>
     <string name="has_new_rom_all">עדכון זמין. הגרסה על השעון לא עדכנית, לכן השדרוג
  עלול לקחת זמן. להמשיך?</string>
-    <string name="input_passwor_on_mobile">"הזן סיסמא Wi-Fi
-את Amazfit app"</string>
+    <string name="input_passwor_on_mobile">"Enter Wi-Fi password
+in the App"</string>
     <string name="processbar_downloading_rom">הורדה…</string>
     <string name="please_keep_wifi_connect">"לא התנתק מ-Wi-Fi"</string>
     <string name="processbar_downloading_tips">%</string>
@@ -72,10 +72,10 @@ Wi-Fi.
     <string name="update_local">מקומי קובץ ZIP</string>
     <string name="local_update_confirm_1_title">תשומת לב</string>
     <string name="local_update_invalid_zip">עדכון לגרסה האחרונה של האפליקציה</string>
-    <string name="local_update_confirm_1_msg">\"כדי לוודא את הגרסה החדשה
-עובד כמו שצריך, נוכל למחוק את כל
-משתמש הנתונים לפני העדכון.
-לגבות את הנתונים שלך באמצעות Amazfit האפליקציה\".</string>
+    <string name="local_update_confirm_1_msg">"To make sure the new version
+works properly, we\'ll erase all
+user data before the update.
+Back up your data using the App."</string>
     <string name="local_update_confirm_2_msg">"ודא שגיבית
 את כל הנתונים שלך.
 העדכון ימחק את כל המשתמש
