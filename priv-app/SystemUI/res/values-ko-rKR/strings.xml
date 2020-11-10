@@ -8,7 +8,7 @@
     <string name="system_ui_date_pattern">@android:string/system_ui_date_pattern</string>
     <string name="lland">L Land</string>
     <string name="app_label">System UI</string>
-    <string name="status_bar_clear_all_button">Clear</string>
+    <string name="status_bar_clear_all_button">맑음</string>
     <string name="status_bar_recent_remove_item_title">Remove from list</string>
     <string name="status_bar_recent_inspect_item_title">App info</string>
     <string name="status_bar_no_recent_apps">Your recent screens appear here</string>
@@ -23,13 +23,13 @@
 Use only the supplied charger."</string>
     <string name="invalid_charger_title">USB charging not supported.</string>
     <string name="invalid_charger_text">Use only the supplied charger.</string>
-    <string name="battery_low_why">Settings</string>
+    <string name="battery_low_why">설정</string>
     <string name="battery_saver_confirmation_title">Turn on battery saver?</string>
-    <string name="battery_saver_confirmation_ok">Turn on</string>
+    <string name="battery_saver_confirmation_ok">켜기</string>
     <string name="battery_saver_start_action">Turn on battery saver</string>
-    <string name="status_bar_settings_settings_button">Settings</string>
+    <string name="status_bar_settings_settings_button">설정</string>
     <string name="status_bar_settings_wifi_button">Wi-Fi</string>
-    <string name="status_bar_settings_airplane">Airplane mode</string>
+    <string name="status_bar_settings_airplane">비행기 모드</string>
     <string name="status_bar_settings_auto_rotation">Auto-rotate screen</string>
     <string name="status_bar_settings_mute_label">MUTE</string>
     <string name="status_bar_settings_auto_brightness_label">AUTO</string>
@@ -64,8 +64,8 @@ Use only the supplied charger."</string>
     <string name="use_mtp_button_title">Mount as a media player (MTP)</string>
     <string name="use_ptp_button_title">Mount as a camera (PTP)</string>
     <string name="installer_cd_button_title">Install Android File Transfer app for Mac</string>
-    <string name="accessibility_back">Back</string>
-    <string name="accessibility_home">Home</string>
+    <string name="accessibility_back">뒤로</string>
+    <string name="accessibility_home">홈</string>
     <string name="accessibility_menu">Menu</string>
     <string name="accessibility_recent">Overview</string>
     <string name="accessibility_search_light">Search</string>
@@ -90,7 +90,7 @@ Use only the supplied charger."</string>
     <string name="accessibility_phone_two_bars">Phone two bars.</string>
     <string name="accessibility_phone_three_bars">Phone three bars.</string>
     <string name="accessibility_phone_signal_full">Phone signal full.</string>
-    <string name="accessibility_no_data">No data.</string>
+    <string name="accessibility_no_data">정보가 없어요.</string>
     <string name="accessibility_data_one_bar">Data one bar.</string>
     <string name="accessibility_data_two_bars">Data two bars.</string>
     <string name="accessibility_data_three_bars">Data three bars.</string>
@@ -115,8 +115,8 @@ Use only the supplied charger."</string>
     <string name="accessibility_two_bars">Two bars.</string>
     <string name="accessibility_three_bars">Three bars.</string>
     <string name="accessibility_signal_full">Signal full.</string>
-    <string name="accessibility_desc_on">On.</string>
-    <string name="accessibility_desc_off">Off.</string>
+    <string name="accessibility_desc_on">켜기.</string>
+    <string name="accessibility_desc_off">끄기.</string>
     <string name="accessibility_desc_connected">Connected.</string>
     <string name="accessibility_desc_connecting">Connecting.</string>
     <string name="accessibility_data_connection_gprs">GPRS</string>
@@ -132,7 +132,7 @@ Use only the supplied charger."</string>
     <string name="accessibility_data_connection_wifi">Wi-Fi</string>
     <string name="accessibility_no_sim">No SIM.</string>
     <string name="accessibility_bluetooth_tether">Bluetooth tethering.</string>
-    <string name="accessibility_airplane_mode">Airplane mode.</string>
+    <string name="accessibility_airplane_mode">비행기 모드.</string>
     <string name="accessibility_battery_level">Battery %d percent.</string>
     <string name="accessibility_settings_button">System settings.</string>
     <string name="accessibility_notifications_button">Notifications.</string>
@@ -150,7 +150,7 @@ Use only the supplied charger."</string>
     <string name="accessibility_desc_notification_shade">Notification shade.</string>
     <string name="accessibility_desc_quick_settings">Quick settings.</string>
     <string name="accessibility_desc_lock_screen">Lock screen.</string>
-    <string name="accessibility_desc_settings">Settings</string>
+    <string name="accessibility_desc_settings">설정</string>
     <string name="accessibility_desc_recent_apps">Overview.</string>
     <string name="accessibility_quick_settings_user">User %s.</string>
     <string name="accessibility_quick_settings_wifi">%1$s.</string>
@@ -211,8 +211,8 @@ Turning it back on may lead to charges from your carrier."</string>
     <string name="dessert_case">Dessert Case</string>
     <string name="start_dreams">Daydream</string>
     <string name="ethernet_label">Ethernet</string>
-    <string name="quick_settings_airplane_mode_label">Airplane mode</string>
-    <string name="quick_settings_bluetooth_label">Bluetooth</string>
+    <string name="quick_settings_airplane_mode_label">비행기 모드</string>
+    <string name="quick_settings_bluetooth_label">블루투스</string>
     <string name="quick_settings_bluetooth_multiple_devices_label">Bluetooth (%d Devices)</string>
     <string name="quick_settings_bluetooth_off_label">Bluetooth Off</string>
     <string name="quick_settings_bluetooth_detail_empty_text">No paired devices available</string>
@@ -222,13 +222,13 @@ Turning it back on may lead to charges from your carrier."</string>
     <string name="quick_settings_rotation_locked_portrait_label">Portrait</string>
     <string name="quick_settings_rotation_locked_landscape_label">Landscape</string>
     <string name="quick_settings_ime_label">Input Method</string>
-    <string name="quick_settings_location_label">Location</string>
+    <string name="quick_settings_location_label">위치</string>
     <string name="quick_settings_location_off_label">Location Off</string>
     <string name="quick_settings_media_device_label">Media device</string>
     <string name="quick_settings_rssi_label">RSSI</string>
     <string name="quick_settings_rssi_emergency_only">Emergency Calls Only</string>
-    <string name="quick_settings_settings_label">Settings</string>
-    <string name="quick_settings_time_label">Time</string>
+    <string name="quick_settings_settings_label">설정</string>
+    <string name="quick_settings_time_label">시간</string>
     <string name="quick_settings_user_label">Me</string>
     <string name="quick_settings_user_title">User</string>
     <string name="quick_settings_user_new_user">New user</string>
@@ -246,8 +246,8 @@ Turning it back on may lead to charges from your carrier."</string>
     <string name="quick_settings_brightness_dialog_auto_brightness_label">AUTO</string>
     <string name="quick_settings_inversion_label">Invert colors</string>
     <string name="quick_settings_color_space_label">Color correction mode</string>
-    <string name="quick_settings_more_settings">More settings</string>
-    <string name="quick_settings_done">Done</string>
+    <string name="quick_settings_more_settings">설정 더보기</string>
+    <string name="quick_settings_done">완료</string>
     <string name="quick_settings_connected">Connected</string>
     <string name="quick_settings_connected_via_wfa">Connected via Wi‑Fi assistant</string>
     <string name="quick_settings_connecting">Connecting...</string>
@@ -289,9 +289,9 @@ be monitored"</string>
     <string name="keyguard_unlock">Swipe up to unlock</string>
     <string name="phone_hint">Swipe right for phone</string>
     <string name="camera_hint">Swipe left for camera</string>
-    <string name="interruption_level_none">None</string>
+    <string name="interruption_level_none">없음</string>
     <string name="interruption_level_priority">Priority</string>
-    <string name="interruption_level_all">All</string>
+    <string name="interruption_level_all">전체</string>
     <string name="keyguard_indication_charging_time">Charging (%s until full)</string>
     <string name="accessibility_multi_user_switch_switcher">Switch user</string>
     <string name="accessibility_multi_user_switch_switcher_with_current">Switch user, current user %s</string>
@@ -303,7 +303,7 @@ be monitored"</string>
     <string name="guest_exit_guest">Remove guest</string>
     <string name="guest_exit_guest_dialog_title">Remove guest?</string>
     <string name="guest_exit_guest_dialog_message">All apps and data in this session will be deleted.</string>
-    <string name="guest_exit_guest_dialog_remove">Remove</string>
+    <string name="guest_exit_guest_dialog_remove">삭제</string>
     <string name="guest_wipe_session_title">Welcome back, guest!</string>
     <string name="guest_wipe_session_message">Do you want to continue your session?</string>
     <string name="guest_wipe_session_wipe">Start over</string>
@@ -404,11 +404,11 @@ Also, you\'re connected to a VPN (\"%3$s\"). Your VPN service provider can monit
     <string name="screen_pinning_title">Screen is pinned</string>
     <string name="screen_pinning_description">This keeps it in view until you unpin. Touch and hold Back and Overview at the same time to unpin.</string>
     <string name="screen_pinning_description_accessible">This keeps it in view until you unpin. Touch and hold Overview to unpin.</string>
-    <string name="screen_pinning_positive">Got it</string>
+    <string name="screen_pinning_positive">알겠습니다</string>
     <string name="screen_pinning_negative">No thanks</string>
     <string name="quick_settings_reset_confirmation_title">Hide %1$s?</string>
     <string name="quick_settings_reset_confirmation_message">It will reappear the next time you turn it on in settings.</string>
-    <string name="quick_settings_reset_confirmation_button">Hide</string>
+    <string name="quick_settings_reset_confirmation_button">숨기기</string>
     <string name="ok">@android:string/ok</string>
     <string name="widget_default_package_name"></string>
     <string name="widget_default_class_name"></string>
@@ -484,12 +484,12 @@ Also, you\'re connected to a VPN (\"%3$s\"). Your VPN service provider can monit
     <string name="password_keyboard_label_alpha_key">ABC</string>
     <string name="password_keyboard_label_alt_key">ALT</string>
     <string name="keyboardview_keycode_alt">Alt</string>
-    <string name="keyboardview_keycode_cancel">Cancel</string>
-    <string name="keyboardview_keycode_delete">Delete</string>
-    <string name="keyboardview_keycode_done">Done</string>
+    <string name="keyboardview_keycode_cancel">취소</string>
+    <string name="keyboardview_keycode_delete">삭제</string>
+    <string name="keyboardview_keycode_done">완료</string>
     <string name="keyboardview_keycode_mode_change">Mode change</string>
     <string name="keyboardview_keycode_shift">Shift</string>
-    <string name="keyboardview_keycode_enter">Enter</string>
+    <string name="keyboardview_keycode_enter">확인</string>
     <string name="description_target_unlock">Unlock</string>
     <string name="description_target_camera">Camera</string>
     <string name="description_target_silent">Silent</string>
@@ -544,7 +544,7 @@ Try again in %d seconds."</string>
     <string name="kg_failed_attempts_almost_at_login" formatted="false">"You have incorrectly drawn your unlock pattern %d times. After %d more unsuccessful attempts, you will be asked to unlock your tablet using an email account.
 
  Try again in %d seconds."</string>
-    <string name="kg_reordering_delete_drop_target_text">Remove</string>
+    <string name="kg_reordering_delete_drop_target_text">삭제</string>
     <string name="kg_password_wrong_pin_code_pukked">Incorrect SIM PIN code you must now contact your carrier to unlock your device.</string>
     <string name="kg_password_wrong_puk_code_dead">SIM is unusable. Contact your carrier.</string>
     <string name="kg_password_pin_failed">SIM PIN operation failed!</string>
