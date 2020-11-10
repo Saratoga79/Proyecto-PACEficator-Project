@@ -3,12 +3,12 @@
     <string name="app_name">otawatch</string>
     <string name="action_settings">Ezarpenak</string>
     <string name="watch_ota">Erlojua eguneratu</string>
-    <string name="wifi_disconnect">Connect to the App to check for updates</string>
+    <string name="wifi_disconnect">App-ra konektatu eguneraketaren bat dagoen ikusteko</string>
     <string name="connect_phone_wifi">"\"Mesedez, egiaztatu telefonoaren
 Sarea, eguneraketaren
 ikuskapena egiten laguntzeko\""</string>
-    <string name="connect_phone_input_wifi">Connect to the App to enter Wi-Fi password for the watch</string>
-    <string name="wifi_add_item">Connect to the App to add a new Wi-Fi hotspot</string>
+    <string name="connect_phone_input_wifi">App-ra konektatu WiFi pasahitza idatz ahal izateko</string>
+    <string name="wifi_add_item">App-ra konektatu WiFi sarbide berri bat ezarri ahal izateko</string>
     <string name="add_wifi">Gehitu Wi-Fi-a</string>
     <string name="please_update_rom">Sistemaren bertsio berria aurkitu da, eguneratu</string>
     <string name="checking_rom">Bertsio berrien egiaztapena</string>
@@ -19,8 +19,8 @@ Saiatu berriro"</string>
 Eguneratu %1$s bertsiora?"</string>
     <string name="has_new_rom_all">Eguneratzea aurkitu da, bertsioa zaharra duzula eta, 
 eguneratzea zerbait gehiago luza daiteke.</string>
-    <string name="input_passwor_on_mobile">"Enter Wi-Fi password
-in the App"</string>
+    <string name="input_passwor_on_mobile">"App-an WiFi pasahitza
+idatz ezazu"</string>
     <string name="processbar_downloading_rom">Deskargatzen...</string>
     <string name="please_keep_wifi_connect">"\"\"Mesedez, gorde erlojua
 Wi-Fi-ra konektaturik\"\""</string>
@@ -71,10 +71,10 @@ beste Wi-Fi HotSpot batekin"</string>
     <string name="update_local">zip fitxategi lokal bidez eguneratu</string>
     <string name="local_update_confirm_1_title">Irakirri ezazu, mesedez</string>
     <string name="local_update_invalid_zip">Sistema eragilea zaharra da, aktualiza ezazu</string>
-    <string name="local_update_confirm_1_msg">"To make sure the new version
-works properly, we\'ll erase all
-user data before the update.
-Back up your data using the App."</string>
+    <string name="local_update_confirm_1_msg">"Bertsio berria ondo ibili dadin,
+erabiltzaile datuak ezabatuko dira
+eguneratze ostean. Konektatu erlojua
+ telefonora eta gorde zure datuak."</string>
     <string name="local_update_confirm_2_msg">"Ziurta zaitez erabilitzaile datu guztiak
  gordeta daudela. Eguneratzea 
 instalatzean datu guztiak 
