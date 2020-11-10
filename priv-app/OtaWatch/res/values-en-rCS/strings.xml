@@ -3,10 +3,10 @@
     <string name="app_name">otawatch</string>
     <string name="action_settings">Nastavení</string>
     <string name="watch_ota">Aktualizace hodinek</string>
-    <string name="wifi_disconnect">Connect to the App to check for updates</string>
+    <string name="wifi_disconnect">Pro kontrolu aktualizací se připojte k aplikaci</string>
     <string name="connect_phone_wifi">"Pro kontrolu aktualizací ověřte připojení k síti."</string>
-    <string name="connect_phone_input_wifi">Connect to the App to enter Wi-Fi password for the watch</string>
-    <string name="wifi_add_item">Connect to the App to add a new Wi-Fi hotspot</string>
+    <string name="connect_phone_input_wifi">Připojte se k aplikaci a zadejte Wi-Fi heslo pro hodinky</string>
+    <string name="wifi_add_item">Připojte se k aplikaci a přidejte nový Wi-Fi hotspot</string>
     <string name="add_wifi">Přidat Wi-Fi</string>
     <string name="please_update_rom">"Aktualizace je k dispozici.
 Aktualizovat nyní."</string>
@@ -18,8 +18,8 @@ Zkuste to znovu.\"</string>
 Aktualizovat na verzi %1$s?"</string>
     <string name="has_new_rom_all">"Je k dispozici aktualizace.
 Firmware na těchto hodinkách je starý. Aktualizace může chvíli trvat."</string>
-    <string name="input_passwor_on_mobile">"Enter Wi-Fi password
-in the App"</string>
+    <string name="input_passwor_on_mobile">"Zadejte Wi-Fi
+heslo do aplikace"</string>
     <string name="processbar_downloading_rom">Stahování…</string>
     <string name="please_keep_wifi_connect">"Neodpojujte se od Wi-Fi"</string>
     <string name="processbar_downloading_tips">%</string>
@@ -72,10 +72,10 @@ vyzkoušejte jinou."</string>
     <string name="update_local">Místní ZIP soubor</string>
     <string name="local_update_confirm_1_title">Upozornění</string>
     <string name="local_update_invalid_zip">Aktualizovat na nejnovější verzi aplikace</string>
-    <string name="local_update_confirm_1_msg">"To make sure the new version
-works properly, we\'ll erase all
-user data before the update.
-Back up your data using the App."</string>
+    <string name="local_update_confirm_1_msg">"Abyste se ujistili, že nová verze
+funguje správně, vymažeme před aktualizací všechna
+uživatelská data.
+Zálohujte svá data pomocí aplikace."</string>
     <string name="local_update_confirm_2_msg">"Ujistěte se prosím, že všechny uživatelská
 data jsou zálohována. Instalace 
 aktualizace vymaže všechny uživatelská 
