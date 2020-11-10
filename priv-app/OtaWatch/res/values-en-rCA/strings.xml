@@ -3,10 +3,10 @@
     <string name="app_name">otawatch</string>
     <string name="action_settings">Preferències</string>
     <string name="watch_ota">Veure les actualitzacions</string>
-    <string name="wifi_disconnect">Connectar-se a la Amazfit aplicació per comprovar si hi ha actualitzacions</string>
+    <string name="wifi_disconnect">Connect to the App to check for updates</string>
     <string name="connect_phone_wifi">"Fes el telèfon i connexió a la xarxa per comprovar si hi ha actualitzacions"</string>
-    <string name="connect_phone_input_wifi">Connectar-se a la Amazfit aplicació per entrar Wi-Fi contrasenya per a veure</string>
-    <string name="wifi_add_item">Connectar-se a la Amazfit aplicació per afegir una nova connexió Wi-Fi portàtil</string>
+    <string name="connect_phone_input_wifi">Connect to the App to enter Wi-Fi password for the watch</string>
+    <string name="wifi_add_item">Connect to the App to add a new Wi-Fi hotspot</string>
     <string name="add_wifi">Afegir Wi-Fi</string>
     <string name="please_update_rom">"System update is available, 
 please upgrade"</string>
@@ -18,8 +18,8 @@ please retry"</string>
 update to %1$s version?"</string>
     <string name="has_new_rom_all">"Hi ha una actualització disponible.
 Firmware en aquest rellotge és vell. Actualització pot trigar una estona."</string>
-    <string name="input_passwor_on_mobile">"Introduïu Wi-Fi contrasenya
-en la Amazfit app"</string>
+    <string name="input_passwor_on_mobile">"Enter Wi-Fi password
+in the App"</string>
     <string name="processbar_downloading_rom">Descàrrega…</string>
     <string name="please_keep_wifi_connect">"No desconnecteu de la Wi-Fi"</string>
     <string name="processbar_downloading_tips">%</string>
@@ -72,10 +72,10 @@ another Wi-Fi hotspot"</string>
     <string name="update_local">Local fitxer ZIP</string>
     <string name="local_update_confirm_1_title">Atenció</string>
     <string name="local_update_invalid_zip">Actualització a l\'última versió de l\'aplicació</string>
-    <string name="local_update_confirm_1_msg">"Per assegurar-vos la nova versió
-funciona correctament, anem a esborrar totes
-les dades de l\'usuari abans de l\'actualització.
-còpia de seguretat de les dades utilitzant el Amazfit aplicació."</string>
+    <string name="local_update_confirm_1_msg">"To make sure the new version
+works properly, we\'ll erase all
+user data before the update.
+Back up your data using the App."</string>
     <string name="local_update_confirm_2_msg">"Please make sure all user
 data are backed up. Installing 
 the update will erase all user 
