@@ -183,7 +183,7 @@
     <string name="flight_mode">\"В самолете\"</string>
     <string name="hm_lab">Лаборатория Huami</string>
     <string name="bind_app">Привязать</string>
-    <string name="amazfit_app">Приложение Amazfit</string>
+    <string name="amazfit_app">App</string>
     <string name="personal_info">Персональная информация</string>
     <string name="time_zone_clock">Настройки времени</string>
     <string name="setting_time_format">Формат времени</string>
@@ -311,7 +311,7 @@
     <string name="ble_connet_phone">Подключить гарнитуру</string>
     <string name="ble_connet_cancel">Отменить</string>
     <string name="report_bug_dialog_title">Обратная связь</string>
-    <string name="report_bug_dialog_desc">Если есть ошибка данных или часы работают ненормально, вы можете загрузить данные через функцию обратной связи на наш сервер для анализа. Во время этого процесса ранее созданные журналы на часах будут автоматически собраны и загружены. Эти журналы используются только для анализа проблем и будут сразу же уничтожены. В течение всего процесса мы будем соблюдать нашу Политику конфиденциальности, см. детали политики в приложении Amazfit.</string>
+    <string name="report_bug_dialog_desc">If there is a data error or the watch works abnormally, you can upload the data through the feedback feature to our server for analysis. During this process, the previously generated logs on the watch will be automatically collected and uploaded. These logs are used only for problem analysis, and will be destroyed immediately after that. During the entire process we will comply with our Privacy Policy, view details of the policy on the App.</string>
     <string name="dialog_agree">Принять</string>
     <string name="dialog_quit">Бросать</string>
     <string name="nothing">Пусто</string>
@@ -335,7 +335,7 @@
     <string name="build_time">[DEBUG]Время сборки</string>
     <string name="build_desc">[DEBUG]Описание сборки</string>
     <string name="legal">См. информацию в</string>
-    <string name="legal2">Приложение Amazfit</string>
+    <string name="legal2">App</string>
     <string name="lab">Лаборатория</string>
     <string name="opened">Включить</string>
     <string name="closed">Выкл</string>
@@ -422,7 +422,7 @@
     <string name="blt_headset_set_operation">Настройки</string>
     <string name="blt_headset_selected">Выбрано</string>
     <string name="blt_headset_set_ear_closed">Отключено</string>
-    <string name="blt_headset_first_setting_tips_title">Whether to set PowerBuds</string>
+    <string name="blt_headset_first_setting_tips_title">PowerBuds setup</string>
     <string name="blt_headset_first_setting_tips_positive">Сейчас</string>
     <string name="blt_headset_first_setting_tips_negitive">Позже</string>
     <string name="battery_offline">Оффлайн</string>
@@ -468,11 +468,11 @@
     <string name="reset_factory_yes">Сбросить</string>
     <string name="reset_factory_no">Отменить</string>
     <string name="reset_factory_title">Сброс к заводским настройкам</string>
-    <string name="reset_factory_noconnect_msg">"Если вам нужно отсоединить часы, пожалуйста, используйте приложение Amazfit. 
- При заводском сбросе часов будут удалены карта UnionPay и Транспортная карта. 
- Удаленная карта UnionPay больше не может быть связана с часами. Если вам нужно снова связаться, пожалуйста, свяжитесь со службой поддержки вашего банка. 
- Удаленная транспортная карта будет уничтожена навсегда и больше не может быть оплачена."</string>
-    <string name="reset_factory_conncet_msg">Часы и приложение Amazfit удалит привязанную карту UnionPay. Часы сохранят функцию оплаты Транспортной картой.</string>
+    <string name="reset_factory_noconnect_msg">"If Needing to Unbind the Watch, Please Operate Through App. 
+ Watch\'s Unilateral Factory Reset Will Remove UnionPay Card and Transportation Card. 
+ A Removed UnionPay Card: It Can No Longer Be Bound to The Watch. If You Need to Bind Again, Please Consult the Bank Customer Service. 
+ A Removed Transportation Card: Will Be Destroyed Permanently and Cannot Be Paid Again."</string>
+    <string name="reset_factory_conncet_msg">Watch and App will Remove the Bound UnionPay Card. The Watch will Retain the Payment Function of the Transportation Card.</string>
     <string name="reset_factory_positive">Сброс к заводским настройкам</string>
     <string name="reset_factory_negative">Отменить</string>
     <string name="reset_factory_fail_title">Неудачный сброс настроек к заводским</string>
@@ -481,8 +481,8 @@
     <string name="reset_factory_doing1">Производится сброс настроек</string>
     <string name="reset_factory_doing2">UnionPay Card удаляется</string>
     <string name="reset_factory_bank_title">Пожалуйста, сначала удалите карту UnionPay</string>
-    <string name="reset_factory_bank_msg">"Сброс часов без удаления карты UnionPay приведет к тому, что карта UnionPay: 
- 1. Не снимается с часов, так как занимает место на чипе;  2. Невозможно использовать функцию оплаты в часах;  3. Не могут быть связаны другими устройствами; Для обеспечения безопасности платежей сначала удалите карту UnionPay из приложения Amazfit."</string>
+    <string name="reset_factory_bank_msg">"If Reset the Watch without Removing the UnionPay Card, It will Cause the UnionPay Card: 
+ 1. Cannot be Removed from the Watch, Occupying Chip Space;  2. Cannot Use the Payment Function in the Watch;  3. Cannot Be Bound by Other Devices; For Payment Security, Please First Remove the UnionPay Card from App."</string>
     <string name="reset_factory_bank_yes">Продолжить сброс настроек</string>
     <string name="reset_factory_bank_no">Отменить</string>
     <string name="reset_factory_bank_msg_again">"После сброса часов к заводским настройкам по умолчанию все данные в часах будут удалены, и часы будут отключены от вашего телефона. 
@@ -541,7 +541,7 @@
     <string name="ultra_desc">"Режим Ultra значительно продлит время автономной работы часов и поддержит основные функции часов."</string>
     <string name="ultra_enter">Ультра-режим</string>
     <string name="sync_sport_data_before_reboot_title">Обнаружены несинхронизированные записи упражнений.</string>
-    <string name="sync_sport_data_before_reboot_summary">Несинхронизированные записи не могут быть просмотрены на вашем телефоне. Пожалуйста, синхронизируйте записи перед переключением режимов. Откройте приложение Amazfit и потяните вниз для синхронизации. Продолжать переключаться?</string>
+    <string name="sync_sport_data_before_reboot_summary">Unsynchronized records cannot be viewed on your phone. Please sync the records before switching modes. Open the App and pull down to sync. Continue to switch?</string>
     <string name="sync_sport_data_before_reboot_dont_reboot">нет</string>
     <string name="sync_sport_data_before_reboot_reboot_now">Здесь</string>
     <string name="ultra_upgrade_desc">Updating Ultra mode resources. This will take about 4 to 5 minutes. Please try again later.</string>
@@ -588,8 +588,8 @@ New Zealand"</string>
     <string name="unknown">Неизвестное устройство</string>
     <string name="bind_tips_title">"Пожалуйста, привязите 
  для более безопасной защиты ваших данных"</string>
+    <string name="more_sport_tint">More</string>
     <string name="upgrade_checking">Проверка обновлений...</string>
     <string name="left_hand">Левая рука</string>
     <string name="right_hand">Правая рука</string>
-    <string name="more_sport_tint">More</string>
 </resources>
