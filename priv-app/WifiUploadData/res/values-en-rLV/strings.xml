@@ -21,8 +21,8 @@
     <string name="locale_title">Izvēlieties valodu</string>
     <string name="app_name">Wi-Fi sinhronizācija</string>
     <string name="notice_text_success_top">Dati veiksmīgi sinhronizēti</string>
-    <string name="notice_text_success_bottom">"Jūs varat skatīt datus 
- Amazfit lietotnē"</string>
+    <string name="notice_text_success_bottom">"You can view data 
+in the App"</string>
     <string name="notice_text_failed_top">"Neizdevās sinhronizēt datus"</string>
     <string name="net_failed">Pārbaudiet tīkla savienojumu un mēģiniet vēlreiz</string>
     <string name="date">Laiks:</string>
@@ -30,11 +30,11 @@
     <string name="pm">PM</string>
     <string name="date_">/</string>
     <string name="date_m">:</string>
-    <string name="see_after_connect_app_token_faield">"Nevarēja izveidot savienojumu ar Amazfit lietotni, lai atsvaidzinātu piekļuves tiesības"</string>
+    <string name="see_after_connect_app_token_faield">"Couldn't connect to the App to refresh access token"</string>
     <string name="cannot_acess_server">"Neizdevās izveidot savienojumu ar serveri"</string>
     <string name="cannot_upload_user">"Nevarēja pārbaudīt piekļuves tiesības"</string>
-    <string name="please_upload_assist_version">Atjauniniet Amazfit lietotni un mēģiniet vēlreiz</string>
-    <string name="did_not_connect_assist">Pievienojiet Amazfit lietotni, lai atsvaidzinātu piekļuves pilnvaru, lai sinhronizētu datus</string>
+    <string name="please_upload_assist_version">Update your App and try again</string>
+    <string name="did_not_connect_assist">Connect to the App to refresh access token in order to sync data</string>
     <string name="upload_failed_full">Pārtraukt pašreizējo sinhronizāciju?</string>
     <string name="pleanse_connect_to_phone">Please connect to the companion app to sync data manually. (Drag down from the home page)</string>
     <string name="percent_sign">%</string>
@@ -42,7 +42,7 @@
 ar WiFi"</string>
     <string name="init_wifi">Savienojuma izveide ar Wi-Fi…</string>
     <string name="init_user">Pārbauda…</string>
-    <string name="init_app">Savienojuma Amazfit lietotni…</string>
+    <string name="init_app">Connecting to the App…</string>
     <string name="init_update_user">Atjaunina…</string>
     <string name="zero">0</string>
     <string name="yes">Jā</string>
