@@ -3,10 +3,10 @@
     <string name="app_name">otawatch</string>
     <string name="action_settings">الاعدادات</string>
     <string name="watch_ota">مشاهدة التحديثات</string>
-    <string name="wifi_disconnect">الاتصال Amazfit التطبيق للتحقق من وجود تحديثات</string>
+    <string name="wifi_disconnect">Connect to the App to check for updates</string>
     <string name="connect_phone_wifi">"التحقق من الهاتف الخاص بك شبكة الاتصال للتحقق من وجود تحديثات"</string>
-    <string name="connect_phone_input_wifi">الاتصال Amazfit التطبيق لإدخال كلمة السر واي فاي من أجل مشاهدة</string>
-    <string name="wifi_add_item">الاتصال Amazfit التطبيق لإضافة جديد واي فاي نقطة ساخنة</string>
+    <string name="connect_phone_input_wifi">Connect to the App to enter Wi-Fi password for the watch</string>
+    <string name="wifi_add_item">Connect to the App to add a new Wi-Fi hotspot</string>
     <string name="add_wifi">إضافة شبكة Wi-Fi</string>
     <string name="please_update_rom">"يتوفر تحديث.
 التحديث الآن."</string>
@@ -18,8 +18,8 @@ please retry"</string>
 update to %1$s version?"</string>
     <string name="has_new_rom_all">"يتوفر تحديث.
 الثابتة في هذه الساعة القديمة. التحديث قد يستغرق بعض الوقت."</string>
-    <string name="input_passwor_on_mobile">"أدخل كلمة السر واي فاي
-في Amazfit التطبيق"</string>
+    <string name="input_passwor_on_mobile">"Enter Wi-Fi password
+in the App"</string>
     <string name="processbar_downloading_rom">تحميل…</string>
     <string name="please_keep_wifi_connect">"لا قطع الاتصال من شبكة Wi-Fi"</string>
     <string name="processbar_downloading_tips">%</string>
@@ -72,10 +72,10 @@ another Wi-Fi hotspot"</string>
     <string name="update_local">المحلية ملف مضغوط</string>
     <string name="local_update_confirm_1_title">الاهتمام</string>
     <string name="local_update_invalid_zip">التحديث إلى أحدث إصدار من التطبيق</string>
-    <string name="local_update_confirm_1_msg">"للتأكد من النسخة الجديدة
-يعمل بشكل صحيح, سوف يمحو جميع
-المستخدم البيانات قبل التحديث.
-احتياطية من البيانات الخاصة بك باستخدام Amazfit التطبيق."</string>
+    <string name="local_update_confirm_1_msg">"To make sure the new version
+works properly, we\'ll erase all
+user data before the update.
+Back up your data using the App."</string>
     <string name="local_update_confirm_2_msg">"Please make sure all user
 data are backed up. Installing 
 the update will erase all user 
