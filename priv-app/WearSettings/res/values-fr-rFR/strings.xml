@@ -468,11 +468,11 @@ toutes les données de la montre seront supprimées, et la montre sera déconnec
     <string name="reset_factory_yes">Reset</string>
     <string name="reset_factory_no">Annuler</string>
     <string name="reset_factory_title">Réinitialisation d\'usine</string>
-    <string name="reset_factory_noconnect_msg">"If Needing to Unbind the Watch, Please Operate Through App. 
- Watch\'s Unilateral Factory Reset Will Remove UnionPay Card and Transportation Card. 
- A Removed UnionPay Card: It Can No Longer Be Bound to The Watch. If You Need to Bind Again, Please Consult the Bank Customer Service. 
- A Removed Transportation Card: Will Be Destroyed Permanently and Cannot Be Paid Again."</string>
-    <string name="reset_factory_conncet_msg">Watch and App will Remove the Bound UnionPay Card. The Watch will Retain the Payment Function of the Transportation Card.</string>
+    <string name="reset_factory_noconnect_msg">"Si vous avez besoin de dissocier la montre, veuillez opérer via l\'application. 
+ Un Factory Reset de la montre supprimera la carte UnionPay et la carte de transport. 
+ Une carte UnionPay supprimée : Elle ne peut plus être liée à la montre. Si vous avez besoin de lier à nouveau, veuillez consulter le service clientèle de la banque. 
+ Une carte de transport supprimée : Elle sera détruite définitivement et ne pourra pas être payée à nouveau."</string>
+    <string name="reset_factory_conncet_msg">La montre et l\'application supprimerons la carte Union Pay. La montre conservera la fonction de paiement de la carte de transport.</string>
     <string name="reset_factory_positive">Réinitialisation d\'usine</string>
     <string name="reset_factory_negative">Annuler</string>
     <string name="reset_factory_fail_title">Échec de la réinitialisation d\'usine</string>
@@ -481,8 +481,8 @@ toutes les données de la montre seront supprimées, et la montre sera déconnec
     <string name="reset_factory_doing1">La réinitialisation d\'usine est en cours de réalisation</string>
     <string name="reset_factory_doing2">La carte UnionPay est en cours de suppression</string>
     <string name="reset_factory_bank_title">Veuillez retirer la carte UnionPay en premier</string>
-    <string name="reset_factory_bank_msg">"If Reset the Watch without Removing the UnionPay Card, It will Cause the UnionPay Card: 
- 1. Cannot be Removed from the Watch, Occupying Chip Space;  2. Cannot Use the Payment Function in the Watch;  3. Cannot Be Bound by Other Devices; For Payment Security, Please First Remove the UnionPay Card from App."</string>
+    <string name="reset_factory_bank_msg">"Si vous réinitialisez la montre sans retirer la carte UnionPay, Cela entraînera la carte UnionPay: 
+ 1. Ne peut pas être retiré de la montre, occupant l\'espace de la puce; 2. Impossible d\'utiliser la fonction de paiement dans la montre; 3. Ne peut pas être lié par d\'autres appareils; Pour la sécurité des paiements, veuillez d\'abord supprimer la carte UnionPay de l\'application. "</string>
     <string name="reset_factory_bank_yes">Continuer la réinitialisation d\'usine</string>
     <string name="reset_factory_bank_no">Annuler</string>
     <string name="reset_factory_bank_msg_again">\"Une fois que la montre est réinitialisée aux paramètres par défaut d\'usine, toutes les données de la montre seront supprimées, et la montre sera déconnectée de votre mobile. 
@@ -541,7 +541,7 @@ toutes les données de la montre seront supprimées, et la montre sera déconnec
     <string name="ultra_desc">"Le mode Ultra permet de prolonger considérablement la durée de vie de la montre et de prendre en charge les principales fonctionnalités de la montre."</string>
     <string name="ultra_enter">Mode Ultra</string>
     <string name="sync_sport_data_before_reboot_title">Les enregistrements d\'exercice non synchronisés sont trouvés.</string>
-    <string name="sync_sport_data_before_reboot_summary">Unsynchronized records cannot be viewed on your phone. Please sync the records before switching modes. Open the App and pull down to sync. Continue to switch?</string>
+    <string name="sync_sport_data_before_reboot_summary">Les enregistrements non synchronisés ne peuvent pas être vus sur votre téléphone. Veuillez synchroniser les enregistrements avant de changer de mode. Ouvrez l\'application et tirez vers le bas pour synchroniser. Continuer à poursuivre?</string>
     <string name="sync_sport_data_before_reboot_dont_reboot">Non</string>
     <string name="sync_sport_data_before_reboot_reboot_now">Oui</string>
     <string name="ultra_upgrade_desc">Mise à jour des ressources du mode Ultra. Cela prendra environ 4 à 5 minutes. Veuillez réessayer plus tard.</string>
