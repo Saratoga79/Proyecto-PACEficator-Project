@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weekdays">
+        <item>첫번째 주</item>
+        <item>둘째 주</item>
+        <item>셋째 주</item>
+        <item>넷째 주</item>
+        <item>다섯째 주</item>
+        <item>여섯째 주</item>
+        <item>일곱째 주</item>
+        <item>여덟째 주</item>
+    </string-array>
+    <string-array name="simple_weekdays">
+        <item>일</item>
+        <item>월</item>
+        <item>화</item>
+        <item>수</item>
+        <item>목</item>
+        <item>금</item>
+        <item>토</item>
+    </string-array>
+    <string-array name="train_finish_reason_strs">
+        <item>"계획을 고수할 수 없습니다"</item>
+        <item>너무 오랜 시간이 걸립니다</item>
+        <item>건강이 좋지 않습니다</item>
+        <item>난이도가 너무 어렵습니다</item>
+        <item>난이도가 너무 쉽습니다</item>
+        <item>게임이 취소되었습니다</item>
+        <item>"제게 맞지 않습니다"</item>
+        <item>그 외</item>
+    </string-array>
+    <string-array name="spring_depend">
+        <item>com.huami.watch.train/com.huami.watch.train.ui.activity.launch.TraintLauncherView</item>
+    </string-array>
+</resources>
