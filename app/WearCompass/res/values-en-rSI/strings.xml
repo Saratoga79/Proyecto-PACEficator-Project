@@ -12,8 +12,8 @@
     <string name="south_latitude">Južna zemljepisenska širina</string>
     <string name="east_longitude">Vzhodna zemljepisenska širina</string>
     <string name="west_longitude">Zahodna zemljepisenska širina</string>
-    <string name="altitude">Altitude(m)</string>
-    <string name="altitude_ft">Altitude(ft)</string>
+    <string name="altitude">Nadmorska višina (m)</string>
+    <string name="altitude_ft">Nadmorska višina(ft)</string>
     <string name="atmospheric_pressure">Zračni tlak</string>
     <string name="ori_north">S</string>
     <string name="ori_northeast">SV</string>
@@ -31,7 +31,7 @@
     <string name="degree">°</string>
     <string name="zero">0.00</string>
     <string name="latitude_longitude_value_format_str">%1$s°%2$s′%3$s″</string>
-    <string name="gps_tip">"Can't get data, please try outdoor under an open sky."</string>
+    <string name="gps_tip">"Ni signala. Poskusi v zunanjem prostoru"</string>
     <string name="confirm">OK</string>
     <string name="unknown">--</string>
     <string name="compass_roll_tip">Obrnite uro vodoravno</string>
