@@ -3,10 +3,10 @@
     <string name="app_name">otawatch</string>
     <string name="action_settings">Réglages</string>
     <string name="watch_ota">Regarder les mises à jour</string>
-    <string name="wifi_disconnect">Connect to the App to check for updates</string>
+    <string name="wifi_disconnect">Connectez-vous à l\'application pour vérifier les mises à jour</string>
     <string name="connect_phone_wifi">"Vérifiez la connexion réseau de votre téléphone pour vérifier les mises à jour"</string>
-    <string name="connect_phone_input_wifi">Connect to the App to enter Wi-Fi password for the watch</string>
-    <string name="wifi_add_item">Connect to the App to add a new Wi-Fi hotspot</string>
+    <string name="connect_phone_input_wifi">Connectez-vous à l\'application pour entrer le mot de passe Wi-Fi de la montre</string>
+    <string name="wifi_add_item">Connectez-vous à l\'application pour ajouter un nouveau point d\'accès Wi-Fi</string>
     <string name="add_wifi">Ajouter un Wi-Fi</string>
     <string name="please_update_rom">"Une mise à jour du système est disponible,
 merci de mettre à jour"</string>
@@ -18,8 +18,8 @@ veuillez réessayer"</string>
 mettre à jour vers la version %1$s ?"</string>
     <string name="has_new_rom_all">« Une mise à jour est disponible.
 Le firmware de cette montre est vieux. La mise à jour peut prendre un certain temps.»</string>
-    <string name="input_passwor_on_mobile">"Enter Wi-Fi password
-in the App"</string>
+    <string name="input_passwor_on_mobile">"Entrez le mot de passe Wi-Fi
+dans l\'application"</string>
     <string name="processbar_downloading_rom">Téléchargement en cours…</string>
     <string name="please_keep_wifi_connect">"Ne pas se déconnecter du Wi-Fi"</string>
     <string name="processbar_downloading_tips">%</string>
@@ -71,10 +71,10 @@ Essayez un autre réseau.</string>
     <string name="update_local">Fichier ZIP local</string>
     <string name="local_update_confirm_1_title">Attention</string>
     <string name="local_update_invalid_zip">Mettre à jour vers la dernière version de l\'application</string>
-    <string name="local_update_confirm_1_msg">"To make sure the new version
-works properly, we\'ll erase all
-user data before the update.
-Back up your data using the App."</string>
+    <string name="local_update_confirm_1_msg">"Pour vous assurer que la nouvelle version
+fonctionne correctement, toutes les
+données utilisateur seront effacées avant la mise à jour.
+Sauvegardez vos données en utilisant l\'application."</string>
     <string name="local_update_confirm_2_msg">"S\'il vous plaît assurez-vous que toutes les données utilisateurs sont sauvegardées. L\'installation
 de la mise à jour effacera toutes les données, Continuer?"</string>
     <string name="OK">OK</string>
