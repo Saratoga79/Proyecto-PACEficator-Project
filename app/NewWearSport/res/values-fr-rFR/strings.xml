@@ -42,7 +42,7 @@
     <string name="crossing_remind_target_individual_title">Tour %1d</string>
     <string name="crossing_remind_target_individual_cost_time">Durée</string>
     <string name="crossing_remind_target_individual_pace">Rythme</string>
-    <string name="agps_time_out">AGPS a expiré. La recherche GPS sera lente. Connectez-vous à l\'application Amazfit pour la mettre à jour.</string>
+    <string name="agps_time_out">AGPS a expiré. La recherche GPS sera lente. Connectez-vous à l\'application Zepp pour la mettre à jour.</string>
     <string name="safe_hearate_remind_content">Notifier si supérieur à %1d BPM</string>
     <string name="settings_safe_heart_rate_hint">(Limite de taux d\'intérêt)</string>
     <string name="settings_safe_heart_rate_unit">BPM</string>
@@ -81,7 +81,7 @@
     <string name="gps_search_success_title">Le GPS est prêt</string>
     <string name="gps_search_success_content">GPS disponible, vous pouvez commencer l\'entraînement maintenant.</string>
     <string name="gps_search_timeout_title">Le GPS a expiré</string>
-    <string name="gps_search_timeout_content">AGPS a expiré. La recherche GPS sera lente. Connectez-vous à l\'application Amazfit pour la mettre à jour.</string>
+    <string name="gps_search_timeout_content">AGPS a expiré. La recherche GPS sera lente. Connectez-vous à l\'application Zepp pour la mettre à jour.</string>
     <string name="gps_notify_success">GPS disponible</string>
     <string name="gps_notify_loss">Signal GPS perdu</string>
     <string name="gps_search_time_out_content">Le GPS a été désactivé en raison de l\'inactivité.</string>
@@ -199,12 +199,12 @@
 commencez maintenant. »</string>
     <string name="history_start_sport_tips">Commencer une activité maintenant.</string>
     <string name="sport_motion_state">État de l\'exercice</string>
-    <string name="sport_motion_state_prediction">Prédiction de performance en cours d\'exécution</string>
+    <string name="sport_motion_state_prediction">Prédiction de performances actuelles</string>
     <string name="sport_motion_state_prediction_tips">Il est incapable de le prédire maintenant. Vous devez porter la montre et courir plus de 3 km.</string>
     <string name="sport_motion_state_prediction_5_km">5 km</string>
     <string name="sport_motion_state_prediction_10_km">10 km</string>
-    <string name="sport_motion_state_prediction_half_maraton">Demi-marathon</string>
-    <string name="sport_motion_state_prediction_full_maraton">Marathon complet</string>
+    <string name="sport_motion_state_prediction_half_maraton">Semi-marathon</string>
+    <string name="sport_motion_state_prediction_full_maraton">Marathon</string>
     <string name="sport_main_percent">%</string>
     <string name="unit_cadence">rpm</string>
     <string name="sport_main_heart_info_title">Fréquence cardiaque</string>
@@ -353,7 +353,7 @@ commencez maintenant. »</string>
     <string name="last_mi_times_with_param">Temps dernier %1$s milles</string>
     <string name="running_total_distance_desc">Distance totale</string>
     <string name="setting_sport_title_exteed_region_tips">Notifier au-delà de la zone %1$s</string>
-    <string name="sport_history_bottom_remind">Pour plus d\'enregistrements, allez dans l\'application Amazfit</string>
+    <string name="sport_history_bottom_remind">Pour plus d\'enregistrements, allez dans l\'application Zepp</string>
     <string name="swim_unit">yd</string>
     <string name="pace_swim_unit_yd">/100 yd</string>
     <string name="settings_item_value_swim_length_yd">%1$s yd</string>
@@ -382,7 +382,7 @@ commencez maintenant. »</string>
     <string name="start_change_item">Commencer à changer d\'élément</string>
     <string name="near_to_finish_item">Presque terminé</string>
     <string name="click_finsh_this_train_unit">Appuyez sur RETOUR pour terminer</string>
-    <string name="has_no_train_unit_remind">Ajoutez des entraînements intermittents dans l\'application Amazfit et synchronisez sur cette montre.</string>
+    <string name="has_no_train_unit_remind">Ajoutez des entraînements par intervalles dans l\'application Zepp et synchronisez sur cette montre.</string>
     <string name="interval_segment_details">Détails de l\'intervalle</string>
     <string name="test_html_txt" formatted="false">%1sm%2ss/%3sm</string>
     <string name="sport_widget_title_skiing">Ski</string>
@@ -429,7 +429,7 @@ commencez maintenant. »</string>
     <string name="setting_reserve_heart_region_2">Zone 2</string>
     <string name="setting_reserve_heart_region_3">Zone 3</string>
     <string name="virtual_rabbit_backward_time">Durée du retard</string>
-    <string name="anti_navigation_pause_content">En arrière</string>
+    <string name="anti_navigation_pause_content">Retour au départ</string>
     <string name="virtual_rabbit_lead_time">Durée d’avancement</string>
     <string name="sport_main_beyond_heart_info_remind">Au-delà de la limite de fréquence cardiaque</string>
     <string name="setting_not_remind">Désactiver l\'alerte</string>
@@ -443,7 +443,7 @@ commencez maintenant. »</string>
     <string name="running_button_save_modify">Calibrer et enregistrer</string>
     <string name="save_cur_location">Enregistrer l\'emplacement</string>
     <string name="previous_page">Précédent</string>
-    <string name="back_from_coming">Précédent</string>
+    <string name="back_from_coming">Retour au départ</string>
     <string name="straight_back">Raccourci</string>
     <string name="other_destination">Saisir une adresse</string>
     <string name="screen_brightness">Luminosité</string>
@@ -479,7 +479,7 @@ commencez maintenant. »</string>
     <string name="_20_km_or_mi_fastest">20%1$s</string>
     <string name="_40_km_or_mi_fastest">40%1$s</string>
     <string name="half_marathon_fastest">Semi-marathon</string>
-    <string name="full_marathon_fastest">Marathon complet</string>
+    <string name="full_marathon_fastest">Marathon</string>
     <string name="ride_max_altitude_up">Escalade max(%1$s)</string>
     <string name="moutaineer_highest_altitude">Altitude maximale(%1$s)</string>
     <string name="moutaineer_max_altitude_up">Montée totale max(%1$s)</string>
@@ -560,10 +560,10 @@ commencez maintenant. »</string>
     <string name="train_load_near_seven_days">Les 7 derniers jours</string>
     <string name="train_load_suggess_status_no_record">"Nous évaluerons votre charge d'entraînement à partir d'exercices enregistrés au cours des 7 derniers jours"</string>
     <string name="train_load_suggess_status_less">Faible</string>
-    <string name="train_load_suggess_status_good">Optimal</string>
-    <string name="train_load_suggess_status_recovery">Élevé</string>
-    <string name="train_load_suggess_status_over">Supérieur</string>
-    <string name="real_time_perpormance_level_very_good">Bon</string>
+    <string name="train_load_suggess_status_good">Optimale</string>
+    <string name="train_load_suggess_status_recovery">Élevée</string>
+    <string name="train_load_suggess_status_over">Dépassée</string>
+    <string name="real_time_perpormance_level_very_good">Excellent</string>
     <string name="real_time_perpormance_level_good">Bon</string>
     <string name="real_time_perpormance_level_average">Normal</string>
     <string name="real_time_perpormance_level_fatigued">Fatigué</string>
@@ -595,12 +595,12 @@ commencez maintenant. »</string>
     <string name="first_beat_help_title_sport_target_or_real_time_guide">Objectifs d\'exécution recommandés &amp; Coaching en temps réel</string>
     <string name="first_beat_help_title_daily_perpormence">Etat du corps</string>
     <string name="first_beat_help_title_recovery_time">Temps de récupération</string>
-    <string name="first_beat_help_vo2_max">"&lt;font color=#00FF00&gt;Qu'est-ce que c'est?&lt;/font&gt;&lt;br/&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp; nbsp;&amp;nbsp;&amp;nbsp; VO&lt;unk&gt; max représente le volume maximal d'oxygène que le corps peut consommer en une minute tel que mesuré en ml/kg/min. Il évalue l'état de la forme cardiorespiratoire des utilisateurs, ce qui est important pour la santé globale, le bien-être et la performance sportive. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; La montre évaluera automatiquement votre VO&lt;unk&gt; max en fonction de la fréquence cardiaque, de la vitesse etc. au cours d'un exercice d'intensité modérée et comparez cela à un groupe de référence du même âge et du même sexe pour déterminer votre niveau de conditionnement physique. &lt;br/&gt;&lt;font color=#00FF00&gt;Comment évaluer ?&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 1. Fournir des informations de profil précises comme l'âge et le sexe dans l'application Amazfit pendant l'installation; &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 2. Prenez 15 minutes ou plus en plein air avec la montre et assurez-vous que la fréquence cardiaque est supérieure ou égale à 75 % de votre fréquence cardiaque maximale pendant au moins 10 minutes ; &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 3. Après avoir terminé la course, vous pouvez vérifier VO&lt;unk&gt; max actuel dans l'application d'activités sportives sur la page de montre ou de statut personnel dans l'application Amazift Watch. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;Pour plus de détails, voir l'application Aide dans Amazfit.&lt;/small&gt;"</string>
-    <string name="first_beat_help_te">&lt;font color=#00FF00&gt;Qu\'est-ce que c\'est?&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; effet de pluie (TE) mesure la charge accumulée pendant une séance d\'entraînement et interprète son impact sur votre forme aérobique. TE commence à partir du niveau 0.0. Au fur et à mesure que l’entraînement progresse, la valeur de l’entraînement augmente (de 0 à 5), vous indiquant comment l’entraînement affecte votre condition physique. &lt;br/&gt;&lt;font color=#00FF00&gt;Comment est-il calculé ?&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;TE est calculé en fonction du profil de votre utilisateur, des données de temps cardiaque et de la difficulté de l\'entraînement.&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; La montre montrera la mesure en temps réel des TEP lors d\'une séance d\'entraînement ainsi que le résultat final TE à la fin de l\'entraînement. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;Pour plus de détails, voir l\'application Aide dans Amazfit.&lt;/small&gt;</string>
-    <string name="first_beat_help_train_load">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;La montre calculera la charge de formation en fonction des valeurs de la consommation d\'oxygène EPOC (Excess Post-exercise Oxygen Consumption) accumulées à partir des données de la fréquence cardiaque enregistrées au cours des séances d\'entraînement au cours des 7 derniers jours. L\'utilisateur peut ajuster le calendrier de formation en conséquence pour atteindre une charge optimale. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;Pour plus de détails, voir l\'application Aide dans Amazfit .&lt;/small&gt;</string>
-    <string name="first_beat_help_run_target_and_real_time_guide">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;La montre fournira des recommandations d\'entraînement en fonction de votre niveau de conditionnement physique VO&lt;unk&gt; maximum, de la charge d\'entraînement récente et du statut de récupération de l\'entraînement précédent. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; f vous activez la fonctionnalité de coaching en temps réel dans les paramètres et définissez un objectif TE, ou choisissez l\'un des entraînements recommandés, la montre vous guidera à travers l\'entrainement et vous incitera à ajuster le rythme et la fréquence cardiaque afin d\'atteindre les objectifs fixés. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;small&gt;Pour plus de détails, voir l\'application Aide dans Amazfit .&lt;/small&gt;</string>
-    <string name="first_beat_help_daily_perpormence">"&lt;font color=#00FF00&gt;Qu'est-ce que c'est?&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; La condition de performance en temps réel indique si vous êtes supérieur ou inférieur à votre niveau de performance moyen et que la fatigue accumulée affecte vos performances pendant une séance d'entraînement. &lt;br/&gt;&lt;font color=#00FF00&gt;Comment est-il utilisé ?&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;La montre évaluera automatiquement votre état de performance après 6 minutes de fonctionnement. Une valeur supérieure à la moyenne indique que vous pouvez faire un entraînement plus difficile que vous ne le feriez normalement. Une valeur plus faible suggère que vous devriez vous entraîner plus facilement. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Après avoir terminé un entraînement, vous pouvez analyser la performance en regardant le résultat à chaque km/mile du graphique. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;Pour plus de détails, voir l'application Aide dans Amazfit.&lt;/small&gt;"</string>
-    <string name="first_beat_help_recovery_time">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Après avoir terminé une séance d\'entraînement, vous recevrez du temps en minutes pour une récupération complète. Entre les séances d\'entraînement, le temps de récupération est linéairement réduit vers zéro s\'il n\'y a pas de nouvelles données d\'entraînement disponibles. L\'utilisateur est encouragé à avoir quelques séances d\'entraînement de faible intensité pour aider à la récupération. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;Pour plus de détails, voir l\'application Aide dans Amazfit .&lt;/small&gt;</string>
+    <string name="first_beat_help_vo2_max">"&lt;font color=#00FF00&gt;Qu'est-ce que c'est?&lt;/font&gt;&lt;br/&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp; nbsp;&amp;nbsp;&amp;nbsp; VO&lt;unk&gt; max représente le volume maximal d'oxygène que le corps peut consommer en une minute tel que mesuré en ml/kg/min. Il évalue l'état de la forme cardiorespiratoire des utilisateurs, ce qui est important pour la santé globale, le bien-être et la performance sportive. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; La montre évaluera automatiquement votre VO&lt;unk&gt; max en fonction de la fréquence cardiaque, de la vitesse etc. au cours d'un exercice d'intensité modérée et comparez cela à un groupe de référence du même âge et du même sexe pour déterminer votre niveau de conditionnement physique. &lt;br/&gt;&lt;font color=#00FF00&gt;Comment évaluer ?&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 1. Fournir des informations de profil précises comme l'âge et le sexe dans l'application Zepp pendant l'installation; &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 2. Prenez 15 minutes ou plus en plein air avec la montre et assurez-vous que la fréquence cardiaque est supérieure ou égale à 75 % de votre fréquence cardiaque maximale pendant au moins 10 minutes ; &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 3. Après avoir terminé la course, vous pouvez vérifier le VO&lt;unk&gt; max actuel dans l'application d'activités sportives sur la montre ou du statut personnel dans l'application Zepp. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;Pour plus de détails, voir l'Aide dans l'application Zepp.&lt;/small&gt;"</string>
+    <string name="first_beat_help_te">&lt;font color=#00FF00&gt;Qu\'est-ce que c\'est?&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Training Effect (TE) mesure la charge accumulée pendant une séance d\'entraînement et interprète son impact sur votre forme aérobique. TE commence à partir du niveau 0.0. Au fur et à mesure que l’entraînement progresse, la valeur de l’entraînement augmente (de 0 à 5), vous indiquant comment l’entraînement affecte votre condition physique. &lt;br/&gt;&lt;font color=#00FF00&gt;Comment est-il calculé ?&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;TE est calculé en fonction de votre profil, des données de temps cardiaque et de la difficulté de l\'entraînement.&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; La montre affichera la mesure en temps réel du TE lors d\'une séance d\'entraînement ainsi que le résultat fina dul TE à la fin de l\'entraînement. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;Pour plus de détails, voir l\'Aide dans l\'application Zepp.&lt;/small&gt;</string>
+    <string name="first_beat_help_train_load">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;La montre calculera la charge du Training Load en fonction des valeurs de la consommation d\'oxygène EPOC (Excès de consommation d\'oxygène post-exercice) accumulées à partir des données de la fréquence cardiaque enregistrées pendant les séances d\'entraînement au cours des 7 derniers jours. L\'utilisateur peut ajuster le calendrier de training en conséquence pour atteindre une charge optimale. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;Pour plus de détails, voir l\'Aide dans l\'application Zepp.&lt;/small&gt;</string>
+    <string name="first_beat_help_run_target_and_real_time_guide">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;La montre fournira des recommandations d\'entraînement en fonction de votre niveau de conditionnement physique VO&lt;unk&gt; maximum, de la charge d\'entraînement récente et du statut de récupération de l\'entraînement précédent. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Si vous activez la fonctionnalité de coaching en temps réel dans les paramètres et définissez un objectif TE, ou choisissez l\'un des entraînements recommandés, la montre vous guidera à travers l\'entrainement et vous incitera à ajuster le rythme et la fréquence cardiaque afin d\'atteindre les objectifs fixés. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;small&gt;Pour plus de détails, voir l\'Aide dans l\'application Zepp.&lt;/small&gt;</string>
+    <string name="first_beat_help_daily_perpormence">"&lt;font color=#00FF00&gt;Qu'est-ce que c'est?&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; La condition de performance en temps réel indique si vous êtes supérieur ou inférieur à votre niveau de performance moyen et que la fatigue accumulée affecte vos performances pendant une séance d'entraînement. &lt;br/&gt;&lt;font color=#00FF00&gt;Comment est-il utilisé ?&lt;/font&gt;&lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;La montre évaluera automatiquement votre état de performance après 6 minutes de fonctionnement. Une valeur supérieure à la moyenne indique que vous pouvez faire un entraînement plus difficile que vous ne le feriez normalement. Une valeur plus faible suggère que vous devriez vous entraîner plus facilement. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Après avoir terminé un entraînement, vous pouvez analyser la performance en regardant le résultat à chaque km/mile du graphique. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;Pour plus de détails, voir l'Aide dans l'application Zepp.&lt;/small&gt;"</string>
+    <string name="first_beat_help_recovery_time">&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Après avoir terminé une séance d\'entraînement, vous recevrez du temps en minutes pour une récupération complète. Entre les séances d\'entraînement, le temps de récupération est linéairement réduit vers zéro s\'il n\'y a pas de nouvelles données d\'entraînement disponibles. L\'utilisateur est encouragé à avoir quelques séances d\'entraînement de faible intensité pour aider à la récupération. &lt;br/&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;small&gt;Pour plus de détails, voir l\'Aide dans l\'application Zepp.&lt;/small&gt;</string>
     <string name="vo2max_unit">ml/kg/min</string>
     <string name="run_vo2max_unit">ml/kg/min</string>
     <string name="vo2_max_has_no_data">Aucune donnée</string>
@@ -612,7 +612,7 @@ commencez maintenant. »</string>
     <string name="use_sport_route_remind">Cette activité utilise-t-elle l\'itinéraire %1$s pour la navigation ?</string>
     <string name="please_start_sport_from_route_start">Afin d\'assurer la précision du guidage de l\'itinéraire, démarrez le mouvement à l\'emplacement géographique réel de l\'origine du parcours</string>
     <string name="please_become_bigger">Zoomer</string>
-    <string name="please_become_smaller">Zoom arrière</string>
+    <string name="please_become_smaller">Dézoomer</string>
     <string name="current_altitude">Altitude</string>
     <string name="cumulative_climb">Gain d\'altitude</string>
     <string name="sport_route_out_of">Route déviée</string>
@@ -696,8 +696,8 @@ commencez maintenant. »</string>
     <string name="real_time_keep_speed">Garder le rythme</string>
     <string name="real_time_run_faster">\"Augmenter le rythme 
  pour un exercice efficace!\"</string>
-    <string name="real_time_every_good">Très bon</string>
-    <string name="real_time_run_slower">Ralentissement</string>
+    <string name="real_time_every_good">Parfait</string>
+    <string name="real_time_run_slower">Ralentissez</string>
     <string name="real_time_target_finish">Vous avez atteint votre objectif</string>
     <string name="real_time_guide_title_1">Garder le rythme</string>
     <string name="real_time_guide_title_2">Garder le rythme</string>
@@ -940,7 +940,7 @@ pour un exercice efficace!\"</string>
     <string name="sport_medal_desc_total_50_mi">Distance totale d\'entraînement de 31 mi</string>
     <string name="sport_medal_desc_total_300_mi">Distance totale d\'entraînement de 186 mi</string>
     <string name="sport_medal_desc_total_1000_mi">Distance totale d\'entraînement de 621 mi</string>
-    <string name="sport_medal_desc_half_marathon">Terminer un demi-marathon</string>
+    <string name="sport_medal_desc_half_marathon">Terminer un Semi-marathon</string>
     <string name="sport_medal_desc_marathon">Terminer un marathon</string>
     <string name="sport_medal_desc_continuous_7_days_sport">Série de 7 jours</string>
     <string name="sport_medal_desc_continuous_30_days_sport">Série de 30 jours</string>

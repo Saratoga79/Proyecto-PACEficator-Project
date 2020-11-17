@@ -62,11 +62,11 @@
     <string name="fetch_failed">"Impossible d'obtenir les infos"</string>
     <string name="unknown">Inconnu</string>
     <string name="fetch_failed_title">"Échec de récupération des infos"</string>
-    <string name="fetch_failed_msg">Assurez-vous que votre montre est connectée à la Amazfit application et un emplacement valide est sélectionné dans l\'application.</string>
+    <string name="fetch_failed_msg">Assurez-vous que votre montre est connectée à l\'application Zepp et un emplacement valide est sélectionné dans l\'application.</string>
     <string name="date_time_format">dd/MM</string>
     <string name="forecast_today">Aujourd\'hui</string>
     <string name="forecast_tomorrow">Demain</string>
-    <string name="fetch_failed_help">Restez connecté avec l\'application Amazfit pour synchroniser automatiquement la météo.</string>
+    <string name="fetch_failed_help">Restez connecté avec l\'application Zepp pour synchroniser automatiquement la météo.</string>
     <string name="cancel">Fermer</string>
     <string name="wind_breeze">Brise</string>
     <string name="wind_rotating">Tourbillon</string>
@@ -183,7 +183,7 @@
     <string name="virtual_rabbit_lead_time">Délai</string>
     <string name="virtual_rabbit_back_time">Délai de retard</string>
     <string name="virtual_rabbit_lead_distance">Distance d\'avance</string>
-    <string name="virtual_rabbit_back_distance">Distance d\'avance</string>
+    <string name="virtual_rabbit_back_distance">Distance de retard</string>
     <string name="oritation_east">E</string>
     <string name="oritation_sourth">S</string>
     <string name="oritation_west">O</string>
@@ -214,7 +214,7 @@
     <string name="widget_currentstep_sleep_hour">h</string>
     <string name="widget_currentstep_sleep_min">m</string>
     <string name="widget_currentstep_sleep_title">Dormi hier soir</string>
-    <string name="widget_currentstep_sleep_no">Aucune donnée</string>
+    <string name="widget_currentstep_sleep_no">Aucune donnée de sommeil</string>
     <string name="widget_currentstep_activity_no">Aucune activité aujourd\'hui?</string>
     <string name="locale_title">Choisir une langue</string>
 </resources>

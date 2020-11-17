@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="average_text">평균</string>
+    <string name="menu_item_high_light_scale_factor">0.5</string>
+    <string name="low_battery_protect">배터리 부족 보호</string>
+    <string name="low_battery_tips">배터리 부족</string>
+    <string name="low_battery_please_charging">시계를 충전하세요.</string>
+    <string name="picker_default_positive_text">확인</string>
+    <string name="picker_default_nagetive_text">끄기</string>
+    <string name="no_heartrate_data_hint">"심박수 정보를 찾을 수 없습니다"</string>
+    <string name="no_altitude_hint">"고도 정보를 찾을 수 없습니다"</string>
+    <string name="title_settings">설정</string>
+    <string name="sport_music_settings">음악</string>
+    <string name="widget_currentstep_title">데이터</string>
+    <string name="widget_currentstep_activities">"오늘의 활동"</string>
+    <string name="widget_currentstep_sleep_hour">시</string>
+    <string name="widget_currentstep_sleep_min">분</string>
+    <string name="widget_currentstep_sleep_title">어젯밤의 수면</string>
+    <string name="widget_currentstep_sleep_no">수면 정보 없음</string>
+    <string name="widget_currentstep_activity_no">오늘 운동이 없습니까?</string>
+    <string name="locale_title">언어 선택</string>
+    <string name="app_name">Wi-Fi sync</string>
+    <string name="notice_text_success_top">Synced data successfully</string>
+    <string name="notice_text_success_bottom">"You can view data 
+in the App"</string>
+    <string name="notice_text_failed_top">"Couldn't sync data"</string>
+    <string name="net_failed">Check your network connection and try again</string>
+    <string name="date">시간:</string>
+    <string name="am">오전</string>
+    <string name="pm">오후</string>
+    <string name="date_">/</string>
+    <string name="date_m">:</string>
+    <string name="see_after_connect_app_token_faield">"Couldn't connect to the App to refresh access token"</string>
+    <string name="cannot_acess_server">"Couldn't connect to the server"</string>
+    <string name="cannot_upload_user">"Couldn't verify access token"</string>
+    <string name="please_upload_assist_version">Update your App and try again</string>
+    <string name="did_not_connect_assist">Connect to the App to refresh access token in order to sync data</string>
+    <string name="upload_failed_full">Interrupt the ongoing sync?</string>
+    <string name="pleanse_connect_to_phone">Please connect to the companion app to sync data manually. (Drag down from the home page)</string>
+    <string name="percent_sign">%</string>
+    <string name="please_keep_wifi_connected">"Don't disconnect from Wi-Fi"</string>
+    <string name="init_wifi">Connecting to Wi-Fi…</string>
+    <string name="init_user">Verifying…</string>
+    <string name="init_app">Connecting to the App…</string>
+    <string name="init_update_user">Updating…</string>
+    <string name="zero">0</string>
+    <string name="yes">예</string>
+    <string name="no">아니오</string>
+</resources>
