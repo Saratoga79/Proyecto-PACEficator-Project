@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="data_check_log">+------------------------+▂▃▄▅▆▇█▉ Времето suite грешка данни! %1$s▉█▇▆▅▄▃▂+------------------------+</string>
+    <string name="data_check_log">+------------------------+▂▃▄▅▆▇█▉ Грешка в синоптичните данни! %1$s▉█▇▆▅▄▃▂+------------------------+</string>
     <string name="data_checkfail_type">Не успява да разпознае вида на времето</string>
     <string name="data_checkfail_temp">Температурата на въздуха е извън обхвата</string>
-    <string name="data_checkfail_match">Поле тип времето не съвпадат</string>
+    <string name="data_checkfail_match">Полетата за типове прогнози не съвпадат</string>
     <string name="data_checkfail_json">Грешка във формат JSON</string>
     <string name="app_name">Времето</string>
     <string name="action_settings">Настройки</string>
@@ -31,7 +31,7 @@
     <string name="weather_warning_level_black">Черно</string>
     <string name="weather_warning_typhoon">Тайфун</string>
     <string name="weather_warning_rainstorm">Дъждовна буря</string>
-    <string name="weather_warning_cold">Хладен фронт</string>
+    <string name="weather_warning_cold">Студен фронт</string>
     <string name="weather_warning_gale">Бурно</string>
     <string name="weather_warning_sandstorm">Пясъчна буря</string>
     <string name="weather_warning_temperature">Висока температура</string>
@@ -43,14 +43,14 @@
     <string name="weather_warning_smog">Мараня</string>
     <string name="weather_warning_ice">Заледени пътища</string>
     <string name="weather_warning_snowstorm">Виелица</string>
-    <string name="no_aqi">"Не мога да получите данните за качеството на въздуха"</string>
+    <string name="no_aqi">"Не мога да получа данните за качество на въздуха"</string>
     <string name="air_perfect">Отлично</string>
     <string name="air_good">Чудесно</string>
     <string name="air_lightly_polluted">Леко замърсяване</string>
     <string name="air_moderate_polluted">Средно замърсяване</string>
     <string name="air_heavily_polluted">Тежко замърсяване</string>
     <string name="air_severely_polluted">Сериозно замърсяване</string>
-    <string name="no_outdoor_info">"Не мога да получите информация"</string>
+    <string name="no_outdoor_info">"Не мога да получа информация"</string>
     <string name="outdoor_info_notsuit">Неподходящо за спорт</string>
     <string name="outdoor_info_suit">Подходящо за спорт</string>
     <string name="wind_strength">Сила на вятъра</string>
@@ -58,20 +58,20 @@
     <string name="uv">UV индекс</string>
     <string name="detailed">Детайли за времето</string>
     <string name="forecast">Прогноза за времето</string>
-    <string name="fetching">Една секунда…</string>
-    <string name="fetch_failed">"Информацията не се получи"</string>
+    <string name="fetching">Един момент…</string>
+    <string name="fetch_failed">"Не мога да получа информацията"</string>
     <string name="unknown">Неизвестно</string>
     <string name="fetch_failed_title">"Не може да получите информация за времето"</string>
-    <string name="fetch_failed_msg">Уверете се, че вашите часовници са свързани с прилагането на Amazfit и валиден място се избира в приложението.</string>
+    <string name="fetch_failed_msg">Уверете се, че вашият часовник е свързан с приложението на Amazfit и е избрана валидна локация .</string>
     <string name="date_time_format">MM/dd</string>
-    <string name="forecast_today">Калории за днес</string>
+    <string name="forecast_today">Днес</string>
     <string name="forecast_tomorrow">Утре</string>
-    <string name="fetch_failed_help">Останете във връзка с прилагането Amazfit на автоматична синхронизация на времето.</string>
+    <string name="fetch_failed_help">Останете свързани с приложението на Amazfit за авт. синхронизация на прогнозата.</string>
     <string name="cancel">Затвори</string>
     <string name="wind_breeze">Бриз</string>
     <string name="wind_rotating">Вихър</string>
     <string name="wind_N">N вятър</string>
-    <string name="wind_NE">NE вятър</string>
+    <string name="wind_NE">Североизточен вятър</string>
     <string name="wind_E">E вятър</string>
     <string name="wind_SE">SE вятър</string>
     <string name="wind_S">S вятър</string>
