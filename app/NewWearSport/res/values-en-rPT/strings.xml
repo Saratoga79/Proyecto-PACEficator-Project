@@ -434,18 +434,18 @@
     <string name="oritation_west">W</string>
     <string name="oritation_north">N</string>
     <string name="back_to_continue_sport">Voltar</string>
-    <string name="lap_swim_stroke_speed_title">Stroke rate</string>
-    <string name="first_modify_tips">To calibrate the distance result of a running session (must be longer than 0.5 km) helps the watch to generate a more accurate distance result.</string>
-    <string name="modify_big_dis_tips">The calibrated value %1$s is significantly different from the measured value %2$s, calibrate anyway?</string>
-    <string name="modify_big_dis_regain">Edit</string>
-    <string name="modify_big_dis_confirm">Continue calibration</string>
-    <string name="re_modify_dis">Calibrate again</string>
-    <string name="re_modify_dis_tips">"1. To calibrate the distance result of a running session (must be longer than 0.5 km) helps the watch to generate a more accurate result.
-2. If you still aren\'t satisfied with the result after several calibration attempts, try to calibrate again.
-3. If you calibrate the result again, all previous calibration records will be deleted."</string>
-    <string name="give_up_re_modify_dis">Discard</string>
+    <string name="lap_swim_stroke_speed_title">Taxa de Braçada</string>
+    <string name="first_modify_tips">Para calibrar o resultado de distância de uma sessão em execução (deve ser maior que 0,5 km) ajuda o relógio a gerar um resultado de distância mais preciso.</string>
+    <string name="modify_big_dis_tips">O valor calibrado %1$s é significativamente diferente do valor medido %2$s, calibrar mesmo assim?</string>
+    <string name="modify_big_dis_regain">Editar</string>
+    <string name="modify_big_dis_confirm">Continuar calibração</string>
+    <string name="re_modify_dis">Calibrar novamente</string>
+    <string name="re_modify_dis_tips">"1. Para calibrar o resultado da distância de uma sessão em execução (deve ser maior que 0. km) ajuda o relógio a gerar um resultado mais preciso.
+2. Se você ainda não estiver satisfeito com o resultado após várias tentativas de calibração, tente calibrar novamente.
+3. Se você calibrar novamente o resultado, todos os registros de calibração anteriores serão excluídos."</string>
+    <string name="give_up_re_modify_dis">Descartar</string>
     <string name="confirm_re_modify_dis">OK</string>
-    <string name="re_modify_dis_successful">Calibrated successfully</string>
+    <string name="re_modify_dis_successful">Calibrado com sucesso</string>
     <string name="new_pb_record">Novo recorde pessoal</string>
     <string name="longest_distance">Maior distância (%1$s)</string>
     <string name="longest_time">Tempo mais longo</string>
@@ -971,8 +971,8 @@ para um exercício eficaz!\"</string>
     <string name="km_imperial_outdoor_speed_graph_title">Velocidade(mi/h)</string>
     <string name="km_imperial_settings_item_value_target_distance">%1$smi</string>
     <string name="meter_imperial_settings_item_value_target_distance">%1$spés</string>
-    <string name="swim_yard_remind_target_distance_title_format">Target %1$d yd</string>
-    <string name="swim_meter_remind_target_distance_title_format">Target %1$d m</string>
+    <string name="swim_yard_remind_target_distance_title_format">Alvo %1$d jarda</string>
+    <string name="swim_meter_remind_target_distance_title_format">Alvo %1$d m</string>
     <string name="vo2_max_title">VO2Max</string>
     <string name="vo2_max_level_very_good">Muito Bom</string>
     <string name="vo2_max_level_middle">Médio</string>
@@ -1014,7 +1014,7 @@ Podes copiar-lo ligando a um computador por USB."</string>
     <string name="lap_time_title">Tempo de volta</string>
     <string name="lap_pace_title">Ritmo de volta</string>
     <string name="lap_speed_title">Velocidade de volta</string>
-    <string name="lap_sub_type_title">Break</string>
+    <string name="lap_sub_type_title">Pausa</string>
     <string name="cur_lap_stepfreq">Cadencia</string>
     <string name="cur_lap_duration">Tempo V.A.</string>
     <string name="cur_lap_distance">Distância V.A</string>
