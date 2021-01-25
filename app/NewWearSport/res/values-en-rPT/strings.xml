@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="locale_title">Selecione Idioma</string>
-    <string name="auto_recoginition_title_running">"You're running now"</string>
-    <string name="auto_recoginition_title_walking">"You're walking now"</string>
-    <string name="auto_recoginition_sub_title">Continue the session?</string>
-    <string name="auto_recoginition_continue_run">Continue</string>
-    <string name="auto_recoginition_continue_walk">Continue</string>
-    <string name="auto_recoginition_continue_indoor_run">Continue</string>
-    <string name="auto_recoginition_other_sport">Other sports</string>
-    <string name="auto_recoginition_not_remind">"Don't show again today"</string>
-    <string name="auto_recoginition_save">Save</string>
-    <string name="auto_recoginition_end_title">Session ended, save the data?</string>
+    <string name="auto_recoginition_title_running">"Você está correndo agora"</string>
+    <string name="auto_recoginition_title_walking">"Você está andando agora"</string>
+    <string name="auto_recoginition_sub_title">Continuar a sessão?</string>
+    <string name="auto_recoginition_continue_run">Continuar</string>
+    <string name="auto_recoginition_continue_walk">Continuar</string>
+    <string name="auto_recoginition_continue_indoor_run">Continuar</string>
+    <string name="auto_recoginition_other_sport">Outros esportes</string>
+    <string name="auto_recoginition_not_remind">"Não mostrar novamente hoje"</string>
+    <string name="auto_recoginition_save">Salvar</string>
+    <string name="auto_recoginition_end_title">Sessão terminada, salvar os dados?</string>
     <string name="crossing_title">Trilho</string>
     <string name="crossing_end_sport">PF pare o Trilho primeiro</string>
     <string name="crossing_in_progress">Corrida de Trilho...</string>
@@ -433,7 +433,7 @@
     <string name="oritation_sourth">S</string>
     <string name="oritation_west">W</string>
     <string name="oritation_north">N</string>
-    <string name="back_to_continue_sport">Back</string>
+    <string name="back_to_continue_sport">Voltar</string>
     <string name="lap_swim_stroke_speed_title">Stroke rate</string>
     <string name="first_modify_tips">To calibrate the distance result of a running session (must be longer than 0.5 km) helps the watch to generate a more accurate distance result.</string>
     <string name="modify_big_dis_tips">The calibrated value %1$s is significantly different from the measured value %2$s, calibrate anyway?</string>
