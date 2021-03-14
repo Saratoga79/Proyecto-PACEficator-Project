@@ -351,7 +351,7 @@ inizia ora."</string>
     <string name="last_kilo_meters_times">Tempo ultimo km</string>
     <string name="last_mi_times">Tempo dell\'ultimo mi</string>
     <string name="last_kilo_meters_times_with_param">Tempo ultimi %1$s chilometri</string>
-    <string name="last_mi_times_with_param">Last %1$s mile time</string>
+    <string name="last_mi_times_with_param">Tempo ultimo %1$s miglio</string>
     <string name="running_total_distance_desc">Distanza totale</string>
     <string name="setting_sport_title_exteed_region_tips">Notifica quando oltre la zona %1$s</string>
     <string name="sport_history_bottom_remind">Per ulteriori record, andare al Amazfit app</string>
@@ -364,9 +364,9 @@ inizia ora."</string>
     <string name="gps_close_notification_content">A causa di inattività, il GPS verrà disattivato tra 1 minuto.</string>
     <string name="per_correspond_km">Every %1$d km</string>
     <string name="per_correspond_mi">Every %1$d mi</string>
-    <string name="more_operation">More</string>
+    <string name="more_operation">Di più</string>
     <string name="detail_route_detail_train_lap_title">Interval details</string>
-    <string name="interval_train_tips_title">Alerts will be off by default during intervals</string>
+    <string name="interval_train_tips_title">Le notifiche saranno disattivate durante le ripetute</string>
     <string name="interval_train_tips_content">(Except for heart rate alerts)</string>
     <string name="interval_confirm">Capito</string>
     <string name="this_time_need_run_mileage">Interval distance: %1$s km</string>
@@ -447,8 +447,8 @@ inizia ora."</string>
     <string name="back_from_coming">Backtrack</string>
     <string name="straight_back">Scorciatoia</string>
     <string name="other_destination">Enter address</string>
-    <string name="screen_brightness">Brightness</string>
-    <string name="navigation_remain_distance">Remaining distance</string>
+    <string name="screen_brightness">Luminosità</string>
+    <string name="navigation_remain_distance">Distanza Rimanente</string>
     <string name="lap_dis_title">Lap distance</string>
     <string name="lap_time_title">Duration by lap</string>
     <string name="lap_pace_title">Pace by lap</string>
@@ -457,13 +457,13 @@ inizia ora."</string>
     <string name="oritation_sourth">S</string>
     <string name="oritation_west">O</string>
     <string name="oritation_north">N</string>
-    <string name="back_to_continue_sport">Back</string>
+    <string name="back_to_continue_sport">Indietro</string>
     <string name="lap_swim_stroke_speed_title">Stroke rate</string>
     <string name="first_modify_tips">To calibrate the distance result of a running session (must be longer than 0.5 km) helps the watch to generate a more accurate distance result.</string>
     <string name="modify_big_dis_tips">The calibrated value %1$s is significantly different from the measured value %2$s, calibrate anyway?</string>
     <string name="modify_big_dis_regain">Edit</string>
-    <string name="modify_big_dis_confirm">Continue calibration</string>
-    <string name="re_modify_dis">Calibrate again</string>
+    <string name="modify_big_dis_confirm">Continua la calibrazione</string>
+    <string name="re_modify_dis">Calibra di nuovo</string>
     <string name="re_modify_dis_tips">"1. per calibrare il risultato a distanza di una sessione in esecuzione (deve essere superiore a 0,5 km) aiuta l\'orologio a generare un risultato più accurato.
 2. Se ancora non siete soddisfatti del risultato dopo diversi tentativi di calibrazione, prova a calibrare nuovamente.
 3. Se si calibra il risultato ancora una volta, tutti i record precedenti di calibrazione verranno cancellati"</string>
@@ -471,7 +471,7 @@ inizia ora."</string>
     <string name="confirm_re_modify_dis">Conferma</string>
     <string name="re_modify_dis_successful">Re-modify successful</string>
     <string name="lap_sub_type_title">Riposo</string>
-    <string name="new_pb_record">New personal record</string>
+    <string name="new_pb_record">Nuovo record personale</string>
     <string name="longest_distance">Max distance(%1$s)</string>
     <string name="longest_time">Max time</string>
     <string name="_3_km_or_mi_fastest">3%1$s</string>
@@ -531,7 +531,7 @@ inizia ora."</string>
     <string name="data_refresh_per_sec">Refresh every sec</string>
     <string name="data_refresh_setting">Lock Screen Data</string>
     <string name="data_refresh_wrist_raise">Refresh on wrist up</string>
-    <string name="longest_distance_no_unit">Max distance</string>
+    <string name="longest_distance_no_unit">Distanza Massima</string>
     <string name="ride_max_altitude_up_no_unit">Max climb</string>
     <string name="moutaineer_highest_altitude_no_unit">Maximum altitude</string>
     <string name="moutaineer_max_altitude_up_no_unit">Max total ascent</string>
