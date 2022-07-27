@@ -39,7 +39,7 @@
     <string name="weather_multipe_outofindex">4 gün boyunca sadece%1$s hava durumu tahminini gösterebilirim.</string>
     <string name="weather_quality">Hava kalitesi</string>
     <string name="error_disconnect">Bağlantı koptu</string>
-    <string name="error_disconnect_content">Make sure your watch is connected to your phone via Bluetooth and your phone is connected to the network.</string>
+    <string name="error_disconnect_content">Saatinizin Bluetooth aracılığıyla telefonunuza bağlı olduğundan ve telefonunuzun ağa bağlı olduğundan emin olun.</string>
     <string name="error_weather_outofbound">Size önümüzdeki 4 gün için tahmini bir süre verebilirim.</string>
     <string name="alarm_timer_outofbound">"24 saatten fazla zamanlayıcı kullanamıyorum."</string>
     <string name="alarm_timer_alreadyhas">"Şu anda çalışan bir zamanlayıcı var. Yenisini başlatmak için kapatın."</string>
@@ -166,10 +166,10 @@ ve tamamlamak hesap yetkilendirme [Profile] -[şirketlerin hesapları]. "</strin
     <string name="widget_currentstep_sleep_title">Uyku</string>
     <string name="widget_currentstep_sleep_no">Uyku verisi yok</string>
     <string name="widget_currentstep_activity_no">Aktiviten yok mu?</string>
-    <string name="xiaoai_unsupported">暂不支持此问题</string>
-    <string name="huami_ice_not_connected">Unable to use voice assistant</string>
-    <string name="weather">Weather</string>
+    <string name="xiaoai_unsupported">Desteklenmiyor</string>
+    <string name="huami_ice_not_connected">Asistan kullanılamıyor!</string>
+    <string name="weather">Hava Durumu</string>
     <string name="locale_title">Dili seçin</string>
-    <string name="cancel">Cancel</string>
-    <string name="alexa_unable_use">Unable use</string>
+    <string name="cancel">İptal Et</string>
+    <string name="alexa_unable_use">Kullanılamıyor</string>
 </resources>
