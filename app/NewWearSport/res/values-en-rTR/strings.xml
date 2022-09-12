@@ -51,7 +51,7 @@
     <string name="elliptical_in_progress">Eliptik ilerleme</string>
     <string name="person_achive">Personal Best</string>
     <string name="achive_share_sport">Share Activity</string>
-    <string name="achive_get_record_time">Achieved on 05/25/17</string>
+    <string name="achive_get_record_time">05/25/17 tarihinde alındı</string>
     <string name="achive_person_record">Personal Record</string>
     <string name="remind_target_calorie_title">Reached set calorie goal</string>
     <string name="remind_target_time_title">Reached set time goal</string>
@@ -208,8 +208,7 @@
     <string name="lap_add_failed">Lap is too short, cannot record this lap</string>
     <string name="sport_main_stop_this_sport">Stop current activity?</string>
     <string name="sport_history_delete_dialog_title">Delete this activity? You cannot recover this activity once deleted.</string>
-    <string name="sport_main_give_up_this_sport">"Discard this activity?
-"</string>
+    <string name="sport_main_give_up_this_sport">"Bu aktivite silinsin mi?"</string>
     <string name="sport_confirm_stop_sport">Evet</string>
     <string name="sport_confirm_not_stop_sport">Hayır</string>
     <string name="sport_main_am">AM</string>
@@ -279,8 +278,7 @@
     <string name="sport_stride_unit_imperial">in</string>
     <string name="end_last_sport_tips">Please stop %1$s activity first</string>
     <string name="export_route_trail">Dışa aktar</string>
-    <string name="sport_dlg_msg_hint_cancel">"Cancel this export?
-"</string>
+    <string name="sport_dlg_msg_hint_cancel">"Bu dışa aktarma iptal edilsin mi?"</string>
     <string name="exchange_prepare_riding">Next: Cycling</string>
     <string name="exchange_prepare_running">Next: Running</string>
     <string name="count_down_swim_tint">Yanlışlıkla dokunmayı önlemek için ekran kilitlenir.</string>
@@ -589,11 +587,13 @@
     <string name="real_time_target_finish">Reached your goal</string>
     <string name="real_time_guide_title_1">Good pace！</string>
     <string name="real_time_guide_title_2">Keep the pace!</string>
-    <string name="real_time_guide_title_3">"Increase the pace for effective results!"</string>
+    <string name="real_time_guide_title_3">"Etkili sonuçlar için hızı artırın!"</string>
     <string name="real_time_guide_title_6">Good pace！</string>
-    <string name="real_time_guide_title_7">"Increase the pace for more effective results!"</string>
+    <string name="real_time_guide_title_7">"
+Daha etkili sonuçlar için hızı artırın!"</string>
     <string name="real_time_guide_title_10">Good pace！</string>
-    <string name="real_time_guide_title_11">"Increase the pace for more effective results!"</string>
+    <string name="real_time_guide_title_11">"
+Daha etkili sonuçlar için hızı artırın!"</string>
     <string name="real_time_guide_title_14">Well done!</string>
     <string name="real_time_guide_title_22">Good pace！</string>
     <string name="real_time_guide_title_25">Increase the pace.</string>
@@ -606,17 +606,17 @@
     <string name="real_time_guide_title_33">Take it easy!</string>
     <string name="real_time_guide_title_34">Slow down!</string>
     <string name="real_time_guide_title_35">Take it easy!</string>
-    <string name="real_time_guide_desc_1">Come on! Very good!</string>
+    <string name="real_time_guide_desc_1">Devam et! Çok iyi!</string>
     <string name="real_time_guide_desc_2">%1$s more minutes to keep you fit</string>
-    <string name="real_time_guide_desc_3">Accelerate to achieve better exercise results</string>
-    <string name="real_time_guide_desc_6">%1$s more minutes will improve your fitness</string>
-    <string name="real_time_guide_desc_7">Accelerate to achieve better exercise results!</string>
-    <string name="real_time_guide_desc_10">%1$s more minutes for a very good effect on your fitness</string>
-    <string name="real_time_guide_desc_11">Accelerate to achieve better exercise results</string>
+    <string name="real_time_guide_desc_3">Daha iyi egzersiz sonuçları elde etmek için hızlandırın</string>
+    <string name="real_time_guide_desc_6">%1$s daha fazla dakika kondisyonunuzu geliştirecek</string>
+    <string name="real_time_guide_desc_7">Daha iyi egzersiz sonuçları elde etmek için hızlandırın!</string>
+    <string name="real_time_guide_desc_10">Kondisyonunuz üzerinde çok iyi bir etki için %1$s daha fazla dakika çalışın.</string>
+    <string name="real_time_guide_desc_11">Daha iyi egzersiz sonuçları elde etmek için hızlandırın</string>
     <string name="real_time_guide_desc_14">You have already completed a very good workout!</string>
     <string name="real_time_guide_desc_22">%1$s minutes to reach your goal!</string>
-    <string name="real_time_guide_desc_25">Target heart rate range is %1$s-%2$sbpm</string>
-    <string name="real_time_guide_desc_26">Come on! Run faster</string>
+    <string name="real_time_guide_desc_25">Hedef kalp atış ritmi %1$s-%2$sbpm</string>
+    <string name="real_time_guide_desc_26">Hadi! Daha hızlı koş!</string>
     <string name="real_time_guide_desc_27">You have reached your goal!</string>
     <string name="real_time_guide_desc_28">You achieved %1$s %% of your goal!</string>
     <string name="real_time_guide_desc_30">This type of exercise will keep you fit</string>
