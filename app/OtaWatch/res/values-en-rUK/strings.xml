@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings_item_high_light_scale_factor">0.5</string>
+    <string name="app_name">otawatch</string>
+    <string name="action_settings">Налаштування</string>
+    <string name="watch_ota">Оновлення годинника</string>
+    <string name="wifi_disconnect">Підключіться до програми Amazfit Watch, щоб перевірити оновлення</string>
+    <string name="connect_phone_wifi">"Перевірте мережеве з'єднання телефона, щоб перевірити оновлення"</string>
+    <string name="connect_phone_input_wifi">Підключіться до програми Amazfit Watch, щоб ввести пароль Wi-Fi для годинника</string>
+    <string name="wifi_add_item">Підключіться до програми Amazfit Watch, щоб додати нову точку Wi-Fi</string>
+    <string name="input_passwor_on_mobile">"Введіть пароль Wi-Fi
+у програмі Amazfit Watch"</string>
+    <string name="add_wifi">Додати Wi-Fi</string>
+    <string name="please_update_rom">"Доступне оновлення.
+Оновіть зараз."</string>
+    <string name="checking_rom">Пошук оновлень…</string>
+    <string name="checking_rom_failed">"Час очікування мережі минув.
+Спробуйте ще раз."</string>
+    <string name="current_is_new">Встановлено найновішу версію.</string>
+    <string name="has_new_rom_all">"Доступне оновлення.
+Прошивка годинника застаріла. Оновлення може тривати довго."</string>
+    <string name="has_new_rom">"Доступне оновлення.
+Оновити до версії %1$s?"</string>
+    <string name="processbar_downloading_rom">Завантаження…</string>
+    <string name="please_keep_wifi_connect">"Не відключайтеся від Wi-Fi"</string>
+    <string name="processbar_downloading_tips">%</string>
+    <string name="processbar_downloading_default">0</string>
+    <string name="download_rom_faild">"Не вдалося завантажити оновлення.
+Спробуйте ще раз."</string>
+    <string name="download_rom_success">"ROM успішно завантажено.
+Встановіть зараз."</string>
+    <string name="low_battery_message">"Оновлення завантажено.
+Для встановлення заряд батареї має бути не менше %1$s%%."</string>
+    <string name="low_battery_title">Підключіть зарядний пристрій</string>
+    <string name="progressbar_tips">Перевірка…</string>
+    <string name="progressbar_percent">%1$d%%</string>
+    <string name="low_mem">"Недостатньо пам'яті для оновлення.
+Звільніть %1$sМБ."</string>
+    <string name="update_network_error">"Не вдалося перевірити оновлення.
+Спробуйте пізніше."</string>
+    <string name="cancel_download">"Скасувати завантаження
+оновлень?"</string>
+    <string name="new_rom_please_install">"Доступне оновлення.
+Оновіть зараз."</string>
+    <string name="btn_install_later">Нагадати пізніше</string>
+    <string name="btn_install_now">Встановити зараз</string>
+    <string name="btn_upgrade_now">Оновити зараз</string>
+    <string name="wifi_no_password">Без шифрування</string>
+    <string name="wifi_has_password">Зашифровано</string>
+    <string name="wifi_password_error">Неправильний пароль</string>
+    <string name="wifi_connecting">Підключення…</string>
+    <string name="wifi_auth">Перевірка пароля…</string>
+    <string name="wifi_get_ip">Отримання IP-адреси…</string>
+    <string name="wifi_link_fail">"Не вдалося підключитися"</string>
+    <string name="wifi_connected">Підключено</string>
+    <string name="wifi_title">Підключення до Wi-Fi</string>
+    <string name="wifi_wait_password">Очікування пароля…</string>
+    <string name="toast_please_update_first">Спершу оновіть</string>
+    <string name="wifi_turnon_going">Увімкнення Wi-Fi…</string>
+    <string name="system_update_title">Оновлено успішно</string>
+    <string name="system_update_content">Оновлено до версії %1$s</string>
+    <string name="password_error">"Неправильний пароль Wi-Fi.
+Введіть ще раз."</string>
+    <string name="wifi_connect_fail">"Не вдається підключитися
+до цієї мережі Wi-Fi.
+Спробуйте іншу."</string>
+    <string name="searching">Пошук…</string>
+    <string name="hasNewUpdateTitle">Доступне оновлення</string>
+    <string name="hasNewUpdateInstallContent">Версія %1$s готова до встановлення. Встановити зараз?</string>
+    <string name="hasNewUpdateCheckContent">Доступна версія %1$s. Оновити зараз?</string>
+    <string name="update_title">Спосіб оновлення</string>
+    <string name="update_online">Оновлення OTA</string>
+    <string name="update_local">Локальний ZIP-файл</string>
+    <string name="local_update_confirm_1_title">Увага</string>
+    <string name="local_update_invalid_zip">Оновіть програму до найновішої версії</string>
+    <string name="local_update_confirm_1_msg">"Щоб нова версія працювала
+правильно, перед оновленням
+буде стерто всі дані.
+Зробіть резервну копію в програмі Amazfit Watch."</string>
+    <string name="local_update_confirm_2_msg">"Переконайтеся, що зробили
+резервну копію всіх даних.
+Оновлення зітре всі дані
+на годиннику. Продовжити?"</string>
+    <string name="OK">OK</string>
+    <string name="yes">Так</string>
+    <string name="no">Ні</string>
+    <string name="enter">OK</string>
+    <string name="cancel">Скасувати</string>
+    <string name="update_tips_0">Оновлення…</string>
+    <string name="update_tips_1">"Не вимикайте пристрій"</string>
+    <string name="average_text">Середнє</string>
+    <string name="menu_item_high_light_scale_factor">0.5</string>
+    <string name="picker_default_positive_text">Confirm</string>
+    <string name="picker_default_nagetive_text">Вимк.</string>
+    <string name="no_heartrate_data_hint">"Немає даних пульсу"</string>
+    <string name="no_altitude_hint">"Немає даних висоти"</string>
+    <string name="ui_lib_name">Hm_UILib</string>
+    <string name="title_settings">Налаштування</string>
+    <string name="sport_music_settings">Музика</string>
+    <string name="widget_currentstep_title">Дані</string>
+    <string name="widget_currentstep_activities">"Активність за сьогодні"</string>
+    <string name="widget_currentstep_sleep_hour">h</string>
+    <string name="widget_currentstep_sleep_min">min</string>
+    <string name="widget_currentstep_sleep_title">Сон минулої ночі</string>
+    <string name="widget_currentstep_sleep_no">Немає даних сну</string>
+    <string name="widget_currentstep_activity_no">Немає активності за сьогодні?</string>
+</resources>

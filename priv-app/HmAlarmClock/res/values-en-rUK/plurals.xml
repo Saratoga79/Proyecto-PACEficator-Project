@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="alarm_alert_snooze_set">
+        <item quantity="other">Відкладено на %d хвилини.</item>
+        <item quantity="one">Відкладено на 1 хвилину.</item>
+        <item quantity="few">Відкладено на %d хвилини.</item>
+        <item quantity="many">Відкладено на %d хвилин.</item>
+    </plurals>
+    <plurals name="Nhours_description">
+        <item quantity="other">%d години</item>
+        <item quantity="one">1 година</item>
+        <item quantity="few">%d години</item>
+        <item quantity="many">%d годин</item>
+    </plurals>
+    <plurals name="Nminutes_description">
+        <item quantity="other">%d хвилини</item>
+        <item quantity="one">1 хвилина</item>
+        <item quantity="few">%d хвилини</item>
+        <item quantity="many">%d хвилин</item>
+    </plurals>
+    <plurals name="Nseconds_description">
+        <item quantity="other">%d секунди</item>
+        <item quantity="one">1 секунда</item>
+        <item quantity="few">%d секунди</item>
+        <item quantity="many">%d секунд</item>
+    </plurals>
+</resources>

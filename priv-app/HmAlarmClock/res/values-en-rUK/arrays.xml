@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="day_of_weak">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </integer-array>
+    <string-array name="spring_depend">
+        <item>com.huami.watch.deskclock/com.huami.watch.deskclock.AlarmClockWidget</item>
+        <item>com.huami.watch.deskclock/com.huami.watch.deskclock.stopwatch.StopWatchWidget</item>
+        <item>com.huami.watch.deskclock/com.huami.watch.deskclock.countdown.CountdownWidget</item>
+    </string-array>
+    <string-array name="alarm_set">
+        <item>Будильник спрацює менш ніж за 1 хвилину.</item>
+        <item>Будильник спрацює через %1$s.</item>
+        <item>Будильник спрацює через %2$s.</item>
+        <item>Будильник спрацює через %1$s і %2$s.</item>
+        <item>Будильник спрацює через %3$s.</item>
+        <item>Будильник спрацює через %1$s і %3$s.</item>
+        <item>Будильник спрацює через %2$s і %3$s.</item>
+        <item>Будильник спрацює через %1$s, %2$s і %3$s.</item>
+    </string-array>
+    <string-array name="repeat_description">
+        <item>Одноразово</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+        <item>Нд</item>
+    </string-array>
+    <string-array name="short_week_days">
+        <item></item>
+        <item>Нд</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+    </string-array>
+    <string-array name="stopwatch_format_set">
+        <item>%2$02d:%3$02d.%4$02d</item>
+        <item>%2$02d:%3$02d.%4$02d</item>
+        <item>%1$02d:%2$02d:%3$02d.%4$02d</item>
+        <item>%1$02d:%2$02d:%3$02d.%4$02d</item>
+        <item>%1$03d:%2$02d:%3$02d.%4$02d</item>
+    </string-array>
+    <string-array name="sw_lap_number_set">
+        <item>\# %d</item>
+        <item>\# %02d</item>
+    </string-array>
+    <string-array name="am_pm">
+        <item>AM</item>
+        <item>PM</item>
+    </string-array>
+</resources>
