@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="localapps">
+        <item>com.huami.watch.launcher</item>
+        <item>com.huami.watch.sport</item>
+    </string-array>
+    <integer-array name="appcolors">
+        <item>0xFF4160F5</item>
+        <item>0xFFF76C00</item>
+    </integer-array>
+    <array name="appload_drawables">
+        <item>-1</item>
+        <item>@drawable/sport_start_loading</item>
+    </array>
+    <string-array name="chatlables">
+        <item>com.tencent.mm</item>
+        <item>com.tencent.mobileqq</item>
+        <item>com.android.mms</item>
+    </string-array>
+    <string-array name="quick_settings_status_week">
+        <item>Нд</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+        <item>Сьогодні</item>
+    </string-array>
+    <string-array name="quick_settings_status_principleTerm">
+        <item>Сильний холод</item>
+        <item>Дощі</item>
+        <item>Весняне рівнодення</item>
+        <item>Хлібний дощ</item>
+        <item>Наливання зерна</item>
+        <item>Літнє сонцестояння</item>
+        <item>Сильна жара</item>
+        <item>Припинення тепла</item>
+        <item>Осіннє рівнодення</item>
+        <item>Падає морозний іній</item>
+        <item>Легкий сніг</item>
+        <item>Зимове сонцестояння</item>
+    </string-array>
+    <string-array name="quick_settings_status_sectionalTerm">
+        <item>Трішки холодно</item>
+        <item>Початок весни</item>
+        <item>Комахи прокидаються</item>
+        <item>Ясно і світло</item>
+        <item>Літо починається</item>
+        <item>Колосіння</item>
+        <item>Трішки тепло</item>
+        <item>Осінь починається</item>
+        <item>Біла роса</item>
+        <item>Холодна роса</item>
+        <item>Зима починається</item>
+        <item>Сильний сніг</item>
+    </string-array>
+    <string-array name="quick_settings_status_chineseTen">
+        <item>Chu</item>
+        <item>Shi</item>
+        <item>Er</item>
+        <item>San</item>
+    </string-array>
+    <string-array name="quick_settings_status_chineseNumber">
+        <item>Yi</item>
+        <item>Er</item>
+        <item>San</item>
+        <item>Si</item>
+        <item>Wu</item>
+        <item>Liu</item>
+        <item>Qi</item>
+        <item>Ba</item>
+        <item>Jiu</item>
+        <item>Shi</item>
+        <item>ShiYi</item>
+        <item>ShiEr</item>
+    </string-array>
+    <string-array name="jazzy_effects">
+        <item>Standard</item>
+        <item>Tablet</item>
+        <item>CubeIn</item>
+        <item>CubeOut</item>
+        <item>FlipVertical</item>
+        <item>FlipHorizontal</item>
+        <item>Stack</item>
+        <item>ZoomIn</item>
+        <item>ZoomOut</item>
+        <item>RotateUp</item>
+        <item>RotateDown</item>
+        <item>Accordion</item>
+    </string-array>
+    <string-array name="sort_a1602">
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportOne</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportTwo</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportFive</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportEight</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportSeven</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportThree</item>
+        <item>com.huami.watch.watchface.DigitalSport4WatchFace</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportSix</item>
+        <item>com.huami.watch.watchface.SunriseDigitalWatchFace</item>
+        <item>com.huami.watch.watchface.CubeDigitalWatchFace</item>
+        <item>com.huami.watch.watchface.GreenAnalogWatchFace</item>
+        <item>com.huami.watch.watchface.AnalogWatchFaceNine</item>
+        <item>com.huami.watch.watchface.AnalogWatchFaceTen</item>
+        <item>com.huami.watch.watchface.AnalogWatchFaceEleven</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportTwelve</item>
+        <item>com.huami.watch.watchface.AnalogWatchFaceThirteen</item>
+        <item>com.huami.watch.watchface.AnalogWatchFaceFourteen</item>
+        <item>wfzeacf94.wfz</item>
+    </string-array>
+    <string-array name="sort_a1612">
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportOne</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportTwo</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportFive</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportEight</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportSeven</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportThree</item>
+        <item>com.huami.watch.watchface.DigitalSport4WatchFace</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportSix</item>
+        <item>com.huami.watch.watchface.SunriseDigitalWatchFace</item>
+        <item>com.huami.watch.watchface.CubeDigitalWatchFace</item>
+        <item>com.huami.watch.watchface.GreenAnalogWatchFace</item>
+        <item>com.huami.watch.watchface.AnalogWatchFaceNine</item>
+        <item>com.huami.watch.watchface.AnalogWatchFaceTen</item>
+        <item>com.huami.watch.watchface.AnalogWatchFaceEleven</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportTwelve</item>
+        <item>com.huami.watch.watchface.AnalogWatchFaceThirteen</item>
+        <item>com.huami.watch.watchface.AnalogWatchFaceFourteen</item>
+        <item>wfzeacf94_us.wfz</item>
+    </string-array>
+    <string-array name="sort_a1619">
+        <item>com.huami.watch.watchface.AnalogWatchFaceSixteen</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportSeventeen</item>
+        <item>wfzd0b8cb.wfz</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportTwo</item>
+        <item>wfz03c6c7_us.wfz</item>
+        <item>wfzeacf94_us.wfz</item>
+        <item>wfzb33179.wfz</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportTwenty</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportNineteen</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportEighteen</item>
+        <item>wfz58ac65.wfz</item>
+        <item>wfz95a54c.wfz</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportOne</item>
+        <item>wfz3897e9.wfz</item>
+    </string-array>
+    <string-array name="weather_card_aqilevel">
+        <item>Відмінна</item>
+        <item>Добра</item>
+        <item>Легке забруднення</item>
+        <item>Помірне забруднення</item>
+        <item>Сильне забруднення</item>
+        <item>Дуже сильне забруднення</item>
+        <item></item>
+    </string-array>
+    <string-array name="weather_card_quality">
+        <item>Підходить для тренувань</item>
+        <item>Не для тренувань</item>
+        <item></item>
+    </string-array>
+    <string-array name="quick_settings_status_weather">
+        <item>Ясно</item>
+        <item>Хмарно</item>
+        <item>Похмуро</item>
+        <item>Туман</item>
+        <item>Імла</item>
+        <item>Злива</item>
+        <item>Гроза</item>
+        <item>Невеликий дощ</item>
+        <item>Помірний дощ</item>
+        <item>Сильний дощ</item>
+        <item>Злива</item>
+        <item>Сильна злива</item>
+        <item>Дощ зі снігом</item>
+        <item>Крижаний дощ</item>
+        <item>Град</item>
+        <item>Невеликий сніг</item>
+        <item>Помірний сніг</item>
+        <item>Сильний сніг</item>
+        <item>Хуртовина</item>
+        <item>Сніг</item>
+        <item>Пил</item>
+        <item>Піщана буря</item>
+        <item>Піщана буря</item>
+        <item>Сильна піщана буря</item>
+        <item>Немає даних</item>
+    </string-array>
+    <string-array name="sport_te_desc_array">
+        <item>sport_te_desc_level_01</item>
+        <item>sport_te_desc_level_02</item>
+        <item>sport_te_desc_level_03</item>
+        <item>sport_te_desc_level_04</item>
+        <item>sport_te_desc_level_05</item>
+        <item>sport_te_desc_level_06</item>
+    </string-array>
+    <string-array name="first_beat_sport_guide_remind_txt_list">
+        <item>first_beat_remind_txt_01</item>
+        <item>first_beat_remind_txt_02</item>
+    </string-array>
+    <string-array name="first_beat_sport_guide_remind_img_list">
+        <item>sport_medal_07_grey</item>
+        <item>sport_medal_08_grey</item>
+    </string-array>
+    <string-array name="sport_target_remind_title_list">
+        <item>sport_target_remind_title_01</item>
+    </string-array>
+    <string-array name="sport_target_remind_desc_list">
+        <item>sport_target_remind_desc_01</item>
+    </string-array>
+    <string-array name="dally_performence_level_status">
+        <item>Втома</item>
+        <item>Середній</item>
+        <item>Добрий</item>
+    </string-array>
+    <string-array name="vo2_max_level_status">
+        <item>Дуже низький</item>
+        <item>Задовільний</item>
+        <item>Низький</item>
+        <item>Середній</item>
+        <item>Добрий</item>
+        <item>Дуже добрий</item>
+        <item>Відмінний</item>
+    </string-array>
+    <string-array name="spring_depend">
+        <item>com.huami.watch.newsport/com.huami.watch.newsport.widget.SportWidget</item>
+        <item>com.huami.watch.newsport/com.huami.watch.newsport.widget.SportHistoryWidget</item>
+        <item>com.huami.watch.newsport/com.huami.watch.newsport.widget.SportLauncherWidget</item>
+    </string-array>
+    <string-array name="sort_a1609">
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportOne</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportTwo</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportFive</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportEight</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportSeven</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportThree</item>
+        <item>com.huami.watch.watchface.DigitalSport4WatchFace</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportSix</item>
+        <item>com.huami.watch.watchface.SunriseDigitalWatchFace</item>
+        <item>com.huami.watch.watchface.CubeDigitalWatchFace</item>
+        <item>com.huami.watch.watchface.GreenAnalogWatchFace</item>
+        <item>com.huami.watch.watchface.AnalogWatchFaceNine</item>
+        <item>com.huami.watch.watchface.AnalogWatchFaceTen</item>
+        <item>com.huami.watch.watchface.AnalogWatchFaceEleven</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportTwelve</item>
+        <item>com.huami.watch.watchface.AnalogWatchFaceThirteen</item>
+        <item>com.huami.watch.watchface.AnalogWatchFaceFourteen</item>
+        <item>wfzeacf94.wfz</item>
+        <item>com.huami.watch.watchface.AnalogWatchFaceSixteen</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportSeventeen</item>
+        <item>wfzd0b8cb.wfz</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportTwo</item>
+        <item>wfz03c6c7_us.wfz</item>
+        <item>wfzeacf94_us.wfz</item>
+        <item>wfzb33179.wfz</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportTwenty</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportNineteen</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportEighteen</item>
+        <item>wfz58ac65.wfz</item>
+        <item>wfz95a54c.wfz</item>
+        <item>com.huami.watch.watchface.DigitalWatchFaceSportOne</item>
+        <item>wfz3897e9.wfz</item>
+    </string-array>
+</resources>

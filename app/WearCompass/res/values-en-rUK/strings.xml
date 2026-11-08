@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Компас</string>
+    <string name="action_settings">Налаштування</string>
+    <string name="latitude">Широта</string>
+    <string name="longitude">Довгота</string>
+    <string name="north_latitude">Пн. ш.</string>
+    <string name="south_latitude">Пд. ш.</string>
+    <string name="east_longitude">Сх. д.</string>
+    <string name="west_longitude">Зх. д.</string>
+    <string name="altitude">Висота (м)</string>
+    <string name="altitude_ft">Висота (фут)</string>
+    <string name="atmospheric_pressure">Тиск (гПа)</string>
+    <string name="ori_north">N</string>
+    <string name="ori_northeast">ПнСх</string>
+    <string name="ori_east">E</string>
+    <string name="ori_southeast">ПдСх</string>
+    <string name="ori_south">S</string>
+    <string name="ori_southwest">ПдЗх</string>
+    <string name="ori_west">W</string>
+    <string name="ori_northwest">ПнЗх</string>
+    <string name="correcting">Калібрування</string>
+    <string name="correcting_line1">Повертайте зап’ясток,</string>
+    <string name="correcting_line2">щоб котити кульку</string>
+    <string name="value_default">-</string>
+    <string name="loading">Завантаження</string>
+    <string name="degree">°</string>
+    <string name="zero">0.00</string>
+    <string name="latitude_longitude_value_format_str">%1$s°%2$s′%3$s″</string>
+    <string name="gps_tip">"Не вдалося завантажити дані. Спробуйте надворі."</string>
+    <string name="confirm">Confirm</string>
+    <string name="unknown">--</string>
+    <string name="compass_roll_tip">"Тримайте годинник циферблатом
+вгору горизонтально."</string>
+</resources>

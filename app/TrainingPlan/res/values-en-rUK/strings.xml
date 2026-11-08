@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="string" name="settings_item_high_light_scale_factor">0.5</item>
+    <string name="locale_title">Виберіть мову</string>
+    <string name="app_name">Тренувальний центр</string>
+    <string name="app_train_center">Тренувальний центр</string>
+    <string name="my_train">Мої тренування</string>
+    <string name="please_select_train_plan">Виберіть тренування</string>
+    <string name="start_new_train">Почати нове тренування</string>
+    <string name="train_center">Тренувальний центр</string>
+    <string name="train_detail">Деталі</string>
+    <string name="day_train_record_stag">%1$s | Тиждень %2$d | День %3$d</string>
+    <string name="day_train_record_stag_simple">Тиждень %1$d | День %2$d</string>
+    <string name="day_train_record_train_stage">День %1$s</string>
+    <string name="remind_train_first_text">"Тренування з планом покращать
+ваш біг. Почнімо!"</string>
+    <string name="train_start">Почати</string>
+    <string name="hidtory_train_start_date">Початок %1$s</string>
+    <string name="hidtory_train_end_date">Кінець %1$s</string>
+    <string name="train_detail_number_weekly">Тиждень %1$d</string>
+    <string name="day_train_status_done">(Виконано)</string>
+    <string name="train_record_complete_percent">Виконано</string>
+    <string name="day_train_record_status_finish">Готово</string>
+    <string name="day_train_record_statis_un_finish">Не виконано</string>
+    <string name="dialog_day_train_plan_is_complete">"Позначити сьогоднішнє тренування як виконане?"</string>
+    <string name="dialog_delete_history_record">Видалити цей запис назавжди?</string>
+    <string name="dialog_train_plan_is_complete">Завершення тренування зупинить і відстеження прогресу. Все одно завершити?</string>
+    <string name="last_day_rest_remind">Тренування скоро завершиться. | Візьміть вихідний для відновлення.</string>
+    <string name="cancel">Ні</string>
+    <string name="enter">Так</string>
+    <string name="dialog_delete">Видалити</string>
+    <string name="day_train_plan_record_marked">Позначити</string>
+    <string name="train_plan_recode_finished">Завершити</string>
+    <string name="train_mileage">Загальна дистанція (км)</string>
+    <string name="train_mileage_mils">Загальна дистанція (милі)</string>
+    <string name="train_days">Днів тренувань</string>
+    <string name="train_finish">Завершити тренування</string>
+    <string name="train_finished">Тренування завершено</string>
+    <string name="today">Сьогодні</string>
+    <string name="train_complete_rate">Рівень виконання</string>
+    <string name="assing_train_plan">%1$s</string>
+    <string name="train_plan_already_assgn">Налаштовано</string>
+    <string name="notification_title">Тренувальний центр</string>
+    <string name="notificaiton_train_content">"Сьогоднішнє тренування ще не виконано. Так тримати!"</string>
+    <string name="this_train_record_finish">Цей план тренувань завершено.</string>
+    <string name="train_finish_reason">Причина завершення</string>
+    <string name="length_unit_km">км</string>
+    <string name="length_unit_miles">миль</string>
+    <string name="unit_yinli">миль</string>
+    <string name="unit_gongli">км</string>
+    <string name="app_list_title">Тренувальний центр</string>
+    <string name="categorytitlenewroad">Початківець</string>
+    <string name="categorytitle5km">5 км</string>
+    <string name="categorytitle10km">10 км</string>
+    <string name="categorytitlebanma">Напівмарафон</string>
+    <string name="categorytitlequanma">Марафон</string>
+    <string name="categorycopywritenewroad">Для тих, хто звик ходити або повільно бігати. Це тренування допоможе поступово звикнути до бігу.</string>
+    <string name="categorycopywrite5km">Для початківців. Це тренування допоможе підтримувати форму.</string>
+    <string name="categorycopywrite10km">Для досвідчених бігунів. Це тренування допоможе підвищити аеробний поріг і зміцнити м\'язи.</string>
+    <string name="categorycopywritebanma">Для бігунів на напівмарафон. Це тренування допоможе довго тримати темп.</string>
+    <string name="categorycopywritequanma">Для марафонців. Це тренування допоможе перевірити форму та скоригувати стратегію.</string>
+    <string name="wirtecopyrun">Біг</string>
+    <string name="fartlek">Фартлек</string>
+    <string name="joggingrun">Легкий біг</string>
+    <string name="baserun">Базовий біг</string>
+    <string name="recoveryrun">Відновлювальний біг</string>
+    <string name="advancedrun">Просунутий біг</string>
+    <string name="hillrun">Біг по пагорбах</string>
+    <string name="temporun">Темповий біг</string>
+    <string name="intermittentrunshort">Інтервальний біг (короткий цикл)</string>
+    <string name="intermittentrunlong">Інтервальний біг (довгий цикл)</string>
+    <string name="rest">День відпочинку</string>
+    <string name="swim">Плавання</string>
+    <string name="ride">Велосипед</string>
+    <string name="basetrain">Базове тренування</string>
+    <string name="reductionstage">Фаза відновлення</string>
+    <string name="targetedstage">Цільова фаза</string>
+    <string name="baserun3.2km">Базовий біг 3,2 км</string>
+    <string name="baserun4.8km">Базовий біг 4,8 км</string>
+    <string name="baserun6.5km">Базовий біг 6,5 км</string>
+    <string name="baserun8.0km">Базовий біг 8 км</string>
+    <string name="baserun9.7km">Базовий біг 9,7 км</string>
+    <string name="slopingrun4.8km">Біг по пагорбах 4,8 км</string>
+    <string name="slopingrun6.5km">Біг по пагорбах 6,5 км</string>
+    <string name="slopingrun8.0km">Біг по пагорбах 8 км</string>
+    <string name="slopingrun9.7km">Біг по пагорбах 9,7 км</string>
+    <string name="slopingrun16km">Біг по пагорбах 16 км</string>
+    <string name="slopingrun20.9km">Біг по пагорбах 20,9 км</string>
+    <string name="basefartlek3.2km">Фартлек 3,2 км</string>
+    <string name="basefartlek4.8km">Фартлек 4,8 км</string>
+    <string name="basefartlek6.5km">Фартлек 6,5 км</string>
+    <string name="basefartlek14.5km">Фартлек 14,5 км</string>
+    <string name="basefartlek16km">Фартлек 16 км</string>
+    <string name="basefartlek19.3km">Фартлек 19,3 км</string>
+    <string name="basefartlek24.1km">Фартлек 24,1 км</string>
+    <string name="basefartlek28.9km">Фартлек 28,9 км</string>
+    <string name="basefartlek32.1km">Фартлек 32,1 км</string>
+    <string name="ride20to30m">Велосипед 20–30 хв</string>
+    <string name="swim20to30m">Плавання 20–30 хв</string>
+    <string name="recoveryrun3.2km">Відновлювальний біг 3,2 км</string>
+    <string name="recoveryrun4.8km">Відновлювальний біг 4,8 км</string>
+    <string name="recoveryrun6.5km">Відновлювальний біг 6,5 км</string>
+    <string name="intervalrunshort6.4km">Інтервальний біг (короткий) 6,4 км</string>
+    <string name="intervalrunshort4.8km">Інтервальний біг (короткий) 4,8 км</string>
+    <string name="intervalrunshort8.0km">Інтервальний біг (короткий) 8 км</string>
+    <string name="intervalrunlong9.6km">Інтервальний біг (довгий) 9,6 км</string>
+    <string name="intervalrunlong12.8km">Інтервальний біг (довгий) 12,8 км</string>
+    <string name="joggingrun2.0km">Легкий біг 2 км</string>
+    <string name="joggingrun2.4km">Легкий біг 2,4 км</string>
+    <string name="joggingrun2.8km">Легкий біг 2,8 км</string>
+    <string name="joggingrun3.2km">Легкий біг 3,2 км</string>
+    <string name="joggingrun4km">Легкий біг 4 км</string>
+    <string name="joggingrun4.4km">Легкий біг 4,4 км</string>
+    <string name="joggingrun5km">Легкий біг 5 км</string>
+    <string name="advancedrun3.2km">Просунутий біг 3,2 км</string>
+    <string name="advancedrun4.8km">Просунутий біг 4,8 км</string>
+    <string name="advancedrun9.7km">Просунутий біг 9,7 км</string>
+    <string name="advancedrun8.0km">Просунутий біг 8 км</string>
+    <string name="temporun4.8km">Темповий біг 4,8 км</string>
+    <string name="temporun6.5km">Темповий біг 6,5 км</string>
+    <string name="temporun8.0km">Темповий біг 8 км</string>
+    <string name="temporun9.1km">Темповий біг 9,1 км</string>
+    <string name="temporun9.7km">Темповий біг 9,7 км</string>
+    <string name="finish5km">Пробігти 5 км</string>
+    <string name="finish10km">Пробігти 10 км</string>
+    <string name="finish13.2km">Пробігти 13,2 км</string>
+    <string name="finishbanma21.2km">Пробігти 21,2 км</string>
+    <string name="finishbanma42.5km">Пробігти 42,5 км</string>
+    <string name="runcopywrite1">Біжіть 800 м і йдіть 200 м — це один цикл. Тримайте пульс у зоні %1$d–%2$d уд/хв.</string>
+    <string name="runcopywrite2">Біжіть легким бігом усе тренування. Тримайте пульс у зоні %1$d–%2$d уд/хв.</string>
+    <string name="runcopywrite3">Біжіть у комфортному для вас темпі. Тримайте пульс у зоні %1$d–%2$d уд/хв.</string>
+    <string name="runcopywrite4">Біжіть у комфортному темпі, потім прискортеся. Тримайте пульс у зоні %1$d–%2$d уд/хв.</string>
+    <string name="runcopywrite5">Чергуйте інтервали різної інтенсивності. Тримайте пульс у зоні %1$d–%2$d уд/хв.</string>
+    <string name="runcopywrite6">Виберіть місцевість зі схилами. Тримайте пульс у зоні %1$d–%2$d уд/хв.</string>
+    <string name="runcopywrite7">Тримайте стабільну швидкість і пульс у зоні %1$d–%2$d уд/хв.</string>
+    <string name="runcopywrite8">Біжіть 800 м і йдіть 800 м — це один цикл. Тримайте пульс у зоні %1$d–%2$d уд/хв.</string>
+    <string name="runcopywrite9">Біжіть 2,4 км і йдіть 800 м — це один цикл. Тримайте пульс у зоні %1$d–%2$d уд/хв.</string>
+    <string name="runcopywrite10">Сьогодні відпочиньте. Наступне тренування — через %1$d дн.</string>
+    <string name="runcopywrite11">Плавання допомагає відновити сили. Торкніться тут після тренування.</string>
+    <string name="runcopywrite12">Це тренування допоможе підвищити рівень і відновити сили. Тримайте пульс у зоні %1$d–%2$d уд/хв.</string>
+    <string name="average_text">Середнє</string>
+    <string name="menu_item_high_light_scale_factor">0.5</string>
+    <string name="picker_default_positive_text">ОК</string>
+    <string name="picker_default_nagetive_text">Вимк.</string>
+    <string name="no_heartrate_data_hint">"Немає даних про пульс"</string>
+    <string name="no_altitude_hint">"Немає даних про висоту"</string>
+    <string name="ui_lib_name">Hm_UILib</string>
+    <string name="title_settings">Налаштування</string>
+    <string name="sport_music_settings">Музика</string>
+    <string name="widget_currentstep_title">Дані</string>
+    <string name="widget_currentstep_activities">"Активність за сьогодні"</string>
+    <string name="widget_currentstep_sleep_hour">h</string>
+    <string name="widget_currentstep_sleep_min">min</string>
+    <string name="widget_currentstep_sleep_title">Сон минулої ночі</string>
+    <string name="widget_currentstep_sleep_no">Немає даних про сон</string>
+    <string name="widget_currentstep_activity_no">Сьогодні без активності?</string>
+    <item type="string" name="APKTOOL_DUMMY_89">false</item>
+    <item type="string" name="APKTOOL_DUMMY_8a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_8b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_8c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_8d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_8e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_8f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_90">false</item>
+    <item type="string" name="APKTOOL_DUMMY_91">false</item>
+    <item type="string" name="APKTOOL_DUMMY_92">false</item>
+    <item type="string" name="APKTOOL_DUMMY_93">false</item>
+    <item type="string" name="APKTOOL_DUMMY_94">false</item>
+    <item type="string" name="APKTOOL_DUMMY_95">false</item>
+    <item type="string" name="APKTOOL_DUMMY_96">false</item>
+    <item type="string" name="APKTOOL_DUMMY_97">false</item>
+    <item type="string" name="APKTOOL_DUMMY_98">false</item>
+    <item type="string" name="APKTOOL_DUMMY_99">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_aa">false</item>
+    <item type="string" name="APKTOOL_DUMMY_ab">false</item>
+    <item type="string" name="APKTOOL_DUMMY_ac">false</item>
+    <item type="string" name="APKTOOL_DUMMY_ad">false</item>
+    <item type="string" name="APKTOOL_DUMMY_ae">false</item>
+    <item type="string" name="APKTOOL_DUMMY_af">false</item>
+    <item type="string" name="APKTOOL_DUMMY_b0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_b1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_b2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_b3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_b4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_b5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_b6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_b7">false</item>
+</resources>
